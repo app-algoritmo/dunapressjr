@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 ## Pacientes que fazem tratamento para as síndromes de Dravet, Lennox-Gastaut e para Esclerose Tuberosa serão os primeiros a terem acesso.
 
-[](http://www.facebook.com/sharer.php?u=https://www.saopaulo.sp.gov.br/ultimas-noticias/governo-de-sp-regulamenta-lei-que-permite-distribuicao-de-remedios-a-base-de-canabidiol/)[](https://twitter.com/share?url=https://www.saopaulo.sp.gov.br/ultimas-noticias/governo-de-sp-regulamenta-lei-que-permite-distribuicao-de-remedios-a-base-de-canabidiol/)[](https://api.whatsapp.com/send?text=https://www.saopaulo.sp.gov.br/ultimas-noticias/governo-de-sp-regulamenta-lei-que-permite-distribuicao-de-remedios-a-base-de-canabidiol/)[](mailto:https://www.saopaulo.sp.gov.br/ultimas-noticias/governo-de-sp-regulamenta-lei-que-permite-distribuicao-de-remedios-a-base-de-canabidiol/)
+[](mailto:https://www.saopaulo.sp.gov.br/ultimas-noticias/governo-de-sp-regulamenta-lei-que-permite-distribuicao-de-remedios-a-base-de-canabidiol/)
 
 O Governo de SP publicou nesta terça-feira (26) a regulamentação da lei que prevê o fornecimento de remédios à base de cannabis medicinal pelo Sistema Único de Saúde (SUS) em todo o Estado. De acordo a secretaria de estado da Saúde, pacientes que fazem tratamento para as síndromes de Dravet, Lennox-Gastaut e para Esclerose Tuberosa serão os primeiros a ter acesso aos novos fármacos.
 

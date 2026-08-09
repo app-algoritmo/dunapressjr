@@ -7,7 +7,6 @@ categories:
 - Chronicle
 ---
 
-
 **ATUALIZAÇÃO DOS DESCALABROS**
 
 **EDIÇÃO DE 09/03/2022******
@@ -26,7 +25,7 @@ categories:
 
 Estudiosos afirmam que a quarentena e estado de calamidade provocada por COVID-19 irá desaparecer muito antes do calendário previsto, conforme veremos.
 
-Confirmado o que informamos anteriormente: A cada instante recebemos mais provas do ‘modus operandi’ de governantes, que é o foco desta matéria. 
+Confirmado o que informamos anteriormente: A cada instante recebemos mais provas do ‘modus operandi’ de governantes, que é o foco desta matéria.
 
 Veja em cada cena (e jogo de cena) o cumprimento dos fatos.
 
@@ -45,15 +44,15 @@ Nota oficial, na íntegra:
 
 [Nota oficial do Governo do Estado de SP – 09/03/2022 - liberação de uso máscaras em locais abertos](https://www.saopaulo.sp.gov.br/noticias-coronavirus/governo-do-estado-de-sp-anuncia-liberacao-de-uso-mascaras-em-locais-abertos/)
 
-Só no Estado de São Paulo, o chefe do executivo quer garantir o domínio de cabresto dos 645 municípios e ter certeza de contar com o expressivo apoio dos prefeitos. 
+Só no Estado de São Paulo, o chefe do executivo quer garantir o domínio de cabresto dos 645 municípios e ter certeza de contar com o expressivo apoio dos prefeitos.
 
 Quando é para aumentar o número de contaminados, ocupação de UTI e óbitos, sabem como fazer os números crescerem. Da mesma forma, quando o interesse é inverso, liberar geral, mesmo que sob palavras de cautela, as subnotificações serão o alvo da vez para sustentar as decisões dos "supremos senhores".
 
-Para tal, não faltarão medidas e agentes jurídicos do Estado, para "fazer com que o apoio aconteça" nas campanhas, custe o que custar, por meio de metas e ações que, se não cumpridas pelo prefeito, desqualificam o município (tiram entradas e recursos financeiros). 
+Para tal, não faltarão medidas e agentes jurídicos do Estado, para "fazer com que o apoio aconteça" nas campanhas, custe o que custar, por meio de metas e ações que, se não cumpridas pelo prefeito, desqualificam o município (tiram entradas e recursos financeiros).
 
 É dessa forma que tem ocorrido nos últimos meses e anos, conforme observamos fortes protestos e queixas de comarcas que pensam de modo diferente do senhor governador.
 
-Nessa mesma dinâmica trabalha a maioria dos governadores e prefeitos. 
+Nessa mesma dinâmica trabalha a maioria dos governadores e prefeitos.
 
 Fonte: Governo do Estado de São Paulo - Coletiva de Imprensa – Governador e equipe – 09/03/2022 | Cena típica de político abraçando populares pobres ou carregando crianças "catarrentas" em feira-livre | Junto a eles centenas de "aspones" e seguranças pagos com o dinheiro público | Mostram-se peritos em ludibriar ignorantes e pessoas simples, fingindo afeto e importância, nada além de estratégia para arrancar aplausos e votos | Ilustração: Dan Berg
 
@@ -73,7 +72,7 @@ Fontes ligadas à Secretária Estadual da Saúde de São Paulo confirmam que, a 
 
 **Tão circense o governo que pretende aproveitar a entrevista coletiva no jardim do Palácio dos Bandeirantes para fazer o anúncio e, PASME: membros do governo irão retirar as máscaras em público, diante das câmeras. Não são umas fofuras? CONFIRA SE FARÃO OU NÃO ISSO!**
 
-Quer saber quem são os cabeças do Comitê (pró)Covid de São Paulo? Simples: envie-me uma mensagem e solicite pelo mesmo caminho por meio do qual recebeu esta publicação. Teremos o maior prazer em informar quem são os especialistas (em política) responsáveis pelas questões 'çientíficaz' de Sampa. 
+Quer saber quem são os cabeças do Comitê (pró)Covid de São Paulo? Simples: envie-me uma mensagem e solicite pelo mesmo caminho por meio do qual recebeu esta publicação. Teremos o maior prazer em informar quem são os especialistas (em política) responsáveis pelas questões 'çientíficaz' de Sampa.
 
 Você vai se abismar por conhecer quase todas as figurinhas carimbadas... só não sabia que seriam eles as autoridades técnicas do pandemônio.
 
@@ -97,7 +96,7 @@ Agora, tudo será cumprido, palavra por palavra. Conforme prometido, não haver�
 
 Como sempre, políticos terão mais poder de modificação do cenário global, muito acima de médicos e cientistas. “Podem acreditar em todos eles!”.
 
-O placar já inspira grandes jogos por todo o país: 
+O placar já inspira grandes jogos por todo o país:
 
 **COVID   19    X    20   ELEIÇÕES**
 
@@ -107,8 +106,6 @@ O placar já inspira grandes jogos por todo o país:
 
 **DA SÉRIE: *Comitia Curiata*: Isso é... República Paralamentar! Adaptação de fatos da vida real em linguagem satírica. Todos os personagens são simplesmente imaginários.**
 
-[](https://dunapress.org/subscription-plan/?ref=danberg1000)
-
 Quando começamos o **Press Periódico** para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! **Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!**
 
-https://dunapress.org/subscription-plan/?ref=barrosprojectmanager
+https://dunapress.org/subscription-plan/

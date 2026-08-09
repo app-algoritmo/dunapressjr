@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Viabilidade de produção das propostas será analisada por parceira da iniciativa.
 
 Soluções para ajudar os pais a protegerem seus filhos da infecção causada pela Covid-19 estão sendo desenvolvidas por professores e estudantes do curso de Design de Produtos da Universidade Federal do Paraná (UFPR), que tem uma rede articulada de combate à doença.
@@ -32,4 +31,4 @@ Os produtos devem ser reproduzidos por meio das parcerias e deixado em domínio 
 
 Fonte: gov.br/mec / Imagem em destaque: pfarma.com.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando [AQUI](https://dunapress.org/?aff=Leonardo).**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando [AQUI](https://dunapress.org/).**

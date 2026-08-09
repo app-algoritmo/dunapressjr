@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 Reduzir o número de animais nas ruas e promover o acesso às ações de castração. Essa foi a motivação para as pesquisadoras Vanessa Nicolau de Lima, doutoranda no Programa de Pós-Graduação em Biologia Animal, e Juliana Lis Mendes de Brito, pós-doutoranda pelo mesmo programa, desenvolverem um método de castração rápido e não cirúrgico para cães e gatos. Ambas são bolsistas da CAPES.
 
 Método de castração não cirúrgica para cães e gatos (Foto: Jivago, J.L.P.R.; Brito)
@@ -31,7 +30,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

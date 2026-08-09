@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A meta era alcançar 90%. O Ministério da Saúde recomendou aos estados e municípios a estenderem a vacinação para toda a população até quando durarem os estoques da vacina.
 
 A Campanha Nacional de Vacinação contra a Gripe alcançou 88,8% do público-alvo, da meta de 90%. Entre os grupos prioritários, os idosos foram o que tiveram melhor desempenho, com cobertura de 119,29%. Os estados e municípios receberam um total de 79,9 milhões de doses da vacina. Desse total, 77,28% foram aplicadas. Desde o dia 1º de julho, o Ministério da Saúde recomendou aos estados e municípios a estenderem a vacinação à população em geral até quando durarem os estoques da vacina, excedentes da campanha. A medida objetiva evitar o desperdício de doses nas localidades que não alcançaram a meta de imunização no público-alvo, que continua sendo prioritário.
@@ -28,4 +27,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

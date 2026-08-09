@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Dólar fecha praticamente estável, a R$ 5,344.
 
 Num dia de oscilações, a bolsa de valores superou a marca de 100 mil pontos pela primeira vez em quatro meses, mas perdeu força e fechou em queda. O índice Ibovespa, da B3 (a bolsa de valores brasileira), encerrou esta quinta-feira (9) aos 99.160 pontos, com recuo de 0,61%.
@@ -24,4 +23,4 @@ Há várias semanas, mercados financeiros em todo o planeta atravessam um perío
 
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Paulo Whitaker/Direitos Reservados
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

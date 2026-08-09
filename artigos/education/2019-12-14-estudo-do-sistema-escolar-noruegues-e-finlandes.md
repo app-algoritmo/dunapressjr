@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 ## As pesquisas do Pisa mostram que a classe social tem um impacto maior no desempenho dos alunos na Noruega do que na Finlândia
 
 Ser professor é uma grande tarefa e nem sempre é fácil ser aluno. As crianças entram no sistema escolar com níveis diferentes e com diferentes recursos em casa. Na Noruega, a visão é focada na escola da igualdade e que ela deve dar a todos oportunidades iguais.
@@ -82,7 +81,7 @@ Ao mesmo tempo, é importante lembrar que a maioria dos estudantes da escola nor
 
 ## Nossa arena comum mais importante
 
-A coisa mais importante para proporcionar às crianças e jovens uma boa educação  e ensino é que todos os responsáveis ​​pelas crianças trabalhem a partir de uma base de conhecimento comum, com base em pesquisas e conhecimentos do campo da prática, diz Nereid.
+A coisa mais importante para proporcionar às crianças e jovens uma boa educação e ensino é que todos os responsáveis ​​pelas crianças trabalhem a partir de uma base de conhecimento comum, com base em pesquisas e conhecimentos do campo da prática, diz Nereid.
 
 Portanto, o município de Trondheim adotou recentemente uma estratégia para comunidades infantis fortes. A estratégia foi desenvolvida por meio de uma colaboração entre a comunidade de pesquisa, funcionários e moradores do município.
 
@@ -145,8 +144,4 @@ Portanto, é importante olhar mais de perto como isso deve ser organizado nas es
 
 Portanto, este estudo indica que devemos olhar para a organização da escola de uma maneira mais sutil e holística do que anteriormente, diz Anna Cecilia Rapp, da NTNU.
 
-[](https://forskning.no/om-forskningno/medlemmer-i-forskningnos-eierforening/101947)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!

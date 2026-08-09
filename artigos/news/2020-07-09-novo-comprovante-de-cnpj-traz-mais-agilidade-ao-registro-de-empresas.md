@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Comprovante tem código de autenticidade e pode ser acessado através do Portal Nacional da Redesim.
 
 A Receita Federal criou um novo modelo de Comprovante de Inscrição e Situação Cadastral do Cadastro Nacional da Pessoa Jurídica (CNPJ), que possui um código de autenticidade que pode ser verificado através da Portal Nacional da Redesim. A Redesim é uma iniciativa formada por entidades governamentais e órgãos de registro que tem por premissa básica abreviar e simplificar os procedimentos e diminuir o tempo e o custo para o registro e a legalização de pessoas jurídicas, reduzindo a burocracia ao mínimo necessário.
@@ -20,4 +19,4 @@ A inclusão do novo modelo deu-se através da publicação da [Instrução Norma
 
 Fonte: Receita Federal – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

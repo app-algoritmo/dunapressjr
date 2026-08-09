@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Patrícia Leite Costa, farmacêutica e mestre em nanotecnologia pela Universidade de Brasília (UnB), durante seu mestrado desenvolveu uma nanoemulsão para tratar o câncer de pele. Feita à base de óleo de pequi associado ao ácido anacárdico – composto bioativo derivado do líquido da casca de castanha de caju – possui capacidade antitumoral e promete ser uma alternativa eficaz na prevenção à metástase do câncer de pele (melanoma).
 
 **Fale sobre a sua pesquisa.**
@@ -27,7 +26,7 @@ Fiz o meu mestrado sobre biodiversidade brasileira, produtos naturais, e desenvo
 
 Durante mais de sete anos de pesquisa acadêmica tive como principal objeto de estudo as nanoestruturas dos óleos e bioativos da biodiversidade brasileira no tratamento de cânceres de pele. Foi através desse estudo que consegui ver o poder cicatrizante dos bioativos e descobri as inúmeras possibilidades de desenvolvimento científico. Através da nanotecnologia é possível utilizar os produtos naturais nacionais, por vezes desconhecidos do público, e assim valorizar a nossa biodiversidade. Com a nanotecnologia nossas fórmulas são exclusivas, aumentando o poder de absorção, estabilidade e aspecto sensorial dos produtos. Atualmente somos uma equipe, cada um com sua especialidade.
 
-Assim como nossos insumos, também somos cheios de brasilidade e calor. Pé no chão e mão na massa, mas sempre com a mente fervendo de ideias e criações. 
+Assim como nossos insumos, também somos cheios de brasilidade e calor. Pé no chão e mão na massa, mas sempre com a mente fervendo de ideias e criações.
 
 **Para você, qual a importância da CAPES?**
 Ser bolsista da CAPES foi muito importante no desenvolvimento da minha pesquisa. Eu consegui me dedicar inteiramente, consegui desenvolver o mestrado no tempo certo. Por causa da bolsa da CAPES a gente consegue se dedicar inteiramente ao mestrado.
@@ -43,7 +42,3 @@ Fonte: https://www.gov.br/capes/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Estudo realizado pela nutricionista Bárbara Pereira da Silva, do Programa de Ciências da Nutrição da Universidade Federal de Viçosa (UFV) avaliou os efeitos do consumo diário da farinha de chia. 
+Estudo realizado pela nutricionista Bárbara Pereira da Silva, do Programa de Ciências da Nutrição da Universidade Federal de Viçosa (UFV) avaliou os efeitos do consumo diário da farinha de chia.
 
  “A semente de chia tem sido consumida cada vez mais pela população mundial devido aos seus efeitos protetores, funcionais e antioxidantes, atribuídos à presença de lipídios, fibra alimentar, compostos antioxidantes, vitaminas e minerais. Dentre os minerais, destacam-se o cálcio, o ferro e o zinco”, explica a nutricionista.
 
@@ -41,7 +40,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

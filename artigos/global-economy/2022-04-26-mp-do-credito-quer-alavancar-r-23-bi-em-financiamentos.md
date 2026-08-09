@@ -7,10 +7,9 @@ categories:
 - Global Economy
 ---
 
-
 ### Programa de apoio a empresas é lançado pelo Ministério da Economia.
 
-Uma medida provisória (MP) publicada nesta segunda-feira (25) no Diário Oficial da União pretende usar recursos de fundos garantidores (fundos que servem para cobrir eventuais calotes) para alavancar (servir de base) até R$ 23 bilhões em financiamentos para empresas. Chamada de[** MP do Crédito, a MP 1.114/2022**](http://in.gov.br/web/dou/-/medida-provisoria-n-1.114-de-20-de-abril-de-2022-394545916)  integra o Programa Crédito Brasil Empreendedor.  
+Uma medida provisória (MP) publicada nesta segunda-feira (25) no Diário Oficial da União pretende usar recursos de fundos garantidores (fundos que servem para cobrir eventuais calotes) para alavancar (servir de base) até R$ 23 bilhões em financiamentos para empresas. Chamada de[** MP do Crédito, a MP 1.114/2022**](http://in.gov.br/web/dou/-/medida-provisoria-n-1.114-de-20-de-abril-de-2022-394545916) integra o Programa Crédito Brasil Empreendedor.
 
 Sem resultar em gastos adicionais para o Tesouro Nacional, a MP altera regras do Fundo Garantidor de Habitação Popular (FGHab), do Fundo Garantidor de Risco de Crédito para Micro, Pequenas e Médias Empresas e do Fundo Garantidor do Programa Emergencial de Acesso a Crédito (Peac).
 
@@ -19,7 +18,7 @@ As regras facilitam a utilização desses fundos para cobrir a inadimplência de
 Dos R$ 23 bilhões que servirão para alavancar o crédito, R$ 21 bilhões vêm do Programa Emergencial de Acesso a Crédito Fundo Garantidor para Investimentos (Peac-FGI).
 
 Os R$ 2 bilhões restantes vêm do FGHab. A MP também permite que operações de crédito contratadas por meio do Programa Casa Verde e Amarela sejam cobertas pelo Fundo Garantidor de Habitação Popular.
- 
+
 “São recursos que estavam parados nos bancos. O Tesouro não terá desembolso. Com as medidas, o crédito foi ampliado e atinge um leque maior de empreendedores. Estamos democratizando o acesso das MPEs [micro e pequenas empresas] ao crédito em condições antes disponíveis apenas para empresas maiores”, destacou, em nota, a secretária especial de Produtividade e Competitividade, Daniella Marques.
 
 O Ministério da Economia também informou que dispensou a exigência de certidões negativas de débito para que as empresas tenham acesso a operações de crédito.
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

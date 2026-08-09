@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Foi o segundo mês consecutivo de déficit, após 8 de superávit em 2020.
 
 As contas externas registraram saldo negativo de US$ 7,253 bilhões em janeiro deste ano, o segundo mês consecutivo de déficit, após oito meses de superávit em 2020. De acordo com dados divulgados hoje (24) pelo Banco Central (BC), em janeiro de 2020 o déficit foi maior, de US$ 10,3 bilhões nas transações correntes, que são as compras e vendas de mercadorias e serviços e transferências de renda do Brasil com outros países.
@@ -48,8 +47,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

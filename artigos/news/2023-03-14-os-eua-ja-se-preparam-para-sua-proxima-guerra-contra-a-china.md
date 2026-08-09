@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Enquanto os EUA e a OTAN travam uma guerra por procuração contra a Rússia na Ucrânia, estrategistas militares e especialistas em Washington estão de olho na China.
 
 A operação militar russa na Ucrânia está chegando ao seu primeiro aniversário em fevereiro de 2023. As principais figuras militares na Rússia há muito afirmam que o conflito não é entre a Rússia e a Ucrânia, mas entre a [Rússia e a OTAN](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiK-Z6l9Mn8AhW_lIkEHfuhC00QFnoECAsQAQ&url=https%3A%2F%2Fwww.rt.com%2Frussia%2F568690-russian-defense-minister-nato-troops-ukraine%2F&usg=AOvVaw2FcssxS40A8U0ledKDb6N5) . Simplificando, a Ucrânia é um peão em outra guerra dos EUA.
@@ -98,7 +97,7 @@ Tanto Pequim quanto Moscou apresentam seus próprios desafios específicos à he
 
 A crescente soberania e independência política da Rússia em relação ao Ocidente liderado pelos EUA minou a [Doutrina Wolfowitz](https://qrius.com/wolfowitz-doctrine-us-russia/) de domínio abrangente sobre todo o território da antiga União Soviética.
 
-A enorme economia de mercado liderada pelos socialistas da China superará [o](https://www.scmp.com/economy/china-economy/article/3202752/china-gdp-surpass-us-around-2035-years-later-previously-expected-goldman-sachs-predicts) estagnado sistema capitalista financeiro dos EUA em termos de PIB [até 2035](https://www.scmp.com/economy/china-economy/article/3202752/china-gdp-surpass-us-around-2035-years-later-previously-expected-goldman-sachs-predicts) .[](https://www.scmp.com/economy/china-economy/article/3202752/china-gdp-surpass-us-around-2035-years-later-previously-expected-goldman-sachs-predicts)
+A enorme economia de mercado liderada pelos socialistas da China superará [o](https://www.scmp.com/economy/china-economy/article/3202752/china-gdp-surpass-us-around-2035-years-later-previously-expected-goldman-sachs-predicts) estagnado sistema capitalista financeiro dos EUA em termos de PIB [até 2035](https://www.scmp.com/economy/china-economy/article/3202752/china-gdp-surpass-us-around-2035-years-later-previously-expected-goldman-sachs-predicts) .
 
 Pior ainda para os EUA, a Rússia e a China se aproximaram.
 

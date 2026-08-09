@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### É necessário pedir retirada ao Ministério da Previdência e Trabalho.
 
 Cerca de 320 mil trabalhadores que não sacaram o abono salarial de 2019 já podem pedir a retirada dos valores. O prazo começou na última quinta-feira (31). Originalmente, o prazo começaria em 8 de fevereiro, mas foi adiado pelo Ministério da Previdência e Trabalho.
@@ -28,14 +27,10 @@ O valor do abono é proporcional ao período em que o empregado trabalhou com ca
 
 O benefício não é pago aos empregados domésticos. Isso porque o abono salarial exige vínculo empregatício com uma empresa, não com outra pessoa física. Jovens aprendizes também não têm direito.
 
-A  **Agência Brasil** preparou um guia para facilitar a busca por [**recursos adicionais**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-02/fundos-publicos-e-inss-tambem-sao-fontes-de-dinheiro-esquecido). Além do abono salarial, o cidadão pode ter outras fontes de dinheiro esquecido, como cotas de fundos públicos, revisão de benefícios da Previdência Social, restituições na malha fina do Imposto de Renda e até pequenos prêmios de loterias.
+A **Agência Brasil** preparou um guia para facilitar a busca por [**recursos adicionais**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-02/fundos-publicos-e-inss-tambem-sao-fontes-de-dinheiro-esquecido). Além do abono salarial, o cidadão pode ter outras fontes de dinheiro esquecido, como cotas de fundos públicos, revisão de benefícios da Previdência Social, restituições na malha fina do Imposto de Renda e até pequenos prêmios de loterias.
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

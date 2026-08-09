@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 Apresentado  pelo deputado Pedro Vilela (PSDB-AL), o Projeto de Lei 2567/2021 visa a criação do Programa Nacional de Fomento à Causa Animal (Propet).
 
 “São objetivos do Propet fomentar a criação, desenvolvimento e execução sustentável de ações de proteção à causa animal”, informa Vilela, acrescentando que o programa também é voltado a uma necessidade de harmonia entre saúde humana, animal e ambiental com a finalidade de assegurar a prevenção de doenças.
@@ -45,5 +44,3 @@ Fonte: [https://vegazeta.com.br](https://vegazeta.com.br)
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

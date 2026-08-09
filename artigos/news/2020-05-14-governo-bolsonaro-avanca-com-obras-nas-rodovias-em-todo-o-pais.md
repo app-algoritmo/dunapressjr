@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Executadas pelo Departamento Nacional de Infraestrutura de Transportes (DNIT), as obras são, na maioria, de manutenção de estradas.
 
 Departamento Nacional de Infraestrutura de Transportes (DNIT) tem executado diversas obras em todo o Brasil. As obras são, na maioria, de manutenção de estradas e viadutos e de pavimentação. No Pará, a transposição de um rio possibilitou que um hospital flutuante chegasse às comunidades ribeirinhas do estado.
@@ -28,7 +27,7 @@ O restabelecimento da operação das eclusas viabilizará a navegação em trech
 
 Equipes trabalham em vários trechos da BR-364, em Rondônia. Os serviços ocorrem no trecho localizado entre os municípios de Presidente Médici e Ji-Paraná. A BR-364/RO é uma rodovia fundamental para o escoamento da produção das regiões Norte e Centro-Oeste do País.
 
-Os serviços de Tratamento Superficial Duplo (TSD) já estão  concluídos entre o km 305 e o km 331. Será executado, a partir de agora, o revestimento de Concreto Betuminoso Usinado a quente (CBUQ), também conhecido com massa asfáltica. As obras  são realizadas entre o km 305 e o km  405.                                                                                                                                                                                          
+Os serviços de Tratamento Superficial Duplo (TSD) já estão  concluídos entre o km 305 e o km 331. Será executado, a partir de agora, o revestimento de Concreto Betuminoso Usinado a quente (CBUQ), também conhecido com massa asfáltica. As obras  são realizadas entre o km 305 e o km  405.
 
 ### Roraima
 
@@ -66,7 +65,7 @@ Restauração do trecho entre os municípios de Três Lagoas e Água Clara na BR
 
 ### Goiás
 
-Iniciada, na última segunda-feira (11), a execução de obras de manutenção rodoviária em 50 Obras de Arte Especiais (OAEs) - 35 pontes e 15 viadutos, localizadas na BR-070/GO, na BR-153/GO e na BR-414/GO, no estado de Goiás. 
+Iniciada, na última segunda-feira (11), a execução de obras de manutenção rodoviária em 50 Obras de Arte Especiais (OAEs) - 35 pontes e 15 viadutos, localizadas na BR-070/GO, na BR-153/GO e na BR-414/GO, no estado de Goiás.
 
 As obras englobam os mais variados serviços de manutenção, como limpeza das estruturas, reparo das juntas, limpeza dos sistemas de drenagem, além de pintura.
 
@@ -93,5 +92,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

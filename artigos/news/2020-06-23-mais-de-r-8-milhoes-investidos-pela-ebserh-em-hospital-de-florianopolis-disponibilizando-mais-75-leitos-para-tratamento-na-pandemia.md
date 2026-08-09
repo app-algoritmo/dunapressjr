@@ -8,10 +8,8 @@ categories:
 - News
 ---
 
-
 ## Do total de vagas contratualizadas com o SUS pelo HU-UFSC, 21 são para terapia intensiva.
 
- 
 **Florianópolis (SC)** – Com investimentos de mais de R$ 8 milhões da Empresa Brasileira de Serviços Hospitalares (Ebserh), o Hospital Universitário Professor Polydoro Ernani de São Thiago da Universidade Federal de Santa Catarina (HU-UFSC) disponibilizou 75 leitos exclusivos para pacientes com Covid-19. Os leitos estão sendo ocupados de acordo com a demanda, mas todas as vagas estão pactuadas com a Secretaria de Saúde do Estado de SC, sendo 20 leitos para Emergência Respiratória, 25 para Clínica Médica, um para Obstetrícia, oito para Pediatria e 21 para Terapia Intensiva, incluindo um Neonatal.
 
 Os recursos disponibilizados pela Rede Ebserh foram investimentos na aquisição de equipamentos de proteção individual (EPIs), de kits de teste rápido, de medicamentos, de respiradores/ventiladores artificiais eletrônicos, além de outros equipamentos. Também foram adquiridos materiais de grupo hospitalar, produtos de higienização e desinfecção e outros.
@@ -35,8 +33,6 @@ Em algumas regiões, as unidades da Rede Ebserh têm atuado como hospitais de re
 Fonte: gov.br/mec / Imagem em destaque: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 - U$ 1,00 mensal
 

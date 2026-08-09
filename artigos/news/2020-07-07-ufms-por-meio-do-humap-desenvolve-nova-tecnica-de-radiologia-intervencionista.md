@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Serviço vem se destacando no cenário nacional e internacional com pesquisas e publicações de artigos. Técnica é inédita no mundo.
 
 Campo Grande (MS) – A equipe de Radiologia Intervencionista do Hospital Universitário Maria Aparecida Pedrossian, vinculado à Universidade Federal de Mato Grosso do Sul e à Rede Ebserh (Humap-UFMS), desenvolveu uma técnica inédita no mundo. Trata-se de colocação de próteses biliares plásticas (espécie de canudinho de plástico) em pacientes que apresentam problemas biliares, principalmente portadores de tumores malignos, utilizando uma adaptação de materiais endoscópicos. A pesquisa foi publicada em artigo da *Abdominal Radiology*, importante revista científica norte-americana.
@@ -32,7 +31,7 @@ Fonte: gov.br / Imagem em destaque: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Presidente do Senado conversou com secretários estaduais de Fazenda.
 
 O presidente do Senado, Rodrigo Pacheco (PSD-MG), definiu o senador Fernando Bezerra (MDB-PE) como relator do Projeto de Lei Complementar (PLP) 18/2022. O projeto limita a aplicação de alíquota do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) sobre bens e serviços relacionados a combustíveis, gás natural, energia elétrica, comunicações e transporte coletivo. [**A proposta teve origem na Câmara, onde foi aprovada no final de maio**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-05/camara-aprova-limite-da-aliquota-de-icms-sobre-combustiveis).
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

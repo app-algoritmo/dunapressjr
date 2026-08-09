@@ -8,10 +8,7 @@ categories:
 - Health
 ---
 
-
 ## Scan supera a genética para avaliar o risco.
-
-[](https://news.feinberg.northwestern.edu/wp-content/uploads/2023/05/CT-scans-heart-2.jpg)
 
 As tomografias computadorizadas são melhores para prever o risco de uma pessoa de meia-idade para uma doença cardíaca, como um ataque cardíaco, do que a genética, relata um novo estudo da Northwestern Medicine [publicado](https://jamanetwork.com/journals/jama/article-abstract/2805138) no *JAMA* .
 
@@ -21,7 +18,7 @@ O principal autor do estudo, Sadiya Khan, '09 MD, '14 MSc, '10, '12 GME, profess
 
 Atualmente, as medidas convencionais dos níveis de fatores de risco, como pressão arterial e colesterol, são usadas pelos médicos para determinar a probabilidade de uma pessoa desenvolver doença cardíaca coronária ou bloqueios das artérias do coração. Mas algumas pessoas podem sofrer um ataque cardíaco ou problemas cardíacos relacionados, sem que um desses fatores convencionais o detecte.
 
-Como o risco de doença cardíaca pode ser herdado, os cientistas estão otimistas de que a genética de uma pessoa pode informar quem está em maior risco, disse Khan. Postulou-se que as pontuações de risco poligênico – uma compilação de mais de 6 milhões de variantes genéticas comumente associadas a doenças cardíacas – poderiam ser usadas como um avanço potencial para a medicina personalizada.  
+Como o risco de doença cardíaca pode ser herdado, os cientistas estão otimistas de que a genética de uma pessoa pode informar quem está em maior risco, disse Khan. Postulou-se que as pontuações de risco poligênico – uma compilação de mais de 6 milhões de variantes genéticas comumente associadas a doenças cardíacas – poderiam ser usadas como um avanço potencial para a medicina personalizada.
 
 Mas o novo estudo da Northwestern compara diretamente a genética e as tomografias computadorizadas para o cálcio da artéria coronária e demonstra que a tomografia computadorizada faz um trabalho melhor do que a genética na previsão do risco de doença cardíaca na meia-idade.
 

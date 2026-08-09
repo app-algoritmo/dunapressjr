@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Candidatos foram selecionados para realizar pós-doutorado e pesquisas de ponta.
 
 Quinze pesquisadores de todas as áreas do conhecimento receberão apoio da CAPES para pesquisar na Alemanha. Os cientistas foram selecionados pelo [Programa Bolsas para Pesquisa CAPES/Humboldt](https://www.capes.gov.br/bolsas-e-auxilios-internacionais/pais/194-alemanha/9569-programa-bolsas-para-pesquisa-capeshumboldt), que divulgou em 02 de julho o [resultado da 16º chamada de inscrições](https://www.capes.gov.br/images/novo_portal/editais/resultados/02072020_Edital_36_HUMBOLDT_RESULTADO_FINAL.pdf), ligada ao [edital nº 36/2017](https://www.capes.gov.br/images/stories/download/editais/14082017-Edital-36-2017-HUMBOLDT.pdf). A iniciativa é uma parceria com a Fundação Alexander von Humboldt (AvH), sediada no país europeu. O programa oferta bolsas para estudantes de pós-doutorado e pesquisadores experientes.
@@ -40,7 +39,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

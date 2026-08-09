@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Com a chegada de um bebê na família tudo é uma novidade, principalmente quando se nasce os dentes. São várias as dúvidas: quando começar a escovação, qual tipo de escova e de pasta dental e ingerir creme dental é prejudicial?
 
 A consultora da Coordenação de Saúde Bucal do Ministério da Saúde, Nicole Aimée, explica que a pasta de dente deve ser usada desde bem cedo, logo quando aparecerem os primeiros dentinhos. Contudo, é importante observar a quantidade de pasta colocada na escova. “Se for um bebê com até oito dentes na boca ou menos de 10 Kg, recomenda-se que coloque uma quantidade equivalente à metade de um grão de arroz cru, se for um bebê ou criança que não sabe cuspir com mais de 10 Kg, a gente recomenda que seja colocado uma quantidade equivalente a um grão de arroz cru. Já para aquelas crianças que já sabem cuspir, a recomendação é colocar uma quantidade equivalente a um grão de ervilha”, esclarece.
@@ -44,7 +43,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

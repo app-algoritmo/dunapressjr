@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Preço da gasolina não muda, e litro continua por R$ 2,59 em refinarias.
 
 A Petrobras anunciou hoje (9) que o preço do diesel nas refinarias da estatal será reduzido em R$ 0,08 a partir deste sábado (10). Desse modo, o litro do combustível vendido pela empresa às distribuidoras passará a custar R$ 2,66. Já o preço da gasolina não foi alterado e continuará a ser de R$ 2,59 por litro nas refinarias da Petrobras.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

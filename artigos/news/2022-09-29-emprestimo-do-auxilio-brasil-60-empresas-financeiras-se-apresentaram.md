@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Empresas estão em processo de habilitação pelo Ministério da Cidadania.
 
 Cerca de 60 instituições financeiras demonstraram interesse em conceder empréstimos consignados aos beneficiários do Auxílio Brasil. Em entrevista nesta quarta-feira (28) à *Voz do Brasil*, o ministro da Cidadania, Ronaldo Bento, informou que essas empresas estão em processo de habilitação para participar do programa, regulamentado pela [**portaria 816**](https://www.in.gov.br/en/web/dou/-/portaria-mc-n-816-de-26-de-setembro-de-2022-432183292), publicada na terça-feira (27), pelo Ministério.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Retomada da economia e baixo crescimento de gastos contribuíram.
 
 O crescimento da economia e a baixa expansão dos gastos públicos fizeram todas as 27 unidades da Federação fechar 2021 com as contas no azul. No ano passado, os estados e o Distrito Federal registraram superávit primário de R$ 124,1 bilhões, segundo o Relatório Resumido de Execução Orçamentária dos estados e do DF, divulgado nesta segunda-feira (21) pelo Tesouro Nacional.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa tem pior desempenho semanal em quase três meses.
 
 Depois de três dias seguidos de queda, o dólar teve forte alta nesta sexta-feira (15), retomando o patamar de R$ 5,30. Apesar da subida, a divisa encerrou a semana em queda. No mercado de ações, a bolsa teve o pior desempenho semanal em quase três meses, influenciada pela deterioração do mercado internacional.
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## São Paulo teve ligeira desaceleração: de 2,45% para 2,38%.
 
 O Índice de Variação de Aluguéis Residenciais (Ivar) subiu 2,92% em fevereiro, o que representa uma aceleração em relação ao percentual (1,86%) de janeiro. Com o resultado, o índice passa a acumular variação de 4,76% em 12 meses, a maior variação acumulada pelo Ivar desde o início da série histórica, em janeiro de 2019. Os dados foram divulgados hoje (8), no Rio de Janeiro, pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV).
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

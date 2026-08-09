@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Vinte hospitais da Rede Empresa Brasileira de Serviços Hospitalares (Ebserh) poderão contar com um reforço financeiro que soma R$ 25,7 milhões por meio do Programa Nacional de Reestruturação dos Hospitais Universitários Federais (Rehuf). Esses recursos serão liberados pelo Ministério da Educação (MEC) de forma complementar e foram aprovados na reunião do Comitê Gestor do programa. Ao todo, de janeiro a 25 deste mês, foram destinados R$ 2,49 bilhões em recursos orçamentários para custeio e investimentos dos hospitais da Rede Ebserh.
 
 A necessidade de complementação do orçamento dos hospitais incluídos na ação se deu para garantir a manutenção dos serviços essenciais à população por essas unidades. Segundo o vice-presidente da Rede Ebserh, Eduardo Vieira, a ação foi possível após adequações nos valores pactuados para serem liberados durante o exercício de 2020. “A Covid-19 ocasionou a suspensão de procedimentos eletivos, o que fez com que algumas unidades da rede apresentassem uma defasagem da receita de produção. Assim, as possíveis necessidades de complementação foram consideradas nessa revisão”, explica Vieira.
@@ -26,7 +25,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

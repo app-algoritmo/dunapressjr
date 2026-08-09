@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O serviço Solidariedade à Pesquisa permite compartilhamento de insumos e facilita andamento de pesquisas e trabalhos científicos.
 
 O professor de um dos poucos programas de pós-graduação em Química na região do semiárido brasileiro e uma professora do curso de  Odontologia de uma universidade de São Paulo compartilham informações, conhecimento e matérias-primas para suas pesquisas em um mesmo ambiente virtual. A plataforma [Solidariedade à Pesquisa](https://solidariedade.unicamp.br/) está no meio disso, propiciando a interação a distância.
@@ -28,7 +27,7 @@ Fonte: gov.br / Imagem em destaque: PD
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

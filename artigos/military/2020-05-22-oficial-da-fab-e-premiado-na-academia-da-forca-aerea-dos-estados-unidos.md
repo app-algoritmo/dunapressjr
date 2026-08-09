@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 O Oficial da Força Aérea Brasileira (FAB) Major Julio Cesar Noschang Junior recebeu, na terça-feira (19), o Prêmio Outstanding Academy Educator, concedido ao professor que mais se destacou em cada Departamento da Academia da Força Aérea dos Estados Unidos (United States Air Force Academy – USAFA). A cerimônia foi realizada on line.
 
 O militar brasileiro, que atua como Oficial de Ligação para os programas de intercâmbios de cadetes entre Brasil e Estados Unidos, é professor do Departamento de Línguas Estrangeiras da USAFA, onde concorreu ao prêmio com cerca de 40 professores, entre militares e civis. Na USAFA, desde junho de 2018, o Major Noschang ministra aulas de Português, Política, História e Cultura do Brasil. O término da missão está previsto para maio de 2021.
@@ -22,5 +21,3 @@ Antes de ir pra USAFA, o Major Noschang atuou como instrutor de voo na Academia 
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Fundo Nacional de Desenvolvimento da Educação (FNDE) lança nesta quinta-feira, 25, a série científica Cadernos do FNDE. Produzida por servidores e colaboradores da autarquia, com apoio da Fundação Joaquim Nabuco (Fundaj), a publicação semestral em plataforma digital traz resultados de pesquisas e estudos na área de educação e gestão pública. Busca, assim, disseminar conhecimento e aprimorar a avaliação das políticas educacionais.
 
 Em um vídeo de lançamento, o presidente do FNDE, Marcelo Ponte, destaca a importância da iniciativa. “Compartilhar conhecimento é reforçar a assistência técnica que o FNDE já presta aos entes federativos e contribuir para aprimorar a gestão e os resultados de programas e ações educacionais”.
@@ -23,7 +22,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

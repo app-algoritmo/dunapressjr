@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Previsão é maior que a do relatório anterior, de 12,6%.
 
 O saldo do crédito concedido pelos bancos deve crescer 14,6% este ano, de acordo com o [**Relatório de Inflação**](https://www.bcb.gov.br/content/ri/relatorioinflacao/202112/ri202112p.pdf), publicação trimestral do Banco Central (BC), divulgado nesta quinta-feira (16). O resultado vem do crescimento de 18,6% no crédito para famílias e de 9,6% para pessoas jurídicas.
@@ -40,10 +39,6 @@ Em 2020, o saldo do crédito cresceu 15,6%, com alta de 11,2% para famílias e 2
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

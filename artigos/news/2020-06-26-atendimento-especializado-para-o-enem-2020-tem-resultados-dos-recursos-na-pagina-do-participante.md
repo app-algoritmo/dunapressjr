@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Os participantes do Exame Nacional do Ensino Médio (Enem) 2020 que solicitaram recurso para atendimento especializado e/ou tratamento pelo nome social já podem conferir os resultados individuais na Página do Participante a partir desta quinta-feira (25). Com a publicação das respostas aos recursos, fica encerrada a etapa de inscrições para o exame.
 
 O sistema do Enem continua aberto para que os inscritos indiquem, de forma voluntária, a melhor data considerada para as provas. Os participantes podem participar da enquete até o dia 30 de junho, próxima terça-feira. O Inep propõe o adiamento em 30, 60 ou 180 dias em relação ao cronograma publicado anteriormente.
@@ -27,7 +26,7 @@ Fonte: gov.br / Imagem em destaque: hojeemdia.com.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

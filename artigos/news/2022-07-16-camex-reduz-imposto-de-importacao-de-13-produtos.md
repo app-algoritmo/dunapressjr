@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medida beneficia medicamentos e tipo de resina industrial.
 
 Um total de 13 produtos teve o Imposto de Importação reduzido, decidiu nesta sexta-feira (15) o Comitê Executivo de Gestão da Câmara de Comércio Exterior (Gecex/Camex). Ao todo, nove produtos tiveram a tarifa zerada. Três tiveram a alíquota diminuída para 2%, e um para 6,5%.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

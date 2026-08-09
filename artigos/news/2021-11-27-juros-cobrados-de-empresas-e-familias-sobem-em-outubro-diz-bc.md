@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Taxa chegou a 32,8% ao ano, a maior desde março de 2020.
 
 As taxas de juros dos empréstimos nos bancos subiram em outubro, segundo a pesquisa Estatísticas Monetárias e de Crédito do Banco Central (BC), divulgada nesta sexta-feira (26), em Brasília.
@@ -58,10 +57,6 @@ As novas contratações de crédito do sistema financeiro atingiram R$ 428,9 bil
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

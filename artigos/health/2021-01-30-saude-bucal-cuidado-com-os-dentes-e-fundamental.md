@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A boca desempenha importantes funções que repercutem na saúde de todo o organismo. Além de exercer papel fundamental na fala, mastigação e respiração, a boca é a maior cavidade do corpo a ter contato direto com o meio ambiente, sendo a porta de entrada para bactérias e outros microrganismos prejudiciais à saúde.
 
 Uma boa higiene bucal diminui o risco de desenvolvimento de problemas bucais e dentários. É importante ressaltar que as doenças bucais podem apresentar doenças da boca têm relação direta com o fumo, o consumo de álcool e a má alimentação. Estudos científicos também comprovam que a saúde bucal tem íntima relação com a saúde geral, pois a boca interage com todas as estruturas do corpo. As más condições de higiene bucal podem causar doenças bucais, que, por sua vez, podem levar a enfermidades (ou agravá-las), principalmente doenças cardiovasculares e diabetes.
@@ -48,7 +47,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,18 +7,17 @@ categories:
 - News
 ---
 
-
 ### Suspensão tinha sido decidida pelo plantão judiciário.
 
 O presidente do Tribunal de Justiça do Estado do Rio de Janeiro (TJ-RJ), desembargador Henrique Carlos de Andrade Figueira, suspendeu as liminares que impediam a realização da Assembleia Geral de Debenturistas de Furnas, que estava programada para a manhã desta segunda-feira (6). Segundo a Eletrobras, a autorização para a emissão de debêntures é condição para a realização da oferta pública global de ações da companhia.
 
-A suspensão havia sido decidida pelo plantão judiciário do TJ-RJ a pedido da Associação dos Empregados de Furnas (Asef), mas a Advocacia-Geral da União (AGU) recorreu e reverteu as liminares. 
+A suspensão havia sido decidida pelo plantão judiciário do TJ-RJ a pedido da Associação dos Empregados de Furnas (Asef), mas a Advocacia-Geral da União (AGU) recorreu e reverteu as liminares.
 
 A reunião vai discutir a autorização prévia dos titulares da primeira emissão de debêntures de Furnas, decorrente do aumento de capital da Madeira Energia S.A, mas a associação de empregados questiona que o processo descumpriu prazo, violou o dever de informação aos debenturistas convocados e feriu regras de governança, entre outros pontos.
 
 Ao derrubar a liminar, o presidente do TJ-RJ afirmou que "a decisão que suspendeu a Assembleia Geral de Debenturistas de Furnas causa impacto significativo no planejamento setorial elétrico brasileiro, sendo capaz de comprometer a modicidade tarifária e, consequentemente, o acesso das camadas mais carentes da população ao serviço essencial de energia elétrica".
 
-O desembargador acrescenta que "apesar de a Asef alegar na origem a existência de 'diversas representações em curso no Tribunal de Contas da União para investigar aportes bilionários e ilícitos de recursos nas empresas Madeira  Energia S/A (Mesa) e Santo Antônio Energia S/A (Saesa)', a desestatização da Eletrobras foi autorizada pelo Plenário do Tribunal de Contas da União em 18/05/2022". Segundo o magistrado, "inexistem indícios de que a realização da Assembleia Geral de Debenturistas de Furnas possa causar qualquer ameaça ao erário, direta ou indireta".
+O desembargador acrescenta que "apesar de a Asef alegar na origem a existência de 'diversas representações em curso no Tribunal de Contas da União para investigar aportes bilionários e ilícitos de recursos nas empresas Madeira Energia S/A (Mesa) e Santo Antônio Energia S/A (Saesa)', a desestatização da Eletrobras foi autorizada pelo Plenário do Tribunal de Contas da União em 18/05/2022". Segundo o magistrado, "inexistem indícios de que a realização da Assembleia Geral de Debenturistas de Furnas possa causar qualquer ameaça ao erário, direta ou indireta".
 
 ### Fato relevante
 
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

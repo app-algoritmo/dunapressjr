@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ### Pesquisadores ligados ao MCTIC vão testar eficácia do medicamento em pacientes com sintomas iniciais da Covid-19.
 
 Um novo tipo de teste clínico com o antiparasitário nitazoxanida em pessoas com Covid-19 vai começar a ser feito no País, informou o Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC). Os novos testes vão incluir 500 pacientes na fase inicial da doença, com sintomas leves ou assintomáticos.
 
-“Nesta segunda fase de testes, a ideia é verificar a eficácia da nitazoxanida na fase inicial da doença. O objetivo desse novo protocolo é averiguar se a droga poderá evitar que a doença evolua para um quadro mais grave”, explicou o ministro Marcos Pontes, durante coletiva, nessa terça-feira (19). 
+“Nesta segunda fase de testes, a ideia é verificar a eficácia da nitazoxanida na fase inicial da doença. O objetivo desse novo protocolo é averiguar se a droga poderá evitar que a doença evolua para um quadro mais grave”, explicou o ministro Marcos Pontes, durante coletiva, nessa terça-feira (19).
 
  A nitazoxanida já está sendo testada pelo ministério há algumas semanas em outro grupo de 500 pacientes com sintomas graves da doença ou hospitalizados. Esse primeiro teste ainda não foi concluído e os resultados iniciais deverão ser avaliados por uma comissão técnica externa. “Estamos na fase de conclusão da primeira fase de testes, mas a conclusão depende da velocidade de entrada de novos pacientes”, ressaltou o ministro.
 
@@ -35,5 +34,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

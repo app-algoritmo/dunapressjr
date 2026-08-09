@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Equipamento voltado ao transporte de moradores e visitantes com mobilidade reduzida recebeu R$ 500 mil do MTur.
 
 O acesso ao mirante do Morro Santa Terezinha, que proporciona uma das mais belas vistas de Fortaleza (CE), ganhou um equipamento para facilitar a locomoção de moradores e visitantes com mobilidade reduzida. Teve início em 31.08 a operação de um elevador sobre trilhos (funicular) no local, com embarques a partir da Avenida Vicente de Castro, no bairro Mucuripe.
@@ -25,5 +24,3 @@ Imagem: Prefeitura de Fortaleza
 Fonte: Turismo Gov BR
 
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=Thami)

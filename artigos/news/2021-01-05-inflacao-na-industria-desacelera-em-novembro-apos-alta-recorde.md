@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Preços subiram 1,39%, com desaceleração em relação a outubro.
 
 Os preços da indústria subiram 1,39% em novembro de 2020 em relação ao mês anterior. Apesar da alta, houve desaceleração em relação ao resultado de outubro, quando o índice registrou a maior alta da série histórica (3,41%), iniciada em 2014.
@@ -30,7 +29,7 @@ As indústrias extrativas, que haviam acumulado sete resultados positivos até o
 
 A indústria química (0,79%) apresentou o quinto aumento consecutivo, mas a menor variação positiva no ano. O setor acumulou variação positiva de 23,04% de janeiro a novembro de 2020. Em 12 meses, a atividade alcançou 20,90% de alta.
 
-Fonte: Agência Brasil – CNI/Miguel Ângelo/Direitos Reservados  
+Fonte: Agência Brasil – CNI/Miguel Ângelo/Direitos Reservados
 
 SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 
@@ -38,8 +37,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

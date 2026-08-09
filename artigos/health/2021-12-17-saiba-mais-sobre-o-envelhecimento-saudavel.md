@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Viver por mais tempo é um desejo que todos têm e, acima de tudo, viver com saúde, qualidade, liberdade e facilidade, aproveitando melhor a vida depois dos 60 anos.
 
 Saber envelhecer é um aprendizado que começa desde criança tendo hábitos saudáveis de vida que devem ser mantidos por toda a vida. Saber envelhecer é também uma luta de todo dia por fazer valer o direito de cidadania.
@@ -60,7 +59,6 @@ O cérebro é como os músculos, se não exercitar, ele não se desenvolve. Port
 
 **O envelhecimento não é doença, mas é fundamental prestar atenção aos sinais do corpo e visitar o serviço de saúde para consultas, exames e realização de vacinas, periodicamente.**
 
-**
 Cuidados importantes para evitar quedas**:
 
 – evitar tapetes soltos. Utilizar tapete antiderrapante no banheiro;
@@ -87,7 +85,6 @@ Cuidados importantes para evitar quedas**:
 – direito de requerer o Benefício de Prestação Continuada (BPC), a partir dos 65 anos de idade, desde que não possua meios para prover sua própria subsistência ou de tê-la provida pela família;
 – direito a 25% de acréscimo na aposentadoria por invalidez (casos especiais).
 
-**
 Legislação relacionada:**
 
 [Estatuto do Idoso: Lei nº 10.741/2003](http://www.planalto.gov.br/ccivil_03/leis/2003/L10.741compilado.htm)
@@ -123,7 +120,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

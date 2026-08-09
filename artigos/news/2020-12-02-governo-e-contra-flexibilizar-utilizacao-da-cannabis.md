@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O ministro da Cidadania, Onyx Lorenzoni, explicou, nesta quarta-feira (2), que o Governo Federal foi contrário à recomendação da Organização Mundial de Saúde (OMS) para retirar a *cannabis* da lista das substâncias psicotrópicas consideradas mais perigosas por avaliar que a proposta flexibiliza e reduz o controle sobre a substância.
 
 O Brasil votou contra as recomendações da OMS relacionadas à *cannabis*, nome científico da maconha, na 63° sessão da Comissão de Narcóticos da Organização das Nações Unidas (ONU), ocorrida nesta quarta-feira, em Viena, na Áustria. Na votação, a maioria dos países, no entanto, decidiu pela exclusão da *cannabis* da lista.
@@ -32,7 +31,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

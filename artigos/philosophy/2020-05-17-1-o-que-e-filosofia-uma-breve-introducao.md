@@ -7,7 +7,6 @@ categories:
 - Philosophy
 ---
 
-
 A filosofia etimologicamente nos fala sobre o amor de um homem ao conhecimento, ou seja, a afeição que este indivíduo tem para aprender sempre mais, principalmente sobre si mesmo. Entretanto, esta origem provida dos Gregos sofreu fortes mutações ao longo dos séculos, ao ponto de hoje ela ser facilmente multi-interpretrada pelas pessoas.
 
 É natural que pelo passar do tempo novos campos de conhecimento fossem criados, de modo que a filosofia de outrora se fragmentaria para certos campos, como por exemplo: Matemática, Física, Biologia ou Psicologia.
@@ -35,5 +34,3 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
 Assine abaixo!
-
-[](https://dunapress.org/subscription-plan/?ref=Vitor Guerino)

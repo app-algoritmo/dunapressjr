@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Dores ao redor do umbigo, enjoo, falta de apetite, febre e anormalidade no funcionamento do aparelho digestivo, podem ser os sintomas da apendicite. A inflamação atinge o apêndice, um órgão que fica localizado no lado direito do intestino grosso e que muitas vezes é dito como vestigial, ou seja, que não tem uma função específica.
 
 Na maioria dos casos, a apendicite é provocada pela obstrução do canal que liga o apêndice ao intestino grosso. Não existe uma causa única para isso acontecer, pode ser por fragmentos de fezes que impacta no aumento da pressão ou ainda quando o tecido linfoide aumenta, causando uma obstrução no órgão.
@@ -30,7 +29,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

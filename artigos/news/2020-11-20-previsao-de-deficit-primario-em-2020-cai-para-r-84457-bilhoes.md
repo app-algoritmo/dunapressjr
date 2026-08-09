@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estimativa caiu R$ 16,43 bi em relação à previsão anterior.
 
 A queda de despesas obrigatórias e um leve aumento nas receitas fizeram a equipe econômica melhorar levemente a previsão de déficit primário em 2020. A estimativa caiu para R$ 844,57 bilhões. O valor consta no Relatório Bimestral de Avaliação de Receitas e Despesas, entregue hoje (20) pelo Ministério da Economia ao Congresso Nacional.
@@ -47,5 +46,3 @@ Em vigor desde 2017, o teto de gastos limita o aumento das despesas federais ao 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

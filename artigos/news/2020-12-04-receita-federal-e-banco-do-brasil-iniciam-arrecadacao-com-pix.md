@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Receita Federal passou a inserir um QR Code nos novos modelos de Darf para que os contribuintes possam pagar os tributos federais utilizando o PIX.
 
 O Banco do Brasil é o primeiro dos agentes arrecadadores a incorporar o PIX ao serviço de arrecadação prestado ao Governo Federal, serviço que está sob a gestão da Secretaria Especial da Receita Federal do Brasil. Com essa evolução, o Documento de Arrecadação de Receitas Federais (Darf), principal documento de arrecadação do Governo Federal, passará a ter um *QR Code* que permitirá o pagamento pelo PIX.
@@ -23,7 +22,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
 
 Obrigado pelo apoio!

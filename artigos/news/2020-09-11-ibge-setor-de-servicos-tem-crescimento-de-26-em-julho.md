@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Setor ainda não conseguiu recuperar as perdas de fevereiro a maio.
 
 Apesar do crescimento do setor de serviços de 2,6% em julho, na comparação com o mês anterior, e o ganho acumulado de 7,9% após a taxa positiva de junho, o setor ainda não conseguiu recuperar as perdas seguidas entre fevereiro e maio, que somaram queda de 19,8%. Os dados são da Pesquisa Mensal de Serviços (PMS), divulgada hoje (11) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -43,5 +42,3 @@ No acumulado do ano, as atividades turísticas caíram 37,9%. Na comparação co
 Fonte: Agência Brasil – Imagem de destaque: Tânia Rego/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

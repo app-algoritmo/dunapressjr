@@ -8,7 +8,6 @@ categories:
 - Global Economy
 ---
 
-
 Montante dos recursos diferidos é de R$ 9,58 bilhões e parcelas poderão ser pagas, respectivamente, nos últimos dias úteis de agosto, outubro e dezembro de 2020
 
 Em decorrência da pandemia da Covid-19, o Ministério da Economia prorrogou as prestações dos parcelamentos administrados pela Secretaria da Receita Federal do Brasil e pela Procuradoria-Geral da Fazenda Nacional com vencimento em maio, junho e julho de 2020.
@@ -35,4 +34,4 @@ Ajude-nos a levar o jornalismo independente a todas as partes!
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-[Assine o Press Período](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+[Assine o Press Período](https://dunapress.org/subscription-plan/)

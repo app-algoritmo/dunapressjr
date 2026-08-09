@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Déficit recua 50% na comparação com fevereiro de 2020.
 
 As contas externas registraram saldo negativo de US$ 2,326 bilhões em fevereiro deste ano, de acordo com dados divulgados hoje (26), em Brasília, pelo Banco Central (BC). Na comparação com fevereiro de 2020, quando o déficit foi de US$ 4,662 bilhões, o recuo é de 50,1%.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
-Obrigado pelo apoio!   
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

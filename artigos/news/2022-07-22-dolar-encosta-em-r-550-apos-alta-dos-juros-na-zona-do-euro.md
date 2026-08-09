@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Bolsa subiu pela quinta vez seguida e superou os 99 mil pontos.
 
 Em mais um dia de tensões domésticas e externas, o dólar aproximou-se de R$ 5,50 e fechou no maior nível em seis meses. A bolsa de valores subiu pela quinta vez seguida, apoiada pela recuperação das bolsas norte-americanas.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

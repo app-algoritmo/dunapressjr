@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Energia eólica produzida no dia 21 de julho foi suficiente para atender quase 100% da demanda da região no dia.
 
 Com sol e calor praticamente o ano todo, a região Nordeste atrai turistas do Brasil e do mundo. Mas não é só isso. O sol quente combinado com ventos fortes também está transformando a região em um celeiro de energia limpa e renovável.
@@ -32,10 +31,6 @@ Nos próximos dez anos, somente na geração de energia solar, são esperados in
 
 Fonte: gov.br
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

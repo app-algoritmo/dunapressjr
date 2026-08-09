@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Expansão de 4,5% para o Brasil não altera estagnação econômica.
 
 Depois de encolher 6,8% em 2020, a economia latino-americana crescerá 5,2% em 2021. Mesmo assim, a expansão será insuficiente para reverter a crise econômica gerada pela pandemia de covid-19. A estimativa foi divulgada nesta quinta-feira (8) pela Comissão Econômica para a América Latina e o Caribe (Cepal).
@@ -32,10 +31,6 @@ Segundo a Cepal, a situação do Brasil é menos ruim que a dos demais países d
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

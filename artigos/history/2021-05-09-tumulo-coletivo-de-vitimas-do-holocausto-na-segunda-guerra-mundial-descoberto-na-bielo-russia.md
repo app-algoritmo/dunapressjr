@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 O túmulo continha fragmentos de ossos e esqueletos, alguns com balas no crânio e outros com sapatos espalhados ao lado do corpo, além de munições e objetos pessoais.
 
 Quase dois anos depois que uma vala comum de vítimas do Holocausto foi descoberta em Brest, Bielo-Rússia, o país descobriu outra sepultura perto da vila de Logoza. Em 30 de abril, várias fontes de mídia enviaram imagens da sepultura de cinco metros de profundidade e dos restos mortais dentro do local.
@@ -32,7 +31,3 @@ Fonte: https://www.jpost.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

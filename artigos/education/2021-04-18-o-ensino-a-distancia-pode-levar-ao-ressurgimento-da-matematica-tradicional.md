@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 ## -Escolas em muitos países estão fechadas e parece que podem permanecer fechadas nos próximos meses.
 
 Para garantir que os alunos não fiquem muito para trás, os professores estão criando programas de ensino à distância. Esses programas são, no entanto, medidas provisórias destinadas a garantir que os alunos continuem aprendendo durante esse período de mudanças devido ao contágio da doença chinesa. A realidade é que, para a maioria dos alunos, o ensino online é um substituto insatisfatório para o ensino e aprendizagem presencial.
@@ -44,9 +43,7 @@ Felizmente, os pais se sentirão autorizados a fazer com que seus filhos pratiqu
 
 Depois de experimentar o sucesso que vem do ensino de matemática tradicional, os alunos não vão querer voltar a descobrir a matemática quando as aulas regulares forem retomadas. Nem deveriam ser obrigados.
 
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!
 
 ## Ver também
 
@@ -59,5 +56,3 @@ https://dunapress.org/2021/04/17/aos-48-anos-ela-concluiu-matematica-do-fundamen
 https://dunapress.org/2021/04/18/o-que-as-criancas-gostam-de-ler/
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

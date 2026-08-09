@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Estão sendo contemplados 212 mil contribuintes, entre prioritários e não prioritários. O valor total do crédito é de R$ 210 milhões.
 
 A partir das 10 horas desta quinta-feira (24), o lote de restituição do IRPF do mês de março de 2022 estará disponível para consulta. Esse lote contempla restituições residuais de exercícios anteriores. O crédito bancário para 212.711 contribuintes será realizado no dia 31 de março, no valor total de R$210 milhões.
@@ -27,8 +26,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

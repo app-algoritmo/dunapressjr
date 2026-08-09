@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Boa Vista/RR - A Força Integrada de Combate ao Crime Organizado de Roraima - FICCO, coordenada pela Polícia Federal e integrada pelas polícias Civil e Militar e pelas secretarias da Justiça e Cidadania e da Segurança Pública de Roraima, prendeu, com apoio do CHOQUE da PM/RR, um suspeito de participar de organização criminosa e de ser o responsável por possíveis atos de execução de membros da segurança pública em Roraima.
 
 Após confronto em ação conjunta da FICCO/RR, Divisão de inteligência e Captura da Secretaria de Segurança Pública de Roraima e do Choque da PM/RR que resultou na morte de um suspeito em 28/4/2020, lideranças de uma facção criminosa em Roraima teriam determinado a execução de membros das forças de Segurança Pública no estado.
@@ -21,5 +20,3 @@ O suspeito confessou aos policiais que integra a organização criminosa e que �
 Além do cumprimento do mandado de prisão em aberto, o homem foi preso integrar organização criminosa, cuja pena pode ultrapassar 12 anos, e encaminhado ao sistema prisional, onde permaneceu à disposição da Justiça.
 
 Comunicação da Polícia Federal em Roraima
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -8,7 +8,6 @@ categories:
 - Video library
 ---
 
-
 ## Baseado em um romance israelense de sucesso, o filme 'Pastor: a história de um cachorro judeu' analisa narrativas complexas para transmitir lições históricas e éticas para as gerações mais jovens.
 
 Cruze “Lassie Come Home” com o Holocausto e você terá [“Shepherd: A História de um Cachorro Judeu”,](https://www.imdb.com/title/tt3278810/?ref_=fn_al_tt_1) um filme que estreou nos Estados Unidos em 28 de maio.
@@ -38,7 +37,3 @@ Fonte: The Time Of Israel
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

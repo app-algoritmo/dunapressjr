@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Relator endossou conclusões da equipe técnica do tribunal.
 
 O Tribunal de Contas da União (TCU) aprovou, com ressalvas, as contas do governo federal relativas ao ano de 2021. Unânime, a anuência dos ministros da corte ocorreu nesta quarta-feira (29), após o relator da análise dos gastos públicos federais, ministro Aroldo Cedraz, endossar as conclusões de técnicos do tribunal.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

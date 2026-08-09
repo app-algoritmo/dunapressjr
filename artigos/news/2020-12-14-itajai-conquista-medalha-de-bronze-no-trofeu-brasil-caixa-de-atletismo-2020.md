@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O atleta Anderson Fagundes Ferreira conquistou, na manhã desta sexta-feira (11), a medalha de bronze na modalidade de lançamento de disco no Troféu Brasil Caixa de Atletismo. Com a marca 51,91m, Anderson ficou à frente do recordista Brasileiro e Sul-americano Ronald Julião, que ficou na quarta colocação com a marca de 51,69m. O atleta de Itajaí representa a equipe ACA/ FMEL / APM Terminals por meio da Fundação Municipal de Esporte e Lazer (FMEL).
 
 “Esse é um momento único para mim. Estou treinando há quatro anos para melhorar minha marca e ganhar uma medalha nesta competição é para poucos. Agora posso dizer que estou entre essa minoria”, ressalta Anderson Fagundes Ferreira.
@@ -35,7 +34,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

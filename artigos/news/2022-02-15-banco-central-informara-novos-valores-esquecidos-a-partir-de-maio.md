@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Segunda etapa da consulta abrangerá mais R$ 4,1 bilhões não sacados.
 
 Quem fez a consulta a valores esquecidos nos bancos e foi informado de que não tinha nada a receber terá de repetir o procedimento nos próximos meses. Em maio, o Banco Central (BC) ampliará a base de dados para incluir novos tipos de saldos residuais.
@@ -54,8 +53,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

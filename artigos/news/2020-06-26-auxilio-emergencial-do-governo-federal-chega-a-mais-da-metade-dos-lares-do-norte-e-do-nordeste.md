@@ -8,12 +8,11 @@ categories:
 - News
 ---
 
-
 ## Pesquisa do IBGE indica que benefício chegou a 38,7% dos domicílios brasileiros em maio, com valor médio de R$ 846,50 por residência.
 
 O Auxílio Emergencial chegou a 38,7% dos domicílios brasileiros em maio. É o que aponta a **[Pesquisa Nacional por Amostra de Domicílios (Pnad) Covid-19 realizada pelo IBGE para estimar os impactos da pandemia do novo coronavírus na saúde e no mercado de trabalho do país](https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/09b14fa5421b250ce1e2d800aef76516.pdf)**. No Norte e no Nordeste, o percentual superou os 50% de lares.
 
-O valor médio do benefício foi de R$ 846,50 por residência no país. São 26,3 milhões dos 68 milhões de domicílios brasileiros que tiveram acesso ao Auxílio Emergencial. Desse total de lares contemplados, 82% possuíam renda domiciliar per capita de até R$ 832,65, ou seja, em muitos casos inferior ao valor do benefício obtido. 
+O valor médio do benefício foi de R$ 846,50 por residência no país. São 26,3 milhões dos 68 milhões de domicílios brasileiros que tiveram acesso ao Auxílio Emergencial. Desse total de lares contemplados, 82% possuíam renda domiciliar per capita de até R$ 832,65, ou seja, em muitos casos inferior ao valor do benefício obtido.
 
 “O resultado mostra que o benefício criado pelo Governo Federal para que a população mais vulnerável enfrente os problemas causados pela crise compensou boa parte da perda de renda dessas famílias”, afirmou o ministro da Cidadania, Onyx Lorenzoni.
 
@@ -31,7 +30,7 @@ Nordeste e Norte mostraram os maiores percentuais de pessoas afastadas do trabal
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

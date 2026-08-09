@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Bolsa subiu 2,13%, impulsionada por varejo e commodities.
 
 A divulgação de indicadores econômicos fracos nos Estados Unidos fez o dólar cair e fechar abaixo de R$ 5,10 pela primeira vez em uma semana. Beneficiada pelo lucro de empresas varejistas e pela recuperação das *commodities* (bens primários com cotação internacional), a bolsa de valores subiu mais de 2%, após duas quedas seguidas.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

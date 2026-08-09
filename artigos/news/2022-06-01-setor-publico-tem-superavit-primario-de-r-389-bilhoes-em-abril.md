@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O governo central apresentou superávit R$ 29,638 bilhões.
 
 O setor público consolidado registrou superávit primário de R$ 38,9 bilhões em abril, informou nesta terça-feira (31) o Banco Central. Nos últimos 12 meses, as contas públicas apresentam resultado positivo de R$ 137,4 bilhões, o equivalente a 1,52% do Produto Interno Bruto (PIB, soma dos bens e dos serviços produzidos no país).
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Maiores altas foram observadas nos estados do Amazonas e Ceará.
 
 A produção industrial cresceu em 14 dos 15 locais pesquisados pelo Instituto Brasileiro de Geografia e Estatística (IBGE), na passagem de maio para junho deste ano. As maiores altas foram observadas nos estados do Amazonas (65,7%) e do Ceará (39,2%), de acordo com dados da Pesquisa Industrial Mensal divulgados hoje (11).
@@ -26,4 +25,4 @@ Já no acumulado de 12 meses, foram observadas quedas em 12 locais, com destaque
 
 Fonte: Agência Brasil –Imagem de destaque: CHYNA DAILY/Reuters/Direitos Reservados
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

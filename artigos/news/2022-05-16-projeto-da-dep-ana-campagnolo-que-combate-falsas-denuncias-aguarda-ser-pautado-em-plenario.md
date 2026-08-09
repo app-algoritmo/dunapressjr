@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Nas últimas semanas, a mídia internacional reproduziu um caso emblemático do ator Johnny Depp, que teve sua carreira sistematicamente arruinada por acusações de agressão - a respeito do que ainda há muito a ser esclarecido - por parte de sua ex-companheira, Amber Heard. O fato é que essa pauta - o combate às falsas denúncias que chegam às autoridade - é tema de um PL da parlementar.
 
 Até pouco tempo, a patrulha progressista do politicamente correto não media esforços para desqualificar a deputada, a qual, com o projeto, visa contestar a instrumentalização do Estado para fins espúrios, como a destruição do indivíduo por denúncias caluniosas.
@@ -34,7 +33,3 @@ Santa Catarina permanece na expectativa de que esse PL seja logo colocado em pau
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

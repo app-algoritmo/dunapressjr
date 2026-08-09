@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Sobreposta à paisagem árida do deserto de Negev, está uma tela abrangente de história, cultura e adoração humanas - se você souber onde procurar.
 
 Um dos melhores lugares para encontrar esse panorama é o Monte Karkom (batizado em homenagem a um açafrão do deserto), que fica escondido em um canto remoto do sudoeste de Negev, perto da fronteira com a Península do Sinai, no Egito. Situada a 847 metros (2.780 pés) acima do nível do mar, ela é cercada por leitos de rios secos e coberta por um planalto desolado repleto de pedaços de pedra marrom-escura de qualidade particularmente alta.
@@ -153,7 +152,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

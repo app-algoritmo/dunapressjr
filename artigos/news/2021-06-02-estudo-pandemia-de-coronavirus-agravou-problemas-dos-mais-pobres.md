@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Uma nova pesquisa desmascara a teoria de que os pobres sofreram menos devido à falta de interrupção em seus estipêndios mensais de subsistência.
 
 Uma nova pesquisa da Universidade de Haifa descobriu que, em contradição com a crença de que aqueles que vivem de estipêndios do governo seriam menos afetados pela pandemia de coronavírus, na verdade as pessoas mais pobres sofreram mais com isso, relatou *Maariv*
@@ -35,7 +34,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

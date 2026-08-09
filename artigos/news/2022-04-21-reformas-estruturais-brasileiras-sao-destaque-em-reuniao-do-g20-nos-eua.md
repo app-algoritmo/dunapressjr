@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Ministro da Economia ressaltou que o país tem mais de US$ 200 milhões em investimentos privados para os próximos anos.
 
 O ministro da Economia, Paulo Guedes, participou nesta quarta-feira (20), em Washington, nos Estados Unidos, da segunda reunião de ministros de Finanças do G20 em 2022, sob a presidência da Indonésia. Guedes destacou pontos como o processo de modernização e aprimoramento do ambiente de negócios no Brasil, as reformas estruturais, o aperfeiçoamento dos marcos regulatórios, a aceleração da digitalização dos serviços públicos, o avanço do processo de privatizações e concessões e a ampliação da inserção internacional.
@@ -28,8 +27,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

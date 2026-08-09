@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Operação Oficina Desmascarada investiga fraudes na contratação emergencial de empresas para fornecimento de equipamentos de proteção individual.
 
 A Controladoria-Geral da União (CGU) participa, nesta sexta-feira (30), no Maranhão, da Operação Oficina Desmascarada. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é combater irregularidades contratuais e em licitações relacionadas à compra de equipamentos de proteção individual (EPIs) para utilização nas ações de combate à Covid-19.
@@ -33,5 +32,3 @@ A Operação Oficina Desmascarada consiste no cumprimento de 2 mandados de pris�
 Fonte: Controladoria-Geral da União
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

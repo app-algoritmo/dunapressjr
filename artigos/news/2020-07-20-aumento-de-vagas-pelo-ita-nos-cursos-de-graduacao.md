@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O Instituto passa a oferecer 30 vagas a mais a partir do próximo exame de admissão.
 
 O Instituto Tecnológico de Aeronáutica (ITA), localizado em São José dos Campos (SP), vai oferecer 25% a mais na quantidade de vagas para todos os cursos de graduação a partir de 2021. Com isso, a quantidade total passou de 120 para 150 no próximo exame de admissão a ser realizado ainda este ano, sendo 119 para os que decidirem cursar a graduação como civis e 31 para aqueles que optarem por realizar o curso seguindo a carreira militar no Quadro de Oficiais Engenheiros (QOEng).
@@ -15,8 +14,6 @@ O Instituto Tecnológico de Aeronáutica (ITA), localizado em São José dos Cam
 A Portaria do Comandante da Aeronáutica, que define o número de alunos para cada um dos seis cursos de graduação em Engenharia do ITA, foi publicada nessa quinta-feira (16). O Governo Federal vem estimulando o aumento na formação de engenheiros com o objetivo de atender a demanda por mão de obra qualificada no setor produtivo nacional. Com foco nesta orientação, o Comando da Aeronáutica (COMAER) vem alinhando esforços no suporte conjunto à expansão do ITA.
 
 “Como referência mundial na área de ciência e tecnologia, é extremamente importante que o ITA tenha esse aumento de engenheiros qualificados para atender as demandas nacionais e para o desenvolvimento de projetos espaciais”, declarou o Diretor-Geral do Departamento de Ciência e Tecnologia Aerespacial (DCTA), organização a qual o ITA é subordinado, Major-Brigadeiro do Ar Hudson Costa Potiguara.
-
-[](https://www.fab.mil.br/sis/enoticias/imagens/original/40587/25044757236_241fa5fb09_c.jpg)
 
 De acordo com o Reitor do ITA, Professor Anderson Ribeiro Correia, o Instituto vem trabalhando para suprir a infraestrutura física e de pessoal que dê o suporte necessário ao aumento do número de alunos, mantendo e, até mesmo, elevando o nível de excelência na formação de profissionais de Engenharia. “A ampliação no corpo discente do Instituto demonstra as expectativas positivas sobre nossa Instituição e, ao mesmo tempo, a confiança na retomada do crescimento por parte da nossa Nação”, ressaltou.
 
@@ -47,7 +44,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Moeda norte-americana subiu pela terceira sessão seguida
 
 Num dia de tensões no mercado externo em torno da pandemia do novo coronavírus, o dólar fechou no maior valor em um mês, e a bolsa de valores caiu. O dólar comercial encerrou esta sexta-feira (26) vendido a R$ 5,465, com alta de R$ 0,137 (+2,58%). A cotação está no nível mais alto desde 22 de maio, quando tinha fechado em R$ 5,574.
@@ -26,4 +25,4 @@ Outro fator que aumentou o pessimismo no mercado norte-americano foi a decisão 
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

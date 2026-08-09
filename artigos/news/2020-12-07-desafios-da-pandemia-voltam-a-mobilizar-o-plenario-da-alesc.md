@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Pela segunda semana consecutiva a sessão desta quinta-feira (3) na Assembleia Legislativa teve a pandemia como tema principal. A preocupação com os alarmantes índices de contaminação, de transmissibilidade e de mortes causada pela Covid-19, bem como o desafio de manter a economia em funcionamento no Estado neste período marcou os debates entre os deputados.
 
 A deputada Ada de Luca (MDB) informou que, poucos minutos antes da sessão desta manhã, recebeu ligação do secretário de Saúde de Criciúma, Acélio Casagrande. “Ele estava desesperado, pedindo para que falássemos com o governador Carlos Moisés e o secretário de Estado da Saúde, André Mota Ribeiro”, contou. A queixa, disse a parlamentar, é que a ação para o enfrentamento ao novo coronavírus estaria muito lenta. “É preciso apresentar urgente um plano para os próximos meses, com mais leitos de UTI e respiradores. Essa explosão [no número de casos] a gente sabia que iria acontecer e veio devastadora lá no Sul de Santa Catarina”, lamentou Ada.
@@ -64,7 +63,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Dólar oscilou, mas fechou a R$ 5,43, com leve alta.
 
 Num dia de alívio global após as turbulências da terça-feira (28), a bolsa de valores subiu e recuperou parte das perdas da véspera. O dólar oscilou bastante, alternando altas e baixas, mas fechou praticamente estável, com leve alta, em contraste com outras moedas de países emergentes, que se desvalorizaram mais.
@@ -24,10 +23,6 @@ Dados econômicos brasileiros também contribuíram para diminuir o pessimismo n
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

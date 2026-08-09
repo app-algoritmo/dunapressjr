@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Processos seletivos vão de 15 a 27 de julho, e as aulas começam 3 de agosto.
 
 Quem quer aproveitar o segundo semestre para se preparar para o mercado de trabalho, não pode perder as oportunidades do Programa Novos Caminhos, do Ministério da Educação. Serão 24.730 mil vagas em cursos de qualificação profissional, todas gratuitas e a distância em 11 instituições federais de ensino.
@@ -33,7 +32,7 @@ Fonte: gov.br / Imagem em destaque: Ddl
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

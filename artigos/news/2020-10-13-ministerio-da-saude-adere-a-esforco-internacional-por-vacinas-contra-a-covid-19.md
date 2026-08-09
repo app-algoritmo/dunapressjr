@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Saúde aderiu ao Instrumento de Acesso Global de Vacinas Covid-19 (Covax Facility). A adesão irá permitir que o Brasil tenha, entre suas opções, pelo menos mais nove vacinas em desenvolvimento. Desta forma, assim que concluída uma vacina de comprovada eficácia e segurança, o país poderá imunizar os grupos de risco da doença a partir de 2021.
 
 Nesta quinta-feira (24/09), o Governo Federal anunciou o investimento de R$ 2,5 bilhões para a entrada do país na Covax Facility, por meio da Medida Provisória No 1.004, de 24 de setembro de 2020.
@@ -27,5 +26,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

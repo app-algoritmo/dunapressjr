@@ -36,7 +36,7 @@ Na McLaren ele conseguiu sua chance e demonstrou grande potencial, deixando para
 
 **Imagem em destaque:** Globo Esporte, Outlook India, 3Legs4Wheels, O popular
 
-https://dunapress.org/produto/assinatura-leitor-premio/?aff=milah44
+https://dunapress.org/produto/assinatura-leitor-premio/
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o
 

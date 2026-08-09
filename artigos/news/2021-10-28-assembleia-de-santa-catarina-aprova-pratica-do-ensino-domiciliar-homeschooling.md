@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Por maioria de votos, o Plenário aprovou na tarde desta quarta-feira (27) o Projeto de Lei Complementar (PLC) 3/2019, de autoria do deputado Bruno Souza (Novo), que regulamenta o ensino domiciliar em Santa Catarina, conhecido como homeschooling. A matéria recebeu emenda substitutiva global que, entre outras mudanças, com o objetivo de aprimorar a proteção aos educandos, determina a garantia de tutela do Estado, a conceituação de aptidão técnica e a proibição do ensino domiciliar aos pais com medidas protetivas.
 
 A aprovação da matéria, em dois turnos, foi acompanhada por vários pais que defendiam a proposta. Para aprovação do PLC eram necessários 21 votos dos 40 deputados e no primeiro turno a proposta recebeu 25 votos favoráveis, seis contrários e uma abstenção. Já no segundo turno a votação foi mais apertada, recebeu 21 votos favoráveis, seis contrários e uma abstenção. Matéria segue para sanção ou não do governador Carlos Moiséis (sem partido).
@@ -33,7 +32,3 @@ Fonte: AGÊNCIA AL
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

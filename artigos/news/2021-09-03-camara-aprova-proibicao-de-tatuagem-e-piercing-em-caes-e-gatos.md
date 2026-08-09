@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Plenário da Câmara dos Deputados aprovou por 397 votos a favor e duas abstenções proposta do deputado [Fred Costa (Patriota-MG)](https://www.camara.leg.br/deputados/204494) que proíbe a realização de tatuagens em animais com fins estéticos. O ato será sujeito a detenção de três meses a um ano e multa. A proposta segue para análise do Senado.
 
 O texto aprovado é o substitutivo do relator, deputado [Paulo Bengtson (PTB-PA)](https://www.camara.leg.br/deputados/204538), ao [Projeto de Lei 4206/20](https://www.camara.leg.br/noticias/684554-projeto-proibe-tatuagem-estetica-em-animais). O texto aprovado deixa explícito que a proibição se aplica apenas a tatuagens e piercings realizados por motivos estéticos em cães e gatos. O objetivo é evitar qualquer questionamento sobre a legalidade de procedimentos utilizados na identificação, rastreabilidade e certificação de animais de produção do agronegócio – bois, cavalos e porcos.
@@ -40,7 +39,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O índice acumula alta de 20,95% em 12 meses.
 
 O Índice Geral de Preços – Disponibilidade Interna (IGP-DI) avançou 1,60% em outubro, após [**queda de 0,55%**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-10/inflacao-medida-pelo-igp-di-caiu-055-em-setembro), no mês anterior. O indicador acumula alta de 16,96% no ano e de 20,95% em 12 meses.
@@ -44,10 +43,6 @@ A alta do Índice Nacional de Custo da Construção (INCC) ficou em 0,86%. No m�
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

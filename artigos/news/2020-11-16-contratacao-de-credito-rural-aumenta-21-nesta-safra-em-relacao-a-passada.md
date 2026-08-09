@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Com a produção no campo batendo seguidos recordes, nos quatro primeiros meses do Plano Safra 2020/2021, de julho a outubro, as contratações de crédito rural dos produtores, cooperativas e agroindústrias aumentaram 21%, quando comparado com o mesmo período do ano passado.
 
 As contratações já atingiram R$ 92,63 bilhões, o que representa cerca de 40% do valor disponível, de acordo com o Ministério da Agricultura, Pecuária e Abastecimento.
@@ -41,5 +40,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

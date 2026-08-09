@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Tecnologia vai permitir identificar as árvores destinadas ao corte seletivo e o rastreamento de cada produto florestal. Sistema permite o rastreamento da madeira até o seu local de origem, auxiliando no combate ao desmatamento ilegal.
 
 O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) lançou, nessa terça-feira (8), o Sinaflor+, sistema que traz um maior controle no manejo da madeira, rastreando a origem e fortalecendo o combate ao desmatamento ilegal.
@@ -29,5 +28,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor.
 
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

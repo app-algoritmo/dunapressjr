@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Está aberto o processo seletivo para o Programa Doutorado-Sanduíche no Exterior (PDSE) oferecido pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes). A seleção prevista no Edital nº 19/2020 permite que alunos matriculados em cursos de doutorado avaliados com nota quatro ou maior na última quadrienal, que comprovem fluência na língua estrangeira da instituição de destino, façam parte da formação no exterior.
 
 Heloísa Hollnagel, diretora de Relações Internacionais da Capes, explicou que a habilidade no idioma de destino é exigida para que o aluno consiga interagir num laboratório internacional, melhorando a experiência: “Eu recomendo a todos que têm intenção de fazer mobilidade que invistam no aprimoramento de um segundo idioma para facilitar a sua formação e ampliar a produção científica brasileira em coautoria”.
@@ -30,7 +29,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

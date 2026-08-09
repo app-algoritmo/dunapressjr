@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa fechou em alta de 1,05% e recupera os 98 mil pontos.
 
 Depois de duas sessões de queda, a moeda norte-americana voltou a subir nesta terça-feira (13), impulsionada pela adversidade nos mercados externos. O dólar comercial fechou o dia vendido a R$ 5,581, com alta de R$ 0,054 (+0,98%).
@@ -25,5 +24,3 @@ Apesar do cenário internacional adverso, a bolsa fechou em alta influenciada po
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Bruno Domingos/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

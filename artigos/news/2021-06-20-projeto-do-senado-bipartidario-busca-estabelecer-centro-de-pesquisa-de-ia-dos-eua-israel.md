@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O senador Blackburn disse que "combater o avanço crescente da Inteligência Artificial da China e sua presença desestabilizadora é essencial para a segurança global".
 
 Um novo projeto de lei do Senado visa estabelecer um  Centro de Pesquisa e Desenvolvimento de Inteligência Artificial EUA-Israel  “para promover a cooperação bilateral em IA e contribuir para o avanço deste campo crítico”.Os senadores dos EUA Marco Rubio (R-FL), Maria Cantwell (D-WA), Marsha Blackburn (R-TN) e Jacky Rosen (D-NV) introduziram a legislação bipartidária.
@@ -38,7 +37,3 @@ Fonte: https://www.jpost.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa de valores registra maior queda diária desde outubro.
 
 Em um dia de nervosismo no mercado financeiro, tanto no Brasil quanto no exterior, o dólar voltou a aproximar-se de R$ 5,50. A bolsa de valores teve a maior queda diária desde outubro, depois de bater recorde no início de janeiro.
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

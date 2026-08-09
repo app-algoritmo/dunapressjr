@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Retomada parcial foi autorizada pelo Governo Federal.
 
 O Governo Federal, por meio do Ministério da Economia, autorizou na sexta-feira (10), às instituições financeiras que operam com recursos do Plano Safra a retomarem parcialmente as contratações de financiamentos rurais subvencionadas no âmbito do Plano Safra 2021/2022.
@@ -68,8 +67,4 @@ Prodecoop
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

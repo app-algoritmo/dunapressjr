@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Um quadro aflitivo em que há tontura giratória, geralmente acompanhada de náusea e vômito. Em alguns casos, pressão ou barulho no ouvido, uma espécie de zumbido. Esses são os principais sinais de que a pessoa pode estar com labirintite, uma infecção no labirinto, o órgão responsável pelo equilíbrio, localizado dentro da orelha interna.
 
 A doença que acomete pessoas de todas as idades, das crianças à terceira idade, pode ser desencadeada por diferentes motivos.
@@ -24,7 +23,7 @@ Muitas vezes qualquer tipo de tontura é chamado de Labirintite. O que é um err
 
 Quais são as causas e sintomas?
 
-Os sintomas como a tontura, desequilíbrio, náusea, podem ter origem em problemas do próprio labirinto, como doença de Meniére, vertigem postural paroxística benigna, otites, neuronites, fístulas liquóricas, doença de Cogan, entre outros. Mas também pode ser causado por alterações ou lesões de origem do sistema nervoso central, como tumores, acidentes vasculares, malformação de crânio, doenças neurodegenerativas, entre outras. 
+Os sintomas como a tontura, desequilíbrio, náusea, podem ter origem em problemas do próprio labirinto, como doença de Meniére, vertigem postural paroxística benigna, otites, neuronites, fístulas liquóricas, doença de Cogan, entre outros. Mas também pode ser causado por alterações ou lesões de origem do sistema nervoso central, como tumores, acidentes vasculares, malformação de crânio, doenças neurodegenerativas, entre outras.
 
 Qual é o diagnóstico?
 
@@ -54,7 +53,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

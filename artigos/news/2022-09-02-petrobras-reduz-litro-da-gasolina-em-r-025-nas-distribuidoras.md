@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medida entrará em vigor nesta sexta-feira.
 
 O preço médio de venda de gasolina A da Petrobras para as distribuidoras, a partir desta sexta-feira (2), passará de R$ 3,53 para R$ 3,28 por litro. A mudança, segundo a companhia, representa uma redução de R$ 0,25 por litro.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

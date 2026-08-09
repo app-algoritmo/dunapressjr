@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No acumulado do ano, a União honrou R$ 1,55 bilhão.
 
 O governo federal pagou R$ 1,145 bilhão em dívidas atrasadas de estados em fevereiro deste ano, informou nesta segunda-feira (7) a Secretaria do Tesouro Nacional (STN). Desse total, R$ 818,64 milhões foram relativos a inadimplências do Estado de Minas Gerais, R$ 255,24 milhões do Estado de Goiás, R$ 66,76 milhões do Estado do Rio de Janeiro e R$ 5,13 milhões do Estado do Rio Grande do Norte.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### No mês, foram fabricadas 238 mil unidades contra 219 mil de julho.
 
 A produção de veículos aumentou 8,7% em agosto na comparação com julho, ao alcançar 238 mil unidades ante 219 mil do mês anterior. Na comparação com agosto do ano passado, a expansão foi de 43,9%. No acumulado do ano a produção chegou a 1.478,6 mil unidades, 4,7% a mais do que o registrado no mesmo período de 2021. Os dados foram divulgados nesta sexta-feira (9), em São Paulo, pela Associação Nacional de Fabricantes de Veículos Automotores (Anfavea).
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

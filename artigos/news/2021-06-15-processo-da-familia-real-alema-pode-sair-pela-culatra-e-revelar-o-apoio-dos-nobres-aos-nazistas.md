@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Embora a aristocracia seja frequentemente elogiada pelo complô de julho de 1944 para matar Hitler, as evidências em um pedido de indenização buscado pela casa dos Hohenzollern podem expor um armário cheio de esqueletos.
 
 Nenhum momento na história da resistência alemã ao nazismo recebeu maior atenção - ou foi mais mitificado - do que a “Conspiração de julho” de 1944, quando a bomba do conde Claus von Stauffenberg esteve perto de assassinar Adolf Hitler. Os conspiradores, proclamou o ex-chanceler alemão Helmut Kohl em 1994, foram "os mais nobres e maiores" indivíduos "que já foram produzidos na história da humanidade".
@@ -128,7 +127,3 @@ Fonte: timesofisrael.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

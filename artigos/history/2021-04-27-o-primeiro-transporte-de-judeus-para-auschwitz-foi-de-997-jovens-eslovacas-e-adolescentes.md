@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 ## Novo livro detalha como mulheres solteiras foram induzidas a aparecer para deportação e segue os poucos que conseguiram sobreviver a três longos anos de inferno na terra.
 
 Quando a Alemanha nazista ocupou grande parte da Polônia no início da Segunda Guerra Mundial, os pais de Erna e Fela Dranger enviaram suas filhas de sua casa em Tylicz para a cidade de Humenné, no leste da Eslováquia. Sua prima Dina Dranger foi com eles. Erna, 20, e Fela e Dina, ambos com 18, encontraram empregos e se estabeleceram na comunidade judaica local de Humenné. Em algum momento, Fela mudou-se para a capital da Eslováquia, Bratislava, com um amigo.
@@ -91,5 +90,3 @@ Fonte: https://www.timesofisrael.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

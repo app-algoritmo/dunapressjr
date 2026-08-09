@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dólar cai para R$ 5,42, apesar de pressões externas.
 
 Beneficiada pelo fluxo estrangeiro, a bolsa de valores subiu pelo terceiro dia seguido e atingiu o maior nível desde outubro. O dólar iniciou a quinta-feira em forte baixa, mas fechou com pequena queda, perto da estabilidade, com a piora do mercado de câmbio durante a tarde.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

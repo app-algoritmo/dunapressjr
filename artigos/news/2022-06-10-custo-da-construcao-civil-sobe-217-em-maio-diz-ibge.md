@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Esta é a maior taxa desde julho de 2021.
 
 O Índice Nacional da Construção Civil (Sinapi), calculado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), registrou alta de preços de 2,17% em maio deste ano. A taxa ficou acima do 1,21% de abril, segundo dados divulgados nesta quinta-feira (9).
@@ -20,8 +19,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

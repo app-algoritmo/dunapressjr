@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Equipamentos serão usados para combater propagação do coronavírus nas penitenciárias.
 
-O Governo da Paraíba, por meio da Secretaria de Estado de Administração Penitenciária (Seap), recebeu, nessa terça-feira (16), mais de 95.205 Equipamentos de Proteção Individual (EPIs) para combater a propagação do novo coronavírus nas unidades prisionais da Paraíba. A aquisição desses equipamentos ocorreu em parceria com o Departamento Penitenciário Nacional (Depen). 
+O Governo da Paraíba, por meio da Secretaria de Estado de Administração Penitenciária (Seap), recebeu, nessa terça-feira (16), mais de 95.205 Equipamentos de Proteção Individual (EPIs) para combater a propagação do novo coronavírus nas unidades prisionais da Paraíba. A aquisição desses equipamentos ocorreu em parceria com o Departamento Penitenciário Nacional (Depen).
 
 “A chegada desses milhares de equipamentos é mais um avanço para que o sistema penitenciário da Paraíba continue combatendo a Covid-19 entre os detentos e policiais penais. A gente já vinha fazendo o trabalho de distribuição das máscaras, tanto das que são confeccionadas na penitenciária feminina Julia Maranhão e nas demais unidades femininas do Estado, como também das máscaras cirúrgicas que já haviam sido adquiridas através do Depen. Com esses novos EPIs, vamos intensificar essas entregas para que a gente possa proteger ainda mais a população carcerária, evitando o contágio com esse vírus”, destaca o secretário de Administração Penitenciária, Sérgio Fonseca.
 
@@ -20,4 +19,4 @@ Desde o início da pandemia, a Seap criou um plano de contingência à Covid-19 
 
 Fonte: paraiba.pb.gov.br – Imagem de destaque: Divulgação/Reprodução
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

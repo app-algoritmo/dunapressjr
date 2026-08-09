@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A caspa ou dermatite seborreica é uma inflamação na pele que causa principalmente descamação e vermelhidão em algumas áreas da face, como sobrancelhas e cantos do nariz, couro cabeludo, orelhas e tórax. Apresenta períodos de melhora e de piora dos sintomas.
 
 A causa não é totalmente conhecida, mas pode estar relacionada ao tipo de sebo produzido pela pele do indivíduo e a inflamação pode ter origem genética ou ser desencadeada por agentes externos, como alergias, situações de fadiga ou estresse emocional, baixa temperatura, consumo de álcool, alguns tipos de medicamentos e excesso de oleosidade.
@@ -43,7 +42,7 @@ Além disso, alguns cuidados podem ajudar na melhora dos sintomas, tais como:
 – não fazer coques ou prender os cabelos ainda úmidos ou molhados;
 – não usar produtos melados, como pomadas, diretamente no couro cabeludo – prefira substâncias e formulações líquidas, alcoólicas ou em forma de espuma;
 – tomar um pouco de sol todas as manhãs;
-**
+
 Outras informações**:
 
 – lavar o cabelo todos os dias não piora a doença, pelo contrário: a falta de limpeza pode agravar a situação;
@@ -54,7 +53,6 @@ Outras informações**:
 
 Dica elaborada em setembro de 2021
 
-**
 Fontes:**
 
 [Associação Brasileira do Comércio Farmacêutico (ABCFarma)](https://site.abcfarma.org.br/como-se-livrar-da-caspa-um-problema-que-aparece-com-mais-frequencia-no-inverno/)
@@ -72,7 +70,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

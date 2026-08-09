@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Inscritos no Bolsa Família e no Cadastro Único podem participar das oportunidades do programa Progredir. São postos de emprego para comércio, indústria, construção civil e transporte, entre outras áreas.
 
 Ofertas de emprego, cursos de qualificação e apoio ao empreendedorismo. O programa Progredir, do Ministério da Cidadania, está com 14 mil vagas abertas, de forma virtual, para pessoas que são atendidas pelo Bolsa Família e estão inscritas no Cadastro Único. São postos de emprego para comércio, indústria, construção civil e transporte, entre outras áreas. A maior parte das oportunidades não exige experiência e alto nível de escolaridade.
@@ -29,5 +28,3 @@ Coordenado pela Secretaria de Inclusão Social e Produtiva do Ministério da Cid
 - Qualificação profissional: cursos gratuitos profissionalizantes, educação financeira e inclusão digital;
 
 - Empreendedorismo (MEI): concessão de microcrédito para as famílias do CadÚnico investirem em pequenos negócios, e assistência técnica e inclusão financeira para trabalhadores autônomos inscritos no Cadastro.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

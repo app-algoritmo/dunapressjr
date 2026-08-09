@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Imposto é cobrado por municípios em cada transação imobiliária.
 
 Cobrado nas transações imobiliárias, o Imposto sobre a Transmissão de Bens Imóveis (ITBI) voltou à cena recentemente, quando a Caixa Econômica Federal permitiu que os custos com o tributo sejam [**incluídos nos financiamentos**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-07/Caixa-inclui-custo-com-cartorio-e-itbi-em-financiamento-imobiliario) da casa própria. Mas afinal, o que é e como é calculado o ITBI?
@@ -32,4 +31,4 @@ O ITBI também incide sobre imóveis na planta. Nessa situação, o cálculo con
 
 Fonte: Agência Brasil – Imagem de destaque: Jacy Construtora
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Câmara de Vereadores de Itajaí aprovou nesta terça-feira (1º), com 16 votos favoráveis, o [Projeto de Lei Ordinária nº 165/2020](http://www.cvi.sc.gov.br/public/elegis2/pdf/projetodeleiordinaria165_2020.pdf), de autoria do Executivo Municipal. O projeto autoriza O Serviço Municipal de Água, Saneamento Básico e Infraestrutura (Semasa), a conceder a isenção da tarifa de abastecimento de água entre 13 de outubro e 6 de novembro, período em que houve excesso de salinidade.
  
 Além disso, o projeto prorroga em trinta dias a data de pagamento das faturas com vencimento no período de 13 de outubro a 16 de novembro de 2020, sem a cobrança de juros, multa ou correção monetária.
@@ -45,7 +44,5 @@ SEU APOIO VOLUNTARIO É MUITO IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

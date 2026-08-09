@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Para criar um material alternativo e sustentável, eficiente e eficaz no manejo de pragas agrícolas, Silvana Rempel aplicou nanotecnologia em feromônios agrícolas – substâncias químicas exaladas por insetos. O resultado, além de satisfatório, ajuda a reduzir sensivelmente o uso de agrotóxicos nas plantações. A engenheira de Materiais fez o estudo durante seu mestrado em Engenharia e Ciência de Materiais, na Universidade de Caxias do Sul (UCS).
 
 Rempel explica que a nanotecnologia é uma alternativa adequada para manejar e controlar as pragas agrícolas, com vantagens específicas: “não impacta no meio ambiente e na saúde, tanto dos agricultores, como dos consumidores dos alimentos”. Ela frisa a importância da redução do uso de agroquímicos, já que estudos apontam a alta contaminação que eles causam nos alimentos.
@@ -33,7 +32,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Dólar à vista caiu 0,86% e fechou a R$ 5,2722.
 
 O dólar abriu a semana em baixa ante o real, seguindo o movimento da moeda no exterior em meio a otimismo com a retomada das economias, mas a divisa fechou a uma distância das mínimas, em meio a receios sobre segunda onda de casos de covid-19 no mundo.
@@ -36,4 +35,4 @@ Isso tudo torna o real uma "combinação não atraente de elevados riscos domés
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

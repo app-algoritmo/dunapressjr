@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Os vencedores do Concurso de máscaras "Pequenos heróis contra o vilão coronavírus" serão premiados após a pandemia do novo coronavírus. Gael Vaz Jordão, Helena de Oliveira, Hellen Bonicenha e Milena Santos Faria vão passar uma tarde no Palácio da Alvorada, em Brasília (DF), na companhia da primeira-dama, Michelle Bolsonaro, e da ministra Damares Alves.
 
 O passeio ainda não tem data definida. Programado inicialmente para ocorrer em dezembro, só poderá ser confirmado quando não houver mais risco para nenhum dos envolvidos na organização e nem para as crianças. Assim, a definição do dia exato dependerá da situação em que o país se encontrará após as medidas de controle sanitário adotadas para conter o avanço do contágio na capital federal.
@@ -46,6 +45,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

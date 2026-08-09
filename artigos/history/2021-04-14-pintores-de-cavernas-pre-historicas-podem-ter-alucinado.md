@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 ## Artigo publicado no jornal Time and Mind afirma que os homens das cavernas entraram em estados alucinógenos devido à falta de oxigênio em um esforço potencial para 'manter sua conexão com o cosmos'.
 
 Privados de oxigênio nas cavernas da Europa pré-histórica, os primeiros humanos podem ter ficado chapados e entrando em estados alucinógenos para criar sua arte atemporal, afirmam pesquisadores israelenses em um estudo recém-lançado.
@@ -36,7 +35,3 @@ Fonte: https://www.timesofisrael.com
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

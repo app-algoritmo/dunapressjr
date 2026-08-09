@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Foram cumpridos 16 mandados de busca e apreensão.
 
 A Polícia Federal deflagrou nesta quarta-feira (20) nas cidades de São Luís, Dom Pedro, Codó, Santo Antônio dos Lopes e Barreirinhas, no Maranhão, uma operação para desarticular uma associação criminosa que promove fraudes, desvios de recursos públicos e lavagem de dinheiro, envolvendo verbas federais da Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba (Codevasf).
@@ -22,7 +21,7 @@ O esquema funcionava com a criação de empresas de fachada ligadas aos integran
 
 Acrescentou que o esquema criminoso veio crescendo nos anos seguintes, passando a desviar verbas federais.
 
-“O líder desse grupo criminoso, além de colocar as suas empresas e bens em nome de terceiros, ainda possui contas bancárias vinculadas a CPFs [Cadastro de Pessoas  Físicas] falsos, utilizando-se desse instrumento para perpetrar fraudes e dificultar a atuação dos órgãos de controle”, disse a PF.
+“O líder desse grupo criminoso, além de colocar as suas empresas e bens em nome de terceiros, ainda possui contas bancárias vinculadas a CPFs [Cadastro de Pessoas Físicas] falsos, utilizando-se desse instrumento para perpetrar fraudes e dificultar a atuação dos órgãos de controle”, disse a PF.
 
 Ela não informou o nome do líder do grupo. Ao todo, participam da operação 80 policiais federais. Se confirmadas as suspeitas, os investigados poderão responder por fraude à licitação, lavagem de capitais e associação criminosa. Somadas, as penas podem chegar a 16 anos de prisão.
 
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

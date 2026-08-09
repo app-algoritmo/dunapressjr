@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Obra deverá beneficiar mais de um milhão de pessoas.
 
 O ministro do Desenvolvimento Regional, Rogério Marinho, anunciou nesta terça-feira (19) que a pasta lançará um processo de licitação para viabilizar estudos ambientais e um projeto de obras para criação do Canal do Sertão Baiano - obra que levará água para 44 cidades do interior da Bahia e deverá beneficiar 1,2 milhão de pessoas.
@@ -26,10 +25,6 @@ Segundo Marinho, a campanha Jornada das Águas tem como objetivo conscientizar p
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

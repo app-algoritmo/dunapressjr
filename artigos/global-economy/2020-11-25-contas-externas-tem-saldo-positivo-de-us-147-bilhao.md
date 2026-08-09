@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 É o 1º resultado positivo desde 2006, quando saldo foi de US$ 1,49 bi.
 
 As contas externas registraram saldo positivo em outubro pelo terceiro mês seguido, informou hoje (25), em Brasília, o Banco Central (BC). O superávit em transações correntes, que são as compras e vendas de mercadorias e serviços e transferências de renda do Brasil com outros países, chegou a US$ 1,473 bilhão, o primeiro saldo positivo no mês desde 2006 (US$ 1,494 bilhão).
@@ -22,13 +21,13 @@ Em 12 meses encerrados em outubro, o déficit chegou a US$ 15,3 bilhões (1,04% 
 
 ## Balança comercial
 
-Em outubro, as exportações de bens somaram US$ 17,958 bilhões e as importações, US$ 13,144 bilhões, resultando no superávit comercial de US$ 4,814 bilhões, contra US$ 1,803 bilhão no mesmo mês do ano passado. 
+Em outubro, as exportações de bens somaram US$ 17,958 bilhões e as importações, US$ 13,144 bilhões, resultando no superávit comercial de US$ 4,814 bilhões, contra US$ 1,803 bilhão no mesmo mês do ano passado.
 
 De janeiro a outubro, o superávit comercial chegou a US$ 41,540 bilhões, ante US$ 32,496 bilhões do mesmo período de 2019.
 
 ## Serviços
 
-O déficit na conta de serviços (viagens internacionais, transporte e aluguel de equipamentos, entre outros) atingiu US$ 1,637 bilhão em outubro, ante US$ 3,653 bilhões em igual período de 2019. 
+O déficit na conta de serviços (viagens internacionais, transporte e aluguel de equipamentos, entre outros) atingiu US$ 1,637 bilhão em outubro, ante US$ 3,653 bilhões em igual período de 2019.
 
 Nos dez meses do ano, o saldo negativo chegou a US$ 17,045 bilhões, resultado menor que o registrado de janeiro a outubro de 2019, de US$ 29,246 bilhões.
 
@@ -61,5 +60,3 @@ Fonte: Agência Brasil – Imagem de destaque: REUTERS/Rick Wilking/Direitos Res
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

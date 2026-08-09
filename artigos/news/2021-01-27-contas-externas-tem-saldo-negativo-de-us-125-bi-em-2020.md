@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultados foram impactados pela pandemia de covid-19, disse o BC.
 
 As contas externas registraram saldo negativo de US$ 12,517 bilhões em 2020, ou 0,87% do Produto Interno Bruto (PIB - a soma de todas as riquezas produzidas pelo país), o melhor resultado desde 2007, quando houve um pequeno superávit anual de US$ 408 milhões. Em 2019, o déficit havia sido de US$ 50,697 bilhões (2,70% do PIB) nas transações correntes, que são as compras e vendas de mercadorias e serviços e transferências de renda do Brasil com outros países.
@@ -54,8 +53,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

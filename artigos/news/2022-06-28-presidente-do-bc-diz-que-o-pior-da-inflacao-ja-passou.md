@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Afirmação foi feita durante o Décimo Fórum Jurídico de Lisboa.
 
 O presidente do Banco Central do Brasil, Roberto Campos Neto, disse nesta segunda-feira (27) que “o pior momento da inflação já passou”, e que, graças ao histórico de convívio que o Brasil teve com altos índices inflacionários, a autoridade monetária brasileira conseguiu “sair na frente”, adotando ferramentas capazes de frear o processo inflacionário.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

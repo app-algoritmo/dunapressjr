@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Pastas da Economia e de Minas e Energia emitiram nota.
 
 A privatização de refinarias da Petrobras encontra aval em decisões recentes do Supremo Tribunal Federal (STF) e do Conselho Administrativo de Defesa Econômica (Cade), destacaram, em nota conjunta, os Ministérios da Economia e de Minas e Energia. As duas pastas reagiram ao pedido de liminar do Congresso Nacional para que o STF bloqueie as operações.
@@ -26,4 +25,4 @@ A nota também ressaltou que um acordo do Cade, fechado em junho do ano passado,
 
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Diego Vara/Direitos Reservados
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

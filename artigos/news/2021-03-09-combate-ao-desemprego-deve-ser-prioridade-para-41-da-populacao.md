@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Segundo pesquisa da CNI, melhoria da saúde vem em segundo, com 39%.
 
 A criação de empregos deve ser a prioridade para o governo em 2021, juntamente com a melhoria da saúde. A conclusão consta da pesquisa Retratos da Sociedade Brasileira, divulgada hoje (9) pela Confederação Nacional da Indústria (CNI).
@@ -38,8 +37,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

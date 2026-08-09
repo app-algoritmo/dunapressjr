@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Dados são de pesquisa da CNC.
 
 Os estados da Região Norte estão entre as unidades da federação que responderam nos últimos meses, de forma mais intensa, pela aceleração do ritmo de recuperação do volume de vendas no varejo pós-pandemia. Foi o que apontou um levantamento realizado pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), com base no cruzamento de dados públicos de diversas fontes.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

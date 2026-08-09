@@ -7,7 +7,6 @@ categories:
 - Opinion
 ---
 
-
 Um caiu no esquecimento e o outro está em queda livre.
 
 Joaquim Barbosa, que foi indicado em 2003 pelo então presidente Luiz Inácio Lula da Silva, ao Supremo Tribunal Federal (STF). Os discursos progressistas da época ecoavam, onde se falava mais na questão de ser a primeira pessoa de cor a integrar a Suprema Corte, pouco se falava na qualificação da pessoa do então ministro.
@@ -65,5 +64,3 @@ Ajude-nos a levar o jornalismo independente a todas as partes!
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

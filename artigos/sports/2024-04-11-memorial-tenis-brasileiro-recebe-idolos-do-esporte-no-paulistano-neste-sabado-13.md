@@ -26,7 +26,7 @@ O Memorial foi idealizado e criado por Walmor Elias, ex presidente da Federaçã
 
 **Encontro com a imprensa às 11h -** Thomaz Koch, Carlos Alberto Kirmayr, Luiz Mattar, Patrícia Medrado, Júlio Góes e Paulo Cleto estarão ao lado de Walmor Elias para receber os jornalistas no encontro marcado para as 11h, no Paulistano.
 
-**Credenciamento** - Os jornalistas que forem cobrir o evento devem enviar nome, e-mail,  telefone e veículo de comunicação para [redacao@zdl.com.br](https://click.presskit.com.br/url/1007717e2ef/6361388b6fc) para liberar a entrada no clube. 
+**Credenciamento** - Os jornalistas que forem cobrir o evento devem enviar nome, e-mail,  telefone e veículo de comunicação para [redacao@zdl.com.br](https://click.presskit.com.br/url/1007717e2ef/6361388b6fc) para liberar a entrada no clube.
 
 **Transmissão ao vivo -** A assembléia de posse da diretoria do Instituto Memorial Tênis Brasileiro poderá ser acompanhada ao vivo, entre 10 e 11h30 deste sábado (13), pelo canal do Memorial no youtube. Link: [https://youtube.com/live/qodkLO6oFW4](https://youtube.com/live/qodkLO6oFW4)
 
@@ -39,5 +39,4 @@ ZDL
 Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](https://click.presskit.com.br/url/1007719ea34/6361388b6fc) - 11 984579723
 Deborah Mamone - MTb 15148  - [deborah@zdl.com.br](https://click.presskit.com.br/url/1007720c869/6361388b6fc) - 11 3285.5911
 Site: [www.zdl.com.br
-](https://click.presskit.com.br/url/10077214a17/6361388b6fc)Facebook: [www.facebook.com/ZDLSports](https://click.presskit.com.br/url/10077227030/6361388b6fc)[
-](https://click.presskit.com.br/url/10077227030/6361388b6fc)Instagram: [www.instagram.com/zdlsports](https://click.presskit.com.br/url/1007723c89c/6361388b6fc)***
+](https://click.presskit.com.br/url/10077214a17/6361388b6fc)Facebook: [www.facebook.com/ZDLSports](https://click.presskit.com.br/url/10077227030/6361388b6fc)Instagram: [www.instagram.com/zdlsports](https://click.presskit.com.br/url/1007723c89c/6361388b6fc)***

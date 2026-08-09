@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Essa é a maior taxa desde 2012.
 
 A taxa de desocupação no Brasil subiu 0,8 ponto percentual e fechou o primeiro trimestre de 2021 em 14,7%, na comparação com o último trimestre do ano passado, quando o indicador estava em 13,9%.
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

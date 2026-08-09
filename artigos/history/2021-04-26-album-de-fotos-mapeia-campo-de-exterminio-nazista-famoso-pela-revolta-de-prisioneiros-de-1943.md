@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 ## 'É difícil exagerar a importância desta coleção', diz o historiador, à medida que novas imagens do álbum pessoal do oficial da SS nazista esclarecem descobertas de escavações arqueológicas.
 
 Quando organizações alemãs divulgaram novas fotos tiradas dentro do campo de extermínio nazista de Sobibor na semana passada, a cobertura se concentrou na aparente presença do falecido John Demjanjuk em duas imagens.
@@ -110,5 +109,3 @@ Fonte: https://www.timesofisrael.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

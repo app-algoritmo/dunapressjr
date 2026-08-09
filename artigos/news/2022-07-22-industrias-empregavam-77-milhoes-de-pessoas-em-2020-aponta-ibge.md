@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Pesquisa mostra que indústria brasileira compreendia 303 mil empresas.
 
 Em 2020, a indústria brasileira compreendia 303,6 mil empresas com uma ou mais pessoas ocupadas. Essas empresas geraram R$ 4 trilhões de receitas líquidas de vendas e pagaram um total de R$ 308,4 bilhões em salários e outras remunerações. Esse resultado envolveu 7,7 milhões de pessoas empregadas no setor industrial.
@@ -58,8 +57,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

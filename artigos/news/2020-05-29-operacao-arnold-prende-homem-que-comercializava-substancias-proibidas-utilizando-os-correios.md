@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Porto Velho/RO - A Polícia Federal deflagrou nesta sexta-feira (29/5/2020) a denominada OPERAÇÃO ARNOLD, no intuito de combater o tráfico de substâncias proibidas. Estão sendo cumpridos dois mandados judiciais, na cidade de Ariquemes/RO, sendo um de prisão temporária e outro de busca e apreensão, exarados pela 1ª Vara de Delitos de Tóxicos de Porto Velho/RO.
 
 As investigações iniciaram no final do ano de 2019 com a finalidade de identificar a participação de um homem, que se utilizava dos Correios, para prática de tráfico de substâncias proibidas, controladas e restritas, enviadas para outros Estados da Federação a partir da cidade de Ariquemes/RO.
@@ -20,5 +19,3 @@ O preso, após ser ouvido, será encaminhado ao presídio estadual e responderá
 O nome da operação faz referência à competição de fisiculturismo ARNOLD, que representa a exaltação a vaidade corporal e a dedicação para atingir a perfeição muscular, características marcantes dos usuários dos produtos comercializados.
 
 Comunicação Social da Polícia Federal em Rondônia/RO
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

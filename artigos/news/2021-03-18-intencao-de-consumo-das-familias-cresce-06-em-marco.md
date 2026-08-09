@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice passou para 73,8 pontos, em uma escala de zero a 200 pontos.
 
 A Intenção de Consumo das Famílias, medida pela Confederação Nacional de Bens, Serviços e Turismo (CNC), teve uma alta de 0,6% na passagem de fevereiro para março deste ano. Com isso, o indicador passou para 73,8 pontos, em uma escala de zero a 200 pontos.
@@ -22,10 +21,6 @@ Na comparação com março de 2020, os sete componentes recuaram, com destaque p
 
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. 
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

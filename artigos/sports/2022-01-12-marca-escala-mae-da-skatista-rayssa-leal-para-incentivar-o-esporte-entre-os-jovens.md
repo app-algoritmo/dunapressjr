@@ -8,7 +8,6 @@ categories:
 - Sports
 ---
 
-
 "Dona da Energia Toda" e integrante do Time NESCAU***®*** até os Jogos Olímpicos de Paris 2024, a skatista Rayssa Leal tem um aliado para se manter ativa e forte: o "Fator Crescer". Essa é a narrativa da nova campanha da marca de achocolatados, em que a atleta de 14 anos aparece pela primeira vez em um comercial ao lado da mãe, Lilian Mendes.
 
 Juntas, mãe e filha resgatam as fases de crescimento da jovem, desde os primeiros passos no esporte até as recentes conquistas no cenário internacional. Fazendo sua estreia em campanhas publicitárias, Lilian tem papel relevante na comunicação, detalhando para as mães os atributos que só NESCAU***®*** tem, como o "Fator Crescer", mix de vitaminas e minerais que, combinado a uma alimentação equilibrada, auxiliam no crescimento dos pequenos. Composto por Cálcio, Ferro, Vitaminas do Complexo B, Vitaminas A, C e D, o mix contribui para o fortalecimento dos ossos e manutenção dos músculos, além de funcionar como importante fonte de energia.
@@ -42,7 +41,3 @@ Release ***ZDL Sports *******
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

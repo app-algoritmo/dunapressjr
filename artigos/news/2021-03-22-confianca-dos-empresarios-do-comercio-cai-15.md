@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É a quarta queda do indicador, revela pesquisa da CNC.
 
 O Índice de Confiança dos Empresários do Comércio (Icec) recuou 1,5% na passagem de fevereiro para março deste ano, segundo dados divulgados hoje (22), no Rio de Janeiro, pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC). É a quarta queda consecutiva do indicador, que atingiu 103,6 pontos, em uma escala de zero a 200 pontos.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil – Imagem de destaque: Fernando Frazão/Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

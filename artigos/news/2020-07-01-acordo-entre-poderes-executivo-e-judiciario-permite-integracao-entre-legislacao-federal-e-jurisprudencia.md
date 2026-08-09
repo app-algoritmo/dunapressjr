@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 ### Agora, o Portal da Legislação possibilitará acesso do cidadão às normas atualizadas com direcionamento para as decisões do judiciário. Cerimônia de assinatura do Acordo de Cooperação Técnica para integração dos sistemas “Corpus927” e “A Constituição e o Supremo” ao Portal da Legislação.
 
-A cerimônia realizada no Palácio do Planalto, nesta quinta-feira (25), o ministro da Secretaria-Geral, Jorge Oliveira, e os presidentes do Supremo Tribunal Federal (STF), Dias Toffoli, e do Superior Tribunal de Justiça (STJ), João Otávio de Noronha, assinaram acordo de cooperação técnica para incluir novas funcionalidades no [Portal da Legislação](http://www4.planalto.gov.br/legislacao/), administrado pela Subchefia para Assuntos Jurídicos, também chefiada pelo ministro Jorge. A fim de contribuir com o processo de democratização do acesso aos direitos, a plataforma passa a disponibilizar links que direcionam para a jurisprudência consolidada relacionada ao tema de interesse. 
+A cerimônia realizada no Palácio do Planalto, nesta quinta-feira (25), o ministro da Secretaria-Geral, Jorge Oliveira, e os presidentes do Supremo Tribunal Federal (STF), Dias Toffoli, e do Superior Tribunal de Justiça (STJ), João Otávio de Noronha, assinaram acordo de cooperação técnica para incluir novas funcionalidades no [Portal da Legislação](http://www4.planalto.gov.br/legislacao/), administrado pela Subchefia para Assuntos Jurídicos, também chefiada pelo ministro Jorge. A fim de contribuir com o processo de democratização do acesso aos direitos, a plataforma passa a disponibilizar links que direcionam para a jurisprudência consolidada relacionada ao tema de interesse.
 
 "Esse entendimento e essa cooperação bem revelam o momento que vivemos aqui no Brasil”, disse o presidente Bolsonaro
 
@@ -33,4 +32,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

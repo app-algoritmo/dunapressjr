@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## "Esperamos que o sistema internacional deixe claro para o Irã que eles cometeram um grave erro. Em qualquer caso, sabemos como transmitir a mensagem."
 
 O primeiro-ministro israelense Naftali Bennett dirigiu uma mensagem ao Irã após o ataque ao navio "Mercer Street".
@@ -35,7 +34,3 @@ Fonte: https://www.israelnationalnews.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Relatórios indicam que a explosão aconteceu perto de Ramle em um teste de rotina na fábrica de Tomer para armas avançadas.
 
 Relatórios indicam que a explosão aconteceu perto de Ramle em um teste de rotina na fábrica de Tomer para armas avançadas.
@@ -36,5 +35,3 @@ Fonte: https://www.jpost.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

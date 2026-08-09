@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Países reconhecem normas de segurança veicular.
 
 O Brasil e a Argentina concluíram a negociação de um acordo para reconhecerem mutuamente as normas de segurança de veículos, anunciaram nesta quinta-feira (30) à noite os ministérios da Economia, da Infraestrutura e das Relações Exteriores. O acordo será assinado em julho por autoridades dos dois países.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

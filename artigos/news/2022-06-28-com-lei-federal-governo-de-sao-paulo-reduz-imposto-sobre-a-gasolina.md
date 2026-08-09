@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Valor da tributação passou de 25% para 18%.
 
 O governo de São Paulo anunciou nesta segunda-feira (27) a redução da alíquota do Imposto Sobre Circulação de Mercadorias e Serviços (ICMS) sobre combustíveis. O valor da tributação passou de 25% para 18%. A estimativa é que a medida provoque queda de R$ 4,4 bilhões na arrecadação do estado.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

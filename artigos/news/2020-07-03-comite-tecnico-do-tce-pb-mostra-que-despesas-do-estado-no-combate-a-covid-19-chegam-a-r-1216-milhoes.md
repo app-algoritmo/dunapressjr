@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O relatório detalha que entre as fontes de receita estão as transferências emergenciais do Sistema Único de Saúde (SUS).
 
 As despesas empenhadas pelo Governo do Estado da Paraíba para o combate à pandemia chegaram a R$ 121,6 milhões, dos quais já foram pagos R$ 60,5 milhões. É o que consta no 12º relatório de avaliação elaborado pelo Comitê Especial de Acompanhamento da Gestão do Tribunal de Contas do Estado da Paraíba, instituído para fiscalizar contratos e ações do Estado no combate à pandemia causada pelo coronavírus.
@@ -25,11 +24,11 @@ A partir do trabalho do comitê técnico, coordenado pelo auditor de contas púb
 
 **Alertas**
 
-O relator do processo lembrou que, por conta dos achados de auditoria apresentados nos 12 relatórios, já foram emitidos cinco alertas e uma decisão singular dirigidas ao governador e aos secretários de Estado de Saúde, Educação, Administração e Desenvolvimento Humano. 
+O relator do processo lembrou que, por conta dos achados de auditoria apresentados nos 12 relatórios, já foram emitidos cinco alertas e uma decisão singular dirigidas ao governador e aos secretários de Estado de Saúde, Educação, Administração e Desenvolvimento Humano.
 
 “Foram, ainda, realizadas duas reuniões com representantes do Governo Estadual, para tratar de eventuais inconformidades encontradas pela auditoria e, principalmente, discutir demandas do corpo técnico do TCE-PB quanto a dificuldades em obtenção de dados e inconsistência de informações disponibilizadas”, disse.
 
-**Licitações e Contratos** 
+**Licitações e Contratos**
 
 O relatório também traz os números atualizados de licitações e contratações. Há 565 procedimentos cadastrados,56 a mais do que na semana passada, sendo 62 processos finalizados, 476 em andamento e 27 cancelados. Os contratos já firmados somam R$ 134.023.733,73.
 
@@ -39,4 +38,4 @@ O processo 7158/20 e todos os seus relatórios podem ser consultados no endereç
 
 Fonte: Ministério Público da Paraíba
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O trabalho infantil caiu 16,8% entre 2016 e 2019 no Brasil. Os dados são da Pesquisa Nacional por Amostra de Domicílios (PNAD) contínua, divulgada pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Entre os destaques citados pelo diretor-substituto do Departamento de Proteção Social Especial, da Secretaria Nacional de Assistência Social, Danyel Iório, está a redução em 2019. “Em 2016, o número percentual de crianças e adolescentes trabalhando foi de um total de 5,3%. Para 2019, a gente teve uma baixa razoável de 4,6%.”
 
 Dos 38 milhões de crianças e adolescentes de 5 a 17 anos no país, cerca de 1,8 milhão se encontravam em situação de trabalho infantil. Desse número, 21,3% tinham de 5 a 13 anos; 25%, de 14 e 15 anos; e 53,7%, tinham de 16 e 17 anos de idade. Além disso, 66,4% eram do sexo masculino e 66,1% se declarava de cor preta ou parda.
@@ -36,7 +35,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

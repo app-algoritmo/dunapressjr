@@ -8,12 +8,11 @@ categories:
 - News
 ---
 
-
 Estado e municípios da Paraíba receberam do Governo Federal R$ 1,9 bilhão em transferências extraordinárias em 2020 (recursos da LC nº 173/20 e valores transferidos pelo Governo Federal-Ação 21C0), destinados às ações de saúde, assistência social e compensação financeira em razão da queda na arrecadação, por causa da Covid-19, de acordo com relatório do Tribunal de Contas do Estado da Paraíba. No período, os mesmos informaram gastos da ordem de R$ 988,6 milhões com ações relacionadas à pandemia.
 
 O relatório de acompanhamento de gestão sobre Covid-19, que detalha a situação no âmbito dos 223 municípios paraibanos foi divulgado pelo presidente do Tribunal de Contas do Estado da Paraíba (TCE-PB), conselheiro Fernando Catão, nesta quarta-feira (21), durante sessão ordinária do Pleno, por videoconferência.
 
-“Considerando os meses de janeiro e março de 2021, os municípios receberam R$ 408,6 milhões a mais de transferências constitucionais e legais do que em relação ao mesmo período de 2020, ou seja, um crescimento de 30,48%”, detalhou o presidente do TCE.  
+“Considerando os meses de janeiro e março de 2021, os municípios receberam R$ 408,6 milhões a mais de transferências constitucionais e legais do que em relação ao mesmo período de 2020, ou seja, um crescimento de 30,48%”, detalhou o presidente do TCE.
 
 ## **Covid-19 nos municípios**
 
@@ -34,5 +33,3 @@ O relatório de responsabilidade da Diretoria de Auditoria e Fiscalização (Dia
 Fonte: TCE-PB
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

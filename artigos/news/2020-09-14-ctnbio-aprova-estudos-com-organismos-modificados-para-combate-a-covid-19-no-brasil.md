@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-Comissão do MCTI é responsável por analisar estudos com plantas, células humanas, animais e microorganismos geneticamente modificados. 
+Comissão do MCTI é responsável por analisar estudos com plantas, células humanas, animais e microorganismos geneticamente modificados.
 
 A Comissão Técnica Nacional em Biossegurança (CTNBio) do Ministério da Ciência, Tecnologia e Inovações (MCTI) aprovou em reunião online, na última quinta-feira (3), dois projetos de pesquisa com o uso de organismos geneticamente modificados (OGM) no combate à Covid-19.
 
@@ -34,5 +33,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

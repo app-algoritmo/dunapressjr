@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Decisão do STF permite inclusão sem aval da Assembleia Legislativa.
 
 O estado de Minas Gerais poderá iniciar as negociações com o Tesouro Nacional para aderir ao regime de recuperação fiscal (RRF). O Diário Oficial da União publicou quinta-feira (7) despacho do secretário do Tesouro Nacional, Paulo Valle, considerando o estado habilitado a entrar no [**programa**](https://www.in.gov.br/web/dou/-/despacho-de-6-de-julho-de-2022-413386172).
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

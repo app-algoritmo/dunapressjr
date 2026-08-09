@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Regras foram publicadas nesta terça-feira (22) no Diário Oficial.
 
 Os micro e pequenos empresários e os microempreendedores individuais terão até 29 de abril para aderirem ao parcelamento especial de dívidas com o Simples Nacional. O [***Diário Oficial da União***](https://in.gov.br/en/web/dou/-/resolucao-cgsn-n-166-de-18-de-marco-de-2022-387374563) publicou nesta terça-feira (22) resolução que define as regras para o Programa de Reescalonamento de Débitos do Simples Nacional (Relp).
@@ -26,14 +25,10 @@ Haverá várias modalidades de parcelamento, que variam conforme o impacto da pa
 
 A resolução estabelece os valores mínimos de entrada, que deverá ser parcelada em até oito meses, antes do pagamento do restante da dívida. A divisão foi feita da seguinte forma:
 
-**Perda de faturamento    ****   Valor da entrada**Menos de 15%12,5% da dívida consolidadaA partir de 15%  10% da dívida consolidadaA partir de 30% 7,5% da dívida consolidadaA partir de 45%5% da dívida consolidadaA partir de 60%    2,5% da dívida consolidadaA partir de 80% ou empresa fechada durante a pandemia 1% da dívida consolidada
+**Perda de faturamento **** Valor da entrada**Menos de 15%12,5% da dívida consolidadaA partir de 15% 10% da dívida consolidadaA partir de 30% 7,5% da dívida consolidadaA partir de 45%5% da dívida consolidadaA partir de 60% 2,5% da dívida consolidadaA partir de 80% ou empresa fechada durante a pandemia 1% da dívida consolidada
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

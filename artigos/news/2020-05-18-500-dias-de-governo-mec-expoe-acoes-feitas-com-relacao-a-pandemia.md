@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 As ações de combate ao novo coronavírus foram destaque na cerimônia de 500 dias do presidente Jair Bolsonaro. Entre as publicações, divulgadas nesta sexta-feira, 15 de maio, estavam as [duas iniciativas do Ministério da Educação (MEC)](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/500-dias): a garantia da alimentação de estudantes da educação básica e a movimentação de universidades e institutos federais para auxiliar a sociedade.
 
 Por meio do Fundo Nacional de Desenvolvimento da Educação (FNDE), o MEC [já repassou R$ 1,4 bilhão](http://portal.mec.gov.br/component/content/article?id=89101) para o Programa Nacional de Alimentação Escolar (Pnae). Os recursos contam com a antecipação da parcela de maio do programa, que foi paga em abril no valor de R$ 364,4 milhões.Com a suspensão das aulas em diversos estados e municípios, o MEC não deixou desamparados mais de 40 milhões de alunos de escolas da educação básica públicas atendidos pelo programa.
@@ -21,8 +20,6 @@ Na educação superior o MEC lançou o [painel de monitoramento](http://portal.
 O painel ainda apresenta dados importantes para a linha de frente do combate ao coronavírus: a antecipação da formatura de estudantes da área da saúde com a flexibilização determinada pelo MEC. Até o dia 11 de maio, foram antecipadas as formaturas de 1.270 médicos, 150 enfermeiros, 23 farmacêuticos e 10 fisioterapeutas.
 
 Fonte: portalmec.gov.br / Imagem em destaque:  ft.org.br
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Assine o Press clicando no banner acima e contribua para o intercâmbio Brasil-Noruega, bem como notícias de fontes primárias e confiáveis, como também artigos científicos de todas as áreas. Muito conhecimento para sua VIDA!***
 

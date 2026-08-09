@@ -8,7 +8,6 @@ categories:
 - Policy
 ---
 
-
 ## Índice Mundial da Liberdade de Imprensa 2020: “Entrando em uma década decisiva para o jornalismo, exacerbada pelo coronavírus”.
 
 O Índice Mundial da Liberdade de Imprensa 2020, compilado pelos Repórteres Sem Fronteiras (RSF), mostra que a próxima década será decisiva para o futuro do jornalismo, com a pandemia de Covid-19 destacando e ampliando as muitas crises que ameaçam o direito de divulgar livremente, informações independentes, diversas e confiáveis.
@@ -16,8 +15,6 @@ O Índice Mundial da Liberdade de Imprensa 2020, compilado pelos Repórteres Sem
 A **[Noruega](https://rsf.org/en/norway)** lidera o Índice pelo quarto ano consecutivo em 2020, enquanto a Finlândia é novamente a segunda colocada. A Dinamarca (caiu do 2º para 3º) é a próxima, pois a Suécia (caiu 1º para 4º) e a Holanda (caiu 1º para 5º) caíram como resultado do aumento do assédio cibernético. O outro lado do índice sofreu poucas mudanças. A Coréia do Norte (número 1 em 180º) assumiu a última posição no Turcomenistão, enquanto a Eritreia (178º) continua sendo o país com a pior classificação da África.
 
 **Clique na imagem para abrir o ranking de todos os países**
-
-[](https://rsf.org/en/ranking)
 
 Esta [edição de 2020 do Index](https://rsf.org/en/ranking) , que avalia a situação dos jornalistas anualmente em 180 países e territórios, sugere que os próximos dez anos serão fundamentais para a liberdade de imprensa devido a crises convergentes que afetam o futuro do jornalismo: uma crise geopolítica (devido à agressividade de regimes autoritários); uma crise tecnológica (devido à falta de garantias democráticas); uma crise democrática (devido à polarização e políticas repressivas); uma crise de confiança (devido a suspeitas e até ódio da mídia); e uma crise econômica (empobrecendo o jornalismo de qualidade).
 

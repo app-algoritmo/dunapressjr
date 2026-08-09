@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Um estudo liderado pela Universidade Federal do Triângulo Mineiro (UFTM), com duas bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) na equipe de pesquisadores, levou ao desenvolvimento de um biossensor que detecta de forma rápida e eficiente a leishmaniose visceral. O trabalho tem a participação de cientistas das Universidades Federal de Alagoas (Ufal) e de Uberlândia (UFU) e já teve um [artigo](https://www.mdpi.com/2079-6374/10/8/81/htm) publicado no periódico científico *Biosensors*.
 
 Infeciosa, de difícil diagnóstico e alta taxa de mortalidade quando não tratada, a leishmaniose visceral é transmitida pelo mosquito-palha. Em humanos, os parasitas danificam locais como o baço, o fígado e a medula óssea. A novidade neste biossensor e a sua capacidade de identificação sem reação cruzada — ou seja, sem confundir — com a doença de Chagas. “O biossensor conseguiu diferenciar leishmaniose aguda, mais intensa e mais curta, leishmaniose crônica, mais longa e mais difícil de identificar, e três tipos de doença de Chagas”, relata Renata Pereira Alves Balvedi, pesquisadora da UFTM.
@@ -26,6 +25,6 @@ Fonte Redação CCS/CAPES
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)****

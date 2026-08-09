@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Especialista diz que queda “é suave demais”.
 
 O Índice de Confiança Empresarial (ICE), do Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV), caiu 0,3 ponto em julho, indo para 98,5 pontos, após quatro altas consecutivas. Em médias móveis trimestrais, o indicador mantém a tendência ascendente.
@@ -30,8 +29,6 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.
 
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

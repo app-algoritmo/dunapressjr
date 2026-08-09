@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O valor do quilo passa de R$ 4,23 para R$ 4,03.
 
 O preço médio do gás liquefeito de petróleo (GLP), praticado pela Petrobras junto às distribuidoras, será reduzido a partir desta terça-feira (13). De acordo com a estatal, o valor do quilo (kg) passa de R$ 4,23 para R$ 4,03. O reajuste representa uma queda de 4,7%.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

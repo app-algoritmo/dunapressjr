@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em relação ao 2° trimestre de 2020, houve avanço de 12,4%.
 
 O fraco desempenho da economia brasileira no segundo trimestre de 2021, [**que ficou praticamente estável**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-09/pib-fica-estavel-no-segundo-trimestre-deste-ano) com variação negativa de 0,1%, foi puxado pelo resultado da agropecuária, que caiu 2,8%, e da indústria, que recuou 0,2%.
@@ -54,10 +53,6 @@ No setor externo, as exportações cresceram 14,1% e as importações avançaram
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Foram contratados R$ 10 bilhões dos R$ 25 bilhões disponíveis.
 
 Em dez dias de funcionamento, a nova fase do Programa Nacional de Apoio às Micro e Pequenas Empresas (Pronampe) emprestou 40% dos recursos, informou o Ministério da Economia. Dos R$ 25 bilhões disponíveis, R$ 10 bilhões haviam sido contratados até o fim da semana passada por cerca de 130 mil empresas.
@@ -40,10 +39,6 @@ Os recursos podem ser usados para investimentos e capital de giro isolado ou ass
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

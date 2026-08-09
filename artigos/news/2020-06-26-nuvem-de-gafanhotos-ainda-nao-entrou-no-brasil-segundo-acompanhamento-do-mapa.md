@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Mapa continua em alerta e divulga manual com orientações para eventual controle da praga.
 
 O monitoramento feito pelo Ministério da Agricultura, Pecuária e Abastecimento (Mapa) indica que, até o momento, estão mantidas as previsões sobre a rota da nuvem de gafanhotos, que não entrou em território brasileiro. O trabalho do Mapa segue em ritmo de alerta em conjunto com as equipes técnicas das Superintendências Federais de Agricultura e dos órgãos estaduais de Defesa Agropecuária nos estados do Paraná, Rio Grande do Sul e de Santa Catarina, além de unidades federais de vigilância agropecuária localizadas na fronteira com o Rio Grande do Sul.
@@ -18,13 +17,13 @@ O Mapa divulga também nesta quinta-feira um manual técnico de orientações so
 
 **[>> Veja aqui o manual](https://www.gov.br/agricultura/pt-br/assuntos/noticias/monitoramento-indica-que-nuvem-de-gafanhotos-nao-entrou-no-brasil/copy_of_Manualcontrolegafanhotos.pdf)**
 
-De acordo com os dados meteorológicos para a Região Sul do Brasil, previstos para os próximos dias, é pouco provável - até o presente momento - que a nuvem avance em território nacional. Caso isso ocorra, será feito um monitoramento interno para o acompanhamento da evolução do evento. 
+De acordo com os dados meteorológicos para a Região Sul do Brasil, previstos para os próximos dias, é pouco provável - até o presente momento - que a nuvem avance em território nacional. Caso isso ocorra, será feito um monitoramento interno para o acompanhamento da evolução do evento.
 
 Fonte: gov.br / Imagem em destaque: revistacafeicultura.com.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

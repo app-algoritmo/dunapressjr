@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Pedidos feitos entre 27 de maio e 16 de junho foram encaminhados pelo Ministério da Cidadania à Caixa para contemplar mais pessoas com direito ao benefício.
 
 Um novo lote com 1.059.152 cadastros foi liberado pelo Ministério da Cidadania e Dataprev para pagamento do Auxílio Emergencial do Governo Federal. Essas pessoas foram consideradas elegíveis e passam a ter direito ao benefício de R$ 600 ou R$ 1.200, criado para minimizar os impactos da pandemia do novo coronavírus na população mais vulnerável do país. Com isso, 2.236.259 pedidos feitos entre 27 de maio e 16 de junho foram encaminhados à Caixa.
@@ -33,7 +32,7 @@ No **[site dos Correios](http://www2.correios.com.br/sistemas/agencias/)** é 
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

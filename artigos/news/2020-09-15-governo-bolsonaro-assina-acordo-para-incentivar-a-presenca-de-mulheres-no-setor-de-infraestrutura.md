@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Acordo marca abertura de um ciclo de seminários para discutir arbitragem e mediação na administração pública. O ministro da Infraestrutura, Tarcísio Gomes de Freitas, assina protocolo de intenções com a Infra Women Brazil.
 
 Para incentivar e fortalecer a participação das mulheres no setor de infraestrutura de transporte, o Ministério da Infraestrutura assinou, nesta segunda-feira (14), um protocolo de intenções com a Infra Women Brazil. A associação sem fins lucrativos é dedicada ao incentivo à presença de mulheres no setor.
@@ -38,5 +37,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

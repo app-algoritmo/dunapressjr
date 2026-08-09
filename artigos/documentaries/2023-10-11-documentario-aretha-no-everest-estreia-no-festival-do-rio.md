@@ -33,9 +33,7 @@ O documentário “Aretha no Everest” é uma produção da Total International
 ](https://click.presskit.com.br/url/9773095632/6361388b6fc)Linkedin: [www.linkedin.com/in/aretha-duarte-a44420191/?originalSubdomain=br
 ](https://click.presskit.com.br/url/9773107fc3/6361388b6fc)Youtube: [www.youtube.com/channel/UC5k7PFHnf64qRBWeqI1uoSg
 ](https://click.presskit.com.br/url/977311cc34/6361388b6fc)Publicidade, Branding e Parcerias - [bernardo@arethaduarte.com
-](https://click.presskit.com.br/url/9773120720/6361388b6fc)Comercial e Palestras - [lais@365palestras.com.br](https://click.presskit.com.br/url/977313981c/6361388b6fc)[
-
-](https://click.presskit.com.br/url/977314f3be/6361388b6fc)***Informações para imprensa:******
+](https://click.presskit.com.br/url/9773120720/6361388b6fc)Comercial e Palestras - [lais@365palestras.com.br](https://click.presskit.com.br/url/977313981c/6361388b6fc)***Informações para imprensa:******
 ZDL
 Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](https://click.presskit.com.br/url/9773157a12/6361388b6fc) - F: 11 984579723***
 ***Rafael De Marco - Mtb.: 27556 - [rafael@zdl.com.br](https://click.presskit.com.br/url/97731683b2/6361388b6fc) - F: 11 976022986***

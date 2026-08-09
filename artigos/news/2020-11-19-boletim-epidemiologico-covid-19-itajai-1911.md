@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Vigilância Epidemiológica de Itajaí esclarece que devido à grande demanda de amostras, o Laboratório Central de Saúde Pública (Lacen), do Governo do Estado, tem levado, em média, uma semana para entregar os resultados dos exames. Neste momento, por exemplo, há coletas do dia 11 de novembro aguardando liberação. Ao ser entregue pelo Lacen, o resultado é enviado automaticamente ao paciente.
 
 Itajaí soma nesta quinta-feira (19) 9.306 casos confirmados de COVID-19, sem registro de novas mortes decorrência da doença. Do total de contaminados, 8.325 pacientes já se recuperaram (89,45%) e 798 estão com o vírus ativo (40 internados e 758 em isolamento domiciliar). Há ainda 182 casos suspeitos aguardando resultado de exames.
@@ -15,8 +14,6 @@ Itajaí soma nesta quinta-feira (19) 9.306 casos confirmados de COVID-19, sem re
 Neste boletim foram contabilizados 410 exames, sendo que 314 deram negativo e 96 positivo. Entre os casos positivos, 56 são mulheres (04 a 79 anos) e 40 são homens (02 meses a 69 anos). Esses pacientes se autodeclararam: 70 brancos e 26 negros (pretos e/ou pardos).
 
 Os dados de ocupação do Hospital Marieta são da data de ontem (18), pois até o fechamento deste boletim a ocupação desta quinta-feira não havia sido informada.
-
-* * *
 
 **Números de casos em Itajaí:**
 - CASOS CONFIRMADOS: 9.306
@@ -28,9 +25,7 @@ Os dados de ocupação do Hospital Marieta são da data de ontem (18), pois até
 - CASOS DESCARTADOS: 57.877
 - INTERNAÇÕES GERAIS COVID NO HOSPITAL MARIETA: 65 (33 casos na UTI e 32 casos em isolamento). A UTI está 55% ocupada com 27 leitos vagos.
 - INTERNAÇÕES GERAIS COVID NO HOSPITAL PEQUENO ANJO: 06 (um caso positivo na UTI e os demais suspeitos em isolamento; os pacientes são moradores de Itajaí e Balneário Camboriú). A UTI está 16,66% ocupada, com 05 leitos disponíveis.
-- EXAMES REALIZADOS: 67.215  
-
-* * *
+- EXAMES REALIZADOS: 67.215
 
 **ENTENDA O BOLETIM:**
 
@@ -58,5 +53,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

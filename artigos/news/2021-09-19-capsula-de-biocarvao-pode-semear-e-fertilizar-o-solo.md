@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Um bolsista da CAPES desenvolveu cápsulas feitas de biocarvão, material que altera características físicas, químicas e biológicas do solo, diminuindo a acidez. O interior da estrutura pode levar uma semente, o que contribui para o plantio ou replantio de diversas áreas. Com isso  produtores rurais podem ter mais alternativas na hora de semear.
 
 “O solo brasileiro, em regra, é ácido. Já o biocarvão, que é o carvão vegetal para uso no solo, tem o pH alto. Ele fertiliza e possibilita às plantas acesso a nutrientes antes não disponíveis”, diz Álison Moreira da Silva, mestre em Ciências Florestais pela Universidade Federal do Espírito Santo (Ufes) com bolsa da CAPES. “A isso, se soma a semente, com a qual conseguimos, por exemplo, reflorestar locais degradados”, explica.
@@ -33,7 +32,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

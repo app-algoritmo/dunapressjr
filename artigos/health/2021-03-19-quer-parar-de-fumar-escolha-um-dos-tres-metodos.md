@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Abandonar o cigarro não é uma tarefa fácil. Sabendo que o tabagismo é uma doença epidêmica que causa dependência física – e que está relacionada ao agravamento de várias outras doenças, muitas delas incapacitantes e fatais, como o câncer –*, *o primeiro passo para parar de fumar é ter determinação e escolher uma data para ser o primeiro dia sem cigarro.
 
 “Este dia não precisa ser um dia de sofrimento, pode ser uma ocasião especial. Após a escolha do grande dia, é importante definir como se dará a parada”, orienta Andréa Reis Cardoso, técnica da Divisão de Controle do Tabagismo do Instituto Nacional de Câncer José Alencar Gomes da Silva (INCA).
@@ -22,7 +21,7 @@ O método de parada poderá ser de forma abrupta ou gradual. A parada abrupta é
 
 ### **Parada gradual por redução**
 
-É quando se reduz gradualmente o número de cigarros diários até parar em definitivo. Por exemplo, um indivíduo que costuma fumar 20 cigarros por dia, se programa para deixar de fumar em 4 dias, diminuindo 5 cigarros por dia. No primeiro dia da programação reduzirá para 15, depois 10, 5 e zero.  
+É quando se reduz gradualmente o número de cigarros diários até parar em definitivo. Por exemplo, um indivíduo que costuma fumar 20 cigarros por dia, se programa para deixar de fumar em 4 dias, diminuindo 5 cigarros por dia. No primeiro dia da programação reduzirá para 15, depois 10, 5 e zero.
 
 https://soundcloud.com/saudebrasil/parar-de-fumar-engorda
 
@@ -34,7 +33,7 @@ https://soundcloud.com/saudebrasil/parar-de-fumar-engorda
 
 ## **Tratamento para a dependência da nicotina**
 
-“Quem fuma sofre de dependência química”, explica Andréa. “Ou seja, é alguém que, ao tentar deixar de fumar, se defronta com grandes desconfortos físicos e psicológicos que trazem sofrimento, que podem impor a necessidade de várias tentativas até que finalmente consiga abandonar o tabaco”. 
+“Quem fuma sofre de dependência química”, explica Andréa. “Ou seja, é alguém que, ao tentar deixar de fumar, se defronta com grandes desconfortos físicos e psicológicos que trazem sofrimento, que podem impor a necessidade de várias tentativas até que finalmente consiga abandonar o tabaco”.
 
 O Sistema Único de Saúde (SUS) oferta tratamento gratuito aos dependentes da nicotina como parte do Programa Nacional de Controle do Tabagismo. Ligue para o número 136 e se informe em quais Unidades Básicas de Saúde e Hospitais de seu município o serviço está disponível.
 
@@ -54,7 +53,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

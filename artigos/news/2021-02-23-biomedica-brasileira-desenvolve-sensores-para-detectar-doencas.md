@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A biomédica Ana Flávia Oliveira Notário construiu sua carreira acadêmica, da graduação ao pós-doutorado, na Universidade Federal de Uberlândia (UFU).  Foi bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) em Biologia Celular e Estrutural, no mestrado, e em Genética e Bioquímica, no doutorado. Nessa última etapa, começou a desenvolver sensores para detecção de doenças.
 
 **Fale um pouco de sua formação.**
@@ -31,7 +30,7 @@ Ajudo tanto na parte da padronização, de caracterização dos *chips*, como se
 O intuito desse projeto é levar para a comunidade sensores, testes-diagnóstico, que sejam mais práticos, mais rápidos e com custo mais baixo do que os disponíveis no mercado. Queremos que o produto seja completamente nacional.
 
 **Qual é a importância da CAPES na sua trajetória?**
-Fui bolsista da CAPES no mestrado e no doutorado, logo no início da pesquisa com biossensores. A fonte de renda possibilitou dedicação exclusiva às atividades dos projetos que desenvolvi ao longo desses sete anos. 
+Fui bolsista da CAPES no mestrado e no doutorado, logo no início da pesquisa com biossensores. A fonte de renda possibilitou dedicação exclusiva às atividades dos projetos que desenvolvi ao longo desses sete anos.
 
 https://www.youtube.com/embed/IcXUAKLHMks
 
@@ -55,7 +54,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

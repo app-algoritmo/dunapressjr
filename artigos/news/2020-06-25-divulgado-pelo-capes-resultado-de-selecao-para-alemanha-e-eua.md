@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Programas CAPES/DAAD, Yale e Purdue selecionaram 37 pesquisadores brasileiros para bolsas de doutorado no exterior.
 
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) divulgou o resultado da seleção para 37 bolsas de Cooperação Internacional em três programas de doutorado distintos. A publicação no Diário Oficial da União (DOU) da quinta-feira, 18, trata do [edital nº 17/2019](https://www.capes.gov.br/images/novo_portal/editais/resultados/18062020_EDITAL_17_2019_-_Resultado_final_Purdue.pdf), [CAPES/PURDUE](https://www.capes.gov.br/bolsas-e-auxilios-internacionais/pais/204-estados-unidos/9702-programa-capes-purdue-de-doutorado-em-agricultura-agriculture-phd-fellows-program), para a área de Agricultura, e a da sexta-feira, 19, do [nº 20/2019](https://www.capes.gov.br/images/novo_portal/editais/resultados/19062020_EDITAL_20_2019_-_Resultado_Final.pdf), [CAPES-YALE](https://www.capes.gov.br/bolsas-e-auxilios-internacionais/pais/204-estados-unidos/8918-programa-capes-yale-de-doutorado-em-ciencias-biomedicas), de Ciências Biomédicas. Nesta quarta-feira, 24, foi divulgado o [documento nº 23/2019](https://www.capes.gov.br/images/novo_portal/editais/resultados/24062020_EDITAL_23-2019_-_RETIFICA%C3%87%C3%83O.pdf), [CAPES/DAAD](https://www.capes.gov.br/bolsas-e-auxilios-internacionais/pais/194-alemanha/9566-doutorado-capesdaad), voltado à formação de professores.
@@ -25,7 +24,7 @@ Fonte: gov.br/mec - Capes / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

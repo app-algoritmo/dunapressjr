@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Previsão é crescimento de 25% nas exportações regionais de bens.
 
 De acordo com relatório da Comissão Econômica para a América Latina e o Caribe (Cepal) divulgado nesta terça-feira (7), o comércio internacional da região terá uma recuperação importante em 2021. O crescimento ocorre após forte queda observada no ano passado. A recuperação, no entanto, não será igual em todos os países por causa da incerteza provocada pela pandemia do novo coronavírus.
@@ -34,10 +33,6 @@ O relatório da Cepal indica vários fatores de incerteza no comércio mundial c
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

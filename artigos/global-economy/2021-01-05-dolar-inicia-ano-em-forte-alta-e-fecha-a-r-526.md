@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Novos lockdowns na Europa afetaram mercado.
 
 Em meio a uma nova onda de *lockdowns* em países europeus e a instabilidade política nos Estados Unidos, o dólar começou 2021 com forte alta, aproximando-se dos R$ 5,30 em alguns momentos. A bolsa de valores, que operou em alta durante a manhã, não sustentou os ganhos e fechou em baixa.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa oscilou bastante, mas fechou com pequena alta.
 
 Num dia de volatilidade no mercado financeiro, o dólar subiu depois de duas quedas consecutivas, influenciado pelo cenário doméstico e pelo mercado internacional. A bolsa oscilou bastante ao longo das negociações, mas encerrou com pequena alta.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

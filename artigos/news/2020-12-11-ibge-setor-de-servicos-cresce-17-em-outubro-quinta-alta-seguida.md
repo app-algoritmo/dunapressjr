@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado não compensa perdas de 19,8% causadas pela pandemia.
 
 O setor de serviços avançou 1,7% na passagem de setembro para outubro, o quinto resultado positivo consecutivo, acumulando ganho de 15,8% no período. O resultado, entretanto, ainda é insuficiente para compensar as perdas de 19,8% entre fevereiro e maio, causadas pela pandemia de covid-19. O volume de serviços prestados está 16,6% abaixo do recorde histórico alcançado em novembro de 2014 e 6,1% inferior a fevereiro de 2020.
@@ -34,8 +33,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

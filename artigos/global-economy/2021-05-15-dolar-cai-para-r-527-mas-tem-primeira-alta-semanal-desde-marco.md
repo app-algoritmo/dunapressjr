@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa sobe 0,97% no dia, mas termina semana em queda.
 
 Num dia de tranquilidade no mercado financeiro, o dólar voltou a cair para abaixo de R$ 5,30. Apesar do desempenho na sessão, a divisa teve a primeira alta semanal após seis semanas seguidas de queda. A bolsa de valores recuperou-se nesta sexta-feira (14), mas fechou a semana com leve baixa.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

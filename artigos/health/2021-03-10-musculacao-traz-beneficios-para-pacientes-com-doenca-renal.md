@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Praticar exercício de força, como a musculação, diminui o avanço da doença renal crônica. É o que revela a pesquisa de mestrado do bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), Hugo de Luca Corrêa, orientado por Thiago dos Santos Rosa, professor do Programa de Pós-Graduação em Educação Física, da Universidade Católica de Brasília (UCB). O objetivo da pesquisa foi verificar as possibilidades terapêuticas da musculação sobre a função renal e o perfil inflamatório de pacientes em estágios iniciais da doença.
 
 A doença renal crônica é caracterizada pela diminuição da capacidade dos rins de filtrar as toxinas do metabolismo. Segundo o coordenador da pesquisa, durante seis meses, 105 pacientes, divididos em três grupos, foram investigados. O grupo 1 não praticava atividade física. O grupo 2 fazia treinamento de força convencional - com cargas moderadas e sem restrição de fluxo sanguíneo. Já o grupo 3 seguiu um treinamento de força de baixa carga somado à restrição de fluxo sanguíneo.
@@ -45,7 +44,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

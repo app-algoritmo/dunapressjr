@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Em 2011, o **[Instituto Lado a Lado pela Vida](https://ladoaladopelavida.org.br/campanhas/novembro-azul/)** iniciou a campanha ‘Novembro Azul’ com o objetivo de alertar para a importância do diagnóstico precoce do câncer de próstata, o mais frequente entre os homens brasileiros depois do câncer de pele.
 
 Aproveitando as celebrações em torno do tema, o Ministério da Saúde e o Instituto Nacional de Câncer (INCA) começaram a divulgar ações importantes e a data transformou-se no maior movimento em prol da saúde masculina.
@@ -36,7 +35,6 @@ Cuidar da saúde mental: Diversos fatores podem causar um desequilíbrio emocion
 
 A próstata é uma glândula do sistema reprodutor masculino, que pesa cerca de 20 gramas e se assemelha a uma castanha. Localiza-se abaixo da bexiga e sua função é produzir e armazenar o líquido prostático que, junto com o líquido seminal produzido pelas vesículas seminais e os espermatozoides produzidos nos testículos, forma o sêmen.
 
-**
 Tratamento e prevenção**:
 
 Na fase inicial, o câncer de próstata não apresenta sintomas e quando alguns sinais começam a aparecer, cerca de 95% dos tumores já estão em fase avançada, dificultando a cura. Na fase avançada, os sintomas são: dor óssea, dores ao urinar, vontade de urinar com frequência e presença de sangue na urina e/ou no sêmen.
@@ -51,14 +49,13 @@ Medidas preventivas, segundo o INCA, incluem: dieta rica em frutas, verduras, le
 
 Nesse sentido, outros hábitos saudáveis também são recomendados, como fazer no mínimo 30 minutos diários de atividade física, manter o peso adequado à altura, identificar e tratar adequadamente hipertensão, diabetes e problemas de colesterol, diminuir o consumo de álcool e não fumar.
 
-**
 Materiais de apoio produzidos pelo INCA**:
 
 **[Cartilha Câncer de próstata: vamos falar sobre isso?](https://www.inca.gov.br/publicacoes/cartilhas/cancer-de-prostata-vamos-falar-sobre-isso)**
 
 **[Vídeo Saúde do homem](https://youtu.be/F4eZ0b60pCY)**
 
-**Fontes**: 
+**Fontes**:
 
 [Agência Nacional de Saúde Suplementar](https://www.gov.br/ans/pt-br/assuntos/noticias/sobre-ans/novembro-azul-mes-de-conscientizacao-sobre-a-saude-do-homem)
 [Dr. Dráuzio Varella](https://drauziovarella.uol.com.br/homem-2/toque-retal-exame-de-toque/)
@@ -77,7 +74,3 @@ Créditos: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

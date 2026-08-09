@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice atinge menor patamar desde junho de 2020.
 
 O Índice de Confiança do Consumidor, da Fundação Getulio Vargas (FGV), caiu 2,7 pontos de dezembro de 2020 para janeiro de 2021. Essa foi a quarta queda consecutiva do indicador, que atingiu 75,8 pontos em uma escala de zero a 200 pontos, o menor patamar desde junho de 2020 (71,1 pontos).
@@ -22,8 +21,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

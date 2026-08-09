@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Lançado neste 4 de maio, o [videoclipe](https://eurovision.tv/video/tix-fallen-angel-norway-official-music-video-eurovision-2021) do cantor Tix é mais uma contribuição da Noruega para o Eurovision Song Contest, que nada mais ser publicado obteve mais de 36k em visualizações no YouTube. A canção conta a história pessoal de Tix, um menino que sofreu bullying já na escola primária. [Andreas Andresen Haukeland](https://no.wikipedia.org/wiki/TIX), mais conhecido como Tix, é um músico, produtor musical e compositor norueguês da cidade de Bærum, Noruega. Ele representará a Noruega no Eurovision Song Contest 2021 com a música "Fallen Angel". Andreas tem síndrome de Tourette, uma condição caracterizada por movimentos involuntários chamados tiques.
 
 É um alívio que finalmente foi lançado. Estou muito confiante de que este videoclipe significará muito para muitas pessoas. Sinto que este é o maior que já fiz, diz Andreas "Tix" Haukeland.
@@ -66,12 +65,6 @@ Follow TIX on Instagram, Snapchat and Facebook: @tixmusic - Follow TIX on TikTok
 
 Visit [https://eurovision.tv​](https://eurovision.tv/video/tix-fallen-angel-norway-official-music-video-eurovision-2021)
 
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!, clique e comece já!
-
-[](https://dunapress.org/edu/)
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

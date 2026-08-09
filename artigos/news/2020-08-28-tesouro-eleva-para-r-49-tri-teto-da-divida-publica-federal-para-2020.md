@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Limite mínimo de endividamento subiu para R$ 4,6 tri.
 
 O aumento dos gastos públicos decorrente da pandemia do novo coronavírus fez o Tesouro Nacional aumentar os limites de endividamento para este ano. Segundo a revisão do Plano Anual de Financiamento (PAF), divulgada hoje (28), a Dívida Pública Federal (DPF) poderá fechar 2020 entre R$ 4,6 trilhões e R$ 4,9 trilhões.
@@ -35,5 +34,3 @@ Por meio da dívida pública, o Tesouro Nacional emite títulos e pega dinheiro 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

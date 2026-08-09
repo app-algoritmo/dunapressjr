@@ -8,7 +8,6 @@ categories:
 - Tennis
 ---
 
-
 ## Paulistana e a holandesa Demi Schuurs fazem primeiro jogo da quadra 7, a partir das 7h (horário de Brasília).
 
 **Julho, 2024 -** Luisa Stefani, número 13 do mundo, e a holandesa Demi Schuurs têm estreia marcada para esta quinta-feira (4) no torneio de Wimbledon, o mais tradicional do tênis, jogado na grama, em Londres. Elas abrem a programação da quadra 7, a partir das 7h (horário de Brasília), contra a dupla da britânica Olivia Nicholls e da eslovaca Tereza Mihalikova.
@@ -26,13 +25,12 @@ Durante a semifinal do Us Open 2021, Luisa sofreu uma grave lesão no joelho, pa
 ***Mais informações:
 ******Instagram: [https://www.instagram.com/luisastefani/
 ](https://click.presskit.com.br/url/10240458381/6361388b6fc)******Fanpage: [https://www.facebook.com/LuisaStefani.Tennis
-](https://click.presskit.com.br/url/102404668fd/6361388b6fc)******Marketing/Comercial-Dani Schnaider: +55 19 991072217 - [dani@agenciadeatletas.com.br](https://click.presskit.com.br/url/1024047f097/6361388b6fc) 
+](https://click.presskit.com.br/url/102404668fd/6361388b6fc)******Marketing/Comercial-Dani Schnaider: +55 19 991072217 - [dani@agenciadeatletas.com.br](https://click.presskit.com.br/url/1024047f097/6361388b6fc)
 ******Gallas Press-Fabrizio Gallas - +55 21 99023-0660 - [fabrizio@gallaspress.com.br
 ](https://click.presskit.com.br/url/1024048d3f2/6361388b6fc)******Facebook: [https://www.facebook.com/gallaspress
 ](https://click.presskit.com.br/url/10240498453/6361388b6fc)******Instagram: [https://www.instagram.com/fabriziogallas/](https://click.presskit.com.br/url/10240508fcb/6361388b6fc)***
 
-***[
-](https://click.presskit.com.br/url/10240508fcb/6361388b6fc)******ZDL
+*********ZDL
 ******Doro Jr. - MTb 13209 - 11 984579723 - [dorojr@zdl.com.br
 ](https://click.presskit.com.br/url/10240514759/6361388b6fc)******Deborah Mamone - MTb 15148 - [deborah@zdl.com.br
 ](https://click.presskit.com.br/url/10240529a95/6361388b6fc)******Site: [www.zdl.com.br

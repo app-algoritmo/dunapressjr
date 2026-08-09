@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Com a chegada do inverno, alguns problemas de saúde, como gripes e resfriados, tornam-se mais comuns, mas não ficam restritos apenas às doenças respiratórias. Segundo o Instituto Nacional de Cardiologia (INC), o risco de sofrer um infarto pode ser até 30% maior nas baixas temperaturas.
 
 Segundo o professor de Cardiologia do curso de Medicina da Universidade Positivo (UP), Vinicius Bocchino Seleme, os grupos de risco são os mesmos, independentemente da temperatura: idosos, hipertensos, diabéticos, tabagistas, pessoas que sofrem com insuficiência renal crônica e colesterol elevado, além daqueles que consomem álcool em excesso, dos que têm histórico familiar de parentes de primeiro grau com infarto, ou se o próprio paciente já teve infarto prévio.
@@ -25,7 +24,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

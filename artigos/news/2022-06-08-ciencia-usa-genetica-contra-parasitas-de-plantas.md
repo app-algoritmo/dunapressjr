@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Valdeir Junio Vaz Moreira pode ter encontrado um novo caminho para combater pragas parasitas, chamadas nematoides, em plantas como algodão e soja. Bioquímico e aluno do Programa de Biologia Molecular da Universidade de Brasília (UnB), ele desenvolve sua pesquisa em um doutorado-sanduíche no *Institut National de la Recherche Agronomique *(INRAe), na França, com bolsa do [Programa CAPES-Cofecub](https://www.gov.br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/franca/cofecub).
 
 Sua estratégia tem sido aplicar a engenharia genética, com ênfase na tecnologia do RNAi. Os experimentos estão sendo desenvolvidos na UnB, na Embrapa Recursos Genéticos e Biotecnologia e INRAe, sob a supervisão da professora Maria Fátima Grossi de Sá (Embrapa), com cosupervisão de Janice de Almeida Engler (INRAe).
@@ -32,7 +31,3 @@ Fonte: https://www.gov.br/capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

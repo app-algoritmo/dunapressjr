@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### A multa será de até 20% do valor dos tributos declarados.
 
 O Microempreendedor Individual (MEI) que não apresentou no prazo a Declaração Anual do Simples Nacional (DASN-Simei) ainda pode entregá-la, mas estará sujeito à multa de 2% ao mês, limitada a 20% sobre o valor total dos tributos declarados ou ao mínimo de R$ 50. A multa é emitida automaticamente após a transmissão da declaração.
@@ -34,8 +33,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medida faz parte do Plano de Apoio à Gestação e Puerpério Saudáveis para garantir o cuidado adequado, incentivar testagem e ampliar acompanhamento pré-natal e pós-parto.
 
 O Ministério da Saúde vai repassar R$ 260 milhões a estados e municípios para ampliar o atendimento a gestantes e mulheres no pós-parto na rede pública de saúde durante a crise de saúde causada pela Covid-19. A verba faz parte do [Plano de Apoio à Gestação e Puerpério Saudáveis](https://www.in.gov.br/en/web/dou/-/portaria-n-2.222/gm/ms-de-25-de-agosto-de-2020-274149904), lançado na última sexta-feira (28).
@@ -40,5 +39,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ação do HUWC e Famed-UFC beneficiou 60 pessoas que precisam, mas não têm acesso a atendimento em saúde.
 
 **Fortaleza (CE)** – Professores dos cursos de Medicina e Fisioterapia da Universidade Federal do Ceará (Famed/UFC), médicos especialistas, residentes e acadêmicos em estágio de internato do Hospital Universitário Walter Cantídio, vinculado à Rede Ebserh (HUWC/Ebserh), além de outras instituições de Fortaleza realizaram ações de assistência e educação em saúde para 60 pessoas em situação de rua na capital cearense. O público-alvo consistiu de pessoas que necessitam, mas não têm acesso a esse tipo de serviço, situação que se agrava ainda mais em tempos de pandemia do novo coronavírus. A ação ocorreu no último fim de semana.
@@ -39,8 +38,6 @@ Em algumas regiões, as unidades da Rede Ebserh têm atuado como hospitais de re
 Fonte: gov.br/mec / Imagem em destaque: ponte.org
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

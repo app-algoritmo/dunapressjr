@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A informação foi divulgada hoje pelo IBGE.
 
 A inflação desacelerou para 0,53% em junho, depois de chegar a 0,83% em maio. Esse é o maior resultado para o mês desde junho de 2018, quando ficou em 1,26%. Com esse resultado, o indicador acumula alta de 3,77% no ano e 8,35% nos últimos 12 meses.
@@ -26,7 +25,7 @@ A alimentação fora do domicílio (0,66%) desacelerou em relação a maio (0,98
 
 No grupo dos transportes (0,41%), os combustíveis subiram 0,87% e acumulam alta de 43,92% nos últimos 12 meses. Mais uma vez, o maior impacto (0,04 p.p.) veio da gasolina (0,69%), cujos preços haviam aumento 2,87% em maio. Os preços do etanol (2,14%) e do óleo diesel (1,10%) e do gás veicular (0,16%) também registraram alta em junho.
 
-Segundo o IBGE, a maior variação no mês, entre os grandes grupos, ficou com vestuário (1,21%), com destaque para calçados e acessórios (1,53%), roupas masculinas (1,52%) e  roupas femininas (1,10%). Todos esses itens aceleraram em relação a maio.
+Segundo o IBGE, a maior variação no mês, entre os grandes grupos, ficou com vestuário (1,21%), com destaque para calçados e acessórios (1,53%), roupas masculinas (1,52%) e roupas femininas (1,10%). Todos esses itens aceleraram em relação a maio.
 
 Em junho, todas as áreas pesquisadas apresentaram inflação. O maior índice ficou com a região metropolitana de Recife (0,92%), influenciada pelas altas nos preços da gasolina (4,92%) e da energia elétrica (2,78%). Já o menor resultado ocorreu em Brasília (0,17%), por conta da queda nos preços das frutas (-7,53%) e da taxa de água e esgoto (-2,40%).
 
@@ -42,10 +41,6 @@ Todas as áreas também tiveram alta em junho. As regiões metropolitanas de Rec
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

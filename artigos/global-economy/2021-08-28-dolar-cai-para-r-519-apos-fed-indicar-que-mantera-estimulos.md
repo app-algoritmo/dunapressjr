@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa de valores subiu 1,65% e volta a superar os 120 mil pontos.
 
 Em um dia de alívio global após o pronunciamento do presidente do Banco Central norte-americano, Jerome Powell,o dólar caiu para menos de R$ 5,20 e recuou para o menor nível em três semanas. A bolsa de valores registrou forte alta e teve a primeira semana com ganhos após duas semanas consecutivas de baixa.
@@ -26,10 +25,6 @@ Paralelamente, a aceleração da[** inflação**](https://agenciabrasil.ebc.com.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

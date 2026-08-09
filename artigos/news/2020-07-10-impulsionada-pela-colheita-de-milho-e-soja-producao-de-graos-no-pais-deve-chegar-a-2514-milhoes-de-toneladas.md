@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Os dados constam no 10º Levantamento de Grãos realizado pela Companhia Nacional de Abastecimento (Conab).
 
 A produção brasileira de grãos deverá ser de 251,4 milhões de toneladas na safra 2019/2020. O desempenho recorde na agricultura deve-se, principalmente, às colheitas de soja e milho, responsáveis por cerca de 88% da produção. Os dados constam no 10º Levantamento de Grãos realizado pela Companhia Nacional de Abastecimento (Conab) e divulgado nesta quarta-feira (8).
@@ -33,7 +32,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

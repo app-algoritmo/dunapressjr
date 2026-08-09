@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O presidente da Assembleia Legislativa da Paraíba (ALPB), Adriano Galdino, promulgou a Lei 11.701, de autoria do deputado Wallber Virgolino, que suspende os prazos de validade dos concursos públicos no estado da Paraíba durante o período que vigorar o Decreto de Estado de Calamidade do Poder Executivo, em decorrência da pandemia do novo coronavírus (Covid-19).
 
 De acordo com o texto da Lei, ficarão suspensas as contagens de tempo da validade de concursos realizados pela administração direta e indireta, independente de serem ou não já homologados, em todo o Estado da Paraíba iniciados antes da promulgação do Decreto Legislativo, nos termos do artigo 65 da Lei Complementar Federal n° 101, de 4 de maio de 2020, que reconhece o estado de calamidade pública.
@@ -26,5 +25,3 @@ Fonte: Assembleia Legislativa da Paraíba
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 No dia 11 de outubro é comemorado o Dia Mundial da Obesidade, doença crônica que é porta de entrada para outras, como hipertensão e diabetes. Tendo em vista a relevância do tema, a data tem o objetivo de aumentar a conscientização e, assim, promover a prevenção e o controle da obesidade.
 
 Dados do Vigitel (Vigilância de Fatores de Risco e Proteção para Doenças Crônicas por Inquérito Telefônico) mostraram que, em 2018, o excesso de peso já atingia 55,7% da população adulta do Brasil, e a obesidade 19,8%.
@@ -48,7 +47,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

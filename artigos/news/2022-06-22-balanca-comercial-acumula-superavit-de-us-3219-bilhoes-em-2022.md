@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Até a terceira semana de junho, as exportações foram de US$ 151,26 bilhões e as importações atingiram US$ 119,06 bilhões, somando US$ 270,32 bilhões de corrente de comércio.
 
 Abalança comercial brasileira registrou superávit de US$ 32,19** **bilhões no acumulado do ano, até a terceira semana de junho, com uma queda de 6,9% em relação ao período de janeiro a junho do ano passado, pela média diária. A corrente de comércio – soma de exportações e importações – subiu 22,8% na mesma comparação, atingindo US$ 270,32 bilhões. Os dados divulgados na segunda-feira (20) pela Secretaria de Comércio Exterior (Secex) do Ministério da Economia mostram que as exportações em 2022 somaram US$ 151,26 bilhões no período, com aumento de 18,8% (pelo critério de médias diárias sobre igual período de 2021). As importações atingiram US$ 119,06 bilhões, com alta de 28,4%.
@@ -40,8 +39,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

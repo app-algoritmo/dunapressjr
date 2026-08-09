@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Deputado de San Martino Lorenzato de Ivrea: recebi notícias que abalam a política e confundem os fiéis da maior nação católica do mundo, o Brasil!
 
 O vice-presidente da Comissão de Relações Exteriores da Câmara dos Deputados do Brasil **Luiz Philippe de Orleans e Bragança** (príncipe imperial e descendente direto dos imperadores do Brasil Dom Pedro I, Dom Pedro II e também descendente de São Luís (Luís IX da França) fez uma pergunta difícil ao Núncio Apostólico "Embaixador" do Vaticano no Brasil, pedindo confirmação da veracidade das notícias amplamente divulgadas na imprensa e pelos apoiadores políticos do PT, de que o Santo Padre receberá o ex-Presidente Lula e que ele até teria apresentado um pedido ao tribunal federal para alterar a data de seu testemunho na audiência para fazer a viagem a Roma, mais precisamente à Cidade do Vaticano, a sede da Igreja Católica no mundo!
@@ -28,4 +27,4 @@ Todos sabemos que todos podem ser perdoados por Deus!
 
 A Câmara dos Deputados brasileira por meio do deputado Luiz Philippe de Orleans e Bragança pediu esclarecimentos ao governo internacional sobre uma possível reunião no Vaticano entre Lula e o Papa Francisco. Lula é réu condenado, cumpriu um sexto de sua sentença e existem outros processos em curso.
 
-Fonte: [Lega Salvini Premier](https://www.facebook.com/pg/votepelacidadaniaitaliana/about/?ref=page_internal)
+Fonte: [Lega Salvini Premier](https://www.facebook.com/pg/votepelacidadaniaitaliana/about/)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Contas federais ficariam negativas até pelo menos 2024.
 
 As contas públicas do Governo Central (Tesouro Nacional, Previdência Social e Banco Central) deverão fechar 2023 com déficit primário de R$ 65,91 bilhões. A meta fiscal consta do Projeto da Lei de Diretrizes Orçamentárias (PLDO) de 2023, enviado na noite desta quinta-feira (14) ao Congresso Nacional.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

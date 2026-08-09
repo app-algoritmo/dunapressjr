@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estímulos nos EUA e sanção do Orçamento reduziram riscos.
 
 Depois de instabilidades em março, as condições do mercado financeiro melhoraram em abril, avaliou nesta quarta-feira (28) o Tesouro Nacional, em nota explicativa sobre a evolução da dívida pública no mês. Segundo o órgão, o pacote de injeção de dólares nos Estados Unidos e o fechamento do [**acordo sobre o Orçamento**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-04/presidente-sanciona-lei-orcamentaria-de-2021-com-veto-parcial) deste ano melhorou a percepção de riscos sobre os países emergentes e reduziu as taxas de juros de prazos mais longos.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Redução de preço é uma das principais missões do Senado, disse Pacheco.
 
 O presidente da Câmara, deputado Arthur Lira (PP-AL) afirmou nesta quarta-feira (16) que deputados e senadores trabalham para chegar a um consenso nos projetos que tratam dos combustíveis. Segundo o congressista, um acordo agilizaria a tramitação das propostas no Congresso.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

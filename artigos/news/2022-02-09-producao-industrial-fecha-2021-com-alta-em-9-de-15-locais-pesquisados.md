@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Destaques foram Santa Catarina, Minas Gerais e Paraná.
 
 A produção industrial fechou o ano de 2021 com alta de 3,9%, segundo a Pesquisa Industrial Mensal (PIM Regional) divulgada hoje (9) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Com o resultado do mês de dezembro, o ano passado fechou com crescimento em 9 dos 15 locais analisados.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

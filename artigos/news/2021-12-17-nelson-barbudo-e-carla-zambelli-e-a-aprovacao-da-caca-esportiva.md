@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Sessão realizada dia 15/12 demostrou o empenho dos Deputados Carla Zambelli e Nelson Barbudo em tentar garantir a aprovação do PL 5544/2020, de Nilson Stainsack.
 
 Durante sessão do dia 15/12, na Comissão de Meio Ambiente e Desenvolvimento Sustentável, o deputado Fred Costa (Patriota-MG) apresentou 1,2 milhão de assinaturas contra a liberação da caça esportiva no Brasil, além de mostrar que mais de cem entidades são contra a prática no país.
@@ -43,5 +42,3 @@ Créditos: [**David Arioch**](https://vegazeta.com.br/author/vegazeta_wp/)****
 Jornalista e especialista em jornalismo cultural, histórico e literário (MTB: 10612/PR)
 
 Fonte: https://vegazeta.com.br
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

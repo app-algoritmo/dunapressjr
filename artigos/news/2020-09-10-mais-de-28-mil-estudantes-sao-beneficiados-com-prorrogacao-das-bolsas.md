@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-A medida atendeu bolsistas ativos de mestrado e doutorado em todo o Brasil. Medida de prorrogação foi adotada para amenizar os efeitos causados pela crise do novo coronavírus. 
+A medida atendeu bolsistas ativos de mestrado e doutorado em todo o Brasil. Medida de prorrogação foi adotada para amenizar os efeitos causados pela crise do novo coronavírus.
 
 O prorrogação da vigência das bolsas de mestrado e doutorado ativas no País já beneficiou 28.324 estudantes. A medida foi adotada pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) para amenizar os efeitos causados pela crise do novo coronavírus (Covid-19).
 
@@ -31,5 +30,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

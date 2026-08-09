@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Quem está com dívidas no Fundo de Financiamento Estudantil (Fies) poderá renegociar os débitos com descontos de até 100% nos encargos moratórios. A resolução sobre o Programa Especial de Regularização foi publicada na edição desta quinta-feira (22) do Diário Oficial da União.
 
 Podem ser renegociados débitos de contratos concedidos até o segundo semestre de 2017, vencidos e não pagos até 10 de julho de 2020.
@@ -39,5 +38,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor.
 
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

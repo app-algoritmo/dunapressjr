@@ -8,8 +8,7 @@ categories:
 - Sports
 ---
 
-
-Marcelo Werner, presidente do Legislativo Municipal de Itajaí, no norte de Santa Catarina, cidade que vai receber pela quarta vez a The Ocean Race, anunciou pelo instagram seu apoio ao barco brasileiro SCBRasil Team, inscrito na The Ocean Race para a 14a edição, que ocorre a partir de 14 de janeiro de 2023. O ato se deu após uma reunião com diretores da SCBrasil Esporte Náutico, na Câmara Municipal de Vereadores, onde foi apresentado o projeto do único barco brasileiro inscrito na competição náutica internacional. 
+Marcelo Werner, presidente do Legislativo Municipal de Itajaí, no norte de Santa Catarina, cidade que vai receber pela quarta vez a The Ocean Race, anunciou pelo instagram seu apoio ao barco brasileiro SCBRasil Team, inscrito na The Ocean Race para a 14a edição, que ocorre a partir de 14 de janeiro de 2023. O ato se deu após uma reunião com diretores da SCBrasil Esporte Náutico, na Câmara Municipal de Vereadores, onde foi apresentado o projeto do único barco brasileiro inscrito na competição náutica internacional.
 
 Durante o encontro, os executivos da empresa brasileira náutica SCBrasil Esporte Náutico apresentaram o projeto e a importância da cidade brasileira ter não somente uma parada, mas também um barco nacional, a exemplo da Itália, Alemanha, Estados Unidos e Espanha e, em edições anteriores, da China e Abu Dhabi - que contaram com barco e parada.
 
@@ -32,7 +31,7 @@ Com uma exposição mundial durante oito meses e passando por 10 portos (cidades
 
 Um barco com tripulação brasileira num evento mundial busca atrair a atenção da mídia, fãs e seguidores. Visa criar atenção para as marcas dos patrocinadores e geração de negócios. Estimular torcida em torno de heróis que irão participar da regata mais rigorosa e temida do mundo.
 
-Fonte: ***ZDL - [zdl@zdl.com.br](https://click.presskit.com.br/url/846355662b/6361388b6fc)*** 
+Fonte: ***ZDL - [zdl@zdl.com.br](https://click.presskit.com.br/url/846355662b/6361388b6fc)***
 
 **Ver também:**
 
@@ -43,7 +42,3 @@ Fonte: ***ZDL - [zdl@zdl.com.br](https://click.presskit.com.br/url/846355662b/6
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

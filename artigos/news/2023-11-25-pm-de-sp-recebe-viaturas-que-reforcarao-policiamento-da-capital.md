@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## São 80 motos e 40 SUVs que atenderão a Força Tática e quatro Comandos de Área da capital.
 
 A Polícia Militar do Estado de São Paulo recebeu nesta quarta-feira (22) 80 motos e 40 SUVs que atenderão a Força Tática e quatro Comandos de Área da capital (M-1; M-2; M-3 e M-5), responsáveis pelo policiamento na região central, zona norte, sul e oeste.
@@ -25,6 +24,5 @@ Desde o início do ano, foram entregues 289 viaturas para a PM (R$ 52,8 milhões
 Em julho, foi entregue um novo helicóptero Águia 33, modelo H135, para o Comando de Aviação da PM, no valor de R$ 52,9 milhões. É o primeiro biturbina leve com equipamentos aeromédicos embarcados, o que representa um salto tecnológico na aviação da PM.
 
 Siga o canal “Governo de São Paulo” no WhatsApp:
-[https://bit.ly/govspnozap](https://bit.ly/govspnozap)
 
 Fonte: [Governo de São Paulo](https://www.saopaulo.sp.gov.br/ultimas-noticias/pm-de-sp-recebe-viaturas-que-reforcarao-policiamento-da-capital/)

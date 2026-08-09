@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 No dia 29 de Agosto é comemorado o Dia Nacional de Combate ao Fumo, e o  que depender da gente não vai faltar motivação para você mudar de vida!
 
 ## **1 – Fumar prejudica quem não tem nada a ver com isso**
@@ -26,7 +25,7 @@ Essa redução é consequência do efeito da concentração de nicotina no fluid
 
 O tabagismo também é altamente nocivo para quem já está grávida. Segundo o INCA, a mulher fumante está exposta a complicações na gravidez, como placenta prévia, descolamento de placenta e hemorragias no útero. Sem falar do risco de aborto espontâneo.
 
-O bebê também sofre com isso, pois passa a ter o dobro de chance de nascer com baixo peso, ter uma redução de sua função pulmonar e mais chances de contrair infecções respiratórias.   
+O bebê também sofre com isso, pois passa a ter o dobro de chance de nascer com baixo peso, ter uma redução de sua função pulmonar e mais chances de contrair infecções respiratórias.
 
 ## **4 –  Isso nunca aconteceu antes, mas pode passar a acontecer.**
 
@@ -66,7 +65,7 @@ Talvez você ainda não tenha ouvido falar nisso. Mas de acordo com o Conselho B
 
 ## **12 – Prejudica a sua saúde mental**
 
-Por ser uma substância psicoativa, a nicotina produz alterações no Sistema Nervoso Central, o que modifica o estado emocional e comportamental de quem fuma. 
+Por ser uma substância psicoativa, a nicotina produz alterações no Sistema Nervoso Central, o que modifica o estado emocional e comportamental de quem fuma.
 
 Segundo o INCA, a nicotina faz com que o cérebro libere substâncias responsáveis pela sensação de prazer. Com o tempo, ele se adapta e passa a pedir doses cada vez maiores para manter o mesmo nível de prazer e satisfação. Aí começa o processo de dependência...
 
@@ -86,7 +85,7 @@ Pensando no longo prazo, essa economia poderia render bons investimentos e quem 
 
 Pode até parecer repetitivo, mas é importante lembrar SEMPRE que qualquer tipo de cigarro é extremamente nocivo à saúde, e de diversas maneiras. Os fumantes estão expostos a várias doenças graves e fatais, em especial ao câncer.
 
-Para se ter uma ideia da gravidade do problema, quem fuma tem o risco **10x maior** de desenvolver câncer de pulmão, **5x maior** de ter bronquite, enfisema pulmonar e infarto, além de **2x mais chances** de sofrer um derrame cerebral (AVC).  
+Para se ter uma ideia da gravidade do problema, quem fuma tem o risco **10x maior** de desenvolver câncer de pulmão, **5x maior** de ter bronquite, enfisema pulmonar e infarto, além de **2x mais chances** de sofrer um derrame cerebral (AVC).
 
 A lista não para por aí! Outras doenças como hipertensão, trombose vascular, úlcera e infecções respiratórias também entram no radar dos fumantes. A boa notícia é que o ato de parar já reduz expressivamente os riscos e devolve o bem-estar físico e emocional. Mais precisamente, em 20 minutos! Esse é o tempo necessário para que a pressão sanguínea e a pulsação arterial voltem ao normal, de acordo com o INCA.
 
@@ -103,7 +102,3 @@ Fonte: Blog da Saúde
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

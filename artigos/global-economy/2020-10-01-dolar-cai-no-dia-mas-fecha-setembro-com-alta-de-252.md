@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa de valores tem o pior mês desde março.
 
 Num dia de alívio no mercado financeiro, o dólar caiu e a bolsa subiu. O dólar comercial encerrou esta quarta-feira (30) vendido a R$ 5,619, com recuo de R$ 0,025 (-0,44%). O índice Ibovespa, da B3, fechou o dia aos 94.603 pontos, com alta de 1,09%.
@@ -23,5 +22,3 @@ O Ibovespa operou em alta durante todo o dia. Além da declaração de Guedes, o
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

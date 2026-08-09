@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Revelado pelas categorias de base da Fundação Municipal de Esporte e Lazer (FMEL), o atleta de handebol Arthur Patrianova, vai representar a seleção brasileira no 27° Mundial de Handebol Masculino. A competição será entre os dias 14 e 31 de janeiro de 2021, no Egito.
 
 A seleção brasileira está no Grupo B, considerado o “grupo da morte”, ao lado de Espanha, Polônia e Tunísia. Na primeira fase, os três melhores de cada uma das chaves seguem para a segunda fase.
@@ -33,7 +32,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

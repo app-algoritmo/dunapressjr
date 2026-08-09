@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Cota fixa passa a ser de até 500 dólares por pessoa.
 
 Já está valendo desde o dia 1º de janeiro portaria do Ministério da Economia que elevou a cota de isenção para as mercadorias adquiridas em lojas francas - também conhecidas como free shops ou duty free - por passageiros que ingressam no país por via terrestre, fluvial ou lacustre. De acordo com a portaria, o limite foi elevado de US$ 300 dólares para US$ 500.
@@ -20,10 +19,6 @@ A elevação das cotas também vale para as mercadorias trazidas como bagagem ac
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

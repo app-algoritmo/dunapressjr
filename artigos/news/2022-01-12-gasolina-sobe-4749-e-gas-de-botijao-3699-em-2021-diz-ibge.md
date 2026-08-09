@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Inflação oficial, medida pelo IPCA, subiu 10,06% no ano.
 
 A alta de 10,06% em 2021 na inflação oficial, medida pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA), foi puxada pela aumento de 21,03% no grupo Transportes. Em 2020, o IPCA fechou o ano com alta de 4,52%. De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), o grupo foi afetado em 2021 principalmente pelos combustíveis.
@@ -52,10 +51,6 @@ A inflação acumulada no primeiro semestre do ano passado ficou em 3,77%. No se
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Curitiba tem a maior alta, com IPCA de 12,08%, diz IBGE.
 
 [**Com a alta de 0,87%**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-09/puxada-pelos-combustiveis-infiacao-oficial-fecha-agosto-em-087) no Índice Nacional de Preços ao Consumidor Amplo (IPCA) de agosto, a inflação oficial do país chegou a 9,68% nos últimos 12 meses, segundo os dados divulgados hoje (9) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Entre as 16 regiões metropolitanas pesquisadas, oito apresentaram taxas acumuladas em 12 meses superiores a 10%.
@@ -46,10 +45,6 @@ O IPCA abrange as famílias com rendimentos de 1 a 40 salários mínimos e o INP
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

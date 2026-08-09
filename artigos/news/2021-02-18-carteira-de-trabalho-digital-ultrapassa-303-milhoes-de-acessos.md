@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A nova versão substitui o documento em papel e pode ser emitido só com CPF.
 
 Mais de 303 milhões de pessoas já acessaram a Carteira de Trabalho e Previdência Social (CTPS) Digital desde o lançamento em janeiro de 2019. Fruto de uma iniciativa da Secretaria Especial de Previdência e Trabalho, do Ministério da Economia, com a parceria tecnológica da Empresa de Tecnologia e Informações da Previdência (Dataprev), a CTPS Digital evita que o cidadão tenha que ir presencialmente retirar o documento.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

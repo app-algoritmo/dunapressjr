@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Recursos serão repassados para ações em nove estados e contemplam esgotamento sanitário, manejo de águas pluviais, saneamento integrado e abastecimento de água.
 
 O Ministério do Desenvolvimento Regional (MDR) liberou mais de R$ 17,1 milhões para a continuidade de obras de saneamento básico em nove estados. Os empreendimentos beneficiados estão localizados no Amapá, Goiás, Mato Grosso do Sul, Pará, Paraíba, Rio Grande do Norte, Santa Catarina, São Paulo e Sergipe. Foram contempladas iniciativas que envolvem abastecimento de água, esgotamento sanitário, manejo de águas pluviais e saneamento integrado.
@@ -32,5 +31,3 @@ Atualmente, a carteira de obras e projetos da Pasta no setor – contratos ativo
 Fonte: Ministério do Desenvolvimento Regional
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## É a maior alta no índice desde 2002.
 
-O Índice Geral de Preços – Disponibilidade Interna (IGP-DI) desacelerou em dezembro e variou 0,76%, acumulando alta de 23,08% no ano. Mesmo com a desaceleração no mês, o ano fechou com a maior alta desde 2002. Em novembro, o índice teve alta de 2,64%. 
+O Índice Geral de Preços – Disponibilidade Interna (IGP-DI) desacelerou em dezembro e variou 0,76%, acumulando alta de 23,08% no ano. Mesmo com a desaceleração no mês, o ano fechou com a maior alta desde 2002. Em novembro, o índice teve alta de 2,64%.
 
 Em dezembro de 2019 a variação foi de 1,74%, com elevação de 7,70% em 12 meses. Os dados foram divulgados hoje (8), no Rio de Janeiro, pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV Ibre).
 
@@ -22,11 +21,11 @@ Segundo o coordenador dos Índices de Preços, André Braz, o IGP-DI foi forteme
 
 Entre os componentes do IGP-DI, o Índice de Preços ao Produtor Amplo (IPA) subiu 0,68% em dezembro, depois de variar 3,31% em novembro. A alta no ano foi de 31,72%.
 
-Por estágios de processamento, o grupo Bens Finais variou de 2,61% em novembro para 1,62% em dezembro, com destaque para o recuo no subgrupo alimentos processados, que passou de 4,14% para 1,23%. 
+Por estágios de processamento, o grupo Bens Finais variou de 2,61% em novembro para 1,62% em dezembro, com destaque para o recuo no subgrupo alimentos processados, que passou de 4,14% para 1,23%.
 
 No ano, a taxa acumulou alta de 15,62%. O índice de Bens Finais (ex), que exclui os alimentos in natura e combustíveis para o consumo, passou de 2,40% em novembro para 0,81% em dezembro.
 
-Para o grupo Bens Intermediários, a taxa passou de 3,38% em novembro para 1,60% em dezembro, com alta de 21,68% em 2020. O destaque no mês analisado foi o subgrupo materiais e componentes para a manufatura, que caiu de 3,88% em novembro para 0,33% em dezembro. 
+Para o grupo Bens Intermediários, a taxa passou de 3,38% em novembro para 1,60% em dezembro, com alta de 21,68% em 2020. O destaque no mês analisado foi o subgrupo materiais e componentes para a manufatura, que caiu de 3,88% em novembro para 0,33% em dezembro.
 
 O índice de Bens Intermediários (ex), que exclui os combustíveis e lubrificantes para a produção, variou 0,74% em dezembro, depois de subir 3,62% no mês anterior.
 
@@ -38,7 +37,7 @@ Já o Índice de Preços ao Consumidor (IPC) teve leve aceleração, subindo 1,0
 
 Tiveram aumento na taxa as classes de despesa Habitação (0,33% para 2,87%), Vestuário (0,04% para 0,38%), Despesas Diversas (0,09% para 0,22%) e Saúde e Cuidados Pessoais (0,18% para 0,29%). As maiores influências nessas classes foram os itens tarifa de eletricidade residencial, cuja variação passou de 0,16% em novembro para 11,93% em dezembro, roupas (0,01% para 0,35%), alimentos para animais domésticos (-1,35% para 2,18%) e artigos de higiene e cuidado pessoal (0,18% para 0,69%).
 
-Tiveram retração na variação os grupos Educação, Leitura e Recreação (3,00% para -0,58%), Alimentação (1,88% para 1,47%), Transportes (0,93% para 0,68%) e Comunicação (0,14% para 0,02%). 
+Tiveram retração na variação os grupos Educação, Leitura e Recreação (3,00% para -0,58%), Alimentação (1,88% para 1,47%), Transportes (0,93% para 0,68%) e Comunicação (0,14% para 0,02%).
 
 Os destaques foram a passagem aérea (24,19% para -9,49%), hortaliças e legumes (11,58% para -1,61%), gasolina (1,99% para 0,92%) e combo de telefonia, internet e TV por assinatura (0,29% para 0,00%).
 
@@ -62,8 +61,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

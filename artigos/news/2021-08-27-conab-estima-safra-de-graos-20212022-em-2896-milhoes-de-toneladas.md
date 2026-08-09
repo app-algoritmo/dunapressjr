@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Números são projeções para soja, arroz, milho, algodão e feijão.
 
 A produção da safra de grãos 2021/2022 do Brasil ficará em 289,6 milhões de toneladas. A expectativa foi apresentada nesta quinta-feira (26) pela Companhia Nacional de Abastecimento (Conab), em videoconferência para apresentar as primeiras projeções oficiais da produção. Os números consideram a projeção das safras de soja, arroz, milho, algodão e feijão, que correspondem a cerca de 94% do total de grãos do país.
@@ -32,10 +31,6 @@ O diretor-presidente da Conab ressaltou que o quadro é de recuperação, mas qu
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

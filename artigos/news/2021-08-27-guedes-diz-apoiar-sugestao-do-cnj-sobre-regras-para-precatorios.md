@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para ministro, autonomia do BC é solução quando inflação aumenta.
 
 A sugestão de criar uma espécie de “microparcelamento” dos precatórios em 2022 pode ser uma saída para evitar o pagamento de despesas judiciais fora do teto, disse nesta quinta-feira (26) o ministro da Economia, Paulo Guedes. A ideia foi apresentada mais cedo pelo presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional de Justiça (CNJ), ministro Luiz Fux.
@@ -40,10 +39,6 @@ Em relação às reformas, o ministro disse que a tramitação está mais lenta 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Produção de gás natural aumentou 19% em relação a março.
 
 A produção de petróleo média dos quatro contratos em regime de partilha alcançou, em abril deste ano, 486 mil barris de petróleo por dia (bpd), aumento de 3% em relação ao mês anterior. O dado consta no Boletim Mensal de Contratos de Partilha de Produção, divulgado nesta segunda-feira (13) pela Pré-Sal Petróleo (PPSA).
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

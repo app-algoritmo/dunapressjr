@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Registro atesta conformidade de requisitos técnicos e segurança de produtos.
 
 O Instituto Nacional de Metrologia, Qualidade e Tecnologia (Inmetro), autarquia federal vinculada ao Ministério da Economia, expede regulamentos técnicos nas áreas de avaliação da conformidade de produtos, insumos e serviços, desde que não constituam objeto da competência de outros órgãos ou entidades da administração pública federal, abrangendo os aspectos de segurança; proteção da vida e da saúde humana, animal e vegetal; proteção do meio ambiente; e prevenção de práticas enganosas de comércio.
@@ -34,8 +33,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

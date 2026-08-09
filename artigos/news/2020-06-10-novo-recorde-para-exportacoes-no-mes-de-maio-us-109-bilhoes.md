@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 O desempenho reflete principalmente os embarques de soja em grão, carne bovina, açúcar e café verde.
 
-O Agronegócio brasileiro registrou valor recorde nas exportações de maio com US$ 10,9 bilhões (+17,9%) e correspondeu a 60,9% do total exportado pelo país. O desempenho reflete, principalmente, os embarques de soja em grão (US$ 5,2 bilhões), carne bovina (US$ 780 milhões), açúcar (US$ 767 milhões) e café verde (US$ 468 milhões). 
+O Agronegócio brasileiro registrou valor recorde nas exportações de maio com US$ 10,9 bilhões (+17,9%) e correspondeu a 60,9% do total exportado pelo país. O desempenho reflete, principalmente, os embarques de soja em grão (US$ 5,2 bilhões), carne bovina (US$ 780 milhões), açúcar (US$ 767 milhões) e café verde (US$ 468 milhões).
 
 As importações de produtos do agronegócio diminuíram de US$ 1,18 bilhão (maio 2019) para US$ 835,78 milhões em maio deste ano, recuo de 29,3%. De acordo com o Boletim da Balança do Agronegócio, divulgado nesta quarta-feira (10) pela Secretaria de Comércio e Relações Internacionais do Ministério da Agricultura, Pecuária e Abastecimento (Mapa), o saldo da balança totalizou US$ 10 bilhões.
 
@@ -24,15 +23,13 @@ Já as aquisições de carne brasileira foram de US$ 870,84 milhões, consideran
 
 A China aparece novamente como maior importadora de açúcar, adquirindo 21,7% de todo o valor exportado pelo Brasil do produto ou US$ 166,42 milhões. De acordo com a análise da SCRI, a quebra da safra indiana de açúcar e o aumento das aquisições chinesas do produto explicam o incremento de nossas exportações, alcançando no total US$ 767 milhões.
 
-A celulose também foi destaque para o mercado chinês que adquiriu US$ 242,03 milhões, ou 41,4% do total exportado pelo Brasil. 
+A celulose também foi destaque para o mercado chinês que adquiriu US$ 242,03 milhões, ou 41,4% do total exportado pelo Brasil.
 
 **>> Confira[ a](https://www.gov.br/agricultura/pt-br/assuntos/noticias/exportacoes-do-agro-em-maio-somam-us-10-9-bilhoes-e-sao-recorde-para-o-mes/NotaaimprensaMaio2020final.docx)[ nota](https://www.gov.br/agricultura/pt-br/assuntos/noticias/exportacoes-do-agro-em-maio-somam-us-10-9-bilhoes-e-sao-recorde-para-o-mes/NotaaimprensaMaio2020final.docx) e [o ](https://www.gov.br/agricultura/pt-br/assuntos/noticias/exportacoes-do-agro-em-maio-somam-us-10-9-bilhoes-e-sao-recorde-para-o-mes/MaioBalanaComercialdoAgronegcioResumida.xls)[resumo](https://www.gov.br/agricultura/pt-br/assuntos/noticias/exportacoes-do-agro-em-maio-somam-us-10-9-bilhoes-e-sao-recorde-para-o-mes/MaioBalanaComercialdoAgronegcioResumida.xls) da Balança Comercial do Agronegócio**
 
 **>> Confira o **[Agrostat - Sistema de Estatísticas de Comercio Exterior do Agronegócio Brasileiro](http://sistemasweb.agricultura.gov.br/pages/AGROSTAT.html)**   **
 
 Fonte: gov.br / Imagem em destaque: Mapa
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

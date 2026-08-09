@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## PM enfatiza que ele mantém comentários contra aqueles que optam por não receber o tiro COVID e aborda protestos subsequentes.
 
 No início da reunião de gabinete no domingo, o primeiro-ministro Naftali Bennett referiu-se às manifestações no fim de semana após seu discurso na quinta-feira, no qual acusou aqueles que optaram por não receber a injeção COVID de ["colocar todos nós em perigo".](https://www.israelnationalnews.com/News/News.aspx/310403)
@@ -30,7 +29,3 @@ Fonte: https://www.israelnationalnews.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

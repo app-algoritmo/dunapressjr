@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Presidente do BC divulgou hoje o Relatório de Inflação.
 
 O presidente do Banco Central (BC), Roberto Campos Neto, afirmou hoje (25) que “de forma alguma” a meta de inflação está sendo abandonada. Campos Neto apresentou o Relatório de Inflação em entrevista coletiva virtual.
@@ -40,4 +39,4 @@ Campos Neto afirmou ainda que o câmbio no Brasil tem sido mais volátil (aprese
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

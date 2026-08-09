@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Ministro Paulo Guedes falou sobre revisão do PIB em A Voz do Brasil.
 
 O ministro da Economia, Paulo Guedes, falou nesta quinta-feira (15), em entrevista ao programa *A Voz do Brasil*, sobre a recuperação econômica pós-pandemia, a geração de empregos no mercado formal e informal e o posicionamento do Brasil no cenário econômico mundial.
@@ -30,13 +29,13 @@ Sobre as perspectivas de inflação e as visões que classificou como "pessimist
 
 “As pessoas em casa. A produção se retraiu. Ao mesmo tempo, nós tínhamos que injetar recursos na economia para as pessoas sobreviverem. Então, os preços começaram a subir”, disse Guedes.
 
-Em paralelo, explicou o ministro, o [**Banco Central tinha acabado de ganhar autonomia**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-02/bolsonaro-sanciona-lei-que-da-autonomia-ao-banco-central). O governo decidiu que não reajustaria os salários de categorias mais estáveis e com maiores ganhos, como os servidores públicos. “Foi importantíssima a contribuição do funcionalismo brasileiro, que foi exemplar: eles sabiam que tinham salários bem mais altos, sabiam que tinham estabilidade, fizeram *home office*, então era justo que a contribuição deles fosse não ter esse aumento de salário.” 
+Em paralelo, explicou o ministro, o [**Banco Central tinha acabado de ganhar autonomia**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-02/bolsonaro-sanciona-lei-que-da-autonomia-ao-banco-central). O governo decidiu que não reajustaria os salários de categorias mais estáveis e com maiores ganhos, como os servidores públicos. “Foi importantíssima a contribuição do funcionalismo brasileiro, que foi exemplar: eles sabiam que tinham salários bem mais altos, sabiam que tinham estabilidade, fizeram *home office*, então era justo que a contribuição deles fosse não ter esse aumento de salário.”
 
 ### Retomada de investimentos
 
 De acordo com Guedes, outro pilar decisivo na política econômica do governo foi a simplificação e a desburocratização de marcos regulatórios, que eram tidos como empecilho para o desempenho de atividades comerciais e a criação de novos empreendimentos.
 
-Segundo o ministro, os investimentos em telecomunicações, transporte de cabotagem, no setor elétrico, saneamento básico e demais setores são fruto direto da simplificação das leis vigentes, que tornaram o investimento mais simples  “Tudo isso tem efeito. Está tudo vindo pelo caminho. Por isso que a inflação [do Brasil] já começou a descer enquanto está subindo em todos os outros lugares do mundo.”
+Segundo o ministro, os investimentos em telecomunicações, transporte de cabotagem, no setor elétrico, saneamento básico e demais setores são fruto direto da simplificação das leis vigentes, que tornaram o investimento mais simples “Tudo isso tem efeito. Está tudo vindo pelo caminho. Por isso que a inflação [do Brasil] já começou a descer enquanto está subindo em todos os outros lugares do mundo.”
 
 ### Superávit no governo
 
@@ -44,7 +43,7 @@ O Brasil tem cerca de R$ 900 bilhões encomendados em concessões e privatizaç�
 
 Guedes salientou a importância de parcerias e concessões que transformam a iniciativa privada em “sócia” do governo para gerar desenvolvimento. Entre os exemplos citados por Guedes, linhas de transmissão de gás da Petrobras e a distribuidora BR. “Pegamos essas empresas e vendemos o que não era essencial.”
 
-Segundo o ministro, foi feita a escolha de usar os fundos levantados pelas privatizações para não jogar o custo dos auxílios para o futuro. “A outra forma é se endividar, jogar a conta para o futuro. Quem vai pagar são nossos filhos e netos. A decisão do presidente foi ‘nós vamos pagar por essa guerra’. Quando chegar ao fim, nós mesmos pagamos pela guerra”. O ministro frisou, ainda, que o nível de dívida do país permanece estável, mesmo após a injeção de recursos dos auxílios. 
+Segundo o ministro, foi feita a escolha de usar os fundos levantados pelas privatizações para não jogar o custo dos auxílios para o futuro. “A outra forma é se endividar, jogar a conta para o futuro. Quem vai pagar são nossos filhos e netos. A decisão do presidente foi ‘nós vamos pagar por essa guerra’. Quando chegar ao fim, nós mesmos pagamos pela guerra”. O ministro frisou, ainda, que o nível de dívida do país permanece estável, mesmo após a injeção de recursos dos auxílios.
 
 “Estamos aumentando os investimentos para trazer toda uma nova classe média empresarial para todo mundo. As pequenas lojas, os pequenos comércios, as pequenas feiras. Temos mais de 14 milhões de novos empreendedores - isso que gera emprego e cria riqueza no país”, argumentou.
 
@@ -56,8 +55,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

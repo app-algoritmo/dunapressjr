@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## *Objetivo é desenvolver soluções a partir das informações enviadas por estados e municípios sobre a execução do PNAE no período de pandemia.*
 
 Acompanhar as ações dos estados e municípios na execução do Programa Nacional de Alimentação Escolar (PNAE) durante o período de suspensão das aulas presenciais nas redes públicas. Esse é o objetivo principal de uma pesquisa lançada pelo Fundo Nacional de Desenvolvimento da Educação (FNDE), em parceria com os Centros Colaboradores em Alimentação e Nutrição Escolar (Cecanes).
@@ -23,7 +22,7 @@ Fonte: gov.br / Imagem em destaque: MEC
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

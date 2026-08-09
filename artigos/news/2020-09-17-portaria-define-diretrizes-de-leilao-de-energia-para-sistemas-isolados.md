@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Certame está previsto para março de 2021.
 
 O Ministério de Minas e Energia (MME) [**publicou hoje (17) uma portaria**](https://www.in.gov.br/web/dou/-/portaria-n-341-de-11-de-setembro-de-2020-277980677) com as diretrizes para o leilão para suprimento de energia nos sistemas isolados, previsto para ocorrer em março de 2021. O certame vai contratar soluções para o fornecimento de energia a 23 localidades na Região Norte, que não são conectadas no sistema de energia nacional.
@@ -30,8 +29,6 @@ Entretanto, a mudança só será aceita se a modificação não comprometer os c
 
 O leilão ficará à cargo da Agência Nacional de Energia Elétrica (Aneel).
 
-Fonte: Agência Brasil – Imagem de destaque: Beth Santos/Secretaria-Geral da PR 
+Fonte: Agência Brasil – Imagem de destaque: Beth Santos/Secretaria-Geral da PR
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O irmão de Fidel Castro renuncia ao cargo de chefe do Partido Comunista, pondo fim ao reinado da família que governa Cuba desde 1959.
 
 Raul Castro anunciou sua renúncia como líder do Partido Comunista de Cuba, encerrando o reinado de uma década da família Castro sobre Cuba.
@@ -34,5 +33,3 @@ Fonte: https://www.israelnationalnews.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

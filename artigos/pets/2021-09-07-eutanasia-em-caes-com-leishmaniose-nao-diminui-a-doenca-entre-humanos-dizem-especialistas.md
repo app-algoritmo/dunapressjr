@@ -8,7 +8,6 @@ categories:
 - Pets
 ---
 
-
 ## Ministério da Saúde nega que prática da eutanásia seja prioridade e promete distribuição de coleiras com inseticida para evitar a contaminação dos cães.
 
 A morte de cães que hospedam o parasita causador da leishmaniose, prática comum no Brasil, não se refletiu na diminuição da incidência da doença entre os seres humanos. A conclusão é dos participantes de audiência pública da Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara (nesta sexta, 3), que reivindicaram avanços no tratamento dos animais para evitar a eutanásia.
@@ -52,7 +51,3 @@ Fonte: Agência Câmara de Notícias.
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

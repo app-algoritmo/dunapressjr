@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estudo revisado por pares mostra que alterações do genoma anteriormente negligenciadas podem ser usadas para identificar tipos de câncer e prever chances de sobrevivência.
 
 Pesquisadores da Universidade de Tel Aviv descobriram que "mutações silenciosas" nos genomas do câncer podem ser usadas para prever o tipo de câncer e a probabilidade de sobrevivência do paciente. Eles também afirmam que o método que desenvolveram pode ajudar a salvar vidas no futuro.
@@ -44,7 +43,3 @@ Fonte: The Time Of Israel
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

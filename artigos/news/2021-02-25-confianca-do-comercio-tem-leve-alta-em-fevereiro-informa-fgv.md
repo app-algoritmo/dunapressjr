@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Trata-se da primeira alta depois de quatro quedas consecutivas.
 
 O Índice de Confiança do Comércio, calculado pela Fundação Getulio Vargas (FGV), subiu 0,2 ponto de janeiro para fevereiro e chegou a 91 pontos, em uma escala que vai de zero a 200 pontos. Essa foi a primeira alta depois de quatro quedas consecutivas do indicador.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

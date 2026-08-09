@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa começou dia em queda, mas encerrou em pequena alta.
 
 Num dia de otimismo no mercado financeiro, a moeda norte-americana teve a maior queda diária desde o fim de agosto e voltou a ficar abaixo de R$ 5,40. A bolsa de valores começou o dia em queda, mas encerrou com pequena alta.
@@ -23,5 +22,3 @@ A reversão da diferença de Biden para o presidente norte-americano, Donald Tru
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Gary Cameron/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

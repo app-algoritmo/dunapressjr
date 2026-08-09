@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 No dia de ontem (31/05/2020) ocorrera protestos em todo o Brasil, a maioria eram em prol do governo e contra as manobras de censura recentes que o STF vem impondo aos jornalistas e pessoas comuns da direita, entretanto, grupos organizados de esquerda juntamente com torcidas organizadas e do grupo extremista da Antifa iniciaram uma série de protestos contra o governo, utilizando-se da prerrogativa de lutarem em prol da democracia.
 
 Em São Paulo, a torcida organizada do Corinthians aglomerou-se na avenida paulista em peso para uma manifestação contra o governo e a favor da suposta democracia que tanto bradam. É irônico pensar que a torcida conhecida como a mais violenta do futebol, com grande histórico de confrontos contra outras torcidas, ou seja, não tolerando a existência de outras torcidas, traz neste domingo à Paulista a pauta de luta pela democracia.
@@ -42,4 +41,4 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-[https://dunapress.org/subscription-plan/?aff=Vitor](https://dunapress.org/subscription-plan/?aff=Vitor)
+[https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)

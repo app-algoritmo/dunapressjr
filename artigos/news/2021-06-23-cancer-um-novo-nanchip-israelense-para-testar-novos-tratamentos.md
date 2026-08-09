@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Um minúsculo chip de silicone que atua como um "câncer artificial" é colocado em uma placa de Petri para verificar a eficácia das imunoterapias contra a doença.
 
 Um novo nanochip israelense, agindo como um "câncer artificial" para testes de laboratório, permite aos cientistas avaliar a eficácia de novos tratamentos de imunoterapia no combate à doença real.
@@ -39,7 +38,3 @@ Fonte: https://fr.timesofisrael.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

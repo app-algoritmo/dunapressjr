@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 Para comemorar o Dia Nacional do Livro Infantil, celebrado no dia 18 de abril, o Colégio Positivo realizou uma pesquisa com 992 crianças e jovens de um a 15 anos das cidades paranaenses de Curitiba, Cascavel, Foz do Iguaçu, Londrina e Ponta Grossa, além das catarinenses Florianópolis e Joinville. O trabalho revela a lista dos livros que as crianças mais gostam - citados por elas mesmas e divididos por idade e sexo. "Sabíamos quais os livros mais indicados por especialistas, professores e críticos literários, mas nunca vimos uma lista de livros infantis indicados de crianças para crianças", comenta a diretora de marketing das unidades do Colégio Positivo, Patrícia Russo Gibran.
 
 Apenas para os alunos da Educação Infantil (crianças até 5 anos), os pais preencheram a lista dos livros preferidos. No topo do ranking, a fábula dos Três Porquinhos. Nesta fase, a preferência varia bastante de acordo com o sexo da criança. Enquanto os livros preferidos das meninas são sobre princesas, os dos meninos são sobre dinossauros. Outros personagens entre os mais citados foram a Turma da Mônica, João e o Pé de Feijão e Chapeuzinho Vermelho. Com cinco anos, Lúcia Silva Galvão, de Curitiba (PR), citou um livro inusitado de princesas. O título é "Até as princesas soltam pum", de Ilan Brenman, com ilustrações de Ionit Zilberman. "Ela acha muito engraçado”, comenta a mãe de Lúcia, Suellen Galvão.
@@ -16,7 +15,7 @@ Entre as crianças de cinco a sete anos, o livro preferido é "A Vaca Fotógrafa
 
 A curitibana Júlia Rigotto Oliva, de sete anos, é uma grande devoradora de livros. A atual coleção preferida dela é Bat Pat, do autor italiano Roberto Pavanello. Para recomendar livros e promover a troca entre amigos, ela e a mãe criaram uma página no Instagram chamada [Biblioteca da Jujuba](https://www.instagram.com/bibliotecadajujuba/). "Com isso, procuramos incentivar a leitura e o consumo responsável", conta Mariana Rigotto, mãe da Júlia.
 
-Na faixa de oito a 11 anos, três coleções lideraram o ranking. Citados por ambos os sexos, a coleção de Harry Potter, da britânica J.K. Rowling, é a preferida das meninas, enquanto a coleção Diário de um Banana, do cartunista norte-americano Jeff Kinney, é a mais lida pelos meninos. A terceira do ranking é a coleção "A casa na árvore", do australiano Andy Griffiths, com ilustrações de Terry Denton. Logo em seguida, foram citados o livro "O Pequeno Príncipe", do francês Antoine de Saint-Exupéry, e a coleção "Homem Cão", do norte-americano Dav Pilkey, mesmo autor de "Capitão Cueca", também citado na lista. 
+Na faixa de oito a 11 anos, três coleções lideraram o ranking. Citados por ambos os sexos, a coleção de Harry Potter, da britânica J.K. Rowling, é a preferida das meninas, enquanto a coleção Diário de um Banana, do cartunista norte-americano Jeff Kinney, é a mais lida pelos meninos. A terceira do ranking é a coleção "A casa na árvore", do australiano Andy Griffiths, com ilustrações de Terry Denton. Logo em seguida, foram citados o livro "O Pequeno Príncipe", do francês Antoine de Saint-Exupéry, e a coleção "Homem Cão", do norte-americano Dav Pilkey, mesmo autor de "Capitão Cueca", também citado na lista.
 
 Dos livros da britânica J.K. Rowling, o João Bento, de nove anos, indica o “Harry Potter e a Pedra Filosofal”. De acordo com o estudante, além de contar uma história legal e emocionante, o livro fala de um menino que não sabia nada sobre seus pais. “De repente, tudo muda quando vai para Hogwarts e descobre que é um bruxo poderoso e sempre foi amado por seus pais”, conta.
 
@@ -94,5 +93,3 @@ Fonte: Central Press
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

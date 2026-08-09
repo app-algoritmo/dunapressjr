@@ -7,8 +7,7 @@ categories:
 - Education
 ---
 
-
-Cursos de graduação pouco conhecidos, mas muito concorridos, despertam cada vez mais a atenção e a procura de estudantes brasileiros, em instituições nacionais e internacionais. O aumento de inscrições de brasileiros em universidades americanas, por exemplo, foi de 41% em 2020, segundo o sistema de admissão *Common Application*. 
+Cursos de graduação pouco conhecidos, mas muito concorridos, despertam cada vez mais a atenção e a procura de estudantes brasileiros, em instituições nacionais e internacionais. O aumento de inscrições de brasileiros em universidades americanas, por exemplo, foi de 41% em 2020, segundo o sistema de admissão *Common Application*.
 
 As mudanças nas escolhas das carreiras ocorrem diante de boas expectativas de empregos e salários, nas chamadas "profissões do futuro". Engenharia Aeroespacial, Biotecnologia, Diplomacia, Empreendedorismo em Engenharia (Engineering Entrepreneurship), Ilustração, Gerontologia, Informática Biomédica e Telemática são exemplos de cursos nem tão populares, mas que oferecem carreiras promissoras e fora do comum.
 
@@ -45,7 +44,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

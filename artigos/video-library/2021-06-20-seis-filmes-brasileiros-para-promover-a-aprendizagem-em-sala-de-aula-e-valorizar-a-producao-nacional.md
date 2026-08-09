@@ -8,16 +8,15 @@ categories:
 - Video library
 ---
 
+Em 19 de junho é comemorado o Dia do Cinema Nacional. A data foi escolhida em referência ao dia em que o ítalo-brasileiro Afonso Segreto – o primeiro cinegrafista e diretor do Brasil – registrou as primeiras imagens em movimento no território brasileiro, em 1898. Uma lei de autoria do então senador Cristóvão Buarque, de 2014, tornou obrigatória a exibição de filmes e audiovisuais de produção nacional nas escolas de ensino básico de todo o país por, no mínimo, duas horas mensais. Mas a inclusão de filmes nos currículos escolares não é uma novidade na educação brasileira. Ao longo dos anos, educadores, diretores e produtores de cinema debateram sobre as possibilidades de usar os filmes como um recurso pedagógico. A Base Nacional Comum Curricular (BNCC) prevê a valorização das manifestações artísticas e culturais entre as 10 competências gerais da Educação Básica, destacando o cinema nas competências específicas de arte para o Ensino Fundamental 2.
 
-Em 19 de junho é comemorado o Dia do Cinema Nacional. A data foi escolhida em referência ao dia em que o ítalo-brasileiro Afonso Segreto – o primeiro cinegrafista e diretor do Brasil – registrou as primeiras imagens em movimento no território brasileiro, em 1898. Uma lei de autoria do então senador Cristóvão Buarque, de 2014, tornou obrigatória a exibição de filmes e audiovisuais de produção nacional nas escolas de ensino básico de todo o país por, no mínimo, duas horas mensais. Mas a inclusão de filmes nos currículos escolares não é uma novidade na educação brasileira. Ao longo dos anos, educadores, diretores e produtores de cinema debateram sobre as possibilidades de usar os filmes como um recurso pedagógico. A Base Nacional Comum Curricular (BNCC) prevê a valorização das manifestações artísticas e culturais entre as 10 competências gerais da Educação Básica, destacando o cinema nas competências específicas de arte para o Ensino Fundamental 2. 
-
-De acordo com o coordenador editorial do Sistema Positivo de Ensino, Norton Nicolazzi Junior, usar filmes em sala de aula é utilizar uma linguagem com elementos específicos que precisam ser considerados com cuidado e atenção. "Trabalhar o cinema como instrumento de aprendizagem é ajudar a escola a reencontrar a cultura ao mesmo tempo cotidiana e elevada, pois o cinema é o campo no qual a estética, o lazer, a ideologia e os valores sociais mais amplos são sintetizados em uma mesma obra de arte", afirma Nicolazzi. 
+De acordo com o coordenador editorial do Sistema Positivo de Ensino, Norton Nicolazzi Junior, usar filmes em sala de aula é utilizar uma linguagem com elementos específicos que precisam ser considerados com cuidado e atenção. "Trabalhar o cinema como instrumento de aprendizagem é ajudar a escola a reencontrar a cultura ao mesmo tempo cotidiana e elevada, pois o cinema é o campo no qual a estética, o lazer, a ideologia e os valores sociais mais amplos são sintetizados em uma mesma obra de arte", afirma Nicolazzi.
 
 Segundo o educador, introduzir a exibição de filmes nacionais no cotidiano das escolas e explorar essas produções como ferramentas para a aprendizagem podem viabilizar a identificação de professores e alunos com um cinema pouco conhecido e, muitas vezes, estigmatizado. "Nossa cultura predominante favorece o cinema hollywoodiano, o que não beneficia o cinema nacional. Promover esse encontro com as produções brasileiras abre espaço para que professores e alunos pensem juntos sobre as questões e temáticas que são abordadas e problematizadas nesses filmes", acrescenta.
 
 O educador fez uma lista de produções nacionais que podem ser utilizadas como ferramentas de aprendizado, tanto em sala de aula, como na programação de fim de semana, para gerar debates em família (antes de assistir, verifique a classificação indicativa).
 
-**Quanto vale ou é por quilo?** 
+**Quanto vale ou é por quilo?**
 
 *Direção de Sérgio Bianchi, 2005.*
 
@@ -41,7 +40,7 @@ A obra faz uma análise histórica do período final do governo Getúlio Vargas,
 
 Getúlio, 2014. Imagem: divulgação.
 
-**Nós que aqui estamos, por vós esperamos** 
+**Nós que aqui estamos, por vós esperamos**
 
 *Direção de Marcelo Masagão, 1999. *
 
@@ -49,7 +48,7 @@ Premiado nacional e internacionalmente, é considerado um filme-memória do séc
 
 Nós que aqui estamos, por vós esperamos, 1999. Imagem: divulgação
 
-**O ano em que meus pais saíram de férias** 
+**O ano em que meus pais saíram de férias**
 
 *Direção de Cao Hamburguer, 2006. *
 
@@ -74,7 +73,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

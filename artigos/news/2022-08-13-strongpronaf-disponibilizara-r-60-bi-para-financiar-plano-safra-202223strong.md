@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Parte desses recursos serão provenientes de bancos, diz Mapa.
 
 O aumento de demanda por financiamentos de custeio levou o governo a aumentar em R$ 6,54 bilhões os recursos a serem disponibilizados via Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf). Dessa forma, o total reservado para este tipo de financiamento ampliou-se em 12%, passando de R$ 53,6 bilhões para R$ 60,1 bilhões.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O cadastro é obrigatório para todo cidadão e empresa que processe, industrialize, beneficie ou embale produto de origem vegetal
 
 O Sistema Integrado de Produtos e Estabelecimentos Agropecuários (Sipeagro) contabilizou em maio mil registros no Cadastro Geral de Classificação do Ministério da Agricultura, Pecuária e Abastecimento (CGC/MAPA) de pessoas físicas ou jurídicas envolvidas no processo de classificação de produtos vegetais, seus subprodutos e resíduos de valor econômico.
@@ -27,8 +26,6 @@ Além disso, o CGC concede a habilitação a um estabelecimento que deseje expor
 Para facilitar e esclarecer as principais dúvidas e dificuldades dos usuários na hora de realizar o cadastro, [o Mapa disponibilizou orientações](https://www.gov.br/agricultura/pt-br/assuntos/noticias/sipeagro-alcanca-mil-registros-de-estabelecimentos-de-produtos-de-origem-vegetal/ORIENTACOESPARAREGISTRONOSIPEAGROCGC.pdf) com pré-requisitos e documentações necessárias.
 
 Fonte: gov.br / Imagem em destaque: CRMVMG
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

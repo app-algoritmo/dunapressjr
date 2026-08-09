@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Commodity teve alta de até 73% no valor negociado.
 
 O mercado imobiliário brasileiro apresentou queda de 42,5% no número de lançamentos no primeiro trimestre de 2022, na comparação com o quatro trimestre de 2021, informou nesta segunda-feira (23) a Câmara Brasileira da Indústria da Construção. O número de lançamentos também apresentou uma queda de 7,6% na oferta final de empreendimentos. Segundo a CBIC, o aumento no preço de insumos e a conjuntura econômica pesaram na redução.
@@ -38,7 +37,7 @@ O comparativo das regiões nos lançamentos do Casa Verde e Amarela mostra o Nor
 
 Em unidades vendidas, a região Sudeste lidera com 56%, seguido do Nordeste (52%), Norte (49%), Centro-oeste (40%) e Sul (36%). Já a participação da oferta final representa: Sudeste (46%), Nordeste (44%), Centro-oeste (31%), Norte (29%) e Sul (25%).
 
-Já no mercado imobiliário como um todo, em relação ao 4º trimestre de 2021, o Sudeste foi a região que mais registrou queda nos lançamentos com 52%, seguida da Região Norte (51,2%), Sul (39,7%), Centro-oeste (8,2%) e Nordeste (7,1%). 
+Já no mercado imobiliário como um todo, em relação ao 4º trimestre de 2021, o Sudeste foi a região que mais registrou queda nos lançamentos com 52%, seguida da Região Norte (51,2%), Sul (39,7%), Centro-oeste (8,2%) e Nordeste (7,1%).
 
 Já em comparação com o 1º trimestre de 2021, as regiões Centro-oeste e Sudeste registram alta de 11,4% e 7,5%, respectivamente. As demais apresentaram queda: Sul (27,9%), Norte (5,7%) e Nordeste (1,7%).
 
@@ -54,8 +53,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

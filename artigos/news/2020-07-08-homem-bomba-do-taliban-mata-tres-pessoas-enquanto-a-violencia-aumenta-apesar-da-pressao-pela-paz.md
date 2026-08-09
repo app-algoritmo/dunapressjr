@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Um homem-bomba do Taliban detonou um veículo militar cheio de explosivos quando se aproximava da residência do governador da província e da sede da polícia na província afegã de Kandahar na quarta-feira, matando pelo menos três pessoas, disseram autoridades.
 
 O derramamento de sangue está aumentando de novo no Afeganistão, enquanto os Estados Unidos tentam intermediar um acordo de paz entre o Talibã e o governo afegão, após quase duas décadas de guerra."Por volta das 4 horas da manhã, um homem-bomba dirigindo um caminhão grande (força de segurança afegã) foi atacado por forças de segurança antes de atingir seu objetivo, mas detonou explosivos perto da sede da polícia e do complexo residencial do governador", disse o porta-voz do governador, Bahir Ahmad Ahamdi, disse.
@@ -27,6 +26,6 @@ Imagem destacada Pixabay
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

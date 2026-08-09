@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Prazo de adesão foi estendido até 31 de agosto; inscrições são realizadas pelo site do programa.
 
 O programa Tempo de Aprender, do Ministério da Educação (MEC), tem despertado o interesse de milhares de secretarias de educação, desde que foi lançado, em fevereiro deste ano. “A iniciativa tem o objetivo de enfrentar as deficiências da alfabetização no país e conta com ações estruturadas em quatro eixos: formação continuada de profissionais da alfabetização; apoio pedagógico para a alfabetização; aprimoramento das avaliações da alfabetização; e a valorização dos profissionais da alfabetização”, explica o secretário de Alfabetização do MEC, Carlos Nadalim.
@@ -33,7 +32,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

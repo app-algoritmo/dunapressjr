@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Eles anunciaram aumento de provisões contra dívidas inadimplentes.
 
 Quatro dos cinco maiores bancos estatais da China informaram que aumentaram suas provisões contra dívidas inadimplentes para se preparar contra perdas futuras devido ao impacto global da pandemia do novo coronavírus.
@@ -27,5 +26,3 @@ Enquanto a pandemia atinge as economias em todo o mundo, o Banco da China, o mai
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Jason Lee/ Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

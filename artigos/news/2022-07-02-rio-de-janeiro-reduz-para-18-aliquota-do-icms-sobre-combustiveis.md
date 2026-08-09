@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Procon fará operação para fiscalizar queda de preço nos postos.
 
 O governo do Rio de Janeiro reduziu a alíquota do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) de 32% para 18%. A medida está no [**Decreto 48.145**](http://www.ioerj.com.br/portal/modules/conteudoonline/mostra_edicao.php?session=VGtWVk1VOVZXa0pOVkVsMFVXdEpNbEpETURCUFZWRXdURlJvUTAxVWEzUk5WRkY1VFZWUk0wOUVUWGxTYTA1RFRWUlpNVTVxV1RWT1JFa3hUbWM5UFE9PQ==), publicado nesta sexta-feira (1º) em edição extra do *Diário Oficial *do estado.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

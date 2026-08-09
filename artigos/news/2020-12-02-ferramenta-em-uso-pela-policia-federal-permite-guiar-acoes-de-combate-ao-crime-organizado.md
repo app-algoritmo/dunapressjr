@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O programa Brasil M.A.I.S (Meio Ambiente Integrado e Seguro), um dos projetos estratégicos do Ministério da Justiça e Segurança Pública, já está disponível para adesão dos órgãos federais, estaduais e municipais, bem como de todos os integrantes do Sistema Único de Segurança Pública (SUSP).
 
 A ferramenta ampliará a capacidade de cobertura diária de imagens em alta precisão de todo o território nacional e auxiliará, também, no monitoramento de crimes ambientais, como desmatamento ilegal, queimadas, bem como na identificação de abertura de pistas de pouso clandestinas. O Brasil M.A.I.S também ajudará no combate ao tráfico de drogas e demais crimes, como o trabalho escravo e o tráfico de pessoas.
@@ -41,7 +40,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

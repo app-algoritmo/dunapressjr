@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Atendendo definições previamente estabelecidas em conjunto com prefeitos, demais Poderes e autoridades de Saúde, o Governo de Santa Catarina publica na edição desta sexta-feira, 4, do Diário Oficial do Estado (DOE), [o decreto com novas medidas sanitárias](https://www.sc.gov.br/images/Secom_Noticias/Documentos/Decreto_970_de_4_de_dezembro_de_2020pdf.pdf) para conter o avanço da Covid-19. O documento estabelece entre as principais medidas, limite diário de horário de funcionamento até meia-noite de atividades e serviços não essenciais; restrição de circulação de pessoas da meia-noite às 5h e ocupação máxima de 70% da capacidade no transporte coletivo urbano. O decreto é válido para todo o território catarinense, com vigência a partir das 23h deste sábado, 5, pelo prazo de 15 dias.
 
 [>>> Leia na íntegra o decreto ](https://www.sc.gov.br/images/Secom_Noticias/Documentos/Decreto_970_de_4_de_dezembro_de_2020pdf.pdf)
@@ -50,7 +49,5 @@ Através do link abaixo você obtém 25% de desconto, também contribuirá com a
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

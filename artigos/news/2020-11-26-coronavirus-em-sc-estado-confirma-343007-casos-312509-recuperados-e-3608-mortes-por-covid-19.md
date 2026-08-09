@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Santa Catarina chegou a 343.007 casos confirmados de infecção pelo novo coronavírus. Desses, 312.509 são considerados recuperados e 26.890 continuam em acompanhamento. O número foi divulgado nesta quinta-feira, 26. Desde o início da pandemia, 3.608 óbitos foram causados pela Covid-19. Esses números colocam a taxa de letalidade em 1,05%.
 
 [>>> Confira aqui o boletim diário desta quinta-feira, 26](http://www.coronavirus.sc.gov.br/wp-content/uploads/2020/11/boletim-epidemiologico-26-11-2020.pdf)
@@ -572,7 +571,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

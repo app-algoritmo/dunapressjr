@@ -8,16 +8,13 @@ categories:
 - World Affairs
 ---
 
-
 **Aaron Siri twittou um resumo das doações de 2021 feitas pela Pfizer para universidades, hospitais, associações médicas, organizações de câncer e organizações médicas americanas. “As doações da Pfizer para [essas] organizações em 2021, é claro, não tiveram impacto nas recomendações de vacinação contra a Covid-19 dessas organizações”, ele tuitou com talvez mais do que um toque de sarcasmo.**
 
 A Pfizer publica uma lista de bolsas concedidas. [Na parte inferior da página Declaração sobre Transparência em Subsídios](https://www.pfizer.com/responsibility/grants_contributions/description_funding_recipient_organizations) , a Pfizer tem um link para uma lista de subsídios para o primeiro e segundo trimestre do ano fiscal de 2021. Esta página está localizada no site da Pfizer na seção Responsabilidade. No entanto, o relatório Q1-Q2 vinculado em "Responsabilidade" não é o mais recente. Um link para os relatórios de financiamento de 2008-2021 está oculto na seção Sobre do site da Pfizer. Não há relatório para o ano fiscal de 2022.
 
 Esses relatórios referem-se ao financiamento de organizações dos EUA e são intitulados *Relatório de Financiamento de Organizações Médicas, Científicas, de Pacientes e Cívicas dos EUA: FY 20xx* . O relatório de 2021 cobre todo o ano fiscal de 2021, que você pode ver [AQUI](https://cdn.pfizer.com/pfizercom/responsibility/grants_contributions/Yes_Report_FY-2021.pdf) . Incluímos uma cópia do relatório caso ele desapareça misteriosamente da vista do público no futuro.
 
-[](https://uncutnews.ch/wp-content/uploads/2023/05/Pfizer-Donations-Report-FY2021.pdf)[Download ](https://uncutnews.ch/wp-content/uploads/2023/05/Pfizer-Donations-Report-FY2021.pdf)[do relatório de doações da Pfizer FY2021](https://uncutnews.ch/wp-content/uploads/2023/05/Pfizer-Donations-Report-FY2021.pdf)
-
-[](https://uncutnews.ch/wp-content/uploads/2023/05/Pfizer-Donations-Report-FY2021.pdf)
+[Download ](https://uncutnews.ch/wp-content/uploads/2023/05/Pfizer-Donations-Report-FY2021.pdf)[do relatório de doações da Pfizer FY2021](https://uncutnews.ch/wp-content/uploads/2023/05/Pfizer-Donations-Report-FY2021.pdf)
 
 A menos que seja divulgado de outra forma, a Pfizer só parece ser transparente quando se trata de seu financiamento de entidades americanas. “Em 2008, a Pfizer começou a relatar doações e doações de caridade para organizações médicas, científicas e de pacientes nos Estados Unidos. Isso reflete nosso compromisso com uma maior transparência no apoio a organizações comprometidas com a melhoria da saúde do paciente e o avanço da ciência", [diz o site](https://www.pfizer.com/about/programs-policies/transparency-in-grants) .
 

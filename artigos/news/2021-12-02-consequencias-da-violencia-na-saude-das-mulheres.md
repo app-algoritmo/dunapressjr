@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Cerca de 125 países possuem leis específicas de proteção à mulher, sendo que a legislação brasileira ([**Lei Maria da Penha**](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm)) é considerada uma das três mais avançadas do mundo. Apesar do avanço legislativo, o Brasil é o 7º país, em uma lista de 84, com o maior número de homicídios de mulheres ([**Mapa da Violência 2012**](https://flacso.org.br/files/2020/03/mapa2012_cor.pdf)).
 
 É conhecido dos profissionais o fato de que a violência contra as mulheres tem alta magnitude e relevância na saúde, uma vez que mulheres que vivem e/ou viveram tal situação têm mais queixas, distúrbios e patologias físicas e mentais e utilizam os serviços de saúde com maior frequência do que aquelas que não viveram esta experiência.
@@ -57,5 +56,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

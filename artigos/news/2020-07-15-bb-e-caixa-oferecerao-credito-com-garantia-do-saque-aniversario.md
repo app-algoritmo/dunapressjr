@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Mais de 5,3 milhões de trabalhadores já se cadastraram.
 
 O Banco do Brasil e a Caixa Econômica Federal vão oferecer o crédito com garantia do saque-aniversário do Fundo de Garantia do Tempo de Serviço (FGTS). Desde o último dia 26, todos os bancos estão autorizados a operar essa nova linha de crédito.
@@ -26,4 +25,4 @@ De acordo com a Caixa, mais de 5,3 milhões de trabalhadores já optaram pela si
 
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

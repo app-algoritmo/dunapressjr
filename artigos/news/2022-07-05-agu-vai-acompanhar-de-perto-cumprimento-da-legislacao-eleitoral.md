@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Decreto veio deixar clara estas atribuições.
 
 Decreto publicado pela Advocacia-Geral da União (AGU) determina que a instituição vai monitorar o cumprimento da legislação eleitoral até o pleito de outubro. “O decreto só veio deixar mais clara essa atribuição específica da Advocacia Geral da União, dizendo o seguinte: todo e qualquer ato, no período eleitoral, que eventualmente possa confrontar com a legislação eleitoral, deve passar pela assessoria da advocacia-geral da União”, explicou o advogado-geral da União, Bruno Bianco, ao programa *A Voz do Brasil* desta segunda-feira (4).
@@ -20,8 +19,4 @@ https://youtu.be/2XG9eEGOXsU
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

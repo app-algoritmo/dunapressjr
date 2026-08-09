@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Consulta ao primeiro lote, que contempla contribuintes idosos ou portadores de doenças graves. Neste ano, cronograma de restituições foi antecipado para maio e lotes reduzidos de sete para cinco com pagamento iniciando antes mesmo do fim do prazo de entrega das declarações.
 
 A partir das 9 horas desta sexta-feira (22), estará disponível para consulta o primeiro lote de restituição do IRPF 2020. Conforme já anunciado, a Receita Federal seguirá, a partir deste ano, novo cronograma de restituição. O pagamento do primeiro lote está programado para o dia 29 de maio, com o último lote previsto para 30 de setembro. Para efeitos de comparação, no ano passado, as restituições iniciaram no dia 17 de junho e se estenderam até o dia 16 de dezembro.
@@ -37,5 +36,3 @@ Caso o valor não seja creditado, o contribuinte poderá contatar pessoalmente q
 Fonte: Receita Federal
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

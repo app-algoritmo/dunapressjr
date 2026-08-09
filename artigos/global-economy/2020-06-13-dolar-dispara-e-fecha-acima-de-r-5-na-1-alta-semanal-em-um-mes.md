@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Temores sobre o coronavírus e a economia global causaram alta.
 
 O dólar terminou em forte alta ante o real nesta sexta-feira (12), que fez a moeda acumular valorização também na semana, conforme operadores voltaram do feriado ajustando os preços ao súbito nervosismo nos mercados externos na véspera por renovados temores sobre o novo coronavírus e a economia global.
@@ -57,8 +56,6 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique aqui no banner abaixo para assinar
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

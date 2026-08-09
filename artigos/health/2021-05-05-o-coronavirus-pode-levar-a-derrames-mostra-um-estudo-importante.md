@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Cerca de 71 centros médicos em 17 países tinham pelo menos um paciente cuja situação clínica atendia aos critérios do estudo, para um total de 432 indivíduos.
 
 Pacientes com coronavírus têm maior risco de sofrer um acidente vascular cerebral em comparação com aqueles da mesma idade que não contraíram a doença, descobriu um grande estudo internacional.Em muitos casos, os pacientes não apresentavam sintomas típicos de COVID-19 e não eram conhecidos por ter nenhum fator de risco pré-existente.
@@ -45,7 +44,3 @@ Fonte: https://www.jpost.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

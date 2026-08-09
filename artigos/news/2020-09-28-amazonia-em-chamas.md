@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 *Por Hamilton Mourão, Vice-presidente da República.*
 
 Nos últimos tempos, os mais variados atores acusam o Brasil de não ser capaz de cuidar do seu patrimônio ambiental, em particular a Amazônia. Uma ironia, levando em consideração que somos o País que menos desmatou na história da humanidade. Como exemplo, cito que nos primórdios da vida na terra a Europa possuía 7% das florestas do mundo e o Brasil 9,8%. Hoje os europeus contam com 0,1% e nosso País com 28,9% da cobertura florestal mundial.
@@ -39,5 +38,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

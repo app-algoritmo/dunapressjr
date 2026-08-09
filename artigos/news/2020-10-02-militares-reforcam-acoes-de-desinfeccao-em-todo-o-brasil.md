@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 As medidas para evitar a proliferação do novo coronavírus, tomadas pelos militares das Forças Armadas em apoio aos órgãos de saúde, continuam por todo o País. Na terça-feira (29), militares do 36º Batalhão de Infantaria Mecanizado realizaram a descontaminação do Terminal Rodoviário de Uberlândia (MG) e das Unidades de Atendimento Integrado dos bairros de Planalto, Roosevelt e Martins.
 
 Já a Marinha, por intermédio do 4° Distrito Naval, deu continuidade, em setembro, às atividades de combate à propagação do novo coronavírus, com a descontaminação preventiva da escola municipal Professor Ciro Pimenta, localizada no Conjunto Eduardo Angelim, distrito de Icoaraci, região metropolitana de Belém (PA).
@@ -19,7 +18,7 @@ O HEMOAM atende demanda de abastecimento de sangue de todas as unidades de saúd
 
 **Operação Covid-19**
 O Ministério da Defesa ativou, em 20 de março, o Centro de Operações Conjuntas, para atuar na coordenação e no planejamento do emprego das Forças Armadas no combate ao novo coronavírus. Nesse contexto, foram ativados dez Comandos Conjuntos, que cobrem todo o território nacional, além do Comando de Operações Aeroespaciais (COMAE), de funcionamento permanente. A iniciativa integra o esforço do governo federal no enfrentamento à pandemia.
-[](http://operacaocovid19.defesa.gov.br/)
+
 As demandas recebidas pelo Ministério da Defesa, de apoio a órgãos estaduais, municipais e outros, são analisadas e direcionadas aos Comandos Conjuntos para avaliarem a possibilidade de atendimento. De acordo com a complexidade da solicitação, tais demandas podem ser encaminhadas ao Gabinete de Crise, que determina a melhor forma de atendimento.
 
 Fonte Gov.br
@@ -29,5 +28,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

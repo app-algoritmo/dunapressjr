@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Com a chegada do verão, grande parte da população passa as férias de final de ano – ou até mesmo apenas os finais de semana – na praia, no parque ou na piscina. E a exposição ao sol exige um item considerado imprescindível: o filtro solar, essencial para evitar queimaduras e até mesmo o câncer de pele, visto que, no Brasil, dois terços de todos os diagnósticos de câncer são desse tipo, com cerca de 185 mil novos casos registrados todo ano.
 
 Porém, são inúmeros os mitos e as verdades sobre o produto, o que acaba causando dúvidas na hora da compra e do uso. Questões como o fator de proteção e a quantidade de uso, por exemplo, são divulgadas com informações imprecisas, deixando os consumidores incertos sobre qual produto adquirir. A professora de Cosmetologia do curso de Estética e Cosmética da Universidade Positivo (UP), Ana Carolina Pareja Isa, esclarece essas e outras dúvidas sobre os protetores solares.
@@ -43,7 +42,3 @@ Release por Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

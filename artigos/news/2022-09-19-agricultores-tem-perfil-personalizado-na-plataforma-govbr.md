@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Novo espaço reúne dados de crédito e imóvel rural.
 
 Os agricultores passaram a contar com um perfil personalizado no Portal Gov.br, plataforma que centraliza os serviços públicos federais. O novo espaço reúne informações e serviços destinados a esse público, como cadastro de imóvel rural, obtenção de créditos e apoio financeiro.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Foram fabricadas 569.598 unidades até maio.
 
 Nos cinco primeiros meses do ano, a produção de motocicletas cresceu 22,9% em comparação ao mesmo período do ano passado, com a fabricação de 569.598 unidades, informou nesta segunda-feira (13) a Associação Brasileira dos Fabricantes de Motocicletas, Ciclomotores, Motonetas, Bicicletas e Similares (Abraciclo). Segundo a associação, esse foi o melhor desempenho para o período desde 2015.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

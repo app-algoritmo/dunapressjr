@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 PF faz prisão de dois homens transportando mercadorias estrangeiras irregulares
 
 Maringá/PR – Na última sexta-feira (15/5), a Polícia Federal prendeu em flagrante dois homens que transportavam eletrônicos de origem estrangeira, em situação de descaminho.
@@ -17,5 +16,3 @@ Após denúncia anônima, os policiais federais realizaram fiscalização no Pos
 Uma vez que as mercadorias não tiveram sua regular entrada em território nacional e o devido recolhimento tributário, os dois homens foram presos em flagrante e responderão pelo crime de descaminho.
 
 Comunicação Social da Polícia Federal em Maringá/PR
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

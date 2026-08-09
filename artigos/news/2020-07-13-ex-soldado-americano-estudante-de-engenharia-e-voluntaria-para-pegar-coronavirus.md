@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ela quer introduzir o SARS-CoV-2 em seu corpo, convencida de que, ao fazer isso, ajudará a acelerar o desenvolvimento da vacina. Pedersen, 29 anos, que emigrou dos EUA para Israel quando criança, acha que será um "processo muito desagradável", mas se sente "realizada" por participar.
 
 Ela é uma das 61 israelenses que se inscreveram para uma iniciativa internacional, reunindo voluntários dispostos a testar possíveis vacinas, recebendo tiros ou placebos e depois sendo expostos ao vírus em um ambiente controlado.
@@ -32,6 +31,6 @@ Fonte The Time Of Israel****
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

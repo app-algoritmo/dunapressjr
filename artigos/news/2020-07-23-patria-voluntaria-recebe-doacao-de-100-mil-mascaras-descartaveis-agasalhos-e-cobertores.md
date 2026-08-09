@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-campanha do agasalho do programa Pátria Voluntária recebeu uma doação de 100 mil máscaras descartáveis, agasalhos e cobertores. A doação foi feita pelo Ministério do Desenvolvimento Regional (MDR) e a Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba (Codevasf). 
+campanha do agasalho do programa Pátria Voluntária recebeu uma doação de 100 mil máscaras descartáveis, agasalhos e cobertores. A doação foi feita pelo Ministério do Desenvolvimento Regional (MDR) e a Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba (Codevasf).
 
 O material será distribuído a instituições de caridade e foi entregue pelo ministro Rogério Marinho à primeira-dama Michelle Bolsonaro. “Esses materiais vão fazer a diferença na vida de quem precisa, e muitos brasileiros serão beneficiados com essas doações”, afirmou a primeira-dama.
 
@@ -25,6 +24,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

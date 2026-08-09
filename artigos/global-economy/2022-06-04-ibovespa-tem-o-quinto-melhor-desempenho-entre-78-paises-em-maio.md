@@ -7,10 +7,9 @@ categories:
 - Global Economy
 ---
 
-
 ### Alta registrada foi 8,48%.
 
-O Ibovespa, indicador do desempenho médio das cotações das ações negociadas na bolsa de valores B3, teve o quinto melhor desempenho entre 78 países no mês de maio, com alta de 8,48%. 
+O Ibovespa, indicador do desempenho médio das cotações das ações negociadas na bolsa de valores B3, teve o quinto melhor desempenho entre 78 países no mês de maio, com alta de 8,48%.
 
 O levantamento foi feito pela agência de classificação de risco Austin Rating, a pedido da CNN Brasil Business. No mês anterior, o índice registrou forte recuo, com o segundo pior desempenho.
 
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

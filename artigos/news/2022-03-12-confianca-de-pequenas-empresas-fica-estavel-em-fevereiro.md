@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Melhora no comércio compensou queda na indústria e nos serviços.
 
 Beneficiada pela melhoria no comércio, a confiança dos donos de micro e pequenas empresas ficou estável em fevereiro. No mês passado, o Índice de Confiança de Micro e Pequenas Empresas (IC-MPE) aumentou 0,4 ponto em relação a janeiro, mantendo-se em torno de 90 pontos, após ter caído 5,1 pontos.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

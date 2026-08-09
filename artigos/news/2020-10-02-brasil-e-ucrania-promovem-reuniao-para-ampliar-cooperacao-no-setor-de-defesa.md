@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Representantes do setor de Defesa do Brasil e da Ucrânia realizaram, na quinta-feira, 24, uma videoconferência, com o objetivo de debater o estado atual da cooperação no setor entre os dois países, bem como as formas de ampliá-la. Representando o Ministério da Defesa (MD), participaram o Secretário de Produtos de Defesa (SEPROD), Marcos Degaut, e o Diretor do Departamento de Promoção Comercial da SEPROD, General de Divisão Luís Antônio Duizit Brito.
 
 Durante a reunião também foram debatidas questões sobre a preparação da participação brasileira na Feira Internacional de Defesa, prevista para ocorrer na Ucrânia no mês de outubro, além do Diálogo de Indústria de Defesa (DID), que deverá ocorrer de forma simultânea em Kiev. Segundo o Secretário, o diálogo representa “ação fundamental para o estreitamento das relações entre os dois países”, comentou.
@@ -23,5 +22,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

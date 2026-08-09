@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A taxa é inferior ao 0,82% de setembro, diz FGV.
 
 O Índice de Preços ao Consumidor Semanal (IPC-S) fechou outubro deste ano com uma taxa de inflação de 0,65%. A taxa é inferior ao 0,82% de setembro, de acordo com dados coletados em sete capitais brasileiras e divulgados hoje (3) pela Fundação Getulio Vargas (FGV).
@@ -21,5 +20,3 @@ Por outro lado, tiveram alta na taxa, os grupos transportes (de 0,13% para 0,40%
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

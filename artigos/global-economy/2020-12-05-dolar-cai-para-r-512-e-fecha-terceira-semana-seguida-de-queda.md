@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa aproxima-se de 114 mil pontos.
 
 Beneficiado pela entrada de fluxos internacionais durante a tarde, o dólar fechou a terceira semana seguida em queda e está no menor valor em quatro meses. Na quinta semana seguida de valorização, a bolsa de valores aproximou-se dos 114 mil pontos e quase zerou as perdas no ano se desconsiderar a variação cambial.
@@ -31,7 +30,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
 
 Obrigado pelo apoio!

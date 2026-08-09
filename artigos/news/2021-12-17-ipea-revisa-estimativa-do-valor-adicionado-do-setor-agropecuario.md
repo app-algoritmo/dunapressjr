@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Projeção de crescimento de 1,2% passou para retração de 2,6%.
 
 O Instituto de Pesquisa Econômica Aplicada (Ipea) revisou nesta quinta-feira (16) a estimativa para o valor adicionado (VA) do setor agropecuário de 2021, passando de um aumento de 1,2% para retração de 2,6%.
 
-Segundo os pesquisadores do Grupo de Conjuntura do instituto, a revisão das séries de contas nacionais trimestrais feita pelo Instituto Brasileiro de Geografia e Estatística (IBGE), divulgada junto com o resultado do Produto Interno Bruto (PIB, asoma de todos os bens e serviços produzidos no país) do terceiro trimestre, elevou a base de comparação para a estimativa de 2021, principalmente quando se consideram os últimos três trimestres do ano.  O IBGE revisou o crescimento do valor adicionado (VA) do setor agropecuário em 2020, de 2% para 3,8%.
+Segundo os pesquisadores do Grupo de Conjuntura do instituto, a revisão das séries de contas nacionais trimestrais feita pelo Instituto Brasileiro de Geografia e Estatística (IBGE), divulgada junto com o resultado do Produto Interno Bruto (PIB, asoma de todos os bens e serviços produzidos no país) do terceiro trimestre, elevou a base de comparação para a estimativa de 2021, principalmente quando se consideram os últimos três trimestres do ano. O IBGE revisou o crescimento do valor adicionado (VA) do setor agropecuário em 2020, de 2% para 3,8%.
 
 O novo resultado é explicado, em especial, pelas novas informações disponíveis nas pesquisas estruturais anuais do IBGE, com destaque para a produção agrícola municipal e a pesquisa da pecuária municipal, divulgadas em outubro deste ano, que impactaram tanto os resultados de 2020 da produção vegetal quanto os da produção animal.
 
@@ -40,10 +39,6 @@ O instituto destacou que os riscos para 2022 ainda persistem, devido à preocupa
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Investimentos podem contabilizar R$ 16,2 bilhões.
 
 O Ministério da Infraestrutura prevê em R$ 16,2 bilhões o total de investimentos contratados a partir dos leilões de três concessões autorizadas pelo Tribunal de Contas da União (TCU) à iniciativa privada. Serão  leiloados trechos das rodovias BR-153, entre Palmas (TO) e Anápolis (GO), e da BR-163, entre os municípios de Sinop (MT) e Miritituba (PA).
@@ -36,8 +35,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

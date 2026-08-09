@@ -17,7 +17,7 @@ A história de Arythan Albuquerque teve um início diferente e um final parecido
 
 As história de Renan Braz e Arythan Albuquerque ilustram o trabalho desenvolvido pela Nutrição Sem Fronteiras, maior escola de negócios para nutricionistas da América Latina, com resultados que ultrapassam a casa dos R$ 50 milhões para seus clientes no ano de 2023. Para isso, capacita os profissionais por meio de metodologias únicas, como a Consultoria Premium e Check-in, criadas para impulsionar o sucesso por meio de atendimento diferenciado aos clientes.
 
-A próxima oportunidade para os nutricionistas alavancarem os negócios será a Imersão Online Nutri Vendas 3.5x, dia 30 de janeiro, às 18h30, no formato online (pelo Zoom). Nesse evento digital, além de apresentar os conceitos, ferramentas e oportunidades, Samir focará especialmente em vendas. As inscrições estão abertas e podem ser feitas pelos links [https://bit.ly/427sIDM](https://click.presskit.com.br/url/994940ecfa/6361388b6fc) ou [https://pay.greenn.com.br/46080/?&utm_source=rp-zdl
+A próxima oportunidade para os nutricionistas alavancarem os negócios será a Imersão Online Nutri Vendas 3.5x, dia 30 de janeiro, às 18h30, no formato online (pelo Zoom). Nesse evento digital, além de apresentar os conceitos, ferramentas e oportunidades, Samir focará especialmente em vendas. As inscrições estão abertas e podem ser feitas pelos links [](https://click.presskit.com.br/url/994940ecfa/6361388b6fc) ou [https://pay.greenn.com.br/46080/?&utm_source=rp-zdl
 
 ](https://click.presskit.com.br/url/994941a18f/6361388b6fc)Serão mais de três horas de conteúdo ao vivo com Samir Bayde e as vagas são limitadas. “Sabemos que muitos nutricionistas querem acelerar suas vendas em 2024 com estratégias já validadas. Existe uma limitação de participantes porque queremos que esses profissionais tenham a oportunidade aproveitar e tirar o máximo proveito do nosso primeiro encontro online do ano. A questão é: você pertence a esse grupo?”, provoca o idealizador da Nutrição Sem Fronteiras.
 
@@ -26,7 +26,7 @@ Samir elenca pontos importantes que serão abordados na Imersão Online Nutri Ve
 **Serviço:**
 - Data: 30/01
 - Hora: 18h30
-- Duração: 3h - 4h 
+- Duração: 3h - 4h
 - Pelo Zoom
 
 **Quem é Samir Bayde -** O nutricionista Samir Bayde trabalha para revolucionar o mercado, levando o profissional do setor para um novo nível de valorização e remuneração por meio de um atendimento excepcional aos pacientes. Bayde é o responsável pela criação do Modelo de Negócios de Consultorias Premium e o Método Check-in, tornando-se um mentor de negócios com crescente influência no mercado nacional.

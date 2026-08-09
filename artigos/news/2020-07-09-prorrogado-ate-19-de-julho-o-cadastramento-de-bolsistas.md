@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Instituições têm novo prazo para cadastrar alunos de mestrado e doutorado que vão integrar a ação emergencial do programa de enfrentamento ao novo coronavírus.
 
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) prorrogou o prazo de cadastramento de bolsistas para o [Programa de Combate a Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias). As instituições agora têm até o dia 19 de julho para incluir os pós-graduandos, que irão participar da ação emergencial de enfrentamento ao novo coronavírus, no [Sistema de Controle de Bolsas e Auxílios (SCBA)](https://sso.capes.gov.br/sso/oauth?response_type=code&redirect_uri=https://scba.capes.gov.br/scba/oauth.seam&client_id=scba.capes.gov.br).
@@ -22,7 +21,7 @@ Fonte: gov.br / Imagem em destaque: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

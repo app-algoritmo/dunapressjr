@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Brasil tem cerca de 43 mil pessoas reconhecidas atualmente como refugiadas, de acordo com o Ministério da Justiça, por meio de dados levantados pelo Comitê Nacional para os Refugiados (Conare). Desde total, cerca de 38.000 mil são venezuelanos que atravessaram a fronteira terrestre com o Brasil em êxodo migratório. O país vizinho já foi considerado oficialmente pelo Conare como território assolado por grave e generalizada violação de direitos humanos e perseguição política, contexto que facilita o trâmite de concessão do status de refúgio em solo brasileiro.
 
 Sensível à urgência das demandas dos solicitantes desse instituto, o Conare implantou um processo mais ágil: adotou a votação em bloco desses pedidos, a partir de cruzamento de dados com tecnologia da informação. Sem essa estratégia mais célere, a estimativa seria de que o julgamento desses pedidos levasse mais dois anos. Depois da adoção das medidas, o Conare conseguiu, em 2020, reconhecer a condição de refugiados de 17.700 nacionais da Venezuela.
@@ -18,5 +17,3 @@ Nesse sentido, conforme o coordenador-geral do Conare, Bernardo Laferté, refor�
 A atuação do Conare se alinha à estratégia brasileira de oferecer aos venezuelanos duas vias de acesso ao território brasileiro. Uma é o refúgio; e a outra é a opção pela autorização de residência.
 
 Fonte: Portal de Imprensa do Ministério da Justiça e Segurança Pública
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

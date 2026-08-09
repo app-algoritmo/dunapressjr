@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O assunto está em análise numa comissão mista composta por deputados e senadores.
 
 A reforma tributária deve ser aprovada entre agosto e outubro deste ano nas duas Casas do Congresso Nacional. A previsão é do presidente do Senado, Rodrigo Pacheco, que promoveu um café da manhã nesta quinta-feira (4) para discutir o assunto com o presidente da Câmara dos Deputados, Arthur Lira (PP-AL). Também participaram do encontro o presidente e o relator da comissão mista que analisa a reforma tributária, senador Roberto Rocha (PSDB-MA) e deputado Aguinaldo Ribeiro (PP-PB).
@@ -34,8 +33,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Se para você praticar alguma atividade física é sinônimo de treino chato, falta de tempo, cansaço e até gasto de dinheiro, pode ir pensando em uma outra desculpa para não colocar o corpo em movimento.
 
 A caminhada é uma alternativa simples e de baixo custo. Você pode caminhar, praticamente, a qualquer hora e lugar, sozinho ou em grupo. No final das contas, você contribuirá para manter o seu peso adequado e melhorar o seu estado de saúde.
@@ -76,7 +75,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

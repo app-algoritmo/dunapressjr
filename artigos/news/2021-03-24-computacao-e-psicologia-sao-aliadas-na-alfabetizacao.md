@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Aliar componentes de jogos com psicologia pode ser um caminho para facilitar a alfabetização de pessoas com transtorno do espectro autista. É o que sinaliza o trabalho de mestrado de Laíza Ribeiro Silva, ex-bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e cientista do Instituto de Ciências Matemáticas e de Computação (ICMC) da Universidade de São Paulo (USP), em São Carlos.
 
 A pesquisa uniu a gamificação — uso de elementos de jogos em situações que não são jogos —, o conceito da computação e o ensino por tentativas discretas (DTT) (do inglês, *Discrete Trial Training*), da psicologia, no qual o aluno recebe um reforço positivo a cada acerto e não é repreendido ao errar.
@@ -43,7 +42,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

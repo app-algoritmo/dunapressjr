@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 As barragens de foguetes do Hamas no sul e centro de Israel continuaram ao longo do dia de sábado, com quase 300 projéteis voando em direção a Israel. Sirenes de foguetes soaram em partes da Cisjordânia, no centro e sul de Israel e perto de Netanya na noite de sábado, depois que o Hamas ameaçou no início da noite colocar Tel Aviv em um "toque de recolher" à meia-noite.
 
 Nenhum ferimento foi relatado devido a ataques diretos ou estilhaços na barragem na noite de sábado, embora 10 pessoas tenham ficado feridas enquanto corriam para abrigos antiaéreos.
@@ -17,7 +16,7 @@ O ataque aéreo ao campo de refugiados de Shati matou dez pessoas, incluindo oit
 
 Outros foguetes caíram na cidade árabe-israelense de Taibe e outros perto das cidades da Cisjordânia de Ramallah e Tulkarem.
 
-A barragem da tarde veio depois que soldados da Artilharia de Defesa Aérea derrubaram um drone armado com dispositivos explosivos que cruzou para Israel a partir de Gaza, de acordo com a Unidade do Porta-voz do IDF. 
+A barragem da tarde veio depois que soldados da Artilharia de Defesa Aérea derrubaram um drone armado com dispositivos explosivos que cruzou para Israel a partir de Gaza, de acordo com a Unidade do Porta-voz do IDF.
 
 Várias casas em Israel sofreram ataques diretos de foguetes lançados da Faixa de Gaza durante salvas durante a noite de sexta-feira e sábado de manhã no sexto dia de combates entre os militares israelenses e o Hamas.
 
@@ -51,5 +50,3 @@ Fonte:  https://www.jpost.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estudo do mundo real de pacientes hospitalizados na Índia mostra hospitalização precoce, a vacinação aumenta significativamente as chances de sobrevivência.
 
 Um novo estudo de pacientes com coronavírus sugere que a vacinação pode estar associada a uma redução de quase um terço nas taxas de mortalidade entre pacientes com COVID hospitalizados.
@@ -47,7 +46,3 @@ Fonte: https://www.israelnationalnews.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

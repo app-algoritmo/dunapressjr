@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Cerca de 109 milhões de brasileiros se declaram negros ou pardos, de acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE). As políticas públicas voltadas para esse público, que representa 56,1% da população do Brasil, são celebradas por um grande marco que completou 10 anos nesta segunda-feira (20). Assista ao vídeo:
 
 https://www.youtube.com/embed/AZbN2IwSeXc
@@ -52,6 +51,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

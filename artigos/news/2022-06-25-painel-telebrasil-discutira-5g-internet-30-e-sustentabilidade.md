@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Evento terá participação dos ministros Fábio Faria e Paulo Guedes.
 
 A expansão da tecnologia 5G, a internet 3.0 e a sustentabilidade são os temas principais do Painel Telebrasil Summit 2022, que ocorrerá na terça (27) e na quarta-feira, em Brasília. Promovido pelo Sindicato Nacional das Empresas de Telefonia e de Serviço Móvel, Celular e Pessoal (Conexis Brasil), o evento também discutirá as perspectivas do setor de telecomunicações após as eleições deste ano.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

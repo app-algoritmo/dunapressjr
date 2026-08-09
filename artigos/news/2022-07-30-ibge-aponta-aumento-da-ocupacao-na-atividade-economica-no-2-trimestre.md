@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Desempenho do comércio e da indústria foi destaque, revela pesquisa.
 
 A expansão da ocupação no segundo trimestre deste ano foi disseminada entre diversas atividades econômicas como indicam os dados da Pnad Contínua, divulgada nesta sexta-feira (29) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Os destaques foram comércio (3,4%), indústria (2,7%), administração pública, defesa, seguridade social, educação, saúde humana e serviços sociais (4,5%).
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

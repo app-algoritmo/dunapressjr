@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Ata da última reunião do comitê foi divulgada nesta terça-feira em Brasília.
 
 O Comitê de Política Monetária (Copom) avaliou que, apesar de “bastante intenso e tempestivo”, o atual ciclo de aperto monetário foi necessário, por causa da defasagem da política monetária. "Mas ainda não se observa grande parte do efeito contracionista esperado, bem como seu impacto sobre a inflação corrente”. É o que diz a ata da última reunião do comitê, divulgada nesta terça-feira (21), em Brasília.
@@ -60,8 +59,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

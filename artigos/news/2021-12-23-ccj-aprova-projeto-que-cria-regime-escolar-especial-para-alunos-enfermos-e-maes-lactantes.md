@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Texto inclui as novas regras na Lei de Diretrizes e Bases da Educação Nacional (LDB).
 
 A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou projeto de lei que estabelece regime escolar especial, nos ensinos básico e superior, para o atendimento de alunos em tratamento de saúde, mães lactantes e pais e mães estudantes cujos filhos tenham até 3 anos de idade.
@@ -30,5 +29,3 @@ Reportagem - Janary Júnior
 Edição - Marcia Becker
 
 Fonte: Agência Câmara de Notícias
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

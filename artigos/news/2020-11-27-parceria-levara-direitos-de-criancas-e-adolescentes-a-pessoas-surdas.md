@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Pessoas surdas e com deficiência auditiva poderão conhecer os direitos de crianças e adolescentes por meio da Língua Brasileira de Sinais (Libras). Uma parceria entre o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) e a Organização dos Estados Ibero-americanos para a Educação, a Ciência e a Cultura (OEI) produzirá material informativo adaptado sobre o tema.
 
 Mais de R$ 175 mil serão destinados para a iniciativa, que tem o apoio da Secretaria Nacional dos Direitos da Criança e do Adolescente (SNDCA). A produção do material será feita pela Federação Nacional de Educação e Integração de Surdos do Rio Grande do Sul (FNEIS).
@@ -22,7 +21,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Redução de preços foi mais forte entre famílias de maior renda.
 
 A inflação de abril desacelerou em relação a março para todas as faixas de renda pesquisadas pelo Instituto de Pesquisa Econômica e Aplicada (Ipea), que divulgou hoje (14) uma análise do Indicador Ipea de Inflação por Faixa de Renda.
@@ -40,14 +39,10 @@ Quando são analisadas somente as taxas mensais de 2021, a situação se inverte
 
 Segundo o Ipea, essa diferença repercute, basicamente, a desaceleração dos alimentos e a forte alta dos combustíveis ocorrida no primeiro trimestre de 2021.
 
-A inflação acumulada em 2021 é mais intensa sobre a renda média, com uma taxa acumulada de 2,62% entre janeiro e abril.  
+A inflação acumulada em 2021 é mais intensa sobre a renda média, com uma taxa acumulada de 2,62% entre janeiro e abril.
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

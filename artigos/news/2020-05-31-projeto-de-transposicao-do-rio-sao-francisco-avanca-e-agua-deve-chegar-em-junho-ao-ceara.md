@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Ministério do Desenvolvimento Regional informou que foram concluídas as obras que garantem funcionalidade ao Eixo Norte. Trecho concluído permite a integração entre os reservatórios Milagres, em Pernambuco, e Jati, em território cearense. Região Metropolitana de Fortaleza será atendida a partir do Cinturão das Águas.
 
 As águas do São Francisco estão chegando ao Ceará. De acordo com o ministro do Desenvolvimento Regional, Rogério Marinho, nesta semana, foram concluídas as obras que garantem a funcionalidade ao Eixo Norte do São Francisco. Segundo ele, a expectativa é que no próximo ano o projeto de integração esteja concluído.
@@ -31,7 +30,7 @@ O Ministério de Desenvolvimento Regional estima que, em agosto, sejam iniciados
 
 Depois de levar água à população com a transposição, o governo já planeja iniciar a fase de revitalização do Rio São Francisco. Segundo o ministro Rogério Marinho, a ideia que essa etapa seja iniciada nos próximos quatro meses.
 
-“Esperamos começar já esse ano a revitalização do rio. Não adianta ter a água correndo e o rio estar morto, assoreado, com as margens aterradas, matas ciliares mortas, com as nascentes ser ter reposição das águas”, disse.  
+“Esperamos começar já esse ano a revitalização do rio. Não adianta ter a água correndo e o rio estar morto, assoreado, com as margens aterradas, matas ciliares mortas, com as nascentes ser ter reposição das águas”, disse.
 
 O ministro explicou que a revitalização abrange ações como tratamento de esgoto e de resíduos sólidos nas cidades que estão no perímetro do rio, plantação de matas ciliares e desassoreamento para retomar a capacidade de navegabilidade.
 
@@ -56,5 +55,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

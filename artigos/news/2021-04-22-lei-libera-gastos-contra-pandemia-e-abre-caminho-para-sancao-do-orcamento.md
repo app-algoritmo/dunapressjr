@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Foi vetado um dispositivo que permitiria a transferência de recursos a municípios de até 50 mil habitantes, mesmo que estivessem inadimplentes com a União.
 
 O presidente Jair Bolsonaro sancionou com um veto a lei que abre espaço no Orçamento para a abertura de novos créditos extraordinários contra a pandemia de coronavírus ([Lei 14.143, de 2021](https://www.in.gov.br/en/web/dou/materia)). O Palácio do Planalto barrou um dispositivo que autorizava a liberação de dinheiro para municípios de até 50 mil habitantes, mesmo que estivessem inadimplentes com a União. A sanção foi publicada na quarta-feira (21), em edição extra do *Diário Oficial da União*.
@@ -29,5 +28,3 @@ Na mensagem de veto, Bolsonaro argumenta que o dispositivo contraria o interesse
 Fonte: Agência Senado
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

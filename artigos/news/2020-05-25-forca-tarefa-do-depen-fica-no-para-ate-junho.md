@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministro da Justiça e Segurança Pública, André Mendonça, autorizou a prorrogação do emprego da Força-tarefa de Intervenção Penitenciária (FTIP), do Departamento Penitenciário Nacional (Depen), em presídios do Pará até o dia 23 de junho de 2020. A portaria de prorrogação nº 266 foi publicada, no Diário Oficial da União, nesta segunda-feira (25).
 
 A pedido do governo do estado, a FTIP atua, desde 5 de agosto de 2019, em unidades prisionais paraenses, na coordenação das atividades de guarda, vigilância e custódia de presos no sistema penitenciário do Pará e promoção e apoio nas assistências previstas na Lei de Execução Penal (LEP).
@@ -20,8 +19,6 @@ A Coordenação de Educação da Força, também com apoio da Seap e de outros �
 
 A equipe da Força do Depen também realizou o repasse de conhecimento para as equipes do estado que trabalham nas penitenciárias e  participou do curso de formação de 642 de policiais penais do estado.
 
-O trabalho da Força-tarefa do Depen é dividido em três etapas que podem acontecer concomitantemente. As etapas são:  a retomada do controle para estabelecimento da segurança, o incentivo e apoio às assistências de forma geral e o repasse de conhecimento e informações para que o estado dê prosseguimento a essas políticas. 
+O trabalho da Força-tarefa do Depen é dividido em três etapas que podem acontecer concomitantemente. As etapas são:  a retomada do controle para estabelecimento da segurança, o incentivo e apoio às assistências de forma geral e o repasse de conhecimento e informações para que o estado dê prosseguimento a essas políticas.
 
 Fonte: *Serviço de Comunicação Social* do Depen
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

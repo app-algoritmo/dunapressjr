@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### No acumulado do ano, saldo está em 1,56 milhão de postos de trabalho.
 
 O Brasil gerou 218.902 vagas de empregos com carteira assinada no mês de julho. No acumulado de 2022, foram gerados 1.560.896 empregos formais, conforme consta do Cadastro Geral de Empregados e Desempregados (Novo Caged) divulgado nesta segunda-feira (29) pelo Ministério do Trabalho e Previdência.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

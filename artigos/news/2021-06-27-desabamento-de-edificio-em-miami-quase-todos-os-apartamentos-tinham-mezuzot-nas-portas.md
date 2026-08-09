@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Quase três dias se passaram desde que parte das Torres Champlain em Surfside, Miami, caiu no chão em apenas alguns segundos. A ativista da comunidade local, Rabi Yona Lunger, conversou com *Arutz Sheva* , descrevendo os esforços de resgate em andamento.
 
 “A maioria dos apartamentos do prédio pertenciam a judeus”, disse Lunger. “A maioria tinha *mezuzot* nas portas. Mas o fato de esse desastre ter acontecido agora, assim como durante o verão, significa que um desastre muito maior foi evitado. Se tivesse sido há um ano, desta vez, o prédio estaria cheio de judeus de Nova York fugindo dos regulamentos do coronavírus, e se tivesse sido no inverno passado, haveria centenas de judeus no prédio. ”
@@ -32,7 +31,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

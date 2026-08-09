@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Encontrar uma solução menos invasiva ao tratamento endodôntico, também conhecido como canal, e reduzir a necessidade de extração de dentes. Esse foi o objetivo de duas bolsistas da CAPES, Elayne Valério Carvalho, doutora pelo Programa de Pós-Graduação em Química, e Julianne Coelho da Silva, doutoranda no Programa de Pós-Graduação em Odontologia. Ambas são pesquisadoras da Universidade Federal do Ceará (UFC) e criaram uma resina odontológica, a partir de nanopartículas, capaz de recuperar dentes danificados.
 
 : Esquema representativo da resina (Foto: Arquivo Pessoal)
@@ -31,7 +30,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

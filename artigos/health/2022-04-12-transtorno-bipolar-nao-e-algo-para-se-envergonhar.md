@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Segundo dados da Organização Mundial da Saúde (OMS), o transtorno afetivo bipolar atinge atualmente cerca de 140 milhões de pessoas no mundo e é considerada uma das principais causas de incapacidade.
 
 A causa exata do transtorno é desconhecida, no entanto, estudos sugerem que o problema pode estar associado a alterações em certas áreas do cérebro e nos níveis de vários neurotransmissores, como noradrenalina e serotonina.
@@ -35,7 +34,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

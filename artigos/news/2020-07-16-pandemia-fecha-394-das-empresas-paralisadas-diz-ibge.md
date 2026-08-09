@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Setor de serviços foi o mais afetado.
 
 A pandemia do novo coronavírus provocou o fechamento de 522,7 mil empresas de um total de 1,3 milhão que encerraram suas atividades temporária ou definitivamente, na primeira quinzena de junho. Os dados são os primeiros resultados da Pesquisa Pulso Empresa: Impacto da Covid-19 nas Empresas e fazem parte das Estatísticas Experimentais do Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -46,4 +45,4 @@ As empresas realizaram também no período, outras ações. Nove em cada dez emp
 
 Fonte: Agência Brasil - Imagem de destaque: Fernando Frazão/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

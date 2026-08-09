@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estimativa é que 10% da população mundial sofreu pela falta de alimentos em 2020.
 
 “Devastador”. Assim foi classificado o relatório da Organização das Nações Unidas para Agricultura e Alimentação que mostra que a fome atingiu 10% da população mundial durante a pandemia. No Brasil, a estimativa é que mais de 49 milhões de pessoas vivam em situação de insegurança alimentar moderada ou severa, o que significa que elas deixaram de se alimentar por falta de comida ou que a qualidade da alimentação piorou nos últimos anos.
@@ -29,7 +28,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

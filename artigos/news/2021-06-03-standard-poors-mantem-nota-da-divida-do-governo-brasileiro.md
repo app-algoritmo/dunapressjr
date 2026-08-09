@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alta das commodities ajuda recuperação, diz agência de classificação.
 
 A agência de classificação de risco Standard & Poor's Global (S&P Global) manteve a nota da dívida pública brasileira, com perspectiva estável, sem chances de mudanças em breve. A decisão foi divulgada no fim da tarde desta quarta-feira (2) e ocorre seis meses depois da[** última avaliação**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-12/standard-poors-mantem-nota-da-divida-do-governo-brasileiro), apresentada em dezembro.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

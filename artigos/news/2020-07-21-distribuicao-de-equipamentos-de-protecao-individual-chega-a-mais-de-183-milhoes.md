@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 O Ministério da Saúde já distribuiu 183,4 milhões de Equipamentos de Proteção Individual (EPIs) para todo o País. A ação do Governo Federal é para garantir a proteção dos profissionais de saúde que atuam na linha de frente do enfrentamento à Covid-19. Entre os itens estão máscaras, aventais, óculos e protetores faciais, toucas, sapatilhas, luvas e álcool. 
 
 Ao todo, o Ministério da Saúde já entregou aos estados 564,2 mil litros de álcool; 3,1 milhões de aventais; 36,9 milhões de luvas; 8,6 milhões de máscaras N95; 114,9 milhões de máscaras cirúrgicas; 1,8 milhão de óculos e protetores faciais; e 17,1 milhões de toucas e sapatilhas. Os materiais foram entregues para as Secretarias Estaduais de Saúde, responsáveis por definir quais os serviços de saúde vão recebê-los, a partir de um planejamento local.
 
-A compra de EPIs é de responsabilidade dos estados e municípios. No entanto, devido à escassez mundial desses materiais, o Ministério da Saúde fez as aquisições em apoio aos gestores locais do Sistema Único de Saúde (SUS) para fortalecer a rede pública de saúde no enfrentamento da doença. 
+A compra de EPIs é de responsabilidade dos estados e municípios. No entanto, devido à escassez mundial desses materiais, o Ministério da Saúde fez as aquisições em apoio aos gestores locais do Sistema Único de Saúde (SUS) para fortalecer a rede pública de saúde no enfrentamento da doença.
 
 A população pode acompanhar a quantidade de EPIs distribuída a cada estado por um [painel online](https://viz.saude.gov.br/extensions/DEMAS_C19Insumos_EPI/DEMAS_C19Insumos_EPI.html) criado pelo Ministério da Saúde. Na plataforma também é possível acompanhar a quantidade de leitos habilitados, de testes entregues, insumos e outros itens disponibilizados para cada estado. O objetivo é informar à população sobre tudo o que foi comprado, doado e distribuído para o enfrentamento da pandemia de Covid-19.
 
@@ -28,6 +27,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Projeto gerará R$ 71,1 mi de investimentos privados em seis estados.
 
 Com a previsão de gerar R$ 71,1 milhões de investimentos privados nos próximos 20 anos, a concessão de sete terminais pesqueiros públicos em seis estados teve o edital publicado nesta quarta-feira (12). Os leilões ocorrerão em 7 de março, na sede da B3 (bolsa de valores brasileira), em São Paulo.
@@ -28,10 +27,6 @@ Os estudos técnicos também estimaram ganhos adicionais de R$ R$ 472 milhões, 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

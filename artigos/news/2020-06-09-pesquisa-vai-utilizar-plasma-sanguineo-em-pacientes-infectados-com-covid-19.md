@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Estudo vai utilizar plasma sanguíneo de pessoas recuperadas em pacientes infectados pela doença. Projeto envolve cinco hospitais brasileiros e vai incluir 120 pacientes. Voluntários estão divididos em três grupos: um grupo recebe 200 ml de plasma, outro grupo, 400 ml, e outra parte não recebe o plasma.
 
 Um estudo realizado por cinco hospitais brasileiros começou a testar o uso de plasma sanguíneo em pacientes com a Covid-19. A pesquisa inclui 120 participantes e vai verificar se o plasma de pacientes já recuperados (convalescentes) pode ajudar no tratamento de infectados pela doença. O projeto de pesquisa é financiado pelo Ministério de Ciência, Tecnologia, Inovações e Comunicações (MCTIC), por meio da empresa pública Financiadora de Inovação e Pesquisa (Finep) e faz parte da estratégia da RedeVírus.
@@ -41,5 +40,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

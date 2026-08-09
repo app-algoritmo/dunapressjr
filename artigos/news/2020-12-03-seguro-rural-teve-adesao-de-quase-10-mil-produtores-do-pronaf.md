@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O projeto-piloto de subvenção ao prêmio do seguro rural em 2020 resultou na contratação de 10 mil apólices, o que representou uma área segurada de aproximadamente 282 mil hectares e um valor segurado de R$ 937 milhões. O projeto é voltado para operações enquadradas no Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf) para as culturas de milho 1ª safra, soja, banana, maçã e uva, no âmbito do Programa de Seguro Rural (PSR).
 
 A iniciativa, que teve como objetivo fomentar a contratação de seguro rural para o público do Pronaf, contou com a participação de oito seguradoras que comercializaram apólices em 11 estados do país. Os resultados preliminares foram divulgados, nesta terça-feira (1º), pelo Ministério da Agricultura, Pecuária e Abastecimento (Mapa).
@@ -34,7 +33,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

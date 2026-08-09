@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No acumulado de nove meses, o índice registrou alta de 3,13%.
 
 O consumo das famílias teve queda de 1,13% em setembro na comparação com o mesmo mês de 2020, segundo levantamento divulgado nesta sexta-feira (12) pela Associação Brasileira de Supermercados (Abras). No acumulado dos nove primeiros meses do ano, entretanto, o Índice Nacional de Consumo nos Lares Brasileiros registrou alta de 3,13%
@@ -26,14 +25,10 @@ Para Milan, com as medidas restritivas contra a disseminação do novo coronaví
 
 Entre os 35 produtos mais consumidos em supermercados, o café teve o maior aumento de preços em 2021, com inflação acumulada de 33,9% até setembro. O açúcar registra alta de 30,3% e o ovo de 22,5%. Esse conjunto de produtos custou, em média, R$ 684,99 em setembro, uma elevação de 1,37% na comparação com agosto e de 18,84% em 12 meses.
 
-Segundo Milan, a alta da inflação acontece em uma conjuntura internacional de elevação de preços, além de questões pontuais, como a geada que afetou a produção de café no Brasil. 
+Segundo Milan, a alta da inflação acontece em uma conjuntura internacional de elevação de preços, além de questões pontuais, como a geada que afetou a produção de café no Brasil.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

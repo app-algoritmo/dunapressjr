@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
-Desde pelo menos o final do século XX, a figura de mulheres cientistas vem ganhando mais projeção dentro da historiografia das ciências e consolidando-se como um campo de estudos bastante complexo. Certos métodos, teorias e modelos, até então bastante utilizados em pesquisas na área de história das ciências, têm sido colocados em xeque por novas abordagens do tema, derivadas, sobretudo, das teorias feministas. 
+Desde pelo menos o final do século XX, a figura de mulheres cientistas vem ganhando mais projeção dentro da historiografia das ciências e consolidando-se como um campo de estudos bastante complexo. Certos métodos, teorias e modelos, até então bastante utilizados em pesquisas na área de história das ciências, têm sido colocados em xeque por novas abordagens do tema, derivadas, sobretudo, das teorias feministas.
 
 A pesquisadora Carolina Queiroz, do Programa de Pós-Graduação em Ensino, Filosofia e História das Ciências da Universidade Federal da Bahia, traz importantes reflexões acerca das escritas das histórias das mulheres na ciência e da importância desses estudos para a sociedade. Na primeira parte deste trabalho, foram analisadas as contribuições historiográficas dos campos da História e da História das Ciências para as reflexões sobre gênero e ciência. Na segunda parte, investigou-se como diferentes biografias de mulheres cientistas, escritas por outras mulheres, repercutiram na sociedade, contribuíram para o levantamento de questionamentos e de aportes teóricos que contribuíssem para a consolidação dos estudos de gênero no tocante à História das Ciências.
 
-A pesquisa foi construída a partir da leitura, fichamento e levantamento dos principais estudos sobre história das mulheres e de gênero nas áreas de História, de História das Ciências (HC) e das Teorias Feministas. 
+A pesquisa foi construída a partir da leitura, fichamento e levantamento dos principais estudos sobre história das mulheres e de gênero nas áreas de História, de História das Ciências (HC) e das Teorias Feministas.
 
 O estudo analisou as ideias e considerações sobre o tema “gênero” sob o olhar das pesquisadoras norte-americanas Joan Scott e Louise Tilly, e da brasileira Rachel Soihet. A autora atentou-se para as categorias utilizadas por esses estudos, as questões políticas envolvidas nas discussões que traziam e os debates que travavam com as vertentes mais tradicionais da História.
 
@@ -45,7 +44,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

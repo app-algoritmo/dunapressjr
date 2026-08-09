@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Secretário diz que percentual de reajuste ainda não foi decidido.
 
 O governo reservou um total de R$ 11,7 bilhões para possibilitar um reajuste no salário dos servidores em 2023, conforme descrito no projeto de Lei de Diretrizes Orçamentárias (LDO) encaminhado semana passada ao Congresso Nacional. O percentual de reajuste, no entanto, ainda não foi definido, segundo o secretário especial de Tesouro e Orçamento do Ministério da Economia, Esteves Colnago.
@@ -56,8 +55,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

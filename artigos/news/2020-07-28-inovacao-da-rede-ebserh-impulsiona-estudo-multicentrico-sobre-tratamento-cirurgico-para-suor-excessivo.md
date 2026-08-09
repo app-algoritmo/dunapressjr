@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Administração central da estatal foi creditada em artigo científico publicado em revista internacional.
 
 Composta por 40 hospitais universitários federais, a Rede Ebserh tem a possibilidade de intensificar o compartilhamento de experiências, boas práticas e estudos científicos, práticas que impulsionam os resultados positivos. Esse é o caso de um estudo multicêntrico sobre técnicas cirúrgicas para tratamento de hiperidrose (suor excessivo), com a participação de diversas instituições, incluindo quatro unidades da Rede Ebserh.
@@ -25,7 +24,7 @@ Pela Rede Ebserh, participam do estudo o Hospital Universitário de Brasília (H
 
 Acesse o [artigo científico](https://www.gov.br/ebserh/pt-br/comunicacao/noticias/atuacao-em-rede-da-ebserh-impulsiona-estudo-multicentrico-sobre-tratamento-cirurgico-para-suor-excessivo/a-prospective-controlled-randomized-multicenter-study-to-evaluate-the.pdf).
 
-**Sobre a Ebserh   **  
+**Sobre a Ebserh   **
 
 Desde dezembro de 2015, o HUAC-UFCG é filiado à Rede Ebserh. A Empresa Brasileira de Serviços Hospitalares (Ebserh), vinculada ao Ministério da Educação (MEC), foi criada em 2011 e, atualmente, administra 40 hospitais universitários federais, apoiando e impulsionando suas atividades por meio de uma gestão de excelência.
 
@@ -35,7 +34,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

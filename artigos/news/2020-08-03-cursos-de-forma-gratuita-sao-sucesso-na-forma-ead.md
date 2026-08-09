@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Com mais de 70 mil participantes em sua segunda edição, o Programa de Aperfeiçoamento on-line teve as vagas para Português e TICs preenchidas antes do final do período de inscrição.
 
 A última edição do Programa de Aperfeiçoamento *on-line* recebeu 70.119 inscrições.  Ao todo, 75 mil vagas foram ofertadas para três cursos gratuitos de capacitação – Português, Matemática e Tecnologias da Informação e Comunicação (TICs) –, sendo 25 mil para cada modalidade. A iniciativa é uma parceria entre a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e o Ministério da Educação (MEC). As regiões Sudeste e Nordeste tiveram o maior número de participantes: 25.246 e 22.222, respectivamente. O Centro-Oeste registrou 8.301 inscritos, o Norte, 7.103 e o Sul, 7.124. Outros 123 inscritos não declararam suas regiões.
@@ -20,7 +19,7 @@ Fonte: gov.br / Imagem em destaque: Dda
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

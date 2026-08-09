@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medida provisória que definiu o valor deste ano foi convertida em lei.
 
 Foi publicada no *Diário Oficial da União* desta quinta-feira (2) a [**lei que fixa o salário mínimo de R$ 1.212**](https://in.gov.br/en/web/dou/-/lei-n-14.358-de-1-de-junho-de-2022-404843135), neste ano. A norma, assinada pelo presidente do Senado, Rodrigo Pacheco, fixa o valor do piso nacional, que foi anunciado pelo presidente Jair Bolsonaro, em 31 de dezembro ano passado por meio de medida provisória (MP).
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - Global Economy
 ---
 
-
 O mundo de hoje adora fazer uma dívida, uma compra a longo prazo, pagar juros, etc. Em verdade as pessoas adoram uma dívida, um financiamento, um cartão de crédito, pagar juros em tudo que envolve dinheiro.
 
 Pois bem, resumidamente, está é a melhor forma de escravidão hoje em dia. O mundo e, nosso país principalmente, vem sendo controlado com isso de uma forma sútil, mas ao mesmo tempo expressa e de fácil percepção. Nem todos estão realmente vendo a profundidade de tudo isto, mas está em prática e escravizando quase a totalidade da população, por falta de conhecimento, experiência, educação de péssima qualidade (e este é um dos temas fundamentais, a educação).
@@ -67,4 +66,4 @@ Em uma época em que notícias falsas e distorcidas estão em todas as partes, s
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com, com artigos, informações gerais e cursos que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-[https://dunapress.org/subscription-plan/?ref=Leonardo](https://dunapress.org/subscription-plan/?ref=Leonardo)
+[https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)

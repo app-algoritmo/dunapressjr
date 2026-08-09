@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 A Operação Verde Brasil 2 completou nesta quarta-feira (10) um mês de atuação para prevenir e reprimir delitos ambientais dentro da área da Amazônia Legal. Em 11 de maio, o Governo Federal deflagrou a Operação para combater o desmatamento e o garimpo ilegal, autorizando o emprego das Forças Armadas para a Garantia da Lei e da Ordem (GLO) e para ações subsidiárias.
 
 Nos 30 dias de Operação Verde Brasil 2, militares e agentes de órgãos parceiros realizaram inspeção naval em mais de 2,1 mil embarcações, das quais 110 foram apreendidas. Nos postos de bloqueio e controle de estradas, vistoriaram mais de 4,7 mil veículos, retendo 124 desses por irregularidades. Mais de 14 mil metros cúbicos de madeira ilegal também foram confiscados. O Comando de Operações Aeroespaciais (COMAE) já coordenou mais de 300 horas de voo durante a Operação, enquanto as aeronaves de Asas Rotativas das três Forças já somam 361 horas de voo.
@@ -24,5 +23,3 @@ Na área do Comando Conjunto Marechal Soares de Andrea, que atua no Estado do Pa
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -9,7 +9,6 @@ categories:
 - Policy
 ---
 
-
 Emprego, assuntos sociais e inclusão, direitos de segurança social na Noruega, [cartilha](https://dunapress.org/wp-content/uploads/2019/07/Your-social-security-rights-in-Norway_pt.pdf) criada pela Comissão Européia **com** descrição geral do regime de segurança social aplicável no país.
 
 Na Noruega, a proteção social geral é essencialmente assegurada pelo regime nacional de segurança social, pelo regime das prestações familiares e pelo regime de prestações pecuniárias para famílias com filhos pequenos.
@@ -25,5 +24,3 @@ As pessoas não abrangidas pelo seguro, independentemente de residirem ou não n
 ### [Clique para Ler a cartilha completa](https://dunapress.org/wp-content/uploads/2019/07/Your-social-security-rights-in-Norway_pt.pdf)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

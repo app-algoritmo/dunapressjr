@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Um bolsista da Coordenação de Pessoal de Nível Superior (CAPES) criou um nanofilme comestível, solúvel e incolor para conservar e proteger frutas e hortaliças. Jefferson Coelho Queiroz desenvolveu o produto em seu doutorado, cursado no Programa de Pós-Graduação em Química da Universidade Federal de Pernambuco (UFPE), financiado pela Fundação.  
+Um bolsista da Coordenação de Pessoal de Nível Superior (CAPES) criou um nanofilme comestível, solúvel e incolor para conservar e proteger frutas e hortaliças. Jefferson Coelho Queiroz desenvolveu o produto em seu doutorado, cursado no Programa de Pós-Graduação em Química da Universidade Federal de Pernambuco (UFPE), financiado pela Fundação.
 
 Em sua pesquisa, Jefferson Queiroz buscava por um produto sustentável, criado a partir da síntese de nanopartículas, que retardasse o amadurecimento e o apodrecimento de frutas e ainda inibisse o crescimento de fungos e bactérias nos alimentos. “Essas nanoemulsões atuam como películas comestíveis e antimicrobianas na superfície das frutas, o que resulta no aumento do tempo de maturação e, consequentemente, na redução de desperdício de alimentos”, explica o pesquisador.
 
@@ -28,7 +27,3 @@ Fonte: Capes.
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## União arrecadou R$ 127,74 bilhões no mês passado.
 
 Depois de iniciar o ano em queda, a arrecadação federal reagiu e bateu recorde em fevereiro. No mês passado, o governo arrecadou R$ 127,74 bilhões, alta de 4,3% em relação a fevereiro de 2020, descontada a inflação oficial pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA). Esse é o maior valor registrado para meses de fevereiro ao considerar o IPCA.
@@ -34,10 +33,6 @@ O último fator a contribuir para a melhoria da arrecadação em fevereiro foi a
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. 
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)  
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

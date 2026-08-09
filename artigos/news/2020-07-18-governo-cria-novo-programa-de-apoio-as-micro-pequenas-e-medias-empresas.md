@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Programa Capital de Giro para Preservação de Empresas pode injetar até R$120 bilhões de reais no mercado, segundo Banco Central.
 
 O Governo Federal criou mais uma linha de crédito para auxiliar os micro, pequenos e médios empresários a enfrentarem o cenário de dificuldades econômicas provocado pela pandemia do novo coronavírus. É o programa Capital de Giro para Preservação de Empresas (CGPE).
@@ -44,4 +43,4 @@ O programa de Capital de Giro para Preservação de Empresas se soma às iniciat
 
 Fonte: gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

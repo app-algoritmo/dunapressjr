@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Para apoiar atletas de ponta, com chances de disputar finais e medalhas olímpicas e paralímpicas, foi divulgada a lista de contemplados com a Bolsa Pódio, principal categoria do programa Bolsa Atleta, do Ministério da Cidadania. São 274 atletas, sendo 107 olímpicos e 167 paralímpicos.
 
 Os esportistas vão receber bolsas que variam entre R$ 5 mil e R$ 15 mil para que possam se dedicar mais tempo aos treinos e investir na preparação. A lista completa com os atletas beneficiados está publicada no [Diário Oficial da União](https://www.in.gov.br/web/dou/-/portaria-n-505-de-9-de-outubro-de-2020-282460957) do último dia 14.
@@ -48,5 +47,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

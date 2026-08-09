@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A mudança de bandeira nas contas de energia elétrica e as quedas nos preços de passagens aéreas ajudaram o resultado.
 
 Após quatro meses de altas escalonadas, variando de 0,64% em setembro a 1,35% em dezembro, a inflação desacelerou em janeiro, registrando 0,25%, sendo o menor índice desde agosto de 2020 (0,24%). Os dados são do Índice Nacional de Preços ao Consumidor Amplo (IPCA), divulgado nesta terça-feira (9), pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Nos últimos 12 meses, o indicador acumula alta de 4,56%.
@@ -36,8 +35,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

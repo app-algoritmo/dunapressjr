@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 No dia 6 de dezembro, foi concluído o Projeto Básico de ampliação da rampa de acesso ao Porto da 16ª Base Logística (16ª Ba Log), em Tefé. O projeto foi financiado pelo Programa Amazônia Protegida, que tem entre suas finalidades a contribuição para a garantia da soberania nacional, da integridade territorial e dos interesses nacionais; a promoção do desenvolvimento sustentável com valorização da diversidade sociocultural e ecológica e da redução das desigualdades regionais. Futuramente, haverá a provisão de recursos para a ampliação dessa rampa, que terá a medida de 300 metros de comprimento por 12 metros de largura, com pavimentação rígida em concreto armado.
 
 A rampa representará uma importante etapa para aumento da operacionalidade, já que a organização militar depende de autorização para utilizar o Porto Público da cidade, nas atividades de embarque e desembarque, durante o período de vazante (entre junho e novembro).
@@ -25,7 +24,3 @@ Fonte: 16ª Ba Log
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

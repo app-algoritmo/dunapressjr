@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Na mesma data serão concedidos terminais em outras regiões.
 
 Um dos principais aeroportos brasileiros será concedido à iniciativa privada por meio de um leilão a ser realizado no dia 18 de agosto. Localizado em São Paulo, o Aeroporto de Congonhas será leiloado junto com outros terminais como o de Uberlândia (MG), Uberaba (MG) e Montes Claros (MG) num sistema conhecido como leilão por blocos. “Onde nós colocamos um aeroporto de grande porte onde ele é lucrativo, superavitário junto com outros aeroportos que não tem aí a ‘vantajosidade’, talvez, do lucro, mas são aeroportos importantes quando nós falamos de interiorizar a nossa infraestrutura, democratizar o acesso à nossa aviação”, disse o ministro da Infraestrutura, Marcelo Sampaio, entrevistado do programa* A Voz do Brasil* desta sexta-feira (10).
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

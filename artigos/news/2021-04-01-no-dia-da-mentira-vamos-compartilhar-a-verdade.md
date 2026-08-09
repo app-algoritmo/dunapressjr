@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 “Fake News!”. É fake news”. “Não compartilhe, porque é fake news”. Talvez esta seja a palavra do momento. Está na língua do povo. Mas, afinal, o que significa fake news? Na tradução do inglês para o português é “notícia falsa”. Nada mais, nada menos do que nosso famoso termo “É mentira”! E essas notícias falsas ou mentirosas, como preferir, chegam até nós muito facilmente por meio das redes sociais e de aplicativos de mensagens. Há também aqueles que são impactados por elas em meio a uma conversa com a família ou com os amigos.
 
 As fake News estão por todo o lado e precisamos aprender a identifica-las e desmenti-las. Principalmente aquelas que envolvem a saúde. Sim, porque algumas destas notícias falsas podem e acabam impactando negativamente a nossa saúde. Receitas milagrosas contra doenças, informações desencontradas sobre o Sistema Único de Saúde (SUS), a cura de algumas patologias, entre outras notícias fabricadas e criadas para nos enganar.
@@ -44,7 +43,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

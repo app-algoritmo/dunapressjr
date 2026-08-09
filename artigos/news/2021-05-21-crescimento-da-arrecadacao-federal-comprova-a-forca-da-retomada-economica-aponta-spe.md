@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Estudo Conjuntura Macroeconômica e Arrecadação Bruta de Tributos Federais revela cenário positivo do início de 2021.
 
 A Secretaria de Política Econômica do Ministério da Economia (SPE/ME) divulgou nesta quinta-feira (20/5) o boletim de análise da [Conjuntura Macroeconômica e Arrecadação Bruta de Tributos Federais](https://www.gov.br/economia/pt-br/centrais-de-conteudo/apresentacoes/2021/maio/spe_apres_arrecad_maio_2021.pdf). Na ocasião, o coordenador geral de Modelos e Projeções Econômico-Fiscais da SPE, Sérgio Gadelha, apresentou dados sobre o atual cenário econômico e perspectivas para a arrecadação federal, com informações que comprovam a tendência de recuperação da atividade em 2021.
@@ -27,8 +26,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

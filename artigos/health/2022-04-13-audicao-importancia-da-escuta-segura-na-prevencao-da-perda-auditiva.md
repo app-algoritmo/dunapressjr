@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 O termo “escuta segura’ refere-se, simplesmente, a um comportamento de escuta que não coloque a audição em risco. Esse risco depende de quão alto, por quanto tempo e com que frequência as pessoas são expostas a sons altos, seja através de dispositivos de áudio pessoais ou em locais de entretenimento, seja no ambiente ao seu redor, como no trânsito, no local de trabalho ou em casa.
 
 Globalmente, mais de 1,5 bilhão de pessoas experimentam algum grau de perda auditiva. Destes, estima-se que 430 milhões tenham perda auditiva moderada ou grave no ouvido com melhor audição. Na Região das Américas cerca de 217 milhões de pessoas vivem com perda auditiva, ou seja, 21,52% da população. Até 2050, esse número pode subir para 322 milhões.
@@ -24,7 +23,6 @@ Ações urgentes são necessárias para prevenir e tratar o problema, a fim de m
 
 Em 2021, a OMS publicou o **[Relatório Mundial sobre Audição](https://www.who.int/publications/i/item/world-report-on-hearing)** (em inglês) – documento que representa um apelo global à ação para lidar com a perda auditiva e doenças do ouvido ao longo da vida.
 
-**
 Recomendações para a população**:
 
 – Boa audição e comunicação são importantes em todas as fases da vida.
@@ -46,7 +44,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -11,7 +11,7 @@ categories:
 
 Josh Freese está assumindo como substituto permanente de Taylor Hawkins em Foo Fighters , o grupo anunciou.
 
-Freese jogou recentemente com o Offspring e é um renomado jogador de sessão. Ele ocupará a cadeira vaga quando Hawkins morreu .[](https://pitchfork.com/artists/taylor-hawkins/)[](https://deadline.com/2022/12/foo-fighters-move-forward-following-taylor-hawkins-death-1235209423/)
+Freese jogou recentemente com o Offspring e é um renomado jogador de sessão. Ele ocupará a cadeira vaga quando Hawkins morreu .
 
 A banda revelou a notícia hoje durante sua transmissão ao vivo  Foo Fighters: Preparing Music For Concerts , uma sessão de estúdio gravada nos 606 estúdios do grupo em Northridge, Califórnia. 
 

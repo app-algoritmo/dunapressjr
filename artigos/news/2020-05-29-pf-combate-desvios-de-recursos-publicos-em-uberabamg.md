@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Uberaba/MG – Na manhã de quinta feira (28/5), a Polícia Federal deflagrou a Operação “Monturo”, para combater desvio de verbas públicas de limpeza urbana da Prefeitura de Uberaba, em Minas Gerais.
 
 A deflagração conta com um efetivo de 96 policiais federais. A Polícia Federal representou por 24 mandados judiciais de busca e apreensão, que foram expedidos pela 1ª Vara Criminal da Comarca de Uberaba e estão sendo cumpridos em Uberaba e nas cidades paulistas de Mauá e São Sebastião.
@@ -19,5 +18,3 @@ Seguindo todos os protocolos de cuidados do Ministério da Saúde em face da pan
 Haverá entrevista coletiva às 10h na sede da Delegacia Regional da Polícia Federal em Uberaba (Rua Delegado Agílio Monteiro, n° 10, Parque do Mirante).
 
 Comunicação Social da Polícia Federal em Uberaba/MG
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

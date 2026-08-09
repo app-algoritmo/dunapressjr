@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa supera 119 mil pontos por primeira vez em dois meses.
 
 Num dia de bastante volatilidade, o dólar alternou altas e baixas, mas continuou acima de R$ 5,70. A bolsa de valores teve mais uma sessão de ganhos e fechou acima dos 119 mil pontos pela primeira vez desde fevereiro.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

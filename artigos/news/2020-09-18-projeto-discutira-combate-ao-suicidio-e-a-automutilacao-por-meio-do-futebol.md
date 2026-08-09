@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Uma parceria entre o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) e o Ministério da Cidadania irá abordar o valor da vida por meio do futebol. Nos dias 24 e 25 de setembro, a partir de 14h30, o projeto Integra Brasil promoverá palestras com foco no combate à depressão entre jovens. Especialistas e gestores públicos vão tratar o tema sob a ótica da campanha #DêUmLikeNaVida.
 
 "A depressão é o início de um processo triste e doloroso, que pode acabar em suicídio. É a segunda principal causa de morte entre os jovens de 15 a 29 anos. A importância desse projeto é justamente discutir a prevenção a esse problema usando o esporte como aliado. Temos muito orgulho de fazer parte dele", afirma a ministra Damares.
@@ -32,5 +31,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

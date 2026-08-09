@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Prefeituras são investigadas em contratos para tratamentos da covid-19.
 
 Supostas irregularidades em contratação de Organização Social de Saúde (OSS) para gerenciamento de serviços de saúde pelas Prefeituras do Recife/PE e de Jaboatão dos Guararapes/PE são o alvo, nesta quarta-feira (16) da Operação Desumano. Os recursos liberados pelo Sistema Único de Saúde eram para medidas de combate à covid-19.
@@ -23,5 +22,3 @@ As investigações apontaram indícios de participação de grupo econômico já
 Fonte: Agência Brasil – Imagem de destaque: Arquivo/Tânia Rego/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

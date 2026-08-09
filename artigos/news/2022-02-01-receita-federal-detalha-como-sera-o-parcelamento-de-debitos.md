@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Normas foram publicadas no Diário Oficial da União.
 
 Instrução normativa publicada no *Diário Oficial da União* de nesta segunda-feira (31) detalha como será o parcelamento de débitos perante a Receita Federal. De acordo com a [**Instrução nº 2.063**](https://www.in.gov.br/en/web/dou/-/instrucao-normativa-rfb-n-2.063-de-27-de-janeiro-de-2022-376877928), o parcelamento dos débitos “de qualquer natureza” poderá ser feito em até 60 prestações “mensais e sucessivas”.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

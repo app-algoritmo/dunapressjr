@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A atriz ganhadora do Oscar Helem Mirren interpretará Golda Meir, a única primeira-ministra a governar Israel, em um filme biográfico que acontecerá durante a Guerra do Yom Kippur.
 
 As filmagens de "Golda" estão programadas para começar no final deste ano, *informou o* The *Hollywood Reporter* .
@@ -30,7 +29,7 @@ O conflito sangrento que se seguiu - retratado na aclamada produção israelense
 
 Ele acrescentou: "Nada me excita mais do que a perspectiva de trabalhar com a lendária Helen Mirren para dar vida a essa história complexa, de partir o coração".
 
-Fonte: 
+Fonte:
 
 **Ver também:**
 
@@ -38,7 +37,3 @@ Fonte:
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

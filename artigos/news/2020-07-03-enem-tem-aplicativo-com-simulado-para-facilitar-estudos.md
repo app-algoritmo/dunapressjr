@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Quem busca ferramentas para se preparar para o Exame Nacional do Ensino Médio (Enem) 2020 tem uma novidade chegando às mãos. A nova versão do aplicativo do Enem traz funcionalidades inéditas, entre elas um simulado, que ajudará os participantes a estudar para as provas. O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) disponibilizará a atualização do aplicativo na próxima segunda-feira, 6 de julho, para iOS e Android.
 
-A atualização do aplicativo do Enem para smartphones e tablets traz questões de provas aplicadas em anos passados, em todas as quatro áreas de conhecimento avaliadas no exame. O usuário que responde ao simulado consegue consultar quais itens acertou e quais estavam errados. O objetivo da iniciativa é possibilitar que o participante se familiarize ainda mais com a estrutura dos itens que são utilizados no Enem, para ter conhecimento de como está o seu preparo para as provas. Em breve, o aplicativo irá incorporar as justificativas para as alternativas escolhidas pelo usuário. O simulado utilizará conceitos de gamificação. 
+A atualização do aplicativo do Enem para smartphones e tablets traz questões de provas aplicadas em anos passados, em todas as quatro áreas de conhecimento avaliadas no exame. O usuário que responde ao simulado consegue consultar quais itens acertou e quais estavam errados. O objetivo da iniciativa é possibilitar que o participante se familiarize ainda mais com a estrutura dos itens que são utilizados no Enem, para ter conhecimento de como está o seu preparo para as provas. Em breve, o aplicativo irá incorporar as justificativas para as alternativas escolhidas pelo usuário. O simulado utilizará conceitos de gamificação.
 
 A interação ficou facilitada pela linguagem mais amigável da nova versão do aplicativo. A proposta é que o usuário tenha em mãos uma ferramenta simples, com informações de qualidade, certificada pelos profissionais da área pedagógica do Inep. Inicialmente o app terá questões de 2012 e 2013. O usuário poderá escolher a área de conhecimento para a qual deseja fazer o simulado. Ainda em julho, o aplicativo do Enem ganhará mais questões, com a inclusão dos itens das edições de 2014 a 2017, além de uma versão em Língua Brasileira de Sinais (Libras).
 
@@ -26,7 +25,7 @@ Fonte: gov.br / Imagem em destaque: fdr
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

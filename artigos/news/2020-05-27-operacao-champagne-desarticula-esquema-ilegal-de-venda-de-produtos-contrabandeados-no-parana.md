@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Guaíra/PR – A Polícia Federal deflagrou nesta manhã (27/5) a operação Champagne, para desarticular grupo que atuava na importação ilegal de bebidas, produtos eletrônicos e outros produtos. Ele distribuía ilegalmente essas mercadorias em todos os Estados brasileiros. Policiais federais deram cumprimento a mandados de busca e apreensão nas cidades de Terra Roxa, Guaíra e Umuarama, esta última tida como a sede de atuação do grupo investigado, no Paraná.
 
 Os mandados de busca e apreensão tinham como objetivo angariar os elementos finais de prova para vincular os integrantes do grupo, localizar eventuais mercadorias e produtos ilegais, além de apreender documentos relacionados com as empresas utilizadas para emissão das notas fiscais.
@@ -30,5 +29,3 @@ Estima-se que houve movimentação de pelo grupo de pelo menos R$ 700 mil reais 
 Os envolvidos são investigados, cada um na medida de suas condutas, pelos crimes de contrabando, descaminho, comercialização ilegal de agrotóxicos e associação criminosa e os objetos arrecadados foram encaminhados para Delegacia da Polícia Federal em Guaíra.
 
 Comunicação Social da Polícia Federal em Guaíra/PR
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

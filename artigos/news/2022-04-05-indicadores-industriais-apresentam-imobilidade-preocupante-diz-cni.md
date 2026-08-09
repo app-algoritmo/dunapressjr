@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Faturamento e emprego recuam; índice de horas trabalhadas cresceu.
 
 De todos os índices analisados pela Confederação Nacional da Indústria (CNI) para a composição dos Indicadores Industriais de fevereiro, apenas o relativo a horas trabalhadas na produção apresentou crescimento, na comparação com janeiro. Segundo a entidade, os índices relativos a faturamento e emprego recuaram, interrompendo a sequência de três altas consecutivas. Para a CNI, o resultado mostra “desaceleração do setor”.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -24,18 +24,14 @@ São fãs de todas as idades. As Tartarugas Ninja vêm conquistando gerações h
 As Tartarugas Ninja: Caos Mutante Run tem apoio da Ri Happy, com organização da Sagaz Esportes e direitos da Paramount Pictures e Nickelodeon Movies.
 
 **Mais informações:**
-Site - [www.tartarugasninjarun.com.br](https://click.presskit.com.br/url/973256091a/6361388b6fc)[
-
-](https://click.presskit.com.br/url/97325528ae/6361388b6fc)A **Paramount Consumer Products** supervisiona todo o licenciamento e marketing da Paramount (Nasdaq: PARA, PARAA), uma empresa líder global de mídia e entretenimento que cria conteúdo e experiências premium para o público em todo o mundo. Impulsionado por marcas de consumo icônicas, o portfólio da Paramount Consumer Products inclui uma lista diversificada de marcas e conteúdo da BET, CBS (incluindo CBS Television Studios e CBS Television Distribution), Comedy Central, MTV, Nickelodeon, Paramount Pictures e Showtime. Com propriedades que abrangem animação, live action, pré-escolar, adolescente e adulto, a Paramount Consumer Products está empenhada em criar produtos da mais alta qualidade para algumas das franquias icônicas mais amadas do mundo. Além disso, a Paramount Consumer Products supervisiona os negócios on-line direto ao consumidor de propriedades da CBS e Showtime, bem como os sites de comércio eletrônico de Star Trek, Bob Esponja Calça Quadrada, South Park e MTV.
+Site - [www.tartarugasninjarun.com.br](https://click.presskit.com.br/url/973256091a/6361388b6fc)A **Paramount Consumer Products** supervisiona todo o licenciamento e marketing da Paramount (Nasdaq: PARA, PARAA), uma empresa líder global de mídia e entretenimento que cria conteúdo e experiências premium para o público em todo o mundo. Impulsionado por marcas de consumo icônicas, o portfólio da Paramount Consumer Products inclui uma lista diversificada de marcas e conteúdo da BET, CBS (incluindo CBS Television Studios e CBS Television Distribution), Comedy Central, MTV, Nickelodeon, Paramount Pictures e Showtime. Com propriedades que abrangem animação, live action, pré-escolar, adolescente e adulto, a Paramount Consumer Products está empenhada em criar produtos da mais alta qualidade para algumas das franquias icônicas mais amadas do mundo. Além disso, a Paramount Consumer Products supervisiona os negócios on-line direto ao consumidor de propriedades da CBS e Showtime, bem como os sites de comércio eletrônico de Star Trek, Bob Esponja Calça Quadrada, South Park e MTV.
 
 **Informações para a imprensa****
 **Paramount Global
-Felipe M. Reis - [felipe.moraes@paramount.com](https://click.presskit.com.br/url/97325731f6/6361388b6fc)[
-](https://click.presskit.com.br/url/97325731f6/6361388b6fc)Thaisa Abreu - [thaisa.abreu@paramount.com](https://click.presskit.com.br/url/973258d356/6361388b6fc)[](https://click.presskit.com.br/url/973258d356/6361388b6fc)
+Felipe M. Reis - [felipe.moraes@paramount.com](https://click.presskit.com.br/url/97325731f6/6361388b6fc)Thaisa Abreu - [thaisa.abreu@paramount.com](https://click.presskit.com.br/url/973258d356/6361388b6fc)
 
 Index - Estratégias de Comunicação (para as marcas Paramount)
-Babi Ferreira - [babiferreira@indexconectada.com.br](https://click.presskit.com.br/url/973259ded9/6361388b6fc)[
-](https://click.presskit.com.br/url/973259ded9/6361388b6fc)Luana Motta - [luanamotta@indexconectada.com.br](https://click.presskit.com.br/url/9732604de9/6361388b6fc) 
+Babi Ferreira - [babiferreira@indexconectada.com.br](https://click.presskit.com.br/url/973259ded9/6361388b6fc)Luana Motta - [luanamotta@indexconectada.com.br](https://click.presskit.com.br/url/9732604de9/6361388b6fc)
 
 ***ZDL******
 Doro Jr. - MTb 13209 - ***[**dorojr@zdl.com.br**](https://click.presskit.com.br/url/973261fdba/6361388b6fc)*** - 11 984579723******

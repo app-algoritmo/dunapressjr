@@ -7,12 +7,11 @@ categories:
 - Health
 ---
 
-
 No dia 15 de fevereiro a comunidade global celebra o Dia Internacional do Câncer Infantil com uma campanha colaborativa para aumentar a conscientização sobre o câncer infantil e expressar apoio às crianças e adolescentes com câncer, os sobreviventes da doença e suas famílias.
 
 O câncer é a principal causa de morte de crianças e adolescentes em todo o mundo. A cada ano, mais de 400.000 crianças são diagnosticadas com câncer. Na região das Américas, a estimativa foi de 32.065 novos casos de câncer em 2020 em crianças de 0 a 14 anos; deles, 20.855 casos foram na América Latina e no Caribe.
 
-Crianças com câncer que vivem em países de renda baixa e média enfrentam injustiças inaceitáveis ​​na detecção precoce, no diagnóstico e no acesso a tratamento de qualidade e a cuidados paliativos. Os resultados inferiores inferiores atingidos por essas crianças são uma ameaça à coesão social, à prosperidade econômica e ao cumprimento das metas globais incluídas na [Agenda 2030 das Nações Unidas para o Desenvolvimento Sustentável.](http://www.agenda2030.org.br/sobre/#:~:text=A%20Agenda%202030%20%C3%A9%20um,dentro%20dos%20limites%20do%20planeta.) 
+Crianças com câncer que vivem em países de renda baixa e média enfrentam injustiças inaceitáveis ​​na detecção precoce, no diagnóstico e no acesso a tratamento de qualidade e a cuidados paliativos. Os resultados inferiores inferiores atingidos por essas crianças são uma ameaça à coesão social, à prosperidade econômica e ao cumprimento das metas globais incluídas na [Agenda 2030 das Nações Unidas para o Desenvolvimento Sustentável.](http://www.agenda2030.org.br/sobre/#:~:text=A%20Agenda%202030%20%C3%A9%20um,dentro%20dos%20limites%20do%20planeta.)
 
 A [Iniciativa Global para o Câncer Infantil](http://www.who.int/cancer/childhood-cancer/en/) da Organização Mundial da Saúde (OMS) visa melhorar os resultados para crianças com câncer em todo o mundo. O objetivo é dar a todas as crianças com câncer a melhor chance de sobreviver, de viver uma vida plena e abundante e de viver e morrer sem sofrimento. Trabalhando além das fronteiras, setores e disciplinas, podemos criar um futuro melhor para as crianças com câncer.
 
@@ -58,7 +57,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

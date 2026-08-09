@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Auxílio Emergencial foi um benefício criado para garantir uma renda mínima aos brasileiros em situação mais vulnerável durante a pandemia da Covid-19 (novo coronavírus). Em apenas um mês, o benefício já havia chegado a mais de 50 milhões de pessoas e mais de R$ 35 bilhões creditados. 
 
 O Ministério da Cidadania ajuda a cumprir, dessa forma, a determinação do Presidente da República, Jair Bolsonaro, de que "nenhum brasileiro fica para trás."
@@ -25,5 +24,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

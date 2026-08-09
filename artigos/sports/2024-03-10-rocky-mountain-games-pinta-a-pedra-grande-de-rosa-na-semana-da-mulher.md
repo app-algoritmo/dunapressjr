@@ -11,7 +11,7 @@ categories:
 
 Na semana em que se comemorou o Dia Internacional da Mulher, o Rocky Mountain Games coloriu de rosa (a cor da camiseta dos atletas), a área da Pedra Grande, neste sábado (9). O maior festival de esportes outdoor e cultura de montanha do Brasil prossegue neste domingo (10), com provas de Mountain Bike, Gravel e Uphill, além de atividades na arena montada na Pista de Pouso de Voo Livre de Atibaia, como show musical, arremesso de machado, food trucks, slackline, acampamento infantil, entre outras. A entrada é grátis.
 
-O engajamento feminino tem crescido ano a ano no Rocky Mountain Games. Os números do primeiro dia do evento comprovem esse fato. Do total de participantes, 44% eram de mulheres, entre corredores de Trail Run, Canicross e Hike & Fly. 
+O engajamento feminino tem crescido ano a ano no Rocky Mountain Games. Os números do primeiro dia do evento comprovem esse fato. Do total de participantes, 44% eram de mulheres, entre corredores de Trail Run, Canicross e Hike & Fly.
 
 Com o tradicional clima de camaradagem e descontração, com familiares e grupos de amigos acompanhando os atletas, duas modalidades encantaram adultos e crianças neste sábado. O Canicross, com cães e tutores correndo morro acima, sempre traz um verdadeiro show de fofura com os pets. Outro espetáculo, desta vez no céu, fez o público olhar para o alto a fim de assistir o voo dos parapentes do Hike & Fly.
 
@@ -40,10 +40,9 @@ Site: **[**https://rockymountaingames.com.br/****
 **](https://click.presskit.com.br/url/1001934ec17/6361388b6fc)**Instagram : **[**https://www.instagram.com/rockymountaingames/****
 **](https://click.presskit.com.br/url/1001935e011/6361388b6fc)**Fan page - **[**https://www.facebook.com/rmountaingames****
 **](https://click.presskit.com.br/url/10019366ca6/6361388b6fc)**Youtube - [https://www.youtube.com/channel/UC2Zd1D_1VDhPsOjbKUyFt0Q
-](https://click.presskit.com.br/url/10019372fd1/6361388b6fc)**[
-](https://click.presskit.com.br/url/10019387944/6361388b6fc)***ZDL***
+](https://click.presskit.com.br/url/10019372fd1/6361388b6fc)*****ZDL***
 ***Doro Jr. - MTb 13209 - ***[***dorojr@zdl.com.br***](https://click.presskit.com.br/url/10019390a82/6361388b6fc)*** - F: 11 984579723***
 ***Rafael De Marco - Mtb.: 27556 - ***[***rafael@zdl.com.br***](https://click.presskit.com.br/url/10019406ba3/6361388b6fc)*** - Cel: 11 976022986 / WhatsApp: 19 997912108******
-Site: [www.zdl.com.br](https://click.presskit.com.br/url/1001941ea3c/6361388b6fc) 
-Facebook: [www.facebook.com/ZDLSports](https://click.presskit.com.br/url/100194200c8/6361388b6fc) 
+Site: [www.zdl.com.br](https://click.presskit.com.br/url/1001941ea3c/6361388b6fc)
+Facebook: [www.facebook.com/ZDLSports](https://click.presskit.com.br/url/100194200c8/6361388b6fc)
 Instagram: [www.instagram.com/zdlsports](https://click.presskit.com.br/url/1001943d41c/6361388b6fc)***

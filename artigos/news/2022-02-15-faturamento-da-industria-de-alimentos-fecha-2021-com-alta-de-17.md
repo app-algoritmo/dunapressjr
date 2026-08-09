@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado é 16,9% superior ao registrado em 2020, diz Abia.
 
 A indústria brasileira de alimentos fechou o ano de 2021 com faturamento de R$ 922,6 bilhões, resultado 16,9% superior ao registrado em 2020. O montante representa 10,6% do Produto Interno Bruto (PIB) estimado para o ano passado. Os dados, divulgados nesta terça-feira (15), são da Associação Brasileira da Indústria de Alimentos (Abia).
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

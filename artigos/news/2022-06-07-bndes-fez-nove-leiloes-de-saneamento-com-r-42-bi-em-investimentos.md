@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ### Rodadas ocorreram ao longo dos últimos dois anos e meio.
 
-O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) realizou nove leilões do setor de saneamento que resultaram em R$ 30 bilhões em outorgas para os cofres de estados e municípios e R$ 42 bilhões de investimentos comprometidos. As rodadas ocorreram ao longo dos últimos dois anos e meio, desde a aprovação do Marco Legal do Saneamento (Lei 14.026 de 2020).  
+O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) realizou nove leilões do setor de saneamento que resultaram em R$ 30 bilhões em outorgas para os cofres de estados e municípios e R$ 42 bilhões de investimentos comprometidos. As rodadas ocorreram ao longo dos últimos dois anos e meio, desde a aprovação do Marco Legal do Saneamento (Lei 14.026 de 2020).
 
 “Nessa jornada fomos capazes de trazer um presente aqui para o Rio de Janeiro que foi a maior concessão de infraestrutura já realizada no Brasil, que traz dignidade, emprego e preservação ambiental sem tamanho. Para quem conhece o Rio poder sonhar com uma Baía de Guanabara, em breve, bonita e limpa novamente é um sonho para qualquer um que mora ou visita essa cidade tão maravilhosa”, disse o presidente do banco, Gustavo Montezano.
 
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

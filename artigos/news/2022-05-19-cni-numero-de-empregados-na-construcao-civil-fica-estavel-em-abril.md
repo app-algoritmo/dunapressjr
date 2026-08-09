@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Os dados constam do boletim Sondagem Industrial da Construção.
 
 O índice que avalia o número de empregados na indústria da construção civil permaneceu praticamente estável em abril, na comparação com março, informou nesta quarta-feira (18) a Confederação Nacional da Indústria (CNI). No mês passado, o índice ficou em 50,7 pontos, ante os 50 pontos registrados em março.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

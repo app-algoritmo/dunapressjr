@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Crédito ficará disponível até 31 de dezembro de 2024.
 
 A partir desta segunda-feira (25), interessados em contratar empréstimos pelo Programa Nacional de Apoio às Micro e Pequenas Empresas (Pronampe) já podem procurar as instituições financeiras. Criado há pouco mais de dois anos para socorrer empresários durante a pandemia de covid-19, o programa oferece empréstimos para pequenas empresas com juros mais baixos e prazo maior para começar a pagar.
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

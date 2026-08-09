@@ -7,8 +7,7 @@ categories:
 - Health
 ---
 
-
-Todo mundo tem uma recordação de quando era pequeno e tomou uma vacina em gotas, como a da poliomielite. Seria bem mais simples se algumas gotinhas fossem suficientes para nos proteger contra todas as doenças, certo? 
+Todo mundo tem uma recordação de quando era pequeno e tomou uma vacina em gotas, como a da poliomielite. Seria bem mais simples se algumas gotinhas fossem suficientes para nos proteger contra todas as doenças, certo?
 
 Mas, na maioria dos casos, as gotinhas são recomendadas apenas para enfermidades contraídas por via oral, com a ingestão de água ou alimentos contaminados, por exemplo. Para doenças transmitidas pelo ar, a melhor opção é a injeção.
 
@@ -26,5 +25,3 @@ Fonte: https://butantan.gov.br
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

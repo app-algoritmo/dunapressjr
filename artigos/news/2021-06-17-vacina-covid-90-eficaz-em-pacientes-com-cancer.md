@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Pesquisadores israelenses descobriram que pacientes oncológicos desenvolvem fortes respostas de anticorpos, dissipando os temores de proteção significativamente mais fraca.
 
 Nove em cada dez pacientes oncológicos desenvolvem altos níveis de anticorpos após receberem a vacina COVID: descoberta de um grupo de pesquisadores israelenses, dissipando os temores de que as pessoas que lutam contra o câncer corram o risco de ter proteção muito menor.
@@ -39,7 +38,3 @@ Fonte: timesofisrael.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

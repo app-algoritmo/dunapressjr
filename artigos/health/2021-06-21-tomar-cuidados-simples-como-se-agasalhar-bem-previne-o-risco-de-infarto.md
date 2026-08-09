@@ -7,8 +7,7 @@ categories:
 - Health
 ---
 
-
-Com a chegada do inverno, muita gente se previne contra gripes, resfriados, problemas respiratórios e alergias. Mas, várias pessoas ainda desconhecem o risco de doenças circulatórias que a estação também costuma trazer, a exemplo dos problemas cardíacos. 
+Com a chegada do inverno, muita gente se previne contra gripes, resfriados, problemas respiratórios e alergias. Mas, várias pessoas ainda desconhecem o risco de doenças circulatórias que a estação também costuma trazer, a exemplo dos problemas cardíacos.
 
 Segundo informações do Instituto Nacional de Cardiologia (INC), o inverno costuma aumentar em 30 % o risco de infarto. O médico do Serviço de Cardiologia do Hospital Federal de Bonsucesso (HFB), Artur Guimarães, destaca que baixas temperaturas contribuem com a vasoconstrição (contração dos vasos na superfície do corpo), o que pode provocar uma sobrecarga no sistema circulatório e motivar o aumento do risco de infarto no miocárdio.
 
@@ -52,7 +51,7 @@ Nessas situações, procure um médico preventivamente. Nem sempre as mulheres e
 
 **7 - Ao identificar os sinais, qual deve ser o encaminhamento? E os cuidados após um início de infarto ou um infarto?**
 
-Sempre que houver suspeita de infarto o paciente deve ir imediatamente a um serviço de emergência para que seja avaliado. O diagnóstico e tratamento do infarto devem acontecer de forma rápida e dentro de uma Unidade de Saúde. O paciente sempre deve avisar ao atendente ou a pessoa responsável pela triagem da fila da emergência que está sentindo dor no peito ou falta de ar e solicitar que seja realizado um exame de eletrocardiograma nos primeiros 10 minutos de sua chegada ao hospital. Este exame será rapidamente entregue a um médico e o mesmo definirá a prioridade de atendimento no caso de confirmar a suspeita de Infarto. Dessa forma, o tratamento com remédios poderá ser iniciado de forma rápida, eficiente e segura. 
+Sempre que houver suspeita de infarto o paciente deve ir imediatamente a um serviço de emergência para que seja avaliado. O diagnóstico e tratamento do infarto devem acontecer de forma rápida e dentro de uma Unidade de Saúde. O paciente sempre deve avisar ao atendente ou a pessoa responsável pela triagem da fila da emergência que está sentindo dor no peito ou falta de ar e solicitar que seja realizado um exame de eletrocardiograma nos primeiros 10 minutos de sua chegada ao hospital. Este exame será rapidamente entregue a um médico e o mesmo definirá a prioridade de atendimento no caso de confirmar a suspeita de Infarto. Dessa forma, o tratamento com remédios poderá ser iniciado de forma rápida, eficiente e segura.
 
 Fonte: blog.saude.gov.br
 
@@ -63,7 +62,3 @@ Fonte: blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

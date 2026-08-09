@@ -25,8 +25,6 @@ tags:
 
 Existe uma conta que quase ninguém faz. Segundo a Confederação Nacional do Comércio (CNC), o endividamento das famílias brasileiras chegou a 78,1% em junho de 2026 — o maior patamar desde 2014. Quando se isola apenas o custo dos juros pagos mensalmente, o valor médio por família endividada ultrapassa R$ 847. Não é o valor da dívida. É só o aluguel que se paga pelo dinheiro que já foi gasto.
 
-Esse número importa agora porque o ciclo de crédito fácil dos últimos dois anos — impulsionado por fintechs, BNPL (compre agora, pague depois) e limites de cartão que sobem automaticamente — está cobrando sua fatura. Literalmente.
-
 **O produto mais caro da prateleira financeira**
 
 O rotativo do cartão de crédito brasileiro cobra, em média, 429% ao ano, conforme dados do Banco Central de maio de 2026. Para ter clareza do que isso significa: R$ 1.000 não pagos hoje se transformam em R$ 5.290 em doze meses se o devedor pagar apenas o mínimo. A reforma que limitou o rotativo a 100% do valor da dívida, sancionada em 2024, resolveu parte do problema — mas criou um substituto quase igualmente caro: o parcelamento do saldo devedor, que opera entre 180% e 220% ao ano nas principais bandeiras.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O especialista de Inteligência em Negócios Anderson Jimenez Figueiredo foi contratado em agosto de 2020 por uma empresa de Curitiba, mesmo morando em São Paulo. A empresa adotou trabalho remoto para funções como a dele, e, já nas entrevistas para contratação, foi acordado que ele não precisaria se mudar quando o regime de trabalho voltasse a ser presencial. “Quero continuar em São Paulo, pois minha esposa está com emprego novo. A negociação com a empresa nesse sentido foi tranquila. Estou me propondo a viajar para Curitiba frequentemente, mas continuar com minha base de trabalho em casa”, conta Anderson.
 
 A decisão dele é a mesma de grande maioria das pessoas hoje. De acordo com uma pesquisa realizada pela Faculdade de Economia e Administração da Universidade de São Paulo (FEA-USP), 73% das pessoas estão satisfeitas com o trabalho feito em casa. Esse número sobe para 78% quando se considera a intenção de manter a mesma rotina após a pandemia.
@@ -21,7 +20,7 @@ Com o avanço da vacinação no Brasil, as empresas começam a implementar o pro
 
 Leandro participa de fóruns de executivos de Recursos Humanos e conta que grande parte das empresas deve escolher o modelo híbrido de trabalho, que se dará com escalas de grupos de colaboradores entre o modelo presencial e remoto.
 
-No Grupo Marista, o retorno presencial está sendo realizado por etapas, previamente comunicadas aos colaboradores. “Muitos estão em outra cidade, não matricularam os filhos em escolas infantis, por exemplo, e precisarão de tempo para planejar o retorno”, explica o diretor.  
+No Grupo Marista, o retorno presencial está sendo realizado por etapas, previamente comunicadas aos colaboradores. “Muitos estão em outra cidade, não matricularam os filhos em escolas infantis, por exemplo, e precisarão de tempo para planejar o retorno”, explica o diretor.
 
 É o caso de Pamela Fernanda Menezes dos Santos, gerente de Experiência do Cliente do Grupo Marista. Contratada em agosto de 2021 morando em São Paulo, ela sabia que a mudança para Curitiba seria necessária, mas ganhou tempo suficiente para suas escolhas, como a escola para o filho de 7 anos e o bairro onde vai morar. “A decisão de mudar para Curitiba foi bem conversada com a empresa e pensada com a família, que entendeu que seria uma boa oportunidade para minha carreira. Não conhecia a cidade, então, esse tempo que tenho até janeiro de 2022 será importante para compreender a localização do trabalho e das opções de escola”, conta Pamela. Nesse período, ela tem viajado para Curitiba eventualmente e, no restante do tempo, o trabalho de liderança de equipe é remoto. A partir de janeiro, ela trabalhará três dias em casa e dois no escritório.
 
@@ -42,7 +41,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

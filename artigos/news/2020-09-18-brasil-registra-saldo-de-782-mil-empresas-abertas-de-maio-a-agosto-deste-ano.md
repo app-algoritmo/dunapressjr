@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O tempo médio de abertura reduziu em 2 dias, o que mostra a retomada do crescimento da economia do País.
 
 De maio a agosto deste ano, 782.664 empresas foram abertas no País. O número representa um aumento de 6% em relação aos quatro meses anteriores. O levantamento, do Ministério da Economia, aponta, ainda, um crescimento de 2% se observado o mesmo período do ano passado.
@@ -44,8 +43,6 @@ As informações podem ajudar empreendedores na hora de abrir ou impulsionar um 
 
 Confira [AQUI ](https://www.gov.br/economia/pt-br/centrais-de-conteudo/publicacoes/boletins/boletim-do-mapa-de-empresas/boletim-do-2o-quadrimestre-de-2020.pdf)o boletim do Mapa de Empresas.
 
-Fonte: gov.br 
+Fonte: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

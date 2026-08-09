@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-## Pesquisa usa o método da citometria de fluxo para ampliar a capacidade de diagnosticar a presença do vírus. 
+## Pesquisa usa o método da citometria de fluxo para ampliar a capacidade de diagnosticar a presença do vírus.
 
 A Universidade Federal do Paraná (UFPR) acaba de criar o primeiro teste capaz de fazer a detecção de três anticorpos reativos ao Sars-CovV-2, de maneira simultânea, aumentando e melhorando as chances de um diagnóstico precoce da doença. O produto tem poder de detectar a presença dos anticorpos dos tipos IgG, IgM e IgA, reagentes ao novo coronavírus. O anúncio foi feito poucos dias depois da Universidade Federal de São Carlos (UFScar) apresentar o registro das patentes de dois métodos inéditos de verificação da COVID-19.
 
@@ -31,7 +30,3 @@ Fonte: https://www.gov.br/capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

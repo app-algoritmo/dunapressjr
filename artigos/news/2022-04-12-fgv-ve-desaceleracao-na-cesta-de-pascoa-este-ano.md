@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Aumento foi de 3,93% nos últimos 12 meses.
 
 Pesquisa divulgada pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV) revela que os itens mais consumidos na Páscoa tiveram aumento de 3,93% nos últimos 12 meses, bem abaixo da inflação acumulada entre abril de 2021 e março deste ano pelo Índice de Preços ao Consumidor – Mercado (IPC-M) da FGV, da ordem de 9,18%. O resultado apurado sinaliza também para uma forte desaceleração de preços em comparação ao ano passado, quando a cesta cresceu 25,36%.
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

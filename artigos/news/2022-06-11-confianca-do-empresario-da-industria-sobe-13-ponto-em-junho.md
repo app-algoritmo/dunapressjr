@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice atinge maior nível desde outubro do ano passado.
 
 Apesar da [**queda recente**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-06/atividade-e-nivel-de-emprego-da-industria-caem-em-abril-mostra-cni) da atividade industrial, a confiança do empresário da indústria aumentou e atingiu o maior nível desde outubro do ano passado. Segundo a Confederação Nacional da Indústria (CNI), o Índice de Confiança do Empresário Industrial (Icei) subiu 1,3 ponto em junho, de 56,5 para 57,8.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

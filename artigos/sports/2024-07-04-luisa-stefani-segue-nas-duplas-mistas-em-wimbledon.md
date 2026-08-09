@@ -7,7 +7,6 @@ categories:
 - Sports
 ---
 
-
 ## Paulistana e a holandesa Demi Schuurs foram superadas na primeira rodada, nesta quinta-feira (4), por Nicholis e Mihalikova.
 
 **Julho, 2024 -** Luisa Stefani, número 13 do mundo, e a holandesa Demi Schuurs foram superadas, nesta quinta-feira (4), na estreia de dupla feminina do torneio de Wimbledon, o mais tradicional do tênis, jogado na grama, em Londres. Elas caíram diante da dupla da britânica Olivia Nicholls e da eslovaca Tereza Mihalikova por 2 sets a 0, com parciais de 6/4 e 6/0. A tenista brasileira segue nas duplas mistas com Rafael Matos. Eles enfrentam a parceria do britânico Neal Skupski e da norte-americana Desirae Krawczyk, nesta sexta-feira (5), por volta das 11h30 (horário de Brasília).
@@ -23,13 +22,12 @@ Durante a semifinal do Us Open 2021, Luisa sofreu uma grave lesão no joelho, pa
 ***Mais informações:
 ******Instagram: [https://www.instagram.com/luisastefani/
 ](https://click.presskit.com.br/url/102427766b7/6361388b6fc)******Fanpage: [https://www.facebook.com/LuisaStefani.Tennis
-](https://click.presskit.com.br/url/1024278709d/6361388b6fc)******Marketing/Comercial-Dani Schnaider: +55 19 991072217 - [dani@agenciadeatletas.com.br](https://click.presskit.com.br/url/10242792320/6361388b6fc) 
+](https://click.presskit.com.br/url/1024278709d/6361388b6fc)******Marketing/Comercial-Dani Schnaider: +55 19 991072217 - [dani@agenciadeatletas.com.br](https://click.presskit.com.br/url/10242792320/6361388b6fc)
 ******Gallas Press-Fabrizio Gallas - +55 21 99023-0660 - [fabrizio@gallaspress.com.br
 ](https://click.presskit.com.br/url/10242807b11/6361388b6fc)******Facebook: [https://www.facebook.com/gallaspress
 ](https://click.presskit.com.br/url/1024281e1a7/6361388b6fc)******Instagram: [https://www.instagram.com/fabriziogallas/](https://click.presskit.com.br/url/1024282e213/6361388b6fc)***
 
-***[
-](https://click.presskit.com.br/url/1024282e213/6361388b6fc)******ZDL
+*********ZDL
 ******Doro Jr. - MTb 13209 - 11 984579723 - [dorojr@zdl.com.br
 ](https://click.presskit.com.br/url/10242837033/6361388b6fc)******Deborah Mamone - MTb 15148 - [deborah@zdl.com.br
 ](https://click.presskit.com.br/url/1024284f509/6361388b6fc)******Site: [www.zdl.com.br

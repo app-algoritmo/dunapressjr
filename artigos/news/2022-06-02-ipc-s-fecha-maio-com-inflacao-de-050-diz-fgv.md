@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### A taxa é inferior à do mês anterior (1,08%) e de maio de 2021 (0,81%).
 
 O Índice de Preços ao Consumidor Semanal (IPC-S), calculado pela Fundação Getulio Vargas (FGV), fechou maio deste ano com inflação de 0,50%. A taxa é inferior às observadas no mês anterior (1,08%) e em maio de 2021 (0,81%). Com o resultado, o IPC-S acumula inflação de 10,28% em 12 meses.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

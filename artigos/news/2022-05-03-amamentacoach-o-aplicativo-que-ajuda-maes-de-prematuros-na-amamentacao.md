@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Um aplicativo que ajuda mães de bebês prematuros na hora de amamentar. Esse é o *AmamentaCoach*, projeto criado por Gabriela Ramos Ferreira Curan, durante o primeiro ano de doutorado em Enfermagem. Mestre em Enfermagem, com especialização em Enfermagem Neonatal pela Universidade Estadual de Londrina (UEL), ela fez parte de sua pesquisa no [*The Mothering Transitions Research Group*](http://motheringtransitions.com/team/), laboratório vinculado à Universidade de Toronto (Canadá). A pesquisadora recebeu bolsas dos Programas de Doutorado-Sanduíche ([PDSE](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-de-doutorado-sanduiche-no-exterior-pdse)) e de [Demanda Social ](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-no-pais/programa-de-demanda-social-ds)da CAPES.
 
 **Fale sobre o projeto de pesquisa e o seu desenvolvimento.**
@@ -42,7 +41,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

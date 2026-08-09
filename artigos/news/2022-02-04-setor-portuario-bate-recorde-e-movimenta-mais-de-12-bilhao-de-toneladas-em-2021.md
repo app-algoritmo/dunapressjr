@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Montante representa um crescimento de 4,8% em relação a 2020, com destaque para granéis, carga geral e, principalmente, contêineres.
 
 O setor portuário brasileiro bateu um novo recorde de movimentação de carga em 2021: 1,21 bilhão de toneladas transportadas. O total representa um crescimento de 4,8% em relação a 2020, de acordo com o Anuário Estatístico da Agência Nacional de Transportes Aquaviários (Antaq), divulgado nessa quarta-feira (02/02) com a presença do ministro da Infraestrutura, Tarcísio de Freitas.
@@ -41,8 +40,4 @@ Com informações do [Ministério da Infraestrutura](https://www.gov.br/infraes
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

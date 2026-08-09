@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A contribuição dos fatores de risco vascular para o desenvolvimento da doença de Alzheimer é o tema da pesquisa de João Pedro Ferrari Souza, bolsista do Programa de Doutorado-Sanduíche (PDSE) da CAPES, na *University of Pittsburgh* (EUA). Aos 22 anos ele é aluno de Medicina da Universidade Federal do Rio Grande do Sul (UFRGS) e foi bolsista do programa MD-PhD da Fundação, que lhe permitiu executar o projeto de doutorado, simultaneamente à graduação.
 
 **Fale um pouco sobre o seu projeto de pesquisa.**
@@ -35,7 +34,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

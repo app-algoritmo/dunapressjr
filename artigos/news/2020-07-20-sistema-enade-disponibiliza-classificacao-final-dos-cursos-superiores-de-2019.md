@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 As instituições de educação superior podem consultar a classiﬁcação final dos novos cursos inseridos em 2019 no cadastro e-MEC. O procurador ou coordenador da instituição cadastrado no Sistema e-MEC pode acessar os resultados pelo sistema do Exame Nacional de Desempenho dos Estudantes (Enade), no ambiente da Classiﬁcação Internacional Normalizada da Educação Adaptada para Cursos de Graduação e Sequenciais de Formação Especíﬁca (Cine Brasil).
 
 No módulo “Classificação de Curso Cine Brasil” do Sistema Enade, edição 2019/1, estão disponíveis para consulta os cursos inseridos entre junho de 2019 e 25 de fevereiro de 2020, que foram objetos de manifestação quanto à classificação preliminar entre os dias 25 de maio e 19 de junho.
@@ -26,7 +25,7 @@ Fonte: gov.br / Imagem em destaque: Mv
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

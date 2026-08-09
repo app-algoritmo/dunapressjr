@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 ## A escolha por proteínas alternativas à carne vermelha, deve crescer quatro vezes e alcançar 8% do que é consumido até o fim da década, segundo estudo.
 
 Com a pandemia, 68% dos consumidores acreditam que a preocupação com a sustentabilidade deve ser levada ainda mais em conta, segundo o estudo “Food Trends Report 2021”. A preocupação com o meio ambiente, com a qualidade do alimento e com a saúde são indicativos do que muitos brasileiros buscam atualmente. É nesse sentido que a conscientização do impacto ambiental que a produção de alimentos causa no planeta desperta o interesse em saber o que se consome e entender as etapas do processo. 
@@ -29,7 +28,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

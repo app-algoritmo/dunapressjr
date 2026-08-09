@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Santa Catarina apresenta novamente números expressivos na geração de empregos formais. O Estado teve um saldo positivo de 32.911 vagas em outubro, o melhor desempenho para o mês desde 2004, início da série histórica. Além disso, teve o quarto maior saldo do Brasil, de acordo com dados do Cadastro Geral de Empregados e Desempregados (Caged), do Ministério da Economia, divulgados nesta quinta-feira, 26.
 
 No acumulado do ano, Santa Catarina apresenta o melhor desempenho entre todos os estados, com um saldo de 35.210 carteiras assinadas.
@@ -35,7 +34,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

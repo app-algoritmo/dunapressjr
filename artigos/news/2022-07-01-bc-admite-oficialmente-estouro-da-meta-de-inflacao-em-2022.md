@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Informação consta do Relatório de Inflação do segundo trimestre.
 
 Pelo segundo ano consecutivo, a inflação vai estourar o teto da meta, reconheceu nesta quinta-feira (30) o Banco Central (BC). A informação consta do Relatório de Inflação do segundo trimestre, divulgado nesta quinta-feira.
@@ -20,7 +19,7 @@ Para 2023, o CMN estabeleceu meta de 3,25% para o IPCA, também com 1,5 ponto pe
 
 ### Carta explicativa
 
-Quando o IPCA supera o teto da meta ou fica abaixo do piso, o BC é obrigado a escrever uma carta pública, explicando as razões. O órgão fez isso no início do ano, após o IPCA de 2021 atingir 10,06%, o maior desde 2015 e bastante acima do teto de 5,25% para o ano passado. 
+Quando o IPCA supera o teto da meta ou fica abaixo do piso, o BC é obrigado a escrever uma carta pública, explicando as razões. O órgão fez isso no início do ano, após o IPCA de 2021 atingir 10,06%, o maior desde 2015 e bastante acima do teto de 5,25% para o ano passado.
 
 Na ocasião, o presidente do BC, Roberto Campos Neto,[** atribuiu o estouro do teto da meta **](https://agenciabrasil.ebc.com.br/economia/noticia/2022-01/pandemia-e-crise-hidrica-fizeram-inflacao-estourar-meta-diz-bc)à falta de insumos decorrente da pandemia de covid-19, à alta das commodities (bens primários com cotação internacional) e à crise hídrica que elevou as contas de luz em 2021.
 
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

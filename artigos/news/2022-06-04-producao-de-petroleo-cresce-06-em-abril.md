@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Aumento foi de 0,6% em relação a março.
 
 O Brasil produziu, no último mês de abril, 2,999 milhões de barris diários (Mmbbl/d) de petróleo, com aumento de 0,6% em comparação ao mês anterior. Em relação a abril de 2021, houve expansão de 0,8%. Foram produzidos ainda 137 milhões de metros cúbicos diários (MMm3/d) de gás natural, com elevação de 1,8% em relação a março e de 4,1% na comparação com abril do ano anterior. No total, foram produzidos 3,860 milhões de barris de óleo equivalente por dia (MMboe/d).
@@ -36,14 +35,10 @@ Os campos de acumulações marginais, por sua vez, produziram 372,3 boe/d, sendo
 
 No mês de abril deste ano, a produção nacional foi procedente de 275 áreas concedidas, cinco áreas de cessão onerosa e seis de partilha, operadas por 42 empresas. Dessas áreas, 62 são marítimas e 224 terrestres, sendo 12 relativas a contratos de áreas contendo acumulações marginais. A produção ocorreu em 6.089 poços, dos quais 447 são marítimos e 5.642 terrestres.
 
-O boletim da ANP revela ainda que as bacias maduras terrestres (campos/testes de longa duração das bacias do Espírito Santo, Potiguar, Recôncavo, Sergipe e Alagoas) produziram 91,380 Mboe/d, sendo 68,120 Mbbl/d de petróleo e 3,698 MMm³/d de gás natural. Desse total, 42,9 mil boe/d foram produzidos pela Petrobras e 48,5 mil boe/d foram produzidos por concessões não operadas pela companhia nacional, dos quais: 19.884 na Bahia, 19.649 no Rio Grande do Norte, 7.312 em Alagoas, 1.477 no Espírito Santo e 178 boe/d em Sergipe. 
+O boletim da ANP revela ainda que as bacias maduras terrestres (campos/testes de longa duração das bacias do Espírito Santo, Potiguar, Recôncavo, Sergipe e Alagoas) produziram 91,380 Mboe/d, sendo 68,120 Mbbl/d de petróleo e 3,698 MMm³/d de gás natural. Desse total, 42,9 mil boe/d foram produzidos pela Petrobras e 48,5 mil boe/d foram produzidos por concessões não operadas pela companhia nacional, dos quais: 19.884 na Bahia, 19.649 no Rio Grande do Norte, 7.312 em Alagoas, 1.477 no Espírito Santo e 178 boe/d em Sergipe.
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

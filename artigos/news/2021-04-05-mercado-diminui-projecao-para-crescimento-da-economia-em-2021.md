@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Expectativa para o PIB varia de 3,18% para 3,17%.
 
 A previsão do mercado financeiro para o crescimento da economia brasileira este ano caiu de 3,18% para 3,17%. Esta é a quinta semana seguida de redução da projeção do Produto Interno Bruto (PIB) - a soma de todos os bens e serviços produzidos no país. A estimativa está no boletim Focus de hoje (5), pesquisa divulgada semanalmente pelo Banco Central (BC) com a projeção para os principais indicadores econômicos.
@@ -32,10 +31,6 @@ No caso do dólar, a expectativa do mercado é que cotação ao fim deste ano se
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. 
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio!  
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

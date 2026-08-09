@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Uma pesquisa liderada por cientistas brasileiros poderá fazer com que os seres humanos, assim como as salamandras, tenham a capacidade de regenerar membros perdidos e até a medula espinhal danificada. Não é para já, mas o caminho está aberto. Eles estudaram o programa genético que dá a esses anfíbios e a algumas espécies de peixe essa incrível característica, que faz renascer pernas e nadadeiras, quando amputadas, e descobriram um grupo de genes que dá início a esse processo.
 
 O trabalho foi coordenado pelo biólogo Igor Schneider e seu grupo de pesquisa do Laboratório de Evolução e Desenvolvimento (LED), da Universidade Federal do Pará (UFPA), e contou ainda com a participação de cientistas do Instituto Tecnológico Vale, do Museu Paraense Emilio Goeldi (MPEG), do Museu de História Natural de Berlin, da Alemanha, da James Madison University da Michigan State University, ambas dos Estados Unidos. "Começamos o estudo em 2015, quando iniciamos o sequenciamento dos genes que salamandras e peixes ativam durante a regeneração, e concluímos este ano", conta o pesquisador brasileiro.
@@ -42,7 +41,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

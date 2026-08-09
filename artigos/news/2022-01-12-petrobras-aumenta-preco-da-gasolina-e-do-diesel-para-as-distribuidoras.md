@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Preço da gasolina sobe de R$ 3,09 para R$ 3,24, por litro.
 
 A partir desta quarta-feira (12), depois de 77 dias sem aumentos, a Petrobras fará ajustes nos seus preços de venda de gasolina e diesel para as distribuidoras. O anúncio foi feito nesta terça-feira (11) pela companhia, em nota à imprensa.
@@ -26,10 +25,6 @@ A companhia reiterou seu compromisso com a prática de preços competitivos e em
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

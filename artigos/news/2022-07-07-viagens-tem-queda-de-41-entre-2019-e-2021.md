@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Informação é da Pnad Contínua Turismo 2020-2021, do IBGE.
 
 Em 2019, os brasileiros fizeram 20,9 milhões de viagens; em 2020, 13,6 milhões, e em 2021, 12,3 milhões. O número de viagens caiu 41% entre 2019 e 2021. Em 2020, 98% das viagens foram nacionais e, no ano passado, esse percentual foi de 99,3%. O índice de viagens internacionais caiu de 3,8% em 2019 para 0,7% em 2021.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

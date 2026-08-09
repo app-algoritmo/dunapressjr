@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A COVID-19, doença causada pelo novo coronavírus (SARS-CoV-2), é responsável pela crise global de saúde mais importante desde a gripe espanhola em 1918. No entanto, a severidade da doença varia consideravelmente de pessoa para pessoa. Por exemplo, muitos desenvolvem sintomas semelhantes a uma gripe leve, enquanto alguns apresentam forte crise respiratória que pode levar à morte.
 
 O estudo do SARS-CoV-2 e da COVID-19 tem ajudado a entender melhor quais são os mecanismos que levam essa infecção viral a causar tantos danos no sistema respiratório de certos pacientes. Particularmente, a doença parece ser mais agressiva em idosos, ou pessoas com doenças como diabetes, obesidade, problemas renais, pulmonares ou cardíacos.
@@ -28,6 +27,6 @@ Fonte canalciencia.ibict.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

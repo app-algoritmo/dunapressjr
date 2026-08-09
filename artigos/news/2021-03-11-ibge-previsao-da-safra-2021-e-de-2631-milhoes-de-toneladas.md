@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Soja teve aumento e continua batendo recordes.
 
 O total de cereais, leguminosas e oleaginosas produzido no país este ano deve atingir 263,1 milhões de toneladas. A safra nacional de grãos para 2021 deve ficar 9 milhões de toneladas acima da safra de 2020, com crescimento de 3,5% em relação ao ano passado, que já havia sido recorde na série histórica da pesquisa que teve início na década de 70.
@@ -36,8 +35,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

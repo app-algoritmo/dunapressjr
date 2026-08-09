@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Com o resultado fica registrado a maior alta no índice relativo do País.
 
 No mês de novembro, o mercado de trabalho paraibano foi novamente destaque no cenário nacional, registrando saldo de 10.178 vagas com carteira assinada, com alta de 2,49% sobre os estoques de empregos sobre o mês outubro, o que representou o maior índice de crescimento do País. No último mês, o Estado criou 17.669 novas vagas contra 7.491 desligamentos, o que resultou em 10.178 vagas de saldo. Os dados são da Secretaria Especial de Previdência e Trabalho do Ministério da Economia, com base no Novo Cadastro Geral de Empregados e Desempregados (Novo Caged).
 
-Mesmo com as adversidades causadas pela pandemia na atividade econômica, o segundo semestre tem sido de retomada de empregos na Paraíba. Todos os meses do segundo semestre registraram saldos positivos: julho (1.512), agosto (9.649), setembro (1.933), outubro (1.437) e, no último mês de novembro, com 10.178 vagas. Novembro também registrou o maior saldo do ano e o quinto mês seguido de alta. No acumulado de janeiro a novembro, a Paraíba já reverteu a perda causada pela pandemia da Covid-19 e registra agora saldo de 4.263, alta de 1,03% sobre o estoque. 
+Mesmo com as adversidades causadas pela pandemia na atividade econômica, o segundo semestre tem sido de retomada de empregos na Paraíba. Todos os meses do segundo semestre registraram saldos positivos: julho (1.512), agosto (9.649), setembro (1.933), outubro (1.437) e, no último mês de novembro, com 10.178 vagas. Novembro também registrou o maior saldo do ano e o quinto mês seguido de alta. No acumulado de janeiro a novembro, a Paraíba já reverteu a perda causada pela pandemia da Covid-19 e registra agora saldo de 4.263, alta de 1,03% sobre o estoque.
 
 ## **Setores de maiores crescimento**
 
@@ -20,7 +19,7 @@ Os setores da economia do Estado que mais contribuíram para o saldo positivo de
 
 ## **Paraíba é destaque em cenário nacional**
 
-A Paraíba gerou o maior crescimento relativo sobre o estoque de empregos (2,49%), seguido de Roraima (2,09%) e mais abaixo os estados de Santa Catarina (1,56%) e o Ceará (1,44%).  A taxa de crescimento da Paraíba foi responsável por elevar a média do Nordeste 1,11% e ficou bem acima do País (1,07%), que também bateu recorde de crescimento.  
+A Paraíba gerou o maior crescimento relativo sobre o estoque de empregos (2,49%), seguido de Roraima (2,09%) e mais abaixo os estados de Santa Catarina (1,56%) e o Ceará (1,44%).  A taxa de crescimento da Paraíba foi responsável por elevar a média do Nordeste 1,11% e ficou bem acima do País (1,07%), que também bateu recorde de crescimento.
 
 Em valores absolutos, a Paraíba com 10.178 vagas gerou o quarto maior saldo do Nordeste, atrás apenas das três maiores economias e população da Região: Ceará (16.428); Bahia (13.881) e Pernambuco (13.754).
 
@@ -34,8 +33,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

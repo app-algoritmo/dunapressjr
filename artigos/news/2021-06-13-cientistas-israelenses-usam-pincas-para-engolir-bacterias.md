@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Os criadores preveem que as pessoas tomarão comprimidos contendo milhões dessas moléculas, capazes de quebrar as defesas que os germes constroem ao seu redor.
 
 Cientistas israelenses desenvolveram minúsculas "pinças" capazes de quebrar as defesas que as bactérias constroem para resistir ao sistema imunológico humano.
@@ -47,7 +46,3 @@ Fonte: timesofisrael.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

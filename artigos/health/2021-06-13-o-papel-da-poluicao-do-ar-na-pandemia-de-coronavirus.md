@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Obesidade, hipertensão e diabetes são fatores de risco conhecidos. Mas os pobres que vivem em cidades do interior têm outro risco a enfrentar.
 
 Desde o início da pandemia de coronavírus, figuras proeminentes apareceram na mídia para transmitir ao público em geral a mensagem supostamente comovente de que “estamos todos juntos nisso”. Ricos e pobres, eles nos disseram, eram suscetíveis, e somente nos unindo e fazendo sacrifícios pelo “bem maior” sairíamos da crise.
@@ -41,7 +40,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

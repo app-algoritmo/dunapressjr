@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Portal do Ministério da Educação (MEC) está de cara nova. Para unificar conteúdos, centralizar serviços e simplificar a vida do cidadão, o portal passa a integrar a plataforma única do governo federal, gov.br.
 
 Com isso, para acessar as notícias, conteúdos institucionais, informações de transparência, serviços, programas da educação, o **novo endereço é o [gov.br/mec](http://intramec.mec.gov.br/gov.br/mec)**.
@@ -25,8 +24,6 @@ Já integram a plataforma, o Ministério da Economia, Planalto, Secretaria Geral
 Com a centralização de cerca de 1.600 sites do Governo Federal, o portal gov.br vai gerar uma economia estimada de R$ 100 milhões ao ano, com custos de manutenção e desenvolvimento.
 
 Fonte: gov.br/mec / Imagem em destaque: Mec
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

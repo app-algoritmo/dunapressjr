@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Taxa é maior do que a registrada em maio.
 
 O Índice Nacional de Preços ao Consumidor Amplo (IPCA), que mede a inflação oficial, registrou 0,67% em junho deste ano. A taxa é superior ao 0,47% de maio e ao 0,53% de junho de 2021. Os dados são do Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

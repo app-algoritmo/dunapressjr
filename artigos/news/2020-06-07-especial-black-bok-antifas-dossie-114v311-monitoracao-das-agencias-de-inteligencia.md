@@ -8,16 +8,13 @@ categories:
 - News
 ---
 
-
 Matar policiais, assassinar e agredir indefesos, depredar,  disseminar o ódio, subverter, destruir e enganar, são apenas umas das poucas características dos grupos comunio-ultra socialistas promovedores do terror existentes em algumas sociedades, entre elas a do Brasil.
 
-O acesso aos informes dos serviços de inteligência nos possibilita divulgar por este meio, os dados de monitoração dos elementos que estão ou incentivam e promovem atos anti-democráticos de caracter terrorista.  
+O acesso aos informes dos serviços de inteligência nos possibilita divulgar por este meio, os dados de monitoração dos elementos que estão ou incentivam e promovem atos anti-democráticos de caracter terrorista.
 
 ## Caras, nomes, redes e organizações.
 
-Acompanhe a série especial com o dossiê Black Bok - Antifas com mais de 1700 agentes do terror em [Press Magazine](https://dunapress.org/subscription-plan/?aff=barrosprojectmanager)
-
-[](https://dunapress.org/subscription-plan/?aff=barrosprojectmanager)
+Acompanhe a série especial com o dossiê Black Bok - Antifas com mais de 1700 agentes do terror em [Press Magazine](https://dunapress.org/subscription-plan/)
 
 ## Ver também
 

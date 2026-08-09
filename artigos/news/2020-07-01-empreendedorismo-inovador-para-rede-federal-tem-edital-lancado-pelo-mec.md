@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Saber empreender é uma das competências que podem fazer a diferença na vida profissional. Para promover o tema entre os estudantes da Rede Federal de Educação Profissional, o Ministério da Educação (MEC) lançou o edital “Empreendedorismo Inovador”, que faz parte do Programa Novos Caminhos e vai selecionar 60 projetos a serem executados ao longo dos dois próximos anos.
 
-[Acesse aqui o edital](https://www.ifes.edu.br/chamadas-publicas/19384-chamada-publica-05-2020-selecao-de-projetos-de-apoio-ao-empreendedorismo-inovador-com-foco-na-economia-4-0.) 
+[Acesse aqui o edital](https://www.ifes.edu.br/chamadas-publicas/19384-chamada-publica-05-2020-selecao-de-projetos-de-apoio-ao-empreendedorismo-inovador-com-foco-na-economia-4-0.)
 
 O desafio para as equipes participantes é grande, pois o desenvolvimento de um novo negócio deve ser somado com inovação, ou seja, um plano de negócios integrado a um projeto de Pesquisa, Desenvolvimento e Inovação (PD&I). Segundo o edital, o enfoque desses projetos deve ser o desenvolvimento de soluções tecnológicas (produto, processo, serviço ou modelo de negócio) alinhadas às demandas da economia 4.0.
 
@@ -24,7 +23,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

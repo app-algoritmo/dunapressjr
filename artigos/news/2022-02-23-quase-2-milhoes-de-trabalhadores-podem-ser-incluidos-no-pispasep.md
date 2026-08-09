@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dataprev está revisando inconsistências nos dados da Rais.
 
 Cerca de 1,9 milhão de trabalhadores podem ser incluídos no cadastro do Programa de Integração Social (PIS) e no Programa de Formação do Patrimônio do Servidor Público (Pasep) para passarem a receber o abono salarial. A Dataprev, empresa estatal de tecnologia, está revisando possíveis inconsistências na Relação Anual de Informações Sociais (Rais) até 15 de março.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

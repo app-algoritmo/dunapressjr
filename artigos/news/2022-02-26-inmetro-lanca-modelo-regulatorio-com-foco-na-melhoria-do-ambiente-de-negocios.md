@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Iniciativa é alicerçada na Lei de Liberdade Econômica.
 
 O Instituto Nacional de Metrologia, Qualidade e Tecnologia (Inmetro), autarquia vinculada ao Ministério da Economia, lançou nesta sexta-feira (25/2) modelo regulatório, com regras alinhadas às melhores práticas de regulamentação e fiscalização internacionais, compatíveis com a Lei de Liberdade Econômica e com a nova ordem econômica global da Indústria 4.0. A iniciativa, inédita no país, visa eliminar custos adicionais ao setor produtivo, facilitar o crescimento de pequenas empresas e incentivar a inovação.
@@ -30,8 +29,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

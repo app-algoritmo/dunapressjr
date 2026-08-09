@@ -7,7 +7,6 @@ categories:
 - Chronicle
 ---
 
-
 -O filme Matrix foi lançado em 1999 e, na época, poucas pessoas entenderam o que realmente quis dizer o filme e o quanto seria atual mesmo após mais de 20 anos. Graças as técnicas de cinema utilizadas, a visão e percepção de tudo que vivemos hoje ainda, o filme foi e é algo inovador, presente e com vários significados importante de sabermos.
 
 No filme o personagem principal teria que escolher entre tomar a pílula vermelha ou a azul. Tomar a pílula vermelha é uma frase que já se tornou difundida no cotidiano de muitos, também graças ao filme, pois a película permanece tão popular quanto há duas décadas atrás.
@@ -37,5 +36,3 @@ Contudo, há várias táticas que nos cercam para que fiquemos sempre presos à 
 Fonte da imagem: ovinihoje.com
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

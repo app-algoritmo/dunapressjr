@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Ciência, Tecnologia e Inovações (MCTI) tem atuado em diferentes ações para o combate a Covid-19. O titular da pasta, Marcos Pontes, detalhou que, entre elas, está o financiamento de pesquisas para a busca de uma vacina contra a doença, o uso da tecnologia do novo acelerador de elétrons brasileiro, o Sirius, para pesquisar a estrutura do vírus e testes clínicos com um medicamento.
 
 “O Brasil participa junto com outros países na busca de vacinas para o coronavírus. Temos desenvolvimentos sendo feitos em vários países, mas, aqui no Brasil, nós temos 15 protocolos diferentes financiados pelo MCTI buscando essa vacina no Brasil”, explicou Pontes.
@@ -34,6 +33,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

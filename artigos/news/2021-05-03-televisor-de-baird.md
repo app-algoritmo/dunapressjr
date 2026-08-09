@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dando continuidade à série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre o televisor de Baird e conhecer um pouco da história da televisão e sua evolução até chegar à televisão eletrônica.
 
 Apesar da televisão ter sido resultado de uma série de descobertas sucessivas, aquele que é conhecido como o pai do aparelho é o norte-americano Philo Farnsworth, que por sinal foi um dos protagonistas no desenvolvimento da televisão eletrônica. Mas foi através de Baird que ocorreu a grande revolução na comunicação.
@@ -30,7 +29,7 @@ Recebeu diversas ofertas tentadoras para vender sua patente, uma delas foi de Vl
 
 Em 1937 Farnsworth fundou sua própria empresa, a Farnsworth Television, e fez parcerias com diversas empresas, e em 1939 a companhia também passou a fabricar rádios.
 
-Dez anos mais tarde, a Farnsworth Television foi capaz de fabricar o primeiro aparelho de televisão de modo inteiramente autônomo. 
+Dez anos mais tarde, a Farnsworth Television foi capaz de fabricar o primeiro aparelho de televisão de modo inteiramente autônomo.
 
 Com problemas financeiros, em 1949 a companhia foi comprada pela International Telephone and Telegraph (IT&T) e se transformou em Capehart-Farnsworth, que seguiu produzindo televisões até 1965.
 
@@ -78,10 +77,6 @@ Mas o desenvolvimento da televisão eletrônica foi concluído com a combinaçã
 
 [Primeira demonstração do "aparelho" das imagens em direto foi há 90 anos.](https://www.dn.pt/media/primeira-demonstracao-do-aparato-que-dava-imagens-foi-ha-90-anos-4999697.html) Acesso em 31 de mar. de 2021.
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

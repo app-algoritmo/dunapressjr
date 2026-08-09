@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estudantes do ensino médio de escolas públicas têm agora até 31 de julho para enviar seus desenhos inspirados na Bandeira Nacional.
 
 O Fundo Nacional de Desenvolvimento da Educação (FNDE), autarquia vinculada ao Ministério da Educação (MEC), prorrogou para 31 de julho as inscrições do concurso Sua Arte no Livro Didático. O prazo estava previsto para terminar na segunda-feira, 15 de junho, mas a autarquia resolveu estender o calendário para não prejudicar os estudantes que passam por um ritmo diferenciado de aulas, devido à pandemia de coronavírus. A alteração foi publicada no **[Diário Oficial da União (DOU)](https://www.fnde.gov.br/index.php/centrais-de-conteudos/publicacoes/category/165-editais?download=13928:retificacao-edital-concurso-livro-160620)** desta terça-feira, 16.
@@ -31,5 +30,3 @@ Os cinco primeiros colocados do concurso, um de cada região do Brasil, vão gan
 Fonte: gov.br/mec / Imagem em destaque: infoescola.com
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

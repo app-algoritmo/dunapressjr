@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Investimentos diretos no país somaram US$ 4,6 bilhões no mês passado.
 
 As contas externas tiveram saldo negativo de US$ 6,522 bilhões em novembro, informou nesta quarta-feira (22), em Brasília, o Banco Central (BC). No mesmo mês de 2020, o déficit foi de US$ 2,463 bilhões nas transações correntes, que são as compras e vendas de mercadorias e serviços e transferências de renda com outros países.
@@ -24,7 +23,7 @@ Para dezembro de 2021, a estimativa do BC para o resultado em transações corre
 
 ## Balança comercial e serviços
 
-As exportações de bens totalizaram US$ 20,523 bilhões em novembro, aumento de 17,1% em relação a igual mês de 2020. As importações somaram US$ 23,058 bilhões, incremento de 45,6% na comparação com novembro do ano passado. 
+As exportações de bens totalizaram US$ 20,523 bilhões em novembro, aumento de 17,1% em relação a igual mês de 2020. As importações somaram US$ 23,058 bilhões, incremento de 45,6% na comparação com novembro do ano passado.
 
 Com esses resultados, a balança comercial fechou com déficit de US$ 2,535 bilhões no mês passado, ante saldo positivo de US$ 1,685 bilhão em novembro de 2020. Isso se deve à retomada do dinamismo da atividade econômica interna, aumentando o déficit em transações correntes.
 
@@ -40,10 +39,6 @@ No caso das viagens internacionais, as receitas de estrangeiros em viagem ao Bra
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Também foram registrados defensivos agrícolas genéricos, incluindo produtos biológicos.
 
 O Ministério da Agricultura, Pecuária e Abastecimento (Mapa) [publicou nesta terça-feira](http://www.in.gov.br/en/web/dou/-/ato-n-36-de-5-de-junho-de-2020-261696009) (16) o registro de dois defensivos agrícolas bioquímicos inéditos. Os dois produtos foram classificados no menor grau de toxicidade existente pela Agência Nacional de Vigilância Sanitária (Anvisa). Em 2020, já foram registrados 26 produtos biológicos.
@@ -30,10 +29,8 @@ Os produtos que utilizam agentes de controle biológicos ou bioquímicos na sua 
 
 O Mapa segue comprometido em estimular o uso de produtos biológicos e microbiológicos por parte dos agricultores. Uma das ações desenvolvidas consiste na priorização das análises de produtos de baixo impacto para que aumente o número de registro desses produtos, o que gera menor concentração de mercado, preços mais competitivos e maior acesso dos agricultores aos produtos de baixo impacto.
 
-Recentemente, também [foi lançado o Programa Nacional de Bioinsumos](https://www.gov.br/agricultura/pt-br/assuntos/noticias/programa-nacional-de-bioinsumos-e-lancado-e-vai-impulsionar-uso-de-recursos-biologicos-na-agropecuaria-brasileira), para incentivar a utilização de recursos biológicos na agropecuária brasileira. 
+Recentemente, também [foi lançado o Programa Nacional de Bioinsumos](https://www.gov.br/agricultura/pt-br/assuntos/noticias/programa-nacional-de-bioinsumos-e-lancado-e-vai-impulsionar-uso-de-recursos-biologicos-na-agropecuaria-brasileira), para incentivar a utilização de recursos biológicos na agropecuária brasileira.
 
 Fonte: gov.br/agricultura / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

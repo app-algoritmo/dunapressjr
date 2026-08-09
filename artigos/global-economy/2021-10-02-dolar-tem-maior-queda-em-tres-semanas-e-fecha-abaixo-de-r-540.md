@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Bolsa de valores sobe 1,73% e quase zera queda da semana
 
 Em um dia de alívio no mercado internacional, o dólar teve a maior queda diária em três semanas e voltou a fechar abaixo de R$ 5,40. A bolsa de valores subiu quase 2% e praticamente zerou a queda acumulada na semana.
@@ -24,10 +23,6 @@ No Brasil, a atuação de ontem do Banco Central, que leiloou US$ 500 milhões d
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

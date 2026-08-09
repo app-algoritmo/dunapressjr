@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Na comparação com outubro de 2020, queda é de 7,8%.
 
 A produção industrial nacional recuou 0,6% na passagem de setembro para outubro deste ano. É a quinta queda consecutiva do indicador, que acumula perda de 3,7% no período. Os dados da Pesquisa Industrial Mensal foram divulgados nesta sexta-feira (3), no Rio de Janeiro, pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -30,10 +29,6 @@ Os bens de capital, isto é, as máquinas e equipamentos usados no setor produti
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 De acordo com a Organização Mundial de Saúde (OMS), a doença acomete cerca de 2% da população brasileira e cerca de 50 milhões de pessoas no mundo. A epilepsia é uma alteração temporária e reversível do funcionamento do cérebro, que não é causada por febre, drogas ou distúrbios metabólicos. Durante alguns segundos ou minutos, uma parte do cérebro emite sinais incorretos, que podem ficar restritos a esse local ou espalhar-se.
 
 Se ficarem restritos, a crise será chamada parcial; se envolverem os dois hemisférios cerebrais, generalizada. Por isso, algumas pessoas podem ter sintomas relativamente evidentes de epilepsia, não significando que o problema tenha menos importância se a crise não for tão aparente.
@@ -59,7 +58,3 @@ Fonte: https://www.gov.br/saude
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

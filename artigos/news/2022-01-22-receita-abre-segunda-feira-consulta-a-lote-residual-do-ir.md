@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Mais de 240 mil contribuintes receberão crédito bancário no dia 31.
 
 Contribuintes que caíram na malha fina da Receita Federal nos últimos anos por inconsistências nas declarações do Imposto de Renda, mas que acertaram as pendências com o Leão, poderão consultar o lote residual de restituições a partir das 9h da próxima segunda-feira (24).
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

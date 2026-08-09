@@ -7,22 +7,21 @@ categories:
 - News
 ---
 
-
 ## Operação cumpre mandados em São Paulo, Brasília e Mossoró.
 
 O Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco), do Ministério Público do Estado de São Paulo (MPSP), deflagrou hoje (18) operação para desarticular a célula jurídica da organização criminosa que atua no estado, a chamada Primeiro Comando da Capital (PCC). A Operação Fast Track, com o apoio da Polícia Militar, cumpre 13 mandados de prisão e 23 mandados de busca e apreensão.
 
-A ação foi deflagrada para interromper a comunicação entre integrantes da organização que estavam presos com os que estão em liberdade, feita por intermédio de advogados pagos com recursos obtidos por meio do tráfico de drogas. 
+A ação foi deflagrada para interromper a comunicação entre integrantes da organização que estavam presos com os que estão em liberdade, feita por intermédio de advogados pagos com recursos obtidos por meio do tráfico de drogas.
 
 O principal alvo da operação foi B.F.LF., conhecido como Armani, que, depois da transferência da cúpula da organização para presídios diferentes, visando impedir que eles continuassem a transmitir ordens de dentro dos presídios, foi nomeado o comandante nacional da Célula Setor do Universo.
 
 “Armani contratou advogados com atuação em diversas regiões do território nacional, com a finalidade de permitir que os chefes do PCC, presos, continuassem a se comunicar com integrantes da facção em liberdade. Por meio de atendimentos presenciais, os advogados contratados levavam informações aos líderes e recebiam ordens que deveriam ser transmitidas a outros criminosos”, explicou o MPSP.
 
-Tratamentos médicos milionários 
+Tratamentos médicos milionários
 
-Acrescentou que outra função de Armani na gestão do chamado Setor do Universo era custear tratamentos médicos milionários para os membros de cúpula do PCC. Diante de um problema oftalmológico apresentado por um dos líderes da organização, Armani autorizou pagamentos no valor de R$ 72 mil. O Setor do Universo providenciava também estadia e casas de apoio para familiares de presos nas penitenciárias federais. 
+Acrescentou que outra função de Armani na gestão do chamado Setor do Universo era custear tratamentos médicos milionários para os membros de cúpula do PCC. Diante de um problema oftalmológico apresentado por um dos líderes da organização, Armani autorizou pagamentos no valor de R$ 72 mil. O Setor do Universo providenciava também estadia e casas de apoio para familiares de presos nas penitenciárias federais.
 
-Ainda segundo o MPSP, os advogados também intermediavam o pagamento de propinas a policiais, transmitiam cobranças de dívidas e até ameaças de morte a mando da organização. 
+Ainda segundo o MPSP, os advogados também intermediavam o pagamento de propinas a policiais, transmitiam cobranças de dívidas e até ameaças de morte a mando da organização.
 
 “Não raro, os próprios advogados se envolviam em disputas que eram solucionadas pelo sistema de disciplina da facção, mediante o exercício de poderes de decisão por Armani, indicando inserção na estrutura hierárquico-piramidal do PCC”, disse o MPSP.
 
@@ -41,5 +40,3 @@ Equipes do Ministério Público de São Paulo estiveram em Rondônia. Houve, tam
 Fonte: Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

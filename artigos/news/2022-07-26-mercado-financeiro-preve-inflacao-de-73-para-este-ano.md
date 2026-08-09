@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Expectativa é que em 2023 o índice caia para 5,3%, diz BC.
 
 Pela quarta semana seguida, o mercado financeiro projeta inflação menor neste ano. Segundo o Boletim Focus, divulgado nesta segunda-feira (25) pelo Banco Central (BC), o Índice de Preços ao Consumidor Amplo (IPCA) deve fechar o ano em 7,3%, ante aos 7,54% projetados há uma semana; e aos 8,27% estimados há quatro semanas.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

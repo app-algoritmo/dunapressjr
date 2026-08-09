@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ### Guedes fez palestra na Expert XP 2022, em São Paulo.
 
-O ministro da Economia, Paulo Guedes, disse nesta quarta-feira (3) que o teto de gastos é “retrátil” e pode ser levantado em caso de pandemia ou guerra. O ministro admitiu que o governo furou o limite de gastos para implementar o aumento do valor no Auxílio Brasil, mas que a ação não foi para “aumentar o estado”, mas para proteger os mais frágeis. 
+O ministro da Economia, Paulo Guedes, disse nesta quarta-feira (3) que o teto de gastos é “retrátil” e pode ser levantado em caso de pandemia ou guerra. O ministro admitiu que o governo furou o limite de gastos para implementar o aumento do valor no Auxílio Brasil, mas que a ação não foi para “aumentar o estado”, mas para proteger os mais frágeis.
 
 “Vocês violaram o teto? A resposta é sim, nós violamos o teto. O teto é para impedir o crescimento do governo, porque nós somos liberais e nós queremos reduzir o peso do governo. Então, o teto é para não deixar subir o governo. Aí chega uma doença, eu tenho que transferir dinheiro para as pessoas. Eu estou fazendo o governo crescer? Não, eu estou dando um auxílio para os mais frágeis”, disse Guedes em palestra na Expert XP 2022, na capital paulista.
 
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

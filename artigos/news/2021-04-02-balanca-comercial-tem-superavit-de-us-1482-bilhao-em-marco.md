@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado é o mais baixo para o mês em seis anos.
 
 A importação de plataformas de petróleo fez a balança comercial (diferença entre exportações e importações) registrar o menor resultado para meses de março em seis anos. No mês passado, o Brasil exportou US$ 1,482 bilhão a mais do que importou. O valor é 63% inferior ao de março do ano passado, pelo critério da média diária, e representa o saldo mais baixo para o mês desde 2015.
@@ -38,10 +37,6 @@ De acordo com o Ministério da Economia, a forte alta no preço das *commodities
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
-Obrigado pelo apoio!  
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

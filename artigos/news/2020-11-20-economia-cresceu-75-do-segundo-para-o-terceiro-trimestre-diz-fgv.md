@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No mesmo período de 2019, houve uma queda de 4,4%.
 
 O Produto Interno Bruto (PIB), que é a soma de todos os bens e serviços produzidos no país, teve crescimento de 7,5% no terceiro trimestre deste ano, na comparação com o segundo trimestre. O dado é do Monitor do PIB, da Fundação Getulio Vargas (FGV), divulgado nesta quarta-feira (19).
@@ -29,5 +28,3 @@ Na comparação com o segundo trimestre deste ano, o consumo das famílias recuo
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

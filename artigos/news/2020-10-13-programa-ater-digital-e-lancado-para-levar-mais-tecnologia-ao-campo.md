@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Levar mais tecnologia para o campo. Com esse objetivo foi lançado, nesta quinta-feira (8), o Ater Digital, do Ministério da Agricultura, Pecuária e Abastecimento. A iniciativa vai oferecer novas ferramentas de assistência técnica digital aos agricultores.
 
-Na prática, o programa foi criado para trazer serviços mais modernos ao setor, por meio de Tecnologias da Informação e Comunicação; garantir agilidade e acesso mais rápido aos conhecimentos sobre produção agrícola, pesquisas de extensão rural e assistência técnica; e incentivar a produtividade e competitividade da agricultura brasileira. Para isso, o Ministério da Agricultura vai destinar, num primeiro momento, R$ 40 milhões. 
+Na prática, o programa foi criado para trazer serviços mais modernos ao setor, por meio de Tecnologias da Informação e Comunicação; garantir agilidade e acesso mais rápido aos conhecimentos sobre produção agrícola, pesquisas de extensão rural e assistência técnica; e incentivar a produtividade e competitividade da agricultura brasileira. Para isso, o Ministério da Agricultura vai destinar, num primeiro momento, R$ 40 milhões.
 
 Segundo a ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina, o Ater Digital vai ajudar o Governo Federal a levar políticas públicas ao pequeno produtor.
 
@@ -47,5 +46,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Câmara dos Deputados concluiu nesta quinta-feira (19) a votação do projeto de lei que regulamenta a prática da educação domiciliar no Brasil, prevendo a obrigação do poder público de zelar pelo adequado desenvolvimento da aprendizagem do estudante. A matéria será enviada ao Senado.
 
 O texto aprovado é um substitutivo da deputada [Luisa Canziani (PSD-PR)](https://www.camara.leg.br/deputados/204410) para o Projeto de Lei 3179/12, do deputado [Lincoln Portela (PL-MG)](https://www.camara.leg.br/deputados/74585). Para usufruir da educação domiciliar (também chamada pelo termo em inglês, *homeschooling*), o estudante deve estar regularmente matriculado em instituição de ensino, que deverá acompanhar a evolução do aprendizado.
@@ -95,7 +94,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

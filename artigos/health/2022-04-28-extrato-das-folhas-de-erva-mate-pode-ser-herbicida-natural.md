@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A erva-mate, tradicionalmente consumida como chá mate, chimarrão ou tereré no Brasil, pode ganhar uma nova destinação. Foi o que apontou o estudo realizado por Fernanda Bruxel, bióloga, durante o mestrado em Biotecnologia, na Universidade do Vale do Taquari (Univates). Sua pesquisa mostrou que a erva-mate possui potencial para ser um herbicida natural.
 
 A investigação avaliou os efeitos tóxicos dos extratos aquosos, obtidos de folhas de erva-mate, sobre a buva, espécie de planta invasora, que infesta as lavouras brasileiras. “Preparamos dois métodos de obtenção do extrato: uma técnica de infusão e outra de decocção utilizando água fervente”, esclarece Fernanda.
@@ -29,7 +28,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Mandados ocorrem em Goiânia, Brasília e no estado de São Paulo.
 
 Policiais federais cumprem hoje (6) seis mandados de prisão e onze de busca e apreensão no Rio de Janeiro, São Paulo, Goiás e Distrito Federal. Os alvos são empresários e agentes públicos suspeitos de fazer contratações irregulares para serviços públicos, especialmente na área da saúde. Até as 7h de hoje, três pessoas já tinham sido presas, de acordo com a Polícia Federal (PF).
@@ -20,4 +19,4 @@ Os mandados judiciais, expedidos pela 7ª Vara Federal Criminal do Rio de Janeir
 
 Fonte: Agência Brasil – Imagem de destaque: Arquivo/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

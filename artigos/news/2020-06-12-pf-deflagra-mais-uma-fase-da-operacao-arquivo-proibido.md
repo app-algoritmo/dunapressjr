@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Fortaleza/CE – A Polícia Federal deflagrou nesta sexta-feira (12/6) mais uma fase da Operação Arquivo Proibido, com o objetivo de combater a posse e/ou divulgação de imagens e/ou vídeos de pornografia infantojuvenil pela internet.
 
 Policias federais cumpriram dois mandados de busca e apreensão expedidos pela Justiça Federal do Ceará, nos municípios de Massapê e Meruoca. As investigações são oriundas de inquéritos instaurados pela PF no combate aos crimes previstos no Estatuto da Criança e do Adolescente-ECA.
@@ -19,5 +18,3 @@ Na quinta-feira, 4/6, no âmbito da Operação Arquivo Proibido, foram cumpridos
 Na terça-feira, 2/6, a PF cumpriu um mandado de prisão expedido pela 11ª Vara da Justiça Federal, com a captura de um homem, de 42 anos, condenado pelo crime de armazenamento e divulgação de pornografia infantojuvenil.
 
 Comunicação Social da Polícia Federal no Ceará
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

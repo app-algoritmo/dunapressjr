@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Prazo maior pode diluir valor das parcelas do imóvel ao longo do tempo.
 
 A Caixa Econômica iniciou a partir desta quinta-feira (1º), novo prazo para financiamento imobiliário do programa Casa Verde e Amarela (CVA). Agora, o pagamento pode ser feito em até 35 anos. Antes o limite era de 30 anos.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

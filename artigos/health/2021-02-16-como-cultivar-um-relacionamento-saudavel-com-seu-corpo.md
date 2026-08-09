@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Precisamos falar sobre o peso saudável, mas também precisamos lembrar que essa deve ser a consequência de um projeto de qualidade de vida e não uma finalidade restrita a um número na balança ou a uma forma inatingível. A preocupação obsessiva com uma silhueta específica foge do ideal saudável, que passa por uma alimentação equilibrada e uma vida fisicamente ativa, que proporcionam mais saúde e bem-estar.
 
 O Saúde Brasil entrevistou Monique Pimentel, psicóloga organizacional da Maternidade Escola Januário Cicco, da Universidade Federal do Rio Grande do Norte e vinculada à Empresa Brasileira de Serviços Hospitalares (EBSERH), para falar sobre como manter um relacionamento saudável com seu corpo. Fazer as pazes com sua aparência pode ser um sinônimo de liberdade. Olha só!
@@ -56,7 +55,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

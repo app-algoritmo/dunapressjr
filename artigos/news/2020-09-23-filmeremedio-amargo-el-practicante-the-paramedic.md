@@ -17,7 +17,7 @@ Original Netflix, o longa é um suspense com sucesso e ao mesmo tempo nos mostra
 
 **Imagem em destaque: **Techquila, Targeting News
 
-https://dunapress.org/produto/assinatura-leitor-premio/?aff=milah44
+https://dunapress.org/produto/assinatura-leitor-premio/
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.
 Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes e torne-se um assinante.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Macapá/AP - A Polícia Federal deflagrou na quinta-feira (4/6) a Operação Jizo*, com objetivo de combater disseminação de pornografia e exploração sexual infanto-juvenil, no Amapá.
 
 Cerca de 10 policiais federais dão cumprimento a um mandado de prisão preventiva e dois mandados de busca e apreensão em Macapá/AP. A prisão acontece em desfavor de um homem, de 49 anos, cuja profissão é detetive particular. As buscas têm como fim a apreensão de imagens e/ou vídeos de pornografia infantil.
@@ -23,5 +22,3 @@ O investigado poderá responder, na medida de sua responsabilidade, pelos crimes
 **Jizo – *é um Deus budista japonês que desempenha um papel especial como protetor de todas as crianças, é considerado o guardião das crianças.
 
 **Comunicação Social da Polícia Federal no Amapá**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

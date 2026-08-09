@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 São R$ 4,24 bilhões destinados a micro e pequenos empresários que precisam de apoio durante a pandemia.
 
 Responsável pelo departamento financeiro de uma empresa familiar de automação empresarial que funciona há mais de vinte anos em Piracicaba (SP), Micheli Castro, viu a pandemia do novo coronavírus provocar um impacto negativo nas finanças do negócio. A solução foi recorrer a um empréstimo do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe) para colocar em dia os pagamentos a fornecedores e comprar material elétrico e eletrônico para atender os clientes.
@@ -22,7 +21,7 @@ A empresa de Michele Castro, a HXT Sistemas, emprega quatro pessoas que prestam 
 
 Assim como Micheli, muitos outros pequenos empreendedores recorreram ao Pronampe. O resultado foi que nesta quinta-feira (9) o programa bateu o marco de R$ 3,18 bilhões de reais em créditos contratados via Caixa, esgotando o limite que havia sido liberado para o banco operar pela linha de crédito. Com isso, a Caixa recebeu do Ministério da Economia um acréscimo de limite, que passou a ser de R$ 4,24 bilhões.
 
-Micheli Castro contou que eles chegaram ao banco com muitas dúvidas, todas perguntas foram respondidas, e conseguiu o empréstimo. "A gente como microempresa, pequena empresa, se sente tão invisível. Mas dessa vez deu certo. Nosso desejo é que muitas outras empresas consigam participar, obter essa linha de crédito para sobreviver a tudo isso, assim como nós", disse. 
+Micheli Castro contou que eles chegaram ao banco com muitas dúvidas, todas perguntas foram respondidas, e conseguiu o empréstimo. "A gente como microempresa, pequena empresa, se sente tão invisível. Mas dessa vez deu certo. Nosso desejo é que muitas outras empresas consigam participar, obter essa linha de crédito para sobreviver a tudo isso, assim como nós", disse.
 
 As micro e pequenas empresas podem usar o crédito em investimentos e capital de giro, como para pagar salário, água, luz, aluguel, reposição de estoque e aquisição de máquinas e equipamentos. Fica proibido usar o recurso para distribuição de lucros e dividendos entre os sócios do negócio.
 
@@ -50,4 +49,4 @@ Para buscar à linha de crédito é necessário acessar o tutorial no site do Se
 
 Fonte: gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

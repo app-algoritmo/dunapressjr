@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Encontro vai esclarecer dúvidas sobre o processo para editoras e autores.
 
 O Ministério da Educação (MEC) e o Fundo Nacional de Desenvolvimento da Educação (FNDE) vão realizar nesta quinta-feira, 4 de junho, uma reunião técnica para esclarecer pontos importantes e tirar dúvidas sobre o edital do Programa Nacional do Livro e do Material Didático (PNLD) 2022, destinado à educação infantil. A principal novidade do documento é a previsão inédita de livros didáticos para alunos da pré-escola a partir de 2022.
@@ -26,8 +25,6 @@ A inscrição para os interessados em participar do processo de aquisição de o
 O PNLD é destinado a avaliar e a disponibilizar obras didáticas, pedagógicas e literárias, entre outros materiais de apoio à prática educativa, de forma sistemática, regular e gratuita, às escolas públicas. Mais de 170 milhões de exemplares foram entregues, por meio do programa em 2020.
 
 Fonte: gov.br/mec / Imagem em destaque: mec
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

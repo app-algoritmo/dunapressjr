@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Referente ao material didático denominado “Revisa Enem”.
 
 Em sessão ordinária, por videoconferência, nesta quinta-feira (18), a 1ª Câmara do Tribunal de Contas do Estado da Paraíba julgou irregular procedimento da Secretaria de Estado da Educação, modalidade Inexigibilidade de Licitação sob nº 05/2017, para aquisição de oito mil coleções do material didático denominado “Revisa Enem”.
@@ -25,4 +24,4 @@ O conselheiro observou que documentos nos autos – proposta de preço e reserva
 
 Fonte: Tribunal de Contas do Estado da Paraíba – Imagem de destaque: Secom/PB
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

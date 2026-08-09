@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A taxa ficou em 2,53%, em fevereiro, após registrar 2,58% em janeiro.
 
 O Índice Geral de Preços – Mercado (IGP-M), usado no reajuste dos contratos de aluguel, registrou inflação de 2,53% em fevereiro deste ano. Em janeiro, a taxa ficou em 2,58%. Segundo a Fundação Getulio Vargas (FGV), com o resultado, o índice acumula taxas de inflação de 5,17% no ano e de 28,94% em 12 meses.
@@ -24,8 +23,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

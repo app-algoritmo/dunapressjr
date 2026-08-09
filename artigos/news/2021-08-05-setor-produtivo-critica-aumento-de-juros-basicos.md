@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para CNI, elevação atrasa recuperação da economia.
 
 A aceleração do aperto monetário pelo Comitê de Política Monetária (Copom) do Banco Central (BC) recebeu críticas de entidades do setor produtivo. Na avaliação de representantes da indústria, a elevação da taxa Selic (juros básicos da economia)[** para 5,25% ao ano**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-08/copom-eleva-juros-basicos-da-economia-para-525-ao-ano) atrasa a recuperação econômica e pode se refletir na manutenção do desemprego alto nos próximos meses.
@@ -28,7 +27,7 @@ A Federação das Indústrias do Estado de São Paulo (Fiesp) também criticou o
 
 ## Firjan
 
-A Federação das Indústrias do Rio de Janeiro (Firjan)  também criticou a decisão do Copom de elevar a Selic. Em nota, a entende que o aumento da taxa de juros para 5,25% é exagerado e "pode prejudicar o processo de retomada do crescimento econômico do país”.
+A Federação das Indústrias do Rio de Janeiro (Firjan) também criticou a decisão do Copom de elevar a Selic. Em nota, a entende que o aumento da taxa de juros para 5,25% é exagerado e "pode prejudicar o processo de retomada do crescimento econômico do país”.
 
 "Os choques temporários nos preços observados em 2021 devem se dissipar, não impactando a inflação em 2022, que exibe expectativa de inflação bem-comportada e dentro do intervalo da meta. Sendo assim, a federação acredita que dosar a alta da taxa básica de juros seria compatível com o momento e já garantiria a ancoragem das expectativas para a inflação de 2022”.
 
@@ -36,10 +35,6 @@ A Firjan destaca a necessidade de solucionar os gargalos estruturais que impende
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

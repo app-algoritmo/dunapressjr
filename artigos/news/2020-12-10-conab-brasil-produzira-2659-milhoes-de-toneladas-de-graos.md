@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Houve aumento de 3,5% no comparativo com a safra de 2019/2020.
 
-A produção de grãos no Brasil deverá ser recorde, apesar de menor do que a estimada em novembro. Segundo o terceiro levantamento da safra de grãos 2020/21, divulgado hoje (10), em Brasília, pela Companhia Nacional de Abastecimento (Conab), a estimativa é de que o país colha 265,9 milhões de toneladas. 
+A produção de grãos no Brasil deverá ser recorde, apesar de menor do que a estimada em novembro. Segundo o terceiro levantamento da safra de grãos 2020/21, divulgado hoje (10), em Brasília, pela Companhia Nacional de Abastecimento (Conab), a estimativa é de que o país colha 265,9 milhões de toneladas.
 
 “Isso significa 3 milhões a menos do que o estimado um mês atrás [em novembro]. Essa queda tem relação com a grave seca que assolou parte da Região Sul do país, reduzindo a produtividade, especialmente do milho. Felizmente, a soja e o arroz na região não foram impactados como o milho e seguem com estimativas próximas às do mês passado",  disse o presidente da Conab, Samuel Melo Júnior.
 
@@ -28,7 +27,7 @@ O milho primeira safra deve apresentar uma redução de 2,1% na área de cultivo
 
 A Conab estima em 3,1 milhões de toneladas a produção total de feijão no país. “Dessa produção, 1,9 milhão de toneladas são de feijão-comum cores, 516,8 mil toneladas de feijão-comum preto e 686,7 mil toneladas de feijão-caupi ou macaçar”, detalha a Conab.
 
-Já o arroz apresenta uma projeção de crescimento de 3,2% na área plantada. Das 10,9 milhões de toneladas projetadas, 10 milhões serão produzidas em áreas irrigadas e 900 mil toneladas em áreas de sequeiro. 
+Já o arroz apresenta uma projeção de crescimento de 3,2% na área plantada. Das 10,9 milhões de toneladas projetadas, 10 milhões serão produzidas em áreas irrigadas e 900 mil toneladas em áreas de sequeiro.
 
 Segundo o superintendente de Informações do Agronegócio da Conab, Cleverton Santana, “essa produção é menor do que as últimas safras porque a redução de área foi muito drástica ao longo dos anos, principalmente no arroz de sequeiro, que perdeu área para culturas mais rentáveis”, disse.
 
@@ -42,7 +41,7 @@ A estimativa da Conab para o trigo, que está em fase final da colheita de 2020,
 
 “O terceiro levantamento mantém a tendência de recorde nas exportações da pluma de algodão. Até novembro deste ano, o total embarcado foi de 1,75 milhão de toneladas, 31% a mais do que o acumulado no mesmo período no ano passado”, informou a Conab.
 
-No caso do milho, foram exportadas 27,7 milhões de toneladas no ano na safra atual - número 20% menor do que o registrado no mesmo período do ano safra anterior. 
+No caso do milho, foram exportadas 27,7 milhões de toneladas no ano na safra atual - número 20% menor do que o registrado no mesmo período do ano safra anterior.
 
 “Foi mantida a previsão de exportações em 34,5 milhões de toneladas até o final de janeiro, quando termina a temporada. Em novembro, os embarques alcançaram 4,8 milhões de toneladas, 19% a mais que no mesmo período do ano passado”, detalhou o levantamento.
 
@@ -58,8 +57,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

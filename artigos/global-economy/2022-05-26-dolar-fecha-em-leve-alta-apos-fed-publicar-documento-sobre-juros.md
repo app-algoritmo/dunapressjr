@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Ibovespa fechou o dia acima da marca de 110 mil pontos.
 
 O dólar fechou o dia com alta de 0,17%, cotado a R$ 4,821, após forte volatilidade inicial nas negociações. O fator impactante no pregão da divisa norte-americana foi a divulgação da ata da última reunião de política monetária do Federal Reserve (Fed, o equivalente ao Banco Central dos Estados Unidos).
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A esclerose múltipla (EM) é uma das doenças mais comuns do sistema nervoso central, afetando o cérebro e a medula espinhal. Hoje, 2,8 milhões de pessoas em todo o mundo têm EM. Estima-se que no Brasil, cerca de 40 mil pessoas vivam com a doença.
 
 É um transtorno neurológico, crônico e autoimune, ou seja, as células de defesa do organismo atacam o próprio sistema nervoso central, provocando danos à mielina – material gorduroso que isola os nervos, afetando a maneira como os impulsos elétricos são enviados de e para o cérebro.
@@ -46,7 +45,3 @@ Fonte:  https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

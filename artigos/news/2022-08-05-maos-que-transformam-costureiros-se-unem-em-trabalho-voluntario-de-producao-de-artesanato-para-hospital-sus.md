@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-Pano, agulha e disposição. É isso que move o trabalho de 40 voluntários de Curitiba, que fazem um simples tecido antigo virar artesanato. O grupo Mãos que Transformam iniciou suas atividades a distância, ainda durante a pandemia, com o objetivo de amenizar a rotina nos hospitais Universitário Cajuru e Marcelino Champagnat. Desde o início de junho, o trabalho de costura é realizado em um espaço fixo, no antigo Hospital Nossa Senhora da Luz, onde também ficam os ambulatórios do Hospital Universitário Cajuru. 
+Pano, agulha e disposição. É isso que move o trabalho de 40 voluntários de Curitiba, que fazem um simples tecido antigo virar artesanato. O grupo Mãos que Transformam iniciou suas atividades a distância, ainda durante a pandemia, com o objetivo de amenizar a rotina nos hospitais Universitário Cajuru e Marcelino Champagnat. Desde o início de junho, o trabalho de costura é realizado em um espaço fixo, no antigo Hospital Nossa Senhora da Luz, onde também ficam os ambulatórios do Hospital Universitário Cajuru.
 
 As atividades do grupo ganham ainda mais importância em datas comemorativas, como o Natal, Ano Novo, Páscoa e, também, nas que são voltadas à área da saúde. Em maio, por exemplo, os costureiros voluntários produziram mais de 1,2 mil *necessaires* para o Dia da Enfermagem. Para que as datas continuem a não passar em branco, o grupo conta com a colaboração da comunidade para doação de materiais como cola, grampeador, pincéis, fitas de cetim e tecidos. Toda doação pode ser entregue na rua Rockefeller, no bairro Rebouças.
 
@@ -19,7 +18,7 @@ O momento é de união, solidariedade e ajuda ao próximo. "Projetos como o 'Mã
 
 Ação: Mãos que transformam
 
-Material para doação: cola de tecido, cola branca, cola quente, pistola de cola quente, grampeador de estofados, grampos, pincéis (números 8 e 12), etiquetas, fitas de cetim, plumante, fibra siliconada, tecido tricoline e mostruário de estofados. 
+Material para doação: cola de tecido, cola branca, cola quente, pistola de cola quente, grampeador de estofados, grampos, pincéis (números 8 e 12), etiquetas, fitas de cetim, plumante, fibra siliconada, tecido tricoline e mostruário de estofados.
 
 Endereço: Rua Rockefeller, 1450 - Rebouças, Curitiba - PR, 80230-130
 
@@ -36,7 +35,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

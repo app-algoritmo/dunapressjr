@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Governo do Estado relatou que há 297.400 casos confirmados de infecção pelo novo coronavírus em Santa Catarina, sendo que 276.620 se recuperaram e 17.450 estão em acompanhamento. O número foi divulgado nesta segunda-feira, 16. Desde o início da pandemia, 3.330 óbitos foram causados pela doença respiratória. A taxa de letalidade atual é de 1,12%.
 
 [>>> Confira aqui o boletim diário desta segunda-feira, 16](http://www.coronavirus.sc.gov.br/wp-content/uploads/2020/11/boletim-epidemiologico-16-11-2020.pdf)
@@ -575,5 +574,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

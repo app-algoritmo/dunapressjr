@@ -8,7 +8,6 @@ categories:
 - Literature
 ---
 
-
 Em seu livro “Haavara: O Acordo de Transferência”, Edwin Black, jornalista judeu americano e filho de sobreviventes do Holocausto, revela um dos episódios pouco conhecidos da história, no período anterior à Segunda Guerra Mundial, sobre “Haavara”, pacto entre judeus e o Terceiro Reich para salvar vidas e destinar recursos financeiros para a criação do Estado de Israel.
 
 O acordo teria sido firmado anos antes do início do Holocausto entre líderes do movimento sionista e a alta cúpula do Terceiro Reich, logo que Hitler assumiu o poder na Alemanha, em janeiro de 1933.
@@ -36,7 +35,3 @@ Fonte: https://www.conib.org.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

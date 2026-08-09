@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Só no Brasil, por ano, são registrados cerca de 12 mil suicídios e mais de um milhão no mundo. Trata-se de uma triste realidade, que registra cada vez mais casos, principalmente entre os jovens. Cerca de 96,8% dos casos de suicídio estavam relacionados a transtornos mentais. Em primeiro lugar está a depressão, seguida do transtorno bipolar e abuso de substâncias.
 
 Com o objetivo de prevenir e reduzir esses números, a campanha Setembro Amarelo cresceu e hoje conquista o Brasil inteiro. Para isso, o apoio das administrações públicas e de toda a sociedade é fundamental.
@@ -38,9 +37,9 @@ Diante dos números e da importância do assunto, a CNM recomenda a promoção d
 • Fixar cartazes com orientações sobre a importância de identificar pessoas sob riscos, de respeitar e levar a sério a dor e o sofrimento do outro, de demostrar interesse e de aponta os equipamentos de saúde disponíveis para atendimento; e
 • Divulgar campanha Setembro Amarelo, orientações e informações básicas sobre os sintomas, a prevenção ao suicídio e a Rede local de Atenção à Saúde, por meio das equipes de saúde da família e agentes comunitários de saúde.
 
-**Leia também: **[Política de Prevenção da Automutilação e do Suicídio institui cooperação entre os Entes
-](https://bit.ly/2kpBSek)[Com indicação de cartilha, mês de alerta a Prevenção ao Suicídio chega ao fim
-](https://bit.ly/2UgKcxO)[Setembro Amarelo chama atenção para importância de prevenção do suicídio](https://bit.ly/2Covyw0)
+**Leia também: **Política de Prevenção da Automutilação e do Suicídio institui cooperação entre os Entes
+Com indicação de cartilha, mês de alerta a Prevenção ao Suicídio chega ao fim
+Setembro Amarelo chama atenção para importância de prevenção do suicídio
 
 *Por Raquel Montalvão, com informações da EBC e do MS*
 
@@ -55,7 +54,3 @@ Diante dos números e da importância do assunto, a CNM recomenda a promoção d
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É a maior taxa para um mês de novembro desde 2015 (1,01%).
 
 O Índice Nacional de Preços ao Consumidor Amplo (IPCA), que mede a inflação oficial do país, foi de 0,95%, em novembro deste ano. Foi a maior taxa para um mês de novembro desde 2015 (1,01%). Em novembro de 2020, a alta de preços foi de 0,89%.
@@ -32,10 +31,6 @@ Os demais grupos tiveram as seguintes variações de preços: despesas pessoais 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

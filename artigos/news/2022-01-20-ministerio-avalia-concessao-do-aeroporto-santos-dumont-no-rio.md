@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Portaria foi publicada hoje no Diário Oficial da União.
 
 Publicada no [***Diário Oficial da União***](https://www.in.gov.br/en/web/dou/-/portaria-n-62-de-18-de-janeiro-de-2022-374916542) de nesta quarta-feira (19) portaria do Ministério da Infraestrutura que institui grupo de trabalho que terá, como finalidade, estudar e avaliar os impactos do modelo de concessão a ser adotado no Aeroporto Santos Dumont, no Rio de Janeiro.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

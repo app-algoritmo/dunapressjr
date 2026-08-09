@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Para garantir recursos, o chefe do Executivo federal também editou MP que abre crédito extraordinário no valor de R$ 9,98 bilhões.
 
 O Presidente da República, Jair Bolsonaro, editou Medida Provisória (MP) que institui o Novo Programa Emergencial de Manutenção do Emprego e da Renda. A iniciativa traz medidas trabalhistas para o enfrentamento da emergência em saúde pública de importância internacional em razão da infecção humana pelo novo coronavírus (Covid-19), com o objetivo de preservar o emprego e a renda, garantir a continuidade das atividades empresariais e a manutenção da renda do trabalhador e reduzir o impacto social diante da paralisação de atividades e restrição de mobilidade em todo o país.
@@ -33,8 +32,4 @@ Fonte: Planalto
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!

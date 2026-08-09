@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 Esta importante atividade mundial foi criada pela World Hypertension League (WHL) e realizada pela primeira vez em 14 de maio de 2005, com o tema: Conheça seus números! O Dia Mundial da Hipertensão foi um sucesso retumbante com a participação de 24 países e, desde então, tem sido um evento anual em constante expansão.
 
 Seu objetivo é comunicar ao público leigo a importância da hipertensão e suas complicações médicas graves, e fornecer informações sobre prevenção, detecção e tratamento. Fazer isso requer a cooperação de profissionais de saúde, mídia, organizações voluntárias e governo em cada país.
@@ -71,7 +70,3 @@ Fonte: https://bvsms.saude.gov.br/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

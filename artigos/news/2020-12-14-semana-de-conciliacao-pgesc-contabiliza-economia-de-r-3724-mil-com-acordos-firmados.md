@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A participação da Procuradoria-Geral do Estado (PGE/SC) na Semana Nacional de Conciliação, entre os dias 30 de novembro e 4 de dezembro, resultou em uma economia de R$ 372,4 mil aos cofres públicos catarinenses. O valor corresponde ao acordo firmado entre as partes e a Administração estadual em processos que estavam em tramitação na Justiça. Com o aceite pelos autores da proposta oferecida pela PGE/SC, essas causas são encerradas.
 
 Organizada pelo Conselho Nacional de Justiça (CNJ), a Semana da Conciliação reuniu 257 processos que tinham Santa Catarina no polo passivo. Desse total, 50 audiências foram canceladas a pedido dos próprios autores e 117 resultaram em um desfecho consensual, nas quais o Estado ofereceu a possibilidade de pagamento dos valores conforme o cálculo feito pela PGE. Para o procurador-geral do Estado Alisson de Bom de Souza, esse tipo de solução é vantajoso pois permite que o autor da ação receba o valor mais rapidamente do que se mantivesse o processo em andamento na Justiça.
@@ -31,7 +30,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

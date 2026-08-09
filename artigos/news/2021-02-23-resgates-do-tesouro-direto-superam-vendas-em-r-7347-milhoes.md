@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Títulos mais procurados foram os vinculados à inflação.
 
 Os resgates do Tesouro Direto superaram as vendas em R$ 734,7 milhões em janeiro deste ano. De acordo com os dados do Tesouro Nacional, divulgados hoje (23), as vendas do programa atingiram R$ 2,292 bilhões no mês passado. Já os resgates totalizaram R$ 3,027 bilhões, sendo R$ 1,719 bilhão relativos a recompras de títulos públicos e R$ 1,307 bilhão, a vencimentos, quando o prazo do título acaba, e o governo precisa reembolsar o investidor com juros.
@@ -40,8 +39,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

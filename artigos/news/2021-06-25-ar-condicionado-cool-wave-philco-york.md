@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dando continuidade à série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre o Ar condicionado “Cool Wave” Philco-York.
 
 ## **Do projeto ao termo “ar condicionado”**
@@ -16,7 +15,7 @@ Willis Carrier (1876-1950) foi responsável pela invenção de ar-condicionado e
 
 Nascido no estado de Nova York nos Estados Unidos, Willis Carrier conseguiu uma bolsa na Universidade de Cornell em 1897 para estudar Engenharia Mecânica.
 
-Iniciou sua carreira após concluir o curso na Buffalo Forge Company, onde começou a desenvolver ventiladores de caldeira que combinassem alta eficiência e baixos gastos de energia. 
+Iniciou sua carreira após concluir o curso na Buffalo Forge Company, onde começou a desenvolver ventiladores de caldeira que combinassem alta eficiência e baixos gastos de energia.
 
 Como seu projeto era inovador, despertou interesse dos seus empregadores e logo em seguida foi convidado para resolver um problema na gráfica do Brooklyn.
 
@@ -34,7 +33,7 @@ Com a Primeira Guerra Mundial, os planos de empreendimentos ficaram abalados. A 
 
 ## **A invenção de Thomas Migley e a chegada do verão confortável**
 
-Em 1930, Thomas Migley (1889-1944) desenvolveu o fréon para substituir refrigerantes tóxicos, como amônia, usados posteriormente em refrigerantes e condicionadores de ar. O  “Cool Wave” combinava o design básico de Carrier com fréon de Migley, embalado em um gabinete de madeira.
+Em 1930, Thomas Migley (1889-1944) desenvolveu o fréon para substituir refrigerantes tóxicos, como amônia, usados posteriormente em refrigerantes e condicionadores de ar. O “Cool Wave” combinava o design básico de Carrier com fréon de Migley, embalado em um gabinete de madeira.
 
 O aparelho podia ser ligado a uma tomada elétrica e era pequeno o suficiente para ser transportado de um cômodo para o outro.
 
@@ -44,14 +43,10 @@ A invenção de Thomas Migley de início a era do “verão confortável”, tra
 
 [A História do Ar-Condicionado: Linha do Tempo Completa.](https://www.webarcondicionado.com.br/a-historia-do-ar-condicionado) Acesso em 10 de jun. 2021
 
-CHALINA, Eric. 50 Máquinas que mudaram o Rumo da História. Tradução de Fabiano Morais. Rio de Janeiro. Sextante. 2014. 
+CHALINA, Eric. 50 Máquinas que mudaram o Rumo da História. Tradução de Fabiano Morais. Rio de Janeiro. Sextante. 2014.
 
 [York.](https://mundodasmarcas.blogspot.com/2006/09/york-its-time-to-get-comfortable.html?m=0) Acesso em 10 de jun. 2021.
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

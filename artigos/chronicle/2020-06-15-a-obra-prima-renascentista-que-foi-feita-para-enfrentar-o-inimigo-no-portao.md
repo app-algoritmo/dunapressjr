@@ -7,7 +7,6 @@ categories:
 - Chronicle
 ---
 
-
 O David de Michelangelo tende a impressionar quem a vê - evocando um sentimento de medo, desejo ou admiração. Mas também foi adulterado - reimpresso em milhões de ímãs de geladeira e toalhas de chá, e apropriado como um símbolo de ersatz da alta cultura. O Books and Arts Daily convocou um painel de especialistas para tentar descobrir o que David realmente representa.
 
 Quando Michael Cathcart viu pela primeira vez o David de Michelangelo, ele estava no final da adolescência.
@@ -60,7 +59,7 @@ Como diabos Davi ficou tão kitsch? Os imãs de geladeira 'vesti-me-de-David' do
 
 "O que eu gostaria de ver é que a estátua do David de Michelangelo desapareça por algumas centenas de anos, então ela desaparece de nossa consciência e de nossas referências populares", diz ela. "Então, ele pode ser encontrado novamente - como a Estátua da Liberdade no final do Planeta dos Macacos - e visto novamente com uma sensação de reverência."
 
-Fonte: Books and Arts Daily 
+Fonte: Books and Arts Daily
 
 **Imagem em destaque: **O restaurador Cinzia Parnigoni limpa a obra-prima de Michelangelo David durante os trabalhos de restauração na Galleria dell'Accademia em 2003 em Florença, Itália. (Franco Origlia / Getty Images)
 
@@ -72,4 +71,4 @@ https://dunapress.org/2020/06/14/a-importancia-das-estatuas-para-a-memoria-do-ho
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal**.
 
-https://dunapress.org/subscription-plan/?aff=barrosprojectmanager
+https://dunapress.org/subscription-plan/

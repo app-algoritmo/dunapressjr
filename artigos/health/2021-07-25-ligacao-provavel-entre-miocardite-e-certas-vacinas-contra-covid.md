@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Os primeiros casos de miocardite foram relatados em Israel, onde a campanha de imunização foi mais rápida do que na maioria dos países.
 
 Há uma ligação "provável" entre os casos de inflamação no coração e a injeção de vacinas de Covid de RNA mensageiro, mas os benefícios desses soros superam os riscos, disse a OMS na sexta-feira, confirmando a experiência americana.
@@ -45,7 +44,3 @@ Fonte: https://fr.timesofisrael.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

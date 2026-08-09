@@ -10,7 +10,6 @@ categories:
 - Education
 ---
 
-
 Há exatos 30 anos, a televisão brasileira transmitia diariamente episódios de uma propaganda eleitoral peculiar. Não se viam candidatos pedindo voto para cargos eletivos. O que estava em jogo era algo bem maior: a própria estrutura política e administrativa do Brasil.
 
 D Beltrand de Orleans e Bragança acompanhado por familias - Imagem @Trendsmap
@@ -29,7 +28,7 @@ Simon continuou:
 
 Do lado presidencialista, o senador Epitácio Cafeteira (PDC-MA) criticou a ideia de o governo ser repartido entre um primeiro-ministro poderoso (eleito indiretamente) e um presidente fraco (eleito diretamente):
 
-— Nós, que lutamos no velho MDB em torno do direito de o povo escolher o seu governo, de repente vimos que muitos se separaram. Em vez das Diretas Já, da luta que teve o respaldo do povo nas ruas e nas praças, agora temos uma luta das Indiretas Já, pelo parlamentarismo, para que os políticos escolham pelo povo quem vai governar o país. O povo escolhe o presidente, mas este não governa, apenas reina. Quem governa é a classe política, através do gabinete.[](javascript:void(0);) 
+— Nós, que lutamos no velho MDB em torno do direito de o povo escolher o seu governo, de repente vimos que muitos se separaram. Em vez das Diretas Já, da luta que teve o respaldo do povo nas ruas e nas praças, agora temos uma luta das Indiretas Já, pelo parlamentarismo, para que os políticos escolham pelo povo quem vai governar o país. O povo escolhe o presidente, mas este não governa, apenas reina. Quem governa é a classe política, através do gabinete.;)
 
 — O que não se compreende é o alvoroço dos adeptos do governo de gabinete em adotar um regime que, ao contrário do que vem sendo apregoado, não garante a solução dos nossos problemas e a promoção do crescimento econômico e da justiça social. O que não se compreende é essa ânsia quase juvenil pela aventura, esse passo rumo ao desconhecido.
 
@@ -67,8 +66,6 @@ A lei determinou que três frentes se formassem para falar na propaganda eleitor
 
 Não houve a frente da monarquia presidencialista porque tal arranjo é impossível. Um país não pode ter rei e presidente ao mesmo tempo.
 
-[](https://www12.senado.leg.br/noticias/especiais/arquivo-s/ha-30-anos-brasil-foi-as-urnas-decidir-se-teria-rei-e-primeiro-ministro/noticia-frente-monarquista/@@images/imagem)
-
 **Notícia publicada pelo jornal Tribuna da Imprensa mostra movimentação dos monarquistas** Biblioteca NacionalFonte: Agência Senado
 
 O senador Nelson Wandekin (PDT-SC) acusou as duas frentes republicanas de promover apenas o parlamentarismo e o presidencialismo e deixar de lado a defesa da república. Para ele, a frente monarquista, mesmo estando na prática fora do páreo, poderia fazer a sociedade enxergar a república com maus olhos:
@@ -91,8 +88,6 @@ Em 1889, logo após liderar o golpe de Estado que derrubou D. Pedro II e a monar
 
 O plebiscito de 1993 não teve relação com essa lei. Deodoro, ao notar que não viria nenhuma tentativa de restauração monárquica, desistiu da ideia de legitimar a república pelo voto popular e baixou meses depois uma nova norma tornando crime a tentativa, por qualquer via, de implodir a forma republicana de governo.
 
-[](https://www12.senado.leg.br/noticias/especiais/arquivo-s/ha-30-anos-brasil-foi-as-urnas-decidir-se-teria-rei-e-primeiro-ministro/noticias-sobre-artistas/@@images/imagem)
-
 **Jornal carioca Tribuna da Imprensa ouve famosos sobre o plebiscito de 1993** Biblioteca Nacional DigitalFonte: Agência Senado
 
 A consulta de 1993 tampouco teve relação com um plebiscito organizado 30 anos antes. Em 1963, os brasileiros foram às urnas e votaram pela volta do presidencialismo, pondo fim a uma experiência parlamentarista que durou apenas um ano e quatro meses.
@@ -114,8 +109,6 @@ As três frentes usaram a queda de Collor em seus programas. Para os monarquista
 ## O senador presidencialista Valmir Campelo discursou:
 
 — Reivindicam os parlamentaristas, como exclusividade do regime, a estabilidade política. Parecem desconhecer os Estados Unidos, precursores do presidencialismo e a maior democracia do mundo. Ignoram o impeachment do presidente Fernando Collor, que resultou na sua substituição sem que houvesse qualquer dano de natureza institucional. Dizem que o presidente da República tem poderes ditatoriais, quase ilimitados, enquanto o governo de gabinete evitaria tal concentração de poderes. Lembro que algumas das mais cruéis e beligerantes ditaduras do mundo tiveram origem no regime parlamentar, como as de Hitler, Mussolini e Franco.
-
-[](https://www12.senado.leg.br/noticias/especiais/arquivo-s/ha-30-anos-brasil-foi-as-urnas-decidir-se-teria-rei-e-primeiro-ministro/charge-mapa/@@images/imagem)
 
 ## O senador parlamentarista Pedro Simon fez um lamento quando compreendeu que a ideia que defendia acabaria sendo derrotada nas urnas:
 
@@ -162,8 +155,6 @@ Na forma de governo, os votos brancos e nulos (23%) foram mais numerosos que os 
 ## Quando o resultado se tornou oficial, o senador Pedro Simon lamentou:
 
 — Parece mentira, mas o povo brasileiro vai ficar marcado na história por, nas duas únicas vezes em que foi chamado a opinar, ter dito “não” ao parlamentarismo. Agora voltaremos assistir à essência do sistema presidencialista. As pessoas vão dizer que “Lula e o PT vão salvar o Brasil”, que “Maluf é o centro e esta é a hora do centro” e que “Brizola é um homem que já tem conteúdo e condições”. Voltaremos ao velho filme: as pessoas serão as salvadoras. Foi assim com Getúlio, Juscelino, Jânio e Tancredo. Por mais competentes que sejam, as pessoas estão sujeitas a fatalidades, tais como a renúncia, o impeachment e até a morte. Os salvadores da pátria e os santos milagrosos não existem.
-
-[](https://www12.senado.leg.br/noticias/especiais/arquivo-s/ha-30-anos-brasil-foi-as-urnas-decidir-se-teria-rei-e-primeiro-ministro/info/@@images/imagem)
 
 ## O senador Ney Maranhão fez outra leitura:
 

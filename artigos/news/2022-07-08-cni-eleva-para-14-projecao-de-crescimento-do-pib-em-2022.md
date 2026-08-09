@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Melhoria no emprego e no setor de serviços justifica aumento.
 
 A melhoria do mercado de trabalho e o aumento da demanda do setor de serviços fizeram a Confederação Nacional da Indústria (CNI) elevar a projeção de crescimento da economia neste ano. Segundo o Informe Conjuntural do 2º Trimestre, divulgado nesta sexta-feira (8) pela entidade, a estimativa passou de 0,9% em abril para 1,4% em julho.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

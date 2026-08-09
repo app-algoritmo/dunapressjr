@@ -7,7 +7,6 @@ categories:
 - World Affairs
 ---
 
-
 ## Os princípios de uma sociedade livre estão sendo redefinidos pelos coletivistas.
 
 *Guerra é paz*
@@ -34,7 +33,7 @@ Os censores do Partido Democrata e seus aliados da mídia querem que você acred
 
 [Toby Rogers](https://tobyrogers.substack.com/p/thinking-points-july-25-2023?publication_id=436968&post_id=135420377&isFreemail=true)
 
-Toby pode estar exagerando, mas nem todo mundo sabe disso. Muitos que recebem notícias da NPR e da CNN não conhecem os fatos e não querem conhecê-los. *[Infelizmente, muitos estão abertos à](https://mindsetshifts.substack.com/p/if-we-live-by-lies-we-will-demand)* mensagem: bons *cidadãos [não pensam em questões](https://mindsetshifts.substack.com/p/if-we-live-by-lies-we-will-demand) de guerra e paz , não questionam a clareza ou a corrupção de Biden, não questionam orçamentos insustentáveis, grandes empresas farmacêuticas, o envenenamento de nossos alimentos e de nosso país. Bons cidadãos acreditam no que lhes dizem[](https://mindsetshifts.substack.com/p/if-we-live-by-lies-we-will-demand)* .
+Toby pode estar exagerando, mas nem todo mundo sabe disso. Muitos que recebem notícias da NPR e da CNN não conhecem os fatos e não querem conhecê-los. *[Infelizmente, muitos estão abertos à](https://mindsetshifts.substack.com/p/if-we-live-by-lies-we-will-demand)* mensagem: bons *cidadãos [não pensam em questões](https://mindsetshifts.substack.com/p/if-we-live-by-lies-we-will-demand) de guerra e paz , não questionam a clareza ou a corrupção de Biden, não questionam orçamentos insustentáveis, grandes empresas farmacêuticas, o envenenamento de nossos alimentos e de nosso país. Bons cidadãos acreditam no que lhes dizem* .
 
 *O que estamos testemunhando hoje é o que chamo de totalitarismo chave na mão. Eles estão usando todos esses controles tecnológicos que nunca vimos antes. Desde o início da humanidade, o objetivo de todo estado totalitário tem sido controlar todos os aspectos do comportamento, ação e pensamento e erradicar a dissidência.*
 
@@ -78,7 +77,7 @@ Burns explica o que Rousseau falhou em entender: "O conflito pacífico e democr�
 
 As ideias de Rousseau são mantras para os censores. No mundo de Rousseau, não haveria "longos debates, desacordos e tumultos" cansativos para impedir a implementação do bem comum.
 
-Dr Fauci tem certeza de que está certo e *[está farto](https://www.foxnews.com/media/fauci-vaccine-mandates-freedom-crisis)* de quem faz escolhas diferentes das dele: "Respeito a liberdade das pessoas, mas quando se trata de uma crise de saúde pública, estamos lidando com isso há mais de um ano e meio agora anos, chegou a hora em que basta.” 
+Dr Fauci tem certeza de que está certo e *[está farto](https://www.foxnews.com/media/fauci-vaccine-mandates-freedom-crisis)* de quem faz escolhas diferentes das dele: "Respeito a liberdade das pessoas, mas quando se trata de uma crise de saúde pública, estamos lidando com isso há mais de um ano e meio agora anos, chegou a hora em que basta.”
 
 Não vamos esconder o que Fauci quer dizer com isso: *eu respeito a liberdade das pessoas de fazer o que eu digo* .
 

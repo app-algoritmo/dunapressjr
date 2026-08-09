@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Produtos de hortifrúti adquiridos com recursos do PNAE estão sendo entregues pela Secretaria Municipal de Educação.
 
 Lavínia Nogueira, de 9 anos, aluna da Escola Municipal Maria da Silveira Vasconcelos, em Itararé/SP, recebeu junto com outros estudantes, nesta semana, kits com frutas, legumes e verduras fresquinhas adquiridas de produtores da região. Com as aulas da rede municipal suspensas por conta da pandemia de Covid-19, a prefeitura, por meio da Secretaria Municipal da Educação, distribuiu 3.744 kits de alimentos adquiridos com recursos do Programa Nacional de Alimentação Escolar (PNAE), que neste ano já repassou cerca de R$ 2,3 bilhões para apoiar a alimentação de estudantes de todo o Brasil.
@@ -29,7 +28,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

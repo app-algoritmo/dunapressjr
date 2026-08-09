@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Estão sendo chamados voluntários para participar da pesquisa com a nitazoxanida desta vez em Ceilândia (DF). Medicamento reduziu em 94% a carga viral em células infectadas in vitro.
 
 O Governo Federal está recrutando voluntários para os testes clínicos com a nitazoxanida. O medicamento reduziu em 94% a carga viral em células infectadas in vitro. O ministro da Ciência, Tecnologia e Inovação, Marcos Pontes, participou da inauguração do posto de atendimento em Ceilândia, no Distrito Federal, onde os interessados podem se voluntariar para a pesquisa. “Com isso, a pessoa se ajuda e ajuda o País como um todo”, disse.
@@ -34,6 +33,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa caiu nesta quarta-feira (31), mas encerrou março com alta de 6%.
 
 Depois de um mês de forte volatilidade, o dólar teve a maior queda diária em três semanas e encerrou março praticamente estável em relação a fevereiro. A bolsa de valores registrou leve queda nesta quarta-feira (31), mas fechou o mês com alta de 6%, o primeiro desempenho positivo do ano.
@@ -24,10 +23,6 @@ As negociações em torno de vetos de pontos do Orçamento que podem resultar na
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. 
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
- Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+ Obrigado pelo apoio!

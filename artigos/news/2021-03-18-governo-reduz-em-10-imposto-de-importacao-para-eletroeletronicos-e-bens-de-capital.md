@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Medida diminuirá custos de máquinas e equipamentos, aumentando a competitividade e permitindo queda de preços para o consumidor brasileiro.
 
 O Governo Federal reduziu, nesta quarta-feira (17), em 10% o Imposto de Importação de bens de capital (BK) e de informática e telecomunicações (BIT). A medida, aprovada em reunião do Comitê-Executivo de Gestão (Gecex), da Câmara de Comércio Exterior (Camex), do Ministério da Economia, barateará a importação de máquinas e equipamentos utilizados por todos os setores produtivos, além de diminuir o preço de itens importados como celulares e computadores.
@@ -25,8 +24,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

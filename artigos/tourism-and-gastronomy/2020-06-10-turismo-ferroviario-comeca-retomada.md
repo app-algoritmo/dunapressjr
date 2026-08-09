@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 Autorização para viagens foi publicada no DOU; segmento atenderá protocolo sanitário recomendado pelo MTur.
 
 As viagens turísticas de trem já podem ser retomadas a partir desta quarta-feira (10/06). A decisão que permite o funcionamento da atividade foi publicada na edição do Diário Oficial da União de hoje e representa um passo importante rumo à volta gradual do turismo no país. A Resolução 5.894/2020 atende a uma solicitação da Associação Brasileira das Operadoras de Trens Turísticos e Culturais (ABOTTC) e foi possível graças à articulação do Ministério do Turismo junto à Agência Nacional de Transporte Terrestre (ANTT). O MTur solicitou a revogação do artigo 15 da resolução 5.893/2020, publicada no último dia 03, que havia determinado a interrupção de funcionamento de todos os trens turísticos do País.
@@ -27,5 +26,3 @@ O selo, que é totalmente gratuito, deverá ser colado em local de fácil acesso
 Imagem: Rogério Cassimiro
 
 Fonte: Turismo Gov BR
-
-[](https://dunapress.org/subscription-plan/?aff=Thami)

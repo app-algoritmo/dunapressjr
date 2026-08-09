@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Caminhão do Peixe, programa da Secretaria de Desenvolvimento Econômico, passará por dez localidades a partir desta segunda-feira. O programa de incentivo ao consumo de pescados atenderá os bairros Cordeiros, Fazenda, Dom Bosco, Limoeiro, Brilhante, São Judas, São Vicente, São João, Loteamento Santa Regina e Vila Operária. O caminhão estará nas ruas de segunda-feira (16) a sábado (21).
 
 Durante a semana, o programa de incentivo ao consumo de pescados atende no período matutino, das 8h às 12h, e vespertino, das 13h às 17h. No sábado, das 6h às 10h. São comercializados pescados congelados e industrializados por empresas de Itajaí.
@@ -53,5 +52,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

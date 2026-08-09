@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Mais que um chamado, a campanha “Alô vizinho!” agora é um alerta que desperta a atenção em todo o país. A ação idealizada pelo Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) para o enfrentamento da violência doméstica contra mulheres em condomínios ganhou força em pelo menos dez estados e cinco municípios.
 
 Além dos estados do Acre, Amapá, Amazonas, Goiás e Maranhão, aderiam à iniciativa o Mato Grosso do Sul, Paraná, Rondônia, Roraima e Tocantins. A ação também está sendo divulgada pelas prefeituras de Salvador (BA), Porto Velho (RO), Teresina (PI), Rio de Janeiro (RJ) e Goiânia (GO), onde a mensagem de alerta circula por 1.200 ônibus e pode ser vista ainda estampada nos postos de saúde da cidade.
@@ -53,6 +52,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

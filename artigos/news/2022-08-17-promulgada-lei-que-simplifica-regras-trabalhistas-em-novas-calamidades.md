@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medidas adotadas na pandemia poderão ser acionadas no futuro.
 
 A flexibilização das leis trabalhistas que vigorou na pandemia de covid-19 poderá ser acionada em caso de novos períodos de calamidade pública, nacionais ou locais. O Congresso Nacional promulgou nesta terça-feira (16) a [**Lei 14.437**](https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=16/08/2022&jornal=515&pagina=2&totalArquivos=148), derivada da Medida Provisória (MP) 1.109/2022.
@@ -34,8 +33,4 @@ A medida alcança todas as empresas, independentemente do setor em que atuam, do
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

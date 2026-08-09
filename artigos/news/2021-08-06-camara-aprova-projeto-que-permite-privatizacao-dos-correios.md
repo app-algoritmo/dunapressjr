@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Proposta será analisada pelo Senado.
 
-A Câmara dos Deputados aprovou, nesta quinta-feira (5), o Projeto de Lei (PL) 521/21 que trata da privatização dos Correios. A proposta, encaminhada pelo governo em fevereiro, autoriza a exploração de todos os serviços postais pela iniciativa privada. 
+A Câmara dos Deputados aprovou, nesta quinta-feira (5), o Projeto de Lei (PL) 521/21 que trata da privatização dos Correios. A proposta, encaminhada pelo governo em fevereiro, autoriza a exploração de todos os serviços postais pela iniciativa privada.
 
 O [**texto-base da proposta foi aprovado**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-08/camara-aprova-texto-base-do-projeto-de-privatizacao-dos-correios/) por 286 votos a favor, 173 contra e duas abstenções. A matéria causou controvérsia entre os parlamentares. No entanto, nenhuma das propostas que ainda poderia modificar o texto, os chamados destaques, foi aprovado. A matéria segue para análise do Senado.
 
@@ -26,10 +25,6 @@ O parecer também determina que os trabalhadores da ECT não sejam demitidos pel
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

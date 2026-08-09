@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Operação Efeitos Adversos investiga empresas de mesmo grupo familiar que fraudavam licitações destinadas à aquisição de medicamentos.
 
 A Controladoria-Geral da União (CGU) participou, nesta quarta-feira (16/12), da Operação Efeitos Adversos. O trabalho foi realizado em parceria com a Polícia Federal (PF). O objetivo é cessar as ações de conluio praticadas por empresas de um mesmo grupo familiar que, mediante fraudes a licitações, sagravam-se vencedoras dos certames e promoviam o desvio de recursos de diversos programas federais direcionados à aquisição de medicamentos em Juazeiro (BA).
@@ -40,8 +39,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

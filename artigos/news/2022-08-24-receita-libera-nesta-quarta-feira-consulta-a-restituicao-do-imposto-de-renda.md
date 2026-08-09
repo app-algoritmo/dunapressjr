@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Cerca de 4,46 milhões de contribuintes receberão R$ 6 bilhões.
 
 A partir das 10h desta quarta-feira (24), o contribuinte que entregou a Declaração do Imposto de Renda Pessoa Física até o fim de maio poderá consultar o quarto dos cinco lotes de restituição de 2022. O lote também contempla restituições residuais de anos anteriores.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

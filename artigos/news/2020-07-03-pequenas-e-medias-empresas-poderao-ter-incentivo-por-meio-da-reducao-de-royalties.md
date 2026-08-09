@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resolução do Conselho Nacional de Política Energética abarca concessionárias de campos de petróleo com objetivo de preservar empregos e gerar desenvolvimento.
 
 O Conselho Nacional de Política Energética (CNPE), por meio de [resolução](http://www.in.gov.br/web/dou/-/despacho-do-presidente-da-republica-264424998), estabelece que a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) avalie a adoção de medidas visando à redução de royalties para até 5% para pequenas e médias empresas concessionárias de campos de petróleo.
@@ -22,7 +21,7 @@ A [Agencia Nacional de Petróleo (ANP)](http://www.anp.gov.br/) será respons�
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

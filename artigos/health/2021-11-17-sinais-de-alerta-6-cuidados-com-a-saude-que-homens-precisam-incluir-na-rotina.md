@@ -7,20 +7,19 @@ categories:
 - Health
 ---
 
-
 Os atendimentos médicos realizados com o público masculino cresceram nos últimos anos, segundo informações da Organização Mundial da Saúde (OMS), mas, mesmo assim, os cuidados com a saúde do homem ainda são encarados como um tabu, fazendo com que a maioria procure um médico apenas quando sente sintomas mais sérios, ou até mesmo quando já está doente, muitas vezes, de forma grave. Ainda de acordo com a OMS, a cada três mortes de pessoas adultas no Brasil, duas são do sexo masculino.
 
 Doenças que atingem o coração, como diabetes, câncer, colesterol alto e pressão arterial elevada, são mais comuns em homens. Com isso, é importante se atentar aos sinais do corpo para evitar complicações ou doenças mais graves. A realização de exames é fundamental para identificar problemas de saúde, facilitando o tratamento.
 
 **Principais pontos de alerta**
 
-O câncer de próstata é a segunda principal causa de morte em homens. A doença não causa dor ou dificuldade, por isso, o urologista Mark Neumaier, do Hospital Marcelino Champagnat, em Curitiba (PR), ressalta a importância do diagnóstico precoce. “A doença só é curável enquanto o câncer está localizado na próstata, mas quando ocorre metástase, não há mais cura”. As opções para o tratamento são cirurgia para remover a próstata, assim como radioterapia. 
+O câncer de próstata é a segunda principal causa de morte em homens. A doença não causa dor ou dificuldade, por isso, o urologista Mark Neumaier, do Hospital Marcelino Champagnat, em Curitiba (PR), ressalta a importância do diagnóstico precoce. “A doença só é curável enquanto o câncer está localizado na próstata, mas quando ocorre metástase, não há mais cura”. As opções para o tratamento são cirurgia para remover a próstata, assim como radioterapia.
 
-Como a doença é silenciosa, a prevenção e o acompanhamento médico são essenciais. Homens com mais de 45 anos ou com histórico familiar de câncer devem frequentar o urologista com regularidade, pois o risco é três vezes maior que o restante da população, que faz o check-up anualmente com 50 anos. Câncer de pele e de pulmão também possuem mais incidência no gênero masculino. 
+Como a doença é silenciosa, a prevenção e o acompanhamento médico são essenciais. Homens com mais de 45 anos ou com histórico familiar de câncer devem frequentar o urologista com regularidade, pois o risco é três vezes maior que o restante da população, que faz o check-up anualmente com 50 anos. Câncer de pele e de pulmão também possuem mais incidência no gênero masculino.
 
-No caso de monitoramento de colesterol, diabetes e pressão arterial, os exames são recomendados a partir dos 20 anos, levando em conta pacientes que possuem histórico familiar de doenças no coração. Falta de ar e dores constantes no peito são sintomas que precisam de atendimento imediato. As doenças cardiovasculares são a principal causa de morte no Brasil. 
+No caso de monitoramento de colesterol, diabetes e pressão arterial, os exames são recomendados a partir dos 20 anos, levando em conta pacientes que possuem histórico familiar de doenças no coração. Falta de ar e dores constantes no peito são sintomas que precisam de atendimento imediato. As doenças cardiovasculares são a principal causa de morte no Brasil.
 
-A perda de força, fraqueza ou formigamento de um lado do corpo e dores fortes de cabeça podem ser sinais de AVC, que também acomete mais os homens. Os principais fatores de risco estão ligados justamente com as doenças no coração. 
+A perda de força, fraqueza ou formigamento de um lado do corpo e dores fortes de cabeça podem ser sinais de AVC, que também acomete mais os homens. Os principais fatores de risco estão ligados justamente com as doenças no coração.
 
 Confira alguns cuidados que podem ser tomados para prevenir doenças:
 
@@ -59,7 +58,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

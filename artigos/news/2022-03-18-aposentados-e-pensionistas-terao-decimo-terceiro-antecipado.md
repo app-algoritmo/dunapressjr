@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Parcelas serão pagas com os benefícios de abril e maio.
 
 Pelo terceiro ano seguido, os cerca de 30,5 milhões de aposentados e pensionistas do Instituto Nacional do Seguro Social (INSS) receberão o décimo terceiro com antecedência. O presidente Jair Bolsonaro assinou nesta segunda-feira (17) decreto que autoriza a antecipação do pagamento.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

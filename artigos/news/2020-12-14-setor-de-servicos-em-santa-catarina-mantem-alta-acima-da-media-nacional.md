@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Mais uma vez Santa Catarina se destaca no cenário nacional e registra o quinto aumento consecutivo no setor de serviços. Dados da Pesquisa Mensal de Serviços, divulgados nesta sexta-feira, 11, pelo IBGE, apontam um aumento de 2,5% no volume de serviços em outubro deste ano, quando comparado com o mesmo mês do ano passado. O resultado é o segundo melhor do país, atrás apenas do Mato Grosso do Sul, e acima da média brasileira, com recuo de 7,4%.
 
-Em relação a setembro, o setor catarinense cresceu 1,8%, taxa ligeiramente maior que a da média nacional que foi de 1,7%, na mesma comparação. 
+Em relação a setembro, o setor catarinense cresceu 1,8%, taxa ligeiramente maior que a da média nacional que foi de 1,7%, na mesma comparação.
 
 “O setor de serviços é o maior da economia catarinense, sendo um dos grandes motores que fazem girar a economia. Os números mostram uma recuperação gradativa, depois da forte queda de março e abril devido ao impacto da pandemia. O Governo de Santa Catarina vem trabalhando em várias frentes, por meio de medidas efetivas e em conjunto com o setor produtivo para alavancar a recuperação econômica do estado e ao mesmo tempo combater à Covid-19. Os números nos dão a confiança de que estamos no caminho certo e que Santa Catarina será um dos primeiros estados a ter uma efetiva recuperação de sua economia”, avalia o Secretário de Estado do Desenvolvimento Econômico Sustentável, Celso Albuquerque.
 
@@ -38,7 +37,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

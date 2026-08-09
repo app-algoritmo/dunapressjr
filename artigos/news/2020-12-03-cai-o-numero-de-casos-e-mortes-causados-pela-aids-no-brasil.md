@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Neste 1° de dezembro, lembrado como Dia Mundial de Luta contra a Aids, o Ministério da Saúde apresentou dados que mostram queda no número de casos de detecção e de mortes pela doença no Brasil. Entre 2012 e 2019 houve um decréscimo de 18,7% na taxa de detecção de Aids. Já a taxa de mortalidade teve queda de 17,1% nos últimos cinco anos, entre 2015 e 2019.
 
 “Hoje talvez tenhamos o menor índice de mortalidade por Aids no Brasil nos últimos 10 anos com 4.1 por 100 mil habitantes”, ressalta o secretário de vigilância em saúde, Arnaldo Medeiros.
@@ -52,7 +51,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

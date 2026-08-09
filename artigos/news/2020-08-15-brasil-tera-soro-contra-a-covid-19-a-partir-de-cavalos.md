@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Resultado aponta que o soro tem anticorpos até 50 vezes mais potentes contra o vírus SARS-CoV-2. Apoio da CAPES foi essencial para o avanço da pesquisa.
 
 Pesquisadores da Universidade Federal do Rio de Janeiro (UFRJ) e do Instituto Vital Brazil (RJ) desenvolveram um soro contra a COVID-19. A pesquisa, financiada pela Coordenação de Aperfeiçoamento de Pessoal (CAPES), traz resultados promissores para o tratamento da doença. O trabalho, coordenado por Jerson Lima Silva, pesquisador da UFRJ e presidente da Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (Faperj), aponta que o soro produzido a partir do plasma de cavalos tem anticorpos até 50 vezes mais potentes que os humanos contra o vírus SARS-CoV-2.
@@ -26,6 +25,6 @@ Fonte Redação CCS/CAPES
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)****

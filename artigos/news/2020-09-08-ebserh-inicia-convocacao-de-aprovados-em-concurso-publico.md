@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-No total, foram oferecidas 1.660 vagas em todo o País. Empresa já iniciou convocação de candidatos com Deficiência. 
+No total, foram oferecidas 1.660 vagas em todo o País. Empresa já iniciou convocação de candidatos com Deficiência.
 
 A Empresa Brasileira de Serviços Hospitalares (Ebserh) inicia, nesta sexta-feira (4), a convocação de profissionais aprovados no Concurso Nacional 01/2019. A estatal, em conjunto com outros órgãos, conseguiu reverter o entendimento da Procuradoria-Geral da Fazenda Nacional (PGFN), acerca da Lei Complementar 173/2020, que impedia a realização de contratações para substituir profissionais que se desligaram antes do dia 28 de maio de 2020 (início da vigência da lei complementar). O novo entendimento é de que as reposições de vacâncias poderão ser feitas sem um limite temporal.
 
@@ -18,7 +17,7 @@ Ainda está em vigor decisão do Tribunal Regional do Trabalho da 10º Região q
 
 “Vamos continuar trabalhando tendo como objetivo dar as melhores condições para os nossos empregados e para as unidades hospitalares”, finalizou Barbosa.
 
-O resultado final do concurso nacional da Rede Ebserh foi publicado no último dia 29 de abril e os editais com a classificação final podem ser conferidos nos sites da Rede Ebserh e do Instituto IBFC, banca organizadora do certame. 
+O resultado final do concurso nacional da Rede Ebserh foi publicado no último dia 29 de abril e os editais com a classificação final podem ser conferidos nos sites da Rede Ebserh e do Instituto IBFC, banca organizadora do certame.
 
 Foram oferecidas 1.660 vagas em todo o País, sendo 533 vagas para médicos em 88 especialidades, 998 vagas para a área assistencial em 53 especialidades e 129 para a área administrativa em 23 especialidades.
 
@@ -29,5 +28,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

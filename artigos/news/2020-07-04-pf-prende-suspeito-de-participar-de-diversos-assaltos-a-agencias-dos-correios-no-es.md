@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Vila Velha/ES – A Polícia Federal deflagrou nesta sexta-feira, 3/7, após dez meses de investigação, a Operação Aplicativo Francês, com o objetivo de cumprir mandado de prisão, expedido pela Justiça Federal de Vitória, em face de assaltante dos Correios. A operação contou com a participação de dez policiais federais.
 
 A ordem judicial foi cumprida na residência do envolvido, localizada no bairro das Laranjeiras, no município da Serra. O investigado também responde por crime de homicídio.
@@ -25,4 +24,4 @@ O investigado responderá pelo crime de roubado qualificado, previsto no art. 15
 
 Comunicação Social da Polícia Federal no Espírito Santo
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

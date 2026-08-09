@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Automóveis serão dispensados de exigência de licenciamento.
 
 A partir de desta quinta-feira (2), os automóveis e os componentes automotivos montados na Argentina, no Paraguai e no Uruguai deixarão de entrar no país com licenciamento de importação, informou o Ministério da Economia. Os controles serão feitos posteriormente, o que, segundo a pasta, tornará a importação mais ágil e barata.
@@ -26,10 +25,6 @@ A isenção do regime especial de importação também alcança o setor de servi
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

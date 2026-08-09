@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Relatora diz que objetivo é diminuir judicialização das eleições.
 
 A Câmara dos Deputados aprovou nesta quinta-feira (9) o projeto de lei complementar que estabelece o novo Código Eleitoral. O texto-base foi aprovado por 378 votos favoráveis e 80 contrários. O documento tem quase 900 artigos e reformula a legislação partidária e eleitoral. Parlamentares continuarão a análise de destaques na próxima semana.
@@ -34,7 +33,7 @@ Além disso, o novo código aumenta de cinco para dez o número mínimo de parla
 
 Outro dispositivo estabelece mecanismos contra a divulgação de *fake news* (notícias falsas) nas eleições ao autorizar a Justiça Eleitoral a suspender perfis identificados como robôs nas redes sociais durante o pleito.
 
-Outro artigo impõe quarentena para policiais que forem disputar uma vaga eletiva – eles precisarão deixar o cargo cinco anos antes da eleição. A nova regra terá validade a partir de 2026. Inicialmente, a proposta incluía militares, policiais, juízes e membros do Ministério Público, mas essas categorias foram retiradas pelos deputados. 
+Outro artigo impõe quarentena para policiais que forem disputar uma vaga eletiva – eles precisarão deixar o cargo cinco anos antes da eleição. A nova regra terá validade a partir de 2026. Inicialmente, a proposta incluía militares, policiais, juízes e membros do Ministério Público, mas essas categorias foram retiradas pelos deputados.
 
 ## Contrários
 
@@ -44,10 +43,6 @@ Os únicos partidos que se manifestaram contra o texto foram o Novo, a Rede e o 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

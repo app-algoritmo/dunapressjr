@@ -23,7 +23,7 @@ A Storm Riders terá disputas nas categorias Elite – Masculino e Feminino – 
 
 **Entrega de kits –** Os kits para os participantes estarão disponíveis no sábado (12), das 10h às 20h, na Decathlon Paulista (avenida Paulista, 854 - Bela Vista).
 
-A Storm Riders tem patrocínio da Probiotica, Shimano, Strava e La Maglia,  com organização da Sagaz Esportes. 
+A Storm Riders tem patrocínio da Probiotica, Shimano, Strava e La Maglia,  com organização da Sagaz Esportes.
 
 **Storm Riders****
 Data:** 13.08, domingo
@@ -31,9 +31,7 @@ Data:** 13.08, domingo
 **Largada e chegada:** em frente ao Estádio do Pacaembu (Praça Charles Miller)
 
 ***Mais informações: ******
-Site: [www.stormriders.com.br](https://click.presskit.com.br/url/9620234054/6361388b6fc) [
-](https://click.presskit.com.br/url/962024641c/6361388b6fc)Instagram: @stormriders_br*[
-](https://click.presskit.com.br/url/962025c858/6361388b6fc)*
+Site: [www.stormriders.com.br](https://click.presskit.com.br/url/9620234054/6361388b6fc) Instagram: @stormriders_br**
 ZDL
 Doro Jr. - MTb 13209 - *[dorojr@zdl.com.br](https://click.presskit.com.br/url/9620260ab5/6361388b6fc)* - 11 984579723**
 Deborah Mamone - MTb 15148  - *[deborah@zdl.com.br](https://click.presskit.com.br/url/962027e652/6361388b6fc)* - 11 3285.5911**

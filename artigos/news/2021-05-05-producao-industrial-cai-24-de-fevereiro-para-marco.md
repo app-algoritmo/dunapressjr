@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Números são da Pesquisa Industrial Mensal do IBGE.
 
 A produção industrial brasileira recuou 2,4% na passagem de fevereiro para março deste ano, segundo dados divulgados hoje (5), no Rio de Janeiro, pelo Instituto Brasileiro de Geografia e Estatística (IBGE), em sua Pesquisa Industrial Mensal (PIM). Essa é a segunda queda consecutiva, já que, de janeiro para fevereiro, houve uma retração de 1%.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

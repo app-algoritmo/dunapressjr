@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 ## Ministra Tereza Cristina e diretor do Serviço Florestal participaram do encontro. O sistema vai possibilitar a análise dos cadastros em larga escala.
 
-A ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina, e o diretor-geral do Serviço Florestal Brasileiro, Valdir Colatto se reuniram nesta sexta-feira (10), por videoconferência, com representantes de secretarias estaduais e institutos de Meio Ambiente para a apresentação da plataforma da análise dinamizada do Cadastro Ambiental Rural (CAR). 
+A ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina, e o diretor-geral do Serviço Florestal Brasileiro, Valdir Colatto se reuniram nesta sexta-feira (10), por videoconferência, com representantes de secretarias estaduais e institutos de Meio Ambiente para a apresentação da plataforma da análise dinamizada do Cadastro Ambiental Rural (CAR).
 
 O sistema de análise dinamizada é um programa informatizado, desenvolvido em parceira com a Universidade Federal de Lavras (UFLA), que vai permitir a análise dos cadastros, em larga escala, a revisão das informações que foram declaradas e a verificação da situação da regularidade ambiental, das áreas de preservação permanente, de reserva legal e de uso restrito. Manualmente, um funcionário consegue fazer a análise de um cadastro por dia, o que inviabilizaria a análise das 6,5 milhões de inscrições realizadas.
 
@@ -35,7 +34,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

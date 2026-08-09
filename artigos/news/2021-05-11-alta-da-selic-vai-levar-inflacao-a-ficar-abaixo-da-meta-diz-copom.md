@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para o comitê, elevação reflete "normalização parcial dos juros".
 
 O Comitê de Política Monetária (Copom) afirmou que elevar a taxa de juros Selic até um patamar considerado neutro vai levar a inflação a ficar "consideravelmente" abaixo da meta. A informação consta da última ata da reunião do comitê divulgada hoje (11). Na ocasião, o Copom decidiu elevar a taxa básica de juros para 3,5% ao ano.
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Nanismo é classificado como deficiência física, decorrente de condições genéticas, caracterizando-se pela baixa estatura se comparada com a média da população de mesma idade e sexo. Essa condição, no Brasil, é reconhecida como deficiência física desde 2004.
 
 Em 2017 foi sancionada a [**Lei 13.472**](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/L13472.htm) que estabelece 25 de outubro como “Dia Nacional de Combate ao Preconceito contra as Pessoas com Nanismo”, objetivando conscientizar a sociedade para relações mais equânimes, oportunidades de trabalho com dignidade e construção de políticas públicas que assegurem a acessibilidade e a autonomia dessas pessoas.
@@ -84,7 +83,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

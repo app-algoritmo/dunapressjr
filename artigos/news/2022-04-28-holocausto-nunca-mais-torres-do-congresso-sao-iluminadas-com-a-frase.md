@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Além de homenagear as vítimas, a iniciativa lembra também o espírito de resistência dos que conseguiram se rebelar em cidades europeias sob ocupação e em campos de concentração e extermínio.
 
 As torres do Congresso Nacional foram iluminadas na noite desta quarta-feira (27) com a projeção da frase “Holocausto Nunca Mais”. Como em anos anteriores, o ato é uma ação da Confederação Israelita do Brasil (CONIB) e conta com o apoio do Senado Federal e da Câmara dos Deputados, casas do Congresso Nacional.
@@ -28,8 +27,6 @@ Fonte: Conib
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
 
-Gratuitamente, clique e comece já!
-
 Fonte: Conib
 
 **Ver também:**
@@ -41,7 +38,3 @@ Fonte: Conib
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

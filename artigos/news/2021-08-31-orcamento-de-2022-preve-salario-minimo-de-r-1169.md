@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Valor é R$ 22 maior que o aprovado na LDO.
 
 A alta da inflação nos últimos meses fez o governo elevar a previsão para o salário mínimo no próximo ano. O projeto da lei orçamentária de 2022, enviado nesta terça-feira (31) ao Congresso Nacional, prevê salário mínimo de R$ 1.169, R$ 22 mais alto que o valor de R$ 1.147 aprovado na[** Lei de Diretrizes Orçamentárias (LDO) **](https://agenciabrasil.ebc.com.br/economia/noticia/2021-08/ldo-2022-e-publicada-no-diario-oficial-da-uniao).
@@ -26,10 +25,6 @@ A previsão para o dólar médio foi mantida em R$ 5,15.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

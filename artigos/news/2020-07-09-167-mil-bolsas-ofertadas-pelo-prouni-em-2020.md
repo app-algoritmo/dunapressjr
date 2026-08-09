@@ -7,16 +7,15 @@ categories:
 - News
 ---
 
-
 ## Candidatos já podem consultar as opções disponíveis; inscrições vão de 14 a 17 de julho.
 
-Os candidatos que quiserem concorrer a uma bolsa do Programa Universidade para Todos (Prouni) do Ministério da Educação (MEC) já podem consultar as opções disponíveis. O Programa oferece bolsas de estudos integrais (100%) e parciais (50%) em instituições particulares de ensino superior. 
+Os candidatos que quiserem concorrer a uma bolsa do Programa Universidade para Todos (Prouni) do Ministério da Educação (MEC) já podem consultar as opções disponíveis. O Programa oferece bolsas de estudos integrais (100%) e parciais (50%) em instituições particulares de ensino superior.
 
-A busca pode ser realizada no [portal do Prouni](http://prouniportal.mec.gov.br/) e as inscrições serão abertas na próxima terça-feira (14), com encerramento previsto para sexta-feira (17). Nesta edição do Prouni, que é o segundo processo seletivo de 2020, foram disponibilizadas 167.780 bolsas no total, sendo 60.551 bolsas integrais e 107.229 bolsas parciais. O resultado da primeira chamada deve ser divulgado ainda este mês, no dia 21 de julho. Lembrando que o Prouni tem, ainda, outras duas oportunidades (segunda chamada e lista de espera) para os candidatos concorrerem às bolsas de estudo. O cronograma completo está no [portal do Prouni](http://prouniportal.mec.gov.br/). 
+A busca pode ser realizada no [portal do Prouni](http://prouniportal.mec.gov.br/) e as inscrições serão abertas na próxima terça-feira (14), com encerramento previsto para sexta-feira (17). Nesta edição do Prouni, que é o segundo processo seletivo de 2020, foram disponibilizadas 167.780 bolsas no total, sendo 60.551 bolsas integrais e 107.229 bolsas parciais. O resultado da primeira chamada deve ser divulgado ainda este mês, no dia 21 de julho. Lembrando que o Prouni tem, ainda, outras duas oportunidades (segunda chamada e lista de espera) para os candidatos concorrerem às bolsas de estudo. O cronograma completo está no [portal do Prouni](http://prouniportal.mec.gov.br/).
 
 **Requisitos**
 
-Para concorrer às bolsas integrais, o estudante deve comprovar renda familiar bruta mensal, por pessoa, de até 1,5 salário mínimo. Para as bolsas parciais (50%), a renda familiar bruta mensal deve ser de até 3 salários mínimos por pessoa. O candidato também precisa ter realizado o último Enem e ter alcançado, no mínimo, 450 pontos de média nas notas. Além disso, o estudante não pode ter tirado zero na redação. 
+Para concorrer às bolsas integrais, o estudante deve comprovar renda familiar bruta mensal, por pessoa, de até 1,5 salário mínimo. Para as bolsas parciais (50%), a renda familiar bruta mensal deve ser de até 3 salários mínimos por pessoa. O candidato também precisa ter realizado o último Enem e ter alcançado, no mínimo, 450 pontos de média nas notas. Além disso, o estudante não pode ter tirado zero na redação.
 
 **Bolsas**
 
@@ -28,7 +27,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,34 +7,33 @@ categories:
 - History
 ---
 
-
 Celso Monteiro Furtado, nasceu aos 26 de julho de 1920, em Pombal (Paraíba), filho de Maurício Medeiros Furtado e Maria Alice Monteiro Furtado. Em 1944, formou-se em Direito. Aos sete anos, mudou-se com a família para João Pessoa, onde estudou no Liceu Paraibano. Completou os estudos no Ginásio Pernambucano, em Recife. Cursou Direito (1939-1944) na Faculdade Nacional de Direito da Universidade Federal do Rio de Janeiro.
 
-Logo após a formatura, foi convocado para integrar a FEB (Força Expedicionária Brasileira), quando em janeiro de 1945, embarcou para a Itália como aspirante a oficial da Força Expedicionária Brasileira (FEB), para lutar na II Guerra Mundial, finda a guerra retornou ao Brasil em agosto do mesmo ano, onde permaneceu até 1946. 
+Logo após a formatura, foi convocado para integrar a FEB (Força Expedicionária Brasileira), quando em janeiro de 1945, embarcou para a Itália como aspirante a oficial da Força Expedicionária Brasileira (FEB), para lutar na II Guerra Mundial, finda a guerra retornou ao Brasil em agosto do mesmo ano, onde permaneceu até 1946.
 
-Em 1947, viajou para a Inglaterra para realizar um período de estudos na London School of Economics. Neste ínterim, iniciou o curso de doutorado em Economia, na Universidade de Sorbonne, em Paris (França), onde defendeu em 1948 a tese "A Economia Brasileira no Período Colonial" e escreveu o primeiro ensaio sobre a economia brasileira contemporânea (1949), os quais foram precursores do livro escrito na Inglaterra, que se tornou mais conhecido, sendo publicado em 1959 com o título “Formação econômica do Brasil”, imaginando explicar o Brasil para os estrangeiros, servindo mais para os brasileiros. 
+Em 1947, viajou para a Inglaterra para realizar um período de estudos na London School of Economics. Neste ínterim, iniciou o curso de doutorado em Economia, na Universidade de Sorbonne, em Paris (França), onde defendeu em 1948 a tese "A Economia Brasileira no Período Colonial" e escreveu o primeiro ensaio sobre a economia brasileira contemporânea (1949), os quais foram precursores do livro escrito na Inglaterra, que se tornou mais conhecido, sendo publicado em 1959 com o título “Formação econômica do Brasil”, imaginando explicar o Brasil para os estrangeiros, servindo mais para os brasileiros.
 
 “É velho lugar-comum, muitas vezes esquecido, afirmar que a economia existe para o homem, não o homem para a economia”.Sempre pensei como cidadão de meu país e membro da humanidade, logo, como político. Se procurei estudar economia foi na busca de instrumentos que pudessem ajudar a organizar o mundo, e organizar o mundo é construir a justiça.”
 
 Nesta estada em Paris, conheceu sua primeira esposa, a química argentina Lúcia Piave Tosi, com quem teve dois filhos, Mario Tosi Furtado (1949) e André Tosi Furtado (1954). Por contingências na política brasileira, como passagem interessante, moraram em Paris, onde ela permaneceu até 1983, atuando como pesquisadora do Centre National de la Recherche Scientifique (CNRS) na Universidade Pierre e Marie Curie. Aposentada em 1983, enquanto estava na França, presenciou a explosão do movimento feminista após maio de 1968, juunto com outras mulheres latino-americanas exiladas das ditaduras, criou o Grupo Latino-Americano de Mulheres em Paris, onde abraçou com fervor a luta das mulheres pela construção da igualdade.
 
-0 livro, “Formação econômica do Brasil”, enfoca como novidade a combinação do método histórico com a análise econômica, primeira ocorrência no Brasil. O texto principia com uma análise da ocupação do território brasileiro, equiparando-se às colônias do hemisfério Norte e Antilhas, perpassando pelos ciclos do açúcar, pecuária, ouro, ascensão da economia cafeeira, e, no século XX, a crise da cafeicultura e a industrialização, cuja especificidade Furtado tratou com excepcional clareza. Ele tornou-se um marco na historiografia econômica brasileira, como curiosidade: o manuscrito enviado de Cambridge para a Editora Nacional brasileira extraviou-se. Por sorte, o microfilme feito de última hora num equipamento precário pôde ser projetado, quase trezentas páginas escritas à mão foram datilografadas, dessa vez com cópia. 
+0 livro, “Formação econômica do Brasil”, enfoca como novidade a combinação do método histórico com a análise econômica, primeira ocorrência no Brasil. O texto principia com uma análise da ocupação do território brasileiro, equiparando-se às colônias do hemisfério Norte e Antilhas, perpassando pelos ciclos do açúcar, pecuária, ouro, ascensão da economia cafeeira, e, no século XX, a crise da cafeicultura e a industrialização, cuja especificidade Furtado tratou com excepcional clareza. Ele tornou-se um marco na historiografia econômica brasileira, como curiosidade: o manuscrito enviado de Cambridge para a Editora Nacional brasileira extraviou-se. Por sorte, o microfilme feito de última hora num equipamento precário pôde ser projetado, quase trezentas páginas escritas à mão foram datilografadas, dessa vez com cópia.
 
-Já casado, retornando ao Brasil, foi trabalhar no Departamento Administrativo do Serviço Público (DASP) e Fundação Getúlio Vargas (FGV). Em 1949, transferiu-se para Santiago do Chile para trabalhar na recém-criada Comissão Econômica para a América Latina (CEPAL). Em 1950, foi nomeado diretor da divisão de Desenvolvimento Econômico desta Comissão. 
+Já casado, retornando ao Brasil, foi trabalhar no Departamento Administrativo do Serviço Público (DASP) e Fundação Getúlio Vargas (FGV). Em 1949, transferiu-se para Santiago do Chile para trabalhar na recém-criada Comissão Econômica para a América Latina (CEPAL). Em 1950, foi nomeado diretor da divisão de Desenvolvimento Econômico desta Comissão.
 
-Convidado para presidir o Grupo Misto de Estudos [Convênio CEPAL e Banco Nacional de Desenvolvimento Econômico (BNDE)], retornou ao Rio de Janeiro em 1953, voltando à sede da Cepal, em Santiago do Chile, em 1955, para dirigir um estudo sobre a economia mexicana, o que acabou resultando em nova mudança, indo à Cidade do México, em 1956. Foi nomeado em 1958, pelo presidente Juscelino Kubitschek, interventor junto ao Grupo de Trabalho para o Desenvolvimento do Nordeste (GTDN). 
+Convidado para presidir o Grupo Misto de Estudos [Convênio CEPAL e Banco Nacional de Desenvolvimento Econômico (BNDE)], retornou ao Rio de Janeiro em 1953, voltando à sede da Cepal, em Santiago do Chile, em 1955, para dirigir um estudo sobre a economia mexicana, o que acabou resultando em nova mudança, indo à Cidade do México, em 1956. Foi nomeado em 1958, pelo presidente Juscelino Kubitschek, interventor junto ao Grupo de Trabalho para o Desenvolvimento do Nordeste (GTDN).
 
-Em janeiro de 1959, participou no Palácio Rio Negro, em Petrópolis (RJ), numa reunião convocada por Kubitschek para discutir a situação do Nordeste, que atravessava grave crise decorrente da seca. Apresentou ao Presidente os resultados dos estudos que vinha realizando junto ao GTDN, onde recebeu a incumbência de elaborar um plano de política econômica para esta região. 
+Em janeiro de 1959, participou no Palácio Rio Negro, em Petrópolis (RJ), numa reunião convocada por Kubitschek para discutir a situação do Nordeste, que atravessava grave crise decorrente da seca. Apresentou ao Presidente os resultados dos estudos que vinha realizando junto ao GTDN, onde recebeu a incumbência de elaborar um plano de política econômica para esta região.
 
 "Eu venho de um mundo que me parecia catastrófico. Pombal é das cidades mais ásperas do sertão. Região seca, de homens secos. Muito menino, eu olhava pela fresta da janela a chegada dos cangaceiros.”
 
 Em nova reunião ocorrida 30 dias após a primeira no Palácio do Catete (RJ), Furtado propôs a transformação do Conselho de Desenvolvimento do Nordeste (CODENO) numa estrutura mais efetiva, de onde se originou a Superintendência do Desenvolvimento do Nordeste (SUDENE), cujo anteprojeto de lei foi enviado ao Congresso Nacional, em fevereiro de 1959, o qual previa a   criação da Superintendência, com sede em Recife. Nesta ocasião lançou-se, também, o nome de Celso Furtado para Superintendente do referido órgão. Porém, houve algumas objeções a essa indicação, o que dificultou a tramitação no Congresso.  Diante deste fato, Furtado empenhou-se não só pela aprovação do projeto, como também batalhou pela aceitação de sua nomeação  por parte da opinião pública.
 
-Em 27 de maio de 1959, a Câmara dos Deputados aprovou a criação da Sudene, e em 13 de dezembro seguinte, foi sancionada a Lei nº 3.692 que instituía o novo órgão, vinculado diretamente à presidência da República. Nomeado primeiro superintendente da Sudene, Celso Furtado foi designado pelo BNDE para coordenar em Recife, a instalação da Superintendência, a qual passou a operar com planos plurianuais, planos diretores de desenvolvimento econômico e social no âmbito regional. O 1º destes planos, em maio de 1960, foi encaminhado ao Congresso e gerou intenso debate.  Ele propunha quatro diretrizes: a) sistematização dos investimentos em matéria de transportes; b) aumento da capacidade de energia elétrica; c) aproveitamento dos recursos humanos; d) reestruturação da economia rural.  Trazia em seu cerne, também outros objetivos, tais como: a industrialização, a colonização do Maranhão, a criação de uma reserva alimentar de emergência e o levantamento dos recursos minerais. Com isso caberia à Sudene, a organização ou a incorporação de sociedades de economia mista, a fim de executar obras tidas como prioritárias para o desenvolvimento regional. Contudo, apesar da tentativa de políticos nordestinos de barrar o andamento do projeto, pois receavam perder posições e privilégios, ele foi aprovado em agosto de 1961. 
+Em 27 de maio de 1959, a Câmara dos Deputados aprovou a criação da Sudene, e em 13 de dezembro seguinte, foi sancionada a Lei nº 3.692 que instituía o novo órgão, vinculado diretamente à presidência da República. Nomeado primeiro superintendente da Sudene, Celso Furtado foi designado pelo BNDE para coordenar em Recife, a instalação da Superintendência, a qual passou a operar com planos plurianuais, planos diretores de desenvolvimento econômico e social no âmbito regional. O 1º destes planos, em maio de 1960, foi encaminhado ao Congresso e gerou intenso debate.  Ele propunha quatro diretrizes: a) sistematização dos investimentos em matéria de transportes; b) aumento da capacidade de energia elétrica; c) aproveitamento dos recursos humanos; d) reestruturação da economia rural.  Trazia em seu cerne, também outros objetivos, tais como: a industrialização, a colonização do Maranhão, a criação de uma reserva alimentar de emergência e o levantamento dos recursos minerais. Com isso caberia à Sudene, a organização ou a incorporação de sociedades de economia mista, a fim de executar obras tidas como prioritárias para o desenvolvimento regional. Contudo, apesar da tentativa de políticos nordestinos de barrar o andamento do projeto, pois receavam perder posições e privilégios, ele foi aprovado em agosto de 1961.
 
 “Porque no centro de minhas reflexões estavam problemas reais, a pesquisa econômica foi sempre para mim um meio de preparar a ação, minha ou de outros. Compreender melhor o mundo para agir sobre ele com mais eficácia. Isso significa que os fins últimos devem estar sempre presentes no espírito.”
 
-Em 25 de agosto de 1961, a renúncia de Jânio Quadros à presidência da República, desencadeou uma grave crise política. Os ministros militares decidiram vetar a posse do vice-presidente João Goulart. Com isso, Celso Furtado continuou na superintendência da Sudene.Em 1962, ao ser nomeado por Goulart para ocupar o ministério do Planejamento, ficou incumbido de elaborar, em dois meses, um plano governamental de política econômica, que foi divulgado em 30 de dezembro, denominado “Plano Trienal de Desenvolvimento Econômico e Social”, executado por Celso Furtado e Santiago Dantas. 
+Em 25 de agosto de 1961, a renúncia de Jânio Quadros à presidência da República, desencadeou uma grave crise política. Os ministros militares decidiram vetar a posse do vice-presidente João Goulart. Com isso, Celso Furtado continuou na superintendência da Sudene.Em 1962, ao ser nomeado por Goulart para ocupar o ministério do Planejamento, ficou incumbido de elaborar, em dois meses, um plano governamental de política econômica, que foi divulgado em 30 de dezembro, denominado “Plano Trienal de Desenvolvimento Econômico e Social”, executado por Celso Furtado e Santiago Dantas.
 
 Ao ver fracassada a proposta de estabilização e de crescimento econômico, Goulart decidiu promover mudanças em seu ministério e com isso Celso Furtado deixa o ministério, retorna à Recife para dedicar-se integralmente à SUDENE, até 31 de março de 1964, quando da eclosão do movimento político-militar que depôs Goulart e instaurou novo regime, o que forçou a saída de Furtado do referido órgão. Com a edição do Ato Institucional nº 1 (AI-1), Celso Furtado teve seu nome incluído na primeira lista de cassados. Depois da anistia, Celso Furtado voltou várias vezes ao Brasil. Em 1986, foi nomeado Ministro da Cultura no governo Sarney, criando a primeira legislação de incentivo à cultura. Em 1999, seu livro "O Capitalismo Global" ganhou o Prêmio Jabuti, na Categoria Ensaio.
 
@@ -44,21 +43,21 @@ Morando seis meses por ano em Paris, retomou as atividades literárias e acadêm
 
 Em 1978, casou-se com a segunda esposa, a jornalista Rosa Freire d'Aguiar, com quem conviveu até o final da vida.Participou de seminários e integrou o Conselho Acadêmico da Universidade das Nações Unidas, em Tóquio.
 
-Em agosto de 1979, recebeu a anistia do governo brasileiro e em agosto de 1981,  com a extinção do bipartidarismo, retoma a militância política e filia-se ao Partido do Movimento Democrático Brasileiro, (PMDB), criado em novembro de 1979. Concomitantemente a isso, manteve atividades acadêmicas como diretor de pesquisas da École des Hautes Études en Sciences Sociales, em Paris. 
+Em agosto de 1979, recebeu a anistia do governo brasileiro e em agosto de 1981,  com a extinção do bipartidarismo, retoma a militância política e filia-se ao Partido do Movimento Democrático Brasileiro, (PMDB), criado em novembro de 1979. Concomitantemente a isso, manteve atividades acadêmicas como diretor de pesquisas da École des Hautes Études en Sciences Sociales, em Paris.
 
-Participou intensamente da campanha de Tancredo Neves às eleições indiretas para a presidência da República, em 1984. 
+Participou intensamente da campanha de Tancredo Neves às eleições indiretas para a presidência da República, em 1984.
 
-Em janeiro de 1985, foi convidado a integrar a comissão destinada a elaborar o Plano de Ação do Governo. Com o falecimento de Tancredo, foi indicado em março pelo presidente José Sarney, para o cargo de embaixador do Brasil junto à Comunidade Económica Europeia, em Bruxelas - Bélgica, contudo só assumiu o posto em outubro. 
+Em janeiro de 1985, foi convidado a integrar a comissão destinada a elaborar o Plano de Ação do Governo. Com o falecimento de Tancredo, foi indicado em março pelo presidente José Sarney, para o cargo de embaixador do Brasil junto à Comunidade Económica Europeia, em Bruxelas - Bélgica, contudo só assumiu o posto em outubro.
 
 Em fevereiro de 1986, substituiu o ministro da cultura Aluísio Pimenta, lugar que ocupou até agosto de 1988.
 
-Em 2000, em comemoração de seus 80 anos, a Academia Brasileira de Letras do Rio de Janeiro realizou a exposição "Celso Furtado: Vocação Brasil". 
+Em 2000, em comemoração de seus 80 anos, a Academia Brasileira de Letras do Rio de Janeiro realizou a exposição "Celso Furtado: Vocação Brasil".
 
 Em 2001 a Fundação Carlos Chagas de Apoio à Pesquisa do estado do Rio de Janeiro instituiu o “Prêmio Celso Furtado de desenvolvimento”.
 
 O economista Celso Furtado não se considerava “homem de letras”, mas homem de pensamento. Como pensador o reconhece também críticos e estudiosos da economia, como o economista Francisco de Oliveira, ao afirmar que a obra de Celso Furtado vai além de outras interpretações da realidade brasileira, “não porque seja teoricamente superior, senão porque foi escrita in actione. Enquanto as obras anteriores explicaram e “construíram” o país do passado, a de Furtado explica e no Correio das Artes n. 400 (de 31 de outubro de 1997), suplemento mensal de A União, de João Pessoa, Evandro Nóbrega, Coordenador Geral e Editor desta edição comemorativa de sua recepção na ABL, registrou esse depoimento de Celso Furtado: “Quando, finalmente, aos 26 anos de idade, comecei a estudar Economia de maneira sistemática, minha visão do mundo já estava definida. Assim, a Economia não chegaria a ser mais que um instrumental, que me permitia com maior eficácia tratar problemas que vinham da observação da História ou da vida dos homens em Sociedade. Pouca influência teve a Economia, portanto, na conformação do meu espírito. Nunca pude compreender a existência de um problema “estritamente econômico”. Por exemplo, a inflação nunca foi, em meu espírito, outra coisa senão a manifestação de conflitos de certo tipo entre grupos sociais. Da mesma forma, uma empresa nunca foi outra coisa senão a materialização do desejo e Poder de um ou vários agentes sociais, em uma de suas múltiplas formas”.
 
-Celso Furtado está entre os grandes economistas do mundo que estudaram, no pós-guerra, e de forma pioneira, os problemas do desenvolvimento econômico relacionando-os com problemas históricos, como Gunnar Myrdal, Raúl Prebisch, Ragnar Nurkse, Hans Singer e outros. Criador de uma obra inovadora com uma leitura contemporânea das contradições do capitalismo, o economista foi o único brasileiro indicado ao Prêmio Nobel de Economia, em 2013. 
+Celso Furtado está entre os grandes economistas do mundo que estudaram, no pós-guerra, e de forma pioneira, os problemas do desenvolvimento econômico relacionando-os com problemas históricos, como Gunnar Myrdal, Raúl Prebisch, Ragnar Nurkse, Hans Singer e outros. Criador de uma obra inovadora com uma leitura contemporânea das contradições do capitalismo, o economista foi o único brasileiro indicado ao Prêmio Nobel de Economia, em 2013.
 
 [...] é quando a capacidade criativa do homem volta-se para a descoberta dele mesmo, empenha-se em enriquecer o seu universo de valores, que se pode falar de desenvolvimento. Efetiva-se o desenvolvimento quando a acumulação conduz à criação de valores que se difundem em importantes segmentos da coletividade." (Celso Furtado, em "Cultura e Desenvolvimento em época de crise". Rio de Janeiro: Paz e Terra, 1984, p.107).
 
@@ -76,7 +75,7 @@ Data de falecimento
 
 Prêmios e condecorações
 
-Membro do Conselho Editorial das revistas Econômica Brasileira (1954-64), Desarollo Económico (Buenos Aires, 1966-70), El Trimestre Econômico (México, 1965- ), Revista de Economia Política (São Paulo, 1981- ), Pensamiento Iberoamericano (Madri, 1982- 
+Membro do Conselho Editorial das revistas Econômica Brasileira (1954-64), Desarollo Económico (Buenos Aires, 1966-70), El Trimestre Econômico (México, 1965- ), Revista de Economia Política (São Paulo, 1981- ), Pensamiento Iberoamericano (Madri, 1982-
 
 Membro do Conselho Acadêmico da Universidade das Nações Unidas (Tóquio, 1978-82), do Committee for Development Planning das Nações Unidas (1979-82), da South Commission (1987-91), da Commission mondiale pour la Culture et lê développement (ONU/UNESCO, 1993-95), do Comitê International de Bioéthique (UNESCO, 1995-97);
 
@@ -84,7 +83,7 @@ Doutor Honoris Causa das Universidades: Técnica de Lisboa (Portugal, 1987), da 
 
 Em 1997, a Academia de Ciências do Terceiro Mundo, sediada em Trieste, criou o “Prêmio Celso Furtado”, outorgado a cada dois anos a um cientista social do Terceiro Mundo;
 
-Em 1997, tornou-se membro do Comitê de Bioética da Unesco. Em 31 de outubro de 1997, tomou posse na Academia Brasileira de Letras (ABL).  
+Em 1997, tornou-se membro do Comitê de Bioética da Unesco. Em 31 de outubro de 1997, tomou posse na Academia Brasileira de Letras (ABL).
 
 Em 2001 a Fundação Carlos Chagas de Apoio à Pesquisa do estado do Rio de Janeiro instituiu o “Prêmio Celso Furtado de desenvolvimento”;
 
@@ -92,7 +91,7 @@ Membro da Academia Brasileira de Ciências (2003).
 
 Referências
 
-Referências: 
+Referências:
 
 BIOGRAFIA. Disponível em [https://www.academia.org.br/academicos/celso-furtado/biografia](https://www.academia.org.br/academicos/celso-furtado/biografia). Acessado em 14 fev 22 às 6h00.
 
@@ -260,7 +259,7 @@ Mais 05 obras....
 
 Análise do modelo brasileiro (original) (1983). Tóquio: Shinsekaisha, nº 5
 
-Obstacles to development in Latin America (original) (1972). (Textos extraídos de Subdesenvolvimento e estagnação na América Latina e Um projeto para o Brasil) Tóquio: Shinsekaisha, nº 4. 
+Obstacles to development in Latin America (original) (1972). (Textos extraídos de Subdesenvolvimento e estagnação na América Latina e Um projeto para o Brasil) Tóquio: Shinsekaisha, nº 4.
 
 Mais 02 obras....
 
@@ -301,7 +300,3 @@ Fonte:  https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

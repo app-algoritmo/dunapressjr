@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Prazo de entrega da declaração de microempreendedor também foi adiado.
 
 O atraso na liberação do sistema e a falta de uma fonte de compensação fizeram o governo adiar o prazo de adesão ao parcelamento especial de negócios inscritos no Simples Nacional. A data, que acabaria no fim de abril, passou para 31 de maio.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

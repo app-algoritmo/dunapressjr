@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Uma cidadela cananéia de 3.200 anos, onde batalhas épicas foram travadas durante os tempos bíblicos, foi desenterrada perto da cidade israelense de Kiryat Gat, anunciou a Autoridade de Antiguidades de Israel (IAA) no domingo.
 
 O forte do século 12 aC próximo ao Kibutz Gal On e ao riacho Guvrin, cerca de 70 quilômetros (40 milhas) ao sul de Jerusalém, foi construído pelos egípcios, que governavam a área na época, como uma defesa contra os filisteus, em uma época correspondente ao período do Livro dos Juízes bíblico, o IAA disse em um comunicado.
@@ -57,7 +56,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

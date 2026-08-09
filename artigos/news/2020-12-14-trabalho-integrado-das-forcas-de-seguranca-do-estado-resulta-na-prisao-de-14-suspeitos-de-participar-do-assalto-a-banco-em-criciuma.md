@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O governador Carlos Moisés participou nesta quinta-feira, 9, de entrevista coletiva para atualização das investigações sobre o assalto a uma agência bancária que assustou moradores de Criciúma, na madrugada do dia 1º. Até agora, 14 pessoas envolvidas na ação foram presas.
 
 O governador reafirmou que o fato não combina com a realidade da segurança pública em Santa Catarina e que as forças de segurança seguem empenhadas no trabalho de investigação. Na abertura da coletiva, o governador também manifestou solidariedade aos familiares e ao policial militar Jeferson Luiz Esmeraldino, que foi baleado na ação criminosa e continua internado em estado grave.
@@ -43,7 +42,7 @@ Por volta das 23h50 do dia 30 de novembro, criminosos com armas pesadas, muniç�
 
 No dia do roubo à agência bancária, quatro pessoas chegaram a ser presas quando recolhiam cédulas que ficaram espalhadas pelo chão próximo à agência bancária que foi alvo de explosões provocadas pelos bandidos. Com eles, a polícia apreendeu cerca de R$ 810 mil em dinheiro. O montante levado pelos bandidos está estimado em R$ 80 milhões.
 
-Fotos: Peterson Paul / Secom 
+Fotos: Peterson Paul / Secom
 
 Fonte: sc.gov.br/noticias
 
@@ -55,7 +54,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

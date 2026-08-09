@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 As instituições federais selecionadas para o Programa Academia e Futebol já foram selecionadas. Foi publicada esta semana [portaria com o resultado final da homologação das inscrições](https://www.in.gov.br/en/web/dou/-/portaria-n-2-de-25-de-novembro-de-2020-290327276) para apoio à estruturação e ao funcionamento da iniciativa da Secretaria Nacional de Futebol e Defesa dos Direitos do Torcedor, da Secretaria Especial do Esporte do Ministério da Cidadania. O projeto tem como objetivo proporcionar a prática do futebol, futsal e beach soccer a crianças e adolescentes e pessoas com deficiência. Também apoia a produção de conhecimentos sobre a modalidade e incentiva a participação dos pesquisadores em congressos e a promoção de cursos e eventos.
 
 **Foram homologadas, ao todo, 40 propostas nos seguintes estados: Rio Grande do Sul (1), Santa Catarina (1), São Paulo (4), Rio de Janeiro (1), Espírito Santo (1), Minas Gerais (4), Distrito Federal (1), Mato Grosso do Sul (2), Alagoas (2), Rio Grande do Norte (1), Bahia (4), Pernambuco (3), Paraíba (1), Ceará (1), Piauí (1), Maranhão (4), Amapá (1), Amazonas (1) Pará (3), Rondônia (1) e Tocantins (2).**
@@ -30,7 +29,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

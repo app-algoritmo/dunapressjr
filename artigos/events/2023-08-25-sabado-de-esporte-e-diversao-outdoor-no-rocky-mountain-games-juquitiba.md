@@ -31,10 +31,9 @@ Site: **[**https://rockymountaingames.com.br/****
 **](https://click.presskit.com.br/url/9666746e01/6361388b6fc)**Instagram : **[**https://www.instagram.com/rockymountaingames/****
 **](https://click.presskit.com.br/url/9666759c82/6361388b6fc)**Fan page - **[**https://www.facebook.com/rmountaingames****
 **](https://click.presskit.com.br/url/96667649a5/6361388b6fc)**Youtube - [https://www.youtube.com/channel/UC2Zd1D_1VDhPsOjbKUyFt0Q
-](https://click.presskit.com.br/url/96667741ef/6361388b6fc)**[
-](https://click.presskit.com.br/url/9666786726/6361388b6fc)***ZDL***
+](https://click.presskit.com.br/url/96667741ef/6361388b6fc)*****ZDL***
 ***Doro Jr. - MTb 13209 - ***[***dorojr@zdl.com.br***](https://click.presskit.com.br/url/966679aa12/6361388b6fc)*** - F: 11 984579723***
 ***Rafael De Marco - Mtb.: 27556 - ***[***rafael@zdl.com.br***](https://click.presskit.com.br/url/966680bdf1/6361388b6fc)*** - Cel: 11 976022986 / WhatsApp: 19 997912108******
-Site: [www.zdl.com.br](https://click.presskit.com.br/url/966681fe88/6361388b6fc) 
-Facebook: [www.facebook.com/ZDLSports](https://click.presskit.com.br/url/966682d9a8/6361388b6fc) 
+Site: [www.zdl.com.br](https://click.presskit.com.br/url/966681fe88/6361388b6fc)
+Facebook: [www.facebook.com/ZDLSports](https://click.presskit.com.br/url/966682d9a8/6361388b6fc)
 Instagram: [www.instagram.com/zdlsports](https://click.presskit.com.br/url/966683d433/6361388b6fc)***

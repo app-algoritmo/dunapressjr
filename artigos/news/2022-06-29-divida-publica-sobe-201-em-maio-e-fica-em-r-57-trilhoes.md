@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Em abril, indicador tinha aumentado 0,45%.
 
 O baixo volume de vencimentos e a alta dos juros fizeram a Dívida Pública Federal (DPF) subir em maio. Segundo números divulgados nesta terça-feira (28) pelo Tesouro Nacional, a DPF passou de R$ 5,59 trilhões em abril para R$ 5,702 trilhões no mês passado, alta de 2,01%.
@@ -54,8 +53,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

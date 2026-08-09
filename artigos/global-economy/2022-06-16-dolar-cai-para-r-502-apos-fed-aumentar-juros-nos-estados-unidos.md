@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Bolsa de valores interrompe série de quedas e sobe 0,73%.
 
 Em um dia de melhoria no cenário externo, o dólar caiu para perto de R$ 5, e a bolsa interrompeu uma sequência de oito quedas. A decisão do Federal Reserve (Fed, Banco Central norte-americano) de aumentar os juros básicos nos Estados Unidos em ritmo maior que o esperado foi bem recebida pelos investidores internacionais, provocando alívio em todo o planeta.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

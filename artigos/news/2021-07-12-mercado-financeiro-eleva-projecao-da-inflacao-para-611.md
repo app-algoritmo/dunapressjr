@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Previsão para expansão do PIB subiu para 5,26% em 2021.
 
 A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA - a inflação oficial do país) deste ano subiu de 6,07% para 6,11%. A estimativa está no boletim Focus de hoje (12), pesquisa divulgada semanalmente, em Brasília, pelo Banco Central (BC), com a projeção para os principais indicadores econômicos.
@@ -24,7 +23,7 @@ Para alcançar a meta de inflação, o Banco Central usa como principal instrume
 
 Para o mercado financeiro, a expectativa é que a Selic encerre 2021 em 6,63% ao ano. Para o fim de 2022, a estimativa é que a taxa básica suba para 7% ao ano. E tanto para 2023 como para 2024, a previsão é 6,50% ao ano.
 
-Quando o Copom aumenta a taxa básica de juros, a finalidade é conter a demanda aquecida, e isso causa reflexos nos preços porque os juros mais altos encarecem o crédito e estimulam a poupança. Desse modo, taxas mais altas podem dificultar a recuperação da economia. 
+Quando o Copom aumenta a taxa básica de juros, a finalidade é conter a demanda aquecida, e isso causa reflexos nos preços porque os juros mais altos encarecem o crédito e estimulam a poupança. Desse modo, taxas mais altas podem dificultar a recuperação da economia.
 
 Além disso, os bancos consideram outros fatores na hora de definir os juros cobrados dos consumidores, como risco de inadimplência, lucro e despesas administrativas.
 
@@ -38,10 +37,6 @@ A expectativa para a cotação do dólar variou de R$ 5,04 para R$ 5,05 ao final
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A renda efetiva, no mesmo período, teve alta de 0,9%.
 
 Estudo do Instituto de Pesquisa Econômica Aplicada (Ipea), divulgado nesta sexta-feira (17), mostra que houve queda de 6,6% na renda habitual e aumento de 0,9% na renda efetiva do trabalhador brasileiro no segundo trimestre de 2021, na comparação com o mesmo trimestre do ano passado, o pior momento do mercado de trabalho durante a pandemia da covid-19.
@@ -26,10 +25,6 @@ A renda dos jovens adultos - de 25 a 39 anos de idade - foi a mais afetada pela 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

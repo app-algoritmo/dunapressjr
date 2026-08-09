@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em relação aos dez meses de 2019, a queda chegou a 44,6%.
 
 A crise gerada pela pandemia do novo coronavírus (covid-19) tem levado à redução dos investimentos estrangeiros no setor produtivo do país. Já os investimentos em ações, títulos e fundos de investimento mostram sinais de reação, segundo dados do Banco Central (BC), divulgados hoje (25).
@@ -39,5 +38,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

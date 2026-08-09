@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Em maio, o reajuste mediano foi de 12,3%.
 
 O reajuste mediano dos salários obtidos nas negociações salariais em junho é de 12%, ante o Índice Nacional de Preços ao Consumidor (INPC) acumulado de 11,9%. Em maio, o reajuste mediano foi de 12,3%, segundo o boletim mensal da Fundação Instituto de Pesquisas Econômicas (Fipe) Salariômetro - Mercado de Trabalho e Negociações Coletivas.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

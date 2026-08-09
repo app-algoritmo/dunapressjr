@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Prazo mínimo será de 36 meses e carência de seis meses.
 
 O Conselho Monetário Nacional (CMN) regulamentou o Programa de Capital de Giro para Preservação de Empresas (CGPE) criado pela Medida Provisória nº 992, de 16 de julho de 2020. O **[programa](https://dunapress.org/2020/07/18/governo-cria-novo-programa-de-apoio-as-micro-pequenas-e-medias-empresas/)** visa a propiciar às microempresas e empresas de pequeno e médio porte melhores condições para a obtenção de crédito junto às instituições financeiras.
@@ -32,4 +31,4 @@ Segundo o BC, a regulamentação possibilita que os empréstimos liberados pelos
 
 Fonte: Agência Brasil  - Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

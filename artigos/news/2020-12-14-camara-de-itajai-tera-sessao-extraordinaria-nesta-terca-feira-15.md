@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Câmara de Vereadores de Itajaí realiza nesta terça-feira (15) a 6ª Sessão Extraordinária de 2020. Estão previstos para entrar em discussão e votação 19 projetos de lei. O encontro acontece em sequência da 62ª Sessão Ordinária, que tem início às 16h.
 
 A convocação da sessão foi feita pela Mesa Diretora do Legislativo, e lida na sessão ocorrida nesta quinta-feira (10).
@@ -53,7 +52,7 @@ Pública sem denominação oficial localizada no Bairro Cidade Nova.
 
 [Projeto de Lei Ordinária nº 158/2020:](http://www.cvi.sc.gov.br/public/elegis2/pdf/projetodeleiordinaria158_2020.pdf) altera dispositivo na Lei nº 6.781/2017, que dispõe sobre o Plano Plurianual do Município para o quadriênio 2018-2021 e da Lei nº 7.211/2020, que dispõe sobre as diretrizes para a elaboração da Lei Orçamentária Anual (LOA) para o exercício de 2021.
 
-O acesso ao prédio da Câmara segue restrito a vereadores e servidores durante a pandemia. As sessões estão sendo transmitidas via youtube.com/CamaraItajai, facebook.com/CamaraItajai e pela TV Câmara de Itajaí no canal 14 da NET. 
+O acesso ao prédio da Câmara segue restrito a vereadores e servidores durante a pandemia. As sessões estão sendo transmitidas via youtube.com/CamaraItajai, facebook.com/CamaraItajai e pela TV Câmara de Itajaí no canal 14 da NET.
 
 Fonte: cvi.sc.gov.br
 
@@ -65,7 +64,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Empregados da estatal terão prioridade para comprar 10% das ações.
 
 Os empregados e aposentados da Eletrobras e de suas subsidiárias terão prioridade na compra de até 10% das ações no processo de privatização da companhia, definiu nesta terça-feira (19) o Conselho do Programa de Parcerias de Investimentos (CPPI). O conselho aprovou a resolução que define o modelo de desestatização.
@@ -28,14 +27,10 @@ O Estatuto Social da Eletrobras será alterado para incentivar a pulverização 
 
 Na reunião desta terça-feira, o Conselho do PPI também aprovou a modelagem da concessão das BRs 493, 465 e 116, que ligam o Rio de Janeiro a Governador Valadares (MG). A concorrência será pelo critério de julgamento híbrido e de descontos tarifários, que dá prioridade a quem oferecer mais desconto no pedágio, nos moldes da concessão da Rodovia Dutra, que liga o Rio a São Paulo.
 
-Os editais serão publicados antes do fim do ano, com o leilão previsto para o primeiro trimestre de 2022. Segundo o Ministério da Infraestrutura, a concessão abrirá caminho para R$ 8,6 bilhões de investimentos nos próximos 30 anos. Atualmente, 269 mil veículos trafegam por dia nos 727 quilômetros da rodovia. 
+Os editais serão publicados antes do fim do ano, com o leilão previsto para o primeiro trimestre de 2022. Segundo o Ministério da Infraestrutura, a concessão abrirá caminho para R$ 8,6 bilhões de investimentos nos próximos 30 anos. Atualmente, 269 mil veículos trafegam por dia nos 727 quilômetros da rodovia.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

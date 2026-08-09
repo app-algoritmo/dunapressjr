@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Segundo Guedes, governo quer que super-ricos paguem mais impostos.
 
 Todas as micro e pequenas empresas optantes do Simples Nacional continuarão isentas da taxação de dividendos, disse nesta quarta-feira (28) o ministro da Economia, Paulo Guedes. Segundo ele, a proposta de reforma tributária em tramitação no Congresso pretende fazer com que os super-ricos paguem mais impostos.
@@ -32,10 +31,6 @@ Na avaliação de Guedes, a queda no Imposto de Renda das empresas significará 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

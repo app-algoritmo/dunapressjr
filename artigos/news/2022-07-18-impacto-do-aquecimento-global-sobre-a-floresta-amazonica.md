@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O que é a pesquisa?
 
 As rápidas mudanças do clima do planeta, causadas principalmente pela queima de [combustíveis fósseise ](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/242-impacto-do-aquecimento-global-sobre-a-floresta-amazonica#)pelo desmatamento, podem representar uma séria ameaça às florestas da bacia Amazônica. Apesar do impacto do [aquecimento global](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/242-impacto-do-aquecimento-global-sobre-a-floresta-amazonica#) sobre a floresta tropical ser desconhecido, já é possível prever temperaturas mais elevadas e secas prolongadas para a região, que poderão acarretar a diminuição da [biomassa](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/242-impacto-do-aquecimento-global-sobre-a-floresta-amazonica#) florestal.
@@ -22,11 +21,11 @@ O projeto AmazonFACE será implantado na Reserva Biológica do Cuieiras, do Inst
 
 A tecnologia FACE (Free Air CO2 Enrichiment ou enriquecimento de dióxido de carbono ao ar livre) consiste na aspersão constante de CO2, com o mínimo de perturbação para o ecossistema natural, para verificar se o aumento da concentração atmosférica desse gás estimula o crescimento das árvores e a resistência à seca. Cada área de floresta receberá 16 torres dispostas em formato circular, as quais sustentarão tubos ligados a um tanque de armazenamento de CO2 (figura 1). O enriquecimento atmosférico com CO2 ocorrerá somente durante o dia, durante todo o ano, de acordo com a direção do vento. Um computador manterá a concentração de CO2 desejada dentro da área estudada. No centro do círculo de torres e tubos será instalada uma torre principal que dará acesso à copa das árvores. Nessa torre, serão instalados instrumentos para monitoramento meteorológico. As reações da floresta ao aumento da concentração do CO2 (fotossíntese e respiração nas folhas, crescimento de árvores e de plântulas, umidade do solo, quantidade de nutrientes no solo, distribuição e desenvolvimento de raízes finas) serão monitoradas. Muitas instituições de pesquisa serão parceiras na execução do projeto e terão cientistas e estudantes participando do monitoramento.
 
-**Figura 1**. Representação esquemática de um sistema de enriquecimento por CO2 ao ar livre (Free Air CO2 Enrichment). Fonte: Nature Publishing Group. 
+**Figura 1**. Representação esquemática de um sistema de enriquecimento por CO2 ao ar livre (Free Air CO2 Enrichment). Fonte: Nature Publishing Group.
 
 A implantação da primeira área de estudo será em 2017. Chamado pelos pesquisadores de experimento piloto, ele será importante para avaliar as dificuldades envolvidas na construção das torres, no transporte e no fornecimento de grande quantidade de CO2 líquido em uma área relativamente afastada de centros urbanos. Outra questão importante que merecerá a atenção dos pesquisadores é a altura das árvores, que poderá dificultar o acesso para a realização das medições que precisam ser feitas bem próximas às folhas. Os resultados obtidos com o experimento piloto serão comparados ao de uma área controle, que não receberá aporte de CO2, definida na mesma região do projeto. Resultados e comparações permitirão adaptações e correções no curso da pesquisa, para que novos experimentos de longo prazo, com duração de pelo menos 10 anos, sejam replicados em outras áreas, para buscar, então, as respostas da floresta ao aumento da concentração de CO2 atmosférico, incluindo seu impacto sobre o ciclo do carbono no solo da floresta.
 
-Pesquisas semelhantes ao AmazonFACE, que determinaram a resposta de florestas ao aumento de CO2atmosférico, já foram realizadas em regiões temperadas do planeta. Contudo, será a primeira vez que esse tipo de pesquisa avaliará a resposta de florestas tropicais.[](https://canalciencia.ibict.br/images/itens/PESQUISAS/ImpactoDoAquecimentoGlobalSobreaFlorestaAmazonica/2/0296basedatorre.png)
+Pesquisas semelhantes ao AmazonFACE, que determinaram a resposta de florestas ao aumento de CO2atmosférico, já foram realizadas em regiões temperadas do planeta. Contudo, será a primeira vez que esse tipo de pesquisa avaliará a resposta de florestas tropicais.
 
 ## Qual a importância da pesquisa?
 
@@ -64,9 +63,5 @@ Fonte:  https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
 
 [](mailto:?subject=Impacto%20do%20aquecimento%20global%20sobre%20a%20floresta%20Amaz%C3%B4nica&body=Os%20pesquisadores%20desenvolveram%20o%20projeto%20AmazonFACE%20para%20entender%20como%20o%20aumento%20do%20CO2%20atmosf%C3%A9rico%20afeta%20a%20floresta%20Amaz%C3%B4nica%2C%20a%20biodiversidade%20que%20ela%20abriga%20e%20os%20servi%C3%A7os%20ambientais%20que%20ela%20prov%C3%AA.%20%0A%0A%20https%3A%2F%2Fcanalciencia.ibict.br%2Fciencia-em-sintese1%2Fciencias-biologicas%2F242-impacto-do-aquecimento-global-sobre-a-floresta-amazonica)

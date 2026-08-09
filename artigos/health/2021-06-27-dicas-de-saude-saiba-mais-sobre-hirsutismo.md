@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Hirsutismo é o aumento da quantidade de pelos no corpo da mulher em locais comuns ao homem. Embora seja raro, costuma afetar as mulheres durante os anos férteis e após a menopausa.
 
 **Sintomas:**
@@ -68,7 +67,3 @@ Evite tomar sol pelo menos nas primeiras 24 horas depois das sessões de depila�
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

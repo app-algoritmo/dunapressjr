@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O dispositivo coleta dados escaneando os vasos sanguíneos do olho e envia os resultados diretamente aos médicos. Em breve será testado no espaço.
 
 Cientistas israelenses inventaram um método para realizar exames de sangue sem tirar uma gota de sangue - e lançam seu dispositivo ao espaço para testá-lo.
@@ -49,7 +48,3 @@ Fonte: timesofisrael.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

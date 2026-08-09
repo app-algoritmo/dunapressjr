@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Queda nos preços de commodities e combustíveis influenciam resultado.
 
 O Índice Geral de Preços – Mercado (IGP-M), considerado a inflação do aluguel, caiu 0,95% em setembro, após queda de 0,70% no mês anterior. Com o resultado, o índice acumula alta de 6,61% no ano e de 8,25% em 12 meses. Em setembro de 2021, o índice havia caído 0,64% e acumulava alta de 24,86% em 12 meses.
@@ -36,14 +35,10 @@ Em contrapartida, os grupos alimentação (0,44% para -0,34%) e despesas diversa
 
 ### INCC
 
-O Índice Nacional de Custo da Construção (INCC) variou 0,10% em setembro, ante 0,33% em agosto. Os três grupos componentes do INCC registraram as seguintes variações na passagem de agosto para setembro: materiais e equipamentos (0,03% para -0,14%), serviços (0,68% para 0,34%) e mão de obra (0,54% para 0,26%). 
+O Índice Nacional de Custo da Construção (INCC) variou 0,10% em setembro, ante 0,33% em agosto. Os três grupos componentes do INCC registraram as seguintes variações na passagem de agosto para setembro: materiais e equipamentos (0,03% para -0,14%), serviços (0,68% para 0,34%) e mão de obra (0,54% para 0,26%).
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

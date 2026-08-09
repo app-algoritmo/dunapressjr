@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Mais 117 municípios brasileiros vão passar a contar com o Programa de Aquisição de Alimentos (PAA), que compra produtos produzidos pela agricultura familiar, com dispensa de licitação. Depois, os alimentos são destinados a pessoas em situação de insegurança alimentar e nutricional.
 
 Agora, serão mais 3.953 agricultores familiares beneficiados, de 15 estados brasileiros. São eles: Alagoas, Amazonas, Bahia, Ceará, Maranhão, Minas Gerais, Mato Grosso do Sul, Paraíba, Pernambuco, Paraná, Rio Grande do Sul, Santa Catarina, São Paulo, Rondônia e Tocantins. A decisão consta de três portarias publicadas, neste mês, no Diário Oficial da União.
@@ -39,5 +38,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor.
 
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

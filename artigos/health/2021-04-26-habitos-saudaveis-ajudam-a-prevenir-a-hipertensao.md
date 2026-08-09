@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 No Dia Nacional de Combate à Hipertensão, 26 de abril, o Ministério da Saúde chama a atenção da população para a importância de hábitos saudáveis como forma de prevenção e controle da pressão alta, como a doença é popularmente conhecida. O consumo excessivo de sal, o tabagismo e, somado a isso, o consumo de álcool e o sedentarismo são fatores de risco associados à hipertensão, que atinge um a cada quatro brasileiros adultos.
 
 Por dia, 829 pessoas morrem por complicações da hipertensão. São mais de 300 mil óbitos por ano, de acordo com os dados preliminares do Sistema de Informações de Mortalidade (SIM), do Ministério da Saúde. A alimentação inadequada, com o consumo excessivo de sódio (o principal componente do sal), aumenta o risco de hipertensão.
@@ -68,5 +67,3 @@ Ver também:
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

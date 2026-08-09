@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Criado inicialmente para produzir o soro antipestoso, desde o início o Instituto Butantan se destaca pela atuação no campo do ofidismo (estudo do veneno das serpentes), marca determinada pela presença de Vital Brazil.
 
 Apenas quatro meses depois de sua fundação oficial, o Instituto Butantan começou a produzir um dos seus produtos mais antigos: os soros antiofídicos. Esses soros se destinam ao tratamento de vítimas de acidentes com serpentes. Um dos primeiros soros a ser produzido nessa linha foi o soro anticrotálico, para tratar os acidentados por cascavéis, e, em seguida, o soro antibotrópico, relacionado a acidentes com jararacas.
@@ -30,5 +29,3 @@ Fonte: https://butantan.gov.br
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

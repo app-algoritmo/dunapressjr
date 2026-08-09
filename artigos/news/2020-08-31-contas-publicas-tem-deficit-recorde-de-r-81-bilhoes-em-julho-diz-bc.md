@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Saldo negativo foi devido aos gastos para enfrentamento da pandemia.
 
 As contas públicas registraram, em julho, saldo negativo recorde, devido às despesas extraordinárias necessárias para o enfrentamento da pandemia da covid-19. O setor público consolidado, formado por União, estados e municípios, apresentou déficit primário de R$ 81,071 bilhões, no mês passado, o maior resultado negativo para o mês da série histórica iniciada em dezembro de 2001. Em julho de 2019, houve déficit primário de R$ 2,763 bilhões. Os dados foram divulgados hoje (31) pelo Banco Central (BC).
@@ -44,8 +43,6 @@ Em julho, a dívida bruta - que contabiliza apenas os passivos dos governos fede
 
 A dívida pública bruta é um indicador usado para avaliar a solvência das finanças de um país. Quanto mais alto o indicador, maior a desconfiança em relação à capacidade de um governo honrar os compromissos.
 
-fonte: Agência Brasil - Imagem de destaque: Marcello Casal Jr./Agência Brasil 
+fonte: Agência Brasil - Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

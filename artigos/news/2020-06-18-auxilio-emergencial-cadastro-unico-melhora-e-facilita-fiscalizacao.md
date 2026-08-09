@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Detalhes técnicos e operacionais foram alterados e prometem avanços.
 
 Governo Federal edita decreto que define a base do Cadastro Único utilizada para pagamento do auxílio emergencial. A medida se mostra relevante ao aprimorar e tornar mais eficiente a remuneração desse socorro financeiro, evitando atrasos no processo de pagamento do auxílio, bem como eventual duplicação de pagamentos, entre outros possíveis problemas.
@@ -18,7 +17,7 @@ Desta forma, o Decreto propicia maior assertividade às regras estabelecidas no 
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

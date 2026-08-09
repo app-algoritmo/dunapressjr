@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Processo de peer review do PCN vai resultar em diagnóstico com recomendações de aprimoramento, ajudando na acessão do país à organização internacional.
 
 Uma equipe avaliadora formada por representantes dos Pontos de Contato Nacional (PCNs) da Alemanha, Argentina e Reino Unido, em conjunto com membros do Secretariado da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), realizou reuniões virtuais com *stakeholders* (partes interessadas) do PCN Brasil. Com o intuito de levantar informações sobre a atuação do PCN brasileiro, considerando as Diretrizes da OCDE para as Empresas Multinacionais, os avaliadores conversaram, entre os dias 14 e 17 de março, com representantes da administração pública, de sindicatos, da academia, de empresas e da sociedade civil.
@@ -31,8 +30,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

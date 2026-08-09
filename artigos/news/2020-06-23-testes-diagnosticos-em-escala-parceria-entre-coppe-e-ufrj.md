@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Coppe/UFRJ firmou parceria com Bio-Manguinhos/Fiocruz e com a empresa FK Biotecnologia-Imunobiotech para a produção de testes sorológicos para diagnóstico da Covid-19. Os testes estão sendo desenvolvidos, com o apoio da unidade Embrapii-Coppe e do Sebrae, a partir da proteína S (*spike*) presente na superfície do novo coronavírus. A proteína S está sendo produzida desde fevereiro de 2020 em células geneticamente modificadas no Laboratório de Engenharia de Cultivos Celulares (Lecc) da Coppe, coordenado pela professora Leda Castilho.
 
 De acordo com a professora do Programa de Engenharia Química da Coppe, a produção de testes confiáveis no Brasil permitirá ampliar significativamente a testagem da população brasileira, que hoje em dia é muito baixa. “Os testes que detectam anticorpos do tipo IgG, os quais podem estar relacionados à imunidade, são muito importantes para compreender a disseminação da doença, subsidiar modelos epidemiológicos, auxiliar no desenvolvimento de vacinas, assim como permitir que decisões de políticas públicas sejam cientificamente embasadas”, esclarece.
@@ -20,7 +19,7 @@ Em conjunto com o professor André Vale, do Instituto de Biofísica Carlos Chaga
 
 Amostras da proteína S produzida no Laboratório de Engenharia de Cultivos Celulares já foram entregues às empresas parceiras, as quais estão produzindo testes do tipo “ELISA” (FK Biotecnologia-Imunobiotech) e do tipo teste rápido (Bio-Manguinhos). Dada a urgência por testes confiáveis para diagnóstico da Covid-19, a parceria apoiada pela Embrapii e pelo Sebrae visa a otimização e o escalonamento do processo de produção e purificação da proteína, para que a tecnologia possa ser implementada em maior escala.
 
-“O escalonamento inicial do processo até escala de biorreator de 50 litros ocorrerá na Coppe, já possibilitando a obtenção de proteína S em quantidade suficiente para produção de dezenas de milhares de testes por semana”, antecipa a professora Leda Castilho. 
+“O escalonamento inicial do processo até escala de biorreator de 50 litros ocorrerá na Coppe, já possibilitando a obtenção de proteína S em quantidade suficiente para produção de dezenas de milhares de testes por semana”, antecipa a professora Leda Castilho.
 
 De acordo com o vice-diretor de Desenvolvimento Tecnológico de Bio-Manguinhos, Sotiris Missailidis, “o Instituto participa com apoio técnico para o escalonamento da produção da proteína S e com o desenvolvimento de um teste rápido para detecção de anticorpos. É uma parceria de inovação aberta; um exemplo de colaboração nacional, de instituições públicas e privadas, para dar resposta às necessidades do País, garantir a independência tecnológica e fortalecer o combate à atual crise da Covid-19. O objetivo final é a produção do teste rápido em larga escala, para atender às demandas do Ministério de Saúde".
 
@@ -35,8 +34,6 @@ Antes de firmar a parceria apoiada pela Embrapii e pelo Sebrae, o projeto lidera
 Fonte: gov.br/mec / Imagem em destaque: Ab
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 - U$ 1,00 mensal
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Dados são da Associação Brasileira de Supermercados.
 
 O consumo nos lares brasileiros aumentou 2,59% no primeiro trimestre do ano, de acordo com o Índice Nacional de Consumo dos Lares Brasileiros da Associação Brasileira de Supermercados (Abras), divulgado nesta quinta-feira (12) pela entidade. A maior variação do consumo do trimestre foi registrada em março, com alta de 6,58% na comparação com fevereiro. Em relação a março de 2021, a alta é de 2,41%.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

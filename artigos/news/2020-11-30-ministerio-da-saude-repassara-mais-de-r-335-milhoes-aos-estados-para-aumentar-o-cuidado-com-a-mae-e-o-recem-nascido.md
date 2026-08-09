@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Um total de R$ 335 milhões será repassado aos estados brasileiros para a compra de equipamentos destinados ao cuidado e à assistência pública às gestantes e recém-nascidos. O anúncio foi feito pelo ministro da Saúde, Eduardo Pazuello, e tem como objetivo melhorar o atendimento ao pré-natal, prevenir o parto prematuro e intensificar os cuidados aos recém-nascidos. A medida faz alusão ao Novembro Roxo, mês da conscientização para a prevenção da prematuridade.
 
 Segundo o ministro, mais de 50% dos óbitos infantis podem ser evitados a partir de uma atenção cuidadosa à gestação e ao parto.
@@ -53,7 +52,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

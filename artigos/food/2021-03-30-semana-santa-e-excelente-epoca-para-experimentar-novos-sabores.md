@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 Depois das reflexões e restrições nos 40 dias da quaresma, chega a hora de se esbaldar com as deliciosas comidas da Páscoa. A reunião de familiares e amigos na sexta-feira Santa e no Domingo de Páscoa traz o costume da substituição de carnes vermelhas por peixes e frutos do mar.
 
 Mas antes do sabor, é preciso ter cuidados já na hora de comprar! Para assegurar a qualidade e evitar riscos de infecções ou intoxicações, os alimentos devem ser escolhidos, conservados e manipulados de forma correta.
@@ -43,7 +42,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

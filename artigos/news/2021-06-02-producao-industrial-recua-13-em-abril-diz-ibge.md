@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No acumulado do ano, houve alta de 10,5%.
 
 A produção industrial brasileira caiu 1,3% na passagem de março para abril. Foi a terceira queda seguida do setor, que acumula perda de 4,4% nesses três meses. O dado, da Pesquisa Industrial Mensal, foi divulgado hoje (2), no Rio de Janeiro, pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

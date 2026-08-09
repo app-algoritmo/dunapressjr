@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Depois de meses ameaçando inviabilizar a lei da nacionalidade de 2015 com requisitos draconianos, o Partido Socialista diz que, em vez disso, insistirá em que os candidatos demonstrem uma 'conexão genuína'.
 
 O partido no poder de Portugal recuou de uma tentativa de limitar severamente os pedidos de cidadania de descendentes de judeus sefarditas, um movimento ameaçado que líderes e organizações judaicas haviam acusado de ser anti-semita.
@@ -64,6 +63,6 @@ Fonte The Time Of Israel
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

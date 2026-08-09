@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Crescimento é recorde da série histórica iniciada em 1974.
 
 O rebanho bovino nacional teve aumento de 3,1%, chegando a 224,6 milhões de cabeças em 2021, recorde da série histórica iniciada em 1974. A estimativa deu continuidade ao crescimento iniciado em 2019 e foi também o maior valor já projetado, superando o recorde anterior da série histórica, de 218,2 milhões em 2016.
@@ -32,7 +31,7 @@ Segundo o IBGE, o efetivo de galináceos teve acréscimo de 3,5%, equivalente a 
 
 O rebanho de suínos cresceu 3,2% em 2021, chegando a 42,5 milhões de animais, recorde da série histórica. Metade desse rebanho está na Região Sul. O município com o maior rebanho foi, mais uma vez, Toledo (PR), com 869,2 mil cabeças.
 
-O valor de produção dos principais produtos de origem animal (leite, ovos de galinha e codorna, mel, casulos de bicho-da-seda e lã) chegou a R$ 91,4 bilhões em 2021. O leite concentrou 74,5% desse valor. Desde 2017, Santa Maria de Jetibá (ES) é o município brasileiro com o maior valor dessa produção (R$ 1,4 bilhão). 
+O valor de produção dos principais produtos de origem animal (leite, ovos de galinha e codorna, mel, casulos de bicho-da-seda e lã) chegou a R$ 91,4 bilhões em 2021. O leite concentrou 74,5% desse valor. Desde 2017, Santa Maria de Jetibá (ES) é o município brasileiro com o maior valor dessa produção (R$ 1,4 bilhão).
 
 A produção de ovos de galinha superou a marca de 2020 em 1,7% e alcançou 4,8 bilhões de dúzias, representando mais um ano de recorde na série histórica da pesquisa. O valor de produção foi de R$ 21,9 bilhões. O município líder em produção de ovos foi Santa Maria de Jetibá (ES), com 339,5 milhões de dúzias.
 
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

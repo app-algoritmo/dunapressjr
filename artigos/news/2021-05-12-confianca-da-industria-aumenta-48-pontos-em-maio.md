@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado rompe quatro quedas consecutivas do índice.
 
 Após quatro quedas consecutivas, o Índice de Confiança do Empresário Industrial (Icei), divulgado pela Confederação Nacional da Indústria (CNI), subiu 4,8 pontos em maio, na comparação com abril, e atingiu 58,5 pontos, em uma escala que vai de 0 a 100 pontos, tendo, na marca dos 50 pontos, a linha de corte entre confiança e falta de confiança por parte do empresário brasileiro.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

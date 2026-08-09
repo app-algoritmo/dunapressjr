@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Esse foi o maior superávit para o mês desde 2016.
 
 Com o crescimento da arrecadação e a redução das despesas geradas pela pandemia de covid-19, o Governo Central, formado por Tesouro Nacional, Previdência Social e Banco Central, registrou superávit de R$ 28,195 bilhões, em outubro. Esse foi o maior resultado positivo para o mês desde outubro de 2016, quando foi registrado superávit primário de R$ 51,756 bilhões (valor corrigido pela inflação). A informação foi divulgada nesta segunda-feira (29) pela Secretaria do Tesouro Nacional.
@@ -34,10 +33,6 @@ A previsão é que a DBGG termine 2021 em 80,6% do PIB. “De 2022 em diante, es
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

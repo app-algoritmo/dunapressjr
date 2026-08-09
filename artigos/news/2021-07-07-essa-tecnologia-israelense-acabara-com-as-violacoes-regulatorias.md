@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A plataforma AI desenvolvida pela nova startup Sealed.ai ajuda as empresas a detectar padrões de chamada fraudulentos.
 
 Com que frequência você ou seus pais se sentem perdidos ou desamparados interagindo com representantes de vendas ou enfrentando um fluxo interminável de produtos “grátis” entregues em casa por agentes astutos? Provavelmente, mesmo que não tivesse acontecido com você ou seus entes queridos, algum amigo ou colega teve essa experiência desagradável. A ajuda está a caminho agora com uma nova startup israelense chamada Sealed, que desenvolveu tecnologia de inteligência artificial (IA) que analisa e aprimora as interações telefônicas e pode acabar com as violações regulatórias e as fraudes de vendas de má qualidade perpetradas contra consumidores desavisados.
@@ -31,7 +30,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

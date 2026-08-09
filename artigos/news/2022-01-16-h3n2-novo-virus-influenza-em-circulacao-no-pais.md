@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O aumento de casos de infecções pelo vírus influenza no último trimestre deste ano tem atraído atenção para uma velha conhecida da humanidade. A gripe, como é chamada popularmente, tem gerado surtos regionais pelo país impulsionada pela introdução de uma nova cepa do subtipo A (H3N2), batizada de Darwin.
 
 Atualmente, são conhecidos três tipos de vírus influenza: A, B e C. Os dois primeiros são mais propícios a provocar epidemias sazonais em diversas localidades do mundo, enquanto o último costuma provocar alguns casos mais leves.
@@ -45,7 +44,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

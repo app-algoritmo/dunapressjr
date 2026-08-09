@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É a maior taxa desde o início da série histórica em 2012.
 
 O setor de serviços cresceu 10,9% em 2021, após uma queda de 7,8% em 2020. De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), que divulgou nesta quinta-feira (10) os dados da Pesquisa Mensal de Serviços (PMS), a taxa do ano passado foi a maior para um fechamento anual desde o início da série histórica em 2012. Em dezembro o setor teve expansão de 1,4% em relação a novembro.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 O consumo de qualquer tipo de bebida alcoólica pode trazer danos imediatos à saúde ou a médio e longo prazo. Isso sem contar com os riscos de acidentes de trânsito causados pela combinação de álcool e volante. Mas, afinal, que riscos são esses e como evitá-los?
 
 De acordo com a Organização Mundial da Saúde (OMS), não existe volume seguro de álcool a ser consumido, porque ele é tóxico para o organismo humano e pode provocar doenças mentais, diversos cânceres, problemas hepático, como a cirrose, alterações cardiovasculares, com riso de infarto e acidente vascular cerebral e a diminuição de imunidade. Além de ser responsável por episódios de violência física contra si ou contra outras pessoas.
@@ -38,7 +37,3 @@ Fonte:  http://www.blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

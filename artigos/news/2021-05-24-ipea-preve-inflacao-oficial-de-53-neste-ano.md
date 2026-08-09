@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A inflação dos itens monitorados subiu de 6,8% para 8%.
 
 O Instituto de Pesquisa Econômica Aplicada (Ipea) revisou sua previsão para a inflação oficial do país, medida pelo Índice de Preços ao Consumidor Amplo (IPCA), neste ano. Segundo o instituto, a taxa deve fechar o ano em 5,3%. A estimativa divulgada hoje (24) é superior à previsão anterior, de 4,6%.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

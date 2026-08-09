@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Números integram Estatística da Produção Pecuária.
 
 O abate de suínos no Brasil atingiu 14,07 milhões de cabeças entre abril e junho deste ano. O total, um recorde na série histórica iniciada em 1997, representa elevação de 7,2% na comparação com o mesmo período de 2021, e alta de 3% ante o primeiro trimestre de 2022.
@@ -54,8 +53,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,10 +8,9 @@ categories:
 - Policy
 ---
 
-
 A Polícia do Estado de Delaware anunciou na quarta-feira que havia encaminhado o caso do laptop de Hunter Biden ao Federal Bureau of Investigation (FBI), após alegações de que o disco rígido de Hunter Biden continha fitas de sexo dele com meninas menores de idade.
 
-“À luz das questões em andamento sobre a credibilidade dessas alegações e vários relatórios de que o FBI está investigando sua veracidade, a polícia está encaminhando esse assunto ao FBI”, disse um porta-voz da Polícia do Estado de Delaware à[ ](https://www.newsweek.com/hunter-bidens-laptop-probe-referred-fbi-delaware-state-police-say-1540818?amp=1&__twitter_impression=true)***[Newsweek](https://www.newsweek.com/hunter-bidens-laptop-probe-referred-fbi-delaware-state-police-say-1540818?amp=1&__twitter_impression=true)* **.
+“À luz das questões em andamento sobre a credibilidade dessas alegações e vários relatórios de que o FBI está investigando sua veracidade, a polícia está encaminhando esse assunto ao FBI”, disse um porta-voz da Polícia do Estado de Delaware à***[Newsweek](https://www.newsweek.com/hunter-bidens-laptop-probe-referred-fbi-delaware-state-police-say-1540818?amp=1&__twitter_impression=true)* **.
 
 A decisão vem após uma entrevista recente que o ex-prefeito de Nova York Rudy Giuliani – o indivíduo que inicialmente obteve o disco rígido – fez com a Newsmax TV. Durante a entrevista, Giuliani afirmou que havia imagens explícitas de garotas menores de idade no disco rígido, junto com sugestões em registros de mensagens de texto do drive de que Hunter havia feito Facetime nu com uma garota de 14 anos.
 

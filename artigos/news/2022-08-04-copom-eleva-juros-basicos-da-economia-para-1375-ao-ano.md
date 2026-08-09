@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Taxa básica de juros está no maior nível desde janeiro de 2017.
 
 Em meio aos impactos da guerra na Ucrânia e de uma possível recessão nos Estados Unidos - com impactos sobre a economia global -, o Banco Central (BC) continuou a apertar os cintos na política monetária. Por unanimidade, o Comitê de Política Monetária (Copom) elevou a taxa Selic, juros básicos da economia, de 13,25% para 13,75% ao ano. A decisão era [**esperada pelos analistas financeiros**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-08/mercado-financeiro-reduz-projecao-da-inflacao-de-730-para-715).
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

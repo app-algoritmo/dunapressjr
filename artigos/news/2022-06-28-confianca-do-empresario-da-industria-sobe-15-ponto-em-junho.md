@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice de Expectativas cresce e atinge 100,2 pontos.
 
 O Índice de Confiança da Indústria (ICI), medido pela Fundação Getulio Vargas (FGV), cresceu 1,5 ponto na passagem de maio para junho. Essa é a terceira alta consecutivo do indicador, que atingiu 101,2 pontos em uma escala de 0 a 200 pontos, o maior nível desde novembro de 2021 (102,1 pontos).
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

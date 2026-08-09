@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Governo usará reserva de R$ 1,7 bi para diminuir contingenciamento.
 
 Os ministérios da Ciência, Tecnologia e Inovações e da Educação foram as pastas com o maior volume de recursos contingenciados (bloqueados) no Orçamento de 2022, informou nesta segunda-feira (6) à tarde o Ministério da Economia. Os números constam do [**detalhamento **](https://agenciabrasil.ebc.com.br/economia/noticia/2022-05/economia-anuncia-contingenciamento-de-r-87-bilhoes-do-orcamento)do Relatório de Avaliação de Receitas e Despesas do segundo bimestre, divulgado no fim de maio.
@@ -30,14 +29,10 @@ A cada dois meses, o Ministério da Economia divulga o Relatório de Avaliação
 
 ### Confira abaixo a distribuição dos novos cortes orçamentários:
 
-Órgãos OrçamentáriosBloqueio (R$)Presidência da República                            R$25.368.000Ciência, Tecnologia e InovaçõesR$ 2.500.000.000EducaçãoR$ 1.598.095.000Justiça e Segurança PúblicaR$ 117.353.000Minas e EnergiaR$ 46.900.000Relações ExterioresR$ 199.877.000SaúdeR$ 1.253.324.000InfraestruturaR$ 199.877.000ComunicaçõesR$ 87.397.000DefesaR$ 706.964.000Desenvolvimento RegionalR$ 149.833.000TurismoR$ 36.554.000CidadaniaR$ 94.496.000Mulher, da Família e dos Direitos HumanosR$ 9.655.000Banco Central do BrasilR$ 18.738.000Valor total efetivoR$ 6.965.148.000Reserva de contingênciaR$ 1.736.952.000Valor total com reserva de contingênciaR$ 8.702.100.000
+Órgãos OrçamentáriosBloqueio (R$)Presidência da República R$25.368.000Ciência, Tecnologia e InovaçõesR$ 2.500.000.000EducaçãoR$ 1.598.095.000Justiça e Segurança PúblicaR$ 117.353.000Minas e EnergiaR$ 46.900.000Relações ExterioresR$ 199.877.000SaúdeR$ 1.253.324.000InfraestruturaR$ 199.877.000ComunicaçõesR$ 87.397.000DefesaR$ 706.964.000Desenvolvimento RegionalR$ 149.833.000TurismoR$ 36.554.000CidadaniaR$ 94.496.000Mulher, da Família e dos Direitos HumanosR$ 9.655.000Banco Central do BrasilR$ 18.738.000Valor total efetivoR$ 6.965.148.000Reserva de contingênciaR$ 1.736.952.000Valor total com reserva de contingênciaR$ 8.702.100.000
 
 Fonte: Tesouro Nacional / Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

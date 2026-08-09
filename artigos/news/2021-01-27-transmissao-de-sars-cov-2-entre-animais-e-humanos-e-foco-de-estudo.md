@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Universidade Estadual de Londrina (UEL) recebeu aprovação da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) para analisar o risco de transmissão do vírus SARS-CoV-2 entre animais e humanos. O projeto foi aprovado pelo [Edital nº 11/2020](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/capes-farmacos-e-imunologia-edital-n-11-2020), no âmbito do [Programa de Combate a Epidemias](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/programa-de-combate-as-epidemias) da Fundação, vinculada ao Ministério da Educação (MEC).
 
 Amauri Alfieri, pró-reitor de pesquisa e pós-graduação da UEL, que coordena o trabalho, explicou que o objetivo é investigar “o papel do homem na infecção de animais pelo SARS-CoV-2 e o potencial dos animais na transmissão do vírus ao ser humano”, sob o modelo da Saúde Única. Para isso vêm sendo coletadas, em diversas cidades paranaenses, amostras biológicas de animais cujos tutores estejam em isolamento domiciliar, por conta de diagnóstico de COVID-19.
@@ -38,7 +37,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

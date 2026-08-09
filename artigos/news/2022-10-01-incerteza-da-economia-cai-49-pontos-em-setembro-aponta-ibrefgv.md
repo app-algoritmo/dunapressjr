@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### É o menor nível desde novembro 2019.
 
 O Indicador de Incerteza da Economia (IIE-Br) caiu 4,9 pontos em setembro, para 111,7 pontos, menor nível desde novembro de 2019, de 105,1 pontos. Os dados foram divulgados nesta sexta-feira (30) pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV).
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

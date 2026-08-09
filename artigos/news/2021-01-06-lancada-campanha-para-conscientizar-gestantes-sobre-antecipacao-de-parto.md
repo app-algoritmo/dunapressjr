@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Um chamado para a atenção e cuidados com a saúde das gestantes e dos bebês foi lançando neste fim de ano pela Agência Nacional de Saúde (ANS) com a divulgação da campanha #BoaHora: respeite o tempo de nascimento do bebê!.
 
 A iniciativa é um alerta às grávidas e profissionais de saúde para os riscos sobre a antecipação de cesarianas, a fim de evitar que os partos ocorram nos dias de festas ou período propício a viagens com final e início de ano.
@@ -38,7 +37,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

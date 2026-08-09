@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-A Receita Federal do Brasil (RFB) e a Caixa Econômica Federal (CEF) realizaram adequações no aplicativo Sefip/GFIP. As modificações foram solicitadas pelo Conselho Federal de Contabilidade (CFC) em ofício enviado à RFB, no dia 4 de janeiro de 2021. No documento, a autarquia pleiteou a reconsideração quanto à decisão de mudança nos manuais e pediu alterações no Programa Validador que permitissem a inclusão de valor no campo “Base de Cálculo da Previdência Social” para os afastamentos com código P1. No texto, o CFC ainda destacou que a versão 8.4_24_12_2020 do programa GFIP/Sefip estava em desconformidade com as orientações do manual de usuários.  
+A Receita Federal do Brasil (RFB) e a Caixa Econômica Federal (CEF) realizaram adequações no aplicativo Sefip/GFIP. As modificações foram solicitadas pelo Conselho Federal de Contabilidade (CFC) em ofício enviado à RFB, no dia 4 de janeiro de 2021. No documento, a autarquia pleiteou a reconsideração quanto à decisão de mudança nos manuais e pediu alterações no Programa Validador que permitissem a inclusão de valor no campo “Base de Cálculo da Previdência Social” para os afastamentos com código P1. No texto, o CFC ainda destacou que a versão 8.4_24_12_2020 do programa GFIP/Sefip estava em desconformidade com as orientações do manual de usuários.
 
 A partir dessas atualizações, a ferramenta está alinhada com as decisões do STF, relativas à não incidência da contribuição previdenciária patronal sobre o salário-maternidade, e com a jurisprudência consolidada do Superior Tribunal de Justiça (STJ) quanto à não incidência da contribuição previdenciária patronal sobre os primeiros 15 dias que antecedem ao auxílio-doença.
 
@@ -24,8 +23,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

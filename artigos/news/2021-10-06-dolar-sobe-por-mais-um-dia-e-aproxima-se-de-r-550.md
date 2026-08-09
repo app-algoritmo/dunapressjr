@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa não acompanha mercado norte-americano e fecha estável.
 
 Em mais um dia de turbulências domésticas e externas, o dólar voltou a subir e aproximou-se de R$ 5,50, no maior valor em mais de cinco meses. A bolsa de valores não acompanhou a recuperação do mercado norte-americano e fechou praticamente estável.
@@ -30,10 +29,6 @@ No domingo (3), os dois informaram que as [***offshore*****s foram declaradas**]
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

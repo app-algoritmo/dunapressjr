@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Com medida, teto de gastos será única âncora fiscal.
 
 A revisão automática das metas fiscais para o próximo ano impedirá que o Orçamento de 2021 sofra contingenciamentos (bloqueios) de verbas, disse nesta segunda-feira (31) o secretário especial de Fazenda do Ministério da Economia, Waldery Rodrigues. Segundo ele, isso será possível porque as metas de déficit primário para o próximo ano passarão a ser alteradas automaticamente toda vez em que o governo revisar a estimativa de arrecadação.
@@ -31,5 +30,3 @@ Segundo o secretário especial de Fazenda, o risco de *shutdown* pode ser minimi
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

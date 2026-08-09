@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 O Dia Mundial do Doador de Sangue, foi comemorado neste último domingo (14), conscientiza os não-doadores sobre a importância desse ato de solidariedade que salva vidas. E no contexto das ações de combate à Covid-19, mais de 10 mil militares das Forças Armadas já doaram sangue por todo o Brasil, contribuindo para diminuir os efeitos nocivos do novo coronavírus. 
 
 Na área de atuação do Comando Conjunto Bahia foram proporcionadas três campanhas de doação à Fundação de Hematologia e Hemoterapia do Estado. Mais de 100 militares se voluntariaram. Em Manaus, o Comando Conjunto Amazônia, reforçou a manutenção dos estoques de bolsas de sangue da cidade. Cerca de 20 militares da 6ª Circunscrição de Serviço Militar, em São Paulo, aumentaram a capacidade do banco de sangue de Bauru. Voluntários do 20° Regimento de Cavalaria Blindado, também reforçaram os estoques de sangue do Hemosul de Campo Grande, em Mato Grosso do Sul.
@@ -23,5 +22,3 @@ Dando continuidade às descontaminações por todo o país, o 4° Batalhão de I
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

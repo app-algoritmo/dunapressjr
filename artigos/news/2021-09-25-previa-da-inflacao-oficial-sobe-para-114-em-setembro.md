@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A taxa é superior ao 0,89% de agosto, diz IBGE.
 
 O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), que mede a prévia da inflação oficial no país, chegou a 1,14% em setembro deste ano. A taxa é superior ao resultado de 0,89% de agosto deste ano e ao 0,45% de setembro do ano passado. É também a maior taxa para setembro desde 1994 (1,42%).
@@ -26,10 +25,6 @@ Por outro lado, educação foi o único grupo de despesas com deflação (queda 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

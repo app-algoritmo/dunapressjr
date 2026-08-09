@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 A falta de coragem na humanidade assusta, muito. Há um tempo a coragem era normal, um aspecto natural e passado pela educação de um para o próximo. Após algumas décadas notório que a coragem virou algo raro.
 
 Na juventude dos anos 60 ou 70 era o que se via nas atitudes. Hoje em dia não há coragem nem nos adultos, nem jovens, nem mais velhos, ou seja, a vemos apenas em poucos que estão dispostos a pagar o preço.
@@ -27,8 +26,6 @@ De igual forma a educação deve ser flexibilizada, para pensar em como cada est
 São dezenas de aspectos que devemos nos atentar e iniciar a mudança, porém precisamos de uma massa crítica mínima para mudar os rumos deste barco chamado mundo e, para isto, a coragem é o pontapé inicial individual.
 
 Imagem em destaque: vidasimples.co
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

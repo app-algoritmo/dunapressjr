@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### País avança três níveis, mas investimentos na área caem.
 
 Levantamento divulgado pela Confederação Nacional da Indústria (CNI) mostra que, mesmo avançando três posições no Índice Global de Inovação (IGI), na comparação com 2021, o Brasil continuou, este ano, registrando queda nos investimentos aplicados nas áreas de inovação. “A posição brasileira está sete casas abaixo da melhor marca atingida, que foi o 47º lugar em 2011”, revela a CNI.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

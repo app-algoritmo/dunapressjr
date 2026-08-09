@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Congele o tumor em vez de removê-lo: quatro pacientes foram submetidos a este tratamento em Haifa; médicos verificam se este método pode manter o câncer sob controle.
 
 Alegando-se pela primeira vez no mundo, os médicos israelenses removeram tumores cancerígenos da bexiga congelando-os, em vez de removê-los dos corpos dos pacientes.
@@ -43,7 +42,3 @@ Fonte: https://fr.timesofisrael.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

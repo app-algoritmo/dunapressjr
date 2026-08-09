@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Nova data só será firmada com instalação da Comissão de Orçamento.
 
 O cronograma de tramitação da Lei de Diretrizes Orçamentárias (LDO) de 2021 está em compasso de espera. Inicialmente, o prazo para apresentação de emendas ao projeto terminaria na próxima segunda-feira (8), mas, com as ações no Congresso Nacional limitadas pela pandemia da covid-19, a Comissão Mista de Orçamento (CMO) sequer foi instalada. Com isso, um novo prazo para emendas só poderá ser firmado após a instalação da CMO.
@@ -25,5 +24,3 @@ Fonte: Agência Brasil – Imagem de destaque: Edilson Rodrigues/Agência Senado
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

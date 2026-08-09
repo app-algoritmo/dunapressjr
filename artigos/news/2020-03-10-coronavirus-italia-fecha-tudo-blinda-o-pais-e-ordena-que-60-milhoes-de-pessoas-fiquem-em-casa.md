@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 "Tutti a casa"  é a manchete da imprensa transalpina, enquanto a população assola os supermercados para coletar alimentos. A Itália deu um passo sem precedentes na segunda-feira, estendendo o isolamento de coronavírus a toda a sua população, 60 milhões de habitantes.
 
-[](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)Itália - Johns Hopkins map
+Itália - Johns Hopkins map
 
 Mesmo na China, o confinamento, com 50 milhões de pessoas afetadas, não foi tão longe e **nunca um país inteiro foi submetido a essa medida** . Tudo para impedir a rápida progressão do covid-19, que já deixou mais de 9.000 infectados e 460 mortos na Itália.
 

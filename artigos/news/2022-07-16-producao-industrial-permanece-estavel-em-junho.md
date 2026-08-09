@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### CNI vê manutenção no ritmo da produção.
 
 A produção industrial brasileira permaneceu estável em junho deste ano, após apresentar crescimento em maio, informou nesta sexta-feira (15), em Brasília, a Confederação Nacional da Indústria (CNI). O índice de evolução da produção registrou 50,1 pontos, muito perto da linha divisória de 50 pontos, o que significa que a produção teve estabilidade frente ao mês anterior. Em maio, o índice havia ficado em 53,6 pontos.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

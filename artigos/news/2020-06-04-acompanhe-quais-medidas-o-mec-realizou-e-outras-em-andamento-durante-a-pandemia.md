@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Acompanhe o portal do Ministério da Educação (MEC) para ficar por dentro de todas as ações realizadas durante o período de pandemia do coronavírus.
 
 **Destinação dos alimentos da merenda escolar –** O governo federal sancionou lei que autoriza, em caráter excepcional, a distribuição de alimentos adquiridos com recursos do Programa Nacional de Alimentação Escolar (PNAE) aos pais ou responsáveis. A medida foi tomada porque a maior parte das escolas públicas do país está com aulas suspensas. [Saiba mais](http://portal.mec.gov.br/component/content/index.php?option=com_content&view=article&id=88061:governo-sanciona-lei-que-distribui-alimentos-adquiridos-com-recursos-do-pnae&catid=384&Itemid=86).
@@ -22,7 +21,7 @@ O Fundo vinculado ao MEC publicou uma resolução para dar ênfase ainda maior �
 
 O ministério homologou as diretrizes no início de junho. [Saiba mais](https://www.gov.br/mec-homologa-diretrizes-para-o-ensino-durante-a-pandemia).
 
-**Enem e programas de acesso ao ensino superior –** Os cronogramas das edições do segundo semestre de 2020 do Sistema de Seleção Unificada (Sisu), do Programa Universidade para Todos (Prouni) e do Programa de Financiamento Estudantil (Fies) têm novas datas. As inscrições do Sisu vão de 16 a 19 de junho, as do ProUni de 23 a 26 de junho e as do Fies, de 30 de junho a 3 de julho. [Saiba mais](http://portal.mec.gov.br/component/content/article?id=89591). 
+**Enem e programas de acesso ao ensino superior –** Os cronogramas das edições do segundo semestre de 2020 do Sistema de Seleção Unificada (Sisu), do Programa Universidade para Todos (Prouni) e do Programa de Financiamento Estudantil (Fies) têm novas datas. As inscrições do Sisu vão de 16 a 19 de junho, as do ProUni de 23 a 26 de junho e as do Fies, de 30 de junho a 3 de julho. [Saiba mais](http://portal.mec.gov.br/component/content/article?id=89591).
 
 Para o Sisu e para o Prouni, já são públicas as datas para adesão das instituições. Saiba mais [aqui](http://portal.mec.gov.br/component/content/article?id=90161) e [aqui](http://portal.mec.gov.br/index.php?option=com_content&view=article&id=90371).
 
@@ -34,7 +33,7 @@ Também no Fies, foram prorrogados os prazos para formalização das inscriçõe
 
 As inscrições para o Exame Nacional do Ensino Médio (Enem) foram até 27 de maio, cinco dias além do previsto inicialmente. [Saiba mais](http://portal.mec.gov.br/component/content/article?id=90351). Para que todos sejam contemplados, a taxa de inscrição poderá ser paga até 10 de junho. [Saiba mais](https://www.gov.br/inep-disponibiliza-novo-prazo-para-pagamento-de-boletos-do-enem-2020).
 
-As provas do Enem serão adiadas de 30 a 60 dias em relação ao previsto nos editais. [Saiba mais](http://portal.mec.gov.br/component/content/article?id=90191). 
+As provas do Enem serão adiadas de 30 a 60 dias em relação ao previsto nos editais. [Saiba mais](http://portal.mec.gov.br/component/content/article?id=90191).
 
 O MEC quer assegurar a melhor realização possível para o Enem. O ministério consultará os inscritos, por meio da Página do Participante, na última semana de junho para saber o quanto querem de adiamento. [Saiba mais](http://portal.mec.gov.br/component/content/article?id=90111).
 
@@ -58,10 +57,9 @@ A estatal tem destinado recursos para aumentar o espaço para tratamento de paci
 - R$ 2,6 milhões para compra de equipamentos, testes e insumos, além de disponibilização de 24 leitos, em Campina Grande (PB). [Saiba mais](http://portal.mec.gov.br/component/content/article?id=90651);
 - R$ 3,9 milhões para compra de equipamentos, obras, reparos, além de disponiblização de 19 leitos, em Cuiabá (MT). [Saiba mais](http://portal.mec.gov.br/component/content/article?id=90711).
 
-**
 Mais profissionais nos hospitais universitários –** A Ebserh terá um reforço importante no enfrentamento à pandemia do novo coronavírus. A estatal lançou edital para contratação temporária de 6 mil profissionais da saúde e obteve mais de 225 mil inscrições. A força de trabalho será direcionada para os 40 hospitais universitários federais que formam a Rede Ebserh, conforme demanda das unidades de saúde. Mais de 5 mil profissionais já foram convocados, dos quais mais de mil já começaram a trabalhar. [Saiba mais](http://portal.mec.gov.br/component/content/article?id=90201).
 
-O certame englobou vagas para médicos, enfermeiros, técnicos em enfermagem, fisioterapeutas e engenheiros e arquitetos, necessários para promover as mudanças estruturais exigidas para a acomodação de pacientes infectados pelo coronavírus. O resultado saiu em 9 de abril. [Saiba mais](http://portal.mec.gov.br/component/content/index.php?option=com_content&view=article&id=88161:ebserh-publica-resultado-de-processo-seletivo-para-contratacao-de-6-mil-profissionais&catid=33481&Itemid=86). 
+O certame englobou vagas para médicos, enfermeiros, técnicos em enfermagem, fisioterapeutas e engenheiros e arquitetos, necessários para promover as mudanças estruturais exigidas para a acomodação de pacientes infectados pelo coronavírus. O resultado saiu em 9 de abril. [Saiba mais](http://portal.mec.gov.br/component/content/index.php?option=com_content&view=article&id=88161:ebserh-publica-resultado-de-processo-seletivo-para-contratacao-de-6-mil-profissionais&catid=33481&Itemid=86).
 
 No fim de maio, a Ebserh lançou novo processo seletivo, englobando novas especialidades: médico do trabalho, médico plantonista, farmacêutico, assistente social, biomédico e técnicos em Análises Clínicas, Radiologia, Necropsia e Farmácia. [Saiba mais](http://portal.mec.gov.br/component/content/article?id=90661).
 
@@ -95,8 +93,7 @@ Até 12 de maio, já haviam sido repassados mais de R$ 720 milhões para cerca d
 
 **Vagas em EaD pelo programa Novos Caminhos** **–** Por meio do programa Novos Caminhos, o MEC vai ofertar um total de 122 mil vagas em cursos de qualificação profissional a distância até o fim de junho. O investimento é de R$ 60 milhões e abrange a rede federal de educação profissional, científica e tecnológica, integrada por institutos federais, Centros Federais de Educação Tecnológica (Cefets), escolas técnicas vinculadas às universidades federais e instituições das redes estaduais, distrital e municipais. [Saiba mais](http://portal.mec.gov.br/component/content/article?id=89451).
 
-**Boletins semanais** **–** O MEC e a Empresa Brasileira de Serviços Hospitalares (Ebserh) têm publicado, em parceria, boletins semanais com um panorama da situação dos hospitais universitários. Os textos trazem informações como a quantidade de leitos disponíveis para pacientes com Covid-19, a quantidade de pessoas com a doença atendidas pela estatal vinculada ao ministério e a quantidade de profissionais contratados para atuar no combate à pandemia. O mais atual é o de 29 de maio. [Saiba mais](https://www.gov.br/mec/pt-br/assuntos/noticias/ebserh-e-covid-19-confira-a-situacao-nos-hospitais-universitarios-federais-em-29-de-maio).[
-](http://portal.mec.gov.br/component/content/article?id=90541)
+**Boletins semanais** **–** O MEC e a Empresa Brasileira de Serviços Hospitalares (Ebserh) têm publicado, em parceria, boletins semanais com um panorama da situação dos hospitais universitários. Os textos trazem informações como a quantidade de leitos disponíveis para pacientes com Covid-19, a quantidade de pessoas com a doença atendidas pela estatal vinculada ao ministério e a quantidade de profissionais contratados para atuar no combate à pandemia. O mais atual é o de 29 de maio. [Saiba mais](https://www.gov.br/mec/pt-br/assuntos/noticias/ebserh-e-covid-19-confira-a-situacao-nos-hospitais-universitarios-federais-em-29-de-maio).
 
 **Compras centralizadas e notificações on-line** **–** A Ebserh tem atuado em outras frentes. Uma delas é o apoio aos hospitais da rede por meio das compras centralizadas de equipamentos de proteção individual, medicamentos e outros materiais hospitalares. Desdemarço, os contratos assinados para essas compras totalizaram R$ 112,4 milhões, além de R$ 8,8 milhões disponibilizados diretamente para os hospitais. Os recursos são parte de verba descentralizada pelo MEC) entre março e abril, que totalizam R$ 274 milhões. [Saiba mais](http://portal.mec.gov.br/index.php?option=com_content&view=article&id=89211:ebserh-centraliza-compras-para-apoiar-hospitais-no-enfrentamento-a-covid-19&catid=33481&Itemid=86).
 
@@ -146,8 +143,6 @@ A parceria entre a Coordenação e o portal Britannica Escola, para capacitaçã
 **Destaque em cerimônia do governo federal** **–** O trabalho do MEC durante a pandemia rendeu destaque na cerimônia de 500 dias do governo federal, em 15 de maio. [Saiba mais](http://portal.mec.gov.br/component/content/article?id=89941).
 
 Fonte: gov.br/mec / Imagem em destaque: MEC
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

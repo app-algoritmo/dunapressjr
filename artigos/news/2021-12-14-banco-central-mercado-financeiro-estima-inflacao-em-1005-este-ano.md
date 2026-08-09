@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É a primeira redução depois de 35 semanas consecutivas de alta.
 
 A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA), considerada a inflação oficial do país, diminuiu de 10,18% para 10,05 neste ano. Essa é a primeira redução depois de 35 semanas consecutivas de alta.
@@ -36,10 +35,6 @@ A expectativa para a cotação do dólar para o fim deste ano subiu de R$ 5,56 p
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

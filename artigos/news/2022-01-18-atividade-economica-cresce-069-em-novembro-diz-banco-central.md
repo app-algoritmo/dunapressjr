@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Percentual de novembro é prévia do Produto Interno Bruto – PIB.
 
 O Índice de Atividade Econômica (IBC-Br) apresentou alta de 0,69% registrado em novembro de 2021, na comparação com outubro, percentual já dessazonalizado para compensar eventuais diferenças entre os períodos, como o número maior de feriados ou fins de semana.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Solicitação deve ser feita pelo Portal 156
 
 A prefeitura de São Paulo vai conceder desconto no Imposto sobre Propriedade de Veículos Automotores (IPVA) para carros elétricos, movidos a hidrogênio ou híbridos. A redução do imposto é referente à parcela que os cofres da capital paulista recebem do tributo, até o limite de R$ 3.292.
@@ -20,8 +19,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

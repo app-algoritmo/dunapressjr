@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa fechou em alta, beneficiada por cenário externo.
 
 Depois de um dia de sobe-e-desce, o dólar aproximou-se de R$ 5,30 e fechou no menor valor em dois meses. A bolsa de valores também oscilou bastante, mas fechou com pequena alta, beneficiada pelo cenário externo e por negociações de uma empresa de petróleo.
@@ -25,5 +24,3 @@ A bolsa brasileira seguiu Wall Street. O índice Dow Jones (das empresas industr
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

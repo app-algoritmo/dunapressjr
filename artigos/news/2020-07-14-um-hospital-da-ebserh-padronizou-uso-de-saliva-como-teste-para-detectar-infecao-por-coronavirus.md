@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Procedimento apresenta menos desconforto para o paciente e menor risco de contaminação para funcionários, pois é autocoletado pela pessoa.
 
 **Salvador (BA)** – O Laboratório de Pesquisa em Infectologia (Lapi) do Complexo Hospitalar Universitário Professor Edgard Santos, vinculado à Universidade Federal da Bahia e à Rede Ebserh (Hupes-UFBA/Ebserh), conseguiu padronizar o uso de saliva como teste para detecção do coronavírus. Trata-se de uma ação inédita no Brasil, que está em estudo e aplicação há cerca de dois meses. A metodologia tem sido aplicada em pacientes e colaboradores do Hupes que apresentem sintomas compatíveis com a Covid-19.
@@ -33,7 +32,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

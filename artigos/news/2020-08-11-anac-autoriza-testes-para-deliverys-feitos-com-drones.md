@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Para realizar os voos experimentais, o operador da precisa seguir as regras previstas no Regulamento Brasileiro de Aviação Civil Especial.
 
 A Agência Nacional de Aviação Civil (Anac) emitiu à Speedbird o Certificado de Autorização de Voo Experimental (Cave) para que a empresa inicie  a entrega de produtos utilizando aeronaves não tripuladas. Esta é a primeira certificação do tipo emitida pela Agência e permite que o equipamento possa ser utilizado no serviço de delivery, por exemplo.
@@ -28,6 +27,6 @@ Fonte Gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

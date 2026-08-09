@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Texto proíbe tarifas sobre downloads e exigências sobre servidores.
 
 Os países que compõem o Mercosul assinaram um acordo de comércio eletrônico que facilita as transações digitais e proíbe a criação de barreiras comerciais sobre esse segmento. Segundo os Ministérios da Economia e das Relações Exteriores, o instrumento aprofunda a integração regional, ao regular um tema cada vez mais relevante do comércio global.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

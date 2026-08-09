@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 ## No best-seller "Todas as dificuldades frequentes de nossos dias", a autora Rebecca Donner conta a história verídica de sua tia-avó Mildred Harnack, que deu sua vida para lutar contra o fascismo.
 
 Rebecca Donner ouviu falar de sua tia-avó Mildred Harnack quando ela tinha 16 anos. A avó de [Donner](https://www.rebeccadonner.com/) , Jane - sobrinha de Harnack, entregou-lhe um maço de cartas de Harnack e alguns de seus livros. Então, ela pediu-lhe que prometesse um dia contar ao mundo a história de Harnack.
@@ -75,7 +74,7 @@ Donner não sabe ao certo porque Harnack permaneceu, mas ela supõe que tenha al
 
 Harnack provavelmente também foi muito influenciada pela família de seu marido, Arvid. Os Harnack eram uma das três grandes e proeminentes famílias intercasadas (os outros eram os Bonhoeffers e os Delbrücks), cujos membros eram francos em suas visões social-democratas e antinazistas. Muitos dos primos de Arvid se juntaram à resistência.
 
-“Arvid escreveu em uma carta para sua mãe na época em que ele e Mildred estavam noivos que ele se sentiu como se a primeira vez que a viu, ela se sentisse como um membro de sua família”, disse Donner. 
+“Arvid escreveu em uma carta para sua mãe na época em que ele e Mildred estavam noivos que ele se sentiu como se a primeira vez que a viu, ela se sentisse como um membro de sua família”, disse Donner.
 
 “Todas as dificuldades frequentes de nossos dias” nos apresenta uma mulher corajosa cuja história o governo dos EUA procurou enterrar por décadas. O governo dos Estados Unidos prestou assistência a movimentos de resistência em outros países como França e Polônia, mas nenhum para o da Alemanha. Apesar dos pedidos de ajuda, Mildred, Arvid e os outros foram deixados por conta própria e, portanto, limitados em suas habilidades.
 
@@ -108,7 +107,3 @@ Fonte:  [https://www.timesofisrael.com](https://www.timesofisrael.com)
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

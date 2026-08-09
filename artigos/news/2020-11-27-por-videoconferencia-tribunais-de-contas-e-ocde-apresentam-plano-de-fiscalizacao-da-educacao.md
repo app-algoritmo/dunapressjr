@@ -8,14 +8,13 @@ categories:
 - News
 ---
 
-
 O Tribunal de Contas da União (TCU) e as demais Cortes de Contas do país (TCs), incluindo o Tribunal de Contas do Estado da Paraíba (TCE-PB), em conjunto com a Organização para a Cooperação e Desenvolvimento Econômico (OCDE), lançaram, na manhã desta quinta-feira (26), o plano de implementação do **Projeto Integrar** em todos os Tribunais de Contas brasileiros. A gravação na íntegra da reunião pode ser assistida [aqui](https://www.youtube.com/watch?v=RwEcbMAY9KE).
 
 O Projeto Integrar, resultado de uma parceria entre o TCU e a OCDE, prevê o desenvolvimento de estratégias integradas para seleção de auditorias com base em risco na área da educação. O CTE-IRB atua como articulador e facilitador entre o TCU, os Tribunais de Contas dos Estados, do DF e dos Municípios (TCs).
 
 Entre os resultados esperados pela iniciativa estão o planejamento de fiscalizações em nível nacional; o aperfeiçoamento da gestão das políticas descentralizadas; a indução ao uso de indicadores aceitos internacionalmente; a identificação de avanços ou retrocessos da governança da Administração Pública e compartilhamento de boas práticas.
 
-## **Abertura do evento** 
+## **Abertura do evento**
 
 Na abertura do lançamento, o presidente do TCU, José Múcio Monteiro, destacou que a iniciativa teve a adesão de todos os TCs brasileiros. “Temos muito a fazer a partir desses dois anos de trabalho na construção e no planejamento das ações que serão colocadas em prática em todo o país. Espero que a partir do próximo ano já tenhamos resultados dessa atuação fiscalizatória. Juntos teremos condições de oferecer melhores serviços para a população brasileira”, disse.
 
@@ -42,5 +41,3 @@ Fonte: Tribunal de Contas do Estado da Paraíba
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

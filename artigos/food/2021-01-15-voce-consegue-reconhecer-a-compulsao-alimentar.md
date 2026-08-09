@@ -7,8 +7,7 @@ categories:
 - Food
 ---
 
-
-Para quem ainda não conhece, a compulsão alimentar é a prática recorrente de comer excessivamente e de modo descontrolado em um curto espaço de tempo, além de ser em uma quantidade maior que o organismo realmente necessita, conforme define o [Blog da Saúde](http://www.blog.saude.gov.br/32365-pesquisa-da-usp-aponta-que-compulsao-alimentar-afeta-10-dos-adolescentes-no-brasil). Além disso, os sentimentos de culpa ou arrependimento costumam acompanhar os episódios compulsivos. 
+Para quem ainda não conhece, a compulsão alimentar é a prática recorrente de comer excessivamente e de modo descontrolado em um curto espaço de tempo, além de ser em uma quantidade maior que o organismo realmente necessita, conforme define o [Blog da Saúde](http://www.blog.saude.gov.br/32365-pesquisa-da-usp-aponta-que-compulsao-alimentar-afeta-10-dos-adolescentes-no-brasil). Além disso, os sentimentos de culpa ou arrependimento costumam acompanhar os episódios compulsivos.
 
 Segundo Rafael Marques Soares, nutricionista e pesquisador do Instituto de Pesquisa do Hospital do Coração de São Paulo, o primeiro ponto a ser esclarecido é que a compulsão alimentar é um sintoma que se manifesta como um comportamento de algumas doenças psiquiátricas, entre elas o Transtorno da Compulsão Alimentar (TCA).
 
@@ -28,7 +27,7 @@ Sim! Por envolver o consumo excessivo de alimentos e, na maioria das vezes, esta
 
 Também pode estar associada à anorexia, bulimia, entre outros transtornos.  Pode ainda indicar ou levar ao agravamento de quadros depressivos, ansiosos, outros transtornos alimentares, abuso de substâncias e problemas com a autoimagem corporal.
 
-“Quando o episódio se conclui a sensação de fracasso, de remorso, incapacidade e descontrole é muito grande. E isso monta um ciclo muito ruim na vida desse indivíduo, que fica abalado emocionalmente. Ele está com alguma questão da vida que o impulsiona a comer, e aí come porque está ansioso. Quando termina o episódio, a ansiedade não diminuiu com o alimento. Agora ela está aumentada. Como resolver isso? Comendo de novo. Então ele entra nesse ciclo: está ansioso porque comeu muito ou comeu muito porque está ansioso”, explica o nutricionista. 
+“Quando o episódio se conclui a sensação de fracasso, de remorso, incapacidade e descontrole é muito grande. E isso monta um ciclo muito ruim na vida desse indivíduo, que fica abalado emocionalmente. Ele está com alguma questão da vida que o impulsiona a comer, e aí come porque está ansioso. Quando termina o episódio, a ansiedade não diminuiu com o alimento. Agora ela está aumentada. Como resolver isso? Comendo de novo. Então ele entra nesse ciclo: está ansioso porque comeu muito ou comeu muito porque está ansioso”, explica o nutricionista.
 
 ## **Como é feito o tratamento?**
 
@@ -46,7 +45,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Números estão disponíveis em painel que monitora as ações de combate ao novo coronavírus realizadas pelas instituições.
 
 O Ministério da Educação (MEC) lançou mais um recurso para o [painel de monitoramento](http://portal.mec.gov.br/coronavirus/) das ações de combate ao coronavírus realizadas pelas instituições de ensino superior. Agora, o portal conta com o número de formaturas antecipadas das universidades privadas. Com isso, o sistema já computa 7.292 formados — 2.219 em públicas e 5.073 em particulares.
@@ -37,8 +36,6 @@ A ferramenta é fruto de uma parceria entre o MEC e a Universidade Federal do Oe
 Estudantes de Medicina podem se formar ao concluir 75% do internato e alunos de Enfermagem, Farmácia e Fisioterapia, no momento em que cursarem a mesma porcentagem do ensino curricular obrigatório.
 
 Fonte: gov.br/mec / Imagem em destaque: AB
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

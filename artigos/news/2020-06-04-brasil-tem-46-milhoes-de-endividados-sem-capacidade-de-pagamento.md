@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Dado faz parte do Relatório de Economia Bancária do Banco Central.
 
 Cerca de 4,6 milhões de endividados no Brasil devem a instituições financeiras mais do que podem pagar. É o chamado, pelo Banco Central (BC), de endividamento  de risco, formado por casos em que há inadimplência, comprometimento de renda, empréstimos em várias modalidades e renda abaixo da linha da pobreza.
@@ -27,5 +26,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

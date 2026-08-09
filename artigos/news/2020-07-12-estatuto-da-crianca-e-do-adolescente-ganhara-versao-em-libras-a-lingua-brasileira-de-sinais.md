@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Uma nova edição do Estatuto da Criança e do Adolescente (ECA) será disponibilizada em linguagem clara, compreensível e adequada a pessoas surdas ou com deficiência auditiva. O edital para a adaptação da norma à Língua Brasileira de Sinais (Libras) foi publicado nesta sexta-feira (10). Qualquer empresa interessada em desenvolver o conteúdo do Estatuto nessa versão pode se candidatar.
 
 O material será voltado a pessoas surdas ou com deficiência auditiva que dominem a Língua Brasileira de Sinais (Libras), independentemente do conhecimento da Língua Portuguesa. Para que isso ocorra, o processo de tradução do ECA envolverá a interpretação do texto na língua-fonte (Português) e sua reformulação na língua-alvo (Libras), de forma a torná-lo compreensível.
@@ -39,6 +38,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

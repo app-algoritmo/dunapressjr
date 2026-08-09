@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A equipe masculina de handebol de Itajaí ADI/Aceu/Univali/Slice/FMEL Itajaí participará da Liga Nacional de Handebol 2020. A competição será disputada em sede única na cidade de Arujá (SP) de 15 a 20 de dezembro. A competição é promovida pela Confederação Brasileira de Handebol (CBHb). A equipe itajaiense representa a Fundação Municipal de Esporte e Lazer (FMEL) em competições.
 
 A equipe de Itajaí é treinada pelo técnico Drean Dutra e a auxiliar técnica Cláudia Monteiro, ambos profissionais da FMEL. “Estamos com nossos treinos diariamente, e com isso, na expectativa de chegar entre as quatro melhores equipes do Brasil. Sabemos que não é fácil, pois devido à pandemia enfrentamos dificuldades para os treinamentos. Dentro desse processo, vamos tentar fazer o melhor possível”, destaca o técnico Drean.
@@ -33,5 +32,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

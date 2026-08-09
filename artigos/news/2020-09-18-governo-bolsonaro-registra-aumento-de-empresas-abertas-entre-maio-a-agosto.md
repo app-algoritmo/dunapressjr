@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O tempo médio de abertura reduziu em 2 dias, o que mostra a retomada do crescimento da economia do País. 0 fornecimento de alimentos para consumo em casa está no ranking dos setores que mais abriram empresas no segundo quadrimestre.
 
 De maio a agosto deste ano, 782.664 empresas foram abertas no País. O número representa um aumento de 6% em relação aos quatro meses anteriores. O levantamento, do Ministério da Economia, aponta, ainda, um crescimento de 2% se observado o mesmo período do ano passado.
@@ -51,5 +50,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

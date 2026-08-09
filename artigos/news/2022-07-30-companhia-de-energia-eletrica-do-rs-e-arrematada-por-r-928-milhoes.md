@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Leilão foi realizado nesta sexta-feira (29) na B3, em São Paulo.
 
 A Companhia Florestal do Brasil foi a vencedora do leilão de privatização do controle acionário da Companhia Estadual de Geração de Energia Elétrica (CEEE-G), promovido pelo governo do Rio Grande do Sul e estruturado pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES). O leilão foi realizado na tarde desta sexta-feira (29) na B3, em São Paulo.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

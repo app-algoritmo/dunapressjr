@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Pato, porco, peixe, caracol ... e vinho com favas esmagadas estavam no menu, dizem os arqueólogos, quando o primeiro restaurante de comida quente - conhecido como termopólio - foi escavado.
 
 Pesquisadores disseram que desenterraram totalmente um termopólio com afrescos, ou balcão de fast food, em excepcional estado de preservação em Pompéia.
@@ -40,8 +39,6 @@ Outro afresco retratava um cachorro na coleira, talvez não muito diferente dos 
 
 Valeria Amoretti, uma antropóloga da equipe de Pompeia, disse que “as análises iniciais confirmam como as imagens pintadas representam, pelo menos em parte, os alimentos e bebidas efetivamente vendidos no interior”. Em seu depoimento, observou-se que em um dos recipientes foi encontrado fragmento de osso de pato, junto com restos de cabras, porcos, peixes e caramujos. No fundo de um recipiente de vinho havia vestígios de grãos de fava moídos, que antigamente eram adicionados ao vinho para dar sabor e clarear sua cor, disse Amoretti.
 
-- 
-
 "Nós sabemos o que eles estavam comendo naquele dia", disse Osanna, referindo-se ao dia da destruição de Pompéia em 79 DC. Os restos de comida indicavam "o que é popular entre as pessoas comuns", disse Osanna à TV estatal Rai, observando que os restaurantes de rua não eram é frequentado pela elite romana.
 
 Uma descoberta surpreendente foi o esqueleto completo de um cachorro. A descoberta intrigou os escavadores, pois não se tratava de um “cão grande e musculoso como o pintado no balcão, mas de um exemplar extremamente pequeno” de um cão adulto, cuja altura ao nível do ombro era de 20 a 25 centímetros (8- a 10 polegadas), disse Amoretti. É bastante raro, disse Amoretti, encontrar vestígios de tempos antigos de cães tão pequenos, descobertas que “atestam a criação seletiva na época romana para obter este resultado”.
@@ -68,7 +65,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

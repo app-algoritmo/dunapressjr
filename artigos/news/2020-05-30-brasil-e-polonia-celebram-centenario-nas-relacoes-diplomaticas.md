@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em conversa por videoconferência, presidente Jair Bolsonaro e Andrzej Duda consideraram aprofundar a cooperação bilateral em prol da prosperidade de seus povos e do fortalecimento da posição internacional de ambos os países.
 
 Por meio de videoconferência realizada nesta quarta-feira (27), os presidentes do Brasil, Jair Bolsonaro, e da Polônia, Andrzej Duda, celebraram o centenário do estabelecimento das relações diplomáticas entre os dois países. Na ocasião, segundo o Ministério das Relações Exteriores (MRE), confirmaram o desejo de aprofundar a cooperação bilateral em prol da prosperidade de seus povos e do fortalecimento da posição internacional de ambos os países.
@@ -16,9 +15,9 @@ A conversa dos presidentes abrangeu também, de acordo com o MRE, as consequênc
 
 Leia na íntegra a nota divulgada pelo Itamaraty:
 
-Nota - Centenário do estabelecimento das relações diplomáticas Brasil - Polônia  
+Nota - Centenário do estabelecimento das relações diplomáticas Brasil - Polônia
 
-Os presidentes do Brasil e da Polônia, Jair Bolsonaro e Andrzej Duda, em conversa telefônica, congratularam-se pelo centenário do estabelecimento das relações diplomáticas entre os dois países. Na ocasião, confirmaram o desejo de aprofundar a cooperação bilateral em prol da prosperidade de seus povos e do fortalecimento da posição internacional de ambos os países. 
+Os presidentes do Brasil e da Polônia, Jair Bolsonaro e Andrzej Duda, em conversa telefônica, congratularam-se pelo centenário do estabelecimento das relações diplomáticas entre os dois países. Na ocasião, confirmaram o desejo de aprofundar a cooperação bilateral em prol da prosperidade de seus povos e do fortalecimento da posição internacional de ambos os países.
 
 Há 100 anos, a formalização do relacionamento bilateral reforçava os laços de amizade que uniam os povos das duas nações. A partir das últimas décadas do século XIX, fluxos sucessivos de imigrantes poloneses já chegavam ao Brasil, aportando significativa contribuição ao desenvolvimento do País e dando origem à segunda maior comunidade de descendentes de poloneses no mundo.
 
@@ -37,5 +36,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

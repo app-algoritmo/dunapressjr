@@ -8,7 +8,6 @@ categories:
 - Video library
 ---
 
-
 Criadores de 'mini-filmes' inspirados no viral israelense 'Eva.Stories', série do Instagram baseada em um garoto de 13 anos no Holocausto; Objetivo do projeto russo de aumentar a conscientização e recursos para idosos.
 
 Durante o ataque aéreo da Alemanha nazista à Rússia, Galina Makeeva sobreviveu a mais de 100.000 bombas incendiárias lançadas sobre Moscou pela Luftwaffe.
@@ -73,7 +72,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

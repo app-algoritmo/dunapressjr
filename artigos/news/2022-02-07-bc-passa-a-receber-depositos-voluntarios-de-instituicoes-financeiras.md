@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A medida serve para gerenciamento da quantidade de moeda em circulação.
 
 O Banco Central (BC) começa a receber a partir de hoje (7) depósitos voluntários de instituições financeiras, mediante remuneração. Os depósitos serão usados para fins de política monetária, funcionando como uma alternativa às operações compromissadas (títulos públicos).
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

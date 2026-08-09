@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 Escondida por trás das máscaras, a saúde bucal não pode ficar de lado e ganhou, inclusive, novos reforços nesse momento. São ações que já deveriam fazer parte da rotina, mas que muitas vezes eram esquecidas e não valorizadas como deveriam. Quando se fala em contaminação, um dos principais canais de acesso de todo tipo de vírus ao corpo é a boca. E, para prevenir inclusive muitas outras doenças que já circulavam entre a população, alguns hábitos implantados agora deveriam ficar no dia a dia de cada um.
 
 **Lavar as mãos antes de escovar os dentes**
@@ -17,11 +16,11 @@ Lavar as mãos já está entre as formas de prevenção da Covid-19. Mas realiza
 
 **Usar enxaguante bucal **
 
-O uso de enxaguantes bucais é um reforço na higiene que pode entrar na rotina diária. “É importante ressaltar que o enxaguante atua somente na cavidade bucal, mas por sua capacidade antimicrobiana e função de limpeza, é um excelente coadjuvante para aumentar ainda mais a higiene da boca”, explica. 
+O uso de enxaguantes bucais é um reforço na higiene que pode entrar na rotina diária. “É importante ressaltar que o enxaguante atua somente na cavidade bucal, mas por sua capacidade antimicrobiana e função de limpeza, é um excelente coadjuvante para aumentar ainda mais a higiene da boca”, explica.
 
 **Trocar de escova dental com frequência **
 
-A substituição das escovas também é uma recomendação que já deve fazer parte da rotina de todos, mas, com a chegada da Covid-19, essa ação recebe ainda mais importância. “É essencial que as pessoas que passarem por qualquer problema de saúde, inclusive Covid-19, troquem de escovas. Assim como quem ficou internado, já que a escova tem contato direto com a boca e pode ter vírus e bactérias acumulados”, ressalta o dentista. 
+A substituição das escovas também é uma recomendação que já deve fazer parte da rotina de todos, mas, com a chegada da Covid-19, essa ação recebe ainda mais importância. “É essencial que as pessoas que passarem por qualquer problema de saúde, inclusive Covid-19, troquem de escovas. Assim como quem ficou internado, já que a escova tem contato direto com a boca e pode ter vírus e bactérias acumulados”, ressalta o dentista.
 
 **Higienização das escovas **
 
@@ -29,7 +28,7 @@ Após cada escovação também é importante fazer a higienização correta da e
 
 **Armazenamento **
 
-Guardar corretamente as escovas de dente também faz parte do processo de prevenção. Apesar de ir contra o que grande parte da população segue, o armazenamento correto não deve ser em gavetas, armários ou com protetores para as cerdas. “Deixar as escovas fechadas ou abafadas não é o mais indicado, pois proporciona um ambiente propício para a proliferação de bactérias. O ideal é manter a escova aberta, com as cerdas voltadas para cima e na maior distância possível do vaso sanitário, que pode, no momento da descarga, transmitir germes para o ar e contaminar a escova”, ressalta. Outro ponto importante é deixar as escovas de familiares e amigos separadas, sem contato umas com as outras. 
+Guardar corretamente as escovas de dente também faz parte do processo de prevenção. Apesar de ir contra o que grande parte da população segue, o armazenamento correto não deve ser em gavetas, armários ou com protetores para as cerdas. “Deixar as escovas fechadas ou abafadas não é o mais indicado, pois proporciona um ambiente propício para a proliferação de bactérias. O ideal é manter a escova aberta, com as cerdas voltadas para cima e na maior distância possível do vaso sanitário, que pode, no momento da descarga, transmitir germes para o ar e contaminar a escova”, ressalta. Outro ponto importante é deixar as escovas de familiares e amigos separadas, sem contato umas com as outras.
 
 É importante ressaltar que, para o combate à pandemia da Covid-19, deve ser respeitado o isolamento social, o uso de máscaras e as medidas de segurança estabelecidas pelos órgão de saúde e gestão de cada município. De acordo com especialistas, essas são as formas fundamentais de prevenção aos casos da doença. 
 
@@ -42,7 +41,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Fornecimento terá início em dezembro de 2026, diz Aneel.
 
 A Agência Nacional de Energia Elétrica (Aneel) contratou 729,2 megawatts (MW) no leilão para fornecimento de energia para a Região Norte, realizado na manhã desta sexta-feira (30). O fornecimento, previsto para começar em dezembro de 2026, ficou abaixo do objetivo do certame que era de disponibilizar 1 mil megawatts para a região por 15 anos.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## As razões são a falta de chuvas e o efeito da bienalidade negativa.
 
 A Companhia Nacional de Abastecimento (Conab) estima que a produção total de café neste ano deve ficar entre 43,8 milhões e 49,5 milhões de sacas, o que indica uma redução entre 30,5% e 21,4%, em comparação ao resultado apresentado na safra passada. As razões são a falta de chuvas e o efeito da bienalidade negativa, conforme consta no 1º Levantamento da Safra 2021 de Café, divulgado hoje (21) pelo órgão. O estudo inclui as variedades de café conilon e arábica.
@@ -38,8 +37,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

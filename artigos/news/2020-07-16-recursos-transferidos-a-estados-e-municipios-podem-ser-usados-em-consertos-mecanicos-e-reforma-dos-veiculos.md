@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Para apoiar a política de transporte escolar nos estados e municípios brasileiros, o Fundo Nacional de Desenvolvimento da Educação (FNDE) liberou, no último dia 10 de junho, a sexta parcela do Programa Nacional de Apoio ao Transporte do Escolar (PNATE), no valor de R$ 70,8 milhões. A transferência é automática, sem necessidade de convênio, e os valores já estão disponíveis nas contas dos entes federativos.
 
 A transferência garante a manutenção das ações voltadas para o transporte dos estudantes, mesmo nesse período em que as aulas na rede pública estão suspensas devido à pandemia de Covid-19. Os recursos podem ser utilizados no custeio de despesas diversas, como consertos mecânicos, compra de combustível ou terceirização do serviço de transporte escolar. Podem também ser utilizados no pagamento de serviços contratados junto a terceiros para esta finalidade.
@@ -21,7 +20,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

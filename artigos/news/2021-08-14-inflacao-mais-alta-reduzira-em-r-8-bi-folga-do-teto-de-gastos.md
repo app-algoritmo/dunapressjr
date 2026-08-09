@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estimativa foi dada por secretário especial do Tesouro e Orçamento.
 
 A alta recente da inflação poderá reduzir em pelo menos R$ 8 bilhões a folga no teto federal de gastos em 2022, disse nesta sexta-feira (13) o secretário especial do Tesouro e Orçamento do Ministério da Economia, Bruno Funchal. Isso ocorrerá porque diversos gastos, como aposentadorias, seguro-desemprego e abono salarial, são corrigidos pelo Índice Nacional de Preços ao Consumidor (INPC).
@@ -28,10 +27,6 @@ Em relação às críticas sobre a possibilidade de parcelar os precatórios, qu
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

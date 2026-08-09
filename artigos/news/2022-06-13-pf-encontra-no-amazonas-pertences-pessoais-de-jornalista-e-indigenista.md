@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Policiais localizam cartão de saúde de indigenista.
 
 A Polícia Federal (PF) encontrou alguns pertences do indigenista Bruno Pereira e do jornalista Dom Philips, desaparecidos desde 5 de junho na região amazônica, na área da reserva indígena do Vale do Javari, a segunda maior do país, com mais de 8,5 milhões de hectares. Em nota, a PF disse que foram localizados um cartão de saúde com nome de Bruno Pereira e outros itens dele e de Dom Phillips.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

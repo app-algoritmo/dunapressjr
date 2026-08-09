@@ -7,7 +7,6 @@ categories:
 - Sports
 ---
 
-
 O mineiro Marcelo Melo e o croata Ivan Dodig são vice-campeões do ATP 250 de Adelaide, na Austrália. Na madrugada deste domingo (9), os indianos Rohan Bopanna e Ramkumar Ramanathan marcaram 2 sets a 0, com parciais de 7/6 (8-6) e 6/1, em 1h21min, para ficar com o título. Melo e Dodig seguem na cidade australiana para a disputa de mais um ATP 250 como preparação para o Australian Open. O torneio começa nesta segunda-feira (10) e a dupla joga como cabeça de chave 2, sendo bye na primeira rodada, estreando já nas oitavas de final.
 
 "Não deu para nós hoje aqui. Eles jogaram muito bem. Tivemos algumas oportunidades no primeiro set, que acabamos não aproveitando, entre as quais um mini break na frente no tie-break. Poderia ter sido diferente o jogo, mas às vezes vem para o nosso lado, às vezes não vem. Depois, no segundo, eles acabaram quebrando em um game atípico, que estava 40/0, devolveram muito bem e os dois também sacaram muito bem, o que dificultou termos mais chances", explicou Marcelo, que tem o patrocínio de Centauro e BMG, com apoio da Volvo, Head, Voss, Asics e Confederação Brasileira de Tênis.
@@ -24,7 +23,7 @@ No ranking mundial individual de duplas divulgado na segunda-feira (3) pela Asso
 
 Entre 2017 e 2018, Marcelo ficou 30 semanas – 25 consecutivas - como líder do ranking mundial individual de duplas da ATP (13 semanas em 2017 – terminando o ano como número 1 - e 17 semanas em 2018). Antes, ocupou a liderança pela primeira vez em 2015, por 22 semanas, também virando o ano na frente, e voltou ao primeiro lugar por mais quatro semanas a partir de maio de 2016. Único brasileiro na história a ser número 1 do mundo em duplas.
 
-Em 2020, no México, no ATP 500 de Acapulco, o mineiro Marcelo conquistou o 34º título da carreira e no mês de outubro, no ATP 500 de Viena somou o 35ª da carreira. Pelo 14º ano consecutivo comemorou no mínimo um título por temporada. Dos 35 títulos, todos em duplas, dois são Grand Slam – Roland Garros, na França (2015) e Wimbledon, em Londres (2017) e nove Masters 1000, além de nove ATP 500 e 15 ATP 250. 
+Em 2020, no México, no ATP 500 de Acapulco, o mineiro Marcelo conquistou o 34º título da carreira e no mês de outubro, no ATP 500 de Viena somou o 35ª da carreira. Pelo 14º ano consecutivo comemorou no mínimo um título por temporada. Dos 35 títulos, todos em duplas, dois são Grand Slam – Roland Garros, na França (2015) e Wimbledon, em Londres (2017) e nove Masters 1000, além de nove ATP 500 e 15 ATP 250.
 
 **Três vitórias em 2022 – **No início da temporada 2022, Melo e Dodig somam três vitórias em Adelaide. Em** **2021, Marcelo Melo tem três vitórias ao lado do romeno Horia Tecau, uma na estreia no Murray River Open (ATP 250) e duas no Australian Open, ambos em Melbourne. Uma vitória jogando com a russa Vera Zvonareva na estreia nas duplas mistas do Grand Slam. Duas vitórias com Jean-Julien Rojer, na estreia do ATP 250 de Doha e na estreia do Masters 1000 de Madri. Três vitórias com Lukasz Kubot em Wimbledon. Duas com Marcus Daniell em Washington. Uma com Kubot na estreia em Toronto. E duas com Kubot em Winston-Salem. Com Dodig, três vitórias em Indian Wells e uma em Antuérpia.
 
@@ -49,7 +48,3 @@ Release: **Redação **ZDL
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

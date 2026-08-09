@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Uma suástica foi pintada de branco na quinta-feira na calçada em frente a uma sinagoga americana em Bangor, Maine, nos Estados Unidos. A polícia de Bangor está investigando o incidente na Congregação Beth Israel; Imagens de CCTV de adolescentes que vandalizam lugares. 
+Uma suástica foi pintada de branco na quinta-feira na calçada em frente a uma sinagoga americana em Bangor, Maine, nos Estados Unidos. A polícia de Bangor está investigando o incidente na Congregação Beth Israel; Imagens de CCTV de adolescentes que vandalizam lugares.
 
 As imagens das câmeras de segurança da Congregação Beth Israel tornaram possível distinguir claramente os adolescentes que desenhavam a suástica.
 
@@ -22,7 +21,7 @@ A sinagoga instalou câmeras de segurança em 2012 após o grafite anti-semita t
 
 A congregação, fundada em 1888, é a mais antiga de Bangor, de acordo com o *Bangor Daily News* .
 
-Fonte The Time Of Irael . 
+Fonte The Time Of Irael .
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor.**
 
@@ -30,6 +29,6 @@ Fonte The Time Of Irael .
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

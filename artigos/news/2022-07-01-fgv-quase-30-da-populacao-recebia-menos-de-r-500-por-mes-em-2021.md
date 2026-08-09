@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Cenário foi impactado por crises, entre elas a pandemia, diz estudo.
 
 Em 2021, cerca de 29,6% da população brasileira tinha renda domiciliar per capita de até R$ 497 mensais. O percentual corresponde a 62,9 milhões de pessoas, o maior valor desde o começo da série histórica, iniciada em 2012. O número representa aumento de 9,6 milhões em relação a 2019. Os dados foram apresentados no Mapa da Nova Pobreza, divulgado pela Fundação Getúlio Vargas Social (FGV Social).
@@ -26,14 +25,10 @@ Na avaliação por unidade da federação, entre 2019 e 2021, o maior avanço da
 
 ### Sobre a pesquisa
 
-O foco do estudo é avaliar o nível e a evolução espacial da pobreza durante os últimos anos no Brasil, usando os microdados da Pesquisa Nacional por Amostra de Domicílios (Pnad)  Contínua Anual, disponibilizados recentemente pelo Instituto Brasileiro de Geografia e Estatística (IBGE)
+O foco do estudo é avaliar o nível e a evolução espacial da pobreza durante os últimos anos no Brasil, usando os microdados da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua Anual, disponibilizados recentemente pelo Instituto Brasileiro de Geografia e Estatística (IBGE)
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

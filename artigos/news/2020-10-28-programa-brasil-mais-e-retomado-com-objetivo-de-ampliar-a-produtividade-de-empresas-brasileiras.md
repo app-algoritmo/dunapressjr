@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Iniciativa vai oferecer capacitação para melhorar a gestão e apoiar a adoção de tecnologias digitais a cerca de 120 mil empresas.
 
 O Ministério da Economia, por meio da Secretaria Especial de Produtividade, Emprego e Competitividade (Sepec), – em parceria com o Sebrae, o Senai e a Agência Brasileira de Desenvolvimento Industrial (ABDI) – retoma as ações do programa Brasil Mais, lançado em fevereiro deste ano e interrompido pela Covid-19.
@@ -32,5 +31,3 @@ Na plataforma do Brasil Mais, as empresas poderão encontrar de forma aberta e g
 Fonte: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

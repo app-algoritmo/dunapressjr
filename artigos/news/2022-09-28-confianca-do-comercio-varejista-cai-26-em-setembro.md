@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Comparado a setembro de 2021, cresceu 5,2%.
 
 O Índice de Confiança do Empresário do Comércio (Icec), divulgado nesta terça-feira (27) pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), caiu 2,6% de agosto para setembro, alcançando 125,5 pontos. O resultado está 2,7 pontos abaixo do nível registrado antes da pandemia da covid-19. Em comparação a setembro do ano passado, entretanto, a confiança dos varejistas aumentou 5,2%, refletindo, principalmente, a retomada da circulação dos consumidores.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Sistema de pagamentos e transferências é gratuito para pessoas físicas.
 
 Novo sistema de pagamentos e transferências instantâneas, gratuito para pessoas físicas, o Pix vai funcionar de forma parecida com as transferências DOC e TED. A vantagem é que permitirá um acesso mais simples do que os serviços que existem até agora.
@@ -51,5 +50,3 @@ O sistema será aberto para toda a população a partir de 16 de novembro.
 Fonte: Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

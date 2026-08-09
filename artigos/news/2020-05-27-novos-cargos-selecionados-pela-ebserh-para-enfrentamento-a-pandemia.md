@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## **Inscrições para contratação temporária de profissionais têm início na quinta-feira, 28**.
 
 A Empresa Brasileira de Serviços Hospitalares (Ebserh) lançou mais um processo seletivo para  contratação temporária de profissionais para atuarem no combate ao coronavírus. Novos cargos estão previstos, como o de médico do trabalho, médico plantonista, farmacêutico, assistente social, biomédico e técnicos em Análises Clínicas, Radiologia, Necropsia e Farmácia. As inscrições deverão ser feitas de quinta-feira, 28 de maio, até as 22 horas de 4 de junho, pelo [portal da Rede Ebserh](https://www.gov.br/ebserh/pt-br).
@@ -35,8 +34,6 @@ Também disponibilizou R$ 274 milhões para ações contra o coronavírus, recur
 Em algumas regiões, as unidades da Rede Ebserh têm atuado como hospitais de referência ao enfrentamento do Covid-19, enquanto que em outras, atuam como retaguarda em atendimentos assistenciais para a população, por meio do Sistema Único de Saúde (SUS).
 
 Fonte: portalmec.gov.br / Imagem em destaque: Ebserh
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

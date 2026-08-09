@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medida abrange seis estados.
 
 Com objetivo de regularizar e a formalizar a extração mineral em áreas de conflito, a Agência Nacional de Mineração (ANM) lançou nesta quinta-feira (15) a 6ª rodada de oferta pública que destinará áreas para a lavra garimpeira, nos estados do Amapá, da Bahia, de Mato Grosso, do Pará, de Rondônia e de Roraima. As ofertas públicas têm o apoio do Ministério de Minas e Energia (MME).
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

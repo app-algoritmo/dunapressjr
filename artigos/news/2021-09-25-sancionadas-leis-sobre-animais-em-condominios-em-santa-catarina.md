@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Já está em vigor a Lei 18.125/2021, que regulamenta a habitação e o trânsito de animais domésticos nos condomínios residenciais de Santa Catarina. A norma foi sancionada pelo governador Carlos Moisés da Silva (sem partido) na última quarta-feira (22) e publicada no Diário Oficial do Estado desta quinta-feira (23).
 
 O autor do projeto que deu origem à lei é o deputado João Amin (PP). Durante a tramitação na Assembleia Legislativa, a proposta recebeu uma emenda substitutiva global, de autoria do deputado Marcius Machado (PL), elaborada com base em sugestões de protetores de animais.
@@ -29,7 +28,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

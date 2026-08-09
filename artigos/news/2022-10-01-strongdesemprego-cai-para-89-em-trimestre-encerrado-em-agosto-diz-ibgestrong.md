@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Número de trabalhadores desocupados atingiu 9,7 milhões.
 
 O desemprego no Brasil diminuiu para 8,9% com a queda de 0,9 ponto percentual registrada no trimestre encerrado em agosto, em comparação com o período anterior, terminado em maio.
@@ -52,8 +51,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

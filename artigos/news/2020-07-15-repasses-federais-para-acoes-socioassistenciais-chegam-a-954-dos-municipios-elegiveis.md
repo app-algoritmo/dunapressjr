@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Percentual representa mais de 5,3 mil localidades, como Paragominas (PA), que teve orçamento quatro vezes maior para atender uma instituição de acolhimento de idosos.
 
 Para auxiliar a rede socioassistencial de estados e municípios no período de pandemia causada pelo novo coronavírus, o Governo Federal destinou recursos a serem aplicados em três vertentes: aquisição de Equipamentos de Proteção Individual; compra de alimentos e realização de ações assistenciais. Mais de 5,3 mil municípios já receberam o repasse emergencial, o que representa 95,4% dos municípios elegíveis.
@@ -23,7 +22,7 @@ O repasse emergencial é uma ajuda financeira para apoiar os trabalhadores do Si
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Proprietários de veículos com placas que terminam em 0, que optaram por pagar o IPVA em três vezes sem juros, devem quitar a última parcela até a próxima quinta-feira, 10 de dezembro.
 
 Em 2020, os catarinenses estão pagando, em média, 2,4% a menos de IPVA do que no ano passado. O índice representa a desvalorização dos veículos em relação a 2019 de acordo com a tabela Fipe (Fundação Instituto de Pesquisas Econômicas), utilizada pela Secretaria de Estado da Fazenda (SEF) como base de cálculo. Em Santa Catarina, o tributo varia entre 1% e 2% do valor venal do veículo.
@@ -46,7 +45,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

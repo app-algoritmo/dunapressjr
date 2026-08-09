@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 participação dos produtos agropecuários na movimentação de cargas nos portos brasileiros passou de 16% em 2019 para 21% em 2020. Até o mês passado, a circulação de produtos agropecuários chegou a 175 milhões de toneladas. Os dados se referem aos primeiros 10 meses dos dois anos. Nesse período, a movimentação total de cargas nos portos brasileiros foi de 850 milhões de toneladas. Essa quantidade é 3,7% maior do que a registrada no mesmo período do ano passado. As informações são do Boletim Logístico, da Companhia Nacional de Abastecimento (Conab). O estudo foi feito com base em dados da Agência Nacional de Transportes Aquaviários (ANTAQ) até o terceiro trimestre de 2020.
 
 O Brasil possui 34 portos públicos e 147 terminais de uso privado (TUP), responsáveis pela movimentação marítima e fluvial de 80% das mercadorias consumidas diariamente. De toda a movimentação, 65,5% são feitas nos TUP’s e 34,5% nos portos organizados.
@@ -24,7 +23,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

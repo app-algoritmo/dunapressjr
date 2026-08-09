@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 **Recife/PE** - A Polícia Federal deflagrou, hoje (16/6), a Operação Antídoto com o propósito de investigar as contratações diretas emergenciais realizadas pela Secretaria de Saúde da Prefeitura do Recife, no enfrentamento à pandemia do COVID-19.
 
 A ação conta com o apoio da Controladoria-Geral da União - CGU e está dando cumprimento a seis mandados de busca e apreensão.
@@ -20,5 +19,3 @@ Além disso, foram detectadas diversas irregularidades nos procedimentos de disp
 Os crimes investigados são de falsidade ideológica, peculato (desvio de dinheiro público) e dispensa indevida de licitação, sem prejuízo de outros que possam surgir no decorrer da apuração.
 
 Comunicação Social da Polícia Federal
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

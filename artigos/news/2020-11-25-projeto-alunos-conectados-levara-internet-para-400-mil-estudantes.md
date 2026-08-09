@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Se, no início deste ano, alguém contasse para a estudante Daiane Brabo que ela precisaria cursar o terceiro e último semestre do curso Técnico em Agropecuária, no Instituto Federal do Pará (IFPA), remotamente, assistindo aulas pelo celular, ela ficaria não apenas surpresa, mas preocupada. A jovem paraense, de 22 anos, filha de agricultores familiares, não tem internet em casa e não poderia ter acesso aos conteúdos educacionais fornecidos. “Sou de família muito pobre, a gente não tem condição de instalar Wi-Fi em casa nem de colocar crédito no telefone toda semana”, explica.
 
 Neste momento, em que não podemos estar presencialmente na instituição, esse chip veio para minimizar nossas dificuldades. Os chips disponibilizados pelo MEC são maravilhosos. A internet é muito boa!”, elogia a estudante Daiane Brabo
@@ -40,7 +39,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

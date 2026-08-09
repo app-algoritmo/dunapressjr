@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Infraestrutura assinou acordo para receber valor das renovações dos contratos de concessão da Malha Paulista e da Ferrovia Norte-Sul. O acordo para o pagamento foi fechado pelo ministério, por meio da Agência Nacional de Transportes Terrestres (ANTT), com a empresa logística Rumo.
 
 Ministério da Infraestrutura receberá o valor de R$ 5,1 bilhões referentes a antecipação parcial das outorgas das concessões da Malha Paulista e dos ramos central e sul da Ferrovia Norte-Sul. O acordo para o pagamento foi fechado pelo ministério, por meio da Agência Nacional de Transportes Terrestres (ANTT), com a empresa logística Rumo, e assinado nesta terça-feira (15).
@@ -26,15 +25,15 @@ De acordo com o Ministério da Infraestrutura, o parcelamento do valor das outor
 
 ###  Malha Paulista
 
-###  
+###
 
-O novo contrato da concessão ferroviária da Malha Paulista foi assinado em maio entre a Agência Nacional de Transportes Terrestres (ANTT) e a empresa Rumo. O contrato original, que venceria em 2028, foi renovado por mais 30 anos, e vai injetar R$ 6 bilhões em recursos privados na ampliação da capacidade de transporte, em melhorias urbanas, além de gerar cerca de 10 mil empregos e aumentar a arrecadação federal. 
+O novo contrato da concessão ferroviária da Malha Paulista foi assinado em maio entre a Agência Nacional de Transportes Terrestres (ANTT) e a empresa Rumo. O contrato original, que venceria em 2028, foi renovado por mais 30 anos, e vai injetar R$ 6 bilhões em recursos privados na ampliação da capacidade de transporte, em melhorias urbanas, além de gerar cerca de 10 mil empregos e aumentar a arrecadação federal.
 
-O sistema ferroviário tem 1.989 quilômetros de extensão entre Santa Fé do Sul (SP) – na divisa com o Mato Grosso do Sul – e o Porto de Santos (SP). Por seus trilhos, são movimentadas cargas de milho, soja, açúcar, farelo de soja, álcool, derivados de petróleo e contêineres. 
+O sistema ferroviário tem 1.989 quilômetros de extensão entre Santa Fé do Sul (SP) – na divisa com o Mato Grosso do Sul – e o Porto de Santos (SP). Por seus trilhos, são movimentadas cargas de milho, soja, açúcar, farelo de soja, álcool, derivados de petróleo e contêineres.
 
 ### Ferrovia Norte-Sul
 
-Em 2019, o Governo Federal firmou acordo de concessão com a empresa Rumo de trecho que fica entre Porto Nacional (TO) e Estrela D'oeste (SP), com extensão de 1.537 quilômetros. A concessionária vai operar o trecho por 30 anos explorando a infraestrutura e a prestação de serviços. Terá também que fazer a manutenção e conservação da infraestrutura durante todo o período da concessão. 
+Em 2019, o Governo Federal firmou acordo de concessão com a empresa Rumo de trecho que fica entre Porto Nacional (TO) e Estrela D'oeste (SP), com extensão de 1.537 quilômetros. A concessionária vai operar o trecho por 30 anos explorando a infraestrutura e a prestação de serviços. Terá também que fazer a manutenção e conservação da infraestrutura durante todo o período da concessão.
 
 A Ferrovia Norte-Sul tem como objetivo promover a integração da malha ferroviária e foi projetada para minimizar custos de transporte e estabelecer alternativas mais econômicas para os fluxos de carga para mercado consumidor.
 
@@ -45,5 +44,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

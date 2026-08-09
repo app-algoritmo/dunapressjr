@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Repasse do primeiro lote de recursos será concluído até 11 de setembro. Datas variam conforme aprovação dos planos apresentados pelos gestores locais.
 
 O Ministério do Turismo e a Secretaria Especial da Cultura (Secult) vão concluir até 11 de setembro o repasse de um primeiro lote de recursos da Lei Aldir Blanc, que prevê a destinação de R$ 3 bilhões da União a estados, municípios e ao Distrito Federal para ações emergenciais na área de Cultura durante o estado de calamidade em função do novo coronavírus. A informação consta de um cronograma definido pela (Secult) e divulgado na sexta-feira (21.08).
@@ -42,6 +41,4 @@ Um [sistema](https://auxiliocultura.dataprev.gov.br/auxcultura/#/) disponibili
 Imagem: Douglas Junior/MTur
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código [(THAMI)](https://dunapress.org/subscription-plan/?aff=Thami)
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=Thami)
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código [(THAMI)](https://dunapress.org/subscription-plan/)

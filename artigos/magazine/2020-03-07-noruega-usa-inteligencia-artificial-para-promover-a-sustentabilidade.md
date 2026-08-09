@@ -7,7 +7,6 @@ categories:
 - Magazine
 ---
 
-
 Inteligência artificial (IA) é uma palavra na boca de todos. O poder da computação e a enorme quantidade de dados a serem processados ​​estão crescendo exponencialmente. Com a IA, grandes oportunidades estão se abrindo para a realização de tarefas que costumavam exigir inteligência humana de maneiras melhores, mais rápidas e mais eficientes.
 
 A inteligência artificial torna possível reduzir o uso de recursos e processar grandes quantidades de dados e, em certos casos, tomar melhores decisões que os humanos. Pode até reduzir o estresse em peixes.
@@ -52,8 +51,4 @@ A Noruega também está avançando em outras áreas, como o planejamento urbano 
 
 Embora exista uma certa quantidade de ceticismo em relação à IA e se ela pode ser desenvolvida e usada de forma responsável, esses exemplos mostram como a IA pode ser uma ferramenta importante para construir sociedades melhores e aumentar a criação de valor. Com uma estratégia nacional para IA de confiança e empresas altamente inovadoras, a Noruega está bem equipada para explorar o potencial desta emocionante tecnologia.
 
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!, clique e comece já!
-
-[](https://dunapress.org/edu/)
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!

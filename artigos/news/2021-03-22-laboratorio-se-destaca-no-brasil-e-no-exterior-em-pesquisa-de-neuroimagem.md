@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O laboratório de neuroimagem *[Zimmer Neuroimaging Lab](https://zimmer-lab.org/)* foi criado em 2018, por Eduardo Zimmer, ex-bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Hoje, conta com uma equipe multidisciplinar – 16 alunos de pós-graduação e nove de iniciação científica – que estuda doenças neurodegenerativas, como a doença de Alzheimer (DA), a principal causa de demência no mundo. Segundo o pesquisador, acredita-se que existam 35 milhões de portadores da DA no mundo e quase dois milhões desses pacientes estão no Brasil.
 
 Zimmer foi bolsista da CAPES em diversas fases de sua vida acadêmica. Em 2016, com recursos recebidos do Prêmio CAPES de Tese em Ciências Biológicas II, financiou um projeto que deu origem ao seu laboratório, cujo “principal objetivo dos estudos é identificar pessoas em risco de desenvolver a DA antes dos primeiros sintomas e entender como ela funciona”.
@@ -39,7 +38,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Proposta tramitou no Congresso por quatro anos.
 
 O Congresso Nacional promulgou nesta quinta-feira (14) a proposta de emenda à Constituição que visa reduzir a demanda do Superior Tribunal de Justiça (STJ) com recursos especiais. A emenda cria uma espécie de filtro de admissibilidade para esse tipo de recurso. Assim, o recorrente deve mostrar a relevância das questões de direito federal infraconstitucional (que não estejam previstas na Constituição) discutidas na ação.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

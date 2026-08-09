@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa sobe 0,61% e registra alta pela segunda sessão consecutiva.
 
 No dia seguinte à escolha dos novos presidentes do Senado e da Câmara dos Deputados, o dólar teve forte queda e fechou no menor valor em uma semana. A bolsa chegou a encostar em 120 mil pontos, mas perdeu o fôlego e encerrou com pequena alta.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

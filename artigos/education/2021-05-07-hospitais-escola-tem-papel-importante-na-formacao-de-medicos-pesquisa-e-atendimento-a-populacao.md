@@ -8,7 +8,6 @@ categories:
 - Education
 ---
 
-
 Mais de 180 mil novos médicos começaram a atuar no Brasil ao longo dos últimos 10 anos. Isso representa um aumento de 118% dos profissionais, segundo  estudo Demografia Médica 2020, realizado pelo Conselho Federal de Medicina. São profissionais que tiveram a atuação e o reconhecimento reforçados com a pandemia do coronavírus. O constante aumento de casos de Covid-19 e as peculiaridades da doença mostraram a importância da excelência na formação e da dedicação às pesquisas - momentos em que instituições de saúde e de educação se unem.
 
 Para o coordenador médico do Hospital Universitário Cajuru, em Curitiba (PR), José Rodriguez, uma parte fundamental da formação médica é o período de residência. Segundo ele, é com essa experiência que os novos profissionais podem aprofundar os conhecimentos na área médica e ter contato com o dia a dia de um hospital. “Uma boa formação médica faz toda a diferença, principalmente com o momento demandando mais profissionais da saúde. Sendo assim, profissionais qualificados são cada vez mais cobrados pela sociedade e a principal forma de preparar esse profissional é por meio da residência. É importante não só formar médicos, mas ter a certeza de que eles terão uma boa oportunidade para se aprofundar nos conhecimentos”, afirma.
@@ -30,7 +29,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

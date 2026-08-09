@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa caiu 1,49% com baixa de commodities.
 
 Num dia de pressões do mercado internacional, o dólar fechou praticamente estável após operar em queda durante quase toda a sessão. A bolsa de valores, que passou boa parte do dia próxima da estabilidade, não resistiu e caiu perto do fim das negociações.
@@ -24,10 +23,6 @@ Nos Estados Unidos, as bolsas caíram, apesar da redução das taxas dos título
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. 
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
- [LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

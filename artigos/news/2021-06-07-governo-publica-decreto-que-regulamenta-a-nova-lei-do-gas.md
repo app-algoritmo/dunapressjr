@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medida representa mais um passo em direção à maior competitividade e abertura do mercado.
 
 Foi publicado no Diário Oficial da União da última sexta-feira (4/6) o [Decreto nº 10.712](https://www.in.gov.br/en/web/dou/-/decreto-n-10.712-de-2-de-junho-de-2021-323832363), que regulamenta a Lei nº 14.134, a Nova Lei do Gás. Com isso, foi dado mais um passo em direção à maior competitividade e abertura do mercado de gás.
@@ -34,8 +33,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

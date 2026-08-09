@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## -De acordo com a Pesquisa Nacional da População em Situação de Rua divulgada em maio de 2019 pelo Ministério da Cidadania, o Brasil hoje tem mais de 1,17 milhão moradores de rua.
 
 ## -Nos últimos sete anos, o número de famílias sem-teto aumentou cerca de 16 vezes.
@@ -24,8 +23,6 @@ De acordo com a Pesquisa Nacional da População em Situação de Rua divulgada 
 
 [Acesse o PDF](https://www.ipea.gov.br/portal/images/stories/PDFs/nota_tecnica/200612_nt_disoc_n_73.pdf)
 
-[](https://www.ipea.gov.br/portal/images/stories/PDFs/nota_tecnica/200612_nt_disoc_n_73.pdf)
-
 As pessoas que sofrem o impacto deste problema são aquelas que não têm um teto sobre suas cabeças, pouco dinheiro para comer e que são constantemente pressionadas pela polícia e pelas pessoas comuns que as veem como criminosos em potencial. De acordo com os registros do Ministério da Saúde, ocorreram 17.386 casos de violência entre 2015 e 2017, cujo principal motivo foi a situação de rua da vítima. Houve um grande aumento nos ataques a moradores de rua no Rio de Janeiro, onde seu número triplicou nos últimos anos para 15.000, incluindo milhares que foram de outros estados para trabalhar antes da Copa do Mundo de 2014, das Olimpíadas do Rio de 2016 e depois perderam seus empregos. “Há apenas três anos, havia muito poucas pessoas morando nas ruas aqui. Agora, até os pontos turísticos estão cheios deles ”, diz José Moreira, morador de Copacabana. “Os moradores da classe média querem que eles sejam expulsos. Há muita tensão no ar.”
 
 ## 3.580.000 apartamentos necessários
@@ -36,10 +33,6 @@ Nessas condições terríveis, os sem-teto de São Paulo - e de outras cidades -
 
  [        Ver essa foto no Instagram            ](https://www.instagram.com/tv/CNaywpLjM9O/?utm_source=ig_embed&utm_campaign=loading)[Uma publicação compartilhada por DUNA PRESS JORNAL (@dunapressjornal)](https://www.instagram.com/tv/CNaywpLjM9O/?utm_source=ig_embed&utm_campaign=loading)
 
- 
-
 Press com Shobhan Saxena by [The Hindu](https://www.thehindu.com/news/international/sleepless-penniless-and-hopeless-on-brazilian-streets/article30545135.ece)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

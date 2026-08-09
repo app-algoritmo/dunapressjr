@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 As deduções indevidas correspondem a um valor de 15 milhões.
 
 A Receita Federal identificou que cerca de 1.200 declarações do Imposto de Renda da Pessoa Física, dos exercícios de 2015 a 2019, de um grupo de aproximadamente 550 contribuintes e que foram transmitidas de um mesmo computador, continham deduções relacionadas à pensão alimentícia e inclusão de dependentes e também de despesas médicas e de instrução referentes a eles, em desacordo com o que prevê a legislação.
@@ -32,4 +31,4 @@ A Receita Federal alerta aos contribuintes que desconfiem de pessoas que promete
 
 Fonte: Receita Federal – imagem de destaque: Marcelo Camargo/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

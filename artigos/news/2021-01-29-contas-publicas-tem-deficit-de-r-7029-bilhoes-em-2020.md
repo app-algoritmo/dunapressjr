@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Saldo negativo foi devido à crise econômica e a pandemia.
 
 As contas públicas fecharam o ano de 2020 com saldo negativo recorde devido à queda na atividade econômica, e consequentemente na arrecadação, e às despesas extraordinárias necessárias para o enfrentamento da pandemia do novo coronavírus (covid-19). O setor público consolidado, formado por União, estados e municípios, apresentou déficit primário de R$ 702,950 bilhões no ano passado, o pior resultado da série histórica iniciada em dezembro de 2001, e que representa 9,49% do Produto Interno Bruto (PIB, soma de todos os bens e serviços produzidos no país).
 
-Foi o sétimo ano consecutivo de resultados negativos nas contas públicas, com alta de R$ 641,078 bilhões em relação a 2019, quando o déficit primário foi de R$ 61,872 bilhões, o que corresponde a 0,84% do PIB. 
+Foi o sétimo ano consecutivo de resultados negativos nas contas públicas, com alta de R$ 641,078 bilhões em relação a 2019, quando o déficit primário foi de R$ 61,872 bilhões, o que corresponde a 0,84% do PIB.
 
 Os dados estão no [**relatório das Estatísticas Fiscais**](https://www.bcb.gov.br/estatisticas/estatisticasfiscais) divulgado hoje (29) pelo Banco Central (BC).
 
@@ -24,7 +23,7 @@ A meta para 2020 era de déficit primário de R$ 118,9 bilhões. Entretanto, o [
 
 O déficit primário representa o resultado negativo das contas do setor público (despesas menos receitas) desconsiderando o pagamento dos juros da dívida pública. [**O montante difere do resultado divulgado ontem (29) pelo Tesouro Nacional**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-01/deficit-primario-fecha-2020-melhor-que-o-previsto), de déficit de R$ 743,087 bilhões em 2019, porque, além de considerar os governos locais e as estatais, o BC usa uma metodologia diferente, que considera a variação da dívida dos entes públicos.
 
-No ano passado, o Governo Central (Previdência, Banco Central e Tesouro Nacional), onde se concentram os gastos com a pandemia, apresentou déficit primário de R$ 745,266 bilhões, ante R$ 88,899 bilhões em 2019. Já os governos locais tiveram superávit, devido, principalmente, aos repasses federais de cerca de R$ 78 bilhões para combater os efeitos da crise. 
+No ano passado, o Governo Central (Previdência, Banco Central e Tesouro Nacional), onde se concentram os gastos com a pandemia, apresentou déficit primário de R$ 745,266 bilhões, ante R$ 88,899 bilhões em 2019. Já os governos locais tiveram superávit, devido, principalmente, aos repasses federais de cerca de R$ 78 bilhões para combater os efeitos da crise.
 
 Segundo Rocha, em conjunto, no setor público consolidado, o resultado dessas transferências não tem impacto, mas quando se olha individualmente, ele explica a manutenção dos superávits dos governos regionais.
 
@@ -58,8 +57,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

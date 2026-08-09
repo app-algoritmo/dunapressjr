@@ -7,13 +7,13 @@ categories:
   - Chronicle
 ---
 
-## A Primavera Árabe consistiu de movimentos contra a opressão e em busca de democracia que irromperam em alguns países do Oriente Médio e do Norte da África entre 2010 e 2011. Bahrein, Egito, Líbia, Síria, Tunísia e Iêmen foram os “pontos mais quentes”. 
+## A Primavera Árabe consistiu de movimentos contra a opressão e em busca de democracia que irromperam em alguns países do Oriente Médio e do Norte da África entre 2010 e 2011. Bahrein, Egito, Líbia, Síria, Tunísia e Iêmen foram os “pontos mais quentes”.
 
 Os protestos foram motivados por fatores seculares como “mais dignidade”, “mais liberdade” e “mais respeito aos direitos humanos”. Contudo, em alguns países, as tensões religiosas foram um tempero importante e partidos islâmicos ganharam poderes na Tunísia e no Egito. No final, apenas a Tunísia conseguiu alguma democracia.
 
 ## O Egito derrapou na curva, e Líbia, Síria e Iêmen entraram em uma espiral terrível de guerras civis
 
-A Primavera Árabe consistiu de movimentos contra a opressão e em busca de democracia que irromperam em alguns países do Oriente Médio e do Norte da África entre 2010 e 2011. Bahrein, Egito, Líbia, Síria, Tunísia e Iêmen foram os “pontos mais quentes”. 
+A Primavera Árabe consistiu de movimentos contra a opressão e em busca de democracia que irromperam em alguns países do Oriente Médio e do Norte da África entre 2010 e 2011. Bahrein, Egito, Líbia, Síria, Tunísia e Iêmen foram os “pontos mais quentes”.
 
 Os protestos foram motivados por fatores seculares como “mais dignidade”, “mais liberdade” e “mais respeito aos direitos humanos”. Contudo, em alguns países, as tensões religiosas foram um tempero importante e partidos islâmicos ganharam poderes na Tunísia e no Egito. No final, apenas a Tunísia conseguiu alguma democracia. O Egito derrapou na curva, e Líbia, Síria e Iêmen entraram em uma espiral terrível de guerras civis.
 
@@ -25,4 +25,4 @@ A qualidade de vida não melhorou de modo significativo em nenhum dos países en
 
 Deveríamos refletir seriamente sobre essas lições antes de darmos nossos próximos passos. Infelizmente, em um país de 214 milhões de habitantes, sendo quase 30% da população no nível do analfabetismo funcional e um QI médio de 83, solicitar que a massa “reflita seriamente” parece ser um pedido tão estranho quanto entrar em uma oficina mecânica e solicitar um bife de orquídeas ao molho de feijão com pipocas.
 
-[](https://t.me/AlessandroLoiola)Canal Alessandro Loiola - Telegram
+Canal Alessandro Loiola - Telegram

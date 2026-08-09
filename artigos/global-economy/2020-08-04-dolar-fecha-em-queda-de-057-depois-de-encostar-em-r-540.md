@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 **Bolsa de valores caiu 1,57% em dia de volatilidade**.
 
 Num dia de volatilidade no mercado financeiro, o dólar recuou 0,57% depois de operar em alta durante boa parte da sessão e encostar em R$ 5,40. A bolsa de valores chegou a subiu durante a manhã, mas reverteu o movimento e encerrou com queda.
@@ -28,4 +27,4 @@ Um eventual fim dos cortes nos juros básicos ajudaria a conter a queda dos reto
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Empresa BR Partners vence concorrência para fazer avaliação econômico-financeira independente da Empresa Brasileira de Correios e Telégrafos.
 
 O processo de desestatização do setor Postal teve novo avanço, com a seleção, pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES), da empresa responsável por fazer uma avaliação econômico-financeira independente da Empresa Brasileira de Correios e Telégrafos (ECT). Conforme a lei, são necessários dois grupos distintos para certificar a avaliação do valor de uma companhia a ser desestatizada, o que será possível com essa nova contratação. A concorrência foi vencida pela empresa BR Partners.
@@ -25,10 +24,6 @@ A avaliação econômico-financeira contratada é uma etapa fundamental no proce
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

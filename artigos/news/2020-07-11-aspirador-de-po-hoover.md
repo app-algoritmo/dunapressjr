@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre o Aspirador de pó Hoover.**
 
 A história do Hoover é mais uma história de um pequeno negócio de uma cidade do interior, que se tornou uma corporação multinacional de forma instantânea.
@@ -38,4 +37,4 @@ O sucesso do aspirador de pó se deu em um momento bastante oportuno, pois foi j
 
 **CHALINA, Eric. ****50 Máquinas que mudaram o Rumo da História.**** Tradução de Fabiano Morais. Rio de Janeiro. Sextante. 2014.  **
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

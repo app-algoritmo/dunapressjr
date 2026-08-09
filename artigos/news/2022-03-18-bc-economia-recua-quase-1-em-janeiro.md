@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice sobre nível de atividade dos três setores econômicos caiu 0,99%.
 
 O Índice de Atividade Econômica (IBC-Br) caiu quase 1% em janeiro, na comparação com dezembro do ano passado. De acordo com o Índice de Atividade Econômica (IBC-Br), divulgado nesta quinta-feira (17) pelo Banco Central (BC), a queda foi de 0,99%, considerando o percentual já dessazonalizado para compensar eventuais diferenças entre os períodos, como o número maior de feriados ou fins de semana. Com a variação, o indicador fechou o mês em 138,48 pontos.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

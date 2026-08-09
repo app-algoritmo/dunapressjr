@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado segue a tendência negativa dos últimos meses.
 
 O Indicador Antecedente de Emprego (IAEmp) piorou pelo quarto mês consecutivo, recuando 1,4 ponto em fevereiro, para 75,1 pontos, menor nível desde agosto de 2020 (74,8 pontos). Em médias móveis trimestrais, o indicador também caiu, desta vez, 2,6 pontos, para 77,8 pontos.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

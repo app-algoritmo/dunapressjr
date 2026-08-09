@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 O Ministério da Saúde divulgou, nesta quinta-feira (19), durante coletiva de imprensa, os dez eixos prioritários que vão guiar a campanha de vacinação dos brasileiros, a fim de reduzir a morbidade e mortalidade pela doença, além de diminuir a transmissão do vírus entre as pessoas.
 
 O objetivo é imunizar, tão logo uma vacina segura seja disponibilizada, os grupos com maior risco de desenvolver complicações e óbitos pela doença e as populações mais expostas ao vírus.
 
-Ao apresentar os eixos, o secretário de Vigilância em Saúde, Arnaldo Medeiros, reforçou que o público-alvo será detalhado apenas após a conclusão dos estudos de fase 3 dos imunizantes testados. “Só assim conseguiremos avaliar em quais grupos (a vacina) teve maior eficácia”, afirmou. 
+Ao apresentar os eixos, o secretário de Vigilância em Saúde, Arnaldo Medeiros, reforçou que o público-alvo será detalhado apenas após a conclusão dos estudos de fase 3 dos imunizantes testados. “Só assim conseguiremos avaliar em quais grupos (a vacina) teve maior eficácia”, afirmou.
 
 O documento foi elaborado no âmbito da Câmara Técnica Assessora em Imunizações e Doenças Transmissíveis, em parceria com instituições que auxiliaram na definição dos grupos de risco, estratégia de vacinação, atualização os estudos sobre a doença, entre outros.
 
@@ -47,7 +46,7 @@ Toda a rede de frio do Brasil dispõe de equipamentos para armazenamento de vaci
 **Monitoramento dos eventos adversos pós-vacinação no pós-licenciamento da vacina (administração da vacina em massa).
 
 **EIXO 6 – ESTUDOS DE MONITORAMENTO E PÓS MARKETING
-**Os monitoramentos levarão em consideração os estudos de efetividade e segurança como vacinação de gestantes inadvertidademente, por exemplo. 
+**Os monitoramentos levarão em consideração os estudos de efetividade e segurança como vacinação de gestantes inadvertidademente, por exemplo.
 
 **EIXO 7 – SISTEMA DE INFORMAÇÃO
 **As vacinas precisam ter a rastreabilidade. Por meio dos sistemas como DataSUS será possível obter o registro nominal da população para avaliar a cobertura vacinal e o acompanhamento de eventos adversos pós-vacinação.
@@ -72,7 +71,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

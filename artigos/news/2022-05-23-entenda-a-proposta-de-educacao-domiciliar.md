@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O que é
 
 Os próprios pais dão aulas para as crianças em casa, ou contratam professores particulares, chamados de tutores. Segundo a Associação Nacional de Ensino Domiciliar (ANED), em 2018 existiam 7.500 famílias educadoras no Brasil, com cerca de 15.000 estudantes entre 4 e 17 anos de idade.
@@ -47,5 +46,3 @@ Fonte: https://www.camara.leg.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em um balanço divulgado pelo Ministério da Economia, até às 14h desta terça-feira (12), o Benefício Emergencial para Preservação da Renda e do Emprego (BEm) já tinha preservado 7.206.915 de empregos em todo o País. Os recursos para o pagamento do benefício pelo governo somam R$ 12,7 bilhões. Previsto na Medida Provisória 936/2020, o benefício ajuda empregados e empregadores a enfrentar os efeitos econômicos da pandemia de Covid-19.
 
 Deste total, 54,5% dos postos preservados são da região Sudeste do Brasil. Outros 19% estão no Nordeste, enquanto 15,7% ficam no Sul, 6% no Centro-Oeste, e 4,7% no Norte. O estado com maior percentual de empregos preservados é São Paulo, responsável por 33%. Na sequência, vem Rio de Janeiro (10,1%) e Minas Gerais (9,5%).
@@ -33,5 +32,3 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
 ASSINE O PRESS PERIÓDICO
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

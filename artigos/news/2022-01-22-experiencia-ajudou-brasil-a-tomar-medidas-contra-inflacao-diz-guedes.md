@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro da Economia participou do Fórum Econômico Mundial.
 
 O Ministro da Economia, Paulo Guedes, disse nesta sexta-feira (21), durante sua participação no Fórum Econômico Mundial, que a inflação será “um verdadeiro problema” para o mundo ocidental, mas que o Brasil, devido às experiências anteriores de convívio e combate a altas taxas inflacionárias, foi mais rápido que outros países no sentido de adotar medidas contra a alta de preços.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

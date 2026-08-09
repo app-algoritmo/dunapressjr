@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## A medida ocorreu após autorização do Governo do Estado para que os municípios administrem o acesso a praias, parques e calçadões.
 
 Porto de Galinhas e região metropolitana de Recife (PE) estão retomando aos poucos, e com responsabilidade, as atividades turísticas. No último sábado (20.06), os locais deram início a primeira etapa da reabertura gradual da orla com liberação apenas para atividades esportivas individuais, horário pré-estabelecido – das 4h às 12h –, com o uso obrigatório de máscaras durante a permanência na areia, bem como o cumprimento das medidas de prevenção, distanciamento e higiene.
@@ -18,7 +17,7 @@ A reabertura das praias de forma gradativa tem como foco o impulsionamento do tu
 
 Fonte: Ministério Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

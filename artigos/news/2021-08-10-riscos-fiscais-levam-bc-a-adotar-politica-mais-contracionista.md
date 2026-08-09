@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Autarquia elevou tava básica de juros a 5,25% na semana passada.
 
 Em meio à perspectiva de uma recuperação econômica robusta no segundo semestre, os riscos fiscais e a piora recente em componentes inerciais dos índices de preços levaram o Banco Central a adotar uma política monetária mais contracionista. A avaliação consta na ata da última reunião do Comitê de Política Monetária (Copom) do Banco Central (BC), divulgada hoje (10).
@@ -38,10 +37,6 @@ Por outro lado, embora a ociosidade da atividade como um todo evolua rapidamente
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

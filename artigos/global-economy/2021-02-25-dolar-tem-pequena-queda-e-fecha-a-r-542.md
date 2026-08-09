@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa sobe 0,38% em dia de recuperação.
 
 O dólar teve pequena queda e a bolsa de valores fechou com leve alta num dia de recuperação de recentes perdas. Declarações sobre o futuro dos juros nos Estados Unidos e a expectativa em torno da votação de medidas fiscais e de privatizações no Brasil influenciaram os mercados nesta quarta-feira (24).
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

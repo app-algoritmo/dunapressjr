@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Com a escalada de casos de Covid-19, a vacinação tem sido vista como a principal esperança para redução desses números. Enquanto profissionais da saúde e idosos são imunizados contra o coronavírus, o calendário da saúde também indica a importância de tomar a vacina da gripe, que começa a campanha em 12 de abril. Confira abaixo a relação entre as duas vacinas e como a imunização contra a gripe é ainda mais importante nesse momento de pandemia.
 
 **Aplicação de vacinas deve ter intervalo de 14 dias**
@@ -28,7 +27,7 @@ O fato dos sintomas serem parecidos não anula a necessidade das duas imunizaç�
 
 **Campanha de vacinação da Gripe em 2021**
 
-A vacina da gripe potencializa a resposta imunológica. Segundo o infectologista, a vacina prepara o corpo para combater o vírus Influenza de forma mais eficiente e previne complicações como necessidade de UTI e até mesmo mortes por gripe. “A imunização faz com que o organismo fique protegido contra o vírus da gripe e reduz as chances dos pacientes idosos e com comorbidades apresentarem complicações mais severas. Por isso é muito importante que toda a população tome a vacina”, finaliza. 
+A vacina da gripe potencializa a resposta imunológica. Segundo o infectologista, a vacina prepara o corpo para combater o vírus Influenza de forma mais eficiente e previne complicações como necessidade de UTI e até mesmo mortes por gripe. “A imunização faz com que o organismo fique protegido contra o vírus da gripe e reduz as chances dos pacientes idosos e com comorbidades apresentarem complicações mais severas. Por isso é muito importante que toda a população tome a vacina”, finaliza.
 
 A campanha de vacinação da gripe acontece de 12 de abril a 9 de julho, seguindo uma programação para cada público-alvo.
 
@@ -40,7 +39,3 @@ Fonte: Central Press
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

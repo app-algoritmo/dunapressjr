@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No ano, foi registrada inflação de 16,08%.
 
 O Índice Geral de Preços – 10 (IGP-10) registrou deflação (queda de preços) de 0,31% em outubro deste ano. No mês anterior, a deflação havia sido de 0,37%. Segundo a Fundação Getulio Vargas (FGV), com o resultado, o índice nacional acumula taxas de inflação de 16,08% no ano e de 22,53% em 12 meses.
@@ -20,10 +19,6 @@ A inflação do IPC subiu de 0,93% em setembro para 1,26% em outubro. Já o INCC
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

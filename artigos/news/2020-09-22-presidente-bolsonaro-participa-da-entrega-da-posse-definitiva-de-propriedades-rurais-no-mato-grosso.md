@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-A entrega de títulos definitivos, no município de Sorriso, é a maior feita de uma única vez pelo Governo do Presidente Jair Bolsonaro. 
+A entrega de títulos definitivos, no município de Sorriso, é a maior feita de uma única vez pelo Governo do Presidente Jair Bolsonaro.
 
 Após quase duas décadas de espera, 1.665 famílias receberam, nesta sexta-feira (18), o título de posse de suas propriedades rurais, no município de Sorriso, no Mato Grosso. Com essa formalização, é mais fácil ter acesso a crédito e a políticas públicas federais. Nessas áreas, os proprietários plantam alimentos como soja, milho, algodão e frutas.
 
@@ -36,5 +35,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor.
 
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 O médico e sanitarista Vital Brazil (1865-1950) fez história no tratamento de acidentes com animais peçonhentos, sendo reconhecido mundialmente como uma referência na criação de soros antiofídicos. Mas a sua história de vida, recheada de momentos impressionantes, é tão preciosa quanto seus feitos científicos. Abaixo, selecionamos cinco fatos incríveis sobre o fundador do Instituto Butantan, que faria 157 anos em 2022.
 
  Dr. Vital Brazil em trabalho no laboratório em 1908. (Autoria desconhecida/Acervo Instituto Butantan/Centro de Memória) 
@@ -24,7 +23,7 @@ Os nomes dos irmãos de Vital são Maria Gabriela do Vale do Sapucahy; Iracema 
 
 ## **Várias profissões até o reconhecimento**
 
-A trajetória do médico Vital Brasil até se tornar um ícone da ciência foi cheia de altos e baixos. De origem pobre, ele precisou trabalhar desde cedo para ajudar no sustento familiar e poder ter condições de fazer a sonhada faculdade de medicina, já no início do século 20 algo somente alçado pelos membros das famílias mais abastadas. 
+A trajetória do médico Vital Brasil até se tornar um ícone da ciência foi cheia de altos e baixos. De origem pobre, ele precisou trabalhar desde cedo para ajudar no sustento familiar e poder ter condições de fazer a sonhada faculdade de medicina, já no início do século 20 algo somente alçado pelos membros das famílias mais abastadas.
 
 Foi redator em jornal, condutor de bonde, escrivão de polícia, entregador de jornais. Com 15 anos, tornou-se professor do curso primário em um colégio renomado de Minas Gerais, lecionando gratuitamente para ter o direito de frequentar as aulas do curso secundário.
 
@@ -63,7 +62,3 @@ Fonte: https://butantan.gov.br/butantan
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

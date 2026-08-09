@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Expectativa é de maior crescimento no segundo semestre.
 
 As regiões Norte e Centro-Oeste apresentaram recuperação econômica mais intensa no segundo trimestre do ano, na avaliação do Banco Central (BC), divulgada nesta quinta-feira (26) no [**Boletim Regional**](https://www.bcb.gov.br/publicacoes/boletimregional), publicação trimestral que apresenta as condições da economia por regiões e por alguns estados do país.
@@ -40,10 +39,6 @@ Segundo o BC, apesar dessa desaceleração, a expectativa é de maior cresciment
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

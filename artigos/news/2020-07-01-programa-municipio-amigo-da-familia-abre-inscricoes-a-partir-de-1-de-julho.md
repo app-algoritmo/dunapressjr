@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Objetivo é incentivar a promoção de ações destinadas à implementação integrada de políticas públicas familiares.
 
 As prefeituras de todo o país podem se inscrever no Programa Município Amigo da Família a partir de primeiro de julho. A ação coordenada pelo Ministério da Mulher, da Família e dos Direitos Humanos tem como objetivo incentivar a promoção de ações para valorização da família, proteção social e fortalecimento de vínculos conjugais.
@@ -42,4 +41,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

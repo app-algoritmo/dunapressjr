@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O uso combinado de biossensores eletroquímicos com *smartphones* pode ajudar na detecção de diversas doenças. Na Universidade Federal de Uberlândia (UFU), uma bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) participa de pesquisa que faz diagnósticos por meio dessa tecnologia para hanseníase, tuberculose e infarto agudo do miocárdio.
 
 Nanomateriais compõem a estrutura que  identifica doenças em questão de segundos. Microchips são postos em uma plataforma que, acoplada a um telefone celular, dão o resultado positivo ou negativo para as enfermidades.
@@ -25,7 +24,6 @@ Imagem 3: Luiz Ricardo Goulart Filho coordena o Laboratório de Nanotecnologia d
 
 https://www.youtube.com/embed/Y4dTGyx_1B8
 
-*
 A reprodução das notícias é autorizada desde que contenha a assinatura CCS/CAPES*.
 
 Fonte: gov.br/capes
@@ -38,7 +36,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

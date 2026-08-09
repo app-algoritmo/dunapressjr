@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Nível de ocupação está abaixo de 50% desde maio de 2020.
 
 O nível de ocupação no país fechou o trimestre móvel encerrado em abril em 48,5%, ficando abaixo de 50% desde o trimestre encerrado em maio do ano passado. Ou seja, menos da metade da população em idade para trabalhar está ocupada no país. O menor nível foi verificado no trimestre encerrado em julho de 2020, quando o nível ficou em 47,1%.
@@ -56,8 +55,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

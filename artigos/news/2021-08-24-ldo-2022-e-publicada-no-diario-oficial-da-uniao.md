@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Texto com vetos foi sancionado pelo presidente na sexta-feira.
 
 O *Diário Oficial da União* (*DOU*) trouxe nesta segunda-feira (23) a publicação da [**Lei de Diretrizes Orçamentárias (LDO) de 2022**](https://www.in.gov.br/en/web/dou/-/lei-n-14.194-de-20-de-agosto-de-2021-339918271). O texto, com vetos parciais, foi [**sancionado na sexta-feira (20)**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-08/presidente-veta-fundo-eleitoral-de-r-57-bilhoes-para-2022) pelo presidente Jair Bolsonaro.
@@ -36,10 +35,6 @@ Entre as definições estão a meta fiscal, os programas prioritários e o valor
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Faturamento foi de R$ 50,5 bilhões, diz FecomercioSP.
 
 O faturamento real das empresas do setor de serviços na capital paulista atingiu R$ 50,5 bilhões em abril, o que corresponde a um aumento de 11,2% na comparação com o mesmo período do ano passado. Segundo os dados da Pesquisa Conjuntural do Setor de Serviços (PCSS), realizada pela Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo (FecomercioSP), no acumulado do ano a alta é de 11,5% e nos últimos 12 meses, o índice teve aumento de 16,2%.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,8 +8,7 @@ categories:
 - World Affairs
 ---
 
-
-## 
+##
 Documentos do governo americano admitem que o bombardeio atômico de Hiroshima e Nagasaki não foi necessário para acabar com a Segunda Guerra Mundial. O Japão estava prestes a capitular. O ataque nuclear foi o primeiro golpe na Guerra Fria de Washington contra a União Soviética.
 
 É comum que os governos e a mídia ocidentais digam ao resto do mundo para temer a Coréia do Norte e suas armas nucleares, ou temer a possibilidade de que o Irã possa um dia ter armas nucleares.
@@ -28,7 +27,7 @@ https://www.youtube.com/embed/5vMEgneKF10?feature=oembed
 
 O Departamento de Guerra dos EUA (mais tarde renomeado como Departamento de Defesa na década de 1940) realizou uma pesquisa que ficou conhecida como Pesquisa de Bombardeio Estratégico, que analisou os ataques aéreos durante a Segunda Guerra Mundial.
 
-Foi claramente [declarado no ](https://www.trumanlibrary.gov/node/311491)[Levantamento de Bombardeio Estratégico](https://www.trumanlibrary.gov/node/311491) publicado em 1946 :[](https://www.trumanlibrary.gov/node/311491)
+Foi claramente [declarado no ](https://www.trumanlibrary.gov/node/311491)[Levantamento de Bombardeio Estratégico](https://www.trumanlibrary.gov/node/311491) publicado em 1946 :
 
 *.. parece claro que mesmo sem as armas nucleares, a supremacia aérea sobre o Japão poderia ter exercido pressão suficiente para provocar uma rendição incondicional e evitar a necessidade de uma invasão.*
 
@@ -68,11 +67,7 @@ O site do governo dos EUA reconhece que a decisão do governo Truman de bombarde
 
 *Depois que o presidente Harry S. Truman recebeu a notícia do sucesso do teste Trinity, sua necessidade de ajuda soviética na guerra contra o Japão diminuiu bastante. O líder soviético, Joseph Stalin, havia prometido ir à guerra contra o Japão até 15 de agosto. Truman e seus conselheiros não tinham mais certeza de que queriam essa ajuda. Se o uso da bomba atômica possibilitasse a vitória sem invasão, **aceitar a ajuda soviética apenas os levaria a discussões sobre o destino do Japão no pós-guerra** .*
 
-*...*
-
 *Outros historiadores argumentam que o Japão teria se rendido mesmo sem o uso da bomba atômica, e que **na realidade Truman e seus assessores só usaram a bomba para intimidar a União Soviética** .*
-
-*...*
 
 ***Truman esperava evitar ter que "compartilhar" a administração do Japão com a União Soviética** .*
 
@@ -86,29 +81,17 @@ Wilson explicou:
 
 *Se os japoneses não se importavam em bombardear cidades em geral, ou bombardear Hiroshima em particular, com o que eles se importavam? A resposta é simples: a União Soviética.*
 
-*...*
-
 *Mesmo os líderes mais endurecidos do governo do Japão sabiam que a guerra não poderia continuar. **A questão não era se prosseguir, mas como terminar a guerra nos melhores termos possíveis** .*
-
-*...*
 
 *Uma maneira de avaliar se a rendição japonesa foi causada pelo bombardeio de Hiroshima ou pela invasão e declaração de guerra da União Soviética é comparar o impacto desses dois eventos na situação estratégica. Após o bombardeio de Hiroshima em 6 de agosto, ambas as opções ainda estavam abertas. ... O bombardeio de Hiroshima não excluiu nenhuma das duas opções estratégicas do Japão.*
 
 *No entanto, os efeitos da declaração de guerra soviética e da invasão da Manchúria e da Ilha Sakhalin foram bem diferentes. Depois que a União Soviética declarou guerra, Stalin não podia mais atuar como mediador - ele agora era um participante da guerra. Assim, a opção diplomática foi anulada pelo movimento soviético. O impacto na situação militar foi igualmente dramático.*
 
-*...*
-
 *Quando os russos invadiram a Manchúria, eles esmagaram o que antes era um exército de elite, e muitas unidades russas só pararam quando ficaram sem combustível.*
-
-*...*
 
 *A invasão soviética destruiu a estratégia militar da batalha decisiva, bem como a estratégia diplomática. De uma só vez, todas as opções do Japão desapareceram. **A invasão soviética foi estrategicamente crucial – descartou ambas as opções do Japão – enquanto o bombardeio de Hiroshima (que descartou nenhuma das opções) não foi.***
 
-*...*
-
 ***Atribuir o fim da guerra à bomba atômica serviu aos interesses do Japão de várias maneiras. Mas também serviu aos interesses dos EUA. Se a bomba tivesse vencido a guerra, a percepção do poderio militar dos EUA teria sido fortalecida e a influência diplomática dos EUA na Ásia e em todo o mundo teria aumentado.***
-
-*...*
 
 ***Por outro lado, se a entrada soviética na guerra causasse a rendição do Japão, os soviéticos poderiam alegar que haviam feito em quatro dias o que os Estados Unidos não conseguiram fazer em quatro anos, e a percepção do poder militar soviético e da influência diplomática soviética seria prejudicada. fortalecido. E uma vez iniciada a Guerra Fria, afirmar que a invasão soviética foi o fator decisivo teria sido equivalente a dar ajuda e conforto ao inimigo.***
 

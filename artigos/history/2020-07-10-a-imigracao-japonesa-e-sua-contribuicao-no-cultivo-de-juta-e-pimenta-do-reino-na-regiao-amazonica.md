@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 A imigração japonesa na Amazônia promoveu uma singular experiência de desenvolvimento agrícola com a introdução das lavouras de Juta nas várzeas do rio Amazonas e de pimenta-do-reino nas áreas de terra firme, ambas trazidas de possessões britânicas, como antítese da transferência da seringueira, levada pelos ingleses para as suas colônias na Ásia.
 
 A lavoura de juta atingiu seu auge na década de 1960, com mais de 50 mil agricultores envolvidos no seu plantio e representou mais de um terço do PIB (Produto Interno Bruto) do Estado do Amazonas, levando o Brasil a autossuficiência de fibra de juta em 1952. No entanto, torna novamente importador em 1970 e tem o seu gradativo desaparecimento na década de 1990.
@@ -51,6 +50,6 @@ Fonte canalciencia.ibict.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

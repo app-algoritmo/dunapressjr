@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O embaixador de Israel nos Estados Unidos e na ONU diz que o ataque maciço do Hamas a Israel foi premeditado, desencadeado pela agitação política interna palestina.
 
 O embaixador de Israel nos Estados Unidos e nas Nações Unidas, Gilad Erdan, disse no domingo que o ataque maciço do Hamas a Israel foi premeditado, desencadeado pela agitação política interna palestina e que Israel tinha o direito legítimo de se defender.
@@ -41,7 +40,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

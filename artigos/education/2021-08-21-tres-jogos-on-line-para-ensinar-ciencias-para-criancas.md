@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 ## Gamificação de conteúdos atrai atenção de estudantes em tempos de smartphones e redes sociais e ajuda a ensinar brincando.
 
 Disputar a atenção das crianças com os apps de smartphones, as redes sociais, os serviços de streaming e os videogames é muito difícil. A educação básica ainda está em processo de desenvolvimento de ferramentas que sejam capazes de vencer essa batalha pelo engajamento dos jovens. Conteúdos que conversem com os interesses das novas gerações e que sejam capazes de ensinar ao mesmo tempo em que divertem podem parecer impossíveis, mas não são.
@@ -42,7 +41,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

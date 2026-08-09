@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Órgão também reduziu tarifas de airbags e compostos alimentares.
 
 Em vigor desde novembro de 2021, a [**redução em 10%**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-11/brasil-diminui-em-10-tarifas-de-importacao) da tarifa externa comum (TEC) do Mercosul tornou-se definitiva. A incorporação da medida à legislação brasileira foi aprovada nesta quarta-feira (17) pelo Comitê-Executivo de Gestão (Gecex) da Câmara de Comércio Exterior (Camex) do Ministério da Economia.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

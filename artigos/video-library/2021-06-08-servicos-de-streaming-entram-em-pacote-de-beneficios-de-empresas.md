@@ -7,10 +7,9 @@ categories:
 - Video library
 ---
 
-
 ## Entretenimento seguro é estratégia de RH para reduzir estresse, unir a família e garantir concentração no trabalho em home office.
 
-##  
+##
 
 De acordo com a Forbes, as plataformas de streaming registraram um aumento de 20% em março de 2020, quando iniciou a quarentena, em relação ao mês anterior. Na América Latina, esse número foi de 26,6%. Outro número importante nesse levantamento foi que o horário das 10h às 17h, considerado comercial, teve uma alta de 40% no consumo. A Disney Plus por exemplo, até novembro de 2019 tinha apenas 26 milhões de assinaturas, já em janeiro de 2021 estava com quase 100 milhões. Além disso, uma conta pode ter até sete perfis, ou seja, uma pessoa fica responsável pelo pagamento, mas outras seis podem assistir também, o que aumenta ainda mais o número de pessoas que consomem o produto.
 
@@ -27,7 +26,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

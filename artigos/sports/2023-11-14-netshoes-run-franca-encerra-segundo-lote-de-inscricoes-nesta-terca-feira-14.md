@@ -29,9 +29,7 @@ André Vendrami
 **](https://click.presskit.com.br/url/98469373e4/6361388b6fc)**Gabriela Tornich****
 **[gabriela.tornich@novapr.com.br**
 **](https://click.presskit.com.br/url/98469493ea/6361388b6fc)**Patricia Vivas****
-**[patricia.vivas@novapr.com.br](https://click.presskit.com.br/url/9846959a20/6361388b6fc)[
-
-](https://click.presskit.com.br/url/984696a4ff/6361388b6fc)***ZDL - Imprensa Sagaz******
+**[patricia.vivas@novapr.com.br](https://click.presskit.com.br/url/9846959a20/6361388b6fc)***ZDL - Imprensa Sagaz******
 Doro Jr. - MTb 13209 - ***[***dorojr@zdl.com.br***](https://click.presskit.com.br/url/9846979745/6361388b6fc)*** - 11 984579723******
 Deborah Mamone - MTb 15148  - ***[***deborah@zdl.com.br***](https://click.presskit.com.br/url/98469827f8/6361388b6fc)*** - 11 3285.5911******
 Site: ***[***www.zdl.com.br******

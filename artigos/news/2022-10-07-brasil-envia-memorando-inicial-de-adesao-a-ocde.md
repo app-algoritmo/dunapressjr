@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Documento servirá de base para discussões e acesso ao grupo.
 
 O processo de adesão do Brasil à Organização para a Cooperação e Desenvolvimento Econômico (OCDE) teve mais um passo concluído. O governo brasileiro encaminhou ao organismo internacional, que reúne as economias mais industrializadas do planeta, o memorando inicial, que servirá de base para avaliar o alinhamento do país aos compromissos do grupo.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

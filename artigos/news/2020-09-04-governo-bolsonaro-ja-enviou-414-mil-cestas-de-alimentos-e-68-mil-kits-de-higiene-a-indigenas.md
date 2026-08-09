@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Com os alimentos, o objetivo é garantir a segurança alimentar dos povos mais vulneráveis e evitar o contato com o coronavírus. Com esses alimentos, o Governo Federal quer garantir a segurança alimentar dos indígenas e mantê-los nas aldeias.
 
 Comunidades indígenas de todo o País já receberam 414 mil cestas de alimentos. Participam da força-tarefa 450 servidores das 39 Coordenações Regionais da Fundação Nacional do Índio (Funai). A ação também conta com a parceria do Ministério da Mulher, da Família e dos Direitos Humanos e de doações voluntárias.
@@ -42,5 +41,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

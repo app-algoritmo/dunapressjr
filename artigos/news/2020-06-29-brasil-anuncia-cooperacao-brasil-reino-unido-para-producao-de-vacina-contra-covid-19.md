@@ -8,18 +8,17 @@ categories:
 - News
 ---
 
+Ministério da Saúde anunciou o avanço no acordo de cooperação Brasil - Reino Unido para a produção de vacinas contra a Covid-19 e a transferência de tecnologia para o País. A informação foi dada durante coletiva de imprensa, neste sábado (27), no Palácio do Planalto.
 
-Ministério da Saúde anunciou o avanço no acordo de cooperação Brasil - Reino Unido para a produção de vacinas contra a Covid-19 e a transferência de tecnologia para o País. A informação foi dada durante coletiva de imprensa, neste sábado (27), no Palácio do Planalto. 
-
-De acordo com o secretário-executivo da Saúde, Elcio Franco, o Governo Federal enviou resposta à embaixada Britânica e ao presidente do laboratório AstraZeneca aceitando a proposta de acordo de cooperação no desenvolvimento tecnológico e acesso do Brasil à vacina para Covid-19. Pelo acordo, estão previstas a compra de lotes da vacina e a transferência de tecnologia. 
+De acordo com o secretário-executivo da Saúde, Elcio Franco, o Governo Federal enviou resposta à embaixada Britânica e ao presidente do laboratório AstraZeneca aceitando a proposta de acordo de cooperação no desenvolvimento tecnológico e acesso do Brasil à vacina para Covid-19. Pelo acordo, estão previstas a compra de lotes da vacina e a transferência de tecnologia.
 
 Elcio ressaltou que o desenvolvimento da chamada vacina de Oxford está em estado avançado e a vacina se mostra como uma das mais promissoras do mundo. "Isso coloca o Brasil numa situação de liderança mundial contra essa pandemia", afirmou.
 
-Ele explicou também que a transferência de tecnologia vai além do reconhecimento mundial brasileiro, pois possibilita a autonomia do País na produção. "Com a transferência da tecnologia teremos autonomia na produção". 
+Ele explicou também que a transferência de tecnologia vai além do reconhecimento mundial brasileiro, pois possibilita a autonomia do País na produção. "Com a transferência da tecnologia teremos autonomia na produção".
 
-Segundo o Ministério da Saúde, a previsão é de que as primeiras doses sejam disponibilizadas em dezembro deste ano e janeiro de 2021. A pasta explicou que, por essa razão, o acordo é dividido em duas fases. O ministério assumiu o risco da compra dessas primeiras doses (30 milhões de doses) mesmo sem demonstrada a eficácia. "O risco é necessário por conta do momento que vivemos e da urgência que temos da retomada de crescimento do País e de segurança pública". 
+Segundo o Ministério da Saúde, a previsão é de que as primeiras doses sejam disponibilizadas em dezembro deste ano e janeiro de 2021. A pasta explicou que, por essa razão, o acordo é dividido em duas fases. O ministério assumiu o risco da compra dessas primeiras doses (30 milhões de doses) mesmo sem demonstrada a eficácia. "O risco é necessário por conta do momento que vivemos e da urgência que temos da retomada de crescimento do País e de segurança pública".
 
-Assim, a segunda fase do acordo prevê a encomenda de mais lotes (70 milhões de doses), no entanto isso vai depender da comprovação da eficácia e segurança da vacina para a população brasileira. Momento em que será disponibilizado para todo o País, priorizando os grupos de risco - idosos e pessoas com comorbidades, como problemas no coração, diabetes, obesidade e outras doenças. 
+Assim, a segunda fase do acordo prevê a encomenda de mais lotes (70 milhões de doses), no entanto isso vai depender da comprovação da eficácia e segurança da vacina para a população brasileira. Momento em que será disponibilizado para todo o País, priorizando os grupos de risco - idosos e pessoas com comorbidades, como problemas no coração, diabetes, obesidade e outras doenças.
 
 A vacina é desenvolvida pela Universidade de Oxford e pela AstraZeneca, sendo uma das mais promissoras no mundo. No Brasil, a tecnologia será desenvolvida pela Fiocruz (Fundação Oswaldo Cruz), fundação do Ministério da Saúde.
 
@@ -41,4 +40,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.**
 
-** **[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+** **[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Mais de 105 mil instituições foram beneficiadas. Dinheiro é usado na compra de produtos de higiene para facilitar retorno às aulas com segurança. O valor total do investimento pode chegar a R$ 900 milhões beneficiando cerca de 138 mil escolas.
 
 O Fundo Nacional de Desenvolvimento da Educação (FNDE), vinculado ao Ministério da Educação, já liberou R$ 721.651.342,00 para escolas públicas para combate à pandemia. Os recursos, do programa Dinheiro Direto na Escola (PDDE), são fonte importante de renda para as instituições comprarem álcool em gel, sabonete líquido, toalhas de papel e outros produtos de higiene.
@@ -34,6 +33,6 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-[ASSINE O PRESS PERIÓDICO](http://Ajude-nos%20a%20levar%20o%20jornalismo%20independente%20a%20todas%20as%20partes!%20%20Graças%20ao%20apoio%20de%20leitores%20como%20você,%20é%20possível%20realizar%20um%20excelente%20trabalho%20jornalístico%20de%20pesquisa%20e%20investigação,%20oferecendo%20um%20serviço%20sério%20de%20alta%20qualidade%20com%20imprensa%20livre%20e%20jornalismo%20independente.%20%20Em%20uma%20época%20em%20que%20notícias%20falsas%20e%20distorcidas%20estão%20em%20todas%20partes,%20seu%20apoio%20é%20vital%20para%20o%20bom%20desenvolvimento%20da%20informação.%20%20Entre%20no%20link%20abaixo%20e%20nos%20ajude%20a%20continuar%20o%20nosso%20trabalho%20com%20informações%20gerais%20que%20podem%20ser%20lidos%20por%20toda%20a%20família%20em%20uma%20abordagem%20que%20prima%20pela%20ética%20e%20pelo%20respeito%20ao%20leitor.%20%20ASSINE%20O%20PRESS %20%20 https:/dunapress.org/subscription-plan/?ref=joiceferreiradunapress)
+[ASSINE O PRESS PERIÓDICO](http://Ajude-nos%20a%20levar%20o%20jornalismo%20independente%20a%20todas%20as%20partes!%20%20Graças%20ao%20apoio%20de%20leitores%20como%20você,%20é%20possível%20realizar%20um%20excelente%20trabalho%20jornalístico%20de%20pesquisa%20e%20investigação,%20oferecendo%20um%20serviço%20sério%20de%20alta%20qualidade%20com%20imprensa%20livre%20e%20jornalismo%20independente.%20%20Em%20uma%20época%20em%20que%20notícias%20falsas%20e%20distorcidas%20estão%20em%20todas%20partes,%20seu%20apoio%20é%20vital%20para%20o%20bom%20desenvolvimento%20da%20informação.%20%20Entre%20no%20link%20abaixo%20e%20nos%20ajude%20a%20continuar%20o%20nosso%20trabalho%20com%20informações%20gerais%20que%20podem%20ser%20lidos%20por%20toda%20a%20família%20em%20uma%20abordagem%20que%20prima%20pela%20ética%20e%20pelo%20respeito%20ao%20leitor.%20%20ASSINE%20O%20PRESS %20%20 https:/dunapress.org/subscription-plan/)
 
-https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress
+https://dunapress.org/subscription-plan/

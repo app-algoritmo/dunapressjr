@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 Uma embarcação sem documentação, sem Comandante ou pessoal habilitado e que transportava madeira beneficiada além do volume que poderia comportar, foi apreendida por militares do Comando Conjunto Marechal Soares de Andrea. A abordagem, feita pela Patrulha Tucunaré, ocorreu nas proximidades de São Sebastião da Boa Vista. As várias irregularidades constatadas colocavam em risco a navegação nos rios sob jurisdição do Comando do 4º Distrito Naval.
 
 A embarcação militar, subordinada ao Comando do Grupamento de Patrulha Naval do Norte, escoltou e conduziu o empurrador apreendido, apresentando sua carga e tripulação para a Secretaria de Meio Ambiente do Município e para a Polícia Civil. O Tucunaré continua presente na região, cumprindo ações preventivas e repressivas contra delitos ambientais e prestando informações para o combate à pandemia da Covid-19.
@@ -28,5 +27,3 @@ Desde a deflagração da Operação Verde Brasil 2, em 11 de maio, militares e a
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

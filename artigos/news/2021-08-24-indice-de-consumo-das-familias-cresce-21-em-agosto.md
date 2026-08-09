@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## CNC diz que resultado é o melhor desde abril deste ano.
 
 O indicador Intenção de Consumo das Famílias (ICF), divulgado nesta segunda-feira (23) pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), registrou alta pelo terceiro mês consecutivo, crescendo 2,1% em agosto e totalizando 70,2 pontos. O resultado é o melhor desde abril deste ano (70,7 pontos) e superior em 6,1% ao registrado no mesmo mês de 2020 (66,2 pontos).
@@ -40,10 +39,6 @@ Por regiões, o ICF de agosto mostra que o Norte registrou a maior queda mensal 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

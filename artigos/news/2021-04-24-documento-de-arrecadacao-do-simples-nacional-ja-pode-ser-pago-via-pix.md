@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medida visa tornar a regularização de pendências mais rápida e acessível.
 
 O Documento de Arrecadação do Simples Nacional (DAS) é a mais nova opção de tributo administrado pela Receita Federal a ser atualizada para pagamento via Pix. Agora emitido com *QR Code*, o documento pode ser lido pelo aplicativo do banco.
@@ -23,5 +22,3 @@ Também já foi liberado o uso do Pix para a contribuição do Documento de Arre
 Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

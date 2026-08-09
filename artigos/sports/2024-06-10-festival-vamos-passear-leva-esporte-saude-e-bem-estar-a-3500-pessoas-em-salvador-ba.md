@@ -9,7 +9,7 @@ categories:
 
 ## Evento, na Praça de Piatã, contou com Caminhada, Passeio de Bike, Corrida Kids e várias atrações gratuitas. Próxima etapa será no domingo (16), em Recife.
 
-A segunda etapa do Festival Vamos Passear 2024 desembarcou em Salvador. Na manhã deste domingo (9), a Praça de Piatã, na capital baiana, foi transformada em uma grande arena que levou saúde, esporte e bem-estar para crianças, jovens, adultos e idosos. O evento, organizado pelo Instituto BR Brasil, reuniu 3.500 pessoas entre famílias e competidores que participaram de atividades ao ar livre. As modalidades Passeio de Bike, Caminhada e a Corrida Kids foram as mais procuradas. 
+A segunda etapa do Festival Vamos Passear 2024 desembarcou em Salvador. Na manhã deste domingo (9), a Praça de Piatã, na capital baiana, foi transformada em uma grande arena que levou saúde, esporte e bem-estar para crianças, jovens, adultos e idosos. O evento, organizado pelo Instituto BR Brasil, reuniu 3.500 pessoas entre famílias e competidores que participaram de atividades ao ar livre. As modalidades Passeio de Bike, Caminhada e a Corrida Kids foram as mais procuradas.
 
 A largada inicial foi dada pelas bicicletas. Logo às 7h, ciclistas de todas as idades utilizaram o pedal para percorrer o trajeto de 10 km pela orla baiana. Montado na sua bike, o técnico em radiologia Carlos Alberto, de 53 anos, saiu do bairro da Vila Laura com a família para aproveitar a estrutura do Festival e aprovou a iniciativa. Ele conta que tenta passar para o filho Miguel, de 10 anos, o legado da prática esportiva.
 
@@ -60,9 +60,9 @@ O Festival Vamos Passear é apresentado pela Brasilprev, por meio do Governo Fed
 
 ****Mais informações:****
 **Site: [www.vamospassearbr.com](http://www.vamospassearbr.com/)
-***        [***www.ticketsports.com.br***](https://click.presskit.com.br/url/10188886f87/6361388b6fc)[](https://click.presskit.com.br/url/1018889a3d2/6361388b6fc)**         **
+***        [***www.ticketsports.com.br***](https://click.presskit.com.br/url/10188886f87/6361388b6fc)**         **
 
-**Instagram: **[**www.instagram.com/vamospassearbr/**](https://click.presskit.com.br/url/1018890e742/6361388b6fc)[](https://click.presskit.com.br/url/101889113f8/6361388b6fc)**ZDL***
+**Instagram: **[**www.instagram.com/vamospassearbr/**](https://click.presskit.com.br/url/1018890e742/6361388b6fc)**ZDL***
 **Doro Jr. - MTb 13209 - ***[**dorojr@zdl.com.br**](https://click.presskit.com.br/url/10188921a65/6361388b6fc)** - 11 984579723***
 **Deborah Mamone - MTb 15148  - ***[**deborah@zdl.com.br**](https://click.presskit.com.br/url/10188933a4c/6361388b6fc)***Gabriel Rodrigues - DRT 5408**
 *[***Site: www.zdl.com.br***](https://click.presskit.com.br/url/1018894e592/6361388b6fc)***Facebook: ***[***www.facebook.com/ZDLSports***](https://click.presskit.com.br/url/1018895f19a/6361388b6fc)*

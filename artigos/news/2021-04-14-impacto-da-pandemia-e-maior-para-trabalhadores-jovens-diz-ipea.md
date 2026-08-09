@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Desemprego também afetou mais as pessoas com ensino médio incompleto.
 
 Os trabalhadores com idade entre 18 e 24 anos foram os mais prejudicados pela pandemia de covid-29. A taxa de desocupação subiu de 23,8% no quarto trimestre de 2019 para 29,8% no mesmo período de 2020, o que corresponde a quase 4,1 milhões de jovens à procura de emprego.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

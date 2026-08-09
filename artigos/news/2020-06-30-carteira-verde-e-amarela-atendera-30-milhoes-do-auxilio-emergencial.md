@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Paulo Guedes falou sobre concessões de benefícios hoje no Congresso.
 
 O ministro da Economia, Paulo Guedes, afirmou hoje (30) que o programa para geração de empregos formais, com a retomada do projeto Carteira Verde e Amarela, vai atender cerca de 30 milhões de trabalhadores que estão recebendo o auxílio emergencial de R$ 600, por parcela, pago em razão da pandemia da covid-19. A afirmação foi feita em audiência pública virtual, promovida pela Comissão do Congresso que acompanha a situação fiscal e a execução orçamentária e financeira das medidas relacionadas ao novo coronavírus (covid-19).
@@ -26,4 +25,4 @@ Em novembro de 2019, o governo [**editou**](https://agenciabrasil.ebc.com.br/eco
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

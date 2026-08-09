@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## 13 estados tiveram crescimento acima da média nacional.
 
 Entre as 27 unidades da federação, 13 tiveram aumento do Produto Interno Bruto (PIB) em 2019 acima da média nacional, que foi de 1,2%, alcançando R$7,4 trilhões. Ao todo, 22 estados tiveram crescimento naquele ano. Os dados são das Contas Regionais 2019, divulgadas nesta sexta-feira (12) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -46,14 +45,10 @@ Na análise de PIB *per capta*, o Distrito Federal se manteve na frente em 2019,
 
 Entre as unidades da federação, todos os estados das regiões Norte e Nordeste têm o PIB *per capta* menor do que o nacional, enquanto no Sul todos os estados estão acima.
 
-No Centro-Oeste, apenas Goiás está abaixo da média nacional e, no Sudeste, Espírito Santo e Minas Gerais ficam abaixo. 
+No Centro-Oeste, apenas Goiás está abaixo da média nacional e, no Sudeste, Espírito Santo e Minas Gerais ficam abaixo.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Bolsa cai 0,52% e atinge menor nível desde o início do ano.
 
 O mercado financeiro teve mais um dia tenso à espera das decisões sobre os juros básicos no Brasil e nos Estados Unidos. O dólar subiu pela sétima vez seguida e alcançou o maior valor em pouco mais de um mês. A bolsa de valores teve a oitava queda consecutiva e atingiu o menor nível desde o início do ano.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

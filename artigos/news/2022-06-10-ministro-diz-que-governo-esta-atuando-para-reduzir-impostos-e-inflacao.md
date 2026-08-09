@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Paulo Guedes participou da abertura de fórum da Abras.
 
 O ministro da Economia, Paulo Guedes, disse nesta quinta-feira (9) que o governo está dando sua contribuição para a cadeia produtiva do país. “Estamos abaixando os impostos, reduzimos os impostos de importação pela primeira vez em 40 anos de Mercosul, zeramos os impostos sobre produtos como desossados, grãos, arroz e feijão, reduzimos todos os impostos da cesta básica, os impostos federais”.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

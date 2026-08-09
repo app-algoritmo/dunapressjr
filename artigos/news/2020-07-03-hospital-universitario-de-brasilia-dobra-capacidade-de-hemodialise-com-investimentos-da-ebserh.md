@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Expansão ajuda a liberar mais leitos de UTI no DF, importante a qualquer tempo, mas principalmente durante a pandemia de Covid-19.
 
 O aposentado Luiz da Silva Rocha Neto, de 60 anos, começou a fazer hemodiálise em fevereiro deste ano no Hospital Regional da Asa Norte (HRAN). Com a pandemia do novo coronavírus, o HRAN se tornou referência para casos de Covid-19 e Luiz precisou dar continuidade ao tratamento em outro lugar. A vaga apareceu no Hospital Universitário de Brasília, vinculado à Universidade de Brasília e à Rede Ebserh (HUB-UnB/Ebserh). Isso ocorreu graças à ampliação da capacidade de atendimento, que passou de 32 pacientes em março, para 65 em maio, com previsão de alcançar 132 até agosto. Foram investidos R$ 920 mil, viabilizados pelo Programa de Reestruturação dos Hospitais Universitários Federais (Rehuf), gerido pela Ebserh.
@@ -43,7 +42,7 @@ Fonte: gov.br / Imagem em destaque: MEC
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

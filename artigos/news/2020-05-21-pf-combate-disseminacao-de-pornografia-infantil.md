@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Porto Velho/RO - A Polícia Federal deflagrou nesta quarta-feira (20/5) a Operação NILO de repressão ao armazenamento e divulgação de imagens e vídeos de exploração sexual de crianças e adolescentes na internet.
 O mandado de busca e apreensão, expedido pela 7ª Vara Federal da Secção Judiciária de Rondônia, foi cumprido em uma residência no bairro Embratel, zona norte desta capital.
 
@@ -20,5 +19,3 @@ A Polícia Federal apreendeu, no interior da residência, equipamentos eletrôni
 O nome da operação, NILO, deu-se em razão de o investigado ter compartilhado os arquivos contendo pornografia infantil, em grande parte, com pessoas residentes na cidade do Cairo, capital do Egito, localizada às margens do Rio Nilo.
 
 Comunicação Social da Polícia Federal em Rondônia/RO
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Apenas no quarto trimestre, instituição lucrou R$ 5,9 bilhões.
 
 O Banco do Brasil (BB) teve lucro líquido ajustado recorde de R$ 21 bilhões em 2021, com crescimento de 51,4% em relação a 2020. Segundo balanço divulgado nesta segunda-feira (14) à noite pela instituição financeira, apenas no quarto trimestre, o lucro totalizou R$ 5,9 bilhões, alta de 60,5% em relação ao mesmo período do ano anterior.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Em meio à troca de comando da Petrobras, bolsa caiu 0,64%.
 
 Num dia de volatilidade no mercado financeiro, o dólar caiu nesta sexta-feira (19) e devolveu a valorização dos últimos dois dias, embalado pelo otimismo no mercado internacional. Puxada por notícias sobre a Petrobras, a bolsa de valores caiu pelo segundo dia seguido e voltou a ficar abaixo dos 119 mil pontos.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Estudo aponta que leite materno de mães obesas possui menores concentrações de compostos lipídicos, essenciais para o desenvolvimento do cérebro de bebês.
 
 Tornar-se mãe e amamentar inspiraram a nutricionista, Adriela Albino Rydlewski, a pesquisar sobre a qualidade do leite materno. Durante o doutorado em Ciência de Alimentos, pela Universidade Estadual de Maringá (UEM), a bolsista da CAPES, analisou as concentrações de importantes compostos lipídicos de doadoras com índice de massa corporal dentro da normalidade e de doadoras com este indicativo elevado, já nos parâmetros de obesidade.
@@ -31,7 +30,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

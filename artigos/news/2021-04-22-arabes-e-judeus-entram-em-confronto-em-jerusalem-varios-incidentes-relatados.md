@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## As tensões foram altas durante a noite na capital.
 
 Conflitos violentos foram relatados entre jovens árabes e judeus no centro de Jerusalém na noite de quarta-feira, informou a polícia de Israel . 
@@ -26,7 +25,7 @@ Em outro incidente, quatro menores de Jerusalém oriental foram detidos no Train
 
 Incidentes adicionais de lançamento de pedras e confrontos entre árabes e judeus foram relatados durante a noite no bairro de Neve Yaakov e na Cidade Velha de Jerusalém. Incidentes semelhantes parecem estar acontecendo com mais frequência nos últimos dias.
 
-Fonte: 
+Fonte:
 
 **Ver também:**
 
@@ -36,5 +35,3 @@ Fonte:
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

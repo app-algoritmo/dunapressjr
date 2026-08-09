@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Foi concedida também mais uma parcela do benefício aos intermitentes.
 
 Foi publicado, na edição do Diário Oficial da União, desta terça-feira (14/7), o [Decreto nº 10.422](http://www.in.gov.br/en/web/dou/-/decreto-n-10.422-de-13-de-julho-de-2020-266575366), que prorroga os prazos dos acordos de redução proporcional de jornada e de salário e de suspensão temporária do contrato de trabalho do Benefício Emergencial de Preservação do Emprego e da Renda (BEm).
@@ -22,4 +21,4 @@ Foi concedido ainda o pagamento de mais uma parcela, no valor de R$ 600,00, aos 
 
 Fonte: gov.br – Imagem de destaque: Caixa/Reprodução
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

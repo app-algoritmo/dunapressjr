@@ -7,7 +7,6 @@ categories:
 - Video library
 ---
 
-
 O drama romântico de 1987 estrelado por Patrick Swayze e Jennifer Gray é conhecido por muitas coisas. É um dos romances mais emocionantes de Hollywood, ambientado em detalhes perfeitos do início dos anos 1960. Foi parte da memorável série de papéis de estrela de cinema de Swayze no final dos anos 80 e início dos anos 90, e aquele em que ele apresentou a linha mais famosa de sua carreira .
 
 https://youtu.be/XINddkzfTzM
@@ -39,5 +38,3 @@ Fonte The Time Of Israel
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

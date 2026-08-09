@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa recuou 0,57% com tensões geopolíticas na Ucrânia.
 
 Na contramão do mercado internacional, o dólar voltou a cair no Brasil e fechou a sexta semana seguida em baixa, com fluxo externo atraído pelos juros altos no país. A bolsa de valores caiu pelo segundo dia, com o agravamento das tensões geopolíticas na Ucrânia.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

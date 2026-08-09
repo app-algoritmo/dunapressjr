@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## **A plataforma whatsapp pertencente ao grupo facebook notifica que pode reter informações do usuário "para tratar de questões legais, violações de condições ou iniciativas de prevenção de danos".**
 
 Após a recente controvérsia sobre a implementação da nova política de privacidade do WhatsApp, milhões de usuários decidiram migrar para outros aplicativos de mensagens instantâneas e excluir sua conta na plataforma whatsapp, que desde 2014 pertence ao Facebook.
@@ -16,7 +15,7 @@ No entanto, ao contrário do que muitos pensam, não basta excluir o aplicativo 
 
 Além disso, o WhatsApp observa que é provável que "cópias de suas **informações sejam mantidas por 90 dias no armazenamento de backup" que a empresa usa para recuperar dados em caso de desastres naturais, erros de software ou outros eventos de perda de dados.**
 
-[](https://faq.whatsapp.com/android/account-and-profile/how-to-delete-your-account/?lang=pt_br)Imagem: Termos para Eliminação do app - Captura de tela
+Imagem: Termos para Eliminação do app - Captura de tela
 
 **Comentário:** Talvez a corporação goste de dizer 90 dias de armazenamento como 120, porque eles provavelmente manterão todas as informações que coletaram indefinidamente dos usuários em qualquer caso.
 

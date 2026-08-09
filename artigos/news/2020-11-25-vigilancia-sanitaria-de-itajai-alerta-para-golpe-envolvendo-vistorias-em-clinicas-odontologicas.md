@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-A Vigilância Sanitária de Itajaí alerta para um possível golpe que está sendo aplicado em clínicas de odontologia envolvendo o nome do órgão público. 
+A Vigilância Sanitária de Itajaí alerta para um possível golpe que está sendo aplicado em clínicas de odontologia envolvendo o nome do órgão público.
 
 Alguns estabelecimentos relataram que receberam uma ligação informando sobre uma parceria entre a Vigilância Sanitária e o Google. Os supostos fiscais estariam agendando visitas mensais para verificar se as clínicas estariam dentro dos padrões sanitários contra a COVID-19.
 
@@ -23,7 +22,5 @@ SEU APOIO VOLUNTARIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

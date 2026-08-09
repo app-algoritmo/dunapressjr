@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Em março, as vendas externas do agronegócio representaram metade de tudo que foi exportado.
 
 Dados da Secretaria de Comércio de Relações Internacionais do Ministério da Agricultura, Pecuária e Abastecimento*,* revelam que as exportações do agronegócio atingiram o montante recorde de US$ 14,53 bilhões em março. O valor é 29,4% superior na comparação com o mesmo mês do ano passado. De acordo com o ministério, o aumento foi motivado pela elevação de 27,6% nos preços dos produtos. Já o volume exportado cresceu de 1,4%.
@@ -26,8 +25,4 @@ Com informações da [Casa Civil](http://gov.br/casacivil)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

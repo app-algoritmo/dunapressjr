@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 Na busca pelos melhores recursos científicos para serem usados na guerra contra a Covid-19, a corrida contra o tempo é fator decisivo e de extrema importância. Na terceira e última parte da série sobre o uso de tecnologias no combate ao novo coronavírus, o leitor acompanha as iniciativas da Aeronáutica.
 
 Um dos exemplos é o equipamento que identifica a presença do coronavírus no ar. A inovação, que deve ser finalizada em sete semanas, é desenvolvida nos laboratórios do Instituto Tecnológico de Aeronáutica, o ITA. A universidade pública localizada em São José dos Campos, São Paulo, é subordinada ao Departamento de Ciência e Tecnologia Aeroespacial (DCTA) da Força Aérea Brasileira (FAB).
@@ -40,5 +39,3 @@ A intenção também é dar continuidade ao projeto. A ideia da Instituição é
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

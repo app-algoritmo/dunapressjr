@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Queda ocorre após três meses consecutivos de expansão.
 
 O Monitor do Produto Interno Bruto (PIB), apurado pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV) e divulgado nesta segunda-feira (18), indicou queda de 0,8% na economia brasileira em maio deste ano, comparativamente a abril, considerando os dados com ajuste sazonal. A retração ocorreu depois de três meses consecutivos de expansão. Na comparação com maio de 2021, a atividade econômica cresceu 4,4% e, no trimestre móvel encerrado em maio deste ano, 3,7%.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

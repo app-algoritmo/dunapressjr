@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Dislexia é um transtorno genético e hereditário da linguagem, de origem neurobiológica, que se caracteriza pela dificuldade de decodificar o estímulo escrito ou o símbolo gráfico, comprometendo a capacidade de aprender a ler e escrever com correção e fluência e de compreender um texto.
 
 Em diferentes graus, os portadores desse defeito congênito não conseguem estabelecer a memória fonêmica, isto é, associar os fonemas às letras, fazendo com que a dislexia seja uma das mais importantes deficiências do aprendizado, caracterizada pela dificuldade em ler, escrever, soletrar, fazer contas, enfim, aprender.
@@ -46,7 +45,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

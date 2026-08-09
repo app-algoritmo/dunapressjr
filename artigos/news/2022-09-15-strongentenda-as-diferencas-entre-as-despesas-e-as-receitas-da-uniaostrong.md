@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Publicação apresenta informações para facilitar a compreensão de questões técnicas pela sociedade.
 
 O Projeto de Lei Orçamentária Anual (PLOA) de 2023 apresentado pelo poder Executivo ao Congresso Nacional estima receitas e fixa despesas para o próximo ano. Sob o ponto de vista das finanças públicas, essas receitas e despesas podem ser classificadas como primárias e financeiras. Para ajudar a sociedade a compreender essas questões técnicas, a Secretaria de Orçamento Federal (SOF) do Ministério da Economia publicou o [Orçamento Cidadão](https://www.gov.br/economia/pt-br/assuntos/planejamento-e-orcamento/orcamento/orcamentos-anuais/2023/ploa/Orcamento_Cidadao_2023.pdf), que busca aproximar o orçamento federal do cotidiano das pessoas, mostrando como são feitos os gastos em 28 diferentes áreas, como saúde, segurança pública e educação.
@@ -48,8 +47,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

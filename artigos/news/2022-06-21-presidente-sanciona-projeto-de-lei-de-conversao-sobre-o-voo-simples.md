@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Presidente Jair Bolsonaro [sancionou](https://www.in.gov.br/en/web/dou/-/lei-n-14.368-de-14-de-junho-de-2022-408485274) o Projeto de Lei de Conversão nº 5, de 2022 (Medida Provisória nº 1.089, de 2021), que altera as Leis nº 6.009, de 26 de dezembro de 1973, nº7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), nº 13.448, de 5 de junho de 2017, nº 11.182, de 27 de setembro de 2005, nº 9.826, de 23 de agosto de 1999, nº 10.833, de 29 de dezembro de 2003, e nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre o transporte aéreo; e revoga dispositivos das Leis nº 5.862, de 12 de dezembro de 1972, e nº 8.666, de 21 de junho de 1993.
 
 A proposição decorre da Medida Provisória nº 1.089, de 29 de dezembro de 2021, que objetiva simplificar e atualizar processos e procedimentos relativos ao setor aéreo e à atuação da Agência Nacional de Aviação Civil - ANAC, aumentando a eficiência do sistema e desenvolvimento da aviação civil.
@@ -37,7 +36,3 @@ Fonte: https://www.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

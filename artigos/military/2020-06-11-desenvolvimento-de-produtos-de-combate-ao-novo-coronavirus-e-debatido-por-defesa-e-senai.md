@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 O Secretário Geral do Ministério da Defesa, Almirante de Esquadra, Almir Garnier, recebeu nesta quarta-feira (10) o Reitor do Senai-Cimatec Bahia (Serviço Nacional de Aprendizagem Industrial e Campus Integrado de Manufatura e Tecnologia), Leone Andrade, e o ex-senador Roberto Muniz. A visita tratou da parceria entre o Senai e Defesa para o desenvolvimento de produtos tecnológicos de saúde de combate ao novo coronavírus.
 
 Para essa discussão, também estiveram presentes o Secretário de Produtos de Defesa (SEPROD), Marcos Degaut, e o Diretor do Departamento de Promoção Comercial da SEPROD, General Duizit Brito. No encontro, foi apresentado o projeto do Instituto de Tecnologias da Saúde (IPS), do Senai Cimatec Bahia, voltado para a produção de novas tecnologias e inovação no âmbito da saúde.
@@ -23,5 +22,3 @@ O ex-senador Roberto Muniz salientou que cada vez mais a engenharia se aproxima 
 
 **Assessoria de Comunicação Social (Ascom)
 Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

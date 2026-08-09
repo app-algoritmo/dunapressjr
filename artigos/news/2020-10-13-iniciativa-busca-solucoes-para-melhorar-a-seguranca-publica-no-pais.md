@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Melhorar a segurança pública em todo o país. Este é o objetivo da Senasp Itinerante, uma iniciativa inédita da Secretaria Nacional de Segurança Pública, que começou nesta semana. Representantes do Governo Federal vão percorrer as cinco regiões brasileiras para ouvir as principais demandas das Secretarias de Segurança Pública dos estados sobre os desafios no setor. O projeto vai ajudar na elaboração de políticas públicas específicas para cada região.
 
 “Entendemos que os estados e as regiões possuem características e similaridades”, disse Renato Paim, secretário nacional de Segurança Pública do Ministério da Justiça e Segurança Pública.
@@ -24,7 +23,7 @@ Além de ouvir as demandas locais, a Senasp Itinerante também vai apresentar ao
 
 Durante a Senasp Itinerante, também será apresentado aos gestores estaduais o projeto Sinesp Agente de Campo, uma ferramenta digital gratuita que promete agilizar o trabalho dos profissionais que fazem parte do Sistema Único de Segurança Pública (SUSP).  A ideia é que a ferramenta conte com mais de cem mil usuários até a primeira quinzena de novembro.
 
-O Agente de Campo é um aplicativo que permite, por exemplo, o acesso do policial, em tempo real, a boletins de ocorrência, a mandados de prisão e busca detalhada de veículos roubados. É mais agilidade e eficácia no atendimento à população. O Sinesp Agente de Campo já foi testado no Pará, em Tocantins e no Acre. 
+O Agente de Campo é um aplicativo que permite, por exemplo, o acesso do policial, em tempo real, a boletins de ocorrência, a mandados de prisão e busca detalhada de veículos roubados. É mais agilidade e eficácia no atendimento à população. O Sinesp Agente de Campo já foi testado no Pará, em Tocantins e no Acre.
 
 “É uma ferramenta que nós almejamos que seja fator de integração de todos os entes federativos, daquelas pessoas que estão na ponta trabalhando no dia a dia”, finalizou o secretário.
 
@@ -37,5 +36,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

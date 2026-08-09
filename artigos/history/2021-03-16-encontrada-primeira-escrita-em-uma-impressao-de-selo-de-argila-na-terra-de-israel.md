@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 O que é indiscutivelmente a mais antiga impressão de selo de argila com inscrição da Terra de Israel - usada na corte do rei israelita Jeroboão II - foi autenticada após anos de rigorosos testes de laboratório sob a supervisão do Prof. Yuval Goren da Universidade Ben-Gurion. A argila inscrita, conhecida como bula, foi comprada sem procedência de um comerciante de antiguidades beduínos na década de 1980 e agora acredita-se que seja do reinado de Jeroboão II no século VIII aC.
 
 "Esta bula é uma das primeiras, senão a mais antiga, bula inscrita na Terra de Israel", disse Goren ao The Times of Israel antes da publicação de um estudo científico em hebraico em uma edição especial do jornal Eretz Yisrael dedicado a epígrafa Ada Yardeni[. ](https://www.timesofisrael.com/dead-sea-scrolls-decoder-remembered-as-grande-dame-of-semitic-paleography/)Posteriormente, ele aparecerá em inglês no Israel Exploration Journal.
@@ -75,7 +74,7 @@ Leia também: [Conheça como funciona o trabalho de uma OSCIP que resgata animai
 
 Você também pode querer saber: [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
-Por: Amanda Borschel-Dan 
+Por: Amanda Borschel-Dan
 
 Fonte: www.timesofisrael.com
 
@@ -87,7 +86,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

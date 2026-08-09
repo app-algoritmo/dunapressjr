@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Secretaria de Política Econômica avaliou efeitos da diminuição de tributos na alocação de recursos.
 
 A redução de impostos que vem sendo adotada no Brasil poderá gerar efeitos positivos sobre a produtividade da economia do país, com impactos no crescimento do emprego e da renda. Embora a atividade econômica tenha apresentado recuperação em 2021 – após um ano do maior impacto da pandemia da Covid-19 e com a retomada tendo se mostrado consistente desde o segundo semestre de 2020 –, há problemas estruturais e conjunturais que ainda precisam ser solucionados, e a redução de impostos específicos tem condições de contribuir para uma melhor alocação de recursos em setores e atividades. Essa é a conclusão da nota informativa “[Consolidação fiscal com redução da carga tributária e mudanças econômicas pela oferta](https://www.gov.br/economia/pt-br/centrais-de-conteudo/publicacoes/notas-informativas/2022/junho/ni-consol-fiscal-e-red-carga-tribut.pdf)”, elaborada pela Secretaria de Política Econômica (SPE) do Ministério da Economia e divulgada nesta quarta-feira (29).
@@ -26,8 +25,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

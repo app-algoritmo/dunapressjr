@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Conheça Lili Hirsch, de 12 anos, que foi deportada para Auschwitz e assassinada em 1944. Lili estava entre os 1,5 milhão de crianças judias assassinadas durante o Holocausto.
 
 Durante o Holocausto, Lili e sua família foram forçadas a se mudar para o gueto, junto com o resto dos judeus da cidade.
@@ -36,7 +35,3 @@ Traduzido por: Professor Marcelo Boeira Vargas.
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

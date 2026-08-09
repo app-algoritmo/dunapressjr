@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Até o dia 30 de junho, foram realizados 1,4 milhão de exames de RT-PCR para Covid-19, sendo que 860.604 na rede nacional de laboratórios de saúde pública e 618.067 nos principais laboratórios privados do país. Sobre os testes rápidos, foram realizados no país, um total de 1,4 milhão. Importante destacar que se trata do total de testes realizados que foram registrados no e-SUS notifica até o dia 25/06.
 
 Em relação aos testes RT-PCR distribuídos, a pasta informa que, até 1º de julho, já foram distribuídos 3.878.888 milhões de testes para Covid-19 para os 27 Laboratórios Centrais de Saúde Pública (Lacen), os três Centros Nacionais de Influenza (NIC) e os laboratórios colaboradores. Em relação aos testes rápidos (sorológicos), até 15 de junho, foram distribuídos 7,5 milhões.
@@ -33,4 +32,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

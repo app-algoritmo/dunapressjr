@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Para repor aulas após isolamento social, algumas das recomendações são reprogramação de férias e utilização dos sábados. 
+Para repor aulas após isolamento social, algumas das recomendações são reprogramação de férias e utilização dos sábados.
 
 Para orientar instituições de ensino da educação básica e superior sobre as práticas que devem ser adotadas durante a pandemia, o Ministério da Educação (MEC) homologou um conjunto de diretrizes, aprovado pelo Conselho Nacional da Educação (CNE). Vale destacar que a educação básica compreende a educação infantil, o ensino fundamental obrigatório de nove anos e o ensino médio.
 
@@ -61,5 +60,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

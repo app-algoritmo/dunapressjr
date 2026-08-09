@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Estudos foram publicados nesta quarta-feira (16/6), com estimativas de alta para PIB, investimentos, salário real, exportações e importações totais, além de queda de preços ao consumidor
 
 Os acordos de livre comércio com a [Indonésia](https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/publicacoes-secex/serie-acordos-comerciais/arquivos/indonesia-estudo-de-impacto.pdf) e com o [Vietnã](https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/publicacoes-secex/serie-acordos-comerciais/arquivos/vietna-estudo-de-impacto.pdf) terão impacto de R$ 25,7 bilhões no PIB brasileiro até 2040, segundo estudos divulgados nesta quarta-feira (16/6) pela Secretaria de Comércio Exterior (Secex) do Ministério da Economia. Os acordos tiveram seus [mandatos negociadores aprovados](https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/noticias/2020/dezembro/conselho-da-camex-aprova-mandatos-negociadores-do-brasil-para-acordos-do-mercosul-com-indonesia-e-vietna) na reunião do Conselho de Estratégia Comercial (CEC) de dezembro de 2020, e as [consultas públicas](https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/noticias/2021/maio/ministerio-abre-consulta-publica-sobre-eventuais-acordos-do-mercosul-com-indonesia-e-vietna) para manifestações da sociedade estão abertas para participação até 19/07.
@@ -35,8 +34,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

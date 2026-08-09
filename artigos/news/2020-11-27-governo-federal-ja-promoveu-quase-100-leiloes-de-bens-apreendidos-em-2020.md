@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A venda de bens apreendidos pelas forças policiais no combate ao crime está sendo feita por meio de leilões do Ministério da Justiça e Segurança Pública. Estão sendo colocados à venda carros; motocicletas; aeronaves; terras; embarcações; apartamentos; itens de luxo, como diamantes e ouro; e cabeças de gado retidas em fazendas envolvidas com atividades criminosas.
 
 Até 2018, de acordo com o diretor de Gestão de Ativos da Secretaria Nacional de Políticas sobre Drogas, Giovanni Magliano Júnior, eram promovidos, em média, seis leilões por ano. “Desde outubro de 2019, quando começou o redesenho de gestão, até o presente momento, ou seja, em pouco mais de um ano, nós já realizamos mais de 100 leilões. Apenas em 2020, foram 94 leilões, mas já com a estimativa de realizar o centésimo leilão ainda no mês de novembro, ultrapassando a meta estabelecida para este exercício que era de 100 leilões no ano de 2020"
@@ -36,7 +35,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

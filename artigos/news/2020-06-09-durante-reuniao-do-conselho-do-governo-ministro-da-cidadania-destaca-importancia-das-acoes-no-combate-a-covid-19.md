@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Ministro detalhou ações prioritárias da pasta e enfatizou o papel do Auxílio Emergencial, do Bolsa Família e do SUAS.
 
 O Nordeste como destaque nos números superlativos do Bolsa Família. A abrangência do Auxílio Emergencial em todo o território nacional, com mais de 51 milhões de brasileiros que já receberam duas das três parcelas previstas em lei. A adesão de 4.737 municípios a equipamentos e recursos repassados ao Sistema Único de Assistência Social (SUAS). O ministro da Cidadania, Onyx Lorenzoni, partiu desses dados para traçar um balanço das ações prioritárias da pasta no enfrentamento aos efeitos econômicos da pandemia da Covid-19 durante a reunião do Conselho de Governo, nesta terça-feira (09.06), no Palácio do Planalto.
@@ -34,5 +33,3 @@ O ministro também enfatizou a imensa procura dos municípios pelos equipamentos
 No balanço do primeiro mês da iniciativa, o destaque também foi a Região Nordeste. Lá, praticamente todos os estados já haviam superado os 75% de aceites em 30 dias. Os recursos aceitos para a região somam R$ 34 milhões para EPIs, R$ 30 milhões para alimentos e R$ 68 milhões para ações assistenciais. A compra dos alimentos tem como prioridade os itens ricos em proteína.
 
 Fone: Gov BR
-
-[](https://dunapress.org/subscription-plan/?aff=Thami)

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Mercado brasileiro contrariou tendências externas.
 
 O dólar fechou em alta contra o real nesta quarta-feira(10), descolado das operações nos mercados externos, conforme investidores assumiram posição mais defensiva antes de feriado no Brasil e após o banco central dos Estados Unidos  manter sua política monetária.
@@ -43,5 +42,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 O livro 'Jesuit Kaddish' do historiador James Bernauer surpreende a ordem católica acadêmica com um estudo inovador do anti-semitismo de seus membros - e homenageia aqueles que salvaram judeus durante a Segunda Guerra Mundial.
 
 Quando os nazistas lançaram o pogrom Kristallnacht contra os judeus entre 9 e 10 de novembro de 1938, a reação de muitos líderes religiosos foi silenciada. A maioria dos líderes católicos na Alemanha não criticou o massacre destrutivo e, do outro lado do Atlântico, houve um silêncio semelhante por parte do jornal jesuíta América.
@@ -86,7 +85,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

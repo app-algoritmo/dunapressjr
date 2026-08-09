@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Muito comuns entre mulheres, problemas no aparelho urinário crescem durante o inverno; especialista lembra da importância de tomar dois litros de água diariamente.
 
 Na estação mais fria do ano, tomar água ao longo do dia torna-se um hábito muito menos frequente. Essa mudança de comportamento pode afetar uma parte importante do organismo, o aparelho urinário. Durante o inverno, o risco de desenvolver infecção urinária aumenta de forma significativa, principalmente entre as mulheres. De acordo com a Sociedade Brasileira de Urologia, de 50% a 80% delas serão afetadas por esse problema em algum momento da vida.
@@ -35,7 +34,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

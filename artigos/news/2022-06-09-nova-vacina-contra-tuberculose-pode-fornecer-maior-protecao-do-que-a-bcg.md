@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Uma nova candidata vacinal contra a tuberculose, em desenvolvimento no Instituto Butantan, se mostrou capaz de proteger mais do que o imunizante tradicional, o BCG (Bacilo de Calmette e Guérin). É o que mostram os resultados de um estudo pré-clínico [publicado na revista *Frontiers in Immunology*](https://www.frontiersin.org/articles/10.3389/fimmu.2022.867195/full#h12). Embora a atual vacina seja comprovadamente efetiva, especialmente na proteção de crianças, a imunidade contra a doença **tende a cair na vida adulta**. O mundo registra por ano 10 milhões de novos casos e 1,5 milhão de mortes por tuberculose, segundo a Organização Mundial da Saúde (OMS). Grande parte dos óbitos ocorre em pessoas com HIV, que possuem o sistema imune comprometido.
 
 A vacina recombinante estudada no Butantan é feita a partir da produção de um adjuvante na BCG original, ou seja, uma substância que potencializa a resposta imune. Trata-se de um fragmento detoxificado da toxina LT da bactéria E. coli, denominado LTAK63. Os modelos animais que receberam o novo imunizante, e foram posteriormente infectados, apresentaram **cinco vezes menos bactérias** no pulmão e uma **melhora na função pulmonar**, em comparação aos vacinados com a BCG original.
@@ -35,7 +34,3 @@ Fonte: https://butantan.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

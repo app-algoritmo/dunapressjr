@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-Programa Mais Luz vai levar desenvolvimento econômico e social a regiões remotas. A iniciativa destinará recursos a projetos que visem o atendimento de domicílios situados em áreas remotas da Amazônia Legal. 
+Programa Mais Luz vai levar desenvolvimento econômico e social a regiões remotas. A iniciativa destinará recursos a projetos que visem o atendimento de domicílios situados em áreas remotas da Amazônia Legal.
 
 O Ministério de Minas e Energia e o Banco Nacional de Desenvolvimento Econômico e Social (BNDES) assinaram nesta terça-feira (15) um acordo de cooperação técnica para captar recursos financeiros ao programa Mais Luz. A iniciativa vai levar energia limpa e renovável a 82 mil famílias – cerca de 350 mil pessoas – ribeirinhas, indígenas, quilombolas e povos que vivem em unidades de conservação localizadas em áreas remotas da Amazônia Legal.
 
@@ -34,5 +33,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

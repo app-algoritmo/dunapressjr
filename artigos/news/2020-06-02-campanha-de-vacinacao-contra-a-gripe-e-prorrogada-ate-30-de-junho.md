@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Saúde anunciou na sexta-feira (29) a prorrogação da Campanha Nacional de Vacinação contra a Gripe para até 30 de junho em todo o País. A terceira e última fase teve início no dia 11 de maio, com prioridade aos grupos formados por pessoas com deficiência, crianças de seis meses a menores de seis anos, gestantes, puérperas, professores e pessoas de 55 a 59 anos de idade. A meta é vacinar 90% dos grupos prioritários, porém, até o momento, foram vacinadas 25,7% de 36,1 milhões de pessoas estimadas nesta terceira fase. Desde o início da ação nacional, em 23 de março, 50 milhões de pessoas foram vacinadas, faltando ainda 28,3 milhões que ainda não receberam a vacina.
 
 “Estamos com uma campanha em andamento, e é fundamental que as pessoas que fazem parte dos grupos de risco, que ainda não se vacinaram, procurem os postos de saúde. Por conta do baixo alcance da meta nesses grupos prioritários, nós, em acordo com os estados e municípios, estamos prorrogando a campanha, de 5 para 30 de junho. É mais uma oportunidade para que os públicos de todas as fases, que ainda não se vacinaram, possam procurar de forma organizada as unidades de saúde”, explica o secretário substituto de Vigilância em Saúde do Ministério da Saúde, Eduardo Macário. A vacina é importante para reduzir complicações e óbitos por influenza.
@@ -37,5 +36,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

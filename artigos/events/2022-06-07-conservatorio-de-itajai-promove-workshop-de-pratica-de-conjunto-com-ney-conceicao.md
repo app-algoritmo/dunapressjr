@@ -7,7 +7,6 @@ categories:
 - Events
 ---
 
-
 O programa de formação complementar do Conservatório de Música Popular de Itajaí Carlinhos Niehues recebe na quarta-feira (08), às 14h, o Workshop de Prática de Conjunto com o músico contrabaixista, arranjador e compositor, Ney Conceição. O evento acontece no auditório da Casa da Cultura Dide Brandão e tem entrada franca.
 
 Natural de Belém do Pará, Ney Conceição iniciou sua carreira tocando com artistas paraenses. Em 1996, mudou-se para o Rio de Janeiro, onde conheceu e começou a trabalhar com músicos como Sebastião Tapajós e Robertinho Silva, com os quais tocou e gravou em diversos países. Ney também tocou com Airto Moreira, Danilo Caymmi, Dominguinhos, Fátima Guedes, João Donato, João Nogueira, Hermeto Paschoal, Naná Vasconcelos, Paulo Moura, Sivuca, entre outros grandes nomes da MPB.
@@ -43,7 +42,3 @@ Fonte: https://itajai.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

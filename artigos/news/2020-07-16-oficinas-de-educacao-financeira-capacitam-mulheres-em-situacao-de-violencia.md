@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Mulheres em situação de violência e vulnerabilidade social e econômica receberão capacitação em educação financeira em seis capitais do país, que contam com unidades da Casa da Mulher Brasileira. As oficinas serão ministradas por meio de uma parceria entre o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) e a Caixa.
 
 O projeto “Webinário de Educação Financeira – O Caminho das Contas”, coordenado pela Secretaria Nacional de Políticas para Mulheres (SNPM), será voltado a servidoras, colaboradoras e mulheres atendidas pelas casas, onde são ofertados, em único espaço, serviços especializados para os mais diversos tipos de violência contra as mulheres. As oficinas, realizadas on-line, serão conduzidas por especialistas da Caixa.
@@ -44,6 +43,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

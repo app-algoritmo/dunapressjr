@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em 41% das negociações houve reajustes superiores ao INPC.
 
 A maioria dos reajustes salariais no país, considerando o período do início do ano até outubro, resultou em ganhos reais para os trabalhadores (acima da inflação). Em 41% das negociações houve reajustes superiores ao Índice Nacional de Preços ao Consumidor (INPC). Os dados, divulgados hoje (24), são do Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese).
@@ -27,5 +26,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

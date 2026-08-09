@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Balança comercial registra superávit de US$ 4,0 milhões.
 
 O comércio exterior do agronegócio brasileiro registrou saldo positivo de US$ 9,3 bilhões na balança comercial em fevereiro deste ano. O volume é resultado das exportações do setor, que tiveram alta de 64,5% em fevereiro em relação ao mesmo mês de 2021 e atingiram US$ 10,5 bilhões. Houve contribuição também das importações, que atingiram US$ 1,2 bilhão, um avanço de 2,0% ante igual mês do ano anterior.
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

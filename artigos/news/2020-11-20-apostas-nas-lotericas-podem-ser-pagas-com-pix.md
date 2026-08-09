@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Novo sistema de pagamento começou a funcionar nesta semana.
 
 As apostas nas lotéricas podem ser pagas com Pix, sistema de pagamentos instantâneos que começou a funcionar plenamente nesta semana.
@@ -21,5 +20,3 @@ O pagamento com Pix já está valendo, mas depende de as lotéricas estarem prep
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Fato se deve aos reflexos da pandemia na economia.
 
 As contas públicas fecharam o mês de junho com saldo negativo de R$ 194,7 bilhões, informou hoje (30), em Brasília, o Tesouro Nacional. O recorde no déficit primário, despesas maiores que as receitas, sem considerar no cálculo os gastos com juros, do governo central (Tesouro Nacional, Previdência Social e Banco Central) é explicado pelos efeitos da pandemia de covid-19 na economia. Em junho de 2019, o déficit primário ficou em R$ 11,8 bilhões.
@@ -32,4 +31,4 @@ Para esse período, o adiamento de pagamento de tributos estimado é de R$ 81,3 
 
 **Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil**
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

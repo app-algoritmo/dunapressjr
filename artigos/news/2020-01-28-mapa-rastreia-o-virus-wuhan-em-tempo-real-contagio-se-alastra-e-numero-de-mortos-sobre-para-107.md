@@ -8,12 +8,9 @@ categories:
 - News
 ---
 
-
 O centro médico dos EUA atualiza regularmente um painel on-line para monitorar a expansão global da epidemia
 
 O Centro Johns Hopkins de Ciência e Engenharia de Sistemas (CSSE) construiu e atualiza regularmente um [painel on](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - [line](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) para rastrear a disseminação mundial do surto de coronavírus iniciado na cidade chinesa de Wuhan, informou a Revista Johns Hopkins.
-
-[](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 Lauren Gardner, professora de engenharia civil e co-diretora da CSSE, liderou o esforço para lançar o site de mapeamento na quarta-feira. O site exibe estatísticas sobre mortes e casos confirmados de coronavírus, ou 2019-nCoV, em um mapa mundial. Também permite que os visitantes baixem os dados gratuitamente.
 

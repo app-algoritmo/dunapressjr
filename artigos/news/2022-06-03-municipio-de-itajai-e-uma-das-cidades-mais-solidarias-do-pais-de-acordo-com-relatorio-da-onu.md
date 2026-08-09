@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Agência da Organização das Nações Unidas para Refugiados (ACNUR) divulgou o 1º Relatório Cidades Solidárias Brasil e o Município de Itajaí foi um dos destaques. A cidade aparece no eixo temático de Compartilhamento de Responsabilidades com o trabalho de acesso à documentação para migrantes e refugiados. Ao todo, foram listadas 27 boas práticas de 17 gestões municipais do país que promovem ações para a integração de pessoas refugiadas em diferentes serviços, como abrigamento, educação e proteção.
 
 Itajaí é destaque no relatório pelo apoio prestado à Delegacia de Migrações da Polícia Federal, que fica localizada na cidade. O espaço é responsável pelo registro e documentação de pessoas refugiadas e migrantes de 46 municípios da região.
@@ -38,7 +37,3 @@ Fonte: https://itajai.sc.gov.br/noticias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

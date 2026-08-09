@@ -8,7 +8,6 @@ categories:
 - Books
 ---
 
-
 Israel é o líder mundial na pesquisa do Holocausto. Não há nenhum aspecto da aniquilação sistemática do povo judeu pela Alemanha nazista que os historiadores israelenses não tenham investigado em grande profundidade. E, no entanto, nenhuma edição completa do “Mein Kampf” de Adolf Hitler, que lançou as bases ideológicas do nazismo e foi indiscutivelmente um dos livros mais influentes do século 20, foi publicada em hebraico.
 
 O livro foi traduzido para pelo menos 16 idiomas - incluindo árabe, persa e turco - e em 1933 Chaim Weizmann, que mais tarde se tornaria o primeiro presidente de Israel, foi fundamental na tradução de partes dele para o inglês. Mas 94 anos depois de ter sido publicado pela primeira vez na Alemanha, os falantes de hebraico nunca tiveram a oportunidade de ler o discurso odioso na íntegra.
@@ -25,7 +24,7 @@ Esse empreendimento da Universidade Hebraica ganhou vida depois que o sobreviven
 
 Heilbronner, hoje professor sênior de estudos culturais no Shenkar College of Design and Art em Tel Aviv e pesquisador de história na Universidade Hebraica, juntou-se a Zimmermann na publicação da edição e foi coautor de sua introdução.
 
-Juntos, eles selecionaram trechos "que melhor transmitem a versão de Hitler dos eventos históricos relacionados à Alemanha pós-Primeira Guerra Mundial, sua vida em Munique, sua atividade política inicial e sua interpretação dos primeiros dias do Partido Nazista em Munique", Heilbronner escreve na nova antologia, que foi [ ](http://www.steiner-verlag.de/titel/61699.html)publicada na Alemanha.
+Juntos, eles selecionaram trechos "que melhor transmitem a versão de Hitler dos eventos históricos relacionados à Alemanha pós-Primeira Guerra Mundial, sua vida em Munique, sua atividade política inicial e sua interpretação dos primeiros dias do Partido Nazista em Munique", Heilbronner escreve na nova antologia, que foi publicada na Alemanha.
 
 “Além disso, os editores optaram por publicar as partes que tivessem uma dimensão político-ideológica e que tratassem da propaganda, da raça, do problema comunista e do *Lebensraum* [necessidade de espaço vital, justificativa para expansão territorial] no Oriente, como bem como capítulos que tratavam dos socialistas, a estrutura do estado alemão e a visão de mundo de Hitler. ”
 
@@ -131,5 +130,3 @@ Fonte: https://www.timesofisrael.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

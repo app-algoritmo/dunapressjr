@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Esta é a sétima alta consecutiva.
 
 Com o aumento da inflação, o Banco Central fez mais um ajuste nos juros básicos para tentar segurar a alta dos preços. Por unanimidade, o Comitê de Política Monetária (Copom) elevou nesta quarta-feira (8) a taxa básica de juros, a Selic, de 7,75% para 9,25% ao ano. A decisão[** era esperada por analistas do mercado financeiro**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-12/mercado-financeiro-projeta-inflacao-em-1018-neste-ano).
@@ -30,10 +29,6 @@ A taxa básica de juros é usada nas negociações de títulos públicos no Sist
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

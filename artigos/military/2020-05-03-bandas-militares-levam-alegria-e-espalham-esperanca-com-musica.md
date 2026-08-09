@@ -7,11 +7,9 @@ categories:
 - Military
 ---
 
-
 **Brasília (DF), 03/05/2020 -** A música está ligada às ações militares, não só como meio de comunicação, mas também como elemento psicológico, levando ânimo às tropas e atemorizando o inimigo. Durante a movimentação de guerra, os grupos de soldados eram facilmente identificados com suas cores e bandeiras, mas em meio ao fogo da batalha, a obscuridade impossibilitava reconhecê-los. Com isso, a música marcial era o que distinguia o amigo do inimigo.
 
-[
-](https://operacaocovid19.defesa.gov.br/index.php)Como citou o Ministro da Defesa, Fernando Azevedo, “o Brasil está diante de uma guerra”, só que não há bombas ou canhões para vencer o opositor. Para superar o coronavírus, a estratégia é manter o distanciamento social. Os elementos da batalha são álcool em gel, água, sabão e desinfetantes. As recomendações são evitar tocar o rosto, lavar as mãos com frequência, usar máscara e evitar sair de casa. São tarefas aparentemente simples, mas que podem desencadear sentimentos de desânimo e melancolia. A falta de convívio social pode tornar os dias ainda mais difíceis.
+Como citou o Ministro da Defesa, Fernando Azevedo, “o Brasil está diante de uma guerra”, só que não há bombas ou canhões para vencer o opositor. Para superar o coronavírus, a estratégia é manter o distanciamento social. Os elementos da batalha são álcool em gel, água, sabão e desinfetantes. As recomendações são evitar tocar o rosto, lavar as mãos com frequência, usar máscara e evitar sair de casa. São tarefas aparentemente simples, mas que podem desencadear sentimentos de desânimo e melancolia. A falta de convívio social pode tornar os dias ainda mais difíceis.
 
 E é aí que entra a música. A mensagem que ela passa é a de não esmorecer, de relaxar e de melhorar o humor. Esse novo ânimo também é espalhado pelos músicos das bandas militares, que transmitem alegria à sociedade em isolamento, com suas diversas canções. A Banda de Música do Terceiro Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo (CINDACTA III) desfilou pelas ruas de Recife (PE), tocando marchas, dobrados e canções populares. “Não poderíamos deixar de levar um enlevo sentimental para amenizar essa pandemia, por meio da nossa arte, àqueles que permanecem de quarentena em suas residências”, falou o Capitão Das Rosas, maestro da banda.
 

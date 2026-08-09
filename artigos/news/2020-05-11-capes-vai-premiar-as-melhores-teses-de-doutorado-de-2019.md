@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) divulgou as diretrizes da 15ª edição do [Prêmio CAPES de Tese](https://www.capes.gov.br/premiocapesdetese) no Diário Oficial da União (DOU) na quarta-feira (15) pelo [Edital nº 10/2020](https://www.capes.gov.br/images/novo_portal/editais/editais/15042020_EDITAL_10_2020_Pr%C3%AAmio_CAPES_de_Tese.pdf).
 
 Conforme o edital, serão selecionadas as melhores teses de doutorado defendidas no Brasil em 2019, que tenham sido apresentadas em programa de pós-graduação e que estejam registradas na Plataforma Sucupira da Capes. Os trabalhos serão escolhidos dentro de cada uma das áreas de avaliação reconhecidas pela Coordenação.
@@ -36,4 +35,4 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress
+https://dunapress.org/subscription-plan/

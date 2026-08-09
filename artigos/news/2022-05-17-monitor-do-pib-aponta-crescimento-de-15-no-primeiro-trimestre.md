@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Na passagem de fevereiro para março aumento foi 1,8%, diz FGV.
 
 O Monitor do Produto Interno Bruto (PIB, soma de todos os bens e serviços produzidos no país), divulgado nesta terça-feira (17) pela Fundação Getulio Vargas (FGV), apresentou aumento de 1,5% na atividade econômica no primeiro trimestre de 2022, na comparação com o quarto trimestre de 2021. Na passagem de fevereiro para março deste ano, o crescimento foi de 1,8%. Na comparação anual, o aumento do PIB ficou em 2,4% no trimestre e em 4,2% no mês.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

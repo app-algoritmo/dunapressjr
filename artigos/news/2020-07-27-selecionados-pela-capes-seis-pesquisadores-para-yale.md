@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Situação orçamentária permitiu acrescentar mais cinco bolsas ao Programa CAPES-Yale.
 
 [Seis pesquisadores](https://www.capes.gov.br/images/novo_portal/editais/resultados/24072020Edital_1253741_edital_retificacao_resultado_final_yale.pdf) nas áreas de ciências biológicas e medicina foram selecionados pelo [Edital nº 20/2019](https://www.capes.gov.br/images/novo_portal/editais/editais/05112019_EDITAL_20_2019_-_YALE_-_Altera%C3%A7%C3%A3o.pdf), do [Programa CAPES-Yale](https://www.capes.gov.br/bolsas-e-auxilios-internacionais/pais/204-estados-unidos/8918-programa-capes-yale-de-doutorado-em-ciencias-biomedicas) de Doutorado em Ciências Biomédicas. Eles devem iniciar seus estudos na universidade estadunidense em agosto de 2021. A publicação, que traz o aumento de um para seis estudantes, consta do Diário Oficial da União desta sexta-feira, 24.
@@ -30,7 +29,7 @@ Fonte: Agência Brasil / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

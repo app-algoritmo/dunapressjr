@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É a maior taxa para um mês de janeiro desde 2016.
 
 O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), que mede a prévia da inflação oficial do país, registrou taxa de 0,78% em janeiro. A inflação é inferior à observada em dezembro de 2020 (1,06%), mas superior à registrada em janeiro do ano passado (0,71%). Essa é a maior taxa para um mês de janeiro desde 2016 (0,92%).
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

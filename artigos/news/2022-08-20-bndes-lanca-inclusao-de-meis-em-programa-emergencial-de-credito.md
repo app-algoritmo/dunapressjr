@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Operação terá vigência até dezembro de 2023.
 
 O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) anuncia, na próxima segunda-feira (22), a reabertura do Programa Emergencial de Acesso a Crédito (FGI PEAC). A novidade, na nova edição, é que o programa incluirá também microempreendedores individuais (MEIs) e microempresas, além de pequenas e médias empresas, contempladas anteriormente.
@@ -24,14 +23,10 @@ De acordo com o BNDES, a ideia de priorizar fundos garantidores para MEIs e MPME
 
 O Programa Emergencial de Acesso a Crédito, em sua modalidade de garantias, foi instituído pela Medida Provisória 975, de 1º de junho de 2020, convertida na Lei 14.042, em agosto daquele ano. Seu primeiro período de vigência estimulou a obtenção de crédito durante a crise econômica decorrente da pandemia da covid-19, visando apoiar principalmente as pequenas e médias empresas (PMEs), associações, fundações de direito privado e cooperativas, excetuadas as cooperativas de crédito.
 
-A reabertura foi propiciada pela Medida Provisória 1.114/22, de 20 de abril de 2022, com a finalidade de contratação de novas operações até 31 de dezembro de 2023. 
+A reabertura foi propiciada pela Medida Provisória 1.114/22, de 20 de abril de 2022, com a finalidade de contratação de novas operações até 31 de dezembro de 2023.
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

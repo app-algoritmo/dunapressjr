@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A estrutura sustentável, além de contribuir com o meio ambiente, cujo dia nacional foi comemorado no dia último dia 5, pode gerar crescimento econômico para o Brasil.
 
 Um estudo realizado por Isabella Imakawa, bolsista da CAPES no doutorado, mostrou a possibilidade de se transformar resíduos de madeiras tropicais em painéis para a construção civil, decoração e confecção de móveis. O trabalho foi desenvolvido na Escola de Engenharia da Universidade de São Paulo (USP), em São Carlos e usou madeiras da região norte do Brasil.
@@ -29,7 +28,3 @@ Fonte: https://www.gov.br/capes
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

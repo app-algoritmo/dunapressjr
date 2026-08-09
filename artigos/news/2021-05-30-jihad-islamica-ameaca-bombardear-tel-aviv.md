@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O líder da Jihad Islâmica ameaça bombardear Tel Aviv se Israel realizar uma operação de contraterrorismo direcionada contra seus membros.
 
 Ziad Al-Nahala, o líder da organização terrorista Jihad Islâmica, disse em um discurso transmitido durante uma cerimônia de comemoração da "vitória" na guerra contra Israel em Gaza que sua organização está comprometida em continuar a luta contra a "entidade sionista "e a guerra contra ela até que seja eliminada e independentemente do número de vítimas.
@@ -25,7 +24,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

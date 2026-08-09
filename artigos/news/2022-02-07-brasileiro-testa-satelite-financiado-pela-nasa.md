@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Lorenzzo Mantovani é graduado em Engenharia Aeroespacial pela Universidade Federal de Santa Maria (UFSM) e estagiou no Instituto Tecnológico de Aeronáutica (ITA). Nessa época trabalhou no desenvolvimento do satélite SPORT, um projeto financiado em parte pela Agência Espacial Norte-Americana (Nasa). Ao ingressar no mestrado em Engenharia Aeronáutica e Mecânica do ITA, com bolsa da CAPES, continuou sua pesquisa, agora na fase de testes antes do lançamento, previsto para este ano. Os resultados estão em [artigo](https://www.sciencedirect.com/science/article/pii/S1270963821008087/pdfft?md5=8d1ca0236ef9497ebd3de3357568e2e1&pid=1-s2.0-S1270963821008087-main.pdf) publicado na *Science Direct*, da editora Elsevier.
 
 **Fale sobre sua formação e como você chegou a esse projeto.**
@@ -46,7 +45,3 @@ Fonte: https://www.gov.br/capes/pt-br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

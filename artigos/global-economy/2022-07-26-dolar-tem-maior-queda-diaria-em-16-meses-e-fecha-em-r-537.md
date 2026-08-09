@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Bolsa supera 100 mil pontos por primeira vez em três semanas.
 
 O alívio nos mercados doméstico e internacional fez o dólar ter a maior queda diária em 16 meses e fechar abaixo de R$ 5,40. A bolsa de valores subiu mais de 1% e encerrou acima dos 100 mil pontos pela primeira vez em quase três semanas.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

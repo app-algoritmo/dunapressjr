@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Antes do homem povoar a terra, existiu em nosso planeta diversas espécies de animais em várias fases e mutações que o nosso planeta passou. Desde o período mesozoico (era dos Repteis), até o cenozoico (era nova, atual), houveram mudanças ainda inexplicáveis. E é aqui que apontarei, neste artigo, o início da Tradição.
 
 ## **O fim de uma era.**
@@ -48,5 +47,3 @@ Nós iniciamos nossas vidas junto com este planeta da mesma forma que os demais 
 
 *Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.
 Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes e torne-se um assinante.*
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=Vitor+Guerino)

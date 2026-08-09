@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Dados fazem parte da Sondagem Econômica das Micro e Pequenas Empresas.
 
 O otimismo dos donos de micro e pequenas empresas segue em alta pelo quarto mês consecutivo. De acordo com o Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae), o índice de confiança do micro e pequeno empresário (IC-MPE) avançou 1,8 ponto em maio, chegando a 98,1 pontos, o maior nível desde outubro de 2021, quando indicou 98,9 pontos. Os dados fazem parte da Sondagem Econômica das Micro e Pequenas Empresas, realizada em parceria com a Fundação Getulio Vargas (FGV).
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

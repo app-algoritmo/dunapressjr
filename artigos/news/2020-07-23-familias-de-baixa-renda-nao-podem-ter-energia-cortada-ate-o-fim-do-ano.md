@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 As famílias de baixa renda não poderão sofrer corte de energia elétrica até o fim do ano por falta de pagamento. A medida, que já estava em vigor e valia até o fim de julho foi prorrogada pela Agência Nacional de Energia Elétrica (Aneel). A ideia é proteger as famílias que mais precisam, como explicou o ministro de Minas e Energia, Bento Albuquerque. “No setor de Energia Elétrica, vislumbramos que nossa prioridade deveria estar centrada na redução da pressão sobre os consumidores de baixa renda”.
 
 Para a diarista, Luzia Ferreira de Lima, que vive em Itapoã (DF), a medida veio em boa hora já que, segundo ela, com a pandemia muita gente está sem emprego. “Achei muito bom. Já é uma conta a menos para a gente voltar a pagar”, disse.
@@ -26,6 +25,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

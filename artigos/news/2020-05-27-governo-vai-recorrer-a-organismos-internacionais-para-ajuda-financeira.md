@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Operação foi confirmada pelo Tesouro Nacional.
 
 O governo federal recorrerá a organismos internacionais para pagar parte do auxílio emergencial e de outras medidas de enfrentamento à crise provocada pela pandemia de coronavírus. O Tesouro Nacional confirmou nesta quarta-feira (27) que pedirá um financiamento externo de US$ 4,01 bilhões, o equivalente a R$ 21,16 bilhões pelo câmbio do dia (R$ 5,276).
@@ -31,5 +30,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

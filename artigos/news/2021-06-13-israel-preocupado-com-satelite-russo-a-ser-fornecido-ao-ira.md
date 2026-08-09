@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O sistema de satélite avançado dará a Teerã a capacidade de rastrear bases militares em Israel.
 
 Israel está preocupado com relatos de que a Rússia [fornecerá ao Irã um satélite moderno](https://www.israelnationalnews.com/News/News.aspx/307878) para fins de inteligência e coleta, noticiou o *Kan 11 News* na sexta-feira.
@@ -37,7 +36,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

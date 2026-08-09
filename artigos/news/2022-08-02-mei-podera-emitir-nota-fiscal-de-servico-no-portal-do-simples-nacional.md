@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ### Mais de 13 milhões de empreendedores devem ser beneficiados.
 
-A partir do dia 1º de janeiro de 2023, os Microempreendedores Individuais (MEI) prestadores de serviços poderão emitir a Nota Fiscal de Serviços Eletrônica (NFS-e) no [**Portal do Simples Nacional**](http://www8.receita.fazenda.gov.br/simplesnacional/Default.aspx). 
+A partir do dia 1º de janeiro de 2023, os Microempreendedores Individuais (MEI) prestadores de serviços poderão emitir a Nota Fiscal de Serviços Eletrônica (NFS-e) no [**Portal do Simples Nacional**](http://www8.receita.fazenda.gov.br/simplesnacional/Default.aspx).
 
 A opção, de abrangência, deverá ficar disponível em aplicativo para dispositivos móveis e por serviço de comunicação do tipo Interface de Programação de Aplicativos (API), segundo [**resolução**](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=125242%20%20%20) do Comitê Gestor do Simples Nacional (CGSN), publicada no *Diário Oficial da União* da última sexta-feira (29).
 
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Intenção é chegar a R$ 200 bilhões até o fim de 2022.
 
 O ministro da Infraestrutura, Marcelo Sampaio, disse nesta terça-feira (14) que o governo federal pretende, até o final de 2022, por meio do programa de concessões de infraestrutura de transportes, chegar a R$ 200 bilhões em contratos de investimentos da iniciativa privada. De acordo com o ministro, o governo soma R$ 100 bilhões nesses contratos nos últimos três anos e seis meses.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

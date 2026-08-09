@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Por meio de pré-natal e parto em gestantes curadas, HUB-UnB/Ebserh analisará os impactos da doença, além do acompanhamento da criança
 
 Brasília (DF) – O Hospital Universitário de Brasília, vinculado à Universidade de Brasília e à Rede Ebserh (HUB-UnB/Ebserh), está realizando uma pesquisa que envolve mulheres gestantes que tiveram diagnóstico confirmado de Covid-19. Com a realização do pré-natal, parto e acompanhamento do bebê no hospital, um grupo de profissionais, em parceria com a UnB e a Secretaria de Saúde (SES-DF), busca analisar os efeitos do vírus durante a gestação, parto, puerpério e no recém-nascido.
 
-O objetivo é acompanhar 300 gestantes para avaliar, por exemplo, se a Covid-19 aumenta o risco de abortamento, parto prematuro, pré-eclâmpsia e malformação fetal e se o vírus pode ser transmitido da mãe para o feto. “Estamos preparados para atender as gestantes e os recém-nascidos para avaliar o comportamento do vírus nesse grupo”, explica a chefe da Unidade Materno-Infantil do HUB e uma das coordenadoras da pesquisa, Lizandra Paravidine. 
+O objetivo é acompanhar 300 gestantes para avaliar, por exemplo, se a Covid-19 aumenta o risco de abortamento, parto prematuro, pré-eclâmpsia e malformação fetal e se o vírus pode ser transmitido da mãe para o feto. “Estamos preparados para atender as gestantes e os recém-nascidos para avaliar o comportamento do vírus nesse grupo”, explica a chefe da Unidade Materno-Infantil do HUB e uma das coordenadoras da pesquisa, Lizandra Paravidine.
 
 Os bebês também serão acompanhados desde o nascimento até os cinco anos de idade para analisar se o vírus interferiu no desenvolvimento neuropsicomotor da criança e se aumentou a mortalidade infantil. “Queremos entender se os filhos das gestantes expostas ao vírus vão apresentar alguma sequela no nascimento ou crescimento. E entendendo também como o vírus age nas gestantes, podemos estudar estratégias de tratamento e prevenção”, afirma o pediatra e professor da UnB Geraldo Fernandes, que também faz parte da coordenação da pesquisa.
 
@@ -36,7 +35,7 @@ Fonte: gov.br/mec / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Fatos incluem pagamentos indevidos a um desembargador.
 
 O Ministério Público Federal (MPF) e a Polícia Federal (PF) cumpriram, na manhã desta quarta-feira (18), mandados de busca e apreensão em 12 endereços ligados a sete investigados dentro de um esquema criminoso envolvendo desembargadores do Tribunal de Justiça de Minas Gerais (TJMG).
@@ -20,7 +19,7 @@ A descoberta fez com que o caso fosse enviado ao STJ, foro para o julgamento de 
 
 Cautelares
 
-Ao justificar a necessidade das cautelares, a subprocuradora-geral da República, Lindôra Araújo, destacou o fato de a autoridade policial ter listado 17 eventos que, conforme avaliação prévia, deveriam ser apurados no STJ. 
+Ao justificar a necessidade das cautelares, a subprocuradora-geral da República, Lindôra Araújo, destacou o fato de a autoridade policial ter listado 17 eventos que, conforme avaliação prévia, deveriam ser apurados no STJ.
 
 Os fatos incluem pagamentos indevidos a um desembargador para que ele pudesse intervir junto a colegas e até junto a autoridades de órgãos fora do Judiciário para a adoção de medidas de interesse dos envolvidos no esquema. Também revelam a existência de contratos superfaturados de prestação de serviços por um advogado, que seria o principal operador do grupo.
 
@@ -29,5 +28,3 @@ Os fatos incluem pagamentos indevidos a um desembargador para que ele pudesse in
 Fonte: Agência Brasil – Imagem de destaque: Arquivo/Tânia Rêgo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

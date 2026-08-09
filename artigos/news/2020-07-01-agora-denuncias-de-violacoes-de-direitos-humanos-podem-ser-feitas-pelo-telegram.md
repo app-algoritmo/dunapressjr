@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Com o Telegram, agora existem quatro ferramentas para o atendimento de vítimas e o registro de denúncias de violações de direitos humanos. Além da nova plataforma, há o canal telefônico (Disque 100 e Ligue 180), o aplicativo Direitos Humanos Brasil e o site da Ouvidoria.
 
 A partir de agora, é possível recorrer a mais um canal para fazer denúncias de violações de direitos humanos e de violência contra a mulher. A Ouvidoria Nacional de Direitos Humanos (ONDH), responsável pelo serviços do Dique 100 e do Ligue 180, disponibilizou uma conta no Telegram - aplicativo de mensagens instantâneas - para o registro de casos em todo o País.
@@ -34,4 +33,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

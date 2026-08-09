@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 O vitiligo é caracterizado por lesões cutâneas de hipopigmentação, ou seja, diminuição da cor, com manchas brancas de tamanho variável na pele. As lesões se formam devido à diminuição ou ausência de melanócitos (as células responsáveis pela formação da melanina, pigmento que dá cor à pele) nos locais afetados.
 
 Suas causas ainda não estão claramente estabelecidas, mas alterações ou traumas emocionais podem estar entre os fatores que desencadeiam ou agravam o problema.
@@ -49,7 +48,3 @@ Fonte: [https://www.gov.br/saude](https://www.gov.br/saude)
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

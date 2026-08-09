@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Clientes de 734 instituições podem fazer pagamentos e transferências.
 
 Depois da fase de operação restrita, o Pix, sistema de pagamento instantâneo entra em funcionamento pleno hoje (16). Todas as pessoas e empresas com conta corrente, poupança ou conta de pagamento pré-paga em uma das instituições aprovadas pelo Banco Central já podem fazer transferências pelo novo sistema que vai funcionar por 24h todos os dias.
@@ -35,5 +34,3 @@ No[** site **](https://www.bcb.gov.br/estabilidadefinanceira/perguntaserespostas
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

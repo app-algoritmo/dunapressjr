@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Casa Branca anunciou no domingo que os EUA impediriam a entrada de não-cidadãos que viajam do Brasil , que registrou um aumento acentuado nos casos de coronavírus nas semanas anteriores.
 
 O governo Trump "determinou que a República Federativa do Brasil está passando por uma transmissão generalizada e contínua de pessoa a pessoa" do vírus, segundo um comunicado da Casa Branca.
@@ -22,8 +21,6 @@ O Brasil também registrou mais de 22.000 mortes, o que a tornaria a quinta maio
 A proibição de viajar do Brasil deve entrar em vigor na quinta-feira. As novas restrições se aplicariam a qualquer cidadão que estivesse no Brasil por até 14 dias antes de tentar entrar nos EUA, disseram autoridades.
 
 Tal como acontece com as outras proibições, não se aplicaria a residentes permanentes legais. Um cônjuge, pai ou filho de um cidadão americano ou residente permanente legal também poderá entrar no país.
-
-[](https://dunapress.org/subscription-plan/?aff=barrosprojectmanager)
 
 As restrições também não se aplicariam ao comércio entre os EUA e o Brasil.
 

@@ -8,7 +8,6 @@ categories:
 - Books
 ---
 
-
 Doutoranda em Ciências Ambientais e mestra em Ambiente e Sociedade pela Universidade Federal de Goiás (UFG), Denise Oliveira Dias construiu sua trajetória acadêmica na Educação Ambiental, no Direito Ambiental e no estudo da Fronteira Agrícola no Brasil. Bolsista CAPES no doutorado e no mestrado, ela foi Destaque do Quadriênio de 2017-2021 no Programa de Pós-Graduação em Ambiente e Sociedade da Universidade Estadual de Goiás (UEG) e é autora de trabalhos sobre educação ambiental e do livro O Resgate do Jabuti Jurandir.
 
 **A sua formação básica é na área do Direito, mas podemos dizer que sua paixão é pela Educação e pela Legislação Ambiental?**
@@ -27,7 +26,7 @@ Meu interesse na educação ambiental começou com um projeto de extensão que p
 Nesse projeto de extensão o objetivo era fazer com que a educação ambiental fosse algo levado para fora das paredes da universidade, através do conhecimento interdisciplinar, com o propósito da educação ambiental alcançar tanto estudantes, professores, quanto pessoas sem conhecimento acadêmico, de forma que fosse o mais acessível possível, a fim de fazer com a educação ambiental fosse parte da vida das pessoas da comunidade. A partir de então, comecei a pensar sobre educação ambiental numa perspectiva de torná-la cada vez mais acessível e prática.
 
 **Sua proposta é despertar as pessoas para a consciência ambiental? **
-Meu foco é fazer esse conhecimento sobre meio ambiente e legislação acessível às pessoas, para que tanto acadêmicos quanto leigos possam compreender a importância da conservação ambiental. Além de trabalhar com essas temáticas da educação ambiental na legislação, tento trazer sempre o cerrado para a discussão dos meus trabalhos, porque esse bioma tem sido devastado pela ação antrópica e muitas vezes isso é desconhecido da comunidade. Meu objetivo principal ao estudar e escrever sobre esse tema é fazer com que a educação ambiental seja uma prática de vida.  
+Meu foco é fazer esse conhecimento sobre meio ambiente e legislação acessível às pessoas, para que tanto acadêmicos quanto leigos possam compreender a importância da conservação ambiental. Além de trabalhar com essas temáticas da educação ambiental na legislação, tento trazer sempre o cerrado para a discussão dos meus trabalhos, porque esse bioma tem sido devastado pela ação antrópica e muitas vezes isso é desconhecido da comunidade. Meu objetivo principal ao estudar e escrever sobre esse tema é fazer com que a educação ambiental seja uma prática de vida.
 
 **E o livro sobre educação ambiental para crianças?**
 Penso que é de extrema importância ensinar as crianças sobre educação ambiental e legislação de uma forma que seja divertida e natural para elas. Então, pensei em escrever uma história lúdica sobre um animal que vivesse no cerrado e, através da história desse animal, contar como funciona a adoção de animais silvestres no Brasil. O desrespeito aos animais, e ao meio ambiente de forma geral, sempre me incomodou muito. Então quis ensinar, através de uma história simples para as crianças, a importância de não tirar os animais do seu habitat.
@@ -52,7 +51,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

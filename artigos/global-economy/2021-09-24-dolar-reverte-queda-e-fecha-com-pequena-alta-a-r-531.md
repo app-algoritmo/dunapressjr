@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa sobe pelo terceiro dia seguido e retoma os 114 mil pontos.
 
 O alívio em relação ao mercado chinês e as decisões sobre os juros no Brasil e nos Estados Unidos fizeram a bolsa e o dólar subir nesta quinta-feira (23). O índice Ibovespa subiu pelo terceiro dia consecutivo e retomou o nível de 114 mil pontos. O dólar alternou altas e baixas ao longo das negociações, mas fechou em leve alta.
@@ -26,10 +25,6 @@ Em relação ao câmbio, o dólar subiu sob reflexo da decisão do Comitê de Po
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Uma nova empresa especializada em serviços médicos e de enfermagem começou a atuar no Município de Itajaí nesta quarta-feira (01). O Instituto Maria Schmitt (IMAS) vai fornecer horas de médicos especialistas em várias áreas, como pediatria, ginecologia e psiquiatria, além de profissionais de enfermagem. O contrato emergencial tem validade de 30 dias e atenderá às demandas da Secretaria de Saúde de Itajaí. O objetivo da mudança de empresa é aprimorar a qualidade dos serviços ofertados, com ampliação da cobertura médica e manutenção integral dos atendimentos à população, além de proporcionar economia nos gastos públicos.
 
 O Município optou pela não renovação com a empresa anterior, a Pró-Ativo, para realizar modificações no objeto contratual e, desta forma, melhor atender às necessidades das unidades de saúde. Para isso, foi realizado o mapeamento dos locais que necessitam de serviços médicos e de enfermagem, tendo em vista o atual déficit de servidores da área, e será aberto um processo licitatório na modalidade Registro de Preços.
@@ -34,7 +33,3 @@ Fonte: https://itajai.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

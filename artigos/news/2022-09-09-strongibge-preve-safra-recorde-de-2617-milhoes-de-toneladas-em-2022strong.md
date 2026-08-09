@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Aumento da previsão de agosto é de 3,3% em relação a 2021.
 
 A safra brasileira de cereais, leguminosas e oleaginosas deve bater o recorde de 261,7 milhões de toneladas em 2022. Em relação ao ano passado, o aumento previsto é de 3,3% ou 8,5 milhões de toneladas. Porém, a estimativa de agosto ficou 0,7% abaixo do apurado em julho, ou 1,8 milhão de toneladas a menos.
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

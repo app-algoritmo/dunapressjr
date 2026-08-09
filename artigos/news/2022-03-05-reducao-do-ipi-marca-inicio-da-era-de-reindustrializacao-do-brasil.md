@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Corte no Imposto sobre Produtos Industrializados atinge mercadorias como brinquedos e eletrodomésticos.
 
 A redução de 25% nas alíquotas do Imposto sobre Produtos Industrializados (IPI) marca o início da reindustrialização brasileira, revertendo um ciclo de quatro décadas de desindustrialização, apontou o ministro da Economia, Paulo Guedes. O corte já está em vigor, conforme estabelece o [Decreto nº 10.979/2022](https://www.in.gov.br/en/web/dou/-/decreto-n-10.979-de-25-de-fevereiro-de-2022-383062604), publicado em edição extra do Diário Oficial da União na última sexta-feira (25). A medida também gera outros efeitos benéficos: ajuda o país a acelerar o processo de retomada produtiva após os impactos provocados pela pandemia da Covid-19, e auxilia no combate à inflação.
@@ -32,14 +31,10 @@ A mudança no IPI representará redução da arrecadação do imposto em R$ 19,5
 
 A redução da carga tributária integra a pauta de ações prioritárias do Ministério da Economia. No final de 2021, o governo [anunciou](https://www.gov.br/2021/novembro/governo-reduz-em-10-imposto-de-importacao-de-bens-comercializados) corte de 10% nas alíquotas do Imposto de Importação sobre 87% dos códigos tarifários que compõem a Nomenclatura Comum do Mercosul (NCM), abrangendo bens como feijão, carne, massas, biscoitos, arroz e materiais de construção, dentre outros.
 
-Esta semana, o Comitê-Executivo de Gestão da Câmara de Comércio Exterior (Gecex/Camex) [zerou o Imposto de Importação de 30 produtos para o setor aeronáutico](https://www.gov.br/camex-zera-imposto-de-importacao-de-30-produtos-para-setor-aeronautico). A medida abrange itens como impressoras, máquinas de corte, planadores, dirigíveis e aparelhos de telefone, entre outros, que poderão ter suas alíquotas reduzidas a zero quando importados para uso em atividades relacionadas ao setor. 
+Esta semana, o Comitê-Executivo de Gestão da Câmara de Comércio Exterior (Gecex/Camex) [zerou o Imposto de Importação de 30 produtos para o setor aeronáutico](https://www.gov.br/camex-zera-imposto-de-importacao-de-30-produtos-para-setor-aeronautico). A medida abrange itens como impressoras, máquinas de corte, planadores, dirigíveis e aparelhos de telefone, entre outros, que poderão ter suas alíquotas reduzidas a zero quando importados para uso em atividades relacionadas ao setor.
 
 Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

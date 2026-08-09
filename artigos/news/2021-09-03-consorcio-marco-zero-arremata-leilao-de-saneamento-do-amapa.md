@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Vencedor apresentou valor de outorga de R$ 930 milhões.
 
 O Consórcio Marco Zero, representado pela empresa Itaú, arrematou a concessão dos serviços de fornecimento de água e esgotamento sanitário dos 16 municípios do estado do Amapá, em leilão realizado na tarde desta quinta-feira (2), na B3, em São Paulo. O leilão teve seis propostas apresentadas.
@@ -24,7 +23,7 @@ De acordo com o governo do estado do Amapá, o objetivo da concessão é que, em
 
 O presidente do Senado, Rodrigo Pacheco, que também estava presente no leilão, considerou o dia histórico. “Estamos falando de saneamento, de algo absolutamente necessário e cujo déficit no Brasil é uma marca vergonhosa. E a correção a partir de um marco legislativo no momento certo, oportuno, para se conferir a irradiação daquilo que é hoje uma energia aqui externada pelo Gustavo Montesano [presidente do BNDES] de que é possível realizar, que é possível servir aos estados, aos municípios, com saneamento básico e com água às pessoas que precisam e que ainda não os têm.”
 
-Estruturado pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES), o projeto recebeu apoio do governo federal por meio do Ministério do Desenvolvimento Regional (MDR) e do Programa de Parcerias de Investimentos (PPI), do Ministério da Economia(ME). 
+Estruturado pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES), o projeto recebeu apoio do governo federal por meio do Ministério do Desenvolvimento Regional (MDR) e do Programa de Parcerias de Investimentos (PPI), do Ministério da Economia(ME).
 
 O ME informou ainda que o valor adicional mínimo de outorga será utilizado como parâmetro de investimento que a concessionária utilizará para aplicação em saneamento rural e urbanização nos municípios, mediante definição do estado.
 
@@ -32,10 +31,6 @@ O ME informou ainda que o valor adicional mínimo de outorga será utilizado com
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

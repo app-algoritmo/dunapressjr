@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Serão destinados R$ 3,2 bilhões para a equalização de juros do Plano Safra, que o Ministério da Agricultura pretende anunciar no dia 15 de junho.
 
 Congresso Nacional aprovou nessa quinta-feira (21), em sessão conjunta virtual, a liberação de crédito suplementar de R$ 343,6 bilhões nos orçamentos Fiscal e da Seguridade Social da União. Desses recursos, R$ 3,2 bilhões serão destinados para a equalização de juros do Plano Safra, que o Ministério da Agricultura pretende anunciar no dia 15 de junho.
 
-“Foi muito importante a aprovação desse projeto, porque retirou o último entrave que estava nos segurando para o anúncio do Plano Safra”, disse o secretário de Política Agrícola do Ministério da Agricultura, Eduardo Sampaio “Agora vamos concluir as medidas a serem submetidas ao Conselho Monetário Nacional, junto com as equipes do Ministério da Economia e do Banco Central”, completou. 
+“Foi muito importante a aprovação desse projeto, porque retirou o último entrave que estava nos segurando para o anúncio do Plano Safra”, disse o secretário de Política Agrícola do Ministério da Agricultura, Eduardo Sampaio “Agora vamos concluir as medidas a serem submetidas ao Conselho Monetário Nacional, junto com as equipes do Ministério da Economia e do Banco Central”, completou.
 
 Outros R$ 741 milhões serão usados para a subvenção ao prêmio do seguro rural em 2020, complementando os recursos previstos para o Programa de Subvenção ao Prêmio do Seguro Rural (PSR), já aprovado no Orçamento em R$ 957 milhões. No primeiro quadrimestre do ano, o Mapa já disponibilizou R$ 200 milhões para o PSR. Esse recurso é utilizado para subvencionar parte dos prêmios do seguro pagos pelo produtor. Graças ao PSR, somente nos anos de 2018 e 2019, as companhias seguradoras indenizaram aos agricultores em R$ 3,5 bilhões em função de problemas de perdas de produção por seca, granizo, chuva excessiva e outras adversidades climáticas.
 
@@ -23,8 +22,6 @@ Também foram previstos R$ 35 milhões para ações de defesa agropecuária, R$ 
 O texto do Projeto de Lei do Congresso Nacional foi aprovado por 74 votos favoráveis no Senado e na Câmara dos Deputados, com 451 favoráveis e um voto contrário. O PLN 8/2020 segue agora para sanção presidencial.
 
 Fonte: portal.mec.gov.br / Imagem em destaque: MAPA
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

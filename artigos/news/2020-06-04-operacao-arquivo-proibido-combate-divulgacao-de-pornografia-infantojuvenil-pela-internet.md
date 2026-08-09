@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Fortaleza/CE – A Polícia Federal deflagrou, nesta quinta-feira (4/6), mais uma fase da Operação Arquivo Proibido, com o objetivo de combater a posse e/ou divulgação de imagens e/ou vídeos de pornografia infantojuvenil pela internet.
 
 Policiais federais cumpriram quatro mandados de busca e apreensão, em Fortaleza e Caucaia, na Região Metropolitana. As ordens judiciais foram expedidas pela Justiça Federal do Ceará. Foram apreendidos aparelhos celulares, HDs e vários cartões de memória.
@@ -24,5 +23,3 @@ Hoje, 4 de junho, é o Dia Mundial das Crianças Vítimas de Agressão, institu�
 Na terça-feira, 02/06, a PF cumpriu um Mandado de Prisão expedido pela 11ª Vara da Justiça Federal, com a captura de um homem, 42 anos, condenado pelo crime de armazenamento e divulgação de pornografia infantojuvenil.
 
 Comunicação Social da Polícia Federal no Ceará
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

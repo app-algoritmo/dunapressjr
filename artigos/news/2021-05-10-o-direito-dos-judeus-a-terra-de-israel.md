@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## As pessoas cuja nação foi destruída pelos romanos eram os judeus. Na época, não havia palestinos árabes - não até 700 anos depois. Op-ed.
 
 **Eventos que levaram à Declaração Balfour**
@@ -106,7 +105,6 @@ Os povos que conquistaram sob a bandeira dos invasores árabes vindos do deserto
 
 A partir do momento em que os árabes, junto com seus recrutas não árabes, entraram na Palestina e na Síria, eles se encontraram e se somaram ao que era "etnologicamente um caos de todas as combinações humanas possíveis às quais, quando a Palestina se tornou uma terra de peregrinação, um novo mistura foi adicionada. " (Richard Hartman, *Palestina unter den Araben, 632-1516* , Leipzig, 1915. Citado por El Haas, *History* , p 147.)
 
-**
 Entre aqueles que foram chamados de "árabes palestinos indígenas" estão sírios, egípcios, turcos, armênios, persas, curdos, samaritanos e outros.
 **Entre os povos considerados "árabes palestinos indígenas" estão os Bálcãs, gregos, sírios, latinos, egípcios, turcos, armênios, italianos, persas, curdos, alemães, afegãos, circassianos, bósnios, sudaneses, samaritanos, argelinos e tártaros.
 
@@ -173,7 +171,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

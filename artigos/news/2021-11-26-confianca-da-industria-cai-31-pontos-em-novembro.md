@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É a quarta queda consecutiva do indicador.
 
 O Índice de Confiança da Indústria, medido pela Fundação Getulio Vargas (FGV), recuou 3,1 pontos de outubro para novembro deste ano e chegou a 102,1 pontos em uma escala de zero a 200. Com essa, que foi a quarta queda consecutiva, o indicador atingiu o menor nível desde agosto de 2020 (98,7 pontos).
@@ -20,10 +19,6 @@ O Índice de Expectativas, que mede a confiança dos empresários no futuro, cai
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

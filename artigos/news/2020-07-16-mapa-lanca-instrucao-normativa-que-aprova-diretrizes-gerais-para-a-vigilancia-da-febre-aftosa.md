@@ -8,14 +8,13 @@ categories:
 - News
 ---
 
-
 ## A norma faz uma atualização dos atos normativos aos novos conceitos internacionais, prevista no cronograma do Pnefa para o avanço do status sanitário do país para livre de febre aftosa sem vacinação.
 
 O Ministério da Agricultura, Pecuária e Abastecimento (Mapa) publicou nesta quarta-feira (15), no Diário Oficial da União, a [Instrução Normativa Nº 48](http://www.in.gov.br/en/web/dou/-/instrucao-normativa-n-48-de-14-de-julho-de-2020-266804871) que aprova as diretrizes gerais para a vigilância da febre aftosa com vistas à execução do Programa Nacional de Vigilância para a Febre Aftosa (Pnefa), conforme estabelecido pelo Sistema Unificado de Atenção à Sanidade Agropecuária (Suasa).
 
 Trata-se de uma atualização dos atos normativos aos novos conceitos internacionais, prevista no cronograma do Pnefa para o avanço do status sanitário do país para livre de febre aftosa sem vacinação, segundo diretrizes da Organização Mundial da Saúde Animal (OIE).
 
-Entre as principais mudanças estão a permissão do ingresso de animais vacinados destinados para abate e exportação em zonas livres sem vacinação e a permissão do retorno de animal originário de zona livre sem vacinação, para participação em feiras ou centrais de inseminação localizadas em zona livre com vacinação. A norma traz a adequação do trânsito de produtos de origem animal entre as zonas livres, ficando vedada apenas o trânsito de cabeça, língua, faringe e linfonodos associados de zonas livres com vacinação para zonas livres sem vacinação.  
+Entre as principais mudanças estão a permissão do ingresso de animais vacinados destinados para abate e exportação em zonas livres sem vacinação e a permissão do retorno de animal originário de zona livre sem vacinação, para participação em feiras ou centrais de inseminação localizadas em zona livre com vacinação. A norma traz a adequação do trânsito de produtos de origem animal entre as zonas livres, ficando vedada apenas o trânsito de cabeça, língua, faringe e linfonodos associados de zonas livres com vacinação para zonas livres sem vacinação.
 
 A IN também prevê a obrigatoriedade da atualização cadastral do rebanho pecuário pelo produtor, pelo menos uma vez por ano e a obrigatoriedade de cadastro dos transportadores de animais junto ao Serviço Veterinário Oficial (SVO).
 
@@ -29,7 +28,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

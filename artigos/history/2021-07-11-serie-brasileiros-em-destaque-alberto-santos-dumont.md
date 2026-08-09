@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Profissão: Inventor.
 
 Área do Conhecimento: Engenharias
@@ -16,11 +15,11 @@ Biografia: Alberto Santos Dumont (1873-1932) foi um inventor brasileiro, recebeu
 
 O  primeiro Balão, O "n.º 1", foi chamado também de “Brasil”, no dia 20 de setembro de 1898, o balão subiu aos céus, atingindo 400 metros de altura, e retornanou ao mesmo ponto de partida. Santos Dumont construiu diversos balões, entre eles o de  "n.º 3" com motor movido a gasolina.
 
-Em 1900, Santos Dumont aceitou o desafio que consistia em contornar a Torre Eiffel e voltar ao ponto de partida, o Campo de Saint-Cloud, em 30 minutos. O vencedor ganharia 100.000 francos. Após várias tentativas com cinco dispositivos – incluindo o dirigível "n.º 5", cujo voo terminou em um acidente que quase lhe tirou a vida, Dumont cumpriu a missão de dar a volta à Torre Eiffel com o Balão "n.º 6". e com isso ganhou o Prêmio Dustche. 
+Em 1900, Santos Dumont aceitou o desafio que consistia em contornar a Torre Eiffel e voltar ao ponto de partida, o Campo de Saint-Cloud, em 30 minutos. O vencedor ganharia 100.000 francos. Após várias tentativas com cinco dispositivos – incluindo o dirigível "n.º 5", cujo voo terminou em um acidente que quase lhe tirou a vida, Dumont cumpriu a missão de dar a volta à Torre Eiffel com o Balão "n.º 6". e com isso ganhou o Prêmio Dustche.
 
 Contudo, Santos Dumont não ficou com o prêmio, metade foi doada aos seus mecânicos e auxiliares e a outra metade, deu aos mais necessitados. O balão "n.º7", que foi projetado para corrida, nunca chegou a competir, pois não tinha concorrente. O "n.º 8" não existiu. Com o "n.º 9", Dumont começou a transportar pessoas nos voos que fazia. Uma de suas passageiras foi a cubana Aída de Acosta, que se tornou a primeira mulher no mundo a voar. De tanto cruzar os céus de Paris com o "n.º 9", recebeu o apelido de "Le Petit Santos". O "n.º 10", maior que os outros, foi denominado "um dirigível ônibus", pelo próprio Santos Dumont.
 
-Com o "14 Bis", sua mais famosa invenção, o brasileiro cumpriu alguns desafios em exibições públicas nos arredores de Paris. O nome do avião veio do uso do balão 14, uma referência para uma "aeronave mais pesada que o ar".  No dia 23 de outubro de 1906, realizou um voo de 60 metros. O segundo desafio se deu no dia 12 de novembro de 1906, quando o "14 Bis", com um motor de 50 cavalos de potência, partiu do Parque de Bagatelle e subiu a uma altura de 6 metros, percorrendo 220 metros. Em 1908, Santos Dumont construiu o "Demoiselle"; tudo nela era obra de Dumont, inclusive o motor. Em 1910, na primeira exposição da Aeronáutica realizada no Grand Palais de Paris, o "Demoiselle" foi um sucesso. Em 1910, fez seu último voo com o Demoiselle, após sofrer um grave acidente. Nesse mesmo ano, abandonou seus experimentos com aeronaves e passou a enfrentar problemas de saúde e sofrimento pela falta de reconhecimento e inserção social, dificuldade financeira diante da crise econômica mundial e desgosto com o mau uso de suas invenções, sobretudo durante a guerra. 
+Com o "14 Bis", sua mais famosa invenção, o brasileiro cumpriu alguns desafios em exibições públicas nos arredores de Paris. O nome do avião veio do uso do balão 14, uma referência para uma "aeronave mais pesada que o ar".  No dia 23 de outubro de 1906, realizou um voo de 60 metros. O segundo desafio se deu no dia 12 de novembro de 1906, quando o "14 Bis", com um motor de 50 cavalos de potência, partiu do Parque de Bagatelle e subiu a uma altura de 6 metros, percorrendo 220 metros. Em 1908, Santos Dumont construiu o "Demoiselle"; tudo nela era obra de Dumont, inclusive o motor. Em 1910, na primeira exposição da Aeronáutica realizada no Grand Palais de Paris, o "Demoiselle" foi um sucesso. Em 1910, fez seu último voo com o Demoiselle, após sofrer um grave acidente. Nesse mesmo ano, abandonou seus experimentos com aeronaves e passou a enfrentar problemas de saúde e sofrimento pela falta de reconhecimento e inserção social, dificuldade financeira diante da crise econômica mundial e desgosto com o mau uso de suas invenções, sobretudo durante a guerra.
 
 Com esclerose múltipla e depressão, Santos Dumont  suicidou-se em um hotel no Guarujá, São Paulo, no dia 23 de julho de 1932, enforcando-se com uma gravata. Para não manchar a imagem de Dumont, o governo divulgou que ele teria sofrido um infarto. Dumont deixou dois livros: "Dans-L'air" (1904) e "O que Vi e o que Nós Veremos" (1918).
 
@@ -60,9 +59,9 @@ Membro da Academia de Ciências
 
 Possuidor de uma cadeira na Academia Brasileira de Letras
 
-Obras: 
+Obras:
 
-Livros: "Dans-L'air" (1904) 
+Livros: "Dans-L'air" (1904)
 
 "O que Vi e o que Nós Veremos" (1918).
 
@@ -77,7 +76,3 @@ Fonte: canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

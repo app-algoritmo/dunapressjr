@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A primeira cultura é o milho, as reuniões serão realizadas por teleconferência.
 
 Onze culturas que fazem parte do Zoneamento Agrícola de Risco Climático (Zarc) serão revisadas em 2020 pela Embrapa Informática Agropecuária e o Departamento de Gestão de Riscos do Ministério da Agricultura, Pecuária e Abastecimento (Mapa), através de um convênio com o Banco Central do Brasil, que possibilitou a ampliação das pesquisas até 2021.
@@ -16,17 +15,17 @@ Antes da publicação de portaria no Diário Oficial da União, os resultados pr
 
 Durante a validação externa dos resultados,a primeira versão do estudo é apresentada e discutida com representantes dos produtores, técnicos, extensionistas, pesquisadores, seguradoras, agentes financeiros, cooperativas e poder públicos. Os especialistas verificam se os resultados extraídos do modelo agrometeorológico estão condizentes com a realidade do sistema produtivo de cada região.
 
-“Nas reuniões de validação, a Embrapa internaliza as sugestões para posterior avaliação, antes de enviar os resultados finais do zoneamento ao Mapa, que serão publicados no Diário Oficial e disponibilizados no aplicativo Plantio Certo”, explica o Coordenador-geral no Departamento de Gestão de Riscos, Hugo Borges. 
+“Nas reuniões de validação, a Embrapa internaliza as sugestões para posterior avaliação, antes de enviar os resultados finais do zoneamento ao Mapa, que serão publicados no Diário Oficial e disponibilizados no aplicativo Plantio Certo”, explica o Coordenador-geral no Departamento de Gestão de Riscos, Hugo Borges.
 
 O Ministério já alertou, [em nota divulgada em janeiro](https://www.gov.br/agricultura/pt-br/assuntos/noticias/governo-federal-afasta-prorrogacao-do-zarc), que demandas intempestivas de alterações no Zarc, quanto aos resultados divulgados no Diário Oficial da União, só serão avaliadas em safras posteriores, pois é necessário elaborar estudos com antecedência para análise de mudanças.
 
 Segundo Eduardo Monteiro, Chefe de pesquisa do Zarc da Embrapa, as validações ocorrem somente para as culturas cujos estudos serão atualizados pela Embrapa neste ano de 2020. São elas: milho 1ª safra, milho 2ª safra, mamona, sorgo, milheto, cevada, aveia, caju, citros, arroz irrigado e melancia. O primeiro cronograma a ser divulgado é do milho 1ª, depois do milho de 2ª safra e será atualizado assim que novas reuniões forem marcadas”, explica.
 
-Para os interessados participar das reuniões, é necessário enviar mensagem por e-mail para: [zoneamento@agricultura.gov.br](mailto:zoneamento@agricultura.gov.br), informando dados como nome completo, profissão, empresa, em qual estado reside e quais as culturas. 
+Para os interessados participar das reuniões, é necessário enviar mensagem por e-mail para: [zoneamento@agricultura.gov.br](mailto:zoneamento@agricultura.gov.br), informando dados como nome completo, profissão, empresa, em qual estado reside e quais as culturas.
 
 **[Confira o calendário de culturas que serão revisadas em 2020](https://www.gov.br/agricultura/pt-br/assuntos/noticias/cronograma-de-pesquisas-de-zoneamento-agricola-sera-mantido)**
 
-**Zarc** 
+**Zarc**
 
 O zoneamento agrícola tem o objetivo de reduzir os riscos relacionados aos problemas climáticos e permite ao produtor identificar a melhor época para plantar, levando em conta a região do país, a cultura e os diferentes tipos de solos.
 
@@ -59,8 +58,6 @@ O PNPV/Foc R4T será coordenado pelo Departamento de Sanidade Vegetal e Insumos 
 A Organização das Nações Unidas para Agricultura e Alimentação (FAO) declarou 2020 como o Ano Internacional das Nações Unidas para a Saúde Vegetal, com objetivo de conscientizar a sociedade sobre a necessidade de proteger a sanidade das plantas. A cada ano, até 40% das culturas alimentares em todo o mundo são perdidas devido a ameaça de pragas e doenças, causando perdas econômicas e prejudicando gravemente a produção agrícola.
 
 Fonte: gov.br / Imagem em destaque: ionics
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

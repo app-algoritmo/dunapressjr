@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Tema será discutido em fórum no dia 26 deste mês.
 
 Medicamentos, biocombustíveis, cosméticos, tecidos, fibras de vidro. A biodiversidade aliada à tecnologia de ponta oferece possibilidades de produção sustentável. Essa é a promessa da bioeconomia, e o Brasil tem a vantagem de ter 20% da biodiversidade do planeta.
@@ -33,5 +32,3 @@ Para a CNI, o avanço da bioeconomia depende também de aperfeiçoamentos no sis
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Mercado ficou atento ante à possibilidade de cortes na Selic.
 
 O dólar fechou em alta contra o real pelo sexto pregão consecutivo nesta quarta-feira(16), puxado pela força da moeda no exterior e por aumento de expectativas de que o Banco Central deixaria a porta aberta para mais cortes da Selic.
@@ -28,4 +27,4 @@ Na B3, o dólar futuro avançava 0,16%, a R$ 5,2570, às 17h12.
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal](https://dunapress.org/?aff=joabsonjoao)**.**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal](https://dunapress.org/)**.**

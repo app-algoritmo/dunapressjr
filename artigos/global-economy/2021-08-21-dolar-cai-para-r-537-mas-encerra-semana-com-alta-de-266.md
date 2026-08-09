@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa subiu nesta sexta, mas perdeu 2,59% nos últimos dias.
 
 Num dia de trégua no mercado financeiro, o dólar caiu e a bolsa subiu, influenciados principalmente pelo alívio nos mercados internacionais. Mesmo assim, o dólar encerrou a semana com a maior valorização acumulada em mais de um mês. A bolsa teve o maior recuo semanal desde o início de agosto.
@@ -26,10 +25,6 @@ No mercado internacional, houve um ajuste depois dos últimos dias. Diminuíram 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## A divisa está no menor valor de fechamento desde 9 de outubro.
 
 O ambiente externo positivo criado pela apuração dos resultados das eleições nos Estados Unidos fez o dólar ter mais uma forte queda e fechar no menor valor em quase um mês. A bolsa de valores voltou a superar os 100 mil pontos no terceiro dia seguido de alta.
@@ -24,10 +23,8 @@ O índice Dow Jones, das empresas industriais, subiu 1,95%, o S&P 500, das 30 ma
 
 A manutenção de um Congresso dividido foi bem recebida pelo mercado financeiro norte-americano. Isso porque a manutenção da maioria republicana no Senado forçaria Joe Biden, se eleito, a adotar uma política moderada.
 
-A decisão do Federal Reserve, Banco Central norte-americano, de manter os juros básicos entre 0% e 0,25% ao ano também animou os mercados por representar um sinal de que a autoridade monetária está comprometida em socorrer a economia dos Estados Unidos em meio ao repique de casos de covid-19 no país. 
+A decisão do Federal Reserve, Banco Central norte-americano, de manter os juros básicos entre 0% e 0,25% ao ano também animou os mercados por representar um sinal de que a autoridade monetária está comprometida em socorrer a economia dos Estados Unidos em meio ao repique de casos de covid-19 no país.
 
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Nazanin Tabatabaee/West Asia News Agency
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

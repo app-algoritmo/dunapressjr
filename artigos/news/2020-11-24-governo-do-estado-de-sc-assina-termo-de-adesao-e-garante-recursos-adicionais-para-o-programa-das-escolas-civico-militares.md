@@ -8,12 +8,11 @@ categories:
 - News
 ---
 
-
 A Escola de Educação Básica Irene Stonoga, de Chapecó, receberá recursos adicionais do Governo Federal para adequar a unidade ao modelo das unidades cívico-militares. Com esse acréscimo, o investimento federal na escola será de R$ 652 mil, com recursos repassados pelo Plano de Ações Articuladas (PAR), a partir do Fundo Nacional de Desenvolvimento da Educação (FNDE).
 
 A governadora Daniela Reinehr também assinou o termo de adesão de Santa Catarina ao Programa Nacional das Escolas Cívico-Militares. O documento inclui outras duas escolas cívico-Militares na rede estadual catarinense: a EEB Emérita Duarte Silva e Souza, em Biguaçu, e a EEB Professor Ângelo Cascaes Tancredo, em Palhoça.
 
-“A assinatura deste documento junto ao MEC, algo que era aguardado para formalizar a adesão de Santa Catarina ao modelo cívico-militar, é mais um passo para continuarmos investindo nessa modalidade e na formação educacional, ética e moral dos nossos estudantes”, destacou a governadora Daniela Reinehr. 
+“A assinatura deste documento junto ao MEC, algo que era aguardado para formalizar a adesão de Santa Catarina ao modelo cívico-militar, é mais um passo para continuarmos investindo nessa modalidade e na formação educacional, ética e moral dos nossos estudantes”, destacou a governadora Daniela Reinehr.
 
 A partir deste ano, essas três unidades da rede estadual estão se adequando ao modelo das escolas cívico-militares. Com a adesão, a unidade de ensino tem apoio de militares na gestão e em atividades cotidianas para que a equipe pedagógica possa se dedicar ao processo de ensino.
 
@@ -31,7 +30,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

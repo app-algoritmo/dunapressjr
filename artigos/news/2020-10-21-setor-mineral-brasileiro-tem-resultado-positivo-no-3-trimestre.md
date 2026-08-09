@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No acumulado do ano, a indústria da mineração faturou R$ 126 bilhões.
 
 O desempenho da indústria mineral brasileira, no terceiro trimestre do ano, apontou para diversos avanços em indicadores. Houve aumento em atração de novos investimentos, exportação, faturamento, recolhimento de *royalties* e tributos, redução das importações e geração de empregos.
@@ -23,5 +22,3 @@ No acumulado do ano – nos três trimestres –, a indústria da mineração fa
 Fonte: Agência Brasil – Imagem de destaque: brasil.gov.br/Ricardo Teles
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

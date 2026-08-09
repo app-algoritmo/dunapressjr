@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 A natureza é repleta de características, cores e comportamentos que instigam a curiosidade das pessoas. Um desses traços é a habilidade que alguns seres vivos têm de imitar outras espécies, como mímicos – um recurso de defesa em meio a predadores. Este fenômeno é conhecido como mimetismo, uma estratégia evolutiva que faz com que estes animais, ou até mesmo plantas, tenham alguma vantagem ao longo de suas gerações.
 
 A curadora da Coleção Entomológica do Instituto Butantan, Dra. Flávia Virginio, explica que estes seres vivos podem mimetizar de diferentes maneiras. “No caso dos insetos, por exemplo, alguns grupos imitam características morfológicas de outros seres vivos, seja vegetal como uma folha, que vai lhe ajudar a se camuflar, ou como um outro inseto que tenha um gosto ruim para seu predador”, diz a curadora.
@@ -45,7 +44,3 @@ Fonte: https://butantan.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

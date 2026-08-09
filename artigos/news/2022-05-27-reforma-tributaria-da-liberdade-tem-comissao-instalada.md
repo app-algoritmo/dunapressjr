@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Proposta de Alinhamento Tributário descentraliza e reduz custo de produção e serviços.
 
 Uma nova opção de Reforma Tributária foi apresentada ao Congresso Nacional e será objeto de discussão a partir desta terça-feira, dia 24 de maio. O presidente da Câmara, Arthur Lira, autorizou a formação de comissão e se aprovada segue os trâmites para o plenário. 
@@ -28,7 +27,3 @@ Daniel Santana: 61 9593-4325
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

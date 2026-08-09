@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Em uma manifestação pró-palestina e pró-Black Lives Matter no Brooklyn nesta semana, os participantes pediram a eliminação do estado judeu, bem como a eliminação dos Estados Unidos, cantando vários slogans, incluindo "Morte a Israel", "Morte à América e" de Gaza a Minnesota, globalize a Intifada! "
 
 Dizem que várias centenas de pessoas participaram deste comício, que ocorreu em 1º de julho, um evento organizado como parte de um "Dia da Raiva" para responder ao plano israelense de anexar certas partes da Cisjordânia. . O primeiro-ministro israelense, Benjamin Netanyahu, disse originalmente que iniciaria o projeto nessa data - mas a iniciativa foi adiada em meio a incertezas sobre sua real implementação.
@@ -45,6 +44,6 @@ Fonte The Time Of Israel
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

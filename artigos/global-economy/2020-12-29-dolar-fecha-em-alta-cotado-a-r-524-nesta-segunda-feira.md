@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Ibovespa subiu 1,12% impulsionado pelo cenário norte-americano.
 
 O dólar começou a última semana do ano em alta, chegando a saltar mais de 2% no pior momento desta segunda-feira (28), o que chamou o Banco Central (BC) ao mercado, num contexto de forte pressão compradora de moeda em meio a saídas de recursos e à expectativa de robusto ajuste de posições na virada do ano.
@@ -38,8 +37,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

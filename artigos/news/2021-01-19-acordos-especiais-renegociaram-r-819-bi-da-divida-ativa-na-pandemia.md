@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Mais de 268 mil parcelamentos foram fechados em oito meses.
 
 Criados para socorrerem contribuintes em dificuldade por causa da pandemia de covid-19, os parcelamentos especiais renegociaram R$ 81,9 bilhões inscritos na dívida ativa da União. De abril a dezembro do ano passado, 268,2 mil acordos de transação excepcional – como é chamado esse tipo de renegociação – foram fechados.
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

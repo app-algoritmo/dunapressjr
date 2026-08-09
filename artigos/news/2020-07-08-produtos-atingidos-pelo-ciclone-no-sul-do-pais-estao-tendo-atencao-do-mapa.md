@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Representantes do Mapa estiveram na região para fazer um levantamento das perdas sofridas na produção agrícola, especialmente na cultura de banana.
 
 A ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina, se reuniu nesta terça-feira (7), por videoconferência, com parlamentares e prefeitos de Santa Catarina para debater possíveis soluções para produtores rurais atingidos pelo ciclone dos últimos dias. Representantes do Mapa estiveram na região para fazer um levantamento das perdas sofridas na produção agrícola, especialmente na cultura de banana.
@@ -26,7 +25,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

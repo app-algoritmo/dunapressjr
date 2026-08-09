@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Na última divulgação do ano, indicador variou 1,07%.
 
 O Índice de Preços ao Consumidor – Semanal (IPC-S), de 31 de dezembro de 2020, variou 1,07%, ficando 0,14 ponto percentual abaixo da taxa registrada na semana anterior. No ano, o indicador acumulou alta de 5,17%. Os dados foram divulgados hoje (4), no Rio de Janeiro, pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV Ibre).
 
-A apuração de preços - feita entre 1º e 31 de dezembro - registrou decréscimo em suas taxas de variação em quatro das oito classes de despesa que compõem o índice. 
+A apuração de preços - feita entre 1º e 31 de dezembro - registrou decréscimo em suas taxas de variação em quatro das oito classes de despesa que compõem o índice.
 
 O grupo educação, leitura e recreação deu a maior contribuição para a queda semanal, variando de 2,19% para -0,58%, com destaque para o item passagem aérea, que passou de 9,62% para -9,49%.
 
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

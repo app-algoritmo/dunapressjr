@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O que é a pesquisa?
 
 O sistema de asteroides 2001SN263 foi descoberto em fevereiro de 2008. Ele é composto por três corpos: um central (α), de maior [massa](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-exatas-e-da-terra/335-manobras-espaciais-para-alcancar-e-explorar-um-asteroide-triplo#), e dois secundários (β e γ), estando esses dois sob influência da [força da gravidade](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-exatas-e-da-terra/335-manobras-espaciais-para-alcancar-e-explorar-um-asteroide-triplo#) do asteroide central. O trabalho desenvolvido pelos pesquisadores Jorge Kennety Formiga, do Instituto de Ciências e Tecnologia de São José dos Campos (Unesp/ICT), Denilson Paulo dos Santos, da Universidade Paulista de São João da Boa Vista (Unesp/SJBV), e Antônio de Almeida Prado, do Instituto Nacional de Pesquisas Espaciais (Inpe), avaliou a possibilidade de enviar um satélite da Terra para encontrar o sistema. Para isso, levou em conta a capacidade de utilizar a gravidade daqueles corpos para definir a rota do equipamento lançado. Além disso, foram analisados dois modelos matemáticos, um mais simplificado e outro mais realista, a fim de comparar a precisão de ambos.
@@ -59,7 +58,3 @@ Fonte:  https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

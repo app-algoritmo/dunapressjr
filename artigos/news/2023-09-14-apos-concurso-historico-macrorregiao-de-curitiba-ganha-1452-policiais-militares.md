@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Entre os novos formandos, 1.050 foram destacados para atuar no 1º e no 6º Comando Regional da Polícia Militar (CRPM), que abrangem a Capital, a Região Metropolitana e o Litoral do Estado. Os outros 402 soldados vão reforçar o trabalho do 4º CRPM, que atende os municípios dos Campos Gerais, Centro, Centro-Sul e Sul do Estado.
 
 Mais 2.482 policiais militares passam a reforçar a segurança pública em todo o Paraná nesta semana, na maior contratação da história da corporação. O governador Carlos Massa Ratinho Junior participou nesta terça-feira (12), em Curitiba, da primeira de quatro formaturas que acontecem em diferentes cidades do Estado. Na cerimônia na Ligga Arena, em Curitiba, 1.452 novos soldados se formaram e estão prontos para atuar nas ruas no combate à criminalidade.
@@ -24,13 +23,9 @@ De acordo com o governador, o reforço da Polícia Militar faz parte de um grand
 
 "Somos a corporação que protege a população em uma emaranhada teia de diferentes relações sociais. A sociedade demonstra muito respeito por essa atividade. A Polícia Militar está recebendo grandes investimentos, o que traduz a seriedade com que essa área é tratada no Estado. Agora vamos alocar esses profissionais nas cidades para gerar mais tranquilidade aos paranaenses", disse o coronel Jefferson Silva, comandante-geral da Polícia Militar. “Com o concurso vamos reabrir postos de trabalho em 94 municípios que antes compartilhavam policiais com outras cidades".
 
-- 
-
-**MULHERES NA PM **– Entre o novo contingente da Polícia Militar, quase um quinto é de mulheres (18,8%), o maior ingresso desse público de uma só vez. São 467 novas policiais reforçando as fileiras da segurança pública do Paraná. A formatura desta terça reuniu 459 policiais do sexo feminino. 
+**MULHERES NA PM **– Entre o novo contingente da Polícia Militar, quase um quinto é de mulheres (18,8%), o maior ingresso desse público de uma só vez. São 467 novas policiais reforçando as fileiras da segurança pública do Paraná. A formatura desta terça reuniu 459 policiais do sexo feminino.
 
 O grande número de mulheres que participou da formação para a Polícia Militar repete o que já tinha ocorrido no Corpo de Bombeiros, que teve a [maior contratação feminina de sua história](https://www.aen.pr.gov.br/Noticia/Com-formacao-ampla-bombeiros-do-Parana-estao-preparados-para-atuar-em-todos-os-cenarios). Na formatura realizada em maio deste ano, 47 mulheres se graduaram, 11% do efetivo que concluiu a formação, que contou com 419 formandos.
-
-- 
 
 **FORMANDOS ANIMADOS** – O formandos demonstraram grande animação com esse novo momento. Samira Azar, 32 anos, disse que há alguns anos batalhava por esse momento. Ela é natural de Brasília (Distrito Federal). "Fiz concurso em vários estados e gostei de Curitiba, do Paraná. Agora chegamos ao fim e ao começo de uma nova jornada. E agora sou parte da família da PMPR", disse.
 
@@ -44,9 +39,7 @@ O secretário de Segurança Pública, Hudson Teixeira, destacou a excelência da
 
 O coronel Roberto Francisco Cardoso, diretor de Ensino e Pesquisa da Polícia Militar do Paraná e responsável pelas novas turmas, disse que o Estado terá ótimos profissionais. "O processo de formação é bastante amplo. Foi feito um concurso bastante concorrido, com candidatos do Brasil todo, passando inclusive pela pandemia. E no início de agosto tivemos o início do Curso de Formação, com técnicas policiais, legislação, noções de Direito, de sociedade. Depois eles passaram pelo estágio operacional. Foi mais de um ano de formação aos sábados, domingos, feriados, dia e noite para formar alunos bem completos", disse.
 
-- 
-
-[](https://www.aen.pr.gov.br/Galeria-de-Imagens/FORMATURA-POLICIAIS#&gid=1&pid=2)Formatura aconteceu na Ligga Arena e reuniu milhares de familiares. Foto: Roberto Dziura Jr./AEN
+Formatura aconteceu na Ligga Arena e reuniu milhares de familiares. Foto: Roberto Dziura Jr./AEN
 
 **FORMATURAS **– Além de Curitiba, outras três cidades recebem a cerimônia de formatura dos novos policiais nesta semana. Em Londrina, 371 soldados se formam na quarta-feira (13) e vão reforçar o efetivo do 2º CRPM, que atende todo o Norte e o Norte Pioneiro do Estado. Na quinta-feira (14), acontece a formatura de 356 soldados em Maringá. Eles vão incrementar o efetivo do 3º CRPM, que abrange as regiões Noroeste e Centro-Oeste. Por fim, em Cascavel, a cerimônia será na sexta-feira (15), com a formação de 328 soldados para atuar no 5º CRPM, compreendendo o Oeste e o Sudoeste do Paraná.
 

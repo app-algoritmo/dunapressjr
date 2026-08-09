@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O convênio estabelece regras para o compartilhamento de informações com sigilo fiscal, pela Receita Federal ao TCU, em conformidade com as disposições legais e constitucionais.
 
 Nessa segunda-feira, dia 23 de novembro de 2020, o Secretário Especial da Receita Federal do Brasil, Jose Barroso Tostes Neto, e o Presidente do Tribunal de Contas da União, José Mucio Monteiro Filho, reuniram-se na unidade sede do TCU, em Brasília, para assinatura do convênio de compartilhamento de informações protegidas por sigilo fiscal, pela Receita Federal ao TCU.
@@ -33,5 +32,3 @@ Fonte: Receita Federal
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

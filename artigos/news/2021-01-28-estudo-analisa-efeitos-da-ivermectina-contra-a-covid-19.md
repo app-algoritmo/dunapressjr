@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Pesquisa da Universidade Federal de Sergipe (UFS) pretende determinar o efeito da Ivermectina na prevenção de manifestação clínica da infecção causada pelo SARS-CoV-2 em pacientes ambulatoriais infectados. O estudo foi aprovado pelo [Edital nº11/2020](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/capes-farmacos-e-imunologia-edital-n-11-2020), do Programa de Combate a Epidemias da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), vinculada ao Ministério da Educação (MEC).
 
 Adriano Araújo, diretor do Centro de Ciências Biológicas e da Saúde da UFS (CCBS/UFS), responde pelo projeto. Ele explicou que a Ivermectina é um “agente antiparasitário que tem sido investigado e utilizado como potencial candidato ao tratamento antiviral da COVID-19, por ter apresentado – em estudo *in vitro* – expressiva redução da carga viral do SARS-CoV-2, vírus responsável pela doença”.
@@ -38,7 +37,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

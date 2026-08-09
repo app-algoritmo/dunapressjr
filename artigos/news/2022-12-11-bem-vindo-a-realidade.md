@@ -26,5 +26,3 @@ Lembre-se pelo que está lutando e nunca se esqueça de que a zona de conforto �
 A “sorte” é o refúgio derradeiro daqueles que acham que o sucesso ocorre por acaso. Por outro lado, o suor é para aqueles que sabem que o sucesso é uma escolha, uma combinação entre inteligência e constância. Então decida-se agora, pois o destino não costuma esperar. Cada vez que seu momento chegar, aquelas vozes de autovitimismo lhe dirão que você pode dormir um pouco mais, distrair-se um pouco mais, descuidar-se um pouco mais. Invés de ouvi-las, preste atenção à voz interior que diz: “você está pronto e depende apenas de você agora!”, porque foi assim desde o início em 99% das vezes.
 
 ## Seja bem-vindo à realidade.
-
-[](https://t.me/AlessandroLoiola)

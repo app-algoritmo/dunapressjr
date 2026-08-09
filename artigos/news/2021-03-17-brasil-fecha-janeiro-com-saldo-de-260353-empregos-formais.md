@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Trata-se do melhor resultado para o mês da série histórica.
 
 O Brasil fechou o mês de janeiro de 2021 com um saldo de 260.353 empregos formais, segundo balanço do Cadastro Geral de Empregados e Desempregados (Caged) apresentado nesta terça-feira (16) pelo Ministério da Economia. O saldo é o melhor da série histórica para o mês de janeiro e é resultado de 1.527.083 admissões e 1.266.730 desligamentos. O número também é maior do que o [**registrado em dezembro**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-01/Caged-brasil-encerra-2020-com-geracao-de-142690-empregos-formais) de 2020, quando a geração de empregos ficou em 142.690 postos de trabalho.
@@ -54,8 +53,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

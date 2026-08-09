@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Produção de suínos teve recorde para o período.
 
 Os dados da produção animal no Brasil indicam que no primeiro trimestre deste ano o abate de frangos recuou 1,7%, enquanto o de bovinos aumentou 5,5% e o de suínos teve alta de 7,2%, na comparação com o mesmo período de 2021. As informações são da Estatística da Produção Pecuária, divulgada nesta quarta-feira (8) pelo Instituto Brasileiro de Geografia e Estatística (IBGE)
@@ -52,8 +51,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

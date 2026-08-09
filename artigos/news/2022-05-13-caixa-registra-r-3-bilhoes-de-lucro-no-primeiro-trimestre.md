@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Valor é 3,8% menor do que o do mesmo período de 2021.
 
 A Caixa Econômica Federal registrou lucro líquido de R$ 3 bilhões no primeiro trimestre deste ano, uma queda de 3,8% na comparação com o mesmo período do ano passado, quando o lucro foi de R$ 3,16 bilhões. As informações foram apresentadas em balanço do banco público divulgado nesta quinta-feira (12).
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

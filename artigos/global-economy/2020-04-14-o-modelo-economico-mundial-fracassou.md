@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Desde o início do século passado nossa economia vem mostrando fragilidade e que não atinge a todos em termos de renda, alimentação, moradia, emprego, estudo, entre outros fatores. Não fornece todo o essencial para todos.
 
 Nosso sistema econômico baseado no materialismo, lucro e mais lucro sem pensar em bem estar social, família, bem geral, bem estar psicológico individual, que preza pela especulação, endividamento, consumismo, tomar mais e mais mercado sem pretexto de convicção e motivo fundamental do conceito, entre outras características, demonstra que não conseguirá o bem estar de todos, repito, todos mesmo, 100% das pessoas e sociedades.
@@ -28,7 +27,7 @@ Chegou a hora de evoluirmos, inclusive economicamente. Todos merecem e podem ent
 
 Fonte da imagem
 
-[https://meukumbu.net/14-metodos-pouco-conhecidos-para-economizar-dinheiro-durante-a-semana-e-evitar-o-fracasso/](https://meukumbu.net/14-metodos-pouco-conhecidos-para-economizar-dinheiro-durante-a-semana-e-evitar-o-fracasso/) 
+[https://meukumbu.net/14-metodos-pouco-conhecidos-para-economizar-dinheiro-durante-a-semana-e-evitar-o-fracasso/](https://meukumbu.net/14-metodos-pouco-conhecidos-para-economizar-dinheiro-durante-a-semana-e-evitar-o-fracasso/)
 
 Olá amigos. Ajude-nos a levar o jornalismo independente a todas as partes!
 
@@ -38,4 +37,4 @@ Em uma época em que notícias falsas e distorcidas estão em todas as partes, s
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com, com artigos, informações gerais e cursos que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-[https://dunapress.org/subscription-plan/?ref=Leonardo](https://dunapress.org/subscription-plan/?ref=Leonardo)
+[https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)

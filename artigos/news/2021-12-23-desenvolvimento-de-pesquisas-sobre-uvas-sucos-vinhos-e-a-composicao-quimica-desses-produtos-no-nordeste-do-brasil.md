@@ -8,12 +8,11 @@ categories:
 - News
 ---
 
-
 As pesquisas sobre uvas, vinhos e química têm permitido o avanço do conhecimento na área de Viticultura e Enologia. Os estudos em desenvolvimento, sobre os sucos e os vinhos elaborados em condições climáticas tropicais do Brasil, têm possibilitado obter resultados que podem trazer benefícios para a comunidade científica brasileira e internacional, bem como, e principalmente, para o setor vitivinícola da região e para a sociedade brasileira.
 
 Trata-se de uma região que apresenta altas temperaturas durante o ano todo (média anual de 26ºC), com altos índices de radiação solar e água abundante para a irrigação, a partir do rio São Francisco, e que permite com que uma planta de videira vegete e possa produzir uvas, destinadas à elaboração de sucos ou vinhos, durante praticamente todo o ano, exceto nos períodos de chuvas, entre janeiro e abril. É o único local do mundo em que se possibilita escalonar as colheitas ao longo de oito meses, entre maio e dezembro. Uma planta de videira pode produzir entre duas e três safras por ano, dependendo do ciclo genético de cada cultivar, que podem ser classificadas de acordo com a duração do ciclo produtivo, entre precoces, médias e tardias.
 
-Nos países vitivinicultores tradicionais da Europa, como França, Espanha, Portugal, Itália e Alemanha, nos Estados Unidos e Canadá, na Argentina, Chile, Uruguai, e no Brasil (Rio Grande do Sul, Santa Catarina, Paraná, São Paulo e Minas Gerais), além de África do Sul, Austrália e Nova Zelândia, uma planta de videira produz uma safra por ano, entre agosto e outubro no caso do Hemisfério Norte, e entre janeiro e março, no Hemisfério Sul. 
+Nos países vitivinicultores tradicionais da Europa, como França, Espanha, Portugal, Itália e Alemanha, nos Estados Unidos e Canadá, na Argentina, Chile, Uruguai, e no Brasil (Rio Grande do Sul, Santa Catarina, Paraná, São Paulo e Minas Gerais), além de África do Sul, Austrália e Nova Zelândia, uma planta de videira produz uma safra por ano, entre agosto e outubro no caso do Hemisfério Norte, e entre janeiro e março, no Hemisfério Sul.
 
 Dessa forma, as pesquisas sobre uvas, sucos, vinhos e a química desses produtos no Nordeste brasileiro têm permitido a obtenção de resultados interessantes, com a qualificação e quantificação de [compostos nutracêuticos](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-agraria/163-desenvolvimento-de-pesquisas-sobre-uvas-sucos-vinhos-e-a-composicao-quimica-desses-produtos-no-nordeste-do-brasil#), que podem ser considerados como benéficos à saúde humana. Além disso, em uma condição atual de mudanças climáticas mundiais, a região vitivinícola do Vale do São Francisco, no Nordeste do Brasil, está sendo considerada, por instituições internacionais parceiras das pesquisas em andamento na região, como um laboratório permanente de avaliação dos efeitos das mudanças climáticas globais sobre a vitivinicultura mundial.
 
@@ -74,7 +73,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

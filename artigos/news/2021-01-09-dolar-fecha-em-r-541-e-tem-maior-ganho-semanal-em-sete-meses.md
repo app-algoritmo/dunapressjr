@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa volta a bater recorde embalada por mercado internacional.
 
 Em mais um dia de força da moeda norte-americana, o dólar fechou com pequena alta, mas acumulou o maior ganho semanal em sete meses. A bolsa de valores voltou a bater recorde, em mais uma sessão marcada pelo ingresso de capitais externos.
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

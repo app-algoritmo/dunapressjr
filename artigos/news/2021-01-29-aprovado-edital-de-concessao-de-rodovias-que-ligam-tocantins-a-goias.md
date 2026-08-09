@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Leilão deve ocorrer no dia 29 de abril na sede da B3 em São Paulo.
 
 A Agência Nacional de Transportes Terrestres aprovou ontem (28) o edital de concessão do trecho de 850,7 km das rodovias BR-153/414/080/TO/GO. A expectativa é que o leilão ocorra no dia 29 de abril na sede da bolsa de valores, B3, em São Paulo.
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

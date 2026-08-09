@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Valor médio por quilo passou de R$ 57,12 para R$ 70,69.
 
 O preço das refeições servidas no sistema *self-service* por quilo teve alta de 23,76% de janeiro de 2020 a junho deste ano. Os dados são de um levantamento da Fundação de Proteção e Defesa do Consumidor (Procon-SP), divulgado nesta quinta-feira (21). O valor médio passou de R$ 57,12 para R$ 70,69.
@@ -50,8 +49,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 **Manaus/AM** – A Polícia Federal prendeu, em ação que se prolongou de segunda para terça-feira (18 e 19/05), dois indivíduos pelo transporte de mais de 418 quilos de entorpecentes.
 
 Na segunda-feira, uma aeronave identificada como suspeita em tráfego aéreo desconhecido, um bimotor Sêneca, foi interceptada por aviões A-29 Super Tucano da Força Aérea Brasileira (FAB). A Polícia Federal, a FAB, além de outros órgãos de segurança pública atuam em cooperação no âmbito da Operação ***Ostium***, para coibir ilícitos transfronteiriços.
@@ -27,5 +26,3 @@ A investigação criminal prosseguirá a fim de esclarecer todas as circunstânc
 
 ***Comunicação Social***
 ***Superintendência Regional da Polícia Federal no Amazonas***
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

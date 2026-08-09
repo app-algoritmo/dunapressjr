@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Para conhecer de perto uma instituição sem fins lucrativos beneficiada pelo Programa Nacional de Incentivo ao Voluntariado, o Pátria Voluntária, nesta terça-feira (8), a primeira-dama e presidente do conselho, Michelle Bolsonaro, acompanhada da Ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, foram a Cuiabá, capital do Mato Grosso.  Elas visitaram o Abrigo Bom Jesus, uma instituição de longa permanência para idosos.
 
 O abrigo, fundado há 80 anos, recebeu recursos, da ordem de R$ 13.260, do projeto Arrecadação Solidária, coordenado pelo Pátria Voluntária. Com o valor, conseguiu garantir a oferta de cinco refeições balanceadas, todos os dias, a 68 idosos que vivem no local, por um período de três meses.
@@ -47,5 +46,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

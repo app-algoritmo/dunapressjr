@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Correção serve para adequar o cálculo do INSS ao novo valor do salário mínimo.
 
 A Receita Federal informa que o Programa Gerador do Documento de Arrecadação do Simples Nacional do Microempreendedor Individual (PGMEI) está sendo ajustado para adequação do cálculo do INSS com base no novo valor do salário mínimo.
@@ -24,8 +23,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

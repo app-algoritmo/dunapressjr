@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Pequenos negócios poderão dar entrada de 1%, com desconto nas multas.
 
 Sem poderem aderir à renegociação especial vetada na semana passada, as micro e pequenas empresas e os microempreendedores individuais (MEI) terão acesso a dois programas anunciados nesta terça-feira (11) pelo governo. Profissionais autônomos e negócios associados ao Simples Nacional – regime tributário especial para negócios de menor porte, poderão parcelar o débito com condições especiais e em mais de 11 anos, com desconto nos juros e nas multas.
@@ -36,10 +35,6 @@ O projeto vetado beneficiaria 16 milhões de micro e pequenas empresas e de micr
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

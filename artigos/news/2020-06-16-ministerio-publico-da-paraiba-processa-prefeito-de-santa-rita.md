@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O gestor ordenou e executou serviços de publicidade sem nota de empenho.
 
 O Ministério Público da Paraíba protocolou, nesta segunda-feira (15/06), uma denúncia no Tribunal de Justiça da Paraíba contra o prefeito de Santa Rita, Emerson Fernandes Alvino Panta. O gestor está sendo processado pelo MPPB por ter, mediante ações delituosas, determinado e efetuado dez despesas públicas em desacordo com as normas financeiras pertinentes. Nos meses de fevereiro e março de 2017, o gestor ordenou e executou serviços de publicidade e propagada sem o empenho prévio.
@@ -26,4 +25,4 @@ Dessa forma, o Ministério Público pede ao TJPB que acolha a denúncia contra o
 
 Fonte: Ministério Público da Paraíba– Imagem de destaque: Reprodução
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal](https://dunapress.org/?aff=joabsonjoao).**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal](https://dunapress.org/).**

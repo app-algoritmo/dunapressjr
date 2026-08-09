@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Informes de rendimentos são necessários para preencher declaração.
 
 As empresas e instituições financeiras têm até o próximo dia 28 para enviar aos contribuintes os comprovantes de rendimentos referentes ao ano passado. Os informes são usados para o preenchimento da declaração do Imposto de Renda (IR) Pessoa Física 2022, cujo prazo de entrega está previsto para começar em 2 de março.
@@ -20,7 +19,7 @@ Os documentos fornecidos pelos empregadores devem conter os valores recebidos pe
 
 ## Comprovantes na internet
 
-Os aposentados e pensionistas do Instituto Nacional do Seguro Social (INSS) podem pegar os comprovantes na internet. O documento está disponível na página [**Meu INSS**](https://meu.inss.gov.br/central/#/extrato-ir)  ou no aplicativo de mesmo nome disponível para os sistemas Android e iOS. O segurado deve digitar a mesma senha para consultar os demais extratos. Caso não tenha senha, basta seguir os passos informados pelo *site*.
+Os aposentados e pensionistas do Instituto Nacional do Seguro Social (INSS) podem pegar os comprovantes na internet. O documento está disponível na página [**Meu INSS**](https://meu.inss.gov.br/central/#/extrato-ir) ou no aplicativo de mesmo nome disponível para os sistemas Android e iOS. O segurado deve digitar a mesma senha para consultar os demais extratos. Caso não tenha senha, basta seguir os passos informados pelo *site*.
 
 Planos de saúde individuais e fundos de pensão também são obrigados a fornecer comprovantes, cujos dados serão usados para o contribuinte deduzir valores cobrados no Imposto de Renda. Os bancos e corretoras devem informar valores de todas as contas correntes e investimentos. Caso o contribuinte tenha conta em mais de uma instituição, deve obter os comprovantes de todas elas.
 
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

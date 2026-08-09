@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Acumulado em 12 meses é de 21,22%.
 
 O Índice Nacional da Construção Civil subiu 1,01% em outubro, 0,13 ponto percentual acima da taxa de setembro, quando houve variação de 0,88%. No acumulado de 12 meses, alcançou 21,22%, pouco abaixo dos 22,06% registrados nos 12 meses imediatamente anteriores. Já de janeiro a outubro acumulou 16,79%.
@@ -34,10 +33,6 @@ Criado em 1969, a finalidade do Sistema Nacional de Pesquisa de Custos e Índice
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

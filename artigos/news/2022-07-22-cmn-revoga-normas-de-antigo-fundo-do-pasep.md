@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Órgão também atualizou regras do Fundo da Marinha Mercante.
 
 O Conselho Monetário Nacional (CMN) revogou nesta quinta-feira (21) normas que regulavam o antigo fundo do Programa de Formação do Patrimônio do Servidor Público (Pasep), que deixou de existir em 2020. A decisão ocorreu por recomendação da Procuradoria-Geral de Fazenda Nacional, que entendeu que as normas referentes ao fundo deveriam ser incluídas no [**Decreto 10.139/2019**](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10139.htm), também conhecido como Revogaço, que extingiu normas antigas.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

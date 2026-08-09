@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Pandemia de covid-19 impactou 14% das metas.
 
 Pouco mais da metade dos indicadores monitorados pelo Plano Plurianual (PPA) 2020–2023 melhoraram em 2021. A conclusão consta no relatório do monitoramento do PPA enviado pelo Ministério da Economia ao Congresso na última quarta-feira (31). De 63 indicadores monitorados, 36 (57% do total) evoluíram favoravelmente no ano passado.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

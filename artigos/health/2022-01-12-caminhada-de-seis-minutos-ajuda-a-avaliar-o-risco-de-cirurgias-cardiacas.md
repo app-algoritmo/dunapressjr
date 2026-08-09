@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Nos últimos anos, foram alcançados avanços importantes no tratamento de pacientes com [cardiopatias congênitas](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/192-caminhada-de-seis-minutos-ajuda-a-avaliar-o-risco-de-cirurgias-cardiacas#), principalmente em relação ao diagnóstico dessas doenças e procedimentos cirúrgicos. Inovações nas técnicas de cirurgias e nos cuidados pós-operatórios contribuíram com o sucesso de correções de doenças cardíacas congênitas que antes eram consideradas inoperáveis. Isso permitiu que a [sobrevida](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/192-caminhada-de-seis-minutos-ajuda-a-avaliar-o-risco-de-cirurgias-cardiacas#) desses pacientes aumentasse de modo significativo.
 
 Cada vez mais recém-nascidos com cardiopatia congênita chegam à adolescência e à idade adulta. Esses pacientes, em sua maioria, realizaram a primeira cirurgia cardíaca ainda na fase [neonatal](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/192-caminhada-de-seis-minutos-ajuda-a-avaliar-o-risco-de-cirurgias-cardiacas#) e infantil. Muitos deles ainda têm a necessidade de uma nova cirurgia, quer seja porque não foi possível corrigir todo o defeito cardíaco, quer seja pelo desgaste ou necessidade de substituir uma [prótese](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/192-caminhada-de-seis-minutos-ajuda-a-avaliar-o-risco-de-cirurgias-cardiacas#) com passar dos anos. Portanto, identificar fatores que possam estar associados com eventuais complicações decorrentes de uma nova intervenção torna-se um desafio relevante para minimizar as consequências dessa cirurgia para o paciente, para a sua família e para o sistema de saúde.
@@ -63,7 +62,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

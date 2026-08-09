@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Presidente da República, Jair Bolsonaro, participou, na manhã deste sábado (25/06), de Marcha para Jesus, em Balneário Camboriú, Santa Catarina. O evento foi organizado pelo Conselho Estadual de Pastores, com o apoio dos Conselhos Municipais do estado. A expectativa era que cerca de 50 mil pessoas participassem da marcha.
 
 A peregrinação teve início por volta das 9h, partiu da praça Almirante Tamandaré, na orla da cidade, e seguiu pelas areias da Praia Central até Pontal Norte, onde foi montada uma estrutura para receber os fiéis. Ao final da marcha, foi celebrado um culto no palco montado próximo à roda gigante na orla.
@@ -30,7 +29,3 @@ Fonte:  https://www.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

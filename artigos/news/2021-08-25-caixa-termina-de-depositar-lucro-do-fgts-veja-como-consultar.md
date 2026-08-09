@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Cerca de 88,6 milhões de trabalhadores receberam crédito.
 
 Cerca de 88,6 milhões de trabalhadores receberam o rateio do lucro do Fundo de Garantia do Tempo de Serviço (FGTS) em 2020. A Caixa Econômica Federal informou nesta terça-feira (24) ter concluído os depósitos nas contas vinculadas.
@@ -34,10 +33,6 @@ O pagamento de parte dos ganhos do FGTS não muda as regras de saque. O dinheiro
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em dezembro, no entanto, saldo ficou negativo em 265 mil vagas.
 
 O Brasil terminou o ano de 2021 com saldo positivo de 2.730.597 vagas de emprego com carteira de trabalho assinada. Ao longo do ano, foram registradas 20.699.802 admissões e 17.969.205 desligamentos. Os dados foram divulgados nesta segunda-feira (31) pelo Ministério do Trabalho e Previdência.
@@ -62,8 +61,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Sondagem indica que atividade já se encontra no patamar pré-crise.
 
 A atividade industrial continua em recuperação e já se encontra no patamar pré-crise, de acordo com a Sondagem Industrial, divulgada hoje (22) pela Confederação Nacional da Indústria (CNI).
@@ -47,5 +46,3 @@ O índice de número de empregados passou de 53,5 pontos, em agosto, para 54,8 p
 Fonte: Agência Brasil – Imagem de destaque: CNI/Miguel Ângelo/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

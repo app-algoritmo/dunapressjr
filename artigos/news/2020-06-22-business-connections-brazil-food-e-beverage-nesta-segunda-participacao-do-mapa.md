@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Evento reunirá, de forma virtual, empresas brasileiras e compradores internacionais dos setores de alimentos e bebidas. Organizado pelo BID, tem o apoio do Mapa, ME, MRE, Apex-Brasil, Sebrae e CNI.
 
 O Ministério da Agricultura, Pecuária e Abastecimento participa nesta segunda-feira (22), às 10h, da abertura online do Business Connections Brazil: Food & Beverage, que irá debater o tema "A Indústria de Alimentos e Bebidas no Mundo Pós-Coronavírus". 
@@ -31,14 +30,12 @@ Data: 22 de junho
 Horário: 10h
 Como acessar: https://click.apexbrasil.us/Abertura_BID
 Página do evento: https://bcbrazil.com/
-Mais informações: 
+Mais informações:
 apexbrasil@apexbrasil.com.br /(61) 2027 0775
 
 Fonte: gov.br/mec / Imagem em destaque: apex
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 - U$ 1,00 mensal
 

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Governo da Paraíba firmou convênio com a Caixa Econômica Federal para receber o pagamento dos tributos estaduais. Com essa nova parceria, a partir desta quarta-feira (19), o contribuinte paraibano já vai poder pagar os impostos como ICMS e o IPVA nas diversas agências do banco espalhadas pelo Estado, assim como nos seus terminais eletrônicos.
 
 O secretário de Estado da Fazenda (Sefaz-PB), Marialvo Laureano, elogiou a parceria do Governo da Paraíba com a Caixa Econômica Federal, que tem dezenas de agências espalhadas pelo estado e uma rede de correspondentes bancários em casas lotéricas em 221 municípios paraibanos.
@@ -23,8 +22,4 @@ Fonte: paraiba.pb.gov.br
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

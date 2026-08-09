@@ -8,10 +8,8 @@ categories:
 - News
 ---
 
-
 ## **Novos espaços vão permitir aprendizagem de forma mais prática e ativa ao integrar as novas tecnologias e a sala de aula.**
 
- 
 Contar com ferramentas adequadas para transformar o aprendizado teórico em um produto ou objeto. É com esse objetivo que o Ministério da Educação (MEC) lançou [um edital](http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=145681-sei-mec-2064339-edital-chamada-publica&category_slug=2020&Itemid=30192) que vai possibilitar a criação de mais de 100 laboratórios de prototipagem para estudantes da educação profissional em todo o país. Com isso, os alunos contarão com equipamentos como impressoras 3D e kits de robótica, por exemplo.
 
 O investimento nos laboratórios, denominados “Lab IF Maker”, é de R$ 25 milhões nos próximos dois anos será realizado por meio da Secretaria de Educação Profissional e Tecnológica do MEC. O [extrato do edital](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=21/05/2020&jornal=530&pagina=40) foi publicado na edição desta quinta-feira, 21 de maio, do *Diário Oficial da União *(DOU).
@@ -31,8 +29,6 @@ O projeto também deve apresentar como vai contribuir no fortalecimento da cultu
 A segunda etapa, que ocorrerá em 2021, vai ter foco na ampliação das estruturas já existentes.
 
 Fonte: portal.mec.gov.br / Imagem em destaque: ntcpe
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

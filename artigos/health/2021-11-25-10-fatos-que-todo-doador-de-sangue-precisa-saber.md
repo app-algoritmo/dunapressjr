@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 No dia 25 de novembro, comemora-se o Dia Nacional do Doador de Sangue. A data tem como objetivo agradecer aos doadores de sangue pela ação de doar e busca sensibilizar a população para a importância da doação.
 
 O mês de novembro foi escolhido por preceder um período de estoques baixos nos bancos de sangue. A proximidade das férias, de datas comemorativas de fim de ano, carnaval e outros períodos de feriados prolongados torna esse dia especialmente importante para promover o ato solidário e regular da doação de sangue, independente de se conhecer ou não pacientes que necessitam de transfusão.
@@ -16,7 +15,7 @@ Na semana do 25 de novembro, os serviços de hemoterapia de todo o país estão 
 
 1. É preciso ter entre 16 e 69 anos de idade para ser doador de sangue. Menores de 18 anos devem ter tenham autorização do responsável legal. Idosos devem ter realizado pelo menos uma doação de sangue até os 60 anos;
 
-2. Nada de jejum! É importante estar bem alimentado para doar sangue, evitando alimentos gordurosos, como açaí, abacate, leite e seus derivados (queijo, iogurte, manteiga…), massas, frituras, ovos, maionese, sorvete, chocolate, etc.,assim como beber bastante água desde o dia anterior à doação. Se preferir doar depois do almoço, aguarde duas horas após ter se alimentado. O almoço deve ser leve, com carnes grelhadas, saladas, arroz e feijão sem carnes; 
+2. Nada de jejum! É importante estar bem alimentado para doar sangue, evitando alimentos gordurosos, como açaí, abacate, leite e seus derivados (queijo, iogurte, manteiga…), massas, frituras, ovos, maionese, sorvete, chocolate, etc.,assim como beber bastante água desde o dia anterior à doação. Se preferir doar depois do almoço, aguarde duas horas após ter se alimentado. O almoço deve ser leve, com carnes grelhadas, saladas, arroz e feijão sem carnes;
 
 3. Não ingerir bebida alcoólica nas 12 horas anteriores à doação;
 
@@ -46,7 +45,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

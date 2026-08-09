@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 De acordo com os dados apurados, o denunciado vem adotando a prática desde 2017.
 
 O Ministério Público da Paraíba (MPPB) ofereceu denúncia ao Tribunal de Justiça do Estado (TJPB) contra o prefeito do município de Santa Rita, Emerson Fernandes Alvino Panta. De acordo com investigações realizadas pela Comissão de Combate aos Crimes de Responsabilidade e Improbidade Administrativa (Ccrimp), o gestor admitiu mais de 100 servidores na administração municipal em desacordo com a lei, incorrendo em crime previsto no artigo 1°, inciso XIII do Decreto-Lei 201/1967. A denúncia (número 0000190-71.2020.815.0000) está sob relatoria do desembargador Arnóbio Alves Teodósio.
@@ -20,4 +19,4 @@ Tais condutas, além de violarem os princípios da legalidade, moralidade e impe
 
 Fonte: Ministério Público da Paraíba
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

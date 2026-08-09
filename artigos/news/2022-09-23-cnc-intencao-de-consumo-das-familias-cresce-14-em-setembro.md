@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Pesquisa destaca melhora na percepção da renda atual.
 
 O indicador antecedente Intenção de Consumo das Famílias (ICF) subiu 1,4% em setembro, alcançando 84,4 pontos, seguindo a tendência de alta iniciada em janeiro deste ano. O patamar supera em 16,5% o resultado de setembro do ano passado. Os dados foram divulgados nesta quinta-feira (22) pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC).
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -11,7 +11,7 @@ categories:
 
 Amber Heard reprisou seu papel de Mera em Aquaman and the Lost Kingdom . A atriz recorreu às redes sociais para agradecer todo o apoio que vem recebendo dos fãs que assistiram ao filme do DC Studios .
 
-“Depois de todo esse tempo, Aquaman 2 fez sucesso (desculpe, é muito fácil)”, postou Heard no Instagram junto com uma série de fotos do set do filme. “Obrigado a todos os meus fãs pelo apoio e amor esmagadores no retorno de Mera ao AQ. Muito obrigado."*[](https://deadline.com/tag/aquaman-2/)*[](https://www.instagram.com/p/C1pPHUtIzah/)
+“Depois de todo esse tempo, Aquaman 2 fez sucesso (desculpe, é muito fácil)”, postou Heard no Instagram junto com uma série de fotos do set do filme. “Obrigado a todos os meus fãs pelo apoio e amor esmagadores no retorno de Mera ao AQ. Muito obrigado."**
 
 *Heard desempenhou o papel de Mera pela primeira vez na Liga da Justiça* de 2017 , antes de reprisar seu papel no filme *Aquaman* em 2018, dirigido por James Wan.
 

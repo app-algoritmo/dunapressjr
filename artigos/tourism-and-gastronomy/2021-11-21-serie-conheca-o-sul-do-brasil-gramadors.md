@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 Em Gramado, você pode visitar o Museu do Chocolate, que conta a história do doce e dá acesso à área artesanal, o Minimundo, um parque de lazer com construções em miniatura, e o Snowland, o primeiro parque de neve indoor da América. Conheça também as igrejas, como a do Relógio, cartão de visita da cidade. Alguns passeios em Gramado são tradicionais, como visita ao Lago Negro.
 
  A pedida ali é explorar o lago sobre os divertidos pedalinhos (embarcações comandadas pelos passageiros por meio de pedais). Você também pode conhecer o Lago Joaquina Rita Bier, rodeado por araucárias, hotéis e casas de veraneio. Roteiros de agroturismo também são bastante procurados para degustação de vinhos e espumantes, e para contato com comunidades descendentes de alemães e italianos.
@@ -29,7 +28,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

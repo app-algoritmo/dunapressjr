@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Região Sudeste foi a que gerou mais postos de trabalho.
 
 O Brasil registrou um saldo de 316.580 novos trabalhadores contratados com carteira assinada em julho de 2021. O saldo é o resultado de um total de 1.656.182 admissões e 1.339.602 desligamentos. De acordo com o Cadastro Geral de Empregados e Desempregados (Novo Caged) divulgado nesta quinta-feira (26) pelo Ministério do Trabalho, o salário médio de admissão caiu 1,25% na comparação com o mês anterior, situando-se em R$ 1.801,99.
@@ -30,10 +29,6 @@ Na indústria de transformação, a queda do valor médio de admissão (-1,69%) 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

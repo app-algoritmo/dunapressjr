@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 A desinfecção de locais públicos é uma das ações repetida incansavelmente pelos militares das Forças Armadas que atuam na Operação Covid-19. Em Mato Grosso do Sul, por meio do Comando Conjunto Oeste, foram higienizadas diversas áreas de circulação de pessoas. No mesmo Estado, nos municípios de Jardim e Dourados a ação beneficiou Unidades Básicas de Saúde.
 
 Além da higienização em locais públicos, o 8° Regimento de Cavalaria Mecanizado, em Barra do Quaraí, no Rio Grande do Sul, intensificou o controle na tríplice fronteira Brasil-Argentina-Uruguai. A região cobre cerca de 1,3 mil Km² em vias fluviais e terrestres.
@@ -31,5 +30,3 @@ No Pará, no município de Itaituba, militares do 53° Batalhão de Infantaria d
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

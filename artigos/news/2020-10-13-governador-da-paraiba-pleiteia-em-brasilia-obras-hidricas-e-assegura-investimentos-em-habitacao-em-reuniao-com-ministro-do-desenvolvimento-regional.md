@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O governador João Azevêdo se reuniu, nesta terça-feira (13), em Brasília, com o ministro do Desenvolvimento Regional, Rogério Marinho, ocasião em que pleiteou investimentos em recursos hídricos para o Sertão da Paraíba. O chefe do Executivo estadual também confirmou agenda com o ministro ainda esta semana no Estado, oportunidade em que serão autorizadas as obras de construção de 856 apartamentos no conjunto habitacional São Judas Tadeu I e II, em Patos.
 
 De acordo com o gestor, os investimentos em recursos hídricos reivindicados pelo Estado são destinados à barragem Espinho Branco e à adutora Extremo Oeste. “São dois projetos importantes para a Paraíba, um que já tem convênio assinado e o outro que está para assinar. A adutora Extremo Oeste, por exemplo, vai levar água da barragem de São Gonçalo até a cidade de São João do Rio do Peixe”, explicou.
@@ -20,5 +19,3 @@ O chefe de Gabinete do Governador, Ronaldo Guerra, e o secretário executivo da 
 Fonte: paraiba.pb.gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

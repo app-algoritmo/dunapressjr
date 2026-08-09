@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Endividamento das famílias bate recorde de 59,9% em junho.
 
 As famílias e as empresas pagaram taxas de juros mais altas em agosto, de acordo com as Estatísticas Monetárias e de Crédito divulgadas hoje (27), pelo Banco Central (BC). A taxa média de juros para pessoas físicas no crédito livre chegou a 40,9% ao ano, aumento de 1,1 ponto percentual em relação a julho e de 1,8 ponto percentual em 12 meses. Nas contratações com empresas, a taxa livre cresceu 0,7 ponto percentual no mês e 3,9 ponto percentual em 12 meses, alcançando 16,2% ao ano.
@@ -46,10 +45,6 @@ A variação mensal refletiu crescimentos no mercado doméstico de 1,5% nos empr
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

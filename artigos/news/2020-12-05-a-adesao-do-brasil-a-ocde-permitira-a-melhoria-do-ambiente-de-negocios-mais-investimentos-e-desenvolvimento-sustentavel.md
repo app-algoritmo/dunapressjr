@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Atualmente, o Brasil é a nação não membro com maior número de requisitos exigidos aprovados. Foi aprovado um instrumento legal no quesito considerações de segurança para aplicação de organismos de DNA recombinante.
 
 O Brasil deu mais um passo para aderir à Organização para Cooperação e Desenvolvimento Econômico (OCDE). Foi aprovado instrumento legal no quesito considerações de segurança para aplicação de organismos de DNA recombinante na agricultura, indústria e meio ambiente.
@@ -33,7 +32,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

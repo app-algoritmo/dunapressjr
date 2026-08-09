@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Melhora da economia e recolhimentos atípicos impulsionam receita.
 
 Impulsionada pela recuperação da economia e por receitas extras de impostos ligados ao lucro das empresas, a arrecadação federal bateu recorde para meses de novembro. Segundo dados divulgados nesta terça-feira (21) pela Receita Federal, o governo arrecadou R$ 157,34 bilhões no mês passado, com aumento de 1,41% acima da inflação em valores corrigidos pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA).
@@ -38,10 +37,6 @@ A arrecadação da Previdência Social, que reflete o emprego formal, caiu 6,42%
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

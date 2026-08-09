@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Exportações no período chegam a US$ 150,44 bilhões, enquanto importações atingem US$ 108,65 bilhões; no mês, saldo comercial está positivo em US$ 5,06 bilhões e corrente de comércio alcança US$ 24,04 bilhões.
 
 A balança comercial brasileira registrou superávit de US$ 41,79 bilhões no acumulado do ano, até a terceira semana de julho, com crescimento de 51,2% em relação ao superávit de janeiro a julho de 2020. A corrente de comércio (soma das exportações e importações) aumentou 33,2% no período, atingindo US$ 259,08 bilhões. As exportações até a terceira semana de julho cresceram 35,5% e somaram US$ 150,44 bilhões, enquanto as importações subiram 30,2% e totalizaram US$ 108,65 bilhões, segundo dados divulgados nesta segunda-feira (19/7) pela Secretaria de Comércio Exterior (Secex) do Ministério da Economia.
@@ -19,7 +18,7 @@ No mês, comparado a julho de 2020, as exportações cresceram 43,6% e somaram U
 
 A Secex verificou aumento das exportações, em julho, em todos os setores. Houve crescimento de 20,7% na agropecuária, com US$ 2,98 bilhões; alta de 69,7% na indústria extrativa, que chegou a US$ 4,16 bilhões; e aumento de 42,2% nas vendas da indústria de transformação, que somou US$ 7,36 bilhões.
 
-Pelo lado da agropecuária, o crescimento foi impulsionado pelas vendas de soja (+40%), madeira em bruto (+326,6%) e produtos hortícolas, frescos ou refrigerados (+44,5%). Na indústria extrativa, destacaram-se as altas nas exportações de minério de ferro e seus concentrados (+109,7%), óleos brutos de petróleo ou de minerais betuminosos, crus (+36,6%) e pedra, areia e cascalho (+83,6%). 
+Pelo lado da agropecuária, o crescimento foi impulsionado pelas vendas de soja (+40%), madeira em bruto (+326,6%) e produtos hortícolas, frescos ou refrigerados (+44,5%). Na indústria extrativa, destacaram-se as altas nas exportações de minério de ferro e seus concentrados (+109,7%), óleos brutos de petróleo ou de minerais betuminosos, crus (+36,6%) e pedra, areia e cascalho (+83,6%).
 
 Já a indústria de transformação vendeu mais óleos combustíveis de petróleo ou de minerais betuminosos, exceto óleos brutos (+139,7%), produtos semiacabados, lingotes e outras formas primárias de ferro ou aço (+232,6%) e farelos de soja e outros alimentos para animais – excluídos cereais não moídos –, farinhas de carnes e outros animais (+58,7%).
 
@@ -35,10 +34,6 @@ Pela indústria de transformação, as maiores altas foram das compras de adubos
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Propostas vencedoras são das empresas Allonda e Cymi.
 
 O leilão dos blocos B e C do programa de saneamento do estado de Alagoas, para concessão dos serviços de abastecimento de água e esgotamento sanitário, realizado nesta segunda-feira (13) na B3, em São Paulo, teve como vencedores, respectivamente, os consórcios Alagoas, da empresa Allonda, e Mundaú, da empresa Cymi. As companhias apresentaram propostas comerciais de outorga no total de R$ 1,645 bilhão.
@@ -40,10 +39,6 @@ Renan Filho, por sua vez, disse que encara com tranquilidade ação judicial que
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

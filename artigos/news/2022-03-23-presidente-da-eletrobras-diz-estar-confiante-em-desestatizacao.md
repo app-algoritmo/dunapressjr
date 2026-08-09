@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Rodrigo Limp também comentou o resultado da empresa em 2021.
 
 O cenário externo de conflito entre Rússia e Ucrânia e possível volatilidade e desvalorização das ações da Eletrobras e das empresas do grupo não deve afastar os investidores nem afetar o processo de privatização da empresa do setor elétrico, disse nesta terça-feira (22) o presidente da estatal, Rodrigo Limp, em coletiva online à imprensa.
@@ -34,7 +33,7 @@ Segundo ele, não há informação sobre a participação da Rosatom no consórc
 
 ### Provisões
 
-O presidente da estatal também comentou o resultado da empresa em 2021, em que obteve lucro 11% menor que o de 2020.  Segundo ele, a queda foi resultado de provisões operacionais, que tiveram aumento líquido de R$ 7,519 bilhões, com destaque para o aumento de R$ 10,8 bilhões relativos ao empréstimo compulsório.
+O presidente da estatal também comentou o resultado da empresa em 2021, em que obteve lucro 11% menor que o de 2020. Segundo ele, a queda foi resultado de provisões operacionais, que tiveram aumento líquido de R$ 7,519 bilhões, com destaque para o aumento de R$ 10,8 bilhões relativos ao empréstimo compulsório.
 
 Segundo ele, a atual gestão da Eletrobras vem aprimorando os critérios de provisionamento e tem expectativa de que as decisões judiciais agora sigam os posicionamentos da empresa. No caso de decisões desfavoráveis, ele informou que a empresa terá de fazer provisões, e admitiu que há uma quantidade grande de ações, em diversos tribunais.
 
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

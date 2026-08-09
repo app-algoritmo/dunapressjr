@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Serão 1.800 bolsas de mestrado, doutorado e pós-doutorado para os programas de pós-graduação considerados estratégicos. Programa é feito em parceria com o Confap.
 
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) apresentou nesta sexta-feira, 03, para a comunidade acadêmica o [Programa de Desenvolvimento da Pós-Graduação (PDPG) - Parcerias Estratégicas nos Estados](https://www.capes.gov.br/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-desenvolvimento-da-pos-graduacao-pdpg-parcerias-estrategicas-nos-estados). O detalhamento foi feito por Benedito Aguiar, presidente da CAPES, durante o Fórum Virtual do Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (Confap), parceiro na ação.
@@ -28,7 +27,7 @@ Fonte: gov.br / Imagem em destaque: AB
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

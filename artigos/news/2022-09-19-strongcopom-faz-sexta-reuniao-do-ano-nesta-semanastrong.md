@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Expectativas se dividem entre manutenção e elevação da Selic.
 
 O Comitê de Política Monetária (Copom) do Banco Central (BC) faz a sexta reunião do ano, nesta terça (20) e quarta-feira (21), para definir o destino da taxa Selic, os juros básicos da economia brasileira. O órgão está dividido entre manter a taxa em 13,75% ao ano ou fazer uma nova elevação, para 14% ao ano.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

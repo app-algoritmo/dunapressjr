@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Ministro do Meio Ambiente diz que país tem grande potencial no setor.
 
 O ministro do Meio Ambiente, Joaquim Leite, afirmou nesta quarta-feira (21) que a crise energética na Europa, gerada pela invasão russa à Ucrânia, abre uma oportunidade para o Brasil. Em entrevista ao programa **A Voz do Brasil**, ele disse que as indústrias procuram um local onde a energia seja acessível e o país oferece isso.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

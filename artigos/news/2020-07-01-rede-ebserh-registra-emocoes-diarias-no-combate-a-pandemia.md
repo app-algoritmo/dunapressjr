@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Brasília (DF) – No final de 2019, um novo coronavírus, batizados de Sars-CoV-2, surgiu na cidade de Wuhan, na China. Pouco mais de seis meses depois, a pandemia de Covid-19 já deixou milhões de pessoas doentes. Famílias separadas e isoladas, cidades fechadas e mudanças radicais de hábitos de higiene pessoal foram algumas das consequências da pandemia, que também alterou diretamente o dia a dia de profissionais da saúde.
 
 O momento tristemente histórico aguçou a sensibilidade de alguns desses profissionais, que passaram a registrar, por meio de fotografias, o novo cotidiano dos hospitais, que buscavam se adaptar às necessidades percebidas nesse contexto para preservar a saúde dos profissionais ao mesmo tempo em que cada detalhe no atendimento passou a ser um imenso diferencial entre a vida e a morte para os pacientes contaminados. Na Rede Ebserh, relatos emocionantes de perdas e de dor, mas também de determinação alegria e superação estão sendo contados pelas lentes de profissionais assistenciais, que perceberam estar participando ativamente da construção de uma parte importante da história da humanidade.
@@ -50,7 +49,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

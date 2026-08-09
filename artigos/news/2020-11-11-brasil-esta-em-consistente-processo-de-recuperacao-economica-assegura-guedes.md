@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ministro destacou que desafio agora é transformar uma recuperação baseada no consumo em um crescimento sustentado focado em investimentos.
 
 O ministro da Economia, Paulo Guedes, destacou, nesta terça-feira (10/11), durante participação no evento virtual “Bloomberg Emerging + Frontier Forum 2020 Digital Series: 3rd edition”, que o desafio do país agora é transformar uma recuperação cíclica da economia baseada no consumo em um crescimento sustentado baseado em investimentos.
@@ -23,5 +22,3 @@ Guedes salientou que políticas anticíclicas, como o Auxílio Emergencial e o P
 Fonte: Ministério da Economia – Imagem de destaque: Alan Santos/PR
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

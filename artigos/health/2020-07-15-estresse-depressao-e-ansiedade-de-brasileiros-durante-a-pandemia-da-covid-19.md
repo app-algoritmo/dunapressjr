@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Com a expansão da COVID-19, muitos brasileiros, assim como a população de muitos países, têm passado por mudanças radicais de vida, como deixar a rotina de trabalho, de atividades escolares e de lazer para ficar em isolamento social em casa. Medidas para conter a transmissão do novo coronavírus (SARS-COV-2) são necessárias, porém o cuidado com a saúde mental também é uma relevante preocupação para aqueles que estão em isolamento.
 
 Nesse tipo de realidade, é preciso entender como a pandemia tem atingido a saúde mental da população, pois tal conhecimento deve ser aplicado por profissionais e gestores públicos, a fim de assegurar a eficácia do uso de recursos financeiros para atender a população que venha a desenvolver ou agravar doenças mentais comuns (tais como estresse, depressão e ansiedade).
@@ -36,6 +35,6 @@ Fonte canalciencia.ibict.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

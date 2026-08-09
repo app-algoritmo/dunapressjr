@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Polícia Civil de Santa Catarina desencadeou nesta terça-feira (09) a Operação Tríade para cumprir 42 ordens judiciais, sendo 30 mandados de busca e apreensão e 12 mandados de prisão preventiva, em três Estados: Santa Catarina, Paraná e Mato Grosso do Sul. Foram presas 13 pessoas, apreendidos drogas, munições, joias e veículos.
 
 A ação é da Divisão de Investigação Criminal (DIC) de Itajaí. A investigação durou oito meses contra duas organizações criminosas que agem nos três Estados e é responsável pela remessa de grande quantidade de drogas para o litoral catarinense em automóveis e caminhões.
@@ -28,5 +27,3 @@ Policiais civis de SC se deslocaram para os Estados para cumprir as ordens judic
 A apuração começou a partir da apreensão de duas toneladas de maconha pela DIC de Itajaí, em setembro de 2019. Uma entrevista coletiva será realizada nesta quarta-feira (10) às 15h, em Itajaí, para mais detallhes sobre a operação.
 
 Fonte: Portal de Imprensa da Polícia Civil de Santa Catarina
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa reverte queda de 3,5% e encerra com leve baixa.
 
 Num dia de reviravoltas no mercado financeiro, o dólar fechou com pequeno recuo após encostar em R$ 5,80. A bolsa de valores, que caía 3,5%, quase reverteu o movimento na última hora de negociação e encerrou com leve baixa.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

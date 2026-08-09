@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Lançado nessa quarta-feira (16), no Ginásio do Centro de Desporto da Academia da Polícia Militar do Estado do Rio de Janeiro (PMERJ), o programa “Pra Viver” dará apoio aos policiais que sofreram algum tipo de dano no exercício da profissão e também às suas famílias. A iniciativa, que tem o apoio do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH), prevê ações por meio do esporte, apresentações culturais, além de retaguarda jurídica.
 
 "Pela primeira vez no Brasil, a valorização dos agentes de segurança pública é tema de promoção de direitos humanos. Este é o governo em que o policial passa a ser visto como sujeito e promotor de direitos humanos para toda a população", afirmou o titular da Secretaria de Proteção Global (SNPG), Alexandre Magno.
@@ -38,5 +37,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

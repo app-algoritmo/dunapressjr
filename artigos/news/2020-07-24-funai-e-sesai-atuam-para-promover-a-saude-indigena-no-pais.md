@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Órgãos do governo atuam em conjunto no combate ao novo coronavírus em terras indígenas. A Funa monitora as ações e serviços de atenção enquanto a oferta e execução dos trabalhos são de responsabilidade da Sesai.
 
 A Fundação Nacional do Índio (Funai) e a Secretaria Especial de Saúde Indígena (Sesai) estão trabalhando de forma articulada para a promoção da saúde indígena em todo o País. A Funai tem o papel de monitorar as ações e serviços de atenção à saúde indígena, enquanto a oferta e execução dos trabalhos são de responsabilidade do Ministério da Saúde, por meio da Sesai.
@@ -28,6 +27,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

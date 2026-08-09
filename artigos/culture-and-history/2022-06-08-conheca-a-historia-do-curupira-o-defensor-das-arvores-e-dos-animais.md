@@ -7,7 +7,6 @@ categories:
 - Culture and History
 ---
 
-
 Você já deve ter ouvido falar dele na escola. Do menino de cabelos vermelhos cor de fogo, protetor das florestas, que não dá moleza para caçadores e lenhadores: o curupira. O personagem mítico do folclore brasileiro também está em uma estátua de bronze no Jardim dos Cinco Sentidos, dentro do Horto Florestal, no Parque da Ciência do Butantan, em São Paulo-SP.
 
 Relatos históricos afirmam que o mito do curupira surgiu entre os indígenas brasileiros que tinham verdadeiro pavor de um ser da floresta que punia quem pretendia derrubar árvores ou eliminar animais selvagens. Tanto que seu nome vem da junção de “curu”, uma contração do nome “curumim”, que significa menino, e “pira”, que significa corpo na língua indígena tupi. O padre jesuíta José de Anchieta, que viveu em São Paulo na época da fundação da cidade, foi o primeiro a relatar a história que ele conheceu pelos próprios índios ainda nos anos 1500.
@@ -33,7 +32,3 @@ Fonte: https://butantan.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

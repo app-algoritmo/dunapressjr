@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Estimativa da atividade econômica no país é do Ipea.
 
 A produção industrial deve crescer 1,8%, as vendas no comércio 1,7% e o volume de serviços 2,5% no volume de serviços. As estimativas da atividade da economia em novembro são da Diretoria de Estudos e Políticas Macroeconômicas do Instituto de Pesquisa Econômica Aplicada (Dimac /Ipea). Os números estão na análise trimestral da conjuntura econômica do país chamada de Visão Geral, divulgada hoje (21) pelo Ipea.
@@ -48,8 +47,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

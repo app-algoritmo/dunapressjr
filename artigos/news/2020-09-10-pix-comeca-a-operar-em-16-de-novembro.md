@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O presidente do Banco Central, Roberto Campos Neto, disse que o novo arranjo de pagamentos vai beneficiar do pequeno ao grande negócio.
 
 Fazer pagamentos e transferências de forma imediata, pelo celular, a qualquer dia e horário, incluindo fins de semana e feriados. Essa é uma das funcionalidades do arranjo de pagamentos instantâneos Pix, do Banco Central, que começará a operar no dia 16 de novembro. O cadastro da chave de acesso começa no dia 5 de outubro.
@@ -34,12 +33,8 @@ Entre as vantagens apontadas pelo Banco Central para o arranjo de pagamentos ins
 
 A conta de luz poderá ser paga pelo Pix. O acerto foi feito pelo Banco Central e a [Agência Nacional de Energia Elétrica (Aneel)](https://www.aneel.gov.br/sala-de-imprensa/-/asset_publisher/zXQREz8EVlZ6/content/id/19833169).  De acordo com Banco Central, ao garantir o pagamento imediato, o Pix tem potencial de agilizar o religamento da energia, no caso de residências e estabelecimentos comerciais que estiverem condicionados à verificação do efetivo pagamento.
 
-[Confira aqui se a instituição onde você tem conta pediu adesão ao Pix](https://www.bcb.gov.br/content/estabilidadefinanceira/pix/ListadeparticipantesemprocessodeadesaoaoPix1708.pdf)
-
 Saiba mais no [vídeo do Banco Central](http://www.youtube.com/watch?v=ar-ynWFzEGs).
 
 Fonte: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

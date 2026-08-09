@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O enfrentamento à Covid-19 foi retomado com prioridade pelo governador Carlos Moisés, na tarde deste sábado, 28. Em webconferência com presidentes de associações e diretores de hospitais filantrópicos, o chefe do Executivo estadual garantiu o repasse de R$ 44 milhões, até 31 de dezembro deste ano, para a reativação imediata de 205 leitos de UTI para tratamento da doença. Além disso, anunciou a prorrogação da Política Hospitalar Catarinense (PHC) - em teto máximo - por mais 10 meses.
 
 “O Estado vai prorrogar a Política Hospitalar Catarinense, garantindo o recurso para o pagamento das despesas com a ativação desses leitos de UTI. Vamos reunir esforços para assegurar o que conseguimos até aqui: que nenhum paciente fique sem atendimento. O momento é de nos unirmos novamente para enfrentarmos o atual e grave momento da pandemia no estado”, frisou o governador.
@@ -51,7 +50,5 @@ SEU APOIO VOLUNTARIO É MUITO IMPORTANTE!
 Sua assinatura não somente ajudará no fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

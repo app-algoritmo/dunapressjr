@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Receber o diagnóstico de câncer é algo difícil para qualquer pessoa. E mesmo sabendo da forte relação entre o tabagismo e essa doença, muitos pacientes tem dificuldade de parar de fumar.
 
 Existem fatores envolvidos aí que contribuem para essa dificuldade em abandonar o cigarro. Uma delas é o alto nível de dependência. A outra é que encarar uma doença grave como o câncer desencadeia algumas emoções desagradáveis, que muitas vezes tendem a ser amenizadas com o cigarro. Fumar torna-se, portanto, uma válvula de escape.
@@ -38,7 +37,7 @@ Naturalmente, o fumante está sujeito a desenvolver doenças respiratórias ou
 
 ### **Dieta comprometida**
 
-Durante o tratamento, é muito importante que o paciente mantenha uma boa alimentação para não emagrecer neste período. Segundo Eric Rulli, um dos efeitos da nicotina é inibir o apetite. Assim, o organismo fica mais fragilizado, potencializando os efeitos colaterais e dificultando a recuperação.   
+Durante o tratamento, é muito importante que o paciente mantenha uma boa alimentação para não emagrecer neste período. Segundo Eric Rulli, um dos efeitos da nicotina é inibir o apetite. Assim, o organismo fica mais fragilizado, potencializando os efeitos colaterais e dificultando a recuperação.
 
 ### **Risco elevado**
 
@@ -64,7 +63,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

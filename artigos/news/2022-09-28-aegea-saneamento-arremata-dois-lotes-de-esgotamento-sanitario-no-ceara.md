@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Deságio do leilão soma R$ 10 bilhões.
 
 Com um deságio que soma aproximadamente R$ 10 bilhões, foram leiloadas nesta terça-feira (27), na B3, bolsa de valores de São Paulo, duas Parcerias Público-Privadas (PPPs) de esgotamento sanitário para 24 municípios do Ceará. O leilão das áreas atendidas pela Companhia de Água e Esgoto do Ceará (Cagece) teve apoio do Banco Nacional de Desenvolvimento Econômico e Social (BNDES).
@@ -16,7 +15,7 @@ Os dois lotes disponíveis tiveram disputas a viva voz e foram vencidos pela lic
 
 O bloco 2 foi arrematado por R$ 11,376 bilhões, um deságio de 37,86%. A licitante Iguá Saneamento não fez propostas a viva voz, tendo deixado a disputa com uma proposta única de R$ 11.426.422.112,72. O valor de referência deste lote era de aproximadamente R$ 18,3 bilhões.
 
-São estimados investimentos de R$ 6,2 bilhões, sendo R$ 2,8 bilhões nos cinco primeiros anos. O fornecimento de água tratada permanecerá sob a responsabilidade da Cagece. 
+São estimados investimentos de R$ 6,2 bilhões, sendo R$ 2,8 bilhões nos cinco primeiros anos. O fornecimento de água tratada permanecerá sob a responsabilidade da Cagece.
 
 “Trata-se de avançar de forma vigorosa em algo que é essencial para a saúde das pessoas, para a dignidade da vida, o bem-estar e também do nosso planeta, da nossa natureza. Eu vejo que os objetivos finalísticos que nos unem são esses”, declarou a governadora do Ceará, Izolda Cela, durante cerimônia de batida de martelo.
 
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

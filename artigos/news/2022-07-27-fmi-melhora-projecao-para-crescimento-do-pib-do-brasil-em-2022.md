@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Previsão subiu de 0,8% para 1,7%, segundo relatório divulgado nesta terça-feira.
 
 O Fundo Monetário Internacional (FMI) elevou de forma expressiva a estimativa para o crescimento da atividade brasileira, neste ano, apesar das dificuldades enfrentadas pela economia global. Entretanto, passou a ver desempenho mais fraco em 2023.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

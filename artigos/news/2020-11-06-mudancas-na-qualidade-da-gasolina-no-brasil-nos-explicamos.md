@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## **Entenda a mudança da gasolina no Brasil**.
 
 ### Conheça os três fatores básicos que indicam a melhora na especificação do combustível e os impactos nos veículos e consumidores.
@@ -37,8 +36,6 @@ Como a gasolina continua sendo um hidrocarboneto – hidrogênio e carbono – e
 A Promax Bardahl conta com produtos de eficiência comprovada e tecnologia de ponta na linha de aditivos para combustível. O Fuel Special Cleaner 6 em 1 é o único que faz uma descarbonizarão total no sistema e ainda passa no teste de atrito com a máquina Timken, que demonstra a capacidade da resistência desta película lubrificante. Trata-se de um aditivo poderoso e completo, ideal para todos motores a gasolina, etanol e suas misturas.
 
 Tem aplicação simples, feita diretamente no tanque, e é recomendado também para carros novos, que estão no período da revisão. Entre os principais benefícios ao motor dos veículos, o Fuel Special Cleaner 6 em 1 atua para restaurar a potência; eliminar falhas; lubrificar e inibir corrosão; redução de poluentes; economia de combustível e redução de atrito (exclusiva película Bardahl).
-
-[](https://blog.bardahl.com.br/)
 
 **Mais informações:**
 **Blog: [https://blog.bardahl.com.br/](https://click.presskit.com.br/url/766431ee70/6361388b6fc)**

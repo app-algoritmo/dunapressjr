@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 Doar leite materno é um gesto que salva vidas. O leite materno é importante para todos os bebês, principalmente para os que estão internados e não podem ser amamentados pela própria mãe. Todos os anos, aproximadamente 150 mil litros de leite humano são coletados, processados e distribuídos a recém-nascidos de baixo peso, internados em unidades neonatais no Brasil.
 
 Por isso, se você está amamentando, seja uma doadora e ajude quem precisa. Qualquer quantidade é importante. Procure o **[Banco de Leite Humano](http://rblh.fiocruz.br/)** mais próximo ou ligue para o Disque Saúde 136. Seu gesto significa vida para uma criança.
@@ -44,7 +43,3 @@ Fonte: https://www.gov.br/saude
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

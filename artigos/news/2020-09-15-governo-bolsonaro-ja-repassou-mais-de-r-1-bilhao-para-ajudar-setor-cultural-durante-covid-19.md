@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Até o momento, 15 estados e 269 municípios receberam os recursos previstos na Lei Aldir Blanc. No total, serão repassados R$ 3 bilhões para socorrer setor cultural no País.
 
 Esperanças renovadas dos trabalhadores brasileiros e de empreendimentos que atuam no setor da cultura. O Ministério do Turismo já liberou o primeiro lote de recursos previstos na Lei Aldir Blanc para 15 estados e 269 municípios, repassando mais de R$ 1 bilhão. Esse dinheiro equivale a 1/3 dos R$ 3 bilhões previstos e busca ajudar o setor cultural afetado pela Covid-19.
@@ -90,5 +89,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

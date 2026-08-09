@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 Neste 19 de maio, Dia Mundial da Doação de Leite Materno, o Ministério da Saúde lançou campanha para incentivar a doação e não deixar cair os estoques dos bancos de leite em meio à pandemia do novo coronavírus. Com o tema “Doe Leite Materno. Nessa corrente pela vida, cada gota faz a diferença”, o objetivo é incentivar a doação durante todo o ano.
 
-O [Ministério da Saúde](http://saude.gov.br/) destacou que o leite materno permite que os bebês se desenvolvam com mais saúde e protege de doenças como diarreia e alergias. Reduz ainda em 13% a mortalidade em crianças menores de 5 anos e diminui o risco de desenvolver hipertensão, colesterol alto, diabetes e obesidade na vida adulta. 
+O [Ministério da Saúde](http://saude.gov.br/) destacou que o leite materno permite que os bebês se desenvolvam com mais saúde e protege de doenças como diarreia e alergias. Reduz ainda em 13% a mortalidade em crianças menores de 5 anos e diminui o risco de desenvolver hipertensão, colesterol alto, diabetes e obesidade na vida adulta.
 
-Segundo a assessora técnica da Coordenação de Saúde da Criança e Aleitamento Materno do Ministério da Saúde, Amanda Moura, com a pandemia já se verifica uma queda de doações. Segundo o Ministério da Saúde, esse número caiu em 5%. 
+Segundo a assessora técnica da Coordenação de Saúde da Criança e Aleitamento Materno do Ministério da Saúde, Amanda Moura, com a pandemia já se verifica uma queda de doações. Segundo o Ministério da Saúde, esse número caiu em 5%.
 
-Amanda Moura explicou que é possível continuar ajudando os bebês que precisam de forma segura para todos. “Tivemos uma queda principalmente em relação ao último mês. Por isso, é tão importante essa data para fazer uma mobilização”, disse.  
+Amanda Moura explicou que é possível continuar ajudando os bebês que precisam de forma segura para todos. “Tivemos uma queda principalmente em relação ao último mês. Por isso, é tão importante essa data para fazer uma mobilização”, disse.
 
 Se a mãe tiver alguma dúvida pode ligar para o banco de leite mais próximo ou para o número 136 do SUS.
 
@@ -26,7 +25,7 @@ A doação de leite é fundamental para os bebês prematuros e que nascem com ba
 
 ### **Quem pode doar**
 
-Toda mulher que amamenta é uma possível doadora. Basta ser saudável e não tomar nenhum medicamento que interfira na amamentação. Não há um volume mínimo para doação. 
+Toda mulher que amamenta é uma possível doadora. Basta ser saudável e não tomar nenhum medicamento que interfira na amamentação. Não há um volume mínimo para doação.
 
 A coordenadora Amanda Moura ressaltou que, se houver qualquer sintoma que indique suspeita de Covid-19, a mãe não deve fazer a doação. “Para a mulher ser doadora ela precisa estar saudável. Se ela tem algum sintoma de gripe, se está com alguma suspeita de estar infectada pelo vírus, ela não pode fazer a doação nesse momento”, explicou.
 
@@ -36,7 +35,7 @@ Ela explicou que, no entanto, é possível continuar amamentando o próprio filh
 
 Os cuidados de higiene adotados para colher o leite para doações devem ser seguidos em tempos de pandemia do novo coronavírus. São colocar máscara sobre o nariz e a boca, usar touca ou lenço para cobrir os cabelos, lavar as mãos e os braços até o cotovelo com bastante água e sabão, lavar as mamas com água e enxugar com uma toalha limpa.
 
-Para buscar informações sobre o banco de leite mais próximo e tirar dúvidas a mulher pode ligar no Disque Saúde, no número 136. O Ministério da Saúde ainda tem disponível uma [cartilha](https://bvsms.saude.gov.br/bvs/publicacoes/cartilha_mulher_trabalhadora_amamenta.pdf) com orientações sobre amamentação e dicas sobre coleta e armazenamento de leite.  
+Para buscar informações sobre o banco de leite mais próximo e tirar dúvidas a mulher pode ligar no Disque Saúde, no número 136. O Ministério da Saúde ainda tem disponível uma [cartilha](https://bvsms.saude.gov.br/bvs/publicacoes/cartilha_mulher_trabalhadora_amamenta.pdf) com orientações sobre amamentação e dicas sobre coleta e armazenamento de leite.
 
 ### Rede brasileira é referência mundial
 
@@ -50,7 +49,7 @@ Além de coletar, processar e distribuir leite humano a bebês prematuros e de b
 
 A Sociedade Brasileira de Pediatria e o Ministério da Saúde divulgaram, em parceria, uma [nota técnica](https://www.sbp.com.br/fileadmin/user_upload/SEI-MS_-_0014033399_-_Nota_Te__cnica_Aleitamento_e_COVID.pdf.pdf) com orientações sobre amamentação e o novo coronavírus. Segundo nota, o Ministério recomenda que a amamentação seja mantida em caso de infecção pelo vírus, desde que a mãe e esteja em condições clínicas adequadas para fazê-lo. A nota indicou que não há evidências científicas sobre a transmissão do coronavírus por meio da amamentação.
 
-Mas destacou a necessidade de cuidados como lavar as mãos por pelo menos 20 segundos antes de tocar o bebê e usar máscara facial que cubra totalmente o nariz e a boca durante as mamadas. 
+Mas destacou a necessidade de cuidados como lavar as mãos por pelo menos 20 segundos antes de tocar o bebê e usar máscara facial que cubra totalmente o nariz e a boca durante as mamadas.
 
  [Campanha - Doe leite materno.](https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/05/ministerio-da-saude-lanca-campanha-para-doacao-de-leite-materno/19.05.2020.Campanhadoacaodeleite_comedicao_finalcomvideo.pdf)
 
@@ -65,5 +64,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

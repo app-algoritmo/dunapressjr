@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Moeda teve primeira queda após três avanços semanais.
 
 Num dia de feriado nos Estados Unidos e de divulgação de dados positivos na Europa e na China, o dólar caiu e a bolsa subiu. O dólar comercial encerrou esta sexta-feira (3) vendido a R$ 5,321, com recuo de R$ 0,029 (-0,55%).
@@ -26,4 +25,4 @@ Há várias semanas, mercados financeiros em todo o planeta atravessam um perío
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

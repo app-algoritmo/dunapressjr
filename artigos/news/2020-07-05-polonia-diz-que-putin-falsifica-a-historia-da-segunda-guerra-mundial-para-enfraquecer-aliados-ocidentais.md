@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Depois que o líder russo publicou artigo em inglês dizendo que a União Soviética era o principal derrotador dos nazistas, atribuindo culpa pela guerra à Polônia, Varsóvia diz que está travando uma 'guerra de informação'.
 
 O governo polonês disse que o presidente russo Vladimir Putin está manipulando a história da Segunda Guerra Mundial de uma maneira que anula os crimes soviéticos e o acusa de fazê-lo como parte de uma "guerra de informação" contra o Ocidente.
@@ -51,6 +50,6 @@ Fonte The Time Of Israel
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

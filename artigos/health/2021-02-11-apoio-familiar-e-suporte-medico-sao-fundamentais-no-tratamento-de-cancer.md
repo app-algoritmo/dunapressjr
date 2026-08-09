@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Diante do medo, insegurança e esperança, além da rotina pesada de exames e tratamentos, a batalha contra o câncer também é fortalecida pelo amor e companheirismo de pessoas queridas.
 
 É por isso que a médica oncologista Cristiane Petraca, do Hospital Escola da Universidade Federal de Pelotas, e vinculado à Rede Ebserh, explica que o câncer, apesar de não ser uma doença contagiosa, é uma doença que dificilmente afeta única e exclusivamente a pessoa doente. “Durante o diagnóstico e todo o tratamento, a família e toda a constelação familiar se envolve e acaba afetada de alguma forma do ponto de vista emocional. Por isso, a participação da família é tão importante quanto o tratamento definido”, destaca.
@@ -48,7 +47,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

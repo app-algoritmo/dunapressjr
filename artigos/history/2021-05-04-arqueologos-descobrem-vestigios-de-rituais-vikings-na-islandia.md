@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 ## Uma estrutura em forma de barco foi descoberta, bem como dezenas de contas, algumas delas tendo sua origem diretamente atribuída ao Iraque.
 
 Um local na Islândia que remonta à era Viking, aproximadamente 300 metros além da caverna Surtshellir, foi descoberto por arqueólogos, sugere um novo estudo. O local em questão era usado para antigos rituais realizados por vikings. 
@@ -27,7 +26,3 @@ Fonte: https://www.jpost.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

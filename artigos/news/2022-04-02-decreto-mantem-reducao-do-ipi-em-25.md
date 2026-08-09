@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medida entra em vigor imediatamente.
 
 Por mais um mês, o Imposto sobre Produtos Industrializados (IPI) continuará com corte de 25%. [**O presidente Jair Bolsonaro assinou decreto**](https://in.gov.br/en/web/dou/-/decreto-n-11.021-de-31-de-marco-de-2022-389847013) que mantém a redução nesse percentual pelos próximos 30 dias, informou a Secretaria-Geral da Presidência da República.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

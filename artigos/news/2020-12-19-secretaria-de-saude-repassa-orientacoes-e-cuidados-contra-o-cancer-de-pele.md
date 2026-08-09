@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Secretaria de Saúde de Itajaí está reforçando as orientações e cuidados com o câncer de pele durante o Dezembro Laranja. O objetivo da iniciativa é alertar a população sobre a doença e seus principais sinais para detecção e tratamento precoces. Durante esta semana, o Centro Médico de Referência São Judas intensificou as consultas em teledermatologia para atendimento de pacientes com suspeita de câncer.
 
 Criada em 2014, a campanha Dezembro Laranja foi desenvolvida pela Sociedade Brasileira de Dermatologia (SBD). O câncer de pele é hoje o tipo mais frequente no Brasil e corresponde a 30% de todos os tumores malignos registrados. A estimativa do Instituto Nacional do Câncer (Inca) é que sejam identificados de 180 a 200 mil casos de câncer de pele por ano no Brasil.
@@ -44,5 +43,3 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)

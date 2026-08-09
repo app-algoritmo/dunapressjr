@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A primeira etapa da temporada 2023 do Rocky Mountain Games chegou ao fim neste domingo (2), em Campos do Jordão, em grande estilo, alto astral e mais um dia de sol e calor. E já deixa um gostinho de quero mais para os mais de 800 atletas, seus familiares e amigos, que totalizarem um público de 1.800 pessoas em dois dias de evento. E as tribos do bikers e corredores não precisarão esperar muito para voltar a se reunir no maior festival de esportes e cultura de montanha do Brasil. A segunda etapa do circuito está marcada os dias 20 e 21 de maio, na Pedra Grande, em Atibaia.
 
 Andrea Estevam, diretora executiva da Rocky Mountain Sports Content, confirma ter recebido somente feedbacks positivos dos atletas e, com isso, a expectativa para a etapa seguinte é de crescimento. "As mudanças feitas no percurso tiveram 100% de aprovação. A alteração na data também (antes o Rocky Mountain Games começava a temporada em Atibaia) foi um acerto, pois tivemos dias de sol e bem menos frio em relação aos anos anteriores, sempre chuvosos. Agora é trabalhar para a etapa da Pedra Grande, onde esperamos chegar à casa dos mil inscritos", projetou.
@@ -58,8 +57,7 @@ Site: **[**https://rockymountaingames.com.br/
 **](https://click.presskit.com.br/url/933007a8b6/6361388b6fc)**Instagram : **[**https://www.instagram.com/rockymountaingames/
 **](https://click.presskit.com.br/url/933009c79f/6361388b6fc)**Fan page - **[**https://www.facebook.com/rmountaingames
 **](https://click.presskit.com.br/url/933010d980/6361388b6fc)**Youtube - [https://www.youtube.com/channel/UC2Zd1D_1VDhPsOjbKUyFt0Q
-](https://click.presskit.com.br/url/933011dd4e/6361388b6fc)**[
-](https://click.presskit.com.br/url/9330128437/6361388b6fc)***ZDL***
+](https://click.presskit.com.br/url/933011dd4e/6361388b6fc)*****ZDL***
 ***Doro Jr. - MTb 13209 - ***[***dorojr@zdl.com.br***](https://click.presskit.com.br/url/933013a5b8/6361388b6fc)*** - F: 11 984579723***
 ***Rafael De Marco - Mtb.: 27556 - ***[***rafael@zdl.com.br***](https://click.presskit.com.br/url/933014bd1c/6361388b6fc)*** - Cel: 11 976022986 / WhatsApp: 19 997912108
 

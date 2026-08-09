@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Biólogo, topógrafo, advogado, pesquisador e professor, Augusto Ruschi nasceu na cidade de Santa Teresa, no Espírito Santo. Instigado e deslumbrado pela natureza desde muito criança, Ruschi viveu sua vida cercado pela exuberância da fauna e da flora brasileiras. Graduou-se em Agronomia, mas sua paixão era a Biologia, sobretudo, os beija-flores e as orquídeas, os quais estudava em um pequeno laboratório doméstico, montado por ele mesmo, durante sua juventude. As coleções que montou durante muitos anos receberam ilustres visitantes - do entomólogo italiano Filippo Silvestri e do zoólogo brasileiro Cândido Firmino de Mello Leitão.
 
 Ruschi formalizou sua carreira científica quando contratado como pesquisador pelo Museu Nacional do Rio de Janeiro (MNRJ), em 1939. Heloísa Alberto Torres, sua antiga professora e então diretora da instituição, foi uma das responsáveis pela entrada de Ruschi no MNRJ, onde posteriormente, também atuou como professor. Lá, o cientista especializou-se em Botânica e elaborou um grande projeto de estudos de orquídeas no Espírito Santo. Tal projeto criou a Estação Biológica do MNRJ, permitindo que Ruschi, seu então diretor, voltasse ao campo, a andar pelas matas de sua cidade natal, a estudar e desenhar diversas espécies dessas flores.
@@ -37,7 +36,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

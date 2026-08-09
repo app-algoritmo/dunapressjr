@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Medidas visam a diminuir impacto da covid-19 sobre economia.
 
 Terminar o mês escolhendo quais boletos pagar. Essa virou a rotina de milhões de brasileiros que passaram a ganhar menos ou perderam a fonte de renda por causa da pandemia do novo coronavírus. Para reduzir o prejuízo, o governo adiou e até suspendeu diversos pagamentos esse período. Tributos e obrigações, como o recolhimento das contribuições para o Fundo de Garantia do Tempo de Serviço (FGTS), ficarão para depois.
@@ -118,4 +117,4 @@ Os adiamentos não valem apenas para os consumidores. O Congresso aprovou uma le
 
 Fonte: Agência Brasil – Imagem de destaque: José Cruz/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

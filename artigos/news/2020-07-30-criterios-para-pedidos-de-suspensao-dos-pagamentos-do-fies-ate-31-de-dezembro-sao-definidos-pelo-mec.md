@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Cerca de 1,5 milhão de estudantes podem ser beneficiados. Canais de atendimento para solicitação serão disponibilizados pelos bancos.
 
 Publicada nesta terça-feira, 28, no Diário Oficial da União (DOU), resolução do Comitê Gestor do Fundo de Financiamento Estudantil (Fies) detalha os critérios e procedimentos para pedidos de suspensão dos pagamentos do Fies até 31 de dezembro, data final de vigência do estado de calamidade pública no Brasil. Podem ser beneficiados estudantes que estavam em dia com as prestações do financiamento no dia 20 de março, quando foi reconhecido o estado de calamidade devido à pandemia do coronavírus, aqueles com parcelas em atraso não superior a 180 dias na mesma data e os adimplentes no momento da solicitação da suspensão.
@@ -25,7 +24,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

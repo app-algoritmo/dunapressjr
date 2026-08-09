@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 O Governo Federal publicou decreto, na quarta-feira (27), em que institui o Comitê Nacional de Facilitação do Comércio. O colegiado atuará para implementar as políticas e as diretrizes de facilitação do comércio estabelecidas pelo Conselho de Estratégia Comercial da Câmara de Comércio Exterior do Ministério da Economia (Camex) e pelo Comitê-Executivo de Gestão da referida Câmara.
 
 O colegiado terá reuniões trimestrais e será formado por representantes da Presidência da República, do Ministério da Defesa, por meio da Secretaria de Produtos de Defesa (SEPROD), e das seguintes pastas: Agricultura, Economia e Relações Exteriores.
@@ -21,5 +20,3 @@ O colegiado também deverá formular propostas e recomendações para: a impleme
 *Por André Pinto*
 
 Fonte: Portal de Imprensa do Ministério da Defesa
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

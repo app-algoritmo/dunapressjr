@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice acumula taxas de 2% no ano e de 10,18% em 12 meses.
 
 O Índice Nacional de Custo da Construção – M (INCC-M), medido pela Fundação Getulio Vargas (FGV), registrou taxa de 1,07% em fevereiro deste ano, resultado superior ao 0,93% de janeiro. O INCC-M acumula taxas de inflação de 2% no ano e de 10,18% em 12 meses.
@@ -24,8 +23,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

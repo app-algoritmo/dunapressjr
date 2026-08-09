@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Indicadores analisam o desenvolvimento econômico global.
 
 Os Barômetros Globais da Economia sobem em maio de forma expressiva pelo terceiro mês seguido, sinalizando aceleração do nível de atividade global ao longo do primeiro semestre de 2021. Todas as regiões pesquisadas registram melhora tanto na perspectiva corrente quanto nas expectativas em relação ao futuro. A análise é do Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV) no documento Barômetro Global Coincidente, divulgado hoje (10).
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

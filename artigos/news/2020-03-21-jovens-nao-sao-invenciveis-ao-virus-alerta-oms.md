@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 Especialistas esperam que demore 12 a 18 meses para lançar uma vacina que estará disponível com base nas necessidades.
 
 Centenas de milhões de pessoas em todo o mundo começaram o fim de semana sob um bloqueio de coronavírus, quando o número global de mortes acelerou acentuadamente e a Organização Mundial de Saúde alertou os jovens que eles "não eram invencíveis".
 
-[](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)Contagio - Mapa Jhons Hopkins 
+Contagio - Mapa Jhons Hopkins
 
 A pandemia destruiu completamente vidas em todo o planeta, restringindo fortemente o movimento de grandes populações, fechando escolas e empresas e forçando milhões a trabalhar em casa - enquanto muitos perderam seus meios de subsistência.
 

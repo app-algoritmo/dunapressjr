@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Em 12 meses, o superávit primário chegou a R$ 122,8 bilhões.
 
 As contas públicas do setor público consolidado, formado por governo federal, estados, municípios e empresas estatais, registraram superávit primário de R$ 4,3 bilhões, ante superávit de R$ 5 bilhões em março de 2021, informou nesta segunda-feira (16) o Banco Central (BC). Apesar do resultado, as contas do Governo Central, que reúne Previdência, Banco Central e o Tesouro Nacional, ficaram deficitárias em R$ 7,8 bilhões no mês. Já os governos regionais e as empresas estatais registraram, na ordem, superávits de R$ 11,9 bilhões e R$ 242 milhões no mês.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

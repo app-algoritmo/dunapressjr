@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Hoje os testes se modernizaram e o resultado fica pronto em até 30 minutos. A boa notícia é que o Sistema Único de Saúde (SUS) oferece esses testes gratuitamente nas Unidades Básicas de Saúde (UBSs), Unidades de Pronto Atendimento (Upas) e Centros de Testagem e Aconselhamento (CTA). Entenda mais como funcionam estes testes, especialmente o de HIV.
 
 De acordo com o diretor de Prevenção e Controle das IST, do HIV/Aids e das Hepatites Virais do Ministério da Saúde (DIAHV), Gerson Pereira, no caso do HIV, pode-se fazer um teste rápido, para você ter o resultado no máximo em meia hora. “Dali, você já sai com o diagnóstico. Por isso que a gente chama de teste rápido. E aí você já pode iniciar o tratamento mais cedo possível, de modo que possa evitar a aids”, explica.
@@ -40,9 +39,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/
-
-.

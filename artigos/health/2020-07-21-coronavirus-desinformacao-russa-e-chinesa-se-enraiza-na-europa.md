@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 As informações errôneas sobre o coronavírus divulgadas pela mídia russa e chinesa fazem mais audiência nas redes sociais na França e na Alemanha do que o conteúdo de certos grandes jornais, segundo um estudo.
 
 No Twitter e no Facebook, artigos em francês e alemão compartilhados por mídias como RT ou Sputnik têm mais ressonância do que os do diário *Le Monde* ou da revista *Der Spiegel* , de acordo com este relatório do Oxford Internet Institute.
@@ -44,6 +43,6 @@ Fonte The Time Of Israel
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

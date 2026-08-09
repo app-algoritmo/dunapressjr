@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Um dos estudos mais recentes indica que problemas bucais aumentam risco de desenvolver forma grave da covid-19, especialmente em cardíacos.
 
 A importância da atuação dos dentistas tem sido ressaltada durante a pandemia, quando o atendimento a pessoas internadas e pesquisas vêm mostrando que estar atento à saúde bucal pode ajudar a diminuir a gravidade da covid-19, assim como já se sabia sobre outras doenças.
@@ -40,7 +39,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

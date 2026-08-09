@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 Um estudo divulgado por pesquisadores da Universidade de São Paulo e que contou com a participação do virologista do Instituto Butantan Renato Astray, demonstrou que o zika vírus é capaz de combater um tipo de câncer cerebral em cachorros, que é muito semelhante ao que acomete seres humanos.
 
 A pesquisa reforça o que os pesquisadores já haviam revelado em 2018, ao estudar o efeito do vírus em células cancerígenas humanas injetadas em camundongos: o zika causa esse efeito porque tem uma afinidade maior por células progenitoras, também conhecidas como células-tronco, que, em alguns casos são o tipo de células que formam tumores do sistema nervoso central.
@@ -38,5 +37,3 @@ Fonte: https://butantan.gov.br
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A energia eólica contribui positivamente para a criação de valor e emprego e pode haver grandes oportunidades para a energia eólica na Noruega no futuro. Em recente declaração, Kjell-Børge Freiberg, Ministro do Petróleo e Energia, explicou detalhes sobre o trabalho para criar um quadro nacional para a energia eólica, e o quanto isso oferecerá novas oportunidades. Energia eólica é uma energia limpa, cujo interesse na implantação tem crescido muito na Europa, principalmente na Noruega, onde a energia eólica será expandida. Para o governo norueguês são justamente os recursos energéticos que farão da Noruega um país com grandes oportunidades no futuro. Desde 2017, o governo tem desenvolvido estudos e pesquisas voltados para energias limpas tanto no que concerne à proteção ambiental quanto outros pormenores tais como redução de gastos, auto-suficiência e geração de novos postos de trabalho.
 
 De acordo com o Ministério de Petróleo e Energia da Noruega, o país provavelmente tem os melhores recursos de energia eólica na Europa, pois a Noruega tem a compreensão de que apesar da água ser a base do suprimento de energia, a energia eólica tem um papel importante no futuro inclusive no que diz respeito à diminuição de custos nessa área. Segundo o Ministro Kjell-Børge Freiberg o desenvolvimento tecnológico contemporâneo aponta para a contribuição da energia eólica na geração de mais empregos e mais poder para diversos setores da sociedade. Através de uma estrutura nacional de energia eólica, o governo norueguês pensa em controlar a localização da energia eólica melhor do que o que foi feito até agora; facilitando o desenvolvimento de energia renovável.
@@ -28,6 +27,4 @@ O quadro nacional para a energia eólica não é um plano de desenvolvimento com
 
 [Estrutura nacional para energia eólica](https://www.regjeringen.no/contentassets/8376df3805c346eb80af65d7cabdab0f/bestilling---nasjonal-ramme-for-vindkraft.pdf)
 
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!

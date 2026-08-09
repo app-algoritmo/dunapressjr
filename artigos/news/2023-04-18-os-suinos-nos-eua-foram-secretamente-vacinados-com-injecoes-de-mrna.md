@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Apenas alguns anos atrás, a ideia de que nosso suprimento de comida pudesse ser usado para terapia genética para promover uma agenda transumanista teria soado maluca. Ainda hoje, os globalistas admitem abertamente que essa é sua intenção. A Big Ag já iniciou o plano injetando porcos e vacas com terapia genética de mRNA?**
 
 Os produtores de carne suína usam “vacinas” personalizáveis ​​baseadas em mRNA em seus rebanhos desde 2018, sem informar ao público.
@@ -248,7 +247,7 @@ Existem médicos por aí que respeitam os princípios de precaução e consentim
 
 - 16  [Departamento de Agricultura do Texas, 3 de abril de 2023](https://www.texasagriculture.gov/News-Events/Article/7596/Commissioner-Miller-Statement-on-mRNA-Vaccines-in-Livestock)
 
--  [Perfil do lobista do ](https://themissouritimes.com/lobbyist-profile-the-giddens-group/)17 Missouri Times[](https://themissouritimes.com/lobbyist-profile-the-giddens-group/)
+-  [Perfil do lobista do ](https://themissouritimes.com/lobbyist-profile-the-giddens-group/)17 Missouri Times
 
 - 18  [Twitter Tom Renz 10 de abril de 2023](https://twitter.com/RenzTom/status/1645416058415718402)
 

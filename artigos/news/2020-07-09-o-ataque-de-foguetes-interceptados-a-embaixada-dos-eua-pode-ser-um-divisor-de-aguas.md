@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Isso aumenta as 24 horas de tensão no Iraque que coincidiram com o Dia da Independência Americana. Houve alegações de que os EUA haviam implantado um sistema C-RAM para enfrentar ameaças à embaixada e outras instalações.
 
 Horas depois que os EUA testaram um sistema de defesa que pode impedir morteiros, artilharia e pequenos foguetes, um foguete foi interceptado após ter sido disparado na Zona Verde de Bagdá, onde está localizada a Embaixada dos EUA.
@@ -53,6 +52,6 @@ Fonte The Jerusalem Post****
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

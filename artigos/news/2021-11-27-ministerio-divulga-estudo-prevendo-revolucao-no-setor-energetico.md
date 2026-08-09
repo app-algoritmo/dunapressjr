@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## Áreas em que há digitalização ficam mais competitivas e eficientes.
 
 O setor de energia poderá passar por adaptações tecnológicas que representarão uma revolução similar à ocorrida com as telecomunicações. Em termos práticos, significa, entre um número ainda inimaginável de possibilidades, transformar medidores de energia e demais equipamentos em unidades de inteligência artificial e, a partir da digitalização de dados e procedimentos, ampliar como nunca a qualidade e os serviços prestados pelas empresas do setor.
 
 O potencial da digitalização do setor energético vai muito além do que se pode imaginar nos dias atuais, conforme sugere um estudo divulgado nesta sexta-feira (26), em Brasília, pelo Ministério de Minas e Energia (MME). Foi o que disse à **Agência Brasil** o diretor do Departamento de Desenvolvimento Energético do MME e coordenador do projeto Sistemas de Energia do Futuro, Carlos Alexandre Príncipe Pires.
 
-O estudo Uso de Novas Tecnologias Digitais para Medição de Consumo de Energia e Níveis de Eficiência Energética no Brasil é, segundo ele, “uma ideia lançada no ar” para mostrar à comunidade e, em especial, às empresas do setor energético, “um horizonte inicial” sobre o impacto que a digitalização de equipamentos e serviços pode ter para o Brasil. 
+O estudo Uso de Novas Tecnologias Digitais para Medição de Consumo de Energia e Níveis de Eficiência Energética no Brasil é, segundo ele, “uma ideia lançada no ar” para mostrar à comunidade e, em especial, às empresas do setor energético, “um horizonte inicial” sobre o impacto que a digitalização de equipamentos e serviços pode ter para o Brasil.
 
 Elaborado por meio da Parceria Energética Brasil-Alemanha, o trabalho é produto de uma cooperação entre o Ministério de Economia e Energia (BMWi) da Alemanha e o MME, que tem por base experiências europeias no uso da Inteligência Artificial, Internet das Coisas (IoT), Big Data e tecnologias digitais de ponta.
 
@@ -32,11 +31,11 @@ Diante de tantas possibilidades, não há, segundo Pires, como deixar de se faze
 
 ## Inteligência artificial e “prossumidor”
 
-Ele acrescenta que a digitalização do setor abrange não apenas consumo e oferta, mas “possibilidades quase infinitas do uso de inteligência artificial para a melhoria de processos”. 
+Ele acrescenta que a digitalização do setor abrange não apenas consumo e oferta, mas “possibilidades quase infinitas do uso de inteligência artificial para a melhoria de processos”.
 
 “O consumidor passa a ser o que chamamos de prossumidor: um consumidor mais proativo que, por exemplo, pode se tornar produtor ao gerar, consumir e distribuir energia a partir da própria casa”, disse ao apontar um exemplo básico do que visualiza como uma das possíveis “revoluções” que devem ocorrer no setor, a partir da adoção de tecnologias envolvendo a digitalização da relação de consumo.
 
-As possibilidades não param por aí. “O consumidor será mais ativo na sua relação com as empresas, sabendo quanto consome em tempo real e adotando ajustes que podem ou não ser automatizados residencial, comercial e industrialmente”. Nesse sentido, ainda no campo dos exemplos, um ar-condicionado poderia ser ligado pouco antes de uma pessoa chegar em casa, a partir de um geolocalizador que, via internet, repasse essa informação à central de energia da casa. Poderá também ser desligado automaticamente, fazendo uso dessa mesma tecnologia, quando a pessoa sair de casa. 
+As possibilidades não param por aí. “O consumidor será mais ativo na sua relação com as empresas, sabendo quanto consome em tempo real e adotando ajustes que podem ou não ser automatizados residencial, comercial e industrialmente”. Nesse sentido, ainda no campo dos exemplos, um ar-condicionado poderia ser ligado pouco antes de uma pessoa chegar em casa, a partir de um geolocalizador que, via internet, repasse essa informação à central de energia da casa. Poderá também ser desligado automaticamente, fazendo uso dessa mesma tecnologia, quando a pessoa sair de casa.
 
 ## Distribuição de energia
 
@@ -48,7 +47,7 @@ Há também a expectativa de que, na medida em que uma frota de automóveis for 
 
 ## O que diz o estudo
 
-O estudo divulgado pelo Ministério de Minas e Energia indica alguns desafios básicos, técnicos e de infraestrutura de rede, para que o Brasil avance na digitalização dos serviços oferecidos pelas companhias elétricas. 
+O estudo divulgado pelo Ministério de Minas e Energia indica alguns desafios básicos, técnicos e de infraestrutura de rede, para que o Brasil avance na digitalização dos serviços oferecidos pelas companhias elétricas.
 
 Um deles está relacionado à “necessidade de efetividade da comunicação entre o ponto de medição e a distribuidora [necessidade de um sistema bidirecional de comunicação, o gerenciamento deste sistema dentro do negócio de energia], e seus custos associados [quem pagará o investimento e como ele deve ser articulado entre as diversas possibilidades e *players*]”.
 
@@ -60,7 +59,7 @@ O estudo apresenta, ainda, alguns riscos que devem ser levados em conta, de form
 
 "Alguns exemplos e questões dessa mudança ficam como resultado desta análise: quanto da informação (e qual) deve ser armazenado em tempo real ou em tempos determinados, sobre o consumo e a qualidade da energia entregue para o cliente? O que fazer com essa informação para promover o relacionamento efetivo? Como garantir o uso dessa informação e a privacidade do cliente sobre o seu consumo – quais as restrições de uso das informações do cliente para ampliação de serviços pela concessionária? Como ampliar o relacionamento e garantir uma parceria efetiva entre o cliente e a concessionária, bem como a percepção do valor desse novo relacionamento? As respostas serão dadas pelos diversos agentes do processo, com parcimônia, pois dependem das estratégias assumidas por cada negócio, são regionalizadas e também precisam ser reguladas", indicou.
 
-Segundo a pesquisa, “o tratamento desses dados, em tempo real, o armazenamento em formato útil para agilidade de seu processamento e utilidade, a manutenção da informação para estratégias e tomada de decisões pelo cliente, pela concessionária de distribuição, pela sociedade, pelo regulador representam um grande desafio. A privacidade de dados individuais e coletivos deve ser exercitada e garantida, uma questão ainda em aberto no Brasil para o grande *big data* [conjunto de dados maior e mais complexo, especialmente de novas fontes de dados] gerado”. 
+Segundo a pesquisa, “o tratamento desses dados, em tempo real, o armazenamento em formato útil para agilidade de seu processamento e utilidade, a manutenção da informação para estratégias e tomada de decisões pelo cliente, pela concessionária de distribuição, pela sociedade, pelo regulador representam um grande desafio. A privacidade de dados individuais e coletivos deve ser exercitada e garantida, uma questão ainda em aberto no Brasil para o grande *big data* [conjunto de dados maior e mais complexo, especialmente de novas fontes de dados] gerado”.
 
 “Se o consumidor for o eleito e respeitado como promotor do processo, novos horizontes serão conquistados em decorrência do arranjo inteligente da rede e dos novos negócios que podem ser gerados”, complementou.
 
@@ -72,10 +71,6 @@ Ainda segundo a pesquisa do MME, as mudanças propostas com rede elétrica intel
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

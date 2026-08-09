@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## As práticas de baixo carbono promovem o equilíbrio dos sistemas produtivos e podem gerar aumento de produtividade, em razão do manejo mais adequado.
 
 A adoção de práticas sustentáveis pelos agricultores pode trazer mais eficiência para o sistema agrícola, promovendo a melhoria da renda no campo. Os benefícios vão além da redução das emissões, incluindo a adaptação da agricultura, tornando-a mais resiliente e promovendo equilíbrio dos sistemas produtivos, com menos impactos em razão das mudanças climáticas. Busca-se ainda gerar uma produtividade maior em razão do manejo mais adequado, revertendo em maior rentabilidade da produção e também melhorando a qualidade de vida do agricultor.
@@ -21,13 +20,13 @@ Neste sentido, a Embrapa e a empresa Bayer [estão estabelecendo uma cooperaçã
 
 No Brasil, foram selecionados cerca de 500 produtores rurais, localizados em 14 estados brasileiros (RS, SC, PR, SP, MG, MS, GO, MT, RO, TO, PA, BA, PI, MA), com cultivos principalmente de soja e milho.
 
-Essa iniciativa, denominada “Avaliação piloto do balanço de carbono na produção de milho e soja no Centro-Sul do Brasil: cooperação Bayer e Embrapa para o desenvolvimento sustentável” será conduzida com a participação de três centros de pesquisa da Embrapa no estado de São Paulo: Embrapa Informática Agropecuária (Campinas, SP), Embrapa Instrumentação (São Carlos, SP) e Embrapa Meio Ambiente (Jaguariúna, SP). O projeto de pesquisa piloto abrange o ano agrícola 2020/2021, com duração de 12 meses. 
+Essa iniciativa, denominada “Avaliação piloto do balanço de carbono na produção de milho e soja no Centro-Sul do Brasil: cooperação Bayer e Embrapa para o desenvolvimento sustentável” será conduzida com a participação de três centros de pesquisa da Embrapa no estado de São Paulo: Embrapa Informática Agropecuária (Campinas, SP), Embrapa Instrumentação (São Carlos, SP) e Embrapa Meio Ambiente (Jaguariúna, SP). O projeto de pesquisa piloto abrange o ano agrícola 2020/2021, com duração de 12 meses.
 
 Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

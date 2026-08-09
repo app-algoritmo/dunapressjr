@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 No início de 2020 fomos surpreendidos com a chegada do novo Coronavírus, o agente que provoca a Covid-19, doença que afeta o sistema respiratório humano. Desde então, temos lidado com um turbilhão de sensações, que inclui o medo de adoecer, ou de ver algum ente querido adoecer, a preocupação ao sair de casa, a frustração de cancelar compromissos e a incerteza de quando tudo isso vai passar.
 
 Mas não se sinta só nessa! Diante de tantos desafios, a cabeça realmente entra em outra frequência, e isso está acontecendo com todo mundo. Viver em tempos de pandemia é também uma jornada mental. Por isso, os cuidados que devemos tomar não podem ser somente com o corpo. Vale ficar de olho nas emoções também.
@@ -57,8 +56,4 @@ Através do link abaixo você obtém 25% de desconto, também contribuirá com a
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
 Obrigado pelo apoio!
-
-[](http://saudebrasil.saude.gov.br/eu-quero-me-exercitar-mais/dancar-faz-bem-ao-corpo-a-alma-e-a-mente)

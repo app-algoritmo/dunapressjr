@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ministro do Desenvolvimento Regional inaugurou obra que deve beneficiar pelo menos 50 mil pessoas.
 
 A primeira etapa de um novo Sistema de Esgotamento Sanitário, em Floriano (PI) foi inaugurado nesta sexta-feira (24) pelo ministro do Desenvolvimento Regional, Rogério Marinho. A obra recebeu R$ 47,7 milhões da União e vai dar melhores condições de vida a pelo menos 50 mil pessoas.
@@ -36,4 +35,4 @@ O ministro comentou sobre as entregas realizadas em Floriano: “Obras important
 
 Fonte: gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

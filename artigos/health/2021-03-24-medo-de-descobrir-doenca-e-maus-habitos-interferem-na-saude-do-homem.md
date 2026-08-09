@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Hábitos de vida, exposição a situações de risco, como violência e acidentes de trânsito e de trabalho, consumo de álcool e outras drogas com maior frequência, além da falta de atenção à saúde são os principais fatores que impactam na saúde do homem.
 
 Na faixa etária de 20 a 29 anos, isto se torna mais evidente: a cada cinco pessoas que morrem, quatro são do sexo masculino, sendo que as causas principais são as chamadas “causas externas”, que incluem as violências e os acidentes.
@@ -44,7 +43,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

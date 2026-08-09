@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Saúde tem traçado estratégias, junto com as secretarias estaduais e municipais, para cuidar dos pacientes com outros problemas de saúde não relacionados à Covid-19. Na última segunda-feira (15), foram habilitados 320 novos leitos em Hospitais de Pequeno Porte no Paraná, com investimento de R$ 5,7 milhões. Desde abril, quando a pasta publicou portaria prevendo essas habilitações, o Governo do Brasil habilitou 499 leitos em Hospitais de Pequeno Porte, com investimento de R$ 8,9 milhões.
 
 Os Hospitais de Pequeno Porte são unidades de saúde preparadas e equipadas para receber pacientes que precisam fazer tratamentos diversos e que não estão relacionados ao novo coronavírus. O objetivo é que os hospitais de referência e maior porte concentrem as internações dos pacientes graves ou gravíssimos do coronavírus e que os hospitais de menor porte façam os demais atendimentos, ajudando a desafogar a assistência nos grandes centros.
@@ -28,7 +27,6 @@ As primeiras habilitações desses leitos aconteceram entre 18 e 20 de maio, um 
 
 LEITOS HABILITADOS E PUBLICADOS HPPsUFMunicípioEstabelecimentoNº leitosValorRNParnamirimUnidade Hospitalar Dep. Marcio Marinho31R$ 558.000,00MTAlto AraguaiaHospital Municipal de Alto Araguaia34R$ 612.000,00MTConfresaHospital e Maternidade de Confresa48R$ 864.000,00MTParanatingaHospital e Maternidade São Benedito35R$ 630.000,00MTCanaranaHospital Municipal de Canarana31R$ 558.000,00TOTAL179R$     3.222.000,00
 
-*
 *Fonte gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

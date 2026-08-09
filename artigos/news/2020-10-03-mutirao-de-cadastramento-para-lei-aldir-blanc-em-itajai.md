@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Câmara Setorial de Produção Cultural informa que nos dias 5, 6 e 7 de outubro será feito um mutirão de cadastramento de artistas para o Inciso 1 da Lei Federal nº 14.017 (Lei Aldir Blanc). A ação será realizada em escolas dos bairros Murta, Dom Bosco e Cidade Nova. O Inciso 1 da Lei prevê um auxílio emergencial no valor de R$ 600, durante três meses, para artistas profissionais e amadores em virtude da pandemia de COVID-19.
 
 O mutirão inicia na segunda-feira (05), na Escola Hulse Peixoto (Murta), das 13h às 17h. Na terça-feira (06), a ação será das 16h às 20h na Escola Maria Dutra Gomes (Dom Bosco). Por último, na quarta-feira (07), os interessados serão atendidos na Escola Pedro Rizzi (Cidade Nova), das 13h às 17h.
@@ -28,5 +27,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

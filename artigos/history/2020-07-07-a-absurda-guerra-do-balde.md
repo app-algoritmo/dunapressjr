@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 *“O homem tem que estabelecer um final para a guerra, senão, a guerra estabelecerá um final para a humanidade!”*
 
 John F. Kennedy
@@ -34,4 +33,4 @@ Referência Bibliográfica:
 
 - SILVA, Francisco Carlos Teixeira da. Por que a guerra?: Das batalhas gregas à ciberguerra – Uma história da violência entre os homens. Editora Civilização Brasileira. 2018.
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

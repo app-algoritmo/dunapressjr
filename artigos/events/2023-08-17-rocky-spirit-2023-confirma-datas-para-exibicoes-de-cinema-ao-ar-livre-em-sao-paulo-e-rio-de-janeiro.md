@@ -29,12 +29,11 @@ Além das edições presenciais nas capitais de São Paulo e Rio de Janeiro, o R
 O Rocky Spirit 2023 tem patrocínio da Prefeitura do Rio e apoio da Centauro e Parque Villa-Lobos. As mídias oficiais do evento são GoOutside e Hardcore. A Realização é do Rocky Mountain em parceria com a Mountainfilm.
 
 **Mais informações:****
-Site: [https://rockyspirit.com.br/](https://click.presskit.com.br/url/964210205f/6361388b6fc)[
-](https://click.presskit.com.br/url/964211f5f6/6361388b6fc)Instagram : [https://www.instagram.com/rockyspiritfest/
+Site: [https://rockyspirit.com.br/](https://click.presskit.com.br/url/964210205f/6361388b6fc)Instagram : [https://www.instagram.com/rockyspiritfest/
 ](https://click.presskit.com.br/url/96421201a7/6361388b6fc)Fan page - [https://www.facebook.com/](https://click.presskit.com.br/url/9642139128/6361388b6fc)[rockyspiritfest](https://click.presskit.com.br/url/96421201a7/6361388b6fc)
-*
+
 Assessoria de Imprensa:
-ZDL 
+ZDL
 Doro Jr. - MTb 13209 - ***[***dorojr@zdl.com.br***](https://click.presskit.com.br/url/964214effb/6361388b6fc)*** - F: 11 984579723 ******
 Rafael De Marco - Mtb.: 27556 - ***[***rafael@zdl.com.br***](https://click.presskit.com.br/url/964215e41d/6361388b6fc)*** - Cel: 11 976022986 / WhatsApp: 19 997912108 ******
 

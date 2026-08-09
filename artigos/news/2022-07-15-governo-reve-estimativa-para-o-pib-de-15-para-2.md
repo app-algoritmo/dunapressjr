@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Para 2023, previsão se mantém em 2,5%.
 
 O governo federal aumentou a previsão de crescimento do Produto Interno Bruto (PIB, soma dos bens e dos serviços produzidos no país) este ano. Com a nova estimativa, o crescimento da economia passou de 1,5% para 2%. Para o próximo ano, foi mantida a projeção de crescimento de 2,5%. As informações constam do Boletim Macrofiscal, divulgado nesta quinta-feira (14) pelo Ministério da Economia.
@@ -34,8 +33,4 @@ As estimativas de crescimento do PIB dos países desenvolvidos foram revisadas d
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 A coral-verdadeira (gênero *Micrurus*) é muito conhecida pela população brasileira, e tem um padrão de cores característico: sua pele é desenhada por listras que intercalam preto, vermelho e branco. A coloração não é à toa: seu objetivo é sinalizar aos predadores já de cara que ela é bem perigosa – na natureza, esse tipo de recurso se chama coloração de advertência.
 
 Seus hábitos alimentares fogem do usual: incluem presas alongadas, como lagartos sem patas, cecílias e outras cobras.
@@ -16,7 +15,7 @@ Considerada uma das serpentes mais venenosas do território brasileiro, a coral-
 
 Apesar de representar todo esse perigo, a coral-verdadeira é muito tímida e vive geralmente escondida entre a vegetação rasteira, buracos no chão e debaixo de pedras. Além disso é um animal tranquilo, que em raras ocasiões ataca.
 
-Outra curiosidade bem conhecida é que a coral-verdadeira tem diversas sósias, as corais-falsas. Essas serpentes, que não são perigosas, mimetizam as características físicas das corais-verdadeiras para afastar possíveis predadores. 
+Outra curiosidade bem conhecida é que a coral-verdadeira tem diversas sósias, as corais-falsas. Essas serpentes, que não são perigosas, mimetizam as características físicas das corais-verdadeiras para afastar possíveis predadores.
 
 Se encontrar uma possível coral, não tente diferenciá-las! Afaste-se do local o mais rápido possível. Se estiver em ambiente urbano, avise as autoridades responsáveis. Caso seja picado por uma coral-verdadeira, busque atendimento médico imediatamente. O tratamento da picada é feito com a administração do soro antielapídico, fabricado no Instituto Butantan.
 
@@ -41,7 +40,3 @@ Fonte: https://butantan.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

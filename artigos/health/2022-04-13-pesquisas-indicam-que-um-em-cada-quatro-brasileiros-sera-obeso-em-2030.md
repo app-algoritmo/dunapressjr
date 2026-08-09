@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Onze anos e 165 quilos separam André Martins do antes e pós-bariátrica. Apesar do sobrepeso, o gatilho para o vendedor cogitar o procedimento para redução de peso foi uma ciatalgia (dor no nervo isquiático) que o deixou 30 dias preso a uma cama. "Eu só levantava para ir ao banheiro e tomar banho, e literalmente chorava de dor. A bariátrica foi a decisão mais acertada da minha vida", relembra. 
 
 Paciente André Martins antes e depois da cirurgia bariátrica.
@@ -23,7 +22,7 @@ André foi submetido à técnica *duodenal switch*, em que é realizada uma ress
 
 Nos últimos 10 anos, a cirurgia via robótica tem crescido também na rotina dos cirurgiões bariátricos. Apesar de atualmente menos de 5% dos procedimentos serem realizados via robótica, ela tem papel importante nos pacientes chamados super-obesos, que são pessoas com Índice de Massa Corporal (IMC) acima de 50 kg/m². "O principal benefício dessa técnica está no aumento da capacidade visual para o cirurgião  proporcionando uma imagem ampliada e tridimensional, permitindo visualizar detalhes da cirurgia e diminuir riscos de sangramentos e lesões. O robô também tem a capacidade de estabilizar o movimento das mãos retirando qualquer tremor, além de dar ao cirurgião um terceiro braço, o que traz maior autonomia no andamento da operação", afirma Marchesini.
 
-De acordo com especialistas, as pessoas elegíveis para realizar o procedimento são as que estão com IMC entre 35 kg/m² e 40 kg/m² com comorbidades ou acima de 40 kg/m² sem a presença de outras doenças diagnosticadas. Recentemente, a cirurgia foi aprovada também em pacientes com diabetes e IMC entre 30 e 35, porém, existem alguns critérios nesses casos que devem ser obedecidos. 
+De acordo com especialistas, as pessoas elegíveis para realizar o procedimento são as que estão com IMC entre 35 kg/m² e 40 kg/m² com comorbidades ou acima de 40 kg/m² sem a presença de outras doenças diagnosticadas. Recentemente, a cirurgia foi aprovada também em pacientes com diabetes e IMC entre 30 e 35, porém, existem alguns critérios nesses casos que devem ser obedecidos.
 
 **Retirada de Pele**
 
@@ -33,7 +32,7 @@ Após o procedimento, alguns pacientes acabam ficando com excesso de pele e reco
 
 **País obeso**
 
-Estudo da Organização Mundial da Saúde (OMS) indica que 22% da população adulta no Brasil está obesa. O índice é maior que a média global, que está em 13%.  Pesquisa financiada pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) prevê que esse índice salte para 26% em 2030, ou seja, um em cada quatro brasileiros estejam obesos. 
+Estudo da Organização Mundial da Saúde (OMS) indica que 22% da população adulta no Brasil está obesa. O índice é maior que a média global, que está em 13%.  Pesquisa financiada pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) prevê que esse índice salte para 26% em 2030, ou seja, um em cada quatro brasileiros estejam obesos.
 
 A Sociedade Brasileira de Cirurgia Metabólica e Bariátrica aponta que mais de 5 milhões de brasileiros são elegíveis para o procedimento. Os últimos dados sobre o número de cirurgias bariátricas realizadas por planos de saúde mostram que a quantidade de procedimentos subiu 68%, entre 2011 e 2020; já os realizados pelo Sistema Único de Saúde (SUS) caíram na mesma proporção.
 
@@ -48,7 +47,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

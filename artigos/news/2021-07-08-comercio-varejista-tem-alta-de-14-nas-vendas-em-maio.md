@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Sete dos oito setores pesquisados registraram crescimento na comparação com o mês de abril.
 
 As vendas no comércio varejista tiveram aumento de 1,4% em maio, na comparação com o mês anterior. Essa é a segunda alta mensal consecutiva. Em abril, as vendas no varejo haviam crescido 4,9%. No ano, o setor acumula ganho de 6,8%. Os dados são da Pesquisa Mensal do Comércio (PMC), divulgada nesta quarta-feira (7) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Na comparação entre maio deste ano e maio de 2020, as vendas no varejo aumentaram 16,0%.
@@ -30,10 +29,6 @@ No comércio varejista ampliado, que inclui, além do varejo, as atividades de v
 
 Fonte: gov.br
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

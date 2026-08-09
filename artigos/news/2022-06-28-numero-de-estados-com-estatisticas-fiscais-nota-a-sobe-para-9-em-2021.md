@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Total de municípios saltou de 191 em 2020 para 365 no ano passado.
 
 Os estados e os municípios brasileiros estão melhorando a qualidade das estatísticas enviadas ao Tesouro Nacional. Segundo o Ranking da Qualidade da Informação Contábil e Fiscal de 2021, divulgado nesta segunda-feira (27) pelo Ministério da Economia, nove governos estaduais e 365 prefeituras obtiveram nota A no ano passado, contra três estados a 191 municípios em 2020.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

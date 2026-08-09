@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Exportações superam importações em US$ 61,01 bilhões.
 
 Beneficiada pela aceleração do preço das *commodities* (bens primários com cotação internacional), a balança comercial encerrou 2021 com recorde. No ano passado, o Brasil exportou US$ 61,01 bilhões a mais do que importou, o melhor resultado da série histórica iniciada em 1989.
@@ -44,10 +43,6 @@ Outras mudanças foram a inclusão, nas importações, da energia elétrica prod
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

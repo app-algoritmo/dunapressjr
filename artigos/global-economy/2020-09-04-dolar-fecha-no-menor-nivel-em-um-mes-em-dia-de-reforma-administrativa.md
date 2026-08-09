@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Real teve melhor desempenho entre as principais moedas do planeta.
 
 No dia em que a proposta de [**reforma administrativa**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-09/proposta-de-reforma-administrativa-preve-criacao-de-novos-vinculos) chegou ao Congresso Nacional, o dólar fechou no menor nível em um mês e teve o melhor desempenho entre as principais moedas do planeta. O dólar comercial encerrou esta quinta-feira (3) vendido a R$ 5,291, com recuo de R$ 0,026 (-1,27%). A cotação está no menor valor desde 4 de agosto, quando tinha fechado em R$ 5,284.
@@ -23,5 +22,3 @@ Em Nova York, o índice Nasdaq (das empresas de tecnologia) caiu 5% e o S&P 500 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

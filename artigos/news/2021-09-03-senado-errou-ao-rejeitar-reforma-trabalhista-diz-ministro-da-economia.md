@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Paulo Guedes elogiou aprovação da reforma do IR na Câmara.
 
 O Senado errou e “deu um passo atrás” ao **[rejeitar a Medida Provisória (MP) 1.045](https://dunapress.org/2021/09/02/senado-rejeita-proposta-de-minirreforma-trabalhista/)**, que propunha uma nova reforma trabalhista, disse nesta quinta-feira (2) o ministro da Economia, Paulo Guedes. Segundo ele, a MP não tinha o objetivo de fragilizar as relações trabalhistas, mas sim de estimular a contratação de jovens.
@@ -34,10 +33,6 @@ Em relação à proposta para adiar parte do pagamento de R$ 89 bilhões de prec
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

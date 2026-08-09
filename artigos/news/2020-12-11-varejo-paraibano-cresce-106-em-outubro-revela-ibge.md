@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Com o quarto mês consecutivo de expansão, o volume de vendas do varejo paraibano registrou crescimento de 10,6% em outubro sobre o mesmo período do ano passado, segundo Pesquisa Mensal do Comércio (PMC), divulgada nesta quinta-feira (10) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Foi o quarto mês seguido de alta acima de dois dígitos. Os meses de julho (11,6%), agosto (16,1%), setembro (12,7%) tiveram também forte expansão acima de dois dígitos. A Paraíba também apresentou alta nas vendas de outubro sobre setembro de 2,3%, bem acima da média nacional (0,9%).
 
-No acumulado de janeiro a outubro, o varejo paraibano não apenas zerou as perdas das vendas no ano, mas já acumula elevação de 4,1% sobre o mesmo período do ano passado. No acumulado de janeiro a outubro, é o sexto melhor resultado do País e um dos três estados do Nordeste que apresentam alta no indicador sobre o ano passado, ao lado do Maranhão (6,9%) e do Piauí (4,8%). Os outros cinco estados da Região continuam acumulando no negativo no ano.   
+No acumulado de janeiro a outubro, o varejo paraibano não apenas zerou as perdas das vendas no ano, mas já acumula elevação de 4,1% sobre o mesmo período do ano passado. No acumulado de janeiro a outubro, é o sexto melhor resultado do País e um dos três estados do Nordeste que apresentam alta no indicador sobre o ano passado, ao lado do Maranhão (6,9%) e do Piauí (4,8%). Os outros cinco estados da Região continuam acumulando no negativo no ano.
 
 ## **Comércio ampliado segue crescendo**
 
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

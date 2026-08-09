@@ -7,7 +7,6 @@ categories:
 - Video library
 ---
 
-
 ## Seleção de especialistas traz produções que mostram o que a falta de compliance pode causar em famílias, empresas, países e até no mundo inteiro.
 
 O termo *compliance* vem do inglês "*to comply” *e significa "estar em conformidade". Mas, o que isso quer dizer exatamente? Na prática, o *compliance* tem como objetivo proporcionar segurança e minimizar riscos de instituições e empresas. Essa prática garante o cumprimento dos atos, regimentos, normas e leis estabelecidas interna ou externamente nas organizações. A inclusão do *compliance* pode trazer impactos positivos e uma série de benefícios às companhias como, por exemplo, atrair profissionais que pretendem fazer investimentos em empresas sólidas sem o risco de se envolver em escândalos.
@@ -16,7 +15,7 @@ Para a analista de *compliance *da Tecnobank, Thais Takagi, as práticas são ap
 
 Buscando entender mais sobre o assunto e ajudar quem tem interesse, alguns dos maiores especialistas do tema no Brasil fizeram indicações de filmes e séries que mostram o *compliance *(ou a falta dele) na prática.
 
-**A Grande Aposta** 
+**A Grande Aposta**
 
 Lançado em janeiro de 2016, o longa é uma adaptação do livro “The Big Short”, escrito por Michael Lewis, de “Moneyball” e “Um Sonho Possível”. Com um time que reúne astros como Ryan Gosling, Christian Bale, Brad Pitt e Steve Carell, o filme retrata uma história real de um grupo de investidores que “apostou” contra os bancos em 2008 e conseguiu ganhar muito dinheiro com o estouro da crise financeira. “Um dos pontos fortes do filme é que ele consegue explicar o tema, para quem não sabe o que foi esse período, de forma bem didática”, conta a diretora de Ética e Compliance e acadêmica da Academia Nacional de Seguros e Previdência (ASNP), Patricia Godoy Oliveira. Assista [aqui ](https://www.youtube.com/watch?v=4UKz8fyPIEE)ao trailer oficial.
 
@@ -36,7 +35,7 @@ Documentário de 2010 sobre o escândalo de Eliot Spitzer, uma estrela em ascens
 
 Vencedor de dois prêmios na edição de 2014 do Globo de Ouro - melhor ator para Matthew McConaughey e melhor ator coadjuvante para Jared Leto - o drama "Clube de Compras Dallas" (Dallas Buyers Club) retrata a luta de um boiadeiro do Texas que vê a sua vida descontraída, virada do avesso quando é diagnosticado com AIDS e lhe dão 30 dias de vida. Determinado a sobreviver, ele decide agir pelas suas próprias mãos, rastreando tratamentos alternativos em todo o mundo por meios legais e ilegais. "O filme trata de um caso polêmico e verídico ocorrido nos Estados Unidos em que houve ausência de integridade na conduta de grandes empresas farmacêuticas e órgãos de controle estatal na regulamentação, fiscalização e punição de um cidadão que importava ilegalmente medicamentos contra o HIV. Uma bela lição sobre a exigência do *compliance* em todos os setores da sociedade", considera o professor do mestrado em Direito da Universidade Positivo, Fernando Mânica. Assista [aqui ](https://www.youtube.com/watch?v=jbt97-NAQ3Y)ao trailer oficial.
 
-***Dirty Money - Na rota do dinheiro sujo*** 
+***Dirty Money - Na rota do dinheiro sujo***
 
 É um documentário americano em formato de minissérie que aborda os grandes escândalos de corrupção corporativa nos Estados Unidos. São tratados, por exemplo, o caso de fraude no dispositivo catalisador de veículos a diesel da Volkswagen, e a ligação do HSBC com lavagem de dinheiro do tráfico de drogas, no México. É uma obra original da Netflix, que lançou todos os 6 episódios de uma vez, em 2018. Os produtores executivos da minissérie incluem o documentarista Alex Gibney, já premiado com o Oscar. Cada episódio se concentra em um exemplo de corrupção corporativa e inclui entrevistas com os principais participantes de cada história. "A série traz um importante panorama das formas pelas quais a falta de mecanismos de integridade efetivos favorece práticas que prejudicam toda a coletividade", comenta a superintendente jurídica da Tecnobank, Luciana Sterzo. Segundo ela, Dirty Money mostra do que o capitalismo é capaz quando seus limites não ficam claros. Empresas fazem bilhões enquanto a população perde, muitas vezes, sem nem mesmo saber, e acabam virando apenas peças que geram lucro. Assista [aqui ](https://www.youtube.com/watch?v=CsplLiZHbj0)ao trailer oficial.
 
@@ -44,7 +43,7 @@ Vencedor de dois prêmios na edição de 2014 do Globo de Ouro - melhor ator par
 
 É um documentário americano de 2005, escrito e dirigido por Alex Gibney e baseado no livro de Bethany McLean e Peter Elkind. Apresenta a ascensão e queda da corporação do ramo de energia e gás natural Enron, a sétima maior empresa dos Estados Unidos, envolvida em um esquema mascarado por uma fraude contábil. A falência da empresa de energia foi decretada em 2001 e deixou saldo de 20 mil desempregados e um bilhão de dólares na conta dos responsáveis pela fraude. As filmagens consultam analistas econômicos e ex-empregados, que denunciam Kenny Lay e Jeff Skilling como os cabeças do escândalo. O filme mostra também o envolvimento da empresa com a crise energética da Califórnia, decorrente da desregulamentação do sistema elétrico. "Esse documentário relata como surgiu a Lei SOX, depois dos escândalos em companhias de energia elétrica nos EUA. A empresa Arthur Andersen, na época, uma das maiores companhias globais de auditoria, também foi atingida. O enredo, baseado em fatos reais, retrata a importância da governança no mundo corporativo", ressalta a superintendente jurídica da Tecnobank, Luciana Sterzo. Assista [aqui ](https://www.youtube.com/watch?v=L8xozGIyAGk)ao trailer oficial.
 
-**Inside Job** 
+**Inside Job**
 
 A diretora de Ética e Compliance e acadêmica da Academia Nacional de Seguros e Previdência (ANSP), Patricia Godoy, indica ainda o "Inside Job" (Trabalho Interno), mais um filme que retrata os lados obscuros de Wall Street, conduzido pelo diretor Charles Ferguson. Narrado por Matt Damon e indicado ao Oscar como melhor documentário, ele revela verdades incômodas da pior crise já vista desde 1929. Baseado em uma extensa pesquisa e séries de entrevistas com políticos, economistas e jornalistas, o longa mostra as corrosivas relações de governantes, agentes reguladores e a Academia – e expõe também uma teia de mentiras e condutas criminosas que prejudicaram seriamente a vida de milhões de pessoas, principalmente por conta de cobiça, cinismo e farsas. Os causadores de tudo isso permanecem dando as cartas na mesa. Assista [aqui ](https://www.youtube.com/watch?v=tytH0CQSsXo)ao trailer oficial.
 
@@ -54,16 +53,6 @@ A diretora de Ética e Compliance e acadêmica da Academia Nacional de Seguros e
 
 ***The Corporation*** ***
 ***É um documentário canadense de 2003, dirigido e produzido por Mark Achbar e Jennifer Abbott, baseado em roteiro adaptado por Joel Bakan do livro "The Corporation: The Pathological Pursuit of Profit and Power" (A Corporação: a busca patológica por lucro e poder). O filme descreve o surgimento das grandes corporações como pessoas jurídicas, e discute, do ponto de vista psicológico, que, em sendo pessoas, que tipo de pessoas elas seriam. O documentário ganhou 26 prêmios, e até bons comentários do lado conservador, como da revista “The Economist”, que o chamou de “um ataque surpreendentemente racional e coerente à instituição mais importante do capitalismo”. "A obra é fundamental para que se tenha a real dimensão da magnitude dos riscos sociais que as grandes empresas adquiririam o potencial de gerar nas últimas décadas. Para quem trabalha com programas de prevenção de ilícitos em empresas, deve-se ter como premissa conhecer profundamente o contexto em que está inserido", afirma o coordenador do Núcleo Criminal na Dotti Advogados, Gustavo Scandelari. Assista [aqui ](https://www.youtube.com/watch?v=d4b75P7eNfM)ao trailer oficial.
-
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 
 Fonte: Central Press
 
@@ -76,7 +65,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

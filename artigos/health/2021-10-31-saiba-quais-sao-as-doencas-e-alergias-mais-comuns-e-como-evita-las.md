@@ -7,10 +7,9 @@ categories:
 - Health
 ---
 
-
 Coriza, espirros, coceiras no nariz, olhos e garganta. Esses são alguns dos sintomas que um alérgico costuma sentir na primavera. Nem é preciso o anúncio da estação mais florida e colorida do ano para quem sofre com alergias respiratórias. A beleza das flores e plantas também carrega os pólens pelo ar, que são responsáveis por provocar algumas doenças durante essa época do ano.
 
-Segundo o otorrinolaringologista e professor de Medicina da Universidade Positivo, Vinicius Ribas Fonseca, nesse período do ano, principalmente no Sul do país, há um número maior de plantas da família das Gramíneas, principalmente o Azevém, que libera muito pólen e, por isso, a alergia que mais costuma aparecer é a respiratória, que causa a rinite. “Os principais sintomas são os espirros, coceiras no nariz, nos olhos, na garganta, nariz trancado e também uma dificuldade maior de respirar”, explica. Ele lembra que alguns sintomas podem ser parecidos com os da covid-19, mas são poucos, já que no quadro de alergia não se enquadram tosse, febre, dores no corpo nem sintomas gastrointestinais. 
+Segundo o otorrinolaringologista e professor de Medicina da Universidade Positivo, Vinicius Ribas Fonseca, nesse período do ano, principalmente no Sul do país, há um número maior de plantas da família das Gramíneas, principalmente o Azevém, que libera muito pólen e, por isso, a alergia que mais costuma aparecer é a respiratória, que causa a rinite. “Os principais sintomas são os espirros, coceiras no nariz, nos olhos, na garganta, nariz trancado e também uma dificuldade maior de respirar”, explica. Ele lembra que alguns sintomas podem ser parecidos com os da covid-19, mas são poucos, já que no quadro de alergia não se enquadram tosse, febre, dores no corpo nem sintomas gastrointestinais.
 
 De acordo com o professor, para o tratamento de qualquer tipo de alergia é preciso reconhecer e se afastar do alérgeno que causa o mal-estar. “Caso você não possa se afastar da substância causadora da alergia, o tratamento é feito com antialérgicos, corticóides nasais e uso de soro fisiológico nasal, e também o tratamento preventivo com algumas medicações que ajudam a diminuir a intensidade da crise, além das vacinas”, aponta Fonseca.
 
@@ -29,7 +28,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

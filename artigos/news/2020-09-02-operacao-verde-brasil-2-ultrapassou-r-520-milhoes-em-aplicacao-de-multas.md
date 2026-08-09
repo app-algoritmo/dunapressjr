@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Em programa de rádio semanal, o vice-presidente disse que a operação é um exemplo do cuidado do país com a Amazônia.
 
 Nos últimos dias, a Operação Verde Brasil 2, do Ministério da Defesa, que atua para combater e reprimir delitos ambientais na Amazônia Legal, intensificou a aplicação de multas por crimes ambientais na região. A informação foi divulgada no programa semanal de rádio “Por Dentro da Amazônia”, com o vice-presidente da República e presidente do Conselho Nacional da Amazônia Legal, Hamilton Mourão. A edição desta segunda-feira (31) contou com a participação do Almirante Fuzileiro Naval Carlos Chagas, porta-voz da Operação Verde Brasil 2.
@@ -37,5 +36,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

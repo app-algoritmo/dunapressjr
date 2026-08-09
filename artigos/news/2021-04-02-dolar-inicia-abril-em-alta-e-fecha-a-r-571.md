@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa caiu 1,18% em dia de ajustes.
 
 Num dia de ajustes no mercado interno, o real descolou-se das principais moedas e desvalorizou-se nesta quinta-feira (1º). A bolsa de valores caiu pelo segundo dia seguido, após subir 6% em março.
@@ -24,10 +23,6 @@ O mercado financeiro [**repercutiu **](https://agenciabrasil.ebc.com.br/economia
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)  
-
-Obrigado pelo apoio!   
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

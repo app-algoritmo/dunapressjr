@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Próximo passo será a formalização do contrato de concessão dos portos de Vitória e Barra do Riacho, que receberão R$ 850 milhões em investimentos privados.
 
 A desestatização da primeira autoridade portuária do Brasil foi concretizada na segunda-feira (5) com a assinatura do contrato de compra e venda das ações da Companhia Docas do Espírito Santo (Codesa). Leiloada em março deste ano, a Codesa – responsável pela administração dos portos de Vitória e de Barra do Riacho (ES) – foi arrematada pelo fundo de investimentos FIP Shelf 119 Multiestratégia. O projeto – qualificado no Programa de Parcerias de Investimentos (PPI) por meio do Decreto nº 9.852/2019 – é o primeiro de desestatização de portos públicos no Brasil.
@@ -27,8 +26,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

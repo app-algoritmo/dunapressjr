@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Crescimento acumulado no ano é de 3,8%.
 
 As vendas no comércio varejista caíram 1,3% na passagem de agosto para setembro. É a segunda queda seguida, embora menos intensa que a verificada em agosto (-4,3%), após a alta de 3,1% de julho. Os dados da Pesquisa Mensal de Comércio (PMC) foram divulgados nesta quinta-feira (11) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -48,10 +47,6 @@ Por outro lado, as vendas de Livros, jornais, revistas e papelaria estão 37,3% 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

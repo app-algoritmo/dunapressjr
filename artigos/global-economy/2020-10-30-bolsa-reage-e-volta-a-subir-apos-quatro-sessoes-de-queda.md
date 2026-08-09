@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Dólar fecha estável e continua no maior nível em cinco meses.
 
 Em um dia de alívio no mercado financeiro, a bolsa de valores reagiu e voltou a subir, depois de quatro sessões seguidas de queda. O dólar oscilou bastante, alternando altas e baixas, mas fechou com leve alta, próximo da estabilidade e no maior nível em cinco meses.
@@ -27,5 +26,3 @@ A [**geração recorde de empregos formais**](https://agenciabrasil.ebc.com.br/e
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Rick Wilking/ Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

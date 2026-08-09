@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estimativa de inflação sobe de 5,31% para 5,44%.
 
 As instituições financeiras consultadas pelo Banco Central (BC) aumentaram a projeção para a expansão da economia brasileira pela sétima semana consecutiva. A previsão para o crescimento do Produto Interno Bruto (PIB) – a soma de todos os bens e serviços produzidos no país – subiu de 3,96% para 4,36%.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

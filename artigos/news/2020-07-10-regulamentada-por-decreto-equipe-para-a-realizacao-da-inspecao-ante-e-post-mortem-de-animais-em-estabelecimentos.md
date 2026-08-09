@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## A norma busca atender à demanda crescente pela abertura de novas indústrias e as solicitações de turnos extras de abate, buscando melhoria da gestão sem retirar a atuação do Estado em função da proteção da saúde pública
 
 O governo federal publicou nesta quarta-feira (8), no Diário Oficial da União, o [Decreto n° 10.419](http://www.in.gov.br/en/web/dou/-/decreto-n-10.419-de-7-de-julho-de-2020-265632739), que regulamenta a composição da equipe do Serviço de Inspeção Federal para as atividades de inspeção *ante e post mortem *dos animais destinados à matança em estabelecimentos, nos termos do disposto no Decreto nº 9.013, de 29 de março de 2017.
@@ -27,7 +26,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medida abrange 6.195 códigos da Nomenclatura Comum do Mercosul para reduzir impactos decorrentes da pandemia e do conflito na Ucrânia sobre o custo de vida da população e preços de insumos do setor produtivo.
 
 O governo federal decidiu, nesta segunda-feira (23), reduzir em mais 10% as alíquotas do Imposto de Importação sobre 6.195 códigos tarifários da Nomenclatura Comum do Mercosul (NCM). A medida abrange bens como feijão, carne, massas, biscoitos, arroz, materiais de construção, dentre outros da Tarifa Externa Comum (TEC) do bloco. Esses itens já haviam tido uma redução de 10% em novembro do ano passado, conforme a [Resolução Gecex nº 269/2021](https://in.gov.br/en/web/dou/-/resolucao-gecex-n-269-de-4-de-novembro-de-2021-357327000). Assim, somando-se a nova medida à medida anterior, mais de 87% dos códigos tarifários da NCM tiveram a alíquota reduzida para 0% ou reduzida em um total de 20%.
@@ -38,8 +37,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

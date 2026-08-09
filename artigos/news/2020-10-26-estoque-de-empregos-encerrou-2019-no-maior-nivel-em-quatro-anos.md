@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Segundo a Rais, país retomava geração de trabalho antes da pandemia.
 
 A Relação Anual de Informações Sociais (Rais) de 2019, divulgados nesta segunda-feira (26) pela Secretaria de Trabalho do Ministério da Economia, aponta que o estoque de postos de trabalho com carteira assinada encerrou o ano passado no maior nível desde 2015. A tendência de crescimento dos empregos formais, segundo a pasta, foi interrompida pela pandemia de covid-19.
@@ -25,5 +24,3 @@ A pandemia do novo coronavírus interrompeu a geração de empregos. Segundo o C
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

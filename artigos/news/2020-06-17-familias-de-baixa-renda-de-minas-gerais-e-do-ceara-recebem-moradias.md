@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ao todo, foram entregues mil unidades habitacionais, que atendem grupos familiares com renda mensal inferior a R$ 1,8 mil.
 
 Famílias de baixa renda de Iguatu (CE) e de Campina Verde (MG) receberam novas moradias do Programa Minha Casa, Minha Vida. O Ministério do Desenvolvimento Regional (MDR) autorizou a entrega das chaves de 1 mil unidades habitacionais, que atenderão grupos familiares com renda mensal inferior a R$ 1,8 mil. O investimento federal nos dois residenciais foi de R$ 72,7 milhões para beneficiar mais de 4 mil pessoas.
@@ -26,4 +25,4 @@ No setor de habitação, só neste ano, o ministério autorizou a transferência
 
 Fonte gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=joiceferreiradunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

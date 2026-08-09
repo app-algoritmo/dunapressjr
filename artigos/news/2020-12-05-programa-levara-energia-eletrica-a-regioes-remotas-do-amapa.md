@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Termo de Compromisso para a implementação do Programa Mais Luz para a Amazônia no estado do Amapá foi publicado no [Diário Oficial da União (DOU)](https://www.in.gov.br/en/web/dou/-/extrato-de-compromisso-292021167) desta quinta-feira (3). O ato tem como objetivo estabelecer as metas para o atendimento com energia elétrica à população residente em regiões remotas do Amapá que ainda não possui acesso a esse serviço público, e para as quais não é possível o atendimento com extensão de redes convencionais.
 
 **A previsão é de atendimento a mais de 2.500 famílias nos próximos dois anos, por meio de sistemas de geração que utilizam energia renovável, especialmente a energia solar, contribuindo para a preservação da Floresta Amazônica e a diminuição da emissão de gases do efeito estufa, além de incentivar a utilização de fontes renováveis de geração de energia elétrica.**
@@ -28,7 +27,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

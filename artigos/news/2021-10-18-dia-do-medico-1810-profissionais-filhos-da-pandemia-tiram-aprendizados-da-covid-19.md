@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## **Nova rotina imposta pelo coronavírus reforçou valor da profissão e destacou o papel do atendimento humanizado dentro dos hospitais brasileiros.**
 
 “O que me faz chegar bem em casa é saber que hoje dei alta para o seu Aurélio, que estava há quatro meses internado no hospital. O que me faz acordar de manhã é pensar que tenho que ver como está a dona Etelvina, porque preciso saber o resultado de um exame importante. E não é apenas uma questão de obrigação, quero estar lá e ver meus pacientes voltando com saúde para casa”. Esse é o relato de Fernanda Proença Lepca, residente médica do Hospital Universitário Cajuru (HUC), instituição com atendimento 100% SUS localizada em Curitiba (PR).
@@ -17,7 +16,7 @@ Ela compõe a parcela feminina de residentes, que no Brasil chega a 55% do total
 
 “Como hospital-escola, temos o papel de unir educação, atendimento de qualidade à população e pesquisa, por isso somos terreno fértil para o desenvolvimento prático de profissionais recém-formados”, avalia a coordenadora da residência de Clínica Médica do hospital, Larissa Hermann Nunes. “Nesses poucos meses, vivi o período de maior aprendizado da minha vida. Já sou uma médica muito melhor do que quando entrei”, confirma a residente Fernanda.
 
-“Mais do que uma profissão, uma doação diária. Com a formação de futuros médicos em meio à covid-19, não é diferente. Não somente no Brasil, mas nos quatro cantos do mundo, a medicina e os hospitais tiveram que se desdobrar e se adaptar de inúmeras formas. Por mais que tenhamos oportunidades de reconhecermos lições a serem tiradas do momento em que estamos vivendo, a verdade é que os ‘filhos’ da pandemia se tornarão médicos diferenciados”, indica o médico intensivista, professor e diretor-geral do HUC, Juliano Gasparetto. 
+“Mais do que uma profissão, uma doação diária. Com a formação de futuros médicos em meio à covid-19, não é diferente. Não somente no Brasil, mas nos quatro cantos do mundo, a medicina e os hospitais tiveram que se desdobrar e se adaptar de inúmeras formas. Por mais que tenhamos oportunidades de reconhecermos lições a serem tiradas do momento em que estamos vivendo, a verdade é que os ‘filhos’ da pandemia se tornarão médicos diferenciados”, indica o médico intensivista, professor e diretor-geral do HUC, Juliano Gasparetto.
 
 **Tecnologia e humanização andam juntas**
 
@@ -38,7 +37,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

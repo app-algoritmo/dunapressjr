@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa de valores não funcionou nesta segunda-feira.
 
 Em um dia de negociações em horário reduzido por causa do feriado em São Paulo, o dólar teve valorização moderada, seguindo o mercado externo. O dólar comercial encerrou a segunda-feira (25) vendido a R$ 5,509, com alta de R$ 0,03 (+0,6%).
@@ -24,8 +23,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

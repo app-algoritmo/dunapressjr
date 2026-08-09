@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 ## Embora seja conhecido pelo trabalho de busca e resgate, a recente onda de atividades terroristas tem mostrado a Unidade de Cão de Israel - literalmente.
 
 No meio de um dia de luto nacional por aqueles que morreram no desastre de Meron, a Israel Dog Unit (IDU) foi chamada para responder a outro incidente trágico, um tiroteio na junção Tapuach.
@@ -29,7 +28,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

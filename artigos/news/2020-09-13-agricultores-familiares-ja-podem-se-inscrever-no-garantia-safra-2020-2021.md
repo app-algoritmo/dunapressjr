@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Valor do benefício é de R$850. Ministério da Agricultura vai disponibilizar 1.350 milhão de inscrições. Agricultores familiares de dez estados poderão se inscrever para receber o benefício.
 
 O agricultor familiar de municípios sujeitos a perda de safra por causa da seca ou enchentes pode contar com apoio para garantir condições mínimas de sobrevivência. O Ministério de Agricultura, Pecuária e Abastecimento (Mapa) já está com as inscrições abertas para o programa Garantia-Safra, período 2020/2021. Agricultores familiares de dez estados (Alagoas, Bahia, Ceará, Maranhão, Minas Gerais, Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe) poderão se inscrever para receber o benefício de R$850. 
@@ -55,5 +54,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice ficou em 50,1 pontos, ante os 50 pontos registrados em setembro.
 
 A produção industrial ficou estável em outubro, informou nesta segunda-feira (22) a Confederação Nacional da Indústria (CNI). Este é o segundo mês consecutivo de estabilidade na produção, após quatro meses de alta. Os dados, que constam do boletim Sondagem Industrial, elaborado pela confederação, mostram que em outubro, o índice de evolução da produção ficou em 50,1 pontos, ante os 50 registrados em setembro.
@@ -36,14 +35,10 @@ O boletim mostra ainda que a confiança do empresariado diminuiu, com recuo na p
 
 O índice de expectativa de demanda recuou 2,7 pontos em outubro, na comparação com novembro, atingindo 54,4 pontos. O índice de expectativa de exportação registrou 53 pontos, o que representa uma queda de 0,5 ponto em relação a novembro.
 
-Já o índice de número de empregados sofreu diminuição de 1,3 ponto, alcançando 51,2 pontos em novembro. O índice de expectativa de compras de matérias-primas foi de 52,9 pontos, o que representa um recuo de 1,9 ponto na comparação dos meses de outubro e novembro. Esse resultado foi 5,1 pontos menor do que o registrado em novembro do ano anterior, quando o índice ficou em 58 pontos. 
+Já o índice de número de empregados sofreu diminuição de 1,3 ponto, alcançando 51,2 pontos em novembro. O índice de expectativa de compras de matérias-primas foi de 52,9 pontos, o que representa um recuo de 1,9 ponto na comparação dos meses de outubro e novembro. Esse resultado foi 5,1 pontos menor do que o registrado em novembro do ano anterior, quando o índice ficou em 58 pontos.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

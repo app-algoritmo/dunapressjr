@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Expectativa para 2020 é de 2,47% e para ano que vem, de 3,02%.
 
 O mercado elevou a expectativa para a inflação em 2020 a nível próximo ao patamar mínimo do intervalo da meta do Banco Central (BC) e aumentou também a projeção para a inflação do ano que vem, mostrou o relatório Focus divulgado nesta terça-feira (13).
@@ -23,5 +22,3 @@ Para a Selic, os investidores seguem prevendo que a taxa básica será mantida e
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

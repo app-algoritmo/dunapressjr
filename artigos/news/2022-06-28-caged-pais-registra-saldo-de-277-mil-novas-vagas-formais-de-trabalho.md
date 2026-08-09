@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### São Paulo foi o estado com maior número de novos postos.
 
 Em maio deste ano, o Brasil registrou um saldo de 277.018 novos empregos formais. Segundo os dados do Novo Caged (Cadastro Geral de Empregados e Desempregados), que o Ministério do Trabalho e Previdência divulgou hoje (28), no mês passado foram registradas 1.960.960 contratações com carteiras assinadas e 1.683.942 desligamentos.
@@ -32,14 +31,10 @@ Também foram registradas 19.530 admissões em regime de tempo parcial e 16.251 
 
 Ao abrir, esta manhã, a coletiva de imprensa que o Ministério do Trabalho e Previdência realiza todos os meses para detalhar os resultados do Caged, o ministro José Carlos Oliveira comemorou os números de maio. Segundo ele, o total de 41,72 milhões de trabalhadores celetistas é um recorde na história do país em termos de emprego formal.
 
-“Só este ano, já são cerca de 1,5 milhão de novos empregos criados. Duzentos e setenta e sete mil apenas no mês de maio”, destacou o ministro. “No início de 2022, tínhamos uma projeção de que, até o fim deste ano, chegaríamos a 1,5 milhão [novos postos de trabalho]. E como eu já tinha falado antes, levando em conta apenas o resultado destes primeiros cinco meses, já podemos sonhar com um número muito maior”. 
+“Só este ano, já são cerca de 1,5 milhão de novos empregos criados. Duzentos e setenta e sete mil apenas no mês de maio”, destacou o ministro. “No início de 2022, tínhamos uma projeção de que, até o fim deste ano, chegaríamos a 1,5 milhão [novos postos de trabalho]. E como eu já tinha falado antes, levando em conta apenas o resultado destes primeiros cinco meses, já podemos sonhar com um número muito maior”.
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

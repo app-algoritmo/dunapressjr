@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estimativa é que a taxa Selic fique em 5% ao ano, diz BC.
 
 A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA - a inflação oficial do país) deste ano subiu de 4,60% para 4,71%. É a 11ª semana consecutiva de aumento. A estimativa está no boletim Focus de hoje (22), pesquisa divulgada semanalmente pelo Banco Central (BC) com a projeção para os principais indicadores econômicos.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

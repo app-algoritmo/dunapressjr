@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 ## "Nos dedicamos ao resgate de galgos ao mesmo tempo em que educamos as crianças sobre a nossa responsabilidade de respeitar e cuidar deles"
 
 Criados em diversos países para serem usados em corridas que envolvem apostas em dinheiro e também como cães de caça, os **[galgos](https://vegazeta.com.br/?s=galgos)**, conhecidos como rápidos e ágeis, muitas vezes têm um trágico destino quando já não são considerados bons rastreadores ou bons corredores – abandono ou morte.
@@ -37,7 +36,3 @@ Fonte: https://vegazeta.com.br/category/noticias/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Novas regras para fortalecer a inclusão de famílias pertencentes a povos indígenas nos serviços e benefícios ofertados pela Rede Socioassistencial foram publicadas, nesta segunda-feira (23), no [Diário Oficial da União](https://www.in.gov.br/en/web/dou/-/resolucao-n-20-de-20-de-novembro-de-2020-289544277). A medida, do Conselho Nacional de Assistência Social (CNAS), tem como principal objetivo melhorar o atendimento às comunidades indígenas, em especial neste momento de distanciamento social.
 
 “A Política Nacional de Assistência Social é dirigida a todas as famílias e cidadãos em situação de vulnerabilidade. Neste segmento, estão incluídas as comunidades indígenas, povos tradicionais, moradores em zona urbana e rural de todos os municípios brasileiros”, explica a diretora do Departamento de Proteção Social Básica da Secretaria Nacional de Assistência Social, do Ministério da Cidadania, Tânia Garib.
@@ -31,7 +30,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

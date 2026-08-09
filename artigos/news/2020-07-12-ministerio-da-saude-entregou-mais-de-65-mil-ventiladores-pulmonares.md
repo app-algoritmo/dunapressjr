@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 No início de maio a técnica de análises clínicas, Silvia Teresa Martins, começou se sentir mal. Estava com diarreia, febre, dor de cabeça e no corpo. Ela procurou uma Unidade de Pronto Atendimento (UPA) na cidade onde mora, São Luís, capital do Maranhão, e, após exames, veio o diagnóstico de Covid-19 e pneumonia.
 
 Foram 20 dias de internação. Nesse período, Silvia Martins chegou a ficar com 70% do pulmão comprometido e teve uma complicação, um derrame cardíaco. Diante do quadro complicado, o uso de um ventilador pulmonar foi fundamental para que ela pudesse se recuperar e voltar para casa curada.
@@ -48,6 +47,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

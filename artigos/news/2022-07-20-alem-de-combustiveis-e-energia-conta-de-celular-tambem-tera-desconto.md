@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Descontos geram renda e oportunidades para população, disse ministro.
 
 Com redução média de R$ 1,75 na gasolina em todo o Brasil, a queda da cobrança do Imposto Sobre Circulação de Mercadorias e Serviços (ICMS) sobre diversos produtos terá impactos positivos sobre a economia, em especial para os microempreendedores, informou nesta terça-feira (19) o ministro de Minas e Energia, Adolfo Sachsida, em entrevista ao programa *A Voz do Brasil*.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

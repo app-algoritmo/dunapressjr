@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A pesquisa foi divulgada hoje pelo Ipea.
 
 A alta no preço dos alimentos pressionou a inflação dos mais pobres em outubro e representou 60% de todo o indicador Ipea de Inflação por Faixa de Renda, divulgado hoje (11) pelo Instituto de Pesquisa Econômica e Aplicada (Ipea). Segundo o instituto, as famílias de renda muito baixa acumulam uma inflação de 3,53% em 2020 e de 5,33% em 12 meses, enquanto a faixa de renda alta vem se beneficiando da queda no preço dos serviços e acumula 1,04% em 2020 e 2,48% em 12 meses.
@@ -22,10 +21,6 @@ Apesar disso, em outubro, as passagens aéreas ajudaram a puxar a inflação dos
 
 A inflação acumulada em 12 meses apresentou uma tendência de aceleração para todas as faixas de renda. Em outubro do ano passado, o índice mensal havia sido de 0,01% para os mais pobres, contra 0,98% neste ano. Para os mais ricos, o indicador passou de 0,17% para 0,82%.
 
-- 
-
 Fonte: Agência Brasil – Imagem de destaque: Tânia Rego/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

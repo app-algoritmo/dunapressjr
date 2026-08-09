@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Balanço foi divulgado pela Abimaq.
 
 O faturamento da indústria de máquinas e equipamentos teve queda de 9% em agosto na comparação com o mesmo mês do ano passado. Segundo balanço divulgado nesta quarta-feira (28) pela Associação Brasileira da Indústria de Máquinas e Equipamentos (Abimaq), a receita líquida total ficou em R$ 28,341 bilhões.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

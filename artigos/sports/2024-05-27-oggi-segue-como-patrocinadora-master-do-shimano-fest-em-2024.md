@@ -39,7 +39,7 @@ A edição 2023 do Shimano Fest recebeu 50.250 visitantes que participaram de pa
 
 10 - A OGGI conta com uma linha completa de bikes: Mountain Bike, Urbana, Speed, Elétrica e Lazer.
 
-**Atrações e novidades - **Além da continuidade da OGGI como patrocinadora, o Shimano Fest 2024 tem confirmado atrações consagradas ao lado de grandes novidades, como a chegada da etapa da Copa do Mundo UCI Mountain Bike Eliminator (XCE). 
+**Atrações e novidades - **Além da continuidade da OGGI como patrocinadora, o Shimano Fest 2024 tem confirmado atrações consagradas ao lado de grandes novidades, como a chegada da etapa da Copa do Mundo UCI Mountain Bike Eliminator (XCE).
 
 Em parceria com Avelar Sports – que fará a transmissão ao vivo pelo canal da Shimano no Youtube – a disputa receberá até 80 dos melhores bikers do planeta, sendo 50 estrangeiros e 30 brasileiros no domingo (18).
 
@@ -50,18 +50,16 @@ Em paralelo às atividades esportivas, o Shimano Fest contará com Arena Kids, A
 Assim como nas edições anteriores, a entrada de visitantes segue grátis, pedindo-se apenas a doação de 1kg de alimento. A programação será dividida em dois momentos. Nos dias 15 e 16, quinta e sexta, a feira de negócios será exclusiva para profissionais do mercado. No final de semana, dias 17 e 18, o festival é aberto para todo o público. Os horários são de 10h às 20h de quinta à sábado e 10h até 17h no domingo.
 
 **Mais informações:
-****Site:**[www.shimanofest.com.br](https://click.presskit.com.br/url/10153967e0d/6361388b6fc)[
-](https://click.presskit.com.br/url/1015397bdc5/6361388b6fc)**Instagram:** @shimanofest
-**Facebook:**[https://www.facebook.com/Shimanofest](https://click.presskit.com.br/url/101539875a7/6361388b6fc)[
-](https://click.presskit.com.br/url/101539875a7/6361388b6fc)[**site: bike.shimano.com/pt-BR
+****Site:**[www.shimanofest.com.br](https://click.presskit.com.br/url/10153967e0d/6361388b6fc)**Instagram:** @shimanofest
+**Facebook:**[https://www.facebook.com/Shimanofest](https://click.presskit.com.br/url/101539875a7/6361388b6fc)[**site: bike.shimano.com/pt-BR
 **](https://click.presskit.com.br/url/1015399d859/6361388b6fc)[**media.shimanolatam.com/pt-BR
 **](https://click.presskit.com.br/url/101540028a0/6361388b6fc)**Instagram: @shimanobrasil
 ****fanpage: [facebook.com/ShimanomtbBrasil/](http://facebook.com/ShimanomtbBrasil/)
 
-*****Assessoria de Imprensa:         ***** 
-*****ZDL          ***** 
-*****Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](mailto:dorojr@zdl.com.br) - F: 11 984579723         ***** 
-*****Rafael De Marco - Mtb.: 27556 - [rafael@zdl.com.br](mailto:rafael@zdl.com.br) - Cel: 11 976022986         ***** 
-*****WhatsApp: 19 997912108         ***** 
-*****Site: ***[***www.zdl.com.br***](https://click.presskit.com.br/url/1015401ea4b/6361388b6fc)***         ***** 
+*****Assessoria de Imprensa:         *****
+*****ZDL          *****
+*****Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](mailto:dorojr@zdl.com.br) - F: 11 984579723         *****
+*****Rafael De Marco - Mtb.: 27556 - [rafael@zdl.com.br](mailto:rafael@zdl.com.br) - Cel: 11 976022986         *****
+*****WhatsApp: 19 997912108         *****
+*****Site: ***[***www.zdl.com.br***](https://click.presskit.com.br/url/1015401ea4b/6361388b6fc)***         *****
 *****Facebook: ***[***www.facebook.com/ZDLSports***](https://click.presskit.com.br/url/1015402e5e0/6361388b6fc)

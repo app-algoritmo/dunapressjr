@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice eliminou avanço de 0,6% registrado em julho.
 
 A produção industrial brasileira caiu 0,6% em agosto deste ano na comparação com o mês anterior, o que eliminou o avanço de 0,6% registrado em julho. Os dados são da Pesquisa Industrial Mensal (PIM), divulgada nesta quarta-feira (5) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

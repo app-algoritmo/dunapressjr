@@ -8,14 +8,13 @@ categories:
 - News
 ---
 
-
 Os números se referem ao período entre janeiro e agosto do ano corrente, e já demonstram um crescimento de 13% nos gastos com pessoal em relação ao mesmo período de 2019.
 
 O Tribunal de Contas do Estado da Paraíba (TCE-PB) apresentou nesta terça-feira (08), o 22­º Relatório semanal do processo nº 7158/20, que acompanha os gastos do Governo do Estado em ações de combate à pandemia causada pelo coronavírus. Nesta semana o Comitê Técnico de auditores, além de avaliar os números atualizados da execução orçamentária neste período de emergência na saúde pública, também fez novo comparativo entre os gastos e receitas da gestão estadual no período entre 2015 e 2020, como forma de mensurar o impacto da pandemia nas finanças públicas.
 
 A consolidação dos números no relatório evidenciou que o gasto com pessoal até o dia 31 de agosto deste ano representou 74% de toda a despesa empenhada, um valor nominal de R$ 5,2 bilhões. Em 2015, conforme os dados levantados pelos auditores, esse número era de R$ 3,5 bilhões e representa 58% da despesa total, demonstrando um crescimento de 48% nessa categoria de despesa de lá pra cá, “insustentável quando se verifica a taxa de crescimento da receita no mesmo período“.
 
-Com orientação do presidente do TCE-PB, conselheiro Arnóbio Viana, os relatórios são apresentados semanalmente, sempre buscando o controle na movimentação dos recursos destinados ao combate à pandemia. 
+Com orientação do presidente do TCE-PB, conselheiro Arnóbio Viana, os relatórios são apresentados semanalmente, sempre buscando o controle na movimentação dos recursos destinados ao combate à pandemia.
 
 O conselheiro Fernando Catão, relator do processo nº 7158/20, durante a sessão plenária desta quarta-feira (09), ressaltou que “a despesa com pessoal está superando as receitas com ICMS, FPE e Fundeb somadas”. E completou: “essa é uma luz vermelha que se acende para todos os gestores do Estado, independente em qual esfera de poder esteja. O comprometimento é muito grande e precisa ser acompanhado com atenção”.
 
@@ -32,5 +31,3 @@ O processo 7158/20 e seus autos, incluindo os 22 relatórios já apresentados, p
 **Fonte: TCE-PB – Imagem de destaque: Marcello Casal Jr./Agência Brasil**
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

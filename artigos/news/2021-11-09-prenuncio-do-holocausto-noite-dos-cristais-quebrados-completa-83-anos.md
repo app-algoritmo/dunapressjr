@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em 9 de novembro de 1938, o regime nazista matou judeus, incendiou sinagogas, saqueou e destruiu lojas e outros estabelecimentos da comunidade judaica, no que marcou o início do Holocasto e ficou conhecido como a “Noite dos Cristais Quebrados” (Kristallnacht). O episódio ocorreu em toda a Alemanha e Áustria. O Museu do Holocauto lembra a data com ato que conta com apoio da CONIB. ([veja a agenda](https://www.conib.org.br/memorial-do-holocausto-promove-evento-para-lembrar-o-massacre-de-babi-yar-e-a-noite-dos-cristais-quebrados/))
 
 A justificativa usada pelos nazistas foi o assassinato do então diplomata alemão em Paris, Ernst von Rath, pelo jovem judeu Herschel Grynszpan, de 17 anos, dois dias antes. Mas a perseguição nazista à comunidade judaica alemã já havia começado em abril de 1933, com a convocação de um boicote aos estabelecimentos pertencentes a judeus. Mais tarde, os judeus foram proibidos de frequentar estabelecimentos públicos, inclusive hospitais.
@@ -27,7 +26,3 @@ Fonte: https://www.conib.org.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O PL estabelece que os colecionadores, atiradores e caçadores poderão transportar uma arma de fogo curta durante o trajeto entre o local de guarda do acervo e os locais de treinamento, de prova ou competição, de caça ou abate. Além disso, no certificado das armas de atiradores desportivos e caçadores será gravada a inscrição “autorizado o transporte”.
 
 No dia 18 de abril, foi promovida audiência pública na Assembleia Legislativa de Santa Catarina (ALESC) para debater os projetos de leis (PLs) 6/2022, de autoria do deputado Jessé Lopes, e 11/2022, do deputado Sargento Lima, ambos do PL, que tratam do risco da atividade e da efetiva necessidade do porte de armas de fogo aos colecionadores, atiradores desportivos e caçadores (CACs) catarinenses. Os argumentos favoráveis serão incorporados ao parecer da relatora da matéria na Comissão de Constituição e Justiça (CCJ), deputada Ana Campagnolo (PL), proponente do evento. Para ela, há forte apoio populacional à proposta.
@@ -48,7 +47,3 @@ O senador Jorginho Mello (PL) defendeu a aprovação da lei, por considerar que 
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

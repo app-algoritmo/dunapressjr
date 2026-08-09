@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Durante a 6ª Reunião de Ministros da Indústria do grupo, ela defendeu ações de inovação, produtividade e competitividade para o crescimento.
 
 “O governo federal está promovendo um processo de transformação do setor industrial brasileiro com medidas que simplificam as regras e estimulam a competitividade”. A afirmação foi feita pela secretária especial de Produtividade e Competitividade do Ministério da Economia, Daniella Marques, durante a 6ª reunião de Ministros da Indústria do Brics – grupo que reúne Brasil, Rússia, Índia, China e África do Sul –, na manhã desta segunda-feira (23). “Nós estamos reindustrializando o Brasil”, ressaltou a secretária.
@@ -37,8 +36,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

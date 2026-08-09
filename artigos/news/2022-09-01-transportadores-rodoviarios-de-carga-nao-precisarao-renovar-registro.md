@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Validade do cadastro passará a ser indeterminada.
 
 A partir hoje (1º de setembro), os transportadores rodoviários de carga não terão de renovar a validade do Registro Nacional de Transportadores Rodoviários de Cargas (RNTRC), documento que os capacita para o frete, conforme[** resolução**](https://www.in.gov.br/en/web/dou/-/resolucao-n-5.982-de-23-de-junho-de-2022-410035120) publicada em junho pela Agência Nacional de Transportes Terrestres (ANTT).
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

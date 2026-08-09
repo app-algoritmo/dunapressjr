@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Marco Legal do Saneamento Básico extingue a possibilidade de novos contratos de programa pactuados sem licitação entre municípios e empresas de saneamento.
 
 O Congresso Nacional decidiu, na última quarta-feira (17/3), manter os vetos do presidente Jair Bolsonaro ao novo Marco Legal do Saneamento Básico. Com isso, fica impedida a prorrogação, por 30 anos, ou a assinatura, sem licitação, de novos contratos de prestação de serviços de saneamento básico oferecidos por empresas estaduais de saneamento aos municípios. Foram 292 votos pela manutenção, 169 contrários e uma abstenção. A matéria não precisará ir ao Senado.
@@ -36,10 +35,6 @@ Com a implementação do Marco, a expectativa é de ocorram investimentos em tor
 
 Fonte: Ministério da Economia – Imagem de destaque: **Arquivo/Agência Brasil**
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.    
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)  
-
- Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+ Obrigado pelo apoio!

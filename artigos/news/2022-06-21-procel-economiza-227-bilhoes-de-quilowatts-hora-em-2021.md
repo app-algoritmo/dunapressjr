@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Economia equivale a 4,54% do consumo de energia elétrica do país.
 
 O Programa Nacional de Conservação de Energia Elétrica (Procel) respondeu pela economia de cerca de 22,73 bilhões de quilowatts-hora (kWh) de energia elétrica em 2021, o que corresponde a 4,54% do consumo total de eletricidade no Brasil.
@@ -52,8 +51,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

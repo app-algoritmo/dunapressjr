@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Com revisão, déficit orçamentário de 2022 está perto de ser zerado.
 
 O Projeto de Lei Orçamentária de 2022 (PLOA 2022), definido pelo PLN 19/2021, ganhou um acréscimo de verbas de R$ 72,1 bilhões. A mudança foi aprovada nesta quarta-feira (1º) pela Comissão Mista de Orçamento.
@@ -22,10 +21,6 @@ Segundo projeções elaboradas pelo Ministério da Economia, o PIB deverá cresc
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

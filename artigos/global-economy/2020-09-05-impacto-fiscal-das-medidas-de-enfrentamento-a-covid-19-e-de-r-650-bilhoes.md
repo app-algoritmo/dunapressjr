@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 A análise do impacto fiscal das medidas de enfrentamento ao coronavírus foi divulgada pelo Ministério da Economia.
 
 O impacto fiscal das medidas de enfrentamento da Covid-19 no Brasil será de cerca de R$ 605 bilhões em 2020. O valor se deve à uma queda na arrecadação de R$ 20 bilhões, e mais R$ 584,3 bilhões relacionados às despesas com o combate da doença. Os dados foram divulgados nesta sexta-feira (04) pelo Ministério da Economia.
@@ -37,5 +36,3 @@ O secretário também ressaltou a importância de o país dar seguimento à real
 Fonte: gov.br – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

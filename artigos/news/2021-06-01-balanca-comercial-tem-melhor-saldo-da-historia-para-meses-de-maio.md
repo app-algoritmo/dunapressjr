@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## País exportou US$ 9,29 bilhões a mais do que importou.
 
 Beneficiada pelo início da safra e pela alta das *commodities* (bens primários com cotação internacional), a balança comercial registrou o melhor saldo da história para meses de maio, desde o início da série histórica, em 1989. No mês passado, o país exportou US$ 9,291 bilhões a mais do que importou.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

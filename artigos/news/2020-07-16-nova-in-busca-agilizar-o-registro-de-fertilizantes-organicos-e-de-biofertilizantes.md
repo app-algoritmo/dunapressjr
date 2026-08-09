@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A IN tem o objetivo de adequar e melhorar o dispositivo legal para a concessão de registros de fertilizantes orgânicos e de biofertilizantes e estabelecer procedimentos mais rápidos e eficientes
 
 Foi publicada nesta quarta-feira (15) a [Instrução Normativa (IN) nº 61](http://www.in.gov.br/en/web/dou/-/instrucao-normativa-n-61-de-8-de-julho-de-2020-266802148), que estabelece as regras sobre definições, exigências, especificações, garantias, tolerâncias, registro, embalagem e rotulagem dos fertilizantes orgânicos e dos biofertilizantes, destinados à agricultura.
@@ -26,7 +25,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

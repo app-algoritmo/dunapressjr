@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A extração de petróleo e gás, geração de energia renovável, navegação, pesca e turismo tornam a faixa oceânica brasileira, chamada de Amazônia Azul, fundamental para a economia e a soberania do país. **Neste dia 16 de novembro, quando é comemorado o Dia Nacional da Amazônia Azul, o Presidente Jair Bolsonaro assinou o decreto que institui o 10º Plano Setorial para os Recursos do Mar**.
 
 O decreto define diretrizes e prioridades para o setor no período de 2020 a 2023 com medidas que orientam o desenvolvimento racional e sustentável de atividades de exploração e aproveitamento dos recursos vivos, minerais e energéticos da Amazônia Azul, que compreende o Mar Territorial, a Zona Econômica Exclusiva e a Plataforma Continental. O instrumento decorre da Política Nacional para os Recursos do Mar.
@@ -45,5 +44,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

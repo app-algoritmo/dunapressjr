@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ministério da Educação (MEC) alterou as datas dos processos seletivos do Programa Universidade para Todos (Prouni) e da pré-seleção do Fundo de Financiamento Estudantil (Fies). Com isso, os estudantes que participaram dos processos seletivos devem ficar atentos às datas finais para a entrega de documentos. A medida tem o objetivo de minimizar os prejuízos da pandemia do coronavírus na vida dos estudantes, já que diversas instituições de ensino estão com suas atividades paralisadas em razão da determinação de estados e municípios.
 
 O estudante cadastrado na lista de espera do Prouni têm até 21 de maio para enviar a documentação para a instituição de ensino superior, para comprovação das informações prestadas na inscrição. A última pré-seleção dos candidatos do Fies será realizada até 22 de maio.
@@ -39,8 +38,6 @@ Após a complementação de informações nos sistemas dos programas, os estudan
 Assim que o documento for emitido, o candidato tem 30 dias úteis para ir à agência da Caixa Econômica Federal escolhida na hora da inscrição para formalização do contrato de financiamento.
 
 Fonte: gov.br / Imagem em destaque:  Arquivo/EBC
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Assine o Press clicando no banner acima e contribua para o intercâmbio Brasil-Noruega, bem como notícias de fontes primárias e confiáveis, como também artigos científicos de todas as áreas. Muito conhecimento para sua VIDA!***
 

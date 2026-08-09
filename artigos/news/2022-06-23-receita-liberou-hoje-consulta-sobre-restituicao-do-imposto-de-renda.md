@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Cerca de 4,25 milhões de contribuintes receberão R$ 6,3 bilhões.
 
 A partir das 10h desta quinta-feira (24), a Receita Federal liberou a consulta ao segundo dos cinco lotes de restituição de 2022. O lote também contempla restituições residuais de anos anteriores.
@@ -22,7 +21,7 @@ A consulta no site permite a verificação de eventuais pendências que impeçam
 
 ### Calendário
 
-Inicialmente prevista para terminar em 29 de abril, o[** prazo de entrega**](http://agenciabrasil.ebc.com.br/economia/noticia/2022-04/prazo-para-entrega-da-declaracao-do-ir-e-prorrogado-para-31-de-maio) da Declaração do Imposto de Renda Pessoa Física foi adiado para 31 de maio  para diminuir os efeitos da pandemia de covid-19 que pudessem prejudicar o envio, como atraso na obtenção de comprovantes. Apesar do adiamento, o calendário original de restituição foi mantido, com cinco lotes a serem pagos entre maio e setembro, sempre no último dia útil de cada mês.
+Inicialmente prevista para terminar em 29 de abril, o[** prazo de entrega**](http://agenciabrasil.ebc.com.br/economia/noticia/2022-04/prazo-para-entrega-da-declaracao-do-ir-e-prorrogado-para-31-de-maio) da Declaração do Imposto de Renda Pessoa Física foi adiado para 31 de maio para diminuir os efeitos da pandemia de covid-19 que pudessem prejudicar o envio, como atraso na obtenção de comprovantes. Apesar do adiamento, o calendário original de restituição foi mantido, com cinco lotes a serem pagos entre maio e setembro, sempre no último dia útil de cada mês.
 
 A restituição será depositada na conta bancária informada na Declaração de Imposto de Renda. Se, por algum motivo, o crédito não for realizado, como no caso de conta informada desativada, os valores ficarão disponíveis para resgate por até um ano no Banco do Brasil.
 
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

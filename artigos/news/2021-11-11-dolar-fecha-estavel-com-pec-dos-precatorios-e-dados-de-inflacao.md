@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa encerra em alta pelo segundo dia consecutivo.
 
 A aprovação em segundo turno da Proposta de Emenda à Constituição (PEC) dos Precatórios e a alta da inflação em outubro fizeram o dólar fechar o dia estável, apesar das pressões do mercado internacional. A bolsa de valores desacelerou perto do fim da sessão, mas teve alta pelo segundo dia seguido.
@@ -28,10 +27,6 @@ O dólar só não fechou em baixa porque a inflação nos Estados Unidos também
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em um exemplo concreto de inovação científica, o pesquisador Emanuel Neto Alves de Oliveira, professor e coordenador do *campus* de Pau dos Ferros, do Instituto Federal do Rio Grande do Norte (IFRN), desenvolveu ao longo do seu trabalho de doutorado na Universidade Federal de Campina Grande (UFCG), um produto inédito no mercado: o iogurte em pó. Com bolsa de pesquisa financiada pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), a iniciativa já foi patenteada no Instituto Nacional de Propriedade Intelectual (INPI).
 
 O trabalho do pesquisador procurou dar maior tempo de vida a um produto alimentício com alto poder nutritivo, muito bem aceito e consumido pela população brasileira.  “O alimento desenvolvido não necessita de refrigeração, o que faz com que o iogurte em pó, além de ter um maior período de validade, ainda possa atingir mercados mais distantes da região produtora, o que não acontece atualmente com os iogurtes encontrados nos supermercados”, detalha Emanuel.
@@ -34,7 +33,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

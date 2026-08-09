@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Para garantir a proteção de profissionais de saúde que atuam na linha de frente do enfrentamento à Covid-19, o Ministério da Saúde já distribuiu 115,2 milhões de Equipamentos de Proteção Individual (EPIs) para todo o País. Entre os itens estão máscaras, aventais, óculos e protetores faciais, toucas, sapatilhas, luvas e álcool. As entregas vão ajudar a reforçar as redes de saúde dos estados e municípios no combate a pandemia da Covid-19.
 
 “São dezenas de voos diariamente levando EPIs para todo o Brasil. É um reforço do Governo do Brasil para que não falte equipamentos nos estados. Se um estado não teve condição de comprar ou não recebeu ou teve problema com a licitação de itens, a entrega de EPIs é reforçada”, explicou o ministro interino da Saúde, Eduardo Pazuello. E completou: “O Sistema Único de Saúde (SUS) é a melhor ferramenta que o Brasil poderia ter para combater a pandemia. É um exemplo para o mundo”.
@@ -24,8 +23,6 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique no banner abaixo para assinar
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Terra Roxa/PR – Na noite desta quarta-feira, dia 20/05, mais um grande trabalho foi realizado por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, PRF, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 
 Durante patrulhamento na zona rural de Terra Roxa/PR, policiais visualizaram movimentação suspeita e resolveram realizar aproximação para melhor fiscalização.
@@ -19,5 +18,3 @@ A equipe policial iniciou acompanhamento tático e logrou êxito em realizar apr
 Os materiais apreendidos foram encaminhados à Delegacia da Polícia Federal de Guaíra para os procedimentos de praxe.
 
 Comunicação Social da Polícia Federal em Guaíra/PR
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

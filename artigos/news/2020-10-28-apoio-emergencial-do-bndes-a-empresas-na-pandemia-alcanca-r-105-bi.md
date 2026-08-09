@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Gustavo Montezano fala sobre contribuições sociais durante a pandemia.
 
 O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) atingiu R$ 105 bilhões concedidos como apoio emergencial desde o início da pandemia do novo coronavírus, em março deste ano. O recurso foi destinado a 258 mil empresas brasileiras que respondem pela geração de 8,5 milhões de empregos. Em entrevista nesta terça-feira (27) à *Voz do Brasil*, o presidente do BNDES, Gustavo Montezano, revelou que a prioridade foram micro, pequenas e médias empresas (MPMEs), que constituem 96% do total de empresas atendidas.
@@ -53,5 +52,3 @@ https://youtu.be/ach8D9INS38
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

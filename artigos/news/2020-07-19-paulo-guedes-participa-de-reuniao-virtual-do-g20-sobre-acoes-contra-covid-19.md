@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O ministro da Economia, Paulo Guedes, participou neste sábado (18) da Reunião de Ministros de Finanças e Presidentes de Bancos Centrais do G20. No encontro virtual foi analisados os resultados das ações adotadas pelos países do grupo como resposta coletiva aos efeitos sanitários, econômico-financeiros e sociais decorrentes da pandemia do novo coronavírus (Covid-19).
 
 Essas ações imediatas de resposta foram discutidas durante o planejamento do grupo econômico para 2020 e reunidas, em abril, no Plano de Ação do G20. As iniciativas estão sendo implementadas, monitoradas e, agora, serão reavaliadas.
@@ -26,6 +25,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

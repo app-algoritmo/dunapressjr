@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Saldo positivo é referente ao acumulado dos últimos três anos e meio. 
+Saldo positivo é referente ao acumulado dos últimos três anos e meio.
 
 Os ventos adversos e o mar agitado, decorrentes da pandemia de coronavírus (COVID-19), não impediram o Porto de Itajaí de registrar um marco histórico: o crescimento de 225% no número de contêineres movimentados. Esse saldo positivo é referente ao acumulado na movimentação dos últimos três anos e meio. O mês de outubro também foi de crescimento no porto público (33% em comparação ao mesmo período do ano passado).
 
@@ -37,5 +36,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

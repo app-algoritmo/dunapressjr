@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Segundo secretário, governo só terá R$ 1,1 bi livres desse total.
 
 A alta da inflação no segundo semestre deste ano aumentou em R$ 14,5 bilhões os recursos a serem liberados em 2022 pela Proposta de Emenda à Constituição (PEC) dos Precatórios. O espaço fiscal criado passou de R$ 91,6 bilhões para R$ 106,1 bilhões. No entanto, desse total, o governo só terá R$ 1,1 bilhão para serem livremente gastos.
@@ -32,10 +31,6 @@ O valor de R$ 1,1 bilhão para gastos livres não cobre medidas anunciadas pelo 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Local é a primeira atuação interestadual do Programa Vigia e conta com ações conjuntas entre as forças de segurança federal e estaduais do Paraná e Mato Grosso do Sul. A Base Trarbach é a primeira atuação integrada do Programa Nacional de Segurança nas Fronteiras e Divisas (Vigia). 
+Local é a primeira atuação interestadual do Programa Vigia e conta com ações conjuntas entre as forças de segurança federal e estaduais do Paraná e Mato Grosso do Sul. A Base Trarbach é a primeira atuação integrada do Programa Nacional de Segurança nas Fronteiras e Divisas (Vigia).
 
 Nesta sexta-feira (11), foi inaugurada a Base Náutica Interestadual Trarbach, em Querência do Norte, no Paraná. O evento contou com a participação do ministro da Justiça e Segurança Pública (MJSP), André Mendonça. A Base Trarbach é a primeira atuação integrada do Programa Nacional de Segurança nas Fronteiras e Divisas (Vigia), um dos projetos estratégicos do Ministério da Justiça e Segurança Pública.
 
@@ -57,5 +56,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

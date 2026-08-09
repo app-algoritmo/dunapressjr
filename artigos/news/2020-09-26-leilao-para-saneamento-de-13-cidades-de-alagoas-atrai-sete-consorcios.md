@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Vencedor deverá investir R$ 2,6 bi em infraestrutura em seis anos.
 
 Sete consórcios e empresas interessados na concessão de água e esgoto da região metropolitana de Maceió entregaram propostas visando levar saneamento básico a 13 cidades de Alagoas, que reúnem 1,5 milhão de habitantes. O leilão será realizado no próximo dia 30, na Bolsa de Valores B3, em São Paulo.O prazo para a entrega dos envelopes foi encerrado nesta sexta-feira (25).
@@ -29,5 +28,3 @@ A concessão objetiva a universalização do serviço de água em seis anos e o 
 Fonte: Agência Brasil - Imagem de destaque: Arquivo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

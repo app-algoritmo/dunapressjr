@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Capacitação foi ofertada para municípios apoiados pelo governo federal, por meio do FEP, para o desenvolvimento de projetos de parceria público privadas em iluminação pública.
 
 Já está disponível, no site do [Programa de Parcerias de Investimentos (PPI)](https://www.ppi.gov.br/index.php) e [no canal da Secretaria do Tesouro Nacional (STN) no Youtube](https://www.youtube.com/user/TesouroNacional), a gravação do curso ["Procedimentos contábeis específicos para concessões de serviços públicos”](http://www.ppi.gov.br/capacitacao-tecnica). Realizada no final de 2020, a capacitação foi ofertada para os municípios apoiados pelo governo federal, por meio do Fundo de Apoio à Estruturação e ao Desenvolvimento de Projetos de Concessões e Parcerias Público-Privadas (FEP), para o desenvolvimento de projetos de parcerias público privadas - chamadas PPPs - no setor de iluminação pública.
@@ -23,12 +22,8 @@ https://youtu.be/28TmFr0io0g
 
 https://youtu.be/wYFHnkhO_H0
 
-Fonte: Ministério da Economia 
+Fonte: Ministério da Economia
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

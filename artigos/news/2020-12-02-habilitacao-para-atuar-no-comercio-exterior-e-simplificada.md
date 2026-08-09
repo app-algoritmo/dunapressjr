@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Com o intuito de diminuir a burocracia e facilitar o fluxo de mercadorias, a habilitação de declarantes de mercadorias para atuarem no comércio exterior passa a ser concedida, via de regra, de forma automática, por meio do sistema Habilita; e as pessoas físicas passam a ser dispensadas da habilitação.
 
 Outra mudança significativa foi a dilatação do prazo de desabilitação automática por inatividade, que passou de seis meses para 12 meses. Caso a desabilitação ocorra, o interessado pode pedi-la automaticamente pelo Habilita.
@@ -30,7 +29,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

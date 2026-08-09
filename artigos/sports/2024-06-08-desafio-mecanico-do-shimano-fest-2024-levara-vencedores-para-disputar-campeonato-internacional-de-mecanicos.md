@@ -77,18 +77,16 @@ oferecidos pela Shimano desde 2010 em todo o Brasil”, afirma Rafael Oliveira,
 técnico da Shimano Latin America e coordenador do Desafio Mecânico.
 
 **Mais informações:
-****Site:**[www.shimanofest.com.br](https://click.presskit.com.br/url/10186121d23/6361388b6fc)[
-](https://click.presskit.com.br/url/1018613262b/6361388b6fc)**Instagram:** @shimanofest
-**Facebook:**[https://www.facebook.com/Shimanofest](https://click.presskit.com.br/url/1018614ac65/6361388b6fc)[
-](https://click.presskit.com.br/url/1018614ac65/6361388b6fc)[**site: bike.shimano.com/pt-BR
+****Site:**[www.shimanofest.com.br](https://click.presskit.com.br/url/10186121d23/6361388b6fc)**Instagram:** @shimanofest
+**Facebook:**[https://www.facebook.com/Shimanofest](https://click.presskit.com.br/url/1018614ac65/6361388b6fc)[**site: bike.shimano.com/pt-BR
 **](https://click.presskit.com.br/url/1018615900d/6361388b6fc)[**media.shimanolatam.com/pt-BR
 **](https://click.presskit.com.br/url/10186168d67/6361388b6fc)**Instagram: @shimanobrasil
 ****fanpage: [facebook.com/ShimanomtbBrasil/](http://facebook.com/ShimanomtbBrasil/)
 
-*****Assessoria de Imprensa:         ***** 
-*****ZDL          ***** 
-*****Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](mailto:dorojr@zdl.com.br) - F: 11 984579723         ***** 
-*****Rafael De Marco - Mtb.: 27556 - [rafael@zdl.com.br](mailto:rafael@zdl.com.br) - Cel: 11 976022986         ***** 
-*****WhatsApp: 19 997912108         ***** 
-*****Site: ***[***www.zdl.com.br***](https://click.presskit.com.br/url/10186173ffe/6361388b6fc)***         ***** 
+*****Assessoria de Imprensa:         *****
+*****ZDL          *****
+*****Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](mailto:dorojr@zdl.com.br) - F: 11 984579723         *****
+*****Rafael De Marco - Mtb.: 27556 - [rafael@zdl.com.br](mailto:rafael@zdl.com.br) - Cel: 11 976022986         *****
+*****WhatsApp: 19 997912108         *****
+*****Site: ***[***www.zdl.com.br***](https://click.presskit.com.br/url/10186173ffe/6361388b6fc)***         *****
 *****Facebook: ***[***www.facebook.com/ZDLSports***](https://click.presskit.com.br/url/10186184ce0/6361388b6fc)

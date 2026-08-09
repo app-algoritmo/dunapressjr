@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O informativo semanal sobre as unidades da empresa é divulgado no portal e nas redes sociais do MEC.
 
 A linha de frente na luta contra o coronavírus ganhou um reforço na Empresa Brasileira de Serviços Hospitalares (Ebserh). Os hospitais universitários federais ligados à empresa estatal vinculada ao Ministério da Educação (MEC) já contrataram, de forma temporária, 1.689 profissionais para o enfrentamento da pandemia de Covid-19.
@@ -25,8 +24,6 @@ Os dados são do boletim semanal sobre a situação do combate ao coronavírus n
 Em algumas regiões, as unidades da Ebserh têm atuado como hospitais de referência no enfrentamento à Covid-19, enquanto que em outras, atuam como retaguarda em atendimentos assistenciais para a população, por meio do Sistema Único de Saúde (SUS).
 
 Fonte: gov.br/mec / Imagem em destaque: ebserh
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

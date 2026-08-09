@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estimativa anterior era de 3,5%.
 
 Os pesquisadores do Instituto de Pesquisa Econômica Aplicada (Ipea) revisaram para 3,7% a alta da inflação brasileira em 2021. Em dezembro do ano passado, a inflação para este ano tinha sido projetada pelo Ipea em 3,5%.
@@ -48,8 +47,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

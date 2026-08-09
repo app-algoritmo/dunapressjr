@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 Alguma vez você já se sentiu desconfortável com a sua aparência? Provavelmente a resposta seja sim! Mas quem nunca passou por isso, né? Antigamente eram as revistas de beleza as vilãs. Hoje, seu “inimigo” pode estar no celular: a distorção que as redes sociais provocam.
 
 Segundo Monique Pimentel, psicóloga organizacional da Maternidade Escola Januário Cicco, da Universidade Federal do Rio Grande do Norte e vinculada à Empresa Brasileira de Serviços Hospitalares (EBSERH), esse é um tema bem relevante, atual e alvo de pesquisas. “Alguns estudos já mostraram que a percepção das mulheres sobre a própria aparência é afetada após interagir virtualmente, comprometendo assim sua autoimagem”, comenta.
@@ -79,7 +78,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

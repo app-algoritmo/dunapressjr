@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Homem israelense ferido quando míssil atinge seu carro perto de Sderot; IDF retalia, matando pelo menos 11 membros do Hamas disparando foguetes; Palestinos dizem que 20 mortos no total, incluindo 9 menores.
 
 Grupos terroristas palestinos na Faixa de Gaza dispararam massivas barragens de foguetes contra Israel na noite de segunda-feira, incluindo sete projéteis que foram disparados pelo Hamas contra Jerusalém, em uma grande escalada de violência do enclave sinalizando o possível início de um conflito mais amplo.
@@ -90,7 +89,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

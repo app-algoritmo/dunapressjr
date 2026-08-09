@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 ## Pesquisa mostra lista de livros infantis preferidos por crianças de até 15 anos.
 
 O Brasil perdeu cerca de 4,6 milhões de leitores entre 2015 e 2019, segundo dados da pesquisa Retratos da Leitura no Brasil. De acordo com o estudo, 82% dos leitores gostariam de ter lido mais; 34% alegaram falta de tempo e 28% disseram que não leram porque não gostam. Outra pesquisa mostra dados ainda mais alarmantes: o relatório divulgado em 2021 pela Organização para Cooperação e Desenvolvimento Econômico (OCDE) aponta que estudantes brasileiros em fase de conclusão do ensino fundamental não têm domínio satisfatório em leitura e apenas 2% dos jovens se mostraram capazes de diferenciar fatos de opiniões.
@@ -85,7 +84,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

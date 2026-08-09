@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa fecha em alta, mas perde fôlego no fim da sessão.
 
 Influenciado pelo avanço nas vacinas contra a covid-19 e pela expectativa de estímulos nos Estados Unidos, o mercado teve um dia de otimismo nesta quinta-feira (3). O dólar fechou no menor valor desde julho. A bolsa subiu e renovou a máxima desde o fim de fevereiro, mesmo perdendo o fôlego no fim da sessão.
@@ -29,7 +28,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa sobe e supera os 99 mil pontos em dia de ganhos.
 
 Pelo segundo dia consecutivo, tanto o dólar como a bolsa de valores subiram. A retomada dos casos do novo coronavírus em vários países desenvolvidos aumentou as incertezas no mercado global, fazendo a moeda norte-americana voltar a ultrapassar a marca de R$ 5,60. No entanto, a bolsa fechou em alta, amparada por ganhos de ações de empresas domésticas.
@@ -25,5 +24,3 @@ O fechamento de um acordo entre a J&F e o Departamento de Justiça dos Estados U
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Mohamed Add El Ghany/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

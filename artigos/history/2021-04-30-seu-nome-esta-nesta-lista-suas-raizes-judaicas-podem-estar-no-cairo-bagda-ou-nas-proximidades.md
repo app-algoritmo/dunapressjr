@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 ## Jacob Rosen-Koenigsbuch revela uma compilação meticulosa de homens do final do século 19 que conseguiram escapar do alistamento otomano, entre os poucos registros disponíveis de comunidades do passado.
 
 No final dos anos 1800, o Império Otomano procurava recrutar homens para seu exército, incluindo os vários milhares de jovens judeus que viviam na cidade de Bagdá.
@@ -62,5 +61,3 @@ Fonte: https://www.timesofisrael.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

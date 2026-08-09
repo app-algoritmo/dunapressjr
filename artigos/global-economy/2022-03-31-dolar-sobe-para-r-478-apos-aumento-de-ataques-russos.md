@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Bolsa subiu 0,2%, sustentada por empresas de commodities.
 
 O agravamento das tensões entre Rússia e Ucrânia e a proximidade do fim de trimestre provocaram nervosismo no mercado financeiro nesta quarta-feira (30). O dólar aproximou-se de R$ 4,80, após iniciar o dia em baixa. A bolsa de valores resistiu ao mercado internacional e fechou em leve alta, com apoio de empresas de commodities (bens primários com cotação internacional).
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

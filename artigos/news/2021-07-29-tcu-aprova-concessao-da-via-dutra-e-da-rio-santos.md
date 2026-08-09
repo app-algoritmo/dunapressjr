@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Corte analisou e aprovou os estudos da ANTT.
 
 O Tribunal de Contas da União (TCU) aprovou o processo de concessão da rodovia BR-116/101/SP/RJ, a via Dutra, no trecho que liga as cidades de São Paulo e Rio de Janeiro. O tribunal também aprovou o projeto de concessão à iniciativa privada da BR-101, a Rio-Santos, que vai de Santos ao Rio de Janeiro. A aprovação pelo TCU é a última etapa antes da publicação do edital de concessão. No total, as duas concessões somam 625,8 km que serão administrados pelo vencedor do leilão, ainda sem data prevista. A expectativa é que o certame ocorra no quarto trimestre deste ano.
@@ -26,10 +25,6 @@ O TCU também deu aval para a implantação de uma proposta que prevê a isenç�
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

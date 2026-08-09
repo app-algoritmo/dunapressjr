@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Serviços que mais cresceram foram os de tecnologia e logística.
 
 O volume de serviços cresceu 1,7% em junho, na comparação com o mês anterior, e acumula alta de 4,4% no trimestre. O resultado representa o maior patamar desde maio de 2016, e ficou 2,4% acima de fevereiro do ano passado, no período pré-pandemia da covid-19. Os dados foram divulgados, hoje (12), pelo Instituto Brasileiro de Geografia e Estatística (IBGE), na Pesquisa Mensal de Serviços (PMS).
@@ -36,10 +35,6 @@ O índice de atividades turísticas subiu 11,9% na passagem de maio para junho, 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

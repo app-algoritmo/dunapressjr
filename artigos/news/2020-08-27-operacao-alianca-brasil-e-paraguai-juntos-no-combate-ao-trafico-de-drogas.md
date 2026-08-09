@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Em dez dias de operação, foram incineradas 658 toneladas de maconha e eliminados 1.790 quilos da semente. Operação internacional contou com ação conjunta dos dois países.
 
 Uma operação internacional contra o tráfico de drogas. Brasil e Paraguai se uniram para realizar mais uma etapa da Operação Nova Aliança. Em Foz do Iguaçu (PR), o ministro da Justiça, André Mendonça, acompanhou de perto os trabalhos das forças de segurança para combater cultivos ilícitos de maconha em território paraguaio. O trabalho busca evitar que a maconha produzida lá entre e seja vendida no Brasil.
@@ -31,5 +30,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

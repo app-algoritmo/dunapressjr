@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa subiu 1,21% e encerrou no nível mais alto em 12 dias.
 
 A divulgação de indicadores econômicos internacionais que mostram a recuperação de várias economias avançadas refletiu-se no mercado financeiro brasileiro. O dólar caiu para o menor valor em oito dias, e a bolsa de valores fechou no nível mais alto desde 19 de junho. O dólar comercial encerrou esta quarta-feira (1º) vendido a R$ 5,318, com queda de R$ 0,122 (-2,24%).
@@ -28,4 +27,4 @@ Há várias semanas, mercados financeiros em todo o planeta atravessam um perío
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

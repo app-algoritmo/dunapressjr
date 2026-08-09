@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estimativa para 2021 corresponde a 0,2% do Produto Interno Bruto.
 
 O Banco Central (BC) manteve a projeção para o saldo das contas externas neste ano em 0,2% do Produto Interno Bruto (PIB, soma de todos os bens e serviços produzidos no país). A previsão está no [**Relatório de Inflação**](https://www.bcb.gov.br/content/ri/relatorioinflacao/202106/ri202106p.pdf), publicação trimestral do BC, divulgado hoje (24).
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

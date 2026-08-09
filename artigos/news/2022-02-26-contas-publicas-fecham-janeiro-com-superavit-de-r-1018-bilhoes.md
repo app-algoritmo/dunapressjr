@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dados foram divulgados pelo Banco Central.
 
 As contas públicas do país registraram um superávit primário recorde em janeiro, informou nesta sexta-feira o Banco Central (BC). O montante, maior de toda a série histórica, foi de R$ 101,8 bilhões, ante superávit primário de R$ 58,4 bilhões em janeiro de 2021. Nos doze meses encerrados em janeiro, o superávit primário do setor público consolidado atingiu R$ 108,2 bilhões, equivalente a 1,23% do Produto Interno Bruto (PIB).
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

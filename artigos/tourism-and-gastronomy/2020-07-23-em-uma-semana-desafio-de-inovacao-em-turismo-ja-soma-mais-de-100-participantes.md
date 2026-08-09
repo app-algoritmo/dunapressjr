@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Competição organizada por MTur e Wakalua busca soluções tecnológicas para o setor e classifica projetos brasileiros para concurso global de startups da OMT.
 
 Desde a última quarta-feira (15), mais de 100 empreendedores já iniciaram  o processo de inscrição de startups no 1º Desafio Brasileiro de Inovação em Turismo. Trata-se de uma competição inédita, promovida pelo Ministério do Turismo em parceria com o Wakalua Innovation Hub - primeiro polo global de inovação na área -, com a colaboração da Organização Mundial do Turismo (OMT). (Increva-se [aqui](https://startups.turismo.gov.br/))
@@ -32,7 +31,7 @@ Imagem: Wikipedia
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O ministro de Minas e Energia, Adolfo Sachsida, reuniu-se com Guedes.
 
 O ministro de Minas e Energia, Adolfo Sachsida, entregou, nesta quinta-feira (12), ao ministro da Economia, Paulo Guedes, pedido para iniciar os estudos de privatização da Petrobras e da Pré-Sal Petróleo S.A. (PPSA), a estatal responsável por comercializar o óleo e o gás extraídos da camada pré-sal.
@@ -20,8 +19,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

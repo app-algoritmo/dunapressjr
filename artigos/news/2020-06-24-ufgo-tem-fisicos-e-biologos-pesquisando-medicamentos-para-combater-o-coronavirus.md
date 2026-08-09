@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Cursos de pós-graduação da Universidade Federal de Goiás receberam bolsas do Programa de Combate a Epidemias da CAPES.
 
 Além da vacina para a prevenção à COVID-19, descobrir medicamentos que possam auxiliar no tratamento da doença causada pela novo coronavírus se transformou em um desafio para a ciência.  Pesquisadores correm contra o tempo em busca de tratamentos eficazes. Na Universidade Federal de Goiás (UFG), estudantes e professores da pós-graduação dos institutos de Física e Biologia entraram nesta corrida.
@@ -23,7 +22,7 @@ Com o apoio da Coordenação de Apoio de Aperfeiçoamento de Pessoal de Nível S
 Na visão de Andris Bakuzis, coordenador da pós-graduação de Física da UFG, os programas específicos para atender as demandas nacionais, com o de Combate a Epidemias, são de extrema relevância. “A universidade tem o potencial de desenvolver pesquisas que atendam a esse aspecto urgente. Os físicos conseguem, por exemplo, observar o vírus da COVID-19 usando técnicas de microscopia eletrônica e de ressonância magnética que permitem que se estude a interação de moléculas e se responda a questões como a utilidade de um determinado fármaco para a terapia de alguma doença específica”, argumenta.
 
 **Programa de Combate a Epidemias**
-Iniciado em março, o [Programa](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias) é um conjunto de ações de apoio a projetos, pesquisas e formação de recursos humanos para enfrentar a COVID-19 e estudar temas relacionados a endemias e epidemias. Duas dimensões estruturam o Programa: Ações Estratégicas Emergenciais Imediatas e Ações Estratégicas Emergenciais Induzidas em Áreas Específicas. No total, serão concedidas 2,6 mil bolsas e investimento de R$ 200 milhões ao longo de quatro anos. 
+Iniciado em março, o [Programa](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias) é um conjunto de ações de apoio a projetos, pesquisas e formação de recursos humanos para enfrentar a COVID-19 e estudar temas relacionados a endemias e epidemias. Duas dimensões estruturam o Programa: Ações Estratégicas Emergenciais Imediatas e Ações Estratégicas Emergenciais Induzidas em Áreas Específicas. No total, serão concedidas 2,6 mil bolsas e investimento de R$ 200 milhões ao longo de quatro anos.
 
 Confira no [Programa de Combate a Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias) os detalhes do três editais:
 - [CAPES - Epidemias - Edital nº 09/2020](https://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/prevencao-e-combate-a-surtos-endemias-epidemias-e-pandemias-edital-n-09-2020)
@@ -34,7 +33,7 @@ Fonte: gov.br/mec - Capes / Imagem em destaque: MEC
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

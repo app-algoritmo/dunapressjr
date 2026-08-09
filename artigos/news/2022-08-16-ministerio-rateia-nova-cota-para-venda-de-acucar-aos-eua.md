@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medida foi publicada no Diário Oficial dessa segunda-feira (15).
 
 Duas semanas após o governo dos Estados Unidos (EUA) confirmar um novo aumento da cota de açúcar que o Brasil pode vender ao mercado norte-americano em condições tributárias especiais, o Ministério da Agricultura, Pecuária e Abastecimento (Mapa) definiu o volume adicional de açúcar que 37 usinas produtoras das regiões Norte e Nordeste poderão exportar para os EUA até 30 setembro deste ano.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

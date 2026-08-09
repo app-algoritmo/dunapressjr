@@ -8,7 +8,6 @@ categories:
 - Video library
 ---
 
-
 A história trágica e oculta de Schloss Schulzendorf, construída pelo dono de uma loja de departamentos em Berlim, confiscada pelo Terceiro Reich, obscurecida pelos soviéticos, restituída, abandonada, redescoberta.
 
 Na popular série da Netflix “The Queen's Gambit”, o prodígio do xadrez Beth Harmon é enviado para um orfanato localizado no Kentucky dos anos 1960. O local das filmagens do Orfanato Methuen, no entanto, foi na verdade um castelo abandonado, construído por judeus, fora de Berlim, chamado Schloss Schulzendorf.
@@ -23,7 +22,7 @@ Construído em estilo neo-renascentista, o castelo tem uma imponente torre centr
 
 Atrás das imponentes paredes do Schloss Schulzendorf hoje, o passado está igualmente escondido - embora a história do castelo seja um microcosmo da vida judaica do século XX na Alemanha.
 
-Localizada no centro de sua vila homônima, perto do Aeroporto Berlin Brandenburg, a atual estrutura do Schloss Schulzendorf foi construída por Moritz Israel em 1889.[](https://static.timesofisrael.com/www/uploads/2021/01/Berlin_Mitte_Spandauer_Stra%C3%9Fe_Kaufhaus_Nathan_Israel_1900.jpg)Kaufaus Nathan Israel (Wikipedia / Berliner Architekturwelt 2.3
+Localizada no centro de sua vila homônima, perto do Aeroporto Berlin Brandenburg, a atual estrutura do Schloss Schulzendorf foi construída por Moritz Israel em 1889.Kaufaus Nathan Israel (Wikipedia / Berliner Architekturwelt 2.3
 
 A família israelense era proprietária da maior e mais antiga loja de departamentos de Berlim, a Kaufhaus Nathan Israel . Depois que Moritz decidiu vender suas ações para seu irmão, ele construiu o castelo em um terreno que já hospedou a propriedade de um cavaleiro.
 
@@ -55,7 +54,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

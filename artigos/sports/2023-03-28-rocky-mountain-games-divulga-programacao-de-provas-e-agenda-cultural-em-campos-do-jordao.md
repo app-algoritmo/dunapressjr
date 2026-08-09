@@ -8,7 +8,6 @@ categories:
 - Sports
 ---
 
-
 A abertura da temporada 2023 do Rocky Mountain Games entra em contagem regressiva. Campos do Jordão recebe o maior festival de cultura de montanha do Brasil nos dias 1º e 2 de abril, na decantada Suíça Brasileira. A arena montada na Praça Pinho Bravo será o ponto de encontro de atletas de aventura que se dividirão entre pedal e corrida pelas trilhas da Serra da Mantiqueira. Para quem preferir assistir e torcer pelos atletas, a programação com cinema, show, espaço para alimentação e ativações, como slackline e arremesso de machado, tem entrada grátis.
 
 Como nos anos anteriores, o evento é aberto a familiares, amigos e público em geral. E não se pode esquecer dos mascotes, mais que bem-vindos para acompanhar os tutores na diversão ou na competição do canicross. Para os aventureiros de "última hora", ainda há poucas vagas para a etapa de Campos do Jordão do Rocky Mountain Games. As inscrições ser feitas até amanhã (28), ou enquanto durarem as vagas, pelo site oficial do evento: [https://rockymountaingames.com.br/](https://click.presskit.com.br/url/93126787c0/6361388b6fc) ou diretamente no link: [https://www.ticketsports.com.br/e/ROCKY+MOUNTAIN+GAMES+-+ETAPA+CAMPOS+DO+JORD%C3%83O+2023-35099](https://click.presskit.com.br/url/931268a855/6361388b6fc).
@@ -62,13 +61,12 @@ Site: **[**https://rockymountaingames.com.br/****
 **](https://click.presskit.com.br/url/93126787c0/6361388b6fc)**Instagram : **[**https://www.instagram.com/rockymountaingames/****
 **](https://click.presskit.com.br/url/9312694ea7/6361388b6fc)**Fan page - **[**https://www.facebook.com/rmountaingames****
 **](https://click.presskit.com.br/url/9312706556/6361388b6fc)**Youtube - [https://www.youtube.com/channel/UC2Zd1D_1VDhPsOjbKUyFt0Q
-](https://click.presskit.com.br/url/9312712443/6361388b6fc)**[
-](https://click.presskit.com.br/url/931272e980/6361388b6fc)***ZDL***
+](https://click.presskit.com.br/url/9312712443/6361388b6fc)*****ZDL***
 ***Doro Jr. - MTb 13209 - ***[***dorojr@zdl.com.br***](https://click.presskit.com.br/url/9312735a62/6361388b6fc)*** - F: 11 984579723***
 ***Rafael De Marco - Mtb.: 27556 - ***[***rafael@zdl.com.br***](https://click.presskit.com.br/url/9312745fcf/6361388b6fc)*** - Cel: 11 976022986 / WhatsApp: 19 997912108******
 
-Site: [www.zdl.com.br](https://click.presskit.com.br/url/9312757b4c/6361388b6fc) 
-Facebook: [www.facebook.com/ZDLSports](https://click.presskit.com.br/url/9312761ad3/6361388b6fc) 
+Site: [www.zdl.com.br](https://click.presskit.com.br/url/9312757b4c/6361388b6fc)
+Facebook: [www.facebook.com/ZDLSports](https://click.presskit.com.br/url/9312761ad3/6361388b6fc)
 Instagram: [www.instagram.com/zdlsports](https://click.presskit.com.br/url/931277e2c1/6361388b6fc)***
 
 Release ZDL para Duna Press

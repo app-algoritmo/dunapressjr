@@ -28,8 +28,7 @@ Instagram: @voltaciclisticadegoias
                    @ligagoianadeciclismo
                    @magalhaessports
                    @tonny_magalhaes
-******[
-](https://click.presskit.com.br/url/999083de48/6361388b6fc)*****ZDL*****
+***********ZDL*****
 Doro Jr. - MTb 13209 - ***[**dorojr@zdl.com.br**](https://click.presskit.com.br/url/999084157d/6361388b6fc)** - 11 984579723*****
 Deborah Mamone - MTb 15148  - ***[**deborah@zdl.com.br**](https://click.presskit.com.br/url/9990856ae4/6361388b6fc)** - 11 3285.5911*****
 ***[***Site: ***](https://click.presskit.com.br/url/9990865649/6361388b6fc)[***www.zdl.com.br******

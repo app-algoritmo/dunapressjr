@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 As doenças falciformes são causadas pela presença de hemoglobina anormal nos glóbulos vermelhos do sangue. Hemoglobina é a proteína responsável pelo transporte de oxigênio aos tecidos e está presente nas hemácias. Hemácias são células flexíveis e arredondadas que transitam por todos os vasos sanguíneos do organismo, levando o oxigênio ligado à hemoglobina.
 
 São hereditárias e causadas por uma alteração no gene da hemoglobina. Como resultado, uma hemoglobina anormal, chamada hemoglobina S, é produzida em lugar da hemoglobina normal (hemoglobina A), presente nas pessoas adultas que não apresentam a doença.
@@ -24,7 +23,6 @@ No Brasil, segundo dados do Programa Nacional de Triagem Neonatal, do Ministéri
 
 O traço falcêmico corresponde ao indivíduo que recebeu a herança da HbS, mas que não tem a doença falciforme e é assintomático. Sua identificação é importante por que ele pode ter filhos com a forma grave da doença.
 
-**
 Sintomas**:
 
 As hemácias em formato de foice têm maior propensão em aderir à parede do vaso, causando obstrução da circulação sanguínea. A falta de oxigênio na região afetada por esta falta de circulação é que leva a um quadro de dor chamado de crise vaso-oclusiva.
@@ -66,7 +64,3 @@ Fonte: https://bvsms.saude.gov.br/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

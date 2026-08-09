@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice subiu 5,1% de maio para junho deste ano e atingiu 122,4 pontos.
 
 O Índice de Confiança do Empresário do Comércio (ICEC) subiu 5,1% de maio para junho deste ano e atingiu 122,4 pontos, em uma escala de 0 a 200 pontos. É o maior nível do indicador desde março de 2020 (128,4 pontos), segundo dados divulgados hoje (28) pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC).
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

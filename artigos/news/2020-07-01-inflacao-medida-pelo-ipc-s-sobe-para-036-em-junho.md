@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Somente a gasolina subiu 3,28% no mês.
 
 O Índice de Preços ao Consumidor Semanal (IPC-S), medido pela Fundação Getulio Vargas (FGV), registrou inflação de 0,36% em junho deste ano. Com isso, o indicador ficou acima da taxa de maio, quando houve deflação, ou seja, uma queda de preços (-0,54%). A pesquisa foi feita em sete capitais: Brasília, Rio de Janeiro, Recife, Salvador, Belo Horizonte, Porto Alegre e São Paulo.
@@ -18,4 +17,4 @@ Outros grupos de despesa com alta de preços em junho foram alimentação (0,57%
 
 Fonte: Agência Brasil – Imagem de destaque: Fernando Frazão/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

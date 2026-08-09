@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Conselho Nacional de Justiça (CNJ) instituiu a [Autorização Eletrônica de Viagem](https://www.cnj.jus.br/wp-content/uploads/2020/06/Provimento-103.pdf) (AEV) para crianças e adolescentes menores de 16 anos que precisam fazer viagens nacionais e internacionais desacompanhadas de seus pais. A novidade entra em vigor no prazo de 60 dias.
 
 A autorização eletrônica obedece o Estatuto da Criança e do Adolescente (ECA) e possui o mesmo valor do documento emitido de forma física, podendo ser apresentada à Polícia Federal e às empresas de transporte rodoviário, marítimo ou aeroportuário. Ela conterá a chave de acesso e QR Code para consulta e verificação da autenticidade na internet. Também poderá ser validado sem a necessidade de conexão com a internet.
@@ -33,8 +32,6 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique aqui para assinar
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

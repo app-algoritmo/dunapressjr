@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 ## Em países como Estados Unidos, Itália, França, Argentina e Uruguai, entre outros, a corrida de cães já foi proibida como resultado do clamor popular.
 
 No mundo todo a corrida de cães é reprovada tanto por ativistas da causa animal quanto por cidadãos sem envolvimento com a defesa dos animais, mas que conhecem a prática que normalmente envolve apostas em dinheiro. Em países como Estados Unidos, Itália, França, Argentina e Uruguai, entre outros, a corrida de cães já foi proibida como resultado do clamor popular.
@@ -33,7 +32,3 @@ Fonte: https://vegazeta.com.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 **Informativo diário é divulgado no portal e nas redes sociais do Ministério da Educação**.
 
 Já são 937 profissionais de saúde a mais atuando na linha de frente contra o coronavírus. Esse é o número de profissionais contratados, de forma temporária, pela Empresa Brasileira de Serviços Hospitalares (Ebserh) para atuação em hospitais universitários federais da sua rede.
@@ -22,8 +21,6 @@ O boletim desta segunda também informa que os hospitais universitários da Rede
 Em algumas regiões, as unidades da Ebserh têm atuado como hospitais de referência no enfrentamento à Covid-19, enquanto que em outras, atuam como retaguarda em atendimentos assistenciais para a população, por meio do Sistema Único de Saúde. A Ebserh também tem treinado funcionários da Rede, promovendo webaulas, definindo de fluxos e instituindo câmaras técnicas de discussões com especialistas.
 
 Fonte: portalmec.gov.br / Imagem em destaque: Comunicação Social do HU-FURG/Ebserh
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Assine o Press clicando no banner acima e contribua para o intercâmbio Brasil-Noruega, bem como notícias de fontes primárias e confiáveis, como também artigos científicos de todas as áreas. Muito conhecimento para sua VIDA!***
 

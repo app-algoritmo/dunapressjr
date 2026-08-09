@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Drones e embarcações autônomas podem vir, em breve, a monitorar as águas do litoral brasileiro para vigiar derramamento de óleo ou outros tipos de poluentes químicos. A ideia, desenvolvida por cientistas do Instituto de Computação da Universidade Federal de Alagoas (Ufal), faz parte da pesquisa financiada pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), no [edital](https://www.gov.br/capes/pt-br/centrais-de-conteudo/22112019_EDITAL_26_2019_CAPES_ENTRE_MARES_SITE.pdf) [Entre Mares](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/programas-emergenciais/programa-capes-2013-entre-mares), que destinou R$ 1,3 milhão a 15 projetos selecionados.
 
 Heitor Savino, pesquisador da UFAL (Foto: Arquivo pessoal) 
@@ -20,7 +19,7 @@ Os pesquisadores consideram que a necessidade do monitoramento marítimo persist
 
 Atualmente, a costa brasileira é monitorada por estações maregráficas que mantém 189 boias em todo o país. Outras 21 boias fixas são oferecidas pelo programa PIRATA (*Prediction and Research Moored Array in the Tropical Atlantic), *em livre tradução: Predição e Pesquisa em Matriz Atracada no Atlântico Tropical. Com o desenvolvimento de drones, os pesquisadores acreditam que o Brasil poderia ter capacidade de vigiar uma faixa marítima que se estende até 24 milhas náuticas (aproximadamente 44 km), compreendendo o mar territorial e a zona contígua.
 
-A estratégia seria, tão logo houvesse identificação de um evento ambiental grave no litoral, enviar drones aéreos, com urgência, em missão de rastreamento, para visualizar, tirar fotos e filmar os acontecimentos. A seguir, com as informações em tempo real capturadas por estes equipamentos, enviar drones aquáticos, em missão de busca, para fazer o trabalho de apuração e coleta de dados para avaliar os danos causados na área afetada.  
+A estratégia seria, tão logo houvesse identificação de um evento ambiental grave no litoral, enviar drones aéreos, com urgência, em missão de rastreamento, para visualizar, tirar fotos e filmar os acontecimentos. A seguir, com as informações em tempo real capturadas por estes equipamentos, enviar drones aquáticos, em missão de busca, para fazer o trabalho de apuração e coleta de dados para avaliar os danos causados na área afetada.
 
 “Nosso trabalho se propõe a criar instrumentos que possibilitem a visualização e a identificação de acontecimentos estranhos na água do nosso oceano. Estas informações serviriam como subsídios para que  instituições e autoridades possam tomar as providências necessárias para a contenção dos danos”, observa Savino, complementando que os drones poderão ser usados, em uma segunda estratégia, para rastreamento de barcos ou de submarinos invasores na costa marítima brasileira.
 
@@ -50,7 +49,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

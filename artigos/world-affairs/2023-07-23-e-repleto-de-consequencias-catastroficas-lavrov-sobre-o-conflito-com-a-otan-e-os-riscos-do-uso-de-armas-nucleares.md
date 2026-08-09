@@ -8,7 +8,6 @@ categories:
 - World Affairs
 ---
 
-
 ## Ministro das Relações Exteriores Lavrov: Rússia vê uma ameaça nuclear nos aviões F-16 de Kiev.
 
 Na sequência da cimeira [da NATO em ](https://lenta.ru/tags/organizations/nato/)[Vilnius](https://lenta.ru/tags/geo/vilnyus/)  , os líderes dos países da Aliança do Atlântico Norte emitiram um comunicado em que identificam a  [Rússia](https://lenta.ru/tags/geo/rf/)  como a maior ameaça à segurança, sublinhando que não procuram confronto e esperam manter canais de comunicação. Ao mesmo tempo, a OTAN prometeu  [à Ucrânia](https://lenta.ru/tags/geo/ukraina/) continuou a fornecer apoio de armas e deu luz verde para se juntar à Aliança após o fim do conflito. No entanto, o risco de os países ocidentais serem arrastados para um confronto militar direto com a Rússia está forçando muitos países a oferecer suas próprias iniciativas de manutenção da paz. Sobre as principais propostas de paz sobre o conflito na Ucrânia, sobre as condições para o uso de armas nucleares pelo lado russo e sobre a interação com  [os EUA](https://lenta.ru/tags/geo/ssha/)  e  [a China. ](https://lenta.ru/tags/geo/kitay/)Em entrevista ao Lente.ru, o ministro das Relações Exteriores da Rússia,  [Sergei Lavrov,](https://lenta.ru/tags/persons/lavrov-sergey/) disse  .
@@ -33,7 +32,7 @@ Em Kiev, eles não encontraram nada melhor do que aqueles que gostariam de se to
 
 Em particular, o ministro da Defesa,  [Oleksiy Reznikov,](https://lenta.ru/tags/persons/reznikov-aleksey/)  exigiu que a China convencesse a Rússia a retirar as tropas da Ucrânia. Caso contrário, segundo esta personalidade de Kiev, os contactos com os negociadores chineses seriam uma perda de tempo.
 
-Tendo como pano de fundo  o levante fracassado [de Yevgeny Prigozhin](https://lenta.ru/tags/persons/prigozhin-evgeniy/)  , uma "reunião secreta" de países ocidentais, Brasil, Índia, China,  [Turquia](https://lenta.ru/tags/geo/turtsiya/)  e  [África do Sul  foi ](https://lenta.ru/tags/geo/yuar/)[relatada](https://lenta.ru/news/2023/06/27/peregovori/)  em  [Copenhague](https://lenta.ru/tags/geo/kopengagen/)  para discutir negociações de paz na Ucrânia. Você recebeu sinais de parceiros para se encontrar?[](https://lenta.ru/tags/geo/turtsiya/)[](https://lenta.ru/tags/geo/yuar/)[](https://lenta.ru/news/2023/06/27/peregovori/)
+Tendo como pano de fundo  o levante fracassado [de Yevgeny Prigozhin](https://lenta.ru/tags/persons/prigozhin-evgeniy/)  , uma "reunião secreta" de países ocidentais, Brasil, Índia, China,  [Turquia](https://lenta.ru/tags/geo/turtsiya/)  e  [África do Sul  foi ](https://lenta.ru/tags/geo/yuar/)[relatada](https://lenta.ru/news/2023/06/27/peregovori/)  em  [Copenhague](https://lenta.ru/tags/geo/kopengagen/)  para discutir negociações de paz na Ucrânia. Você recebeu sinais de parceiros para se encontrar?
 
 Não recebemos esses sinais. Há todos os motivos para acreditar que esta informação não é confiável, dado o desejo obstinado de  [Kiev](https://lenta.ru/tags/geo/kiev/)  e seus fantoches ocidentais de seguir o caminho da escalada das hostilidades.
 

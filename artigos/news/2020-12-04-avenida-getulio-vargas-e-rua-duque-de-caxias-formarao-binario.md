@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A avenida Getúlio Vargas e a rua Duque de Caxias formarão um novo binário em Itajaí, a partir de segunda-feira (07). As modificações serão no trecho entre as ruas Heitor Liberato e João Gaya. A medida auxiliará no trânsito da região ao melhorar o fluxo de veículos, organizar o trânsito e evitar acidentes. A mudança também se integra aos novos binários implantados na cidade.
 
 Entenda as modificações
@@ -27,7 +26,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

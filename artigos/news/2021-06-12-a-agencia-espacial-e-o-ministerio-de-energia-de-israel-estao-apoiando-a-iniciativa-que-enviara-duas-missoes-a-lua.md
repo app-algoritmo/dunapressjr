@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Uma startup israelense desenvolveu tecnologia para produzir oxigênio do solo lunar. O projeto, *Helios* , recebeu financiamento da Agência Espacial de Israel e do Ministério de Energia de Israel para desenvolver um sistema que será lançado em duas missões espaciais nos próximos três anos.
 
 A tecnologia de Helios produzirá oxigênio da superfície lunar por meio de um reator alimentado pelo solo, além de vários outros metais. O processo não requer materiais consumíveis da terra, permitindo assim que as colônias "vivam da terra" em bases permanentes longe da terra.
@@ -34,7 +33,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

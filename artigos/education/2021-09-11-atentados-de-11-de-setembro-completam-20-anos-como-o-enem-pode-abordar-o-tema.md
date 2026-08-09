@@ -8,7 +8,6 @@ categories:
 - Education
 ---
 
-
 ## Maior ataque terrorista aos EUA pode ser abordado em diferentes aspectos no Enem.
 
 Todos os anos, o Exame Nacional do Ensino Médio (Enem) atrai milhões de pessoas que pretendem entrar na universidade. Uma das formas de fazer uma avaliação com mais tranquilidade é antecipar temas que podem aparecer tanto nas perguntas quanto na redação, fundamental para conseguir uma boa pontuação. Em 2021, um desses temas pode ser o já longínquo 11 de Setembro de 2001.
@@ -42,7 +41,3 @@ Fonte: Central Prss
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

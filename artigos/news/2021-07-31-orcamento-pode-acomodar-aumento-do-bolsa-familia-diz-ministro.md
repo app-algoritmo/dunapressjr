@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Guedes participou de evento no Rio de Janeiro.
 
 O ministro da Economia, Paulo Guedes, disse que é possível acomodar no Orçamento um valor mais elevado para o Bolsa Família. Segundo ele, até o momento, o programa está perfeitamente enquadrado dentro dos planos do ministério, da Lei de Responsabilidade Fiscal e do limite do teto. A intenção é que o valor do benefício chegue a R$ 300. Guedes ponderou, no entanto, que, para aumentar o valor, é preciso controlar gastos inesperados que costumam ocorrer em decisões dos Três Poderes da República.
@@ -38,10 +37,6 @@ Além do ministro estavam presentes o secretário especial de Desestatização, 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

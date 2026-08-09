@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Bolsa fechou com alta de 0,14% em sessão volátil.
 
 O dólar fechou em queda, após a forte alta de terça-feira (6), com investidores vendendo moeda para embolsarem ganhos recentes. O dólar comercial encerrou esta quinta-feira (8) vendido a R$ 5,206, com recuo de R$ 0,032 (-0,61%). A cotação chegou a cair para R$ 5,19 pela manhã, mas ganhou força durante a tarde.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

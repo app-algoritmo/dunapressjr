@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O bolsista Salatiel Ribeiro Dias é formado em Biotecnologia e durante seu mestrado em Biociências, cursado na Universidade Federal do Oeste do Pará (UFOPA), participou da pesquisa que identificou na Amazônia uma infecção nunca antes relatada. O trabalho resultou em um [artigo publicado](https://wwwnc.cdc.gov/eid/article/26/9/20-1305_article) na revista Doenças Infecciosas Emergentes, um periódico mantido pelo [Centro de Controle e Prevenção de Doenças](https://www.cdc.gov/) (CDC), dos Estados Unidos.
 
 **Como você acredita que sua pesquisa pode contribuir para a melhoria da vida das pessoas?**
@@ -45,7 +44,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

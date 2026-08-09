@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 Professores, água, luz, internet, limpeza, manutenção, aluguel, telefone. Os custos para se manter uma escola funcionando são diversos, complexos e podem variar de uma instituição para outra. No entanto, observando algumas margens, é possível entender melhor de que forma a escola que você paga para seu filho está empregando o dinheiro da mensalidade.
 
 Avaliar se uma escola é adequada, do ponto de vista financeiro, pode ser um pouco mais complexo. Para o coordenador pedagógico da Conquista Solução Educacional, Fernando Vargas, essa é uma análise que passa pela compreensão dos gastos que a instituição de ensino precisa ter para manter sua estrutura física e humana. “Quando se fala em ensino, não é só a quantidade que importa, mas principalmente a qualidade. Alguns professores são mais caros que outros e isso está muito relacionado ao que eles entregam em sala de aula”, afirma.
@@ -16,7 +15,7 @@ De acordo com o vice-presidente do Instituto Casagrande, especializado em gestã
 
 **Tabela básica**
 
-Embora sejam subjetivos em certo nível, a maior parte dos custos envolvidos na gestão de uma escola pode - e deve - respeitar a uma tabela geral. Afinal, como lembra Casagrande, a área financeira é uma das mais relevantes para garantir que as instituições sejam sustentáveis no longo prazo.  
+Embora sejam subjetivos em certo nível, a maior parte dos custos envolvidos na gestão de uma escola pode - e deve - respeitar a uma tabela geral. Afinal, como lembra Casagrande, a área financeira é uma das mais relevantes para garantir que as instituições sejam sustentáveis no longo prazo.
 
 Ele detalha que, em escolas relativamente bem administradas, os custos com pessoal não devem ultrapassar a metade do valor da receita. “Algumas passam um pouco disso, mas o ideal é não passar dos 55% do faturamento", alerta. Segundo Casagrande, ⅔ desse valor devem ser para o corpo docente e o outro ⅓, para a equipe administrativa. Portanto, do ponto de vista dos pais, é fundamental entender que metade do que está sendo pago tem como destino a folha de pagamento da escola.
 
@@ -28,7 +27,7 @@ A Educação é uma missão e, por isso, muitas pessoas se esquecem de que escol
 
 Na Educação Básica, esse processo é mais difícil porque as crianças e adolescentes ainda não têm esse comprometimento. Uma forma de gerar essa consciência é aproximar os pais da rotina de estudos e permitir que eles participem ativamente da vida escolar dos filhos.
 
-Nesse sentido, nem sempre uma turma com menos alunos será melhor para a aprendizagem. Além disso, do ponto de vista da escola, turmas muito reduzidas podem representar perdas financeiras. “O grande segredo de uma escola bem administrada é otimizar o número de alunos em cada turma. Às vezes, vale mais a pena ter menos alunos, no total, em turmas bem otimizadas, que mais alunos, só que em turmas menores”, diz Casagrande. 
+Nesse sentido, nem sempre uma turma com menos alunos será melhor para a aprendizagem. Além disso, do ponto de vista da escola, turmas muito reduzidas podem representar perdas financeiras. “O grande segredo de uma escola bem administrada é otimizar o número de alunos em cada turma. Às vezes, vale mais a pena ter menos alunos, no total, em turmas bem otimizadas, que mais alunos, só que em turmas menores”, diz Casagrande.
 
 **Compare maçãs com maçãs**
 
@@ -45,7 +44,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

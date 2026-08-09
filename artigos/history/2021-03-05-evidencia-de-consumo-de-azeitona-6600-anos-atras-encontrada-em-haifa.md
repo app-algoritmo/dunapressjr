@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Arqueólogos israelenses encontraram evidências da produção mais antiga conhecida de azeitonas para consumo em vez de óleo, que data de 6.600 anos, de acordo com um estudo da Universidade de Haifa.
 
 O estudo foi publicado recentemente na revista científica Scientific Reports.
@@ -46,7 +45,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

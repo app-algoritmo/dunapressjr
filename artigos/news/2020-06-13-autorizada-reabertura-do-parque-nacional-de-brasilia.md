@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Parque volta a funcionar a partir de 15 de junho. Reabertura será gradual e monitorada. Número de visitantes será reduzido durante reabertura para evitar aglomerações.
 
 O Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) autorizou a reabertura da visitação pública ao Parque Nacional de Brasília a partir da próxima segunda-feira (15). A [portaria nº 698](http://www.in.gov.br/en/web/dou/-/portaria-n-698-de-9-de-junho-de-2020-261277988) foi publicada no Diário Oficial da União (DOU).
@@ -27,8 +26,6 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique no banner abaixo para assinar
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

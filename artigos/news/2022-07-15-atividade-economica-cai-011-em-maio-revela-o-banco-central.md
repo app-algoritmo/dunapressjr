@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### É o segundo mês seguido de recuo do IBC-Br.
 
 A atividade econômica brasileira apresentou uma queda de 0,11% em maio, na comparação com abril, de acordo com dados divulgados nesta quinta-feira (14), em Brasília, pelo Banco Central (BC). Este é o segundo mês seguido de queda no Índice de Atividade Econômica do Banco Central (IBC-BR), indicador considerado como uma prévia do Produto Interno Bruto (PIB).
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

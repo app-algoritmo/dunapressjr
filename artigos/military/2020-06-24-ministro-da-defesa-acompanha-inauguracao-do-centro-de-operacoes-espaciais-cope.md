@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 O Ministro da Defesa, Fernando Azevedo, esteve juntamente com o Presidente da República, Jair Bolsonaro e o Vice-Presidente, Hamilton Mourão, na inauguração do Centro de Operações Especiais (COPE), no Comando da Aeronáutica. A cerimônia foi realizada nesta terça-feira (23).
 
 O Cope é referência nacional e internacional pela complexidade e modernidade de suas instalações. Foi concebido para ser a sede do centro de controle do Satélite Geoestacionário de Defesa e Comunicações Estratégicas (SGDC), de modo a atender diversos satélites geoestacionários e satélites de baixa órbita.
@@ -29,4 +28,4 @@ O evento contou com a presença do Ministro de Ciência e Tecnologia, Marcos Pon
 **Assessoria de Comunicação Social (Ascom)
 Ministério da Defesa**
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

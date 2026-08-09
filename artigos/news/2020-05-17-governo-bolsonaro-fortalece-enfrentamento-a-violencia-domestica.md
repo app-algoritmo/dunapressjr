@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Federal, por meio entre o Ministério da Cidadania e o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH), lançou, nesta sexta-feira (15), Dia Internacional da Família, a Campanha de Conscientização e Enfrentamento à Violência Doméstica.
 
 Com o mote “Denuncie a violência doméstica. Para algumas famílias, o isolamento está sendo ainda mais difícil”, a campanha aborda não somente a violência contra a mulher, mas também contra idosos, pessoas com deficiência, crianças e adolescentes.
@@ -49,5 +48,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

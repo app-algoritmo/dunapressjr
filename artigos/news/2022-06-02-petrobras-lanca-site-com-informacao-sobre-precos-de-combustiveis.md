@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Ferramenta permite filtrar preços pela média nacional ou por estados.
 
 A Petrobras lançou nesta quarta-feira (1º) uma plataforma para facilitar o acesso a informações sobre os preços dos combustíveis. A estatal apresenta, de forma didática e com facilidade visual, informações sobre as parcelas envolvidas na formação dos valores da gasolina, do diesel e do gás de cozinha (GLP) e, ainda, sobre a formação dos preços ao consumidor final. O novo [**site**](http://precos.petrobras.com.br/) permite filtrar os valores pela média nacional ou por estados, considerando os impostos estaduais e outras variáveis locais.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Opinion
 ---
 
-
 Primeiro vem a escolha. É quando cada jovem encara seu próprio futuro e se pergunta onde quer estar quando olhar para trás em cinco ou dez anos. Depois, vem o caminho, que não é o mesmo para todos e pode ser muito mais sinuoso para alguns. Cursar uma faculdade ou um curso técnico, participar de eventos, especializações ou workshops, preparar-se para o que se encontra quando as possibilidades acadêmicas se esgotam e é preciso entrar no mercado de trabalho.
 
 Começar uma carreira nunca foi tarefa simples. Mesmo em tempos de pleno emprego, há o desafio de obter uma formação que esteja alinhada com as expectativas das empresas, além de conseguir a experiência necessária na área desejada. Há um universo de opções à disposição, mas nem todas levam ao sucesso profissional. Além disso, a forma de exercer o trabalho está mudando radicalmente - e não apenas devido à pandemia. As empresas estão se modificando em uma velocidade que a formação dos jovens não consegue acompanhar. Tradicionalmente, sair da academia para o mercado de trabalho é um choque.
@@ -35,7 +34,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

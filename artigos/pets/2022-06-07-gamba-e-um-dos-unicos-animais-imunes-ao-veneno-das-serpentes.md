@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 Os gambás e as serpentes são considerados inimigos há muito tempo. Os dois estão na terra desde o período cretáceo, há mais de 100 milhões de anos. Tanto a serpente quanto o gambá são animais noturnos, saem à noite para procurar alimento e, por isso, acabaram se encontrando.
 
 Com o tempo, precisaram desenvolver meios de neutralizar a peçonha, aproveitando o potencial alimentar que as cobras representam. Desta forma, ao longo da sua história evolutiva, os gambás desenvolveram meios de enfrentar o adversário peçonhento, ficando cada vez mais imune às picadas. Em contrapartida, as cobras desenvolveram um veneno cada vez mais potente para tentar neutralizar o gambá. É o que os cientistas chamam de corrida armamentista evolutiva.
@@ -35,7 +34,3 @@ Fonte: https://butantan.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

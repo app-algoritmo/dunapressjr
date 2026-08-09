@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Investigadores cumprem oito prisões temporárias, além de buscas, apreensões e bloqueio de bens.
 
 Investigadores do Ministério Público Federal (MPF) e da Polícia Federal cumpriram na manhã desta terça-feira (30) mandados de prisão temporária contra oito pessoas, além de buscas e apreensões em 14 endereços de pessoas ligadas ao governador do Amazonas, Wilson Lima (PSC). As medidas foram determinadas pelo ministro Francisco Falcão, do Superior Tribunal de Justiça (STJ), e incluem o bloqueio de bens no valor R$ 2,976 milhões, de 13 pessoas físicas e jurídicas. Wilson Lima é alvo de buscas e bloqueio de bens na Operação Sangria, deflagrada nesta manhã. A investigação apura a atuação de uma organização criminosa instalada no governo do Amazonas com o objetivo de desviar recursos públicos destinados a atender as necessidades da pandemia de covid-19.
@@ -21,4 +20,4 @@ Em um dos contratos investigados foi encontrada suspeita de superfaturamento de,
 
 Fonte: Ministério Público Federal
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Mesmo aqueles com infecções assintomáticas por COVID podem ter alterações de longa duração na expressão genética que podem estar por trás dos sintomas de longa duração em pacientes recuperados.
 
 Mudanças na expressão gênica causadas pelo novo coronavírus podem estar por trás dos sintomas de longo prazo experimentados por pacientes com COVID-19 que se recuperaram, de acordo com um novo estudo realizado por cientistas do Texas Tech University Health Sciences Center.
@@ -41,5 +40,3 @@ Fonte: https://www.jpost.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

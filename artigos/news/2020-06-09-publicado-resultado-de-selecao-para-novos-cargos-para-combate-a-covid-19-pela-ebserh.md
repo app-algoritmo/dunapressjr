@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Início das convocações para esses cargos ocorrerá ainda nesta semana, conforme a necessidade dos hospitais.
 
 A Empresa Brasileira de Serviços Hospitalares (Ebserh) publicou nesta segunda-feira, 8 de maio, o resultado do segundo processo seletivo emergencial voltado à contratação temporária de pessoal em novos cargos para o enfrentamento à Covid-19. A seleção contou com 31,5 mil inscritos para os cargos de médico plantonista, médico (Medicina do Trabalho), farmacêutico, assistente social, biomédico e técnicos em Análises Clínicas, Radiologia, Necropsia e Farmácia.
@@ -28,8 +27,6 @@ O total de contratações possíveis desses novos cargos já estava previsto no 
 Em algumas regiões, as unidades da Rede Ebserh têm atuado como hospitais de referência ao enfrentamento do Covid-19, enquanto que em outras, atuam como retaguarda em atendimentos assistenciais para a população, por meio do Sistema Único de Saúde.
 
 Fonte: gov.br/mec / Imagem em destaque: gov.br
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

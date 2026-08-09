@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## BC destaca, porém, incerteza ante aumento dos casos de covid-19.
 
 A evolução recente dos indicadores de atividade reforça o cenário de continuidade da recuperação da economia brasileira, após os fortes impactos da pandemia de covid-19. Entretanto, ainda há incertezas diante do aumento do número de casos da doença. A análise é do Banco Central (BC) e foi divulgada hoje (5) no [**Boletim Regional**](https://www.bcb.gov.br/publicacoes/boletimregional), publicação trimestral que apresenta as condições da economia por regiões e por alguns estados do país.
@@ -54,7 +53,7 @@ No Sul, o conjunto de informações disponíveis sugere continuidade do processo
 
 A expansão no quarto trimestre ocorreu em praticamente todas as atividades da região, com maior magnitude na indústria de transformação – destaque para veículos, metalurgia, máquinas e equipamentos, calçados e confecções – e nos serviços de alojamento e alimentação.
 
-De acordo com o BC, relativamente ao período pré-crise (janeiro e fevereiro de 2020), a alta de 1,6% refletiu, em boa parte, a recuperação da produção industrial, mesmo em cenário de falta de insumos e matérias-primas. Por outro lado, as atividades de serviços mais afetadas pelo distanciamento social, como hotelaria, bares e restaurantes, não retornaram ao nível anterior. 
+De acordo com o BC, relativamente ao período pré-crise (janeiro e fevereiro de 2020), a alta de 1,6% refletiu, em boa parte, a recuperação da produção industrial, mesmo em cenário de falta de insumos e matérias-primas. Por outro lado, as atividades de serviços mais afetadas pelo distanciamento social, como hotelaria, bares e restaurantes, não retornaram ao nível anterior.
 
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Paulo Whitaker/Direitos Reservados
 
@@ -62,8 +61,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

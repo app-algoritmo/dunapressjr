@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Enquanto pesquisava o Vale de Elah em 2007, o arqueólogo Saar Ganor olhou em volta e viu algo estranho projetando-se do solo. Em um exame mais aprofundado, ele se perguntou se poderia ser parte de uma cidade antiga. Seu palpite estava certo, e as escavações resultantes realizadas por Yosef Garfinkel da Universidade Hebraica e Ganor, arqueólogo do distrito de Ashkelon na Autoridade de Antiguidades de Israel, revelaram o que parecia ser uma cidade da Judéia.
 
 Localizado na fronteira sul de Judá, e com dois portões notáveis, o local - agora conhecido como Fortaleza Qeiyafa - era muito possivelmente o Shaaraim ("Dois Portões") mencionado na Bíblia, datando do século 10 AEC, quando Davi reinou Perguntando.
@@ -67,7 +66,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

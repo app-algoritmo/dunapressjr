@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Cade tem até 15 de fevereiro para analisar o negócio.
 
 Por unanimidade, o conselho diretor da Agência Nacional de Telecomunicações (Anatel) aprovou nesta segunda-feira (31), em Brasília, a compra do serviço de telefonia móvel da Oi pelo consórcio formado pelas operadoras Vivo, TIM e Claro. Os conselheiros seguiram o relator, Emanuel Campelo, que tinha dado aval ao negócio, mas impôs condicionantes.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### É a menor taxa da série histórica do índice, iniciada em 1991.
 
 O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), a prévia da inflação oficial, registrou deflação (queda de preços) de 0,73% em agosto deste ano. É a menor taxa da série histórica do IPCA-15, iniciada em 1991, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

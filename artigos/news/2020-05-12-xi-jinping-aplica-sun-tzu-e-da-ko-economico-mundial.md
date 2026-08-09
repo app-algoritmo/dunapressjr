@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Sem disparar um único tiro, o ditador Xi Jinging colocou o mundo de joelhos.
 
 O Filósofo que se tornou general cujo nome individual era Wu, nasceu no Estado de Ch'i, China próximo de 500 a.C. em um auge das ciências militares e legislativas daquele país.
@@ -19,8 +18,6 @@ A arte da guerra - Sun Tzu - Imagem: UNIR
 Como em "O Príncipe", de Maquiavel, o livro de Sun Tzu, pode, da mesma forma, mostrar o caminho da vitória em todas as espécies de conflitos comerciais comuns, batalhas em sala de diretoria e na luta pela sobrevivência, que todos enfrentamos. São todas as formas de guerra, todas combatem sob as mesmas regras.
 
 Imagem de destaque: Blasting News
-
-[](https://dunapress.org/subscription-plan/?ref=barrosprojectmanager)
 
 Ver também
 

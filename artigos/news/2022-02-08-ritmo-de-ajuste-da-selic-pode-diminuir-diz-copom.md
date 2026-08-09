@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A informação consta da ata da última reunião do comitê.
 
 O ritmo de ajuste da taxa básica de juros, a Selic, deve diminuir. Essa previsão está na ata da última reunião do Comitê de Política Monetária (Copom), divulgada hoje (8) pelo Banco Central (BC), mas poderá ser revista para que a inflação convirja em direção à meta.
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

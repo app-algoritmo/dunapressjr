@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### A oferta de viagens teve alta de 6% em relação a maio de 2019.
 
 A demanda por voos domésticos teve queda de 2,5% em maio, na comparação com o mesmo mês de 2019, aponta a Associação Brasileira das Empresas Aéreas, com base nos relatórios da Agência Nacional de Aviação Civil (Anac). O dado é medido em passageiros por quilômetro transportados (RPK).
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

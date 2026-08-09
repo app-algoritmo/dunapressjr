@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 Você tem ideia a quantidade de sal que consome diariamente? Segundo a Pesquisa Nacional de Saúde 2013 (PNS/IBGE), o consumo de sal do brasileiro excede em quase duas vezes o limite máximo recomendado pela Organização Mundial da Saúde (OMS), que é cinco gramas por dia. A média nacional é de 9,3 gramas. Apesar disso, apenas 12% dos brasileiros adultos tem a consciência da alta ingestão de sal na alimentação diária.
 
 A falta de consciência é um perigo para a saúde! O consumo excessivo do sal está relacionado ao aumento do risco de doenças crônicas, como hipertensão arterial, doenças cardiovasculares, doenças renais, entre outras. Doenças silenciosas que podem matar de forma precoce.
@@ -50,7 +49,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

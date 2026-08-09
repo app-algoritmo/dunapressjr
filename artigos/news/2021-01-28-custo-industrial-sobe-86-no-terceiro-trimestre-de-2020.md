@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Indicador acendeu um “sinal de alerta na indústria”, diz CNI.
 
 O custo da indústria subiu 8,6% no terceiro trimestre de 2020 na comparação com o semestre anterior, informou hoje (28) a Confederação Nacional da Indústria (CNI). Segundo a CNI, é o maior aumento trimestral desde o início da série histórica, em 2006.
@@ -38,8 +37,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

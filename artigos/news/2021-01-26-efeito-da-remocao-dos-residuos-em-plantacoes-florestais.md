@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Empresas que atuam na área florestal, como as produtoras de celulose, estão vendo os resíduos florestais (pequenos galhos, cascas de árvores e folhas) como matéria prima na geração de energia. Em alguns casos, a geração destes resíduos é tão grande que sua queima produz energia o bastante para garantir o funcionamento de uma ou mais fábricas de celulose. Entretanto, em sistemas naturais, os restos vegetais produzidos pela floresta permanecem no solo, onde sofrem decomposição pela ação de microrganismos, passando a constituir importantes fontes de nutrientes para as plantas. Sabendo da perda de nutrientes que a retirada dessa camada vegetal do solo causa, as empresas produtoras de florestas geralmente repõem tal carência de nutrientes com o uso de fertilizantes.
 
 Os pesquisadores José Leonardo Gonçalves e José Henrique Rocha, da Universidade de São Paulo, em Piracicaba, e sua equipe buscaram compreender melhor o quanto a retirada de resíduos florestais do solo afeta a produtividade de espécies vegetais. Diferentemente de outros estudos já realizados na área, eles analisaram a produtividade da floresta ao longo de dois períodos consecutivos de corte de madeira. A pesquisa testou como a presença ou ausência de fertilizantes interagia com a manutenção ou retirada de diferentes camadas de resíduos florestais do solo e seu efeito na produção de madeira.
@@ -58,7 +57,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

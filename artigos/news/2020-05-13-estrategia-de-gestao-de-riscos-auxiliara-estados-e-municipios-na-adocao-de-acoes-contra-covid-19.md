@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 “Não é uma política de isolamento nem é uma política de flexibilização. Isso é uma análise de cada local”, disse o Ministro da Saúde, Nelson Teich, durante coletiva de imprensa no palácio do Planalto.
 
 O ministro da Saúde, Nelson Teich, apresentou nesta segunda-feira (11), estratégia de enfrentamento ao coronavírus. A ideia é que seja avaliado o nível de risco local para definição de medidas de distanciamento social. “É uma metodologia para entender qual a melhor forma de cuidar das pessoas e proteger a sociedade”.
@@ -17,13 +16,13 @@ Teich destacou que é uma ferramenta de suporte aos estados e municípios e não
 
 São avaliadas: capacidade instalada, o perfil epidemiológico do local, velocidade de crescimento da doença e ocupação, além da mobilidade urbana. A partir daí, são definidos os níveis de distanciamento social que passam do muito baixo, baixo, moderado, alto até o muito alto. A partir de então, poderão ser tomadas medidas que passam do distanciamento seletivo até restrição total.
 
-O detalhamento da estratégia está previsto para ser divulgado na quarta-feira (13). 
+O detalhamento da estratégia está previsto para ser divulgado na quarta-feira (13).
 
 ### Abordagem da doença
 
 O ministro defendeu ainda a necessidade de se identificar e começar o tratamento da Covid-19 o quanto antes, para tentar evitar que o agravamento da doença.
 
-“É possível que a gente trabalhando, abordando a doença em um momento mais precoce, que a gente reduza a evolução para fase mais crítica. Com isso, não só a gente salva mais gente, mas também a gente consiga diminuir a necessidade de UTIs, ventilação mecânica. O que seria um grande alívio para o sistema e ao mesmo tempo você aumenta sua capacidade de cuidar”, avaliou Teich.   
+“É possível que a gente trabalhando, abordando a doença em um momento mais precoce, que a gente reduza a evolução para fase mais crítica. Com isso, não só a gente salva mais gente, mas também a gente consiga diminuir a necessidade de UTIs, ventilação mecânica. O que seria um grande alívio para o sistema e ao mesmo tempo você aumenta sua capacidade de cuidar”, avaliou Teich.
 
 ### Balanço
 
@@ -43,4 +42,4 @@ Fonte gov.br
 
 ASSINE O PRESS PERIÓDICO
 
-https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress
+https://dunapress.org/subscription-plan/

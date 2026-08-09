@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Por maioria de votos, a Assembleia Legislativa de Santa Catarina rejeitou, na sessão desta quarta-feira (25), o Projeto de Lei (PL) 70/2021, de autoria do deputado Marcius Machado (PL), que proibia a realização de corrida de cães no estado. Com a decisão, a proposta será arquivada.
 
 A matéria alterava a Lei nº 12.854/2003 (Código Estadual de Proteção de Animais) para proibir a realização das corridas de quaisquer raças de cães. Na justificativa da proposta, o autor argumentou que as competições causam danos físicos e psíquicos aos animais envolvidos. Em alguns casos, conforme o deputado, os cães recebem substâncias para melhorar o desempenho. A prática, de acordo com Marcius, já foi proibida em outros estados, como Rio de Janeiro e Rio Grande do Sul.
@@ -26,7 +25,7 @@ O deputado Silvio Dreveck (PP), que se absteve, afirmou que não compreendeu o t
 ## Vergonha deputados e deputadas catarinenses!
 
 Isso é um absurdo! Um retrocesso para a causa animal!
-Somente 4 votos foram favoráveis à proibição: 
+Somente 4 votos foram favoráveis à proibição:
 
 **ESTES SÃO OS DEPUTADOS QUE VOTARAM CONTRA A CORRIDA DE CÃES**:
 
@@ -49,7 +48,7 @@ Somente 4 votos foram favoráveis à proibição:
 Deputados de SC que votaram
 **A FAVOR DA REALIZAÇÃO DE CORRIDAS DE GALGOS**:
 
-[@adafaracodeluca](https://www.instagram.com/adafaracodeluca/) 
+[@adafaracodeluca](https://www.instagram.com/adafaracodeluca/)
 
 [Ada De Luca](http://www.alesc.sc.gov.br/deputados/ada-de-luca/)MDB[adadeluca@alesc.sc.gov.br](mailto:adadeluca@alesc.sc.gov.br)106(48) 3221-2689
 
@@ -104,7 +103,3 @@ Fonte: http://agenciaal.alesc.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

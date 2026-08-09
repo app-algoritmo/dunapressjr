@@ -8,7 +8,6 @@ categories:
 - Books
 ---
 
-
 ## O católico polonês Tadeusz Pietrzykowski venceu dezenas de lutas no campo de extermínio, junto com privilégios especiais que garantiram sua sobrevivência e a de outros.
 
 VARSÓVIA, Polônia (AFP) - O boxeador polonês Tadeusz Pietrzykowski era conhecido por sua habilidade de se esquivar de golpes. Ainda assim, as chances estavam contra ele quando ele lutou sua primeira luta no campo de extermínio alemão nazista de Auschwitz.
@@ -74,7 +73,3 @@ Fonte: The Time Of Israel
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Avanço da economia mostra reversão de queda e estagnação.
 
-O Monitor do Produto Interno Bruto (PIB) calculado pelo Instituto Brasileiro de Economia (Ibre) da Fundação Getulio Vargas (FGV) indicou crescimento de 1,8% na atividade econômica em novembro de 2021, em comparação ao mês anterior; e recuo de 0,3% no trimestre móvel compreendido entre setembro e novembro, em relação ao encerrado em agosto. 
+O Monitor do Produto Interno Bruto (PIB) calculado pelo Instituto Brasileiro de Economia (Ibre) da Fundação Getulio Vargas (FGV) indicou crescimento de 1,8% na atividade econômica em novembro de 2021, em comparação ao mês anterior; e recuo de 0,3% no trimestre móvel compreendido entre setembro e novembro, em relação ao encerrado em agosto.
 
 Já na comparação interanual, o avanço da economia é de 2,2% no mês de novembro e 1,3% no trimestre móvel terminado em novembro.
 
@@ -26,13 +25,13 @@ Ainda de acordo com o economista, é relevante o avanço no investimento na comp
 
 ## Famílias
 
-De acordo com o indicador, o consumo das famílias no trimestre móvel cresce a taxas decrescentes desde junho, se comparado ao mesmo período do ano anterior, quando a alta tinha sido de 10,5%. 
+De acordo com o indicador, o consumo das famílias no trimestre móvel cresce a taxas decrescentes desde junho, se comparado ao mesmo período do ano anterior, quando a alta tinha sido de 10,5%.
 
 No trimestre encerrado em novembro essa taxa ficou em 0,9%. O componente de serviços, pelo segundo mês seguido, foi o único a apresentar avanço. “Na série com ajuste sazonal, o consumo das famílias apresentou retração de 0,8% em comparação ao trimestre anterior, salientando perda de força”, apontou o Monitor do PIB.
 
 ## Investimentos
 
-Na comparação do trimestre móvel com igual período do ano passado, a Formação Bruta de Capital Fixo (FBCF), que representa investimentos, também permanece com taxas decrescentes desde junho, quando subiu 33,1%. 
+Na comparação do trimestre móvel com igual período do ano passado, a Formação Bruta de Capital Fixo (FBCF), que representa investimentos, também permanece com taxas decrescentes desde junho, quando subiu 33,1%.
 
 No trimestre terminado em novembro, a variação chegou até 3,9%. Novembro foi o primeiro mês, desde outubro de 2020, que o componente de máquinas e equipamentos apresentou recuo. “Na série ajustada sazonalmente, a formação bruta de capital fixo apresentou retração (6,4%) no trimestre móvel terminado em novembro, em comparação ao terminado em agosto”, indicou o levantamento.
 
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

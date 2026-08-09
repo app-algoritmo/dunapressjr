@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estimativa da Antaq para este ano é de aumento de 5,5% do setor.
 
 A movimentação de cargas no setor portuário cresceu 9,4% no primeiro semestre em relação ao mesmo período do ano passado, informou hoje (12) a Agência Nacional de Transportes Aquaviários (Antaq). Segundo a agência, os portos organizados, terminais autorizados e arrendados movimentaram 591,9 milhões de toneladas no período.
@@ -24,10 +23,6 @@ Segundo a Antaq, a expectativa para o segundo semestre é que os portos brasilei
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

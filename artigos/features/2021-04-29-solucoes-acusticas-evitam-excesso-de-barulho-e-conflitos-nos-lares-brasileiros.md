@@ -7,7 +7,6 @@ categories:
 - Features
 ---
 
-
 De acordo com a Associação das Administradoras de Bens Imóveis e Condomínios de São Paulo (AABIC), as reclamações relacionadas a barulhos dentro de condomínios aumentaram 300% por mês, em relação a períodos antes da pandemia do novo coronavírus. Com mais tempo em casa, graças ao *home office* e ao *homeschooling,* a média de reclamações subiu de forma assustadora. Para se ter uma ideia, um prédio que tinha até cinco reclamações por mês, passou a ter entre 10 e 15.
 
 Para evitar problemas como esse e reduzir ruídos de outros apartamentos ou mesmo da rua e áreas comuns, existem diversas soluções acústicas que podem ser aplicadas. A A.Yoshii, referência em empreendimentos de alto padrão há 55 anos, se destaca ao empregar técnicas modernas de acústica em suas obras. De acordo com a engenheira de projetos da construtora, Martha Mamy Matsuda Ishikawa, existem no mercado diversos materiais que ajudam a melhorar o conforto acústico dentro de casa, que vão muito além de esquadrias ou vidros duplos.
@@ -34,5 +33,3 @@ Fonte: Central Press
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

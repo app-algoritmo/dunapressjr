@@ -8,7 +8,6 @@ categories:
 - Opinion
 ---
 
-
 Vemos governos, sejam municipais, estaduais entre outras esferas de poder direcionar atos, fazer lock downs (parada total de um determinado local), direcionar recursos, sem prévia análise, estudo de viabilidade, pesquisa de mercado e custo benefícios, condições básicas para qualquer investimento que se preze.
 
 De igual forma temos um judiciário lento, mórbido, burocrático, ineficaz em buscar grande parte de direitos, e, como vemos pelo próprio STF, direitos são rasgados, esquecidos, subjugados em prol do poder e interesses ocultos e escusos. Isto não pode continuar.
@@ -34,8 +33,6 @@ Também, estabilidade para determinadas classes, o que mesmo que seja totalmente
 Temos um crescimento do déficit com folha de pagamentos, nos últimos anos, de aproximadamente 20% do PIB com relação ao que se gastava em menos de 8 a 10 anos (hoje é em torno de 11% do PIB o custo total) e, ainda, crescimento de 100% em 30 anos, ou seja, dobramos o número de funcionários públicos e da máquina burocrática, porém não revertemos isto em produtividade, riquezas, bem estar, prosperidade para todos, mas tornou-se mais evidente que tudo isso foi direcionado para poucos. Este dois assuntos, econômico e jurídico por vezes se misturam, pelas razões brevemente ora postas, porém precisamos tratar disto, onde todos possam ter, fazer e ser. Mais em breve!
 
 Imagem em destaque: jggn
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

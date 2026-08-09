@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Prorrogação vai até 30 de junho.
 
 O Instituto Nacional do Seguro Social (INSS) prorrogou, até 30 de junho, a vigência da “experiência-piloto” para a realização de perícias médicas por meio de teleavaliações. A prorrogação está prevista na [**Portaria Conjunta nº 3**](https://in.gov.br/en/web/dou/-/portaria-conjunta-dirben/inssspmf/sprev/mtp-n-3-de-31-de-maio-de-2022-405225145), publicada no *Diário Oficial da União* desta sexta-feira(3).
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

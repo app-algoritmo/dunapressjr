@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Davi Clementino Carneiro, dentista e mestre em Ciências Odontológicas pela Universidade Federal da Paraíba (UFPB), criou um método de detecção de cárie dentária por fotoluminescência. A técnica usa processamento digital de imagem com inteligência artificial. Realizado com o apoio de bolsa do Programa Demanda Social (DS) da CAPES, o protótipo já se iguala a instrumentos comercializados no mercado mundial.
 
 **Fale sobre o seu projeto de pesquisa e seus objetivos.**
@@ -36,7 +35,3 @@ Fonte: https://www.gov.br/capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

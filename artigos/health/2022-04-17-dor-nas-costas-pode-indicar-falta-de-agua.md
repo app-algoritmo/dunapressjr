@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Tomar de dois a três litros de água por dia é a receita para amenizar muitos dos problemas de saúde enfrentados por milhões de pessoas em todo o mundo, inclusive a dor nas costas. De acordo com a professora do curso de Fisioterapia da Universidade Positivo (UP), Christina Cepeda, o baixo consumo diário de água pode contribuir para que o organismo não consiga se recuperar das atividades realizadas no dia a dia, como andar, correr, se abaixar e pular.
 
 Para funcionar corretamente, o corpo humano precisa estar devidamente hidratado. Somente com um volume suficiente de água é possível manter os órgãos funcionando, sejam eles órgãos internos, como o estômago e o pulmão, ou externos, como a pele e os olhos. Essa mesma regra vale para os ossos e as articulações, de acordo com a especialista. “A desidratação pode ocasionar dores nas costas e articulações, por exemplo, porque os discos da coluna vertebral também necessitam de água”, alerta.
@@ -37,7 +36,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

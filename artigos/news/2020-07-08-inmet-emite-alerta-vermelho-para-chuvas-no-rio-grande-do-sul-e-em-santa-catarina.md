@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Há risco de grandes alagamentos e transbordamentos de rios, grandes deslizamentos de encostas.
 
 O Instituto Nacional de Meteorologia (Inmet) emitiu um aviso vermelho (grande perigo) para acumulado de chuva no norte do Rio Grande do Sul e sul de Santa Catarina. A validade do aviso é entre as 16h desta terça-feira (7) até às 7h de quarta-feira (8). Esse tipo de aviso é o maior da escala e é emitido quando os acumulados de chuva ultrapassam 60 milímetros por hora ou acima de* *100 milímetros em 24 horas.
@@ -26,7 +25,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

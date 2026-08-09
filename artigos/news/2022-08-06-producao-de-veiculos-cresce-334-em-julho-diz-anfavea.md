@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Foram fabricadas 219 mil unidades em julho.
 
 A produção de veículos cresceu 33,4% em julho na comparação com o mesmo mês de 2021, segundo balanço divulgado nesta sexta-feira (5) pela Associação Nacional de Fabricantes de Veículos Automotores (Anfavea). Foram fabricadas em julho deste ano 219 mil unidades, o que também representa um aumento de 7,5% em relação a junho. No acumulado de janeiro a julho, foram produzidos 1,3 milhão de veículos, uma queda de 0,2% na comparação com os primeiros sete meses de 2021.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

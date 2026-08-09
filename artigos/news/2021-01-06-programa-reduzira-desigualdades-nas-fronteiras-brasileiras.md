@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ministério do Desenvolvimento Regional instituiu o Programa Fronteira Integrada, que visa a reduzir as desigualdades econômicas e sociais nas cidades localizadas em uma área de 150 quilômetros de largura ao longo das fronteiras terrestres brasileiras. A meta é criar oportunidades de desenvolvimento que resultem em crescimento econômico, geração de renda, melhoria da infraestrutura urbana e maior qualidade de vida da população.
 
 Terão prioridade no atendimento as 33 cidades-gêmeas reconhecidas pelo ministério nas áreas fronteiriças do Norte, Centro-Oeste e Sul, os municípios classificados como polos das regiões intermediárias priorizados pelos Planos Regionais de Desenvolvimento da Amazônia (PRDA) e do Centro-Oeste (PRDCO) e as localidades enquadradas como de baixa renda pela Política Nacional de Desenvolvimento Regional (PNDR).
@@ -32,7 +31,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

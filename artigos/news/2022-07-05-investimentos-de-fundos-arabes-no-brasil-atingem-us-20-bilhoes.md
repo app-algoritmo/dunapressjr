@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ### Fórum Econômico Brasil-Países Árabes começou nesta segunda-feira (4).
 
 O presidente Jair Bolsonaro afirmou nesta segunda-feira (4) que o total de investimentos de fundos árabes no Brasil se aproxima de US$ 20 bilhões. Acrescentou que a participação brasileira na Expo Dubai gerou negócios com a previsão de investimentos de US$ 10 bilhões.
 
-“O mundo árabe constitui o terceiro maior mercado para o Brasil no exterior, atrás apenas da China e dos Estados Unidos. A corrente de comércio entre o Brasil e os países da liga árabe alcançou, em 2021, mais de US $ 24 bilhões, um recorde na série histórica. Esse número deve seguir aumentando. De janeiro a abril, as exportações do Brasil para o mundo árabe saltaram de US$ 4 bilhões em 2021 para US$ 5,2 bilhões em 2022”, declarou, em discurso gravado para abertura do** [Fórum Econômico Brasil & Países Árabes](https://dunapress.org/2022/07/05/forum-debate-relacoes-comerciais-do-brasil-com-liga-dos-estados-arabes/)**, em São Paulo. 
+“O mundo árabe constitui o terceiro maior mercado para o Brasil no exterior, atrás apenas da China e dos Estados Unidos. A corrente de comércio entre o Brasil e os países da liga árabe alcançou, em 2021, mais de US $ 24 bilhões, um recorde na série histórica. Esse número deve seguir aumentando. De janeiro a abril, as exportações do Brasil para o mundo árabe saltaram de US$ 4 bilhões em 2021 para US$ 5,2 bilhões em 2022”, declarou, em discurso gravado para abertura do** [Fórum Econômico Brasil & Países Árabes](https://dunapress.org/2022/07/05/forum-debate-relacoes-comerciais-do-brasil-com-liga-dos-estados-arabes/)**, em São Paulo.
 
 Na avaliação de Bolsonaro, a relação do Brasil com mundo árabe tem se intensificado ao longo dos anos. Atualmente, há 18 representações diplomáticas nos 22 países que integram a liga árabe. No Brasil, a comunidade árabe reúne 10 milhões de pessoas.
 
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

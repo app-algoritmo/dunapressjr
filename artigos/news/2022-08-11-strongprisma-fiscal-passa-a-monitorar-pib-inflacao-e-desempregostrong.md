@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Novos indicadores são relevantes para avaliar a política fiscal.
 
 A Secretaria de Política Econômica do Ministério da Economia (SPE/ME) disponibilizou, nesta quarta-feira (10), além do [Relatório Mensal](https://www.gov.br/fazenda/pt-br/centrais-de-conteudos/publicacoes/relatorios-do-prisma-fiscal/relatorio-mensal/2022/relatorio-mensal-2022_08-v4.pdf/view) e da [Distribuição de Frequência do Prisma Fiscal de agosto de 2022](https://www.gov.br/fazenda/pt-br/centrais-de-conteudos/publicacoes/relatorios-do-prisma-fiscal/distribuicao-de-frequencia/2022/2022_08-frequencia.pdf/view), [Nota Especial - Incorporação de novas variáveis ao Sistema Prisma Fiscal](https://www.gov.br/fazenda/pt-br/centrais-de-conteudos/publicacoes/relatorios-do-prisma-fiscal/nota-metodologica/ne_novas_variaveis_prisma_2022_08.pdf/view). O documento resume o histórico do Sistema e informa sobre as ampliações ocorridas em 2021 e as que passam a constar a partir do relatório deste mês.
@@ -36,8 +35,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

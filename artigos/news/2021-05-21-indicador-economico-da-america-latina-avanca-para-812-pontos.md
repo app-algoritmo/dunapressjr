@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Apesar da alta, a América Latina continua na zona desfavorável.
 
 O Indicador de Clima Econômico (ICE) da América Latina, divulgado hoje (21) pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV), avançou de 70,5 pontos para 81,2 pontos do primeiro para o segundo trimestre deste ano. É a quarta alta seguida no indicador, que segue sob forte influência da pandemia da covid-19 em todos os países pesquisados.
@@ -30,7 +29,7 @@ No Chile, o ICE ficou praticamente estável, com recuo de 1,4 ponto. A Argentina
 
 ## PIB
 
-As previsões de crescimento do Produto Interno Bruto (PIB, soma dos bens e dos serviços produzidos no país) para 2021 dos especialistas consultados apontam melhora de 3,7% para 4,3% para a América Latina. Na análise por país, apenas o Peru de 8,4% para 7,9% e o Uruguai  de 3,0% para 2,2%, apresentaram piora no segundo trimestre. O Brasil ficou com a previsão estável em 3,0% e o Paraguai em 3,9%. Os demais países tiveram previsão de aumento.
+As previsões de crescimento do Produto Interno Bruto (PIB, soma dos bens e dos serviços produzidos no país) para 2021 dos especialistas consultados apontam melhora de 3,7% para 4,3% para a América Latina. Na análise por país, apenas o Peru de 8,4% para 7,9% e o Uruguai de 3,0% para 2,2%, apresentaram piora no segundo trimestre. O Brasil ficou com a previsão estável em 3,0% e o Paraguai em 3,9%. Os demais países tiveram previsão de aumento.
 
 Entre os problemas mais citados pelos especialistas dos países estão a pandemia da covid-19, seguida da falta de confiança na política econômica e falta de inovação. Também tiveram valores acima de 80 pontos, ou seja, foram citados por mais de 80% dos consultados, a infraestrutura inadequada, a aplicação da vacina contra a covid-19 ser mais lenta do que o esperado, o aumento da desigualdade de renda, a demanda insuficiente e a corrupção.
 
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

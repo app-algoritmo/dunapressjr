@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Nos sete primeiros meses do ano, visitantes gastaram US$ 2,7 bilhões.
 
 Os gastos de turistas estrangeiros no país somaram mais de US$ 2,7 bilhões (cerca de R$ 14,5 bilhões no câmbio de hoje) de janeiro a julho deste ano, valor 84% maior do que o registrado no mesmo período do ano passado (US$ 1,5 bilhão). As informações foram divulgadas nesta segunda-feira (26) pelo Ministério do Turismo, com base em dados do Banco Central.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

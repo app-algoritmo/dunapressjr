@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medida valerá a partir de agosto para imóveis de até R$ 1,5 milhão.
 
 A partir de agosto, os trabalhadores poderão usar recursos do Fundo de Garantia do Tempo de Serviço (FGTS) para abater prestações do primeiro imóvel financiado com recursos do Sistema de Financiamento Imobiliário (SFI), que financia imóveis com recursos livres dos bancos. A medida foi aprovada nesta terça-feira (11) pelo Conselho Curador do Fundo e entra em vigor nos próximos 90 dias.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

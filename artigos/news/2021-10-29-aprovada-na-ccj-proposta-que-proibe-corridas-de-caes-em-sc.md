@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Durante a Comissão de Constituição e Justiça desta terça-feira (26), na Assembleia Legislativa, foi aprovado projeto de lei que altera o Código Estadual de Proteção aos Animais, para proibir a realização de competições de corridas de cães e abandono de animais domésticos. A iniciativa é de autoria do deputado Marcius Machado (PL).
 
 Em agosto, o Projeto de Lei (PL) 70/2021,  que proíbe as corridas de cães em Santa Catarina, foi vetado em plenário. Em setembro, devida a pressão popular, foi conseguido apoio dos deputados para que a pauta voltasse a ser debatida na casa ainda neste ano.
@@ -40,7 +39,7 @@ Os cães às vezes são treinados com o uso de "iscas vivas" bárbaras, como coe
 
 Os galgos correm o ano todo em algumas pistas de corrida, incluindo os dias mais quentes do verão e os dias mais frios do inverno.
 
-Estes são apenas alguns motivos para que essa prática seja condenada e proibida em todo país. 
+Estes são apenas alguns motivos para que essa prática seja condenada e proibida em todo país.
 
 Créditos: https://www.grey2kusa.org
 
@@ -55,7 +54,3 @@ Fonte: http://agenciaal.alesc.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

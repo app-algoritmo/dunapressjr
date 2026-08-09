@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Parlamentares divergiram sobre o uso da autoridade para conter o avanço da Covid-19 no estado durante a sessão de quarta-feira (25) da Assembleia Legislativa.
 
 “Há um descontrole total da nossa situação, muito se fala e pouco se age, os órgãos de controle e fiscalização têm de ter atuação cada vez mais enérgica. As pessoas estão pouco ligando para se juntar e fazer festas, pelo contrário, querem cada vez mais o afrouxamento. O momento precisa de estadistas e não fazedores de média. Se não fosse o Ministério Público (MPSC) tomar as rédeas da situação, estaríamos muito pior em determinados pontos do estado. É hora de autoridade, está faltando isso”, disparou Doutor Vicente Caropreso (PSDB).
@@ -39,7 +38,7 @@ A deputada contou que o TCE recomendou à Secretaria de Estado da Educação (SE
 
 Moacir Sopelsa (MDB) e Kennedy Nunes elogiaram o esforço da representante de Chapecó.
 
-“O deputado que levanta uma situação como essa merece ser aplaudido, foi buscar essas informações, é um crime o que estão acometendo”, declarou Sopelsa. 
+“O deputado que levanta uma situação como essa merece ser aplaudido, foi buscar essas informações, é um crime o que estão acometendo”, declarou Sopelsa.
 
 “É bom a sociedade catarinense saber, somos a porta de entrada das denúncias e temos o papel constitucional e legal de investigar as denúncias, parabéns deputada”, afirmou Kennedy.
 
@@ -76,7 +75,7 @@ Maurício Eskudlark (PL) lembrou os pares que faltam poucos dias para encerrar o
 
 Créditos: **Vítor Santos**
 
-Foto: Bruno Collaço 
+Foto: Bruno Collaço
 
 Fonte: alesc.sc.gov.br
 
@@ -85,4 +84,4 @@ Sua assinatura não somente ajudará no fornecerá notícias precisas, mas tamb�
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi) Obrigado pelo apoio!
+ Obrigado pelo apoio!

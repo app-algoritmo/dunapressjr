@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Aseel Nama, uma aluna de bacharelado em engenharia biomédica no Technion, a renomada universidade de pesquisa em Haifa, participou no mês passado do programa de ciência cidadã International Astronomical Search Collaboration, afiliado à agência espacial dos Estados Unidos.
 
 Nama, que cresceu na cidade árabe de Deir al-Asad e agora mora em Haifa, disse ser a única equipe com permissão para se inscrever no evento.
@@ -32,7 +31,3 @@ Fonte: https://www.timesofisrael.com
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

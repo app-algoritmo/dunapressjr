@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Anúncio foi da secretária-executiva do Ministério de Minas e Energia.
 
 A secretária-executiva do Ministério de Minas e Energia, Marisete Pereira, disse nesta terça-feira (14) que o aporte de R$ 5 bilhões da Eletrobras na Conta de Desenvolvimento Energético (CDE) para redução de tarifas de energia, estabelecido como condição do processo de privatização da empresa, deve ser realizado até o final do mês de julho. A informação foi dada na B3 em [**logo após o toque de campainha de privatização da Eletrobras**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-06/evento-na-b3-marca-inicio-da-privatizacao-da-eletrobras), cerimônia que contou com a participação do presidente da República, Jair Bolsonaro. Esses recursos devem aliviar os reajustes nas contas de luz.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

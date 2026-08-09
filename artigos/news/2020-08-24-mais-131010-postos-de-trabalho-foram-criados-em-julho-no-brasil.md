@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Para ajudar na preservação do trabalho, Programa Emergencial de Manutenção do Emprego e da Renda deverá ser prorrogado. Após quatro meses de queda, o emprego cresceu no Brasil.
 
 pós quatro meses de queda, o emprego cresceu no Brasil. Dados do Cadastro Geral de Empregados e Desempregados (Caged), de julho mostrou um saldo positivo de 131.010 novos postos de trabalho formal no mês. É o resultado de 1.043.650 admissões e 912.640 desligamentos no período. Isso representa 14% a mais de contratações se comparado com o mês anterior.
@@ -30,6 +29,6 @@ Mais de 16 milhões de contratos já foram assinados pelo programa ajudando a ma
 
 Segundo a medida, o empregador poderá, por meio de acordos individuais ou coletivos com seus empregados: reduzir jornada de trabalho e salário, por até 90 dias; ou suspender contrato de trabalho, por até 60 dias.
 
-Fonte Gov.br 
+Fonte Gov.br
 
- https://dunapress.org/?aff=joiceferreiradunapress
+ https://dunapress.org/

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Moeda reverte queda acumulada no mês.
 
 O dólar fechou em forte alta ante o real nesta quinta-feira (18), terminando no maior patamar desde 1º de junho e não apenas revertendo a queda acumulada no mês como passando a subir, puxado pela combinação de exterior arisco e de noticiário local ainda inspirando cautela para o câmbio.
@@ -38,4 +37,4 @@ O recorde de fechamento nominal para o dólar foi alcançado no último dia 13 d
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

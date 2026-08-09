@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O setor de materiais de construção voltou a ser destaque.
 
 As vendas no comércio tiveram alta de 1,6% no mês de maio em comparação ao mês anterior. O setor de materiais de construção voltou a ser destaque, com elevação de 4,8%. Os dados, nacionais, são do Indicador de Atividade do Comércio da Serasa Experian e foram divulgados nesta sexta-feira (11).
@@ -20,8 +19,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

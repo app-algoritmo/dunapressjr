@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Regras foram igualadas às dos grandes bancos.
 
 As *fintechs* (*startups* do setor financeiro) de maior porte obedecerão a exigências dos bancos tradicionais para prevenir riscos para o funcionamento do sistema financeiro, anunciou nesta sexta-feira (11), em Brasília, o Banco Central (BC). As normas entrarão em vigor em janeiro de 2023 e serão implementadas gradualmente até janeiro de 2025. *Startup* é uma empresa inovadora.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

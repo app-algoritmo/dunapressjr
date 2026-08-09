@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 No Brasil, mais de 54 milhões de brasileiros têm mais de 50 anos. Acima de 60, são 33 milhões de pessoas. Os dados do Instituto Brasileiro de Geografia e Estatística (IBGE) apontam para o envelhecimento da população. Segundo o Relatório Global de Sistemas Previdenciários, realizado pela seguradora Allianz, apenas 10% dos idosos brasileiros estão sem ocupação rentável. Mesmo com a pandemia da covid-19 e com as novas tendências tecnológicas, profissionais com mais de 50 anos provam que são capazes de assumir novos desafios e altos cargos.
 
-Paulo Cury é um deles. Aos 58 anos, ele é gerente de Infraestrutura da Tecnobank, empresa de tecnologia para negócios, e em dezembro completa 40 anos no setor de Tecnologia da Informação (TI). “Comecei com o curso técnico de eletrônica e consegui estágio numa empresa de manutenção de computadores. Desde então, sigo na área de Suporte e Infraestrutura. 
+Paulo Cury é um deles. Aos 58 anos, ele é gerente de Infraestrutura da Tecnobank, empresa de tecnologia para negócios, e em dezembro completa 40 anos no setor de Tecnologia da Informação (TI). “Comecei com o curso técnico de eletrônica e consegui estágio numa empresa de manutenção de computadores. Desde então, sigo na área de Suporte e Infraestrutura.
 
-Hoje, atuando na Tecnobank há pouco mais de cinco anos, Cury tem a oportunidade de mostrar seu trabalho e conquistar seu espaço. “Para isso, faço muitos cursos de qualificação e atualização. Estudo de duas a três horas por dia e aprendo muito com os jovens profissionais ao meu lado. Faço muitas perguntas, não tenho vergonha de questionar, não saio com dúvidas. Costumo brincar que sou Cury, o Curyoso”, descontrai. “As pessoas acham que paramos no tempo. Mas não é verdade”, desabafa. 
+Hoje, atuando na Tecnobank há pouco mais de cinco anos, Cury tem a oportunidade de mostrar seu trabalho e conquistar seu espaço. “Para isso, faço muitos cursos de qualificação e atualização. Estudo de duas a três horas por dia e aprendo muito com os jovens profissionais ao meu lado. Faço muitas perguntas, não tenho vergonha de questionar, não saio com dúvidas. Costumo brincar que sou Cury, o Curyoso”, descontrai. “As pessoas acham que paramos no tempo. Mas não é verdade”, desabafa.
 
 O profissional de TI ressalta que é preciso manter a cabeça aberta para as mudanças que acontecem no mercado de trabalho. “Por isso, não me sinto velho. Enquanto eu tiver inspiração para trabalhar, vou continuar. Gosto de viver nesse mundo da tecnologia. Faço porque amo”, declara Cury.
 
@@ -41,7 +40,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

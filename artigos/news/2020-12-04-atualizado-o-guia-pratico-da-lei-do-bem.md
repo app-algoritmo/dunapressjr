@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Ciência, Tecnologia e Inovações (MCTI) lançou a versão atualizada do Guia Prático da Lei do Bem. O objetivo é fazer com que mais empresas utilizem os benefícios previstos na lei, um dos principais instrumentos de fomento à ciência, tecnologia e inovação no país.
 
 O ministro Marcos Pontes destacou que o Guia Prático da Lei do Bem é mais uma ação do MCTI para ampliar os investimentos em pesquisa, desenvolvimento e inovação no Brasil. “Para que o setor privado invista mais é necessário segurança jurídica, projetos prioritários e sinergia com o setor público”, afirma.
@@ -36,7 +35,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

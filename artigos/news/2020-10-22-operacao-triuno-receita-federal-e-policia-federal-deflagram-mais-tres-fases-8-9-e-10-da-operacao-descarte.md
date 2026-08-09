@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Ações ocorrem nos estados de São Paulo e Rio de Janeiro.
 
 A Receita Federal, em conjunto com a Polícia Federal, deflagrou, na manhã desta quinta-feira (22), a Operação “TRIUNO”, mais uma etapa da Operação Descarte. O objetivo é obter provas adicionais relativas a operações fraudulentas utilizadas para esconder a ocorrência de sonegação fiscal, corrupção ativa e passiva, lavagem de dinheiro, evasão de divisas e associação criminosa.
@@ -30,5 +29,3 @@ No âmbito da operação Descarte, os Auditores-Fiscais responsáveis já identi
 Fonte: Receita Federal
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

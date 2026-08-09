@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Dado do IBGE é referente ao período de 28 de junho a 4 de julho.
 
 A população ocupada do Brasil que estava afastada do trabalho por causa do distanciamento social causado pela pandemia da covid-19, somou cerca de 8,3 milhões de pessoas, que representam 10,1%, referente à semana de 28 de junho a 4 de julho. Os números significam queda em relação à semana anterior, quando o índice estava em 12,5% (10,3 milhões) e ao período entre 3 e 9 de maio com 19,8% (16,6 milhões). Os dados fazem parte da PNAD COVID19 semanal, divulgada hoje (24) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -48,4 +47,4 @@ Maria Lúcia Vieira acrescentou que entre os 3,1 milhões de pessoas, que ainda 
 
 Fonte: Agência Brasil –Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

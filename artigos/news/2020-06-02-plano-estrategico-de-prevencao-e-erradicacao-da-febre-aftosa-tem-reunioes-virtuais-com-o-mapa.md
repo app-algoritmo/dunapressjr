@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Os encontros têm objetivo de dar continuidade às ações do Plano Estratégico do Programa Nacional de Erradicação e Prevenção da Febre Aftosa.
 
 O Departamento de Saúde Animal da Secretaria de Defesa Agropecuária, do Ministério da Agricultura, Pecuária e Abastecimento (Mapa), promoveu, na última semana, reuniões virtuais com representantes das equipes gestoras do Bloco II (AP, PA, RR e parte do AM), Bloco III (AL, CE, MA, PB, PE, PI e RN) e Bloco IV (BA, ES, GO, MG, MS, MT, RJ, SE, SP e DF) para avaliar os reflexos da pandemia do Coronavírus (Covid-19) na continuidade das ações previstas no Plano Estratégico do Programa Nacional de Erradicação e Prevenção da Febre Aftosa (PE-PNEFA). Também foi feita reunião virtual com a equipe gestora nacional para discutir o andamento do plano.
@@ -34,8 +33,6 @@ A região tem aproximadamente 40 milhões de bovinos, representando 18,5% do reb
 **“**O reconhecimento internacional dessa nova área contribuirá para formação de uma zona livre de febre aftosa sem vacinação responsável por 80% da produção comercial de suínos do país, propiciando ao segmento condições mais favoráveis para inserção dos seus produtos em mercados importantes, com melhores perspectivas de agregação de valor e consequentemente melhor remuneração a todo segmento”, destaca Moraes.
 
 Fonte: gov.br / Imagem em destaque: ruralpecuaria.com.br
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

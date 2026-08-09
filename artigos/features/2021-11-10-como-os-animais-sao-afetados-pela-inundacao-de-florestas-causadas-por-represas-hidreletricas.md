@@ -8,7 +8,6 @@ categories:
 - Features
 ---
 
-
 No Brasil, boa parte da energia que utilizamos no dia-a-dia é proveniente de hidrelétricas. Usinas assim são feitas ao longo de rios, construindo barragens que retém grande quantidade de água, a qual é usada para movimentar turbinas que geram energia elétrica. Embora seja uma fonte de energia que não produza tantos gases de efeito estufa como usinas a base de combustíveis fósseis, a instalação de hidrelétricas causa grandes impactos em seu ambiente. Mega represas representam um dos principais responsáveis por perdas de biodiversidade em países em desenvolvimento. A principal razão para isso é a inundação de áreas extensas que destroem a vegetação nativa e provocam a fragmentação de uma floresta que antes era contínua.
 
 A ciência já sabe que ambientes fragmentados (seja por estradas, áreas de fazenda ou qualquer outro motivo) dificultam a sobrevivência de animais que precisam de grandes áreas para sobreviver. Isso pode acontecer pela redução na variedade de alimento disponível, redução da quantidade de parceiros sexuais e até por conta de mudanças no clima local que afetam a capacidade das espécies em tolerar condições adversas. Além disso, o desaparecimento de espécies causa desequilíbrios ambientais que podem levar a extinções em cadeia.
@@ -58,7 +57,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

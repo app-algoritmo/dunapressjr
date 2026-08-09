@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Papéis públicos são preponderantes, diz Banco Central.
 
 As emissões de títulos no Brasil equivalem a 135% do Produto Interno Bruto (PIB, soma de todos os bens e serviços produzidos no país). Segundo o Banco Central (BC), o volume é expressivo e, apesar da emissão de títulos privados ser crescente, são preponderantes as emissões de títulos públicos.
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

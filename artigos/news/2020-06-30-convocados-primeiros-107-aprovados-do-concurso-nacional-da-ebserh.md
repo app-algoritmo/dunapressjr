@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Candidatos PCD foram chamados por meio de edital no Diário Oficial da União.
 
 A Ebserh tem atuado para reverter algumas decisões judiciais que impactam as convocações do Concurso Nacional 01/2019, mas a despeito desses impedimentos, e respeitando tais decisões, iniciou as convocações de candidatos com deficiência (PCD). Nesta segunda-feira (29), mais 107 candidatos PCD já foram chamados por meio de edital disponível do Diário Oficial da União e no portal da Rede Ebserh. Ao todo, foram oferecidas 1.660 vagas.
@@ -32,7 +31,7 @@ Fonte: gov.br / Imagem em destaque: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

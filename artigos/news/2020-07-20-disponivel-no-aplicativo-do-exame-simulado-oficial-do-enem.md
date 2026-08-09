@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) agora oferece um simulado oficial do Exame Nacional do Ensino Médio (Enem) para ajudar na preparação dos inscritos. O simulado utiliza conceitos de gamificação e pode ser acessado pelo aplicativo do Enem, em celular ou tablet. Quem já tem o app precisa atualizá-lo. O aplicativo do Enem está disponível nas plataformas Android e iOS.
 
 Com o simulado, o Inep amplia as opções de preparação dos participantes, que poderão estudar em uma plataforma do próprio instituto. O simulado do Inep ganha ainda mais relevância neste momento de interrupção de aulas presenciais. A interação também ficou facilitada pela linguagem mais amigável da nova versão do aplicativo. A proposta é que o usuário tenha em mãos uma ferramenta simples, com informações de qualidade, certificada pelos profissionais da área pedagógica do Inep.
@@ -30,7 +29,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

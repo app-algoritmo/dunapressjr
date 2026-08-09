@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Rafael Frandoloso é graduado em Medicina Veterinária pela Universidade de Passo Fundo (UPF), no Rio Grande do Sul e doutor em Imunologia e Microbiologia Veterinária pela Universidade de León, na Espanha. Foi bolsista de pós-doutorado da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) entre março de 2017 e fevereiro de 2018 na Universidade de Calgary, no Canadá. Publicado em periódico internacional, o [artigo](https://www.frontiersin.org/articles/10.3389/fimmu.2020.595320/full) que resultou da pesquisa no país norte-americano sinaliza avanços em direção à vacinação sem agulhas ou seringas.  
+Rafael Frandoloso é graduado em Medicina Veterinária pela Universidade de Passo Fundo (UPF), no Rio Grande do Sul e doutor em Imunologia e Microbiologia Veterinária pela Universidade de León, na Espanha. Foi bolsista de pós-doutorado da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) entre março de 2017 e fevereiro de 2018 na Universidade de Calgary, no Canadá. Publicado em periódico internacional, o [artigo](https://www.frontiersin.org/articles/10.3389/fimmu.2020.595320/full) que resultou da pesquisa no país norte-americano sinaliza avanços em direção à vacinação sem agulhas ou seringas.
 
 **Fale um pouco de você e de sua trajetória.**
 
@@ -32,7 +31,7 @@ Na Universidade de Calgary, queríamos desenvolver uma formulação vacinal nova
 
 O Brasil possui um sistema de produção de proteína animal que é referência para o mundo. Somos destaque na produção de aves, bovinos e suínos e assumimos responsabilidades internacionais importantes no que tange a alimentação global. Trabalhamos para produzir proteínas de alta qualidade nutricional e sanitária. Com relação a essa última característica, as vacinas são fundamentais, pois controlam de forma biológica o desenvolvimento de patologias que comprometem a vida dos animais e afetam a produtividade dos mesmos.
 
-Esse é o caminho racional para reduzir o uso de antimicrobianos na produção animal, uma ação em pleno desenvolvimento no Brasil. O nosso descobrimento demonstra que é possível desenvolver vacinas inteligentes, capazes de evitar a colonização de importantes bactérias respiratórias, e consequentemente, sua transmissão. Estou falando de erradicação de importantes patógenos pelo uso dessas vacinas inteligentes. 
+Esse é o caminho racional para reduzir o uso de antimicrobianos na produção animal, uma ação em pleno desenvolvimento no Brasil. O nosso descobrimento demonstra que é possível desenvolver vacinas inteligentes, capazes de evitar a colonização de importantes bactérias respiratórias, e consequentemente, sua transmissão. Estou falando de erradicação de importantes patógenos pelo uso dessas vacinas inteligentes.
 
 O pesquisador Rafael Frandoloso supervisiona os porcos usados no experimento de vacinação (Foto: Arquivo pessoal).
 
@@ -40,7 +39,7 @@ O pesquisador Rafael Frandoloso supervisiona os porcos usados no experimento de 
 
 A aplicação de vacinas veterinárias e humanas é realizada fundamentalmente pela via intramuscular através do uso de seringas e agulhas. Esse procedimento não é muito agradável, mas necessário para nos manter vivos. O uso de agulhas na imunização de animais de produção (suínos, por exemplo) favorece a transmissão horizontal de patógenos, já que esses animais não são vacinados com agulhas de único uso. Na medicina humana e veterinária, as agulhas representam um risco biológico de infecções, já que são frequentes os acidentes com agulhas (perfuração acidental). A Organização Mundial da Saúde (OMS) estima que 20% da população humana não se vacina em razão do medo de agulhas, representando um risco de manutenção ativa de patógenos para a população em geral.
 
-Em nosso estudo, demonstramos que a aplicação da nossa vacina através de um dispositivo de injeção sem agulha diretamente na mucosa jugal (mucosa da parte interna da bochecha), não causa dor e estimula uma robusta resposta de mucosa e sistêmica contra *G. parasuis*. Essa mesma resposta foi conseguida ao aplicar a vacina pela via intradérmica, novamente utilizando um dispositivo de vacinação sem agulha. Estamos convencidos que esse é o caminho que a indústria farmacêutica veterinária e humana seguirá.  
+Em nosso estudo, demonstramos que a aplicação da nossa vacina através de um dispositivo de injeção sem agulha diretamente na mucosa jugal (mucosa da parte interna da bochecha), não causa dor e estimula uma robusta resposta de mucosa e sistêmica contra *G. parasuis*. Essa mesma resposta foi conseguida ao aplicar a vacina pela via intradérmica, novamente utilizando um dispositivo de vacinação sem agulha. Estamos convencidos que esse é o caminho que a indústria farmacêutica veterinária e humana seguirá.
 
 **O artigo cita que a observação mais notável da pesquisa foi que a vacinação sem agulhas não só preveniu a infecção, mas eliminou a colonização. Vocês pretendem avançar nisso em um estudo futuro?**
 
@@ -72,7 +71,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

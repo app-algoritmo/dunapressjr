@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Previsão de maio é 0,6% maior do que a estimada pela pesquisa de abril.
 
 A produção de cereais, leguminosas e oleaginosas deve fechar 2022 com um volume recorde de 263 milhões de toneladas. Caso a estimativa se confirme, a safra será 3,8% superior à registrada em 2021, de 253,2 milhões de toneladas. O dado é do Levantamento Sistemático da Produção Agrícola (LSPA) de maio, divulgado nesta quarta-feira (8) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

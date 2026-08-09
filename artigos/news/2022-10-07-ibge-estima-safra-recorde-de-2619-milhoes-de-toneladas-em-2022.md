@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Números são do Levantamento Sistemático da Produção Agrícola.
 
 A safra brasileira de cereais, leguminosas e oleaginosas deve alcançar 261,9 milhões de toneladas em 2022, de acordo com a estimativa de setembro do Levantamento Sistemático da Produção Agrícola, divulgado nesta quinta-feira (6), no Rio de Janeiro, pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

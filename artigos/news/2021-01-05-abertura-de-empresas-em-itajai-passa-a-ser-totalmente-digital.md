@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A transparência e a desburocratização dos processos, realidade em várias demandas e serviços da Administração Municipal de Itajaí, chega agora aos pedidos para a abertura de novas empresas, que a partir desta sexta-feira (08) passam a ser totalmente digitais no Município. Com a nova ferramenta, contadores e empreendedores em geral terão mais agilidade e facilidade para a abertura de novos negócios na cidade.
 
 Com o amplo sistema Aprova Digital, que já proporcionou uma revolução para os processos de licenças ambientais, projetos arquitetônicos, alvarás e inúmeros outros requerimentos, a abertura de empresas passa agora a ser mais ágil e dinâmica. Com a ferramenta, o cidadão passa a realizar todo o processo de modo remoto, inclusive a solicitação para a Inscrição Municipal e a Licença de Alvará, que também serão emitidas de forma eletrônica.
@@ -54,7 +53,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

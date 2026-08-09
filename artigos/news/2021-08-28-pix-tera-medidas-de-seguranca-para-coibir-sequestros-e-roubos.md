@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Limite de transações entre pessoas físicas à noite cairá para R$ 1 mil.
 
 O aumento de casos de sequestros relâmpago e de roubos relacionados ao Pix fez o Banco Central (BC) introduzir medidas de segurança no sistema instantâneo de pagamentos. As alterações divulgadas nesta sexta-feira (27) também afetam outras modalidades de pagamento eletrônico, como a Transferência Eletrônica Disponível (TED), cartões de débito e transferências entre contas de um mesmo banco.
@@ -18,15 +17,15 @@ Em outra mudança, o BC decidiu impedir o aumento instantâneo de limites de tra
 
 As instituições financeiras passarão a oferecer aos clientes a possibilidade de definir limites distintos de movimentação no Pix durante o dia e a noite, permitindo limites mais baixos no período noturno. Elas também passarão a permitir o cadastramento prévio de contas que poderão receber Pix acima dos limites estabelecidos, mantendo os limites baixos para as demais transações.
 
-## Outras medidas 
+## Outras medidas
 
-•        permitir que os participantes do Pix retenham uma transação por 30 minutos durante o dia ou por 60 minutos durante a noite para a análise de risco da operação, informando ao usuário sobre a retenção;
-•        tornar obrigatório o mecanismo, já existente e hoje facultativo, de marcação no Diretório de Identificadores de Contas Transacionais (DICT) de contas com indícios de utilização em fraudes no Pix, inclusive no caso de transações realizadas entre contas do mesmo participante;
-•        permitir consultas ao DICT para alimentar os sistemas de prevenção à fraude das instituições, de forma a coibir crimes envolvendo a mesma conta em outros meios de pagamento e com outros serviços bancários;
-•        exigir que os participantes do Pix adotem controles adicionais em relação a transações envolvendo contas marcadas no DICT, inclusive para fins de eventual recusa a seu processamento, combatendo assim a utilização de contas de aluguel ou os chamados laranjas;
-•        determinar que os participantes de arranjos de pagamentos eletrônicos compartilhem, tempestivamente, com autoridades de segurança pública, as informações sobre transações suspeitas de envolvimento com atividades criminosas;
-•        exigir das instituições reguladas controles adicionais sobre fraudes, com reporte para o Comitê de Auditoria e para o Conselho de Administração ou, na sua ausência, à Diretoria Executiva, bem como manter à disposição do Banco Central tais informações;
-•        exigir histórico comportamental e de crédito para que empresas possam antecipar recebíveis de cartões com pagamento no mesmo dia, reduzindo a ocorrência de fraudes.
+• permitir que os participantes do Pix retenham uma transação por 30 minutos durante o dia ou por 60 minutos durante a noite para a análise de risco da operação, informando ao usuário sobre a retenção;
+• tornar obrigatório o mecanismo, já existente e hoje facultativo, de marcação no Diretório de Identificadores de Contas Transacionais (DICT) de contas com indícios de utilização em fraudes no Pix, inclusive no caso de transações realizadas entre contas do mesmo participante;
+• permitir consultas ao DICT para alimentar os sistemas de prevenção à fraude das instituições, de forma a coibir crimes envolvendo a mesma conta em outros meios de pagamento e com outros serviços bancários;
+• exigir que os participantes do Pix adotem controles adicionais em relação a transações envolvendo contas marcadas no DICT, inclusive para fins de eventual recusa a seu processamento, combatendo assim a utilização de contas de aluguel ou os chamados laranjas;
+• determinar que os participantes de arranjos de pagamentos eletrônicos compartilhem, tempestivamente, com autoridades de segurança pública, as informações sobre transações suspeitas de envolvimento com atividades criminosas;
+• exigir das instituições reguladas controles adicionais sobre fraudes, com reporte para o Comitê de Auditoria e para o Conselho de Administração ou, na sua ausência, à Diretoria Executiva, bem como manter à disposição do Banco Central tais informações;
+• exigir histórico comportamental e de crédito para que empresas possam antecipar recebíveis de cartões com pagamento no mesmo dia, reduzindo a ocorrência de fraudes.
 
 ## Prevenção de crimes
 
@@ -42,10 +41,6 @@ Apesar da praticidade, as mudanças aumentaram os casos de fraudes, de roubos e 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

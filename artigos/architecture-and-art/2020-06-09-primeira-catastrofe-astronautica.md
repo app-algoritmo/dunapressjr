@@ -7,7 +7,6 @@ categories:
 - Architecture and Art
 ---
 
-
 ***Sentimentos que pousaram em meu coração***
 
 A missão começa. Entro na cápsula pensando apenas no que devo fazer. Com toda paciência aguardo a ignição do primeiro estágio do meu foguete. Aí vamos nós! A decolagem começa, e sei que corro o risco de morrer nessa hora. Mas, tudo ocorre como planejado.
@@ -28,9 +27,9 @@ Não pouso com elegância e nem tenho como escapar como meus colegas de missões
 
 Pessoas ouvem apenas uma explosão e vêm desesperadas ao local em que pousei. Não sei se estou vivo, mas certamente inerte. Terei o mesmo reconhecimento de meus colegas e irmãos que não falharam? Não sei.
 
-Agora, fazendo uma análise, comparo o que acontece em uma missão espacial falha com o que penso sobre o amor. Nesse pensamento, decolamos e vamos para um local em que o futuro e as reações são totalmente incertas. Não sabemos se voltaremos, sobreviveremos, mas temos orgulho de nossos feitos para conquistar quem amamos. Porque somos tão desacreditados e humilhados por termos sentimentos verdadeiros, numa sociedade tão fluida, veloz e volátil? Não mais seria possível viver quem você realmente é, e como você é? 
+Agora, fazendo uma análise, comparo o que acontece em uma missão espacial falha com o que penso sobre o amor. Nesse pensamento, decolamos e vamos para um local em que o futuro e as reações são totalmente incertas. Não sabemos se voltaremos, sobreviveremos, mas temos orgulho de nossos feitos para conquistar quem amamos. Porque somos tão desacreditados e humilhados por termos sentimentos verdadeiros, numa sociedade tão fluida, veloz e volátil? Não mais seria possível viver quem você realmente é, e como você é?
 
-Um astronauta desarmado é como o exército do amor, cantado por Viktor Saltykov: é o que mais tem esperança. Não tem como prever seu destino, está sozinho, apenas aguardando. Não dorme, pensando em sua missão, e acaba com o exército da razão. Me considero um astronauta caído. Faço, me inspiro, dou o meu melhor, mas, no fim, faleço em vão ao cair na Terra, sem paraquedas, e com destino certo. 
+Um astronauta desarmado é como o exército do amor, cantado por Viktor Saltykov: é o que mais tem esperança. Não tem como prever seu destino, está sozinho, apenas aguardando. Não dorme, pensando em sua missão, e acaba com o exército da razão. Me considero um astronauta caído. Faço, me inspiro, dou o meu melhor, mas, no fim, faleço em vão ao cair na Terra, sem paraquedas, e com destino certo.
 
 *Imagem: Desenho – Jessica Jaconetti, 08/06/2020.*
 
@@ -38,6 +37,4 @@ Um astronauta desarmado é como o exército do amor, cantado por Viktor Saltykov
 
 Quando começamos o **Press Periódico** para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!
 
-https://dunapress.org/subscription-plan/?aff=jesshutter
-
-[](https://dunapress.org/subscription-plan/?aff=jesshutter)
+https://dunapress.org/subscription-plan/

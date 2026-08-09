@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Uma nova versão do Plano de Enfrentamento e Monitoramento da Covid-19 para Povos Indígenas Brasileiros foi apresentada ao Supremo Tribunal Federal (STF), nesta sexta-feira (4), pelo Governo Federal, sob coordenação do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH).
 
 Com o aperfeiçoamento do plano, o principal foco é o reforço na proteção das comunidades indígenas. O documento leva em consideração a evolução contextual da doença no país.
@@ -52,5 +51,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

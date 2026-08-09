@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## PM permite que os judeus continuem a visitar o Monte do Templo; Protesto do Movimento Islâmico e da Lista Árabe Unida: 'O Monte do Templo está sob propriedade islâmica.'
 
 Mais de 1.600 visitantes judeus subiram ao Monte do Templo no domingo para orações marcando o dia de jejum de Tisha B'Av, atraindo a ira do Movimento Islâmico em Israel e seus representantes políticos no Knesset.
@@ -37,7 +36,3 @@ Fonte: https://www.israelnationalnews.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
-Com tema “Seja solidário. Doe sangue. Doar é um ato de amor”, objetivo é estimular doações também durante pandemia. 
+Com tema “Seja solidário. Doe sangue. Doar é um ato de amor”, objetivo é estimular doações também durante pandemia.
 
 Em época de pandemia, o Ministério da Saúde pede para a população não deixar de doar sangue durante lançamento da campanha “Seja solidário. Doe sangue. Doar é um ato de amor”.
 
-Somente esse ano, o Ministério da Saúde transferiu 1,6 mil bolsas de sangue entre os estados brasileiros e vem monitorando os estoques em todo país para tomar as medidas necessárias em tempo apropriado, explicou o coordenador-geral de Sangue e Hemoderivados do Ministério da Saúde, Rodolfo Duarte Firmino.  
+Somente esse ano, o Ministério da Saúde transferiu 1,6 mil bolsas de sangue entre os estados brasileiros e vem monitorando os estoques em todo país para tomar as medidas necessárias em tempo apropriado, explicou o coordenador-geral de Sangue e Hemoderivados do Ministério da Saúde, Rodolfo Duarte Firmino.
 
 “Isso nos dá tranquilidade de trabalhar com planejamento para que nós possamos nos mobilizar ou tomar outras atitudes para que o sangue não venha faltar para o brasileiro que precisa”, disse.
 
@@ -49,8 +48,6 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique no banner abaixo  para assinar
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

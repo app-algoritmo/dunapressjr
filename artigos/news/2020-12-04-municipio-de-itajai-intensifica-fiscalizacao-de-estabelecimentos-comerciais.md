@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí intensifica a partir desta quinta-feira (03) a fiscalização das medidas sanitárias contra COVID-19 em estabelecimentos comerciais. A ação terá participação da Vigilância Sanitária, Guarda Municipal e Polícias Civil e Militar e ocorrerá no período noturno, de quinta a domingo. A intenção é garantir o cumprimento dos cuidados preventivos, coibir aglomerações e orientar a população sobre as medidas para controle do coronavírus.
 
 O trabalho de fiscalização envolve rondas preventivas, vistorias e verificação de denúncias da população quanto ao descumprimento das restrições impostas para o enfrentamento à pandemia. Os órgãos também realizam orientações por toda a cidade com abordagens, reforço da importância do uso de máscaras e a proibição de aglomerações.
@@ -29,7 +28,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

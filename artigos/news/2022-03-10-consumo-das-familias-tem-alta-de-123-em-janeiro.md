@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em janeiro do ano passado, o consumo teve alta de 12%.
 
 O consumo das famílias brasileiras teve alta de 1,23% em janeiro na comparação com o mesmo mês de 2021, segundo levantamento divulgado nesta quinta-feira (10) pela Associação Brasileira de Supermercados (Abras). Em relação a dezembro de 2021, o Índice Nacional de Consumo nos Lares Brasileiros teve queda de 21,22%.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

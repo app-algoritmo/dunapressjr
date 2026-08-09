@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-O Ministro das Relações Exteriores, Carlos Alberto França, abriu o evento “O Brasil e a Memória do Holocausto – Legado e compromissos”, realizado no Itamaraty, lembrando o aniversário  terça-feira (19/04) do Levante do Gueto de Varsóvia e destacando o compromisso do País com a memória do Holocausto. França citou a atuação dos brasileiros Aracy de Carvalho Guimarães Rosa e do embaixador Luiz Martins de Souza Dantas, que arriscaram suas vidas para ajudar a salvar judeus dos campos de extermínio nazistas. “O Brasil se orgulha de ter em seus quadros membros que intercederam para salvar vidas do nazismo – Aracy de Carvalho e Luiz Martins de Souza Dantas, ambos reconhecidos pelo Yad Vashem como ‘Justos entre as nações’”. “A atuação de ambos coaduna-se com nossa politica contra qualquer forma de discriminação e temos orgulho de acolher a segunda maior comunidade judaica da América Latina”. França reafirmou a disposição de trabalhar através da Aliança Internacional para a Recordação do Holocausto (IHRA), da qual o Brasil atua como membro observador, em favor de politicas nacionais de recordação da Shoá. 
+O Ministro das Relações Exteriores, Carlos Alberto França, abriu o evento “O Brasil e a Memória do Holocausto – Legado e compromissos”, realizado no Itamaraty, lembrando o aniversário  terça-feira (19/04) do Levante do Gueto de Varsóvia e destacando o compromisso do País com a memória do Holocausto. França citou a atuação dos brasileiros Aracy de Carvalho Guimarães Rosa e do embaixador Luiz Martins de Souza Dantas, que arriscaram suas vidas para ajudar a salvar judeus dos campos de extermínio nazistas. “O Brasil se orgulha de ter em seus quadros membros que intercederam para salvar vidas do nazismo – Aracy de Carvalho e Luiz Martins de Souza Dantas, ambos reconhecidos pelo Yad Vashem como ‘Justos entre as nações’”. “A atuação de ambos coaduna-se com nossa politica contra qualquer forma de discriminação e temos orgulho de acolher a segunda maior comunidade judaica da América Latina”. França reafirmou a disposição de trabalhar através da Aliança Internacional para a Recordação do Holocausto (IHRA), da qual o Brasil atua como membro observador, em favor de politicas nacionais de recordação da Shoá.
 
 Assista ao evento acessando o link: [https://www.youtube.com/watch?v=QCoT_UKXXtc](https://www.youtube.com/watch?v=QCoT_UKXXtc)
 
@@ -34,7 +33,3 @@ Fonte: Conib
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Superávit das transações correntes chegou a US$ 5,6 bilhões.
 
 As contas externas fecharam o mês de abril com superávit recorde de US$ 5,663 bilhões, de acordo com dados do Banco Central (BC) divulgados hoje (26). No mesmo mês do ano passado, o superávit havia sido de R$ 199 milhões.
 
-O resultado foi puxado sobretudo pelo desempenho recorde da [**balança comercial**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-05/balanca-comercial-tem-melhor-saldo-da-historia-para-meses-de-abril), que em abril teve superávit de US$ 9,145 bilhões, resultado impulsionado pela alta recente nos preços de *commodities* (bens primários com cotação internacional), entre elas minério de ferro e alimentos. 
+O resultado foi puxado sobretudo pelo desempenho recorde da [**balança comercial**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-05/balanca-comercial-tem-melhor-saldo-da-historia-para-meses-de-abril), que em abril teve superávit de US$ 9,145 bilhões, resultado impulsionado pela alta recente nos preços de *commodities* (bens primários com cotação internacional), entre elas minério de ferro e alimentos.
 
 Houve também aumento no ingresso de investimentos diretos do exterior no país, de US$ 3,544 bilhões em abril, ante US$ 1,632 bilhão em igual mês de 2020.
 
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

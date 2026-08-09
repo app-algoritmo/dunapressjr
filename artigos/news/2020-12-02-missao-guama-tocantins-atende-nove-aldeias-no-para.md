@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Os 21 profissionais de Saúde das Forças Armadas concluíram as ações na Missão Guamá Tocantins. A equipe médica e veterinária esteve em nove aldeias assistidas no noroeste do Pará. Em parceria com a Secretaria de Saúde Indígena (Sesai), do Ministério da Saúde, a missão transportou 31 mil itens de Saúde, entre equipamentos de proteção individual e insumos.
 
 O coordenador logístico da Guamá Tocantins, coronel do Exército Fábio Felippe, ressaltou que a maioria das aldeias indígenas atendidas receberam, pela primeira vez, o apoio de Saúde de um órgão do Estado. “Foi uma missão com mais de quarenta horas de voo. Houve uma integração entre o trabalho do Exército, Marinha, Aeronáutica e da Sesai. Foi um trabalho de muita dedicação e concluo que tivemos sucesso”, afirma.
@@ -30,7 +29,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

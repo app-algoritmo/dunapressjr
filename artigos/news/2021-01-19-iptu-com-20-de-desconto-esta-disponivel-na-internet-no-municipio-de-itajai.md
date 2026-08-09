@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Imposto Predial e Territorial Urbano (IPTU) poderá ser pago com 20% de desconto em Itajaí. Os carnês estarão disponíveis pela Internet a partir desta sexta-feira (15) e também serão entregues pelos Correios nos imóveis. Para garantir o desconto no tributo, basta realizar o pagamento da cota única até 26 de fevereiro. Quem paga o IPTU em dia contribui com o crescimento da cidade e desfruta de benefícios, como descontos no imposto.
 
 Os bons pagadores de 2020, ou seja, quem pagou o IPTU à vista ou não atrasou nenhuma parcela, receberá o carnê deste ano com 10% de desconto já embutido do valor total. Além disso, aqueles que optarem pelo pagamento em cota única obterão ainda mais reduções: 20% de desconto para quitações até 26 de fevereiro e 10% até 15 de março.
@@ -35,7 +34,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

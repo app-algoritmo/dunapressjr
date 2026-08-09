@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Anúncio foi feito pelo presidente Jair Bolsonaro.
 
 O presidente Jair Bolsonaro anunciou hoje (1º) que o auxílio emergencial será prorrogado em mais quatro parcelas de R$ 300. Ele se reuniu na manhã desta terça-feira (1º) com ministros e parlamentares da base do governo, no Palácio da Alvorada, para alinhar as próximas ações do governo na área econômica.
@@ -39,5 +38,3 @@ A ajuda financeira também foi suficiente para superar em 16% a perda da massa s
 Fonte: Agência Brasil – Imagem de destaque: Marcos Correa/PR
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

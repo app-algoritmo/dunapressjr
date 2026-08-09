@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Para organizar o fluxo de pessoas e evitar aglomerações durante o fim de semana e no feriado de Finados, o Município de Itajaí informa que o horário de funcionamento dos cemitérios municipais da Fazenda e do Espinheiros será estendido: até as 19h, no bairro Espinheiros, e até as 19h30, na Fazenda. Em ambos, a abertura dos portões será às 6h. Neste ano, medidas preventivas de saúde deverão ser observadas pela população, como o uso obrigatório de máscaras, em virtude da pandemia de coronavírus (COVID-19).
 
 No Cemitério Municipal da Fazenda, a entrada de veículos será permitida somente até o sábado (31). No domingo (1º) e na segunda-feira (02), Dia de Finados, o trânsito para automóveis estará fechado, somente sendo permitida a entrada de pessoas a pé.
@@ -30,5 +29,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

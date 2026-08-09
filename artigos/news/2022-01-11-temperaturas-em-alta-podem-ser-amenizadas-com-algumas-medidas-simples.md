@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O verão chegou e, com ele, os termômetros de todo o país já começam a registrar recordes de temperatura. Seja no Rio de Janeiro ou no interior do Paraná, o calor pode causar muitos incômodos, provocando sintomas como desidratação, sudorese excessiva, exaustão e até mesmo cãibras. Mas alguns truques podem ajudar a manter o clima nos ambientes internos mais agradável para pessoas e animais de estimação. De acordo com o assessor da área de Física do Sistema Positivo de Ensino, Danilo Capelari, é possível tornar o ar menos quente dentro de casa adotando algumas medidas simples.
 
 - **Fique de olho na decoração**
@@ -41,7 +40,3 @@ Release **Central Press**
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

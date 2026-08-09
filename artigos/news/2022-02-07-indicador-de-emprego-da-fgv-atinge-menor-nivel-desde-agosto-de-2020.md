@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice visa antecipar tendências do mercado de trabalho.
 
 O Indicador Antecedente de Emprego (Iaemp), medido pela Fundação Getulio Vargas (FGV), teve queda de 5,3 pontos de dezembro de 2021 para janeiro de 2022. Foi o terceiro recuo consecutivo. Ele chegou a 76,5 pontos, menor patamar desde agosto de 2020 (74,8 pontos).
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

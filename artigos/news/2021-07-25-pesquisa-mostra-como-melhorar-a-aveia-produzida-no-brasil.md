@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O estudo analisou fibras alimentares presentes nos grãos, diretamente associadas a diversos benefícios para a saúde humana.
 
 Cristiano Mathias Zimmer, ex-bolsista da CAPES, é engenheiro agrônomo pela Universidade Federal de Pelotas (UFPel), mestre em Fitotecnia e doutor em Melhoramento de Plantas pela Universidade Federal do Rio Grande do Sul (UFRGS). Atualmente, ele é cientista da Corteva Agriscience, coordena projetos relacionados ao melhoramento de milho na região tropical do Brasil e identificou dados que podem levar aveia mais saudável ao consumidor.
@@ -44,5 +43,3 @@ Fonte: https://www.gov.br/capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

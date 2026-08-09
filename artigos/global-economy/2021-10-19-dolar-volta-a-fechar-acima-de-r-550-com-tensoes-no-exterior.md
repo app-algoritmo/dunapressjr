@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa de Valores encerra com pequena queda de 0,19%.
 
 Num dia de tensões no mercado internacional, o dólar voltou a subir e a superar o nível de R$ 5,50, apesar das intervenções do Banco Central (BC). A Bolsa de Valores (B3) iniciou o dia com forte queda, mas recuperou-se durante o pregão e fechou em leve baixa.
@@ -20,18 +19,14 @@ O mercado de ações teve um dia menos tenso. O índice Ibovespa, da B3, chegou 
 
 ## China
 
-Economias de países emergentes, como o Brasil, foram afetadas pela notícia de que a economia chinesa cresceu 4,9% no trimestre de julho a setembro, desacelerando em relação ao trimestre anterior, quando teve expansão de 7,9%. 
+Economias de países emergentes, como o Brasil, foram afetadas pela notícia de que a economia chinesa cresceu 4,9% no trimestre de julho a setembro, desacelerando em relação ao trimestre anterior, quando teve expansão de 7,9%.
 
 Com uma crise energética provocada pela escassez de carvão e com empresas imobiliárias com dificuldades de caixa, a segunda maior economia do planeta está comprando menos *commodities* (bens primários com cotação internacional) e prejudicando as exportações brasileiras.
 
-Além dos problemas na China, o agravamento da inflação em diversos países está pressionando economias avançadas a aumentar os juros. A expectativa de taxas mais altas em países desenvolvidos estimula a retirada de capital de mercados emergentes, pressionando para cima o dólar. 
+Além dos problemas na China, o agravamento da inflação em diversos países está pressionando economias avançadas a aumentar os juros. A expectativa de taxas mais altas em países desenvolvidos estimula a retirada de capital de mercados emergentes, pressionando para cima o dólar.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

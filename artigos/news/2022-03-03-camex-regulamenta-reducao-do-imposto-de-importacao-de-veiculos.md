@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ela será concedida pelo prazo de até dois anos.
 
 A Câmara de Comércio Exterior (Camex) publicou desta quarta-feira (2) no[** *****Diário Oficial da União***](https://www.in.gov.br/en/web/dou/-/resolucao-gecex-n-314-de-24-de-fevereiro-de-2022-383084244) (DOU) decisão que regulamenta a redução da alíquota do Imposto de Importação de veículos. Ela será dada pelo prazo de até dois anos.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

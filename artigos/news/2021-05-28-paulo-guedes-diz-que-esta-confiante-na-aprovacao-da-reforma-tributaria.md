@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro disse que mantém boas conversas com a Câmara e o Senado.
 
 O ministro da Economia, Paulo Guedes, está confiante na aprovação da reforma tributária no Congresso. Ele informou que teve uma conversa muito boa sobre o assunto com os presidentes da Câmara, Arthur Lira, e do Senado, Rodrigo Pacheco, e que foi combinado que os impostos sobre a renda e o consumo vão para a Câmara e o passaporte tributário vai para o Senado. E que a previsão é que os dois temas sejam discutidos em cada Casa por 30 a 60 dias.
@@ -28,7 +27,7 @@ O ministro disse que o futuro é “verde e digital”, e defendeu a redefiniç�
 
 ## Covid-19
 
-Logo no início da sua apresentação, o ministro se solidarizou com as famílias e amigos das vítimas da covid-19. Ele lembrou que o economista e ex-presidente do Banco Central Carlos Langoni está internado em consequência da covid-19. “Carlos Langoni luta contra essa terrível doença há quatro meses”, disse, acrescentando que o economista é o autor intelectual do programa de choque de energia barata desenvolvido pelo governo com a utilização de gás natural. 
+Logo no início da sua apresentação, o ministro se solidarizou com as famílias e amigos das vítimas da covid-19. Ele lembrou que o economista e ex-presidente do Banco Central Carlos Langoni está internado em consequência da covid-19. “Carlos Langoni luta contra essa terrível doença há quatro meses”, disse, acrescentando que o economista é o autor intelectual do programa de choque de energia barata desenvolvido pelo governo com a utilização de gás natural.
 
 O ministro agradeceu ainda aos profissionais de saúde do SUS e do setor privado. “O Brasil está em guerra contra o vírus. Nós não podemos nos enganar quanto a isso. A resposta mais importante que nós podemos dar é a vacinação em massa”, afirmou.
 
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

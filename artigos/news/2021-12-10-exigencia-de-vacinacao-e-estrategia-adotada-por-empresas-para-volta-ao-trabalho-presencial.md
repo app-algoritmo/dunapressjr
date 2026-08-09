@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Com o avanço na vacinação contra a covid-19 no Brasil, empresas que haviam migrado para o sistema remoto ou híbrido já iniciaram o retorno ao trabalho presencial. Perto de 52% das empresas pretendem tomar essa medida ainda neste ano e outras 40% no primeiro semestre de 2022, de acordo com pesquisa da KPMG realizada entre julho e agosto. A volta ao sistema anterior à pandemia, no entanto, não será da mesma forma: protocolos de segurança e obrigatoriedade da vacinação completa estão entre as mudanças definidas para a convivência.
 
 Pesquisa do LinkedIn com mais de mil usuários mostrou que profissionais brasileiros estão preocupados com a vacinação nos locais de trabalho: 90% acreditam que é importante que as empresas exijam a vacinação contra a covid-19. A pesquisa também registrou que 84% dos que responderam ao levantamento consideram testes de covid-19 relevantes para a volta aos escritórios e 85% afirmaram que perguntarão para seus gerentes e colegas se eles tomaram a vacina.
@@ -42,7 +41,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

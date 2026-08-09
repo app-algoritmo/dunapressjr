@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Retração foi de 23,9%, de acordo com o IBGE.
 
 Em 2019, a Necessidade de Financiamento Líquida do Governo Geral manteve a trajetória de queda observada no ano anterior, chegando a R$ 366,9 bilhões, com queda de 23,9% em relação a 2018.
@@ -43,5 +42,3 @@ De acordo com o IBGE, essa redução foi mais intensa nos gastos dos governos es
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

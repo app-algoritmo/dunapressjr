@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Vila Velha/ES** – A Polícia Federal realizou, na noite passada (19/5), diligências com objetivo de combater o crime de fraude ao benefício de auxílio emergencial criado recentemente pelo Governo Federal, em face da pandemia do COVID 19.
 
 ENTENDA O CASO
@@ -24,5 +23,3 @@ Os investigados responderão pelo crime de furto mediante fraude, em que a pena 
 
 ***Superintendência da Polícia Federal no Espírito Santo***
 ***Comunicação Social***
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

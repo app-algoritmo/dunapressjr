@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Indicador atingiu 76,6 pontos, em uma escala de zero a 200 pontos.
 
 O Índice de Confiança da Indústria, divulgado pela Fundação Getulio Vargas (FGV), teve um aumento de 15,2 pontos na prévia de junho deste ano, em comparação com o dado consolidado de maio deste ano. Com o resultado, o indicador atingiu 76,6 pontos, em uma escala de zero a 200 pontos.
@@ -24,4 +23,4 @@ O Nível de Utilização da Capacidade Instalada da Indústria (Nuci) teve cresc
 
 Fonte: Agência Brasil – Imagem de destaque: CHINA DALY/Reuters/Direitos Reservados
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -8,7 +8,6 @@ categories:
 - Books
 ---
 
-
 ## Nicholas Winton ajudou a organizar o Kindertransports que levava os jovens para a segurança na véspera da guerra. 'Nicky & Vera', do autor e ilustrador Peter Sis, agora honra seu legado.
 
 Quando Vera, uma jovem judia, estava crescendo fora de Praga em 1938, ela tinha pouco em sua mente além de sua avó e amor pelos animais. Mas sua infância feliz mudaria para sempre com a crise emergente provocada pela vizinha de seu país, a Alemanha nazista.
@@ -104,7 +103,3 @@ Fonte: The Time Of Israel
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

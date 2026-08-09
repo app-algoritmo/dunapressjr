@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em Boa Vista (RR), mais de 1,2 mil agricultores familiares e 185 mil pessoas em situação de vulnerabilidade social serão atendidos pelo Programa de Aquisição de Alimentos (PAA). Nesta terça-feira (24), o ministro da Cidadania, Onyx Lorenzoni, fez a entrega de mais R$ 580 mil para o programa no estado, somando R$ 5,2 milhões em investimento.
 
 No ano passado, o estado recebeu R$ 1,5 milhão para repassar ao programa. O PAA compra alimentos produzidos pela agricultura familiar, com dispensa de licitação, para destiná-los a pessoas em situação de insegurança alimentar e nutricional.
@@ -36,7 +35,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

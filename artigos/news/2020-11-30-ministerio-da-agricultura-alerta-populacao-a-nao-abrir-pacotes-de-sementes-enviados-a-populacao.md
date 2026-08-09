@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Brasileiros de 24 estados e do Distrito Federal já relataram ter recebido pacotes de sementes não solicitadas vindas de países asiáticos como China, Malásia e Hong Kong. Um total de 258 pacotes chegaram ao Ministério da Agricultura Pecuária e Abastecimento encaminhados pela população. Nas amostras analisadas, foram encontrados fungos e bactérias.
 
 Até agora, apenas o Maranhão e o Amazonas não tiveram relatos de terem recebidos as sementes. Trinta e nove amostras encaminhadas ao ministério estão sem análise no Laboratório Federal de Defesa Agropecuária, de Goiânia. Em uma delas foi identificada a presença de ácaro vivo, em 25 amostras foi detectada a presença de três tipos diferentes de fungos e, em duas amostras, de bactéria ainda não identificada.
@@ -51,7 +50,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

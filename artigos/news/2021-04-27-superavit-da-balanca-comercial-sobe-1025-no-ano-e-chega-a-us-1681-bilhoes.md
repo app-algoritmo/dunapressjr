@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Corrente de comércio até a quarta semana de abril atinge US$ 136,12 bilhões, com exportações no valor de US$ 76,46 bilhões e importações de US$ 59,66 bilhões.
 
 A balança comercial brasileira registrou superávit de US$ 16,81 bilhões neste ano, até a quarta semana de abril, com crescimento de 102,5%, pela média diária, em relação ao período de janeiro a abril de 2020. A corrente de comércio, na mesma comparação, subiu 20% e atingiu US$ 136,12 bilhões. Os dados foram divulgados nesta segunda-feira (26/4) pela Secretaria de Comércio Exterior (Secex) do Ministério da Economia. As exportações somam US$ 76,46 bilhões, com alta de 25,6%, e as importações sobem 13,4% e atingem US$ 59,66 bilhões.
@@ -42,8 +41,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!

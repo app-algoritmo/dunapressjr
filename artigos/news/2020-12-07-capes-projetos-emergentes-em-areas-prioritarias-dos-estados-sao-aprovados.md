@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) selecionou 71 projetos voltados a programas de pós-graduação (PPGs) emergentes e em consolidação em áreas prioritárias nos estados. Vinte e uma Fundações Estaduais de Amparo à Pesquisa (FAPs) participaram do certame. O resultado preliminar do Edital nº 18/2020 está disponível na edição desta sexta-feira (4) do Diário Oficial da União (DOU).
 
 **As regiões Nordeste e Norte apresentaram a maior quantidade de projetos: 28 (39,44%) e 15 (21,13%), respectivamente. Em seguida, vem o Sul, 12 (16,9%). Centro-Oeste e Sudeste fecham a lista, com oito (11,27%) cada.**
@@ -28,7 +27,5 @@ Sua assinatura não somente ajudará no fornecerá notícias precisas, mas tamb�
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

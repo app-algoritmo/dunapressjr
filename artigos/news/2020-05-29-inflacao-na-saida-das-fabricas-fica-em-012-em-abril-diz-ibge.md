@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Inflação na saída das fábricas fica em 0,12% em abril, diz IBGE.
 
 O Índice de Preços ao Produtor (IPP), que mede a variação dos preços dos produtos na saída das fábricas, registrou inflação de 0,12% em abril deste ano. A taxa é inferior às observadas em março deste ano (0,84%) e em abril do ano passado (1,22%). Os dados são do Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -23,5 +22,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

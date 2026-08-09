@@ -7,7 +7,6 @@ categories:
 - Magazine
 ---
 
-
 Autonomia Aplicada fornece conhecimento e serviços para transporte autônomo sustentável. - O apoio da Innovation Norway foi um pré-requisito para o nosso crescimento, diz o CEO Olav Madland.
 
 Em 2017, foi lançada a ideia de sistemas de condução de veículos autônomos. Isso era considerado muito importante e para ter um bom ecossistema e desenvolver a idéia, um empresario entrou em contato com as  industriais de Kongsberg, a Kongsberg Innovation e com o município de Kongsberg, ambas envolvidas no projeto e desde então a empresa ganhou muita experiência na condução de veículos autônomos.
@@ -18,7 +17,7 @@ Atualmente, a Autonomy Applied pertence à Kongsberg Innovation, Olav Madland e 
 
 ### Instrumentos importantes
 
-Os serviços da Innovation Norway forneceram acesso a expertise, redes e capital, o que permitiu à empresa testar as soluções pilotos. Madland diz que o apoio financeiro de US $ 2,4 milhões através do Environmental Technology Scheme foi um pré-requisito para correr o risco de inovar. 
+Os serviços da Innovation Norway forneceram acesso a expertise, redes e capital, o que permitiu à empresa testar as soluções pilotos. Madland diz que o apoio financeiro de US $ 2,4 milhões através do Environmental Technology Scheme foi um pré-requisito para correr o risco de inovar.
 
 A colaboração nos ajudou a estabelecer vários contratos com os municípios onde temos usuários-piloto. A Innovation Norway pode verificar a idéia, financiá-la e fornecer uma metodologia de compras. Nós realmente apreciamos uma parceria assim. Eles nos deram segurança e motivação para continuar e serviram como abridor de portas em nosso trabalho de desenvolvimento ”, diz Madland.
 
@@ -32,7 +31,7 @@ Gostaríamos de ter grandes projetos com alguns jogadores. Temos um pedido da UE
 
 ### Exportar oportunidades com crescimento global
 
-Todos os anos, a Innovation Norway oferece programas de exportação para ajudar empresas estabelecidas com vendas nos mercados internacionais. O programa consiste em cursos preparatórios em casa e coleções em mercados relevantes no exterior. 
+Todos os anos, a Innovation Norway oferece programas de exportação para ajudar empresas estabelecidas com vendas nos mercados internacionais. O programa consiste em cursos preparatórios em casa e coleções em mercados relevantes no exterior.
 
 Quando participamos do programa de crescimento global da Innovation Norway nos EUA, fizemos alguns contatos importantes e tivemos oportunidades que nunca teríamos sozinhas, diz Madland.
 
@@ -41,5 +40,3 @@ O mesmo aconteceu quando eles compareceram ao Nordic EV Summit em Oslo em 2019. 
 A autonomia aplicada também possui vários projetos colaborativos na Europa. Um projeto está na Áustria, com a Universidade de Salzburgo e uma empresa de transporte, onde o contrato para aluguel de veículos autônomos acaba de ser prorrogado. Outra colaboração é com um cluster industrial em Toulouse, onde participam o EasyMile, Renault e o grupo PSA. Isso levou os parceiros franceses a recomendar jogadores na Bélgica e na Holanda para usar a Autonomia Aplicada. Os competidores agora estão avaliando se estão maduros o suficiente para as soluções.
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

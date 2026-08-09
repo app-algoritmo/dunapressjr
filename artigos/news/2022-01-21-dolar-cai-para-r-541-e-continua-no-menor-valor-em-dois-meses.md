@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa sobe pelo terceiro dia e alcança nível mais alto desde outubro.
 
 Em mais um dia de otimismo no mercado financeiro, o dólar aproximou-se de R$ 5,40 e fechou no menor valor desde novembro do ano passado. A bolsa de valores subiu pela terceira sessão seguida e atingiu o nível mais alto desde outubro.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## Cenário de março indica recuo da confiança em relação a fevereiro.
 
 O Índice de Confiança do Empresário Industrial (ICEI) caiu 0,4 ponto em março deste ano na comparação com fevereiro, informou hoje (14) a Confederação Nacional da Indústria (CNI). A queda ocorre após o índice ficar praticamente estável em janeiro. Com o recuo, ele passou de 55,8 pontos em fevereiro para 55,4 pontos no mês seguinte.
 
 O ICEI é a média de dois componentes: índice de Condições Atuais e o índice de Expectativas, que busca avaliar o cenário do empresariado nos próximos seis meses.
 
-O índice varia de zero a 100 pontos. Valores acima de 50 pontos indicam confiança do setor de indústria, e quanto mais acima de 50 pontos, maior e mais disseminada é a confiança do empresariado. Quanto mais próximo de zero, menor a confiança.  
+O índice varia de zero a 100 pontos. Valores acima de 50 pontos indicam confiança do setor de indústria, e quanto mais acima de 50 pontos, maior e mais disseminada é a confiança do empresariado. Quanto mais próximo de zero, menor a confiança.
 
 ## Confiança                                                                                                           
 
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

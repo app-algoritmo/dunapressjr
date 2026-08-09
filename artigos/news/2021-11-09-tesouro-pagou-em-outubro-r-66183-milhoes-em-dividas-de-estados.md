@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Este ano, já são R$ 6,82 bilhões de dívidas honradas pela União.
 
 A União pagou, em outubro, R$ 661,83 milhões em dívidas atrasadas de estados, segundo o [**Relatório de Garantias Honradas pela União em Operações de Crédito**](https://www.tesourotransparente.gov.br/publicacoes/relatorio-mensal-de-garantias-honradas-rmgh/2021/10), divulgado nesta segunda-feira (8) pelo Tesouro Nacional. Do total, R$ 362,77 milhões são débitos não quitados pelos estados do Rio de Janeiro; R$ 198,83 milhões de Minas Gerais; R$ 78,96 milhões de Goiás; R$ 16,29 milhões do Amapá, e R$ 4,97 milhões do Rio Grande do Norte.
@@ -28,10 +27,6 @@ Os estados concentram 77,3% dessas operações garantidas, com dívidas de R$ 22
 
 Fonte: Agência Brasil – Imagem: Marcello Casal Jr./Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

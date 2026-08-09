@@ -7,20 +7,19 @@ categories:
 - Education
 ---
 
+Se viajar durante poucos dias para conhecer outro país já traz muitos aprendizados, estudar em um lugar diferente pode trazer ainda mais benefícios. Aprender outro idioma, desenvolver o autoconhecimento, conhecer uma nova cultura, fazer amigos e aprimorar o currículo são algumas das vantagens. O intercâmbio pode ser uma fase de muito aprendizado e amadurecimento para quem faz, como garante a estudante de agronomia, Anna Júlia Lütkemeyer.
 
-Se viajar durante poucos dias para conhecer outro país já traz muitos aprendizados, estudar em um lugar diferente pode trazer ainda mais benefícios. Aprender outro idioma, desenvolver o autoconhecimento, conhecer uma nova cultura, fazer amigos e aprimorar o currículo são algumas das vantagens. O intercâmbio pode ser uma fase de muito aprendizado e amadurecimento para quem faz, como garante a estudante de agronomia, Anna Júlia Lütkemeyer. 
+Durante quatro meses, a jovem morou em Wageningen, cidade da Holanda, e fez estágio na Wageningen University and Research na área de agricultura de precisão. Quase formada, a estudante de agronomia estudou sobre solos, biologia e tecnologia no setor de sistemas agrícolas. A mãe de Anna Júlia é holandesa e desde pequena ela tem contato com a cultura de origem da família. Essa convivência diária fez Anna ter ainda mais vontade de conhecer o país. “A cultura holandesa é muito importante para mim, porque são nossas raízes, é uma questão de honrar nossa família e tudo que foi conquistado. É um orgulho ser descendente e um privilégio cultivar a cultura, como também ter o passaporte holandês”, afirma a formanda em agronomia.
 
-Durante quatro meses, a jovem morou em Wageningen, cidade da Holanda, e fez estágio na Wageningen University and Research na área de agricultura de precisão. Quase formada, a estudante de agronomia estudou sobre solos, biologia e tecnologia no setor de sistemas agrícolas. A mãe de Anna Júlia é holandesa e desde pequena ela tem contato com a cultura de origem da família. Essa convivência diária fez Anna ter ainda mais vontade de conhecer o país. “A cultura holandesa é muito importante para mim, porque são nossas raízes, é uma questão de honrar nossa família e tudo que foi conquistado. É um orgulho ser descendente e um privilégio cultivar a cultura, como também ter o passaporte holandês”, afirma a formanda em agronomia.  
+Ela acredita que mudou em vários aspectos após a experiência de fazer intercâmbio. “Sempre fiz parte da comunidade holandesa na minha cidade. Mas depois que fui para a Holanda, enxerguei muito mais a realidade do que a imaginação”, revela Anna Júlia. A estudante também conta que foi uma vivência muito importante. “Aprendi a valorizar mais a minha família, meus amigos, as pessoas, os momentos e as oportunidades. Foi uma chance de crescimento enorme, tanto profissional quanto pessoal”, acrescenta.
 
-Ela acredita que mudou em vários aspectos após a experiência de fazer intercâmbio. “Sempre fiz parte da comunidade holandesa na minha cidade. Mas depois que fui para a Holanda, enxerguei muito mais a realidade do que a imaginação”, revela Anna Júlia. A estudante também conta que foi uma vivência muito importante. “Aprendi a valorizar mais a minha família, meus amigos, as pessoas, os momentos e as oportunidades. Foi uma chance de crescimento enorme, tanto profissional quanto pessoal”, acrescenta. 
-
-A conselheira da Associação Cultural Brasil-Holanda (ACBH), Janet Bosch, acredita que o contato desde criança com a cultura holandesa é o que instiga jovens como Anna Júlia a quererem ainda mais conhecer o país de origem dos pais e avós. “Os ensinamentos do idioma, a gastronomia e a tradição desde pequenos estimulam muitos jovens a procurarem o intercâmbio. Na Holanda, sempre tem possibilidades. E com isso, os estudantes podem aprender mais sobre nossa cultura viajando para lá”, destaca. 
+A conselheira da Associação Cultural Brasil-Holanda (ACBH), Janet Bosch, acredita que o contato desde criança com a cultura holandesa é o que instiga jovens como Anna Júlia a quererem ainda mais conhecer o país de origem dos pais e avós. “Os ensinamentos do idioma, a gastronomia e a tradição desde pequenos estimulam muitos jovens a procurarem o intercâmbio. Na Holanda, sempre tem possibilidades. E com isso, os estudantes podem aprender mais sobre nossa cultura viajando para lá”, destaca.
 
 **Para quem tem interesse em fazer intercâmbio, algumas dicas: **
 
 - **Busque informações na universidade ou colégio**
 
-Em muitas faculdades, colégios e cursos de idiomas há programas de intercâmbio. Com isso, o estudante que deseja estudar fora do país pode ter a facilidade de conseguir bolsas de estudo ou mais informações com instituições experientes. 
+Em muitas faculdades, colégios e cursos de idiomas há programas de intercâmbio. Com isso, o estudante que deseja estudar fora do país pode ter a facilidade de conseguir bolsas de estudo ou mais informações com instituições experientes.
 
 - **Conheça os modelos de intercâmbio**
 
@@ -41,7 +40,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

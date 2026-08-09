@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 Considerada um bem maior da humanidade, essencial ao progresso de qualquer nação, a Educação é indispensável para o desenvolvimento sadio de crianças e adolescentes. Por esse motivo, a Escola foi elevada ao patamar de serviço essencial durante a pandemia. No Dia Mundial da Educação - 28 de abril - cabe um oportuno movimento: subir à superfície, abastecer os pulmões de oxigênio e refletir: o que é ser essencial? Termo oriundo do latim, significa 'aquilo que constitui a natureza das coisas'. Se entendemos que a Educação humaniza o homem, não há nada mais inerente à natureza humana do que o próprio processo educativo.
 
 Antes da pandemia, no Brasil, já tínhamos 1,3 milhão de crianças e adolescentes fora da escola, em todo o país. Com a pandemia, calcula-se que aproximadamente 4 milhões de meninos e meninas tenham se desvinculado do cenário escolar. Os dados são da Pesquisa Nacional por Amostra de Domicílios (PNAD) de 2020. Em todo o mundo, a Unesco estima que, desde o início da pandemia, pelo menos 1,5 bilhão de estudantes tenham sido afetados pelo fechamento das escolas. No Brasil, a pandemia também desacelerou a implementação de políticas públicas centrais para a melhoria da Educação Básica que estavam em curso. O Representante da Unicef no Brasil já alertou que todo esse contexto nos fez regredir duas décadas em relação ao número de crianças e adolescentes desvinculados da escola, uma realidade que todo governante deve trabalhar sem descanso para combater.
@@ -27,7 +26,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

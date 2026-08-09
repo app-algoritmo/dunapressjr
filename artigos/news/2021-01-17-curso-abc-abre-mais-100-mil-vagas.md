@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O curso on-line Alfabetização Baseada na Ciência (ABC) abriu 100 mil novas vagas, a partir desta sexta-feira (15). A capacitação, oferecida pelo Ministério da Educação (MEC), por meio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) e da Secretaria de Alfabetização (Sealf), é voltada aos estudantes de licenciatura e profissionais da educação que atuam na alfabetização de crianças.
 
 Além das novas oportunidades, o curso passará de 160 para 180 horas. Para Benedito Aguiar, presidente da Capes, com esse acréscimo, “teremos a possibilidade de ampliar o conteúdo, contribuindo, de forma mais significativa, para a melhoria do processo de ensino e aprendizagem da fase inicial da educação”.
@@ -30,7 +29,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

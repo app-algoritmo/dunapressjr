@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em relatório publicado em setembro, o **ENANI-2019** revelou que quase metade das famílias brasileiras com crianças menores de 5 anos (47,1%) vive em algum grau de insegurança alimentar.
 
 Dados inéditos sobre anemia e deficiência de vitaminas e minerais em crianças de até 5 anos estão entre os resultados do Estudo Nacional de Alimentação e Nutrição Infantil, **[ENANI-2019](https://enani.nutricao.ufrj.br/)** coordenado pela Universidade Federal do Rio de Janeiro (UFRJ) em parceria com a Universidade do Estado do Rio de Janeiro (UERJ), a Universidade Federal Fluminense (UFF) e a Fundação Oswaldo Cruz (Fiocruz).
@@ -27,7 +26,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

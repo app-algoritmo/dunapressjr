@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A expectativa é que a Selic encerre 2020 em 2% ao ano.
 
 A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA - a inflação oficial do país) deste ano subiu de 2,99% para 3,02%. A estimativa está no boletim Focus de hoje (3), publicação divulgada todas as semanas pelo Banco Central (BC) com a projeção para os principais indicadores econômicos.
@@ -37,5 +36,3 @@ A previsão para a cotação do dólar é encerrar o ano em R$ 5,45. Para o fim 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - Agriculture
 ---
 
-
 O Brasil é um dos mais importantes produtores de soja, tendo fornecido cerca de 30% desse produto ao mercado mundial em 2013. Os estados de Mato Grosso do Sul, São Paulo, Paraná, Santa Catarina e Rio Grande do Sul contribuem com 47% dessa produção. O sucesso das colheitas de soja depende de fatores climáticos e níveis baixos de chuva são a principal razão para rendimentos menores das plantações. Devido às mudanças climáticas, os padrões e os regimes de chuva têm se alterado. Espera-se que no futuro sejam cada vez mais frequentes os casos intensos de seca.
 
 A soja possui muitas variedades, cada uma com características próprias, sendo algumas delas capazes de ajudar no crescimento da planta em situações de temperaturas mais altas e umidade baixa. Assim, é interessante identificar os tipos de soja que podem se adaptar melhor às condições climáticas futuras, a fim de se obter cruzamentos entre diferentes variedades, gerando plantas novas e mais adaptadas.
@@ -64,7 +63,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

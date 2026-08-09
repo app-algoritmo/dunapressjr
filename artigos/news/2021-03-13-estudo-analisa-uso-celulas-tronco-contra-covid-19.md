@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Conhecer a comunicação entre células de diferentes partes do corpo pode ser uma maneira de entender quais  são as moléculas liberadas durante a infecção pelo novo coronavírus. O estudo pode ajudar na aplicação de uma terapia desenvolvida a partir de células-tronco. O projeto da Escola Paulista de Medicina, da Universidade Federal de São Paulo (Unifesp), selecionado no Programa de Combate a Epidemias da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), tem o objetivo de compreender esse processo para poder enfrentar a COVID-19.
 
  Danilo Cândido de Almeida, pesquisador do programa de pós-graduação em Medicina (Nefrologia) da Universidade Federal de São Paulo, coordena projeto de uso de células-tronco para terapia contra a COVID-19 (Foto: Rodolfo Muniz - CCS/CAPES).
@@ -48,7 +47,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

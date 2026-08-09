@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Análise leva em conta impacto da elevação dos preços de commodities.
 
 Uma revisão do Índice de Preços ao Consumidor Amplo (IPCA) elevou levemente o índice que mede a inflação de 6,5% para 6,6% em 2022. A análise foi feita pelo Grupo de Conjuntura da Diretoria de Estudos e Políticas Macroeconômicas (Dimac) do Instituto de Pesquisa Econômica Aplicada (Ipea), que manteve em 6,3% a previsão do Índice Nacional de Preços ao Consumidor (INPC).
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

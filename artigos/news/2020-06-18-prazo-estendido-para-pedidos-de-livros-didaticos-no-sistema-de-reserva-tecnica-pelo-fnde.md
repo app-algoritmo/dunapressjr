@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Materiais serão distribuídos após a reabertura das escolas.
 
 O Fundo Nacional de Desenvolvimento da Educação (FNDE), vinculado ao Ministério da Educação, estendeu o prazo para pedidos de exemplares extras no [sistema de reserva técnica](http://pddeinterativo.mec.gov.br/) de livros didáticos. Mantida pelo FNDE, essa reserva de material didático serve para auxiliar as escolas que não conseguiram suprir a demanda mesmo com o remanejamento dos livros. Nesses casos, gestores escolares devem acessar o sistema para fazer seus pedidos.
@@ -21,5 +20,3 @@ Para auxiliar escolas e redes de ensino, o FNDE disponibilizou em seu Portal Ele
 Fonte: gov.br/mec / Imagem em destaque: MEC
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

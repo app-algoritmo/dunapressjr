@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Decreto exclui produtos da Zona Franca de Manaus.
 
 Decreto publicado pelo governo federal na última sexta-feira (29) ( [**Decreto nº 11.158**](https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=602&pagina=1&data=29/07/2022&totalArquivos=220) ) estabelece os itens fabricados no Brasil para os quais será válida a redução de 35% no Imposto sobre Produtos Industrializados (IPI). O decreto também exclui da lista os principais produtos que são fabricados na Zona Franca de Manaus.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

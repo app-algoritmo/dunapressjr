@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Os ovários são dois órgãos localizados um de cada lado do útero, responsáveis pela produção dos hormônios sexuais femininos.
 
 A síndrome dos ovários policísticos é um distúrbio hormonal muito comum, caracterizado pela presença de cistos – pequenas bolsas que contêm material líquido ou semissólido – que pode causar problemas simples, como irregularidade menstrual e acne, até outros mais graves, como obesidade e infertilidade.
@@ -64,7 +63,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

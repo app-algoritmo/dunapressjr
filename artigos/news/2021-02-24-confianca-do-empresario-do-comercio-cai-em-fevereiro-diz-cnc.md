@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice recuou 1,5% na passagem de janeiro para fevereiro deste ano.
 
 O Índice de Confiança do Empresário do Comércio, medido pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), recuou 1,5% na passagem de janeiro para fevereiro deste ano, configurando a segunda queda consecutiva do indicador. Na comparação com fevereiro de 2020, a queda chegou a 18,5%.
@@ -24,8 +23,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

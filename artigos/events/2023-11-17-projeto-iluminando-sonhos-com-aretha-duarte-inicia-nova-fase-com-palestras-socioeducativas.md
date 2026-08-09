@@ -37,10 +37,10 @@ Horário: 10h às 11h20
 **Webinares****
 
 **- Webinar Mês da Consciência Negra
-Data: 22/11 
+Data: 22/11
 Horário: 10h às 11h20
 
-- Webinar Cidadania Planetária 
+- Webinar Cidadania Planetária
 Data: 23/11
 Horário: 17h às 18h20
 
@@ -55,9 +55,9 @@ Horário: 14h30 às 15h50
 - Webinar Propósito e Liderança
 Data: 15/12
 Horário: 17h às 18h20
-**
-**Por meio dos eventos, palestras, do filme e do minidocumentário, as pessoas terão a oportunidade de conhecer a trajetória de Aretha Duarte, que saiu da periferia da cidade de Campinas, no interior paulista, para escrever seu nome na história do esporte, do montanhismo e da representatividade feminina. O projeto Iluminando Sonhos é uma produção da Total International, com coprodução da AD Gestão de Projetos Sociais e 2DEFY.  
-**
+
+**Por meio dos eventos, palestras, do filme e do minidocumentário, as pessoas terão a oportunidade de conhecer a trajetória de Aretha Duarte, que saiu da periferia da cidade de Campinas, no interior paulista, para escrever seu nome na história do esporte, do montanhismo e da representatividade feminina. O projeto Iluminando Sonhos é uma produção da Total International, com coprodução da AD Gestão de Projetos Sociais e 2DEFY.
+
 Exemplo e ação - **Após vencer os 8.848 metros até o cume do Everest no dia 23 de maio de 2021, Aretha tem se destacado como uma das jovens lideranças ESG (sigla referente a questões ambientais, sociais, econômicas e de governança) no Brasil. Ela utiliza a própria experiência para falar com propriedade sobre empoderamento, diversidade, inclusão, sustentabilidade e liderança.
 
 **Mais informações:
@@ -67,9 +67,7 @@ Exemplo e ação - **Após vencer os 8.848 metros até o cume do Everest no dia 
 ](https://click.presskit.com.br/url/984423d9eb/6361388b6fc)Linkedin: [www.linkedin.com/in/aretha-duarte-a44420191/?originalSubdomain=br
 ](https://click.presskit.com.br/url/984424e3b9/6361388b6fc)Youtube: [www.youtube.com/channel/UC5k7PFHnf64qRBWeqI1uoSg
 ](https://click.presskit.com.br/url/984425825c/6361388b6fc)Publicidade, Branding e Parcerias - [bernardo@arethaduarte.com
-](https://click.presskit.com.br/url/984426de58/6361388b6fc)Comercial e Palestras - [lais@365palestras.com.br](https://click.presskit.com.br/url/9844276bdb/6361388b6fc)[
-
-](https://click.presskit.com.br/url/984428e0b2/6361388b6fc)***Informações para imprensa:******
+](https://click.presskit.com.br/url/984426de58/6361388b6fc)Comercial e Palestras - [lais@365palestras.com.br](https://click.presskit.com.br/url/9844276bdb/6361388b6fc)***Informações para imprensa:******
 ZDL
 Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](https://click.presskit.com.br/url/984429d911/6361388b6fc) - F: 11 984579723***
 ***Rafael De Marco - Mtb.: 27556 - [rafael@zdl.com.br](https://click.presskit.com.br/url/9844302cb5/6361388b6fc) - F: 11 976022986***

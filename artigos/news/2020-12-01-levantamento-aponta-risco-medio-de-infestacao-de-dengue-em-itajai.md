@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Levantamento do Índice Rápido de Infestação por Aedes aegypti (LIRAa) apontou risco médio de infestação e transmissão de dengue, chikungunya e zika em Itajaí. A atividade foi executada pelos agentes de endemias do município durante o mês de novembro em 3.198 imóveis da cidade. O levantamento apontou que a cada 100 casas visitadas, uma a três tinham a presença de larvas do mosquito transmissor. O LIRAa constatou um índice de infestação predial de 1,8% no município.
 
 Dos 3.198 imóveis inspecionados, 55 apresentaram focos positivos, totalizando 64 recipientes com larvas do mosquito. Os bairros que apresentaram médio risco são: São João, Barra do Rio, São Judas, Vila Operária, Dom Bosco, Cabeçudas, Praia Brava, Cidade Nova, Cordeiros, São Vicente, Fazenda, Centro, Salseiros e Espinheiros. Três bairros foram considerados de baixo risco: Ressacada, Itaipava e Canhanduba.
@@ -57,7 +56,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

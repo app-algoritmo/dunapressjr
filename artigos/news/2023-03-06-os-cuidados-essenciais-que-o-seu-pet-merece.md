@@ -8,7 +8,6 @@ categories:
 - Pets
 ---
 
-
 "Os cuidados essenciais que o seu pet merece": água fresquinha, uma boa ração, lambeijos, passear, sonequinha e muito amor.
 
 Achei na de Barros Rosa - https://www.achei-na-debarrosrosa.com.br/
@@ -17,7 +16,7 @@ Todos nós sabemos o quanto nossos animais de estimação são importantes em no
 
 ## Check list
 
-[](https://www.achei-na-debarrosrosa.com.br/para-meu-pet?sort_by=best_sellers)©Achei na de Barros Rosa
+©Achei na de Barros Rosa
 
 ## Água fresquinha e ração
 

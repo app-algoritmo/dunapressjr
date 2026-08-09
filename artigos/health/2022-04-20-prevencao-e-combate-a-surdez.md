@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Surdez é o nome dado à impossibilidade ou à dificuldade de ouvir. A audição é constituída por um sistema de canais que conduz o som até o ouvido interno, onde essas ondas são transformadas em estímulos elétricos e enviadas ao cérebro, órgão responsável pelo reconhecimento daquilo que se ouve.
 
 A surdez pode ter diferentes graus, tipos, ser congênita ou adquirida e afetar pessoas de qualquer idade sob variadas formas. Seus prejuízos são diversos e, comumente, provoca alterações na comunicação com grande impacto na saúde e na qualidade de vida, no desenvolvimento acadêmico e nas relações de trabalho.
@@ -59,7 +58,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Queda veio depois de uma alta de 1,1% em dezembro
 
 O Indicador de Consumo Aparente de Bens Industriais, divulgado pelo Instituto de Pesquisa Econômica Aplicada (Ipea), recuou 2,3% em janeiro deste ano, na comparação com o mês anterior. A queda veio depois de uma alta de 1,1% em dezembro.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

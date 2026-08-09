@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ### Índice é inferior ao registrado no mesmo mês de 2021.
 
 A Utilização da Capacidade Instalada (UCI) das indústrias fechou em 68% em fevereiro, na comparação com janeiro, informou nesta quinta-feira (17) a Confederação Nacional da Indústria (CNI). Segundo a entidade, o percentual é inferior ao registrado no mesmo período do ano passado, mas se mantém no valor da média para os meses de fevereiro e próximo ao patamar pré-pandemia.
 
 "A UCI é inferior ao registrado no mesmo mês do ano passando, mas naquele período a indústria vinha de alguns meses de atividade excepcionalmente alta, por conta da recuperação após os meses de paralisação gerados pela pandemia", disse a CNI.
 
-As informações fazem parte do boletim Sondagem Industrial, que também traz informações a respeito da evolução da produção, evolução do número de empregos, dos estoques, entre outros indicadores. 
+As informações fazem parte do boletim Sondagem Industrial, que também traz informações a respeito da evolução da produção, evolução do número de empregos, dos estoques, entre outros indicadores.
 
 Os índices avaliados pela CNI apresentam variação de 0 a 10. Valores acima de 50 indicam aumento do emprego, estoque acima do planejado ou utilização da capacidade instalada acima do usual. Valores abaixo de 50, indicam que o nível de atividade está abaixo do usual.
 
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

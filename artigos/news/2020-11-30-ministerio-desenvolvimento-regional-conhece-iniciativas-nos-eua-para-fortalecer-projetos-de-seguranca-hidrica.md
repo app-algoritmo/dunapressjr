@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Governo Federal segue com os esforços para garantir a segurança hídrica na região Nordeste. Na quinta-feira (26), o ministro do Desenvolvimento Regional, Rogério Marinho, anunciou a [abertura do processo licitatório para a seleção da empresa que vai elaborar o projeto executivo e os estudos complementares para a construção do Sistema Seridó, no Rio Grande do Norte](https://www.gov.br/mdr/pt-br/noticias/mdr-e-codevasf-lancam-licitacao-de-projeto-do-sistema-serido-que-vai-abastecer-mais-de-280-mil-pessoas-no-rio-grande-do-norte). A empreitada será tocada pelo Ministério do Desenvolvimento Regional (MDR) em parceria com a Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba (Codevasf).
 
 “O acesso à água é um direito e vamos permitir que milhares de pessoas no Rio Grande do Norte tenham acesso a esse bem tão valioso. Com isso, vamos estimular o crescimento do Seridó, oportunizando a geração de emprego e renda”, destacou Rogério Marinho.
@@ -69,7 +68,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

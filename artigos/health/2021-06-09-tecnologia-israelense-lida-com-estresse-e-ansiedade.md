@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A empresa israelense de tecnologia de rastreamento ocular uniu forças com o consultor britânico de mudança comportamental para combater o estresse de uma forma única.
 
 A era da tecnologia trouxe consigo um aumento contínuo do estresse e da ansiedade, mas a atual pandemia de Coronavirus o levou a um novo pico. Muitas pessoas buscam métodos para reduzir o estresse por meio de exercícios, meditação e muito mais, mas é uma batalha contínua e as soluções disponíveis são parciais e exigem tempo e paciência que a maioria das pessoas estressadas realmente não tem.
@@ -27,7 +26,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

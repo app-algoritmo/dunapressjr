@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A vacina tetravalente contra a dengue do Instituto Butantan começou a ser desenvolvida há mais de dez anos, a partir de uma parceria com o Instituto Nacional de Alergia e Doenças Infecciosas dos Estados Unidos (NIADI) – responsável por atenuar os quatro tipos de vírus da dengue e enviá-los ao Butantan para a produção do imunizante. Após se mostrar segura e imunogênica nas primeiras fases dos ensaios clínicos, a vacina já foi administrada em mais de 16 mil pessoas na fase 3 e está na [reta final da pesquisa](https://butantan.gov.br/noticias/vacina-contra-a-dengue-desenvolvida-pelo-butantan-entra-na-reta-final-de-estudos-clinicos). Mas por que ela ainda não chegou aos braços da população?
 
 Todo estudo clínico de um imunizante é extremamente complexo e passa por diversas fases, que demoram anos para serem concluídas. Uma vacina multivalente como a da dengue, que contém quatro vírus diferentes, torna o estudo **ainda mais desafiador.** Isso porque, na formulação final, é essencial que cada um dos monovalentes (ou seja, cada um dos componentes da vacina que protege de uma cepa diferente) apresente o mesmo título viral (quantidade de vírus). Dessa forma, a vacina é capaz de induzir produção de anticorpos contra os quatro patógenos de forma semelhante.
@@ -42,7 +41,3 @@ Fonte: https://butantan.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

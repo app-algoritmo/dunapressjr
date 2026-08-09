@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Cuidar da saúde no verão envolve, principalmente, cuidar da hidratação. As altas temperaturas e o maior tempo de exposição ao sol contribuem para que o organismo perca ainda mais água ao tentar controlar a temperatura do corpo. Por isso, o consumo adequado de líquidos é fundamental para manter a saúde e o bem-estar.
 
 Em geral, deve-se consumir cerca de 2 litros de água diariamente. Essa recomendação da Sociedade Brasileira de Dermatologia previne problemas como a desidratação. Além disso, a ingestão adequada de água melhora a circulação sanguínea, o funcionamento do intestino e evita problemas nos rins.
@@ -35,7 +34,3 @@ Fonte: http://www.blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

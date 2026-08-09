@@ -7,7 +7,6 @@ categories:
 - Opinion
 ---
 
-
 Quando eclodem guerras, catástrofes, fatos que atingem a maior parte da população, seja mental ou psicologicamente, financeiro ou materialmente, é evidente que é um sinal para mudarmos algumas situações, visões, paradigmas, principalmente, e consequentemente nossas atitudes perante tudo e todos.
 
 Estas mudanças, portanto, devem ser dirigidas à forma como vem sendo tratada a educação ao redor do mundo, pois, criamos repetidores e decoradores e não criadores e pensadores, que tem como foco a criatividade, inovação, melhoria das situações, trabalhos, vida em sociedade, entre outros aspectos.
@@ -27,7 +26,6 @@ O sistema educacional poderia ser muito melhor em todos os sentidos se tivesse m
 O livro *A Próxima Peste*, de Laurie Garret, é uma sugestão que pode ajudar o entendimento, como também analisar a história e tudo que mencionamos. O que nos cabe é reflexão, ação e aproveitar a nova oportunidade que nos foi dada.
 
 Fonte da imagem: https://www.frasesdobem.com.br/frases-de-evolucao
- 
 
 Olá amigos. Ajude-nos a levar o jornalismo independente a todas as partes!
 
@@ -37,4 +35,4 @@ Em uma época em que notícias falsas e distorcidas estão em todas as partes, s
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com, com artigos, informações gerais e cursos que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-https://dunapress.org/subscription-plan/?ref=Leonardo
+https://dunapress.org/subscription-plan/

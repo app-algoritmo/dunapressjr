@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Tratamento desenvolvido por doutorando da UFRN, bolsista da CAPES, reduz a dor e otimiza a recuperação.
 
 Mikhail Santos Cerqueira é fisioterapeuta pela Universidade Estadual do Sudoeste da Bahia(UESB), mestre em Fisioterapia pela Universidade Federal de Pernambuco (UFPE) e doutorando na mesma área pela Universidade Federal do Rio Grande do Norte (UFRN). Durante sua trajetória acadêmica e profissional, dedicou-se a criar e desenvolver um método inovador para tratar pacientes com lesões articulares a partir de exercícios com restrição do fluxo sanguíneo.
@@ -44,7 +43,3 @@ Fonte: https://www.gov.br/capes
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

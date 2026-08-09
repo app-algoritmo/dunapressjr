@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Projeto de Lei 4147/21, do Senado, estabelece um conjunto de ações em âmbito nacional de atendimento aos homens, em especial na área da saúde mental, com o intuito de prevenir a violência contra a mulher. O texto agora em análise na Câmara dos Deputados insere os dispositivos na [Lei Maria da Penha](https://www2.camara.leg.br/legin/fed/lei/2006/lei-11340-7-agosto-2006-545133-norma-pl.html).
 
 A proposta determina ao poder público a criação de instrumentos facilitadores da assistência aos homens que demandam apoio para a contenção da violência doméstica. Entre outros estão a disponibilização de serviço telefônico gratuito, de âmbito nacional, a capacitação de profissionais e ainda ações em telemedicina.
@@ -33,7 +32,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

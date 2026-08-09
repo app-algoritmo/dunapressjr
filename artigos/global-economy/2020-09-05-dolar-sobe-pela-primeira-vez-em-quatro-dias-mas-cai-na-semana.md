@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa fecha sexta-feira com leve alta.
 
 Num dia de venda de ações no exterior e de retirada da urgência da reforma tributária, o dólar subiu pela primeira vez em quatro sessões. O dólar comercial encerrou esta sexta-feira (4) vendido a R$ 5,308, com leve valorização de R$ 0,018 (+0,33%). Na quinta-feira (3), a moeda tinha fechado no menor nível em um mês.
@@ -27,5 +26,3 @@ No Brasil, o Ibovespa chegou a operar abaixo dos 100 mil pontos entre as 11h30 e
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

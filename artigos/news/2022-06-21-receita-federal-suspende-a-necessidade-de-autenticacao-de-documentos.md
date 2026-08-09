@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Para requisição da prestação de serviços perante o órgão, serão aceitas cópia simples ou cópia eletrônica obtida por digitalização.
 
 A Receita Federal publicou nesta segunda-feira (20), a [Instrução Normativa RFB nº 2.088](https://www.in.gov.br/en/web/dou/-/instrucao-normativa-rfb-n-2.088-de-15-de-junho-de-2022-408524470), de 15 de junho de 2022, que suspende, por tempo indeterminado, a obrigatoriedade de apresentação de documentos originais ou cópias autenticadas para solicitar serviços ou prestar esclarecimentos ao atendimento da autarquia, mantendo a recepção em cópias simples, ou por meio digital. A nova norma contribui para a simplificação de acesso aos serviços prestados pela instituição.
@@ -22,8 +21,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

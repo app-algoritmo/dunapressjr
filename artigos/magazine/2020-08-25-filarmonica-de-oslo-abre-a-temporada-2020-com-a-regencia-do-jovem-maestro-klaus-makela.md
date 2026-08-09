@@ -8,7 +8,6 @@ categories:
 - Magazine
 ---
 
-
 Finalmente, a Filarmônica de Oslo pode tocar para o público novamente. Sua Majestade a Rainha Sonja esteve presente durante a abertura da temporada no Oslo Concert Hall na noite de 20.08.20
 
 200 espectadores aplaudiram de pé a orquestra sinfônica e o novo maestro Klaus Mäkelä (24) após o concerto.
@@ -60,12 +59,6 @@ Durante o intervalo, a Rainha cumprimentou o maestro da Filarmônica Vasily Petr
 **Assine Prêmio: **
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (BAPRMA).**
-
-** **
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=barrosikt)
-
- 
 
 ## Ver Também
 

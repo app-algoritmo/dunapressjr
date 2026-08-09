@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Uma equipe formada por estudantes da Universidade Federal do Ceará e de outras instituições parceiras, sob coordenação do Centro de Empreendedorismo (CEMP) da UFC, conquistou uma vaga na final do [Global Legal Hackathon (GLH))](https://globallegalhackathon.com/), maior competição de inovação em tecnologia da área jurídica do mundo. O evento ocorrerá em Londres, em data a ser definida de acordo com o contexto da pandemia de covid-19.
 
 O resultado da semifinal foi divulgado na última segunda-feira (22). Chamado AccessLegal, o time da UFC é um dos dois representantes brasileiros na categoria Inclusão ‒ a outra equipe brasileira é de Belo Horizonte (MG) e os demais grupos finalistas são oriundos de instituições dos Estados Unidos (4), Reino Unido (2), Alemanha, Espanha e Polônia.
@@ -31,7 +30,7 @@ Fonte: gov.br/mec - Capes / Imagem em destaque: domtotal.com
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

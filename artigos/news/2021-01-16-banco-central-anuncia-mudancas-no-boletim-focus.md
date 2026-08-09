@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Algumas estimativas serão ampliadas, outras deixarão de existir.
 
 Pesquisa semanal com cerca de 140 instituições financeiras, o Boletim Focus, produzido pelo Banco Central (BC), passará por mudanças a partir da edição de 25 de janeiro. Algumas estimativas tiveram o horizonte de tempo ampliado. Outros indicadores deixarão de ser pesquisados.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

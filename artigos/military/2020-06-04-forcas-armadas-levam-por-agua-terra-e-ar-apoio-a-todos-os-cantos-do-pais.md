@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 Militares da Força Aérea Brasileira transportaram, na manhã dessa quinta-feira (04), mais de 4 toneladas de álcool em gel e equipamentos de proteção individual para Boa Vista, em Roraima. Os itens, que foram carregados em um KC-390 Millennium, serão utilizados no combate ao novo coronavírus.
 
 Pelas águas, militares iniciaram o transporte fluvial de equipes de saúde e tropas para atuarem no apoio às comunidades indígenas. Os médicos, enfermeiros, técnicos de saúde e tropas foram transportados no Ferry-Boat Marechal Bittencourt e estão levando apoio médico e orientação às comunidades do Rio Jutaí, na região do Médio Solimões.
@@ -22,5 +21,3 @@ Já no Comando Conjunto Oeste militares descontaminaram 100% das unidades de sa�
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

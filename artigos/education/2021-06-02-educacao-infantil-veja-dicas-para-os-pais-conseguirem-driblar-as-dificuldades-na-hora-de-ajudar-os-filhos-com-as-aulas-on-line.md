@@ -8,10 +8,9 @@ categories:
 - Education
 ---
 
-
 O longo período de suspensão das aulas presenciais e o vai e vem de reaberturas de escolas tem causado forte impacto na Educação, principalmente no segmento da Educação Infantil. O ensino remoto se tornou um desafio para os professores e também para os pais.
 
-A coordenadora editorial de Educação Infantil do Sistema Positivo de Ensino, Silvia Dumont, insiste na importância do engajamento das famílias. "É preciso compreender que o momento pandêmico expôs o fato de que não é papel exclusivo da escola manter a criança engajada com o processo de aprendizado. Escola e família são instituições complementares. Por isso, os familiares também são responsáveis por esse engajamento que, agora, exige não apenas o acompanhamento das tarefas, mas o acesso adequado a equipamentos eletrônicos e internet. Esse modelo parece ser um pouco mais desafiador quando se trata de crianças pequenas. No entanto, a disponibilidade, a persistência e a motivação permanente farão a diferença nesse processo. Não se pretende que os pais ou outros familiares assumam o papel dos professores; o que se deseja é que a família colabore, criando condições para que a criança vivencie as situações propostas pelo professor", argumenta. 
+A coordenadora editorial de Educação Infantil do Sistema Positivo de Ensino, Silvia Dumont, insiste na importância do engajamento das famílias. "É preciso compreender que o momento pandêmico expôs o fato de que não é papel exclusivo da escola manter a criança engajada com o processo de aprendizado. Escola e família são instituições complementares. Por isso, os familiares também são responsáveis por esse engajamento que, agora, exige não apenas o acompanhamento das tarefas, mas o acesso adequado a equipamentos eletrônicos e internet. Esse modelo parece ser um pouco mais desafiador quando se trata de crianças pequenas. No entanto, a disponibilidade, a persistência e a motivação permanente farão a diferença nesse processo. Não se pretende que os pais ou outros familiares assumam o papel dos professores; o que se deseja é que a família colabore, criando condições para que a criança vivencie as situações propostas pelo professor", argumenta.
 
 Para ajudar as famílias neste enorme desafio que tem sido o ensino remoto, principalmente para as crianças da Educação Infantil, a especialista do Sistema Positivo de Ensino dá algumas dicas:
 
@@ -29,7 +28,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

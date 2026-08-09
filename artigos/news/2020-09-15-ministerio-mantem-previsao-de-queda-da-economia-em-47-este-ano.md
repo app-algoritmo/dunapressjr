@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Projeções estão no Boletim MacroFiscal divulgado hoje.
 
 A Secretaria de Política Econômica (SPE) do Ministério da Economia manteve a projeção para a queda da economia este ano e elevou a estimativa para a inflação, por influência da alta nos preços dos alimentos. As projeções estão no Boletim MacroFiscal divulgado hoje (15).
@@ -31,5 +30,3 @@ O Índice Nacional de Preços ao Consumidor (INPC) deverá encerrar este ano com
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

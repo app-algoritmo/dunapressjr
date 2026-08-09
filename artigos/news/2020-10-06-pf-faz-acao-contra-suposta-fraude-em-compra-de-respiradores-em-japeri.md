@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Aparelhos foram adquiridos a preços superfaturados.
 
 Policiais federais cumpriram hoje (6) cinco mandados de busca e apreensão em uma operação que investiga irregularidades na compra de respiradores para tratamento de covid-19 pela Secretaria Municipal de Saúde de Japeri, no estado do Rio de Janeiro. A operação *Apneuse* também cumpriu um mandado de afastamento de função pública.
@@ -21,5 +20,3 @@ Os mandados foram expedidos pela 3ª Vara Federal de São João de Meriti e est�
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

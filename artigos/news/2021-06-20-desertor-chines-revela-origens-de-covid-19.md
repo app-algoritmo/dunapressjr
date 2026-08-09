@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Um oficial chinês desertou para os EUA e, ao fazê-lo, trouxe à luz informações preocupantes sobre o coronavírus.
 
 De acordo com rumores que circulam nos EUA, um dos principais oficiais de inteligência da China, Dong Jingwei, que serviu como chefe da contra-inteligência na China até sua promoção a vice-ministro em 2018, desertou para os EUA há vários meses e revelou informações incriminatórias sobre o Laboratório de virologia de Wuhan suspeito de ser a fonte de COVID-19. Isso inclui material pensado para substanciar as alegações de que o vírus foi intencionalmente liberado para humanos em vez de ser transmitido por animais, como se pensava originalmente.
@@ -29,7 +28,3 @@ Fonte: https://www.israelnationalnews.com/News/News.aspx/308364
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

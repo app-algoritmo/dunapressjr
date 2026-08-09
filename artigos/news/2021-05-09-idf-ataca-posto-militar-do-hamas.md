@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O ataque vem em resposta a um foguete que foi disparado da Faixa de Gaza em direção ao território israelense.
 
 A aeronave das FDI atacou uma posição militar da organização terrorista Hamas no sul de Gaza durante a noite de sábado.
@@ -31,7 +30,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alguns pacientes com transplante de córnea relatam rejeição, mas as equipes agora sabem como tratá-la ou preveni-la com esteróides.
 
 Em alguns pacientes que fizeram um transplante de córnea, a vacina contra o coronavírus causa rejeição do tecido doado, de acordo com médicos israelenses.
@@ -37,7 +36,3 @@ Fonte:[ The Time Of Israel](https://fr.timesofisrael.com/cornee-des-medecins-isr
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Recuo em São Paulo foi de 3,1%.
 
 Cinco estados foram os responsáveis pela queda de 0,6% da produção da indústria nacional na passagem de setembro para outubro deste ano, entre eles São Paulo, maior parque industrial do país, com um recuo de 3,1%. Os outros locais foram Santa Catarina (-4,7%), Pará (-4,2%), Minas Gerais (-3,9%) e Espírito Santo (-1%). Os dados foram divulgados nesta quinta-feira (9), no Rio de Janeiro, pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -24,10 +23,6 @@ Altas em dez dos 15 locais também foram registradas no acumulado de 12 meses, t
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Opinion
 ---
 
-
 *“O mal da grandeza é quando ela separa a consciência do poder!”*
 
 *Willian Shakespeare*
@@ -32,7 +31,7 @@ BLOCH, Marc. *A Sociedade Feudal*. Editora Edições 70.
 
 BURKE, Edmund. Reflexões Sobre a Revolução Francesa. Vide Editoral. 2017.
 
-DUBY, Georges. AIRES, Philippe; *HISTÓRIA DA VIDA PRIVADA 2*: *Da Europa feudal a Renascença*, Editora Companhia de Bolso. 
+DUBY, Georges. AIRES, Philippe; *HISTÓRIA DA VIDA PRIVADA 2*: *Da Europa feudal a Renascença*, Editora Companhia de Bolso.
 
 GALLO, Max. Revolução Francesa – volume I: O povo e o rei. L&PM. 2012.
 
@@ -56,4 +55,4 @@ SILVA, Marcelo Candido da. História Medieval. Editora Contexto. 2019.
 
 VASCONCELOS, Antônio Augusto Teixeira de. A Fundação da Monarquia Portuguesa. Editora Zero Papel. 2012.
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A ministra destacou a importância da assistência técnica para os agricultores brasileiros e disse que o assunto é uma prioridade para o Mapa.
 
 A comemoração dos 30 anos da Associação Brasileira das Entidades Estaduais de Assistência Técnica e Extensão Rural (Asbraer), realizada hoje (8) contou com a participação virtual da ministra Tereza Cristina, da Agricultura, Pecuária e Abastecimento (Mapa). A ministra destacou a importância da assistência técnica para os agricultores brasileiros e disse que o assunto é uma prioridade para o Mapa.
@@ -24,11 +23,9 @@ Atualmente, entidades de três estados – Mato Grosso do Sul, Sergipe e Paraíb
 
 Como resultado também das ações desenvolvidas, estão a criação da Agência Nacional de Assistência Técnica e Extensâo Rural (Anater) e a política nacional de Assistência Técnica e Extensão Rural (ATER), voltada para a promoção do desenvolvimento rural sustentável para a agricultura familiar.
 
-Atualmente, a rede de extensionistas das entidades que integram a Asbraer somam 15 mil profissionais que desenvolvem atividades com o trabalhador nas áreas rurais em mais de 5 mil municípios brasileiros. 
+Atualmente, a rede de extensionistas das entidades que integram a Asbraer somam 15 mil profissionais que desenvolvem atividades com o trabalhador nas áreas rurais em mais de 5 mil municípios brasileiros.
 
 Fonte: gov.br / Imagem em destaque: asbraer
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

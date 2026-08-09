@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 O Capitão de Corveta (FN) Adelton Ferreira Dias foi eleito, em 12 de maio, Instrutor do Ano do U.S. Army Training and Doutrine Command (TRADOC). O reconhecimento veio após ele ser premiado, em janeiro, como Instrutor do Ano de 2019 pelo Instituto do Hemisfério Ocidental para Cooperação em Segurança - Western Hemisphere Institute for Security Cooperation (WHINSEC), nos Estados Unidos. Participaram da disputa instrutores dos Estados Unidos, que representam 80% do total, além de outros 17 países, incluindo o Brasil. A cerimônia de premiação deve ocorrer em agosto, na Virgínia, nos Estados Unidos.
 
 A trajetória do Comandante Adelton como instrutor nos Estados Unidos teve início em 2018, quando foi designado chefe da Divisão de Táticas do WHINSEC, na Geórgia, EUA. Ao longo de dois anos de comissão, esteve à frente de quatro cursos, dando aulas para alunos de 26 países do hemisfério ocidental. Alguns dos requisitos para ser instrutor incluem a realização de cursos obrigatórios, possuir 80 horas como instrutor assistente e passar por avaliações internas e externa.
@@ -23,5 +22,3 @@ Ao receber a notícia de sua premiação, o Comandante Adelton destacou que, “
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

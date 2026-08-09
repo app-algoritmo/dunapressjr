@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Firjan divulgou mapeamento da indústria criativa.
 
 O número de profissionais que atuam no setor da indústria criativa no Brasil cresceu 11,7% de 2017 para 2020, com distribuição desigual entre as áreas. Enquanto em consumo o número de vínculos empregatícios subiu 20% e em tecnologia aumentou 12,8%, em cultura houve queda de 7,2% e em mídia diminuiu 10,7%.
@@ -72,8 +71,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

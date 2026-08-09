@@ -8,7 +8,6 @@ categories:
 - World Affairs
 ---
 
-
 ## A ID digital no metaverso oferece outra rota para um sistema de crédito social baseado em reputação: perspectiva
 
 O Fórum Econômico Mundial (WEF) publica um relatório afirmando que as pessoas podem se beneficiar social e economicamente por causa da reputação que construíram por meio de sua ID digital no Metaverso.
@@ -59,7 +58,7 @@ Sua identidade digital determinará aonde você pode ir, a que você tem acesso 
 
 ***"A identidade digital pode enfraquecer a democracia e a sociedade civil"***Reimaginando o ID digital, WEF, 2023
 
-[Na verdade, o relatório WEF Reimagining Digital ID de junho de 2023](https://www3.weforum.org/docs/WEF_Reimagining_Digital_ID_2023.pdf) confirma o que ***nós*** do [The](https://www3.weforum.org/docs/WEF_Reimagining_Digital_ID_2023.pdf) Sociable *e* inúmeros outros [alertamos há anos](https://sociable.co/technology/your-digital-identity-used-against-you-great-reset/) - que [a identidade digital](https://sociable.co/government-and-policy/wef-digital-id-exclusionary-weaken-democracy-civil-society/) é inerentemente [excludente](https://sociable.co/government-and-policy/wef-digital-id-exclusionary-weaken-democracy-civil-society/) , que a identidade digital pode ser usada como uma ferramenta de vigilância para intimidar as pessoas e forçá-las a mudar seu comportamento, que a identificação digital é um requisito para a emissão de moedas digitais do banco central (CBDCs) e muito mais.******[](https://www3.weforum.org/docs/WEF_Reimagining_Digital_ID_2023.pdf)**[](https://sociable.co/technology/your-digital-identity-used-against-you-great-reset/)[](https://sociable.co/government-and-policy/wef-digital-id-exclusionary-weaken-democracy-civil-society/)[](https://sociable.co/government-and-policy/wef-digital-id-exclusionary-weaken-democracy-civil-society/)
+[Na verdade, o relatório WEF Reimagining Digital ID de junho de 2023](https://www3.weforum.org/docs/WEF_Reimagining_Digital_ID_2023.pdf) confirma o que ***nós*** do [The](https://www3.weforum.org/docs/WEF_Reimagining_Digital_ID_2023.pdf) Sociable *e* inúmeros outros [alertamos há anos](https://sociable.co/technology/your-digital-identity-used-against-you-great-reset/) - que [a identidade digital](https://sociable.co/government-and-policy/wef-digital-id-exclusionary-weaken-democracy-civil-society/) é inerentemente [excludente](https://sociable.co/government-and-policy/wef-digital-id-exclusionary-weaken-democracy-civil-society/) , que a identidade digital pode ser usada como uma ferramenta de vigilância para intimidar as pessoas e forçá-las a mudar seu comportamento, que a identificação digital é um requisito para a emissão de moedas digitais do banco central (CBDCs) e muito mais.********
 
 De acordo com o relatório, “ ***os maiores riscos representados pela identidade digital são a exclusão, a marginalização e a opressão” e que “exigir qualquer forma de identificação corre o risco de exacerbar desafios sociais, políticos e econômicos fundamentais, dado que o acesso condicional de qualquer tipo sempre cria a possibilidade de discriminação e exclusão*** ”.
 

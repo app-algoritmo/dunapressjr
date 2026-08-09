@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## São 16 opções de capacitação a distância sem tutoria.
 
 Lançado em 6 de julho, o [Portal de Educação Corporativa](https://www.fnde.gov.br/educacaocorporativa) do Fundo Nacional de Desenvolvimento da Educação (FNDE) traz 16 novos cursos de formação a distância na área educacional. Voltados para gestores públicos, conselheiros de controle social e comunidade escolar em geral, os cursos são autoinstrucionais, ou seja, não há acompanhamento de tutores. Os participantes acessam o material didático, realizam as atividades de estudo, submetem a atividade final e podem obter o certificado.
@@ -40,7 +39,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

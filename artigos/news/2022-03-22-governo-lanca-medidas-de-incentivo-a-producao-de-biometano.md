@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Combustível renovável pode substituir gás natural, diesel e gasolina.
 
 O presidente Jair Bolsonaro participou nesta segunda-feira (21) do lançamento de medidas de incentivo à produção e ao uso sustentável do biometano. O combustível renovável é obtido pela purificação do biogás e pode substituir o gás natural, o diesel e a gasolina.
@@ -18,7 +17,7 @@ O ministro de Meio Ambiente, Joaquim Leite, assinou portaria que cria o Programa
 
 “O programa Metano Zero trata o lixo da cidade, o lixo do campo. São resíduos de aves, suínos, cana de açúcar, laticínios e aterros sanitários. Tudo isso para gerar o biogás, que gera energia, e o biometano, que gera o combustível para veículos pesados. Teremos a oportunidade de andar em caminhões, tratores e ônibus movidos a biometano, reduzindo o custo de combustível”, afirmou Leite.
 
-O ministro de Minas e Energia, Bento Albuquerque, assinou portaria que inclui investimentos em biometano no Regime Especial de Incentivos para o Desenvolvimento de Infraestrutura (Reidi).  A portaria isentará novos projetos da cobrança de PIS/Cofins para aquisição de máquinas, materiais de construção e equipamentos.  Contribuirá, assim, para a construção de novas plantas de produção do biocombustível, ampliando a oferta e causando impacto positivo na sustentabilidade energética e ambiental.
+O ministro de Minas e Energia, Bento Albuquerque, assinou portaria que inclui investimentos em biometano no Regime Especial de Incentivos para o Desenvolvimento de Infraestrutura (Reidi). A portaria isentará novos projetos da cobrança de PIS/Cofins para aquisição de máquinas, materiais de construção e equipamentos. Contribuirá, assim, para a construção de novas plantas de produção do biocombustível, ampliando a oferta e causando impacto positivo na sustentabilidade energética e ambiental.
 
 “Estamos dando novo passo para a consolidação de um mercado aberto e competitivo que buscamos, ao proporcionar aos investidores de bioenergia a mesma condição de que já dispunham os produtores de gás natural”, afirmou Albuquerque.
 
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Pesquisadores israelenses encontraram três restos de tecidos perto do extremo sul de Israel, coloridos com o corante púrpura real “ *argaman* ” biblicamente descrito e datados de cerca de 1.000 aC - a era do rei Davi. Os mais antigos achados nessa região, os tecidos vibrantes adicionam peso tangível, em particular, ao relato bíblico de um reino edomita na área naquela época.
 
 Coloridos com o corante mais precioso do mundo antigo, os restos de tecidos foram escavados no vale de Timna, perto de Eilat, e oferecem uma visão surpreendente de uma classe de elite antiga. As pequenas peças de tecido da Idade do Ferro de cores vibrantes são a evidência mais antiga deste corante precioso em todo o sul do Levante e lançam uma nova luz sobre o reino edomita e reinos israelitas há 3.000 anos - um período em que a Bíblia detalha a conquista dos edomitas por Rei David.
@@ -118,7 +117,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

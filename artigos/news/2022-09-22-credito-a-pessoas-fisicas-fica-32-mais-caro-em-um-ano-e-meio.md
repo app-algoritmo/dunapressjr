@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Aumento para pessoas jurídicas chega a 45% no período.
 
 O ciclo de alta da Selic (juros básicos da economia), que chegou ao fim nesta quarta-feira (21), encareceu o crédito em 32% para pessoas físicas e 45% para empresas, divulgou a Associação Nacional dos Executivos de Finanças, Administração e Contabilidade (Anefac). Embora as elevações mais recentes tenham tido impacto pequeno nos financiamentos e empréstimos, o saldo final é considerável após um ano e meio de reajustes contínuos.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

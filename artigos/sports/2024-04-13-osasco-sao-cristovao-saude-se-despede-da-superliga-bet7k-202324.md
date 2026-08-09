@@ -54,7 +54,7 @@ Jogaram e marcaram para o Gerdau Minas: Jenna Gray (2), Kisy (23), Pri Daroit (2
 **Segundo Turno
 **18/01 – **Osasco São Cristóvão Saúde** 3 x 0 Brasília – Osasco
 25/01 – Unilife Maringá 1 x 3 **Osasco São Cristóvão Saúde** - Maringá
-02/02 – **Osasco São Cristóvão Saúde 3 **x 0 Barueri - Osasco 
+02/02 – **Osasco São Cristóvão Saúde 3 **x 0 Barueri - Osasco
 06/02 – Pinheiros 2 x 3 **Osasco São Cristóvão Saúde** - São Paulo
 11/02 – **Osasco São Cristóvão Saúde** 3 x 0 Sesi Bauru - Osasco
 21/02 – Fluminense 1 x 3 **Osasco São Cristóvão Saúde** - Rio de Janeiro
@@ -65,16 +65,13 @@ Jogaram e marcaram para o Gerdau Minas: Jenna Gray (2), Kisy (23), Pri Daroit (2
 22/03 – Bluvolei/FURB 0 x 3 **Osasco São Cristóvão Saúde **– Blumenau
 
 **Mais informações:
-*****Osasco Vôlei TV: ******[https://www.youtube.com/c/OsascoV%C3%B4leiTV](https://click.presskit.com.br/url/1008134f55f/6361388b6fc)[
-](https://click.presskit.com.br/url/1008134f55f/6361388b6fc)******Fan page: ***[***https://www.facebook.com/osascovoleibolclube/***](https://click.presskit.com.br/url/10081356caa/6361388b6fc)***         *** 
-***Instagram: ***[***www.instagram.com/osascovoleibolclube/***](https://click.presskit.com.br/url/1008136904d/6361388b6fc)***         *** 
-***Twitter: ***[***www.twitter.com/osascovc***](https://click.presskit.com.br/url/1008137c01d/6361388b6fc)*** 
+*****Osasco Vôlei TV: ******[https://www.youtube.com/c/OsascoV%C3%B4leiTV](https://click.presskit.com.br/url/1008134f55f/6361388b6fc)******Fan page: ***[***https://www.facebook.com/osascovoleibolclube/***](https://click.presskit.com.br/url/10081356caa/6361388b6fc)***         ***
+***Instagram: ***[***www.instagram.com/osascovoleibolclube/***](https://click.presskit.com.br/url/1008136904d/6361388b6fc)***         ***
+***Twitter: ***[***www.twitter.com/osascovc***](https://click.presskit.com.br/url/1008137c01d/6361388b6fc)***
 
 ******Assessoria de Imprensa:
-******ZDL Sports         *** 
-***Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](mailto:dorojr@zdl.com.br) - F: 11 984579723         *** 
+******ZDL Sports         ***
+***Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](mailto:dorojr@zdl.com.br) - F: 11 984579723         ***
 ***Rafael De Marco - Mtb.: 27556 - [rafael@zdl.com.br](mailto:rafael@zdl.com.br) - Cel: 11 976022986 - WhatsApp: 19 997912108
 
-******Site: ******[www.zdl.com.br](https://click.presskit.com.br/url/1008132dbfd/6361388b6fc)[
-](https://click.presskit.com.br/url/1008138913d/6361388b6fc)******Facebook: ******[www.facebook.com/ZDLSports](https://click.presskit.com.br/url/100813998f7/6361388b6fc)[
-](https://click.presskit.com.br/url/100813998f7/6361388b6fc)******Instagram: ***[***www.instagram.com/zdlsports***](https://click.presskit.com.br/url/1008140af97/6361388b6fc)
+******Site: ******[www.zdl.com.br](https://click.presskit.com.br/url/1008132dbfd/6361388b6fc)******Facebook: ******[www.facebook.com/ZDLSports](https://click.presskit.com.br/url/100813998f7/6361388b6fc)******Instagram: ***[***www.instagram.com/zdlsports***](https://click.presskit.com.br/url/1008140af97/6361388b6fc)

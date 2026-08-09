@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa sobe 1,21% e ultrapassa os 116 mil pontos.
 
 Influenciado pela alta da taxa Selic e pela trégua no mercado internacional, o dólar caiu pelo quarto dia consecutivo e encerrou no menor valor em mais de três semanas. A bolsa de valores subiu e reverteu parte da **[queda da quinta-feira ](https://dunapress.org/2021/03/19/dolar-contraria-exterior-e-cai-apos-alta-da-selic/)**(18).
@@ -28,8 +27,4 @@ Fonte: Agência Brasil – Imagem de destaque: Reuters/Gary Cameron/Direitos Res
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
- [LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
- Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+ Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Tensões globais reduzem alta da bolsa de valores.
 
 Em um dia marcado por tensões externas, o dólar fechou estável após operar em baixa durante quase toda a sessão, mas acumulou a quinta semana consecutiva de queda. O mesmo ocorreu com a bolsa, que chegou a subir mais de 1%, mas fechou próxima da estabilidade.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

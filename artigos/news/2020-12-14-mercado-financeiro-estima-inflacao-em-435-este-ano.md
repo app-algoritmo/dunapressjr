@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Projeção está acima do centro da meta de 4%.
 
 O Banco Central (BC) atualizou a projeção do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA), de 4,21% para 4,35%, neste ano. A revisão consta do boletim Focus divulgado hoje (14), em Brasília. Com periodicidade semanal, o documento reúne estimativas de instituições financeiras para os principais indicadores da economia.
@@ -46,8 +45,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

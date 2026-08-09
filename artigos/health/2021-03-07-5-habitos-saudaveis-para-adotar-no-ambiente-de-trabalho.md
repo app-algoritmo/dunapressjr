@@ -7,10 +7,9 @@ categories:
 - Health
 ---
 
-
 A realidade de muitos trabalhadores modernos é composta por um computador e uma jornada de longas horas sentados em frente a ele. E já que nem sempre o tempo está ao nosso favor, fica difícil aliar hábitos saudáveis à rotina do trabalho. Mas será mesmo?
 
-Se você imagina, necessariamente, um treino de academia nessa rotina, pode ser que fique difícil mesmo para a maioria das pessoas. Mas a boa notícia é que existem vários hábitos simples para colocar seu corpo em movimento durante o expediente.  
+Se você imagina, necessariamente, um treino de academia nessa rotina, pode ser que fique difícil mesmo para a maioria das pessoas. Mas a boa notícia é que existem vários hábitos simples para colocar seu corpo em movimento durante o expediente.
 
 Antes de falar das pequenas mudanças que você pode adotar por conta própria, é importante lembrar que existe a ginástica laboral e que boa parte das empresas já oferecem esse benefício para seus funcionários.
 
@@ -18,7 +17,7 @@ Segundo o Profissional de Educação Física Sávio Camargo, da Maternidade Esco
 
 Já se sabe que as dores articulares, Lesões por Esforço Repetitivo (LER) e os Distúrbios Osteomusculares Relacionados ao Trabalho (DORT) são as principais doenças ocupacionais, conforme ensina Camargo. Nesse sentido, a ginástica laboral surge como um dos instrumentos de prevenção dessas lesões.
 
-Os melhores exercícios são os que promovem o alongamento e o relaxamento. Em relação à duração, uma sessão de ginástica laboral costuma ser curta. Em 15 minutos diários já é possível obter os benefícios da prática. Mas Sávio reforça que é muito importante que se tenha a orientação de um profissional para realizá-los. Abaixo você confere alguns exemplos de movimentos para reproduzir cotidianamente no seu trabalho: 
+Os melhores exercícios são os que promovem o alongamento e o relaxamento. Em relação à duração, uma sessão de ginástica laboral costuma ser curta. Em 15 minutos diários já é possível obter os benefícios da prática. Mas Sávio reforça que é muito importante que se tenha a orientação de um profissional para realizá-los. Abaixo você confere alguns exemplos de movimentos para reproduzir cotidianamente no seu trabalho:
 
 ## **Mente sã e corpo são**
 
@@ -52,7 +51,7 @@ Que tal trocar o elevador pela escada? Por mais simples que seja, essa mudança 
 
 ## 4. Atenção com a ergonomia!
 
-A ergonomia refere-se à relação que estabelecemos com o ambiente físico em que estamos inseridos. Portanto, cuidar da postura é tão importante quanto manter o corpo em movimento no ambiente de trabalho. 
+A ergonomia refere-se à relação que estabelecemos com o ambiente físico em que estamos inseridos. Portanto, cuidar da postura é tão importante quanto manter o corpo em movimento no ambiente de trabalho.
 
 É importante saber sentar da forma correta, posicionar os pés corretamente, manter um apoio de braços que dê uma condição favorável para não desenvolver alguma lesão por esforço repetitivo. No caso de quem trabalha com digitação, por exemplo, é muito importante deixar os cotovelos e antebraços apoiados, alerta Sávio.
 
@@ -84,7 +83,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 As altas temperaturas do verão podem ser bastante incômodas para os animais domésticos, visto que, diferente dos humanos, cães e gatos não possuem muitas glândulas sudoríparas. A maioria delas estão situadas nos coxins, as “almofadas” das patas, o que acaba dificultando a termorregulação dos animais, que é o controle da temperatura corporal.
 
 Por conta disso, os pets necessitam de inúmeros cuidados especiais para que não sofram com o calor. A coordenadora do curso de Medicina Veterinária da Universidade Positivo (UP), Thais Costa Casagrande, destaca cinco cuidados importantíssimos com os pets durante a estação mais quente do ano.
@@ -45,7 +44,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

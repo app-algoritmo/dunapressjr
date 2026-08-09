@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Fragmentação do quadro partidário
 
 Com a volta da democracia nos anos 1980, o Brasil trocou o sistema bipartidário pelo multipartidário. Com o tempo, o número de partidos com representação na Câmara dos Deputados aumentou significativamente, chegando a 30 nas eleições de 2018.
@@ -77,7 +76,3 @@ Fonte: https://www.camara.leg.br/internet
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

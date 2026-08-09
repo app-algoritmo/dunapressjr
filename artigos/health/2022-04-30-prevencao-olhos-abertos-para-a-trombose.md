@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A trombose é a formação de coágulos potencialmente mortais na artéria (trombose arterial) ou veia (trombose venosa). Uma vez formado, o coágulo pode retardar ou bloquear o fluxo sanguíneo normal, e até se soltar e viajar para algum órgão. Isso pode resultar em lesão significativa, incluindo ataque cardíaco, derrame e o tromboembolismo venoso (TEV). Caso esse coágulo se desloque até o pulmão o evento pode ser fatal.
 
 Os sintomas mais comuns são o inchaço e a dor. Até 60 por cento de todos os casos de TEV ocorrem associados a um fator de risco adquirido como cirurgias, imobilização, internação prolongada, uso de anticoncepcionais hormonais conjugados, gestação, viagem aérea longa, câncer, obesidade, presença de anticorpos antifosfolipídios, entre outros.
@@ -29,7 +28,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

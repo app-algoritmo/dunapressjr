@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Maior nível registrado desde agosto de 2021.
 
 O Índice de Confiança do Consumidor (ICC) avançou 3,8 pontos em abril, para 78,6 pontos, o maior nível desde agosto de 2021 (81,8 pontos). Em médias móveis trimestrais, o índice variou 1,5 ponto, para 77,1 pontos.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

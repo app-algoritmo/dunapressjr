@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Segundo o acordo de 25 anos finalizado, Pequim e Teerã aumentarão a cooperação militar, incluindo o desenvolvimento de armas e o compartilhamento de informações; China obtendo petróleo com desconto.
 
 As negociações entre o Irã e a China sobre a criação de um acordo estratégico de 25 anos parecem ter sido concluídas, com o jornal The New York Times divulgando neste domingo trechos de um contrato de 18 páginas chamado "versão final", que levaria Pequim a investir US $ 400 bilhões nos próximos 25 anos em troca de óleo com desconto.
@@ -54,6 +53,6 @@ Fonte The Time Of Israel****
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

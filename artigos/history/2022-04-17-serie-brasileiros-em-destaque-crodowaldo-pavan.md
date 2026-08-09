@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Crodowaldo Pavan nasceu em 01 de dezembro de 1919, em Campinas-SP, foi um dos primeiros brasileiros dedicados aos estudos de genética, ele realizou pesquisas que o tornaram reconhecido internacionalmente. Sua equipe derrubou, por exemplo, a teoria da constância, na qual se acreditava que todas as células traziam  a mesma quantidade de material genético e só se diferenciavam por influência do meio. A hipótese de Pavan de que poderia haver alterações no número de genes dentro do cromossomo com o desenvolvimento do animal levou oito anos para ser aceita pela comunidade científica. Foi o responsável pelo estudo da  citogenética de  [Rynchosciara americana,](https://pt.wikipedia.org/wiki/Rhynchosciara_americana) uma mosca conhecida por seus cromossomos gigantes.
 
 Em 1938, cursou história natural na USP, onde trabalhou na investigção biológica. Nesta mesma instituição concluiu o doutorado com a tese  [bagre-cego,](https://pt.wikipedia.org/wiki/Bagre-cego) Typhlobagrus kronci .Em 1942, participa de um projeto pioneiro patrocinado pela[ Fundação Rockefeller,](https://www.rockefellerfoundation.org/) sobre taxinomia, genética e ecologia das [drosophilas](https://pt.wikipedia.org/wiki/Drosophila), a mosca das frutas, neste mesmo ano, se torna professor assistente e posteriormente professor titular da [USP](https://www5.usp.br/) onde permanece até a sua aposentadoria em 1978. Em 1966, cria um laboratório de genética celular a convite do [Laboratório Nacional de Oak Ridge](https://www.ornl.gov/), [no Tennessee (EUA)](https://www.ornl.gov/).
@@ -55,5 +54,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

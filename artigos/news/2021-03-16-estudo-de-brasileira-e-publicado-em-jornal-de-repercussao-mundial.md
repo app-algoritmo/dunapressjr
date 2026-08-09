@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Andréa Benedet, ex-bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), escreveu artigo sobre o processo de degeneração da doença de Alzheimer. O trabalho será publicado no Jornal BRAIN, um periódico de repercussão mundial, que divulga conteúdo sobre neurologia clínica e neurociência translacional, desde 1878.
 
 **Fale um pouco sobre você.**
@@ -31,7 +30,7 @@ Os tratamentos existentes hoje são somente pra manejar os sintomas e melhorar a
 Em tradução, ‘Associação estágio-específicas entre neurofilamento de cadeia leve plasmático e biomarcadores de imagem na doença de Alzheimer’. O trabalho mostra que uma proteína estrutural dos neurônios – neurofilamento de cadeia leve (NfL) –, pode ser detectada em maiores níveis no liquor e sangue de paciente em processos neurodegenerativos Ela está associada à  atrofia de substância branca e cortical cerebral e está ligada ao acúmulo das proteínas tau e amilóide no cérebro, duas grandes vilãs, tidas como causadoras da doença de Alzheimer. Além disso, mostramos como o aumento de NfL durante 48 meses está associado a uma severa atrofia cerebral em pacientes com Alzheimer, mas essa associação é muito reduzida ou quase inexistente em idosos cognitivamente saudáveis. Essa publicação é a continuação de um artigo publicado ano passado ([https://pubmed.ncbi.nlm.nih.gov/31673598/](https://pubmed.ncbi.nlm.nih.gov/31673598/)), onde mostramos que altos níveis dessa mesma proteína NfL está relacionada a uma diminuição do metabolismo cerebral, sendo esse um outro indicativo de disfunção  cerebral e neurodegeneração. Assim, nosso trabalho reitera outros estudos na área que demonstram a utilidade do biomarcador NfL para a detecção de processos neurodegenerativos.
 
 **Fale um pouco sobre o periódico no qual o artigo será divulgado.**
-O jornal BRAIN publica conteúdos de neurologia clínica e neurociência translacional, desde 1878. Com fator de impacto 11.9, tem repercussão mundial, seguido por grandes grupos de pesquisa na área de neurociências e doenças neurodegenerativas. Publicar nesse jornal é garantia de que meu estudo será visualizado por grandes pesquisadores e servir de base para continuação de muitas outras pesquisas em Alzheimer. 
+O jornal BRAIN publica conteúdos de neurologia clínica e neurociência translacional, desde 1878. Com fator de impacto 11.9, tem repercussão mundial, seguido por grandes grupos de pesquisa na área de neurociências e doenças neurodegenerativas. Publicar nesse jornal é garantia de que meu estudo será visualizado por grandes pesquisadores e servir de base para continuação de muitas outras pesquisas em Alzheimer.
 
 **Qual a importância do apoio da CAPES para o desenvolvimento do seu trabalho?**
 A CAPES foi essencial no desenvolvimento da minha carreira acadêmica, pois sem ela eu não conseguiria realizar a pesquisa que desenvolvi durante o meu doutorado pleno em Neurociências, na *McGill University* no Canadá.
@@ -57,7 +56,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

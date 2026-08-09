@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-O governador Carlos Moisés enviou para aprovação na Assembleia Legislativa, nesta sexta-feira, 4, o projeto de lei que isenta o ICMS do medicamento Zolgensma, administrado em portadores de Atrofia Medular Espinhal, conhecida como AME. A medicação detém a progressão da AME e garante a sobrevivência dos portadores da doença. 
+O governador Carlos Moisés enviou para aprovação na Assembleia Legislativa, nesta sexta-feira, 4, o projeto de lei que isenta o ICMS do medicamento Zolgensma, administrado em portadores de Atrofia Medular Espinhal, conhecida como AME. A medicação detém a progressão da AME e garante a sobrevivência dos portadores da doença.
 
 Solidário com a causa, Carlos Moisés afirma que mais um passo foi dado para que esse medicamento chegue na casa dos catarinenses que precisam. “Diariamente famílias que convivem com a AME batalham pela vida de seus filhos. É o mínimo que o Estado pode fazer para ajudar quem luta por uma situação de saúde tão devastadora. O Governo do Estado continuará se esforçando para amparar essas crianças”, enfatiza.
 
@@ -29,7 +28,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

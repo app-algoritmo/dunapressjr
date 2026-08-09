@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 São Paulo/SP - A Polícia Federal, por meio da Força-Tarefa Previdenciária formada pelo o Núcleo de Inteligência Previdenciária e Trabalhista em São Paulo, pela Procuradoria Federal e pelo INSS, deflagrou a Operação Revide na terça feira (7/7), com o objetivo de investigar fraudes em benefícios por incapacidade (auxílios por incapacidade temporária e aposentadorias por incapacidade permanente), praticadas por meio de uma organização criminosa (ORCRIM) composta por médicos, advogados e intermediários, em São Paulo.
 
 Foram expedidos 23 (vinte e três) mandados de busca e apreensão para cumprimento no estado de São Paulo, na cidade de São Paulo, Guarulhos e Caieiras e no estado de Minas Gerais, na cidade de Poços de Caldas, além de medidas restritivas de direitos para impedir que os criminosos continuem a delinquir.
@@ -19,4 +18,4 @@ Referidos valores dizem respeito a um recorte investigativo, pois, ao que tudo i
 
 Comunicação Social da Polícia Federal em São Paulo
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

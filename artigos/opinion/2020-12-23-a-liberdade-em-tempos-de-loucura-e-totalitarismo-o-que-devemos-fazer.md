@@ -7,7 +7,6 @@ categories:
 - Opinion
 ---
 
-
 A LEI PERVERTIDA! E com ela os poderes de polícia do estado também pervertidos! A lei, digo, não somente distanciada de sua própria finalidade, mas voltada para a consecução de um objetivo inteiramente oposto! A lei transformada em instrumento de qualquer tipo de ambição, ao invés de ser usada como freio para reprimi-la! A lei servindo à iniqüidade, em vez de, como deveria ser sua função, puni-la!
 
 Se isto é verdade, trata-se de um caso muito sério, e é meu dever moral chamar a atenção de meus concidadãos para ele. (A Lei – Frédéric Bastiat)
@@ -33,7 +32,5 @@ Como escrevi no artigo para o jornal Gazeta do Povo: O Brasil é a mais cruel e 
 Parece que o povo brasileiro almeja ser um mero escravo do Estado, um servo obediente dos desmandos de poderosos e seus asseclas. Eu, porém, não abandonarei a liberdade, garantida pela Constituição e, acima desta, pela fé em Cristo: “Agora, pois, ó reis, sede prudentes; deixai-vos instruir, juízes da terra. Servi ao Senhor com temor, e alegrai-vos com tremor” (Salmo 2,10-11).”
 
 Um homem que se ajoelha diante das trevas, nunca mais verá a luz do sol. Somos e sempre seremos os senhores do nosso destino e reais autores de nossa história.
-
-https://dunapress.org/luiz-gustavo-dos-santos-chrispino-pix-autorizado/
 
 Clique [AQUI NO LINK](https://www.amazon.com/-/pt/dp/B07S28ND6Z/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=luiz+gustavo+chrispino&qid=1590260721&sr=8-1) e adquira na Amazom.com - em E-book e Impresso

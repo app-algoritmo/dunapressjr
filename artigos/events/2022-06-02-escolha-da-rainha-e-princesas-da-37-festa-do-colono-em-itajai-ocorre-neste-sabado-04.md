@@ -8,7 +8,6 @@ categories:
 - Events
 ---
 
-
 Neste sábado (04), serão escolhidas a Rainha e as Princesas da 37ª Festa Nacional do Colono de Itajaí. O evento ocorrerá no salão do Parque do Agricultor, a partir das 20h. Ao todo, 18 candidatas representam as 18 comunidades rurais de Itajaí no concurso.
 
 Após o desfile das candidatas e escolha da realeza, haverá um baile festivo com a Banda S/A. A entrada no evento é restrita aos familiares das candidatas, líderes rurais e autoridades.
@@ -36,7 +35,6 @@ Maria Luiza Graf Spengler – Salseiros
 Camily Eduarda Ceccon – São Roque
 Júlia da Silva – Volta de Cima
 
-___
 Informações adicionais:
 Secretaria de Agricultura e Expansão Urbana
 (47) 3346-5500 
@@ -52,5 +50,3 @@ Fonte: https://itajai.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

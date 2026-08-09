@@ -8,7 +8,6 @@ categories:
 - Sports
 ---
 
-
 ## A Storm Riders contará com atletas de elite e amadores apaixonados pela modalidade. As largadas serão a partir das 6h do domingo, dia 23, no Parque do Povo, nas distâncias de 40 km e 80 km.
 
 A cidade de São Paulo completa 468 anos no dia 25 de janeiro de 2022. E os adeptos do ciclismo vão poder comemorar esse aniversário de uma forma especial. É que no domingo, dia 23, será realizada a Storm Riders, evento programado para a Marginal Pinheiros, reunindo atletas de elite e amadores apaixonados pela modalidade, nas distâncias de 40 km (2 voltas) e 80 km (4 voltas). As inscrições já estão abertas e podem ser feitas até o dia 18 de janeiro no site [www.stormriders.com.br](https://click.presskit.com.br/url/8449714597/6361388b6fc) por participantes de diversas idades: de 18 a mais de 70 anos.
@@ -38,7 +37,3 @@ Fonte: ***ZDL Sports***
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

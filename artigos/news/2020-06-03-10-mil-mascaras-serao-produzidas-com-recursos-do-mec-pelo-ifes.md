@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Pasta repassou R$ 360 mil ao instituto para ações de enfrentamento do novo coronavírus.
 
 O Instituto Federal do Espírito Santo (Ifes) vai produzir cerca de 10 mil máscaras para doação a unidades de saúde, instituições e projetos comunitários da região. A iniciativa será viabilizada com parte do repasse de R$ 360 mil que o Ministério da Educação (MEC) destinou ao instituto. O investimento faz parte de uma das medidas do ministério para o combate ao novo coronavírus.
@@ -25,8 +24,6 @@ O restante dos recursos investidos pelo MEC no instituto também está sendo uti
 **Investimento –** O Ifes é uma das instituições que recebeu o repasse do MEC para o enfrentamento da pandemia. A determinação foi publicada na edição de 2 de abril do Diário Oficial da União (DOU). O investimento total é de R$ 339,4 milhões, divididos entre universidades e institutos federais.
 
 Fonte: gov.br/mec / Imagem em destaque: Ifes
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

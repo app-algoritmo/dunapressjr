@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 Nova legislação permitirá que startups recebam investimentos de pessoas físicas ou jurídicas, com possível participação no capital social da empresa.
 
 O presidente Jair Bolsonaro sancionou nesta terça-feira (1°) o novo Marco Legal das Startups e do Empreendedorismo Inovador. O texto, elaborado com a participação da Secretaria Especial de Produtividade, Emprego e Competitividade do Ministério da Economia (Sepec/ME), apresenta medidas de estímulo à criação de novas empresas inovadoras e estabelece incentivos aos investimentos por meio do aprimoramento do ambiente de negócios no país. A legislação também facilita a contratação de soluções inovadoras pela administração pública e traz maior segurança jurídica a empreendedores e investidores.
 
 O secretário Especial da Sepec, Carlos Da Costa, destacou a importância dessas medidas para alcançar o objetivo de levar o Brasil a integrar o grupo dos principais ecossistemas de startups no mundo. “A nova Lei cria um ambiente favorável para o surgimento e crescimento de startups. Por meio da melhoria do ambiente de negócios, da simplificação e desburocratização, da redução de custos, do aumento da segurança jurídica e da ampliação dos investimentos nessas empresas, transformaremos o Brasil em um país das startups.”
 
-Para Da Costa, o dia 11 de maio de 2021 foi marcante para todo ambiente de negócio no país, mas, em particular, para as startups brasileiras. “Demos um salto importante para alavancar o ambiente de empreendedorismo inovador no Brasil. As medidas apresentadas são resultado do diálogo com o setor privado, coordenado pelo Ministério da Economia e pelo Ministério da Ciência, Tecnologia e Inovações, dialogando com o Congresso Nacional. Esse diálogo entre setor privado e governo para a construção de políticas públicas e leis é fundamental para alcançar nosso objetivo, que é de levar o Brasil para o top três nos ecossistemas de startups do mundo. E sempre lembrando que é preciso ter liberdade para empreender e crescer. Um país próspero depende disso”, reforçou. 
+Para Da Costa, o dia 11 de maio de 2021 foi marcante para todo ambiente de negócio no país, mas, em particular, para as startups brasileiras. “Demos um salto importante para alavancar o ambiente de empreendedorismo inovador no Brasil. As medidas apresentadas são resultado do diálogo com o setor privado, coordenado pelo Ministério da Economia e pelo Ministério da Ciência, Tecnologia e Inovações, dialogando com o Congresso Nacional. Esse diálogo entre setor privado e governo para a construção de políticas públicas e leis é fundamental para alcançar nosso objetivo, que é de levar o Brasil para o top três nos ecossistemas de startups do mundo. E sempre lembrando que é preciso ter liberdade para empreender e crescer. Um país próspero depende disso”, reforçou.
 
 São consideradas startups as organizações empresariais ou societárias com atuação na inovação aplicada a modelo de negócios ou a produtos e serviços ofertados. Essas empresas devem ter receita bruta anual de até R$ 16 milhões e até dez anos de inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ). Também precisam declarar em seus atos constitutivos que fazem uso do modelo de negócio inovador em sua atividade.
 
@@ -44,8 +43,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

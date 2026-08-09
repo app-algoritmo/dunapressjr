@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Uma das linhas de financiamento é o Crédito Assistido Sebrae, amparado pelo Fundo de Aval para as Micro e Pequenas Empresas.
 
 Quem é empresário sabe da importância da tomada de crédito para garantir o funcionamento da empresa. E para facilitar a liberação de recursos, especialmente nesse momento de pandemia, o governo está facilitando a liberação de recursos para os micro e pequenos empresários.
@@ -20,7 +19,7 @@ Segundo ele, o potencial do Fampe é de garantir cerca de 12 milhões de operaç
 
 Em dois meses, a Caixa já contratou R$ 1,8 bilhão em financiamento realizando cerca de 23 mil operações pelo Crédito Assistido Sebrae. A instituição também disponibilizou empréstimos pelo Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe) e atingiu o limite de R$ 5,9 bilhões.
 
-Linha de crédito especial do Fampe 
+Linha de crédito especial do Fampe
 
 Podem ter acesso microempresas, empresas de pequeno porte e microempreendedores individuais (MEI), dos setores de indústria, comércio e serviços. O crédito especial disponibilizado pelo acordo entre Caixa e Sebrae está disponível para empreendimentos dos setores de indústria, agroindústria, comércio e serviços.
 
@@ -34,4 +33,4 @@ A Caixa informou que deverá lançar em agosto um novo aplicativo voltado para a
 
 Fonte: gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

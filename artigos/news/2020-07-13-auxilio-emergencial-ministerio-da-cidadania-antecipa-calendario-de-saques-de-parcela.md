@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Beneficiados no Lote 3 nascidos em julho, agosto e setembro poderão sacar a partir de segunda (13.07). No dia seguinte, os demais estão autorizados a retirar o benefício em dinheiro.
 
 Ministério da Cidadania antecipou o calendário de saques da primeira parcela do Lote 3 de pagamentos do Auxílio Emergencial. A partir de segunda-feira (13.07), os nascidos em julho, agosto e setembro poderão retirar o benefício. Na terça-feira (14.07), quem faz aniversário em outubro, novembro e dezembro poderá sacar o dinheiro. A portaria com as novas datas foi [publicada no Diário Oficial da União (DOU) desta sexta-feira (10.07)](http://www.in.gov.br/web/dou/-/portaria-n-438-de-9-de-julho-de-2020-266123124).
@@ -37,7 +36,7 @@ Imagem principal: Marcos Côrrea
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

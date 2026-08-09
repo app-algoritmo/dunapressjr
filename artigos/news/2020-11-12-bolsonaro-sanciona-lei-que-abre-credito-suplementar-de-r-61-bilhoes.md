@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Valor não vai comprometer programação orçamentária deste ano.
 
 O presidente Jair Bolsonaro sancionou sem vetos, nessa quarta-feira (11), a [**Lei nº 14.077,**](https://www.in.gov.br/en/web/dou/-/lei-n-14.077-de-11-de-novembro-de-2020-287761984) de 11 de novembro de 2020, de autoria do Congresso Nacional, que abre crédito suplementar de R$ 6,1 bilhões.
@@ -23,5 +22,3 @@ A lei sancionada foi publicada em edição extra do* Diário Oficial da União*.
 Fonte: Agência Brasil – Imagem de destaque: Fabio Rodrigues Pozzebom/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

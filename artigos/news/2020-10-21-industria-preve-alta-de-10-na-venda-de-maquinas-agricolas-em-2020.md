@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O aumento se deve à retomada de investimentos do setor de grãos.
 
 Depois de um período de incertezas pela pandemia, a indústria de máquinas agrícolas do Brasil pode fechar o ano no azul, com alta de 5% a 10% nas vendas ao agricultor, puxada pela necessidade de renovação na frota de tratores e colheitadeiras, e pela retomada de investimentos do setor de grãos. É o que estima o vice-presidente da New Holland Agriculture para a América do Sul, Rafael Miotto, citando que há uma “recuperação consolidada” na venda direta aos agricultores.
@@ -35,5 +34,3 @@ Devido à tecnologia embarcada nas máquinas, a importação pode variar de 15% 
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Paulo Whitaker/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

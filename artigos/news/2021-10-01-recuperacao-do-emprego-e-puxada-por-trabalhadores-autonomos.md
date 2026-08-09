@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Contingente chegou ao recorde de 25,2 milhões de pessoas.
 
 No trimestre móvel encerrado em julho, o número de trabalhadores por conta própria manteve a trajetória de crescimento, iniciada no período encerrado em outubro do ano passado, e atingiu o patamar recorde de 25,2 milhões de pessoas. Na comparação com o trimestre encerrado em abril, o aumento foi de 4,7%, com mais 1,1 milhão de pessoas.
@@ -48,10 +47,6 @@ Segundo Adriana Beringuy, apesar do crescimento da população ocupada, o rendim
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

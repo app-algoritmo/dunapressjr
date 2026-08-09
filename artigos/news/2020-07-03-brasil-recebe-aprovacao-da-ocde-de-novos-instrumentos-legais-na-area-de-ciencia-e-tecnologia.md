@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Das nações que pleiteiam uma vaga na Organização para Cooperação e Desenvolvimento Econômico (OCDE), o Brasil é, atualmente, o país que atende ao maior número de requisitos para a entrada no organismo internacional. Conhecida como o grupo dos países desenvolvidos, a OCDE tem como principal missão incentivar o progresso econômico e o comércio mundial. Atualmente, a instituição conta com 37 países-membros.
 
 E, nesta semana, o Brasil deu mais um passo para ingressar na OCDE. O país teve aprovado mais seis instrumentos legais, todos na área de ciência e tecnologia. Com isso, o país já cumpriu, até o momento, 90 dos 252 instrumentos exigidos para a entrada na instituição, ou seja, 35% do total dos requisitos, de acordo com a Casa Civil.
@@ -59,6 +58,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

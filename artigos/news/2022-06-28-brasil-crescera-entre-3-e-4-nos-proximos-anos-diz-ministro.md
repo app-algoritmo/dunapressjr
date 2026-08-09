@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Guedes anuncia medidas para redução de impostos no setor industrial.
 
 O ministro da Economia, Paulo Guedes, disse hoje (28) que, em meio a um cenário global marcado por desaceleração e recessão, o Brasil vai pelo caminho oposto, com crescimento próximo de 2% em 2022, e de 3% a 4% nos anos seguintes. A afirmação foi feita durante a abertura do Painel Telebrasil Summit 2022, em Brasília.
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

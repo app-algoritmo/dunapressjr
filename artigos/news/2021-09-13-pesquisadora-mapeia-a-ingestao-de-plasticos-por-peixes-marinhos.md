@@ -7,13 +7,12 @@ categories:
 - News
 ---
 
-
 ## Segundo dados do estudo, 55% dos animais estavam contaminados. O trabalho foi publicado na revista internacional, Marine Pollution Bulletin.
 
 Pesquisa realizada pela doutoranda Natália Carla Fernandes de Medeiros Dantas, do Programa de Pós-graduação em Engenharia de Pesca da Universidade Federal do Ceará (UFC), mapeou a ingestão de microplástico por sete espécies diferentes de peixes: sardinha-bandeira, bagre-bandeira, bagre amarelo, bagre cinza, palombeta, roncador e coró branco. Todos são animais marinhos da zona costeira de Fortaleza (CE).
 
 **Quais foram os objetivos da sua pesquisa?**
-O objetivo do trabalho foi identificar, classificar e quantificar o microplástico ingerido e analisar a relação com os hábitos alimentares das espécies de peixes. Testamos duas hipóteses: a quantidade de microplástico ingerido varia em função da espécie e a quantidade de ingestão do microplástico tem associação com o comprimento do indivíduo. 
+O objetivo do trabalho foi identificar, classificar e quantificar o microplástico ingerido e analisar a relação com os hábitos alimentares das espécies de peixes. Testamos duas hipóteses: a quantidade de microplástico ingerido varia em função da espécie e a quantidade de ingestão do microplástico tem associação com o comprimento do indivíduo.
 
 Nela foram observadas altas frequências e quantidades de ingestão de microplástico nas sete espécies estudadas. A quantidade de ingestão e o tipo de microplástico ingerido não depende do hábito alimentar da espécie, nem do comprimento do peixe, ou seja, indivíduos maiores não consomem uma maior quantidade de microplástico. O tipo de microplástico mais ingerido, abundante e frequente, foi filamento de coloração azul, a fibra têxtil sintética poliéster.
 
@@ -29,7 +28,7 @@ A principal conclusão consiste na detecção de que a contaminação por microp
 **De que maneira a sua pesquisa pode ser aplicada?**
 Em programas de educação ambiental, como também auxiliar na elaboração de políticas públicas e gestão ambiental mais eficazes e assertivas. Por exemplo, no Capítulo 1 da minha tese mapeamos todo o lixo que vinha na rede de pesca; a maior parte era composta de copo descartável, provavelmente utilizado por banhistas e usuários das barracas de praia.
 
-Essa informação pode embasar políticas públicas voltadas para a substituição do uso de descartáveis por utensílios reutilizáveis ou biodegradáveis por exemplo, como também programas e campanhas de educação ambiental que busquem sensibilizar e educar os usuários da praia sobre o impacto que o lixo pode ocasionar para a vida marinha, pois uma vez que esse plástico esteja no oceano, ele se degrada e se transforma em microplástico que pode ser ingerido por diversas espécies marinhas. 
+Essa informação pode embasar políticas públicas voltadas para a substituição do uso de descartáveis por utensílios reutilizáveis ou biodegradáveis por exemplo, como também programas e campanhas de educação ambiental que busquem sensibilizar e educar os usuários da praia sobre o impacto que o lixo pode ocasionar para a vida marinha, pois uma vez que esse plástico esteja no oceano, ele se degrada e se transforma em microplástico que pode ser ingerido por diversas espécies marinhas.
 
 **Que benefício seu trabalho traz para a sociedade?**
 Sensibilização que promove a educação ambiental. Conhecimento sobre o impacto que causamos na natureza, na biota marinha. Esclarecimento também, uma vez que não sabemos ainda ao certo como essa contaminação pode retornar para nós mesmos. Como essa contaminação impacta a nossa saúde? Estudos ainda estão sendo realizados.
@@ -52,7 +51,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

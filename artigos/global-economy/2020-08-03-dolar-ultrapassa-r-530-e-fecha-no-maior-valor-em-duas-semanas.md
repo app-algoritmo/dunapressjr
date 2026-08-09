@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Alta da indústria americana e Copom pressionaram cotação.
 
 Num dia de ajustes no mercado internacional e de expectativas em relação a um novo corte da taxa Selic, o dólar voltou a ultrapassar a barreira de R$ 5,30 e fechou no maior nível em duas semanas. O dólar comercial encerrou esta segunda-feira (3) vendido a R$ 5,314, com alta de R$ 0,096 (+1,83%).
@@ -32,4 +31,4 @@ Uma eventual continuidade da queda nos juros derrubaria ainda mais as taxas de r
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

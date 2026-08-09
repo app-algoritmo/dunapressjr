@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Bolsonaro foi ao Congresso para promulgação de PEC.
 
 O presidente Jair Bolsonaro esteve no Congresso Nacional no fim da tarde de desta quinta-feira (14) para participar da sessão de promulgação da emenda à Constituição que prevê a criação de um estado de emergência para ampliar o pagamento de [**benefícios sociais até o fim do ano**](https://agenciabrasil.ebc.com.br/politica/noticia/2022-07/congresso-promulga-pec-que-aumenta-beneficios-sociais-ate-dezembro). Em seu discurso, Bolsonaro disse acreditar na redução da inflação, até mesmo em queda de preços, a partir do próximo ano.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí, por meio da Secretaria de Saúde, vai iniciar a vacinação contra COVID-19 em até 24 horas após a entrega das doses pelo Governo do Estado. O prazo foi definido pela Secretaria de Saúde em reunião nesta tarde com participação do prefeito Volnei Morastoni e é necessário em função da logística de distribuição das vacinas para as unidades básicas de saúde e o Centreventos da cidade. Ao todo, serão 34 locais de imunização.
 
 De acordo com o Governo do Estado, serão enviadas doses da vacina Coronavac, produzidas no Brasil pelo Instituto Butantan em parceria com o laboratório Sinovac. O quantitativo que Itajaí vai receber ainda não foi confirmado pelo Estado. A previsão é que as doses cheguem ao município nesta terça-feira (19).
@@ -35,7 +34,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O número contabiliza os 65,4 milhões de cidadãos considerados elegíveis e os integrantes de suas famílias.
 
 Registros atualizados nesta semana pela Dataprev indicam que aproximadamente 124,2 milhões de pessoas foram diretamente ou indiretamente beneficiadas pelo Auxílio Emergencial do Governo Federal. “Por determinação do presidente Jair Bolsonaro, o governo desenvolveu o maior programa de transferência direta de renda do mundo”, afirmou o ministro da Cidadania, Onyx Lorenzoni. “Ninguém fez tanto em tão pouco tempo”.
@@ -20,7 +19,7 @@ O Auxílio Emergencial foi prorrogado por mais dois meses, em **[decreto assinad
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

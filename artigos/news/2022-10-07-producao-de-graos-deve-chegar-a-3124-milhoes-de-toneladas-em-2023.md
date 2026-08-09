@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Conab prevê crescimento de 2,9% na área destinada a plantio.
 
 A Companhia Nacional de Abastecimento (Conab) já estima uma produção recorde de 312,4 milhões de toneladas, volume que, caso seja confirmado, superaria em 41,5 milhões de toneladas o recorde de 270,9 milhões de toneladas obtido na safra anterior, tendo por base o 1º Levantamento da Safra de Grãos para o período 2022/2023.
@@ -58,8 +57,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

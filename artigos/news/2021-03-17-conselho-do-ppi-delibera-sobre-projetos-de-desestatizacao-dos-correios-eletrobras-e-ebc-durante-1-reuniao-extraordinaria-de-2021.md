@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O encontro contou com as presenças do presidente da República, Jair Bolsonaro, e do ministro da Economia, Paulo Guedes, entre outras autoridades.
 
 Foi realizada, nesta terça-feira (16/3), a 1ª Reunião Extraordinária do Conselho do Programa de Parcerias de Investimentos (CPPI) de 2021, com a presença do presidente da República, Jair Bolsonaro, e do ministro da Economia, Paulo Guedes – que o preside. Na ocasião, foram deliberados pontos dos projetos de capitalização dos Correios, das Centrais Elétricas Brasileiras S.A. (Eletrobras) e da Empresa Brasil de Comunicação (EBC), qualificados no âmbito do Programa de Parcerias de Investimentos (PPI).
@@ -45,8 +44,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

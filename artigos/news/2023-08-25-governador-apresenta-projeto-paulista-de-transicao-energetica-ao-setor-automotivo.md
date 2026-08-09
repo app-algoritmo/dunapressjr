@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## Na abertura da ExpoFenabrave, Tarcísio de Freitas falou sobre suas políticas para pesquisa e desenvolvimento de combustíveis renováveis.
 
 O governador Tarcísio de Freitas reforçou nesta quarta-feira (23) o papel de liderança que São Paulo está desempenhando na vanguarda das novas tecnologias de energia verde e transição energética. Durante a cerimônia de abertura do 31º Congresso & ExpoFenabrave, na capital, ele destacou as pesquisas da gestão estadual com parceiros privados para produção de combustíveis renováveis e disse contar com a adesão da indústria automotiva aos modelos híbridos.
 
 “Está na hora de a gente discutir em que direção nós iremos caminhar. O mundo discute a questão da transição energética e da economia de baixo carbono. Inauguramos na USP o primeiro reformador do mundo para transformar etanol em hidrogênio e abastecer ônibus e carros. Estamos caminhando na direção do biometano, que é outra alternativa para os veículos pesados, temos o etanol e o combustível sustentável de aviação. São Paulo pode e deve ser protagonista neste movimento de transição. A gente vai apostar muito nas novas tecnologias e fomentar, de maneira vigorosa, a questão do hidrogênio, do etanol, do híbrido e do elétrico”, afirmou Tarcísio.
 
-[](https://www.saopaulo.sp.gov.br/wp-content/uploads/2023/08/53137198858_7ab14dac98_o-scaled-e1692819784615.jpg)(Foto: Fernando Nascimento / Governo do Estado de São Paulo)
+(Foto: Fernando Nascimento / Governo do Estado de São Paulo)
 
 A ExpoFenabrave é o maior evento do setor de distribuição de veículos, reunindo mais de 150 marcas da cadeia de fornecimento de produtos e prestação de serviços para concessionárias.
 

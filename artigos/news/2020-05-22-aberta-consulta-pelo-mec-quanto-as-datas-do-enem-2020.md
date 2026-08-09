@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Os estudantes que se inscreverem no Exame Nacional do Ensino Médio (Enem) 2020 vão poder opinar sobre a data de realização da prova. O Ministério da Educação (MEC) fará uma consulta com os inscritos na última semana de junho. O anúncio foi feito pelo ministro da Educação, Abraham Weintraub, nesta terça-feira, 19 de maio, quando mais de 4 milhões de estudantes já fizeram a inscrição.
 
 “O governo do presidente Jair Bolsonaro quer saber a opinião dos brasileiros. Democracia é isso! [...] Nosso posicionamento é saber a opinião dos principais interessados, perguntando diretamente aos estudantes inscritos”, afirmou o ministro.
@@ -21,8 +20,6 @@ Conforme edital, o Enem impresso tem as datas de realização marcadas para os d
 Tanto na versão impressa quanto na digital, os participantes farão provas de linguagens, códigos e suas tecnologias; ciências humanas e suas tecnologias; ciências da natureza e suas tecnologias; e matemática e suas tecnologias, com 45 questões de múltipla escolha em cada área de conhecimento. A redação será manuscrita, em papel, nas duas modalidades.
 
 Fonte: portal.mec.gov.br / Imagem em destaque: MEC
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

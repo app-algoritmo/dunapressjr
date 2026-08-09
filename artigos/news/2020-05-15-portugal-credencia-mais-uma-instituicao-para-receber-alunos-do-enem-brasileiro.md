@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O país europeu credenciou mais uma instituição de ensino em seu território, para receber alunos provenientes e com notas suficientes da prova do Enem no Brasil.
 
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) selou um acordo com o Instituto Português de Administração de Marketing (IPAM), da cidade do Porto, em Portugal, o qual oferta cursos na área de marketing e gestão e formou mais de nove mil alunos em 34 anos, nas modalidades de licenciatura, pós-graduação e mestrado. O IPAM passará a aceitar as notas do Exame Nacional do Ensino Médio (Enem) para ingresso em cursos de educação superior.
@@ -17,8 +16,6 @@ Ao celebrar o acordo, a instituição portuguesa passa a ter, junto ao Inep, ace
 As notas do Enem no Brasil já são aceitas agora em pelo menos 50 (cinquenta) instituições de ensino superior de Portugal.
 
 Fonte: Portal MEC / Imagem em destaque: Divulgação/Universidade de Coimbra
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Assine o Press clicando no banner acima e contribua para o intercâmbio Brasil-Noruega, bem como notícias de fontes primárias e confiáveis, como também artigos científicos de todas as áreas. Muito conhecimento para sua VIDA!***
 

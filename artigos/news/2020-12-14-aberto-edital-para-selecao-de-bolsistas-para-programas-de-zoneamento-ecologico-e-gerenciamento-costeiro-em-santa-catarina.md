@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Secretaria Executiva do Meio Ambiente (Sema) abriu o edital para a seleção de bolsistas de pesquisa, desenvolvimento e inovação para atuação nos programas Zoneamento Econômico Ecológico (ZEE) e Gerenciamento Costeiro (Gerco). A chamada pública, lançada pela Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina (Fapesc), tem até 11 de janeiro de 2021 para a submissão das candidaturas.
 
 Serão 21 bolsistas atuando junto à equipe da Sema, tendo como principal atribuição o apoio técnico e operacional à implementação dos programas de planejamento e gestão territorial e ambiental.
@@ -37,7 +36,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

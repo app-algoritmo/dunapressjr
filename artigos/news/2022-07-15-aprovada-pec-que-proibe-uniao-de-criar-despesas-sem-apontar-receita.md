@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Texto aguarda agora a promulgação.
 
 A Câmara dos Deputados aprovou a Proposta de Emenda à Constituição (PEC) 122/2015 que proíbe o aumento de despesas sem a previsão de receitas. O texto foi aprovado após acordo entre lideranças partidárias que permitiu a votação da proposta em dois turnos, sem a necessidade de interstício.
@@ -50,8 +49,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

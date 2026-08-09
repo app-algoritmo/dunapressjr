@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Tema foi debatido nesta quarta-feira durante a 2ª Reunião do Conselho Nacional da Amazônia Legal.
 
 A ministra Tereza Cristina (Agricultura, Pecuária e Abastecimento) participou nesta quarta-feira (15) da 2ª Reunião do Conselho Nacional da Amazônia Legal.  Após a reunião, foi anunciado que o governo irá iniciar a regularização fundiária de propriedades com até quatro módulos fiscais na Amazônia, que pode ser feita por sensoriamento remoto. Segundo a ministra, ainda está sendo avaliado por quais estados a iniciativa irá começar a ser realizada.
@@ -28,7 +27,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

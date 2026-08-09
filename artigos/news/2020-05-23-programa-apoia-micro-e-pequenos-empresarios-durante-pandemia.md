@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Lei sancionada pelo presidente Bolsonaro prevê recursos para financiamentos de pequenos negócios.
 
 Um apoio às micro e pequenas empresas durante pandemia do coronavírus. Sancionada essa semana pelo presidente da República, Jair Bolsonaro, [Lei nº 13.999/2020](http://www.in.gov.br/web/dou/-/lei-n-13.999-de-18-de-maio-de-2020-257394467?inheritRedirect=true&redirect=%2Fweb%2Fguest%2Fsearch%3FqSearch%3DLei%2520n%25C2%25BA%252013.999%252F2020) que institui o Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe). A previsão é que sejam destinados R$ 15,9 bilhões de crédito.
@@ -41,5 +40,3 @@ Fone: gov.br – Imagem de destaque: EBC
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.
 
 Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

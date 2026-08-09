@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Pesquisa foi apresentada em abertura de encontro nacional do setor.
 
 Em fase de recuperação da atividade após a fase mais aguda da pandemia de covid-19, a indústria espera faturar mais em 2021. O resultado consta de pesquisa da Confederação Nacional da Indústria (CNI), apresentada nesta terça-feira (17) na abertura do Encontro Nacional da Indústria, que está sendo realizado de forma virtual neste ano.
@@ -33,5 +32,3 @@ Na cerimônia de abertura do Encontro Nacional da Indústria, o presidente da CN
 Fonte: Agência Brasil – Imagem de destaque: CNI/José Paulo Lacerda/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

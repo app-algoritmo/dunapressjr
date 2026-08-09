@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Número de investidores ativos passa de 2 milhões.
 
 As vendas de títulos do Tesouro Direto superaram os resgates em R$ 1,4 bilhão em agosto deste ano. Segundo dados divulgados nesta terça-feira (27) pelo Tesouro Nacional, as vendas do programa atingiram R$ 3,835 bilhões no mês passado. Já os resgates totalizaram R$ 2,434 bilhões, sendo R$ 2,245 bilhões relativos a recompras de títulos públicos e R$ 189,1 milhões, a vencimentos, quando o prazo do título acaba e o governo precisa reembolsar o investidor com juros.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

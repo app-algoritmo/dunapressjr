@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Bolsa teve leve queda com indecisão sobre comando da Petrobras.
 
 A entrada de fluxos externos atraídos por juros altos e pela valorização das *commodities *fez o dólar cair pela terceira vez seguida e fechar no menor nível em mais de dois anos. A bolsa de valores teve um dia mais tenso, com a indecisão sobre o comando da Petrobras, e teve leve queda.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

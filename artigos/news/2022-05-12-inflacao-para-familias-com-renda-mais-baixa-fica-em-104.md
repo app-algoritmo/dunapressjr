@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### No acumulado de 12 meses, índice chega a 12,47%.
 
 O Índice Nacional de Preços ao Consumidor (INPC), que mede a inflação para famílias com renda até cinco salários mínimos, registrou taxa de 1,04% em abril deste ano, a maior variação para um mês de abril desde 2003 (1,38%). Em março deste ano, a taxa havia ficado em 1,71%.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

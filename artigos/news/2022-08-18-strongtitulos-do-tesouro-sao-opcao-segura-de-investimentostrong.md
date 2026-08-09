@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Para investidores individuais, Tesouro Direto é forma fácil e rápida de aquisição de títulos públicos.
 
 Garantidos integralmente pelo Tesouro Nacional, os investimentos em títulos do Tesouro Direto são considerados os de menor risco do mercado. Para investidores individuais, é uma maneira fácil, transparente, segura e rápida de aquisição de títulos públicos. O programa Tesouro Direto foi lançado em 2002 pelo Tesouro Nacional e desenvolvido em parceria com a B3 para venda de títulos federais a pessoas físicas, de forma 100% *on-line*. Com o objetivo de democratizar o acesso, são permitidas aplicações a partir de aproximadamente R$ 30. A educação financeira também é um dos focos da iniciativa.
@@ -22,8 +21,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

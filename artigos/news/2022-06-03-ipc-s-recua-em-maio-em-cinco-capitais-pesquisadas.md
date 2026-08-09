@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Queda mais intensa ocorreu em Brasília.
 
 O Índice de Preços ao Consumidor Semanal (IPC-S) recuou em cinco das sete capitais pesquisadas pela Fundação Getulio Vargas (FGV), de abril para maio deste ano. A queda mais intensa foi observada em Brasília, que passou de uma inflação de 1,69% em abril para uma deflação (queda de preços) de 0,14% em maio.
@@ -20,8 +19,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

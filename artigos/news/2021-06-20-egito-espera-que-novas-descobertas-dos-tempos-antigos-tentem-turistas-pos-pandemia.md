@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Funcionários olhando para a história antiga do Egito, especialmente descobertas recentes, para reviver uma indústria que havia sido devastada antes mesmo do coronavírus.
 
 Trabalhadores escavam e transportam carrinhos de mão carregados de areia para abrir um novo poço em um sítio arqueológico movimentado fora do Cairo, enquanto um punhado de arqueólogos egípcios supervisionam em cadeiras de jardim. A escavação fica ao pé da Pirâmide Escalonada de Djoser, sem dúvida a pirâmide mais antiga do mundo, e é uma das muitas escavações recentes que estão rendendo tesouros de artefatos antigos do maior sítio arqueológico do país.
@@ -69,7 +68,3 @@ Fonte: timesofisrael.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

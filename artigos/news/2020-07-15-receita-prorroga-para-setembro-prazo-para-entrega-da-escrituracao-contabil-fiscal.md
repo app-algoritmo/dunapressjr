@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Prazo terminaria no último dia útil deste mês.
 
 A Receita Federal informa a prorrogação do prazo para entrega da Escrituração Contábil Fiscal (ECF), referente ao exercício de 2020, para o último dia útil do mês de setembro deste ano. A medida está prevista na [Instrução Normativa RFB nº 1.965](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=111014), de 13 de julho de 2020, publicada no Diário Oficial da União de hoje (15/7).
@@ -19,4 +18,4 @@ Portanto, diante da situação de excepcionalidade que ora se configura, e consi
 
 Fonte: Receita Federal – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

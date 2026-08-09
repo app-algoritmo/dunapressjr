@@ -7,7 +7,6 @@ categories:
 - Magazine
 ---
 
-
 O Instituto de Saúde Pública confirmou hoje que mais 23 pessoas testaram positivo para coronavírus. Todos os casos ainda podem estar relacionados a surtos no exterior, um dos quais associado ao Irã, um associado a Hong Kong e o restante associado ao surto no norte da Itália. Não há novos casos associados ao surto no Hospital Universitário de Ullevål.
 
 ## Video
@@ -16,7 +15,7 @@ O Instituto de Saúde Pública confirmou hoje que mais 23 pessoas testaram posit
 
 - Vemos que na Noruega temos testes mais positivos do que outros países dos países nórdicos. "Acreditamos que isso reflete que agora nós, na Noruega, estamos testando muitos casos  e que muitos deles chegaram do norte da Itália durante as férias de inverno na Noruega", diz Line Vold, diretor do departamento.
 
-[](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)Jhons-Hopkins-Map-Norway-04.3.20
+Jhons-Hopkins-Map-Norway-04.3.20
 
 ## Assessoria e Informação
 

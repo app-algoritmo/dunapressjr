@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Trata-se da maior alta desde 2016.
 
-A inflação registrou alta de 4,52% em 2020. Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), é a maior desde 2016, quando ficou em 6,29%. O percentual reflete o Índice Nacional de Preços ao Consumidor Amplo (IPCA), anunciado hoje (12) pelo IBGE, no Rio de Janeiro. 
+A inflação registrou alta de 4,52% em 2020. Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), é a maior desde 2016, quando ficou em 6,29%. O percentual reflete o Índice Nacional de Preços ao Consumidor Amplo (IPCA), anunciado hoje (12) pelo IBGE, no Rio de Janeiro.
 
 Em dezembro, o indicador - divulgado junto com o acumulado do ano - acelerou para 1,35%, que é a variação mais intensa desde fevereiro de 2003, quando tinha sido de 1,57%. É também a maior variação para um mês de dezembro desde 2002 (2,10%).
 
@@ -22,7 +21,7 @@ Um dos maiores impactos para os consumidores em 2020 foi a elevação de 14,09% 
 
 O resultado do ano mostrou ainda que os preços do óleo de soja com 103,79% e do arroz com 76,01% dispararam no acumulado de 2020, mas outros itens importantes na cesta das famílias também subiram expressivamente, entre eles, o leite longa vida (26,93%), frutas (25,40%), carnes (17,97%),  batata-inglesa (67,27%) e tomate (52,76%).
 
-A habitação, com 5,25%, também contribuiu para o comportamento da inflação, influenciada pelo aumento da energia elétrica (9,14%). O efeito do dólar sobre os preços dos eletrodomésticos, equipamentos e artigos de TV, som e informática provocou impacto nos artigos de residência, que também pesaram mais. 
+A habitação, com 5,25%, também contribuiu para o comportamento da inflação, influenciada pelo aumento da energia elétrica (9,14%). O efeito do dólar sobre os preços dos eletrodomésticos, equipamentos e artigos de TV, som e informática provocou impacto nos artigos de residência, que também pesaram mais.
 
 De acordo com o IBGE, em conjunto, alimentação e bebidas, habitação e artigos de residência responderam por quase 84% da inflação de 2020.
 
@@ -32,7 +31,7 @@ Segundo maior peso na composição do indicador, os transportes encerraram 2020 
 
 O vestuário foi o único grupo a apresentar variação negativa (-1,13%) explicada pelo isolamento social. “As pessoas ficaram mais em casa, o que pode ter diminuído a demanda por roupas. Tivemos quedas em roupas femininas (-4,09%) e masculinas (-0,25%) e infantis (-0,13%), calçados e acessórios (-2,14%). A única exceção foram joias e bijuterias (15,48%), por causa da alta do ouro”, revelou.
 
-A inflação de 2020 mostrou também que a alta dos preços foi generalizada em todas as 16 localidades pesquisadas pelo IBGE. A maior variação do ano foi em Campo Grande (6,85%), por conta das carnes e da gasolina. 
+A inflação de 2020 mostrou também que a alta dos preços foi generalizada em todas as 16 localidades pesquisadas pelo IBGE. A maior variação do ano foi em Campo Grande (6,85%), por conta das carnes e da gasolina.
 
 Na sequência, tem-se Rio Branco (6,12%), Fortaleza (5,74%), São Luís (5,71%), Recife (5,66%), Vitória (5,15%), Belo Horizonte (4,99%) e Belém (4,63%). Todas essas localidades ficaram acima da média nacional (4,52%).
 
@@ -50,7 +49,7 @@ Ainda em dezembro outro grupo em destaque foi o de transportes com variação de
 
 ## Capitais
 
-A cidade de São Luís registrou a maior inflação de dezembro entre os locais pesquisados (2,18%). O percentual foi influenciado pela alta de 11,30% no preço das carnes. 
+A cidade de São Luís registrou a maior inflação de dezembro entre os locais pesquisados (2,18%). O percentual foi influenciado pela alta de 11,30% no preço das carnes.
 
 Na outra ponta, Aracaju foi o que anotou o menor resultado (0,91%). Lá a queda nas mensalidades dos cursos regulares (-0,78%) e nos preços de alguns produtos alimentícios, como o queijo (-6,33%) e o tomate (-6,04%), contribuiu para o indicador.
 
@@ -68,8 +67,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

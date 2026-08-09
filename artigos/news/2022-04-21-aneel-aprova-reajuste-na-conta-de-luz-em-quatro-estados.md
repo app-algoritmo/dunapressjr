@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Rio Grande do Norte, Sergipe, Bahia e Ceará terão novos valores.
 
 A Agência Nacional de Energia Elétrica (Aneel) aprovou nesta terça-feira (19) reajustes tarifários na conta de energia elétrica de distribuidoras que atendem consumidores em quatro estados: Ceará, Bahia, Sergipe e Rio Grande do Norte.
@@ -24,14 +23,10 @@ Apesar do reajuste, a combinação com o término da cobrança bandeira escassez
 
 O estado de Sergipe também terá reajuste na conta de luz. A Aneel autorizou a Energisa Sergipe – Distribuidora de Energia S.A (ESE) a aplicar aumento de 16,46% na tarifa para o consumidor residencial, a partir do próximo dia 22. A empresa atende cerca de 825 mil unidades consumidoras no estado.
 
-De acordo com a agência reguladora, da mesma forma, por causa do fim da cobrança da bandeira tarifária de escassez hídrica, o reajuste na conta será atenuado, com impacto tarifário para o consumidor B1 residencial convencional de -6,15%.  
+De acordo com a agência reguladora, da mesma forma, por causa do fim da cobrança da bandeira tarifária de escassez hídrica, o reajuste na conta será atenuado, com impacto tarifário para o consumidor B1 residencial convencional de -6,15%.
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Presidente do BNDES, Gustavo Montezano, e ministro da Infraestrutura, Tarcísio de Gomes Freitas, debateram a estruturação de projetos para desestatização em transportes.
 
 Durante uma live no canal do Banco Nacional de Desenvolvimento Econômico e Social (BNDES) no Youtube, o presidente do órgão, Gustavo Montezano, e o ministro da Infraestrutura (MInfra), Tarcísio Gomes de Freitas, falaram sobre a parceria entre BNDES e MInfra na estruturação de projetos para desestatização em transportes.
@@ -16,7 +15,7 @@ O foco do governo está voltado para ações de combate à pandemia do novo coro
 
 De acordo com o diretor do BNDES, Fábio Abrahão, atrair investidores que não operam no Brasil e ter diversidade de participantes é uma meta: “Isso fortalece a relação com o consumidor final, seja ele pessoa física ou a empresa que utiliza os portos e as rodovias. Um mercado saudável é um mercado com diversidade”.
 
-Atualmente, o BNDES possui uma carteira de aproximadamente R$ 190 bilhões de investimentos em estruturação de projetos, com participação relevante de ações em parceria com o Ministério.  
+Atualmente, o BNDES possui uma carteira de aproximadamente R$ 190 bilhões de investimentos em estruturação de projetos, com participação relevante de ações em parceria com o Ministério.
 
 O exemplo mais recente nesse sentido foi a assinatura de contrato para realizar estudos técnicos de estruturação de concessões para mais de sete mil quiômetros de rodovias em 13 estados brasileiros, assinado entre o Banco e o MInfra, no último dia 19.
 
@@ -35,5 +34,3 @@ Fonte: Com informações do BNDES – Imagem de destaque: PPI
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

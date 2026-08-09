@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Buscando melhores condições, oportunidades e liberdade para viver, o venezuelano Jonathan Perez escolheu o Brasil para recomeçar. Depois de perder o emprego e ver o país de origem entrar em estado de miséria, Jonathan foi atrás de uma vida digna para ele, a esposa e os quatro filhos. Após passar algum tempo nos abrigos instalados pelo Governo Brasileiro em Boa Vista (RR), em 2020 ele recebeu uma vaga de emprego em Curitiba (PR) por meio da Operação Acolhida do Governo Federal.
 
 “É lamentável a situação da Venezuela. Aqui no Brasil, me sinto acolhido e estou agradecido por essa receptividade. Todos os que chegam aqui têm a vontade de conseguir uma oportunidade e consegui, por isso estou contente, principalmente porque poderei estar em um lugar livre com a minha família, onde podemos expressar o que sentimos, comer o que queremos”, conta Jonathan emocionado no voo rumo a Curitiba. “Na Venezuela, não se pode comer, não se pode fazer duas refeições ao dia. Temos medo de andar na rua ou falar qualquer coisa. Aqui posso trabalhar e oferecer uma vida digna à minha família”, completou.
@@ -38,7 +37,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

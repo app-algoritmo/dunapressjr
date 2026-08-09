@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Regra até então vigente, que previa reajustes de até cinco vezes o IPCA, foi alterada.
 
 Em 24 de junho último, foi editada a Medida Provisória nº 1.127, que limita o reajuste das taxas de foro e de ocupação dos terrenos da União a 10,06% (correspondente à inflação de 2021), no exercício de 2022. A partir de 2023, o lançamento dos débitos observará o percentual máximo de atualização correspondente a duas vezes a variação acumulada do Índice Nacional de Preços ao Consumidor Amplo (IPCA) do exercício anterior ou os 10,06% – o que for menor.
@@ -26,8 +25,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

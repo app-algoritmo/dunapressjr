@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ### Expectativa é que a taxa suba de 13,25% para 13,75% ao ano.
 
 Em meio aos impactos de uma possível recessão nos Estados Unidos e da evolução da inflação após a queda dos preços da gasolina no Brasil, o Comitê de Política Monetária (Copom), do Banco Central (BC), iniciou nesta terça-feira (2), em Brasília, a quinta reunião do ano para definir a taxa básica de juros, a Selic. Nesta quarta-feira (3), ao fim do dia, o Copom anunciará a decisão.
 
 Segundo a edição mais recente do boletim Focus, pesquisa semanal com analistas de mercado,[** a Selic deverá passar de 13,25% para 13,75% ao ano**](http://agenciabrasil.ebc.com.br/economia/noticia/2022-08/mercado-financeiro-reduz-projecao-da-inflacao-de-730-para-715), com alta de 0,5 ponto percentual. Os analistas de mercado esperam que a taxa permaneça nesse nível até o fim do ano.
 
-Na ata da última reunião, os membros do Copom indicaram que pretendiam aumentar mais uma vez a taxa Selic em 0,5 ou 0,25 ponto percentual, mas deixaram aberta a possibilidade de promover novas altas caso a inflação persista. 
+Na ata da última reunião, os membros do Copom indicaram que pretendiam aumentar mais uma vez a taxa Selic em 0,5 ou 0,25 ponto percentual, mas deixaram aberta a possibilidade de promover novas altas caso a inflação persista.
 
 Até maio, os comunicados do BC indicavam que a autoridade monetária pretendia encerrar o ciclo de elevações em junho. No entanto, as altas além do previsto promovidas pelo Federal Reserve (Fed, Banco Central dos Estados Unidos) e do Banco Central Europeu adicionaram pressão sobre os juros brasileiros.
 
@@ -32,11 +31,11 @@ Em julho de 2019, a Selic voltou a ser reduzida até chegar ao menor nível da h
 
 ### Taxa Selic
 
-A taxa básica de juros é usada nas negociações de títulos públicos emitidos pelo Tesouro Nacional no Sistema Especial de Liquidação e Custódia (Selic) e serve de referência para as demais taxas da economia. Ela é o principal instrumento do Banco Central para manter a inflação sob controle. 
+A taxa básica de juros é usada nas negociações de títulos públicos emitidos pelo Tesouro Nacional no Sistema Especial de Liquidação e Custódia (Selic) e serve de referência para as demais taxas da economia. Ela é o principal instrumento do Banco Central para manter a inflação sob controle.
 
 O BC atua diariamente por meio de operações de mercado aberto – comprando e vendendo títulos públicos federais – para manter a taxa de juros próxima ao valor definido na reunião.
 
-Quando o Copom eleva a taxa básica de juros, ele pretende conter a demanda aquecida, causando reflexos nos preços porque os juros mais altos encarecem o crédito e estimulam a poupança. Desse modo, taxas mais altas seguram a atividade econômica. 
+Quando o Copom eleva a taxa básica de juros, ele pretende conter a demanda aquecida, causando reflexos nos preços porque os juros mais altos encarecem o crédito e estimulam a poupança. Desse modo, taxas mais altas seguram a atividade econômica.
 
 Ao reduzir a Selic, a tendência é de que o crédito fique mais barato, com incentivo à produção e ao consumo, reduzindo o controle da inflação e estimulando a atividade econômica.
 
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

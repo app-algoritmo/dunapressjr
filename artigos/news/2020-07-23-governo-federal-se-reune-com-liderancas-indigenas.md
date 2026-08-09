@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A primeira de uma rodada de seis reuniões virtuais entre o Governo Federal e as principais lideranças indígenas brasileiras foi realizada nesta quarta-feira (22). O objetivo é discutir as medidas adotadas para contenção da disseminação do novo coronavírus (Covid-19) nas comunidades indígenas.
 
 O espaço de diálogo direto com os gestores públicos será oportunidade para que os indígenas exponham as demandas de seus povos e debatam as ações já em curso para aprimorá-las. A proposta é que as reuniões tenham caráter analítico e propositivo, com participação ativa das lideranças indígenas. Elas terão duração de até 3 horas e 30 minutos.
@@ -64,6 +63,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

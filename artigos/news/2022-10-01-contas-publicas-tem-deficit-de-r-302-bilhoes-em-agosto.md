@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Dívida bruta atinge 77,5% do PIB, diz Banco Central.
 
 As contas públicas fecharam o mês de agosto com saldo negativo, resultado, principalmente, do aumento das despesas com pagamentos de precatórios pelo Tesouro Nacional. O setor público consolidado, formado por União, estados, municípios e empresas estatais, registrou déficit primário de R$ 30,279 bilhões no mês passado, ante superávit primário de R$ 16,729 bilhões em agosto de 2021.
@@ -60,8 +59,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

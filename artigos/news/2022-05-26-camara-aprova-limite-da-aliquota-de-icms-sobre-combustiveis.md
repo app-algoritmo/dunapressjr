@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Projeto também limita alíquota para eletricidade e telecomunicações.
 
 A Câmara dos Deputados aprovou, na noite de ontem (25), o projeto que limita a aplicação de alíquota do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) sobre bens e serviços relacionados a combustíveis, gás natural, energia elétrica, comunicações e transporte coletivo.
@@ -58,8 +57,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## "Nós diagnosticamos parkinsonismo, atendendo aos critérios da Escala de Avaliação da Doença de Parkinson Unificada da Sociedade de Distúrbios do Movimento para o diagnóstico de provável doença de Parkinson", explicaram os pesquisadores.
 
 Pesquisadores israelenses notaram uma possível conexão entre uma nova infecção por coronavírus e o início precoce da doença de Parkinson , com base nos dados de um judeu Ashkenazi que foi hospitalizado no Hospital Universitário Samson Assuta Ashdod em Ashdod.
@@ -42,7 +41,7 @@ Por causa da piora do tremor em suas extremidades direitas, em uma consulta de a
 
 "No entanto, o curto intervalo de tempo entre a infecção aguda e os sintomas parkinsonianos torna essa hipótese improvável", disseram os pesquisadores, observando que a infecção viral não causou especificamente o mal de Parkinson no paciente, mas que a forma como ele interagia com o corpo poderia ter causou os primeiros sintomas do Parkinson."Outros pesquisadores propuseram a chamada hipótese de acerto múltiplo, pela qual a combinação de estresse tóxico e uma inibição das respostas neuroprotetoras pode levar à morte neuronal", acrescentaram.
 
-Considerando que a doença de Parkinson é normalmente iniciada pela perda do olfato - como foi relatado em pacientes com COVID-19 - "a ativação imune no sistema olfatório pode eventualmente levar ao dobramento incorreto da α-sinucleína e ao desenvolvimento da doença de Parkinson", que é "apoiado por estudos post-mortem, mostrando níveis aumentados de TNF. ""Além disso, os pacientes com doença de Parkinson tiveram uma elevada resposta de anticorpos no LCR aos coronavírus sazonais, em comparação com controles saudáveis ​​de mesma idade", acrescentaram, explicando que "em judeus Ashkenazi com doença de Parkinson, cerca de um terço são portadores de um GBA ou uma mutação LRRK2. 
+Considerando que a doença de Parkinson é normalmente iniciada pela perda do olfato - como foi relatado em pacientes com COVID-19 - "a ativação imune no sistema olfatório pode eventualmente levar ao dobramento incorreto da α-sinucleína e ao desenvolvimento da doença de Parkinson", que é "apoiado por estudos post-mortem, mostrando níveis aumentados de TNF. ""Além disso, os pacientes com doença de Parkinson tiveram uma elevada resposta de anticorpos no LCR aos coronavírus sazonais, em comparação com controles saudáveis ​​de mesma idade", acrescentaram, explicando que "em judeus Ashkenazi com doença de Parkinson, cerca de um terço são portadores de um GBA ou uma mutação LRRK2.
 
 “Não podemos excluir uma interação entre outras mutações menos frequentes e SARS-CoV-2. A associação temporal entre o episódio de infecção por SARS-CoV-2 e sintomas parkinsonianos, que apareceu durante a infecção aguda, é intrigante. No Departamento de Neurologia, o paciente teve teste negativo para SARS-CoV-2 em RT-PCR em tempo real em duas ocasiões ", concluíram os pesquisadores. "No entanto, ele foi considerado positivo para anticorpos anti-SARS-CoV-2 IgG no soro, mas negativo para esses anticorpos no LCR.
 
@@ -59,7 +58,3 @@ Fonte: https://www.jpost.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Entre os principais assuntos, estava a retomada do setor na capital do Rio de Janeiro.
 
 O ministro do Turismo, Marcelo Álvaro Antônio, se reuniu nesta quarta-feira (22.07), através de live, com empresários do setor turístico do Rio de Janeiro (RJ). Na pauta, estavam a retomada do setor na capital fluminense, a conclusão da nova sede do Museu da Imagem e do Som e o debate sobre os resorts integrados. Desde o início da pandemia, a Pasta tem se reunido constantemente com os diversos segmentos do trade para sinalizar as ações desenvolvidas no setor.
@@ -22,7 +21,7 @@ Imagem: Roberto Castro/MTur
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

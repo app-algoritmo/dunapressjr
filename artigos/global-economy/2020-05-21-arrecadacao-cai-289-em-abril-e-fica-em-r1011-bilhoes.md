@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Valor é o menor resultado para o mês desde 2006.
 
 Em meio à pandemia da covid-19, a arrecadação das receitas federais no Brasil registrou queda de 28,95% em abril, totalizando R$ 101,154 bilhões. A comparação é com o mesmo mês de 2019, descontada a inflação. Esse foi o menor valor para o mês desde 2006, quando a arrecadação totalizou R$ 94,505 bilhões. As informações foram divulgadas hoje (21) pela Receita Federal.
@@ -33,5 +32,3 @@ A Receita Federal estimava arrecadação de receitas administradas no total de R
 Fone: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

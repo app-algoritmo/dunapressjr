@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Dados analisados pela Secretaria de Política Econômica reforçam expectativa de recuperação significativa do PIB no primeiro trimestre deste ano.
 
 O primeiro trimestre de 2021 registrou a continuidade do processo de retomada do nível de atividade econômica e recuperação do Produto Interno Bruto (PIB), segundo a análise “[Conjuntura Macroeconômica e Arrecadação Bruta de Tributos Federais](https://www.gov.br/economia/pt-br/centrais-de-conteudo/apresentacoes/2021/abril/spe_apres_arrecad_abril_2021.pdf)”, divulgada pela Secretaria de Política Econômica (SPE) do Ministério da Economia nesta terça-feira (20/4), em coletiva virtual.
@@ -32,5 +31,3 @@ A arrecadação total em março foi muito acima do esperado pelo mercado. As mar
 Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

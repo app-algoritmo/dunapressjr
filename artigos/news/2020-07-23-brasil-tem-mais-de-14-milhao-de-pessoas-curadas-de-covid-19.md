@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Brasil registrou 1.465.970 pessoas recuperadas de Covid-19, nessa terça-feira (21). O número de pessoas curadas é superior à quantidade de casos ativos (612.197), que são pacientes que estão em acompanhamento médico. O registro de pessoas curadas já representa mais da metade do total de casos acumulados (67,9%). Os dados foram divulgados pelo Ministério da Saúde. 
 
 O Ministério da Saúde vem repassado verbas extras e fortalecendo a rede de atendimento do Sistema Único de Saúde (SUS), com envio de recursos humanos (médicos e profissionais de saúde), insumos, medicamentos, ventiladores pulmonares, testes de diagnóstico, habilitações de leitos de UTI para casos graves e gravíssimos e Equipamentos de Proteção Individual (EPIs) para os profissionais de saúde.
@@ -24,6 +23,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

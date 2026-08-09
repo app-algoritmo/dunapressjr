@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Medida está no Diário Oficial da União de hoje.
 
 O presidente Jair Bolsonaro sancionou nessa terça-feira (28) lei que modifica a tributação sobre a proteção cambial, feita por bancos e corretoras com investimentos no exterior. A [**Lei nº 14.031**](http://www.in.gov.br/en/web/dou/-/lei-n-14.031-de-28-de-julho-de-2020-269159630) foi publicada na edição de hoje (29) do *Diário Oficial da União*.
@@ -34,4 +33,4 @@ A medida provisória também tinha regra estabelecendo proteção legal à diret
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

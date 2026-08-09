@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Continuam até 30 de novembro as Campanhas Nacionais de Vacinação contra a Poliomielite e Multivacinação. A Secretaria de Saúde de Itajaí reforça o pedido aos pais e responsáveis para que levem as crianças e adolescentes para atualização da caderneta de vacinas. Todas as unidades estão abertas para vacinação das 8h às 17h.
 
 O objetivo da campanha de multivacinaçãoé diminuir a incidência, eliminar ou erradicar doenças imunopreveníveis, como BCG, Hepatite B, poliomielite, tétano, coqueluche, meningite, entre outras. Crianças e adolescentes de até 15 anos devem ir até a unidade para verificar se as vacinas estão em dia.
@@ -34,5 +33,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

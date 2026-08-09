@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Superávit de US$ 2,32 bi foi o maior da série histórica do BC.
 
 As contas externas registraram saldo positivo pelo sexto mês seguido em setembro, de US$ 2,320 bilhões, informou hoje (23) o Banco Central (BC). Foi o primeiro resultado positivo para setembro desde de 2007 (US$ 482 milhões) e o maior para o mês na série histórica iniciada em 1995.
@@ -59,5 +58,3 @@ De janeiro a setembro, houve saídas líquidas de US$ 27,074 bilhões nesses tip
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

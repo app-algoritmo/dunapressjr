@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É a primeira vez que o MEC disponibiliza a lista para consulta na página do Sisu, dando maior transparência ao processo.
 
 O resultado da lista de espera do Sistema de Seleção Unificada (Sisu) para o processo seletivo do 2º semestre de 2020 foi divulgado nesta sexta-feira (24), e [pode ser consultado na página do Sisu](https://sisu.mec.gov.br/#/selecionados-lista-espera). Desde hoje, os candidatos que manifestaram interesse em participar da lista de espera do Sisu começaram a ser convocados pelas instituições de ensino superior para efetuar a matrícula ou registro acadêmico.
@@ -27,7 +26,7 @@ Fonte: gov.br / Imagem em destaque: agazeta
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

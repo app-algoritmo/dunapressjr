@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medida implementada pela Capes vai auxiliar pesquisadores que foram prejudicados com as restrições do isolamento social.
 
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) implementou, no início do mês de maio, uma medida que garante aos bolsistas de mestrado e de doutorado prorrogarem o benefício por até três meses. Até agora, 12 mil pesquisadores do País foram beneficiados. A medida visa diminuir o impacto causado pela pandemia do novo coronavírus na pós-graduação brasileira. A implementação não terá impacto no resultado da avaliação.
@@ -27,8 +26,6 @@ Para auxiliar os pesquisadores no combate ao vírus, a Capes lançou também o P
 Clique [aqui](https://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias) para saber mais sobre o programa
 
 Fonte: portal.mec.gov.br / Imagem em destaque: Robson Moura/TV Brasil
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

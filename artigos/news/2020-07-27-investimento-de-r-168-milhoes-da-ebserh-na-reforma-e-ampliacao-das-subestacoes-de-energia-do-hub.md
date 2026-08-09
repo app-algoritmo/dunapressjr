@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Capacidade energética do hospital foi dobrada, o que representa o funcionamento confiável de todos os equipamentos médico-hospitalares, computadores e sistemas.
 
 O dobro da capacidade elétrica, mais qualidade e segurança na distribuição de energia, cobertura de geradores em todas as áreas e sistemas automatizados. Esses são os principais ganhos da obra de ampliação e modernização das subestações do Hospital Universitário de Brasília da Universidade de Brasília e vinculado à Rede Ebserh (HUB-UnB/Ebserh). Na prática, essas melhorias representam o funcionamento confiável de todos os equipamentos médico-hospitalares, computadores, sistemas, iluminação e qualquer serviço que dependa de energia para funcionar. O resultado é a melhoria da assistência ofertada ao paciente e do ambiente de trabalho aos colaboradores. A cerimônia de entrega ocorreu nesta sexta-feira (24), na subestação central.
@@ -39,7 +38,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

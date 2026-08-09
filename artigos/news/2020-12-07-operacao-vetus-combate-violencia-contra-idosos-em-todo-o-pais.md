@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Para combater a violência contra o idoso foi deflagrada, nesta sexta-feira (4), em todo o país, a Operação Vetus, sob a coordenação do Ministério da Justiça e Segurança Pública.
 
 As polícias civis dos 26 estados e do Distrito Federal apuram denúncias e cumprem mandados e medidas protetivas na ação que foi motivada pelo aumento do número de casos registrados durante o período da crise do novo coronavírus pelo Disque 100 do Ministério da Mulher, da Família e dos Direitos Humanos.
@@ -40,7 +39,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

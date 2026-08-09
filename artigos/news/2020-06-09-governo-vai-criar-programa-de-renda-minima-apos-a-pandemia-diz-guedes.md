@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Renda Brasil unificará vários programas sociais.
 
-O ministro da Economia, Paulo Guedes, anunciou hoje (9) que o governo federal criará um programa de renda mínima permanente, após a pandemia do novo coronavírus (covid-19), batizado de Renda Brasil. O ministro disse ainda que será criado um programa para geração de empregos formais, com a retomada do projeto Carteira Verde e Amarela. 
+O ministro da Economia, Paulo Guedes, anunciou hoje (9) que o governo federal criará um programa de renda mínima permanente, após a pandemia do novo coronavírus (covid-19), batizado de Renda Brasil. O ministro disse ainda que será criado um programa para geração de empregos formais, com a retomada do projeto Carteira Verde e Amarela.
 
 “Aprendemos durante toda essa crise que havia 38 milhões de brasileiros invisíveis e que também merecem ser incluídos no mercado de trabalho”, disse Guedes durante reunião ministerial coordenada pelo presidente Jair Bolsonaro.
 
@@ -29,5 +28,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcos Corrêa/PR
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

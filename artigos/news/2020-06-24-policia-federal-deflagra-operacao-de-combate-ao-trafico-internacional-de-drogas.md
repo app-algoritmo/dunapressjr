@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Recife/PE** - A Polícia Federal deflagrou, nesta terça feira (23/06), a Operação Estatueta que dá cumprimento a dez mandados de prisão temporária, onze mandados de busca e apreensão, apreende três veículos, bloqueia contas bancárias de nove pessoas físicas e jurídicas, sequestra seis imóveis (todos em Pernambuco) e afasta o sigilo fiscal de nove pessoas físicas e jurídicas. Todas as medidas cautelares foram expedidas pela 13ª Vara da Justiça Federal de Pernambuco.
 
 Cerca de 60 policiais federais cumprem as ordens judiciais simultaneamente em Recife/PE, Rio Branco/AC, Fortaleza/CE e São Bernardo do Campo/SP.
@@ -33,4 +32,4 @@ RESUMO:
 
 Fonte: Portal de Imprensa da Polícia Federal
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

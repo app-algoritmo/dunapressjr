@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O objetivo é fazer um diagnóstico preciso das condições do ar.
 
 O Governo do Estado, por meio da Superintendência de Administração do Meio Ambiente (Sudema), acaba de firmar uma parceria internacional com o objetivo de desenvolver métodos e estratégias para o monitoramento do ar atmosférico na Paraíba. O trabalho será desenvolvido juntamente com o Laboratório Klimapolis, do Instituto Max-Planck de Meteorologia, por meio de reuniões técnicas e capacitações.
@@ -26,5 +25,3 @@ Fonte: paraiba.pb.gov.br – Imagem de destaque: Arquivo/Agência Brasil
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

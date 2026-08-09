@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A cerimônia de posse aconteceu nessa quinta-feira, 16 de julho, no Palácio do Planalto.
 
 O professor Milton Ribeiro tomou posse nessa quinta-feira, 16 de julho, como novo ministro da Educação, assumindo o compromisso de abertura ao diálogo e de observância dos valores constitucionais da laicidade do Estado e do ensino público. A cerimônia ocorreu no Palácio do Planalto, em Brasília, com a presença de ministros, políticos e autoridades, e foi conduzida pelo presidente Jair Bolsonaro, que participou por meio de videoconferência diretamente do Palácio da Alvorada.
@@ -25,7 +24,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

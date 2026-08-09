@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Fontes passam a participar da matriz de geração na região com 41,5% em 2020, superando a hidráulica, com 32,9%.
 
 Informe técnico publicado na sexta-feira (25/02) pelo Governo Federal, por meio do Ministério de Minas e Energia (MME) e da Secretaria de Planejamento e Desenvolvimento Energético (SPE), aponta que fontes eólica e solar no Nordeste somaram 45,5% na matriz de geração de 2020 e, pela primeira vez, transformaram a região de importadora para exportadora líquida de energia elétrica. A nova configuração da geração no Brasil modificou os intercâmbios entre estados e regiões, proporcionando maior diversidade de soluções de suprimento.
@@ -27,8 +26,4 @@ O agravamento da seca em 2021 e a não necessidade de racionamento é a demonstr
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

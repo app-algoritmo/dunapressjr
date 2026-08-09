@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Empresários de 14 segmentos mostraram queda da confiança.
 
 O Índice de Confiança da Indústria medido pela Fundação Getulio Vargas (FGV) teve, em janeiro deste ano, sua primeira queda depois de oito meses de alta. O indicador recuou 3,6 pontos em relação a dezembro de 2020 e chegou a 111,3 pontos, em uma escala de zero a 200 pontos. O dado foi divulgado hoje (28) pela Fundação Getulio Vargas (FGV).
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

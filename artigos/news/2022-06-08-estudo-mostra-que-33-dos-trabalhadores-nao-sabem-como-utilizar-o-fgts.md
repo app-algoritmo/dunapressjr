@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Levantamento foi feito pela Serasa e pelo Banco Pan.
 
 Um levantamento feito pela Serasa e pelo Banco Pan mostrou que, apesar de 92% dos trabalhadores afirmarem conhecer o Fundo de Garantia do Tempo de Serviço (FGTS), 33% ainda não sabem em que condições podem utilizar o próprio dinheiro. Entre as possibilidades menos conhecidas pelos entrevistados estão “para fazer empréstimos” (64%) e “sacar o saldo após 70 anos de idade” (58%). Foram entrevistados 2.132 trabalhadores com registro em carteira no regime CLT, entre 12 e 22 de abril.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

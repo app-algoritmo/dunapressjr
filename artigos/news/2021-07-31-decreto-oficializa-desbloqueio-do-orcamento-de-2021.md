@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Governo liberou R$ 4,52 bilhões que estavam contingenciados.
 
 Um decreto assinado nesta sexta-feira (30) pelo presidente Jair Bolsonaro oficializou o desbloqueio de todo o Orçamento de 2021. A liberação dos recursos havia sido [**divulgada**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-07/governo-desbloqueia-todo-o-orcamento-de-2021) há uma semana, quando o governo enviou ao Congresso o Relatório Bimestral de Avaliação de Receitas e Despesas.
@@ -28,10 +27,6 @@ Com o relatório divulgado nesta sexta-feira, os cerca de R$ 4,5 bilhões que ai
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

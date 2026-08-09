@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Peso da alimentação em casa é maior para renda mais baixa.
 
 A inflação pesou mais para as famílias com renda baixa, entre um e três salários mínimo, por conta da parcela maior do orçamento destinada à alimentação em casa. A conclusão é do estudo “Inflação por faixa de renda familiar em 2020”, divulgado hoje (12), em Brasília, pelo Banco Central (BC). A alimentação em casa é o segmento que mais tem pressionado a inflação neste ano.
@@ -16,7 +15,7 @@ Entretanto, o BC ressalta que, mesmo para este grupo, a inflação se encontra �
 
 Segundo o estudo, a pandemia de covid-19 tem influenciado a inflação e os preços relativos no Brasil desde março. “Por um lado, distanciamento social, aumento do desemprego e retração da atividade deprimiram os preços de diversos serviços. Por outro, a depreciação cambial, os programas de transferência de renda e o aumento dos gastos com alimentação no domicílio pressionaram os preços dos alimentos”, diz a pesquisa.
 
-O estudo foi feito considerando o Índice Nacional de Preços ao Consumidor Amplo (IPCA - a inflação oficial do país), com base nos microdados da Pesquisa de Orçamentos Familiares (POF) 2017-2018. 
+O estudo foi feito considerando o Índice Nacional de Preços ao Consumidor Amplo (IPCA - a inflação oficial do país), com base nos microdados da Pesquisa de Orçamentos Familiares (POF) 2017-2018.
 
 As faixas de renda familiar usadas são um a três salários mínimos, três a dez salários mínimos e 10 a 40 salários mínimos, que representam, na ordem, 46,2%, 44,0% e 9,8% da população pesquisada no IPCA.
 
@@ -47,5 +46,3 @@ O BC acrescenta que as atividades culturais, de recreação e lazer possuem a re
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

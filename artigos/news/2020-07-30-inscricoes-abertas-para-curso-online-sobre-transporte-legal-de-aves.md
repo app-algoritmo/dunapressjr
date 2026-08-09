@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Curso é ofertado pelo Mapa em parceria com o IICA. As inscrições estão abertas e o conteúdo disponível.
 
 O Ministério da Agricultura, Pecuária e Abastecimento (Mapa), por meio da Coordenação de Boas Práticas e Bem Estar Animal em parceria com o Instituto Interamericano de Cooperação para a Agricultura (IICA), oferece curso gratuito sobre transporte legal de aves.
@@ -22,7 +21,7 @@ Fonte: gov.br / Imagem em destaque: Opr
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

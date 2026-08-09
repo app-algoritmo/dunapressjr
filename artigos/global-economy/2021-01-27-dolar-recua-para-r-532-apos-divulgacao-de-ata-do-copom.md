@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa fechou em baixa pela quinta sessão consecutiva.
 
 Beneficiado pela divulgação da ata da reunião do Comitê de Política Monetária (Copom), que apontou a possibilidade de os juros aumentarem antes do tempo previsto, o dólar teve forte queda nesta terça-feira (26). Em direção oposta, a bolsa de valores começou o dia em alta, mas terminou em baixa pela quinta sessão consecutiva.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

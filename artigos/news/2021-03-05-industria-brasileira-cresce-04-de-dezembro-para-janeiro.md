@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Setor teve expansão de 0,8% na média móvel trimestral.
 
 A produção industrial brasileira começou 2021 com um resultado positivo. Cresceu 0,4% na passagem de dezembro para janeiro, segundo a Pesquisa Industrial Mensal, divulgada hoje (5), no Rio de Janeiro, pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

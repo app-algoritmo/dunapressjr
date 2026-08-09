@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## A ação irá beneficiar especialmente as regiões do Cariri e Curimataú.
 
 O governador João Azevêdo assinou, nesta quarta-feira (2), no Palácio da Redenção, em João Pessoa, durante reunião virtual com representantes do Banco Mundial no Brasil, o contrato de empréstimo entre o Governo da Paraíba e a instituição financeira internacional no valor de aproximadamente US$ 127 milhões que serão destinados à execução do Projeto de Segurança Hídrica do Estado da Paraíba (PSH-PB). A gestão estadual também investirá recursos próprios no montante de US$ 80,2 milhões no setor.
@@ -23,7 +22,7 @@ O presidente da Capega, Marcus Vinícius, afirmou que as obras asseguradas a par
 
 O presidente da Aesa, Porfírio Loureiro, detalhou os principais eixos de investimento no órgão.  “Nós vamos realizar ações na gestão de recursos hídricos, com a otimização e monitoramento com plataformas automáticas, tanto nos reservatórios, quanto nos rios, e no monitoramento hidrológico e climatológico. Outras grandes ações importantes são a atualização do plano estadual da bacia do Rio Paraíba e estudos das nossas águas subterrâneas, como também o monitoramento de quantidade e qualidade e o estudo do aproveitamento das águas do São Francisco, tanto para o abastecimento humano, quanto para o desenvolvimento regional”, relatou.
 
-A diretora do Banco Mundial para o Brasil, Paloma Anos Casero, parabenizou a gestão fiscal da Paraíba e o compromisso do governo com a operacionalização do projeto. “Uma segurança hídrica que possibilite o fornecimento de água contínuo e de qualidade às famílias da Paraíba e um serviço de esgoto seguro que garanta a preservação do meio ambiente são essenciais para assegurar uma boa qualidade de vida da população e também para assegurar o desenvolvimento do estado. O resultado vai ser uma melhor eficiência operacional e de gestão dos serviços de fornecimento de água e saneamento”, disse. 
+A diretora do Banco Mundial para o Brasil, Paloma Anos Casero, parabenizou a gestão fiscal da Paraíba e o compromisso do governo com a operacionalização do projeto. “Uma segurança hídrica que possibilite o fornecimento de água contínuo e de qualidade às famílias da Paraíba e um serviço de esgoto seguro que garanta a preservação do meio ambiente são essenciais para assegurar uma boa qualidade de vida da população e também para assegurar o desenvolvimento do estado. O resultado vai ser uma melhor eficiência operacional e de gestão dos serviços de fornecimento de água e saneamento”, disse.
 
 Os secretários de Estado Marialvo Laureano (Fazenda); Gilmar Martins (Planejamento, Orçamento e Gestão); Letácio Guedes (Controladoria Geral); Virgiane Melo (Executiva da Secretaria da Infraestrutura, dos Recursos Hídricos e do Meio Ambiente);  Fábio Andrade (procurador-geral); Nonato Bandeira (Comunicação Institucional); e Ronaldo Guerra (chefe do Governo) também acompanharam a reunião virtual.
 
@@ -42,7 +41,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
 
 Obrigado pelo apoio!

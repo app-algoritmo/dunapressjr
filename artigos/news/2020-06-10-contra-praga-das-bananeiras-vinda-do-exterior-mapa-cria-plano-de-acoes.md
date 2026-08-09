@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O plano está dividido em ações prévias à presença da praga e ações de emergência em casos de suspeita da presença da praga.
 
 Foi publicada no Diário Oficial da União desta terça-feira (9) a [Instrução Normativa nº 30](http://www.in.gov.br/web/dou/-/instrucao-normativa-n-30-de-5-de-junho-de-2020-260854899), que institui, no âmbito do Programa Nacional de Prevenção e Vigilância de Pragas Quarentenárias Ausentes, o Plano Nacional de Prevenção e Vigilância de *Fusarium oxysporum f.sp cubense* Raça 4 Tropical (PNPV/Foc R4T). O objetivo é estabelecer diretrizes de prevenção para evitar a entrada da praga que pode afetar a produção de bananas no Brasil.
@@ -25,8 +24,6 @@ O PNPV/Foc R4T será coordenado pelo Departamento de Sanidade Vegetal e Insumos 
 A Organização das Nações Unidas para Agricultura e Alimentação (FAO) declarou 2020 como o Ano Internacional das Nações Unidas para a Saúde Vegetal, com objetivo de conscientizar a sociedade sobre a necessidade de proteger a sanidade das plantas. A cada ano, até 40% das culturas alimentares em todo o mundo são perdidas devido a ameaça de pragas e doenças, causando perdas econômicas e prejudicando gravemente a produção agrícola.
 
 Fonte: gov.br / Imagem em destaque: revistaprocampo.com.br
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

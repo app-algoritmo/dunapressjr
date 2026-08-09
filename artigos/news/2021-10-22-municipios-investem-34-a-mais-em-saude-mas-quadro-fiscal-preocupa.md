@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dados são de 2020 e fazem parte do Índice Firjan de Gestão Fiscal.
 
 Os municípios brasileiros investiram mais em saúde em 2020. Em decorrência da pandemia de covid-19, os recursos destinados à saúde subiram 34%. Entretanto, 3.024 prefeituras (57,7% do total) estão em situação fiscal difícil ou crítica. Em boa parte delas, há uma forte dependência dos repasses da União.
@@ -46,14 +45,10 @@ O IFGF também registra algumas discrepâncias na realidade das cidades brasilei
 
 "Temos um país dividido. Há uma desigualdade em termos de municípios que oferecem melhorias de bem-estar à sua população. Ou seja, a população tem recebido atenção muito diferente dentro de cada cidade. Algumas têm nível de investimento acima de 12% e outras em torno de 3%".
 
-Entre as 26 capitais estaduais, a maioria encontra-se em situação boa ou excelente. Os melhores desempenhos fiscais são de Salvador, Manaus, Vitória, Boa Vista, Rio Branco, Goiânia, São Paulo, Curitiba e Fortaleza. Esses nove municípios obtiveram pontuação acima de 0,8, situando-se na faixa de excelência. De outro lado, os índices de Campo Grande, Porto Velho, Natal e Cuiabá apontam para uma situação difícil. Já Macapá e Rio de Janeiro tiveram resultado inferior a 0,4, estando em quadro crítico. Belém foi a única capital que não declarou os dados no prazo legal e, por esta razão, não aparece na avaliação. 
+Entre as 26 capitais estaduais, a maioria encontra-se em situação boa ou excelente. Os melhores desempenhos fiscais são de Salvador, Manaus, Vitória, Boa Vista, Rio Branco, Goiânia, São Paulo, Curitiba e Fortaleza. Esses nove municípios obtiveram pontuação acima de 0,8, situando-se na faixa de excelência. De outro lado, os índices de Campo Grande, Porto Velho, Natal e Cuiabá apontam para uma situação difícil. Já Macapá e Rio de Janeiro tiveram resultado inferior a 0,4, estando em quadro crítico. Belém foi a única capital que não declarou os dados no prazo legal e, por esta razão, não aparece na avaliação.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

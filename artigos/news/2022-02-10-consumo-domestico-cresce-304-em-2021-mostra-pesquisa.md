@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Cesta Abrasmercado fecha ano com alta acumulada de 10,32%.
 
 O consumo nos lares brasileiros manteve trajetória positiva de crescimento e encerrou 2021 com alta acumulada de 3,04%. O índice é monitorado mensalmente pela Associação Brasileira de Supermercados (Abras) e foi divulgado nesta quinta-feira (10) em entrevista *online*.
@@ -34,7 +33,7 @@ O consumidor trocou de marca, saindo do produto *premium* para o médio e do mé
 
 A cesta Abrasmercado encerrou o ano de 2021 com alta acumulada de 10,32%. A cesta nacional, que considera 35 produtos de largo consumo, analisada pela GfK em parceria com a Abras, passou de R$ 635,02 em dezembro de 2020 para R$700,53 em dezembro de 2021.
 
-Os itens que mais encareceram, na comparação com dezembro de 2020, foram café torrado e moído (66,62%), açúcar (39,90%), margarina cremosa (31,33%) extrato de tomate (28,37%) e frango congelado (27,92%). Os produtos que ficaram mais baratos no acumulado do ano foram batata (-28,73%), arroz (-17,72%), pernil (-9,12%) e feijão (-2,47%). 
+Os itens que mais encareceram, na comparação com dezembro de 2020, foram café torrado e moído (66,62%), açúcar (39,90%), margarina cremosa (31,33%) extrato de tomate (28,37%) e frango congelado (27,92%). Os produtos que ficaram mais baratos no acumulado do ano foram batata (-28,73%), arroz (-17,72%), pernil (-9,12%) e feijão (-2,47%).
 
 ## Desempenho regional
 
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

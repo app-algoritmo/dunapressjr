@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No quarto trimestre, o lucro totalizou R$ 3,2 bilhões.
 
 A Caixa Econômica Federal informou nesta quinta-feira (24) que teve lucro líquido de R$ 17,3 bilhões em 2021, o que representa crescimento de 31,1% na comparação com 2020. No quarto trimestre do ano passado, o lucro do banco totalizou R$ 3,2 bilhões, um aumento de 0,3% em relação ao terceiro trimestre.
@@ -16,7 +15,7 @@ Em 2021, a carteira de crédito ampliada registrou saldo de R$ 867,6 bilhões, c
 
 Segundo a Caixa, no quarto trimestre de 2021 a margem financeira alcançou R$ 11,5 bilhões. O valor corresponde a um aumento de 8,5% na comparação com o mesmo período de 2020. O crescimento é decorrente, principalmente, dos aumentos de 27,2% no resultado com operações de títulos e valores mobiliários e de 16,2% nas receitas com operações de crédito.
 
-O banco disse, ainda, que, no mesmo período, as receitas provenientes da carteira de crédito totalizaram R$ 19,8 bilhões, aumento de 15,8% em relação ao quarto trimestre de 2020. 
+O banco disse, ainda, que, no mesmo período, as receitas provenientes da carteira de crédito totalizaram R$ 19,8 bilhões, aumento de 15,8% em relação ao quarto trimestre de 2020.
 
 O destaque nas receitas com operações de crédito fica com as operações voltadas para o agronegócio, que apresentaram crescimento 187,9% no ano passado. As operações de saneamento e infraestrutura aumentaram 43,5%; o crédito para pessoa jurídica, 21,8%, e o crédito para pessoa física, 14,4%.
 
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

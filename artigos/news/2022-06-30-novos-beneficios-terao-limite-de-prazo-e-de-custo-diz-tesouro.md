@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Para secretário, PEC traz segurança jurídica para recursos.
 
 Novos benefícios sociais, como o aumento do Auxílio Brasil para R$ 600, o reajuste do Auxílio Gás e a distribuição de R$ 1 mil para caminhoneiros, têm o aval do ministro da Economia, Paulo Guedes, desde que tenham limites de prazo e de custos. A afirmação é do secretário do Tesouro Nacional, Paulo Valle, que comentou o [**déficit primário de R$ 39,213 bilhões em maio**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-06/governo-central-tem-segundo-maior-deficit-para-meses-de-maio).
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

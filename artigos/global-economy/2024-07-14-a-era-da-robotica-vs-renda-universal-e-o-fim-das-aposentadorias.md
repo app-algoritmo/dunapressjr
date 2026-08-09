@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Os robôs não apenas realizarão todas as construções e a produção de alimentos, mas também garantirão a renda universal e as aposentadorias, todas pagas pelo trabalho automatizado. O comércio continuará a prosperar, pois as pessoas continuarão consumindo, e as máquinas serão os agentes dessa produção contínua. Para ler o artigo completo: **[Saber mais clicando aqui](https://open.substack.com/pub/paulofernandodebarros/p/a-era-da-robotica-vs-renda-universal?r=1p1pcm&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)**.
 
 **Isso permitirá que a humanidade tenha mais tempo para se dedicar à família, viajar, adquirir conhecimentos, fazer turismo, visitar outros países e desenvolver tecnologias para explorar outros planetas.**
@@ -29,5 +28,3 @@ Os robôs não apenas realizarão todas as construções e a produção de alime
 Isso permitirá que a humanidade tenha mais tempo para se dedicar à família, viajar, adquirir conhecimentos, fazer turismo, visitar outros países e desenvolver tecnologias para explorar outros planetas.
 
 ## Clique na imagem para ler o [artigo completo](https://paulofernandodebarros.substack.com/p/a-era-da-robotica-vs-renda-universal?r=1p1pcm&utm_campaign=post&utm_medium=web&triedRedirect=true):
-
-[](https://paulofernandodebarros.substack.com/p/a-era-da-robotica-vs-renda-universal?r=1p1pcm&utm_campaign=post&utm_medium=web&triedRedirect=true)

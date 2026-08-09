@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 *Medida visa dar mais transparência, economia, eficácia e rapidez ao andamento dos processos da autarquia*
 
 Solicitações referentes à alteração de dados cadastrais, análise de documentações, regularização de repasses e execução dos programas. Esses são alguns dos 29 serviços* que o Fundo Nacional de Desenvolvimento da Educação (FNDE) disponibiliza no portal do Governo Federal ([Gov.br](https://www.gov.br/pt-br/orgaos/fundo-nacional-de-desenvolvimento-da-educacao)). A medida visa facilitar a vida dos usuários que necessitam enviar demandas ao FNDE, uma vez que os requerimentos podem ser feitos apenas por meio da plataforma on-line, sem necessidade de deslocamento do solicitante.
@@ -21,8 +20,6 @@ Esses serviços foram revisados recentemente e todas as demandas recebidas por m
 Clique [aqui](https://www.gov.br/pt-br/orgaos/fundo-nacional-de-desenvolvimento-da-educacao) para acessar a lista com os serviços disponibilizados pelo FNDE.
 
 Fonte: gov.br / imagem em destaque: Asscom FNDE
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

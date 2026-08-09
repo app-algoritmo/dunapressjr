@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O setor de energia vem se atualizando já há alguns anos, e ganhando investimentos no mundo todo. O Brasil, que não fica atrás desses avanços, se destaca desde muito cedo, principalmente por receber uma série de novas tecnologias focadas no aproveitamento de energias renováveis. Dentre as aplicadas no país estão: a biomassa da cana (representando 19,1%), a maior delas, seguida pela hidráulica (com 12,6%), lenha e carvão vegetal (8,9%), além de outras (7,7%) como a solar - que deve aumentar exponencialmente nos próximos anos. Mas a pergunta que fica é: será que todas são eficientes e adaptáveis no Brasil?
 
 A vocação energética de cada país depende de condições climáticas e geofísicas específicas. Segundo o professor dos cursos de Engenharia Elétrica e Engenharia de Energia da Universidade Positivo (UP), doutorando em Tecnologia e Sociedade e mestre em Desenvolvimento de Tecnologia, Fabrizio Nicolai Mancini, é possível realizar um *benchmarking* para analisar o que está sendo usado aqui no Brasil e no exterior, mas sempre cuidando para não aderir a "modinhas", como ocorre com a energia solar, por exemplo. "Temos que fomentar o desenvolvimento de nossa indústria de painéis e inversores, especialmente com painéis solares orgânicos e não os feitos com silício - que são muito prejudiciais ao meio ambiente", comenta.
@@ -25,7 +24,7 @@ Uma fonte renovável é aquela que pode ser "recomposta" no tempo do homem, ou s
 
 Tradicionalmente, as energias renováveis são a hidráulica, a eólica, a solar (fotovoltaica, heliotérmica e os coletores solares – que transformam a energia do sol em água quente), as oceânicas (energia das ondas, marés ou correntes); e a biomassa (cana, florestas energéticas, resíduos urbanos, agropecuários ou industriais).
 
-Confira detalhes das fontes usadas no Brasil com as vantagens e desvantagens de cada uma delas: 
+Confira detalhes das fontes usadas no Brasil com as vantagens e desvantagens de cada uma delas:
 
 **Biomassa da Cana** - líder de uso no Brasil, tem como fonte de energia a cana-de-açúcar. O termo biomassa se refere a qualquer tipo de matéria orgânica que pode ser usada na geração de energia. A biomassa oriunda do bagaço da cana-de açúcar é uma alternativa de energia renovável com potencial para complementar a geração de energia proveniente da hidrelétrica do país. **Desvantagens:** quando se utiliza o método de combustão da biomassa não é totalmente limpo, gerando partículas no meio ambiente.
 
@@ -50,7 +49,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

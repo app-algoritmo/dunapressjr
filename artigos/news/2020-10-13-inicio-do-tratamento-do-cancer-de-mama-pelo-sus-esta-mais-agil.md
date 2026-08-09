@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ter o diagnóstico precoce do câncer de mama aumenta a possibilidade de um tratamento menos agressivo e de cura da doença. Por isso, a campanha Outubro Rosa 2020 busca conscientizar as mulheres sobre a importância de ficar atenta para a prevenção e para os sinais da doença.
 
 Foi após uma mamografia, ao fazer exames de rotina, que a bibliotecária Rosa Maria de Abreu, de 58 anos, descobriu o câncer de mama, em 2015. Ela passou por cirurgia, quimioterapia e hoje está curada.
@@ -61,5 +60,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

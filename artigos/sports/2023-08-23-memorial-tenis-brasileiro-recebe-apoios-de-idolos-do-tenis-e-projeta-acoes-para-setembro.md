@@ -28,7 +28,7 @@ O Memorial tem formato híbrido, com conteúdos digital e físico, e estará abe
 
 “Vamos nos concentrar, também, na organização do Comitê e do Conselho Empresarial do Memorial e, ainda, completaremos o nosso projeto comercial e de marketing”, complementa Walmor Elias.
 
-O núcleo e a equipe principal organizados por Walmor Elias para todos esses desafios são formados por José Nilton Dalcim, Patrícia Medrado, Ivo Simon, Gilmar Machado, Carlos Omaki e Roberto Carvalhaes/Neneco. Sem falar nos mais de 50 colaboradores voluntários e anônimos envolvidos no processo.                                                           
+O núcleo e a equipe principal organizados por Walmor Elias para todos esses desafios são formados por José Nilton Dalcim, Patrícia Medrado, Ivo Simon, Gilmar Machado, Carlos Omaki e Roberto Carvalhaes/Neneco. Sem falar nos mais de 50 colaboradores voluntários e anônimos envolvidos no processo.
 
 ***Mais informações:******
 Youtube: [www.youtube.com/@memorialtenisbrasileiro](https://click.presskit.com.br/url/9659298a9a/6361388b6fc)
@@ -39,5 +39,4 @@ ZDL
 Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](https://click.presskit.com.br/url/965930cf40/6361388b6fc) - 11 984579723
 Deborah Mamone - MTb 15148  - [deborah@zdl.com.br](https://click.presskit.com.br/url/965931a27d/6361388b6fc) - 11 3285.5911
 Site: [www.zdl.com.br
-](https://click.presskit.com.br/url/965932b061/6361388b6fc)Facebook: [www.facebook.com/ZDLSports](https://click.presskit.com.br/url/9659338da5/6361388b6fc)[
-](https://click.presskit.com.br/url/9659338da5/6361388b6fc)Instagram: [www.instagram.com/zdlsports](https://click.presskit.com.br/url/965934bc56/6361388b6fc)***
+](https://click.presskit.com.br/url/965932b061/6361388b6fc)Facebook: [www.facebook.com/ZDLSports](https://click.presskit.com.br/url/9659338da5/6361388b6fc)Instagram: [www.instagram.com/zdlsports](https://click.presskit.com.br/url/965934bc56/6361388b6fc)***

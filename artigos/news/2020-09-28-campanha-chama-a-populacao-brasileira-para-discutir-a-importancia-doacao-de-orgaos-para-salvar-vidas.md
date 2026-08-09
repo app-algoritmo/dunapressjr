@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Neste ano, entre os meses de janeiro e julho foram realizados 9.952 transplantes de órgãos e tecidos no Brasil que deram às pessoas uma nova oportunidade de viver. Para que chances como essa alcancem cada vez mais brasileiros, o Ministério da Saúde lançou, nesta quinta-feira (24), a campanha nacional de incentivo à doação de órgãos com o tema: “Doe órgãos. A vida precisa continuar”.
 
 A campanha chama a população brasileira a discutir o tema da doação de órgãos tecidos e a importância desse ato para salvar vidas. Também destaca um fator fundamental para tornar possível uma doação: a autorização da família.
@@ -58,5 +57,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

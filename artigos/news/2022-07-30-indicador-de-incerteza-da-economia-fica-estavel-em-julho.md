@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice variou 0,2 ponto percentual, para 120,8 pontos.
 
 O Indicador de Incerteza da Economia (IIE-Br) da Fundação Getulio Vargas (FGV) subiu 0,2 ponto em julho, para 120,8 pontos, maior nível desde março deste ano (121,3 pontos). Segundo a economista do Instituto Brasileiro de Economia da FGV, Anna Carolina Gouveia, o indicador ficou praticamente estável em julho, acima dos 120 pontos, um patamar historicamente elevado.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

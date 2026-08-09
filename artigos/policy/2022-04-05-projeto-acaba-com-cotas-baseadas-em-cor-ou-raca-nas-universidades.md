@@ -7,7 +7,6 @@ categories:
 - Policy
 ---
 
-
 O Projeto de Lei 4125/21 estabelece que as cotas para ingresso nas universidades públicas federais serão destinadas exclusivamente aos estudantes de baixa renda. O texto, do deputado [Kim Kataguiri (DEM-SP)](https://www.camara.leg.br/deputados/204536), está em análise na Câmara dos Deputados.
 
 A proposta altera a Lei de Cotas de Ingresso nas Universidades ([Lei 12.711/12](https://www2.camara.gov.br/legin/fed/lei/2012/lei-12711-29-agosto-2012-774113-norma-pl.html)) para proibir a “discriminação positiva para o ingresso nas instituições de ensino com base em cor, raça ou origem”.
@@ -37,7 +36,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

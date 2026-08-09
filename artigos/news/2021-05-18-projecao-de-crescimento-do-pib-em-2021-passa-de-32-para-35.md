@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É o que revela Boletim Macrofiscal do Ministério da Economia.
 
 A projeção de crescimento do Produto Interno Bruto (PIB) para 2021 aumentou de 3,2% para 3,5%, ficando em R$ 8,42 trilhões, segundo dados do Boletim Macrofiscal de Maio, divulgado hoje (18), em Brasília, pelo Ministério da Economia. Os números mostram que a previsão de inflação pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA) para este ano é de 5,05%, acima do centro da meta de inflação de 3,75% para o ano. A meta tem ainda intervalo de tolerância de 1,5 ponto percentual para cima ou para baixo.
@@ -50,8 +49,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

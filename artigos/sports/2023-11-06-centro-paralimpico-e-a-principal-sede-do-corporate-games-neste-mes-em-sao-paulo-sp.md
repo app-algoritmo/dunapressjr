@@ -32,10 +32,8 @@ Site: **[**https://corporategamesbr.com/**](https://click.presskit.com.br/url/98
 Instagram: **[**@corporategamesbr/**](https://click.presskit.com.br/url/9826694294/6361388b6fc)**
 Linkedin: **[**corporategamesbr**](https://click.presskit.com.br/url/98267085f2/6361388b6fc)
 
-**
 ZDL
 Doro Jr. - MTb 13209 - **[**dorojr@zdl.com.br**](https://click.presskit.com.br/url/9826712373/6361388b6fc)** - 11 984579723****
 Deborah Mamone - MTb 15148  - **[**deborah@zdl.com.br**](https://click.presskit.com.br/url/982672e125/6361388b6fc)** - 11 991628967****
-Site: [www.zdl.com.br](https://click.presskit.com.br/url/9826612b7b/6361388b6fc)[
-](https://click.presskit.com.br/url/98267359b9/6361388b6fc)Facebook: **[**www.facebook.com/ZDLSports**](https://click.presskit.com.br/url/982674870a/6361388b6fc)**
+Site: [www.zdl.com.br](https://click.presskit.com.br/url/9826612b7b/6361388b6fc)Facebook: **[**www.facebook.com/ZDLSports**](https://click.presskit.com.br/url/982674870a/6361388b6fc)**
 Instagram: **[***www.instagram.com/zdlsports***](https://click.presskit.com.br/url/9826759862/6361388b6fc)

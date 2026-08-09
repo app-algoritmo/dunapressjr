@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Uma cerimônia, nesta segunda-feira (10), marcou o início das operações da Unidade de Apoio ao Diagnóstico da Covid-19, da Fundação Oswaldo Cruz (Fiocruz), no Rio de Janeiro, que vai ampliar a capacidade nacional de processamento de testes moleculares para detecção do novo coronavírus. Em seu pleno funcionamento, a unidade poderá processar até 15 mil testes por dia.
 
 A nova unidade está localizada na sede da Fiocruz e é equipada com plataformas automatizadas. De acordo com a Fundação, a iniciativa faz parte das estratégias de apoio aos Laboratórios Centrais de Saúde Pública (Lacens) e de ampliação da testagem como ação fundamental para a vigilância epidemiológica do vírus e o enfrentamento da pandemia.
@@ -44,6 +43,6 @@ Fonte Gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)****

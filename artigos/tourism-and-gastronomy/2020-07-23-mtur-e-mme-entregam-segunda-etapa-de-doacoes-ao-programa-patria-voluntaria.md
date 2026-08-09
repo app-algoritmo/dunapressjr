@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Mais de 130 itens foram recolhidos pelas duas Pastas e serão doados à moradores em situação de rua.
 
 Em mais uma etapa da campanha “Seja Solidário”, uma das frentes de atuação do Programa Nacional de Incentivo ao Voluntariado (Pátria Voluntária), os ministérios do Turismo e de Minas e Energia arrecadaram novas doações para moradores em situação de rua. A entrega foi feita nesta quarta-feira (22.07), pelos ministros Marcelo Álvaro Antônio e Bento Albuquerque e o secretário Especial de Cultura, Mário Frias, à primeira-dama, Michele Bolsonaro. Ao todo, foram doados 46 agasalhos, 71 cobertores, 7 pares de calçados e 15 toalhas.
@@ -24,7 +23,7 @@ Imagem principal: Roberto Castro/MTur
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

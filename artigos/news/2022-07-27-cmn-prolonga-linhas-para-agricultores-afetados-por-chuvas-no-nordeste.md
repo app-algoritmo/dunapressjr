@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Prazo de contratação foi prorrogado para 30 de novembro.
 
 Os produtores rurais e agricultores familiares do Nordeste afetados pelas enchentes no início do ano ganharam mais tempo para ter acesso às [**linhas emergenciais de crédito em vigor desde março**](https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2022-06/chega-129-o-numero-de-mortes-devido-chuvas-em-pernambuco). Em reunião extraordinária, o Conselho Monetário Nacional (CMN) aprovou a extensão do prazo de contratação de 30 de junho para 30 de novembro.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

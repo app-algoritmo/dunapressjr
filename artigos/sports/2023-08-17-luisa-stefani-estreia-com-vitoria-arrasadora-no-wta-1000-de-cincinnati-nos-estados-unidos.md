@@ -30,8 +30,7 @@ Gallas Press-Fabrizio Gallas - +55 21 99023-0660 - [fabrizio@gallaspress.com.b
 ](https://click.presskit.com.br/url/9643872662/6361388b6fc)Facebook: [https://www.facebook.com/gallaspress
 ](https://click.presskit.com.br/url/9643888740/6361388b6fc)Instagram: [https://www.instagram.com/fabriziogallas/](https://click.presskit.com.br/url/9643890c8d/6361388b6fc)***
 
-***[
-](https://click.presskit.com.br/url/9643890c8d/6361388b6fc)ZDL
+***ZDL
 Doro Jr. - MTb 13209 - 11 984579723 - [dorojr@zdl.com.br
 ](https://click.presskit.com.br/url/964390265b/6361388b6fc)Deborah Mamone - MTb 15148 - [deborah@zdl.com.br
 ](https://click.presskit.com.br/url/964391e1f7/6361388b6fc)Site: [www.zdl.com.br

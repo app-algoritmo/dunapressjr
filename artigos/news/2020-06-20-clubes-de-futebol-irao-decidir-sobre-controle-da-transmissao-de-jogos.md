@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ato permite que mandantes de jogos transmitam suas partidas, inclusive, pela Internet. Outra mudança diz respeito ao prazo mínimo para celebração de contratos dos profissionais de futebol.
 
 Medida Provisória altera o art. 42, da Lei nº 9.615, que trata do direito de transmissão de eventos esportivos no Brasil. Com a modificação, o mandante dos jogos poderá definir quem irá transmiti-los. Outra mudança é no prazo mínimo para formalização dos contratos especiais de trabalho dos atletas profissionais de futebol.
@@ -20,7 +19,7 @@ Acesse [aqui](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/mpv/mpv98
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

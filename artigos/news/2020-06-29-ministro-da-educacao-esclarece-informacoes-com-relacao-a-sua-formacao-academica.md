@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Educação, com relação aos questionamentos levantados a respeito da formação acadêmica do Ministro Carlos Alberto Decotelli da Silva, esclarece que o ministro cursou o Doutorado em Administração na Universidade de Rosário, na Argentina, no período de 2 de outubro de 2007 a 7 de fevereiro de 2009, tendo sido aprovado em todas as disciplinas com todos os créditos, conforme atesta o certificado emitido pela Universidade.
 
 O ministro informou ainda que tem muito orgulho do curso realizado, principalmente por ter sido custeado com seus próprios recursos financeiros e pelo fato de ter sido aceito em tão respeitada instituição de ensino no exterior unicamente em função de sua qualificação acadêmica, construída ao longo da vida com muito esforço e dedicação.
@@ -28,7 +27,7 @@ Fonte: gov.br / Imagem em destaque: exame.com
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

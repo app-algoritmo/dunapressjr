@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Contingente representa 70% das pessoas registradas na base de dados do Governo Federal.
 
 O auxílio emergencial de R$ 600 chega a 51,4 milhões de pessoas registradas no Cadastro Único (CadÚnico) do Governo Federal. Isso representa 70% das pessoas cadastradas nas bases de dados, segundo levantamento da Dataprev. Esse público inclui os beneficiários do Bolsa Família e os que estão inscritos no CadÚnico, mas não participam do programa de transferência de renda.
@@ -24,5 +23,3 @@ Fone: gov.br – Imagem de destaque: Marcos Santos/USP
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

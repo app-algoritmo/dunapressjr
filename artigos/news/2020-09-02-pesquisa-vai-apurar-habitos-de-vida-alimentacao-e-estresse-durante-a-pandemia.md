@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Está disponível para qualquer indivíduo maior de 18 anos, até o dia 4 de setembro, o questionário online [Hábitos de vida, alimentação, comportamento alimentar e percepção de estresse durante a pandemia](https://docs.google.com/forms/d/e/1FAIpQLSfzdeo2qvIg-7ukqDpxa3jKuPA6YIHyQ85LItKqf-b3ey6dsw/viewform).
 
 O objetivo é verificar modificações ocorridas nos hábitos da população no período da pandemia do novo coronavírus, com foco nos hábitos alimentares e nos fatores associados às mudanças ocorridas, como as ligadas ao comportamento alimentar e surgimento de estresse.
@@ -27,5 +26,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

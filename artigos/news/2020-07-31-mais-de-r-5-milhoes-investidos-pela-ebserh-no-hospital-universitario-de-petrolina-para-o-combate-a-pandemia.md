@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Valor inclui o pagamento de julho do salário de 189 profissionais da área da saúde contratados para dar suporte aos atendimentos de Covid-19 na unidade hospitalar.
 
 Depois de passar 17 dias na Unidade de Terapia Intensiva (UTI) destinada aos atendimentos de pacientes com Covid-19, Luciano Rodrigues venceu a batalha pela vida. Com um problema cardíaco antigo, o paciente sofreu duas paradas cardiorrespiratórias e, com muito empenho da equipe, que não desistiu em nenhum momento, ele retornou à sua família, emocionado. “Não vamos falar de sofrimento não. Vamos falar do atendimento e cuidado que tiveram comigo”, ressaltou Luciano, tranquilamente, na cadeira de balanço de sua casa, junto de seus familiares.
@@ -49,7 +48,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

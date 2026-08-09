@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Indicador cresceu 58,2%, atingindo US$ 54,6 bilhões.
 
 A corrente de comércio - exportações mais importações - registrou em maio o maior valor na série histórica iniciada em 1997. O volume chegou a US$ 54,6 bilhões em maio, crescimento de 58,2% em relação ao mesmo mês do ano passado. O desempenho se repetiu na balança comercial que teve saldo positivo de US$ 9,3 bilhões, o maior na série histórica e US$ 2,5 bilhões acima do valor de maio de 2020.
@@ -54,8 +53,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

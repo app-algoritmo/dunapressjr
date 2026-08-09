@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Objetivo é realizar melhorias preventivas para manter o bom funcionamento do patrimônio que data do final do século 18.
 
 De importância ímpar para a constituição do território nacional e defesa das fronteiras brasileiras, o Forte de Coimbra, localizado no pantanal sul-mato-grossense, receberá projetos de melhorias visando manter o bom funcionamento do patrimônio. A iniciativa do Instituto do Patrimônio Histórico e Artístico Nacional no Mato Grosso do Sul (Iphan-MS), que terá um aporte de aproximadamente R$ 385 mil, será elaborada por empresa especializada, contratada por meio de licitação e terá todo o processo de execução acompanhado pelo Instituto.
@@ -24,7 +23,7 @@ Imagem: IPHAN
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

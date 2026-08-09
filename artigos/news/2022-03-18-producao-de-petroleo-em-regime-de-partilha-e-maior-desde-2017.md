@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Total em janeiro foi 21% superior ao registrado em dezembro.
 
 Dados do Boletim Mensal de Contratos de Partilha de Produção, divulgados nesta quinta-feira (17) pela Pré-Sal Petróleo (PPSA), revelam que a União teve direito, em janeiro deste ano, a 17 mil barris de petróleo por dia (bpd) referentes à produção média em regime de partilha de produção. O volume foi 21% superior ao de dezembro e é o maior da série histórica, iniciada em 2017.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

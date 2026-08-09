@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Expectativa é que taxa Selic suba para 4,25% ao ano nesta semana.
 
 O mercado financeiro espera que a taxa básica de juros, a Selic, suba 0,75 ponto percentual para 4,25% ao ano, na reunião do Comitê de Política Monetária (Copom) do Banco Central (BC), marcada para esta terça e quarta-feira (16), em Brasília. A expectativa está no boletim Focus, pesquisa divulgada semanalmente pelo BC, com a projeção para os principais indicadores econômicos.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

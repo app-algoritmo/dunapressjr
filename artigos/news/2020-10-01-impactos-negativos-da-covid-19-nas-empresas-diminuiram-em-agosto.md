@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Empresas de todos os portes relataram a melhora na percepção, diz IBGE.
 
 Os impactos negativos da pandemia da covid-19 foram sentidos por 33,5% das 3,4 milhões de empresas brasileiras na segunda quinzena de agosto, contra 38,6% medidos no período anterior. Na primeira quinzena de junho, o efeito negativo foi sentido por 70% do total. Outras 37,9% tiveram impacto pequeno ou inexistente e 28,6% sentiram efeitos positivos com a crise sanitária na segunda quinzena de agosto. Os dados foram divulgados hoje pelo Instituto Brasileiro de Geografia e Estatística (IBGE), na Pesquisa Pulso Empresa: Impacto da Covid19 nas Empresas.
@@ -43,5 +42,3 @@ De acordo com Magheli, a situação geral das empresas melhorou, mas ainda não 
 Fonte: Agência Brasil – Imagem de destaque: José Paulo Lacerda/CNI/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

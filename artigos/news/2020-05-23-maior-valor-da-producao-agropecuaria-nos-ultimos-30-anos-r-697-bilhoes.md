@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Valor Bruto da Produção Agropecuária (VBP) de 2020, atualizado com base nas informações de abril, deve atingir R$ 697 bilhões, alta de 8,6% em relação a 2019. São os maiores valores obtidos nestes últimos 31 anos de acordo com estudo elaborado pela Secretaria de Política Agrícola do Ministério da Agricultura, Pecuária e Abastecimento. O valor das lavouras cresceu 10,4% e gerou R$ 462 bilhões. Já a pecuária avançou 5,4%, para R$ 234,9 bilhões.
 
 "As condições climáticas favoráveis na maior parte das áreas produtoras e os preços agrícolas foram decisivos para esses resultados", explica o coordenador geral de Avaliação de Políticas da Informação, José Garcia Gasques.
@@ -22,11 +21,9 @@ Gasques salienta que a pecuária tem tido um desempenho surpreendente. “O merc
 
 **VBP Regional**
 
-Os resultados regionais mostram a liderança da região Centro-Oeste, cujo VBP é de R$ 218,7 bilhões. A região Sudeste alcançou R$172,3 bilhões, Sul, R$168,4 bilhões, Nordeste, R$ 66,4 bilhões e Norte, R$ 44,22 bilhões. 
+Os resultados regionais mostram a liderança da região Centro-Oeste, cujo VBP é de R$ 218,7 bilhões. A região Sudeste alcançou R$172,3 bilhões, Sul, R$168,4 bilhões, Nordeste, R$ 66,4 bilhões e Norte, R$ 44,22 bilhões.
 
 Fonte: gov.br / Imagem em destaque: MAPA
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em janeiro, o PIB recuou 0,8%
 
 O Produto Interno Bruto (PIB, soma dos bens e serviços produzidos no país) acumulado no trimestre encerrado em janeiro deste ano caiu 0,3% na comparação com o trimestre findo em janeiro de 2020. O dado é do Monitor do PIB, divulgado hoje (17) pela Fundação Getulio Vargas (FGV).
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

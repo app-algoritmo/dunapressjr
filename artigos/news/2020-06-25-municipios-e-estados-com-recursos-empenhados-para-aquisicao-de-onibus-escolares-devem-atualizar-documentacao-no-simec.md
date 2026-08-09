@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Para receber os recursos do Plano de Ações Articuladas (PAR), incluindo os referentes aos ônibus escolares do programa Caminho da Escola, gestores das secretarias de educação dos estados, municípios e Distrito Federal devem atualizar a documentação no [Sistema Integrado de Monitoramento Execução e Controle (Simec)](http://simec.mec.gov.br/login.php). A inserção dos documentos requeridos na plataforma é condição para habilitação dos pagamentos.
 
 Após o recebimento dos ônibus, é necessário que o gestor insira o contrato devidamente assinado pelas partes e a nota fiscal na aba ‘Execução e Acompanhamento’, no Simec. Somente essa ação viabiliza a transferência dos recursos por parte do FNDE e, consequentemente, o pagamento por parte dos entes federados aos fornecedores.
@@ -21,7 +20,7 @@ Fonte: gov.br/mec - Capes / Imagem em destaque: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

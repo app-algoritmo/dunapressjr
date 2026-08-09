@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Centro Educacional de Cordeiros promoveu com os alunos dos quintos anos, o projeto “Eleições- Uma Abordagem Interdisciplinar Construindo uma Formação Política e Cidadã aos Educandos”. De forma interdisciplinar, o projeto envolveu as matérias de língua portuguesa, história, matemática, geografia e informática, com a professora regente das turmas, Maria Bernadeth Gonçalves de Almeida e a agente de apoio em educação especial, Daniela Furtado.
 
 Na primeira etapa da execução do projeto, o professor de história, André Felipe Penteado, explanou toda a história envolvendo o sistema eleitoral até os tempos atuais e a conscientização da importância do voto. Na sequência, foram montadas as coligações, formando os partidos políticos fictícios, que resultou na formação de duas chapas para eleição da turma 501 e duas para a 502, que visava eleger o líder e o vice-líder de cada uma das turmas.
@@ -34,5 +33,3 @@ Fonte: https://itajai.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

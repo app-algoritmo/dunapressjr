@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Fortaleza/CE**  -  A Polícia Federal deflagrou, na manhã desta segunda-feira (01/06), a operação Spectrum que apura possível desvio de recursos do Fundo Eleitoral, repassados para uma candidata a deputada estadual, nas eleições de 2018, no Ceará.
 
 Foram cumpridos quatro mandados de busca e apreensão na sede estadual de partido político, em uma empresa gráfica e nas residências da investigada e do proprietário da empresa. Os mandados foram expedidos pela Justiça Eleitoral desta Capital.
@@ -25,5 +24,3 @@ Segundo as investigações, a gráfica recebeu da candidata a quantia de mais de
 Os fatos, caso confirmados, podem configurar o crime capitulado no art. 354 do Código Eleitoral, que comina aos infratores pena de reclusão, de dois a seis anos, e multa.
 
 ***Comunicação Social da Polícia Federal no Ceará***
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

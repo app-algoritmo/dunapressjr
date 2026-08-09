@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Crescimento acumulado foi 1,4% em relação a 2020, diz IBGE.
 
 As vendas do comércio varejista registraram queda de 0,1% em dezembro, mas fecharam o ano de 2021 acumulando crescimento de 1,4% em relação a 2020. Os dados são da Pesquisa Mensal do Comércio (PMC), divulgada hoje (9) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -50,8 +49,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

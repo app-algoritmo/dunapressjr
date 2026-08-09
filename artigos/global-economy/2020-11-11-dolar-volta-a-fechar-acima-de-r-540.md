@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa cai depois de seis altas seguidas.
 
 O mercado financeiro teve um dia de realização de lucros e de devolução de ganhos depois de sessões de euforia. O dólar voltou a fechar acima de R$ 5,40, e a bolsa de valores caiu pela primeira vez depois de seis altas consecutivas.
@@ -21,5 +20,3 @@ Após a euforia dos últimos dias com a [**vitória de Joe Biden**](https://agen
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Rick Wilking/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

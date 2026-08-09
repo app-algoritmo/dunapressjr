@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Lei foi sancionada pelo presidente Jair Bolsonaro nesta terça-feira (30). A previsão é que o dinheiro seja compartilhado entre 2,6 mil ILPIs.
 
 O Governo Federal vai destinar, ainda neste ano, R$ 160 milhões para Instituições de Longa Permanência para Idosos (ILPIs), também conhecidos como asilos ou casas de repouso. O auxílio tem como objetivo ajudar os locais no combate à pandemia de Covid-19. A [Lei 14.018](http://www.in.gov.br/web/dou/-/lei-n-14.018-de-29-de-junho-de-2020-264166728?inheritRedirect=true&redirect=%2Fweb%2Fguest%2Fsearch%3FqSearch%3DLEI%2520N%25C2%25BA%252014.018%252C%2520DE%252029%2520DE%2520JUNHO%2520DE%25202020) foi sancionada pelo presidente da República, Jair Bolsonaro, e publicada nesta terça-feira (30) no Diário Oficial da União.
@@ -43,4 +42,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

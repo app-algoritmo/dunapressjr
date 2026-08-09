@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alta sustentou o crescimento de 0,4% da indústria nacional, diz IBGE.
 
 A produção industrial cresceu em sete dos 15 locais pesquisados pelo Instituto Brasileiro de Geografia e Estatística (IBGE), na passagem de dezembro para janeiro. A alta nesses estados sustentou o [**crescimento de 0,4% da indústria nacional**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-03/industria-brasileira-cresce-04-de-dezembro-para-janeiro) no período.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

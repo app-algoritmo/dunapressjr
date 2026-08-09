@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Instrução Normativa com nova data foi publicada no DOU de desta terça-feira (5).
 
 A Receita Federal prorrogou para o dia 31 de maio de 2022 o prazo final para a entrega da declaração de ajuste anual do Imposto de Renda, que tem como base os rendimentos obtidos no ano de 2021.
@@ -32,7 +31,7 @@ Também são obrigados a declarar aqueles que, no dia 31 de dezembro de 2021, po
 
 ### Imposto a pagar
 
-De acordo com a Receita Federal, o imposto a pagar apurado também teve seu vencimento adiado para o final do mês de maio. "As datas permitidas para a opção pelo débito automático passam a ser 10 de maio, para a primeira cota, e até 31 de maio para as demais. Ou seja, para as declarações enviadas após o dia 10 de maio, o pagamento da primeira cota deverá ser realizado com DARF". 
+De acordo com a Receita Federal, o imposto a pagar apurado também teve seu vencimento adiado para o final do mês de maio. "As datas permitidas para a opção pelo débito automático passam a ser 10 de maio, para a primeira cota, e até 31 de maio para as demais. Ou seja, para as declarações enviadas após o dia 10 de maio, o pagamento da primeira cota deverá ser realizado com DARF".
 
 A taxa de juros cobrada para aqueles que optarem por parcelar em até oito vezes o que é devido é a da Selic, que atualmente está em 11,75% ao ano.
 
@@ -54,8 +53,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

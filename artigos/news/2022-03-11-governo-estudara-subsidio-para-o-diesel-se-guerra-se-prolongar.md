@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para ministro, por enquanto, corte de impostos amortecerá preços.
 
 O governo pode estudar a criação de um subsídio direto ao diesel caso a guerra entre Rússia e Ucrânia se prolongue, disse nesta quinta-feira (10) o ministro da Economia, Paulo Guedes. Acompanhado do ministro de Minas e Energia, Bento Albuquerque, Guedes disse que o [**corte de impostos aprovado nesta quinta-feira pelo Senado**](https://agenciabrasil.ebc.com.br/politica/noticia/2022-03/senado-aprova-projeto-para-reduzir-preco-dos-combustiveis) ajudará a segurar o impacto da guerra entre Rússia e Ucrânia neste momento.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

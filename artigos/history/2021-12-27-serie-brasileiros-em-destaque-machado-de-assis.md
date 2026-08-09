@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Em 21 de junho de 1839, nasceu, no Rio de Janeiro, Joaquim Maria Machado de Assis, até hoje celebrado como o principal nome da literatura brasileira e um dos maiores escritores da língua portuguesa.
 
 Machado de Assis era de uma família muito humilde. Seu pai, Francisco José de Assis, era filho de escravos alforriados e trabalhava como operário, já sua mãe tinha origem portuguesa e se entregava ao ofício de lavadeira. Foi criado no Morro do Livramento e desde cedo revelou-se um aficionado pelo conhecimento. Não frequentou escola, nem universidade, foi um irremediável autodidata. Curioso e observador, buscava o saber diretamente em suas fontes, dispensando qualquer formalidade. Foi assim que aprendeu latim, estudando com o padre Silveira Sarmento, a quem ajudava nas missas, e francês com um padeiro imigrante, quando já morava no bairro de São Cristóvão, conforme contam alguns de seus biógrafos.
@@ -46,8 +45,7 @@ Mais de um século após seu falecimento, suas obras continuam a ser constanteme
 
 Como ainda hoje ocorre com quem se dedica ao ofício de escritor, Machado de Assis (contista, cronista, romancista, poeta, ensaísta, dramaturgo, jornalista e crítico), que escreveu em quase todos os gêneros literários, não pôde se dedicar plenamente à literatura. Em paralelo, exerceu uma bem-sucedida carreira pública. Iniciada no ano de 1873, quando foi nomeado primeiro oficial da Secretaria de Estado do Ministério da Agricultura, Comércio e Obras Públicas. Também foi oficial de gabinete do mesmo órgão e, em 1899, diretor da Diretoria de Comércio desse Ministério. A carreira burocrática foi, até o fim de sua vida, seu meio principal de sobrevivência.
 
-**
-**Fontes Biográficas 
+**Fontes Biográficas
 
 [http://www.machadodeassis.org.br/](http://www.machadodeassis.org.br/)
 [http://goo.gl/SqTei0](http://goo.gl/SqTei0)
@@ -66,7 +64,3 @@ Fonte: https://www.palmares.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

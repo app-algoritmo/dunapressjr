@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Documento contém medidas de prevenção e segurança às instituições que planejam o retorno presencial às aulas.
 
 O Ministério da Educação (MEC) lançou, nesta quarta-feira (1º), o Protocolo de Biossegurança com diretrizes para o retorno das atividades nas instituições federais de ensino. O documento será oficializado por meio de portaria, que deve ser publicada no Diário Oficial da União desta quinta-feira (02), mas [já pode ser conferido em formato de cartilha, neste link](https://www.gov.br/mec/centrais-de-conteudo/campanhas-1/coronavirus/CARTILHAPROTOCOLODEBIOSSEGURANAR101.pdf). “Entendemos que os alunos precisam voltar às aulas o quanto antes, mantendo as medidas de segurança e prevenção, como o distanciamento social, por isso estamos lançando logo esse Protocolo, reunindo diretrizes gerais”, afirmou o secretário-executivo do MEC, Antonio Paulo Vogel.
@@ -23,7 +22,7 @@ Fonte: gov.br / Imagem em destaque: Cesmac
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A produção excessiva de leite materno está entre os relatos mais frequentes de mamas cheias, feitas pelas doadoras de leite humano. As mamas ficam tão cheias de leite a ponto de a mãe sentir desconforto entre as mamadas. Neste caso, algumas mães optam por ajudar a salvar vidas com o leite não consumido pelo seu bebê.
 
 No entanto, não é necessário ter uma produção demasiada de leite para se tornar doadora e não existe quantidade mínima para a doação. É importante lembrar que um litro de leite materno doado pode alimentar até 10 recém-nascidos por dia. A depender do peso do prematuro, um (1) ml já é o suficiente para nutri-lo cada vez que for alimentado.
@@ -28,7 +27,7 @@ O modelo brasileiro para Bancos de Leite Humano (BLH) é referência internacion
 
 Algumas mulheres quando estão amamentando produzem um volume de leite além da necessidade do bebê, o que possibilita que sejam doadoras de um banco de leite humano. De acordo com a legislação RDC Nº 171, além de apresentar excesso de leite, a doadora deve ser saudável, não usar medicamentos que impeçam a doação e se dispor a ordenhar e a doar o excedente a um banco de leite humano.
 
-Se você quer doar seu leite, entre em contato com um banco de leite humano. **[Clique aqui](http://rblh.fiocruz.br/pt-br/localizacao-dos-blhs)** e encontre o mais próximo de você. 
+Se você quer doar seu leite, entre em contato com um banco de leite humano. **[Clique aqui](http://rblh.fiocruz.br/pt-br/localizacao-dos-blhs)** e encontre o mais próximo de você.
 
 **Como coletar o leite humano para doação?**
 
@@ -65,7 +64,3 @@ Fonte: https://rblh.fiocruz.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

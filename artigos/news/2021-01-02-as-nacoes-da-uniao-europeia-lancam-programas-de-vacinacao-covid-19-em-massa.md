@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Alemanha começa um dia mais cedo: 'Cada dia que esperamos é demais'; As 27 nações da UE viram pelo menos 16 milhões de casos, 336.000 mortes, mas os especialistas dizem que o número real é mais alto.
 
 As nações da União Europeia iniciaram oficialmente no domingo um esforço coordenado para dar vacinas COVID-19 a adultos entre seus 450 milhões de cidadãos, marcando um momento de esperança na batalha do continente contra a pior crise de saúde pública em um século .
@@ -56,7 +55,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

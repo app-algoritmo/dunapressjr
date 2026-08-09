@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Em 2020, jovens entre 16 e 17 anos com título de eleitor representaram menos da metade do registrado em 2016; dado alerta sobre o direito à participação como exercício da cidadania.
 
 O número de adolescentes votantes diminuiu nas últimas eleições. De acordo com dados do Tribunal Superior Eleitoral, o número de jovens entre 16 e 17 anos com título de eleitor caiu de 2.311.120 em 2016 para 1.030.563 em 2020, menos da metade do registrado na eleição municipal anterior. O voto é apenas um dos instrumentos de participação de adolescentes, porém, esse dado pode ser um alerta de como o interesse por fazer parte da coletividade diminuiu, ainda mais no contexto de pandemia, que impôs outras preocupações e prioridades.
@@ -58,7 +57,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

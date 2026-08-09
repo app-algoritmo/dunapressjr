@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A recuperação e a pavimentação da BR-319, importante via de ligação entre os estados do Amazonas e de Rondônia, vai trazer ganhos econômicos e sociais para a região, segundo o ministro da Infraestrutura, Tarcísio Gomes de Freitas. Em videoconferência realizada nesta segunda-feira (21), com governadores da Região Norte, o ministro afirmou que a pavimentação de trechos da rodovia é uma das prioridades do Governo na área de infraestrutura.
 
 “Não podemos mais admitir que o estado do Amazonas não tenha essa conexão com o restante do Brasil, que uma capital importante como Manaus fique isolada do resto do Brasil. É uma das obras, se não a mais importante da Região Norte, a mais emblemática que, agora, começa a tomar seu corpo”, declarou o ministro.
@@ -37,5 +36,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

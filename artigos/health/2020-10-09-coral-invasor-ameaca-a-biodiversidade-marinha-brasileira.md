@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 No final da década de 1980, foram encontradas duas espécies de coral, nativas dos oceanos Índico e Pacífico, em plataformas de petróleo no estado do Rio de Janeiro, provavelmente advindas do Golfo do México. Já na década de 1990, aconteceu o que a comunidade científica temia: os visitantes indesejados, batizados de coral-sol por conta da sua aparência, foram detectados nos costões rochosos da Baía da Ilha Grande. O coral-sol também foi encontrado no casco do navio Cavo Artemidi, naufragado em Salvador na década de 80.
 
 Nos anos seguintes, foram feitas novas investigações sobre essas espécies invasoras. Os resultados demonstraram que por detrás da beleza do coral-sol, esconde-se um grande perigo à biodiversidade dos ecossistemas costeiros do Brasil. Os pesquisadores descobriram que o coral-sol é um invasor eficiente, tem rápido crescimento e vantagens competitivas em relação aos organismos nativos. Ele multiplica-se duas a três vezes mais do que as espécies nativas e cada colônia pode liberar cerca de 5 mil larvas por ano. A vida marinha praticamente desaparece onde o coral-sol instala-se.
@@ -45,5 +44,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No acumulado em 12 meses, o indicador ficou positivo em 2,33%.
 
 A atividade econômica brasileira registrou alta em junho deste ano, de acordo com dados divulgados nesta sexta-feira (13) pelo Banco Central (BC). O Índice de Atividade Econômica do Banco Central (IBC-Br) apresentou aumento de 1,14% em junho de 2021 em relação ao mês anterior, de acordo com os dados dessazonalizados (ajustados para o período).
@@ -24,10 +23,6 @@ Em 2020, o PIB do Brasil caiu 4,1%, totalizando R$ 7,4 trilhões. Foi a maior qu
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

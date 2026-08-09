@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Medidas de proteção, direcionadas aos povos e comunidades tradicionais, fazem parte do Plano de Contingência do Governo Federal.
 
 Indígenas e quilombolas de Pernambuco começaram a receber mais 31 mil cestas de alimentos doadas pelo Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH). O objetivo é reduzir os impactos do novo coronavírus nas populações em situação de vulnerabilidade social.
@@ -24,7 +23,7 @@ Na Paraíba, a Funai iniciou a entrega de mais de 6 mil cestas básicas adquirid
 
 Esta é a primeira etapa de doações das cestas da Conab, que foram obtidas com recursos do MMFDH. Serão entregues 3,1 mil cestas a 38 comunidades indígenas das etnias Potiguara, Tabajara e Warao nesta semana. Mais 3,1 mil cestas serão doadas na segunda etapa, prevista para ser realizada ainda na primeira semana de junho.
 
-A distribuição feita pela Conab e Funai vai levar 71,9 toneladas de alimentos aos municípios de Baía da Traição, Marcação, Rio Tinto, Conde e João Pessoa. 
+A distribuição feita pela Conab e Funai vai levar 71,9 toneladas de alimentos aos municípios de Baía da Traição, Marcação, Rio Tinto, Conde e João Pessoa.
 
 ### Mato Grosso e Parque do Xingu
 
@@ -41,5 +40,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

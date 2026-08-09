@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Caminho de Xinxiang e o acesso ao molhe da Atalaia reabriu neste sábado (16). O Município de Itajaí decidiu liberar para a circulação de pedestres, ciclistas e motoristas, além da utilização do estacionamento no local. O espaço é de responsabilidade do Porto de Itajaí e as Guardas Portuária e Municipal farão a segurança da área. O acesso será fechado entre as 10h da noite e as 6h da manhã.
 
 “O molhe é de propriedade da União e está sob a gestão da Superintendência do Porto de Itajaí. Por isso, em reunião com o prefeito Volnei e secretariado decidimos abrir o espaço para a população. O molhe é um local que recebe muitas pessoas e essa liberação contribui para a boa relação entre o povo de Itajaí e o Porto”, avalia o superintendente do Porto de Itajaí, Fábio da Veiga.
@@ -32,7 +31,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

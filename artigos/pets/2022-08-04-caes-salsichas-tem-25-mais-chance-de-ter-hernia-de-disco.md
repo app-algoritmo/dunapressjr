@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 O simpático cachorrinho Bosco, o Rei dos Galhos, como é conhecido em Londres, capital do Reino Unido, tem quase 200 mil seguidores no [Instagram](https://www.instagram.com/boscoandhisbigstick), onde seus tutores publicam fotos e vídeos dele carregando grandes galhos de árvore na boca enquanto passeia pelos principais parques da cidade.
 
 Na última semana de junho, os tutores perceberam limitações nos movimentos de Bosco e imediatamente o levaram ao veterinário. O cão foi diagnosticado com o grau 5 da doença do disco intervertebral (DDIV) - ou hérnia de disco - e, no intervalo de duas horas, perdeu totalmente os sentidos das patas traseiras. No dia 29 de junho, ele passou por cirurgia de emergência, porém, infelizmente, às 17h do dia 5 de julho, o Rei dos Galhos não aguentou as complicações da operação e faleceu, causando grande comoção entre seguidores do mundo todo.
@@ -33,7 +32,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

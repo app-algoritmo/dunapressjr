@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Previsto para 2021, Confap-CRIS tem objetivo de centralizar informações sobre as ações executadas em todo o país.
 
 Um sistema *online* aberto ao público para consulta de dados das Fundações Estaduais de Amparo à Pesquisa (FAPs) de todo o país está prevista para o primeiro semestre de 2021. Trata-se do Confap-CRIS, programa financiado pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).
@@ -29,7 +28,7 @@ Fonte: gov.br / Imagem em destaque: PA
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

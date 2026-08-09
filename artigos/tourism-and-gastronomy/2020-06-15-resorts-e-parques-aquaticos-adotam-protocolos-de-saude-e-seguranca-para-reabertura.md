@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Dentre as mudanças, o check-in online, o uso obrigatório de máscaras e a utilização das pulseiras de aproximação.
 
 Os protocolos de segurança e de saúde têm sido o norte para a gradual e responsável reabertura dos principais segmentos turísticos no Brasil. Diante disso, dois resorts -localizados na Costa do Sauípe (BA) e em Rio Quente (GO) - e o parque aquático Hot Park vão adotar novos procedimentos para protegerem as famílias e visitantes com base em orientações dos órgãos de saúde pública. Entre as mudanças propostas, estão a realização do check-in de forma online e o uso obrigatório de máscaras em todos os ambientes sociais dos empreendimentos.
@@ -28,7 +27,7 @@ Fonte: Turismo Gov BR
 
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
-https://dunapress.org/subscription-plan/?aff=Thami
+https://dunapress.org/subscription-plan/
 
 Experimente por 7 Dias Gratuitos
 

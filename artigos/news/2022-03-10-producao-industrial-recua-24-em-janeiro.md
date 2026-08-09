@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Setor fica abaixo do patamar antes da pandemia.
 
 A produção industrial recuou 2,4% em janeiro de 2022 frente ao mês anterior, eliminando, assim, grande parte da expansão de 2,9% de dezembro de 2021. Com o resultado, a indústria está 3,5% abaixo do patamar de antes do início da pandemia de covid-19, em fevereiro de 2020, e 19,8% abaixo do nível recorde alcançado em maio de 2011. Em relação janeiro de 2021, a queda foi de 7,2%.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

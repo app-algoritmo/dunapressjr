@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Macapá/AP - A Polícia Federal deflagrou, na manhã de hoje (14/6), a Operação Panaceia*, para combater desvio de medicamentos, de teste de diagnósticos para Covid-19, além do uso indevido de serviços públicos de saúde, em Oiapoque/AP.
 
 Cerca de 32 policiais federais dão cumprimento a oito mandados de busca e apreensão em Macapá/AP e no Oiapoque/AP. Entre os locais estão a Prefeitura Municipal de Oiapoque e a Secretaria Municipal de Saúde de Oiapoque, além de residências nos dois municípios. Nas buscas foram apreendidos diversos testes para detecção da Covid-19, máscaras e aventais de uso hospitalar.
@@ -21,5 +20,3 @@ Os investigados poderão responder, na medida de suas responsabilidades, pelos c
 *Panaceia é referência à deusa da cura na mitologia grega, e atualmente significa “remédio para todos os males”.
 
 **Comunicação Social da Polícia Federal no Amapá**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

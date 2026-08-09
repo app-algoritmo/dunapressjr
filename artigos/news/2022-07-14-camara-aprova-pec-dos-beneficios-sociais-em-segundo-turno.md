@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ### Texto segue para promulgação.
 
 A Câmara dos Deputados aprovou nesta quarta-feira (13), em segundo turno, a Proposta de Emenda à Constituição (PEC) 15, de 2022, que cria um estado de emergência para ampliar o pagamento de benefícios sociais até o fim do ano. Os dois destaques apresentados pelos parlamentares foram rejeitados: um que pretendia retirar a expressão "estado de emergência" da PEC e outro que retirava o limite temporal de cinco meses para o pagamento de parcelas adicionais do Auxílio Brasil com recursos autorizados pela proposta. O texto segue para promulgação.
 
-No início da tarde desta quarta-feira, [**deputados**](http://agenciabrasil.ebc.com.br/politica/noticia/2022-07/camara-conclui-votacao-em-primeiro-turno-da-pec-dos-beneficios-sociais) concluíram a votação da proposta em primeiro turno iniciada na noite de terça-feira (12). A sessão de terça-feira foi suspensa em razão de um apagão no sistema de informática da Câmara. Todos os destaques foram rejeitados. 
+No início da tarde desta quarta-feira, [**deputados**](http://agenciabrasil.ebc.com.br/politica/noticia/2022-07/camara-conclui-votacao-em-primeiro-turno-da-pec-dos-beneficios-sociais) concluíram a votação da proposta em primeiro turno iniciada na noite de terça-feira (12). A sessão de terça-feira foi suspensa em razão de um apagão no sistema de informática da Câmara. Todos os destaques foram rejeitados.
 
 A PEC dos Benefícios Sociais gera R$ 41,2 bilhões em despesas excepcionais, ou seja, fora do teto de gastos, divididos entre benefícios sociais. As medidas valem de 1° de agosto até 31 de dezembro de 2022.
 
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

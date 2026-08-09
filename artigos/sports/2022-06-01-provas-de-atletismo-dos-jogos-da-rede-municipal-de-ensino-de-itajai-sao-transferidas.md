@@ -7,7 +7,6 @@ categories:
 - Sports
 ---
 
-
 As provas de atletismo dos Jogos da Rede Municipal de Ensino (JORME), que aconteceriam nesta quarta (01) e quinta-feira (02), foram adiadas em virtude do mau tempo. As disputas foram reagendadas para os dias 23 e 24 de junho, na Pista de Atletismo, que fica atrás da Secretaria de Educação de Itajaí.
 
 No dia 23, vão ocorrer as provas das categorias Mirim (12 e 13 anos) e Infantil Masculino (14 e 15 anos) e, no dia 24, será a vez das categorias Mirim e Infantil Feminino. Em função da transferência, a primeira modalidade a ser disputada nesta edição do JORME vai ser o handebol, nos dias 07, 08, 09 e 10 de junho, no Ginásio Gabriel Collares.
@@ -97,7 +96,3 @@ Fonte: https://itajai.sc.gov.br/noticias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

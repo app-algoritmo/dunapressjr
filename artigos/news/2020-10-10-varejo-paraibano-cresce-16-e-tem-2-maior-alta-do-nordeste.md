@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Com mais um mês de forte expansão nas vendas, o varejo paraibano registrou um crescimento de 16% em agosto sobre o mesmo período do ano passado, atingindo a 2ª maior alta da Região Nordeste, segundo Pesquisa Mensal do Comércio (PMC), divulgada nesta quinta-feira (8) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Apenas o Maranhão (23,5%) conseguiu índice maior na Região, mas a taxa da Paraíba ficou entre as sete maiores do País e alcançou alta bem acima da média do crescimento nacional (6,1%).
 
-As vendas no varejo paraibano cresceram também de agosto sobre julho (4,5%) acima da média nacional (3,4%). O cenário do comércio varejista ampliado da Paraíba, que inclui veículos, motos, partes e peças e de material de construção, não é diferente com a alta de 8,8% de agosto sobre o ano passado, acima também da média nacional (5%).   
+As vendas no varejo paraibano cresceram também de agosto sobre julho (4,5%) acima da média nacional (3,4%). O cenário do comércio varejista ampliado da Paraíba, que inclui veículos, motos, partes e peças e de material de construção, não é diferente com a alta de 8,8% de agosto sobre o ano passado, acima também da média nacional (5%).
 
 ## **Cenário Regional**
 
@@ -21,5 +20,3 @@ De acordo com o IBGE, cinco das 8 atividades pesquisadas tiveram alta em agosto 
 Fonte: paraiba.pb.gov.br – Imagem de destaque: Tânia Rego/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Jornais e cartas mostram detalhes culturais da época.
 
 Estudos e teses recentes de historiadores mostram que a Independência do Brasil não foi um processo pacífico, e vários conflitos internos foram travados no país durante a preparação para o processo de independência, explicou nesta terça-feira (6), em entrevista ao programa *A Voz do Brasil*, o historiador e secretário Nacional da Diversidade Cultural do Ministério do Turismo, Rafael Nogueira.
@@ -29,8 +28,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

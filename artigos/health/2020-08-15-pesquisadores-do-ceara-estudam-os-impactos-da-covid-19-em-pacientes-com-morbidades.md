@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Um dos projetos da Universidade Federal do Ceará ([UFC](http://www.ufc.br/)), selecionados para o [Programa de Combate a Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias) da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) pretende mostrar os efeitos da COVID-19 em pacientes com doenças crônicas pré-existentes.
 
 O estudo será conduzido por uma equipe de médicos pneumologistas, endocrinologistas, dermatologistas e neurologistas com ampla experiência em pesquisa clínica e integrados à rede hospitalar do Sistema Único de Saúde (SUS) do Ceará. Também participam do grupo pesquisadores da área básica, o que favorece a chamada pesquisa translacional, que facilita a uso das descobertas na prática assistencial.
@@ -40,6 +39,6 @@ Fonte Redação CCS/CAPES
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)****

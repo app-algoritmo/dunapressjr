@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Aplicativo está disponível para download gratuito.
 
 O governo federal lançou nesta quinta-feira (13) o aplicativo eSocial Doméstico, que possibilita que o empregador faça o registro de empregados e o gerenciamento da folha de pagamento a partir de smartphone ou dispositivo móvel.
@@ -28,4 +27,4 @@ O aplicativo está disponível gratuitamente para download nas lojas da App Stor
 
 Fonte: Agência Brasil – Imagem de destaque: eSocial Doméstico
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

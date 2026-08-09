@@ -7,8 +7,7 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
-Com cultura fortemente influenciada por imigrantes italianos, alemães, poloneses e ucranianos, a capital do Estado do Paraná foi eleita Capital Americana da Cultura em 2003 pela organização de mesmo nome. Isso logo é percebido por quem chega e nota a arquitetura, a gastronomia e os costumes locais. Os parques e as áreas verdes são destaques na cidade. 
+Com cultura fortemente influenciada por imigrantes italianos, alemães, poloneses e ucranianos, a capital do Estado do Paraná foi eleita Capital Americana da Cultura em 2003 pela organização de mesmo nome. Isso logo é percebido por quem chega e nota a arquitetura, a gastronomia e os costumes locais. Os parques e as áreas verdes são destaques na cidade.
 
 Os moradores se orgulham por manter cerca de 51m² de área verde por habitante, três vezes mais do que o recomendado pelas Nações Unidas. Além disso, a arquitetura moderna se mescla a esses recantos naturais, dando um toque único à paisagem da cidade. Entre suas principais atrações turísticas está a Ópera de Arame, um dos cartões-postais curitibanos. Inaugurada em 1992, acolhe todo tipo de espetáculo, do popular ao clássico, e tem capacidade para 1.572 espectadores. Outro ponto de grande visitação é o Bosque Alemão, extensa área verde com o total de 38 mil m² de mata nativa e que mantém a atmosfera dos parques europeus.
 
@@ -29,7 +28,3 @@ Fonte: http://viajeprosul.turismo.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

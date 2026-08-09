@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Por meio da Medida Provisória nº 1.001, as pastas receberão, ao todo, R$ 264,8 milhões para ações de enfrentamento à Covid-19. Desse valor, R$ 86,3 milhões são destinados ao Ministério da Cidadania, com o objetivo de garantir o acesso à água em escolas públicas rurais, priorizando as regiões Norte, Nordeste e Centro-Oeste.
 
 "O Governo Federal tem como prioridade a universalização da água para todas as escolas públicas do Nordeste, do Norte e do Centro-Oeste, garantindo segurança alimentar para mais de 6.500 escolas do Brasil, o que também é essencial para o retorno às aulas [...]", afirmou o secretário especial do Desenvolvimento Social do Ministério da Cidadania, Sérgio Queiroz.
@@ -26,5 +25,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

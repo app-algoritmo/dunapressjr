@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice se mantém no menor nível desde o início da série histórica.
 
 Após uma longa trajetória de redução, o Banco Central (BC) decidiu manter a taxa básica de juros da economia no atual patamar de 2% ao ano. A decisão do Comitê de Política Monetária (Copom) foi unânime, em reunião encerrada nesta quarta-feira (16). A manutenção do índice era [**esperada pelos analistas financeiros**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-09/mercado-financeiro-aumenta-estimativa-de-inflacao-para-194-este-ano), que apostam na Selic neste patamar até o final do ano.
@@ -36,10 +35,8 @@ O mercado projeta contração um pouco menor. Segundo a última edição do *Bol
 
 A taxa básica de juros é usada nas negociações de títulos públicos no Sistema Especial de Liquidação e Custódia (Selic) e serve de referência para as demais taxas de juros da economia. Ao reajustá-la para cima, o Banco Central segura o excesso de demanda que pressiona os preços, porque juros mais altos encarecem o crédito e estimulam a poupança.
 
-Ao reduzir os juros básicos, o Copom barateia o crédito e incentiva a produção e o consumo, mas enfraquece o controle da inflação. Para cortar a Selic, a autoridade monetária precisa estar segura de que os preços estão sob controle e não correm risco de subir. As reuniões do Copom ocorrem a cada 45 dias. Até o fim de 2020, estão previstos mais dois encontros do colegiado para definir o valor da taxa Selic. 
+Ao reduzir os juros básicos, o Copom barateia o crédito e incentiva a produção e o consumo, mas enfraquece o controle da inflação. Para cortar a Selic, a autoridade monetária precisa estar segura de que os preços estão sob controle e não correm risco de subir. As reuniões do Copom ocorrem a cada 45 dias. Até o fim de 2020, estão previstos mais dois encontros do colegiado para definir o valor da taxa Selic.
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Primeira Infância é a fase que vai desde a concepção aos seis anos de idade, período de um rápido e intenso processo de formação das conexões neurais, e durante o qual fatores genéticos e ambientais interagem de forma contínua para o desenvolvimento do cérebro e de todo o sistema nervoso central.
 
 Consequentemente, as experiências vivenciadas durante a primeira infância determinam a estrutura neural para o desenvolvimento das habilidades físicas, cognitivas e socioemocionais necessárias para garantir a saúde física e mental dos indivíduos durante toda a vida.
@@ -42,7 +41,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Houve desaceleração a partir de julho, diz pesquisa.
 
-O Indicador Antecedente de Emprego (IAEmp), divulgado hoje (7), no Rio de Janeiro, pelo Instituto Brasileiro de Economia (Ibre) da Fundação Getulio Vargas, mostra que permanece negativa a percepção sobre o mercado de trabalho no país. 
+O Indicador Antecedente de Emprego (IAEmp), divulgado hoje (7), no Rio de Janeiro, pelo Instituto Brasileiro de Economia (Ibre) da Fundação Getulio Vargas, mostra que permanece negativa a percepção sobre o mercado de trabalho no país.
 
 Apesar do aumento de 7,2 pontos em setembro, para 82,0 pontos, o quinto mês seguido de alta, houve uma desaceleração no indicador a partir de julho. Segundo a FGV, em médias móveis trimestrais, o IAEmp avançou 8,4 pontos, indo para 74,3 pontos.
 
@@ -18,7 +17,7 @@ Rodolpho Tobler, economista da FGV/Ibre, explica que a alta de setembro aproxima
 
 “Para os próximos meses, ainda é possível enxergar fatores que podem adicionar riscos à sustentabilidade da retomada, como a elevada incerteza e o fim dos programas governamentais de apoio nesse período da pandemia”, observou.
 
-Já o Indicador Coincidente de Desemprego (ICD) se manteve estável em setembro, em 96,4 pontos. Segundo o Ibre/FGV, o ICD tem um sinal semelhante ao da taxa de desemprego, com um número menor indicando um melhor resultado. 
+Já o Indicador Coincidente de Desemprego (ICD) se manteve estável em setembro, em 96,4 pontos. Segundo o Ibre/FGV, o ICD tem um sinal semelhante ao da taxa de desemprego, com um número menor indicando um melhor resultado.
 
 Em médias móveis trimestrais, o ICD apresentou recuo de 0,3 ponto, para 96,7 pontos. O indicador se mantém nesse patamar, com pouca variação, desde setembro de 2015. Até março de 2014, o ICD estava em patamares na faixa de 65 pontos.
 
@@ -37,5 +36,3 @@ O IAEmp combina séries de dados extraídas das Sondagens da Indústria, de Serv
 Fonte: Agência Brasil – Imagem de destaque: Fernando Frazão/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

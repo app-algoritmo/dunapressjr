@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Bar-Ilan U, pesquisadores do Galilee Medical Center encontraram associação de baixos níveis de vitamina D pré-infecção com infecção por Covid-19 mais grave.
 
 Um novo estudo conduzido pela Azrieli Faculty of Medicine da Bar-Ilan University e sua afiliada Galilee Medical Center (GMC) concluiu que a deficiência pré-infecção de vitamina D está associada ao aumento da gravidade e mortalidade do COVID-19.
@@ -34,7 +33,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

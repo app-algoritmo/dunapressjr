@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Apesar de elogios, relatório alerta para risco na dívida pública.
 
 A previsão de contração da economia brasileira neste ano passou de 9,1% pra 5,8%, divulgou nesta segunda-feira (5) o Fundo Monetário Internacional (FMI). Para 2021, o órgão prevê crescimento de 2,8%.
@@ -37,5 +36,3 @@ Apesar da recuperação recente de diversos indicadores do comércio e da indús
 Fonte: Agência Brasil – Imagem de destaque: Yuri Gripas/Reuters
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

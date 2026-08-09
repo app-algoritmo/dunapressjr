@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Setor de alimentos e derivados de petróleo contribuíram para queda.
 
 A produção industrial caiu em nove dos 15 locais investigados pela Pesquisa Industrial Mensal (PIM Regional), com a redução de 0,4% registrada na passagem de agosto para setembro.
@@ -32,14 +31,10 @@ No acumulado do ano, as taxas foram positivas em dez dos 15 locais pesquisados, 
 
 ## Pesquisa
 
-De acordo com o IBGE, desde a década de 1970, a Pesquisa Industrial Mensal Produção Física - Regional produz indicadores de curto prazo, relativos ao comportamento do produto real das indústrias extrativa e de transformação. Mensalmente, apresenta “índices para 14 unidades da federação cuja participação é de, no mínimo, 1% no total do valor da transformação industrial nacional e, também para o Nordeste, como um todo: Amazonas, Pará, Ceará, Pernambuco, Bahia, Minas Gerais, Espírito Santo, Rio de Janeiro, São Paulo, Paraná, Santa Catarina, Rio Grande do Sul, Mato Grosso, Goiás e Região Nordeste”. 
+De acordo com o IBGE, desde a década de 1970, a Pesquisa Industrial Mensal Produção Física - Regional produz indicadores de curto prazo, relativos ao comportamento do produto real das indústrias extrativa e de transformação. Mensalmente, apresenta “índices para 14 unidades da federação cuja participação é de, no mínimo, 1% no total do valor da transformação industrial nacional e, também para o Nordeste, como um todo: Amazonas, Pará, Ceará, Pernambuco, Bahia, Minas Gerais, Espírito Santo, Rio de Janeiro, São Paulo, Paraná, Santa Catarina, Rio Grande do Sul, Mato Grosso, Goiás e Região Nordeste”.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

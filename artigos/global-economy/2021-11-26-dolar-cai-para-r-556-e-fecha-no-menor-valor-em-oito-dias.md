@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa subiu pela terceira sessão seguida e superou 105 mil pontos.
 
 Em dia de feriado nos Estados Unidos, o dólar voltou a cair e fechou no menor valor em oito dias. A bolsa de valores subiu pela terceira sessão seguida e alcançou o nível mais alto em duas semanas.
@@ -22,14 +21,10 @@ As ações da Petrobras puxaram a alta, após a estatal divulgar o plano de neg�
 
 Sem fatores internacionais, o mercado reagiu motivado pela economia brasileira. [**A divulgação de que a prévia da inflação oficial**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-11/ipca-15-previa-da-inflacao-sobe-117-em-novembro) atingiu 1,17% em novembro, acima das expectativas, reforçou a pressão para que o Banco Central acelere o aumento da taxa Selic (juros básicos da economia). Taxas mais altas estimulam a aplicação de capitais internacionais no Brasil.
 
-O fechamento de um acordo para aprovar a Proposta de Emenda à Constituição (PEC) dos Precatórios na próxima terça-feira (30) na Comissão de Constituição e Justiça do Senado também aliviou as pressões sobre o mercado. Apesar de a proposta liberar R$ 106,1 bilhões no Orçamento do próximo ano, os investidores acreditam que a PEC terá menos impacto que um eventual decreto de calamidade pública que permita gastos fora do teto. 
+O fechamento de um acordo para aprovar a Proposta de Emenda à Constituição (PEC) dos Precatórios na próxima terça-feira (30) na Comissão de Constituição e Justiça do Senado também aliviou as pressões sobre o mercado. Apesar de a proposta liberar R$ 106,1 bilhões no Orçamento do próximo ano, os investidores acreditam que a PEC terá menos impacto que um eventual decreto de calamidade pública que permita gastos fora do teto.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

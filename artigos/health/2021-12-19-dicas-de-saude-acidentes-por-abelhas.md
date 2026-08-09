@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Abelhas são insetos da ordem Hymenoptera, assim como as vespas e as formigas. Algumas espécies são conhecidas por produzirem o mel e viverem em colônias, com uma organização hierárquica com uma rainha, alguns machos férteis e milhares de operárias fêmeas. As abelhas operárias são as responsáveis pela defesa da colônia. Ao picar, elas perdem parte do aparato inoculador, morrendo em seguida. Este aparato possui músculos próprios e continuam injetando a peçonha mesmo após a separação do resto do corpo. Próximas a um enxame, as primeiras abelhas, ao picar, liberam um feromônio que faz com que outras ataquem o mesmo alvo, podendo ocasionar acidente com centenas de picadas. As Mamangavas ou Mamangabas, que são abelhas das subfamílias Bombinae e Euglossinae, não perdem o ferrão e podem ferroar várias vezes.
 
 A picada de abelhas consiste na injeção de veneno com objetivo de causar dor e desconforto físico a seus agressores ou intrusos, percebidos como ameaça à integridade de suas colmeias. Esses venenos são misturas complexas de aminas biogênicas, peptídeos e enzimas, com diversas atividades farmacológicas e alergênicas.
@@ -81,7 +80,7 @@ Já as vespas possuem o corpo mais delgado, com cintura afilada. Possuem poucos 
 
 Abelhas estão presentes em todos os territórios brasileiros. As regiões de maiores taxas de incidência são a região Sul e Nordeste, enquanto que as maiores taxas de letalidade ocorrem nas regiões Centro-Oeste e Norte. De modo geral, os acidentes costumam acontecer com maior predominância entre outubro e março. A maioria dos acidentes acontecem na zona urbana. O perfil dos acidentados costuma ser de homens e da faixa etária entre 20 e 64 anos. Óbitos são mais frequentes em pessoas acima de 40 anos. Fatores de risco para gravidade envolvem a quantidade de ferroadas e a predisposição ao choque anafilático.
 
-Mais informações epidemiológicas de acidentes por abelhas podem ser tabulados no [Tabnet](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinannet/cnv/animaisbr.def). Os bancos de dados do Sistema de Informação de Agravos de Notificação (Sinan) são disponibilizados pelo [Datasus](http://www2.datasus.gov.br/DATASUS/index.php?area=0901&item=1&acao=41). 
+Mais informações epidemiológicas de acidentes por abelhas podem ser tabulados no [Tabnet](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinannet/cnv/animaisbr.def). Os bancos de dados do Sistema de Informação de Agravos de Notificação (Sinan) são disponibilizados pelo [Datasus](http://www2.datasus.gov.br/DATASUS/index.php?area=0901&item=1&acao=41).
 
 **BOLETIM EPIDEMIOLÓGICO**
 
@@ -92,11 +91,11 @@ Mais informações epidemiológicas de acidentes por abelhas podem ser tabulados
 
 **PROTOCOLOS DE TRATAMENTO**
 
-- [Manual de diagnóstico e tratamento de acidentes por animais peçonhentos.](https://www.gov.br/saude/pt-br/media/pdf/2021/junho/22/2-manual-de-diagnostico-e-tratamento-de-acidentes-por-animais-peconhentos-2001.pdf) 
+- [Manual de diagnóstico e tratamento de acidentes por animais peçonhentos.](https://www.gov.br/saude/pt-br/media/pdf/2021/junho/22/2-manual-de-diagnostico-e-tratamento-de-acidentes-por-animais-peconhentos-2001.pdf)
 
 **MATERIAIS E MULTIMÍDIA**
 
-- Mapa de distribuição dos acidentes por abelhas – 2020. 
+- Mapa de distribuição dos acidentes por abelhas – 2020.
 
 - [Série Histórica de acidentes por abelhas – 2000-2020.](https://www.gov.br/saude/pt-br/media/pdf/2021/junho/22/14-serie-historica-2000-2020-acidentes-por-abelhas.pdf)
 - [Animais peçonhentos: saiba como se proteger destas ameaças - YouTube](https://www.youtube.com/watch?v=J4TXWwAsfOg)
@@ -114,7 +113,3 @@ Fonte: https://www.gov.br/saude
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

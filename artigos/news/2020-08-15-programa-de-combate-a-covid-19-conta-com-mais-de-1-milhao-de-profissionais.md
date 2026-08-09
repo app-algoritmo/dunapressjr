@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Mais de 460 contratações já foram realizadas para reforçar o atendimento de serviços de saúde em três estados. Ação Estratégica do Ministério da Saúde conta com profissionais da saúde, estudantes e residentes para reforçar o atendimento dos serviços de saúde nos estados com maior necessidade de profissionais. 
 
 ais de 1 milhão de profissionais de saúde já se cadastraram no programa “O Brasil Conta Comigo – Profissionais da Saúde” para atuar no combate à Covid-19 em todo o País. Do total de cadastrados no programa, 468 profissionais, entre médicos, enfermeiros, técnicos de enfermagem, fisioterapeutas, farmacêuticos e biomédicos, já foram contratados diretamente pelo Governo Federal e estão reforçando o atendimento dos serviços de saúde nos estados do Amazonas, Amapá e Roraima.
@@ -36,6 +35,6 @@ Fonte Gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)****

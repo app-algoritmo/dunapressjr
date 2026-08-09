@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Petrobras e Fertilizantes Santa Catarina arremataram terminais.
 
 A Petrobras foi a vencedora do leilão para concessão de terminais portuários com a oferta única de R$ 558.250.000,99 pela concessão da área STS08A no Porto de Santos, em São Paulo. O local é destinado à movimentação, armazenagem e distribuição de granéis líquidos (combustíveis). O tempo de concessão é de 25 anos. Havia ainda mais uma área, a STS08, mas a Petrobras não fez nenhuma oferta, alegando que STS08A já reunia todas as características estratégicas e necessárias para as operações da empresa.
@@ -32,10 +31,6 @@ Segundo o ministro, o Brasil está caminhando para ter a estrutura mais privada 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A Organização Mundial de Saúde (OMS), na 10ª revisão da Classificação Internacional de Doenças (CID10), definiu como mortalidade materna “a morte de uma mulher durante a gestação ou até 42 dias após o término da gestação, independente da duração ou localização da gravidez, devida a qualquer causa relacionada com ou agravada pela gravidez ou por medidas em relação a ela, porém não devida a causas acidentais ou incidentais”.
 
 No mundo, cerca de 830 mulheres morrem todos os dias por complicações relacionadas à gravidez ou ao parto.
@@ -37,7 +36,3 @@ Fonte:  https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

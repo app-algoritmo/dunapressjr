@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Defesa Civil Nacional tem acompanhado e apoiado os estados no enfrentamento às chamas. Os municípios matogrossenses mais afetados pelos incêndios são Poconé, Barão de Melgaço e Cáceres.
 
 Abafadores, roçadeiras, mangueiras, sopradores e tanques para armazenamento de água poderão. Os equipamentos para combate aos incêndios poderão ser comprados pelos estados Mato Grosso e do Mato Grosso Sul com recurso de R$ 13,9 milhões do Governo Federal. O valor foi anunciado durante a semana pelo Ministério do Desenvolvimento Regional.
@@ -58,5 +57,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor.
 
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

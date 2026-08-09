@@ -7,7 +7,6 @@ categories:
 - World Affairs
 ---
 
-
 ## Os meios de comunicação na Austrália têm relatado o aumento repentino de mortes cardíacas fatais que ocorreram nos últimos meses.
 
 Eles relatam que mais australianos do que nunca estão morrendo de ataques cardíacos fatais devido aos efeitos prolongados da pandemia de Covid e ao impacto do vírus no coração.
@@ -18,7 +17,7 @@ No entanto, e não surpreendentemente, a mídia minimizou quaisquer links para o
 
 https://twitter.com/i/status/1616552450583838722
 
-O *[Sydney Morning Herald](https://www.smh.com.au/national/fatal-heart-attacks-have-surged-in-australia-here-s-why-20230117-p5cd22.html)* na semana passada também cobriu o recente aumento de ataques cardíacos, relatando: “Mais de 10.200 australianos morreram de doença cardíaca isquêmica nos primeiros oito meses de 2022 – cerca de 17% a mais do que seria esperado em um ano normal”.*[](https://www.smh.com.au/national/fatal-heart-attacks-have-surged-in-australia-here-s-why-20230117-p5cd22.html)*
+O *[Sydney Morning Herald](https://www.smh.com.au/national/fatal-heart-attacks-have-surged-in-australia-here-s-why-20230117-p5cd22.html)* na semana passada também cobriu o recente aumento de ataques cardíacos, relatando: “Mais de 10.200 australianos morreram de doença cardíaca isquêmica nos primeiros oito meses de 2022 – cerca de 17% a mais do que seria esperado em um ano normal”.**
 
 O relatório do *Herald* continua citando os médicos que atribuem as mortes a um aumento nos fatores de risco causados ​​pela pandemia e cita um estudo recente na Austrália que:
 

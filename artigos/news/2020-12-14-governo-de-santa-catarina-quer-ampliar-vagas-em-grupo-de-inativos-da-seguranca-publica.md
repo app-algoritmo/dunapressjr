@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Entrou em tramitação nesta semana na Assembleia Legislativa a proposta do governo estadual que possibilitará a abertura de mais mil vagas no Corpo Temporário de Inativos da Segurança Pública (Ctisp). A medida está prevista no [Projeto de Lei Complementar (PLC) 22/2020](http://www.alesc.sc.gov.br/legislativo/tramitacao-de-materia/PLC/0022.2/2020), apresentado pelo Poder Executivo na semana passada.
 
 A proposta altera a Lei Complementar 380/2007, que instituiu o Ctisp em Santa Catarina. O corpo é composto por policiais e bombeiros militares da reserva remunerada ou reformados por idade; policiais civis, peritos oficiais, agentes penitenciários e socioeducativos aposentados por tempo de serviço. Eles desempenham funções internas nas repartições públicas estaduais e municipais, principalmente de guarda e serviços diversos.
@@ -43,7 +42,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Receita das vendas externas chegou a R$ 22,8 bilhões, com alta de 8,7%.
 
-As exportações de café brasileiro da safra 2019-2020 – iniciada em julho de 2019 e encerrada em junho deste ano – totalizaram 39,9 milhões de sacas de 60 quilos. O resultado, apesar de ser 3,6% menor do que o registrado na safra anterior (41,4 milhões de sacas), representa o segundo maior volume histórico de exportações brasileiras de café. 
+As exportações de café brasileiro da safra 2019-2020 – iniciada em julho de 2019 e encerrada em junho deste ano – totalizaram 39,9 milhões de sacas de 60 quilos. O resultado, apesar de ser 3,6% menor do que o registrado na safra anterior (41,4 milhões de sacas), representa o segundo maior volume histórico de exportações brasileiras de café.
 
 Já receita das exportações chegou a R$ 22,8 bilhões, 8,7% superior à da safra anterior. Os dados são do Conselho dos Exportadores de Café do Brasil (Cecafé).
 
@@ -22,4 +21,4 @@ Para o presidente da Cecafé, Nelson Carvalhaes, apesar de o ano de 2020 estar s
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

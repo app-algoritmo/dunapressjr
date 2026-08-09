@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O decreto está publicado no Diário Oficial da União desta sexta-feira (3).
 
 O decreto que regulamenta a [**Lei nº 14.237, de 19 de novembro de 2021**](https://in.gov.br/web/dou/-/lei-n-14.237-de-19-de-novembro-de-2021-360896474), que instituiu o Auxílio Gás, foi assinado nessa quinta-feira (2) pelo presidente da República, Jair Bolsonaro, e publicado no [***Diário Oficial da União***](https://www.in.gov.br/en/web/dou/-/decreto-n-10.881-de-2-de-dezembro-de-2021-364261567), nesta sexta-feira (3).
@@ -24,10 +23,6 @@ O decreto viabiliza também a implantação do benefício a partir de dezembro d
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

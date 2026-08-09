@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa descolou-se do exterior e caiu por segundo dia seguido.
 
 Num dia de otimismo nos mercados globais com a [**posse do presidente**](https://agenciabrasil.ebc.com.br/internacional/noticia/2021-01/joe-biden-toma-posse-como-46o-presidente-dos-estados-unidos) norte-americano, Joe Biden, o dólar caiu depois de três altas seguidas. A euforia não se repetiu no mercado de ações. A bolsa de valores caiu pela segunda sessão consecutiva, descolando-se do exterior.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

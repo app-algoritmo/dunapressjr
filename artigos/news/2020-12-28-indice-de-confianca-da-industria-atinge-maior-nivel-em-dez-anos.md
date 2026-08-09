@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Segundo a FGV, índice registrou 114,9 pontos em dezembro.
 
 O Índice de Confiança da Indústria (ICI), divulgado hoje (28) pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV Ibre), registrou em dezembro o maior valor desde maio de 2010, quando ficou em 116,1 pontos. Com o avanço de 1,8 ponto este mês, o ICI atingiu 114,9 pontos e fechou o quarto trimestre de 2020 com média de 113,1 pontos, 14,7 pontos a mais do que a média do terceiro trimestre, que ficou em 98,4.
@@ -36,8 +35,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

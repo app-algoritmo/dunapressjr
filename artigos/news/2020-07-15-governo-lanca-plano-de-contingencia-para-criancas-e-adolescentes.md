@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ação integrada busca proteger os mais vulneráveis durante pandemia do coronavírus.
 
 No dia em que o Estatuto da Criança e do Adolescente (ECA) completa 30 anos, o Governo Federal anunciou plano de contingência para proteger as crianças e os adolescentes vulneráveis neste período de pandemia. Os investimentos já passam dos R$ 125,6 bilhões.
@@ -74,6 +73,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

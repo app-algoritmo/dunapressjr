@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Na 300ª Reunião Ordinária de seu Conselho de Administração, autarquia avaliou pauta com 31 projetos industriais e de serviços para a área da Zona Franca de Manaus.
 
 Durante a manhã desta quinta-feira (21), a Superintendência da Zona Franca De Manaus (Suframa) realizou a 300ª Reunião Ordinária do Conselho de Administração da Suframa (CAS), a primeira em formato itinerante, ocorrida em Porto Velho (RO). Em [pauta](https://www.gov.br/suframa/pt-br/assuntos/cas/pauta/CAS300r.o.Pauta.pdf), 31 projetos industriais e de serviços que preveem investimentos totais de R$ 7,95 bilhões e a geração de 1.409 novos empregos na área de atuação da Suframa ao longo dos próximos três anos. A reunião foi presidida pelo secretário especial de Produtividade e Competitividade do Ministério da Economia, Carlos Da Costa, e contou com a participação do superintendente da Suframa, Algacir Polsin.
@@ -31,4 +30,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! Shortcode
 
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! Shortcode
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Shortcode

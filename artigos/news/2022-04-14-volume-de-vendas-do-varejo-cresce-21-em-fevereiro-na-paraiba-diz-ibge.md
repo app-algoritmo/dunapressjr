@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ### Os resultados positivos alcançaram 26 das 27 unidades da federação.
 
-O volume de vendas do varejo paraibano fechou fevereiro com crescimento de 2,1% quando comparado ao mês anterior, segundo dados da Pesquisa Mensal de Comércio (PMC), divulgada pelo IBGE (Instituto Brasileiro de Geografia e Estatística) nesta quarta-feira (13).  O resultado foi acima da média nacional de 1,1% e representa o segundo mês de alta do indicador. 
+O volume de vendas do varejo paraibano fechou fevereiro com crescimento de 2,1% quando comparado ao mês anterior, segundo dados da Pesquisa Mensal de Comércio (PMC), divulgada pelo IBGE (Instituto Brasileiro de Geografia e Estatística) nesta quarta-feira (13). O resultado foi acima da média nacional de 1,1% e representa o segundo mês de alta do indicador.
 
 Segundo o IBGE, os resultados positivos alcançaram 26 das 27 unidades da federação. Somente Tocantins teve resultado negativo (-3,7%).
 
@@ -22,8 +21,4 @@ Fonte: paraiba.pb.gov.br
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

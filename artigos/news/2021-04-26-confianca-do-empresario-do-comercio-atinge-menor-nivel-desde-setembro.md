@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice cai 6,4% de março para abril deste ano e chega a 95,7 pontos.
 
 O Índice de Confiança do Empresário do Comércio (Icec) caiu 6,4% de março para abril deste ano e chegou a 95,7 pontos. Essa foi a quinta queda consecutiva do indicador, que atingiu o menor patamar desde setembro do ano passado (91,6 pontos). Os dados foram divulgados hoje (26) pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC).
@@ -25,5 +24,3 @@ Na comparação com abril do ano passado, as quedas foram de 35,7% na situação
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

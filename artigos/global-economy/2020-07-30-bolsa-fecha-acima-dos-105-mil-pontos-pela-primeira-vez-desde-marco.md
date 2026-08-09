@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Dólar encerrou em leve alta após reunião do Fed.
 
 Principal índice da B3, a bolsa de valores brasileira, o Ibovespa fechou acima dos 105 mil pontos pela primeira vez desde março. O dólar comercial oscilou ao longo do dia e encerrou com leve alta, após a reunião do Federal Reserve (Fed), Banco Central norte-americano.
@@ -28,4 +27,4 @@ Passada a decisão de política monetária pelo Fed, os investidores monitoram o
 
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Paulo Whitaker/Direitos Reservados
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

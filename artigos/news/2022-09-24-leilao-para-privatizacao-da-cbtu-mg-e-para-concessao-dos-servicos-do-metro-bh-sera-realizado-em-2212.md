@@ -8,14 +8,13 @@ categories:
 - News
 ---
 
-
 ### Edital foi publicado no DOU e investimento projetado é de aproximadamente R$ 4 bilhões, ao longo de 30 anos de contrato.
 
 Foi publicado, nesta sexta-feira (23),[ o edital](https://www.in.gov.br/web/dou/-/aviso-de-licitacao-431408674) para privatização da Companhia Brasileira de Trens Urbanos em Minas Gerais, CBTU-MG, e para a concessão dos serviços prestados no metrô da região metropolitana de Belo Horizonte (MG). A empresa vencedora do leilão será a controladora da CBTU-MG e terá a reponsabilidade pela gestão, operação e manutenção da rede, incluindo a Linha 1 (Novo Eldorado–Vilarinho) e a Linha 2 (Nova Suíça-Barreiro). O Leilão ocorrerá dia 22 de dezembro, na B3, em São Paulo -SP.
 
-O secretário especial do Programa de Parcerias de Investimentos do Ministério da Economia, Bruno Westin, participou da reunião que anunciou o lançamento do edital e destacou que o projeto de desestatização foi construído com diálogo entre todos os envolvidos, inclusive os colaboradores da CBTU. 
+O secretário especial do Programa de Parcerias de Investimentos do Ministério da Economia, Bruno Westin, participou da reunião que anunciou o lançamento do edital e destacou que o projeto de desestatização foi construído com diálogo entre todos os envolvidos, inclusive os colaboradores da CBTU.
 
-O investimento projetado é de aproximadamente R$ 4 bilhões ao longo de 30 anos do contrato. Atualmente, a rede de transporte metroferroviário de Minas Gerais possui apenas uma linha (Linha 1), que atende aos municípios de Belo Horizonte e de Contagem, compreendendo 19 estações e 28,1 km de extensão. Com a concessão, será feita a requalificação e ampliação da linha existente em mais uma estação (Novo Eldorado, no Município de Contagem), assim como a construção da Linha 2, cuja obra havia começado em 2004, mas depois foi paralisada, e que terá sete novas estações e 10,5 km de extensão. A previsão é que as novas estações comecem a ser inauguradas a partir do 4º ano da concessão e que todas estejam operacionais no 6º ano. 
+O investimento projetado é de aproximadamente R$ 4 bilhões ao longo de 30 anos do contrato. Atualmente, a rede de transporte metroferroviário de Minas Gerais possui apenas uma linha (Linha 1), que atende aos municípios de Belo Horizonte e de Contagem, compreendendo 19 estações e 28,1 km de extensão. Com a concessão, será feita a requalificação e ampliação da linha existente em mais uma estação (Novo Eldorado, no Município de Contagem), assim como a construção da Linha 2, cuja obra havia começado em 2004, mas depois foi paralisada, e que terá sete novas estações e 10,5 km de extensão. A previsão é que as novas estações comecem a ser inauguradas a partir do 4º ano da concessão e que todas estejam operacionais no 6º ano.
 
 Além disso, caberá ao futuro operador efetivar a renovação da frota de trens e a modernização dos sistemas e da infraestrutura do Metrô-BH, resultando em uma operação mais eficiente e segura. O edital também prevê outros benefícios aos passageiros, como a disponibilização de sanitários gratuitos nas estações, a melhoria na conexão com as linhas de ônibus municipais e intermunicipais, e a redução do intervalo entre as viagens, resultando em menor tempo de espera pelos usuários.
 
@@ -37,8 +36,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

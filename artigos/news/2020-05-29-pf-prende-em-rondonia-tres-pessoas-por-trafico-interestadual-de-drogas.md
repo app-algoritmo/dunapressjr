@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ji-Paraná/RO – Na manhã desta quarta-feira (27/05/2020), a Polícia Federal prendeu três indivíduos, sendo duas mulheres e um homem, em flagrante do crime de tráfico de drogas interestadual.
 
 A prisão se deu após atividade de inteligência desenvolvida por policiais federais da Delegacia de Ji-Paraná/RO.
@@ -19,5 +18,3 @@ A substância apreendida, que pesou cerca de um quilograma, após os testes prel
 Os procedimentos do flagrante, com a lavratura do respectivo Auto de Prisão em Flagrante, deram-se na Delegacia de Polícia Federal de Ji-Paraná/RO, que coordenou toda a ação e de onde foram os indiciados encaminhados ao sistema penitenciário, para permanecer à disposição da Justiça do Estado de Rondônia.
 
 Comunicação Social da Polícia Federal em Rondônia/RO
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 As ações conjuntas envolvendo o Ministério da Defesa e a iniciativa privada no combate à COVID-19 têm alcançado números expressivos. Desde o final do mês de março a Força Aérea Brasileira (FAB), por meio da ALA 3 de Canoas (RS), tem auxiliado um grupo de empresários da Região Sul do País no trabalho de distribuição de protetores faciais para diversas regiões do país.
 
 Nesta quinta-feira (18), o representante do grupo empresarial, Rossano Faé Mendonça, esteve com o Secretário de Produtos de Defesa do Ministério, Marcos Degaut, para agradecer o apoio prestado. No total, a FAB transportou cerca de 15 mil protetores, que foram distribuídos gratuitamente nas cidades de Anápolis (GO), Florianópolis (SC), Maceió (AL) e na capital Federal.
@@ -20,5 +19,3 @@ O Secretário Degaut destacou que parcerias como esta têm feito a diferença no
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

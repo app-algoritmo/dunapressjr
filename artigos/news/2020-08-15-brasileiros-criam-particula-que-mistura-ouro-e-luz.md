@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Experiência científica protagonizada por pesquisadores brasileiros e alemães conseguiu dar novo passo no universo da física quântica ao criar uma partícula de ouro-luz inédita no planeta.
 
 Com a participação de Bruno Vieira Gondim, doutorando da Universidade Federal do Ceará (UFC) e bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), e conduzida por Eduardo Bedê Barros, chefe do Departamento de Física da mesma instituição, a descoberta foi publicada na Revista *Nature*, com o título de *[Deep strong light-matter coupling in plasmonic nanoparticle crystals](https://www.nature.com/articles/s41586-020-2508-1)*, no último dia 29.
@@ -26,6 +25,6 @@ Fonte Redação CCS/CAPES
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)****

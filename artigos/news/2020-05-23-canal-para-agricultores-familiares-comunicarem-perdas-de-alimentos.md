@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O objetivo é garantir que as informações cheguem ao Mapa de forma rápida e organizada para que novas medidas sejam avaliadas.
 
 Ministério da Agricultura, Pecuária e Abastecimento (Mapa), por meio da Secretaria de Agricultura Familiar e Cooperativismo (SAF), anunciou nesta quarta-feira (13) um novo canal exclusivo e gratuito no WhatsApp para que agricultores familiares comuniquem o órgão federal sobre possíveis perdas de alimentos ocasionadas por problemas na comercialização em função da Covid-19.
@@ -20,11 +19,9 @@ Segundo o secretário de Agricultura Familiar e Cooperativismo do Mapa, Fernando
 
 Informações sobre as ações adotadas pelo Mapa para garantir o abastecimento de alimentos no país e apoiar os produtores rurais neste momento de pandemia do novo coronavírus estão reunidas na página especial [“Mapa Contra Coronavírus”](https://www.gov.br/agricultura/pt-br/mapacontracoronavirus).
 
--> [Clique aqui para acessar o Disque Perda de Alimentos no WhatsApp](http://api.whatsapp.com/send?1=pt_BR&phone=556198733519)
+whatsapp.com/send?1=pt_BR&phone=556198733519)
 
 Fonte: MAPA – gov.br / Imagem em destaque: MAPA
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

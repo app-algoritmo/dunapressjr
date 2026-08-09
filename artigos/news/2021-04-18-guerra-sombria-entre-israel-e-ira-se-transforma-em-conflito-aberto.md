@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O Estado judeu não vai esperar de braços cruzados até que o acordo nuclear falho entre o Irã e seis potências mundiais seja reativados.
 
 O serviço de inteligência estrangeira de Israel, Mossad, fez isso novamente.
@@ -94,5 +93,3 @@ Fonte: https://www.israelnationalnews.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

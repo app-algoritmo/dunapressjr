@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Queda veio após alta de 2,1 pontos de janeiro para fevereiro.
 
 O Índice de Confiança do Comércio (Icom), medido pela Fundação Getulio Vargas (FGV), recuou 0,2 ponto na passagem de fevereiro para março deste ano e chegou a 86,8 pontos, em uma escala de 0 a 200 pontos. A queda veio depois de uma alta de 2,1 pontos na passagem de janeiro para fevereiro.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

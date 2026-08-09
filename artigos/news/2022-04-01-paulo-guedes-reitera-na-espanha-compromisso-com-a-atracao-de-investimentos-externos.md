@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Ministro da Economia se reuniu com a ministra espanhola Nadia Calviño e com representantes do Conselho Empresarial Brasil – Espanha.
 
 O ministro da Economia, Paulo Guedes, destacou na manhã desta quinta-feira (31), durante reunião com a ministra da Economia espanhola, Nadia Calviño, em Madri, a importância de dar continuidade à agenda de reformas econômicas em curso no Brasil para garantir a recuperação diante da crise decorrente da pandemia da Covid-19. Na ocasião, ele também reforçou o compromisso brasileiro com o desenvolvimento sustentável.
@@ -31,8 +30,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

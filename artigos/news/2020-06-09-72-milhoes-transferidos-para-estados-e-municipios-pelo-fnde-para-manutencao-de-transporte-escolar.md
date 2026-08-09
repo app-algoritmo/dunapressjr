@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Repasse é obrigatório por lei e, em momento de pandemia, ajuda, por exemplo, a pagar consertos dos veículos para quando as aulas retornarem.
 
 Ainda nesta semana, R$ 72 milhões estarão na conta de prefeituras e de governos estaduais. O dinheiro é referente à quinta parcela do Programa Nacional de Apoio ao Transporte do Escolar (PNATE) — ao todo, são dez por ano. Com o recurso, os governos locais podem, por exemplo, consertar veículos e deixá-los prontos para quando as aulas retornarem.
@@ -22,8 +21,6 @@ A transferência é automática, sem necessidade de convênio, e os valores deve
 **Leia também: [FNDE publica novas regras para o Programa Nacional de Apoio ao Transporte do Escolar](http://portal.mec.gov.br/component/content/article?id=89741)**
 
 Fonte: gov.br/mec / Imagem em destaque: jbv
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

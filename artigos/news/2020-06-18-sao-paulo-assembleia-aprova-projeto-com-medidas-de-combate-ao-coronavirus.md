@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em sessão extraordinária em ambiente virtual realizada nesta terça-feira (16/6), o Plenário da Assembleia Legislativa aprovou o substitutivo ao Projeto de Lei 350/2020, construído de forma conjunta entre os parlamentares, que estabelece medidas emergenciais para auxiliar o Estado no combate ao coronavírus e suas consequências. Na votação, 64 parlamentares foram favoráveis ao projeto e 17 contrários.
 
 Contrária ao artigo 33 do projeto, que prevê a aplicação de multas para quem divulgar informação que sabe ser falsa sobre a Covid-19, a deputada Janaina Paschoal (PSL) solicitou um destaque para que o artigo passasse por votação em separado. Segundo a deputada, seria preciso definir o que é fake news e não adotar uma medida passível de interpretações divergentes. A manutenção do artigo no texto original acabou aprovada por 53 votos favoráveis e 25 contrários.
@@ -46,7 +45,7 @@ Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com inf
 
 Clique no link abaixo para assinar
 
-### [https://dunapress.org/subscription-plan/?aff=Vitor](https://dunapress.org/subscription-plan/?aff=Vitor)
+### [https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)
 
 Experimente por 7 Dias Gratuitos – Nossos Valores de Assinatura
 

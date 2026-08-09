@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Dos 100 mil cientistas mais influentes do mundo 600 são brasileiros e desses, 18 trabalham como pesquisadores de seis unidades vinculadas ao Ministério da Ciência, Tecnologia e Inovações (MCTI). O estudo promovido pela Universidade de Stanford (EUA) foi publicado em outubro pela PLOS Biology Journal, importante periódico de divulgação científica. A pesquisa liderada pelo médico-cientista John Ioannidis elencou o ranking dos pesquisadores mais renomados a partir dos dados de citação feitas até o ano de 2019. Para chegar a essa lista, o estudo utilizou índices bibliométricos da base de dados Scopus, e avaliou a carreira dos cientistas dentro de dois rankings: o impacto do pesquisador em um único ano - neste caso o ano de 2019 - e o impacto do pesquisador ao longo da carreira.
 
 O Instituto Nacional de Pesquisas Espaciais (INPE) unidade de pesquisa do MCTI teve cinco pesquisadores na lista. São eles: Mangalathayil Ali Abdu, Walter Demetrio Gonzalez Alarcon, Antônio Fernando Bertachini de Almeida Prado, Dilce de Fátima Rossetti e Rajaram Purushottam Kane (já falecido).
@@ -34,7 +33,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

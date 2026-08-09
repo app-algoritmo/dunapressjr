@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Justiça e Segurança Pública (MJSP), por meio da Secretaria Nacional de Segurança Pública (Senasp), lança, nesta segunda-feira (25), o aplicativo Sinesp Agente de Campo. Trata-se de uma ferramenta digital, rápida e gratuita para acesso policial imediato a mandados de prisão e para busca nacional de veículos roubados, entre outras operações cotidianas das polícias.
 
 A modalidade inédita começa a funcionar de imediato, com objetivo de agilizar o trabalho de, inicialmente, policiais que atuam nas ruas do Pará, de Tocantins e do Acre. A previsão é, após a fase de teste, estender o uso do aplicativo para todo o país.
@@ -26,5 +25,3 @@ Segundo Wellington Silva, essa nova ferramenta aumenta os esforços do Ministér
 Investimento - O MJSP planeja investir, nos próximos três anos, R$ 32 milhões em infraestrutura digital, com objetivo de facilitar a integração e análise de grandes volumes de dados na segurança pública. Desde o ano passado, o Big Data Inteligência Artificial tem sido constantemente fortalecido com novas soluções e recursos de tecnologias, sem nenhum custo para os estados.
 
 Fonte: Portal de Imprensa do Ministério da Justiça e Segurança Pública.
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,7 +7,6 @@ categories:
 - Magazine
 ---
 
-
 ## -O Acordo milionário entre o Gabão e a Noruega ajudará o país centro-africano à preservar suas valiosas florestas.
 
 O novo acordo tem um limite de US$ 150 milhões e representa um grande avanço nos esforços para preservar a segunda maior floresta tropical do mundo na África Central. As ambições do Gabão são altas. Com esse acordo, vamos ajudá-los a alcançar a meta de preservar 98% da floresta tropical - tão grande quanto o Reino Unido.
@@ -22,9 +21,9 @@ Ministro do Clima e Meio Ambiente, Ola Elvestuen.
 
 O acordo com o Gabão foi assinado neste mês (setembro), antes da Cúpula do Clima da ONU em Nova York. A contribuição da Noruega para o desmatamento tropical é uma das medidas climáticas mais importantes da Noruega internacionalmente.
 
-Antes da cúpula climática iniciada pelo Secretário-Geral da ONU, a Noruega atuava particularmente nas chamadas "soluções climáticas baseadas na natureza", ou seja, a própria capacidade da natureza de combater e conter as mudanças climáticas. Neste caso, a luta contra o desmatamento tropical é de importância central.  
+Antes da cúpula climática iniciada pelo Secretário-Geral da ONU, a Noruega atuava particularmente nas chamadas "soluções climáticas baseadas na natureza", ou seja, a própria capacidade da natureza de combater e conter as mudanças climáticas. Neste caso, a luta contra o desmatamento tropical é de importância central.
 
-**Fonte**: [Norway GOV](https://www.regjeringen.no/no/aktuelt/norge-inngar-millionavtale-med-gabon/id2669658/) 
+**Fonte**: [Norway GOV](https://www.regjeringen.no/no/aktuelt/norge-inngar-millionavtale-med-gabon/id2669658/)
 
 ## Ver também
 
@@ -37,5 +36,3 @@ https://dunapress.org/2020/03/01/a-grande-farsa-das-organizacoes-meio-ambientais
 https://dunapress.org/2021/04/04/este-e-o-incentivo-em-dinheiro-que-a-noruega-esta-oferecendo-para-que-outras-nacoes-protejam-suas-florestas/
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

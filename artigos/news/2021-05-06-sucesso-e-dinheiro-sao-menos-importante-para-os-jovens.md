@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Novo comportamento, que valoriza a busca do significado na vida e na carreira, deve nortear a Educação das próximas gerações.
 
 A geração atual de jovens caminha para mudanças significativas na forma de lidar com bens materiais e com o sucesso. É a transformação da sociedade com foco apenas no que o capitalismo tem a oferecer para uma sociedade que busca também um propósito. De acordo com o idealizador do Congresso Internacional de Felicidade e professor da Universidade Positivo, Gustavo Arns, os jovens da atualidade procuram a auto realização pessoal e profissional. "Essa busca pode, inclusive, ser apontada como a raiz dos altos índices de depressão, ansiedade, stress, doenças mentais e emocionais que estamos vendo e vivendo", explica Arns.
@@ -18,7 +17,7 @@ Segundo educadores, isso deve trazer reflexos na escola e na forma de educar ess
 
 Segundo ele, é preciso enxergar quem é o jovem de hoje e o que o move. "A geração atual tem sua base nos ídolos do individualismo. São jovens que buscam estabelecer metas em função do exemplo de influenciadores digitais. O que a escola precisa fazer é adotar um olhar que a leve a se comunicar de forma eficiente com o aluno, a ponto de conseguir guiá-lo em sua jornada de formação e transformação", destaca.
 
-O primeiro passo é começar o mais cedo possível, ainda na Educação Infantil. O educador destaca que, desde cedo, é preciso desenvolver essa consciência financeira a partir de exemplos e estímulos, sendo um trabalho que deve ser realizado em conjunto entre família e escola. "Orientações sobre a importância de poupar, conversas que explicam a importância do trabalho e da remuneração, os cuidados para se evitar o desperdício de água ou energia elétrica que impactam na conta mensal são exemplos de práticas que pais e professores podem adotar na hora de estimular a consciência financeira das crianças", reforça Vargas. 
+O primeiro passo é começar o mais cedo possível, ainda na Educação Infantil. O educador destaca que, desde cedo, é preciso desenvolver essa consciência financeira a partir de exemplos e estímulos, sendo um trabalho que deve ser realizado em conjunto entre família e escola. "Orientações sobre a importância de poupar, conversas que explicam a importância do trabalho e da remuneração, os cuidados para se evitar o desperdício de água ou energia elétrica que impactam na conta mensal são exemplos de práticas que pais e professores podem adotar na hora de estimular a consciência financeira das crianças", reforça Vargas.
 
 Dessa forma, à medida que as crianças crescem mais atentas a tudo isso, a escola terá jovens mais propensos a considerar valores fundamentais, como dar valor ao que se tem, estímulo ao consumo consciente e à prática do desapego - que minimiza o exagero do ter e acumular, além do autocontrole em relação ao que se quer e o que realmente precisa. Vargas ainda ressalta um pilar muito importante: o planejamento. "É ele que vai tornar um sonho possível. Precisamos fazer o jovem refletir sobre o que ele precisa ou deseja e relacionar isso com o uso do dinheiro que ele tem ou pode vir a ter. É isso que mostra para os jovens que eles são capazes de realizar sonhos", garante.
 
@@ -33,7 +32,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

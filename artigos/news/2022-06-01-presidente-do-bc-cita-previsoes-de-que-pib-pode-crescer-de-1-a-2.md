@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Em audiência, Campos Neto fala sobre juros, desemprego e inflação.
 
 Em audiência pública nesta terça-feira (31) na Comissão de Defesa do Consumidor da Câmara dos Deputados, o presidente do Banco Central (BC), Roberto Campos Neto, citou previsões de instituições financeiras que projetam crescimento do Produto Interno Bruto (PIB, soma de todos os bens e serviços produzidos no país) de 1,5% a 2%. A previsão atual é de aumento em torno de 1%. Na audiência, o presidente do BC apresentou as perspectivas da autoridade monetária para juros e inflação no país.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

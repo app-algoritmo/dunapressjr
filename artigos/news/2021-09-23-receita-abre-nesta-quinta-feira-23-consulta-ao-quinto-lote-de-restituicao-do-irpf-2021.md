@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Serão contemplados 358 mil contribuintes, entre prioritários e não prioritários; valor total do crédito é de R$ 562 milhões.
 
 A partir das 10h de amanhã, quinta-feira (23), o quinto lote de restituição do Imposto sobre a Renda de Pessoa Física (IRPF) 2021 estará disponível para consulta. Esse lote contempla também restituições residuais de exercícios anteriores.
@@ -27,10 +26,6 @@ Caso o contribuinte não resgate o valor de sua restituição no prazo de um ano
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

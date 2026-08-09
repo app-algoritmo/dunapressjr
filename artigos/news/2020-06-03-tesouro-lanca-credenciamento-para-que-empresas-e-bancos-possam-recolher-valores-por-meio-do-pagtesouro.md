@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Tesouro Nacional publicou nesta terça-feira (02/06) [o edital de credenciamento](http://tesouro.gov.br/pt/credenciamento) para que as empresas Provedoras de Serviços de Pagamento possam realizar a prestação de serviço online de recolhimento de valores em favor de Órgãos e Entidades Públicas Federais à Conta Única do Tesouro Nacional, por meio da ferramenta PagTesouro.
 
 Poderão participar, por exemplo, as empresas que oferecem serviços de intermediação de pagamentos, como as de cartões de crédito, além de bancos com débito em conta e bancos com carteiras digitais.
@@ -30,5 +29,3 @@ Fonte: Tesouro Nacional
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

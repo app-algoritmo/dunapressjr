@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O ministro da Justiça e Segurança Pública, André Mendonça, participou de vídeoconferência, na sexta-feira (5), com o embaixador da União Europeia no Brasil, Ignacio Ybáñez.
 
 Durante a reunião, foi discutida a continuidade de ações conjuntas de combate ao crime organizado, proteção das fronteiras, melhorias no sistema prisional do país e combate aos crimes cibernéticos, por meio de programas já em curso como o “El Paccto” e os “Diálogos Setoriais”.
@@ -20,5 +19,3 @@ O ministro André Mendonça destacou a disposição do Ministério de continuar 
 Mendonça afirmou que o Ministério busca melhorar a gestão da informação e do conhecimento, integrando as forças policiais e fomentando uma melhor capacitação dos agentes de segurança pública.
 
 Fonte: Portal de Imprensa do Ministério da Justiça e Segurança Pública
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,8 +7,7 @@ categories:
 - Global Economy
 ---
 
-
-Alimentos, combustíveis, energia elétrica e imóveis são algumas das várias “vítimas” da altíssima inflação que o Brasil vem enfrentando durante todo o ano de 2021. E a previsão para o próximo ano não é animadora, visto que, também por conta da pandemia, a economia ainda está instável. 
+Alimentos, combustíveis, energia elétrica e imóveis são algumas das várias “vítimas” da altíssima inflação que o Brasil vem enfrentando durante todo o ano de 2021. E a previsão para o próximo ano não é animadora, visto que, também por conta da pandemia, a economia ainda está instável.
 
 Além disso, a proposta do governo para o reajuste do salário mínimo de 2022 será apenas para cobrir o Índice Nacional de Preços ao Consumidor (INPC), porém, alguns dos reajustes de preços são ainda maiores do que o do INPC, como o Índice Geral de Preços – Mercado (IGP-M), por exemplo, que reajusta os valores dos aluguéis. Ou seja, mesmo com esse aumento, o poder de compra do trabalhador que recebe o salário mínimo deve diminuir. O doutor em Desenvolvimento Econômico e professor da Escola de Negócios da Universidade Positivo (UP), Guilherme Marques Moura, aponta quatro contas que devem seguir pesando no bolso dos brasileiros no próximo ano.
 
@@ -41,7 +40,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

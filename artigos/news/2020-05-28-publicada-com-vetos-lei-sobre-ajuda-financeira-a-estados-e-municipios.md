@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Salários dos servidores ficarão sem reajuste até o fim de 2021.
 
 A lei que trata da ajuda financeira a estados, municípios e o Distrito Federal para o combate aos efeitos da pandemia do novo coronavírus foi sancionada com vetos pelo presidente Jair Bolsonaro. A Lei Complementar nº 173, de 27 de maio de 2020, está publicada no [Diário Oficial da União](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=28/05/2020&jornal=515&pagina=4) desta quinta-feira (28) e garante auxílio financeiro de até R$ 125 bilhões aos entes, em forma de envio direto de recursos, suspensão do pagamento de dívidas e renegociação com bancos e organismos internacionais.
@@ -31,5 +30,3 @@ Fonte: Agência Brasil – Imagem em destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

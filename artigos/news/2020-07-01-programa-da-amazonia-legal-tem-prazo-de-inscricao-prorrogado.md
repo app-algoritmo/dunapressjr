@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Instituições terão até 10 de julho para enviarem propostas. Serão financiadas 720 bolsas e até 90 projetos nos estados da Região Norte, Maranhão e Mato Grosso.
 
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) prorrogou, até o dia 10 de julho, o prazo para envio de propostas para o Programa de Desenvolvimento da Pós-Graduação (PDPG), na Amazônia Legal. A data anterior para inscrição terminaria nesta terça-feira, 30. Serão apoiados até 90 projetos com 720 bolsas de mestrado, doutorado e pós-doutorado e investimento de até R$ 56,4 milhões. A Amazônia Legal corresponde a 59% do território brasileiro e é composta pelos estados do Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima, Tocantins e parte do Maranhão.
@@ -23,7 +22,7 @@ Fonte: gov.br / Imagem em destaque: portalamazonia.com
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

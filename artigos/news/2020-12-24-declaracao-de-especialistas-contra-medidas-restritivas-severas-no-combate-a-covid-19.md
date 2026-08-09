@@ -21,7 +21,7 @@ Desafortunadamente, as previsões[[3]](#_ftn3) catastróficas do Dr. Neil Fergus
 
 As medidas de lockdown impostos pelos governadores dos Estados Federativos não são meios eficazes para o controle da pandemia e podem ter consequências devastadoras para as crianças dos países pobres[[4]](#_ftn4). A metodologia utilizada causou aumento do desemprego no primeiro trimestre, o desemprego, a fome e a miséria será o futuro daqueles que apoiam a tirania do isolamento total sem estratégias cientificas razoáveis a cada realidade.
 
-O Dr. Michael Levitt, da *Stanford University*, ganhador do Prêmio Nobel de Química em 2013, outro renomado cientista (um dos mais citados mundialmente), também se manifestou contrário[[5]](#_ftn5) às políticas de medidas severas que paralisaram a sociedade. 
+O Dr. Michael Levitt, da *Stanford University*, ganhador do Prêmio Nobel de Química em 2013, outro renomado cientista (um dos mais citados mundialmente), também se manifestou contrário[[5]](#_ftn5) às políticas de medidas severas que paralisaram a sociedade.
 
 Na Medicina sabe-se que toda e qualquer epidemia, em qualquer população, encerra-se quando se atinge a chamada “**Imunidade de Rebanho**”[[6]](#_ftn7), que significa o ponto em que a taxa de novas infecções se torna estável, um fenômeno pode ser auxiliado por vacinas, mas que não depende delas.
 
@@ -77,7 +77,7 @@ São Paulo, 23 de Dezembro de 2020.
 
 **Dra. Nise Hitomi Yamaguchi, ***oncologista e Mestre em Imunologia e Doutora em Medicina pela Faculdade de Medicina da Universidade de São Paulo, CRM/SP 48492.*
 
-**Dra. Giovanna Lara**, PhD Material Science and Technology, com Bacharelado em Ciências Biológicas (PUC-MG), Mestrado em Engenharia Biomédica (University of Calgary- Canadá) e Doutorado em Ciência e Tecnologia de Materiais (CDTN - Centro de Desenvolvimento da Tecnologia Nuclear). 
+**Dra. Giovanna Lara**, PhD Material Science and Technology, com Bacharelado em Ciências Biológicas (PUC-MG), Mestrado em Engenharia Biomédica (University of Calgary- Canadá) e Doutorado em Ciência e Tecnologia de Materiais (CDTN - Centro de Desenvolvimento da Tecnologia Nuclear).
 
 **Prof. MS. Marlon Derosa**, *Master em Bioética/Jérome Lejeune(Espanha), professor do curso Defesa da vida e pesquisador com três livros publicados. Membro do conselho editorial da editora Estudos Nacionais e ID Editora. Membro da comissão organizadora do Seminário Bioética Personalista.  *
 
@@ -105,7 +105,7 @@ São Paulo, 23 de Dezembro de 2020.
 
 **Dr. George Bonifácio Cavalcanti**, *CRM 10700, com Residência em Clínica Médica no HGV (recife) e Especialista em Gastroenterologia pela FBG.  *
 
-**Dra. Wilse Regina de Oliveira Segamarchi, **CRM/SP,  80021. 
+**Dra. Wilse Regina de Oliveira Segamarchi, **CRM/SP,  80021.
 
 **Dr. Djalma Marques**, *Médico, Mestre e Doutor em Medicina preventiva pela Universidade de Barcelona.*
 
@@ -135,7 +135,7 @@ São Paulo, 23 de Dezembro de 2020.
 
 **Cleyton Ferreira Nunes**, *Estudante de Técnico em Enfermagem e Seminarista cursando Bacharelado em Filosofia.*
 
-[[1]](#_ftnref1) KULLDORFF, Martin; GUPTA, Sunetra; BHATTACHARYA, Jay. **A Declaração de Great Barrington**, 2020. Tradução de Marta Gameiro Branco e David Amaral. Disponível em: [<bit.ly/2KRUVuV](https://bit.ly/2KRUVuV)>. Acesso em: 23 Dez. 2020.
+[[1]](#_ftnref1) KULLDORFF, Martin; GUPTA, Sunetra; BHATTACHARYA, Jay. **A Declaração de Great Barrington**, 2020. Tradução de Marta Gameiro Branco e David Amaral. Disponível em: <bit.ly/2KRUVuV>. Acesso em: 23 Dez. 2020.
 
 [[2]](#_ftnref2) Ibid.
 

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 “Temos uma tendência de poupar energia. Só que hoje tudo é feito para dar conforto e não precisarmos realizar nada. E, por isso, estamos fadados a adoecer”, alerta o profissional de educação física da Maternidade Escola Januário Cicco, da Universidade Federal do Rio Grande do Norte, da Rede Ebserh, Sávio Camargo.
 
 A falta de atividade física é um fator de risco para as doenças crônicas não-transmissíveis (DCNTs), como as cardiovasculares, cânceres e diabetes. Segundo a Organização Mundial de Saúde (OMS), 3,2 milhões de mortes em todo mundo são atribuídas à falta de atividade física. Isso significa uma morte a cada 10 segundos.
@@ -40,7 +39,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

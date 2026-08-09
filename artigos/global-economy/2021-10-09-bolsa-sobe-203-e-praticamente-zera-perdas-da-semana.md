@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Dólar fechou dia com pequena queda, vendido a R$ 5,51.
 
 Num dia de alívio no Brasil e no exterior, a bolsa de valores subiu mais de 2% e quase zerou as perdas na semana. O dólar chegou a cair para R$ 5,48, mas a queda perdeu força, com a moeda fechando praticamente estável.
@@ -30,10 +29,6 @@ Na bolsa de valores, o anúncio do [**aumento do preço da gasolina e do gás de
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

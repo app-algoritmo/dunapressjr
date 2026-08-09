@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Projeto da LDO previa valor flexível, mas TCU foi contra ideia.
 
 No próximo ano, o governo federal poderá gastar R$ 247,118 bilhões a mais do que arrecadou sem considerar os juros da dívida pública. A meta de déficit primário para 2021 foi proposta nesta terça-feira (15) pelo Ministério da Economia em mensagem modificativa ao projeto de Lei de Diretrizes Orçamentárias (LDO) do próximo ano.
@@ -38,8 +37,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

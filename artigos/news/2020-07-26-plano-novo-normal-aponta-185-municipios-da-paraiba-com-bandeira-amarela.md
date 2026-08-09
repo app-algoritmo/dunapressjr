@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 De acordo com o levantamento, 185 (83%) municípios possuem bandeira amarela; 22 (10%) bandeira laranja; 16 (7%) bandeira verde; e nenhum bandeira vermelha.
 
 Já está disponível na página oficial do Governo do Estado (https://paraiba.pb.gov.br/diretas/saude/coronavirus/novonormalpb) a 4ª avaliação do ‘Plano Novo Normal Paraíba’. As novas bandeiras que orientam a retomada das atividades em todo o Estado e subsidiam os gestores municipais acerca do protocolo de controle da propagação do novo coronavírus apontam que 93% dos 223 municípios paraibanos estão com bandeira laranja ou amarela. A nova etapa de avaliação terá vigência entre os dias 27 de julho e 10 de agosto.
@@ -28,4 +27,4 @@ Estão liberados para o funcionamento, em qualquer bandeira, salões de beleza e
 
 Fonte: paraiba.pb.gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

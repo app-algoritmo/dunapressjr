@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Quase 5.000 pessoas participaram do estudo randomizado. 1,8% dos usuários de máscara contraíram COVID contra 2,1% do grupo de controle.
 
 Um estudo publicado em novembro de 2020,  no *Annals of Internal Medicine* projetado para testar a eficácia do uso de máscara facial em proteger o usuário de contrair coronavírus mostrou que não há diferença estatística entre o grupo que usa máscaras e o grupo que não as usa.
@@ -31,7 +30,3 @@ Fonte: [https://www.israelnationalnews.com/News/News.aspx/291576](https://www.is
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - Literature
 ---
 
-
 Quase um ano após comemorar seu primeiro beijo, a adolescente judia do tempo de guerra Renia Spiegel usou seu diário em junho de 1942 para orar por sua vida.
 
 Os nazistas alemães acabaram de matar todos os judeus em um distrito de sua cidade de Przemysl, no sul da Polônia, exigindo que muitos cavassem suas próprias sepulturas.
@@ -100,5 +99,3 @@ Fonte: https://www.timesofisrael.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Países firmaram acordo para ampliar cooperação em tecnologia.
 
 O ministro das Comunicações, Fábio Faria, se reuniu nesta segunda-feira (7) com o ministro israelense Yoaz Hendel para discutir infraestrutura, implementação e compartilhar experiências sobre a chegada da quinta geração de internet móvel, o 5G, em ambos os países.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

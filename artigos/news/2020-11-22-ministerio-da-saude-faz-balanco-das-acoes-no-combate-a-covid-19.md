@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Desde o início da crise provocada pela Covid-19, o Governo Federal vem fortalecendo a estrutura do Sistema Único de Saúde (SUS) com entregas de equipamentos, insumos e recursos para o combate à doença. Por meio do Ministério da Saúde, o Governo já destinou aos 26 estados e ao Distrito Federal R$ 178,3 bilhões. Desse total, R$ 134,16 bilhões foram para serviços de rotina do SUS, e os outros R$ 44,17 bilhões para o enfrentamento da Covid-19.
 
 A pasta vem dando apoio irrestrito aos estados e municípios na aquisição e entrega de ventiladores pulmonares, Equipamentos de Proteção Individual (EPI), medicamentos, além da habilitação e prorrogação de leitos de UTI.
@@ -53,5 +52,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

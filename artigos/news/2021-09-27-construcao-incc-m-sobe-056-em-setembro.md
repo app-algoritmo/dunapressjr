@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice acumula alta de 11,99% no ano e de 16,37% em 12 meses.
 
 O Índice Nacional de Custo da Construção – M (INCC-M) subiu 0,56% em setembro, mesma variação do mês anterior. Com isso, o índice acumula alta de 11,99% no ano e de 16,37% em 12 meses. Em setembro do ano passado, a variação foi de 1,15%, com alta de 5,01% em 12 meses.
@@ -22,10 +21,6 @@ Entre as sete capitais pesquisadas, quatro apresentaram decréscimo em suas taxa
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

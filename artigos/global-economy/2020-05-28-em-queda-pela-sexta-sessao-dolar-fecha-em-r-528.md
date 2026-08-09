@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa encerrou no maior nível em quase três meses.
 
 Em um dia de alívio nos mercados internacionais, o dólar caiu pela sexta sessão seguida e fechou no menor valor em 40 dias. A bolsa de valores disparou e encerrou no nível mais alto em quase três meses.
@@ -31,5 +30,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

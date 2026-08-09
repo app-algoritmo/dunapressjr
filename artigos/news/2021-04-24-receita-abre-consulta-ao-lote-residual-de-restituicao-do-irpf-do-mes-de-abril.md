@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Crédito para mais de 120 mil contribuintes totaliza R$ 183 milhões.
 
 A Receita Federal abriu a consulta ao lote residual de restituição do Imposto de Renda Pessoa Física (IRPF) do mês de abril de 2021. O crédito bancário para 120.268 contribuintes será realizado no próximo dia 30, totalizando mais de R$ 183 milhões.
@@ -27,5 +26,3 @@ Caso o valor não seja creditado, o cidadão poderá contatar pessoalmente qualq
 Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

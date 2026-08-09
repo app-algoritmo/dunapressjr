@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### A média diária de vendas atingiu o maior patamar do ano segundo boletim da Receita Federal. Os resultados foram divulgados pela Receita Federal, no Boletim Impactos da Covid-19.
 
 o mês de julho, as vendas, tanto em valor como em quantidade de notas emitidas, cresceram 12,6% em todas as regiões brasileiras se comparadas com o mesmo mês de 2019. Os resultados foram divulgados pela Receita Federal, no Boletim Impactos da Covid-19, que monitora as vendas captadas com as Notas Fiscais Eletrônicas (NFe).
@@ -46,4 +45,4 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
-[Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link  e aplique o código JOMAFE e obtenha o desconto promocional.](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)
+[Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link  e aplique o código JOMAFE e obtenha o desconto promocional.](https://dunapress.org/produto/assinatura-leitor-premio/)

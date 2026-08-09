@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Anúncio de reforma administrativa e exterior animaram mercado.
 
 A divulgação de dados dos Estados Unidos e da China e o anúncio do [**envio da reforma administrativa**](https://agenciabrasil.ebc.com.br/politica/noticia/2020-09/governo-prorroga-auxilio-emergencial-de-r-300-ate-o-fim-do-ano) ao Congresso fizeram o mercado financeiro ter um dia de otimismo. O dólar comercial encerrou esta terça-feira (1º) vendido a R$ 5,385, com recuo de R$ 0,096 (-1,75%). A cotação está no menor nível desde 13 de agosto, quando a divisa havia fechado em R$ 5,367.
@@ -23,5 +22,3 @@ O mercado financeiro global também teve um dia de otimismo. Durante a madrugada
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

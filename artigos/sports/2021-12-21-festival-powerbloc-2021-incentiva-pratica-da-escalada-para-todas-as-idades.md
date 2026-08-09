@@ -7,7 +7,6 @@ categories:
 - Sports
 ---
 
-
 ## Competição realizada em Campinas reuniu tanto atletas experientes, em busca de pontos para o Ranking Paulista como crianças a partir de seis anos de idade.
 
 O Festival PowerBloc 2021 comprova que a escalada é um esporte com potencial de forte crescimento em 2022. Com menos de seis meses de sua abertura, o maior e mais moderno ginásio dedicado à modalidade no interior paulista recebeu 127 atletas e bom público no dia 11 de dezembro, em Campinas. Destes, o mais jovem tinha apenas seis anos de idade.
@@ -26,7 +25,7 @@ O Festival PowerBloc foi disputado na modalidade Boulder, na qual os escaladores
 **1) Deborah Albuquerque
 2) Luisa Negrão
 3) Rakel Castellar
-**
+
 Master Masculino
 **1) Gabriel Mariutti**
 **2) Riki Von**
@@ -69,7 +68,7 @@ Local: **Rua Rafael Sampaio, 187 - Vila Itapura - Campinas (SP)
 Fones: (19) 3232-2175 / (19) 99850-0753 (Celular/WhatsApp)
 
 **Mais informações: **
-**Sites**: 
+**Sites**:
 
 [www.powerbloc.com.br
 www.climbmania.com.br](https://click.presskit.com.br/url/84530826d2/6361388b6fc)
@@ -86,9 +85,3 @@ Fonte: ***ZDL Sports***
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
-
-[](https://click.presskit.com.br/url/84530826d2/6361388b6fc)

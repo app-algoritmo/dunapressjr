@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Com a proximidade do inverno, as pessoas com alergias respiratórias entram em pânico, não é mesmo? Não é à toa que no dia 07 de maio, é comemorado o Dia Nacional de Prevenção à Alergia. O tema é delicado e preocupa profissionais de saúde e pacientes por causa das inúmeras formas de reação do organismo ao problema.
 
 As chuvas e o tempo úmido, são climas propícios para o aumento de ácaros e fungos, deixando as pessoas mais expostas a doenças respiratórias alérgicas. O médico do Complexo Hospitalar Universitário Professor Edgard Santos, filial da Rede Ebserh, destaca que, nesta época do ano, pessoas com histórico de crises alérgicas costumam sofrer mais, principalmente em lugares fechados. “É exatamente nesses locais onde existe a maior aporte desses agentes alergênicos. Por exemplo, você imaginar que no quarto dos indivíduos ele dorme 6 horas de um dia de 24 horas. Então, pelo menos 25% do dia a pessoa está exposta a esses agentes”, explicou.
@@ -22,7 +21,7 @@ Segundo a Organização Mundial da Saúde, centenas de milhões de pessoas de to
 
 A melhor forma de prevenir as crises é evitar o contato com a causa do problema. Se a alergia envolve ácaros, deve-se ter um controle mais rigoroso do ambiente do alérgico. Medidas simples, como manter sempre o ambiente limpo, evitar acúmulo de poeira, não fumar, beber bastante água e se alimentar de forma saudável são fundamentais para viver bem.
 
-Outras dicas importantes são tomar sol, pois a vitamina D está relacionada ao cuidado de uma série de doenças do aparelho imunológico. Estar sempre bem agasalhado durante o frio e evitar cheiros fortes também ajudam a prevenir crises alérgicas. 
+Outras dicas importantes são tomar sol, pois a vitamina D está relacionada ao cuidado de uma série de doenças do aparelho imunológico. Estar sempre bem agasalhado durante o frio e evitar cheiros fortes também ajudam a prevenir crises alérgicas.
 
 *Luíza Tiné, para Blog da Saúde*.
 
@@ -35,5 +34,3 @@ Fonte: blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

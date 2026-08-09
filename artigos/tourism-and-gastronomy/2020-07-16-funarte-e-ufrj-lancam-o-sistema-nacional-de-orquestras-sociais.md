@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Programa promove capacitação musical e pedagógica para projetos orquestrais e inclusão social em todo o Brasil. Atividades foram iniciadas em 15 de julho.
 
 O Sistema Nacional de Orquestras Sociais (Sinos), fruto de parceria entre a Fundação Nacional de Artes – Funarte e a Universidade Federal do Rio de Janeiro – UFRJ, principia suas atividades dia 15 de julho, quarta-feira. O lançamento será com uma “live”, no canal Arte de Toda Gente, do Youtube, **às 18h**.
@@ -55,7 +54,7 @@ Lançamento: 15 de julho de 2020, quarta-feira, com “live”,
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

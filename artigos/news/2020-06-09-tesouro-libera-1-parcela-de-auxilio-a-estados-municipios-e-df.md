@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Recursos de R$ 15, 036 serão aplicados no combate à covid-19.
 
 O Banco do Brasil credita hoje (9) a primeira parcela de R$ 15,036 bilhões do auxílio financeiro da União aos estados, Distrito Federal e municípios, informou a Secretaria do Tesouro Nacional. O valor é referente ao auxílio financeiro de que trata a [Lei Complementar 173](https://dunapress.org/2020/05/28/publicada-com-vetos-lei-sobre-ajuda-financeira-a-estados-e-municipios/), sancionada no fim do mês passado para o combate aos efeitos da pandemia do novo coronavírus.
@@ -21,5 +20,3 @@ Fonte: Agência Brasil – imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

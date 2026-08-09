@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 **1 – Manter alimentação saudável**
 
 Uma alimentação saudável, desde os primeiros dias de vida, como a amamentação e o consumo de alimentos in natura, por exemplo, traz benefícios à saúde. Resulta na redução de fatores de risco para doenças, como o sobrepeso e o aumento do colesterol, além do bem estar físico e mental e da importância do vínculo entre mãe e bebê.
@@ -94,7 +93,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

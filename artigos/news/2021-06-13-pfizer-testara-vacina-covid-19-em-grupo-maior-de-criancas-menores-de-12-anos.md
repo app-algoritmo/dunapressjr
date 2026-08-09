@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O estudo vai inscrever até 4.500 crianças em mais de 90 centros clínicos nos Estados Unidos, Finlândia, Polônia e Espanha.
 
 A Pfizer disse na terça-feira que começará a testar sua vacina COVID-19 em um grupo maior de crianças com menos de 12 anos, após selecionar uma dose mais baixa da vacina em um estágio anterior do teste, informou a *Reuters* .
@@ -31,7 +30,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

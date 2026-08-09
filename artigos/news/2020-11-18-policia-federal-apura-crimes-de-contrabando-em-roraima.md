@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Grupo é suspeito de comercializar produtos proibidos em loja virtual.
 
 A Polícia Federal deflagrou hoje a segunda fase da operação Ilusion, com o objetivo de desarticular mais uma associação criminosa que estaria envolvida em crimes de contrabando e descaminho em Roraima.
@@ -23,5 +22,3 @@ Aqueles que adquirem produtos que sabem ser de origem criminosa ou mesmo com ind
 Fonte: Agência Brasil – Imagem de destaque: Arquivo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

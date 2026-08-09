@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Exportações somaram US$ 5,84 bilhões e importações totalizaram US$ 4,40 bilhões, com corrente de comércio alcançando US$ 10,24 bilhões, uma alta de 36%.
 
 A balança comercial brasileira abriu o ano de 2022 com superávit de US$ 1,45 bilhão na primeira semana de janeiro. Na comparação com janeiro do ano passado, pela média diária, as exportações cresceram 56,3%, somando US$ 5,84 bilhões, e as importações aumentaram 16%, totalizando US$ 4,40 bilhões. Assim, a corrente de comércio aumentou 36%, alcançando US$ 10,24 bilhões, de acordo com dados da Secretaria de Comércio Exterior (Secex) do Ministério da Economia divulgados nesta segunda-feira (10).
@@ -35,10 +34,6 @@ Já a Indústria de Transformação elevou as compras de óleos combustíveis de
 
 Fonte: gov.br
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

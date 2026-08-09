@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A Organização Mundial da Saúde quer que acreditemos que tanto o Ebola quanto o COVID-19 vieram de um morcego infectado. Mas eles?
 
 **HISTÓRIA EM UM OLHAR**
@@ -92,8 +91,6 @@ O Zaire Ebola também é a espécie preferida usada pelos laboratórios de pesqu
 
 *"É difícil não interpretar a narrativa da 'origem zoonótica da epidemia de Ebola na África Ocidental' apresentada por Fabian Leendertz e sua equipe como parte de um encobrimento ou ofuscamento da cadeia real de eventos que lançaram as bases para a epidemia de Ebola na África Ocidental. surto de ebola".*
 
-*...*
-
 *Em 2011, três anos antes do surto de Ebola na África Ocidental, a Reuters informou extensivamente sobre a pesquisa em Kenema. Os leitores aprenderam que um "laboratório no sudeste de Serra Leoa é um posto avançado da 'guerra ao terror' do governo dos EUA, financiado por um aumento nos gastos com biodefesa... [Em] ano fiscal de 2007, o NIH solicitou mais de." $ 1,9 bilhão. A Reuters concluiu que a participação dos Laboratórios Kenema nessa alocação foi de US$ 40 milhões.*
 
 *Em 25 de agosto de 2013, apenas alguns meses antes do surto de Ebola, o VHFC publicou um artigo em seu site intitulado "Pesquisadores do Scripps Research Institute fazem grandes progressos na luta contra o vírus Ebola". Este artigo foi removido posteriormente, mas sua existência é verificável com o WayBackMachine.*
@@ -156,8 +153,6 @@ Latham e Husseini então detalham os resultados dos testes de genoma, que sugere
 
 *[Uma] possibilidade é que a metabiota ou outros coletores usaram o laboratório VHFC em Kenema como parte de uma cadeia de frio para a preservação de amostras da Bacia do Congo*
 
-*...*
-
 *O laboratório Kenema também pode ter sido usado para triagem inicial ou teste de tais amostras. Uma terceira possibilidade é a troca formal ou informal de espécimes ou cepas com contatos ou colegas do VHFC em Kenema, talvez para auxiliar no desenvolvimento de tratamentos comerciais ou ferramentas de diagnóstico...*
 
 *Dadas essas possibilidades, vale ressaltar que em julho de 2014, durante a epidemia, o VHFC emitiu um breve relatório acusando a metabiota de uma atividade ainda mais arriscada.*
@@ -210,7 +205,7 @@ Referências:
 
 - [12 ](https://takecontrol.substack.com/p/ebola-lab-leak#footnote-anchor-12-110132904)[Independent Science News 25 de outubro de 2022](https://www.independentsciencenews.org/health/did-west-africas-ebola-outbreak-of-2014-have-a-lab-origin/)
 
-- [13 ](https://takecontrol.substack.com/p/ebola-lab-leak#footnote-anchor-13-110132904)[Trimestre Antropológico de janeiro de 2017](https://bit.ly/3nfBKhJ)
+- [13 ](https://takecontrol.substack.com/p/ebola-lab-leak#footnote-anchor-13-110132904)Trimestre Antropológico de janeiro de 2017
 
 - [14 ](https://takecontrol.substack.com/p/ebola-lab-leak#footnote-anchor-14-110132904)[PNAS 10 de novembro de 2022](https://www.pnas.org/doi/10.1073/pnas.2214427119)
 

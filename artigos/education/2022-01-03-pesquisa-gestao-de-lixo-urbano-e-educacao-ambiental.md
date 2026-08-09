@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 A pesquisa parte do estudo das características da formação histórica de Porto Nacional, isto é, de seu estabelecimento enquanto povoado, no final do século XVII, ainda durante o ciclo do ouro. Localizada nas margens do Alto Tocantins, a cidade era uma rota de passagem das mais importantes da região.
 
 A partir daí, os pesquisadores sustentam que as políticas de Educação Ambiental a serem implantadas na cidade correspondam a essas características de formação. São essas especificidades, portanto, que foram levadas em conta na proposta de valorização e aproveitamento das potencialidades turísticas do centro histórico da cidade e de suas belezas naturais.
@@ -49,7 +48,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

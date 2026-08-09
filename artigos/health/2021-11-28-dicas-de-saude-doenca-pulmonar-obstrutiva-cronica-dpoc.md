@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Cerca de 300 milhões de pessoas têm DPOC atualmente. A doença ainda é a 3ª causa de morte globalmente e muito prevalente, sobretudo em países de baixa e média renda.
 
 A doença pulmonar obstrutiva crônica (DPOC) constitui um grupo de doenças respiratórias que inclui a bronquite crônica (estreitamento das vias aéreas e paralisação da atividade dos cílios) e o enfisema (danos irreversíveis nos alvéolos), intimamente relacionadas ao tabagismo.
@@ -38,5 +37,3 @@ Diversos estudos demonstraram que, nos casos mais graves, o único tratamento m�
 [Dr. Dráuzio Varella](https://drauziovarella.uol.com.br/doencas-e-sintomas/doenca-pulmonar-obstrutiva-cronica-dpoc/)
 [Global Initiative for Chronic Obstructive Lung Disease (GOLD)](https://goldcopd.org/world-copd-day/)
 [Sociedade Brasileira de Pneumologia e Tisiologia](https://sbpt.org.br/portal/dia-mundial-dpoc-2020/)
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

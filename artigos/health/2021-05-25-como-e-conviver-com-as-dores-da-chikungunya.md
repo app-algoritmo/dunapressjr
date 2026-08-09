@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 As dores intensas nas articulações são as características mais marcantes da Chikungunya, doença causada pelo vírus transmitido pelo mosquito Aedes aegypti. Atualmente, milhares de pessoas ainda sofrem com as duras consequências deixadas pela enfermidade, que, em alguns casos, gera dores crônicas que duram semanas, meses, anos ou toda a vida da pessoa. Mas, afinal, como são essas dores? Como é feito o tratamento? Existe alguma forma de evitar?
 
 Para responder algumas dessas perguntas, conversamos com a reumatologista do Hospital Regional da Asa Norte (HRAN-DF), Maira Rocha. Ela explica que a evolução da doença varia bastante de pessoa para pessoa. “Em algumas pessoas a dor pode desaparecer em poucas semanas. Mas, normalmente, essas dores costumam durar um período médio de 12 a 18 meses. Porém, não é uma regra, existem casos de pessoas com dores persistentes por 3 ou 4 anos, por exemplo”, disse.
@@ -51,7 +50,3 @@ Fonte: http://www.blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

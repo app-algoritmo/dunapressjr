@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 ## Pesquisa conduzida pelo biomatemático da Universidade de Tel Aviv descobre meios surpreendentemente simples usados ​​por judeus famintos e perseguidos para interromper o tifo.
 
 O Gueto de Varsóvia, novembro de 1941. Cerca de 450.000 pessoas, a maioria deles judeus, foram amontoados em uma área de cerca de 1,3 milhas quadradas, dez vezes a densidade das cidades altas dos dias modernos.
@@ -63,5 +62,3 @@ Fonte: https://www.timesofisrael.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

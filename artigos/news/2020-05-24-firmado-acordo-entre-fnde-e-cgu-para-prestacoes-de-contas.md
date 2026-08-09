@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Cooperação prevê intercâmbio de dados e tecnologia para melhorar o projeto Malha Fina FNDE**
 
 O Fundo Nacional de Desenvolvimento da Educação (FNDE) firmou acordo de cooperação técnica nesta semana com a Controladoria-Geral da União (CGU) para aprimorar o projeto Malha Fina FNDE. A ideia é reforçar a capacidade de gestão do Fundo vinculado ao Ministério da Educação (MEC), com o uso de tecnologia de ponta.
@@ -23,8 +22,6 @@ Assinado na segunda-feira, 18 de maio, o acordo prevê intercâmbio de dados e t
  Para saber quais prestações de contas poderão ser realizadas de forma automática e quais deverão passar por análise convencional, serão utilizadas técnicas avançadas da ciência de dados e da inteligência artificial para analisar dados e números relevantes à gestão do FNDE.
 
 Fonte: portal.mec.gov.br / Imagem em destaque: FNDE
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

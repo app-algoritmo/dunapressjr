@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Cerca de R$ 28 milhões foram investidos pela fundação no combate à covid-19. Ação garante a segurança alimentar de diversas comunidades.
 
 A Fundação Nacional do Índio (Funai) já entregou mais de 418 mil cestas de alimentos a famílias indígenas em situação de vulnerabilidade social. O intuito é garantir a segurança alimentar das diversas comunidades, contribuindo para que os indígenas permaneçam nas aldeias e evitem o contato com pessoas infectadas pelo novo coronavírus.
@@ -33,5 +32,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

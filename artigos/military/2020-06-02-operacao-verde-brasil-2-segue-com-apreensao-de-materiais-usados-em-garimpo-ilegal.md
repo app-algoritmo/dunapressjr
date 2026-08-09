@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 A Operação Verde Brasil 2 age, desde a última quinta-feira (28), no desmonte de um garimpo ilegal localizado no município de Pontes e Lacerda, no oeste de Mato Grosso. No domingo (31), as ações do Comando Conjunto Barão de Melgaço resultaram na apreensão de diversos equipamentos utilizados nas atividades ligadas a crimes ambientais. Ao todo, 58 pessoas foram presas, enquanto as apreensões somam 16 embarcações, uma motocicleta, duas motosserras, 16 maquinários diversos, dez artefatos menores e uma pequena quantidade de ouro e mercúrio. Ainda, dez balsas e 25 motores de garimpo foram inutilizados por agentes da Polícia Federal e do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA).
 
 Outras ações no Mato Grosso foram executadas pelo mesmo Comando. O 66° Batalhão de Infantaria Motorizado realizou o transporte de material apreendido, enquanto o Comando do 6º Distrito Naval cumpriu inspeções navais. Já o 44º Batalhão de Infantaria Motorizado manteve a escolta do transporte de madeira apreendida nos últimos dias em apoio ao IBAMA.
@@ -23,5 +22,3 @@ Desde a deflagração da Operação Verde Brasil 2, em 11 de maio, militares e a
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

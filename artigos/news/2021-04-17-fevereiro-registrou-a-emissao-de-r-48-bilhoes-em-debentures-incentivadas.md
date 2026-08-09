@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Aumento foi de 166,6% na oferta em comparação a igual período do ano passado.
 
 Em fevereiro de 2021, a emissão de debêntures incentivadas alcançou R$ 4,8 bilhões, valor superior ao R$ 1,8 bilhão obtido em igual período do ano passado - um aumento na oferta de 166,6%. Esse dado consta na 87ª edição do Boletim de Debêntures Incentivadas, apresentado pela Secretaria de Política Econômica (SPE), do Ministério da Economia.
@@ -33,5 +32,3 @@ Debêntures são títulos de renda fixa, emitido por empresas de diversos setore
 Fonte: gov.br
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=barrosikt)

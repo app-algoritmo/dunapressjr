@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro gravou vídeo ao lado de Márcio Bittar, relator do texto.
 
 A proposta de emenda à Constituição (PEC) Emergencial representa um compromisso com a saúde e a economia, disse hoje (4) o ministro da Economia, Paulo Guedes. Em vídeo gravado ao lado do relator do texto, senador Márcio Bittar (MDB-AC), o ministro comemorou a aprovação do texto pelos senadores e agradeceu aos presidentes do Senado, Rodrigo Pacheco, e da Câmara, Arthur Lira.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

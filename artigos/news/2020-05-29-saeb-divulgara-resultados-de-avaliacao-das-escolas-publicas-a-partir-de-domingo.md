@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## **Sistema só pode ser acessado pelo representante legal de cada unidade escolar.**
 
 Vinculado ao Ministério da Educação (MEC), o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) vai abrir a consulta aos resultados preliminares do Sistema de Avaliação da Educação Básica (Saeb) 2019, no próximo domingo, 31 de maio, às 18 horas. Os representantes das mais de 70 mil escolas públicas participantes podem acessar as informações e apresentar recursos até 15 de junho.
@@ -27,8 +26,6 @@ Neste mês, o MEC lançou a nova versão do Saeb. A prova será anual e aplicada
 O novo Saeb traz o chamado Enem seriado. Nele, as provas dos alunos do ensino médio formarão uma nota a partir da pontuação adquirida em cada uma das três séries, que poderá ser utilizada para acesso ao ensino superior. Os estudantes que fizerem a prova da 1ª série em 2021 já estarão concorrendo a vagas nas universidades para quando concluírem o ensino médio, em 2023. O Enem tradicional não deixará de existir. O Enem seriado é apenas mais uma porta de entrada ao ensino superior. O Enem tradicional continuará a ser aplicado normalmente, nas versões impressa e digital.
 
 Fonte: portalmec.gov.br / Imagem em destaque: Capes
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

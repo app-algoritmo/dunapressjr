@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Medida ajuda pequenos negócios afetados por pandemia.
 
 As micro e pequenas empresas inadimplentes com o Simples Nacional não serão excluídas do regime especial em 2020, informou nesta segunda-feira (27) a Receita Federal. O Fisco atendeu a pedido do Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae) e decidiu suspender o processo de notificação e de expulsão do regime como forma de ajudar os pequenos negócios afetados pela pandemia do novo coronavírus.
@@ -20,4 +19,4 @@ Segundo levantamento do Sebrae e da Fundação Getulio Vargas (FGV), os pequenos
 
 Fonte: Agência Brasil – Imagem de destaque: Tomaz Silva/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

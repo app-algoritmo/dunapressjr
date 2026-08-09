@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Apesar do aumento na inflação, BC decidiu não mexer na Selic.
 
 Em meio ao aumento da inflação de alimentos que começa a estender-se para outros setores, o Banco Central (BC) não mexeu nos juros básicos da economia. Por unanimidade, o Comitê de Política Monetária (Copom) manteve a taxa Selic em 2% ao ano. A decisão era [**esperada pelos analistas**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-12/mercado-financeiro-eleva-estimativa-de-inflacao-de-354-para-421) financeiros.
@@ -46,8 +45,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

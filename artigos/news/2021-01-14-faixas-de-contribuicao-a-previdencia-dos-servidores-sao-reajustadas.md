@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Atualização é feita todos os anos, com base no INPC do ano anterior.
 
 Os servidores públicos da União – ativos, aposentados e pensionistas – deverão contribuir mais para o regime próprio de Previdência. Os valores das faixas salariais de contribuição subiram 5,45%, conforme portaria publicada hoje (14) no[*** Diário Oficial da União***](https://www.in.gov.br/web/dou/-/portaria-seprt/me-n-636-de-13-de-janeiro-de-2021-298903520).
@@ -36,8 +35,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

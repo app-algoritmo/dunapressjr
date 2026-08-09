@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A bolsista Ana Cláudia Raposo é médica veterinária e faz pós-doutorado pelo Programa em Ciência Animal nos Trópicos, da Escola de Medicina Veterinária da Universidade Federal da Bahia (UFBA). Em seu trabalho de pesquisa, busca conhecer os componentes da lágrima de animais silvestres e de humanos, para entender as diferenças entre as espécies e identificar como o ambiente influencia os olhos de cada um.
 
 **Como surgiu o interesse por trabalhar nessa área?**
@@ -56,7 +55,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

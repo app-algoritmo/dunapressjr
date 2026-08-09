@@ -7,11 +7,9 @@ categories:
 - Military
 ---
 
-
 O ministro da Defesa, Fernando Azevedo, visitou nesta quinta-feira (16) o Comando Conjunto Leste, no Rio de Janeiro (RJ), para acompanhar pessoalmente as ações que estão sendo realizadas nos estados do RJ, ES e MG no combate ao novo Coronavírus. Durante a visita, o ministro participou de um briefing no Centro de Coordenação de Operações, sobre as ações em curso da Operação Covid-19 na região.
 
-[
-](https://operacaocovid19.defesa.gov.br/index.php)Após a visita, Azevedo acompanhou os trabalhos dos militares das equipes de Defesa Biológica, Nuclear, Química e Radiológica (DBNQR) em desinfecção de estações e vagões do Veículo Leve sobre Trilhos (VLT) na Central do Brasil. Na ocasião, destacou que cerca de 29 mil militares já foram empregados no combate ao coronavírus, classificando como um inimigo feroz. “Trata-se de uma guerra e as Forças Armadas estão nela”, afirmou.
+Após a visita, Azevedo acompanhou os trabalhos dos militares das equipes de Defesa Biológica, Nuclear, Química e Radiológica (DBNQR) em desinfecção de estações e vagões do Veículo Leve sobre Trilhos (VLT) na Central do Brasil. Na ocasião, destacou que cerca de 29 mil militares já foram empregados no combate ao coronavírus, classificando como um inimigo feroz. “Trata-se de uma guerra e as Forças Armadas estão nela”, afirmou.
 
 O ministro também ressaltou que o enfrentamento à Covid-19 pelas Forças Armadas vem desde o resgate dos brasileiros em Wuhan, na China, com a Operação Regresso à Pátria Amada Brasil. “Desde lá, o Ministério da Defesa com outros ministérios têm atuado muito fortemente por determinação do presidente”, enfatizou.
 

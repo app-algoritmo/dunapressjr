@@ -7,16 +7,15 @@ categories:
 - Health
 ---
 
-
 Os resultados do estudo constituem um avanço histórico após vinte anos para os 160.000 pacientes em todo o mundo que sofrem desta forma comum de leucemia.
 
 Israel é o primeiro país a incorporar uma terapia inovadora desenvolvida para pacientes com câncer que sofrem de um tipo agressivo de leucemia que, embora extremamente comum, geralmente os deixa sem outras opções de tratamento.
 
-A nova terapia, a primeira do gênero a ser desenvolvida em vinte anos, é da AbbVie, uma empresa biofarmacêutica global baseada em pesquisa. Já após os estágios iniciais do julgamento, Israel havia incluído a terapia na cesta de assistência médica subsidiada pelo Estado. 
+A nova terapia, a primeira do gênero a ser desenvolvida em vinte anos, é da AbbVie, uma empresa biofarmacêutica global baseada em pesquisa. Já após os estágios iniciais do julgamento, Israel havia incluído a terapia na cesta de assistência médica subsidiada pelo Estado.
 
 Os resultados da fase 3 do estudo terapêutico foram apresentados apenas no início deste mês ao virtual 25º Congresso Anual da European Hematology Association (EHA), que ocorreu de 11 a 21 de junho.
 
-Os resultados do estudo constituem um avanço histórico para pacientes que sofrem de leucemia mielóide aguda (LMA), um tipo relativamente comum de leucemia, com 160.000 pacientes em todo o mundo que vivem com a doença. 
+Os resultados do estudo constituem um avanço histórico para pacientes que sofrem de leucemia mielóide aguda (LMA), um tipo relativamente comum de leucemia, com 160.000 pacientes em todo o mundo que vivem com a doença.
 
 O tratamento, uma terapia combinada de venetoclax e azacitidina, foi desenvolvido para pacientes com LBC que têm muito poucas outras opções de tratamento, pois muitas vezes não são elegíveis para transplante de medula óssea ou quimioterapia intensiva.
 
@@ -34,7 +33,7 @@ Os resultados da fase 3 do estudo mostraram um aumento significativo nas taxas d
 
 O Grupo de Leucemia de Israel teve um papel ativo em obter acesso precoce ao venetoclax para pacientes com LBC em Israel, o quinto maior país em termos de número de pacientes inscritos no estudo. O país já havia incorporado o medicamento na cesta de assistência médica do estado após os resultados da fase 1.
 
-A mudança para incorporar a terapia ocorreu meses após a aprovação do FDA e dois anos à frente da Europa. Foi um passo incomum para o Ministério da Saúde, que normalmente aguarda os dados da fase 3 antes de aprovar um medicamento. 
+A mudança para incorporar a terapia ocorreu meses após a aprovação do FDA e dois anos à frente da Europa. Foi um passo incomum para o Ministério da Saúde, que normalmente aguarda os dados da fase 3 antes de aprovar um medicamento.
 
 Como a LBC é tão predominante e agressiva, no entanto, foi a decisão certa aos olhos de DiNardo. Ela incentiva as agências reguladoras a considerar ainda mais o acesso antecipado.
 
@@ -48,6 +47,6 @@ Fonte The Jerusalem Post****
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

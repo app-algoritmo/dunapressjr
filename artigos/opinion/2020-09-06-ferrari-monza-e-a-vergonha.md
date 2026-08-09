@@ -18,7 +18,6 @@ Correndo em casa esse final de semana, a Ferrari teve um GP da Itália de Fórmu
 
 Perguntado se esse final de semana seria o seu pior pesadelo, Vettel reforçou que a equipe está se esforçando para ter o melhor resultado possível na temporada.
 
- 
 "Se eu pudesse escolher, não gostaria de estar aqui, preferia estar no carro, correndo e não no fundo do grid. Mas, algumas vezes, você não consegue escolher e tem que lidar com o que tem no momento. Agora é o que temos, então precisamos manter a cabeça erguida mesmo em meio à dificuldade".
 
 Sobre ser a última corrida em Monza pela Ferrari, Vettel disse que é melhor que os fãs não estivessem presentes para acompanhar.
@@ -35,7 +34,7 @@ Talvez a única opção que resta realmente seja ter paciência e esperar 2021 p
 
 **Imagem em Destaque:** Fotos Públicas
 
-https://dunapress.org/produto/assinatura-leitor-premio/?aff=milah44
+https://dunapress.org/produto/assinatura-leitor-premio/
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.
 Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes e torne-se um assinante.

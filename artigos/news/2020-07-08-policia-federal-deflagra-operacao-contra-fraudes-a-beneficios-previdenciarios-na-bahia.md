@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 **Salvador/BA** – A Polícia Federal, em trabalho conjunto com a Secretaria Especial de Previdência e Trabalho do Ministério da Economia, deflagrou na manhã desta terça-feira (7/7) a **Operação Teia de Aranha**, que visa desarticular uma organização criminosa que fraudava benefícios previdenciários na Bahia.
 
 Policiais federais dão cumprimento a 17 medidas judiciais, sendo três mandados de prisão preventiva, 10 mandados de busca, uma medida de recolhimento domiciliar, além de três afastamentos de função pública dos servidores envolvidos, medidas estas cumpridas nas cidades de Salvador, Camaçari e Candeias.
@@ -23,4 +22,4 @@ Os envolvidos responderão por diversos crimes, dentre eles, integrar organizaç
 
 **Comunicação Social da Polícia Federal na Bahia**
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

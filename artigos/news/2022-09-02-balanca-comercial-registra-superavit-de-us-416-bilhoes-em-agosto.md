@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Queda do preço do minério de ferro faz saldo cair 48%.
 
 A queda do preço internacional do ferro e o encarecimento de fertilizantes e petróleo fizeram o superávit da balança comercial encolher em agosto. No mês passado, o país exportou US$ 4,165 bilhões a mais do que importou -- queda de 48% em relação ao registrado em agosto do ano passado.
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

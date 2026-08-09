@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Câncer é um termo que abrange mais de 100 diferentes tipos de doenças malignas que têm em comum o crescimento desordenado de células, que podem invadir tecidos adjacentes ou órgãos a distância.
 
 Dividindo-se rapidamente, estas células tendem a ser muito agressivas e incontroláveis, determinando a formação de tumores que podem espalhar-se para outras regiões do corpo.
@@ -20,7 +19,6 @@ O câncer é a segunda principal causa de mortes no País, perdendo apenas para 
 
 A data comemorativa foi instituída pelo Ministério da Saúde por meio da [**Portaria MS/GM nº 707/1988**](http://saudelegis.saude.gov.br/saudelegis/secure/norma/listPublic.xhtml;jsessionid=M9iZgxFxOq+RiLfvBvvDHMqV) com a finalidade de conscientizar a população a respeito dos riscos, ressaltar a importância do diagnóstico precoce e de medidas preventivas contra o câncer.
 
-**
 Causas**:
 
 O câncer não tem uma causa única. Há diversas causas externas (presentes no meio ambiente) e internas (como hormônios, condições imunológicas e mutações genéticas) e os fatores podem interagir de diversas formas, dando início ao surgimento do câncer.
@@ -78,7 +76,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

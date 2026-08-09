@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Índice foi divulgado hoje pela FGV.
 
 O Índice Geral de Preços – Mercado (IGP-M), usado no reajuste dos contratos de aluguel, registrou inflação de 0,01% na segunda prévia de maio deste ano. A taxa é inferior à observada na segunda prévia de abril, que havia registrado inflação de 1%.
@@ -21,5 +20,3 @@ O Índice de Preços ao Consumidor, que mede o varejo, passou de uma inflação 
 Fonte: Agência Brasil
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Os setores agropecuária, indústria e serviços cresceram no ano.
 
 O Monitor que sinaliza o Produto Interno Bruto (PIB, soma de todos os bens e serviços produzidos no país) cresceu 4,7% em 2021. Pela ótica da produção, todos os três grandes setores de atividade (agropecuária, indústria e serviços) cresceram no ano, com taxas, respectivamente, 0,6%, 4,4% e 4,7%. Os dados foram divulgados nesta terça-feira (15) pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV).
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

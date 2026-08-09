@@ -22,7 +22,7 @@ O São Paulo Corporate Games tem patrocínio do Gympass, apoios institucionais d
 **Confira a programação
 
 ****Dia 25 (sábado)****
-**- Centro de Treinamento Paralímpico Brasileiro - Rodovia do Imigrantes, Km 11,5 
+**- Centro de Treinamento Paralímpico Brasileiro - Rodovia do Imigrantes, Km 11,5
 Das 9h às 18h - Basquete Masculino, Futebol de 11 Masculino, Natação Masculino e Feminino, Tênis de Mesa Masculino e Feminino e Vôlei Masculino e Feminino.
 
 - Arena T.O - R. Nicolas Boer, 440 - Barra Funda
@@ -48,6 +48,5 @@ Linkedin: **[**corporategamesbr
 **](https://click.presskit.com.br/url/986805d933/6361388b6fc)**ZDL
 Doro Jr. - MTb 13209 - **[**dorojr@zdl.com.br**](https://click.presskit.com.br/url/986806a7a2/6361388b6fc)** - 11 984579723****
 Deborah Mamone - MTb 15148  - **[**deborah@zdl.com.br**](https://click.presskit.com.br/url/986807fa1a/6361388b6fc)** - 11 991628967****
-Site: [www.zdl.com.br](https://click.presskit.com.br/url/98679667c2/6361388b6fc)[
-](https://click.presskit.com.br/url/986808acda/6361388b6fc)Facebook: **[**www.facebook.com/ZDLSports**](https://click.presskit.com.br/url/9868094bee/6361388b6fc)**
+Site: [www.zdl.com.br](https://click.presskit.com.br/url/98679667c2/6361388b6fc)Facebook: **[**www.facebook.com/ZDLSports**](https://click.presskit.com.br/url/9868094bee/6361388b6fc)**
 Instagram: **[***www.instagram.com/zdlsports***](https://click.presskit.com.br/url/9868105d9e/6361388b6fc)

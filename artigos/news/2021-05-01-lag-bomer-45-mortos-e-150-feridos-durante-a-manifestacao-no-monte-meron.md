@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Pelo menos 45 pessoas foram mortas e mais de 150 feridas - muitas das quais estão em estado crítico - na noite de quinta para sexta-feira, pouco antes da 1h, durante o comício Lag B'Omer no Monte Meron, no norte de Israel, em um multidão. O primeiro-ministro Benjamin Netanyahu chamou o incidente de "desastre terrível" e foi para lá, acompanhado pelo ministro da Segurança Interna, Amir Ohana, na manhã desta sexta-feira. Ele disse que o domingo seria um dia nacional de luto.
 
 O ministério da saúde confirmou na sexta-feira que o número de mortos era de 44. O serviço de emergência ZAKA disse que aumentou para 45 a partir do meio-dia.
@@ -171,5 +170,3 @@ Fonte: https://www.timesofisrael.com
 - [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

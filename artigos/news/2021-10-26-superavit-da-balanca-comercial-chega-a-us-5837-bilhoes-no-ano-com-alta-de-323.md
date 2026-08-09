@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 ## A corrente de comércio até a quarta semana de outubro chegou a US$ 402,88 bilhões, em alta de 36,9%, com US$ 230,62 bilhões em exportações e US$ 172,26 bilhões em importações, segundo dados da Secex.
 
-O superávit da balança comercial brasileira chegou a US$ 58,37 bilhões no acumulado do ano, até a quarta semana de outubro, com aumento de 32,3%, pela média diária, sobre o período de janeiro a outubro de 2020. A corrente de comércio (soma das exportações e importações) foi de US$ 402,88 bilhões, subindo 36,9%. Segundo dados divulgados nesta segunda-feira (25) pela Secretaria de Comércio Exterior (Secex) do Ministério da Economia, as exportações em 2021 chegaram a US$ 230,62 bilhões, com aumento de 36,3%, e as importações subiram 37,7%, atingindo US$ 172,26 bilhões. 
+O superávit da balança comercial brasileira chegou a US$ 58,37 bilhões no acumulado do ano, até a quarta semana de outubro, com aumento de 32,3%, pela média diária, sobre o período de janeiro a outubro de 2020. A corrente de comércio (soma das exportações e importações) foi de US$ 402,88 bilhões, subindo 36,9%. Segundo dados divulgados nesta segunda-feira (25) pela Secretaria de Comércio Exterior (Secex) do Ministério da Economia, as exportações em 2021 chegaram a US$ 230,62 bilhões, com aumento de 36,3%, e as importações subiram 37,7%, atingindo US$ 172,26 bilhões.
 
 Já no acumulado do mês, as exportações subiram 30,5% e chegaram a US$ 17,27 bilhões, enquanto as importações totalizaram US$ 15,48 bilhões, com crescimento de 55,8%. O superávit no mês recuou 45,7%, para US$ 1,79 bilhão, mas a corrente de comércio subiu 41,4% e alcançou US$ 32,75 bilhões.
 
@@ -41,10 +40,6 @@ Já a Indústria Extrativista registrou alta, principalmente, nas importações 
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

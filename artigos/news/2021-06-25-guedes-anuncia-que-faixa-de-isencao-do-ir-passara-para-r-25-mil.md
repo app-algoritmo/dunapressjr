@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medida está em proposta entregue hoje à Câmara dos Deputados.
 
 O ministro da Economia, Paulo Guedes, anunciou hoje (25) que a faixa de isenção do Imposto de Renda da Pessoa Física (IRPF) subirá dos atuais R$ 1,9 mil para R$ 2,5 mil. Ele entregou nesta manhã ao presidente da Câmara dos Deputados, Arthur Lira, a proposta da segunda fase da reforma tributária. O projeto de lei trata de mudanças no imposto de renda para pessoas físicas e empresas e na tributação de lucros e dividendos.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

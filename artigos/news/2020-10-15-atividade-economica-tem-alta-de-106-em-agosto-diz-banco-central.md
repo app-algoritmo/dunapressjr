@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Na comparação com julho de 2019, houve queda de 3,92%.
 
 A atividade econômica brasileira registrou alta em agosto, de acordo com os dados divulgados hoje (15) pelo Banco Central (BC). É o quarto mês consecutivo de crescimento, após as quedas nos meses de março e abril, devido às medidas de isolamento social necessárias para o enfrentamento da pandemia de covid-19.
@@ -21,5 +20,3 @@ O indicador foi criado pelo Banco Central para tentar antecipar, por aproximaç�
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

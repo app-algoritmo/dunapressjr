@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A comoção pública provocada pelo assassinato da atriz Daniella Perez, há 30 anos, levou a uma ampliação da Lei de Crimes Hediondos. Essa norma estabelece os casos violentos e socialmente traumáticos em que a punição do criminoso precisa ser rigorosa e exemplar, sem espaço para nenhum tipo de relaxamento.
 
 Em dezembro de 1992, aos 22 anos de idade, a atriz foi morta a golpes de punhal pelo ator Guilherme de Pádua e pela mulher dele, Paula Thomaz, no Rio de Janeiro. Daniella e Guilherme atuavam em *De Corpo e Alma*, a novela das oito da TV Globo.
@@ -26,7 +25,7 @@ Num tempo em que os brasileiros não tinham internet, Gloria recorreu a programa
 
 A novelista entregou o abaixo-assinado ao Congresso Nacional em outubro de 1993. A nova lei foi aprovada pelos parlamentares em agosto de 1994 e sancionada pelo presidente Itamar Franco no mês seguinte.
 
- — Esta Casa [a Câmara] recebeu aqui, e eu estava lá, uma comissão de advogados, artistas e familiares de vítimas da violência, comissão esta liderada pela escritora Gloria Perez, que nos entregou um anteprojeto com assinaturas coletadas nos mais diversos recantos do nosso país, numa demonstração inequívoca da preocupação existente hoje com o crescimento da violência e da impunidade que imperam no Brasil — discursou o deputado federal Adylson Motta (PPR-RS). 
+ — Esta Casa [a Câmara] recebeu aqui, e eu estava lá, uma comissão de advogados, artistas e familiares de vítimas da violência, comissão esta liderada pela escritora Gloria Perez, que nos entregou um anteprojeto com assinaturas coletadas nos mais diversos recantos do nosso país, numa demonstração inequívoca da preocupação existente hoje com o crescimento da violência e da impunidade que imperam no Brasil — discursou o deputado federal Adylson Motta (PPR-RS).
 
 O Brasil, de fato, vinha assistindo a uma sequência de crimes estarrecedores. Em Belo Horizonte, na mesma época, a menina Miriam Brandão, de 5 anos, foi sequestrada e estrangulada. Os bandidos depois esquartejaram e queimaram o corpo. Em Brasília, o estudante Marco Antônio Velasco, de 16 anos, foi espancado até a morte por integrantes de uma gangue autodenominada Falange Satânica.
 
@@ -96,7 +95,7 @@ A sugestão de Gloria Perez transformava em crime hediondo especificamente o hom
 
 — Como é o homicídio qualificado? É o cometido por motivo torpe, fútil, por emboscada, mediante paga, por meios que impossibilitem a defesa da vítima. A política de ressocialização desses criminosos não pode ser a mesma que se aplica a um estelionatário, a um peculatário. Quem matou com requintes de selvageria não terá direito a anistia, graça, indulto, fiança e liberdade provisória. E a pena será cumprida integralmente em regime fechado. A correção dessa gente, quando se realiza, é a longo prazo. Não podemos devolvê-la à sociedade com a velocidade com que se devolve aquele que praticou uma simples sedução. O que a Lei de Crimes Hediondos faz, única e exclusivamente, é estabelecer uma distinção na forma do cumprimento da pena.
 
-Incluindo o homicídio qualificado e o cometido por grupo de extermínio, o projeto foi aprovado na Câmara em junho de 1994. Logo em seguida, começou a ser analisado pelo Senado. 
+Incluindo o homicídio qualificado e o cometido por grupo de extermínio, o projeto foi aprovado na Câmara em junho de 1994. Logo em seguida, começou a ser analisado pelo Senado.
 
 Em outubro, haveria no país eleições gerais — nas quais Fernando Henrique Cardoso pela primeira vez se elegeria presidente. Havia o risco de os parlamentares saírem em recesso branco em setembro, para atuar na campanha eleitoral em seus estados, sem votar o projeto.
 
@@ -134,7 +133,7 @@ Quando recebe o apoio on-line de 20 mil pessoas, a sugestão é enviada à Comis
 
 - [Na fronteira da barbárie](https://www12.senado.leg.br/noticias/especiais/especial-cidadania/na-fronteira-da-barbarie)
 
-- [](https://www12.senado.leg.br/noticias/infomaterias/2022/08/200-anos-apos-independencia-brasil-ainda-nao-e-autonomo-no-comercio-mundial)[Todas as reportagens do Arquivo S](https://www12.senado.leg.br/noticias/especiais/arquivo-s)
+- [Todas as reportagens do Arquivo S](https://www12.senado.leg.br/noticias/especiais/arquivo-s)
 
 *A seção [Arquivo S](http://www12.senado.leg.br/noticias/especiais/arquivo-s), resultado de uma parceria entre a Agência Senado e o Arquivo do Senado, é publicada na primeira sexta-feira do mês no Portal Senado Notícia*
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Valor será proporcional ao saldo do trabalhador em 31 de dezembro.
 
 A Caixa Econômica Federal depositará, até 31 de agosto, R$ 8,129 bilhões nas contas dos trabalhadores vinculadas ao Fundo de Garantia do Tempo de Serviço (FGTS). Os recursos correspondem a 96% do [**lucro líquido de R$ 8,467 bilhões**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-06/fgts-teve-lucro-de-r-846-bilhoes-em-2020) do fundo em 2020.
@@ -30,10 +29,6 @@ https://youtu.be/7GV5lZ-a248
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

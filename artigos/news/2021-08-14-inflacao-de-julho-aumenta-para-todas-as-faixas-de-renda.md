@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Aumento foi maior para famílias da renda muito baixa.
 
 Pelo quarto mês consecutivo, a inflação das famílias de renda muito baixa ficou acima da inflação dos mais ricos. De acordo com o Indicador de Inflação por Faixa de Renda, divulgado nesta sexta-feira (13) pelo Instituto de Pesquisa Econômica Aplicada (Ipea), houve aumento da inflação na margem de junho para julho para todas as faixas de renda, só que esse incremento foi maior para as famílias de renda muito baixa (1,12%), contra 0,88% das famílias de renda alta.
@@ -26,7 +25,7 @@ Maria Andreia informou que o aumento se deve à alta de alimentos, energia elét
 
 Nos últimos doze meses, vemos o retorno da inflação mais alta para as famílias de renda muito baixa (10,1%), a maior desde 2016 (10,6%), enquanto as famílias de renda alta têm inflação menor (7,1%). “O período de 12 meses ainda está muito contaminado por alimentos”. A pesquisadora do Ipea observou que no segundo semestre de 2020, que está na conta de 12 meses, o grupo alimentos cresceu muito, e isso afetou a cesta dos mais pobres.
 
-Para os mais ricos, não só os alimentos pesam menos, como  também tem o efeito da pandemia. Como resultado das medidas de restrição e circulação muito grandes, impostas pelas autoridades para conter a disseminação do novo coronavírus, o setor de serviços jogou muito para baixo a inflação dos mais ricos, com reflexos inclusive na educação, que teve descontos de mensalidades no segundo semestre. “Além disso, gastos com serviços pessoais e recreação deram um alívio na inflação dos mais ricos. Por isso, ela fica mais alta para os mais pobres”, disse a economista.
+Para os mais ricos, não só os alimentos pesam menos, como também tem o efeito da pandemia. Como resultado das medidas de restrição e circulação muito grandes, impostas pelas autoridades para conter a disseminação do novo coronavírus, o setor de serviços jogou muito para baixo a inflação dos mais ricos, com reflexos inclusive na educação, que teve descontos de mensalidades no segundo semestre. “Além disso, gastos com serviços pessoais e recreação deram um alívio na inflação dos mais ricos. Por isso, ela fica mais alta para os mais pobres”, disse a economista.
 
 ## Reajustes
 
@@ -36,10 +35,6 @@ Para os mais ricos, o principal foco foram os reajustes da gasolina (1,6%), das 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

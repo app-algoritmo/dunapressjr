@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O secretário de Estado da Fazenda (SEF), Paulo Eli, participou da reunião da Comissão de Finanças e Tributação da Assembleia Legislativa de Santa Catarina (Alesc) nesta quarta-feira, 25, para apresentar as previsões de receita e despesas para 2021. Segundo o relatório da Diretoria de Planejamento Orçamentário (Dior) da pasta, para o próximo ano a estimativa é que a receita seja de R$ 30,49 bilhões, um incremento de 5,5% com relação a 2020.
 
 “Neste ano, o Governo Federal auxiliou nosso Estado com R$ 2,6 bilhões, entre repasses para o Tesouro Estadual e a postergação da dívida pública. Sendo assim, estamos fazendo uma reserva financeira para as contingências de 2021 em função da pandemia. No próximo ano deveremos ter uma ampla vacinação contra a Covid-19 e, para isso, precisamos de um suporte de caixa. Além disso, o Tesouro está construindo um fundo financeiro para que o Estado nunca mais tenha atraso no pagamento de servidores, nem atraso no pagamento de fornecedores e que consiga fazer as obras no prazo certo”, explicou Eli. Esta reserva financeira, na ordem de R$ 1,2 bilhão, deverá ser usada para emergências e funcionar como garantia de pagamentos em dia.
@@ -31,7 +30,5 @@ SEU APOIO VOLUNTARIO É MUITO IMPORTANTE!
 Sua assinatura não somente ajudará no fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

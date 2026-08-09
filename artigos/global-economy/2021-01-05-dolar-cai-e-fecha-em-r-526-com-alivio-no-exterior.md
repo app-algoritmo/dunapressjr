@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Em dia volátil, moeda chegou a alcançar R$ 5,35 de manhã.
 
 Em um dia marcado pela volatilidade, o dólar fechou com pequena queda, depois de atingir R$ 5,35 durante a manhã. A bolsa de valores começou o dia em baixa, mas reagiu e fechou em alta, aproximando-se do recorde histórico.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

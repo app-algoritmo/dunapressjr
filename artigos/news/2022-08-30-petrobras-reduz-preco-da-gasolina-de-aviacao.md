@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### É a segunda redução do preço do combustível no mês.
 
 A Petrobras anunciou nesta segunda-feira (29) uma redução de 15,7% no valor da gasolina de aviação para venda às distribuidoras. É a segunda queda seguida no preço do combustível, que é usado geralmente em aeronaves de pequeno porte que têm motores com ignição por centelha. No início do mês, houve uma redução de 5,7%.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

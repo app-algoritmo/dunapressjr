@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Educação (MEC) liberou R$ 72,8 milhões para as instituições federais de ensino vinculadas à pasta para ser destinado ao custeio e à manutenção delas, como gastos com contas de água, energia, luz, telefone, serviços terceirizados e compra de materiais como papel.
 
 Os recursos também serão utilizados para efetuar o pagamento do Programa Nacional de Assistência Estudantil (Pnaes), que oferece assistência a estudantes de baixa renda matriculados em cursos de graduação presencial das instituições federais de ensino superior, como apoio à moradia estudantil, alimentação, transporte e saúde. As ações são executadas pela própria instituição de ensino.
@@ -26,7 +25,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

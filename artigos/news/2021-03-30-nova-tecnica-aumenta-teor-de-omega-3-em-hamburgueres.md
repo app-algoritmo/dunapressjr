@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Rosane Heck é bacharel em Engenharia de Alimentos pela Universidade Federal do Pampa (Unipampa). Natural de Alecrim (RS), ela é mestre em Ciência e Tecnologia de Alimentos e doutoranda na Universidade Federal de Santa Maria (UFSM/RS). Também é licenciada pela mesma instituição no Programa Especial de Graduação de Formação de Professores para a Educação Profissional. Preocupada com a alimentação das pessoas e com a qualidade nutricional dos alimentos, ela trabalha atualmente em pesquisa inovadora sobre a introdução de ômega 3, por meio de microcápsulas, em produtos alimentícios.
 
 **Como surgiu a ideia de inserir ômega 3 na alimentação?**
@@ -50,7 +49,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

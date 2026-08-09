@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Pequenas feridas que incomodam bastante! Assim são as aftas. Bem dolorosas, elas aparecem na boca, mais comumente nas mucosas dos lábios, língua e bochechas. Uma das características clínicas mais aparente é ser uma ferida recoberta por uma membrana amarelo-acinzentada, envolvida por um halo vermelho, cicatrizando em até 14 dias, normalmente.
 
 Para orientar como tratar esse problema de saúde que, apesar de não ser muito grave, incomoda bastante, conversamos com o cirurgião-dentista estomatologista do Hospital Universitário da Universidade Federal de Santa Catarina e vinculado à Rede Ebserh, Marcus Setally. Na entrevista, ele explica o que é afta, como impacta no organismo, as causas e qual é o melhor tratamento.
@@ -48,7 +47,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

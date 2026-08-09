@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Modalidade permite retirada de parte do saldo de contas do FGTS.
 
 O saque-aniversário, modalidade de saque do Fundo de Garantia do Tempo de Serviço (FGTS), poderá ser usado como[** pagamento ou garantia de empréstimos**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-05/saque-aniversario-do-fgts-podera-ser-usado-para-garantir-emprestimos). A partir desta sexta-feira (26), os bancos podem operar essa linha de crédito.
@@ -38,4 +37,4 @@ A autorização apresentada pelo trabalhador para consulta de saldo e solicitaç
 
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

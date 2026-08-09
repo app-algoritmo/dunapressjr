@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Próxima transmissão ao vivo abordará os detalhes para o preenchimento do censo.
 
 Em tempos de distanciamento social, como medida de enfrentamento à pandemia do novo coronavírus, as equipes técnicas do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) transmitiram, pela primeira vez, uma live para discutir as novidades do Censo Escolar 2020. As transmissões são direcionadas às coordenações estaduais responsáveis pelo preenchimento do censo, aos gestores e às equipes escolares.
@@ -37,8 +36,6 @@ Os dados apurados pelo Censo Escolar 2020 contribuirão ainda para a continuidad
 A pesquisa é coordenada pelo Inep e realizada anualmente, em regime de colaboração com as secretarias estaduais e municipais de Educação, com a participação de todas as escolas públicas e privadas do país.
 
 Fonte: gov.br/mec / Imagem em destaque:Inep
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

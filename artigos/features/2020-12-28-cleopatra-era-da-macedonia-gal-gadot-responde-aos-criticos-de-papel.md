@@ -7,7 +7,6 @@ categories:
 - Features
 ---
 
-
 Usuários de mídia social no mundo árabe respondem furiosamente ao escalar a atriz israelense como icônica rainha egípcia.
 
 Gal Gadot está lutando contra as alegações de que ela está encobrindo a história egípcia ao retratar Cleópatra em um próximo filme.
@@ -34,7 +33,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

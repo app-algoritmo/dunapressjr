@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Operação Fames – 2ª Fase e Operação Self-Service apuram existência de conluio entre agentes públicos e privados para fraudar procedimentos licitatórios.
 
 A Controladoria-Geral da União (CGU) colabora com a Operação Fames – 2ª Fase e a Operação Self-Service, deflagradas nesta quarta-feira (9) pela Polícia Civil do Distrito Federal (PCDF), por meio da Divisão Especial de Repressão à Corrupção (DECOR/CECOR). O trabalho é realizado em parceria com o Ministério Público do Distrito Federal e Territórios, por meio da Promotoria de Justiça de Defesa do Patrimônio Público e Social (PRODEP/MPDFT).
@@ -27,5 +26,3 @@ A Operação Fames – 2ª Fase e a Operação Self-Service consistem no cumprim
 Fonte: Controladoria-Geral da União
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

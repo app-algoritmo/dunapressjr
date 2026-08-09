@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Sem gastos com covid, haveria superávit primário, diz secretário.
 
 O Tesouro Nacional é contrário à renovação do auxílio emergencial por meio de créditos extraordinários no Orçamento, disse nesta terça-feira (28) o secretário do Tesouro Nacional, Jeferson Bittencourt. Segundo ele, esse instrumento, que justifica despesas fora do teto de gastos, só pode ser usado em situações de urgência, relevância e imprevisibilidade, o que não ocorre neste momento.
@@ -38,10 +37,6 @@ Ele recomendou a preservação do teto de gastos como âncora fiscal, para imped
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

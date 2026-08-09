@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Corrente de comércio sobe 34,5% e chega a US$ 289,02 bilhões, com US$ 167,51 bilhões em exportações e US$ 121,51 bilhões em importações.
 
 A balança comercial brasileira registrou superávit de US$ 45,99 bilhões no acumulado do ano, até a primeira semana de agosto, em alta de 43,4% pela média diária, na comparação com o período de janeiro a agosto de 2020. A corrente de comércio (soma das exportações e importações) chegou a US$ 289,02 bilhões no período, um aumento de 34,5%.
@@ -36,10 +35,6 @@ Por fim, na Agropecuária, a alta nas importações teve o destaque da compra de
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

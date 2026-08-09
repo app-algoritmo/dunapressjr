@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Títulos com mais de cinco anos alcançaram 20% da composição de vencimentos da DPF, ante 19,4% em abril.
 
 A Dívida Pública Federal (DPF) encerrou o mês de maio em R$ 5,171 trilhões, o que representa alta de 1,61%, em termos nominais, em relação aos R$ 5,089 trilhões registrados ao final de abril. O dado está presente no Relatório Mensal da Dívida de maio, divulgado nesta quarta-feira (28/06) pela Secretaria do Tesouro Nacional (STN). Na composição desse resultado geral, houve movimentação de alta de 1,82% do estoque da Dívida Pública Mobiliária Federal interna (DPMFi) e redução de 2,64% no estoque da Dívida Pública Federal externa (DPFe).
@@ -76,8 +75,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

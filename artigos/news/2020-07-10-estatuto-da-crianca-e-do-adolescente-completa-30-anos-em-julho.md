@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Uma edição especial do gibi da Turma da Mônica foi lançada para explicar de forma simples e didática o que está previsto no documento. 
+Uma edição especial do gibi da Turma da Mônica foi lançada para explicar de forma simples e didática o que está previsto no documento.
 
 Õs direitos de crianças e adolescentes são garantidos por lei desde 1990. É o Estatuto da Criança e do Adolescente que completa 30 anos no dia 13 de julho.
 
@@ -50,6 +49,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

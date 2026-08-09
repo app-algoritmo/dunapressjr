@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Indicações dos Vereadores:
 
 Indicações do Vereador ANTÔNIO ALDO DA SILVA - Progressistas:
@@ -71,7 +70,7 @@ Indicações do Vereador VANDERLEY DALMOLIN - MDB:
 Indicação nº 3112/2020 - Solicitando estudos para implantação de uma lombada, na rua Álvaro Beraldi, antes do número 400, no bairro Ressacada.
 Indicação nº 3113/2020 - Solicitando a limpeza e roçadura das ruas do bairro Itaipava.
 
-### Matérias do Executivo 
+### Matérias do Executivo
 
 1 - Projeto de Lei Ordinária 163/2020 que AUTORIZA ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR PARA ATENDER AS DESPESAS DO FUNDO MUNICIPAL DE SAÚDE.
 
@@ -79,8 +78,8 @@ Autoria: Executivo Municipal
 2 - Projeto de Lei Ordinária 165/2020 que AUTORIZA O SERVIÇO MUNICIPAL DE ÁGUA SANEAMENTO BÁSICO E INFRAESTRUTURA -SEMASA A CONCEDER ISENÇÃO DA TARIFA DE ABASTECIMENTO DE ÁGUA DURANTE PERÍODO DETERMINADO EM VIRTUDE DA OCORRÊNCIA DE EXCESSO DE SALINIDADE NA ÁGUA.
 Autoria: Executivo Municipal
 
-### 
- Matérias do Legislativo 
+###
+ Matérias do Legislativo
 
 1 - Projeto de Lei Ordinária 164/2020 que DISPÕE SOBRE ASSEMBLEIA
 CONDOMINIAL VIRTUAL NO PERÍODO DA PANDEMIA DO CORONAVÍRUS (COVID-19).
@@ -97,33 +96,33 @@ REGIME DE URGÊNCIA, AO PLO Nº163/2020 com fundamento no Art. 204, § 4º, inci
 ###  Requerimentos
 
 Requerimento nº 213/2020 do Vereador FERNANDO MARTINS PEGORINI -
-PSL requer o envio deste ao Excelentíssimo Senhor Prefeito Municipal de Itajaí e ao Ilustríssimo Senhor Diretor-Geral do SEMASA para que respondam aos seguintes questionamentos: 
+PSL requer o envio deste ao Excelentíssimo Senhor Prefeito Municipal de Itajaí e ao Ilustríssimo Senhor Diretor-Geral do SEMASA para que respondam aos seguintes questionamentos:
 
 1 - Como se deu a contratação do fornecimento de água para distribuição à população durante a recente crise hídrica enfrentada pelo Município de Itajaí. Enviar cópias de todo o processo de contratação, desde as tratativas iniciais até o encerramento do serviço.
 
  2 - Quanto foi gasto pelo Município de Itajaí e pelo SEMASA
-com a operação de fornecimento de água para a população de nosso Município, com o fornecimento de água e colocação de caixas d'água, para este fim, espalhadas por diversos pontos de fornecimento em nossa cidade? Especificar os itens individualmente. 
+com a operação de fornecimento de água para a população de nosso Município, com o fornecimento de água e colocação de caixas d'água, para este fim, espalhadas por diversos pontos de fornecimento em nossa cidade? Especificar os itens individualmente.
 
 3 - Como era feito o controle da quantidade de água fornecida pela
 empresa contratada ao Município de Itajaí?
 
- 4 - Quantos litros de água foram fornecidos ao longo da prestação de serviço? 
+ 4 - Quantos litros de água foram fornecidos ao longo da prestação de serviço?
 
-5 - Por qual razão, foi interrompido o fornecimento de água contratado para aquele fim? Enviar os documentos de ordem técnica que justifiquem a tomada de decisão. 
+5 - Por qual razão, foi interrompido o fornecimento de água contratado para aquele fim? Enviar os documentos de ordem técnica que justifiquem a tomada de decisão.
 
 6 - Durante o encerramento das operações, foi constatado pelos próprios munícipes, o descarte de grande volume de água durante a retirada das caixas d'água, diante disto solicita-se qual o volume de água descartada e
 por qual razão foi adotado o procedimento de descarte?
 
-Requerimento nº 214/2020 do Vereador ROBISON JOSÉ COELHO - PSDB requer o envio de ofício ao Prefeito Municipal, solicitando respostas aos seguintes questionamentos: 
+Requerimento nº 214/2020 do Vereador ROBISON JOSÉ COELHO - PSDB requer o envio de ofício ao Prefeito Municipal, solicitando respostas aos seguintes questionamentos:
 
-a) há estudos para redução dos valores pagos aos Conselheiros das JARIs pelas funções desempenhadas no julgamento dos recursos de multas de trânsito? Justificar. 
+a) há estudos para redução dos valores pagos aos Conselheiros das JARIs pelas funções desempenhadas no julgamento dos recursos de multas de trânsito? Justificar.
 
 b) Qual o valor pago aos Conselheiros das JARIs nos anos de 2017 a
 2020, detalhando total por conselheiro e por ano.
 
  c) A Lei 7.172 de 07 de Agosto de 2020 tem sido aplicada em sua integralidade? Apresentar comprovante de aplicação.
 
-d) Apresentar endereço eletrônico do Portal da Transparência onde estão sendo publicadas as atas da JARI, conforme Lei 7.172 de 07 de Agosto de 2020. 
+d) Apresentar endereço eletrônico do Portal da Transparência onde estão sendo publicadas as atas da JARI, conforme Lei 7.172 de 07 de Agosto de 2020.
 
 e) Apresentar quantitativo de recursos julgados em cada reunião das JARIs dos anos de 2017 a 2020.
 
@@ -171,7 +170,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí trouxe representantes do Ministério do Turismo até a cidade para apresentar os projetos de obras públicas para novos equipamentos, atrações e eventos municipais. Na pauta do encontro, nesta quarta-feira (16), estavam o novo complexo turístico do novo terminal de passageiros de transatlânticos, melhorias no Centreventos Luiz Henrique da Silveira e a captação de recursos via Ministério do Turismo para a The Ocean Race.
 
 Um novo complexo turístico em Itajaí foi o principal projeto apresentado pelos secretários municipais de Turismo e Eventos, Evandro Neiva, e de Desenvolvimento Urbano e Habitação, Rodrigo Lamim. O Município de Itajaí planeja a utilização de mais de 50 mil metros quadrados na região das margens do rio Itajaí-Açu para desenvolver uma moderna estrutura para recepção de cruzeiros. O projeto integrará as áreas anexas ao Centreventos com píer para atracação de transatlânticos, bares, restaurantes, mirante e até condomínio residencial e comercial.
@@ -32,5 +31,3 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)

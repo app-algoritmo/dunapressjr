@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa sobe 1,7% em dia de alívio no mercado externo.
 
 Num dia de alívio no mercado externo, a bolsa subiu, e o dólar fechou praticamente estável. O índice Ibovespa, da B3 (a bolsa de valores brasileira) encerrou esta quinta-feira(25) aos 95.983 pontos, com alta de 1,7%.
@@ -28,4 +27,4 @@ No Brasil, o Banco Central piorou a projeção para o PIB em 2020. No Relatório
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Brasil recebeu na manhã desta quinta-feira (4) o 15º voo da Latam, fretado pelo Ministério da Infraestrutura (MInfra), com carga de máscaras compradas pelo Governo Federal e destinadas aos estados para enfrentamento à Covid-19. Foi o terceiro voo com máscaras modelo N95, mais indicado para proteger profissionais expostos a ambientes contaminados. Desde o dia 6 de maio, o país já recebeu 85,5 milhões de máscaras cirúrgicas e do tipo N95 – equivalente a 455 toneladas – de um total de 240 milhões de unidades adquiridas pelo Ministério da Saúde.
 
 O voo JJ9523, proveniente de Guangzhou (China), aterrissou no Aeroporto Internacional de Guarulhos/SP às 6h15 desta quinta, após escala em Amsterdã (Holanda). A carga de 2,48 milhões de máscaras modelo N95, somando cerca de 30 toneladas, foi transportada em aeronave de passageiros modelo Boeing 777. Além do porão da aeronave, a cabine foi adaptada para receber as do produto, que será distribuído pelo Ministério da Saúde entre as 27 unidades da federação.
@@ -60,5 +59,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

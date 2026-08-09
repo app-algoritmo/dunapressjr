@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O crescimento em relação à safra anterior é de 10 milhões de toneladas.
 
 A safra de grãos 2021/2022 deve alcançar 265,7 milhões de toneladas, um crescimento de 10 milhões de toneladas na comparação com o ciclo anterior, informou hoje (10) a Companhia Nacional de Abastecimento (Conab). A estimativa, que faz parte do sexto levantamento da safra, aponta ainda para um aumento de 4,3% na área destinada à plantação, estimada em 72,7 milhões de hectares. Segundo a Conab, o aumento na área plantada se deve à incorporação de 3 milhões de hectares, em sua maioria voltados para as plantações de soja e de milho.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

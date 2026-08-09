@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O balanço divulgado pela Ouvidoria Nacional de Direitos Humanos (ONDH) mostrou que as mulheres vítimas de violações de direitos que entram em contato com a Central de Atendimento à Mulher - Ligue 180 já estão em situação de violência instalada nas relações e foram alvos de algum tipo de violência física.
 
 As informações foram extraídas do Formulário de Avaliação de Risco em Violência Doméstica e Familiar contra a Mulher (Frida), que possibilitou a classificação da gravidade de risco de cada caso por meio da sua implementação em todos os atendimentos do Ligue 180 desde janeiro do ano passado.
@@ -63,5 +62,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

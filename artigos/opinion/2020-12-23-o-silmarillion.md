@@ -7,7 +7,6 @@ categories:
 - Opinion
 ---
 
-
 O Início de tudo que você conhece na grande obra de Tolkin.
 
 Há muito aprendizado a ser recebido quando se entra na mente de um gênio. Também existe muito perigo, pois, podemos acabar desejando repousar em suas obras para sempre. Entre a realidade e fantasia, esta última soa muito mais acolhedora.
@@ -20,8 +19,6 @@ Bela foi a música e cheia de poder mas *Melkor* decidiu mostrar sua destreza e 
 
 Vemos personagens familiares como Elrond, Galadriel e Sauron, antes que seus artifícios e atos os tornassem conhecidos. Lutas, guerras, aventuras, tristezas e esperança marcam este livro impossível de deixar de lado.
 
-Li a tradução da Harper Collins, contudo a versão da Martins Fontes é boa, porém, sem a riqueza que a nova tradução entrega, tornando esta mais próxima do escrito de Tolkien. Adentre por sua conta e risco os vales e montanhas, as cavernas talhadas pelos anãos e sim, estes poderosos guerreiros estão presentes, não como filhos de Ilúvatar, mas tendo recebido Dele a benção de vida. 
-
-https://dunapress.org/luiz-gustavo-dos-santos-chrispino-pix-autorizado/
+Li a tradução da Harper Collins, contudo a versão da Martins Fontes é boa, porém, sem a riqueza que a nova tradução entrega, tornando esta mais próxima do escrito de Tolkien. Adentre por sua conta e risco os vales e montanhas, as cavernas talhadas pelos anãos e sim, estes poderosos guerreiros estão presentes, não como filhos de Ilúvatar, mas tendo recebido Dele a benção de vida.
 
 Clique [AQUI NO LINK](https://www.amazon.com/-/pt/dp/B07S28ND6Z/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=luiz+gustavo+chrispino&qid=1590260721&sr=8-1) e adquira na Amazom.com - em E-book e Impresso

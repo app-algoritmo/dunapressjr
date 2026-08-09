@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Representantes do Ministério da Economia brasileiro e do Ministério de Finanças chinês abordaram, durante reunião virtual, temas como financiamento e planejamento para investimentos em infraestrutura.
 
 Representantes do Brasil e da China discutiram oportunidades de cooperação econômica e financeira e investimentos entre os dois países, na quinta-feira (28), durante a 9ª Reunião da Subcomissão Econômico-Financeira da Comissão Sino-Brasileira de Alto Nível de Concertação e Cooperação (Cosban). Participaram do encontro virtual, entre outras autoridades, o secretário especial de Comércio Exterior e Assuntos Internacionais do Ministério da Economia, Roberto Fendt, e o vice-ministro de Finanças da China, Yu Weiping.
@@ -28,8 +27,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

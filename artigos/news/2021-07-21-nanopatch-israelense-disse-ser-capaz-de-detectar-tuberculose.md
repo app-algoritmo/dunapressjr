@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Todos os anos, 3 milhões de pessoas em todo o mundo não conseguem diagnosticar TB, muitas vezes porque os testes não estão disponíveis.
 
 Um novo patch de pele israelense capaz de detectar a tuberculose vai reduzir o grande número de pessoas que morrem da doença porque não são diagnosticadas, e a descoberta pode ajudar o mundo a erradicá-la completamente, dizem os cientistas.
@@ -47,7 +46,3 @@ Fonte: https://fr.timesofisrael.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

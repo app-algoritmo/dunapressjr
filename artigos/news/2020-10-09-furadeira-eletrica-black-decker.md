@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre a Furadeira elétrica Black & Decker.
 
 **A história da furadeira**
@@ -36,7 +35,7 @@ Em 1964, a Black & Decker participou do Projeto Gemini com uma furadeira sem fio
 
 Referências Bibliográficas
 
-CHALINA, Eric. 50 Máquinas que mudaram o Rumo da História. Tradução de Fabiano Morais. Rio de Janeiro. Sextante. 2014.  
+CHALINA, Eric. 50 Máquinas que mudaram o Rumo da História. Tradução de Fabiano Morais. Rio de Janeiro. Sextante. 2014.
 
 [História da Furadeira.](https://casadasfuradeiras.com.br/blog/historia-furadeira) Casa das Furadeiras. Acesso em 21 de set. de 2020.
 
@@ -45,5 +44,3 @@ CHALINA, Eric. 50 Máquinas que mudaram o Rumo da História. Tradução de Fabia
 [Quem inventou a furadeira elétrica?](https://www.mundoinverso.com.br/quem-inventou-a-furadeira-eletrica/) Mundo Inverso. Acesso em 21 de set. de 2020.
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Recurso permite uma segunda etapa de compra de equipamentos de proteção individual por estados e municípios. Outra portaria adiou a retomada das inscrições no Cadastro Único.
 
 Oferecido pelo Governo Federal para estruturar a rede socioassistencial de estados e municípios durante o enfrentamento da pandemia de Covid-19, o recurso emergencial já foi aceito por 5.133 entes da federação, ou 92,3% do total. Segundo levantamento realizado pela Secretaria Nacional de Assistência Social do Ministério da Cidadania, os repasses já ultrapassavam R$ 854,7 milhões até as 10h desta terça-feira (30.06). O número tende a crescer ainda, já que foi ampliado o prazo para a adesão aos recursos federais.
@@ -27,7 +26,6 @@ A portaria desta terça ainda levou em consideração uma instabilidade ocorrida
 
 [Ministério da Cidadania](https://soundcloud.com/mincidadania) · [Governo disponibiliza recursos para fortalecer Sistema Único de Assistência Social em todo país](https://soundcloud.com/mincidadania/sets/governo-disponibiliza-recurso-emergencial-para-fortalecer-assistencia-social-em-todo-pais)
 
-**
 Alta adesão**
 
 A secretária destaca ainda o alto índice de adesão ao repasse por parte dos estados e municípios. Entre todos os 5.564 entes elegíveis, apenas 422 ainda não preencheram o Termo de Aceite. “É importante destacar o grande envolvimento e mobilização de vários atores para que pudéssemos ter essa adesão significativa. Temos estados em que a adesão já foi de 100%, como Acre, Distrito Federal, Paraíba, Piauí, Roraima”, ressalta Mariana.
@@ -48,7 +46,7 @@ O Cadastro Único permite que o Governo Federal identifique as famílias de baix
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

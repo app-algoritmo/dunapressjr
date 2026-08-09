@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Jerusalém acredita que os EUA concordaram em retornar ao acordo de 2015 sem mudanças, compensar o Irã pelas sanções de Trump.
 
 Jerusalém está muito desapontada com o que fontes políticas não oficiais definem como uma "dobra completa da América" ​​nas negociações nucleares com o Irã em Viena, *noticiou o* jornal *Israel Hayom* na manhã de domingo.
@@ -42,5 +41,3 @@ Fonte: https://www.israelnationalnews.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

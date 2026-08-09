@@ -7,7 +7,6 @@ categories:
 - Geopolitics
 ---
 
-
 ## Continuo descobrindo que a maioria das pessoas realmente não sabe o que é geopolítica ou como ela funciona. Portanto, quero dizer algumas coisas básicas para compreensão.
 
 A maioria das pessoas foi profundamente abalada emocionalmente pelos eventos na Ucrânia. Isso é compreensível, porque a tragédia que está acontecendo ali é realmente terrível. Mas isso tem uma desvantagem decisiva, porque se você é emotivo, seu pensamento analítico é desligado.
@@ -142,9 +141,9 @@ Para esclarecer, mostrarei mais uma vez como ocorreu a escalada na Ucrânia.
 
 **Em agosto de 2021,**  as tropas da OTAN e dos EUA fugiram do Afeganistão às pressas.
 
- Enquanto Kiev escalou  novamente a situação em Donbass  **a partir do final de 2021 e a OTAN aumentou sua presença de tropas na Ucrânia sob o pretexto de manobras e missões de treinamento, Alemanha e França **[enterraram oficialmente o acordo de Minsk ](https://www.anti-spiegel.ru/2021/kein-wort-in-den-medien-der-westen-hat-das-minsker-abkommen-beerdigt/)**em novembro de 2021**  , embora não houvesse menção a nada em a mídia ocidental deu relatórios.[](https://www.anti-spiegel.ru/2021/kein-wort-in-den-medien-der-westen-hat-das-minsker-abkommen-beerdigt/)
+ Enquanto Kiev escalou  novamente a situação em Donbass  **a partir do final de 2021 e a OTAN aumentou sua presença de tropas na Ucrânia sob o pretexto de manobras e missões de treinamento, Alemanha e França **[enterraram oficialmente o acordo de Minsk ](https://www.anti-spiegel.ru/2021/kein-wort-in-den-medien-der-westen-hat-das-minsker-abkommen-beerdigt/)**em novembro de 2021**  , embora não houvesse menção a nada em a mídia ocidental deu relatórios.
 
-Como o Politico noticiou em outubro de 2022, as sanções à Rússia foram  [preparadas](https://deutsch.rt.com/international/150999-sanktionsentscheidung-eu-war-eng-mit/)  em negociações entre Washington e Bruxelas  começando pelo menos **em novembro de 2021** . Isso foi três meses antes do início da intervenção russa na Ucrânia e exatamente quando Berlim e Paris enterraram o acordo de Minsk. Os tomadores de decisão em Washington e Bruxelas (e provavelmente também em Berlim e Paris) aparentemente sabiam que o abandono do Acordo de Minsk levaria à guerra na Ucrânia, razão pela qual prepararam as sanções correspondentes ao mesmo tempo. O Afeganistão era coisa do passado, deixando as mãos dos EUA livres para um novo conflito.[](https://deutsch.rt.com/international/150999-sanktionsentscheidung-eu-war-eng-mit/)
+Como o Politico noticiou em outubro de 2022, as sanções à Rússia foram  [preparadas](https://deutsch.rt.com/international/150999-sanktionsentscheidung-eu-war-eng-mit/)  em negociações entre Washington e Bruxelas  começando pelo menos **em novembro de 2021** . Isso foi três meses antes do início da intervenção russa na Ucrânia e exatamente quando Berlim e Paris enterraram o acordo de Minsk. Os tomadores de decisão em Washington e Bruxelas (e provavelmente também em Berlim e Paris) aparentemente sabiam que o abandono do Acordo de Minsk levaria à guerra na Ucrânia, razão pela qual prepararam as sanções correspondentes ao mesmo tempo. O Afeganistão era coisa do passado, deixando as mãos dos EUA livres para um novo conflito.
 
 **Em dezembro de 2021,**  a Rússia emitiu um ultimato aos EUA e à OTAN exigindo  [garantias mútuas de segurança](https://www.anti-spiegel.ru/2021/was-russland-den-usa-und-der-nato-als-gegenseitige-sicherheitsgarantien-vorschlaegt/)  e a retirada das tropas da OTAN da Ucrânia, afirmando que, se as garantias mútuas de segurança fossem negadas, seria forçada a responder de maneira “técnico-militar”. Assim, ficou claro que a Rússia responderia militarmente a novos esforços para atrair a Ucrânia para a OTAN. Foi nesse momento que todos os políticos responsáveis ​​perceberam que a recusa em negociar com a Rússia levaria à guerra na Ucrânia. A guerra e toda a miséria poderiam ter sido evitadas se os EUA estivessem dispostos a aceitar e garantir permanentemente o status neutro da Ucrânia.
 
@@ -174,7 +173,7 @@ Um dia depois **, em 9 de abril de 2022** ,  [o primeiro-ministro britânico Joh
 
 **Em 30 de setembro de 2022,**  o presidente ucraniano Zelensky encerrou as negociações com a Rússia liderada por Putin por decreto e punição.
 
-Fonte: 
+Fonte:
 
 Isso confirma mais uma vez que os EUA já estão se preparando para a guerra, embora ainda estejam oficialmente conversando com a Rússia sobre possíveis negociações sobre garantias mútuas de segurança, uma vez que a lei de apoio à Ucrânia contra a "invasão militar russa" foi introduzida um mês antes da intervenção russa em Congresso.
 

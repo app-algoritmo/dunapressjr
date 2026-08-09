@@ -7,36 +7,15 @@ categories:
 - Chronicle
 ---
 
-
 -Este é o primeiro artigo de uma série super divertida que recomendo aos nossos leitores em Duna Press, siga a série e boa leitura!
 
--Por Tim Urban | 
+-Por Tim Urban |
 
 ## Elon Musk: o homem mais radiante do mundo
 
 No mês passado, recebi um telefonema surpreendente.
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Call-0.png)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Call-14.png)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Call-2b.png)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Call-31.png)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Call-4.png)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Call-51.png)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Call-6.png)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Call-7.png)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Call-83.png)
-
 Elon Musk, para quem não conhece, é o homem mais radical do mundo.
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Untitled-4.jpg)
 
 Usarei esta postagem para explorar como ele se tornou um bilionário que se fez sozinho e a inspiração na vida real para Tony Stark *do Homem de Ferro* , mas, por enquanto, deixarei Richard Branson explicar as coisas brevemente: [1](https://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html#)
 
@@ -45,10 +24,6 @@ Usarei esta postagem para explorar como ele se tornou um bilionário que se fez 
 Portanto, não, não era um telefonema que eu esperava.
 
 Poucos dias depois, me vi de calça de pijama, andando freneticamente pelo apartamento, ao telefone com Elon Musk. Tivemos uma discussão sobre Tesla, SpaceX, as indústrias automotiva, aeroespacial e de energia solar, e ele me disse que achava que confundia as pessoas sobre cada uma dessas coisas. Ele sugeriu que, se esses fossem tópicos sobre os quais eu estaria interessado em escrever, e pudesse ser útil, eu poderia ir para a Califórnia e sentar-me com ele pessoalmente para uma discussão mais longa.
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/2Call1.png)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/2Call21.png)
 
 Para mim, este projeto foi um dos maiores acertos da história. Não apenas porque Elon Musk é Elon Musk, mas porque aqui estão dois itens *separados* que estão parados há um tempo no meu documento “Tópicos de Postagens Futuras”, literalmente:
 
@@ -156,8 +131,6 @@ Em alguns anos, quando suas fábricas mais novas estiverem concluídas, as três
 
 Tudo isso fez de Musk uma espécie de lenda viva. Ao construir uma startup automotiva de sucesso e sua rede mundial de estações Supercharger, Musk foi comparado a industriais visionários como Henry Ford e John D. Rockefeller. O trabalho pioneiro da SpaceX na tecnologia de foguetes levou a comparações com Howard Hughes, e muitos traçaram paralelos entre Musk e Thomas Edison por causa dos avanços em engenharia que Musk conseguiu alcançar em todos os setores. Talvez na maioria das vezes, ele seja comparado a Steve Jobs, por sua notável capacidade de perturbar indústrias gigantescas e há muito estagnadas com coisas que os clientes nem sabiam que queriam. Alguns acreditam que ele será lembrado em uma aula própria. A escritora de tecnologia e biógrafa de Musk, Ashlee Vance, sugeriu que o que Musk está construindo “tem o potencial de ser muito mais grandioso do que qualquer coisa que Hughes ou Jobs tenham produzido. Musk pegou setores como aeroespacial e automotivo, dos quais a América parecia ter desistido, e os reformulou como algo novo e fantástico ”.[9](https://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html#)
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/F.jpg)
-
 Chris Anderson, que dirige o TED Talks, [chama](https://www.youtube.com/watch?v=tUMZTtQU10o) Musk de “o empreendedor vivo mais notável do mundo”. Outros o conhecem como "o Homem de Ferro da vida real", e não sem razão - Jon Favreau na verdade enviou Robert Downey, Jr. para passar um tempo com Musk na fábrica da SpaceX antes de filmar o primeiro filme do *Homem de Ferro*para que ele pudesse modelar seu personagem fora de Musk.[10](https://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html#)Ele até [participou dos](http://simpsons.wikia.com/wiki/The_Musk_Who_Fell_to_Earth) Simpsons.
 
 E este é o homem com quem eu estava de alguma forma ao telefone enquanto eu andava freneticamente para frente e para trás no meu apartamento, em calças de pijama.
@@ -186,23 +159,11 @@ Ambas as fábricas são claras e limpas, brilhantes e pintadas de branco, com te
 
 Quando cheguei à fábrica da Tesla (acompanhada por Andrew), fiquei impressionado primeiro com seu tamanho - e quando olhei para cima, não fiquei surpreso [ao ver](http://en.wikipedia.org/wiki/List_of_largest_buildings_in_the_world) que tem a segunda maior área de construção (também conhecida como área de base) nos E.U.A
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/IMG_6427.jpg)
-
 A fábrica era anteriormente propriedade conjunta da GM e da Toyota, que a vendeu para a Tesla em 2010. Começamos o dia com um tour completo pela fábrica - um mar de robôs vermelhos fazendo carros e sendo bobos:[6](https://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html#)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/IMG_6434.jpg)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/IMG_6439.jpg)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/IMG_6444.jpg)
 
 E outras coisas legais, como uma vasta seção da fábrica que apenas faz a bateria do carro, e outra que abriga os rolos de alumínio de 20.000 libras que eles cortam, prensam e soldam em Teslas.
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/130.jpg)
-
 E esta prensa gigante, que custa US $ 50 milhões e prensa metal com *4.500 toneladas* de pressão (a mesma pressão que você obteria se empilhasse 2.500 carros em cima de algo).
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/142.jpg)
 
 A fábrica da Tesla está trabalhando para aumentar sua produção de 30.000 carros / ano para 50.000, ou cerca de 1.000 por semana. Eles pareciam estar bombeando carros com uma rapidez incrível, então eu fiquei pasmo ao saber que a Toyota estava em um clipe de 1.000 carros por *dia* quando eles habitavam a fábrica.
 
@@ -246,20 +207,6 @@ Falando no CEO, vamos comer um hambúrguer com ele.
 
 Começou assim:
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Lunch-1.png)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Lunch-2.png)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Lunch-3.png)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Lunch-5.png)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Lunch-4.png)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Lunch-6.png)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/Lunch-2.png)
-
 Depois de cerca de sete minutos disso, consegui tirar minha primeira pergunta, uma pequena pergunta falante sobre como ele achava que o lançamento recente tinha sido (eles haviam tentado uma manobra de pouso de foguete extremamente difícil - mais sobre isso no post da SpaceX ) Sua resposta incluiu as seguintes palavras: hipersônico, rarefeito, densificando, supersônico, Mach 1, Mach 3, Mach 4, Mach 5, vácuo, regimes, propulsores, nitrogênio, hélio, massa, momentum, balístico e boost-back. Enquanto isso acontecia, eu ainda estava quase totalmente apagado da surrealidade da situação e, quando comecei a acordar, estava com medo de fazer qualquer pergunta sobre o que ele estava dizendo, caso ele já tivesse explicado enquanto eu estava inconsciente.
 
 Por fim, recuperei a capacidade de ter uma conversa humana adulta e começamos o que se tornou uma discussão altamente interessante e envolvente de duas horas.[8](https://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html#) Esse cara tem muito em que pensar sobre *vários* tópicos. Neste único almoço, cobrimos carros elétricos, mudanças climáticas, inteligência artificial, o Paradoxo de Fermi, consciência, foguetes reutilizáveis, colonizando Marte, criando uma atmosfera em Marte, votando em Marte, programação genética, seus filhos, declínio populacional, física vs. . engenharia, Edison vs. Tesla, energia solar, uma taxa de carbono, a definição de uma empresa, distorção do espaço-tempo e como isso não é realmente algo que você pode fazer, nanobots em sua corrente sanguínea e como isso não é realmente algo que você pode fazer , Galileo, Shakespeare, os antepassados ​​americanos, Henry Ford, Isaac Newton, satélites e eras glaciais.
@@ -274,7 +221,7 @@ Entrarei em detalhes sobre o que ele tinha a dizer sobre muitas dessas coisas em
 
 - **O Paradoxo de Fermi também o preocupa. **Na [minha postagem](https://waitbutwhy.com/2014/05/fermi-paradox.html) sobre isso, eu dividi os pensadores Fermi em dois campos - aqueles que pensam que não há nenhuma outra vida altamente inteligente por causa de algum Grande Filtro, e aqueles que acreditam que deve haver abundância de vida inteligente e que não vemos sinais de qualquer por algum outro motivo. Musk não tinha certeza de qual acampamento parecia mais provável, mas ele suspeita que pode estar acontecendo uma situação perturbadora do Grande Filtro. Ele acha que o paradoxo “simplesmente não faz sentido” e que “fica cada vez mais preocupante” com o passar do tempo. Considerando a possibilidade de que talvez sejamos uma civilização rara que conseguiu passar pelo Grande Filtro por meio de uma ocorrência bizarra, ele se sente ainda mais convicto sobre a missão da SpaceX: “Se somos muito raros, é melhor chegarmos à situação de vários planetas *rapidamente*, porque se a civilização é tênue, então devemos fazer tudo o que pudermos para garantir que nossa já fraca probabilidade de sobrevivência seja melhorada dramaticamente. ” Mais uma vez, seu medo aqui não me faz sentir bem.
 
-- **Um tópico em que discordo dele é a natureza da consciência. **Eu penso na consciência como um [espectro](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html) suave[](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html). Para mim, o que experimentamos como consciência é exatamente o que é ser inteligente no nível humano. Somos mais inteligentes e “mais conscientes” do que um macaco, que é mais consciente do que uma galinha, etc. E um alienígena muito mais inteligente do que nós seria para nós, como somos para um macaco (ou uma formiga) em todos os sentidos. Falamos sobre isso, e Musk parecia convencido de que a consciência no nível humano é uma coisa em preto e branco - que é como um interruptor que liga em algum ponto do processo evolutivo e que nenhum outro animal compartilha. Ele não acredita que “formigas: humanos :: humanos: [um extraterrestre muito mais inteligente]”, acreditando que os humanos são computadores fracos e que algo mais inteligente do que os humanos seria apenas um computador mais forte, não algo tão além de nós não conseguia nem imaginar sua existência.
+- **Um tópico em que discordo dele é a natureza da consciência. **Eu penso na consciência como um [espectro](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html) suave. Para mim, o que experimentamos como consciência é exatamente o que é ser inteligente no nível humano. Somos mais inteligentes e “mais conscientes” do que um macaco, que é mais consciente do que uma galinha, etc. E um alienígena muito mais inteligente do que nós seria para nós, como somos para um macaco (ou uma formiga) em todos os sentidos. Falamos sobre isso, e Musk parecia convencido de que a consciência no nível humano é uma coisa em preto e branco - que é como um interruptor que liga em algum ponto do processo evolutivo e que nenhum outro animal compartilha. Ele não acredita que “formigas: humanos :: humanos: [um extraterrestre muito mais inteligente]”, acreditando que os humanos são computadores fracos e que algo mais inteligente do que os humanos seria apenas um computador mais forte, não algo tão além de nós não conseguia nem imaginar sua existência.
 
 - **Conversei um pouco com ele sobre reprogramação genética. **Ele não acredita na eficácia dos esforços típicos de tecnologia antienvelhecimento, porque acredita que os humanos têm datas de validade gerais e ninguém consertará isso. Ele explicou: “Todo o sistema está entrando em colapso. Você não vê alguém que tem 90 anos e pensa, ele pode correr muito rápido, mas sua visão é ruim. O *sistema inteiro* está sendo desligado. Para mudar isso de forma séria, você precisa reprogramar a genética ou substituir todas as células do corpo. ” Agora, com qualquer outra pessoa - literalmente *qualquer* outra pessoa - eu encolheria os ombros e concordaria, já que ele fez um bom argumento. Mas aquele era Elon Musk, e Elon Musk *conserta merda para a humanidade. *Então o que eu fiz?
 
@@ -309,7 +256,5 @@ Assistindo a entrevistas com Musk, você vê muitas pessoas perguntarem a ele al
 Há muitas coisas sobre Musk que o tornam tão bem-sucedido, mas acho que há um “molho secreto” que coloca Musk em uma liga diferente até mesmo dos outros bilionários renomados de nosso tempo. Tenho uma teoria sobre o que é isso, que tem a ver com a maneira como Musk pensa, como raciocina por meio dos problemas e como vê o mundo. Conforme esta série continua, pense sobre isso, e discutiremos muito mais no último post.
 
 Por enquanto, vou deixá-lo com Elon Musk segurando um [Monstro do Pânico](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) .
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/05/IMG_6470.jpg)
 
 Fonte: Wait But Why

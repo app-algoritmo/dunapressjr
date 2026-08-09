@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro da Cidadania falou sobre impacto econômico do programa.
 
 O Auxílio Brasil, novo programa permanente de transferência de renda do governo federal, injetará mais de R$ 90 bilhões na economia de varejo durante 2022, informou nesta segunda-feira (7) o ministro da Cidadania, João Roma, em entrevista ao programa *A Voz do Brasil*.
@@ -16,7 +15,7 @@ Segundo Roma, o governo também pagará um aditivo do auxílio emergencial - que
 
 “São vários programas que vão além da proteção social, mas também buscar a transformação social para as famílias brasileiras. Estamos conseguindo fortalecer com o programa permanente de transferência de renda, que é o Auxílio Brasil, mais de 17 milhões de famílias necessitadas em todo o Brasil”, afirmou o ministro.
 
-A concessão da [**Tarifa Social de Energia Elétrica**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-12/entenda-novas-regras-da-tarifa-social-de-energia-eletrica) também está vinculada ao cadastro do Auxílio Brasil, feito através do CadÚnico. João Roma afirmou que o sistema já beneficia 24 milhões de famílias que recebem o desconto da tarifa de energia elétrica automaticamente na fatura. 
+A concessão da [**Tarifa Social de Energia Elétrica**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-12/entenda-novas-regras-da-tarifa-social-de-energia-eletrica) também está vinculada ao cadastro do Auxílio Brasil, feito através do CadÚnico. João Roma afirmou que o sistema já beneficia 24 milhões de famílias que recebem o desconto da tarifa de energia elétrica automaticamente na fatura.
 
 “Você que está em casa, verifique sua conta de luz”, alertou Roma, que lembrou ainda que o sistema seleciona automaticamente os cadastros aptos do CadÚnico e aplica o benefício. “Se não chegou o desconto e está em situação de necessidade, basta ir ao Centro Regional de Assistência Social (CRAS) e atualizar o CadÚnico para receber o desconto”, complementou.
 
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

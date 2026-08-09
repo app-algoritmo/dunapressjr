@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Programa para micro e pequenas empresas emprestou R$ 15,6 bi
 
 A partir de desta sexta-feira (2), micro e pequenas empresas têm à disposição R$ 6,3 bilhões em crédito pelo Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe). O dinheiro será emprestado pela Caixa Econômica Federal, que teve a ampliação do orçamento para a linha de crédito autorizada pelo Fundo Garantidor de Operações (FGO).
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

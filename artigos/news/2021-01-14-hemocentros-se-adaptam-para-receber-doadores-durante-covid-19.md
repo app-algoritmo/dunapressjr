@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Vitimas de acidentes, pessoas em tratamento de câncer, com anemias crônicas e que passaram por cirurgias estão entre as que precisam de doação de sangue. E, para isso, contam com os doadores que vão aos hemocentros praticar esse ato de solidariedade.
 
 Em 2020, ano em que o país sofreu os impactos da Covid-19, houve redução de 15% a 20% no número de doações em relação a 2019, de acordo com dados preliminares do Ministério da Saúde. Segundo a pasta, uma das causas é a redução da circulação das pessoas.
@@ -84,7 +83,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa de valores tem leve alta, com realização de lucros.
 
 Embalado pelo mercado internacional, o dólar caiu pelo terceiro dia seguido e aproximou-se de R$ 5,60, zerando a alta em abril. A bolsa de valores iniciou o dia em forte alta, mas fechou praticamente estável em meio à realização de lucros.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

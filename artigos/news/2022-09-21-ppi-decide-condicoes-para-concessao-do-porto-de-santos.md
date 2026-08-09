@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Relicitações de aeroportos de Viracopos e Natal são adiadas.
 
 Uma semana após a aprovação pela Agência Nacional de Transportes Aquáticos (Antaq), o Conselho do Programa de Parcerias de Investimentos (CPPI) aprovou as condições para a concessão do Porto de Santos (SP). O edital será analisado pelo Tribunal de Contas da União (TCU), que poderá ratificar ou sugerir mudanças.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -37,9 +37,7 @@ Sobre NESCAU®
 A Nestlé tem mais de 100 anos de atuação no Brasil e segue renovando seu compromisso com a sociedade, como força mobilizadora que contribui para levar nutrição e bem-estar para bilhões de pessoas, criar um ambiente de inclusão e oportunidade para milhares de brasileiros e ser o produtor de alimentos mais sustentável do país. A empresa emprega mais de 30 mil pessoas no Brasil e tem 20 unidades industriais localizadas nos estados de São Paulo, Minas Gerais, Bahia, Pernambuco, Goiás, Rio de Janeiro, Rio Grande do Sul e Espírito Santo, além de três centros de distribuição e mais de 50 brokers (responsáveis por vendas, promoções, merchandising, armazenamento e distribuição). Comprometida com boas práticas que vão do campo à mesa do consumidor, a companhia conta com milhares de produtores fornecedores participando de programas de qualidade nas cadeias de cacau, café, leite e vegetais, que garantem uma produção sustentável e que traz modernidade ao campo, inclusive na cadeia orgânica. Além disso, mantém iniciativas nas fábricas como minimizar a utilização de água e energia e reduzir as emissões, ações de reflorestamento e inovações contínuas em embalagens cada vez mais sustentáveis. A Nestlé Brasil está presente em 99% dos lares brasileiros, segundo pesquisa realizada pela Kantar Worldpanel.
 
 **Informações à imprensa ** 
-**Nestlé - Agência Pub - [nestle@agencia.pub](https://click.presskit.com.br/url/10139220123/6361388b6fc)[
-
-](https://click.presskit.com.br/url/10139232ab9/6361388b6fc)Assessoria de Imprensa Esportiva:           ** 
+**Nestlé - Agência Pub - [nestle@agencia.pub](https://click.presskit.com.br/url/10139220123/6361388b6fc)Assessoria de Imprensa Esportiva:           ** 
 **ZDL Sports           ** 
 ***Doro Jr. - MTb 13209 - ***[***dorojr@zdl.com.br***](https://click.presskit.com.br/url/10139247acf/6361388b6fc)*** - F: 11 984579723         *** 
 ***Rafael De Marco - Mtb.: 27556 - ***[***rafael@zdl.com.br***](https://click.presskit.com.br/url/1013925c41f/6361388b6fc)*** - Cel: 11 976022986         *** 

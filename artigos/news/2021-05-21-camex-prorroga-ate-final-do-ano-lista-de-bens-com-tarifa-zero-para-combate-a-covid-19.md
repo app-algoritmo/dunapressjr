@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Relação inclui 628 itens utilizados no combate à pandemia, entre medicamentos e vacinas, equipamentos hospitalares, itens de higiene pessoal e outros insumos.
 
 O Comitê-Executivo de Gestão (Gecex) da Câmara de Comércio Exterior (Camex) decidiu, em reunião realizada nesta quarta-feira (19/5), prorrogar até 31 de dezembro de 2021 a vigência da Resolução nº 17/2020, que zera a tarifa de importação sobre itens essenciais ao combate à Covid-19. A lista inclui 628 itens, entre medicamentos e vacinas, equipamentos hospitalares, itens de higiene pessoal e outros insumos. Se não fosse prorrogada, a redução das alíquotas seria encerrada no próximo dia 30 de junho.
@@ -35,8 +34,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

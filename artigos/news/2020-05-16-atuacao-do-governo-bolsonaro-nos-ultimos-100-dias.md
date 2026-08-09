@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Na cerimônia que marcou os 500 dias do governo do presidente Jair Bolsonaro, o ministro-chefe da Casa Civil, general Braga Netto, falou sobre o desafio do governo de mostrar as ações tomadas nos últimos 100 dias para mitigar os impactos econômicos da pandemia do novo coronavírus, demonstrando alguns resultados, mas sem fazer comemorações. Este, inclusive, foi o tom adotado por todos os ministros.
 
 Participaram da coletiva de imprensa, nesta sexta-feira (15), no Palácio do Planalto, além do ministro-chefe da Casa Civil general Braga Netto, o ministro-chefe da Secretaria de Governo, Luiz Eduardo Ramos, a ministra do ministério da Mulher, da Família e dos Diretos Humanos, Damares Alves, e o ministro da Economia, Paulo Guedes.
@@ -37,5 +36,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

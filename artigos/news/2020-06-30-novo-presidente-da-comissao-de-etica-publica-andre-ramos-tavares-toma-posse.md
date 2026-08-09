@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### A comissão tem como objetivo atuar como instância consultiva do presidente e ministros em matéria de ética pública.
 
 A Comissão de Ética Pública da Presidência da República tem um novo presidente para os próximos três anos. André Ramos Tavares tomou posse no cargo nesta terça-feira (30), em cerimônia por viodeoconferência. A comissão tem a atribuição de zelar pela conduta ética na administração pública.
@@ -36,4 +35,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

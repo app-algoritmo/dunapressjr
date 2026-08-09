@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice relativo a serviços recuou de 54,7 em julho para 50,5 em agosto.
 
 A recuperação da zona do euro de sua maior contração já registrada vacilou em agosto uma vez que o crescimento do dominante setor de serviços foi quase paralisado, mostrou nesta quinta-feira a pesquisa Índice de Gerentes de Compra (PMI, na sigla em inglês).
@@ -23,5 +22,3 @@ A demanda diminuiu no bloco embora as empresas tenham reduzido preços, e o núm
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Dado Ruvic/Direitos reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

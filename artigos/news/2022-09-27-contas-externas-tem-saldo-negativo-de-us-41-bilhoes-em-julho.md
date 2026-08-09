@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Investimentos diretos no país somaram US$ 7,7 bilhões.
 
 As contas externas tiveram saldo negativo de US$ 4,136 bilhões em julho, informou nesta segunda-feira (26) o Banco Central (BC). No mesmo mês de 2021, o déficit havia sido de US$ 1,175 bilhão nas transações correntes, que são as compras e vendas de mercadorias e serviços e transferências de renda com outros países.
@@ -54,8 +53,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

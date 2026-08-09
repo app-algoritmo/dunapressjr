@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Concurso vai premiar trabalhos produzidos no Brasil em todas as áreas do conhecimento, sobre defesa nacional.
 
 stão abertas, até 7 de agosto, as [inscrições](https://www.capes.gov.br/images/novo_portal/editais/editais/15062020_Edital_14_MD_CAPES.pdf) para o [Concurso de Dissertações e Teses sobre Defesa Nacional (CDTDN)](https://www.capes.gov.br/bolsas/premios/concurso-md-capes-de-dissertacoes-e-teses-sobre-defesa-nacional), que premiará trabalhos de mestres e doutores brasileiros, em todas as áreas do conhecimento, cujos temas tenham relação com a Defesa Nacional.  A iniciativa é uma parceria entre a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e o Ministério da Defesa (MD). O edital nº 14 de 2020 foi publicado no Diário Oficial da União (DOU) desta segunda-feira, 15.
@@ -33,5 +32,3 @@ A iniciativa também dá visibilidade e estimula a produção de pesquisas e est
 Fonte: gov.br/mec / Imagem em destaque: ppgs
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa cai 0,5%, mas exterior limita perdas.
 
 Num dia em que o Brasil se descolou do mercado internacional, o dólar subiu e a bolsa caiu. A moeda norte-americana fechou em alta pela terceira sessão seguida. A bolsa caiu, mas o clima no exterior amenizou as perdas.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

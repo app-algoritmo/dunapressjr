@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Inadimplência alcançou 29,6% do total das famílias.
 
 O endividamento das famílias com carnês e cartões de lojas de varejo e a inadimplência das famílias avançaram em agosto. O endividamento alcançou 19,4%, percentual que representa alta de 0,5 ponto percentual (p.p) se comparado ao mês anterior e de 1,2 p.p. em relação com agosto do ano passado. Já a inadimplência alcançou 29,6% do total de famílias no país, sendo o maior patamar desde o começo da série histórica em 2010.
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Diretora da Aneel esclareceu revisões tarifárias e retirada de imposto.
 
 Além da redução média de 5% nos custos da energia gerada pelas [**Revisões Tarifárias Extraordinárias (RTEs)**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-07/aneel-aprova-revisao-tarifaria-que-reduz-tarifas-de-10-distribuidoras), os brasileiros terão outro motivo para comemorar: a redução do Imposto sobre Circulação de Mercadorias e Produtos (ICMS) terá um impacto médio de 12% sobre as tarifas de energia, informou nesta quinta-feira (14) a diretora-presidente da Agência Nacional de Energia Elétrica (Aneel), Camila Bomfim, em entrevista ao programa *A Voz do Brasil*.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

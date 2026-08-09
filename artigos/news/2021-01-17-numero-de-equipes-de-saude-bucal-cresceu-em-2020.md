@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Desde criança a autônoma Valquiria Ferreira sempre usou o Sistema Único de Saúde (SUS). Entre os tratamentos feitos por ela, está a extração de quatro dentes sisos. Hoje, com 29 anos de idade, Valquiria lembra dos dentistas que cuidaram dela. “Me trataram com muita educação e até com muito carinho, porque não é um procedimento muito agradável de se fazer, mas fui muito bem tratada”, contou.
 
 O tratamento da Valquiria só foi possível porque há 20 anos foi criada, no SUS, a Política Nacional de Saúde Bucal. Com isso, o Brasil passou a ser um dos poucos países no mundo que oferece tratamento odontológico gratuito à população, oferecendo, por exemplo, consultas com dentistas, restaurações, manutenção e oferta de próteses dentárias.
@@ -36,7 +35,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

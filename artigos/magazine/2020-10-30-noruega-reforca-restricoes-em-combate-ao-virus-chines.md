@@ -7,7 +7,6 @@ categories:
 - Magazine
 ---
 
-
 ## Nova austeridade nacional para o distanciamento social.
 
 ### Número de infectados na Noruega até 29.10.20: 19.066 casos e 281 mortes.
@@ -29,8 +28,6 @@ Em agosto, tivemos 300 infectados por semana. Em setembro, tivemos 700 pessoas i
 Agora temos mais conhecimento sobre a propagação da infecção entre as crianças, razão pela qual não há necessidade de conselhos tão rigorosos para os mais jovens.
 
 "Estamos apertando em várias áreas para obter menos contágio na sociedade. Vai facilitar a manutenção das creches e escolas abertas, e é uma prioridade importante para o governo", diz o ministro da Educação e Integração, Guri Melby.
-
-[](https://www.fhi.no/nettpub/coronavirus/fakta/reiserad-knyttet-til-nytt-koronavirus-coronavirus/?term=&h=1#utenlandsreiser)
 
 Todas as medidas durarão até o início de dezembro.
 
@@ -55,7 +52,7 @@ Além dos encontros privados, também vemos o aumento do contágio como resultad
 - Mais de 300 por 100.000 pessoas que foram testadas enúmero de novos casos é de mais de 150 por 100.000 nos últimos 14 dias, ou
 - o número de novos casos é de 50 ou mais por 100.000 pessoas nos últimos 14 dias e 4% ou mais testes positivos.
 
-Essa mudança só entrará em vigor à meia-noite até sábado, 31 de outubro. A mudança não tem efeito retroativo. [Uma visão geral dos países e territórios do EEE e da Suíça que não devem ser cobertos por isenções de quarentena de acordo com a Seção 6 c do Regulamento pode ser encontrada aqui no anexo B de Lovdata](https://lovdata.no/dokument/SF/forskrift/2020-03-27-470/KAPITTEL_9#KAPITTEL_9) 
+Essa mudança só entrará em vigor à meia-noite até sábado, 31 de outubro. A mudança não tem efeito retroativo. [Uma visão geral dos países e territórios do EEE e da Suíça que não devem ser cobertos por isenções de quarentena de acordo com a Seção 6 c do Regulamento pode ser encontrada aqui no anexo B de Lovdata](https://lovdata.no/dokument/SF/forskrift/2020-03-27-470/KAPITTEL_9#KAPITTEL_9)
 
 - Para os trabalhadores que podem utilizar a isenção na seção 6c, foram feitas alterações na disposição: Os trabalhadores que têm quarentena de lazer serão testados a cada três dias e acomodados nos primeiros dez dias do país. Também é claro que o empregador deve facilitar a distância para os outros quando o empregado estiver em quarentena de lazer. A isenção não concede mais isenções para quarentena de entrada em seu tempo livre. As mudanças entraram em vigor à meia-noite da noite de quarta-feira, 28 de outubro. As mudanças não são retroativas.
 - Não foram feitas alterações em outras isenções das quarentenas de entrada nos regulamentos covid-19 agora. Ou seja, pessoas que edupõem *exceções que *não a Seção 6 c do Regulamento Covid-19 ainda podem usá-las mesmo que venham de uma área com infecção elevada. Por exemplo, as pessoas que chegam regularmente à Noruega de áreas na Suécia ou finlândia com um dever de quarentena, como parte da viagem entre local de trabalho e local de residência, podem ser isentas de quarentena de entrada durante o horário de trabalho se forem testadas na Noruega para SARS-CoV-2 pelo menos a cada sete dias.

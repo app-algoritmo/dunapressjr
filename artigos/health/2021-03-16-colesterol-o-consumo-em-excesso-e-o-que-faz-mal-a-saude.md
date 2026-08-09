@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Visto como “vilão” e muitas vezes eliminado pelas dietas mais radicais, o que poucos sabem é que o colesterol é essencial para o nosso organismo, pois ele tem funções eficazes. “O colesterol é importante, por exemplo, na formação dos hormônios sexuais, ele é fundamental na constituição do nosso sistema nervoso central, na formação dos neurônios. Só que o colesterol em excesso, é também responsável por uma série de doenças, principalmente as cardiovasculares”, explica André Telis, médico cardiologista do Hospital Universitário da Universidade Federal da Paraíba e vinculado à Rede Ebserh.
 
 Mas o que é colesterol? É considerado um tipo de gordura (lipídio) produzido pelo organismo, que desempenha funções essenciais como a produção de hormônio.
@@ -18,7 +17,7 @@ Já o HDL, Lipoproteinas de Alta Densidade (HDL), é conhecido como bom, porque 
 
 Um dos motivos da alteração dos níveis de colesterol é o consumo excessivo de gordura saturadas e gordura trans, presentes em alimentos de origem animal, como carnes, ovos, derivados do leite, além de produtos ultraprocessados como biscoitos, margarina, salgadinhos de pacote, comidas congeladas, bolos prontos e sorvete.
 
-Mesmo quem não costuma comer muitos alimentos industrializados e gordurosos pode ter problemas com o colesterol. Além desses fatores, a hereditariedade pode determinar um colesterol alto mesmo em pessoas de hábitos saudáveis. 
+Mesmo quem não costuma comer muitos alimentos industrializados e gordurosos pode ter problemas com o colesterol. Além desses fatores, a hereditariedade pode determinar um colesterol alto mesmo em pessoas de hábitos saudáveis.
 
 Para manter o colesterol controlado e a saúde em dia, faça exames regulares, mantenha uma alimentação adequada e saudável e pratique exercícios físicos.
 
@@ -51,7 +50,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

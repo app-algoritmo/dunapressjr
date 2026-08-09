@@ -8,7 +8,6 @@ categories:
 - Covid-19
 ---
 
-
 ## Durante o surto do vírus Covid-19, as autoridades de saúde pública se esforçaram para bloquear os países fechando empresas e escolas na tentativa de conter a propagação do vírus.
 
 Abscesso cerebral causado pelo protozoário parasita Toxoplasma gondii, ilustração 3D
@@ -34,5 +33,3 @@ Os médicos não têm certeza do que causou o aumento, mas disseram que pode ser
 A Dra. Bragg conseguiu identificar o padrão e notificar as autoridades locais de saúde pública porque ela é a única neurocirurgiã pediátrica em Nevada.
 
 Fonte: [The Gateway Pundit ](https://www.thegatewaypundit.com/2023/04/doctors-warn-occurrences-of-rare-brain-infection-in-children-have-tripled-after-covid-19-lockdowns/)
-
-[](https://ruamupr.com/wc/3600/13529/16066/16066,15838,16187.html)[](https://ruamupr.com/wc/3600/13529/16066/16066,15838,16187.html)

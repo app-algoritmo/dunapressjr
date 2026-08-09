@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A permissão do uso do imóvel de família como garantia de empréstimos e, por consequência, a possibilidade de penhora desse bem para quitar a dívida, é uma das polêmicas do marco legal das garantias de empréstimos ([PL 4188/21](https://www.camara.leg.br/noticias/847456-PROPOSTA-DO-PODER-EXECUTIVO-MUDA-AS-REGRAS-SOBRE-GARANTIAS-DE-CREDITO)). Esse ponto foi alvo de críticas de diversos deputados durante a análise do projeto em Plenário.
 
 Atualmente, o imóvel de família é, em regra geral, impenhorável. Esse bem só pode ser usado como garantia do financiamento do próprio imóvel e leiloado em caso de inadimplência do financiamento imobiliário. Outros casos de penhora dependem de decisão judicial e do valor do imóvel.
@@ -38,5 +37,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

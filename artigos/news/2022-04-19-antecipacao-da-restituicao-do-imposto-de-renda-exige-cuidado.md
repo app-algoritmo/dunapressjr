@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Contribuinte só deve pedir dinheiro para quitar dívidas.
 
 Com a entrega das Declarações do Imposto de Renda Pessoa Física (IRPF) em curso, os bancos começam a oferecer aos clientes empréstimos para antecipar a restituição. As linhas de crédito são garantidas pela restituição que o contribuinte terá depois de processada a declaração, que deve ser **[enviada até 31 de maio](https://dunapress.org/2022/04/05/prazo-para-entrega-da-declaracao-do-ir-e-prorrogado-para-31-de-maio/)**. Quem precisar antecipar o dinheiro, no entanto, precisa ter cuidado.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

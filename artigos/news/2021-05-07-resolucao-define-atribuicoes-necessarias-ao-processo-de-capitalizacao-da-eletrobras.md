@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medida define também a adoção das normas e as práticas aplicadas ao mercado de valores mobiliários, especialmente quanto à definição de preços de emissão e alienação de ações e à divulgação de informações ao mercado e ao público.
 
 Foi publicada no Diário Oficial da União desta sexta-feira (7/5) a [Resolução CPPI nº 176](https://www.in.gov.br/en/web/dou/-/resolucao-cppi-n-176-de-27-de-abril-de-2021-318462764), que estabelece atribuições à Eletrobras para a execução de medidas necessárias à emissão e oferta pública de ações – uma das etapas finais do processo de capitalização da empresa.
@@ -24,8 +23,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

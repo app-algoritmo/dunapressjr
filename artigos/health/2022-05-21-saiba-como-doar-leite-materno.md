@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 - Preparo do frasco para guardar o leite materno:Lave um frasco de vidro de boca larga com tampa de plástico (do tipo café solúvel), retirando o rótulo e o papel de dentro da tampa.
 - Coloque o frasco e a tampa em uma panela, cobrindo-os com água.
 - Ferva-os por 15 minutos, contando o tempo a partir do início da fervura.
@@ -54,7 +53,3 @@ Fonte: https://www.gov.br/saude
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

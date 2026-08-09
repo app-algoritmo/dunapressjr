@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Dívida bruta atinge 89,7% do PIB, o maior percentual da história.
 
 As contas públicas registraram saldo positivo em janeiro deste ano, em razão das características sazonais do mês. O setor público consolidado, formado por União, estados e municípios, apresentou superávit primário de R$ 58,375 bilhões no mês passado, o melhor resultado para o mês na série histórica iniciada em dezembro de 2001. Em janeiro de 2020, o superávit primário foi de R$ 56,276 bilhões. Os dados foram divulgados hoje (26) pelo Banco Central (BC), em Brasília.
 
-Segundo o chefe do Departamento de Estatísticas do BC, Fernando Rocha, esse resultado é causado pelas sazonalidades dos meses de janeiro, quando os governos seguram um pouco as despesas, especialmente para o governo federal, neste ano, pela falta da aprovação da lei orçamentária. 
+Segundo o chefe do Departamento de Estatísticas do BC, Fernando Rocha, esse resultado é causado pelas sazonalidades dos meses de janeiro, quando os governos seguram um pouco as despesas, especialmente para o governo federal, neste ano, pela falta da aprovação da lei orçamentária.
 
 “Mas não é a trajetória que se espera para os próximos meses do ano”, disse. “Embora seja positiva em janeiro, a situação fiscal ainda é muito delicada, ainda precisando de mais atenção”, afirmou.
 
@@ -28,7 +27,7 @@ Segundo Rocha, o resultado positivo dos governos locais não tem mais a influên
 
 As empresas estatais federais, estaduais e municipais, excluídas as dos grupos Petrobras e Eletrobras, também tiveram superávit primário de R$ 446 milhões no mês passado.
 
-Apesar do superávit em janeiro, a meta para este ano, definida na [**Lei de Diretrizes Orçamentárias**](http://agenciabrasil.ebc.com.br/politica/noticia/2020-12/deputados-aprovam-ldo-para-2021) (LDO), é de déficit primário de R$ 250,89 bilhões para o setor público. 
+Apesar do superávit em janeiro, a meta para este ano, definida na [**Lei de Diretrizes Orçamentárias**](http://agenciabrasil.ebc.com.br/politica/noticia/2020-12/deputados-aprovam-ldo-para-2021) (LDO), é de déficit primário de R$ 250,89 bilhões para o setor público.
 
 Em 2020, as contas públicas fecharam o ano com [**déficit primário **](http://agenciabrasil.ebc.com.br/economia/noticia/2021-01/contas-publicas-tem-deficit-de-r-7029-bilhoes-em-2020)recorde de R$ 702,950 bilhões, 9,49% do Produto Interno Bruto (PIB). Foi o sétimo ano consecutivo de resultados negativos nas contas do setor público.
 
@@ -60,8 +59,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

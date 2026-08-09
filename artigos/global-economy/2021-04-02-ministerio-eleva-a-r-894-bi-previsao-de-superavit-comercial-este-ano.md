@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Alta das commodities e do consumo global motivaram nova projeção.
 
 A alta internacional das *commodities* (bens primários com cotação internacional) e a recuperação do consumo global levaram o governo a projetar um superávit recorde da balança comercial este ano. Segundo a Secretaria de Comércio Exterior (Secex) do Ministério da Economia, o país deverá encerrar o ano exportando US$ 89,4 bilhões a mais do que importará.
@@ -36,10 +35,6 @@ Segundo o Ministério da Economia, o saldo comercial melhorará significativamen
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

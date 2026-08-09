@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Débitos poderão ser parcelados com até 99% de desconto.
 
 A partir desta quinta-feira (1°), estudantes que contrataram o Financiamento Estudantil (Fies) na Caixa Econômica Federal podem renegociar as dívidas. O banco lançou o aplicativo Fies Caixa, que permitirá o refinanciamento das parcelas em atraso com até 99% de desconto.
@@ -37,8 +36,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

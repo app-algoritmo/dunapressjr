@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Ministra Tereza Cristina afirmou que medidas foram tomadas para trazer estabilidade e equilíbrio paras os preços do arroz e que o produto não irá faltar na mesa do brasileiro.
 
 A ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina, disse, em suas redes sociais, que não há possibilidade de desabastecimento e que o preço do arroz deverá cair em breve com as medidas adotadas pelo governo. "Fiquem tranquilos, não há risco de faltar arroz. Quanto ao preço, informo que o valor deverá recuar, em breve", afirmou.
@@ -36,5 +35,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

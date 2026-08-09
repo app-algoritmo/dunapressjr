@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí, por meio da Vigilância Epidemiológica, atualiza a lista de casos de COVID-19 por bairro. A cidade registrou até este domingo (06) 11.167 casos positivos. Deste total, 9.530 estão curados, 1.431 estão com o vírus ativo e 206 morreram. Os bairros São Vicente e Cordeiros são os que contabilizam mais pessoas infectadas pela doença, com 1.704 e 1.612 casos, respectivamente. Outras localidades afetadas pelo coronavírus são: Cidade Nova (984 casos), Fazenda (848), Centro (834), Espinheiros (739) e São João (72) – confira a lista completa abaixo.
 
 **[> Leia mais notícias sobre Coronavírus](http://itajai.sc.gov.br/coronavirus)**
@@ -69,7 +68,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

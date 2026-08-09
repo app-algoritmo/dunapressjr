@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Brasil conta agora com uma plataforma on-line em que é possível visualizar cenários de mudança do clima para todo o território nacional, o portal Projeções Climáticas. A ferramenta inédita no país foi construída para disponibilizar de maneira acessível projeções climáticas, derivadas de modelos globais e regionais.
 
 Por meio da plataforma, é possível visualizar o aumento de temperatura, a redução ou aumento de chuvas, a variação no número de dias quentes consecutivos, entre outros aspectos relacionados à mudança do clima. As consultas podem ser feitas por meio da seleção de filtros que envolvem cenários projetados por horizonte temporal, para os próximos anos ou décadas, ou cenários por nível de aquecimento, ou seja, o que deve ocorrer em determinada região se a temperatura média global aumentar 1,5 ºC, 2 ºC ou 4ºC.
@@ -38,7 +37,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O aplicativo Conecta.í foi reconhecido como uma referência estadual na promoção dos Objetivos do Desenvolvimento Sustentável (ODS). A solução tecnológica do Município de Itajaí recebeu o Prêmio ODS Santa Catarina na categoria Poder Público. Esta é a segunda premiação recebida pelo app desenvolvido pela Secretaria Municipal de Tecnologia (Setec), que em 2018 foi reconhecido como uma das quatro melhores soluções digitais do Sul do Brasil. Os prêmios colocam Itajaí na rota de se tornar o município mais digital do estado.
 
 Esta também é a segunda vez consecutiva que uma ação do Município de Itajaí recebe o Prêmio ODS Santa Catarina. Em 2019, o Planejamento Estratégico do Município de Itajaí (PEMI 2040) foi vencedor na mesma categoria Poder Público.
@@ -30,5 +29,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

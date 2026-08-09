@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Foi levado em consideração as recentes notícias sobre a elevação de preços de combustíveis produzidos pela Estatal.
 
 O Ministério da Justiça pediu à Petrobras esclarecimentos sobre o recente aumento de 18,8% nos preços da gasolina e de 24,9% do diesel. A notificação foi feita na quinta-feira (10). A Secretaria Nacional do Consumidor (Senacon), vinculada ao ministério, foi a responsável pela notificação.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

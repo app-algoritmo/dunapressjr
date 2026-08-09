@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Atualização no sistema traz novidades que beneficiam e agilizam o envio de informações pelos usuários.
 
 A nova versão do eSocial já foi implementada e traz novidades, dentre elas, atualizações nas soluções web e no aplicativo mobile. O sistema foi programado para simplificar o envio de informações pelos empregadores, com redução da quantidade de informações que devem ser enviadas, flexibilização em regras de validação e aproveitamento de informações constantes em outras bases de dados, de forma a não mais exigir as que já constam em outros sistemas administrados pela Receita Federal.
@@ -20,10 +19,6 @@ Os usuários do eSocial têm a sua disposição modernas soluções para envio d
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

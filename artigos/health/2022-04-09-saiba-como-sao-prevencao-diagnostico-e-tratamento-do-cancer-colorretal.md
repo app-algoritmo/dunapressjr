@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 No Brasil, o câncer colorretal é o terceiro tipo de tumor com mais incidência na população, com aproximadamente 40 mil novos casos diagnosticados por ano. Somente em 2020 foram registrados 20.540 novos casos de câncer colorretal em homens e 20.470 casos em mulheres, com incidências estimadas de 9,1% e 9,2%, respectivamente.
 
 O câncer colorretal abrange os tumores que se iniciam na parte do intestino grosso (cólon), no reto (final do intestino) e no ânus. É passível de tratamento e, quando detectado precocemente, costuma ser curável.
@@ -62,7 +61,3 @@ Fonte: https://www.gov.br/saude
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

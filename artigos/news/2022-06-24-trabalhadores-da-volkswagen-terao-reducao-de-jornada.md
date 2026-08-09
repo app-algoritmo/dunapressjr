@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medida é para enfrentar crise de componentes que afeta produção.
 
 A fábrica da Volkswagen, em São Bernardo do Campo, no interior de São Paulo, fechou um acordo com os funcionários, que prevê a redução da jornada de trabalho com diminuição de salários para tentar passar pela crise ocasionada pela falta de componentes eletrônicos e peças, o que continua prejudicando a produção nas montadoras. Mesmo com a alta demanda, os veículos não são finalizados, o que gera diminuição do trabalho.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

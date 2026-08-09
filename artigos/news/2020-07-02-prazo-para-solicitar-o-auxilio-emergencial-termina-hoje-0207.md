@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Benefício do Governo Federal chegou a 64,7 milhões de pessoas, com investimento de R$ 108,1 bilhões.
 
 Esta quinta-feira (02.07), até as 23h59, marca o último dia para quem tem direito ao Auxílio Emergencial solicitar o benefício pelo site ou aplicativo da Caixa. Desde 7 de abril, quando foram lançados os meios digitais para cadastramento dos trabalhadores informais, autônomos, desempregados, MEIs e contribuintes individuais do INSS os recursos de R$ 600 ou R$ 1.200 chegaram a 64,7 milhões de pessoas. O investimento do Governo Federal alcançou R$ 108,1 bilhões. Com a extensão do benefício anunciada na terça-feira, deve ultrapassar os R$ 200 bilhões ao fim de agosto.
@@ -26,7 +25,7 @@ Cerca de nove milhões de pessoas que receberam a primeira parcela em maio, nest
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

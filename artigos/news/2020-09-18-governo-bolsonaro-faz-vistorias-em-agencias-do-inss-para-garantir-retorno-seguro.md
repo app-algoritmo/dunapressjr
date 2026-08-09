@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Somente segurados agendados serão atendidos, por meio de marcações feitas pelo Meu INSS ou Central 135. Somente segurados agendados serão atendidos, por meio de marcações feitas pelo Meu INSS ou Central 135. 
+Somente segurados agendados serão atendidos, por meio de marcações feitas pelo Meu INSS ou Central 135. Somente segurados agendados serão atendidos, por meio de marcações feitas pelo Meu INSS ou Central 135.
 
 O Instituto Nacional do Seguro Social (INSS) iniciou, nesta quarta-feira (16), as inspeções nas salas de atendimento de perícia médica das agências para garantir o retorno rápido dos médicos peritos e, assim, atender a população que necessita dos serviços. A medida tem como objetivo verificar se os locais estão adequados para a volta das atividades, cumprindo as solicitações feitas pela Perícia Médica Federal.
 
@@ -83,5 +82,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

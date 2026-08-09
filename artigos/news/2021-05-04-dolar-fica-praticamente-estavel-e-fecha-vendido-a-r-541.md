@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa de Valores encerra a segunda-feira com alta de 0,27%.
 
 Em um dia marcado por oscilações no mercado, o dólar fechou praticamente estável, mas reduziu o ritmo de queda e permaneceu acima de R$ 5,40. A bolsa de valores chegou a subir quase 1% durante a manhã, mas perdeu impulso e terminou com leve alta.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

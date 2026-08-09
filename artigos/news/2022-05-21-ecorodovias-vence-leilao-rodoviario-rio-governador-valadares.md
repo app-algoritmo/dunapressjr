@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### A empresa ofereceu desconto de 3,11%.
 
 A Empresa EcoRodovias venceu nesta sexta-feira (20) o leilão da concessão à iniciativa privada do sistema rodoviário Rio de Janeiro – Governador Valares (MG), formada por trechos da BR 116, BR 465 e BR 493. A empresa, que foi a única a apresentar propostas, ofereceu desconto de 3,11%. O máximo previsto no edital era 17,5%. Não houve oferta de valor de outorga, conforme permitia o edital.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

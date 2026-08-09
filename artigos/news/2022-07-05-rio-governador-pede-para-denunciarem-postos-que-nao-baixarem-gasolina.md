@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Estado autuou 45 postos que não baixaram os preços.
 
 O governador do Rio de Janeiro, Claudio Castro, pediu que a população denuncie postos que se negarem a baixar o preço dos combustíveis. O apelo foi feito nesta segunda-feira (4), dois dias após entrar em vigor a redução do ICMS sobre a gasolina e o álcool, [**de 32% para 18%**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-07/rio-de-janeiro-reduz-para-18-aliquota-do-icms-sobre-combustiveis). Como resultado, 45 postos que não baixaram os preços foram autuados, com multas que podem chegar a R$ 500 mil.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

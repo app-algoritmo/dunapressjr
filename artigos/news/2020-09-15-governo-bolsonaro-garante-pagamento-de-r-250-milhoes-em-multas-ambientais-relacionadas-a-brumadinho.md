@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O valor foi depositado em conta judicial e será revertido integralmente em favor do meio ambiente e da sociedade. R$ 150 milhões serão destinados especificamente a sete Parques Nacionais no estado de Minas Gerais e os outros R$ 100 milhões serão utilizados na execução de projetos de saneamento básico.
 
 A dvocacia-Geral da União e a mineradora Vale celebraram um acordo substitutivo que garante o pagamento de R$ 250 milhões referentes a multas ambientais aplicadas pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) devido ao rompimento das barragens da Mina Córrego do Feijão, localizada em Brumadinho (MG). Esse valor também é referente às multas aplicadas pelo Estado de Minas Gerais.
@@ -34,5 +33,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor.
 
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para entidade, medidas impulsionam investimentos estrangeiros no país.
 
 O [**novo marco legal para o mercado de câmbio**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-02/camara-aprova-novo-marco-legal-do-mercado-de-cambio), aprovado na semana passada pela Câmara dos Deputados, facilitará a entrada do Brasil na Organização para a Cooperação e Desenvolvimento Econômico (OCDE), que reúne as economias mais industrializadas do planeta. A avaliação é da Confederação Nacional da Indústria (CNI), que divulgou estudo com o impacto da medida sobre a movimentação de capitais, o comércio de serviços e os investimentos estrangeiros no país.
@@ -40,8 +39,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

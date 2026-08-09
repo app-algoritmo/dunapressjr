@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Resultado foi gerado por redução de custos e contratos bilaterais.
 
 A Eletrobras anunciou ter obtido lucro líquido de R$ 2,7 bilhões no primeiro trimestre de 2022. O resultado, divulgado nesta segunda-feira (16), é 69% superior ao mesmo período de 2021 e foi impactado positivamente pelo aumento de 12% da receita bruta, e também pelo desempenho financeiro da companhia, com destaque para o efeito positivo da variação cambial.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

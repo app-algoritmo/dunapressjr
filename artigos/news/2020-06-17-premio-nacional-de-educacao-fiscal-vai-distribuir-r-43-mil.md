@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estão abertas até o dia 13 de julho as inscrições para a edição 2020 do Prêmio Nacional de Educação Fiscal. Já o prazo para reportagens publicadas sobre o tema vai até o dia 28 de setembro.
 
 O prêmio foi criado em 2019 pela Federação Brasileira de Associações de Fiscais de Tributos Estaduais (Febrafite) com o apoio do Ministério da Educação, para reconhecer iniciativas que apontam soluções inovadoras na área tributária.
@@ -33,5 +32,3 @@ Saiba como participar [aqui](http://www.premioeducacaofiscal.org.br/).
 Fonte: gov.br/mec / Imagem em destaque: gedaf.com.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

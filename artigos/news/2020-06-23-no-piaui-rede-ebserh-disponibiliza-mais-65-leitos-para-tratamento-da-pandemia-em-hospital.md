@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Ala Covid foi possível devido à liberação de R$ 7,9 milhões pela Ebserh e contratação de profissionais.
 
 **Teresina (PI) **– O Hospital Universitário da Universidade Federal do Piauí (HU-UFPI), filiado à Empresa Brasileira de Serviços Hospitalares (Ebserh), já disponibilizou 65 leitos para atendimento a pacientes acometidos ou com suspeita de Covid-19. Desde que foi inaugurada, a ala Covid do HU-UFPI já disponibilizou 35 leitos de Enfermaria e 30 de terapia intensiva.
@@ -36,8 +35,6 @@ Em algumas regiões, as unidades da Rede Ebserh têm atuado como hospitais de re
 Fonte: gov.br/mec / Imagem em destaque: ebc
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 - U$ 1,00 mensal
 

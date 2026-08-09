@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Acumulado em 12 meses ficou em 10,41%.
 
 O Índice de Variação de Aluguéis Residenciais (Ivar) registrou alta de 1,76% em agosto, acelerando em relação ao aumento de 1,05% registrado em julho. Com isso, o indicador acumula alta de 10,41% em 12 meses. No mês anterior, o acumulado estava em 8,65%. Os dados foram divulgados nesta terça-feira (6) pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV Ibre).
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

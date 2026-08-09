@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Para simplificar e desburocratizar a vida do cidadão brasileiro, passa a valer a partir desta segunda-feira (4) a digitalização do Certificado de Registro de Veículo (CRV), do Certificado de Licenciamento Anual (CLA) e do comprovante de transferência de propriedade (antigo DUT). A mudança entra em vigor com a Resolução do Conselho Nacional de Trânsito (Contran) publicada também nesta segunda.
 
 O CRV e o CLA agora serão integrados ao Certificado de Registro de Licenciamento do Veículo (CRLV-e) e o DUT se desvincula do CRV e se transforma na Autorização para Transferência de Propriedade do Veículo (ATPV-e). Segundo o Contran, a medida vale para veículos registrados a partir desta segunda. Documentos expedidos antes disso, impressos em papel-moeda verde, continuarão valendo.
@@ -40,7 +39,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

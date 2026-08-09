@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 Saiba que esse também é um procedimento comum e de suma importância no mundo pet.
 
 Dr. Thiago Padilha, médico-veterinário na Clinica VetCare, na cidade de Itajaí, onde sempre levo meus pets, me explicou que esse procedimento é muito importante para animaizinhos doentes. "A doação de sangue de cães é algo muito importante pois, através dela, podemos salvar a vida de outros pets em diversas situações, o difícil é encontrar tutores de cães aptos a serem doadores, que tenham disponibilidade de trazer o pet ate a clinica quando precisamos de um doador."
@@ -25,7 +24,7 @@ Entretanto, há alguns critérios necessários:
 - Ter mais de um ano.
 - Acima dos 20k g.
 - Pets vacinados e vermifugados.
-- Livres de ectoparasitas, como pulgas e carrapatos. 
+- Livres de ectoparasitas, como pulgas e carrapatos.
 - Respeitar o intervalo de 3 meses de uma doação a outra.
 
 Esses critérios são necessários não só para proteger o cãozinho doador, mas também para garantir que o sangue será saudável. Dessa forma, o pequeno esforço do seu amigo será muito bem aproveitado por diversos pets necessitados.
@@ -37,7 +36,7 @@ Alguns veterinários solicitam que o pet doador fique de jejum, 4 ou 5 horas sem
 - Imagem©Foto Joice Maria / Duna Press Jornal
 - Imagem©Foto Joice Maria / Duna Press Jornal
 
-O ideal é que o tutor esteja junto para acalmar seu amigo. O sangue vai para uma bolsa, em um processo bem parecido ao de coleta de sangue de humanos. 
+O ideal é que o tutor esteja junto para acalmar seu amigo. O sangue vai para uma bolsa, em um processo bem parecido ao de coleta de sangue de humanos.
 
 - Imagem©Foto Joice Maria / Duna Press Jornal
 - Imagem©Foto Joice Maria / Duna Press Jornal
@@ -60,7 +59,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

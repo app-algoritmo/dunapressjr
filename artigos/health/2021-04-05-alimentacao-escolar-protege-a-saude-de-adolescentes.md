@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Estudo realizado pela nutricionista e bolsista da CAPES, Suelyne Rodrigues de Morais, em sua dissertação de mestrado, na Universidade Estadual do Ceará (Uece) avaliou a relação entre o consumo de alimentos fora de casa e o desenvolvimento de doenças cardiovasculares em adolescentes brasileiros.
 
 Segundo a pesquisadora foram analisados os dados do Estudo de Riscos Cardiovasculares em Adolescentes (Erica), realizado com 36.956 alunos de escolas públicas e privadas, de 12 a 17 anos, de todas as regiões do Brasil. De acordo com os resultados, jovens estudantes da rede pública de ensino apresentam menor risco de sofrerem destes problemas do que os alunos das escolas particulares.
@@ -36,7 +35,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

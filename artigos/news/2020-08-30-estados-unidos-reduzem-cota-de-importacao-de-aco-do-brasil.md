@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Trump diz que mercado do produto nos EUA se contraiu em 2020.
 
 O governo dos Estados Unidos anunciou que vai reduzir a quota para as exportações do aço semi-acabado do Brasil. A medida, segundo o presidente dos Estados Unidos, Donald Trump, se deu porque houve mudanças significativas no mercado de aço dos Estados Unidos, que se contraiu em 2020, depois de aumentar em 2018 e 2019.
@@ -31,5 +30,3 @@ Na ocasião, o Instituto Aço Brasil, entidade representativa dos produtores de 
 Fonte: Agência Brasil – Imagem de destaque: CHINA DAILY/Reuters/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Calendário de liberação segue mês de nascimento e vai até 31 de março.
 
 Os trabalhadores da iniciativa privada nascidos em fevereiro começaram a receber nesta quinta-feira (10) o abono salarial ano-base 2020. [**A liberação começou na última terça-feira**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-01/veja-o-calendario-de-pagamento-do-abono-salarial-de-2022) (8) e seguirá até 31 de março, baseado no mês de nascimento do beneficiário.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

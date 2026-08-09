@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Recursos serão repassados ao longo de dez anos.
 
 O presidente Jair Bolsonaro participou nesta segunda-feira (18) da cerimônia de lançamento da Jornada das Águas, em São Roque de Minas, no norte de Minas Gerais, região da nascente do Rio São Francisco. A partir dali, a jornada percorrerá os nove estados do Nordeste com anúncios e entrega de obras de infraestrutura, preservação e recuperação de nascentes e cursos d’água, saneamento, irrigação, apoio ao setor produtivo e aos municípios, além de ações de governança, com propostas de mudanças normativas no setor.
@@ -44,10 +43,6 @@ A Caixa investirá ainda no Projeto Agroflorestando Bacias para Conservar Águas
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

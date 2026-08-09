@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Macapá/AP - A Polícia Federal deflagrou nesta segunda-feira (8/6) a Operação *Private**, com objetivo de combater o tráfico de drogas psicotrópicas, no Amapá.
 
 Foi cumprido um mandado de busca e apreensão no bairro Buritizal, nas proximidades de uma escola de ensino médio estadual, em Macapá/AP. Durante as buscas, encontrou-se um laboratório caseiro de produção de droga sintética e vários tipos de substâncias e anestésicos para animais de grande porte, como Cetamina e Loperamida.
@@ -21,5 +20,3 @@ O investigado poderá responder, na medida de suas responsabilidades, pelos crim
  **Private*: termo em inglês, em referência às festas particulares (privadas) onde costumeiramente ocorre a comercialização/consumo de drogas sintéticas.
 
 **Comunicação Social da Polícia Federal no Amapá**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,12 +7,11 @@ categories:
 - Covid-19
 ---
 
-
-## Há três anos, durante o período de confinamento, ficou claro que precisamos urgentemente de um novo movimento de cidadãos com um foco diferente. 
+## Há três anos, durante o período de confinamento, ficou claro que precisamos urgentemente de um novo movimento de cidadãos com um foco diferente.
 
 As formas ideológicas dominantes simplesmente não se adaptaram ao enorme choque exógeno ao sistema que os fechamentos trouxeram. Isso foi inesperado, especialmente sob o pretexto de saúde pública.
 
-Toda liberdade essencial foi atacada. Governos autoritários ou totalitários varreram o país e o mundo, e quase toda a classe intelectual disse: Tudo bem. E foi assim que [sugeri ](https://www.aier.org/article/we-need-a-principled-anti-lockdown-movement/)[uma](https://www.aier.org/article/we-need-a-principled-anti-lockdown-movement/) resposta :[](https://www.aier.org/article/we-need-a-principled-anti-lockdown-movement/)
+Toda liberdade essencial foi atacada. Governos autoritários ou totalitários varreram o país e o mundo, e quase toda a classe intelectual disse: Tudo bem. E foi assim que [sugeri ](https://www.aier.org/article/we-need-a-principled-anti-lockdown-movement/)[uma](https://www.aier.org/article/we-need-a-principled-anti-lockdown-movement/) resposta :
 
 *Este movimento, seja chamado de "anti-lockdown" ou apenas "liberalismo", deve rejeitar a malícia e a coerção desta situação atual na vida americana. Ela deve enfrentar o brutalismo dos bloqueios. Deve falar e agir com compreensão e respeito humanos pelo funcionamento social da liberdade e pela esperança associada no futuro. Os inimigos da liberdade e dos direitos humanos se revelaram ao mundo inteiro. Deve haver justiça. Nosso bem-estar está em jogo.*
 

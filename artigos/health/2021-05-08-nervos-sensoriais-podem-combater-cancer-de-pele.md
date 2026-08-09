@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Bolsistas de mestrado, doutorado e pós-doutorado da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), liderados por Alexander Birbrair, professor da Universidade Federal de Minas Gerais (UFMG), estudam há três anos o papel dos nervos sensoriais – responsáveis por conduzir o estímulo de dor ao cérebro – na regulação do crescimento e progressão do melanoma ou câncer de pele.
 
 ”Nossos resultados demonstram que os nervos sensoriais são capazes de infiltrar o microambiente formado pelo melanoma”, explica Birbrair. Dentro dos tumores os nervos controlam seu crescimento, reduzem a formação de vasos sanguíneos – que são importantes para a nutrição, o crescimento e a disseminação do tumor – e aumentam a morte celular. “Ao retirarmos os nervos ou deixá-los sem função, observamos que esse controle é perdido e os tumores tornam-se maiores e mais agressivos”, completa.
@@ -25,7 +24,3 @@ Fonte: https://www.gov.br/capes
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

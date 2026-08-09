@@ -7,12 +7,11 @@ categories:
 - Global Economy
 ---
 
-
 Em vigor no país desde setembro do ano passado, a Lei Geral de Proteção da Dados (LGPD) traz para o cenário brasileiro a obrigatoriedade de uma nova governança para todas as empresas e instituições que lidam, de alguma forma, com dados de usuários. Há muito tempo, o setor automotivo se baseia na coleta de dados para gerar oportunidades de vendas. Diante disso, os impactos gerados pela nova legislação também vão atingir concessionárias e revendas de veículos. O varejo automotivo deve fazer, com urgência, uma revisão completa na forma como vem coletando, armazenando e tratando dados de clientes.
 
 De acordo com Gabriel Hayduk, Data Protection e Compliance Officer da Tecnobank, a área de marketing é uma das mais impactadas com a nova lei, mas, se a empresa se aprofundar sobre a legislação e dominar bem as regras do jogo, vai descobrir que é possível manter seus interesses e criar relações corretas e transparentes com seus clientes. "A nova lei possui dez bases legais e princípios que são o ponto de partida que permite que dados sejam tratados. Muito se fala do legítimo interesse e do consentimento, mas existem outras hipóteses que são factíveis de utilização e podem beneficiar o controlador dos dados", explica Hayduk.
 
-O diretor de vendas da startup PhoneTrack, Marcelo Castilho, afirma que ainda há um longo caminho a ser percorrido e que tecnologia e cultura organizacional são fundamentais para uma plena adequação. "As duas devem andar juntas, mas é certo que como o tema ainda é muito novo, adquirir cultura já na largada é extremamente desafiador. Portanto, enquanto se caminha no sentido de adquirir a conscientização necessária, a tecnologia deve cumprir o seu papel, oferecendo um nível de controle que garanta a segurança da operação", alerta.                                                                                               
+O diretor de vendas da startup PhoneTrack, Marcelo Castilho, afirma que ainda há um longo caminho a ser percorrido e que tecnologia e cultura organizacional são fundamentais para uma plena adequação. "As duas devem andar juntas, mas é certo que como o tema ainda é muito novo, adquirir cultura já na largada é extremamente desafiador. Portanto, enquanto se caminha no sentido de adquirir a conscientização necessária, a tecnologia deve cumprir o seu papel, oferecendo um nível de controle que garanta a segurança da operação", alerta.
 
 Alguns pontos são mais críticos para o segmento automotivo, ou ainda, suscitam mais dúvidas para o setor, exigindo especial atenção. Conheça alguns deles:
 
@@ -44,5 +43,3 @@ Fonte: Central Press
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

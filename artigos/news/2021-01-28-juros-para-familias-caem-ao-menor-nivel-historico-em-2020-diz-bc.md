@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Taxa média ficou em 37% ao ano em dezembro.
 
 As famílias e empresas pagaram taxas de juros mais baixas em 2020, de acordo com as [**Estatísticas Monetárias e de Crédito**](https://www.bcb.gov.br/estatisticas/estatisticasmonetariascredito) divulgadas hoje (28) pelo Banco Central (BC). No crédito às famílias, a taxa média atingiu 37% ao ano em dezembro, o menor da série histórica iniciada em 2011, com reduções de 9 pontos percentuais se comparado a 2019 e de 1,2 ponto percentual em relação a novembro.
@@ -42,8 +41,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

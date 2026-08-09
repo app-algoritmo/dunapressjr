@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 O Transtorno Afetivo Bipolar é uma doença que caracteriza-se por episódios repetidos, nos quais o humor e os níveis de atividade do paciente estão significativamente perturbados. Esta alteração consiste em algumas ocasiões, de uma elevação do humor e aumento de energia e atividade (mania ou hipomania) e em outras de um rebaixamento do humor e diminuição de energia e atividade (depressão).
 
 Afeta cerca de 1,6% da população geral. A frequência entre homens e mulheres é semelhante, a idade de início é de 20 a 40 anos. Os episódios maníacos geralmente começam abruptamente e duram entre 2 semanas e 4-5 meses. Os episódios depressivos tendem a durar mais tempo, em média 6 meses, raramente mais de um ano.
@@ -66,7 +65,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

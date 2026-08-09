@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Número foi registrado pelo boletim do Mapa de Empresas, que destaca o acerto das medidas de simplificação e a melhoria do ambiente de negócios no Brasil.
 
 O primeiro quadrimestre de 2022 registrou a abertura de mais de 1,3 milhão de empresas no país. No total, foram 1.350.127, aumento de 11,5% em relação ao último quadrimestre de 2021. O saldo no período ficou positivo, com 808.243 empresas abertas, descontadas as 541.884 empresas fechadas nos primeiros quatro meses do ano. Com esse resultado, o total de empresas ativas no país subiu para 19.373.257. Em comparação com o primeiro quadrimestre de 2021, houve uma pequena desaceleração no ritmo de criação de novas empresas, com redução de 3,2%.
@@ -27,7 +26,7 @@ Se, de um lado – conforme registra o boletim –, “os dados demonstram a ass
 
 “Temos números muito positivos, que mostram o sucesso das políticas públicas que temos adotado no âmbito do Ministério da Economia, fundadas sobretudo na transformação digital de serviços, que tem permitido redução considerável do tempo médio de abertura de empresas no Brasil”, salientou Santa Cruz.
 
-As micro e pequenas empresas (MPEs) representam 99% do total das empresas brasileiras, são responsáveis por 62% dos empregos e por 27% do Produto Interno Bruto (PIB). “Temos estado sempre focados no nosso tripé de austeridade fiscal, melhoria do ambiente de negócios e ganho de produtividade para o país como um todo”, declarou Alexandre Ywata.   
+As micro e pequenas empresas (MPEs) representam 99% do total das empresas brasileiras, são responsáveis por 62% dos empregos e por 27% do Produto Interno Bruto (PIB). “Temos estado sempre focados no nosso tripé de austeridade fiscal, melhoria do ambiente de negócios e ganho de produtividade para o país como um todo”, declarou Alexandre Ywata.
 
 ### Avanços
 
@@ -57,8 +56,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

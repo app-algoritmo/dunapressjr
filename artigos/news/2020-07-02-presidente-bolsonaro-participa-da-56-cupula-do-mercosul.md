@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 presidente Jair Bolsonaro participou, na manhã desta quinta-feira (2), da 56ª cúpula de chefes de Estado do Mercosul e Estados Associados. Em razão da pandemia do novo Coronavírus, o encontro foi realizado por videoconferência.
 
 Ao discursar na reunião, o presidente falou da ambiciosa agenda de reformas implementadas no Brasil. “Os objetivos dessa agenda são tornar o estado mais eficiente e a economia mais dinâmica, sempre para criar mais oportunidades para os brasileiros”.
@@ -30,4 +29,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

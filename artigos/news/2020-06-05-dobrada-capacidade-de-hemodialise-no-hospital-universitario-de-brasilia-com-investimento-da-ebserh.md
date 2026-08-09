@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Investimento é de R$ 920 mil. Atendimento passou de 32 para 65 pacientes; previsão é atender 132 até agosto.
 
 O aposentado Luiz da Silva Rocha Neto, de 60 anos, começou a fazer hemodiálise em fevereiro deste ano no Hospital Regional da Asa Norte (HRAN). Com a pandemia do novo coronavírus, o HRAN se tornou referência para casos de Covid-19 e Luiz precisou dar continuidade ao tratamento em outro lugar. A vaga apareceu no Hospital Universitário de Brasília (HUB), da Universidade de Brasília, vinculado à Empresa Brasileira de Serviços Hospitalares (Ebserh).
@@ -30,8 +29,6 @@ Com a expansão do terceiro turno para todos os dias e a instalação das demais
 **Hemodiálise –** A hemodiálise é uma terapia que funciona como um rim artificial. Uma máquina filtra e limpa o sangue do paciente, fazendo parte do trabalho que o órgão doente não pode fazer e retirando do corpo os resíduos prejudiciais à saúde, como excesso de sal e de líquidos. É um procedimento que dura em média quatro horas e deve ser realizado três vezes por semana.
 
 Fonte: gov.br/mec / Imagem em destaque: ebserh
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

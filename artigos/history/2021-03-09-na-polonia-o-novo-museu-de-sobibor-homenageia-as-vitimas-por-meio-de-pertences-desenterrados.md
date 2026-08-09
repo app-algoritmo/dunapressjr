@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Após mais de uma década de planejamento e construção, um novo museu foi inaugurado recentemente em Sobibor, o antigo campo de extermínio nazista alemão na Polônia.
 
 Um dos três campos de extermínio da “Operação Reinhardt” construídos em 1942, Sobibor foi projetado com câmaras de gás onde 180.000 judeus foram assassinados. O campo é lembrado pelo sucesso do levante de prisioneiros em outubro de 1943, através do qual dezenas de judeus conseguiram escapar e sobreviver à guerra.
@@ -83,7 +82,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

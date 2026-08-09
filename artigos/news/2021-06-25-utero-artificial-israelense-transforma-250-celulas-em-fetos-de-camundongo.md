@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Os cientistas acreditam que esta descoberta pode levar à gestação humana fora do útero; O conhecimento da formação de órgãos pode permitir novos avanços.
 
 Cientistas israelenses transformaram embriões de 250 células em fetos de camundongos com órgãos totalmente formados usando útero artificial, em um desenvolvimento que eles dizem que pode abrir caminho para a gestação de humanos fora de casa.
@@ -47,7 +46,3 @@ Fonte: https://fr.timesofisrael.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

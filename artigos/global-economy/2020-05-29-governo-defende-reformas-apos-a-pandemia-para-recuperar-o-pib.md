@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Ministério da Economia também pede manutenção do teto de gastos.
 
 O [resultado negativo da atividade econômica no primeiro trimestre](https://dunapress.org/2020/05/29/economia-brasileira-recua-15-no-primeiro-trimestre/), embora esperado, coloca fim à recuperação econômica em curso desde o começo de 2017, afirmou a Secretaria de Política Econômica do Ministério da Economia, em nota sobre o resultado do Produto Interno Bruto (PIB), soma de todos os bens e serviços produzidos no país, divulgado hoje (29).
@@ -29,5 +28,3 @@ Fonte: Agência Brasil – Imagem de destaque: Reuters/Nancho Doce/direitos rese
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

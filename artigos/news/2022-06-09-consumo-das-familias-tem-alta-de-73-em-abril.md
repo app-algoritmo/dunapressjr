@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Para a Abras, há crescimento consistente do consumo.
 
 O consumo das famílias brasileiras teve alta de 7,37% em abril na comparação com o mesmo mês de 2021, segundo levantamento divulgado nesta quarta-feira (8) pela Associação Brasileira de Supermercados (Abras). Nos primeiros quatro meses do ano, o consumo registra alta de 2,5% em relação ao mesmo período do ano passado.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

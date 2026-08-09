@@ -8,28 +8,27 @@ categories:
 - News
 ---
 
-
 ## Com viagens restritas, isolamento físico e escolas fechadas, crianças devem ficar mais tempo em casa; veja como estimular atividades que priorizam o desenvolvimento motor e o exercício corporal.
 
 A pandemia e o isolamento social afetaram radicalmente hábitos e comportamentos de crianças e adolescentes no que diz respeito aos estímulos motores que são fundamentais para o desenvolvimento de habilidades básicas do dia a dia. As escolas, em geral, são um meio de desenvolvimento importante para a formação da base motriz, e com a chegada das férias escolares, os pais se vêem novamente diante do desafio de manter os filhos em movimento.
 
-De acordo com a assessora pedagógica do time de formação de professores do Sistema Positivo de Ensino e doutoranda em Fisiologia do exercício, Juliana Landolfi Maia, os problemas do sedentarismo podem ser atribuídos não apenas à falta de movimento, mas também à estimulação proporcionada pelas atividades substitutivas, como jogos e filmes em smartphones, tablets, videogame e televisão. "Pesquisas recentes apontam que crianças estão se movimentando cada vez menos e que o tempo em frente às telas pode ser um fator preocupante quando nos referimos à saúde", alerta Juliana. 
+De acordo com a assessora pedagógica do time de formação de professores do Sistema Positivo de Ensino e doutoranda em Fisiologia do exercício, Juliana Landolfi Maia, os problemas do sedentarismo podem ser atribuídos não apenas à falta de movimento, mas também à estimulação proporcionada pelas atividades substitutivas, como jogos e filmes em smartphones, tablets, videogame e televisão. "Pesquisas recentes apontam que crianças estão se movimentando cada vez menos e que o tempo em frente às telas pode ser um fator preocupante quando nos referimos à saúde", alerta Juliana.
 
 Para ajudar os pais neste período de férias a manter seus filhos longe das telas, a especialista separou algumas dicas de atividades que vão incentivar os pequenos  a movimentar o corpo.
 
 **Crianças de 2 a 3 anos**
 
-Montar circuitos de caixas de papelão em diferentes tamanhos e incentivar a criança a se deslocar pelo caminho. As caixas também podem ser usadas para cenários e encenações. Vale a pena utilizar materiais disponíveis em casa para estimular a criança a criar os próprios brinquedos. Outra sugestão para essa faixa etária é incluir brinquedos que simulam movimentos de pinças e blocos de encaixes. Para fortalecer o corpo, uma brincadeira interessante é "Morto-Vivo”, que consiste em agachar (morto) e ficar com o corpo ereto (vivo). Essa atividade promove o fortalecimento muscular e das articulações das pernas, além de ajudar na coordenação motora e equilíbrio. 
+Montar circuitos de caixas de papelão em diferentes tamanhos e incentivar a criança a se deslocar pelo caminho. As caixas também podem ser usadas para cenários e encenações. Vale a pena utilizar materiais disponíveis em casa para estimular a criança a criar os próprios brinquedos. Outra sugestão para essa faixa etária é incluir brinquedos que simulam movimentos de pinças e blocos de encaixes. Para fortalecer o corpo, uma brincadeira interessante é "Morto-Vivo”, que consiste em agachar (morto) e ficar com o corpo ereto (vivo). Essa atividade promove o fortalecimento muscular e das articulações das pernas, além de ajudar na coordenação motora e equilíbrio.
 
 **Crianças de 4 a 5 anos**
 
-Promover brincadeiras que envolvam dança e movimentos normalmente costuma ser muito bem aceito para essa faixa etária. Outras opções são jogos que envolvam personagens e um ambiente acolhedor com brinquedos e materiais disponíveis em casa. Uma alternativa que funciona bem é incentivá-los a criar seus próprios jogos e envolver a família toda na brincadeira. Vale brincar com papéis coloridos, tinta, bolas e colocar a imaginação para funcionar. 
+Promover brincadeiras que envolvam dança e movimentos normalmente costuma ser muito bem aceito para essa faixa etária. Outras opções são jogos que envolvam personagens e um ambiente acolhedor com brinquedos e materiais disponíveis em casa. Uma alternativa que funciona bem é incentivá-los a criar seus próprios jogos e envolver a família toda na brincadeira. Vale brincar com papéis coloridos, tinta, bolas e colocar a imaginação para funcionar.
 
-Para quem tem mais espaço, boas sugestões são brincadeiras como pique-pega, esconde-esconde e cabo-de-guerra. Elas auxiliam, respectivamente, na movimentação dinâmica por conta do abaixar, pular e correr em várias direções, desenvolvendo também o condicionamento cardiorrespiratório e o fortalecimento da musculatura de braços e pernas, usando as articulações para gerar força. 
+Para quem tem mais espaço, boas sugestões são brincadeiras como pique-pega, esconde-esconde e cabo-de-guerra. Elas auxiliam, respectivamente, na movimentação dinâmica por conta do abaixar, pular e correr em várias direções, desenvolvendo também o condicionamento cardiorrespiratório e o fortalecimento da musculatura de braços e pernas, usando as articulações para gerar força.
 
 **Crianças de 6 a 8 anos**
 
-Nessa idade, as crianças exploram muito o mundo da imaginação. Vale a pena sugerir jogos com desafios que ajudam a criar habilidades específicas e senso de competição, além de aproveitar ideias de jogos e passatempos populares, fazendo uma pesquisa com avós, tios e pessoas próximas sobre brincadeiras da infância. Esse resgate, além de muito divertido, pode trazer experiências inesquecíveis para toda a família. 
+Nessa idade, as crianças exploram muito o mundo da imaginação. Vale a pena sugerir jogos com desafios que ajudam a criar habilidades específicas e senso de competição, além de aproveitar ideias de jogos e passatempos populares, fazendo uma pesquisa com avós, tios e pessoas próximas sobre brincadeiras da infância. Esse resgate, além de muito divertido, pode trazer experiências inesquecíveis para toda a família.
 
 **Crianças de 9 a 12**
 
@@ -52,7 +51,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

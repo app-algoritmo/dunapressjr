@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) instituiu a Comissão Assessora de Avaliação da Formação Médica (CAAFM), de caráter consultivo, para a realização de atividades referentes ao Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira (Revalida). A Portaria n.º 430, que contém a medida, foi publicada nesta quarta-feira, 8 de julho, no Diário Oficial da União.
 
 A comissão é composta por dez integrantes. De acordo com a portaria, a CAAFM está subordinada à Diretoria de Avaliação da Educação Superior do Inep e exercerá suas atividades até 30 abril de 2021.
@@ -29,7 +28,7 @@ Fonte: gov.br / Imagem em destaque: Inep.gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

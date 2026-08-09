@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estimativas da Secretaria de Comércio Exterior foram publicadas nesta quarta-feira (26/5), incluindo setores com maior potencial de ganhos e estratégias para países asiáticos.
 
 As negociações da rede de acordos comerciais do Mercosul com União Europeia, Associação Europeia de Comércio Livre (EFTA), Canadá, Coreia do Sul, Singapura, Indonésia e Vietnã terão impacto positivo de 1,4% no PIB brasileiro, além do aumento nos investimentos, na corrente de comércio, na massa salarial e na queda dos preços ao consumidor. Em termos monetários, os ganhos acumulados no PIB chegam a R$ 1,7 trilhão no período de 2021 a 2040, ano em que se estima que os acordos estarão implementados por completo.
@@ -42,8 +41,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

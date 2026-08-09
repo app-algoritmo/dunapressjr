@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Objetivo é integrar os atrativos naturais e estruturá-los para aumentar o número de turistas nos locais.
 
 Uma equipe do Ministério do Turismo; composta pelo secretário-executivo, Daniel Nepomuceno, e pelos secretários nacionais de Desenvolvimento e Competitividade do Turismo, William França; e de Atração de Investimentos, Parcerias e Concessões, Lucas Fiuza; cumpriu agenda nesta quinta-feira (30.07), em Belo Horizonte (MG). Na pauta da visita, a avaliação e adequação de parques nacionais e estaduais e de seus entornos, com intuito de criar roteiros e produtos turísticos dentro do segmento turismo de natureza. A visita é uma sequência do investimento de R$ 150 milhões, por parte do governo federal, na reforma dessas unidades.
@@ -26,7 +25,7 @@ Além disso, foi apresentado o projeto “Trilhas”, que consiste no ordenament
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

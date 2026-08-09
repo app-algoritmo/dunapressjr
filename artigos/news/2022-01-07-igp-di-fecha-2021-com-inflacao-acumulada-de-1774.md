@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Taxa ficou abaixo da observada no ano anterior (23,08%).
 
 O Índice Geral de Preços – Disponibilidade Interna (IGP-DI) fechou 2021 com inflação acumulada de 17,74%. A taxa ficou abaixo da observada no ano anterior (23,08%). O dado foi divulgado nesta quinta-feira (6) pela Fundação Getulio Vargas (FGV).
@@ -22,10 +21,6 @@ Em dezembro de 2021, o IGP-DI ficou em 1,25%, acima do índice de novembro, que 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

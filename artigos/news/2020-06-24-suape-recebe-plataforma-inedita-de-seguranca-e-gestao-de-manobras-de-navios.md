@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Tecnologia foi desenvolvida e implementada pela startup NavalPort, contratada pela Petrobrás.
 
 O Complexo Industrial Portuário de Suape está implantando tecnologia inédita para elevar ainda mais a segurança das manobras de atracações dos navios e aprimorar a eficiência nas estadias. A plataforma de Apoio à Segurança e Gestão de Manobras de Navios (SMA), como chamada, monitora desde a previsibilidade de chegada da embarcação ao porto, passando pela presença no fundeio, até a navegação para atracação e aproximação aos Píeres de Granéis Líquidos (PGLs), momento mais crítico da manobra. A instalação começou há dois meses e está em fase de operação no PGL 3B.
@@ -22,4 +21,4 @@ O presidente do Complexo de Suape, Leonardo Cerquinho, lembra que a gestão impl
 
 Fonte: pe.gov.br – Imagem de destaque: Rafael Medeiros
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

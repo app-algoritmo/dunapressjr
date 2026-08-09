@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa de valores cai pela primeira vez em três dias.
 
 O crescimento de casos de covid-19 na Europa e as incertezas sobre a economia norte-americana voltaram a pressionar o dólar. A moeda norte-americana fechou no maior valor em duas semanas, continuando acima de R$ 5,60. A bolsa de valores caiu pela primeira vez em três dias.
@@ -27,5 +26,3 @@ O impacto do cenário externo, no entanto, foi amenizado pela divulgação de da
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Mike Segar/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

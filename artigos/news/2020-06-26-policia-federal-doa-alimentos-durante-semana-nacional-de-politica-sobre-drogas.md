@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-São Luís/MA - Foram entregues nesta quinta-feira (25/6) os produtos arrecadados na campanha organizada pelo Grupo de Prevenção ao Uso Indevido de Drogas da Polícia Federal no Maranhão (GPRED/MA). No total, foram doadas 80 cestas básicas, mais 185 quilos de alimentos, além de material de higiene pessoal e de limpeza (144 unidades de sabonete, 60 tubos de creme dental, 210 rolos de papel higiênico, 30 litros de desinfetante e 12 kg de sabão em pó e 20 kg de sabão em barra). 
+São Luís/MA - Foram entregues nesta quinta-feira (25/6) os produtos arrecadados na campanha organizada pelo Grupo de Prevenção ao Uso Indevido de Drogas da Polícia Federal no Maranhão (GPRED/MA). No total, foram doadas 80 cestas básicas, mais 185 quilos de alimentos, além de material de higiene pessoal e de limpeza (144 unidades de sabonete, 60 tubos de creme dental, 210 rolos de papel higiênico, 30 litros de desinfetante e 12 kg de sabão em pó e 20 kg de sabão em barra).
 
 Com o apoio da equipe da Delegacia de Repressão a Entorpecentes - DRE, as cestas básicas foram doadas para famílias cujos filhos participam do projeto Bombeiro Mirim da 2ª Companhia do Corpo de Bombeiros Militar, no município de Paço do Lumiar, no qual as crianças aprendem atividades afins às dos profissionais da corporação, recebem assistência pedagógica e assistem palestras educativas e antidrogas, entre outras.
 
@@ -20,4 +19,4 @@ Além dos servidores da Polícia Federal, a campanha contou com a participação
 
 Comunicação Social da Polícia Federal no Maranhão
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

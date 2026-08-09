@@ -41,8 +41,7 @@ Nelson Mandela foi patrono do primeiro evento esportivo multirracial em nível m
 site: [https://corporategamesbr.com/](https://corporategamesbr.com/)
 Instagram: [@corporategamesbr/](https://click.presskit.com.br/url/967357bb18/6361388b6fc)
 Linkedin: [corporategamesbr](https://click.presskit.com.br/url/9673580096/6361388b6fc)
-****[
-](https://click.presskit.com.br/url/9666926222/6361388b6fc)****ZDL
+********ZDL
 Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](https://click.presskit.com.br/url/966827dfa6/6361388b6fc) - 11 984579723
 Deborah Mamone - MTb 15148  - [deborah@zdl.com.br](https://click.presskit.com.br/url/966828e3e2/6361388b6fc) - 11 991628967
 Site: [www.zdl.com.br

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Internet, GPS, vacinas, foguetes. Nada disso teria surgido sem o trabalho deles. Nesta quarta-feira, 08, homenageamos aqueles que fazem da ciência sua vida.
 
 Espalhados por todos os cantos do Brasil eles estudam os mais diversos temas, que resultam em melhorias e soluções para nossas vidas e nos ajudam no dia a dia. Benedito Aguiar, presidente da Coordenação de Aperfeiçoamento de Pessoal da Nível Superior (CAPES), saúda a todos os cientistas brasileiros e agradece sua dedicação: “Os pesquisadores são a razão do esforço permanente da CAPES em busca de uma pós-graduação de qualidade, focada no desenvolvimento do nosso país. O apoio que oferecemos é essencial para que possam inovar e elevar o Brasil na área científica, tecnológica e de inovação”.
@@ -28,7 +27,7 @@ Fonte: gov.br / Imagem em destaque: Ebc
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O documento representa grande avanço por ser o primeiro a englobar todos os municípios de um estado da Federação, permitindo a universalização do serviço em todo o território estadual.
 
 O governo do Amapá publicou, no Diário Oficial do estado desta quinta-feira (27/5), edital de licitação para a concessão dos serviços de abastecimento de água e de esgotamento sanitário de seus 16 municípios. O edital é inovador e representa um grande avanço, por ser o primeiro a englobar todos os municípios de um estado da Federação, permitindo a universalização do serviço em todo o território estadual.
@@ -31,8 +30,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

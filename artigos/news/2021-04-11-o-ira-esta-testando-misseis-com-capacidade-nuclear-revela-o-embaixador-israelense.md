@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O Irã vem testando mísseis balísticos nucleares há meses, violando a Resolução 2231 da ONU, revela o embaixador israelense Gilad Erdan.
 
 Enquanto as potências mundiais intensificam os esforços para voltar a um acordo nuclear com o Irã, a República Islâmica está testando mísseis balísticos com capacidade nuclear, violando o acordo, revelou Israel esta semana.
@@ -28,7 +27,7 @@ Enquanto isso, o Irã alertou Israel e os EUA na quinta-feira sobre uma possíve
 
 Fonte: israelnationalnews.com
 
-Fonte: 
+Fonte:
 
 **Ver também:**
 
@@ -36,7 +35,3 @@ Fonte:
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

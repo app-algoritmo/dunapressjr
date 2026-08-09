@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Primeira parcela começa a ser paga na próxima segunda-feira (25).
 
 Os aposentados e pensionistas do Instituto Nacional do Seguro Social (INSS) já podem consultar o extrato com os valores e as datas de pagamento do décimo terceiro. O procedimento pode ser feito tanto pelo aplicativo Meu INSS, disponível para celulares e* tablets*, como pelo *site* [gov.br/meuinss](https://meu.inss.gov.br/#/login)
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

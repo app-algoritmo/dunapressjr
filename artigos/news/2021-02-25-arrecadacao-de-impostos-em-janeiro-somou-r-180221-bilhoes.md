@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A informação foi divulgada hoje pela Receita Federal.
 
 A Receita Federal informou hoje (25) que arrecadação de impostos e contribuições federais em janeiro somou R$ 180,221 bilhões, um recuo real de 1,5% na comparação com o mesmo mês de 2020, já descontada a inflação. Em janeiro do ano passado, a arrecadação foi de R$ 174,991 bilhões.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

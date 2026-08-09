@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Estudo da Faculdade de Enfermagem da UFG integra Programa da CAPES de Combate a Epidemias.
 
 Qual o período de persistência do vírus da COVID-19 em nosso organismo? E o tempo de permanência dos anticorpos nos humanos após a infecção ou a vacina? A busca por essas respostas atiça cientistas do mundo e é investigada também por pesquisadores da Faculdade de Enfermagem da Universidade Federal de Goiás (UFG), que há mais de um ano acompanham o comportamento do novo coronavírus em profissionais de saúde e da área de segurança.
@@ -35,7 +34,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O produto era proveniente de campos de produção de sementes não inscritos junto ao Ministério da Agricultura.
 
 erca de 2.700 toneladas de sementes de soja para comercialização, provenientes de campos de produção de sementes não inscritos junto ao Ministério da Agricultura, Pecuária e Abastecimento (Mapa), foram apreendidas durante ação de fiscalização em empresa produtora de sementes no município de Campo Verde (MT). As sementes estavam armazenadas em sacos de 1.000 quilos, todos da mesma cultivar, inscrita no Registro Nacional de Cultivares (RNC) e protegida junto Serviço Nacional de Proteção de Cultivares (SNPC).
@@ -24,4 +23,4 @@ Fonte: gov.br/agricultura / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando abaixo.**
 
-https://dunapress.org/?aff=Leonardo
+https://dunapress.org/

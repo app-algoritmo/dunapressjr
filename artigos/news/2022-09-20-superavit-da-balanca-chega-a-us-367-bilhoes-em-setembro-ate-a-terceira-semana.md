@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Corrente de comércio no mês alcançou US$ 30,34 bilhões. No acumulado do ano, superávit é de US$ 47,55 bilhões, com corrente de comércio de US$ 436,24 bilhões.
 
 A balança comercial brasileira registrou superávit de US$ 3,67 bilhões em setembro, até a terceira semana, com crescimento de 59,4% em relação ao mesmo mês do ano passado, pela média diária. A corrente de comércio aumentou 30,6% no período, alcançando US$ 30,34 bilhões, refletindo a soma das exportações, que cresceram 33,2% e chegaram a US$ 17,01 bilhões, e das importações, que aumentaram 27,4% e totalizaram US$ 13,33 bilhões. Os dados foram divulgados nesta segunda-feira (19/09) pela Secretaria de Comércio Exterior (Secex) do Ministério da Economia.
@@ -30,7 +29,7 @@ Do lado das importações, até a terceira semana de setembro, a Secex registrou
 
 As compras da Indústria Extrativa subiram 34,7%, chegando a US$ 921,97 milhões. Os maiores aumentos foram de fertilizantes brutos, exceto adubos (+21,1%), outros minerais em bruto (+24,6%) e óleos brutos de petróleo ou de minerais betuminosos, crus (+264,6%).
 
-Na Indústria de Transformação, as compras até a terceira semana de setembro alcançaram US$ 12 bilhões, em crescimento de 27,3%. Os maiores aumentos foram de óleos combustíveis de petróleo ou de minerais betuminosos, exceto óleos brutos (+139,7%), compostos organo-inorgânicos, compostos heterocíclicos, ácidos nucléicos e seus sais, e sulfonamidas (+61,7%) e inseticidas, rodenticidas, fungicidas, herbicidas, reguladores de crescimento para plantas, desinfetantes e semelhantes (+86,5%). 
+Na Indústria de Transformação, as compras até a terceira semana de setembro alcançaram US$ 12 bilhões, em crescimento de 27,3%. Os maiores aumentos foram de óleos combustíveis de petróleo ou de minerais betuminosos, exceto óleos brutos (+139,7%), compostos organo-inorgânicos, compostos heterocíclicos, ácidos nucléicos e seus sais, e sulfonamidas (+61,7%) e inseticidas, rodenticidas, fungicidas, herbicidas, reguladores de crescimento para plantas, desinfetantes e semelhantes (+86,5%).
 
 [Veja os principais resultados da balança comercial](https://balanca.economia.gov.br/balanca/pg_principal_bc/principais_resultados.html)
 
@@ -38,8 +37,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

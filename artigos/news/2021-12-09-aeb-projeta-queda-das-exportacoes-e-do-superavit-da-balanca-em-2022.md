@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Queda de preço das commodities deve afetar resultado, diz executivo.
 
 As exportações brasileiras deverão atingir no próximo ano US$ 262,379 bilhões, o que representará queda de 4,7% em relação aos US$ 275,316 bilhões estimados para 2021. As importações, porém, poderão crescer 4,5% ante os US$ 218,094 bilhões projetados para este ano, atingindo US$ 227,855 bilhões. A previsão, divulgada nesta quarta-feira (8) pela Associação de Comércio Exterior do Brasil (AEB) para a balança comercial no próximo ano, indica que o superávit poderá alcançar US$ 34,524 bilhões, com queda de 39,7% em relação aos US$ 57,222 bilhões estimados para 2021.
@@ -34,10 +33,6 @@ Castro lembrou que, no ano 2000, 59% das exportações do Brasil eram produtos m
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

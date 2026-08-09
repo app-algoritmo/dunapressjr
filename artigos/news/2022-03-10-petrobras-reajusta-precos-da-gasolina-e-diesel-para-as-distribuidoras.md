@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Preço médio da gasolina sobe para R$ 3,86 e o do diesel, para R$ 4,51.
 
 A Petrobras anunciou hoje (10), no Rio de Janeiro, reajustes de preços de venda de gasolina e diesel para as distribuidoras a partir de amanhã (11) após 57 dias sem aumento. O preço médio de venda da gasolina da Petrobras para as distribuidoras passará de R$ 3,25 para R$ 3,86 por litro.
@@ -29,8 +28,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

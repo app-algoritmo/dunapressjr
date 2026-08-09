@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medida vai até 15 de dezembro e pode injetar R$ 30 bi na economia.
 
 Até 15 de dezembro, cada trabalhador poderá sacar até R$ 1 mil de suas contas do Fundo de Garantia do Tempo de Serviço (FGTS). A medida beneficiará 42 milhões de pessoas e deverá injetar R$ 30 bilhões na economia caso todos os trabalhadores retirem o dinheiro.
@@ -36,14 +35,10 @@ Assim como nas últimas rodadas, o calendário de pagamento foi definido com bas
 
 ### **Confira o calendário:**
 
-**Mês de nascimento****Data da liberação**Janeiro20 de abrilFevereiro30 de abrilMarço4 de maioAbril 11 de maioMaio14 de maioJunho  18 de maioJulho21 de maioAgosto 25 de maioSetembro28 de maioOutubro1º de junhoNovembro 8 de junhoDezembro15 de junho
+**Mês de nascimento****Data da liberação**Janeiro20 de abrilFevereiro30 de abrilMarço4 de maioAbril 11 de maioMaio14 de maioJunho 18 de maioJulho21 de maioAgosto 25 de maioSetembro28 de maioOutubro1º de junhoNovembro 8 de junhoDezembro15 de junho
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

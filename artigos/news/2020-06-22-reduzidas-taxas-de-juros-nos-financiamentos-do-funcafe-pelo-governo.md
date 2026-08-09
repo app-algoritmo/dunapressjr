@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## A alteração dos valores faz parte das medidas do Plano Safra 2020/2021, anunciado nesta semana.
 
-A partir de 1° de julho deste ano, as taxas de juros dos financiamentos do Fundo de Defesa da Economia Cafeeira (Funcafé) serão reduzidas. 
+A partir de 1° de julho deste ano, as taxas de juros dos financiamentos do Fundo de Defesa da Economia Cafeeira (Funcafé) serão reduzidas.
 
 Os valores das linhas de crédito destinadas ao custeio, comercialização e Financiamento para Aquisição de Café (FAC) para cooperativas passam de 7% para 6% ao ano.Já os financiamentos de capital de giro e FAC para indústria e exportadores recua dos atuais 9,5%para 7,5%.
 
@@ -23,8 +22,6 @@ De acordo com Sílvio Farnese, diretor de Comercialização e Abastecimento, da 
 Fonte: gov.br/mec / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 - U$ 1,00 mensal
 

@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 A análise forense policial antiquada encontrou algoritmos de computador de alta tecnologia em um novo estudo de cacos de cerâmica de 2.500 anos, no qual pesquisadores da Universidade de Tel Aviv concluem que a alfabetização era generalizada o suficiente para que o incipiente People of the Book tivesse escrito partes do Bíblia no século 7 aC.
 
 “A alta taxa de alfabetização detectada na pequena fortaleza de Arad ... demonstra uma alfabetização generalizada no final do século 7 aC, aparatos militares e administrativos judaicos, com a capacidade de compor textos bíblicos durante este período, um possível subproduto”, escrevem os pesquisadores.
@@ -112,7 +111,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

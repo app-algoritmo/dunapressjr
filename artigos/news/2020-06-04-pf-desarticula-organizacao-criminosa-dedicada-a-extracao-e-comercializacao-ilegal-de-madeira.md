@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Porto Velho/RO - A Polícia Federal deflagrou nesta quarta-feira (3/6) a denominada OPERAÇÃO NINAMETSA, visando a desarticulação da organização criminosa dedicada à extração e comercialização ilegal de madeira e transferências de créditos virtuais pelo sistema oficial do IBAMA, conhecido como SISDOF.
 
 Estão sendo cumpridos 15 mandados de busca e apreensão e 15 mandados de bloqueio e sequestro de bens, todos expedidos pela 3ª Vara da Justiça Federal em Porto Velho/RO, nas cidades de Ariquemes/RO e Porto Velho/RO, nos distritos de Extrema/RO e Candeias do Jamari/RO.
@@ -24,5 +23,3 @@ Os indiciados serão interrogados e responderão, na medida de sua participaçã
 O nome da Operação Ninametsa tem origem na língua indígena karaxarí e significa “bosque/mata” em português.
 
 Comunicação Social da Polícia Federal em Rondônia/RO
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

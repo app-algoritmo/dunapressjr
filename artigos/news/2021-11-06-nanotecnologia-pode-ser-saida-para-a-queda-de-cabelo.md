@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Farmacêutico graduado pela [Universidade Presidente Antônio Carlos](https://www.escavador.com/sobre/24537558/universidade-presidente-antonio-carlos) (MG), Miguel Gontijo Siqueira Palmieri tem mestrado em Ciências Farmacêuticas pela Universidade Federal de Juiz de Fora (MG) e, atualmente, desenvolve pesquisa de doutorado também na mesma instituição. O bolsista encontra-se  na Itália, onde faz parte de seu doutorado-sanduíche na Universidade de Pisa. Seus estudos buscam uma nova estratégia para o tratamento da alopecia – conhecida popularmente como queda de cabelo –  a partir de  um medicamento nanotecnológico, de uso tópico, que não provoque efeitos colaterais.
 
 **Por que estudar a alopecia?**
@@ -54,7 +53,3 @@ Fonte: https://www.gov.br/capes/pt-br/assuntos/noticias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

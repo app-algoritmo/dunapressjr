@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Bloco adquirido por grupo espanhol inclui terminais em mais 3 estados.
 
 A Aena arrematou o bloco mais esperado do leilão da sétima rodada do programa de concessões aeroportuárias, que incluiu entre os ativos o Aeroporto de Congonhas, localizado na zona sul da capital paulista, o segundo mais movimentado do país. A Aena já detém a concessão de seis aeroportos na Região Nordeste, entre o quais, os de Maceió e do Recife. A concessão é por 30 anos.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

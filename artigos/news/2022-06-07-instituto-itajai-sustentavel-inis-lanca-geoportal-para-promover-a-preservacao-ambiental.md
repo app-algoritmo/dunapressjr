@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Semana do Meio Ambiente de Itajaí está repleta de atividades e inovação para a comunidade. Nesta quarta-feira (01), o Município de Itajaí, por meio do Instituto Itajaí Sustentável (INIS), lançou o geoportal das Árvores Imunes ao Corte e do Parque Natural Municipal do Atalaia. A ferramenta disponível para toda população visa promover o conhecimento sobre o meio ambiente e estimular a preservação ambiental.
 
 Com essa novidade, o visitante que for ao Parque do Atalaia terá informações com acesso facilitado **[(clique aqui e acesse)](https://arcgis.itajai.sc.gov.br/portal/apps/experiencebuilder/experience/?id=3c317f8d288b42f5a8941469ed02ebb1)**, como as trilhas guiadas, horário de funcionamento e localização desta importante unidade de conservação. No geoportal também está disponível o histórico de criação do local, uma coletânea de informações mais técnicas e dados sobre as árvores imunes ao corte** [(confira aqui)](https://arcgis.itajai.sc.gov.br/portal/apps/MapJournal/index.html?appid=e9505364cf3148c0b09b690572eed683)**.
@@ -32,7 +31,3 @@ Fonte: https://itajai.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

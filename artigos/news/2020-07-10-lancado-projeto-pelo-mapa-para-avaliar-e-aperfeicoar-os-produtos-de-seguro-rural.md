@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O trabalho será coordenado pelo Departamento de Gestão de Riscos e terá a participação e o apoio das entidades representativas dos produtores rurais e de companhias seguradoras.
 
 O Ministério da Agricultura, Pecuária e Abastecimento (Mapa) está lançando em julho o projeto Monitor do Seguro Rural, que compreenderá um conjunto de ações permanentes com o objetivo de avaliar os produtos e serviços ofertados pelas seguradoras e continuamente propor melhorias. Esse trabalho será coordenado pelo Departamento de Gestão de Riscos do Mapa e terá a participação e o apoio das entidades representativas dos produtores rurais e de suas cooperativas, revendas de insumos, companhias seguradoras, resseguradoras, corretores, peritos e instituições financeiras.
@@ -19,7 +18,7 @@ O seguro rural apresentou nos últimos anos uma significativa evolução no paí
 
 Para o diretor do Departamento de Gestão de Riscos do Mapa, Pedro Loyola, agora é chegado o momento de os produtores conhecerem melhor as possibilidades e limitações do seguro rural para construir soluções que atendam suas necessidades. “Está previsto um cronograma de eventos a partir de julho, por vídeo conferência, com a finalidade de identificar os principais problemas relacionados aos produtos de seguro para as culturas de grãos, frutas, olerícolas, pecuária, florestas, aquícola, café e outras culturas. São mais de 60 atividades que passarão pelo crivo dos produtores até 2022”, explica.
 
-[Confira aqui o cronograma de reuniões](https://www.gov.br/agricultura/pt-br/assuntos/noticias/mapa-lanca-projeto-para-avaliar-e-aperfeicoar-os-produtos-de-seguro-rural/AGENDAMONITORDOSEGURORURAL1.xlsx) previstas no Monitor de Seguro Rural.** **Maiores informações pelo e-mail: [seguro@agricultura.gov.br](mailto:seguro@agricultura.gov.br) 
+[Confira aqui o cronograma de reuniões](https://www.gov.br/agricultura/pt-br/assuntos/noticias/mapa-lanca-projeto-para-avaliar-e-aperfeicoar-os-produtos-de-seguro-rural/AGENDAMONITORDOSEGURORURAL1.xlsx) previstas no Monitor de Seguro Rural.** **Maiores informações pelo e-mail: [seguro@agricultura.gov.br](mailto:seguro@agricultura.gov.br)
 
 https://www.youtube.com/embed/sO_I1nRSmXQ **Contratação**
 
@@ -33,7 +32,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

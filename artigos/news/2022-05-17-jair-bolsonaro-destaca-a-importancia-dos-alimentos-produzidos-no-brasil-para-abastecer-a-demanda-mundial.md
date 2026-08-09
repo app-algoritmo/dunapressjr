@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Presidente da República, Jair Bolsonaro, participou, nesta segunda-feira (16/05), em São Paulo, da cerimônia de abertura da 36ª edição da APAS Show, feira do setor supermercadista que é considerada a maior do setor de alimentos e bebidas das Américas. O evento é realizado pela Associação Paulista de Supermercados (APAS).
 
 Aos representantes do setor, o Presidente Jair Bolsonaro afirmou que ninguém tem as riquezas minerais e biodiversidade encontradas no Brasil e citou a capacidade de produção de alimentos. E lembrou que, de cada cinco pessoas no mundo, uma é alimentada pelo Brasil.
@@ -30,7 +29,3 @@ Fonte: https://www.gov.br/planalto
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

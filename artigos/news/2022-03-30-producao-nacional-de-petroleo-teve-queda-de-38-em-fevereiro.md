@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### A produção no pré-sal caiu 2,4%.
 
 A produção nacional de petróleo em fevereiro teve queda de 3,8% em comparação a janeiro e aumentou 3,5% frente a fevereiro de 2021. No gás natural, a redução foi de 3,1% em relação ao mês anterior e aumentou 1,6% em relação a igual mês do ano passado. No total, foram produzidos 3,754 milhões de barris de óleo equivalente por dia, sendo 2,917 milhões de barris diários de petróleo e 133 milhões de metros cúbicos diários de gás natural.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Investimentos devem chegar a R$ 15,3 bilhões.
 
 A Agência Nacional de Energia Elétrica (Aneel) realizou nesta quinta-feira (30) um leilão para a construção, operação e manutenção de 5.425 quilômetros de linhas de transmissão e de 6.180 mega-volt-ampères (MVA) em capacidade de transformação de subestações. O leilão foi dividido em 13 lotes, com investimentos previstos da ordem de R$ 15,3 bilhões e geração de 31.697 empregos diretos em 13 estados: Acre, Amapá, Amazonas, Bahia, Espírito Santo, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Rondônia.
@@ -58,8 +57,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

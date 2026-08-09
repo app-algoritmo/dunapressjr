@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Conselho do PPI aprovou modelo de venda da Codesa e da CBTU.
 
 Apesar do adiamento da análise da privatização da Eletrobras pelo Tribunal de Contas da União (TCU), o governo manteve o cronograma do leilão de capitalização da companhia no primeiro semestre do próximo ano. Segundo o Conselho do Programa de Parcerias de Investimentos (CPPI), a venda de ações da União para investidores privados deverá ocorrer no primeiro quadrimestre de 2022.
@@ -30,10 +29,6 @@ Foram aprovadas a concessão de sete terminais pesqueiros e de três terminais p
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

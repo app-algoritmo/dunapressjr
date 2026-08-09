@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### É o maior nível desde novembro de 2012, diz FGV-Ibre.
 
 O Índice de Confiança da Construção (ICST) calculado pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV-Ibre) avançou 3,5 pontos em setembro e alcançou 101,7 pontos. É o maior nível desde novembro de 2012, quando ficou em 102,3 pontos. A alta no acumulado do ano atingiu 5 pontos. Já nas médias móveis trimestrais, o índice registrou elevação de 1,4 ponto.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

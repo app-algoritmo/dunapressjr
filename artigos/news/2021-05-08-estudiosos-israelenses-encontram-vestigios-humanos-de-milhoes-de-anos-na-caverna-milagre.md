@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## “Agora podemos dizer com confiança que nossos ancestrais humanos estavam fazendo ferramentas de pedra simples de Oldowan dentro da Caverna Wonderwerk, há 1,8 milhão de anos."
 
 Um grupo de acadêmicos da Universidade Hebraica de Jerusalém e da Universidade de Toronto desenterrou vestígios de atividade humana que datam de milhões de anos na Caverna Wonderwerk no deserto do Kalahari na África do Sul. As descobertas foram publicadas na edição de maio da *Quaternary Science Reviews*.
@@ -48,7 +47,3 @@ Fonte: https://www.jpost.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

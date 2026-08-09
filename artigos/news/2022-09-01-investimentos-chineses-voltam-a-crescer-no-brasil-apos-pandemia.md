@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Dados são do Conselho Empresarial Brasil-China.
 
 Em 2021, as empresas chinesas investiram US$ 5,9 bilhões no Brasil. Segundo o Conselho Empresarial Brasil-China, a cifra é a maior registrada desde 2017 e 208% superior à registrada em 2020, quando os negócios globais e as aplicações chinesas em particular foram afetadas pelas consequências da pandemia da covid-19.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

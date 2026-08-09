@@ -10,7 +10,7 @@ categories:
 
 ## Ciclista ganhou a quarta etapa e ficou em segundo no contrarrelógio, vencido por seu companheiro de equipe Laureano Rosas. Prova passou pelas cidades de Caldas Novas, Ipameri, Marzagão, Água Limpa, Morrinhos e Rio Quente, totalizando mais de 600 quilômetros.
 
-Foram cinco dias de muita disputa e busca por vitórias, reunindo ciclistas de 22 equipes da Alemanha, Argentina, Áustria, Bolívia, Brasil, Colômbia, França e Holanda. A 21ª edição da Volta Ciclística de Goiás terminou neste domingo (17), em Caldas Novas. O campeão da tradicional competição foi o paulista João Pedro Rossi, da equipe Swift Carbon Pro Cicling Brasil, de Minas Gerais. A equipe, aliás, foi destaque na prova, vencendo a quarta etapa - com João Pedro - e fazendo dobradinha no contrarrelógio, com o argentino Laureano Rosas em primeiro e João Pedro em segundo. 
+Foram cinco dias de muita disputa e busca por vitórias, reunindo ciclistas de 22 equipes da Alemanha, Argentina, Áustria, Bolívia, Brasil, Colômbia, França e Holanda. A 21ª edição da Volta Ciclística de Goiás terminou neste domingo (17), em Caldas Novas. O campeão da tradicional competição foi o paulista João Pedro Rossi, da equipe Swift Carbon Pro Cicling Brasil, de Minas Gerais. A equipe, aliás, foi destaque na prova, vencendo a quarta etapa - com João Pedro - e fazendo dobradinha no contrarrelógio, com o argentino Laureano Rosas em primeiro e João Pedro em segundo.
 
 A 21ª Volta Ciclística de Goiás, a principal prova de ciclismo de estrada do calendário nacional, começou na quarta-feira (13) e teve um total de seis etapas. A última, neste domingo, foi em um circuito dentro da cidade de Caldas Novas, vencida por Rodrigo Melo (BRT). A disputa foi válida pelo ranking nacional da Confederação Brasileira de Ciclismo (CBC).
 
@@ -41,8 +41,7 @@ Instagram: @voltaciclisticadegoias
                    @ligagoianadeciclismo
                    @magalhaessports
                    @tonny_magalhaes
-******[
-](https://click.presskit.com.br/url/100366926aa/6361388b6fc)*****ZDL*****
+***********ZDL*****
 Doro Jr. - MTb 13209 - ***[**dorojr@zdl.com.br**](https://click.presskit.com.br/url/10036705843/6361388b6fc)** - 11 984579723*****
 Deborah Mamone - MTb 15148  - ***[**deborah@zdl.com.br**](https://click.presskit.com.br/url/10036717dc9/6361388b6fc)** - 11 3285.5911******[***Site: ***](https://click.presskit.com.br/url/1003672ffde/6361388b6fc)[***www.zdl.com.br***](https://click.presskit.com.br/url/1003672ffde/6361388b6fc)***Facebook: ***[***www.facebook.com/ZDLSports***](https://click.presskit.com.br/url/10036738557/6361388b6fc)***
 Instagram: ***[***www.instagram.com/zdlsports***](https://click.presskit.com.br/url/1003674fce1/6361388b6fc)

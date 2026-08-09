@@ -8,7 +8,6 @@ categories:
 - Sports
 ---
 
-
 ## Enquanto na open Sherman Trezza e Lukas Kaufmann venceram de ponta a ponta, entre as mulheres a vitória de Paula Gallan e Isabella Lacerda foi definida nos quilômetros finais.
 
 A Etapa Rainha da Santander Brasil Ride Espinhaço presenteou os participantes da competição realizada em Conceição do Mato Dentro (MG), com visuais de tirar o fôlego nesta quinta-feira (16). Após os 85 km e 2.788 m de altimetria acumulada, Sherman Trezza e Lukas Kaufmann confirmaram a terceira vitória seguida na competição, sem serem ameaçados pelos principais adversários na open. Já no feminino, Paula Gallan e Isabella Lacerda venceram mais uma, contando com a falta de sorte de Letícia Cândido e da alemã Naima Diesner, que lideravam mas tiveram problemas mecânicos na última hora de prova.
@@ -77,7 +76,7 @@ Experiente ciclista, tendo inclusive vencido a Santander Brasil Ride Bahia ao la
 
 **Maior premiação do ciclismo nacional - **A Santander Brasil Ride Espinhaço já chega ao calendário elevando a outro patamar o ciclismo nacional. Disponibilizando mais de 140 mil reais de prêmios em dinheiro, o evento ofertará a maior premiação do Brasil na história deste esporte, que é um dos que mais cresce no País e no mundo. Seguindo os padrões do circuito da Santander Brasil Ride, mulheres e homens terão premiação igual na prova. E para o ciclista amador (não federado) que fizer a melhor volta na etapa do XCO, um capacete de Henrique Avancini será ofertado como prêmio extra.
 
-**Encerramento com chave de ouro** - Disputa marcada para o sábado (18), a Maratona do Cipó será responsável por encerrar com chave de ouro a ultramaratona, com um percurso de 53,6 km e 1.720 m de altimetria acumulada na sua prova principal. Quem optar por um desafio menos intenso, pode se inscrever na categoria tour, com 16,5 km de extensão e 470 m de desnível altimétrico. 
+**Encerramento com chave de ouro** - Disputa marcada para o sábado (18), a Maratona do Cipó será responsável por encerrar com chave de ouro a ultramaratona, com um percurso de 53,6 km e 1.720 m de altimetria acumulada na sua prova principal. Quem optar por um desafio menos intenso, pode se inscrever na categoria tour, com 16,5 km de extensão e 470 m de desnível altimétrico.
 
 ***Mais informações da Santander Brasil Ride:***
 ***Site: [www.brasilride.com.br](https://click.presskit.com.br/url/84550595c1/6361388b6fc)***
@@ -95,7 +94,3 @@ Fonte: ***ZDL Sports***
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

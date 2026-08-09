@@ -8,7 +8,6 @@ categories:
 - Sports
 ---
 
-
 A quarta e penúltima etapa da Santander Brasil Ride Espinhaço foi realizada nesta sexta-feira (17), em Conceição do Mato Dentro (MG), em um circuito de 5,3 km no estilo Cross Country Olímpico (XCO). A prova passou pelo Parque Natural Municipal do Salão das Pedras, grande destaque do dia. Após completar cinco voltas, David Rosa (POR) e Isabella Lacerda foram os vencedores da disputa, que diferente dos outros dias é realizada de forma individual, sem a necessidade das equipes (duplas ou trios) pedalarem juntas. Enquanto o português foi o mais rápido, cruzando a linha de chegada em 1h08min56, a mineira Isabella venceu no feminino, sendo a única mulher a concluir cinco voltas, em 1h21min49. A decisão, neste sábado (18), terá percurso de 37 km e 1.286 m de altimetria acumulada.
 
 David Rosa ditou o ritmo da prova do começo ao fim, passando todas as voltas em primeiro lugar. Estreante no circuito da Santander Brasil Ride, o português de 35 anos teve a seu favor o fato de ter no XCO sua modalidade principal desde o início da carreira. David, inclusive, representou seu país nos Jogos Olímpicos de Londres/12 e do Rio de Janeiro/16. Ele cruzou a linha de chegada seguido de Sherman Trezza e Lukas Kaufmann, que seguem na liderança, ambos com o tempo em 1h10min27, completando assim o pódio da etapa.
@@ -29,7 +28,7 @@ Ao ocuparem a segunda e terceira colocações individuais do dia, Sherman Trezza
 
 **Experiência única de vida** - A médica Ana Elisa Boscarioli e a economista Ana Elisa Lamounier, da dupla Go Anas, encerraram na Etapa Rainha sua participação na Santander Brasil Ride Espinhaço, ao serem cortadas no Km 64. Embora não contasse mais o tempo na classificação, decidiram correr o XCO e seguir vivenciando a experiência única que é disputar o principal circuito de provas de ciclismo do País. Ambas fizeram sua estreia na competição.
 
-Ana Boscarioli tem uma história especial com esporte. Ela foi a primeira mulher brasileira a conquistar o Everest, no Nepal, em 2006. Em seguida, tornou-se a primeira brasileira a conquistar os "Sete Cumes", ou seja, subiu as montanhas mais altas dos sete continentes. 
+Ana Boscarioli tem uma história especial com esporte. Ela foi a primeira mulher brasileira a conquistar o Everest, no Nepal, em 2006. Em seguida, tornou-se a primeira brasileira a conquistar os "Sete Cumes", ou seja, subiu as montanhas mais altas dos sete continentes.
 
 "Sempre pensei em participar da Santander Brasil Ride. Os anos passaram e, por treinar pouco e trabalhar de segunda a segunda, minha grande limitação foi sempre o preparo. Desta vez, por ter conhecido a Ana e ter visto que temos os mesmos ritmos e objetivos, decidimos encarar esse desafio do Espinhaço, por ser mais curto do que a etapa da Bahia. Foi o máximo. Amei a prova, com trilhas técnicas, que fazem a prova ser mais dura do que nos treinos básicos. Achei legal demais, um lugar lindo e uma organização perfeita. Espero voltar um dia com maior preparo", relatou Boscarioli.
 
@@ -98,7 +97,3 @@ Fonte: ***ZDL Sports***
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

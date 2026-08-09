@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Idosos foram o grupo que teve melhor desempenho, com cobertura de 119,72%.
 
 O Ministério da Saúde informou que a Campanha Nacional de Vacinação contra a Gripe alcançou 90,2% do público-alvo, ultrapassando a meta de 90%. Entre os grupos prioritários, os idosos foram os que tiveram melhor desempenho, com cobertura de 119,72%. Os estados e municípios receberam um total de 79,9 milhões de doses da vacina. Desse total, 81,18% foram aplicadas.
@@ -38,6 +37,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

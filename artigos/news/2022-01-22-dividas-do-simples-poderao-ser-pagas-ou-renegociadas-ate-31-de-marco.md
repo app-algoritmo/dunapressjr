@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Empresas do regime ganham dois meses para regularizarem débitos.
 
 Os negócios de pequeno porte e os microempreendedores individuais (MEI) ganharão mais dois meses para regularizarem os débitos com o Simples Nacional – regime especial de tributação para micro e pequenas empresas. O Comitê Gestor do programa aprovou nesta sexta-feira (21) o adiamento do prazo de 31 de janeiro para 31 de março.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Encarecimento de commodities também contribuiu para elevar preços.
 
 A pandemia de covid-19, a elevação do preço global das *commodities* (bens primários com cotação internacional) e a crise hídrica foram responsáveis pela inflação estourar o teto da meta, justificou nesta terça-feira (11) o presidente do Banco Central (BC), Roberto Campos Neto. Por determinação legal, ele enviou uma carta ao ministro da Economia, Paulo Guedes, e ao Conselho Monetário Nacional (CMN) justificando a inflação oficial de 10,06% em 2021, de acordo com o [**Índice Nacional de Preços ao Consumidor Amplo**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-01/ibge-inflacao-medida-pelo-ipca-fecha-2021-com-alta-de-1006) (IPCA).
@@ -17,7 +16,7 @@ No ano passado, o IPCA atingiu quase o dobro do teto fixado pelo CMN. A meta de 
 “Os principais fatores que levaram a inflação em 2021 a ultrapassar o limite superior de tolerância foram os seguintes:
 
 » Forte elevação dos preços de bens transacionáveis em moeda local, em especial os preços de *commodities*;
-» Bandeira de energia elétrica de escassez hídrica; 
+» Bandeira de energia elétrica de escassez hídrica;
 » Desequilíbrios entre demanda e oferta de insumos, e gargalos nas cadeias produtivas globais”, explicou o BC na carta.
 
 Segundo Campos Neto, a grande parte da inflação alta em 2021 foi um fenômeno global impulsionado pela pandemia de covid-19. A doença afetou fluxos comerciais em todo o planeta, criando gargalos na distribuição de produtos. De acordo com ele, o fenômeno atingiu não apenas países emergentes, mas também economias avançadas.
@@ -42,10 +41,6 @@ Na última vez em que o presidente do BC justificou o descumprimento da meta de 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

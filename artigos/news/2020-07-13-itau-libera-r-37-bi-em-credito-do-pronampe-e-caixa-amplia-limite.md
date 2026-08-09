@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Banco privado disponibiliza todo o volume disponível para o programa**.
 
 O Itaú Unibanco disponibilizou todo o recurso disponível para a linha de crédito do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe), criado para ajudar micro e pequenos negócios afetados pela pandemia do novo coronavírus. Já a Caixa Econômica Federal anunciou ampliação dos recursos para a linha de crédito.
@@ -30,4 +29,4 @@ Na última sexta-feira, o Banco do Brasil (BB) informou que obteve autorização
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa caiu 1,33% e voltou a ficar abaixo dos 100 mil pontos.
 
 Num dia de volatilidade no mercado financeiro, o dólar aproximou-se de R$ 5,40 e fechou no maior valor em duas semanas. A bolsa de valores, que tinha encerrado a semana passada no maior nível em quatro meses, reverteu a alta dos últimos dias e voltou a fechar abaixo dos 100 mil pontos.
@@ -22,4 +21,4 @@ Há várias semanas, mercados financeiros em todo o planeta atravessam um perío
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

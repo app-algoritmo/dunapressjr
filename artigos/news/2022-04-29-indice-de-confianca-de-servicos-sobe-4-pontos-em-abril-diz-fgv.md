@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Setor de serviços prestados às famílias é destaque positivo do mês.
 
 O Índice de Confiança de Serviços (ICS) calculado pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV/Ibre) cresceu 4 pontos em abril, atingindo 96,2 pontos. Este é o maior nível desde novembro de 2021, quando alcançou 96,8 pontos. Em médias móveis trimestrais, a alta no índice chegou a 1,7 ponto, sendo a primeira no ano.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Unece/ONU anunciou os vencedores na manhã desta sexta-feira. Em segundo lugar ficou a PPP da Espanha e em terceiro, um projeto das Filipinas.
 
 A Parceria Público Privada (PPP) da Nova Ceasa conquistou o primeiro lugar na premiação promovida pela Comissão Econômica das Nações Unidas para a Europa (Unece). O 5º Fórum Internacional PPP da ONU teve início nesta quinta (22), onde o governador Wellington Dias apresentou o projeto da Nova Ceasa. A votação popular para selecionar os vencedores aconteceu via internet das 12h às 13h do primeiro dia, e os vencedores foram anunciados na manhã desta sexta (23).
@@ -28,5 +27,3 @@ Fonte: Assessoria de Comunicação da Superintendência de Parcerias e Concessõ
 Instagram: @[ppppiaui](https://www.instagram.com/ppppiaui/) – Facebook: [PPP Piauí](https://www.facebook.com/PPPPiaui/) – LinkedIn: [PPP Piauí](http://linkedin.com/in/ppp-piau%C3%AD-0a31271b3)– Twitter: @[SuparcPI](http://twitter.com/SuparcPI)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

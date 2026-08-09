@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Preço dos combustíveis influenciou alta do mês.
 
 O Índice Nacional de Preços ao Consumidor Amplo (IPCA), que mede a inflação oficial, ficou em 0,86% em fevereiro deste ano, taxa superior ao 0,25% registrado em janeiro deste ano e em fevereiro do ano passado. Essa é a maior alta para o mês desde 2016 (0,90%).
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

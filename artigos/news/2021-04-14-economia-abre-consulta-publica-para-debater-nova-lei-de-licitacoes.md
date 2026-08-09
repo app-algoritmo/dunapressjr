@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Compras públicas do governo movimentaram R$ 51 bilhões em 2020.
 
 O Ministério da Economia abriu hoje (14) a consulta pública para debater o processo de regulamentação da [**nova Lei de Licitações (Lei nº 14.133)**](https://www.in.gov.br/en/web/dou/-/lei-n-14.133-de-1-de-abril-de-2021-311876884), publicada no dia 1º de abril. A consulta trata da atualização da [**Instrução Normativa de Pesquisa de Preços**](https://www.in.gov.br/en/web/dou/-/instrucao-normativa-n-73-de-5-de-agosto-de-2020-270711836). Segundo a pasta, a medida marca a abertura do processo de revisão de normas da área de compras públicas para adequação às regras recém-criadas.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

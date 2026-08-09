@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estimativa anterior era 0,42%.
 
 O mercado financeiro diminuiu novamente a previsão para o crescimento da economia brasileira em 2022. As projeções constam do primeiro boletim Focus de 2022, divulgado nesta segunda-feira (3), em Brasília, pelo Banco Central. O documento reúne a projeção para os principais indicadores econômicos do país e aponta para um Produto Interno Bruto (PIB) de 0,36% ante 0,42% estimado na semana passada.
@@ -28,10 +27,6 @@ A expectativa do mercado para a cotação do dólar em 2022 é R$ 5,60, a mesma 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

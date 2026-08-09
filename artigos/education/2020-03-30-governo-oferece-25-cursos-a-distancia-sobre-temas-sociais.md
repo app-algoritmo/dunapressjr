@@ -8,12 +8,9 @@ categories:
 - News
 ---
 
-
 Em tempos de teletrabalho, o Portal de Capacitação do Ministério da Cidadania está com inscrições abertas para as novas turmas dos cursos ofertados na modalidade EaD (ensino a distância). A iniciativa está disponível para gestores, pesquisadores, técnicos ou qualquer cidadão interessado em aperfeiçoar seus conhecimentos sobre as temáticas sociais.
 
 O Portal de Capacitação oferece 25 cursos, divididos em seis categorias: Assistência Social; Cadastro Único e Programa Bolsa Família; Avaliação, Gestão da Informação e Planejamento; Criança Feliz e Brasil Amigo da Pessoa Idosa; Progredir e Educação Financeira; e Segurança Alimentar e Nutricional. Todos estão disponíveis de forma gratuita na plataforma do Ministério da Cidadania. As inscrições para os cursos são bimestrais.
-
-[](http://www.mds.gov.br/ead/)
 
 Um dos destaques é o Curso Básico do Programa Criança Feliz (PCF), desenvolvido para os profissionais que atuam no programa destinado à primeira infância: multiplicadores, supervisores e, em especial, visitadores. É uma formação preparatória para os participantes que vão cursar os módulos presenciais do Guia para a Visita Domiciliar (GVD) e do método Cuidados para o Desenvolvimento da Criança (CDC).
 

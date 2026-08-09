@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Acidentes por aranhas, ou araneísmo, é o quadro clínico de envenenamento decorrente da inoculação da peçonha de aranhas, através de um par de ferrões localizados na parte anterior do animal. Assim como os escorpiões, as aranhas são representantes da classe dos aracnídeos.
 
 No Brasil, as aranhas de importância em saúde pública pertencem a três gênero:
@@ -22,7 +21,7 @@ Acidentes causados por outras aranhas podem ser comuns, porém sem relevância e
 
 **Tipo de acidente/Gênero****Sintomas**Acidente loxoscélico (*Loxosceles*)A picada quase sempre é imperceptível. O quadro clínico pode se apresentar de duas formas:Forma cutânea:  Dor de pequena intensidade. O local acometido pode evoluir com palidez mesclada com áreas equimóticas (“placa marmórea”). Também podem ser observadas vesículas e/ou bolhas sobre área endurada, com conteúdo sero‐sanguinolento ou hemorrágico. Pode ocorrer febre, mal‐estar geral, fraqueza, náusea, vômitos e mialgia.Forma cutâneo-hemolítica: Hemólise intravascular, de intensidade variável. A principal complicação é a injúria renal aguda por necrose tubular. Anemia, icterícia e hemoglobinúria se instalam geralmente nas primeiras 24 horas pós‐picada. Mais raramente, há descrição de pacientes que evoluem com coagulação intravascular disseminada (CIVD).Acidente fonêutrico (*Phoneutria*)A dor imediata é o sintoma mais frequente. Sua intensidade é variável, podendo se irradiar até a raiz do membro acometido. Outras manifestações são: edema, eritema, parestesia e sudorese no local da picada, onde podem ser visualizadas as marcas de dois pontos de inoculação.Acidente latrodéctico (*Latrodectus*)Dor na região da picada, suor generalizado e alterações na pressão e nos batimentos cardíacos. Podem ocorrer tremores, ansiedade, excitabilidade, insônia, cefaléia, prurido, eritema de face e pescoço. Há relatos de distúrbios de comportamento e choque nos casos graves. Contratura facial, trismo dos masseteres caracteriza fácies latrodectísmica observado em 5% dos casos.
 
-## Tratamento e diagnostico 
+## Tratamento e diagnostico
 
 É eminentemente clínico-epidemiológico, não sendo empregado na rotina hospitalar exame laboratorial para confirmação do tipo de veneno circulante. No loxoscelismo na forma cutâneo-hemolítica, as alterações laboratoriais podem ser subclínicas, com anemia aguda e hiperbilirrubinemia indireta. Elevação dos níveis séricos de ureia e creatinina é observada somente quando há injúria renal aguda. No latrodectismo, as alterações laboratoriais são inespecíficas. São descritos distúrbios hematológicos (leucocitose, linfopenia), bioquímicos (hiperglicemia, hiperfosfatemia), do sedimento urinário (albuminúria, hematúria, leucocitúria) e eletrocardiográficos (fibrilação atrial, bloqueios, diminuição de amplitude do QRS e da onda T, inversão da onda T, alterações do segmento ST e prolongamento do intervalo QT). As alterações laboratoriais do foneutrismo são semelhantes às do escorpionismo, notadamente aquelas decorrentes de comprometimento cardiovascular.
 
@@ -36,7 +35,7 @@ BSAAr = Soro antiaracnídico (*Loxosceles*, *Phoneutria*, *Tityus*).
 
 Não há disponibilidade de tratamento soroterápico para os casos de acidentes latrodécticos. Nestes casos, utiliza-se para o tratamento, além de analgésicos, Benzodiazepínicos, Gluconato de Cálcio e Clorpromazina. Há relatos de utilização de Prostigmine, Fenitoína, Fenobarbital e Morfina. Deve-se garantir suporte cardiorespiratório e os pacientes devem permanecer hospitalizados por, no mínimo, 24 horas.
 
-## **P**revenção 
+## **P**revenção
 
 - Manter jardins e quintais limpos. Evitar o acúmulo de entulhos, folhas secas, lixo doméstico, material de construção nas proximidades das casas.
 - Evitar folhagens densas (plantas ornamentais, trepadeiras, arbusto, bananeiras e outras) junto a paredes e muros das casas. Manter a grama aparada.
@@ -91,7 +90,7 @@ Não. As Secretarias de Saúde dos estados são responsáveis por avaliar e indi
 
 O tratamento dos casos de acidentes aranhas é feito apenas na rede dos hospitais do SUS e é inteiramente gratuito. ​
 
-## **S**ituação 
+## **S**ituação
 
 Os acidentes por *Loxosceles* ocorrem com maior frequência nos meses de outubro a março, com sazonalidade semelhante à dos acidentes ofídicos e escorpiônicos. A Região Sul é reponsável por cerca de 80% das notificações de acidentes loxoscélicos no Brasil. O maior número de acidentes fonêutricos é registrado de janeiro a maio, sendo que a região Sul do país concentra a maioria das notificações. O latrodectismo é de baixa incidência. Os estados de Minas Gerais, São Paulo, Bahia e Pernambuco apresentam o maior número de notificações
 
@@ -110,7 +109,3 @@ Fonte: https://www.gov.br/saude
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

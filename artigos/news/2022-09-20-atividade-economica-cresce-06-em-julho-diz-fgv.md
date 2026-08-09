@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Dados do Monitor PIB foram divulgados nesta segunda-feira.
 
 A atividade econômica cresceu 0,6% em julho, em relação a junho, de acordo com o Monitor do PIB (Produto Interno Bruto, soma de todos os bens e serviços produzidos no país), apurado pela Fundação Getulio Vargas (FGV) e divulgado nesta segunda-feira (19).
@@ -50,8 +49,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

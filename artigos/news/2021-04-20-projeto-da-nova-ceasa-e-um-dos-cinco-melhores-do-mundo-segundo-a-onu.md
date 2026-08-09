@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 -A PPP da Nova Ceasa foi o único projeto do Brasil a ser selecionado pela ONU por sua relevância social e é considerado uma conquista do país contra a fome.
 
 A Nova Ceasa já é considerada um dos cinco melhores projetos do mundo no âmbito de Parcerias Público-Privadas (PPP) de acordo com a Organização das Nações Unidas (ONU). A iniciativa será apresentada oficialmente pelo governador Wellington Dias no 5º Fórum Internacional PPP da Comissão Econômica das Nações Unidas para a Europa (Unece) 2021, no dia nesta quinta (22), às 11h. No evento, os projetos serão avaliados e serão premiados os dois primeiros colocados. A população poderá participar e votar na PPP da Nova Ceasa através do site [https://indico.un.org/event/31136/](https://indico.un.org/event/31136/). A votação dura apenas uma hora.
@@ -39,5 +38,3 @@ Fonte: Assessoria de Comunicação da Superintendência de Parcerias e Concessõ
 Instagram: @[ppppiaui](https://www.instagram.com/ppppiaui/) - Facebook: [PPP Piauí](https://www.facebook.com/PPPPiaui/) - LinkedIn: [PPP Piauí](http://linkedin.com/in/ppp-piau%C3%AD-0a31271b3) - Twitter: @[SuparcPI](http://twitter.com/SuparcPI)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Vila Velha/ES – A Polícia Federal prendeu nesta manhã (4/6), na região de Balneário Carapebus, Serra/ES, uma pessoa investigada por chefiar associação para o tráfico de drogas na região de Governador Valadares/MG, o qual estava foragido da Justiça há mais de 5 anos.
 
 No momento da abordagem, o preso se identificou com documentos falsos, o que resultou também em sua prisão em flagrante pelo crime de uso de documento falso.
@@ -23,5 +22,3 @@ Ainda segundo os dados, mesmo foragido, tal pessoa permaneceria no comando de pa
  Após as confirmações necessárias, ficou claro que se tratava de documento falso, o que ensejou a prisão em flagrante do foragido em razão da falsa identidade, cujas penas variam entre 2 e 3 anos de reclusão (arts. 297 e 304, Código Penal).
 
 Comunicação Social da Polícia Federal no Espírito Santo
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

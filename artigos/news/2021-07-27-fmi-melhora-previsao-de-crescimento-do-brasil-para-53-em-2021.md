@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Previsão impulsionou estimativa de alta para América Latina e Caribe.
 
 O Fundo Monetário Internacional (FMI) melhorou a perspectiva de crescimento do Brasil neste ano, citando a melhora nos termos das trocas comerciais do país, mas ao mesmo tempo reduziu a alta estimada para 2022.
@@ -38,10 +37,6 @@ O relatório destacou ainda a inflação elevada esperada para esse grupo de pa�
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

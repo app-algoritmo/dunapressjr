@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Bolsa subiu 1,31% e superou marca dos 101 mil pontos.
 
 Em mais um dia de volatilidade no mercado financeiro, o dólar voltou a valorizar-se e encerrou no maior nível em oito dias. O dólar comercial fechou a quarta-feira (15) vendido a R$ 5,384, com alta de R$ 0,035 (+0,66%). A bolsa de valores subiu pelo segundo dia seguido e superou a marca dos 101 mil pontos pela primeira vez em quatro meses.
@@ -22,4 +21,4 @@ Há vários meses, mercados financeiros em todo o planeta atravessam um período
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

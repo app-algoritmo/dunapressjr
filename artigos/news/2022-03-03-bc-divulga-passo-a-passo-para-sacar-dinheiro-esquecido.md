@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Nascidos antes de 1968 poderão fazer pedido a partir de segunda-feira.
 
 O Banco Central (BC) divulgou nesta quarta-feira (2) o passo a passo para que pessoas físicas e empresas saquem recursos esquecidos em instituições financeiras. O agendamento dos saques começará na próxima segunda-feira (7) para os nascidos antes de 1968 e para empresas abertas antes deste ano.
@@ -60,8 +59,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

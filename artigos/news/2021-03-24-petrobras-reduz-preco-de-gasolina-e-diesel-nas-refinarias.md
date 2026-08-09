@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Preço médio do litro da gasolina passará a custar R$ 2,59.
 
 A Petrobras anunciou hoje (24) uma redução de R$ 0,11 nos preços do litro da gasolina e do óleo diesel em suas refinarias. A partir de amanhã (25), o preço médio do litro da gasolina passará a custar R$ 2,59, uma queda de 4%.
@@ -18,10 +17,6 @@ A nota divulgada pela Petrobras reforça que a companhia baseia os preços dos c
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio!  
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

@@ -8,7 +8,6 @@ categories:
 - Pets
 ---
 
-
 ## O uso de cães farejadores para detectar COVID não é novo, mas este método é particularmente único. Em breve, poderemos ver cães farejadores em todos os aeroportos para permitir viagens em meio à pandemia.
 
 O estudo foi publicado no site da Public Library of Science após revisão por pares. "Um odor único associado à infecção por SARS-CoV-2 presente na urina humana, bem como na saliva, fornece ímpeto para o desenvolvimento da triagem baseada em odores - seja por métodos eletrônicos, químicos ou biológicos de detecção", afirmaram os pesquisadores no estudo.
@@ -55,5 +54,3 @@ Fonte: https://www.jpost.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

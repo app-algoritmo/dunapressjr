@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A 4ª edição da Jornada de Educação Alimentar e Nutricional será realizada em 2021. Por conta da suspensão das aulas nas escolas de educação básica, o Fundo Nacional de Desenvolvimento da Educação (FNDE) decidiu transferir o cronograma que antes estava previsto para o segundo semestre de 2020.
 
 “Como a jornada é desenvolvida em quatro etapas subsequentes, as escolas precisam de tempo hábil para a realização de todas as atividades. O objetivo é que nenhuma unidade de ensino seja prejudicada”, afirma o presidente do FNDE, Marcelo Ponte.
@@ -36,7 +35,7 @@ Fonte: gov.br / Imagem em destaque: portal mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Anfavea diz que houve aumento mesmo com fábricas paralisadas.
 
-A produção de veículos teve aumento de 0,3% em agosto chegando a 164 mil unidades. Já na comparação com agosto de 2020, quando foram produzidas 210 mil unidades, houve queda de 21,9%. No acumulado do ano o setor registrou expansão de 33% com a produção de 1.476,1 mil veículos. 
+A produção de veículos teve aumento de 0,3% em agosto chegando a 164 mil unidades. Já na comparação com agosto de 2020, quando foram produzidas 210 mil unidades, houve queda de 21,9%. No acumulado do ano o setor registrou expansão de 33% com a produção de 1.476,1 mil veículos.
 
 Os dados foram divulgados nesta quarta-feira (8), em São Paulo, pela Associação Nacional dos Fabricantes de Veículos Automotores (Anfavea), que observou o aumento no mês mesmo com as paralisações totais ou parciais de 11 fábricas, por conta da falta de semicondutores.
 
@@ -26,10 +25,6 @@ Já as vendas para o comércio exterior apresentaram resultado positivo com o em
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 Os primeiros 15 dias de implementação da Operação Verde Brasil 2 foram avaliados durante videoconferência presidida pelo Ministro da Defesa, Fernando Azevedo, na quarta-feira (27). A reunião ocorreu a partir da sede da Defesa e reuniu, por meio de chamada de vídeo, representantes das agências envolvidas nas ações e dos três Comandos Conjuntos ativados para operacionalizar a missão.
 
 Azevedo teve a oportunidade de ouvir os representantes das diversas agências envolvidas no processo e avaliar os bons resultados somados na primeira etapa das atividades desenvolvidas. Só em multas, foram aplicados 102 autos de infração, que correspondem a R$ 16 milhões.
@@ -37,5 +36,3 @@ Para cumprir a determinação presidencial, o Ministério da Defesa ativou três
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

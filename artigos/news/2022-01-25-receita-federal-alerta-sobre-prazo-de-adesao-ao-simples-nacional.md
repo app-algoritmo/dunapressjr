@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Prazo de adesão, que vai até 31 de janeiro, não será prorrogado.
 
 A Receita Federal alerta que, apesar de o prazo de **regularização de pendências **para adesão ao Simples Nacional ter sido prorrogado até **31 de março de 2022**, as empresas devem formalizar a **solicitação até 31 de janeiro de 2022**.
@@ -32,8 +31,4 @@ Até o dia 20 deste mês foram realizadas 345.127 solicitações de opção pelo
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

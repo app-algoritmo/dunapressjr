@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Você sabia que um brasileiro foi a primeira pessoa física a colocar um satélite em órbita no mundo? Sabia também que esses equipamentos são essenciais para saber onde há focos de incêndio no país e monitorar florestas? E que um satélite administrado pelo Brasil é o responsável por levar internet de alta velocidade a mais de 12 mil pontos espalhados pelas cinco regiões?
 
 Essas são algumas das curiosidades que você poderá acompanhar na série Satélite Brasil, produzida pelo Ministério das Comunicações.
@@ -29,7 +28,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

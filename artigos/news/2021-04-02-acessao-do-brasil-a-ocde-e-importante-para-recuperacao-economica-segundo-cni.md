@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## De um total de 245 instrumentos, o Brasil já aderiu a 99 das políticas públicas que fazem parte do acervo normativo da organização.
 
 Dando destaque à relevância do papel da Organização para a Cooperação e Desenvolvimento Econômico (OCDE) para a recuperação econômica mundial, a Confederação Nacional da Indústria (CNI) reiterou, em carta ao secretário-geral da organização, a importância da entrada do Brasil no foro.
@@ -40,10 +39,6 @@ A Organização para a Cooperação e o Desenvolvimento Econômico (OCDE) foi es
 
 Fonte: gov.br
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. 
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

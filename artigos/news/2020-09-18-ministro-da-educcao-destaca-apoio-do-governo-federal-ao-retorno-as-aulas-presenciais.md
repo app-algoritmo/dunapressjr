@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Em audiência pública do Congresso Nacional, Milton Ribeiro elencou medidas para enfrentar a pandemia de Covid-19. 
+Em audiência pública do Congresso Nacional, Milton Ribeiro elencou medidas para enfrentar a pandemia de Covid-19.
 
 O ministro da Educação, Milton Ribeiro, participou, nesta quinta-feira (17), de uma audiência pública interativa da Comissão Mista da Covid-19 (CN-Covid19) do Congresso Nacional. A reunião tratou das ações, investimentos e estratégias do MEC relacionadas ao retorno das aulas presenciais no país.
 
@@ -57,5 +56,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

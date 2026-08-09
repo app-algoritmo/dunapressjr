@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O leilão foi realizado nesta sexta-feira (16) em São Paulo
 
 A CPFL Energia foi a vencedora do leilão de privatização do controle acionário da Companhia Estadual de Transmissão de Energia Elétrica (CEEE-T), promovido pelo governo do Rio Grande do Sul. O leilão foi realizado na manhã desta sexta-feira (16) na B3, em São Paulo. Pelo leilão, a CPFL adquiriu 66,08% do capital social da CEEE-T, transmissora do Grupo CEEE.
@@ -28,10 +27,6 @@ Este é o segundo braço do Grupo CEEE a se privatizado. Em março, a CEEE Distr
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

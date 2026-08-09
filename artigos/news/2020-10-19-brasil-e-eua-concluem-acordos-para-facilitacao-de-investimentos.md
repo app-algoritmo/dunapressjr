@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Presidente afirmou que pacote traz benefícios e fluxo de investimentos.
 
 O presidente Jair Bolsonaro disse hoje (19) que representantes do Brasil e dos Estados Unidos concluíram, há poucos dias, as negociações de três acordos demandados por empresários dos dois países, de facilitação de comércio, boas práticas regulatórias e anticorrupção. “Esse pacote triplo será capaz de reduzir burocracias e trazer ainda mais crescimento ao nosso comércio bilateral, com efeitos benéficos também para o fluxo de investimentos”, disse.
@@ -24,7 +23,7 @@ De acordo com Bolsonaro, sua aproximação com o presidente dos Estados Unidos, 
 
 “A prioridade que o Brasil confere a essa relação é clara e sincera. Desde o início de meu governo, visitei os EUA em quatro oportunidades, e em todos estive com o presidente Trump”, afirmou.
 
-## Setor privado 
+## Setor privado
 
 Para a Confederação Nacional da Indústria (CNI), os acordos são pedra fundamental para futuro livre comércio entre os dois países e para evitar a dupla tributação. Na avaliação da entidade, embora não tratem de acesso a mercados, os acordos abordam temas de última geração e possibilitam a economia de custos e a ampliação da competitividade na relação entre os dois países.
 
@@ -35,5 +34,3 @@ Em 2019, o intercâmbio de bens e serviços entre Brasil e Estados Unidos foi su
 Fonte: Agência Brasil – Imagem de destaque: Carolina Antunes/PR
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

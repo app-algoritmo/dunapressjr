@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 ## Fragmento de madeira, 1 de apenas 3 artefatos recuperados de uma estrutura antiga, foi encontrado em 1872, mas depois perdido; agora, um pesquisador egípcio resolveu o mistério na Universidade de Aberdeen.
 
 Um dos apenas três artefatos já recuperados de dentro da Grande Pirâmide do Egito foi encontrado em uma lata de charuto perdida em uma coleção de uma universidade escocesa, revelaram acadêmicos na quarta-feira.
@@ -48,7 +47,3 @@ Fonte: https://www.timesofisrael.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

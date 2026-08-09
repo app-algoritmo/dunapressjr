@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Um homem de 40 anos e um menino de 12 foram mortos e 184 pessoas ficaram feridas quando uma arquibancada desabou em uma sinagoga em Givat Ze'ev em Jerusalém durante as orações de Shavuot na noite de domingo.
 
 Relatórios dizem que aproximadamente 600 pessoas estavam na sinagoga no momento do incidente.
@@ -60,7 +59,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

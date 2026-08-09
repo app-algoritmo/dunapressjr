@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### BC interrompeu ciclo de alta, após um ano e meio de reajustes seguidos.
 
 A queda da inflação fez o Banco Central (BC) interromper o ciclo de alta dos juros após um ano e meio de reajustes seguidos. Por 7 votos a 2, o Comitê de Política Monetária (Copom) manteve a taxa Selic, juros básicos da economia, em 13,75% ao ano. A decisão era [**esperada pelos analistas financeiros**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-09/mercado-financeiro-projeta-inflacao-de-6-em-2022).
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

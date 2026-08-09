@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 O 2º Ciclo de Estudos Estratégicos de Defesa, coordenado pela Escola Superior de Guerra (ESG), foi realizado no dia 21 de maio. O encontro *on-line *teve como tema “As Contribuições da P&D da Área Militar para a Tríplice Hélice”, onde foram debatidas formas de interação e cooperação para o desenvolvimento de tecnologias inovadoras à Defesa, com aplicabilidade no meio militar e civil. O objetivo do evento, que contou com a participação simultânea de 240 pessoas em um ambiente virtual, foi reunir executivos e industriais visando a capacitação em áreas de importância para a defesa nacional com ênfase na sinergia entre os três elementos inter-relacionados: governo, indústria e universidade.
 
 Segundo o Diretor-Geral do Departamento de Ciência e Tecnologia Aeroespacial (DCTA), Major-Brigadeiro do Ar Hudson Costa Potiguara, que participou como palestrante, "a relação da academia com a indústria pode ser identificada com a presença de parques tecnológicos e políticas governamentais, assim como está acontecendo hoje no evento, com a participação de representantes da indústria, academia e governo”, afirmou.
@@ -19,5 +18,3 @@ Um exemplo de parceria citada pelo Diretor-Geral do DCTA foi o projeto do Veícu
 “O sucesso do VSB-30 se tornou um exemplo do modelo da Tríplice Hélice nos setores de inovação e tecnologia”, acrescentou o  Reitor do ITA, Professor Doutor Anderson Ribeiro Correia.
 
 Fonte: Portal de Imprensa da Força Aérea Brasileira
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

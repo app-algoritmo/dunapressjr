@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Volume alcançado foi de 42 milhões de toneladas.
 
 A movimentação de cargas no Porto de Santos cresceu 2,3% no segundo trimestre deste ano, alcançando 42 milhões de toneladas, informou a Santos Port Authority (SPA), estatal que administra o maior porto do país. A comparação é com o mesmo período do ano passado.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

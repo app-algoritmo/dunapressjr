@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Podem ser doados cobertores, mantas, agasalhos, roupas e sapatos em geral. Doações podem ser feitas até 20 de julho.
 
 O programa Pátria Voluntária prorrogou a campanha do agasalho para arrecadar cobertores, mantas, agasalhos, roupas e sapatos em geral. Agora, as doações podem ser feitas até o dia 20, em prol de instituições do Distrito Federal, com o objetivo de ajudar pessoas em situação de vulnerabilidade social.  
@@ -56,6 +55,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

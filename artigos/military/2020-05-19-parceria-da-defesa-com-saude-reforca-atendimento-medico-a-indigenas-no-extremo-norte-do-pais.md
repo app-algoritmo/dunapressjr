@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 Dois hospitais militares localizados no extremo oeste do Estado do Amazonas e conveniados ao Sistema Único de Saúde (SUS) receberam reforço de dez profissionais de saúde e duas toneladas de insumos hospitalares. As especialistas seguem para o hospital de São Gabriel da Cachoeira. Já os insumos foram encaminhados para as duas unidades de saúde.
 
 Para o Hospital de Guarnição de São Gabriel da Cachoeira seguiram duas médicas, uma enfermeira, seis técnicas de enfermagem e uma fisioterapeuta, todas do Hospital Militar de Área de Brasília. Elas embarcaram na Ala 1 (Base Aérea de Brasília), na capital federal, rumo ao norte do País, na manhã do domingo (17), para reforçar o combate à COVID-19 na região amazônica.
@@ -41,5 +40,3 @@ Antes do embarque, os integrantes da missão passaram por avaliação das condi�
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

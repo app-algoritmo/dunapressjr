@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Prefeito foi afastado do cargo por 60 dias.
 
 Fraudes a direitos trabalhistas e desvio de verbas públicas, em Jequié, no interior baiano, são o alvo da Operação Guilda de Papel, da Polícia Federal nesta terça-feira (15). Os agentes cumprem 10 mandados de busca, e seis medidas cautelares diversas, entre elas o afastamento do prefeito de Jequié, Sérgio Gameleira (PSB), pelo prazo de 60 dias, expedidos pelo Tribunal Regional Federal da 1ª Região. A ação ocorre no próprio município de Jequié e em Feira de Santana, com a participação de 45 policiais federais.
@@ -25,5 +24,3 @@ De acordo com análises da CGU, todos esses aspectos apontam a ocorrência de fr
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

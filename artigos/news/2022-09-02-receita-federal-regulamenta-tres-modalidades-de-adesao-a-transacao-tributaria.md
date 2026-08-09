@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ### As adesões devem ser formalizadas até 30 de novembro, mediante abertura de processo digital no Portal e-CAC.
 
 A Receita Federal publicou no Diário Oficial da União desta quinta-feira (1º), em edição extra, os editais que regulamentam as adesões às seguintes modalidades de transação: Transação no contencioso administrativo fiscal de pequeno valor, destinada a pessoas físicas, microempresas e empresas de pequeno porte; e Transação no contencioso administrativo fiscal de créditos tributários irrecuperáveis.
 
-São considerados créditos de pequeno valor aqueles até 60 salários mínimos. Estão nessa situação aproximadamente 100 mil contribuintes, com dívidas de cerca de R$ 1,8 bilhão. Esses cidadãos poderão pagar seus débitos, após a aplicação de reduções, com entrada parcelada e o restante em até 52 parcelas, conforme a opção a uma das modalidades disponíveis no edital. 
+São considerados créditos de pequeno valor aqueles até 60 salários mínimos. Estão nessa situação aproximadamente 100 mil contribuintes, com dívidas de cerca de R$ 1,8 bilhão. Esses cidadãos poderão pagar seus débitos, após a aplicação de reduções, com entrada parcelada e o restante em até 52 parcelas, conforme a opção a uma das modalidades disponíveis no edital.
 
 Já os créditos irrecuperáveis são aqueles, por exemplo, que foram constituídos há mais de 10 anos, de titularidade de devedores falidos, em recuperação judicial ou extrajudicial e, ainda, em determinados motivos cuja situação cadastral no Cadastro Nacional da Pessoa Jurídica (CNPJ) seja baixada, inapta ou suspensa por inexistência de fato. Nessa situação estão cerca de 2,5 mil contribuintes, com dívidas no valor de R$ 10 bilhões. Essas pessoas poderão pagar seus débitos, após a aplicação de reduções, com entrada parcelada e o restante em até 120 parcelas, conforme a opção a uma das modalidades disponíveis no edital.
 
@@ -56,7 +55,7 @@ Número de contribuintes: 10 mil
 
 Passivo tributário: R$ 1 trilhão
 
-Número de parcelas: 120 parcelas, podendo chegar a 145, conforme o caso 
+Número de parcelas: 120 parcelas, podendo chegar a 145, conforme o caso
 
 ### Confira os editais:
 
@@ -73,8 +72,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

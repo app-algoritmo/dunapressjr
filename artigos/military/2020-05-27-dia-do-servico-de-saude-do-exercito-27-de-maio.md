@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 O Exército Brasileiro comemora, em 27 de maio, data do nascimento do General de Brigada Médico João Severiano da Fonseca, primeiro médico a atingir o generalato, o Dia do Serviço de Saúde do Exército.
 
 Oriundo de valorosa estirpe, é filho do Tenente-Coronel de Infantaria Manoel Mendes da Fonseca e da Sr.ª Rosa Maria Paulina da Fonseca, mulher de personalidade e atributos marcantes que, mais tarde, foi entronizada pelo Exército como patrono da “família militar”. Severiano da Fonseca nasceu em 1836, na velha cidade de Alagoas, hoje Marechal Deodoro, no estado de Alagoas. Em 1853, ingressou na Faculdade de Medicina da Corte. Em 1855, ainda estudante, dando mostras de altruísmo e elevado senso humanitário, prestou socorro à população durante a terrível epidemia de cólera que assolou a cidade do Rio de Janeiro. Como consequência dessa ação, o imperador D. Pedro II conferiu-lhe a “Comenda da Imperial Ordem da Rosa” no Grau de Cavaleiro.
@@ -33,5 +32,3 @@ O Serviço de Saúde, alinhado aos Projetos Estratégicos do Exército, investe 
 Militares do Serviço de Saúde do Exército, nobre é a sua missão! Inspirados na coragem, na disciplina, na honestidade, na integridade, no amor à profissão e no patriotismo do seu patrono, sintam-se honrados por fazerem parte de um grupo de profissionais competentes que trabalham para o Exército e a Nação brasileira.
 
 Fonte: Portal de Imprensa do Exército Brasileiro
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

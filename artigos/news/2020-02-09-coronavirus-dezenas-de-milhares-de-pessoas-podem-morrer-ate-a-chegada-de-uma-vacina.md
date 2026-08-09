@@ -8,14 +8,13 @@ categories:
 - News
 ---
 
-
 Cientistas dos EUA e da Austrália estão usando novas tecnologias em um ambicioso esforço multimilionário para desenvolver uma vacina em tempo recorde para combater o surto de coronavírus na China.
 
 O novo vírus se espalhou rapidamente desde que surgiu no final do ano passado na China, matando mais de 810 pessoas no continente e infectando mais de 37.500. Casos foram relatados em duas dezenas de outros países.
 
 Clique neste mapa para ver uma versão ao vivo das informações sobre vírus. O Centro Johns Hopkins de Ciência e Engenharia de Sistemas produziu este site, que exibe estatísticas sobre mortes e casos confirmados de coronavírus, ou 2019-nCoV. Imagem: Revista Johns Hopkins
 
-[](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)Clique no Mapa para ver em tempo real
+Clique no Mapa para ver em tempo real
 
 A criação de qualquer vacina normalmente leva anos e envolve um longo processo de testes em animais, ensaios clínicos em humanos e aprovações regulatórias.
 

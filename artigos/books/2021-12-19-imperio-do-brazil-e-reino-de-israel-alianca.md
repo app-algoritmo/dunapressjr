@@ -9,14 +9,13 @@ categories:
 - History
 ---
 
-
 **O Império do Brasil e o Reino de Israel: Amor milenar - O primeiro Imperador do Brasil na Terra Santa**
 
 **MONARQUIA, GRANDES LÍDERES MUNDIAIS E TRANSIÇÃO DE ERAS SÃO ASSUNTOS EM ALTA!**
 
 **D. PEDRO II NA TERRA SANTA: QUE TAL VOCÊ TER ACESSO AO DIÁRIO DE VIAGEM DO IMPERADOR DO BRASIL?**
 
-É um prazer compartilhar com nossos exigentes leitores as caminhadas, conversas, troca de experiências e editorial com o Prof. Dr. **Reuven Faingold**. 
+É um prazer compartilhar com nossos exigentes leitores as caminhadas, conversas, troca de experiências e editorial com o Prof. Dr. **Reuven Faingold**.
 
 Nosso amigo e verdadeiro “maestro” de História fala conosco a partir de Kfar Saba, próximo a Tel Aviv, Israel.
 
@@ -24,9 +23,9 @@ Em tempos do assunto **MONARQUIA**, de comemoração do **Bicentenário da Indep
 
 Sob o prisma acima, note que interessantíssimo: **Victor Hugo**, na sua obra “**O Retorno do Imperador**” (1840), afirma que, para o povo brasileiro, **D. Pedro II** continuará sendo “le petit-fils de **Marc Aurêle**” [o neto de **Marco Aurélio**], aquele que fala italiano como um toscano, francês como um parisiense, alemão como um prussiano, e inglês como um professor britânico. Em resumo, a perfeição de todos os Imperadores. Vamos reiterar isso ao final.
 
-Considerando os apaixonados por História da Monarquia, História do Brasil, Império do Brazil, ainda outros queridos leitores judeus, judaizantes, muçulmanos ou cristãos, todos mergulhados no conhecimento do Oriente Médio e História de Israel e do Brasil (sim, Brazil desde o início); impulsionado por não poucos eruditos, decidi aguçá-los com o que segue. 
+Considerando os apaixonados por História da Monarquia, História do Brasil, Império do Brazil, ainda outros queridos leitores judeus, judaizantes, muçulmanos ou cristãos, todos mergulhados no conhecimento do Oriente Médio e História de Israel e do Brasil (sim, Brazil desde o início); impulsionado por não poucos eruditos, decidi aguçá-los com o que segue.
 
-Resumido currículo do Prof. Dr. **Reuven Faingold**: 
+Resumido currículo do Prof. Dr. **Reuven Faingold**:
 
 - Doutor em História Geral
 
@@ -42,7 +41,7 @@ Resumido currículo do Prof. Dr. **Reuven Faingold**:
 
 - Coordenador do Memorial da Imigração Judaica e do Holocausto, em São Paulo
 
-Dentre as áreas de especialização do Prof. Faingold, destacamos: 
+Dentre as áreas de especialização do Prof. Faingold, destacamos:
 
 - Judeus e cristãos novos na Península Ibérica
 
@@ -83,7 +82,7 @@ Victor Hugo, na sua obra “O Retorno do Imperador” (1840), afirma que, para o
 
 Dessas tantas pérolas, impossível não causar êxtase aos mais aguçados a caligrafia do monarca, registrando o diário em francês. Esse é um simples aperitivo do que você há de saborear, na íntegra, em breve.
 
-Junte-se à caravana imperial nessa inesquecível viagem no tempo.[](https://t.rdsv1.net/ls/click?upn=aXX58z0Ukm4hqMSCXoMLHXLbcsMLXtcMWkylJI1zeOZzgmBVlwpJhFBp8RqSykwjmuUn1ZAmb-2Bb7GefwsB-2FyUUpud8kVfgEYMB3wDk3iQOrGlusVUchXl5KYFtJEpoL9jXBFhf12xdLBBbOUGZsdO7lFQM2Bp9ImAhHoNupR5ncC1ozHZko8LsGV02JDlle7icSEBCfm2xRDQ6OCeuj8EQ-3D-3DfjHa_CfhmPSPlaxkz5XSqteCQPVyLB9bUMScyiLtKTOsXqjH4D7FP2a-2Be8Pf-2FyW0nO7tyuxmIYErl2NHinlkcEpH6kTHJbBRDmMJAcVLmCbFCns4tgWVFtTWWsVhYUbJ0TzN0M9Ii1fqk4utrg-2Fn5UJE8oyz2ETuWVrqA8-2BjgBfRsUGygfU1O8oN7UeyrEAlwuIo1bivInL2rQcWjfOeaBv3-2B-2B-2FCSz7cfKpWcpBHU-2F86lo2Ydyd5PlD9-2FWciVlEuLljAj1tlZiHfGkc9YRElN0vZvLPPnUkJWiAQn718Z0yCtMwW3dH2KsC6GvjTgzidcfzMSlrYUJ65ksobvRLdDJsRmeOQjpoi-2BMm6svRprpm-2FKv-2FRK6PDNdf8zKwuHA9GO1uKWmHrOahmo55taDGIxs-2FqWnkhkNHD4lxDBL41GX88LHj8ngfaCY-2FAmDi1ZOZpqUcXWYjE-2FfYR8sVqwbuHMhRAVuk9M6rqBwXaRnwMOzf24BrRVm9hrnHuVCgT15phjQkyWeRj2Q0VsRpHUEKLMmpG-2B0QI2GUXdFUwBLarLbxyf-2Fc-2BXRLtA98Kb5vxKJL-2BId5gwmaiLVcJpCKYdwG5wrVawJ6PCO5EVGB8RC7duOVXlGi0U6F-2FtmdGKQm7B6d-2FRS6FSmh29F9SuBELXvD2Crw386uxR0HliQNBv8gCsHKSjSWzhQjx6ePU89XeL0cTEBi4g)
+Junte-se à caravana imperial nessa inesquecível viagem no tempo.
 
 Prof. Dr. **Reuven Faingold** - Historiador e educador | Doutor em História Geral | PhD em História Judaica pela Universidade Hebraica de Jerusalém | Membro do Congresso Mundial de Ciências Judaicas | Co-fundador da Sociedade Genealógica Judaica do Brasil, em São Paulo | Curador de exposições iconográficas (MASP e SESC) | Escritor da Introdução ao Dicionário Sefaradi de Sobrenomes | Coordenador do Memorial da Imigração Judaica e do Holocausto, em São Paulo.
 

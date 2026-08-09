@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ### Informações podem ser consultadas a partir de hoje no site do banco.
 
-A Caixa disponibilizou, a partir desta sexta-feira (8), em seu *site* uma área para consulta sobre o saque extraordinário de até R$ 1 mil do Fundo de Garantia do Tempo de Serviço (FGTS). Os primeiros a serem beneficiados pela medida são os nascidos em janeiro, que terão o recurso liberado no dia 20 de abril. 
+A Caixa disponibilizou, a partir desta sexta-feira (8), em seu *site* uma área para consulta sobre o saque extraordinário de até R$ 1 mil do Fundo de Garantia do Tempo de Serviço (FGTS). Os primeiros a serem beneficiados pela medida são os nascidos em janeiro, que terão o recurso liberado no dia 20 de abril.
 
 O [**calendário do saque**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-03/trabalhadores-poderao-sacar-ate-r-1-mil-de-contas-do-fgts) extraordinário do FGTS foi estabelecido de acordo com o mês de nascimento do trabalhador. Os saques começam em 20 de abril, para nascidos em janeiro, e vão até 15 de junho, para nascidos em dezembro.
 
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Procuradoria de Defesa do Consumidor de Itajaí (Procon) orienta os consumidores a respeito das compras durante a Black Friday, campanha de promoções e produtos com descontos atrativos que ocorre em todo o país nesta sexta-feira (27). O órgão destaca que é fundamental pesquisar preços, prazos de entrega e de troca dos produtos, assim como as formas de pagamento. E alerta para possíveis fraudes e golpes em sites de procedência duvidosa.
 
 Inicialmente, o Procon orienta que o consumidor deve analisar a real necessidade de aquisição do produto, para não comprar por impulso, o que pode evitar o endividamento ou, em determinados casos, comprometer o orçamento doméstico. Fazer uma lista dos produtos que realmente o consumidor necessita e pesquisar antes da compra é o melhor caminho. A pesquisa de preços também é um importante passo na hora de identificar possíveis ofertas maquiadas.
@@ -28,7 +27,7 @@ O Procon esclarece que nas compras realizadas nas lojas físicas não existe o d
 
 Em caso de reclamações, o consumidor deverá fazer contato com a empresa e guardar protocolos ou e-mails recebidos durante a negociação. Poderá ainda fazer sua reclamação online, através da plataforma [www.consumidor.gov.br](https://www.consumidor.gov.br/pages/principal/?1606250630232)
 
-O Procon de Itajaí fica situado na Avenida Joca Brandão, 655, Centro - Itajaí-SC. Em caso de dúvidas ou denúncias, utilize o telefone 151, (47) 3349-6147 ou por meio do e-mail *procon@itajai.sc.gov.br*. 
+O Procon de Itajaí fica situado na Avenida Joca Brandão, 655, Centro - Itajaí-SC. Em caso de dúvidas ou denúncias, utilize o telefone 151, (47) 3349-6147 ou por meio do e-mail *procon@itajai.sc.gov.br*.
 
 ** Crédito: Marcos Porto**
 
@@ -38,7 +37,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

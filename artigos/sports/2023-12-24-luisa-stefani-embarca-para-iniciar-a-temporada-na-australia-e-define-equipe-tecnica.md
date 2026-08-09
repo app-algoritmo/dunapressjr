@@ -27,13 +27,12 @@ Durante a semifinal do Us Open 2021, Luisa sofreu uma grave lesão no joelho, pa
 ***Mais informações:
 ******Instagram: [https://www.instagram.com/luisastefani/
 ](https://click.presskit.com.br/url/99254566c7/6361388b6fc)******Fanpage: [https://www.facebook.com/LuisaStefani.Tennis
-](https://click.presskit.com.br/url/992546565d/6361388b6fc)******Marketing/Comercial-Dani Schnaider: +55 19 991072217 - [dani@agenciadeatletas.com.br](https://click.presskit.com.br/url/9925470edc/6361388b6fc) 
+](https://click.presskit.com.br/url/992546565d/6361388b6fc)******Marketing/Comercial-Dani Schnaider: +55 19 991072217 - [dani@agenciadeatletas.com.br](https://click.presskit.com.br/url/9925470edc/6361388b6fc)
 ******Gallas Press-Fabrizio Gallas - +55 21 99023-0660 - [fabrizio@gallaspress.com.br
 ](https://click.presskit.com.br/url/992548a915/6361388b6fc)******Facebook: [https://www.facebook.com/gallaspress
 ](https://click.presskit.com.br/url/9925491562/6361388b6fc)******Instagram: [https://www.instagram.com/fabriziogallas/](https://click.presskit.com.br/url/9925507981/6361388b6fc)***
 
-***[
-](https://click.presskit.com.br/url/9925507981/6361388b6fc)******ZDL
+*********ZDL
 ******Doro Jr. - MTb 13209 - 11 984579723 - [dorojr@zdl.com.br
 ](https://click.presskit.com.br/url/992551c5a6/6361388b6fc)******Deborah Mamone - MTb 15148 - [deborah@zdl.com.br
 ](https://click.presskit.com.br/url/9925527d7e/6361388b6fc)******Site: [www.zdl.com.br

@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 Em todas as regiões do país, nas escolas públicas e na rede privada, os muitos meses de pandemia de covid-19 tiveram um impacto significativo no aprendizado de crianças de todas as idades. Na Educação Infantil e nos anos iniciais do Ensino Fundamental, esse impacto é ainda mais grave, visto que o afastamento do ambiente escolar prejudicou estudantes que estavam começando a ter contato com letras e números. Por isso, a criatividade dos professores tem sido indispensável para mitigar os efeitos negativos do distanciamento social.
 
 Na tentativa de reconhecer esse esforço, a Fundação Maria Cecilia Souto Vidigal lançou o Prêmio Educação Infantil: boas práticas de professores durante a pandemia. A gerente de Relações Institucionais e Governamentais da fundação, Beatriz Abuchaim, afirma que a premiação recebeu mais de 700 inscrições. Os critérios adotados para selecionar os projetos foram a ludicidade e a capacidade de estimular o relacionamento entre a escola e a família. “As crianças não pararam de aprender durante a pandemia. Então, essas atividades desenvolvidas pelos professores foram muito importantes. Muitos deles conseguiram trabalhar de outras formas e até conhecer melhor as realidades de seus alunos”, pontua.
@@ -31,7 +30,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

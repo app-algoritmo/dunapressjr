@@ -47,6 +47,5 @@ Caio Olliveira - [caio.olliveira@f5pr.com.br
 ZDL
 ****Doro Jr. - MTb 13209 - **[**dorojr@zdl.com.br**](https://click.presskit.com.br/url/9732195ae3/6361388b6fc)** - 11 984579723
 ****Deborah Mamone - MTb 15148  - **[**deborah@zdl.com.br**](https://click.presskit.com.br/url/973220fa8c/6361388b6fc)** - 11 991628967
-****Site: ****[www.zdl.com.br](https://click.presskit.com.br/url/9730694a5c/6361388b6fc)[
-](https://click.presskit.com.br/url/973221c3ff/6361388b6fc)****Facebook: **[**www.facebook.com/ZDLSports**](https://click.presskit.com.br/url/973222dab1/6361388b6fc)**
+****Site: ****[www.zdl.com.br](https://click.presskit.com.br/url/9730694a5c/6361388b6fc)****Facebook: **[**www.facebook.com/ZDLSports**](https://click.presskit.com.br/url/973222dab1/6361388b6fc)**
 Instagram: **[***www.instagram.com/zdlsports***](https://click.presskit.com.br/url/973223810b/6361388b6fc)

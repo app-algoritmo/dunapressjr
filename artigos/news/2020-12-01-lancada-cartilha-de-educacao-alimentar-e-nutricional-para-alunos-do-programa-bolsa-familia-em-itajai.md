@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Secretaria Municipal de Assistência Social, por meio da gestão do Programa Bolsa Família e do setor de Segurança Alimentar e Nutricional, com o apoio da Câmara Municipal Intersetorial de Segurança Alimentar e Nutricional de Itajaí (Caisan) e do Conselho Municipal de Segurança Alimentar e Nutricional de Itajaí (Comsea), lançou uma cartilha com atividades de educação alimentar e nutricional, voltadas aos alunos beneficiários do Programa Bolsa Família em Itajaí.
 
 De acordo com a Nutricionista da Secretaria de Assistência Social, Elinia da Silva Mateus Marsango, Itajaí vem apresentando altas prevalências de sobrepeso e obesidade entre os beneficiários do Programa Bolsa Família, sendo de extrema importância investir em ações de educação alimentar e nutricional, desde a infância, pois é o principal ciclo de vida na formação de bons hábitos alimentares.
@@ -36,7 +35,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

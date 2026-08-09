@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Ponte da Integração Brasil-Paraguai, no Rio Paraná, está com cerca de 40% das obras concluídas. Quando estiver pronta, ligará os dois países ampliando as relações comerciais e desafogando o trânsito na Ponte Internacional da Amizade.
 
 A previsão é que a segunda ponte entre o Brasil e o Paraguai fique pronta em 2022 e seja usada especificamente por veículos de carga que passam pela Ponte da Amizade, hoje o principal corredor logístico entre os dois países. A obra também trará mais conforto e segurança para os turistas.
@@ -36,7 +35,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

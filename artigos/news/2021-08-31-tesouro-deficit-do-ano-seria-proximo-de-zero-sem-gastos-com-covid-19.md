@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dívida bruta caiu 5,3 pontos percentuais de fevereiro a junho.
 
 Sem os gastos extras com o enfrentamento à pandemia de covid-19, o Governo Central (Tesouro Nacional, Previdência Social e Banco Central) teria déficit primário de apenas R$ 3 bilhões nos sete primeiros meses do ano, disse nesta segunda-feira (30) o secretário do Tesouro Nacional, Jeferson Bittencourt. O secretário apresentou a estimativa ao explicar o **[resultado negativo de R$ 73,432 bilhões ](https://dunapress.org/2021/08/31/governo-central-tem-deficit-primario-de-r-198-bilhoes-em-julho/)**registrado de janeiro a julho deste ano.
@@ -28,10 +27,6 @@ A manutenção e o cumprimento das regras fiscais poderão fazer o endividamento
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 A tradicional cerimônia de Troca da Bandeira Nacional na Praça dos Três Poderes está temporariamente suspensa ao público, em decorrência da pandemia do novo coronavírus. A determinação partiu do Ministério da Defesa para atender às recomendações da Organização Mundial de Saúde (OMS).
 
 A medida também segue o decreto assinado pelo governador do Distrito Federal, Ibaneis Rocha, que recomenda distanciamento social e considera a suspensão como medida de prevenção, controle e contenção de risco, e danos à saúde.
@@ -24,5 +23,3 @@ Em eventos anteriores, além do hasteamento da nova bandeira, que mede 286 m², 
 
 **Assessoria de Comunicação Social (Ascom)
 Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

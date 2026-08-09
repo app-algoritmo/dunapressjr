@@ -7,7 +7,6 @@ categories:
 - Magazine
 ---
 
-
 -A vida consiste em diferentes pilares ou áreas da vida, todos importantes para a forma de como nos sentimos. É sobre as relações que temos com outras pessoas, tanto as mais próximas como em geral, e se temos a oportunidade de nos recuperar "entre batalhas". A saúde mental e física pode colocar limites no desenvolvimento da vida. A forma como nos sentimos pode estar ligada ao lugar onde vivemos, a casa e o ambiente local, e se nos sentimos seguros - física, social e materialmente. A forma como nos sentimos quando estamos no trabalho afeta a qualidade de vida, assim como não ter a oportunidade de participar da vida profissional. Por meio do trabalho, da educação e da participação em atividades voluntárias ou políticas, podemos contribuir com a comunidade, além de nos usar e desenvolver. Nesta página temática, é fornecida uma visão geral das condições e qualidade de vida da população norueguesa.
 
 Como estamos na Noruega? Para dizer algo sobre isso, compilamos dados de várias fontes na Statistics Norway sobre tópicos selecionados, ou áreas da vida, que são importantes para a qualidade de vida e as condições de vida das pessoas.
@@ -24,7 +23,7 @@ Todas as terças-feiras do verão de 2017, foram publicados os resultados de cad
 
 A Statistics Norway tem uma longa tradição de mapear e elucidar as condições de vida da população. Em 1973, realizamos o primeiro levantamento das condições de vida. Até então, estudos eram realizados sobre o consumo e a renda das pessoas para mapear as condições materiais de vida, mas agora pensava-se que isso apenas descrevia alguns aspectos da realidade que determinam as chances de vida do indivíduo. Eles queriam examinar as diferenças nas condições de vida entre os grupos populacionais, com "ênfase particular nos grupos de baixa renda e outros que devem ser considerados como vivendo em condições especiais" (SSB 1975). Os temas abordados na ocasião foram: emprego e condições de trabalho, renda e consumo, condições de vida, saúde, educação, lazer e recreação, família e condições de educação e recursos políticos.
 
-Os temas abrangentes naquela época se sobrepõem amplamente aos temas cobertos pelas pesquisas de condições de vida hoje. Ao mesmo tempo, as pesquisas se tornaram mais detalhadas. Novos tópicos também foram adicionados, e qualidade de vida é um dos tópicos mais recentes. 
+Os temas abrangentes naquela época se sobrepõem amplamente aos temas cobertos pelas pesquisas de condições de vida hoje. Ao mesmo tempo, as pesquisas se tornaram mais detalhadas. Novos tópicos também foram adicionados, e qualidade de vida é um dos tópicos mais recentes.
 
 ### Parte de uma tendência internacional
 
@@ -42,7 +41,7 @@ As Estatísticas do Rendimento e das Condições de Vida (EU-SILC) são um inqu�
 
 Alguns países têm sido mais ativos na definição da área de qualidade de vida e no desenvolvimento de bons indicadores. Em nome do então Primeiro-Ministro britânico David Cameron, o National Bureau of Statistics do Reino Unido saiu em 2010 e pediu às pessoas que apresentassem as suas ideias sobre "o que é importante para si", a fim de desenvolver indicadores de qualidade de vida. Por meio de reuniões públicas e pela internet, eles receberam 34.000 respostas (ONS 2011). A agência de estatística francesa INSEE incluiu um conjunto fixo de medidas de qualidade de vida em sua versão do EU-SILC (INSEE 2013). Outros países onde se tem estado na vanguarda do desenvolvimento de metas de progresso social e bem-estar são Alemanha, Japão, Austrália e Canadá.
 
-Em junho de 2016, a Direcção de Saúde da Noruega apresentou um relatório sobre o que é necessário para garantir boas informações sobre a qualidade de vida da população (Direcção de Saúde da Noruega, 2016). No Relatório de Perspectiva (Meld. St. 29 2016-2017), o governo aponta para a importância da mensuração da qualidade de vida, como alternativa às medidas puramente econômicas do bem-estar da população. Na Suécia, veio a investigação - «Estamos melhorando? Sobre medidas de qualidade de vida »em 2015, que fez recomendações específicas sobre como medir a qualidade de vida e as condições de vida em diferentes áreas (SOU 2015). O Statistics Denmark criou um site onde apresenta dados sobre a qualidade e as condições de vida em 38 municípios (Statistics Denmark 2017). 
+Em junho de 2016, a Direcção de Saúde da Noruega apresentou um relatório sobre o que é necessário para garantir boas informações sobre a qualidade de vida da população (Direcção de Saúde da Noruega, 2016). No Relatório de Perspectiva (Meld. St. 29 2016-2017), o governo aponta para a importância da mensuração da qualidade de vida, como alternativa às medidas puramente econômicas do bem-estar da população. Na Suécia, veio a investigação - «Estamos melhorando? Sobre medidas de qualidade de vida »em 2015, que fez recomendações específicas sobre como medir a qualidade de vida e as condições de vida em diferentes áreas (SOU 2015). O Statistics Denmark criou um site onde apresenta dados sobre a qualidade e as condições de vida em 38 municípios (Statistics Denmark 2017).
 
 ## Escolha de indicadores para "Como nos sentimos - condições e qualidade de vida na Noruega"
 
@@ -51,15 +50,15 @@ As áreas de vida e os indicadores selecionados para a página temática sobre c
 # Por que escolhemos esses indicadores?
 
 **Qualidade de vida**
-Se alguém nos pergunta como estamos, podemos responder de maneiras diferentes. Podemos responder no momento imediato ou no período em que estamos. Por exemplo, podemos responder com um sentimento: feliz, triste, com raiva, com raiva, ou podemos fazer uma avaliação mais geral de como as coisas estão indo na vida; relações com a família ou amigos, bem-estar no trabalho ou em casa etc e dar uma «pontuação» à vida. Na pesquisa, não há acordo sobre como isso pode ser melhor medido (ver, por exemplo, Barstad 2016b para uma revisão das diferentes perspectivas). Têm sido feitas tentativas para captar a presença de bons sentimentos, a ausência de emoções negativas e para medir um sentimento mais profundo de satisfação e significado com a vida. 
+Se alguém nos pergunta como estamos, podemos responder de maneiras diferentes. Podemos responder no momento imediato ou no período em que estamos. Por exemplo, podemos responder com um sentimento: feliz, triste, com raiva, com raiva, ou podemos fazer uma avaliação mais geral de como as coisas estão indo na vida; relações com a família ou amigos, bem-estar no trabalho ou em casa etc e dar uma «pontuação» à vida. Na pesquisa, não há acordo sobre como isso pode ser melhor medido (ver, por exemplo, Barstad 2016b para uma revisão das diferentes perspectivas). Têm sido feitas tentativas para captar a presença de bons sentimentos, a ausência de emoções negativas e para medir um sentimento mais profundo de satisfação e significado com a vida.
 
-Em nossa pesquisa e nesta página de tópico, optamos por priorizar duas questões mais gerais e bem utilizadas sobre a qualidade de vida subjetiva. Essas perguntas têm como objetivo capturar a avaliação do entrevistado sobre como as coisas estão indo na vida, enquanto a outra busca captar se o que o entrevistado está fazendo na vida é significativo (OCDE 2013). Em ambos os casos, deve-se responder em uma escala de 0 a 10. 
+Em nossa pesquisa e nesta página de tópico, optamos por priorizar duas questões mais gerais e bem utilizadas sobre a qualidade de vida subjetiva. Essas perguntas têm como objetivo capturar a avaliação do entrevistado sobre como as coisas estão indo na vida, enquanto a outra busca captar se o que o entrevistado está fazendo na vida é significativo (OCDE 2013). Em ambos os casos, deve-se responder em uma escala de 0 a 10.
 
-Selecionamos esses indicadores em qualidade de vida: 
+Selecionamos esses indicadores em qualidade de vida:
 
-- Satisfação com a vida durante o dia 
+- Satisfação com a vida durante o dia
 
-- Experiência de vida tão significativa 
+- Experiência de vida tão significativa
 
 Só fizemos essas perguntas sobre a qualidade de vida subjetiva três vezes nas pesquisas da Statistics Norway: na EU-SILC 2013, na EHIS 2015 e na pesquisa sobre as condições de vida deste ano, que ainda não foi concluída.
 
@@ -87,10 +86,10 @@ Em uma sociedade com alta confiança, torna-se mais fácil estabelecer relaciona
 
 Selecionamos esses indicadores em relações sociais:
 
-- Proporção que tem 2 ou menos pessoas com quem pode contar em caso de problemas pessoais graves 
-- Proporção que tem alguém a quem pedir conselho ou ajuda 
-- Proporção que se incomoda com a solidão 
-- Proporção que confia muito no próximo 
+- Proporção que tem 2 ou menos pessoas com quem pode contar em caso de problemas pessoais graves
+- Proporção que tem alguém a quem pedir conselho ou ajuda
+- Proporção que se incomoda com a solidão
+- Proporção que confia muito no próximo
 - Proporção que trabalhou pelo menos 10 horas gratuitas para organizações no ano passado
 
 **Trabalho e educação**
@@ -102,9 +101,9 @@ Conhecimento e habilidades são importantes para a qualidade de vida porque cont
 
 Selecionamos estes indicadores durante o trabalho e a educação:
 
-- Proporção de pessoas que trabalham ou estudam 
-- Proporção de pessoas em idade ativa, mas impossibilitadas de trabalhar por causa de deficiência 
-- Proporção de pessoas que pensam que estão em perigo de perder o emprego nos próximos três anos 
+- Proporção de pessoas que trabalham ou estudam
+- Proporção de pessoas em idade ativa, mas impossibilitadas de trabalhar por causa de deficiência
+- Proporção de pessoas que pensam que estão em perigo de perder o emprego nos próximos três anos
 - Proporção de que têm o ensino fundamental como a mais completa Educação
 
 **Ambiente de trabalho**
@@ -114,10 +113,10 @@ O baixo apoio da gestão aumenta a probabilidade de baixa por doença e afastame
 
 Selecionamos estes indicadores em ambiente de trabalho:
 
-- Proporção que tem grandes demandas de trabalho e baixo controle sobre sua própria situação de trabalho 
-- Proporção que experimenta um desequilíbrio entre esforço e recompensas 
-- Proporção que raramente ou nunca tem gerenciamento de apoio 
-- Proporção que tem poucas oportunidades de utilizar competência e / ou se desenvolver através do trabalho. 
+- Proporção que tem grandes demandas de trabalho e baixo controle sobre sua própria situação de trabalho
+- Proporção que experimenta um desequilíbrio entre esforço e recompensas
+- Proporção que raramente ou nunca tem gerenciamento de apoio
+- Proporção que tem poucas oportunidades de utilizar competência e / ou se desenvolver através do trabalho.
 Proporção que está satisfeita com seu trabalho
 
 **Habitação e meio ambiente local**
@@ -127,10 +126,10 @@ Outro aspecto da vida é o financeiro - para muitos, comprar uma casa própria �
 
 Selecionamos esses indicadores em habitação e meio ambiente local:
 
-- Proporção que mora em casa própria 
-- Proporção que mora em domicílio com alta carga tributária 
-- Proporção que mora em condições precárias 
-- Proporção que se incomoda com poluição ou ruído 
+- Proporção que mora em casa própria
+- Proporção que mora em domicílio com alta carga tributária
+- Proporção que mora em condições precárias
+- Proporção que se incomoda com poluição ou ruído
 - Proporção que não tem acesso a um jardim
 
 **Tempo e lazer**
@@ -140,8 +139,8 @@ Quando medimos o lazer, não incluímos o tempo que as pessoas passam trabalhand
 
 A distribuição desigual do trabalho doméstico e do deslocamento diário foi citada como exemplos de condições que reduzem o tempo que muitos têm disponível como lazer (Stiglitz et al. 2009, Norwegian Directorate of Health 2016). A maneira como as pessoas gastam seu tempo exige mapeamento em pesquisas. Na Statistics Norway, conduzimos pesquisas de uso do tempo com base em diários a cada dez anos (mais recentemente em 2010), que fornecem uma oportunidade de dizer algo sobre quanto tempo as pessoas têm disponível além do trabalho remunerado e não remunerado, e quando dormem e outros as necessidades necessárias são atendidas. Usamos esses dados para criar um indicador de tempo de lazer por dia. Porque não só a quantidade, mas também a qualidade do tempo de lazer é importante,
 
-Selecionamos estes indicadores durante o tempo de lazer: 
-- Tempo de lazer em horas e minutos por dia 
+Selecionamos estes indicadores durante o tempo de lazer:
+- Tempo de lazer em horas e minutos por dia
 - Estão muito satisfeitos com o tempo que você tem disponível para fazer as coisas que você gosta
 
 **Segurança**
@@ -151,9 +150,9 @@ A exposição ao comportamento desagradável de outras pessoas pode ter consequ�
 
 Selecionamos esses indicadores em segurança:
 
-- Proporção de pessoas expostas a violência ou ameaças no último ano 
-- Proporção de vítimas de bullying e / ou assédio sexual no local de trabalho 
-- Proporção de pessoas preocupadas com violência ou ameaças de violência em casa 
+- Proporção de pessoas expostas a violência ou ameaças no último ano
+- Proporção de vítimas de bullying e / ou assédio sexual no local de trabalho
+- Proporção de pessoas preocupadas com violência ou ameaças de violência em casa
 - Proporção de pessoas que têm problemas com o crime , violência ou vandalismo na área residencial
 
 **Economia**
@@ -163,10 +162,10 @@ Os recursos financeiros reais que uma pessoa tem disponíveis são uma coisa, e 
 
 Selecionamos esses indicadores nos recursos financeiros:
 
-- Renda média anual após impostos por unidade de consumo 
-- Porcentagem que afirma que é difícil fazer face às 
-despesas - Porcentagem que não tem a oportunidade de administrar uma despesa imprevista de NOK 10.000 
-- Porcentagem que mora em uma família de baixa renda 
+- Renda média anual após impostos por unidade de consumo
+- Porcentagem que afirma que é difícil fazer face às
+despesas - Porcentagem que não tem a oportunidade de administrar uma despesa imprevista de NOK 10.000
+- Porcentagem que mora em uma família de baixa renda
 - Porcentagem que não posso pagar uma semana de férias por ano
 
 **Recursos políticos e participação**
@@ -174,16 +173,16 @@ Os recursos políticos e a participação referem-se às oportunidades individua
 
 Selecionamos esses indicadores em recursos políticos e participação:
 
-- Votou na eleição de Storting em 2013 
-- Tem muita confiança no sistema político 
-- Tentou influenciar um caso por meio de esforços políticos 
+- Votou na eleição de Storting em 2013
+- Tem muita confiança no sistema político
+- Tentou influenciar um caso por meio de esforços políticos
 - Proporção de funcionários que são membros ativos de um sindicato ou sindicato
 
 ### Você quer saber mais?
 
 Compare as condições de vida e qualidade de vida na Noruega com outros países. Em [*A Better Life Inde* x](http://www.oecdbetterlifeindex.org/#/11111111111) , a OCDE compara a qualidade de vida em 35 países membros, que também inclui a Noruega. A página [*Quality of life*](http://ec.europa.eu/eurostat/cache/infographs/qol/index_en.html) do Eurostat descreve a qualidade de vida na UE / EEE. Nossos vizinhos no sul, Dinamarca, coletaram dados de [qualidade](http://dst.dk/extranet/livskvalitet/livskvalitet.html) de [vida em 38 de seus municípios](http://dst.dk/extranet/livskvalitet/livskvalitet.html) e no país como um todo. No [Relatório Mundial de Felicidade](http://worldhappiness.report/ed/2017/) , você obtém uma classificação dos países do mundo por nível de felicidade, onde a Noruega em 2017 estava no topo.
 
-Em junho de 2016, a Direcção de Saúde da Noruega apresentou o relatório *Good Lives in Norway. Estudo sobre a medição da qualidade de vida da população* (IS-2479) sobre o [que é necessário para garantir boas informações sobre a qualidade de vida da população](https://helsedirektoratet.no/publikasjoner/gode-liv-i-norge-utredning-om-maling-av-befolkningens-livskvalitet) aqui na Noruega. 
+Em junho de 2016, a Direcção de Saúde da Noruega apresentou o relatório *Good Lives in Norway. Estudo sobre a medição da qualidade de vida da população* (IS-2479) sobre o [que é necessário para garantir boas informações sobre a qualidade de vida da população](https://helsedirektoratet.no/publikasjoner/gode-liv-i-norge-utredning-om-maling-av-befolkningens-livskvalitet) aqui na Noruega.
 
 O pesquisador Anders Barstad, da Statistics Norway, escreveu, entre outras coisas, sobre [por que e como podemos quantificar a vida boa. ](https://www.ssb.no/sosiale-forhold-og-kriminalitet/artikler-og-publikasjoner/kan-det-gode-liv-males)Ele também escreveu um relatório sobre o [acúmulo de problemas de condições de vida](http://www.ssb.no/en/sosiale-forhold-og-kriminalitet/artikler-og-publikasjoner/_attachment/285523?_ts=1588ffd8b60) , onde examina quais grupos são mais vulneráveis ​​e como o acúmulo está relacionado à qualidade de vida subjetiva.
 
@@ -225,15 +224,15 @@ Helliwell, J., Layard, R., og Sachs, J. (2017). *Relatório Mundial da Felicidad
 
 A Direcção de Saúde da Noruega (2016): *Good lives in Norway. Estudo de medição da qualidade de vida da população* . Relatório IS-2479. [https://helsedirektoratet.no/publikasjoner/gode-liv-i-norge-utredning-om-maling-av-befolkningens-livskvalitet](https://helsedirektoratet.no/publikasjoner/gode-liv-i-norge-utredning-om-maling-av-befolkningens-livskvalitet)
 
-INSEE (2013): obtido em  [https://www.insee.fr/en/statistiques/1281415](https://www.insee.fr/en/statistiques/1281415)
+INSEE (2013): obtido em [https://www.insee.fr/en/statistiques/1281415](https://www.insee.fr/en/statistiques/1281415)
 
 Relatório. St. 29 (2016-2017): The *Perspective Report 2017.* Report to the Storting.
 
 NEF (2004). *Um manifesto de bem-estar para uma sociedade próspera. *New Economics Society. Hentet fra [http://b.3cdn.net/nefoundation/813660812dc0c82af5_vkm6vve98.pdf](http://b.3cdn.net/nefoundation/813660812dc0c82af5_vkm6vve98.pdf)
 
-Normann, TM (2017):  *Como medir o peso das despesas de subsistência? Uma discussão sobre a relação entre receitas e despesas com habitação. (Notas 2017/06). Oslo / Kongsvinger: Statistics Norway. * [http://www.ssb.no/bygg-bolig-og-eiendom/artikler-og-publikasjoner/_attachment/291690?_ts=159b1b0eb98](http://www.ssb.no/bygg-bolig-og-eiendom/artikler-og-publikasjoner/_attachment/291690?_ts=159b1b0eb98)
+Normann, TM (2017): *Como medir o peso das despesas de subsistência? Uma discussão sobre a relação entre receitas e despesas com habitação. (Notas 2017/06). Oslo / Kongsvinger: Statistics Norway. * [http://www.ssb.no/bygg-bolig-og-eiendom/artikler-og-publikasjoner/_attachment/291690?_ts=159b1b0eb98](http://www.ssb.no/bygg-bolig-og-eiendom/artikler-og-publikasjoner/_attachment/291690?_ts=159b1b0eb98)
 
-Normann, TM (2016): *Proprietários e inquilinos no mercado imobiliário, diferenças nos padrões de habitação e ambiente de vida. Piores condições de vida para os inquilinos do que para os proprietários. *Estatísticas da Noruega. Obtido em:  [https://www.ssb.no/bygg-bolig-og-eiendom/artikler-og-publikasjoner/darligere-boforhold-for-leiere-enn-for-eiere](https://www.ssb.no/bygg-bolig-og-eiendom/artikler-og-publikasjoner/darligere-boforhold-for-leiere-enn-for-eiere)
+Normann, TM (2016): *Proprietários e inquilinos no mercado imobiliário, diferenças nos padrões de habitação e ambiente de vida. Piores condições de vida para os inquilinos do que para os proprietários. *Estatísticas da Noruega. Obtido em: [https://www.ssb.no/bygg-bolig-og-eiendom/artikler-og-publikasjoner/darligere-boforhold-for-leiere-enn-for-eiere](https://www.ssb.no/bygg-bolig-og-eiendom/artikler-og-publikasjoner/darligere-boforhold-for-leiere-enn-for-eiere)
 
 *OECD (2011), How's Life ?: Measuring well-be, OECD Publishing.*
 
@@ -263,8 +262,6 @@ Fonte: SSB.no - Signe Vrålstad - Kristina Strand Støren, Mari Lande With, Elis
 
 ## Ver também
 
-## [Os nórdicos são um modelo para todo o mundo, Børge Brende, presidente do Fórum Econômico Mundial](https://dunapress.org/2021/03/30/os-nordicos-sao-um-modelo-para-todo-o-mundo-borge-brende-presidente-do-forum-economico-mundial/)[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+## [Os nórdicos são um modelo para todo o mundo, Børge Brende, presidente do Fórum Econômico Mundial](https://dunapress.org/2021/03/30/os-nordicos-sao-um-modelo-para-todo-o-mundo-borge-brende-presidente-do-forum-economico-mundial/)
 
-### O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!, clique e comece já!
-
-[](https://dunapress.org/edu/)
+### O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!

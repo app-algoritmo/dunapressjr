@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Retificação do termo de adesão ou do termo aditivo deve ser feita de 22 a 26 de junho.
 
 As instituições interessadas em participar da segunda edição do segundo semestre de 2020 do Programa Universidade para Todos (Prouni) terão mais tempo para realizar o procedimento. O dia 14 de junho é a nova data limite tanto para as que vão aderir ao programa quanto para as que queiram emitir o termo aditivo e participar de mais uma edição. O prazo anterior se encerrava em 10 de junho.
@@ -25,8 +24,6 @@ Todos os procedimentos devem ser realizados por meio do [Sistema Informatizado d
 **O programa -** O Prouni é o programa do Ministério da Educação (MEC) que oferece bolsas integrais (100%) e parciais (50%) em instituições não gratuitas de educação superior.
 
 Fonte: gov.br/mec / Imagem em destaque: abmes.org.br
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

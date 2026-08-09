@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Pesquisadores da Faculdade de Medicina da Universidade de São Paulo (FM-USP) constataram que o SARS-CoV-2 infecta e se replica em células das glândulas salivares.
 
 Por meio de análises de amostras de três tipos de glândulas salivares, obtidas durante um procedimento de autópsia minimamente invasiva em pacientes que morreram em decorrência de complicações da COVID-19 no Hospital das Clínicas da FM-USP, eles verificaram que esses tecidos especializados na produção e secreção de saliva são reservatórios para o novo coronavírus.
@@ -33,7 +32,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

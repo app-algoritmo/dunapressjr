@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Exportações superam importações em US$ 2 bilhões.
 
 O crescimento das importações e a desaceleração das exportações de alguns produtos fizeram o superávit da balança comercial cair para o nível mais baixo em seis anos em outubro. No mês passado, o país exportou US$ 2,004 bilhões a mais do que importou.
@@ -40,14 +39,10 @@ Em outubro, o governo tinha diminuído para US$ 70,9 bilhões a previsão de [**
 
 Em abril, o Ministério da Economia mudou o [**cálculo**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-04/superavit-comercial-de-2021-sobe-quase-cinco-vezes-com-novo-calculo) da balança comercial. Entre as principais alterações, estão a exclusão de exportações e importações fictícias de plataformas de petróleo. Nessas operações, plataformas de petróleo que jamais saíram do país eram contabilizadas como exportação, ao serem registradas em subsidiárias da Petrobras no exterior, e como importação, ao serem registradas no Brasil.
 
-Outras mudanças foram a inclusão, nas importações, da energia elétrica produzida pela usina de Itaipu e comprada do Paraguai, num total de US$ 1,5 bilhão por ano, e das compras feitas pelo programa Recof, que concede isenção tributária a importações usadas para produção de bens que serão exportados. Toda a série histórica a partir de 1989 foi revisada com a nova metodologia. 
+Outras mudanças foram a inclusão, nas importações, da energia elétrica produzida pela usina de Itaipu e comprada do Paraguai, num total de US$ 1,5 bilhão por ano, e das compras feitas pelo programa Recof, que concede isenção tributária a importações usadas para produção de bens que serão exportados. Toda a série histórica a partir de 1989 foi revisada com a nova metodologia.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

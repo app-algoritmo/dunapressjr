@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Taxa é a menor registrada no país desde outubro de 2015.
 
 A taxa de desemprego no Brasil chegou a 9,4% em abril deste ano, o menor patamar desde outubro de 2015, de acordo com estudo divulgado nesta sexta-feira (24) pelo Instituto de Pesquisa Econômica Aplicada (Ipea). Na comparação com o mesmo mês de 2021, a taxa registrou queda de 4,9 pontos percentuais. Ao todo, o país tinha 11 milhões de desempregados em abril.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

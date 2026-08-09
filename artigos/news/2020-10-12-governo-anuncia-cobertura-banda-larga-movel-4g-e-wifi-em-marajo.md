@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-O projeto WiFi na Praça permite o acesso gratuito e ilimitado à internet por meio de antena satelital, instalada pela Telebras em praças públicas de comunidades com baixa ou nenhuma conexão de internet. 
+O projeto WiFi na Praça permite o acesso gratuito e ilimitado à internet por meio de antena satelital, instalada pela Telebras em praças públicas de comunidades com baixa ou nenhuma conexão de internet.
 
 Internet de qualidade e gratuita na Ilha do Marajó, no Pará. As comunidades do arquipélago vão passar a contar com cobertura 4G e novo ponto de internet gratuita, por meio do programa WiFi na Praça. A ação faz parte Do Programa Abrace o Marajó, apresentado nesta sexta-feira (9) pelo Governo Federal, em Breves (PA).
 
@@ -16,7 +15,7 @@ Internet de qualidade e gratuita na Ilha do Marajó, no Pará. As comunidades do
 
 ### **Banda Larga**
 
-Seis localidades no interior da Ilha de Marajó serão beneficiadas com a implementação da cobertura banda larga móvel com tecnologia 4G. Grande parte, em área rural, com precário acesso à internet. São elas: os distritos de Mainard, Câmara do Marajó, Retiro Grande, Piriá, São Miguel do Pracuúba e Joanes. No total, mais de 7 mil pessoas serão beneficiadas. 
+Seis localidades no interior da Ilha de Marajó serão beneficiadas com a implementação da cobertura banda larga móvel com tecnologia 4G. Grande parte, em área rural, com precário acesso à internet. São elas: os distritos de Mainard, Câmara do Marajó, Retiro Grande, Piriá, São Miguel do Pracuúba e Joanes. No total, mais de 7 mil pessoas serão beneficiadas.
 
 “Estamos trazendo 4G para 350 cidades do Brasil, mas, principalmente, na região Norte e Nordeste”, disse o ministro das Comunicações.
 
@@ -43,5 +42,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

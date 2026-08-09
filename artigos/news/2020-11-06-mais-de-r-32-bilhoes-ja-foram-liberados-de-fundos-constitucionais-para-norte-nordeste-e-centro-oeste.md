@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Recursos são destinados a pequenos empresários que sofreram com as medidas impostas pela Covid-19.
 
 A captação de recursos dos Fundos Constitucionais de Financiamento já superou 50% do valor disponibilizado pelo Governo Federal por causa da Covid-19. Dos R$ 6 bilhões, pequenos empreendedores dos setores de comércio e serviços das regiões Norte, Nordeste e Centro-Oeste já tiveram acesso a R$ 3,24 bilhões. São recursos destinados a ajudar os pequenos a manterem os negócios funcionando e a garantir empregos.
@@ -21,15 +20,9 @@ Fundo Constitucional de Financiamento do Norte (FNO)
 
 Segundo o Ministério do Desenvolvimento Regional, dos R$ 6 bilhões, a maior parte dos recursos foi captada no Nordeste, onde foram concedidos R$ 2,84 bilhões dos R$ 3 bilhões destinados à região.
 
-- 
-
 No Norte, para onde foram disponibilizados R$ 2 bilhões, os financiamentos somam R$ 272 milhões.
 
-- 
-
 Já no Centro-Oeste, foram contratados R$ 128,3 milhões, do total de R$ 1 bilhão disponibilizado.
-
-- 
 
 Os recursos podem ser contratados até 31 de dezembro deste ano, enquanto durar o decreto de calamidade pública. As linhas de crédito podem ser nas modalidades capital de giro, no valor de até R$ 100 mil por operação; e investimento, no valor de até R$ 200 mil. O prazo para a quitação dos financiamentos é de até 24 meses, com carência até 31 de dezembro deste ano. As taxas de juros são de aproximadamente 2,5% ao ano.
 
@@ -56,5 +49,3 @@ Na região Centro-Oeste, foram acessados, pelo Fundo Constitucional, R$ 128,36 m
 Fonte: gov.br – Imagem de destaque: Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

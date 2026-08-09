@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Câmara de Comércio Exterior promoveu também ajustes à lista, com a exclusão de itens para os quais já há condições adequadas de oferta no mercado.
 
 O Comitê-Executivo de Gestão (Gecex) da Câmara de Comércio Exterior (Camex), por meio da [Resolução nº 104/2020](https://www.in.gov.br/en/web/dou/-/resolucao-gecex-n-104-de-20-de-outubro-de-2020-283997356), decidiu prorrogar, até 31 de dezembro de 2020, a vigência da [Resolução nº 17/2020](https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-17-de-marco-de-2020-248564246), que zera a tarifa de importação que incidiria sobre itens essenciais ao combate à Covid-19.
@@ -26,5 +25,3 @@ Segundo o Decreto 10.044/2019, o Gecex é integrado pela Presidência da Repúbl
 Fonte: Ministério da Economia – Imagem de destaque: Lupa Mercantil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

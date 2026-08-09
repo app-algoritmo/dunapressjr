@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Medida havia sido tomada para compensar apagão no Amapá.
 
-Um [**decreto**](http://www.in.gov.br/web/dou/-/decreto-n-10.572-de-11-de-dezembro-de-2020-*-293755755) editado pelo presidente Jair Bolsonaro nesta sexta-feira (11) reduziu a zero a cobrança do Imposto sobre Operações Financeiras (IOF) em operações de crédito. A taxação havia sido estabelecida há cerca de 15 dias, como forma de compensar a suspensão da conta de luz de consumidores do Amapá, que sofreram com um [**apagão de mais de 20 dias**](https://agenciabrasil.ebc.com.br/politica/noticia/2020-11/bolsonaro-edita-mp-que-isenta-moradores-do-amapa-de-pagar-conta-de-luz) no estado em novembro.  
+Um [**decreto**](http://www.in.gov.br/web/dou/-/decreto-n-10.572-de-11-de-dezembro-de-2020-*-293755755) editado pelo presidente Jair Bolsonaro nesta sexta-feira (11) reduziu a zero a cobrança do Imposto sobre Operações Financeiras (IOF) em operações de crédito. A taxação havia sido estabelecida há cerca de 15 dias, como forma de compensar a suspensão da conta de luz de consumidores do Amapá, que sofreram com um [**apagão de mais de 20 dias**](https://agenciabrasil.ebc.com.br/politica/noticia/2020-11/bolsonaro-edita-mp-que-isenta-moradores-do-amapa-de-pagar-conta-de-luz) no estado em novembro.
 
 Como o aumento da arrecadação do IOF já compensou os gastos da isenção das contas de luz, o governo decidiu restabelecer a alíquota zero do imposto. De acordo com Secretaria Geral da Presidência da República, a medida é uma "forma de mitigar o impacto provocado pela pandemia de covid-19 sobre a economia brasileira."
 
@@ -24,8 +23,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

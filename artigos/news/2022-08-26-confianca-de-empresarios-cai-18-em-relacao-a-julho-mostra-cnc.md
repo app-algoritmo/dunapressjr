@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ### Cenário de riscos e incertezas contribui para insegurança no setor.
 
 O Índice de Confiança do Empresário do Comércio (ICEC) de agosto, divulgado nesta quinta-feira (25) pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), alcançou 124 pontos, mostrando queda de 1,8% em relação a julho, na comparação com ajuste sazonal. De acordo com a CNC, essa foi a primeira redução no otimismo dos varejistas brasileiros desde março. Na comparação com agosto do ano passado, entretanto, o nível de confiança dos comerciantes subiu 7,8%.
 
-Falando à Agência Brasil, a economista da CNC, Izis Ferreira, esclareceu que essa elevação do otimismo na comparação anual revela o efeito da retomada do fluxo de pessoas nas ruas e no comércio. “O segundo semestre do ano passado teve uma melhora significativa na atividade do comércio. Mas a base ainda era muito baixa em relação ao segundo semestre de 2020”. 
+Falando à Agência Brasil, a economista da CNC, Izis Ferreira, esclareceu que essa elevação do otimismo na comparação anual revela o efeito da retomada do fluxo de pessoas nas ruas e no comércio. “O segundo semestre do ano passado teve uma melhora significativa na atividade do comércio. Mas a base ainda era muito baixa em relação ao segundo semestre de 2020”.
 
 O efeito positivo da retomada do varejo, que começou no segundo semestre do ano passado, veio se consolidando ao longo do ano. “Não teve piora no cenário de pandemia, não teve necessidade de novas restrições, a cobertura vacinal foi aumentando e, aí, o comércio foi sentindo esse benefício, digamos assim, da retomada, do fluxo de pessoas nas ruas, buscando estarem mais nos espaços comerciais e isso refletiu na comparação anual”.
 
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí iniciou o projeto de revitalização da rua Doutor Pedro Ferreira e vias do entorno, no bairro Centro, nesta quarta-feira (13). As obras começaram pela rua Silva com drenagem e pavimentação. A Secretaria Municipal de Desenvolvimento Urbano e Habitação orienta os motoristas a tomarem rotas alternativas já que a via estará interditada entre a avenida Prefeito Paulo Bauer e a rua Cônego Tomás Fontes.
 
 Os trabalhos iniciaram com a retirada dos canteiros da rua Silva para a implantação de tubulação de drenagem. Os motoristas deverão evitar o retorno na rua Pedro Ferreira pela rua Doutor José Bonifácio Malburg para acessar a avenida Marcos Konder. Agentes da Coordenadoria de Trânsito (Codetran) auxiliarão os condutores nos trajetos e desvios.
@@ -34,7 +33,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

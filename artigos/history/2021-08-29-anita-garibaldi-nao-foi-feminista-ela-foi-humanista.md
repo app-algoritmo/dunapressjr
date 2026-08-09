@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 ## O maior legado deixado pela Anita Garibaldi é a liberdade de exercermos a nossa força sem deixarmos de ser femininas, sem deixar de ser esposa, porque ela foi uma esposa muito dedicada, passava roupa do marido, cuidava dos filhos, em nenhum momento deixou de lado o seu papel de mãe e de esposa.
 
 Ana Maria de Jesus Ribeiro, mais conhecida como Anita Garibaldi, a maior heroína brasileira, completaria no dia 30 de agosto 200 anos de nascimento. Pela importância histórica dessa catarinense de Laguna, chamada de “heroína dos dois mundos”, o bicentenário se destaca e enseja os mais variados estudos sobre esse ícone da coragem da mulher catarinense, que se consagrou como mãe da pátria na Itália e é considerada a principal figura feminina na consolidação do modelo republicano no mundo.
@@ -65,7 +64,3 @@ Fonte: http://agenciaal.alesc.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Na manhã desta sexta-feira (26/6), os profissionais de saúde que atuam na linha frente do combate à pandemia de Covid-19 foram homenageados em um ato solene da Assembleia paulista, que ocorreu em ambiente virtual e contou com a participação de representantes de entidades de classe
 
 Durante o encontro, foram discutidas as condições de trabalho, carga horária e pressão emocional enfrentadas por médicos, enfermeiros, fisioterapeutas e outros trabalhadores da saúde que atuam com pacientes infectados pelo novo coronavírus. Normas de biossegurança, como disponibilidade de equipamentos de proteção, testes e protocolos sanitários também foram assuntos debatidos.
@@ -33,7 +32,7 @@ Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com inf
 
 Clique no link abaixo para assinar
 
-### [https://dunapress.org/subscription-plan/?aff=Vitor](https://dunapress.org/subscription-plan/?aff=Vitor)
+### [https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)
 
 Experimente por 7 Dias Gratuitos – Nossos Valores de Assinatura
 

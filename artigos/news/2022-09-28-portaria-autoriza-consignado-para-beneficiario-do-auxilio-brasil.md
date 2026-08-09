@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Limite máximo de juros cobrado será de 3,5% ao mês.
 
 Beneficiários do Auxílio Brasil já podem contratar, pagando juros de no máximo 3,5% ao mês, empréstimos consignados, dando como garantia o que receberão por meio do programa Auxílio Brasil. A contratação do crédito está prevista na [**Portaria nº 816 publicada**](http://https/www.in.gov.br/en/web/dou/-/portaria-mc-n-816-de-26-de-setembro-de-2022-432183292) no Diário Oficial da União desta terça-feira (27) pelo Ministério da Cidadania.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

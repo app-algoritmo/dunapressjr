@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 A escolaridade obrigatória na Noruega é de dez anos e as crianças começam a escola aos seis anos de idade. O ensino primário e o ensino secundário inferior na Noruega são baseados no princípio de um sistema escolar unificado que fornece educação igual e adaptada a todos com base em um currículo nacional único.
 
 A educação universal para crianças foi introduzida na Noruega há 250 anos. Desde 1889, foram concedidos sete anos de escolaridade obrigatória, 1969 foi aumentado para nove anos e, em 1997, para 10 anos.
@@ -28,7 +27,7 @@ Os currículos das disciplinas estabelecem um conteúdo de aprendizagem comum pa
 
 A cultura e as tradições da comunidade Sami fazem parte da cultura norueguesa e nórdica comum, que tanto o currículo nacional quanto o currículo especial do Sami exigem que todos os alunos estejam familiarizados. Em áreas definidas como distritos de Sami e de acordo com critérios específicos em outras partes da Noruega, esse ensino é dado de acordo com o currículo especial de Sami.
 
-Para os alunos Sami, este ensino visa criar uma sensação de segurança em relação à própria cultura dos alunos e desenvolver a linguagem e a identidade Sami, além de equipar os alunos Sami para participarem ativamente da comunidade e permitir que adquiram educação. em todos os níveis. O apoio do Estado é fornecido para o desenvolvimento de livros escritos na língua Sami. O Sami College tem uma responsabilidade especial pela formação de professores Sami. A Universidade de Tromsø é responsável pela língua Sami e pelos estudos Sami. 
+Para os alunos Sami, este ensino visa criar uma sensação de segurança em relação à própria cultura dos alunos e desenvolver a linguagem e a identidade Sami, além de equipar os alunos Sami para participarem ativamente da comunidade e permitir que adquiram educação. em todos os níveis. O apoio do Estado é fornecido para o desenvolvimento de livros escritos na língua Sami. O Sami College tem uma responsabilidade especial pela formação de professores Sami. A Universidade de Tromsø é responsável pela língua Sami e pelos estudos Sami.
 
 ## Creches para crianças em idade escolar
 
@@ -50,7 +49,7 @@ O FUG atua como um corpo de serviço e informações para contatos com pais, Com
 
 - [FUG](http://www.fug.no/forside.138180.en.html)
 
-A Direção Norueguesa de Educação e Treinamento  é a agência executiva do Ministério da Educação e Pesquisa.
+A Direção Norueguesa de Educação e Treinamento é a agência executiva do Ministério da Educação e Pesquisa.
 
 A Direcção Norueguesa de Educação e Formação é responsável pelo desenvolvimento do jardim de infância e do ensino primário e secundário. A Diretoria é a agência executiva do Ministério da Educação e Pesquisa.
 
@@ -81,10 +80,10 @@ O objetivo da Diretoria é garantir que todas as crianças, alunos e aprendizes 
 
 ## Contatos úteis
 
-A Direcção Norueguesa da Educação e Formação PO Box. 9359 Groenlândia, 0135 OSLO N - 0135 OSLO NORUEGA Telefone: + 47 23 30 12 00 Fax: + 47 23 30 12 99 E-mail:  [post@utdanningsdirektoratet.no](mailto:post@utdanningsdirektoratet.no)
+A Direcção Norueguesa da Educação e Formação PO Box. 9359 Groenlândia, 0135 OSLO N - 0135 OSLO NORUEGA Telefone: + 47 23 30 12 00 Fax: + 47 23 30 12 99 E-mail: [post@utdanningsdirektoratet.no](mailto:post@utdanningsdirektoratet.no)
 
-Para obter mais informações sobre o sistema norueguês de jardim de infância e educação, visite o site do  [Ministério da Educação e Pesquisa.](https://www.regjeringen.no/en/dep/kd/id586/)
+Para obter mais informações sobre o sistema norueguês de jardim de infância e educação, visite o site do [Ministério da Educação e Pesquisa.](https://www.regjeringen.no/en/dep/kd/id586/)
 
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!, clique e comece já!
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!
 
-https://dunapress.org/edu/[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+https://dunapress.org/edu/

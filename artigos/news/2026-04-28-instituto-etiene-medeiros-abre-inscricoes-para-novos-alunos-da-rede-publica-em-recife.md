@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Instituto Etiene Medeiros (IEM) está com as inscrições abertas para novos alunos. A partir do dia 3 de janeiro, jovens entre 7 e 17 anos podem se inscrever no [site da instituição](https://click.presskit.com.br/url/847194681f/6361388b6fc) para fazer parte do projeto. A inscrição acontecerá em duas etapas: a primeira com o preenchimento do formulário [on-line](https://click.presskit.com.br/url/847194681f/6361388b6fc) e a segunda será uma aula presencial de natação. As atividades estão marcadas para começar no dia 8 de fevereiro, no Centro Esportivo Santos Dumont, em Boa Viagem, na Zona Sul do Recife.
 
 A primeira fase da inscrição, entre os dias 3 e 21 de janeiro, será realizada por meio de um cadastro on-line no site do IEM. Para confirmar as informações solicitadas, o jovem precisa estar matriculado na rede pública do Estado e apresentar documento de identificação com foto, declaração escolar e declaração médica de condicionamento físico para o exercício da natação.
@@ -42,7 +41,3 @@ Release: **Redação **ZDL
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

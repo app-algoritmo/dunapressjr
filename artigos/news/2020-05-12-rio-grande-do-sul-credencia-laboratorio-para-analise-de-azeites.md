@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 É preciso focar no que o Brasil tem de bom.
 A região Sul, muito produtora, tem méritos e deve ser valorizada, bem como deve ser dado visibilidade para os aspectos econômicos que vem sendo desenvolvidos por muito tempo pelos brasileiros que lá vivem, igualmente a outras regiões.
 
@@ -28,4 +27,4 @@ Fonte: Agência Brasil -  Imagem de destaque:  IG
 
 **Entre no link abaixo e nos ajude a continuar o nosso trabalho com artigos, informações gerais e cursos para toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.**
 
-https://dunapress.org/subscription-plan/?ref=Leonardo
+https://dunapress.org/subscription-plan/

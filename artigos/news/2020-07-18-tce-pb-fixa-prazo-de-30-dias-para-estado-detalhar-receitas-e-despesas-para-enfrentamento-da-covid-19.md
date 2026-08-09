@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Decisão Singular DSPL TC 030/2020 foi assinada pelo conselheiro Fernando Catão.
 
 O Tribunal de Contas do Estado da Paraíba (TCE-PB) emitiu nesta quinta-feira (16) decisão singular fixando prazo de 30 dias para o governador João Azevedo divulgar informações específicas em relação aos gastos e receitas relacionadas ao combate aos efeitos da pandemia causada pela Covid-19, além de recomendar adoção de medidas quanto a solicitações anteriores feitas pelo Tribunal e ainda não atendidas.
@@ -31,6 +30,6 @@ Por fim, o TCE-PB recomenda ao governador, João Azevêdo, o atendimento às sol
 
 Os autos do processo 7158/20, incluindo decisões, relatórios e alertas, podem ser consultados por meio do TRAMITA - Sistema de Tramitação de Processos e Documentos do TCE-PB (consultar processo), com link de acesso no Portal Eletrônico do TCE-PB, em [www.tce.pb.gov.br](http://www.tce.pb.gov.br/). E Extrato de Decisão Singular foi publicado no Diário Eletrônico do TCE desta sexta-feira (17).
 
-Fonte: Tribunal de Contas do Estado da Paraíba 
+Fonte: Tribunal de Contas do Estado da Paraíba
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

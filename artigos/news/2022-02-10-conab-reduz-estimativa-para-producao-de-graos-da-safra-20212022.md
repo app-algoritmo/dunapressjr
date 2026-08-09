@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Produtores devem colher cerca de 268,2 milhões de toneladas de grão.
 
 Apesar das adversidades climáticas decorrentes do fenômeno La Niña, a Companhia Nacional de Abastecimento (Conab) estima que produção brasileira de grãos na safra 2021/2022 será 5% maior que a do período anterior (2020/2021).
@@ -18,7 +17,7 @@ Ainda melhor que o resultado da temporada 2020/2021, o total esperado representa
 
 Um dos principais produtos exportados pelo Brasil, a soja deve amargar uma queda de produtividade de cerca de 9% em comparação à safra passada. Segundo a Conab, 16,8% das lavouras dedicadas ao cultivo da oleaginosa já foram colhidas. E ainda que o plantio tenha ocorrido dentro da janela ideal, adversidades climáticas afetaram as principais regiões produtoras a partir de novembro, gerando uma expectativa de que a produção total nacional não ultrapasse 125,47 milhões de toneladas, enquanto as exportações do produto devem ficar na casa das 80 milhões de toneladas. No boletim anterior, a previsão era de que a produção da oleaginosa atingisse 140,50 milhões de toneladas e as exportações, 89,31 milhões de toneladas.
 
-Já em relação ao milho, a Conab acredita que a produção se recupere das dificuldades iniciais e que os produtores consigam colher 112,34 milhões de toneladas do grão - resultado 29% superior ao de 2020/21. O resultado da primeira safra deve permanecer em 24 milhões de toneladas, ficando muito próximo ao total colhido na temporada passada. Já para a segunda safra é esperado    aumento de 47% na colheita, podendo chegar a 86 milhões de toneladas. A maior produção e o real desvalorizado frente as principais moedas devem favorecer a exportação de cerca de 35 milhões de toneladas de milho.
+Já em relação ao milho, a Conab acredita que a produção se recupere das dificuldades iniciais e que os produtores consigam colher 112,34 milhões de toneladas do grão - resultado 29% superior ao de 2020/21. O resultado da primeira safra deve permanecer em 24 milhões de toneladas, ficando muito próximo ao total colhido na temporada passada. Já para a segunda safra é esperado aumento de 47% na colheita, podendo chegar a 86 milhões de toneladas. A maior produção e o real desvalorizado frente as principais moedas devem favorecer a exportação de cerca de 35 milhões de toneladas de milho.
 
 ## Área cultivada
 
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

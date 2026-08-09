@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No ano, o setor registra alta de 11% e, em 12meses, de 7%.
 
 A produção industrial recuou 1,3% em julho. É o segundo resultado negativo consecutivo, acumulando com o mês anterior perda de 1,5%, após alta de 1,2% em maio. Com a queda de julho, a produção industrial ficou 2,1% abaixo do patamar pré-pandemia, de fevereiro de 2020.
@@ -46,10 +45,6 @@ Na visão do gerente, em grande medida, essas taxas se devem à baixa base de co
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Até agosto, o IPCA registrou um crescimento no ano de 5,67%.
 
 O Instituto de Pesquisa Econômica Aplicada (Ipea) divulgou nesta tarde (30) sua nova análise de conjuntura sobre a economia brasileira. O documento aponta que a inflação brasileira está pressionada pela desvalorização cambial, pela alta dos preços internacionais das *commodities* e pela crise hídrica. Estima-se que o Índice Nacional de Preços ao Consumidor Amplo (IPCA) fechará o ano com alta de 8,3% e o Índice Nacional de Preço ao Consumidor (INPC) com alta de 8,6%.
@@ -40,10 +39,6 @@ O cenário fiscal brasileiro também foi avaliado e concluiu-se que há uma pers
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa fecha acima de 118 mil pontos pela primeira vez desde fevereiro.
 
 Num dia de otimismo no mercado financeiro, o dólar voltou a fechar abaixo de R$ 5,60 e atingiu o menor valor em mais de duas semanas. A bolsa de valores emendou a segunda alta consecutiva e encerrou acima dos 118 mil pontos pela primeira vez desde meados de fevereiro.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

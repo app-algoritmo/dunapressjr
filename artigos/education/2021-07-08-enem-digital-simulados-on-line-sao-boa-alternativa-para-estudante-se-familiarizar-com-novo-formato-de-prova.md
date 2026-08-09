@@ -8,7 +8,6 @@ categories:
 - Education
 ---
 
-
 ## *Edição digital do Enem 2021 acontece na mesma data do exame tradicional; estudantes que optarem pela versão on-line devem se preparar para não perderem tempo no dia da prova por falta de adaptação com a ferramenta*.
 
 O Exame Nacional do Ensino Médio (Enem) tem passado por uma série de mudanças e a versão digital é uma delas. Na prova on-line, o estudante resolve as questões em um computador – e não mais no caderno impresso, como na versão tradicional. A inovação tecnológica tem como objetivo trazer praticidade, economia e sustentabilidade, com a redução de papel e de custos de impressão dos cadernos de prova. A expectativa é que, até 2026, o Enem seja 100% on-line. O Inep, órgão responsável pela organização e aplicação das provas, já anunciou que em 2021 a edição digital do exame será realizada nos  mesmos dias da versão impressa, em 21 e 28 de novembro, e terá as mesmas questões e tema da redação.
@@ -34,7 +33,3 @@ Fonte: https: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

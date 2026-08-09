@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Após uma série de reuniões com setores envolvidos, lideradas pela governadora Daniela Reinehr, o Estado publicou neste final de semana duas portarias com objetivo de autorizar a retomada segura das atividades escolares presenciais no estado. A portaria nº 900, assinada em conjunto pelo secretário de Estado da Saúde, André Motta Ribeiro, e pelo secretário de Educação, Natalino Uggioni, e a portaria nº 901, da Secretaria de Estado da Saúde (SES), alteram as regulamentações anteriores previstas nas portarias nº 592 e nº 778.
 
 Com as novas normativas, as atividades escolares presenciais podem ser retomadas em todas as regiões catarinenses. Para tanto, devem ser respeitados todos os regramentos sanitários, incluindo as diretrizes previstas no Plano de Contingência Estadual para Educação (PlanCon), criadas com objetivo de garantir a retomada segura das atividades escolares.
@@ -30,7 +29,7 @@ O conteúdo da portaria nº 900 não se aplica às escolas da rede pública esta
 
 O secretário André Motta Ribeiro destacou que desde maio vem sendo debatidas as formas e protocolos seguros para o retorno das atividades. “Nos reunimos com os setores e com a secretaria de Estado da Educação e desde então evoluímos nestes protocolos e regramentos”, afirma. “O setor de Educação é um dos mais impactados pela pandemia e por isso precisa ser protegido. Infelizmente uma decisão da Justiça nos impediu de concretizarmos essa retomada, apesar de todas as regras definidas. Insistimos pois precisamos garantir às crianças esse direito. Elas precisam dessa oportunidade de retornar à escola”.
 
-O secretário de Estado da Educação, Natalino Uggioni, destaca que Santa Catarina tem os protocolos adequados para o retorno seguro das atividades nas escolas. “Os regramentos que a autoridade sanitária do Estado, que é a Secretaria de Estado da Saúde, emitiu levaram em consideração os cadernos de diretrizes que foram construídos no âmbito do comitê interinstitucional, coordenado pela Secretaria de Educação, garantem o atendimento das condições necessárias para a retomada segura das atividades presenciais". 
+O secretário de Estado da Educação, Natalino Uggioni, destaca que Santa Catarina tem os protocolos adequados para o retorno seguro das atividades nas escolas. “Os regramentos que a autoridade sanitária do Estado, que é a Secretaria de Estado da Saúde, emitiu levaram em consideração os cadernos de diretrizes que foram construídos no âmbito do comitê interinstitucional, coordenado pela Secretaria de Educação, garantem o atendimento das condições necessárias para a retomada segura das atividades presenciais".
 
 **Recurso**
 
@@ -50,7 +49,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

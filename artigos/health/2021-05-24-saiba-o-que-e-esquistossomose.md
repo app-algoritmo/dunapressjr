@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Conhecida como doença do caramujo, barriga d'água e xistose, a doença pode evoluir para formas graves e levar à morte.
 
 Conhecida como uma doença prevalente em áreas tropicais e subtropicais, a esquistossomose afeta milhões de pessoas em todo o mundo. Popularmente conhecida como barriga d'água, xistose ou doença do caramujo, a esquistossomose atinge principalmente comunidades carentes, sem acesso a água potável e sem o saneamento adequado. Se não for tratada adequadamente, a esquistossomose pode evoluir e provocar complicações graves, levando à morte.
@@ -53,7 +52,3 @@ Fonte: http://www.blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

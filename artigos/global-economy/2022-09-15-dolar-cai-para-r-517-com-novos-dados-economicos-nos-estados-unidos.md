@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Bolsa de valores recua 0,22%, pressionada por juros altos no Brasil.
 
 A divulgação de novos dados econômicos nos Estados Unidos ajudou a conter as perdas no mercado financeiro. O dólar teve leve queda, mas continua próximo de R$ 5,20. A bolsa de valores não conseguiu manter o fôlego e caiu pelo segundo dia consecutivo, pressionada pelos juros altos no Brasil e pelo recuo nos preços internacionais do minério de ferro.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

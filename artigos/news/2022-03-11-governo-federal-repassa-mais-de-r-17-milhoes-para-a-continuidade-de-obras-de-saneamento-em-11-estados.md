@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Recursos serão destinados a obras de abastecimento de água, esgotamento sanitário, saneamento integrado e manejo de águas pluviais.
 
 O Governo Federal, por meio do Ministério do Desenvolvimento Regional (MDR), vai repassar mais de R$ 17 milhões para a continuidade de obras de saneamento básico em 11 estados brasileiros. As intervenções ocorrerão no Ceará, Goiás, Maranhão, Minas Gerais, Mato Grosso, Rio Grande do Norte, Rondônia, Rio Grande do Sul, Santa Catarina, Sergipe e São Paulo. Ao todo, mais de 325 mil famílias serão beneficiadas.
@@ -59,8 +58,4 @@ Atualmente, a carteira de obras e projetos da Pasta no setor – contratos ativo
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

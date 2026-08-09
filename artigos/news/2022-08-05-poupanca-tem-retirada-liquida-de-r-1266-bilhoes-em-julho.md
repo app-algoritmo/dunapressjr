@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Volume de saques é o maior registrado para o mês.
 
 A aplicação financeira mais tradicional dos brasileiros continua a enfrentar a fuga de recursos. Em julho, os brasileiros sacaram R$ 12,66 bilhões a mais do que depositaram na caderneta de poupança, informou nesta quinta-feira (4) o Banco Central (BC). Essa foi a maior retirada líquida (saques menos depósitos) registrada para meses de julho desde o início da série histórica, em 1995.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

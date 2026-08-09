@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Data definitiva será escolhida após diálogos com entidades educacionais.
 
 A maioria dos inscritos no Enem 2020, que respondeu à enquete promovida pelo Ministério da Educação (MEC) e pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), optou pelo mês de maio, entre as três opções sugeridas para a realização do exame: Enem impresso: 2 e 9 de maio de 2021 / Enem Digital: 16 e 23 de maio de 2021. O resultado foi divulgado nesta quarta-feira, 1º de julho, pelo secretário-executivo do MEC, Antonio Paulo Vogel, e pelo presidente do Inep, Alexandre Lopes.
@@ -36,7 +35,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

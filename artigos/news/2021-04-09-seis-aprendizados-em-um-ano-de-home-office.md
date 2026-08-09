@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## Como empresas e especialistas avaliam o primeiro ano de trabalho em casa e o que levar em conta daqui para frente.
 
 A pandemia de Covid-19 demonstrou que o *home office* é tecnicamente viável e veio para ficar, seja em formato híbrido ou 100% remoto. Como o início do lockdown, em muitas partes do Brasil, se deu em meados do mês de março de 2020, muitas empresas completam agora um ano de erros, acertos e muita aprendizagem. Entre especialistas em gestão de pessoas e colaboradores de empresas de diversos tamanhos e setores, algumas práticas comuns chamam a atenção e servem de lição para o presente e o futuro.
 
 **Preocupação com cibersegurança**
 
-Há um ano com pelo menos 80% da equipe de administração em *home office*, a construtora A.Yoshii investiu pesado em cibersegurança, aprimorando o uso de ferramentas de colaboração e digitalização de processos, além de segurança da informação para o acesso remoto, com melhorias e upgrades em VPN, firewall, licenças e ferramentas para videoconferências em grupo. De acordo com o gerente de TI do Grupo A.Yoshii, Michael Vicentim, a migração do trabalho in loco para o *home office *acelerou a transformação digital nas empresas, trazendo a certeza de que a tecnologia garante a eficiência no trabalho à distância. A empresa, porém, parece exceção, pois, no Brasil, com o aumento de 70% do fluxo na internet (Kantar Consulting) e grande parte dos funcionários utilizando dispositivos pessoais após a mudança para o trabalho remoto, a exposição a ataques cibernéticos se multiplicou, deixando claro que há uma fragilidade no país em questões de cibersegurança. Entre fevereiro e abril de 2020, período que representa a implementação do *home office* nas empresas brasileiras, ataques direcionados a vulnerabilidades de acesso remoto aumentaram em mais de 300% no Brasil em relação aos meses anteriores. 
+Há um ano com pelo menos 80% da equipe de administração em *home office*, a construtora A.Yoshii investiu pesado em cibersegurança, aprimorando o uso de ferramentas de colaboração e digitalização de processos, além de segurança da informação para o acesso remoto, com melhorias e upgrades em VPN, firewall, licenças e ferramentas para videoconferências em grupo. De acordo com o gerente de TI do Grupo A.Yoshii, Michael Vicentim, a migração do trabalho in loco para o *home office *acelerou a transformação digital nas empresas, trazendo a certeza de que a tecnologia garante a eficiência no trabalho à distância. A empresa, porém, parece exceção, pois, no Brasil, com o aumento de 70% do fluxo na internet (Kantar Consulting) e grande parte dos funcionários utilizando dispositivos pessoais após a mudança para o trabalho remoto, a exposição a ataques cibernéticos se multiplicou, deixando claro que há uma fragilidade no país em questões de cibersegurança. Entre fevereiro e abril de 2020, período que representa a implementação do *home office* nas empresas brasileiras, ataques direcionados a vulnerabilidades de acesso remoto aumentaram em mais de 300% no Brasil em relação aos meses anteriores.
 
 **O meio ambiente agradece**
 
@@ -28,7 +27,7 @@ Já a Tecnobank, empresa paulista que transferiu 100% dos colaboradores do escri
 
 **Atenção à ergonomia**
 
-No consultório do ortopedista do Hospital Marcelino Champagnat, Francisco Zaniolo, na capital paranaense, as queixas de um em cada dez pacientes são relacionadas a dores na coluna provocadas pelo *home office* e pelas mudanças nos hábitos. Segundo o médico, móveis e equipamentos inadequados, a jornada aumentada de trabalho (atividades com os filhos, limpeza e tarefas de casa) e o sedentarismo estão aumentando a incidência de dores lombares e cervicais e, a longo prazo, podem gerar problemas ainda maiores, como tendinite, bursite, desgaste da cartilagem das articulações e artrose precoce na coluna, ombros, joelhos e cotovelos. Pensando nisso, a Jasmine disponibiliza aos colaboradores não apenas o Vale Home Office, como manuais de segurança em casa, orientações de forma de trabalho e cuidados com ergonomia. "Também oferecemos a possibilidade dos nossos colaboradores emprestarem as cadeiras ergonômicas que utilizam em nosso escritório pelo período necessário, até poderem organizar um ambiente em casa que seja seguro para eles", destaca Rodolfo Tornesi Lourenço, diretor de inovação e transformação da Jasmine Alimentos. 
+No consultório do ortopedista do Hospital Marcelino Champagnat, Francisco Zaniolo, na capital paranaense, as queixas de um em cada dez pacientes são relacionadas a dores na coluna provocadas pelo *home office* e pelas mudanças nos hábitos. Segundo o médico, móveis e equipamentos inadequados, a jornada aumentada de trabalho (atividades com os filhos, limpeza e tarefas de casa) e o sedentarismo estão aumentando a incidência de dores lombares e cervicais e, a longo prazo, podem gerar problemas ainda maiores, como tendinite, bursite, desgaste da cartilagem das articulações e artrose precoce na coluna, ombros, joelhos e cotovelos. Pensando nisso, a Jasmine disponibiliza aos colaboradores não apenas o Vale Home Office, como manuais de segurança em casa, orientações de forma de trabalho e cuidados com ergonomia. "Também oferecemos a possibilidade dos nossos colaboradores emprestarem as cadeiras ergonômicas que utilizam em nosso escritório pelo período necessário, até poderem organizar um ambiente em casa que seja seguro para eles", destaca Rodolfo Tornesi Lourenço, diretor de inovação e transformação da Jasmine Alimentos.
 
 **Colaboração e cooperação**
 
@@ -36,7 +35,7 @@ De acordo com a professora de Psicologia Organizacional e do Trabalho da Univers
 
 **Burnout**
 
-Cansaço excessivo, estresse, irritabilidade, dificuldade de concentração, lapsos de memória, ansiedade, depressão, agressividade. Esses são alguns dos sintomas que podem indicar que o profissional chegou ao seu limite, o Burnout. Um dos motivos que podem potencializar a sensação de exaustão é a falta de separação entre trabalho e a vida pessoal provocada pelo formato *home office*. Uma pesquisa da Microsoft revela que, para 33% das pessoas que estão trabalhando remotamente, a falta de separação entre trabalho e vida pessoal está impactando negativamente seu bem-estar. 
+Cansaço excessivo, estresse, irritabilidade, dificuldade de concentração, lapsos de memória, ansiedade, depressão, agressividade. Esses são alguns dos sintomas que podem indicar que o profissional chegou ao seu limite, o Burnout. Um dos motivos que podem potencializar a sensação de exaustão é a falta de separação entre trabalho e a vida pessoal provocada pelo formato *home office*. Uma pesquisa da Microsoft revela que, para 33% das pessoas que estão trabalhando remotamente, a falta de separação entre trabalho e vida pessoal está impactando negativamente seu bem-estar.
 
 Segundo a professora de Psicologia Organizacional e do Trabalho da Universidade Positivo, Carolina Walger, alguns cuidados podem ajudar na prevenção e controle do Burnout. “O ideal é separar o horário do trabalho do horário para o lazer, o tempo para interagir com a família, de cuidar da casa, e também um tempo de autocuidado", destaca. Além disso, ela também lembra que o estresse emocional por conta da própria pandemia, perda de familiares, crise econômica nacional - tudo isso influencia diretamente no estado emocional do trabalhador e contribui para o Burnout. "O estado emocional abalado faz com que o profissional perca concentração e produtividade e, para compensar, decide trabalhar mais tempo para dar conta do trabalho – o que acaba piorando ainda mais a saúde emocional e virando uma bola de neve", alerta a psicóloga.
 
@@ -52,7 +51,3 @@ Fonte: Central Press
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

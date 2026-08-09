@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Após um ano e dois meses no comando da pasta, o economista e professor da Universidade Federal de São Paulo ocupará o cargo de diretor do Banco Mundial, representando o Brasil.
 
 O Ministério da Educação (MEC) informa que Abraham Weintraub deixa o cargo nesta quinta-feira, 18 de junho. O anúncio foi feito por ele ao lado do presidente da República, Jair Bolsonaro, em vídeo gravado e divulgado nas redes sociais.
@@ -37,5 +36,3 @@ Agora, o então ministro seguirá para um novo desafio no Banco Mundial, onde at
 Fonte: gov.br/mec / Imagem em destaque: MEC
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

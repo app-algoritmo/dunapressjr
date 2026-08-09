@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Taxa é inferior ao 0,59% de junho e ao 0,78% de julho de 2021.
 
 O Índice Geral de Preços – Mercado (IGP-M), indicador usado no reajuste dos contratos de aluguéis no país, ficou em 0,21% em julho deste ano. A taxa é menor à registrada no mês passado (0,59%) e a de julho de 2021 (0,78%).
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

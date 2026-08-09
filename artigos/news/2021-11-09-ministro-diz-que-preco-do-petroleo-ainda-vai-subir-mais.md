@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bento Albuquerque aponta desvalorização do real como uma das causas.
 
 O ministro de Minas e Energia, Bento Albuquerque, disse nesta terça-feira (9) que o preço do petróleo deve subir mais com a chegada do inverno no Hemisfério Norte e o consequente aumento do consumo. Em audiência pública das comissões de Infraestrutura e temporária para discutir as causas da crise energética do Senado, ele justificou a alta de preços dos combustíveis em 2021. "Por que houve aumento? Principalmente pela alta do petróleo, 60% só em 2021, e com tendência, com a chegada do inverno no Hemisfério Norte, de subir um pouco mais", declarou Albuquerque.
@@ -40,14 +39,10 @@ Em resposta, Bento Albuquerque disse que o preço da energia aumentou no mundo t
 
 ## CAE
 
-Nesta terça-feira, outra comissão do Senado, a de Assuntos Econômicos, aprovou o [**convite para que Bento Albuquerque**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-11/presidente-da-petrobras-vai-ao-senado-explicar-preco-dos-combustiveis) fale sobre a atual política de preço dos combustíveis no colegiado. O ministro Paulo Guedes e o presidente da Petrobras, Joaquim Silva e Luna, também serão convidados. A audiência pública ainda não tem data marcada. 
+Nesta terça-feira, outra comissão do Senado, a de Assuntos Econômicos, aprovou o [**convite para que Bento Albuquerque**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-11/presidente-da-petrobras-vai-ao-senado-explicar-preco-dos-combustiveis) fale sobre a atual política de preço dos combustíveis no colegiado. O ministro Paulo Guedes e o presidente da Petrobras, Joaquim Silva e Luna, também serão convidados. A audiência pública ainda não tem data marcada.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

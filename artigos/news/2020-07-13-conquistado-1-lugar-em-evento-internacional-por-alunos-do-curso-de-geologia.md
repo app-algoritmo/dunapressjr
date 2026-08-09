@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Premiação aconteceu nesta segunda, 6, virtualmente.
 
 Alunos do curso de Geologia da Universidade Federal de Sergipe (UFS) conquistaram o 1° lugar no "Student Chapter Awards", na categoria melhor menor [com até 20 membros] capítulo estudantil. Em razão da pandemia de Covid-19, o evento aconteceu de forma virtual na última segunda-feira, 6 de julho. O prêmio em questão é fruto do relatório do período de julho de 2018 a junho 2019 submetido à Associação Americana de Geólogos de Petróleo (AAPG).
@@ -32,7 +31,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

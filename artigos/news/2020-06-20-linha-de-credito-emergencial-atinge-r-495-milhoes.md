@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Valor foi contratado até o dia 12 de junho, segundo relatório do Banco do Nordeste.
 
 A Linha de crédito emergencial do Fundo Constitucional de Financiamento do Nordeste (FNE) já disponibilizou R$ 495 milhões, segundo relatório do Banco do Nordeste. Os recursos fazem parte de uma linha especial do FNE para combater os efeitos da Covid-19 e são destinados às empresas localizadas nos estados da área de atuação da Superintendência do Desenvolvimento do Nordeste (Sudene).
@@ -22,4 +21,4 @@ A Sudene disponibiliza em seu site todas as informações relativas à linha eme
 
 Fonte:  Superintendência do Desenvolvimento do Nordeste
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

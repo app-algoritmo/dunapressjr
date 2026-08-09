@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro da Economia participou de evento virtual do Credit Suisse.
 
 O ministro da Economia, Paulo Guedes, afirmou hoje (9) que a queda da economia brasileira neste ano será ainda menor do que as previsões atuais de analistas. Ele disse que a atividade econômica está se recuperando mais rapidamente do que ele mesmo esperava.
@@ -23,5 +22,3 @@ O ministro defendeu as reformas “estruturais” propostas pelo governo como o 
 Fonte: Agência Brasil – Imagem de destaque: Tânia Rêgo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

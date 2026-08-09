@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Comissão de Meio Ambiente e Desenvolvimento Sustentável da Câmara dos Deputados rejeitou projeto de lei que determina que a venda de inseticidas e raticidas que possam provocar a morte de cães e gatos domésticos seja condicionada à identificação dos compradores, por meio de documento pessoal e comprovante do endereço residencial.
 
 O [Projeto de Lei 1920/21](https://www.camara.leg.br/noticias/801040-PROJETO-DETERMINA-IDENTIFICACAO-DE-COMPRADOR-DE-INSETICIDA-QUE-OFERECE-RISCO-A-ANIMAL-DOMESTICO) é do deputado [Fred Costa (Patriota-MG)](https://www.camara.leg.br/deputados/204494) e altera a [Lei de Vigilância Sanitária sobre Produtos Farmacêuticos](https://www2.camara.leg.br/legin/fed/lei/1970-1979/lei-6360-23-setembro-1976-357079-norma-pl.html). A intenção da proposta é coibir o envenenamento intencional de cães e gatos.
@@ -38,7 +37,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

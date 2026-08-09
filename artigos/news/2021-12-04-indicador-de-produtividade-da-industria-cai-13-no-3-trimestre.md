@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Produtividade está em queda desde o último trimestre de 2020.
 
 A produtividade do trabalho na indústria no terceiro trimestre de 2021 retornou ao patamar do segundo trimestre de 2020, momento mais grave da crise causada pela pandemia de covid-19. É o que mostra o estudo Produtividade na Indústria, da Confederação Nacional da Indústria (CNI), divulgado nesta sexta-feira (3).
@@ -26,10 +25,6 @@ Segundo a CNI, apesar do cenário desafiador para os próximos meses, a perspect
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

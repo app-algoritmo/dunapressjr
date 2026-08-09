@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## A molécula recém-descoberta pode facilitar o desenvolvimento de medicamentos para tratar e prevenir a propagação de doenças como a doença do sono e a Rosa de Jericó.
 
 O professor Shulamit Michaeli e uma equipe de cientistas identificaram uma molécula de RNA não codificante (ncRNA) que regula a tradução de proteínas em tripanossomas.
@@ -49,7 +48,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

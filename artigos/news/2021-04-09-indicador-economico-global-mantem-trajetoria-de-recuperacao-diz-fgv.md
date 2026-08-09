@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Fato reflete avanço das campanhas de vacinação contra a covid-19.
 
 Os Barômetros Globais da Economia sobem de forma expressiva pelo segundo mês seguido em abril, refletindo o avanço das campanhas de vacinação contra a covid-19 em diversos países e as perspectivas de aceleração do nível de atividade global nos próximos meses. A análise é do Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV) divulgada hoje (9).
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

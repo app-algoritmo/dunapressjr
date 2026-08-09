@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## População terá acesso à Carteira de Identidade digital pelo GOV.BR, a plataforma de serviços e relacionamento do cidadão com o governo federal.
 
 O presidente da República, Jair Bolsonaro, assinou nesta quarta-feira (23) decreto que institui um número único de RG para todo o país: o número do Cadastro Pessoa Física (CPF). A validade é nacional e os institutos de identificação têm até 6 de março de 2023 para se adequarem à mudança. A emissão gratuita das Carteiras de Identidade permanecerá sob responsabilidade das Secretarias de Segurança Pública de cada Unidade Federativa (UF) que, ao receber o pedido do cidadão, validará a identificação pela plataforma do governo federal *–* o GOV.BR. No momento em que receberem o documento em papel ou policarbonato (plástico), as pessoas poderão acessá-lo também pelo aplicativo GOV.BR.
@@ -40,8 +39,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

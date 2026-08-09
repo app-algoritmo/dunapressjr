@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Retomada da economia e esforços de ajuste fiscal reduziram estimativa.
 
 A insuficiência de recursos para cumprir a regra de ouro – espécie de teto para a emissão de títulos da dívida pública – caiu de R$ 164 bilhões para R$ 93,9 bilhões. A nova estimativa consta de ofício enviado nesta quarta-feira (20) pelo Ministério da Economia ao Congresso Nacional.
@@ -26,14 +25,10 @@ Os gastos que ainda dependem de aprovação da maioria absoluta do Congresso par
 
 Instituída pelo Artigo 167 da Constituição, a regra de ouro estabelece que o governo só pode emitir dívida pública para rolar (renovar) a própria dívida ou para cobrir despesas de capital, como investimentos em obras públicas e amortizações. Para cobrir gastos correntes, como os citados anteriormente, o governo precisa pedir autorização do Congresso.
 
-Desde 2018, o governo tem estourado a regra de ouro e pedido, todos os anos, autorização ao Congresso para financiar gastos correntes com endividamento público. Por meio dos títulos da dívida pública, o governo pega dinheiro emprestado dos investidores para honrar compromissos. Em troca, compromete-se a devolver os recursos daqui a alguns anos com alguma correção, que pode seguir a taxa Selic (juros básicos da economia), a inflação, o câmbio ou, no caso de títulos prefixados, ser definida com antecedência, no momento da emissão. 
+Desde 2018, o governo tem estourado a regra de ouro e pedido, todos os anos, autorização ao Congresso para financiar gastos correntes com endividamento público. Por meio dos títulos da dívida pública, o governo pega dinheiro emprestado dos investidores para honrar compromissos. Em troca, compromete-se a devolver os recursos daqui a alguns anos com alguma correção, que pode seguir a taxa Selic (juros básicos da economia), a inflação, o câmbio ou, no caso de títulos prefixados, ser definida com antecedência, no momento da emissão.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

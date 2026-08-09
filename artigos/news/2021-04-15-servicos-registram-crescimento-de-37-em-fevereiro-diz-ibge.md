@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O indicador acumula ganhos de 24% em nove meses.
 
 O volume de serviços no país teve alta de 3,7% na passagem de janeiro para fevereiro deste ano. Essa foi a nona taxa de crescimento consecutiva do indicador, que acumula ganhos de 24% nesse período de nove meses. O setor também superou, pela primeira vez, o período pré-pandemia, ficando 0,9%, acima do patamar de fevereiro de 2020, na série com ajuste sazonal. O dado foi divulgado hoje (15) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

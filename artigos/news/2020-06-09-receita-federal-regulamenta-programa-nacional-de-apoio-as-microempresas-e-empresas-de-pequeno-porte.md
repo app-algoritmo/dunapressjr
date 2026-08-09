@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Pronampe beneficiará cerca de 4,5 milhões de pequenos negócios frente à crise causada pela Covid-19.
 
 A Receita Federal iniciará envio de comunicado às Microempresas (ME) e Empresas de Pequeno Porte (EPP), com a informação do valor da receita bruta, com base nas declarações desses contribuintes ao fisco, para viabilizar a análise à linha de crédito do Pronampe, junto às instituições financeiras.
@@ -41,5 +40,3 @@ Veja abaixo a portaria 978/2020:
 Veja o e-book "perguntas e respostas" sobre o Pronampe, produzido pela RFB:
 
 Fonte: Receita Federal – imagem de destaque: Marcelo Camargo/Agência Brasil
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

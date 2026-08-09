@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Presidente fez críticas ao trabalho da organização na pandemia.
 
 O presidente Jair Bolsonaro fez críticas ao trabalho da Organização Mundial da Saúde (OMS) na pandemia e disse que o governo pode deixar a organização, que atuaria, segundo ele, "com viés ideológico". No fim de maio, o [**presidente dos Estados Unidos, Donald Trump**](https://agenciabrasil.ebc.com.br/internacional/noticia/2020-05/trump-anuncia-rompimento-dos-estados-unidos-com-oms), anunciou a saída do país da OMS, congelando repasses que o governo norte-americano faria à entidade.
@@ -33,5 +32,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

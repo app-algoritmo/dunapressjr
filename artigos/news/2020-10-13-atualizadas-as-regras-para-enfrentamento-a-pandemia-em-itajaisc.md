@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí, por meio do Decreto nº **12.030/2020**, informa que entram em vigor nesta quinta-feira (08) novo regramento para enfrentamento à pandemia de COVID-19. O documento leva em consideração os dados da Matriz de Risco Potencial de coronavírus, divulgados pelo Governo do Estado, que colocam a região de Itajaí em risco GRAVE.
 
 Com o Decreto, Itajaí passará adotar todas as normas estaduais referentes ao enfrentamento da emergência de saúde pública. Neste caso, valem as regras aplicáveis a Matriz de Risco Grave (cor laranja).
@@ -48,5 +47,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

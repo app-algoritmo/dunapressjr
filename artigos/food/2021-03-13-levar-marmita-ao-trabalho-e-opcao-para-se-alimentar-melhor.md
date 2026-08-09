@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 Correria do dia-a-dia e muito trabalho não são desculpas para nos rendermos aos alimentos prontos! Mesmo com uma infinidade de atrativos como os fast foods e a grande oferta de alimentos que prometem preparo fácil e rápido, é possível optar por alimentos de verdade, nutritivos e igualmente fáceis de encontrar e preparar.
 
 Uma boa opção para fugir dessas tentações, economizar e se alimentar melhor são as marmitas. Mas não basta apenas cozinhar e guardar, é preciso planejar a semana e saber aproveitar os alimentos, conseguindo assim até prevenir algumas doenças.
@@ -52,7 +51,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

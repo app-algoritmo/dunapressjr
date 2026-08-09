@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Oportunidades são em cursos de Matemática, Português e Tecnologias da Informação e Comunicação; inscrições vão até 24 de julho.
 
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) oferece 75 mil vagas para os cursos de capacitação a distância em Português, Matemática e Tecnologias da Informação e Comunicação (TICs). O prazo para inscrições, que se encerrariam na sexta-feira, 26, foi prorrogado para o dia 24 de julho. São 25 mil vagas por curso.
@@ -36,7 +35,7 @@ Fonte: gov.br / Imagem em destaque: pronatec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O documento facilita o preenchimento da declaração de 2021.
 
 A Receita Federal a partir desta terça-feira (9), passou a oferecer uma nova forma de obter a cópia da última Declaração do Imposto sobre a Renda Pessoa Física (DIRPF). O documento facilita o preenchimento da declaração de 2021 e pode ser acessado por meio de Dossiê Digital de Atendimento (Processo Digital), no [**Centro Virtual de Atendimento (e-CAC)**](https://www.gov.br/receitafederal/pt-br/canais_atendimento/atendimento-virtual) da Receita.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

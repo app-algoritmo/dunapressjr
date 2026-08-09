@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 Um estudo feito por Matheus Anselmo Medeiros e Meline Gomes Gonçalves, mestres em Bioquímica e Biologia Molecular da Universidade Federal do Rio Grande do Norte (UFRN), avaliou os efeitos da suplementação da creatina como terapia auxiliar no tratamento de pessoas com diabetes* mellitus*, tipo 1.
 
 A diabetes *mellitus* é uma doença metabólica crônica. Ela impede o organismo de produzir quantidade suficiente de insulina, fazendo com que os níveis de açúcar no sangue - a glicose -  fiquem elevados. A creatina é um tipo de suplementação, bastante utilizada por atletas para aumentar a produção de energia, força e obter ganho de massa muscular.
@@ -30,7 +29,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

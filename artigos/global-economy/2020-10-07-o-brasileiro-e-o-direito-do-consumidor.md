@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 O Código de Defesa do Consumidor foi criado em 1990 e constitui um conjunto de normas que visa proteger o consumidor e estabelecer padrões de conduta entre os fornecedores (fabricantes de produtos ou prestadores de serviços) e o consumidor final.
 
 A estabilidade econômica adquirida pelos brasileiros nos últimos anos e o aumento significativo do poder de consumo contribuiu juntamente com o código para uma mudança de comportamento ao longo desses 23 anos. Essa mudança pode ser observada no dia-a-dia do consumidor, como na data de validade dos produtos vendidos no supermercado, bem como em um maior controle publicitário das informações equivocadas, o que não era observado há vinte anos.
@@ -45,5 +44,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

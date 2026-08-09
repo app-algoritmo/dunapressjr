@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Programa Nacional de Incentivo ao Voluntariado (Pátria Voluntária) realizou, no dia 30 de junho, entrega de doações de mantas e chinelos arrecadados na Esplanada dos Ministérios, em Brasília (DF), para beneficiar pessoas em situação de rua. A iniciativa partiu da presidente do Conselho do Programa, Michelle Bolsonaro, a partir de um pedido da ONG Mãos Solidárias, que precisava de ajuda para atender cerca de 200 homens que hoje estão abrigados no Alojamento Provisório da Ceilândia, a cerca de 30km na capital. 
+Programa Nacional de Incentivo ao Voluntariado (Pátria Voluntária) realizou, no dia 30 de junho, entrega de doações de mantas e chinelos arrecadados na Esplanada dos Ministérios, em Brasília (DF), para beneficiar pessoas em situação de rua. A iniciativa partiu da presidente do Conselho do Programa, Michelle Bolsonaro, a partir de um pedido da ONG Mãos Solidárias, que precisava de ajuda para atender cerca de 200 homens que hoje estão abrigados no Alojamento Provisório da Ceilândia, a cerca de 30km na capital.
 
 Parte do que foi doado foi arrecadado com a ajuda de parceiros que se disponibilizaram a fazer a arrecadação. Várias peças foram deixadas no Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) – um dos pontos de coleta da ação. O material foi entregue à primeira-dama, em um encontro com a ministra Damares Alves.
 
@@ -30,4 +29,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

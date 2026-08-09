@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O que é a pesquisa?
 
 Cientistas do Laboratório Nacional de Metrologia das Radiações Ionizantes do Instituto de Radioproteção e Dosimetria (LNMRI/IRD) estão desenvolvendo um trabalho em metrologia da radiação (isto é, na medição das radiações liberadas por aparelhos emissores de Raios X para uso médico).
@@ -52,7 +51,3 @@ Fonte:  https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

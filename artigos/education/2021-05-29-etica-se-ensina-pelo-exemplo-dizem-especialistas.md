@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 O que é ética e o que é ser ético? Qualquer professor que fizer essas perguntas durante uma aula receberá respostas variadas, dependendo da idade dos estudantes, do conhecimento teórico deles sobre o assunto e do contexto ao qual eles pertencem. Nenhum conceito teórico, no entanto, seria capaz de ensinar a esses estudantes como ser uma pessoa ética na vida cotidiana. Isso só pode ser feito usando uma das armas mais importantes da Educação: o exemplo.
 
 De acordo com o coordenador do Paideuma, o Grupo de Estudos Clássicos da Faculdade de Educação da USP, Marcos Euzébio, todas as pessoas estão ensinando ética a todo momento. “Um professor que chega e não cumprimenta ninguém, por exemplo, ensina algo a seus alunos, que talvez passem a considerar desnecessário cumprimentar uns aos outros. O ensino de ética nas escolas está diretamente conectado à postura dos professores”, afirma. Para ele, a ética está até mesmo na relação que cada educador mantém com a disciplina que leciona. “Quando um professor se relaciona de maneira forte e apaixonada com sua área do conhecimento, é um poderoso exemplo ético”, avalia.
@@ -33,7 +32,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

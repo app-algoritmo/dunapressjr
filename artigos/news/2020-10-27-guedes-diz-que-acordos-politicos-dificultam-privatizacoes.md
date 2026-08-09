@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para ministro, divergências em relação à vacina são naturais.
 
 Acordos políticos dificultam as privatizações, disse nesta segunda-feira (26) à noite o ministro da Economia, Paulo Guedes. Em evento promovido pela Academia Brasileira de Direito Constitucional, ele declarou que o presidente Jair Bolsonaro tem cobrado privatizações de empresas estatais, mas que a “engrenagem” dificulta os avanços nessa pauta.
@@ -29,5 +28,3 @@ No evento, intitulado Um Dia pela Democracia, o ministro disse não acreditar qu
 Fonte: Agência Brasil – Imagem de destaque: Allan Santos/PR
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

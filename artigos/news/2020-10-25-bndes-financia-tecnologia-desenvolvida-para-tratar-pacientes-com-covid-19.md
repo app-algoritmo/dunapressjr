@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Um tratamento inovador na área da saúde para ajudar nos casos mais graves de Covid-19. É uma espécie de pulmão artificial, capaz de remover o sangue das veias, bombeá-lo até um oxigenador e depois devolvê-lo ao corpo.
 
 Essa nova tecnologia recebeu registro da Agência Nacional de Vigilância Sanitária (Anvisa) para comercialização e, agora, será fabricada em maior escala para ser destinada a instituições privadas de saúde e também ao Sistema Único de Saúde (SUS).
@@ -35,5 +34,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

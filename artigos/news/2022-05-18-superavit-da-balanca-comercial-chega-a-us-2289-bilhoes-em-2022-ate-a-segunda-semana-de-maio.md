@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Corrente de comércio atinge US$ 208,14 bilhões, com US$ 115,52 bilhões de exportações e US$ 92,62 bilhões em importações; no mês, saldo positivo é de US$ 2,71 bilhões.
 
 A balança comercial brasileira fechou a segunda semana de maio com superávit de US$ 22,89 bilhões no acumulado do ano, com recuo de 3,5% sobre o período de janeiro a maio de 2021, pela média diária. A corrente de comércio registrou aumento: subiu 23,3% no mesmo período, atingindo US$ 208,14 bilhões. Isso foi reflexo do crescimento de 20% das exportações, que somaram US$ 115,52 bilhões, e do aumento de 27,6% das importações, que totalizaram US$ 92,62 bilhões. Os dados foram divulgados na segunda-feira (16) pela Secretaria de Comércio Exterior (Secex) do Ministério da Economia.
@@ -41,8 +40,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

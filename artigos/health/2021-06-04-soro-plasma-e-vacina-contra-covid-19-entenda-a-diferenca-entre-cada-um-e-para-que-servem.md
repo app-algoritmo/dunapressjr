@@ -8,8 +8,7 @@ categories:
 - Health
 ---
 
-
-O corpo humano está sempre sujeito a invasões de micro-organismos e, para se defender, dispõe de um sistema imunológico para eliminar os invasores. O soro contra a Covid-19, o plasma convalescente e a vacina são formas de proteção contra a doença no organismo. Porém, eles têm funções diferentes e agem de maneiras distintas. O objetivo principal dos três é minimizar os danos que um agente estranho, neste caso o novo coronavírus, possa causar ao corpo. 
+O corpo humano está sempre sujeito a invasões de micro-organismos e, para se defender, dispõe de um sistema imunológico para eliminar os invasores. O soro contra a Covid-19, o plasma convalescente e a vacina são formas de proteção contra a doença no organismo. Porém, eles têm funções diferentes e agem de maneiras distintas. O objetivo principal dos três é minimizar os danos que um agente estranho, neste caso o novo coronavírus, possa causar ao corpo.
 
 A vacina prepara o organismo para responder quando houver uma infecção. "Você espera que a pessoa que recebeu o imunizante tenha a chamada imunidade celular, que é uma memória. Quando ela tiver contato com o vírus, vai formar uma grande quantidade de anticorpos", diz a pesquisadora e diretora do Centro de Desenvolvimento e Inovação do Butantan, Ana Marisa Chudzinski.
 
@@ -49,7 +48,7 @@ O plasma convalescente, também um tratamento, tem uma finalidade parecida com a
 
 ## **Diferenças entre soro e plasma convalescente**
 
-"O soro é um concentrado purificado de anticorpos contra um determinado agente, no caso da Covid-19 contra o vírus SARS Cov-2. É um produto no qual se conhece o teor e a potência dos anticorpos que serão administrados ao paciente. É um produto controlado pela garantia de qualidade submetido a todos os testes clínicos e de segurança", explica Ana Marisa. 
+"O soro é um concentrado purificado de anticorpos contra um determinado agente, no caso da Covid-19 contra o vírus SARS Cov-2. É um produto no qual se conhece o teor e a potência dos anticorpos que serão administrados ao paciente. É um produto controlado pela garantia de qualidade submetido a todos os testes clínicos e de segurança", explica Ana Marisa.
 
 Este produto não depende de pessoas curadas e nem de doadores, mas deriva de um antígeno padronizado (vírus) que é utilizado para imunizar um grupo de cavalos e necessita de uma fábrica que trabalha em condições de Boas Práticas de Fabricação,  para produzi-lo. Com o plasma é um pouco diferente, porque cada um de nós responde de uma forma à invasão de um vírus no organismo, portanto a quantidade de anticorpos não será sempre a mesma em cada indivíduo. Por não ser um produto, ele não depende de autorização e realização de testes clínicos. "É uma forma rápida de ajudar na pandemia", diz a pesquisadora.
 
@@ -64,7 +63,3 @@ Fonte: https://butantan.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

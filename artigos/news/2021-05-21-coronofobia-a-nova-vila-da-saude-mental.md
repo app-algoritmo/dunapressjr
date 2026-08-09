@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O coronavírus continua trazendo muitos problemas nesses 17 meses de pandemia - o número de mortes por conta do vírus, juntamente com o medo da população mundial, continua crescendo. Essa aflição, quando excessiva, ganha um novo nome: coronofobia.
 
 Sintomas de ansiedade e medo de contrair o vírus da Covid-19 têm feito com que pessoas se sintam inseguras em todo e qualquer lugar. Um estudo feito pela National Library of Medicine analisou 500 casos de ansiedade e depressão e certificou que todos estavam ligados à crise da Covid-19. O termo “coronofobia” foi criado no final de 2020 e traduz uma ansiedade grave diante do vírus e da pandemia, tanto em contraí-lo, quanto em disseminá-lo.
@@ -25,7 +24,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

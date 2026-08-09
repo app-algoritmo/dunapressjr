@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Afirmação é do ministro Guedes, em posse de novo presidente da CVM.
 
 O ministro da Economia, Paulo Guedes, afirmou nesta segunda-feira (18) que tão logo o Congresso Nacional retome as atividades, após o recesso, o governo vai procurar aprovar medidas de apoio ao mercado de capitais. Guedes participou da solenidade de posse do novo presidente da Comissão de Valores Mobiliários (CVM), o advogado e professor João Pedro Barroso do Nascimento, no Rio de Janeiro.
@@ -18,7 +17,7 @@ Na avaliação do ministro, o mercado de capitais nacional vai receber muitos in
 
 ### Ciclo de crescimento
 
-Para o ministro, o Brasil está entrando em um ciclo de expansão. Ele destacou que apesar da desaceleração cíclica da atividade econômica feita pela política monetária (aumentos da taxa básica de juros, a Selic), o resultado ainda é positivo. Lembrou que o Brasil já retirou os estímulos fiscais e monetários, adotado devido aos impactos da pandemia de covid-19 na economia,  e o mundo está começando esse processo.
+Para o ministro, o Brasil está entrando em um ciclo de expansão. Ele destacou que apesar da desaceleração cíclica da atividade econômica feita pela política monetária (aumentos da taxa básica de juros, a Selic), o resultado ainda é positivo. Lembrou que o Brasil já retirou os estímulos fiscais e monetários, adotado devido aos impactos da pandemia de covid-19 na economia, e o mundo está começando esse processo.
 
 Segundo o ministro, nos últimos três anos, o Brasil enfrentou vários desafios, que se iniciaram com o desastre ambiental de Brumadinho, depois a pandemia de covid-19, a crise hídrica e, atualmente, a guerra entre Rússia e Ucrânia.
 
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

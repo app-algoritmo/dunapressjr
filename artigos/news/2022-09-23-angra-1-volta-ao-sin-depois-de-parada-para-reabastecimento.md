@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Desligada em agosto, usina deve alcançar 100% de potência no domingo.
 
 A usina nuclear Angra 1 foi conectada ao Sistema Interligado Nacional (SIN) às 5h17 desta quinta-feira (22), após a realização de uma parada programada de reabastecimento de combustível. A informação foi dada pela Eletronuclear, empresa responsável pela operação e construção das usinas termonucleares no Brasil.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

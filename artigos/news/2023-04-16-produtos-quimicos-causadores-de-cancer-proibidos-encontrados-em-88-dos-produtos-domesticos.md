@@ -8,14 +8,13 @@ categories:
 - News
 ---
 
-
 ## Pesquisadores encontraram parafinas cloradas de cadeia curta, ou SCCPs - um grupo de produtos químicos cancerígenos usados ​​na metalurgia e na produção de PVC, plásticos, borrachas e outros materiais - em uma ampla gama de produtos domésticos, de acordo com um estudo publicado na terça-feira na revista Environmental Ciência: Processos e Impactos.
 
 Produtos químicos proibidos que potencialmente causam câncer em humanos foram descobertos em uma ampla gama de produtos domésticos, de acordo com um estudo publicado na terça-feira na revista [Environmental Science: Processes & Impacts](https://pubs.rsc.org/en/content/articlelanding/2023/EM/D2EM00494A) .
 
 As parafinas cloradas de cadeia curta (SCCPs) são um grupo de produtos químicos usados ​​na metalurgia e na produção de PVC, plásticos, borrachas e outros materiais.
 
-Eles são produtos químicos persistentes, o que significa que não se degradam no meio ambiente e se acumulam nos animais. Parafinas cloradas foram detectadas em vários animais selvagens e no leite e [sangue ](https://childrenshealthdefense.org/defender/toxic-pfas-chemicals-blood-ehn/)[humanos](https://childrenshealthdefense.org/defender/toxic-pfas-chemicals-found-in-breast-milk-samples/) .[](https://childrenshealthdefense.org/defender/toxic-pfas-chemicals-blood-ehn/)
+Eles são produtos químicos persistentes, o que significa que não se degradam no meio ambiente e se acumulam nos animais. Parafinas cloradas foram detectadas em vários animais selvagens e no leite e [sangue ](https://childrenshealthdefense.org/defender/toxic-pfas-chemicals-blood-ehn/)[humanos](https://childrenshealthdefense.org/defender/toxic-pfas-chemicals-found-in-breast-milk-samples/) .
 
 O novo estudo mostra que os SCCPs ainda estão amplamente presentes em produtos domésticos, apesar das proibições dos produtos químicos, indicando a necessidade de mais ações regulatórias. Os pesquisadores encontraram SCCPs em 84 dos 96 utensílios domésticos testados no Canadá.
 

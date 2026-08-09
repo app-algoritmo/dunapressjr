@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## PL./0161.6/2021. Altera a Lei nº 12.854, de 2003, que "Institui o Código Estadual de Proteção aos Animais", para incluir a responsabilização de custeio do tratamento e da recuperação da saúde dos animais, decorrentes de atropelamento ou de quaisquer ação ou omissão que cause danos ao bem-estar animal.
 
 Quem atropelar ou provocar qualquer ação ou omissão que cause danos ao bem-estar de algum animal, deve ser responsabilizado pelo custeio do tratamento.
@@ -36,7 +35,3 @@ Fonte: https://www.instagram.com/marciusmachado/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

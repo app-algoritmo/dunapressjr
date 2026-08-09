@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 São Paulo/SP - Força tarefa contra o tráfico de pessoas, composta pela Polícia Federal, pelos auditores fiscais do Trabalho do Grupo Especial de Fiscalização Móvel (GEFM) da Secretaria Especial de Previdência e Trabalho do Ministério da Economia, pelo Ministério Público Federal (MPF), pelo Ministério Público do Trabalho (MPT), e pela Secretaria de Justiça e Cidadania do Estado de São Paulo, atuou coordenadamente para o êxito da operação.
 
 Duas irmãs bolivianas, de 22 e 19 anos, foram resgatadas em ação contra o trabalho análogo ao de escravo iniciada em 20 de maio em São Paulo (SP). Elas entraram de forma irregular no país e trabalhavam em uma oficina de costura que confeccionava peças de vestuário para uma loja de varejo localizada no bairro do Brás, na capital paulistana.
@@ -27,5 +26,3 @@ Neste dia, a fronteira entre os dois países foi fechada por conta da pandemia d
 Resgatadas, as jovens migrantes se encontram acolhidas em local seguro. Embora tenham direito a solicitar residência permanente no Brasil, uma vez que foram submetidas ao trabalho escravo e ao tráfico de pessoas, conforme dispõe a Lei nº 13.445/2017 (Lei de Migração), as trabalhadoras aguardam somente a finalização dos trâmites burocráticos necessários para seu retorno à Bolívia.
 
 **Comunicação Social da Polícia Federal em São Paulo**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

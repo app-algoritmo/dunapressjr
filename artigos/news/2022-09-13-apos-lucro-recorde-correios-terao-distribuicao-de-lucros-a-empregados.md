@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Presidente da empresa falou sobre novo acordo coletivo.
 
 O presidente dos Correios, Floriano Peixoto, falou nesta segunda-feira (12), em entrevista ao programa *A Voz do Brasil*, sobre a negociação salarial aprovada pela empresa e que já está em vigor.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

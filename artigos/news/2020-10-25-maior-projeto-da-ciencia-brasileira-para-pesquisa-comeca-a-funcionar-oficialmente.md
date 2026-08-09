@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Batizada com o nome Manacá, foi lançada oficialmente, nesta quarta-feira (21), em Campinas (SP), a primeira linha de Luz Sirius, do Ministério da Ciência, Tecnologia e Inovações, que vai ajudar no desenvolvimento de pesquisas. O Presidente Jair Bolsonaro participou da cerimônia de lançamento e, antes, visitou as instalações onde o projeto será desenvolvido.
 
 “Aqui, realmente podemos buscar a independência da nossa nação”, disse o Presidente Bolsonaro. O Sirius é um acelerador de última geração que promete ajudar no desenvolvimento de pesquisas em várias áreas, desde a física básica até a ciência médica. É considerado uma das fontes de luz síncrotron mais avançadas do mundo, um enorme microscópio.
@@ -29,5 +28,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

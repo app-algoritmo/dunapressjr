@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Para resolver o problema de abastecimento de água em Chapecó e municípios vizinhos, especialmente em períodos de estiagem, o governador Carlos Moisés entregou, por intermédio da Casan, a ordem de serviço que autoriza o início da construção da macroadutora do Rio Chapecozinho. O investimento total na obra será de R$ 195,7 milhões, com recursos do Estado. É a maior obra de sistema de abastecimento de água em Santa Catarina. O ato ocorreu em Chapecó na tarde desta quinta-feira, 3, quando ainda foram anunciados investimentos para Infraestrutura, Saúde e Segurança Pública.
 
 "É um investimento grandioso, que vai atender a região e olhar para as futuras gerações, para a saúde das pessoas. Essa obra dará qualidade de vida aos moradores. Sempre ouvimos que o Oeste estava esquecido, mas não será assim. E esse é o nosso propósito aqui neste dia”, ressaltou o governador
@@ -29,7 +28,7 @@ O prefeito de Chapecó, Luciano Buligon, agradeceu o início das obras e disse n
 
 A Casan vem trabalhando no projeto desde o início da década, quando contratou empresa especializada para avaliar as melhores alternativas de captação, transporte, tratamento e distribuição de água. Para dar suporte técnico ao empreendimento, um estudo de concepção avaliou variáveis, nas quais a distância e o desnível dos mananciais foram determinantes na comparação de custos de implantação e operação, definindo a melhor alternativa entre os rios Uruguai, Irani, Chapecó e Chapecozinho.
 
-Rio Chapecozinho onde ocorrerá a captação 
+Rio Chapecozinho onde ocorrerá a captação
 
 Após a definição do projeto executivo de engenharia e as licenças ambientais necessárias, quatro terrenos foram adquiridos na região para a instalação das unidades necessárias, em negociações que envolveram aproximadamente R$ 1 milhão.
 
@@ -55,7 +54,7 @@ Outro ato, foi a assinatura da ordem de serviço para a elaboração do projeto 
 
 Outro importante anúncio feito pelo governador Carlos Moisés foi a construção do prédio para abrigar o Serviços de Verificação de Óbito (SVO) para Macrorregião de Chapecó. Um serviço estruturado para aperfeiçoar a qualidade da informação sobre mortalidade, colaborando assim no aprimoramento da construção e implantação de políticas públicas de saúde.
 
-O valor inicial para a construção do SVO é de R$ 1 milhão com total de repasse podendo chegar a R$ 4,5 milhões, incluindo equipamentos e materiais. O Estudo de Viabilidade Técnica do Ministério da Saúde para Chapecó sugeriu a implantação do SVO na Rua Heitor Vila Lobos Lote 5. A prefeitura doou o terreno. 
+O valor inicial para a construção do SVO é de R$ 1 milhão com total de repasse podendo chegar a R$ 4,5 milhões, incluindo equipamentos e materiais. O Estudo de Viabilidade Técnica do Ministério da Saúde para Chapecó sugeriu a implantação do SVO na Rua Heitor Vila Lobos Lote 5. A prefeitura doou o terreno.
 
 Após a construção, o SVO deverá ser habilitado junto ao Ministério da Saúde para receber recursos financeiros para custeio. Santa Catarina tem atualmente dois Serviços de Verificação de Óbito habilitados pelo Ministério da Saúde, um em Florianópolis e outro em Joinville.
 
@@ -77,7 +76,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

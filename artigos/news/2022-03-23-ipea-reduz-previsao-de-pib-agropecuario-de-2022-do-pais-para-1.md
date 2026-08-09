@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Estimativa de alta do valor adicionado recuou 2,8%.
 
 O Instituto de Pesquisa Econômica Aplicada (Ipea) reduziu sua previsão de crescimento do Produto Interno Bruto (PIB) do setor agropecuário brasileiro. A estimativa de alta do valor adicionado recuou de 2,8%, segundo a previsão divulgada em dezembro de 2021 pelo Ipea, para 1%, de acordo com os dados divulgados nesta terça-feira (22).
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

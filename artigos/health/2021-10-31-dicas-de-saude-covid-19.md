@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Covid 19 é uma infecção respiratória causada pelo novo coronavírus SARS-CoV-2. A doença é potencialmente grave, altamente transmissível e espalhou-se por todo o mundo.
 
 **Transmissão**:
@@ -26,7 +25,6 @@ Os estudos indicam que a maioria das infecções se espalha por contato próximo
 
 A partir do momento em que houve contato com o vírus, o início dos sintomas pode variar de 1 a 14 dias, mas, geralmente é de cinco a seis dias.
 
-**
 Sinais e sintomas:**
 
 Há pessoas que não apresentam sintomas, outras têm sintomas leves, como febre, cansaço, tosse seca.
@@ -43,7 +41,6 @@ As complicações que levam à morte podem incluir insuficiência respiratória,
 
 Em raras situações, as crianças podem desenvolver uma síndrome inflamatória grave algumas semanas após a infecção.
 
-**
 Prevenção**:
 
 – Cobrir nariz e boca com lenço de papel ou com o antebraço, e nunca com as mãos ao tossir ou espirrar. Descartar adequadamente o lenço utilizado.
@@ -81,7 +78,3 @@ Créditos: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

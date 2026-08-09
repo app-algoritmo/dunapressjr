@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Secretaria de Aquicultura e Pesca do Ministério da Agricultura, Pecuária e Abastecimento (Mapa), com o apoio da Secretaria Especial do Programa de Parceria de Investimentos (PPI) do Ministério da Economia, divulgou o edital de concessão para exploração do Terminal Pesqueiro Público de Cabedelo (PB). O documento propõe a revitalização, modernização, operação, manutenção e gestão do terminal.
 
 Poderão participar as sociedades empresariais, fundos de investimento em participações (FIPs) e outras pessoas jurídicas, brasileiras ou estrangeiras, isoladamente ou em consórcio.
@@ -40,7 +39,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

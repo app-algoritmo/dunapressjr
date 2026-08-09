@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A partir desta sexta-feira (03), o Município de Itajaí inicia a aplicação da dose de reforço contra Covid-19 para adolescentes de 12 a 17 anos. A vacinação ocorrerá nas 30 unidades de saúde da cidade. A dose de reforço deve ser aplicada quatro meses após o recebimento da segunda dose. No momento da imunização deve ser apresentado o cartão de vacina e um documento de identificação.
 
 A Secretaria de Saúde de Itajaí segue orientação do Ministério da Saúde e da Secretaria de Estado da Saúde para aplicação da vacina contra Covid-19. Os órgãos permitiram a aplicação da dose de reforço para adolescentes na Nota Técnica nº 35/2022.
@@ -51,7 +50,3 @@ Fonte: https://itajai.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

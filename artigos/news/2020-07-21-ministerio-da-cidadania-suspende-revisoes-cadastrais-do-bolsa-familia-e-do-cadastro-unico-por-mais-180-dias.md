@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Objetivo é evitar a aglomeração de pessoas e a exposição dos beneficiários e dos trabalhadores das unidades de cadastramento ao novo coronavírus.
 
 Para evitar a aglomeração de pessoas e a exposição ao novo coronavírus, o Ministério da Cidadania publicou no Diário Oficial da União desta segunda-feira (20.07) a [**Portaria n****º 443**](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/07/2020&jornal=515&pagina=3&totalArquivos=187), prorrogando por mais 180 dias a suspensão de revisões cadastrais e de procedimentos operacionais do Programa Bolsa Família (PBF) e do Cadastro Único. O texto é assinado pelo ministro Onyx Lorenzoni.
@@ -31,7 +30,7 @@ Imagem: Sergio Amaral/Ministério da Cidadania
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

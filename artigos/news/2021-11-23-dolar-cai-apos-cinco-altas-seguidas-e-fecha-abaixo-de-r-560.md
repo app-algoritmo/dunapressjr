@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa recuou 0,89%, influenciada por mercado externo.
 
 Num dia de ajustes de fluxos cambiais, o dólar contrariou as principais moedas dos países emergentes e iniciou a semana com a primeira queda após cinco altas seguidas. A bolsa de valores recuou quase 1%, influenciada pelo mercado externo.
@@ -22,14 +21,10 @@ As ações de empresas mineradoras e de siderúrgicas subiram, influenciadas pel
 
 Em relação ao dólar, o mercado de câmbio foi influenciado pelo movimento de alguns bancos brasileiros. No mercado externo, a moeda norte-americana subiu perante o euro e a maioria das divisas, após a confirmação de que o presidente Joe Biden pretende reconduzir o presidente do Federal Reserve, Jerome Powell (Fed, Banco Central dos Estados Unidos) para mais um mandato.
 
-A manutenção de Powell no comando do Fed indica que a instituição continuará com o ritmo de retirada dos estímulos monetários concedidos durante a pandemia de covid-19. A alta de casos da doença em países europeus, que voltaram a anunciar medidas de restrição social, também pressionou o dólar em relação às principais moedas estrangeiras. 
+A manutenção de Powell no comando do Fed indica que a instituição continuará com o ritmo de retirada dos estímulos monetários concedidos durante a pandemia de covid-19. A alta de casos da doença em países europeus, que voltaram a anunciar medidas de restrição social, também pressionou o dólar em relação às principais moedas estrangeiras.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

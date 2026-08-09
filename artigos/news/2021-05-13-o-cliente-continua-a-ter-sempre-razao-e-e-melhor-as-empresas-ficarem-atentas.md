@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-O relatório CX Trends 2021, que analisa a quantas anda a experiência do consumidor, aponta que 74% das pessoas deixariam de comprar de uma marca por conta de uma única experiência ruim que venham a ter com a mesma. Outros números levantados pelo estudo apontam que, em 2020, 84% dos consumidores experimentaram novos canais de comunicação com as marcas. O atendimento via WhatsApp aumentou 118%, via chat 133% enquanto as redes sociais experimentaram um crescimento de 151%. O que não significa que o bom e velho telefone tenha sido aposentado. 
+O relatório CX Trends 2021, que analisa a quantas anda a experiência do consumidor, aponta que 74% das pessoas deixariam de comprar de uma marca por conta de uma única experiência ruim que venham a ter com a mesma. Outros números levantados pelo estudo apontam que, em 2020, 84% dos consumidores experimentaram novos canais de comunicação com as marcas. O atendimento via WhatsApp aumentou 118%, via chat 133% enquanto as redes sociais experimentaram um crescimento de 151%. O que não significa que o bom e velho telefone tenha sido aposentado.
 
 De acordo com o CEO da PhoneTrack, Marcio Pacheco, mais de 40% das buscas mobile no Google são por negócios locais e 70% dessas buscas terminam em uma ligação a partir do momento que o consumidor decide efetivar uma compra. "O número de ligações após pesquisa no Google aumentou 139% nos últimos anos. E apesar desse aumento, as empresas ainda não se conscientizaram de que não podem descuidar desse canal. Investe-se muito na transformação digital, mas é preciso também manter uma boa cobertura para o atendimento telefônico", afirma Pacheco.
 
@@ -23,7 +22,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

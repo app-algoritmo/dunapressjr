@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Macapá/AP – A Polícia Federal deflagrou na manhã desta terça-feira (30/6) a Operação Conluio*, com objetivo de reprimir organização criminosa especializada em crimes de fraudes à licitação com atuação no Instituto Nacional de Colonização Reforma Agrária (INCRA), no estado do Amapá.
 
 Estão sendo cumpridos dois mandados de busca e apreensão, nos bairros Jardim Marco Zero e Santa Rita, na cidade de Macapá/AP.
@@ -20,4 +19,4 @@ Os investigados poderão responder, na medida de suas responsabilidades, pelos c
 
 **Comunicação Social da Polícia Federal no Amapá**
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

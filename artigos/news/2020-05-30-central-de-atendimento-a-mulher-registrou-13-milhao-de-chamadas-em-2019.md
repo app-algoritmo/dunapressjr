@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A violência doméstica e familiar representa 78,96% das violações registradas na central.
 
 A Central de Atendimento à Mulher, conhecida como  “Ligue 180”, registrou 1,3 (1.314.113) milhão de ligações em 2019. É o que mostra o balanço divulgado nesta sexta-feira (29) pelo Ministério da Mulher, da Família e dos Direitos Humanos.
@@ -16,7 +15,7 @@ Os dados apontam que houve, entre 2018 e 2019, um aumento de 7,95% nas denúncia
 
 A faixa mais recorrente está entre as mulheres declaradas pardas, com faixa etária entre 25 a 30 anos. Nos registros de violência doméstica, a relação com as vítimas são: 33,15% companheiros; 17,94% ex-companheiros e 12,13% cônjuges.
 
-[Confira o balanço de 2019](https://www.gov.br/mdh/pt-br/assuntos/noticias/2020-2/maio/balanco-anual-ligue-180-registra-1-3-milhao-de-ligacoes-em-2019/BalanoLigue180.pdf) 
+[Confira o balanço de 2019](https://www.gov.br/mdh/pt-br/assuntos/noticias/2020-2/maio/balanco-anual-ligue-180-registra-1-3-milhao-de-ligacoes-em-2019/BalanoLigue180.pdf)
 
 Segundo a ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, os números mostram a necessidade de o País fazer uma reflexão geral sobre as prioridades das políticas públicas.
 
@@ -54,5 +53,3 @@ Ajude-nos a levar o jornalismo independente a todas as partes!
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

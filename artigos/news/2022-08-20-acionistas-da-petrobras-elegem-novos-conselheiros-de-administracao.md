@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Nomes foram aprovados em assembleia realizada em formato digital.
 
 Assembleia Geral de Acionistas da Petrobras, realizada nesta sexta-feira (19) no formato digital, elegeu, por maioria, oito novos nomes para compor o Conselho de Administração da empresa. Do total de membros aprovados, Caio Mario Paes de Andrade é o atual presidente da companhia desde junho passado.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

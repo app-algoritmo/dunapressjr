@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Depósitos superaram retiradas em R$ 7,09 bilhões.
 
 Impulsionada pela nova rodada de pagamentos do auxílio emergencial e pela alta recente nos juros, a aplicação financeira mais tradicional dos brasileiros registrou o melhor desempenho do ano. Em junho, os brasileiros depositaram R$ 7,09 bilhões a mais do que sacaram na caderneta de poupança, informou nesta terça-feira (6) o Banco Central (BC).
@@ -30,10 +29,6 @@ Para este ano, o boletim Focus, pesquisa com instituições financeiras divulgad
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

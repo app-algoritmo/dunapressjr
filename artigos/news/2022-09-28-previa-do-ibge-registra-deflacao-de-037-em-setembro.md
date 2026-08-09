@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### A maior influência no resultado foi o preço dos combustíveis.
 
 A prévia da inflação de setembro registra recuo de 0,37%. É a segunda queda seguida no Índice de Preços ao Consumidor Amplo-15 (IPCA-15) depois de cair 0,73% em agosto. A maior influência no resultado foi o preço dos combustíveis, com destaque, em especial, para a redução no preço da gasolina.
@@ -60,8 +59,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

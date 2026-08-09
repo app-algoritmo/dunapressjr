@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Com a meta de universalizar o abastecimento de água em 13 cidades da região metropolitana de Maceió (AL) no prazo de seis anos, a BRK Ambiental venceu o leilão de serviços públicos de saneamento ocorrido na manhã desta quarta-feira (30), na Bolsa do Brasil, a B3, em São Paulo (SP). Esse foi o primeiro leilão do setor sob as regras do novo Marco Legal do Saneamento, sancionado em julho pelo Presidente Jair Bolsonaro.
 
 O vencedor assume a responsabilidade pela distribuição de água e coleta de esgoto para 1,5 milhão de pessoas. Devem ser investidos R$ 2,6 bilhões em infraestrutura de saneamento básico ao longo de 35 anos de contrato.
@@ -48,5 +47,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

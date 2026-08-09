@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Manaus/AM - A Polícia Federal deflagrou, na manhã desta terça-feira (30/6), a Operação Sangria, inaugurando a fase ostensiva de inquérito policial, por meio do qual são investigados fatos relacionados a possíveis práticas de crimes, como pertencimento a organização criminosa, corrupção, fraude a licitação e desvio de recursos públicos federais.
 
 A ação de hoje visa cumprir mandados judiciais expedidos pelo Superior Tribunal de Justiça (STJ), sendo 20 mandados de busca e apreensão e 8 de prisão temporária, e conta com a cooperação do Ministério Público Federal (MPF), da Controladoria Geral da União (CGU) e da Receita Federal do Brasil (RFB).
@@ -27,4 +26,4 @@ O nome da operação é uma alusão às suspeitas de que uma revendedora de vinh
 
 Comunicação Social da Polícia Federal no Amazonas
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

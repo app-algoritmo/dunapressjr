@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Este ano, saques superam depósitos em R$ 91,07 bilhões.
 
 A aplicação financeira mais tradicional dos brasileiros continua a enfrentar a fuga de recursos. Em setembro, os brasileiros sacaram R$ 5,9 bilhões a mais do que depositaram na caderneta de poupança, informou nesta quinta-feira (6) o Banco Central (BC). A retirada líquida (saques menos depósitos) é a segunda maior da história, só perdendo para setembro do ano passado, quando as retiradas superaram os ingressos em R$ 7,72 bilhões.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

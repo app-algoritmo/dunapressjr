@@ -15,7 +15,7 @@ Amazon
 
 Nesse mundo tenso e opressivo uma guerra se desenrola ceifando prateados e muito mais vermelhos. Dois reinos, Lakeland, e Norta. A estrutura de governo, os nomes, me fizeram lembrar a forma de governo romana. “Pão e Circo” os agrada também. O rei do pedaço chama-se Tiberias Calore IV.
 
-O que pude perceber durante a leitura é que os prateados estão no poder porque possuem “poderes” capazes de matar os vermelhos. – Juro fiquei me perguntando, que galera é essa? – Será que são extraterrestres? Isso é a terra? Que mundo é esse? Não conseguia soltar o livro. Não é à toa que ele se tornou o livro mais vendido do The New York Times, em sua primeira semana de lançamento. [](https://www.youtube.com/watch?v=gon3RjbA6Wo)
+O que pude perceber durante a leitura é que os prateados estão no poder porque possuem “poderes” capazes de matar os vermelhos. – Juro fiquei me perguntando, que galera é essa? – Será que são extraterrestres? Isso é a terra? Que mundo é esse? Não conseguia soltar o livro. Não é à toa que ele se tornou o livro mais vendido do The New York Times, em sua primeira semana de lançamento.
 
 A ação começa quando Kilorn descobre que será recrutado para a guerra, ele e Mare começam a planejar sua fuga. A única pessoa que pode ajuda-los é a guarda Escarlate, um grupo rebelde que luta contra a dominação dos prateados. O preço para a fuga de Kilorn é alto. Mas isso é só o começo. Num golpe do destino Mare coloca Gisa, sua irmã mais nova em perigo e o desfecho é trágico. A única coisa boa foi seu encontro com um estranho, que tentou roubar na taverna, Cal.
 

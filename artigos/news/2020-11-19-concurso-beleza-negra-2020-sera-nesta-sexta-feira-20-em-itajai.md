@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Premiação com transmissão ao vivo pela internet é destaque na programação da Campanha Itajaí Sem Racismo.
 
 O Município de Itajaí realiza nesta sexta-feira (20), Dia da Consciência Negra, o concurso Beleza Negra 2020. A premiação, que busca valorizar a beleza e a autoestima da mulher negra itajaiense, integra a programação da Campanha *Itajaí Sem Racismo*. Cinco candidatas disputam o título Beleza Negra, que terá transmissão ao vivo pelo **[Youtube](https://youtu.be/4CyGa42vbc0)** e **[Facebook](https://www.facebook.com/PrefeituradeItajai)** da Prefeitura, a partir das 20h.
@@ -33,5 +32,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

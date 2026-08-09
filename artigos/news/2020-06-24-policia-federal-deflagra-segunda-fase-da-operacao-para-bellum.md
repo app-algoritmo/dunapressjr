@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Belém/PA** - A Polícia Federal deflagrou, na manhã desta terça-feira (23/06), a Operação Matinta Perera*, 2ª fase da Operação Para Bellum, dando cumprimento a sete mandados de busca e apreensão, expedidos pelo Ministro Francisco Falcão do Superior Tribunal de Justiça - STJ.
 
 Esta segunda fase tem por objetivo colher mais elementos sobre a participação de um dos investigados nos fatos sob apuração, bem como verificar se há compatibilidade entre seu patrimônio e os rendimentos declarados por ele.
@@ -18,4 +17,4 @@ Os mandados foram cumpridos no Estado do Rio Grande do Sul, mais especificamente
 
 Fonte: Portal de Imprensa da Polícia Federal
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

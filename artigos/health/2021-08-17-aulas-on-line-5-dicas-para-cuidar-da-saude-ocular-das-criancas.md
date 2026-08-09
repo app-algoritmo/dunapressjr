@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Fazer intervalos e ajustar o brilho do monitor são algumas dicas de oftalmologistas.
 
 Ian tem 8 anos e descobriu que precisava de óculos para leitura recentemente. Para sua mãe, Gisele Pinna, antes da alfabetização não era possível notar a necessidade, mas com o processo de aprendizado das letras, ficou claro que o menino "via tudo embaçado", como ele mesmo comenta. Ele é aluno do 2º ano do Ensino Fundamental Anos Iniciais do Colégio Marista Anjo da Guarda, em Curitiba.
@@ -39,7 +38,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

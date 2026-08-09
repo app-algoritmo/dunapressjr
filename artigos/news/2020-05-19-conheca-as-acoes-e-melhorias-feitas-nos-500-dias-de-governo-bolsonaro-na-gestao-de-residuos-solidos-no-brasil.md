@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-### O Programa Lixão Zero, lançado em 2019 pelo Ministério do Meio Ambiente, completou 1 ano em 30 de abril. 
+### O Programa Lixão Zero, lançado em 2019 pelo Ministério do Meio Ambiente, completou 1 ano em 30 de abril.
 
 Parte da Agenda Ambiental Urbana, o programa atua para melhorar a gestão de resíduos sólidos urbanos no Brasil, por instrumentos que vão de acordos setoriais com a iniciativa privada a investimento e apoio técnico junto a estados e municípios.O descarte inadequado do lixo e a falta de tratamento de esgotos agrava os efeitos da pandemia causada pelo novo coronavírus (Covid-19), uma vez que estão associados à poluição do solo e à contaminação da água, essenciais para o abastecimento humano e, assim, para adequada higienização e combate à disseminação do vírus. Além disso, a proliferação de vetores e as doenças causadas pela falta de água potável acabam por aumentar ainda mais a pressão sobre o sistema público de saúde
 O Lixão Zero fecha seu primeiro ano com uma série de ações concretas. Entregas do programa em destaque:
@@ -52,5 +51,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-O desenvolvimento do programa Escola da Inteligência em 2020 foi avaliado por equipes gestoras, professores, famílias e alunos da Rede Municipal de Ensino de Itajaí. Os resultados foram apresentados nesta terça-feira (30) e demonstrou que quase 90% dos estudantes aprovam a iniciativa. Hoje cerca de 35 mil alunos participam do programa que trabalha a educação socioemocional. 
+O desenvolvimento do programa Escola da Inteligência em 2020 foi avaliado por equipes gestoras, professores, famílias e alunos da Rede Municipal de Ensino de Itajaí. Os resultados foram apresentados nesta terça-feira (30) e demonstrou que quase 90% dos estudantes aprovam a iniciativa. Hoje cerca de 35 mil alunos participam do programa que trabalha a educação socioemocional.
 
 Neste ano a pesquisa foi realizada por meio de questionários online, com adesão de mais de cinco mil participantes. Com os resultados, o objetivo é avaliar o desempenho do programa para garantir a excelência na execução dos trabalhos.
 
@@ -25,13 +24,13 @@ Por conta da pandemia, os resultados da pesquisa foram apresentados por meio de 
 
 - **Estudantes**: Pesquisa realizada com 1.935 estudantes, sendo que 88,5% classificaram como importante a continuidade do programa; 88,1% declararam estar muito satisfeitos com as contribuições da Escola da Inteligência para o desenvolvimento de relações saudáveis.
 
-**> [Clique aqui para acessar a pesquisa completa](https://inteligenciaedu.com.br/portfolio-2020-projeto-ei-itajai-sc)**. 
+com.br/portfolio-2020-projeto-ei-itajai-sc)**.
 
-Durante a apresentação virtual, a secretária de Educação de Itajaí, Elisete Furtado Cardoso, destacou o desafio dos profissionais durante a pandemia. “Os nossos professores tiveram que se reinventar em um momento como esse e conseguiram, auxiliando nossos alunos e toda a nossa comunidade. Minha gratidão a cada um de vocês que fazem educação com qualidade”, ressaltou. 
+Durante a apresentação virtual, a secretária de Educação de Itajaí, Elisete Furtado Cardoso, destacou o desafio dos profissionais durante a pandemia. “Os nossos professores tiveram que se reinventar em um momento como esse e conseguiram, auxiliando nossos alunos e toda a nossa comunidade. Minha gratidão a cada um de vocês que fazem educação com qualidade”, ressaltou.
 
-A coordenadora da Escola da Inteligência em Itajaí, Kátia Teixeira, destaca os frutos que o município colhe desde 2017, quando implantou o programa. “Estamos longe há mais de 250 dias e como o mundo está lidando com essa educação à distância? Percebemos que todos precisam saber lidar com as suas emoções, como a ansiedade e a depressão, diante deste longo período de isolamento. E Itajaí está à frente, pois já trabalhamos com as habilidades socioemocionais desde 2017”. 
+A coordenadora da Escola da Inteligência em Itajaí, Kátia Teixeira, destaca os frutos que o município colhe desde 2017, quando implantou o programa. “Estamos longe há mais de 250 dias e como o mundo está lidando com essa educação à distância? Percebemos que todos precisam saber lidar com as suas emoções, como a ansiedade e a depressão, diante deste longo período de isolamento. E Itajaí está à frente, pois já trabalhamos com as habilidades socioemocionais desde 2017”.
 
-**> Não conseguiu assistir à transmissão online? [Acesse aqui](https://www.youtube.com/watch?v=pbWEC7UA-mI)**. 
+**> Não conseguiu assistir à transmissão online? [Acesse aqui](https://www.youtube.com/watch?v=pbWEC7UA-mI)**.
 
 **Sobre o programa**
 A Escola da Inteligência foi implantada em março de 2017. Gradativamente, o programa foi sendo ampliado e hoje todas as unidades são contempladas com o programa. Ao todo, cerca de 35 mil alunos da Rede Municipal de Ensino de Itajaí (67 Centros de Educação Infantil e 41 escolas) são beneficiados com a iniciativa, que trabalha questões e habilidades socioemocionais, cuja metodologia é do psiquiatra e escritor Augusto Cury.
@@ -49,7 +48,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Uma dessas vítimas foi a cantora canadense Shragee Gestetner, de Montreal.
 
 Foram 48 horas pesadas, enquanto os judeus ao redor do mundo tentavam processar a terrível tragédia daqueles que foram esmagados até a morte durante as celebrações de Lag Ba'Omer em Meron.
@@ -37,5 +36,3 @@ Fonte: https://www.israelnationalnews.com
 - [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

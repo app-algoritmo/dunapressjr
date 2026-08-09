@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
--"***Trusted supplyer***" parceiros confiáveis, assim são conhecidas as empresas nórdicas que tornaram possível o gigante latino americano dar início ao seu projeto de telecomunicação de quinta geração. 
+-"***Trusted supplyer***" parceiros confiáveis, assim são conhecidas as empresas nórdicas que tornaram possível o gigante latino americano dar início ao seu projeto de telecomunicação de quinta geração.
 
 O presidente Jair Bolsonaro recebeu a primeira ligação via 5G do país, realizada pelo ministro das Comunicações, Fábio Faria. De um lado da linha, em Brasília, o presidente da República, Jair Bolsonaro. Do outro, em São Paulo, o ministro das Comunicações, Fábio Faria. A primeira videochamada do Brasil utilizando a tecnologia 5G standalone (5G puro) foi com o apoio da Nokia. Na conversa, Bolsonaro falou sobre a inovação que o 5G trará ao país e agradeceu ao ministro Fábio Faria. "Parabéns por estar colaborando com a evolução tecnológica no Brasil e no mundo. Precisamos integrar as regiões cada vez mais, em especial Norte e Nordeste. Vamos avançar muito com essa tecnologia. Da nossa parte, faremos o possível e o impossível para adquirir o 5G, que terá impacto nas famílias e nas empresas. Isso será muito bom para o Brasil", pontuou o presidente. O ministro das Comunicações também ressaltou as qualidades da nova geração de dados móveis.
 
@@ -17,8 +16,6 @@ Durante a videochamada, o ministro também anunciou o evento do MCom que acontec
 A demonstração faz parte de uma série de visitas que o Governo Federal tem realizado à fabricantes da tecnologia 5G, que será implantada até 2022 no Brasil.
 
 Também participaram da ação de hoje, o presidente da Federação das Indústrias de São Paulo (FIESP) e do Serviço Nacional de Aprendizagem Industrial (SENAI/SP), Paulo Skaf, e o professor da Universidade Federal de Campina Grande (UFCG), na Paraíba, Danilo Freire Souza.
-
-[](https://www.flickr.com/photos/mincomunicacoes/51104885664/in/album-72157718897157361/)
 
 Durante a solenidade foi assinado um acordo para a criação de um laboratório de tecnologia 5G na UFCG, o Lab 5G. Coincidentemente, neste dia 9 de abril, a Universidade faz aniversário e ganha este presente. A instituição de ensino é considerada um dos grandes polos tecnológicos do país.
 
@@ -61,5 +58,3 @@ Fonte: *Ascom/Ministério das Comunicações*
 https://dunapress.org/2021/03/30/os-nordicos-sao-um-modelo-para-todo-o-mundo-borge-brende-presidente-do-forum-economico-mundial/
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

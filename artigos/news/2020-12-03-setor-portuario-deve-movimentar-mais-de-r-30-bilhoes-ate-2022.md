@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Modernizar e ampliar os portos brasileiros têm sido uma das prioridades do Governo Federal. Segundo o Ministério da Infraestrutura, até 2022, o setor portuário deve movimentar mais de R$ 30 bilhões em investimentos.
 
 “Nós temos a programação de investimentos de até R$ 30 bilhões entre portos organizados, ou seja, os portos públicos do país, e terminais de uso privado nas regiões fora das poligonais de postos organizados. Então, para os próximos anos, para 2021 e 2022, nós temos algo em torno aí de 30 leilões a serem realizados nos diversos portos do país; e temos uma carteira de mais de 60 contratos de adesão de terminais de uso privado a serem assinados”, afirma o secretário nacional de Portos e Transportes Aquaviários, Diogo Piloni.
@@ -56,7 +55,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

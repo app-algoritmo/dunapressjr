@@ -7,10 +7,9 @@ categories:
 - Education
 ---
 
+A língua portuguesa é a sexta mais falada no mundo considerando falantes nativos, com 221 milhões de pessoas. Com várias peculiaridades, o idioma é um dos mais ricos do mundo e, certamente, um dos mais complexos também. Um levantamento realizado pelo Núcleo Brasileiro de Estágios (NUBE) mostrou que 50,3% dos participantes à procura de um emprego não seriam aprovados por conta de erros de português. Em outra pesquisa feita pela empresa de recrutamento on-line Catho, os equívocos na língua nativa são o principal motivo para desclassificação dos candidatos para 34% dos recrutadores - até mesmo mais do que a experiência.
 
-A língua portuguesa é a sexta mais falada no mundo considerando falantes nativos, com 221 milhões de pessoas. Com várias peculiaridades, o idioma é um dos mais ricos do mundo e, certamente, um dos mais complexos também. Um levantamento realizado pelo Núcleo Brasileiro de Estágios (NUBE) mostrou que 50,3% dos participantes à procura de um emprego não seriam aprovados por conta de erros de português. Em outra pesquisa feita pela empresa de recrutamento on-line Catho, os equívocos na língua nativa são o principal motivo para desclassificação dos candidatos para 34% dos recrutadores - até mesmo mais do que a experiência. 
-
-De acordo com a assessora de Língua Portuguesa do Centro de Inovação Pedagógica, Pesquisa e Desenvolvimento do Colégio Positivo (CIPP), Irinéia Inês Scota, é muito comum cometer erros na escrita pelo pouco interesse em se dedicar à própria língua. “As pessoas passam o tempo aprendendo outros idiomas como inglês, espanhol, francês, italiano, alemão, entre outros, por necessidade do mercado, para obter conhecimento sobre a cultura de outros países ou para poder viajar, e acabam deixando de lado o estudo mais aprofundado de seu próprio idioma. Claro que é louvável simpatizar com outras línguas e estudá-las, mas isso não exclui as vantagens que o falante da língua portuguesa também terá em se aprofundar em seu idioma", constata. 
+De acordo com a assessora de Língua Portuguesa do Centro de Inovação Pedagógica, Pesquisa e Desenvolvimento do Colégio Positivo (CIPP), Irinéia Inês Scota, é muito comum cometer erros na escrita pelo pouco interesse em se dedicar à própria língua. “As pessoas passam o tempo aprendendo outros idiomas como inglês, espanhol, francês, italiano, alemão, entre outros, por necessidade do mercado, para obter conhecimento sobre a cultura de outros países ou para poder viajar, e acabam deixando de lado o estudo mais aprofundado de seu próprio idioma. Claro que é louvável simpatizar com outras línguas e estudá-las, mas isso não exclui as vantagens que o falante da língua portuguesa também terá em se aprofundar em seu idioma", constata.
 
 Entre os erros mais cometidos – tanto nas entrevistas de emprego, quanto no dia a dia, especialistas listaram os 13 principais.
 
@@ -20,7 +19,7 @@ A professora de Língua Portuguesa do colégio Semeador, Cláudia Fávero dos Sa
 
 - **"Onde" e "aonde"**
 
-De acordo com o professor de Língua Portuguesa do Colégio Positivo - Internacional, Diego Emanuel Damasceno Portillo, de Curitiba (PR), a palavra "onde" é utilizada para se referir a um lugar, e pode ser substituída por "em que". O termo "aonde" é a junção da preposição "a" com "onde", ou seja, é usado quando vem acompanhado de outro termo que também necessite da preposição "a" como, por exemplo, no caso do verbo "chegar". Ex: “Ainda não sabemos aonde iremos” e “Onde coloquei minhas chaves?”. 
+De acordo com o professor de Língua Portuguesa do Colégio Positivo - Internacional, Diego Emanuel Damasceno Portillo, de Curitiba (PR), a palavra "onde" é utilizada para se referir a um lugar, e pode ser substituída por "em que". O termo "aonde" é a junção da preposição "a" com "onde", ou seja, é usado quando vem acompanhado de outro termo que também necessite da preposição "a" como, por exemplo, no caso do verbo "chegar". Ex: “Ainda não sabemos aonde iremos” e “Onde coloquei minhas chaves?”.
 
 - **Onde quando não se refere a lugar**
 
@@ -60,7 +59,7 @@ Segundo a professora de Língua Portuguesa do Colégio Vila Olímpia, em Florian
 
 - **Mesmo**
 
-A famosa plaquinha do elevador traz um impasse que é cometido por alguns falantes. “Antes de entrar no elevador, verifique se o mesmo encontra-se parado neste andar”. Nessa situação, de acordo com o professor de Língua Portuguesa do Colégio Positivo - Master, Ederson Lima de Souza, de Ponta Grossa (PR), a palavra “mesmo” tem sido usada frequentemente como um elemento referenciador no texto. “Porém, vale lembrar que, nesse caso, está errada. A palavra “mesmo” pode ter um papel de pronome demonstrativo em uma sentença. “Ele mesmo pintou todo o seu quarto”. Nesse caso, “mesmo” reforça a ação do sujeito.  A placa correta seria: “Antes de entrar no elevador, verifique se ele se encontra parado neste andar”, pois, nesse caso, “ele” é um pronome que retoma o substantivo “elevador” e pode exercer a função de sujeito para o verbo “encontrar-se”. 
+A famosa plaquinha do elevador traz um impasse que é cometido por alguns falantes. “Antes de entrar no elevador, verifique se o mesmo encontra-se parado neste andar”. Nessa situação, de acordo com o professor de Língua Portuguesa do Colégio Positivo - Master, Ederson Lima de Souza, de Ponta Grossa (PR), a palavra “mesmo” tem sido usada frequentemente como um elemento referenciador no texto. “Porém, vale lembrar que, nesse caso, está errada. A palavra “mesmo” pode ter um papel de pronome demonstrativo em uma sentença. “Ele mesmo pintou todo o seu quarto”. Nesse caso, “mesmo” reforça a ação do sujeito.  A placa correta seria: “Antes de entrar no elevador, verifique se ele se encontra parado neste andar”, pois, nesse caso, “ele” é um pronome que retoma o substantivo “elevador” e pode exercer a função de sujeito para o verbo “encontrar-se”.
 
 - **Assistir e responder**
 
@@ -75,7 +74,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

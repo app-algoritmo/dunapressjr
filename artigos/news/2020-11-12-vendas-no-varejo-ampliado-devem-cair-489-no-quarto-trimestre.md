@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Neste ano, as vendas devem registrar uma retração de 9,35%, diz IBEVAR.
 
 As vendas do varejo ampliado devem cair 4,89% entre o terceiro e quarto trimestre do ano, de acordo com projeções da pesquisa Intenção de Compra, do Instituto Brasileiro de Executivos de Varejo e Mercado de Consumo (IBEVAR). No ano, as vendas desse segmento, que incluem material de construção e automóveis, devem registrar uma retração de 9,35% na comparação com o mesmo período de 2019.
@@ -21,5 +20,3 @@ Quando analisados os segmentos, o que deve apresentar maior queda entre o tercei
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Roosevelt Cassio/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

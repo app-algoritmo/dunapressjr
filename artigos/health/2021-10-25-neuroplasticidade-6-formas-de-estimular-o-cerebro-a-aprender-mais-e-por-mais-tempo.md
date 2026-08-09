@@ -8,12 +8,11 @@ categories:
 - Health
 ---
 
-
 As crianças têm uma capacidade imensa de aprender novos conhecimentos graças ao que chamamos de neuroplasticidade. Também conhecida como plasticidade neural ou maleabilidade cerebral, é a habilidade do cérebro de se reorganizar para aprender algo novo. No entanto, à medida que as crianças vão se tornando adultas, essa capacidade tende a diminuir, principalmente por conta da falta de estímulo. "Existe a possibilidade do cérebro criar novos circuitos e conexões neurais ao longo da nossa vida como resposta a determinados estímulos que recebemos, resultando em mudanças funcionais no comportamento do próprio cérebro", explica a psicóloga educacional do Colégio Positivo - Jardim Ambiental, em Curitiba (PR), Lianna Calderari Oliveira.
 
 Isso significa que o sistema nervoso não tem uma estrutura rígida e imutável, como se pensava há algumas décadas, mas ele modifica sua estrutura funcional sob diferentes circunstâncias, expressando assim uma capacidade plástica durante o processo de adaptação. "Exames de imagem já mostraram a plasticidade do cérebro, inclusive, que pode ser alterada por fatores como ambiente, estado emocional, nível cognitivo, entre outros", conta a psicóloga.
 
-Segundo Lianna, a neuroplasticidade trabalha também na formação de hábitos. "Na prática, isso ocorre como se estivéssemos ensinando o nosso cérebro a como se comportar melhor. Com isso, é possível adaptar o paladar e se acostumar com o gosto de alimentos saudáveis e reduzir o consumo de produtos industrializados, por exemplo — o que favorece a saúde como um todo", revela. Os conceitos da plasticidade são utilizados, principalmente, na área da saúde, por fisioterapeutas e psicólogos e podem ajudar, por exemplo, na melhoria de dores crônicas, no desempenho de atletas, nas técnicas de aprendizagem, além da prevenção ao envelhecimento cerebral. 
+Segundo Lianna, a neuroplasticidade trabalha também na formação de hábitos. "Na prática, isso ocorre como se estivéssemos ensinando o nosso cérebro a como se comportar melhor. Com isso, é possível adaptar o paladar e se acostumar com o gosto de alimentos saudáveis e reduzir o consumo de produtos industrializados, por exemplo — o que favorece a saúde como um todo", revela. Os conceitos da plasticidade são utilizados, principalmente, na área da saúde, por fisioterapeutas e psicólogos e podem ajudar, por exemplo, na melhoria de dores crônicas, no desempenho de atletas, nas técnicas de aprendizagem, além da prevenção ao envelhecimento cerebral.
 
 Estimular a neuroplasticidade pode potencializar as capacidades intelectuais, aumentar a reserva cognitiva e manter as pessoas ativas por muito mais tempo, inclusive na velhice. Lianna Calderari Oliveira ensina algumas formas simples para ativar a plasticidade do cérebro.
 
@@ -23,7 +22,7 @@ Estudos mostram que a prática de atividade física - independentemente da modal
 
 **2 - Aprender coisas novas**
 
-Fazer coisas que estejam fora da zona de conforto, como aprender a tocar um instrumento, praticar um esporte, dançar, fazer um curso em uma área totalmente nova… "O maior inimigo do cérebro é a rotina”, afirma a especialista. Segundo a coordenadora do Ensino Bilíngue do Centro de Inovação Pedagógica, Pesquisa e Desenvolvimento do Colégio Positivo (CIPP), Ana Paula Teixeira, aprender um novo idioma é uma das melhores formas de desenvolver a plasticidade do cérebro. "Isso se deve, em grande parte, ao treinamento que nosso cérebro recebe ao alternar entre um idioma e outro ao decidir como se comunicar", explica. O neurocientista Sam Wang (2011) descobriu que a demência é retardada por uma média de cerca de quatro anos para bilíngues em vez de monolíngues. 
+Fazer coisas que estejam fora da zona de conforto, como aprender a tocar um instrumento, praticar um esporte, dançar, fazer um curso em uma área totalmente nova… "O maior inimigo do cérebro é a rotina”, afirma a especialista. Segundo a coordenadora do Ensino Bilíngue do Centro de Inovação Pedagógica, Pesquisa e Desenvolvimento do Colégio Positivo (CIPP), Ana Paula Teixeira, aprender um novo idioma é uma das melhores formas de desenvolver a plasticidade do cérebro. "Isso se deve, em grande parte, ao treinamento que nosso cérebro recebe ao alternar entre um idioma e outro ao decidir como se comunicar", explica. O neurocientista Sam Wang (2011) descobriu que a demência é retardada por uma média de cerca de quatro anos para bilíngues em vez de monolíngues.
 
 **3 - Alimentação saudável**
 
@@ -54,7 +53,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

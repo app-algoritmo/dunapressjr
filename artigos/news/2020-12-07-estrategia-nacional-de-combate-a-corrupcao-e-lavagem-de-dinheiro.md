@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Estratégia Nacional de Combate à Corrupção e Lavagem de Dinheiro (ENCCLA) aprovou 11 ações a serem implementadas no próximo ano para combater esses crimes.
 
 Entre as ações aprovadas estão a criação de mecanismos para o compartilhamento de bancos de dados entre as estatais responsáveis pela detecção e repressão à corrupção, lavagem de dinheiro e financiamento do terrorismo; o uso de inteligência artificial voltado para o combate desse crime; o estudo da padronização do formato de publicações de documentos oficiais; e a consolidação e difusão do Programa Nacional de Prevenção à Fraude e Corrupção.
@@ -38,7 +37,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

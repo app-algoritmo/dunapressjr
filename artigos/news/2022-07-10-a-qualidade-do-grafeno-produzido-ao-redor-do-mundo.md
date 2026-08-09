@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O grafeno foi o primeiro [nanomaterial bidimensional (2d)](https://canalciencia.ibict.br/ciencia-em-sintese1/engenharias/349-a-qualidade-do-grafeno-produzido-ao-redor-do-mundo#) a ser isolado em laboratório. Segundo a Organização Internacional para Padronização (ISO) o grafeno é um material constituído de uma camada única [monocristalina](https://canalciencia.ibict.br/ciencia-em-sintese1/engenharias/349-a-qualidade-do-grafeno-produzido-ao-redor-do-mundo#) de átomos de carbono organizados em uma estrutura hexagonal  (Figura 1). Em uma linguagem mais simples podemos dizer que o grafeno é uma folha de carbono plana, altamente fina e resistente. 
 
       **Figura 1** - Representação esquemática da forma do grafeno e de suas principais características.
@@ -44,11 +43,11 @@ O grafeno foi o primeiro [nanomaterial bidimensional (2d)](https://canalciencia
 
 ## Qual a importância da pesquisa?
 
-   Por meio de técnicas de caracterização foi possível identificar com precisão as amostras de grafeno com péssima qualidade entre as amostras avaliadas. Boa parte dos “pós-pretos” vendidos por altos valores como sendo grafeno com  são na verdade apenas grafite. Isso é alarmante, visto que um grafeno de má qualidade pode comprometer a reputação do setor e impactar negativamente o desenvolvimento de tecnologias com o grafeno.                                    
+   Por meio de técnicas de caracterização foi possível identificar com precisão as amostras de grafeno com péssima qualidade entre as amostras avaliadas. Boa parte dos “pós-pretos” vendidos por altos valores como sendo grafeno com  são na verdade apenas grafite. Isso é alarmante, visto que um grafeno de má qualidade pode comprometer a reputação do setor e impactar negativamente o desenvolvimento de tecnologias com o grafeno.
 
-   A qualidade do grafeno extraído pode comprometer suas possíveis aplicações em diversos setores da indústria. Por exemplo, o melhor desempenho em aplicações de materiais compostos seria alcançado com flocos grandes de grafeno que tenham a espessura de duas a três monocamadas. No caso de eletrodos para aplicações neurológicas, por sua vez, o ideal é utilizar flocos de grafeno monocamada. Sem que se saiba as características do grafeno empregado, seu uso pode não obter os resultados desejados.                                                                                       
+   A qualidade do grafeno extraído pode comprometer suas possíveis aplicações em diversos setores da indústria. Por exemplo, o melhor desempenho em aplicações de materiais compostos seria alcançado com flocos grandes de grafeno que tenham a espessura de duas a três monocamadas. No caso de eletrodos para aplicações neurológicas, por sua vez, o ideal é utilizar flocos de grafeno monocamada. Sem que se saiba as características do grafeno empregado, seu uso pode não obter os resultados desejados.
 
-   Portanto, cada tipo de aplicação exige o ajuste fino das propriedades do material de grafeno em termos de sua espessura e tamanho e funcionalidade. Por esse motivo, a rotulagem e a caracterização (certificação) do grafeno comercializado são necessárias para que o usuário do produto possa escolher adequadamente o material que deseja utilizar..          
+   Portanto, cada tipo de aplicação exige o ajuste fino das propriedades do material de grafeno em termos de sua espessura e tamanho e funcionalidade. Por esse motivo, a rotulagem e a caracterização (certificação) do grafeno comercializado são necessárias para que o usuário do produto possa escolher adequadamente o material que deseja utilizar..
 
    O estudo concluiu que a qualidade do grafeno encontrada hoje no mercado não atende a necessidade da maioria de suas aplicações. É necessário, portanto, que haja padrões rigorosos para a caracterização/certificação do grafeno produzido, levando em consideração suas propriedades físicas requeridas para sua aplicação específica. Esse é o caminho para se criar um mercado mundial saudável e confiável de grafeno.
 
@@ -73,7 +72,3 @@ Fonte:  https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

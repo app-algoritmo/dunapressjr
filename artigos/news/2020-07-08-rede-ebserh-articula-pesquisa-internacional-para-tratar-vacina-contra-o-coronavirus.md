@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## HUB-UnB e CHC-UFPR receberão voluntários para aplicação de doses do produto criado por laboratório chinês.
 
 Dois hospitais da Rede Ebserh participarão da terceira fase de testes de uma vacina produzida na China contra a Covid-19, cuja pesquisa é coordenada no Brasil pelo Instituto Butantan, de São Paulo. O Hospital Universitário de Brasília (HUB-UnB/Ebserh) e o Complexo Hospital das Clínicas (CHC-UFPR/Ebserh), em Curitiba, farão parte de 12 centros de pesquisa brasileiros responsáveis por testar, em larga escala, a segurança e eficácia do produto, chamado inicialmente de CoronaVac.
@@ -40,7 +39,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

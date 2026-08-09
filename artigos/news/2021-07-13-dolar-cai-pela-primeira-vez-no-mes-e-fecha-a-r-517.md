@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Bolsa recupera-se de quedas recentes e sobe 1,73%.
 
 Em um dia de alívio no mercado financeiro, o dólar caiu pela primeira vez no mês e voltou a ficar abaixo de R$ 5,20. A bolsa de valores recuperou-se de quedas recentes e subiu quase 2%, voltando aos 127 mil pontos.
@@ -24,10 +23,6 @@ No Brasil, a expectativa de mudanças na reforma tributária, cujo relatório es
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

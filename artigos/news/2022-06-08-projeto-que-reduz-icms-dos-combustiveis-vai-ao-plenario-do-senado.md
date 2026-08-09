@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Matéria será debatida na sessão de quinta-feira (9).
 
 O Projeto de Lei Complementar (PLP) 18/2022, que limita a aplicação de alíquota do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) sobre bens e serviços relacionados a combustíveis, gás natural, energia elétrica, comunicações e transporte coletivo, continua avançando no Senado. Segundo o relator do PLP, Fernando Bezerra (MDB-PE), o texto chega ao plenário da Casa, para leitura do relatório e debate, ainda nesta semana.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

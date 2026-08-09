@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Bolsa reverte queda e fecha com alta de 0,24%.
 
 A divulgação de dados econômicos fracos sobre a China provocou instabilidade no mercado financeiro de países emergentes. O dólar disparou pela manhã, mas desacelerou ao longo do dia. A bolsa de valores iniciou o dia em baixa, mas reverteu o movimento, impulsionado por ações de varejistas.
@@ -25,5 +24,3 @@ Por outro lado, fatores ligados à economia doméstica ajudaram a amenizar as no
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

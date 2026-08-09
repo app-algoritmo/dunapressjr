@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A Organização Mundial da Saúde estima que, em 2050, a população mundial com idade superior a 60 anos chegue a 2 bilhões. Isso representa um quinto da população mundial! Com o aumento da estimativa de vida vem um grande desafio: como envelhecer saudável?
 
 Além de uma alimentação adequada para a faixa etária, ter uma rotina de exercícios impacta no bom funcionamento do organismo. A prática de atividade física na terceira idade é importante para reduzir os danos causados pelo tempo, como o enfraquecimento dos músculos, perda de equilíbrio, perda de agilidade e flexibilidade e de resistência muscular. “O exercício físico com orientação de um educador físico para essa idade faz com que essas capacidades físicas melhorem para que eles venham a ter uma qualidade de vida melhor”, explica o profissional de educação física, Ayslan de Araújo, do Hospital Universitário da Universidade Federal de Sergipe e vinculado à Rede Ebserh.
@@ -40,7 +39,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

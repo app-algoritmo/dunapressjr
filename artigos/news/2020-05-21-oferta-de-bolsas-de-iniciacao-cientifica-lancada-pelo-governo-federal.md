@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Estudantes de graduação e do ensino médio poderão concorrer a mais de 30 mil bolsas para a iniciação científica ofertadas pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).
 
 Estão abertas duas chamadas públicas voltadas à área de graduação para selecionar instituições interessadas em participar. Uma com 26 mil bolsas do Programa Institucional de Bolsas de Iniciação Científica (PIBIC). A outra, com 800, é dirigida aos estudantes que ingressaram na graduação por meio de políticas de ação afirmativa. O valor da mensalidade das bolsas é de R$ 400.
@@ -27,8 +26,6 @@ E completou: “Falo, com toda certeza, que a as bolsas são um dos pilares fund
 De acordo com o CNPq, o número de bolsas das chamadas públicas abertas representa um acréscimo de mil bolsas do PIBIC em relação ao total concedido no último ano.
 
 Fonte: gov.br - Impa / Imagem em destaque:  MJSP
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

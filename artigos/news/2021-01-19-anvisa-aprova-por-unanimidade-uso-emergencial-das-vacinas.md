@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Diretoria Colegiada da Agência Nacional de Vigilância Sanitária (Anvisa) aprovou, neste domingo (17), por unanimidade, a autorização temporária de uso emergencial da vacina CoronaVac, desenvolvida pela farmacêutica    em parceria com o Instituto Butantan, e da vacina Covishield, produzida pela farmacêutica Serum Institute of India, em parceria com a AstraZeneca/Universidade de Oxford/Fundação Oswaldo Cruz (Fiocruz).
 
 As decisões serão publicadas e comunicadas às duas instituições ainda hoje. Com relação à CoronaVac, em especial, a autorização foi condicionada ainda à assinatura de um Termo de Compromisso e a respectiva publicação no Diário Oficial da União (DOU). Esse documento determina que, até 28 de fevereiro, seja feita e apresentada à Anvisa a complementação dos estudos de imunogenicidade, conforme aprovado no desenho de estudo clínico fase III da vacina.
@@ -30,7 +29,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

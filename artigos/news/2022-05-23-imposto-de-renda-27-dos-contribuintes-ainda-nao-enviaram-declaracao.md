@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Prazo termina no dia 31 de maio.
 
 Um balanço divulgado nesta segunda-feira (23) pela Receita Federal aponta que, até as 11 horas, 25.094.079 pessoas já haviam enviado suas declarações do Imposto de Renda da Pessoa Física (IRPF) 2022, ano-base 2021.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

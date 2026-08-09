@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Mais de 100 mil máscaras de proteção individual, cerca de 7 mil cestas básicas e 3,6 mil kits de higiene foram entregues durante as ações da Campanha Solidarize-se em quatro regiões do país. Os números são do balanço divulgado, nesta segunda-feira (13), pelo Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH).
 
 Até o momento, a iniciativa contemplou os estados da Bahia (BA), Ceará (CE), Paraíba (PB), Pernambuco (PE), Rio Grande do Norte (RN), São Paulo (SP), Minas Gerais (MG), Rio de Janeiro (RJ), Goiás (GO), Santa Catarina (SC) e Paraná (PR).
@@ -55,6 +54,6 @@ As ILPIs interessadas em receber auxílio do Governo Federal devem preencher o f
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

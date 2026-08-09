@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Servidor do INSS e empresário foram alvos da ação desta terça-feira (30).
 
 A Polícia Federal deflagrou na manhã desta terça-feira (30), a Operação Frenesi 2, com objetivo de combater um esquema de lavagem de dinheiro decorrente de crimes previdenciários, envolvendo servidor do INSS e empresário. Durante a ação, foram cumpridos três mandados de busca e apreensão expedidos pela 32ª Vara da Justiça Federal, em domicílios de Fortaleza e Jaguaribe, ambos no estado do Ceará. Foi determinado, ainda, o sequestro de valores equivalentes ao aporte financeiro feito pelo servidor do INSS na empresa utilizada para a lavagem de dinheiro.
@@ -25,10 +24,6 @@ A Força-Tarefa Previdenciária e Trabalhista é integrada pelo Ministério do T
 
 Fonte: Ministério do Trabalho
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

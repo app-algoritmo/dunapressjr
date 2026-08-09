@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Controladoria-Geral do Estado (CGE-SC) vai notificar 3.082 agentes públicos e pensionistas especiais do Executivo de Santa Catarina que receberam o auxílio emergencial disponibilizado pelo Governo Federal em função da epidemia do novo coronavírus. Desta lista, apenas 117 são servidores estatutários ativos, dos quais 60 já devolveram ou estão em processo de devolução do benefício. A maioria (96%) é de servidores Admitidos em Caráter Temporário (ACTs) ou pensionistas especiais não previdenciários (cidadãos que recebem pensão do Estado devido a situações de incapacitação ao trabalho, cuja renda familiar não ultrapassa dois salários mínimos).
 
 Os valores recebidos somam R$ 5 milhões e devem ser devolvidos para a União. Da lista de 3.082 nomes, 539 devolveram ou estão em processo de devolução, totalizando R$ 756,6 mil. A CGE está orientando o agente público e o pensionista para que verifique se seu CPF foi utilizado por estelionatários. Existe ainda a possibilidade de terem sido incluídos automaticamente na relação do auxílio emergencial por serem beneficiários do Programa Bolsa Família ou por constarem no CadÚnico do Governo Federal. Mesmo assim, tanto o agente público quanto o pensionista deverá devolver o recurso.
@@ -22,7 +21,7 @@ Ela ressalta ainda a importância de garantir o destino correto do auxílio emer
 Como regularizar a situação e devolver o benefício:
 
 Para confirmar o recebimento do benefício, consulte com seu CPF [no link](https://consultaauxilio.dataprev.gov.br/consulta/#/)
-Para devolver os valores, acesse [o link](https://devolucaoauxilioemergencial.cidadania.gov.br/devolucao) 
+Para devolver os valores, acesse [o link](https://devolucaoauxilioemergencial.cidadania.gov.br/devolucao)
 
 Quem são os pensionistas especiais não previdenciários
 
@@ -35,5 +34,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

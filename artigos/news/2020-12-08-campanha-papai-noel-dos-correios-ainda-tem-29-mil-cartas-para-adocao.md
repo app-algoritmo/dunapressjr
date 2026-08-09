@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Crianças de todo o Brasil escreveram mais de 70 mil cartas com pedidos ao bom velhinho neste ano. Mas cerca de 29 mil pedidos ainda esperam um padrinho ou madrinha. E ainda dá tempo de participar.
 
 A campanha Papai Noel dos Correios está nos últimos dias. Cada estado tem um prazo final, mas a maioria, vai até o dia 18 de dezembro. As pessoas que quiserem fazer o Natal de meninos e meninas mais feliz podem acessar o Blog do Noel, adotar uma cartinha e realizar o sonho de uma ou mais crianças.
@@ -32,7 +31,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

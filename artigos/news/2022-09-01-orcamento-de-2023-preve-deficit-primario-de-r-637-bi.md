@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Valor, no entanto, considera Auxílio Brasil de R$ 400.
 
 Uma leve revisão para cima das estimativas de arrecadação no próximo ano fez a equipe econômica diminuir a estimativa de déficit primário para 2023. Segundo o projeto do Orçamento do próximo ano, enviado nesta quarta-feira (31) ao Congresso, a meta de resultado negativo corresponderá a R$ 63,7 bilhões para o Governo Central – composto pelo Tesouro Nacional, pela Previdência Social e pelo Banco Central.
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

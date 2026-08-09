@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Inscrições podem ser feitas até essa sexta-feira (2). A iniciativa visa minimizar possíveis déficits na educação causados pela crise da Covid-19.
 
 O Ministério da Educação (MEC), por meio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes), abriu inscrições para o curso on-line de Estatística. São 20 mil vagas e as aulas são gratuitas e 100% a distância. Os interessados têm até sexta-feira (2) para se inscrever.
@@ -27,5 +26,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

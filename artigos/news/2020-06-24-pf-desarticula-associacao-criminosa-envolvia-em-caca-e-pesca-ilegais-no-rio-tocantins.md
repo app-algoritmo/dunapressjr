@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Palmas/TO - A Polícia Federal deflagrou nesta quarta-feira (24/6) a Operação Dia da Caça, com objetivo de desarticular associação criminosa voltada para caça e pesca ilegais no Rio Tocantins e em cidades em seus arredores.   
 
 Aproximadamente 50 policiais federais, com o apoio do IBAMA, cumprem 11 mandados de busca e apreensão expedidos pela 4ª Vara da Justiça Federal de Palmas, nos Estados do Tocantins, Mato Grosso e São Paulo, além de 11 mandados de intimação policial.   
@@ -25,4 +24,4 @@ A Polícia Federal ressalta que, em razão da situação de pandemia da COVID-19
 
 Comunicação Social da Polícia Federal em Tocantins
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

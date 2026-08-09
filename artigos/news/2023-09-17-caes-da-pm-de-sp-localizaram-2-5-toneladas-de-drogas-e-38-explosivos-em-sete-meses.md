@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Na sexta-feira (15), Canil da PM completou 73 anos de salvamentos improváveis, apreensões e combate ao crime.
 
 Desde os primórdios da sociedade, o cão é considerado o melhor amigo do homem. Mas ele também é um grande aliado da Polícia Militar de São Paulo no combate à criminalidade. Graças ao olfato apurado, ele está presente nas mais diversas ocorrências, ajudando a localizar todo tipo de material, por mais pequeno que seja, desde uma pequena fração de droga a uma pessoa desaparecida.
@@ -19,7 +18,7 @@ Recentemente, a unidade teve forte atuação no combate ao crime organizado na B
 
 “Cada quilo de droga que os senhores recolhem das ruas, salva a vida de um cidadão. Vocês trabalham retirando das ruas os entorpecentes já distribuídos em locais de difícil acesso e de alto risco. É uma tropa de operações especiais no seu limite de capacidade. Que tenhamos a coragem que nossos próprios cães nos ensinam, que não recuam ante o perigo. Cada passo que vocês dão na direção de vencer a criminalidade, é um aplauso do cidadão de bem”, ressaltou o coronel Cássio, comandante-geral da PM.
 
-[](https://www.saopaulo.sp.gov.br/wp-content/uploads/2023/09/00051377-e1694806166239.jpg)(Crédito: Gabriela Pereira)
+(Crédito: Gabriela Pereira)
 
 Durante a cerimônia, ainda foi entregue a medalha “Cinquentenário do 5BPChoq” a 39 personalidades que, de algum modo, contribuíram com o desenvolvimento dos trabalhos do Canil.
 

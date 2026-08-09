@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Juros do rotativo do cartão de crédito influenciaram resultado.
 
 As famílias e as empresas pagaram taxas de juros mais altas em janeiro, de acordo com as Estatísticas Monetárias e de Crédito divulgadas hoje (25), pelo Banco Central (BC). A taxa média de juros para famílias no crédito livre chegou a 39,4% ao ano, aumento de 2,2 pontos percentuais em relação a dezembro. Já a taxa média para as empresas cresceu 3,5 pontos percentuais, alcançando 15,2% ao ano.
@@ -46,8 +45,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

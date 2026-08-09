@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 Publicada  (21/10) no Diário Oficial da União, a Lei 14.228/2021, que proíbe a eutanásia de cães e gatos em situação de rua, passará a valer em 120 dias.
 
 Isso significa que centros de controles de zoonoses, canis públicos e outros estabelecimentos não poderão mais sacrificar animais que não tenham doenças incuráveis que coloquem em risco a saúde humana e de outros animais.
@@ -37,7 +36,3 @@ Fonte: [https://vegazeta.com.br](https://vegazeta.com.br)
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

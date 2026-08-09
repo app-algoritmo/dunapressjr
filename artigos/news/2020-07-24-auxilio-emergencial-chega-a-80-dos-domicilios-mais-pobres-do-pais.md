@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultados da PNAD Covid-19 do IBGE mostram que valor médio dos benefícios foi de R$ 881 por residência em junho.
 
 Os resultados da **[Pesquisa Nacional por Amostra de Domicílios (PNAD) Covid-19](https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/8aa598ff96d7b31bd752c988f2e39572.pdf)**, divulgados nesta quinta-feira (23.07), revelam que o Auxílio Emergencial chegou a 80,1% dos lares mais pobres e a 85,2% daqueles com renda domiciliar per capita de até R$ 242,15. Considerando todas as faixas, o valor médio do benefício do Governo Federal por residência foi de R$ 881. Os números do IBGE são referentes ao mês de junho.
@@ -30,7 +29,7 @@ Imagem principal: Wikipedia
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

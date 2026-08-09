@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A campanha Solidarize-se, focada nos idosos que vivem em abrigos, arrecadou e distribuiu mais de 100 mil máscaras de proteção individual, cerca de 7 mil cestas básicas e 3,6 mil kits de higiene em quatro regiões do País. Os números são do balanço divulgado, nessa segunda-feira (13), pelo Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH).
 
 Até o momento, a iniciativa contemplou os estados da Bahia (BA), Ceará (CE), Paraíba (PB), Pernambuco (PE), Rio Grande do Norte (RN), São Paulo (SP), Minas Gerais (MG), Rio de Janeiro (RJ), Goiás (GO), Santa Catarina (SC) e Paraná (PR).
@@ -16,7 +15,7 @@ O objetivo da campanha é conscientização sobre o abandono afetivo, promover o
 
 "Essa etapa da ação consiste em apoiar as Instituições de Longa Permanência para Idosos (ILPIs) e contribuir para a superação das dificuldades vivenciadas, mas a principal vocação é sensibilizar a sociedade, a comunidade, as famílias brasileiras para engajarem-se nessa corrente do bem. Todos podem contribuir", ressalta o secretário nacional de promoção e defesa dos direitos da pessoa idosa do MMFDH, Antonio Costa.
 
-###  
+###
 
 ### Centro-Oeste
 
@@ -56,6 +55,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos** **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos** **clicando aqui.**](https://dunapress.org/)

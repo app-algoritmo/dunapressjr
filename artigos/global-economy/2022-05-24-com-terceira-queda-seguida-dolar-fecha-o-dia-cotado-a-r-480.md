@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Ibovespa teve o melhor resultado em quase um mês.
 
 Após ter fechado o pregão da última sexta-feira (20) com queda de 0,98%, o dólar continuou a recuar frente ao real nesta segunda (23), e fechou o dia cotado a R$ 4,8075 - queda de 1,31% e bem abaixo da média móvel linear dos últimos 50 dias.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

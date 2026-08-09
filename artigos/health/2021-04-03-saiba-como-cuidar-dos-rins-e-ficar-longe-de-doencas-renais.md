@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Você sabe qual a importância desse órgão para o bom funcionamento do corpo? Primeiro para quem ainda não sabe, a palavra rim vai para o plural porque temos dois. E eles ficam na região posterior do abdómen, um na direita e outra na esquerda. A principal função deles é filtrar o sangue para controlar a quantidade de água e de sal no corpo, eliminar toxinas, ajudar a controlar a hipertensão arterial e produzir hormônios que impedem a anemia e a descalcificação óssea, além de eliminar medicamentos e outras substâncias ingeridas.
 
 É exatamente por suas inúmeras funções que os rins precisam estar saudáveis. Rins doentes ocasionam as chamadas doenças renais, motivo de preocupação em todo o mundo, por conta do crescente aumento de casos.
@@ -52,7 +51,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

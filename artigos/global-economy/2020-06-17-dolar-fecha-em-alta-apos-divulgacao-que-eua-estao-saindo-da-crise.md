@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 O dólar à vista subiu 1,76% e fechou a R$ 5,2324.
 
 O dólar fechou em nova e firme valorização nesta terça-feira, retomando o patamar de R$ 5,23, em dia de fortalecimento global da divisa norte-americana após dados turbinarem expectativas de que os Estados Unidos estão deixando o pior da crise econômica do coronavírus, o que endossou o status do dólar como porto seguro.
@@ -38,4 +37,4 @@ O real perde 23,31% no ano, pior desempenho global. A queda dos juros é citada 
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

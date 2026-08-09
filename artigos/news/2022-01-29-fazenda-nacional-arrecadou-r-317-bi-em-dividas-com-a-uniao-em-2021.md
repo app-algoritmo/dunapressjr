@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Valor é 29% maior do que o recuperado no ano anterior.
 
-A Procuradoria-Geral da Fazenda Nacional (PGFN), do Ministério da Economia, arrecadou R$ 31,7 bilhões inscritos em dívida ativa ao longo de 2021. Segundo a instituição, o montante representa um recorde neste tipo de recuperação. 
+A Procuradoria-Geral da Fazenda Nacional (PGFN), do Ministério da Economia, arrecadou R$ 31,7 bilhões inscritos em dívida ativa ao longo de 2021. Segundo a instituição, o montante representa um recorde neste tipo de recuperação.
 
 "Esse valor é o que de fato entrou no caixa do Tesouro Nacional, com efeito direto sobre o resultado primário", informou a pasta.
 
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

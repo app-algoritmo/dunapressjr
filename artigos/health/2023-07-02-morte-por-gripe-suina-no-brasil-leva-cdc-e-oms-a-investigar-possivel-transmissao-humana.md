@@ -8,8 +8,7 @@ categories:
 - Health
 ---
 
-
-A morte de uma mulher no Brasil devido a um caso raro de gripe suína levou a *Organização Mundial da Saúde* (OMS) e os *Centros de Controle e Prevenção de Doenças* (CDC) *dos Estados Unidos *[a investigar a possível transmissão humana](https://www.dailymail.co.uk/health/article-12219031/Brazilian-woman-dies-SWINE-FLU-case-decades-sparks-terror-CDC-investigation.html) do patógeno.**[](https://www.dailymail.co.uk/health/article-12219031/Brazilian-woman-dies-SWINE-FLU-case-decades-sparks-terror-CDC-investigation.html)
+A morte de uma mulher no Brasil devido a um caso raro de gripe suína levou a *Organização Mundial da Saúde* (OMS) e os *Centros de Controle e Prevenção de Doenças* (CDC) *dos Estados Unidos *[a investigar a possível transmissão humana](https://www.dailymail.co.uk/health/article-12219031/Brazilian-woman-dies-SWINE-FLU-case-decades-sparks-terror-CDC-investigation.html) do patógeno.**
 
 De acordo com o *Daily Mail* , “transbordamentos” da gripe suína H1N1 foram ocasionalmente observados em todo o mundo em indivíduos que tiveram contato com porcos infectados. No entanto, a paranaense de 42 anos nunca teve contato direto com porcos – sugerindo que ela pegou o vírus de outra fonte.
 

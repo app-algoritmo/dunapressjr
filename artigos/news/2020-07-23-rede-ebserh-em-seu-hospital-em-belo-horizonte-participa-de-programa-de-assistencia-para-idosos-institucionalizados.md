@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Em parceria com a Prefeitura de BH, 1.600 idosos estão sendo acompanhados no HC-UFMG/Ebserh.
 
 **Belo Horizonte (MG)** – As instituições de longa permanência para idosos (ILPIs) reúnem todas as condições necessárias para a transmissão do coronavírus: ambiente fechado, aglomeração e idosos frágeis, que são mais suscetíveis às formas mais graves da infecção e múltiplos fatores de risco, tais como hipertensão arterial, diabetes e doenças cardiovasculares. Para o enfrentamento da Covid-19 em idosos institucionalizados, o Hospital das Clínicas da Universidade Federal de Minas Gerais, vinculado à Rede Ebserh (HC-UFMG/Ebserh), em parceria com a Prefeitura de Belo Horizonte, criou um programa de atendimento e monitoramento da condição de saúde desse público: o Projeto ILPI BH.
@@ -25,7 +24,7 @@ O HC-UFMG/Ebserh atua com apoio especializado tanto de forma remota quanto prese
 
 De forma remota, o projeto conta com a participação do Centro de Telessaúde do HC-UFMG/Ebserh no desenvolvimento do *Chatbot de* *Monitoramento Diário Individual do Idoso*, ferramenta online de inteligência artificial. Ela permite ao cuidador interagir e informar para as equipes se aquele idoso foi avaliado e se tem sinais e sintomas da Covid-19. “Em caso de sintomas suspeitos, o chatbot orienta o cuidador a entrar em contato e, concomitantemente, avisa à equipe do HC por e-mail e em tempo real”, salienta o subcoordenador Jáder Freitas.
 
-O hospital também elaborou cursos para capacitar os profissionais da Atenção Primária e das instituições de longa permanência para idosos (ILPS) no manejo da Covid-19 no idoso. São cursos gratuitos e em formato EAD, disponíveis para qualquer profissional de saúde [neste link](https://abordagemglobaldoidosoc-qyjbmy.club.hotmart.com/).
+O hospital também elaborou cursos para capacitar os profissionais da Atenção Primária e das instituições de longa permanência para idosos (ILPS) no manejo da Covid-19 no idoso. São cursos gratuitos e em formato EAD, disponíveis para qualquer profissional de saúde neste link.
 
 **Atuação da Rede Ebserh**
 
@@ -41,7 +40,7 @@ Fonte: gov.br / Imagem em destaque: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

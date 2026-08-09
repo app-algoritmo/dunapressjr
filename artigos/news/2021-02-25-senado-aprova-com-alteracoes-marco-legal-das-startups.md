@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Texto volta para análise da Câmara dos Deputados.
 
 O Senado aprovou nesta quarta-feira (24) o chamado Marco Legal das *Startups*. O Projeto de Lei Complementar 146/19 enquadra como startups as empresas, mesmo com apenas um sócio, e sociedades cooperativas que atuam na inovação aplicada a produtos, serviços ou modelos de negócios. O relator do texto no Senado, Carlos Portinho (PL-RJ), alterou o projeto aprovado na Câmara. Por isso, o projeto volta para nova apreciação dos deputados.
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Dados de denúncias de violações contra idosos apontam a região Norte como a localidade que menos registrou casos em 2019. Os números são do balanço do Disque 100 (Disque Direitos Humanos), divulgado no dia 25 de junho.
 
 No ranking nacional, o estado do Amazonas ocupa o décimo quarto lugar, seguido pelos demais estados nas seguintes posições: Acre (16ª), Rondônia (20ª), Roraima (23 ª), Pará (25ª) e Amapá (26ª). O Tocantins é a unidade da federação com o menor índice.
@@ -58,6 +57,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

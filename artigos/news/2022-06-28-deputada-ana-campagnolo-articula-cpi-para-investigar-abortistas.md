@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A deputada estadual Ana Campagnolo (PL-SC) requereu a criação de uma Comissão Parlamentar de Inquérito (CPI) na Assembleia Legislativa de Santa Catarina (ALESC) para averiguar os fatos relacionados ao caso envolvendo uma menina grávida aos 11 anos de idade, que resultou no assassinato intrauterino do bebê nascituro durante a 29ª semana de gestação.
 
 O ocorrido ganhou grande repercussão midiática após os sites *The Intercept Brasil* e *Portal Catarinas* publicarem detalhes do processo que deveriam ter sido mantidos em segredo de justiça, ao passo que muitas informações determinantes foram estrategicamente omitidas para manipular a opinião pública e estabelecer o cenário necessário à abertura de um precedente jurídico que permitisse a ampliação das possibilidades de aborto legalizado consideradas pela legislação brasileira.
@@ -45,7 +44,3 @@ Fonte: https://anacampagnolo.com.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

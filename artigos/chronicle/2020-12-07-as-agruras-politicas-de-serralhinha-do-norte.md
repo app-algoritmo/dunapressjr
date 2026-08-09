@@ -7,7 +7,6 @@ categories:
 - Chronicle
 ---
 
-
 A cidade SERRALHINHA DO NORTE faz parte da região metropolitana da capital CABRIOLÉ DO OESTE, ambas fazem parte do estado FERNANDOPOLINA que por sua vez é integrante da região nordeste do País ZABRIL. Apesar da cidade SERRALHINHA DO NORTE ser próximo da capital sua população ainda preserva alguns costumes de cidade de interior.
 
 Mas não deixa de ser uma cidade com uma economia ativa devido a um comércio muito bom e ter um parque industrial que merece aplausos, não se pode deixar de falar das riquezas naturais que a cidade possui, que é de causar inveja nas demais cidades ao redor.
@@ -37,5 +36,3 @@ Resultado: O atual gestor, Ferdinancio, teve êxito e foi reeleito, a vitória n
 Imagem de destaque: Página Cidade Imaginária - Facebook.
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

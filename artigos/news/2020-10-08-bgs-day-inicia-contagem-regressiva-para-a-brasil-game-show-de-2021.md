@@ -25,7 +25,7 @@ Também durante a edição especial do BGS Day sairá o resultado do BGS Cosplay
 
 **Imagem em destaque:** coxinha nerd
 
-https://dunapress.org/produto/assinatura-leitor-premio/?aff=milah44
+https://dunapress.org/produto/assinatura-leitor-premio/
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o
 

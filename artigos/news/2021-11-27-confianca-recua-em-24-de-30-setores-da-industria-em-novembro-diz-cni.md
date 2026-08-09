@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Pesquisa ouviu 2.340 empresas entre 3 e 12 deste mês.
 
 O Índice de Confiança do Empresário Industrial (Icei) recuou em 24 dos 30 setores analisados pela Confederação Nacional da Indústria (CNI) na passagem de outubro para novembro deste ano.
@@ -22,10 +21,6 @@ As maiores quedas de confiança ocorreram nos setores móveis (4,6 pontos), equi
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

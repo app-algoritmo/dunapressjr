@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 Em áreas remotas da Amazônia Legal, os militares da Marinha, do Exército e da Aeronáutica apoiam as atividades de órgãos de fiscalização ambiental e segurança pública durante a Operação Verde Brasil 2. Nos Estados de Acre, Amazonas e Rondônia, o Comando Conjunto Príncipe da Beira coordena as ações e, nessa terça-feira (02), os militares atuaram com agentes do IBAMA, da Polícia Federal, do ICMbio e da Força Nacional, além dos órgãos estaduais de Rondônia: Polícia Militar Ambiental, Polícia Militar e Secretaria Estadual de Desenvolvimento Ambiental. As madeireiras da região foram fiscalizadas e houve patrulha motorizada terrestre, fluvial e aeromóvel, inspeção naval e postos de bloqueio e controle de estradas.
 
 As ações do Príncipe da Beira resultaram na apreensão de embarcações, veículos, equipamentos, armamentos, munição e 12,25 quilos de pasta base de cocaína. Quase R$ 4 milhões foram aplicados em multas.
@@ -23,5 +22,3 @@ Desde a deflagração da Operação Verde Brasil 2, em 11 de maio, militares e a
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

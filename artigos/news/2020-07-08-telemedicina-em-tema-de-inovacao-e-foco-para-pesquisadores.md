@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Foram selecionados 23 projetos em edital sobre Telemedicina e Análise de Dados Médicos. Programa de Combate a Epidemias vai apoiar 92 iniciativas.
 
 As consultas médicas virtuais estão ganhando espaço na sociedade. A modalidade é uma das formas encontradas para reduzir o fluxo de pessoas em hospitais e dar agilidade aos atendimentos. A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) apoia, no âmbito do [Programa de Combate a Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/capes-farmacos-e-imunologia-edital-n-11-2020), 23 projetos direcionados à [Telemedicina e Análise de Dados Médicos](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/capes-telemedicina-e-analise-de-dados-medicos-edital-n-12-2020) com a participação de 272 pesquisadores.
@@ -58,7 +57,7 @@ Fonte: gov.br / Imagem em destaque: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

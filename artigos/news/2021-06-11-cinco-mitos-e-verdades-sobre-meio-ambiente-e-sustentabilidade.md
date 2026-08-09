@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
+A preocupação com o meio ambiente e as buscas por formas mais sustentáveis de praticar as atividades do dia a dia é uma preocupação constante de ambientalistas, mas nem sempre a população sabe como agir. Segundo pesquisa realizada no final de 2020 pelo Instituto de Tecnologia e Sociedade do Rio de Janeiro, em parceria com o Programa de Comunicação de Mudanças Climáticas da Universidade de Yale, proteger o meio ambiente é prioridade para 77% dos brasileiros. Porém, algumas discussões sobre o tema ainda estão presas a conceitos sem fundamentos, assim, confundindo as pessoas sobre o que realmente é eficaz nessa luta.
 
-A preocupação com o meio ambiente e as buscas por formas mais sustentáveis de praticar as atividades do dia a dia é uma preocupação constante de ambientalistas, mas nem sempre a população sabe como agir. Segundo pesquisa realizada no final de 2020 pelo Instituto de Tecnologia e Sociedade do Rio de Janeiro, em parceria com o Programa de Comunicação de Mudanças Climáticas da Universidade de Yale, proteger o meio ambiente é prioridade para 77% dos brasileiros. Porém, algumas discussões sobre o tema ainda estão presas a conceitos sem fundamentos, assim, confundindo as pessoas sobre o que realmente é eficaz nessa luta. 
-
-Pensando nisso, o professor do Mestrado e Doutorado em Gestão Ambiental da Universidade Positivo (PGAMB-UP), Alysson Nunes Diógenes, levantou alguns tópicos mais polêmicos para esclarecer os mitos e verdades sobre eles. 
+Pensando nisso, o professor do Mestrado e Doutorado em Gestão Ambiental da Universidade Positivo (PGAMB-UP), Alysson Nunes Diógenes, levantou alguns tópicos mais polêmicos para esclarecer os mitos e verdades sobre eles.
 
 - **É fácil ter uma vida sustentável**
 
@@ -26,7 +25,7 @@ Pensando nisso, o professor do Mestrado e Doutorado em Gestão Ambiental da Univ
 
 - **Qualquer tipo de água pode ser reutilizada**
 
-**Mito.** Alysson ressalta que, embora o reaproveitamento seja muito importante, infelizmente nem toda água serve para todos os usos. "A água da chuva, por exemplo, apesar de ser excelente para a limpeza de áreas externas, não é potável por conta da existência de substâncias contaminantes na atmosfera, como ácidos, fuligem e bactérias, os quais podem causar danos à saúde a médio ou longo prazo. E um dos nossos maiores problemas futuros é a escassez de água para consumo humano", explica. 
+**Mito.** Alysson ressalta que, embora o reaproveitamento seja muito importante, infelizmente nem toda água serve para todos os usos. "A água da chuva, por exemplo, apesar de ser excelente para a limpeza de áreas externas, não é potável por conta da existência de substâncias contaminantes na atmosfera, como ácidos, fuligem e bactérias, os quais podem causar danos à saúde a médio ou longo prazo. E um dos nossos maiores problemas futuros é a escassez de água para consumo humano", explica.
 
 - **Deixar de comer carne ajuda o meio ambiente**
 
@@ -41,7 +40,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

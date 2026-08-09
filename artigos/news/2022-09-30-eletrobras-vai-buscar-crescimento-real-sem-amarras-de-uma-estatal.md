@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Declaração é do novo presidente da empresa Wilson Ferreira Junior.
 
 Empossado no último dia 19 como presidente da Eletrobras pós-privatização, Wilson Ferreira Júnior retorna à empresa que presidiu de 2016 a 2021 com a meta de promover o crescimento real da companhia.
@@ -38,14 +37,10 @@ A migração da Eletrobras para o novo mercado da B3 já está em andamento pela
 
 Wilson Ferreira Júnior descartou a possibilidade de reestatização da Eletrobras, seja quem for o novo presidente eleito, no próximo domingo (2).
 
-“No caso da Eletrobras, não tem sentido econômico para o governo reverter a capitalização”, disse lembrando que isso significaria para o governo gastar três vezes e meia o valor por ação. “Não creio que haja mudança”. 
+“No caso da Eletrobras, não tem sentido econômico para o governo reverter a capitalização”, disse lembrando que isso significaria para o governo gastar três vezes e meia o valor por ação. “Não creio que haja mudança”.
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

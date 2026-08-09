@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Programa é direcionado a micro e pequenas empresas.
 
 O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) iniciou as operações do Programa Especial de Acesso a Crédito na Modalidade de Garantia de Recebíveis, chamado de Peac Maquininhas. Ele é voltado a microempreendedores individuais (MEIs), microempresas e empresas de pequeno porte.
@@ -21,5 +20,3 @@ Para ter direito ao crédito, o empreendedor deve ter realizado vendas de bens o
 Fonte: Agência Brasil – Imagem de destaque: Miguel Ângelo/CNI/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

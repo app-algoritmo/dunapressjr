@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Setor perdeu 54,2% do saldo comercial, comparado a 2021.
 
 O setor mineral brasileiro registrou uma queda de 52,5% no saldo comercial do 1º semestre de 2022, na comparação com o mesmo período do ano passado. Consequentemente, houve também uma redução de 24% no faturamento, saindo de R$ 149 bilhões para R$ 113,2 bilhões. Na produção, os 441 milhões de toneladas de bens minerais representam um declínio de 9%.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

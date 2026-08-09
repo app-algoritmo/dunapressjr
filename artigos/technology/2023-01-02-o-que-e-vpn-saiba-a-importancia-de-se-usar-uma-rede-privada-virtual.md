@@ -7,14 +7,11 @@ categories:
 - Technology
 ---
 
-
 É possível que você já tenha ouvido falar na chamada [VPN](https://surfshark.com/pt-br/learn/o-que-e-vpn), mas ainda não saiba para que ela serve e quais são os seus benefícios. A rede virtual privada basicamente é um tipo de conexão que simula uma rede privada, mesmo se você estiver em uma pública.
 
 Afinal, como isso pode trazer vantagens ao usuário? E o que esse recurso pode significar para você em segurança digital? O TudoCelular conta todos os detalhes nesta matéria.
 
 Como funciona?
-
-[](https://t2.tudocdn.net/626716?w=1000&fit=clip)
 
 A VPN tem como principal função criptografar o seu tráfego e o tornar “disfarçado”. A ferramenta também permite redirecionar os pacotes de dados por meio de um dos seus servidores VPN – ou seja, um padrão configurado com um software de rede virtual privada.
 
@@ -23,8 +20,6 @@ Na prática, a VPN vai alterar o endereço IP visível e fazer com que pareça q
 Assim, a consequência disso é uma navegação que melhora a sua privacidade e a segurança no ambiente online. Mas esse assunto a gente vai tratar na sequência.
 
 Como a VPN pode proteger você?
-
-[](https://t2.tudocdn.net/626717?w=1000&fit=clip)
 
 Tentar entender como você se mantém protegido em uma rede VPN é como pensar em uma agência postal cega. Pense que um estabelecimento de correio cria para você uma ID, a qual permanece confidencial, e apenas por esse dado o funcionário recebe e envia carta que contém a sua informação. Assim, o local não conhece seu nome, nem sobrenome, nem endereço.
 
@@ -35,8 +30,6 @@ A VPN funciona assim. A conexão à internet por meio dela cria um túnel virtua
 Por meio desse processo, o resultado é que ninguém consegue espionar o seu tráfego. Afinal, durante todo o caminho, o IP, o local e a identidade online do usuário continuam ocultos, tanto ao provedor de serviços quanto a páginas da web de terceiros.
 
 Quais são os tipos de uso?
-
-[](https://t2.tudocdn.net/626718?w=1000&fit=clip)
 
 Quais são as utilizações que você pode fazer de um recurso tão importante como a VPN? Um deles já citamos no texto: acessar um Wi-Fi público gratuito sem ficar vulnerável a um ataque cibernético, por exemplo. Isso inclui redes em trânsito, nos aeroportos, em uma cafeteria ou outros lugares.
 
@@ -49,8 +42,6 @@ A VPN ainda deixa o usuário seguro enquanto vê Netflix ou outro serviço de st
 Para completar, aquelas práticas de marketing que utilizam sua localização e cookies para ajustar os preços de produtos e serviços não funcionam com uma rede virtual privada. Desta maneira, dá até para economizar dinheiro por meio do recurso.
 
 O que fazer para escolher um serviço VPN?
-
-[](https://t2.tudocdn.net/626719?w=1000&fit=clip)
 
 Se você não sabe como escolher um serviço de VPN, a gente detalha alguns tópicos importantes. Um deles está na cobertura dos servidores, que possibilite mais localizações para diminuir a carga do sistema – a qual também precisará ser equilibrada entre os diversos servidores.
 

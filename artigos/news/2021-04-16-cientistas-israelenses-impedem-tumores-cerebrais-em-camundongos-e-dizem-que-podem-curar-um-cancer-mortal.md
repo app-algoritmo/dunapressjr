@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Glioblastoma em roedores e em células humanas em um modelo de laboratório, bloqueado por um composto que os pesquisadores veem como 'abrindo caminho para uma nova terapia' para o câncer cerebral mais mortal.
 
 Pesquisadores israelenses acreditam que podem tornar o câncer cerebral mais letal menos mortal, depois de impedir o crescimento de tumores em camundongos e em um modelo de laboratório usando células humanas, bloqueando proteínas específicas de alcançá-los.
@@ -47,7 +46,3 @@ Fonte: www.timesofisrael.com
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

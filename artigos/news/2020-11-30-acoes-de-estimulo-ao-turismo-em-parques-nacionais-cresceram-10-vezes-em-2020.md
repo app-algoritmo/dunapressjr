@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Desde o final de 2019, ficou mais fácil prestar serviços em parques nacionais. Avanços em gestão e regulamentação no ICMBio removeram a burocracia e tornaram mais claras as regras para viabilizar serviços turísticos como condução de visitantes, transporte, alimentação, aluguel de equipamentos e atividades esportivas em parques nacionais.
 
 Por comparação, entre 2010 e 2019, o ICMBio publicou em média 2,7 editais por ano autorizando a prestação de serviços turísticos. Em 2020, foram 27 editais publicados até novembro, um aumento de dez vezes em relação à média histórica.
@@ -25,7 +24,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A importância do manter o atendimento aos dependentes químicos fez com que a comunidades terapêuticas fossem consideradas pelo Governo Federal[ serviço essencial](http://www.in.gov.br/en/web/dou/-/portaria-n-340-de-30-de-marco-de-2020-250405535) durante a pandemia do novo coronavírus. Assim, mesmo com o isolamento social provocado pela doença, as atividades não foram interrompidas. Grupos de apoio se adaptaram e fazem reuniões virtuais para não deixar desassistidos os que precisam de ajuda.
 
 O Ministério da Cidadania alertou que a interrupção do acolhimento ao dependente químico nas unidades terapêuticas pode representar risco para sua vida. Isso porque trata-se de uma doença crônica, grave, que deve ser tratada de acordo com as necessidades clínicas do indivíduo. O alerta está em uma [cartilha](http://www.mds.gov.br/webarquivos/cidadania/publicacoes/Coronavirus_ComTerapeuticas_online.pdf%20(1).pdf) publicada pelo Ministério para orientar as comunidades terapêuticas sobre como deve ser o atendimento nessas instituições em meio à pandemia.
@@ -18,7 +17,7 @@ https://www.youtube.com/embed/YF8ATdAk-E0
 
 Uma das organizações que funciona no modelo de comunidade terapêutica e se adaptou para não deixar de atender quem precisa de ajuda é a [Salve a Si](http://www.salveasi.com.br/). Localizada na Cidade Ocidental (GO), a instituição tem cerca de 130 dependentes químicos acolhidos que continuam recebendo tratamento e participando de terapias.
 
-Logo no início da pandemia, a Salve a Si implantou protocolos de isolamento para os recém-chegados e de higiene, como contou o fundador e administrador da organização, Henrique França. “Instauramos o protocolo de quarentena na casa de início de acolhimento que é a casa de desintoxicação e mudamos os dias de triagem para seis dias na semana, antes eram apenas três dias”, relatou. Atualmente, segundo ele, a instituição tem três casas em regime de quarentena. 
+Logo no início da pandemia, a Salve a Si implantou protocolos de isolamento para os recém-chegados e de higiene, como contou o fundador e administrador da organização, Henrique França. “Instauramos o protocolo de quarentena na casa de início de acolhimento que é a casa de desintoxicação e mudamos os dias de triagem para seis dias na semana, antes eram apenas três dias”, relatou. Atualmente, segundo ele, a instituição tem três casas em regime de quarentena.
 
 França disse que os acolhidos adotaram uma rotina de lavar as mãos cinco vezes ao dia e fazer uso de álcool gel. E também é feita a esterilização de utensílios da unidade. Ele destacou a importância de manter esses cuidados entre pessoas em tratamento de dependência química. “O organismo do dependente químico é debilitado e isso é um facilitador, pela baixa força imunológica, para se contaminar pela Covid-19”, explicou.
 
@@ -26,7 +25,7 @@ França disse que os acolhidos adotaram uma rotina de lavar as mãos cinco vezes
 
 A Cartilha de Orientações para as Comunidades Terapêuticas prevê que os novos acolhimentos deverão observar o período de isolamento social de, no mínimo, 14 dias, na instituição. Também orienta que os familiares evitem fazer visitas até o final da pandemia. E fala sobre os cuidados que os funcionários e fornecedores devem ter para entrar na instituição.
 
-Traz recomendações quanto a higiene como a oferta de sabão e toalhas de papel para lavar as mãos. E que se mantenha o distanciamento mínimo de um metro entre as cadeiras nos refeitórios e camas nos dormitórios. 
+Traz recomendações quanto a higiene como a oferta de sabão e toalhas de papel para lavar as mãos. E que se mantenha o distanciamento mínimo de um metro entre as cadeiras nos refeitórios e camas nos dormitórios.
 
 O material ainda explica o que é a Covid-19, formas de transmissão, principais sintomas e como se proteger. E recomenda que casos suspeitos sejam encaminhados para unidades de saúde.
 
@@ -46,7 +45,7 @@ Linha de ajuda 24h: (11) 3315-9333
 
 Reuniões à distância, orientações pelo [site](https://www.na.org.br/).
 
-Linha de ajuda: 0800 8886262 e 3003 5222 / Fale conosco faleconosco@na.org.br 
+Linha de ajuda: 0800 8886262 e 3003 5222 / Fale conosco faleconosco@na.org.br
 
 **Associação Antialcoólica do Estado de São Paulo**
 
@@ -70,5 +69,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

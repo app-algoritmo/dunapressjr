@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 Existem muitos estímulos que reforçam a ideia de um peso ideal, principalmente quando falamos nas dietas radicais que prometem de forma rápida aquele corpo da revista.
 
 Mas antes de qualquer coisa, é preciso se atentar bem menos às medidas e bem mais à saúde e ao bem-estar. É preciso levar em consideração também as particularidades de cada pessoa, visto que cada uma responde de um jeito aos tratamentos para perder peso.
@@ -50,7 +49,7 @@ Respondendo à pergunta inicial, não existe atalho para emagrecer. O melhor cam
 
 A melhor prática para perder peso é preferir alimentos *in natura* ou minimamente processados, em grande variedade e predominantemente de origem vegetal, e preparações culinárias ao invés de alimentos ultraprocessados. A combinação de uma alimentação saudável e adequada à prática regular de atividade física contribui tanto para a perda quanto para a manutenção do peso em longo prazo.
 
-O ideal é incorporar novos hábitos ao cotidiano gradativamente, de modo que quem quer perder peso possa descobrir novos prazeres tanto nos alimentos e preparações saudáveis quanto nas atividades físicas escolhidas. 
+O ideal é incorporar novos hábitos ao cotidiano gradativamente, de modo que quem quer perder peso possa descobrir novos prazeres tanto nos alimentos e preparações saudáveis quanto nas atividades físicas escolhidas.
 
 Para mais informações, procure uma equipe de atenção primária na Unidade Básica de Saúde (UBS) próxima à sua residência e veja quais as ações estão disponíveis para auxiliar no controle e prevenção da obesidade.
 
@@ -67,9 +66,4 @@ Através do link abaixo você obtém 25% de desconto, também contribuirá com a
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
 Obrigado pelo apoio!
-
-**
-**

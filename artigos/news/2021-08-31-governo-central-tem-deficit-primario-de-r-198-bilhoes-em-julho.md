@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado veio melhor que a previsão dos analistas de mercado.
 
 O aumento da arrecadação e a diminuição de gastos relacionados à pandemia de covid-19 fizeram o déficit do Governo Central (Tesouro Nacional, Previdência Social e Banco Central) cair em julho na comparação com 2020. No mês passado, o resultado ficou negativo em R$ 19,829 bilhões.
@@ -40,10 +39,6 @@ Em relação aos investimentos (obras públicas e compra de equipamentos), o gov
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

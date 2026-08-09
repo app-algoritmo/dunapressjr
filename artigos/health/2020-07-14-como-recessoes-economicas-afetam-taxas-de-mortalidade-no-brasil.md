@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Recessão econômica é um período em que há diminuição da produção e procura por bens e serviços, acompanhada por aumento do desemprego, podendo ser desencadeados por diversos fatores (crises mundiais, por exemplo). Passada a crise, em geral, a economia volta a crescer e as pessoas voltam a encontrar empregos disponíveis. Mesmo assim, pode haver consequências duradouras para essas crises.
 
 Com o aumento do desemprego, é comum aumentar também os níveis de ansiedade e o agravamento das condições de saúde mental das pessoas. Ainda assim, quando países com alta renda passam por uma recessão, se observa que suas taxas de mortalidade (quantidade de mortes em relação à população) diminuem neste período.
@@ -28,6 +27,6 @@ Fonte canalciencia.ibict.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

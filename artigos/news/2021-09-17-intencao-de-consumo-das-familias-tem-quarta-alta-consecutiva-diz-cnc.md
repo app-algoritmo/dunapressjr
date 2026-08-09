@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice chegou a 72,5 pontos, ainda abaixo do nível de satisfação (100).
 
 A pesquisa de Intenção de Consumo das Famílias (ICF) de setembro, divulgada hoje (16) pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), apresentou o melhor resultado desde março de 2021, alcançando 72,5 pontos. A pesquisa varia de zero a 200 pontos, sendo que resultados acima de 100 indicam satisfação e abaixo de 100, insatisfação.
@@ -20,7 +19,7 @@ Segundo Catarina, a perspectiva de consumo continua a ser o indicador com maior 
 
 A economista da CNC avaliou que a perspectiva continua positiva, apesar da inflação. Ela admitiu que a inflação afeta o consumo, tanto que a análise do momento para bens duráveis sofreu variação mensal negativa de 0,5%.
 
-Na análise anual, entretanto, a variação foi positiva, atingindo 1,7%. Para a economista, apesar do impacto da inflação, a situação das famílias continua melhor do que estava no ano passado: “as famílias estão conscientes da inflação e muito cautelosas com ela, mas não o suficiente para impedir elas de consumir. Elas estão sentindo o impacto, mas a tendência continua sendo positiva.” 
+Na análise anual, entretanto, a variação foi positiva, atingindo 1,7%. Para a economista, apesar do impacto da inflação, a situação das famílias continua melhor do que estava no ano passado: “as famílias estão conscientes da inflação e muito cautelosas com ela, mas não o suficiente para impedir elas de consumir. Elas estão sentindo o impacto, mas a tendência continua sendo positiva.”
 
 ## Veja os números:
 
@@ -44,10 +43,6 @@ Em um recorte regional, a Região Norte foi a única a apresentar queda. Na vari
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

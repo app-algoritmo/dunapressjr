@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dólar fecha a R$ 5,17, no menor valor em quase um mês.
 
 Em uma sessão marcada por tensões internas e externas, a bolsa de valores caiu pelo segundo dia seguido e encerrou o mês de agosto com perda acumulada de 2,48%. O dólar iniciou o dia em forte queda, mas reagiu durante a tarde e fechou em leve baixa.
@@ -26,10 +25,6 @@ No mercado interno, a divulgação de que a taxa de desemprego recuou para 14,1%
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

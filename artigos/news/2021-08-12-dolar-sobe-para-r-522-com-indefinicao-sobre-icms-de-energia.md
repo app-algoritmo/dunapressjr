@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No mercado de ações, a Bolsa caiu pelo segundo dia seguido.
 
 Em um dia marcado por dúvidas sobre a tributação das contas de luz, o dólar subiu, contrastando com o otimismo no mercado externo. Numa sessão volátil, a bolsa de valores iniciou o dia em forte queda, passou a subir, mas não sustentou a alta e fechou com leve baixa.
@@ -26,10 +25,6 @@ O cenário interno ofuscou as notícias internacionais. Nos Estados Unidos, os �
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Os compradores são a United Airlines e a arrendadora AerCap Holdings.
 
 O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) financiará a exportação de aviões brasileiros produzidos pela Embraer para a companhia aérea norte-americana United Airlines, e para a arrendadora de aeronaves AerCap Holdings N.V., maior empresa global no segmento, baseada na Holanda. Os dois empréstimos, no valor de R$ 3 bilhões, serão concedidos por meio da linha de crédito BNDES Exim Pós-Embarque.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

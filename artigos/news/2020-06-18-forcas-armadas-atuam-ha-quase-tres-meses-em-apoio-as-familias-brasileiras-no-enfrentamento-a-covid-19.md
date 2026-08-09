@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O combate à COVID-19 é uma guerra que está sendo vencida. Com perseverança e muita luta. É um combate que estamos travando há 90 dias, com Comandos Conjuntos organizados para isso. São três meses de apoio, auxílio, participação das Forças Armadas para tentar diminuir o sofrimento das famílias brasileiras". Com essas palavras o Ministro da Defesa, Fernando Azevedo, resumiu a atuação dos militares no contexto da Operação COVID- 19, desencadeada pela Pasta.
 
 Ele falou em visita ao Recife (PE), na tarde desta terça-feira (16), ao acompanhar os trabalhos realizados na missão nos estados do Comando Conjunto Nordeste (CMNE). São eles: Piauí, Ceará, Alagoas, Sergipe e Pernambuco.
@@ -19,5 +18,3 @@ Em discurso para os militares do CMNE, o Ministro da Defesa os parabenizou pela 
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

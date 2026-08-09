@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O motivo da queda, segundo o IBGE, foi a pandemia do novo coronavírus.
 
 O recuo de 2% do consumo das famílias no primeiro trimestre deste ano na comparação com o último trimestre do ano passado foi a queda mais intensa desde 2001, quando houve uma crise de fornecimento elétrico, de acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -25,5 +24,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

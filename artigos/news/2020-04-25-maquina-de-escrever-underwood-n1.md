@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre a Máquina de Escrever Underwood n°1 e conhecer um pouco da história da máquina de escrever, e sua evolução até chegar ao sucesso de mercado da Underwood
 
 Como em todas as grandes invenções, e, sem dúvida a invenção da máquina de escrever foi uma delas, inúmeros países reivindicam tal privilégio. Brasil, Estados Unidos, França, Inglaterra e Itália.
@@ -18,15 +17,13 @@ O primeiro projeto registrado da máquina de escrever é datada em 1714, idealiz
 
 Pelegrino Turri (1765–1828), em 1808, teria construído uma máquina, para a filha de um amigo que era cega, pudesse aprender a escrever. Porém, de uma forma mais evidente, esse fato histórico não se confirmou.
 
-A primeira patente norte-americana consta ser de William Austin Burt (1792-1858), de Detroit (1829), cujo conteúdo foi destruído pelo incêndio do Escritório de Patentes de Washington, em 1836. 
+A primeira patente norte-americana consta ser de William Austin Burt (1792-1858), de Detroit (1829), cujo conteúdo foi destruído pelo incêndio do Escritório de Patentes de Washington, em 1836.
 
 http://gty.im/90727918
 
 Em 1833, o francês Xavier Progin (1801-1855), de Marselha, apresentou o seu invento, em que usou barras de tipo, sendo uma alavanca para cada letra.
 
 Em 1843, o norte-americano Charles Thurber (1803-1886), de Worcester, Massachusetts, patenteou uma máquina que utilizava um jogo de barras de tipos situados em redor de uma roda de latão; esta movia-se num eixo central e o tipo, com tinta, atingia o papel, colocado sob a roda. Fator muito importante a ser registrado, é que, pela primeira vez, havia um movimento longitudinal do carro, o qual, praticamente foi utilizado em quase todas as máquinas de escrever que se seguiram. Mas devido a lentidão do sistema a máquina de escrever não obteve sucesso.
-
-[](https://br.pinterest.com/pin/88523948902886408/)
 
 Em 1845, Thurber efetuou algumas modificações em seu projeto, com objetivo de ajudar na escrita dos cegos, mas no ano anterior Richard Littledale (1833-1890) fez também.
 
@@ -43,8 +40,6 @@ Durante o século XIX, muita gente tentou aperfeiçoar a máquina que não escre
 **A primeira máquina a ser comercializada e o sucesso da máquina de escrever**
 
 A primeira máquina de escrever a ser vendida foi a "bola de escrever': idealizada pelo pastor dinamarquês Rasmus Malling-Hansen (1835-1890) em 1870. Em seu primeiro modelo, uma esfera de metal cravejada de teclas se deslocava sobre um rolo de papel preso a um cilindro.
-
-[](https://br.pinterest.com/pin/570972058985116289/)
 
 Embora engenhoso, esse dispositivo não era capaz de disputar o mercado com "máquina de escrever" desenvolvida pelos inventores americanos Christopher Sholes (1819-1890) e Carlos Glidden (1834-1877) em 1868 e produzida em 1873 pela E. Remington and Sons, que se tornaria uma das maiores produtoras de máquinas de escrever do mundo com o teclado padrão QWERTY .
 

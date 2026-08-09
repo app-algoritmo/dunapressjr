@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Uma joia da história do Paraná e do turismo brasileiro, o Trem Caiçara voltou a operar no dia  21 de novembro, após 30 anos sem dar partida. A locomotiva a vapor mais antiga em operação regular no Brasil liga as cidades históricas de Morretes e Antonina, através de um percurso de 16 km pelas belezas do litoral paranaense.
 
 O passeio garante uma “viagem no tempo” a bordo da recém restaurada Maria Fumaça Mogul 11, fabricada em 1884. O trajeto do Trem Caiçara faz parte da Estrada de Ferro Dona Isabel, inaugurada em 1892, e se inicia na histórica Estação de Antonina reconhecida como Patrimônio Cultural Brasileiro e reformada, no ano passado, pelo Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), autarquia vinculada ao Ministério do Turismo.
@@ -24,7 +23,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

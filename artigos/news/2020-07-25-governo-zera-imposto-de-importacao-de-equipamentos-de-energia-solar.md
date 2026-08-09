@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 Equipamentos entram em lista de bens de capital que terão os impostos de importação zerados até o final de 2021.
 
 Equipamentos de energia solar terão os impostos de importação zerados até o final de 2021. Entre eles, bombas para líquidos, para uso em sistema de energia solar fotovoltaico que funciona com painéis solares que captam a luz e geram energia elétrica. Também entram na lista de produtos que passam a ter as tarifas de importação zeradas os rastreadores solares, que são aproveitados em grandes usinas para acompanhar a posição do sol ao longo do dia, o que aumenta a produtividade da unidade. 
 
 A. O governo Bolsonaro zera imposto de importação de equipamentos de energia solar. As resoluções publicadas no Diário Oficial da União surgem após sequência de isenções no mesmo sentido de cerca de 539 itens ligados ao combate do covid-19. [@MinEconomia](https://twitter.com/MinEconomia?ref_src=twsrc%5Etfw) [@minsaude](https://twitter.com/minsaude?ref_src=twsrc%5Etfw) [@govbr](https://twitter.com/govbr?ref_src=twsrc%5Etfw) [pic.twitter.com/djVq1j8wRU](https://t.co/djVq1j8wRU)
 
-&mdash; Jair M. Bolsonaro (@jairbolsonaro) [July 23, 2020](https://twitter.com/jairbolsonaro/status/1286240518683471872?ref_src=twsrc%5Etfw) 
+&mdash; Jair M. Bolsonaro (@jairbolsonaro) [July 23, 2020](https://twitter.com/jairbolsonaro/status/1286240518683471872?ref_src=twsrc%5Etfw)
 
 O presidente Jair Bolsonaro comentou a medida em suas redes sociais.
 
@@ -26,10 +25,10 @@ Segundo ele, a expectativa é haver uma redução no valor que será pago pelo c
 
  **Energia limpa**
 
-O Ministério de Minas e Energia informou que as fontes renováveis de energia, que incluem hidráulica, eólica, solar e bioenergia, chegaram a 46,1% de participação na Matriz da Demanda Total de Energia de 2019, aumentando 0,6 ponto percentual em relação ao indicador de 2018. A energia solar cresceu 92% e a eólica, 15,5%, fontes que, somadas, contribuíram com 50% do aumento da participação das renováveis na matriz.  
+O Ministério de Minas e Energia informou que as fontes renováveis de energia, que incluem hidráulica, eólica, solar e bioenergia, chegaram a 46,1% de participação na Matriz da Demanda Total de Energia de 2019, aumentando 0,6 ponto percentual em relação ao indicador de 2018. A energia solar cresceu 92% e a eólica, 15,5%, fontes que, somadas, contribuíram com 50% do aumento da participação das renováveis na matriz.
 
 Segundo a Agência Nacional de Energia Elétrica, Aneel, a instalação de equipamentos de geração de energia solar tem grande potencial no Brasil e já corresponde por cerca de 3 gigawatts em potência instalada.
 
 Fonte: gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

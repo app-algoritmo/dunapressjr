@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado é o melhor desde fevereiro de 2020, período pré-pandemia.
 
 O Indicador Antecedente de Emprego (IAEmp), medido pela Fundação Getulio Vargas (FGV), subiu 0,9 ponto em agosto e chegou a 90,1 pontos. Esse é o maior nível desde fevereiro de 2020 (92 pontos), ou seja, período pré-pandemia no Brasil.
@@ -18,10 +17,6 @@ O IAEmp, medido com base em entrevistas com consumidores e empresários da indú
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

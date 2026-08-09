@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Módulo de confirmação de matrícula está disponível no Sistema Educacenso. Responsáveis pelo preenchimento devem verificar as informações até o dia 21 de agosto.
 
 Os representantes das escolas públicas e privadas da educação básica do país já podem acessar o módulo Confirmação de Matrícula no Sistema Educacenso para confirmar ou desconsiderar as matrículas dos alunos que possuem mais de um vínculo de escolarização em turmas presenciais. O prazo iniciou-se na última segunda-feira, 3 de agosto, e vai até o dia 21, quando se encerra o período de coleta de dados do Censo Escolar 2020. Os responsáveis pelo preenchimento dos dados devem acessar o módulo para confirmar as informações.
@@ -32,7 +31,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Indicador teve menor nível desde agosto de 2020.
 
 O Indicador Antecedente de Emprego (IAEmp) da Fundação Getulio Vargas (FGV) divulgado hoje (8) caiu 5,8 pontos em março, para 77,1 pontos, menor nível desde agosto de 2020 (74,8 pontos), em uma escala de zero a 200. Em médias móveis trimestrais, o IAEmp caiu em 2,8 pontos, para 81,2 pontos.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

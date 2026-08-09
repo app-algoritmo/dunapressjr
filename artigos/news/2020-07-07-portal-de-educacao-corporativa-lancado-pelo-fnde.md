@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Plataforma digital facilita acesso a cursos e materiais de capacitação sobre programas e ações educacionais da Autarquia.
 
 Reunir e organizar cursos, informações e demais materiais de educação corporativa do Fundo Nacional de Desenvolvimento da Educação (FNDE) em uma plataforma digital, simples, acessível e de fácil navegação. Esse propósito levou à criação do [Portal de Educação Corporativa do FNDE](https://www.fnde.gov.br/educacaocorporativa), disponível no endereço eletrônico da Autarquia a partir desta segunda-feira, dia 6.
@@ -28,7 +27,7 @@ Fonte: gov.br / Imagem em destaque: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Em uma observação muito breve e improvisada, Francis, falando da janela de seu estúdio com vista para a Praça de São Pedro, observou que a Igreja Católica marcou o domingo como Dia Internacional do Mar.
 
 O papa Francisco disse no domingo que está "profundamente magoado" com a decisão da Turquia de mudar o status de Hagia Sophia - que foi originalmente construída em Istambul como uma catedral cristã - de um museu para uma mesquita.
@@ -41,6 +40,6 @@ Fonte The Time Of Israel****
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Embora seja por vezes ignorado pelos livros escolares, o Poder Legislativo teve um papel decisivo no processo político que levou o príncipe D. Pedro (futuro D. Pedro I) a declarar o Brasil independente de Portugal, no histórico 7 de setembro de 1822.
 
 Por Poder Legislativo, entendam-se dois Parlamentos diferentes e separados por um oceano: as Cortes de Lisboa, instaladas em janeiro de 1821, e a Assembleia Constituinte, com sede no Rio de Janeiro, convocada em junho de 1822.
@@ -21,7 +20,7 @@ Vitoriosos, os líderes da Revolução Liberal do Porto exigiram que o rei enfim
 
 O objetivo dos revoltosos do Porto, animados pelo ideal antidespotismo da Revolução Francesa, era que a nação deixasse de ser uma monarquia absolutista e se modernizasse, transformando-se numa monarquia constitucional. Se quisesse preservar a coroa sobre a cabeça, o rei teria que aceitar dividir o poder com o Parlamento, eleito pelos cidadãos.
 
-[](https://www12.senado.leg.br/noticias/infomaterias/2022/08/a-pouco-conhecida-atuacao-do-parlamento-na-independencia-do-brasil/cortes-de-lisboa/@@images/imagem)Cortes de Lisboa: a semente da Independência do Brasil (imagem: Oscar Pereira da Silva)
+Cortes de Lisboa: a semente da Independência do Brasil (imagem: Oscar Pereira da Silva)
 
 O historiador João Paulo Pimenta, professor da Universidade de São Paulo (USP) e autor do livro *Independência do Brasil* (Editora Contexto), explica:
 
@@ -35,7 +34,7 @@ Os deputados portugueses desejavam que o Brasil perdesse a preponderância econ�
 
 Uma parte da bancada brasileira não gostou da ideia. O seu desejo não chegava a ser a primazia do Brasil, mas um peso semelhante ao do reino português. Chegou-se a dizer que o Brasil deveria ser para Portugal o que a Irlanda era para a Grã-Bretanha.
 
-[](https://www12.senado.leg.br/noticias/infomaterias/2022/08/a-pouco-conhecida-atuacao-do-parlamento-na-independencia-do-brasil/a-volta-de-dom-joao/@@images/imagem)A chegada de D. João VI a Lisboa em 1821, após 13 anos no Brasil (imagem: Constantino de Fontes/Biblioteca Nacional Digital)
+A chegada de D. João VI a Lisboa em 1821, após 13 anos no Brasil (imagem: Constantino de Fontes/Biblioteca Nacional Digital)
 
 Os portugueses juraram que a ideia das Cortes e da Constituição que se elaborava não era pôr o território americano numa posição subalterna, mas isso não foi suficiente para acalmar os ânimos dos brasileiros.
 
@@ -53,7 +52,7 @@ Os brasileiros não engoliram em particular a proposta que obrigava o Brasil a c
 
 — Devemos todos fazer sacrifícios mútuos. Não seja uma parte da monarquia superior à outra — pediu o deputado Borges de Barros, da província da Bahia.
 
-[](https://www12.senado.leg.br/noticias/infomaterias/2022/08/a-pouco-conhecida-atuacao-do-parlamento-na-independencia-do-brasil/aclamacao-de-dom-pedro-i/@@images/imagem)Dom Pedro I é aclamado imperador no Rio de Janeiro em 1822 (imagem: Jean-Baptiste Debret)
+Dom Pedro I é aclamado imperador no Rio de Janeiro em 1822 (imagem: Jean-Baptiste Debret)
 
 A historiadora Cecilia Helena de Salles Oliveira, professora do Museu do Ipiranga, em São Paulo, e autora do livro *Ideias em Confronto: Embates pelo poder na Independência do Brasil* (Editora Todavia), diz que os políticos brasileiros exageraram a intenção dos portugueses e espalharam que o que eles pretendiam era recolonizar o Brasil.
 
@@ -71,7 +70,7 @@ O historiador Antonio Barbosa, professor da Universidade de Brasília (UnB) e co
 
 No entanto, o plano de D. Pedro com fluminenses, paulistas e mineiros não era unânime dentro do próprio Brasil. Havia grupos em províncias como Pará e Maranhão que queriam a manutenção dos laços com Portugal. As duas províncias só aderiram ao Império do Brasil em 1823.
 
-[](https://www12.senado.leg.br/noticias/infomaterias/2022/08/a-pouco-conhecida-atuacao-do-parlamento-na-independencia-do-brasil/pagina-300/@@images/imagem)O ministro José Bonifácio denuncia a D. Pedro a ameaça de "recolonização" do Brasil (imagem: Documentos para a História das Cortes Gerais da Nação Portuguesa/Biblioteca do Senado)
+O ministro José Bonifácio denuncia a D. Pedro a ameaça de "recolonização" do Brasil (imagem: Documentos para a História das Cortes Gerais da Nação Portuguesa/Biblioteca do Senado)
 
 Nas Cortes de Lisboa, as divergências logo se transformaram em conflito irreconciliável. A julgar pelo que se ouvia dos deputados, a fratura do Reino Unido de Portugal, Brasil e Algarves era iminente. Boa parte dos deputados brasileiros já não aceitava a união sob nenhuma condição.
 
@@ -85,9 +84,9 @@ Animados pelos acontecimentos, diversos desses deputados abandonaram as Cortes e
 
 Assim, a crise entre as Cortes de Lisboa e o príncipe D. Pedro chegou a um ponto sem volta e culminou com o grito, em 7 de setembro, às margens do Riacho do Ipiranga. A Constituição lusitana, sem poder abranger o Brasil, ficaria pronta duas semanas mais tarde.
 
-[](https://www12.senado.leg.br/noticias/infomaterias/2022/08/a-pouco-conhecida-atuacao-do-parlamento-na-independencia-do-brasil/pagina-448/@@images/imagem)Deputados reunidos na Cadeia Velha, no Rio: sede da Assembleia Constituinte (imagem: Notices of Brazil in 1828 and 1829/Biblioteca do Senado)
+Deputados reunidos na Cadeia Velha, no Rio: sede da Assembleia Constituinte (imagem: Notices of Brazil in 1828 and 1829/Biblioteca do Senado)
 
-De acordo com o historiador João Paulo Pimenta, da USP, o Parlamento português desempenhou um papel duplo na formação do Brasil como país independente: 
+De acordo com o historiador João Paulo Pimenta, da USP, o Parlamento português desempenhou um papel duplo na formação do Brasil como país independente:
 
 — Por um lado, as Cortes ofereceram o espaço para o choque de interesses que levou à separação entre Brasil e Portugal. Por outro lado, foram uma grande inspiração para o Brasil. Foi olhando para as Cortes que nós criamos o nosso próprio Parlamento, uma instituição política de extrema importância que, com uma ou outra mudança no decorrer destes 200 anos, nos acompanha até hoje.
 

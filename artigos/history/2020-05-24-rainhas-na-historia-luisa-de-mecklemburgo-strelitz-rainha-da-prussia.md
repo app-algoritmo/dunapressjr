@@ -7,10 +7,9 @@ categories:
 - History
 ---
 
-
 A Rainha Luísa da Prússia foi a famosa esposa de Frederico Guilherme III, rei da Prússia, e reinou entre os anos de 1797 a 1810. Foi conhecida principalmente pela famosa reunião pessoal com Napoleão Bonaparte que acabou por despertar grande atração pública a sua pessoa.
 
-*Rainha Luísa - 
+*Rainha Luísa -
 Retrato por Josef Maria Grassi, 1802*
 
 ## **Vida antes da realeza.**
@@ -29,7 +28,7 @@ Após o casório, o casal fora morar no interior, optando assim por uma vida mai
 
 Os protocolos da época não permitiam a presença da rainha em viagens com o rei, tais viagens tinham o intuito de fazê-lo conhecer as provinhas e as pessoas presentes nela, entretanto, Frederico fazia questão de obedecer ao desejo de sua esposa de acompanha-lo, com isto, a Rainha Luísa se fazia presente em quase todas as ações e movimentações do Rei.
 
-*Frederico Guilherme III e rainha Luísa no jardim do Palácio Charlottenburg* 
+*Frederico Guilherme III e rainha Luísa no jardim do Palácio Charlottenburg*
 
 A Rainha fazia questão de estar presente aos assuntos políticos da corte, ela logo criou laços com os ministros e tinha sempre opinião sobre os assuntos do Estado. O Rei Frederico, por vezes demasiado hesitante e cuidadoso consultava sua esposa em toda ação de governo.
 
@@ -63,7 +62,7 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-*[https://dunapress.org/subscription-plan/?ref=Vitor](https://dunapress.org/subscription-plan/?ref=Vitor)*
+*[https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)*
 
 **Referencias.**
 

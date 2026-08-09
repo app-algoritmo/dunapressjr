@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Todo o dinheiro destinado à construção do Memorial da Anistia Política do Brasil, em Belo Horizonte (BH), vai ter que voltar para os cofres públicos. O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) cobrou a devolução de quase R$29 milhões dos responsáveis pela obra executada durante quase uma década e que já custou cinco vezes mais do que o previsto.
 
 O projeto inacabado, que era tocado pela Universidade Federal de Minas Gerais (UFMG), teve a prestação de contas reprovada. A instituição foi notificada e tem 30 dias para apresentar defesa ou efetuar o pagamento da Guia de Recolhimento da União (GRU). Caso o prazo não seja cumprido, poderá ocorrer a instauração de Tomada de Contas Especial.
@@ -39,6 +38,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

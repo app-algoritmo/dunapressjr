@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para famílias de renda mais alta a inflação passou de 1,05% para 0,29%.
 
 A taxa de inflação para as famílias de renda mais baixa (cujo rendimento familiar mensal é menor que R$ 1.650,50) registrou um recuo de 1,58%, em dezembro, para 0,21% no primeiro mês de 2021. A informação consta do Indicador Ipea de Inflação por Faixa de Renda referente a janeiro, divulgado hoje (12) pelo Instituto de Pesquisa Econômica Aplicada (Ipea).
@@ -20,7 +19,7 @@ Para o Ipea, o principal alívio para o segmento mais pobre da população foi a
 
 A energia elétrica não contribuiu tanto para desacelerar a inflação na faixa de renda mais alta da população, pois esse item tem peso menor na cesta de consumo dessas famílias. Ao mesmo tempo, elas foram mais atingidas pelo aumento de 2,17% da gasolina. O impacto do grupo de transportes sobre essa faixa de renda só não foi maior graças à deflação das passagens aéreas (-19,9%) e dos transportes por aplicativo (-12,1%).
 
-Além dos combustíveis, os reajustes de 0,66% dos planos de saúde e de uma série de serviços, como costureira (1,32%), depilação (1,28%) e cartório (7,82%), ajudaram tornar a desaceleração inflacionária menos intensa para as famílias mais ricas em janeiro. 
+Além dos combustíveis, os reajustes de 0,66% dos planos de saúde e de uma série de serviços, como costureira (1,32%), depilação (1,28%) e cartório (7,82%), ajudaram tornar a desaceleração inflacionária menos intensa para as famílias mais ricas em janeiro.
 
 Em comparação com janeiro de 2020, somente as famílias de renda muito baixa e renda média alta (com rendimentos entre R$ 8.254,83 e R$ 16.509,66) apresentaram taxas de inflação um pouco menores, com redução de 0,23% para 0,21% e de 0,28% para 0,27%, respectivamente.
 
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

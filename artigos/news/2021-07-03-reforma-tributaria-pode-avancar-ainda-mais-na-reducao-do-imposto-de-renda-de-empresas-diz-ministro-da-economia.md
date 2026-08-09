@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Segundo Guedes, enfrentar o fim de subsídios hoje concedido a poucas empresas é essencial para permitir queda mais acentuada do IRPJ.
 
 O ministro da Economia, Paulo Guedes, reforçou nesta quinta-feira (01/07) que a segunda etapa da Reforma Tributária, entregue semana passada ao Congresso Nacional, já está sendo aperfeiçoada e poderá contemplar quedas ainda mais intensas na tributação das empresas. O ministro disse que os resultados da arrecadação estão sendo bastante positivas, com alta de 22%, em termos reais, nos primeiros cinco meses do ano. “Todo o aumento de arrecadação vai ser transformado em redução de imposto“, assegurou. Considerando a hipótese de que sejam revogados também subsídios a setores específicos, a redução da tributação poderá ser ainda mais acentuada, apontou Guedes em *live* conduzida pelo empresário Abílio Diniz
@@ -31,8 +30,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

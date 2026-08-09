@@ -7,7 +7,6 @@ categories:
 - Chronicle
 ---
 
-
 Com certeza é o medo. Não quer dizer que não se deva ter medo de algumas coisas, receio de fazer outras, precaução para realizar tantas outras, como pular de um penhasco sem paraquedas, corda ou parapente. Nem mesmo tomar veneno confiantemente achando que o medo irá lhe prejudicar, pois o que vai lhe fazer mal é o veneno.
 
 Porém, o medo afeta todos os sentidos, sua noção de verdade ou não, realidade ou fantasia. Cria bloqueios mentais e físicos. Pode afetar as escolhas e formas de interpretar acontecimentos e fatos. Os dias de hoje e a situação que estamos passando tanto em níveis políticos, saúde, segurança, educação hoje nos ligam ao medo, correto? Basta pensar.
@@ -28,7 +27,7 @@ Imagem em destaque: isto é
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

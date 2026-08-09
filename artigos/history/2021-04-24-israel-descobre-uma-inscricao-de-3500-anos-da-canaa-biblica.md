@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 ## A escrita, uma combinação de seis letras em duas linhas distintas, é apresentada em um fragmento de cerâmica encontrado no local localizado na região de Shephelah, no centro-sul de Israel.
 
 Uma inscrição de 3.500 anos recentemente descoberta em Tel Lachish é a peça escrita mais antiga já encontrada em Israel e oferece uma visão sem precedentes sobre o desenvolvimento dos primeiros alfabetos, um estudo publicado na revista Antiquity revelou.
@@ -37,7 +36,7 @@ Laquis mais tarde se tornou uma importante cidade israelita no Reino de Judá, a
 
 ”Antes da descoberta da inscrição, os especialistas acreditavam que a escrita poderia ter sido trazida pelos egípcios ao Levante, já que os arqueólogos costumavam se referir a uma área que inclui o Israel moderno, territórios palestinos, partes do Líbano e Jordânia.
 
-“No final da Idade do Bronze, entre 1550 e 1200 aC, a região estava sob o império egípcio”, disse Höflmayer. “Os egípcios impuseram seu sistema administrativo e sua própria escrita, e muitos especialistas pensaram que o alfabeto primitivo poderia ter sido introduzido neste contexto. Mas agora podemos ver que já estava em uso pelo menos por volta do século 15 AEC, quando não havia tal dominação egípcia em larga escala. 
+“No final da Idade do Bronze, entre 1550 e 1200 aC, a região estava sob o império egípcio”, disse Höflmayer. “Os egípcios impuseram seu sistema administrativo e sua própria escrita, e muitos especialistas pensaram que o alfabeto primitivo poderia ter sido introduzido neste contexto. Mas agora podemos ver que já estava em uso pelo menos por volta do século 15 AEC, quando não havia tal dominação egípcia em larga escala.
 
 ”Höflmayer disse que embora as letras identificadas no fragmento tenham nomes e componham palavras que podem soar familiares para um falante do hebraico moderno, o alfabeto não era o alfabeto hebraico, mas sim um alfabeto do qual o hebraico evoluiria séculos depois.
 
@@ -55,5 +54,3 @@ Fonte: https://www.jpost.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

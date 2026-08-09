@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Guedes reforçou compromisso em evitar perda para estados.
 
 Em meio a mudanças na reforma tributária inseridas pelo Congresso, o ministro da Economia, Paulo Guedes, disse nesta sexta-feira (20) preferir que não haja nenhuma reforma a ter uma proposta que resulte em piora do sistema atual. Ele deu a declaração em audiência pública no Senado.
@@ -28,7 +27,7 @@ Segundo o ministro, a proposta atual mexe com interesses, principalmente de quem
 
 A diminuição da alíquota do Imposto de Renda Pessoa Jurídica, para Guedes, significa uma aposta no crescimento do país. “[A alíquota] vai cair. Isso é uma aposta. Uma aposta no vigor, na recuperação econômica, aposta de que os impostos, baixando para as empresas, [farão] os investimentos aumentar. Mas a hora de fazer essa aposta é agora. A arrecadação está crescendo, as empresas estão batendo recordes de resultados”, comentou.
 
-## Fatiamento 
+## Fatiamento
 
 O ministro disse considerar impossível fazer uma reforma ampla e que prefere fatiar a reforma tributária, com a apresentação de diversas propostas sobre pontos específicos. Mesmo assim, ele prometeu aos senadores apresentar, em 30 ou 60 dias, um texto mais amplo, que abranja a reforma de outros tributos, não apenas do Imposto de Renda.
 
@@ -36,10 +35,6 @@ No entanto, impôs condições, como evitar compensações bilionárias da Uniã
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

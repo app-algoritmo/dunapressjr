@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Piso salarial mediano chegou a R$ 1.441.
 
 O resultado preliminar das negociações salariais coletivas em julho mostra que 70,3% dos reajustes estão abaixo do Índice Nacional de Preços ao Consumidor (INPC) acumulado, indicou o boletim mensal Salariômetro - Mercado de Trabalho e Negociações Coletivas da Fundação Instituto de Pesquisas Econômicas (Fipe).
@@ -20,8 +19,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

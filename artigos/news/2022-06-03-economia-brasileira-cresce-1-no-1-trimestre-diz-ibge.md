@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O PIB totalizou R$ 2,2 trilhões, no primeiro trimestre.
 
 O Produto Interno Bruto (PIB), a soma de todos os bens e serviços produzidos no país, cresceu 1% no primeiro trimestre deste ano, na comparação com o trimestre anterior. O dado foi divulgado nesta quinta-feira (2) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

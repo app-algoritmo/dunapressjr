@@ -7,7 +7,6 @@ categories:
 - Events
 ---
 
-
 O Teatro Municipal de Itajaí recebe o espetáculo “Tax Tolo?”, com a personagem Déte Pexera, no próximo domingo (05). A apresentação começa às 19h30, com classificação livre. Os ingressos custam R$ 66 (inteira) e R$ 33 (meia e promocional com a doação de um quilo de alimento não perecível). As entradas podem ser adquiridas na bilheteria do teatro ou no site Ingresso Nacional.
 
 Déte Pexera, personagem criada pelo artista Rizzih, traz um show de comédia com novas histórias, casos do cotidiano e dramas da mulher contemporânea, além dos favoritos de suas apresentações anteriores.
@@ -37,7 +36,5 @@ Fonte: https://itajai.sc.gov.br/noticias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
 
 src="https://i0.wp.com/dunapress.org/wp-content/uploads/2021/04/Duna-Edu-Banner-Afiliados_2.png?w=1220&ssl=1" data-recalc-dims="1" data-lazy-src="https://i0.wp.com/dunapress.org/wp-content/uploads/2021/04/Duna-Edu-Banner-Afiliados_2.png?w=1220&is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image">

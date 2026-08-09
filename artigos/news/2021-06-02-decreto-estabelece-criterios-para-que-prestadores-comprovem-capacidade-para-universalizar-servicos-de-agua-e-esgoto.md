@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Medida é a mais aguardada desde a mudança no Marco Legal e visa garantir o cumprimento das metas estabelecidas em contrato.
 
 Foi publicado, no Diário Oficial da União desta terça-feira (1), o [Decreto nº 10.710/2021](https://www.in.gov.br/en/web/dou/-/decreto-n-10.710-de-31-de-maio-de-2021-323171056), que estabelece a metodologia e os critérios para que os prestadores de serviços públicos de abastecimento de água potável e de esgotamento sanitário comprovem a capacidade econômico-financeira para cumprir as metas de universalização estipuladas pelo novo Marco Legal do Saneamento.
@@ -41,8 +40,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

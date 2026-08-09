@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## “É a primeira ação judicial do tipo sob a lei de saúde animal. Ativistas esperam que seja um grande ponto de virada para colocar um fim a esse comércio brutal"
 
 Na Indonésia, uma ação judicial inédita contra fornecedores e comerciantes de carne de cachorro pode resultar em até cinco anos de cadeia e multa equivalente a até R$ 1,4 milhão com base em uma lei relativa à saúde animal (Lei 18/2009) e outra sobre alimentação (Lei 18/2021). O processo é uma iniciativa do Ministério Público de Kulon Progo, em Yogyakarta.
@@ -45,5 +44,3 @@ Fonte: [https://vegazeta.com.br](https://vegazeta.com.br)
 [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

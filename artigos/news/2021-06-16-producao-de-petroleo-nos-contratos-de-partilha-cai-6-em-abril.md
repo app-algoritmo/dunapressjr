@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Produção diária foi de 55 mil barris.
 
 A produção de petróleo nos contratos de partilha registrou em abril média diária de 55 mil barris. Dos três contratos, a Área de Desenvolvimento de Mero foi responsável por 40 mil barris por dia, seguida de Entorno de Sapinhoá (10 mil) e Tartaruga Verde Sudoeste (6 mil). A média diária foi 6% menor em comparação ao mês anterior, devido à parada programada de Mero para teste de integridade.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No mês anterior, o indicador havia registrado inflação de 1,45%.
 
 O Índice Geral de Preços – Disponibilidade Interna (IGP-DI), medido pela Fundação Getulio Vargas (FGV), registrou deflação (queda de preços) de 0,14% em agosto deste ano. No mês anterior, o indicador havia registrado inflação de 1,45%. Já em agosto de 2020, a taxa havia sido de 3,87%.
@@ -22,10 +21,6 @@ O IPC recuou de 0,92% em julho para 0,71% em agosto. Já o INCC caiu de 0,85% pa
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

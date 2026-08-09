@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O texto final será encaminhado ao Congresso no ano que vem.
 
 O ministro das Comunicações, Fábio Faria, entregou hoje (14) à Presidência da República o projeto de lei (PL) que cria as condições para a privatização dos Correios. De acordo com ele, o texto final deve ser encaminhado ao Congresso no ano que vem e a expectativa é que seja aprovado até o final de 2021, para que seja iniciado o processo de venda da empresa à iniciativa privada.
@@ -28,8 +27,6 @@ O projeto de Lei prevê ainda a criação da Agência Nacional de Comunicações
 
 https://twitter.com/fabiofaria5555/status/1316370420845740033?s=19
 
-Fonte: Agência Brasil - Imagem de destaque: Marcelo Camargo/Agência Brasil 
+Fonte: Agência Brasil - Imagem de destaque: Marcelo Camargo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

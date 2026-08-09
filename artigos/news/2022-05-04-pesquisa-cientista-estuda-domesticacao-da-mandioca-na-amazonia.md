@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Alessandro Alves-Pereira é bacharel em Genética e Biotecnologia pela Universidade Federal do Amazonas (Ufam), mestre em Genética, Conservação e Biologia Evolutiva, pelo Instituto Nacional de Pesquisas da Amazônia (Inpa), e doutor em Genética e Melhoramento de Plantas, pela Escola Superior de Agricultura Luiz de Queiróz (Esalq/USP). O foco de seus estudos no doutorado e pós-doutorado, feito na Universidade de Campinas (Unicamp), financiados, em parte, pela CAPES, foi entender como o processo de transformação da mandioca na Amazônia, nos últimos nove mil anos, influenciou os níveis de diversidade genética. Parte de seus estudos foi publicado nas Revistas *Evolutionary Applications* e *Scientific Reports* e podem ser encontrados em [https://doi.org/10.1111/eva.12873](https://doi.org/10.1111/eva.12873) e [https://doi.org/10.1038/s41598-022-05160-8](https://doi.org/10.1038/s41598-022-05160-8).
 
 **De onde surgiu seu interesse em estudar a origem e o processo de diversificação da mandioca na Amazônia?**
@@ -41,7 +40,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

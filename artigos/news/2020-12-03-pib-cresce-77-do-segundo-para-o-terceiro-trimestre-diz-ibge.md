@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Apesar do crescimento, economia não recuperou perdas da pandemia.
 
 O Produto Interno Bruto (PIB), que é a soma dos bens e serviços finais produzidos no país, cresceu 7,7% no terceiro trimestre, em relação ao período anterior. Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), que divulgou, hoje (3), os números das Contas Trimestrais, essa é a maior variação desde o início da série em 1996, mas ainda insuficiente para recuperar as perdas provocadas pela pandemia. O resultado indicou ainda que a economia do país se encontra no mesmo patamar de 2017, com uma perda acumulada de 5% de janeiro a setembro, em relação ao mesmo período de 2019.
@@ -45,7 +44,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para setor produtivo, juros baixos ajudam na recuperação da economia.
 
 A manutenção da taxa Selic (juros básicos da economia) em 2% ao ano, no menor nível da história, representou uma decisão acertada, que ajuda na recuperação da economia, avaliam entidades do setor produtivo. Para as entidades, os juros baixos são importantes para que o emprego e a atividade econômica voltem a crescer em ritmo mais rápido.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

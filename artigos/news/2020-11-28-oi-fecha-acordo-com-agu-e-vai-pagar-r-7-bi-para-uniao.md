@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Operadora de telefonia está em recuperação judicial desde 2016.
 
 Em recuperação judicial desde 2016, o grupo de telecomunicações Oi fechou um acordo com a Advocacia-Geral da União (AGU) para obter um desconto de 50% na dívida de R$ 14,3 bilhões com a União. Os débitos vinham de 198 multas aplicadas pela Agência Nacional de Telecomunicações (Anatel) à operadora.
@@ -25,5 +24,3 @@ Fonte: Agência Brasil – Imagem de destaque: Wesley Mcallister/AscomAGU
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

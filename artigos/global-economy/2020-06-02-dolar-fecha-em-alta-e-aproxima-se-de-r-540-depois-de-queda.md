@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa sobe 1,39% e fecha no maior nível em quase três meses.
 
 Em um dia de movimentos contraditórios no mercado financeiro, a bolsa de valores fechou no maior valor em três meses, mas o dólar enfrentou volatilidade. A moeda norte-americana aproximou-se de R$ 5,40, o que fez o Banco Central (BC) intervir no câmbio.
@@ -37,5 +36,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Portaria que amplia transação tributária foi publicada nesta sexta-feira.
 
 A partir de 1º de setembro, os contribuintes com grandes dívidas com a Receita Federal poderão renegociar os débitos com até 70% de desconto. A Receita Federal publicou nesta sexta-feira (12) a [**portaria**](https://in.gov.br/en/web/dou/-/portaria-rfb-n-208-de-11-de-agosto-de-2022-421960153) que aumentará os benefícios para quem quer parcelar até R$ 1,4 trilhão em dívidas tributárias que ainda não estão sob contestação judicial.
@@ -63,8 +62,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

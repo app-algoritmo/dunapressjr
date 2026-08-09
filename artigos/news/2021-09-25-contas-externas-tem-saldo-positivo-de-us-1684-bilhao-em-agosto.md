@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No mesmo mês de 2020, o superávit foi de US$ 950 milhões.
 
 As contas externas tiveram saldo positivo de US$ 1,684 bilhão em agosto, informou nesta sexta-feira (25) o Banco Central (BC). No mesmo mês de 2020, o superávit foi de US$ 950 milhões nas transações correntes, que são as compras e vendas de mercadorias e serviços e transferências de renda com outros países.
@@ -70,10 +69,6 @@ De acordo com Rocha, a alocação feita pelo FMI visa dar liquidez aos países n
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Uma das maiores coleções de impressões de selos do reino real de Judá foi descoberta em um enorme complexo de arrecadação e armazenamento de impostos públicos do período do Primeiro Templo que está sendo escavado perto da nova Embaixada dos Estados Unidos em Jerusalém. A estrutura principal da Idade do Ferro é excepcional em termos de tamanho e estilo arquitetônico, disse o arqueólogo Neri Sapir, da Autoridade de Antiguidades de Israel, que co-dirigiu a escavação.
 
 Descoberto a apenas três quilômetros (1,8 milhas) fora da Cidade Velha, os arqueólogos da Autoridade de Antiguidades de Israel acreditam que o complexo serviu como um centro administrativo durante os reinados dos reis da Judéia Ezequias e Menashe (século 8 a meados do século 7 a.C.) .
@@ -97,7 +96,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

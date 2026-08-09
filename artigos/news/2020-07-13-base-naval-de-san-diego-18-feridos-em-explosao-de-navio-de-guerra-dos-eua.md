@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Não está claro imediatamente o que causou chamas no USS Bonhomme Richard, um navio de assalto anfíbio; Marinha diz feridos hospitalizados com 'ferimentos que não ameaçam a vida'.
 
 Dezoito pessoas sofreram ferimentos leves em uma explosão e incêndio neste domingo a bordo de um navio na Base Naval de San Diego, disseram oficiais militares.
@@ -36,6 +35,6 @@ Fonte The Time Of Israel
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

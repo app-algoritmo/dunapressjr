@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Segundo Tesouro, emissões recomporão caixa do governo.
 
 A melhoria das condições de mercado e a necessidade de recompor o caixa deverão fazer o estoque da Dívida Pública Federal (DPF) fechar 2020 acima da meta de R$ 4,9 trilhões, disse nesta quarta-feira (23) o coordenador de Operações da Dívida Pública, Roberto Lobarinhas. Em agosto, o Tesouro Nacional tinha estabelecido que [**a DPF poderia fechar o ano entre R$ 4,6 trilhões e R$ 4,9 trilhões**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-08/tesouro-eleva-para-r-49-tri-teto-da-divida-publica-federal-para-2020).
@@ -42,8 +41,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

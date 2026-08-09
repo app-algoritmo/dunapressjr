@@ -8,9 +8,6 @@ categories:
 - Covid-19
 ---
 
-
-[](https://uncutnews.ch/kontakt/#newsletter)
-
 # Novas evidências de arquivos confidenciais mostram que cientistas chineses reuniram patógenos mortais pouco antes da pandemia, relata o Sunday Times Insight Team.      
 
 Cientistas em Wuhan, trabalhando com os militares chineses, combinaram os coronavírus mais mortais do mundo para criar um novo vírus mutante no momento em que a pandemia estava começando.

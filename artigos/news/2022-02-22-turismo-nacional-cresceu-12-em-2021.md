@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Movimentação ainda segue abaixo do período pré-pandemia.
 
 O turismo no Brasil cresceu 12% em 2021 na comparação com o ano anterior, mostra levantamento do Conselho de Turismo da Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo (FecomercioSP). O percentual representa um faturamento de R$ 152,4 bilhões. O volume, no entanto, ainda está abaixo do verificado em 2019, quando a soma alcançou R$ 201,2 bilhões, 24,2% a mais, já descontada a inflação do período.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

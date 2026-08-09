@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 No mundo das serpentes, é normal vermos uma grande diversidade de cores entre as diferentes espécies: a cobra coral possui anéis pretos, vermelhos e brancos ou amarelados; a caninana é amarela com grandes manchas pretas; já a cascavel é marrom, com losangos em marrom mais escuro ao longo de seu corpo. Essas cores ajudam as cobras a se camuflar para se proteger e caçar as presas que se transformarão em alimento. Além disso, indicam quais são os comportamentos daquela espécie, ou seja, como e onde elas vivem e sobrevivem melhor.
 
 “Uma serpente verde indica que a espécie tem hábitos arborícolas, pois elas se camuflam nas folhas de um arbusto. Uma serpente com cor de galho e fina se camufla nos galhos das árvores”, explica o diretor do Centro de Desenvolvimento Cultural e diretor do Museu Biológico do Butantan, Giuseppe Puorto.
@@ -26,7 +25,7 @@ O que a cobra pode realmente fazer é mudar de cor na fase adulta. A periquitamb
 
 **É possível a mesma espécie ter variação de cores?**
 
-Sim! A jararacuçu é um exemplo disso. A fêmea da espécie tem um corpo maior e apresenta uma coloração mais amarela com um pouco de preto. Já o macho é menor, tem pouca cor amarela e uma mescla de cores maiores. 
+Sim! A jararacuçu é um exemplo disso. A fêmea da espécie tem um corpo maior e apresenta uma coloração mais amarela com um pouco de preto. Já o macho é menor, tem pouca cor amarela e uma mescla de cores maiores.
 
 **Cores fora do padrão**
 
@@ -43,7 +42,3 @@ Fonte: https://butantan.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

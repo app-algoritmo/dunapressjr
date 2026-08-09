@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa cai no dia, mas acumula ganhos na semana.
 
 Em um dia em que o real se descolou da maioria das moedas de países emergentes, o dólar subiu, amparado pelo cenário externo adverso e pelas tensões com a política fiscal no Brasil. A bolsa caiu nesta sexta-feira (16), mas acumulou ganhos na semana.
@@ -27,5 +26,3 @@ O real, no entanto, desvalorizou-se com a possibilidade de que o estado de calam
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Resultado primário fica positivo em R$ 19,308 bilhões.
 
 O aumento da arrecadação, o pagamento de dividendos recordes da Petrobras e o adiamento de precatórios ajudaram as contas públicas em julho. No mês passado, o Governo Central – Tesouro Nacional, Previdência Social e Banco Central – registrou superávit primário de R$ 19,308 bilhões, divulgou nesta terça-feira (30) o Tesouro Nacional. Este é o maior superávit para o mês desde o início da série histórica.
@@ -50,8 +49,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

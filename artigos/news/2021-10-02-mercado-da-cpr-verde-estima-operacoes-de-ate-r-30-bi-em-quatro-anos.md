@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Cédula de Produto Rural Verde inclui ações que aumentem biodiversidade.
 
 O governo federal estima que o mercado potencial da Cédula de Produto Rural (CPR) Verde pode envolver até R$ 30 bilhões em operações em um período de quatro anos. A informação foi repassada nesta sexta-feira (1°) à imprensa pelo Ministério da Economia, em entrevista coletiva na qual foi detalhado o funcionamento da CPR Verde, um instrumento voltado para o pagamento por serviços ambientais (PSA).
@@ -40,10 +39,6 @@ Durante a coletiva, o secretário adjunto de Clima e Relações Internacionais d
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

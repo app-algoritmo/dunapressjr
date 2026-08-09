@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Essa foi a maior variação para um mês de julho desde 2004 (0,93%).
 
 O Índice Nacional de Preços ao Consumidor Amplo – 15 (IPCA-15), que mede a prévia da inflação oficial, registrou inflação de 0,72% em julho deste ano. Essa foi a maior variação do IPCA-15 para um mês de julho desde 2004 (0,93%).
@@ -28,10 +27,6 @@ Por outro lado, dois grupos tiveram deflação (queda de preços): saúde e cuid
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Sally Noach o "Schindler holandês " morreu em 30 de março de 1980, mas sua história   não foi contada até que sua filha investigou seus esforços em tempos de guerra e encontrou um heroísmo alimentado por esperança.
 
 Em agosto de 1942, quando a rede nazista ficou cada vez mais apertada em torno dos judeus da França de Vichy, um diplomata holandês entrou no Palácio da Justiça de Lyon e exigiu com sucesso a libertação de 118 prisioneiros.
@@ -17,7 +16,7 @@ No dia seguinte, o mesmo holandês, Sally Noach, apareceu no Stade des Iris, nos
 
  *Sally Noach o "Schindler holandês *
 
-A maioria falava polonês e ídiche, e ele não. No entanto, usando mímica e linguagem de sinais, ele conseguiu se fazer entender. 
+A maioria falava polonês e ídiche, e ele não. No entanto, usando mímica e linguagem de sinais, ele conseguiu se fazer entender.
 
 “Eu dei nomes inventados às pessoas e detalhes pessoais falsos. Continuei escrevendo até ficar sem papéis ”, recordou Noach mais tarde.
 
@@ -29,7 +28,7 @@ De fato, Noach era ele próprio um refugiado judeu e ex-vendedor ambulante de t�
 
 Noach, raramente falou sobre suas façanhas em tempos de guerra. É apenas através do trabalho incansável de escavação e detetive de seus filhos, Lady Irene Hatter, uma filantropo britânica casada com o ex-industrial Sir Maurice Hatter e Jacques Noach, que a história completa de suas atividades em Lyon chegou a ser contada.
 
-Produzido por Paul Goldin e lançado no ano passado, o longa-metragem resultando [documentário](https://www.forgottensoldier.co.uk/) , “Soldado Esquecido”, levanta o véu sobre um homem cuja vontade de quebrar as regras assegurou que durante sua vida ele nunca iria receber o reconhecimento que, sem dúvida, merecia. 
+Produzido por Paul Goldin e lançado no ano passado, o longa-metragem resultando [documentário](https://www.forgottensoldier.co.uk/) , “Soldado Esquecido”, levanta o véu sobre um homem cuja vontade de quebrar as regras assegurou que durante sua vida ele nunca iria receber o reconhecimento que, sem dúvida, merecia.
 
 ### A criação de um rebelde
 
@@ -40,8 +39,6 @@ Em maio de 1940, quando a blitzkrieg alemã atravessou a Bélgica e a Holanda, N
 Depois de uma curta estadia em uma vila nos Pirinéus, Noach foi para Lyon. Graças à sua posição na zona desocupada do sul da França - que foi governada pelo regime colaborativo de Vichy, de Marshall Philippe Pétain - tornou-se um ímã para os refugiados. Dentro de semanas, sua população judaica de 4.000 havia aumentado para 40.000. Com sua reputação de ilegalidade, a cidade ficou conhecida como a “capital da resistência”; um local de onde era possível escapar para o leste, para a fronteira com a Suíça ou para o sul, para a fronteira com a Espanha.
 
 Em Lyon, Noach encontrou o consulado holandês e se ofereceu para ser um tradutor. A oferta foi aceita com gratidão pelo cônsul Maurice Jacquet, que falava apenas francês. Noach, assim, tornou-se o primeiro ponto de contato dos refugiados holandeses - muitos deles judeus - que estavam agora dominando a missão. Noach também assumiu o papel de intérprete na corte militar e começou a estabelecer contatos com funcionários simpáticos nos gendarmes de Pétain. Ele também usou seus contatos comerciais para convencer os comerciantes têxteis importantes a fornecer o dinheiro necessário para o "fundo de combate" do consulado para ajudar os refugiados.
-
-[](https://static.timesofisrael.com/www/uploads/2020/02/Hatter-and-Noach.png)
 
 *Lady Irene Hatter e o irmão Jacques Noach em uma cena de 'Forgotten Soldier' ​​(Cortesia: Road on the Show Productions Ltd)*
 
@@ -62,8 +59,6 @@ O consulado de Jacquet, no entanto, era uma raridade. Somente em Lyon e Perpigna
 Robert Gildea, professor da Universidade de Oxford, é um dos muitos especialistas entrevistados em "Soldado Esquecido". Diz Gildea: “A história de Sally Noach é realmente uma história de resgate e, por um longo tempo, o resgate não conseguiu muito lugar na mesa de resistência porque as pessoas viam resistência basicamente como sabotar trens."
 
 "Mas a resistência e o resgate dos judeus foram uma guerra dentro da guerra, porque não apenas eles estavam travando uma guerra contra a ocupação nazista, mas também estavam travando uma guerra contra o Holocausto", diz Gildea.
-
-[](https://static.timesofisrael.com/www/uploads/2020/02/Hatter.png)
 
 *Lady Irene Hatter em uma cena de 'Forgotten Soldier' ​​(Cortesia: Road on the Show Productions Ltd)*
 
@@ -93,8 +88,6 @@ Entre os que ele salvou estavam dois de seus irmãos, esposas e filhos. Hatter, 
 
 Noach quebrou seu silêncio, mas apenas brevemente. Em 1971, dois anos depois de ter sido homenageado pela família real holandesa com o maior prêmio que a Casa de Orange pode conceder, ele publicou um pequeno livro de memórias e deu uma entrevista à TV holandesa. "Eu li, mas não o compreendo totalmente", lembra Hatter. Mas quando ele foi nomeado para uma medalha concedida àqueles que ajudaram cidadãos holandeses durante a guerra, o governo recusou. Só foi finalmente concedido quando ele morreu em 1980.
 
-[](https://static.timesofisrael.com/www/uploads/2020/02/Noach-memoir.png)
-
 *Livro de memórias não-comemorado de Sally Noach nos anos 70, em holandês (Cortesia: Road on the Show Productions Ltd)*
 
 Os ciúmes e a mesquinhez que levaram ao tratamento de Noach pela autoridade não podem competir, no entanto, com a história que o filme de Hatter conta e a prova viva da coragem e tenacidade de seu pai que ela descobre. Ela começa o filme acompanhando sua passagem pela França para Lyon e depois para Londres. "Fomos nessa jornada, mas, à medida que avançava, descobri cada vez mais", diz Hatter. "Todas as partes que eu sabia, é como um quebra-cabeça, você as reúne e isso se tornou cada vez mais uma imagem completa para mim."
@@ -102,8 +95,6 @@ Os ciúmes e a mesquinhez que levaram ao tratamento de Noach pela autoridade nã
 As cenas finais do filme acontecem nos Estados Unidos, onde, graças a anúncios que foram colocados nos jornais, Hatter se reúne com sobreviventes que reconhecem prontamente a dívida que eles e suas famílias deviam a Noach.
 
 Herman Veder tinha seis anos quando, juntamente com seu irmão e seus pais, foram presos em agosto de 1942 e presos no Palais de Justice. Noach garantiu sua libertação com documentos de identidade falsos - descobertos pelo irmão de Hatter em um arquivo de Amsterdã - que alteraram a religião da família de judia para calvinista. Os documentos permitiram que a família viajasse da França pela Espanha e Portugal e depois seguisse para a segurança na colônia holandesa do Suriname, na costa atlântica do nordeste da América do Sul.
-
-[](https://static.timesofisrael.com/www/uploads/2020/02/Archives.png)
 
 *Lady Irene Hatter e o irmão Jacques Noach examinam os documentos de identidade falsos que salvaram a família de Herman Veder em uma cena de 'Forgotten Soldier' ​​(Cortesia: Road on the Show Productions Ltd)*
 

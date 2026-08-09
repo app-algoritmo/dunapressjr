@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Mês teve distribuição de seis debêntures, nos setores de Energia e Saneamento.
 
 As emissões de debêntures incentivadas de Infraestrutura alcançaram R$ 2,7 bilhões em maio. Esse montante é resultado da distribuição de seis debêntures, vinculadas aos setores de Energia e Saneamento. As informações constam da 90ª edição do [Boletim de Debêntures Incentivadas](https://www.gov.br/economia/pt-br/centrais-de-conteudo/publicacoes/boletins/boletim-de-debentures-incentivadas/2021/spe-me-boletim-debentures-lei-12-431-mai-2021.pdf), produzido pela Secretaria de Política Econômica (SPE) do Ministério da Economia e divulgada nesta segunda-feira (21/6).
@@ -28,8 +27,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

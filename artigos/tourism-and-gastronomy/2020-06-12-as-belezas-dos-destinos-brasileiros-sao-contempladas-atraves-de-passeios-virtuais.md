@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Sites reúnem opções de turismo online de Norte a Sul do país.
 
 Como a pandemia do novo coronavírus ainda afeta o Turismo no Brasil, as viagens virtuais conquistaram grande espaço nas plataformas digitais. Além de matar a saudade dos destinos nacionais, os tours online também são uma opção de programação de novas viagens para o turista na retomada do setor. Para facilitar o acesso a eles, o site GoPasseios, de uma startup situada em São José dos Campos (SP), decidiu reunir os materiais de várias plataformas em um só lugar.
@@ -25,5 +24,3 @@ O selo caminha de mãos dadas com os requisitos de biossegurança e é a primeir
 Imagem: Pedro Vilela
 
 Fonte: Turismo Gov BR
-
-[](https://dunapress.org/subscription-plan/?aff=Thami)

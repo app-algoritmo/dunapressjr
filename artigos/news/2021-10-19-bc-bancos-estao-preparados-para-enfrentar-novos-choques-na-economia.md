@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Cenário exige cautela diante de crise hídrica e variantes da covid-19.
 
 O Sistema Financeiro Nacional (SFN) está preparado para enfrentar todos os choques macroeconômicos e não há riscos relevantes para a estabilidade financeira do país, nem mesmo em relação à pandemia de covid-19. A avaliação é do Banco Central (BC), em seu [**Relatório de Estabilidade Financeira**](https://www.bcb.gov.br/publicacoes/ref), referente ao primeiro semestre do ano, divulga do nesta segunda-feira (18).
@@ -54,14 +53,10 @@ O BC considerou dois cenários. O primeiro com uma queda conjunta na atividade e
 
 Os resultados dos testes de estresse de capital seguem indicando resiliência do SFN para absorver os choques de todos os cenários simulados e os resultados indicam que não haveria “desenquadramentos relevantes”. Segundo o BC, os testes avaliaram também o efeito sobre o capital de uma eventual aprovação da reforma tributária em discussão no Congresso Nacional.
 
-No início da crise no ano passado, o BC estimou em R$ 400 bilhões a necessidade de provisões adicionais por parte do sistema e um aporte de R$ 70 bilhões na simulação que considerou um choque severo da pandemia. Já no segundo semestre de 2020, houve redução bastante significativa na necessidade de provisão, para R$ 128 bilhões, e o impacto para um enquadramento de todo o sistema financeiro seria algo na faixa de R$ 1,5 bilhão. 
+No início da crise no ano passado, o BC estimou em R$ 400 bilhões a necessidade de provisões adicionais por parte do sistema e um aporte de R$ 70 bilhões na simulação que considerou um choque severo da pandemia. Já no segundo semestre de 2020, houve redução bastante significativa na necessidade de provisão, para R$ 128 bilhões, e o impacto para um enquadramento de todo o sistema financeiro seria algo na faixa de R$ 1,5 bilhão.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

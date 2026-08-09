@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O dia 10 de abril é uma data muito importante para o Museu de Microbiologia (MMb) do Instituto Butantan: é nesse dia que a instituição comemora 19 anos. Criada em 2002 com a missão de estimular a curiosidade científica nos jovens e propiciar oportunidades de aproximação entre a cultura científica e o público em geral, o museu dialoga com a divulgação científica, a pesquisa e a produção em relação a micróbios e vacinas por meio de sua exposição de longa duração, de exposições temporárias e de atividades educativas.
 
 Infelizmente, porém, este será um aniversário comemorado longe do maior “bem” que o museu possui: o público. “Por outro lado, podemos conversar com todos que curtem e acompanham o Museu pelas redes sociais do Instituto ([@butantanoficial](https://www.instagram.com/butantanoficial/)) e do MMb ([@museudemicrobiologiaoficial](https://www.instagram.com/museudemicrobiologiaoficial/)), com a esperança de que brevemente poderemos nos encontrar presencialmente”, explica a diretora do Museu, Glaucia Colli Inglez.
@@ -33,7 +32,3 @@ Fonte: butantan.gov.br
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

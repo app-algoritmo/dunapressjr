@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 No total, serão 42 empreendimentos contemplados em 15 estados.
 
 O Ministério do Desenvolvimento Regional (MDR) repassou R$ 66,8 milhões para dar continuidade a obras de saneamento básico em 15 estados. No total, serão 42 empreendimentos contemplados, que envolvem ações de abastecimento, esgotamento sanitário, manejo de águas pluviais e saneamento integrado.
@@ -30,4 +29,4 @@ Empresas interessadas em assumir as concessões de parques de iluminação públ
 
 Fonte: gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

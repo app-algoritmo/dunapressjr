@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Durante os testes de laboratório, a pesquisa mostrou que "vários anticorpos neutralizantes são ineficazes no controle de outras variantes com os mesmos marcadores genéticos do BV-1", disse a universidade.
 
 Cientistas da Texas A&M University identificaram uma variante do novo coronavírus que é potencialmente resistente a anticorpos, anunciou a universidade em um comunicado.A cepa, BV-1, foi encontrada em um indivíduo que relatou sintomas leves de COVID-19.
@@ -42,5 +41,3 @@ Fonte: https://www.jpost.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

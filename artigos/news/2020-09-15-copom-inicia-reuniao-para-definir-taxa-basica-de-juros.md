@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Selic será anunciada amanhã, ao final do dia.
 
 O Comitê de Política Monetária (Copom) do Banco Central (BC) iniciou hoje (15) a sexta reunião do ano para definir a taxa básica de juros, a Selic. Amanhã (16), após a segunda parte da reunião, será anunciada a taxa ao final do dia.
@@ -37,5 +36,3 @@ As instituições financeiras consultadas pelo BC projetam inflação menor que 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

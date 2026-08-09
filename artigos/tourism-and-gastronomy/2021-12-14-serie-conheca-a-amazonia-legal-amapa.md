@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 Sendo o segundo Estado brasileiro com mais áreas protegidas em seu território, menos de 1% de área desmatada, o Amapá é a única unidade da federação a destinar um percentual tão significativo de suas terras para a preservação. Resultante disso, abriga o maior parque nacional do País e um dos maiores do mundo, o Montanhas do Tumucumaque, com quase 3,9 milhões de hectares.
 
 É possível visitar o parque pela cidade-modelo, Serra do Navio, tombada como patrimônio cultural pelo Iphan. A cidade é também muito procurada por turistas que apreciam o ecoturismo e o turismo de aventura, por contar com abundância de rios. E além dos rios, há uma grande população dos índios WAJÃPIS, cuja pintura corporal e arte gráfica (arte Kusiwa) foram incluídas na lista das Obras-Primas da Humanidade pela Unesco.
@@ -29,7 +28,3 @@ Fonte: http://amazonialegal.turismo.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

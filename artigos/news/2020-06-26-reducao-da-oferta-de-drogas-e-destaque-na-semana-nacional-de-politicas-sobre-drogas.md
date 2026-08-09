@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Secretaria Nacional de Políticas sobre Drogas (Senad/MJSP) foi protagonista durante o terceiro dia da agenda de debates da Semana Nacional de Políticas sobre Drogas. Nesta quarta-feira (24), o secretário Luiz Roberto Beggiora falou sobre a gestão de ativos apreendidos do tráfico e aplicação de recursos em benefício da sociedade.
 
 Desde o início do atual governo, a Senad passou a atuar com foco em dois eixos: no combate e na redução da oferta de drogas, e na gestão dos recursos apreendidos dessa prática criminosa. “Hoje nós atuamos para reverter o acúmulo de bens nos pátios policiais para otimizar a gestão desse patrimônio com o leilão antecipado e gerar mais recursos para investimentos no país”, afirmou Beggiora.
@@ -21,4 +20,4 @@ A subsecretária de Prevenção à Criminalidade da secretaria de Estado de Segu
 
 Fonte: Portal de Imprensa do Ministério da Justiça e Segurança Pública
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

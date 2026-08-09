@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Bolsa interrompeu sequência de quedas e subiu puxada por Petrobras.
 
 As tensões em torno do aperto da política monetária nos Estados Unidos fizeram o dólar ter mais um dia de alta. A moeda aproximou-se de R$ 4,75 e praticamente anulou a queda observada em abril. A bolsa de valores interrompeu uma sequência de três quedas consecutivas e subiu puxada pelas ações da Petrobras e pelas bolsas norte-americanas.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

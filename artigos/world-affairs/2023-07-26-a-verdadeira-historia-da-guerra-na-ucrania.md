@@ -7,7 +7,6 @@ categories:
 - World Affairs
 ---
 
-
 O povo americano precisa urgentemente conhecer a verdadeira história da guerra na Ucrânia e suas perspectivas atuais. Infelizmente, a grande mídia - New York Times, Wall Street Journal, Washington Post, MSNBC e CNN - tornaram-se meros porta-vozes do governo, repetindo as mentiras do presidente dos EUA, Joe Biden, e escondendo a história do público.
 
 Biden voltou [a criticar](https://www.youtube.com/watch?v=65kK2VI15fc) o presidente russo, Vladimir [Putin](https://www.youtube.com/watch?v=65kK2VI15fc) , desta vez acusando-o de "ganância covarde por terra e poder" depois de [declarar no ano passado](https://www.youtube.com/watch?v=jD3VG5zhLIk) que "pelo amor de Deus, este homem [Putin] não pode permanecer no poder". Mas Biden é quem está envolvendo a Ucrânia em uma guerra sem fim, pressionando ainda mais a expansão da OTAN para incluir a Ucrânia. Com medo de dizer a verdade ao povo americano e ucraniano, ele rejeita a diplomacia e defende a guerra perpétua.
@@ -34,7 +33,7 @@ Para ajudar o público a se afastar da narrativa simplista apresentada por Biden
 
 31 de janeiro de 1990. O ministro das Relações Exteriores da Alemanha, Hans Dietrich-Genscher, [promete](https://nsarchive.gwu.edu/document/16112-document-01-u-s-embassy-bonn-confidential-cable) ao presidente soviético Mikhail Gorbachev que [,](https://nsarchive.gwu.edu/document/16112-document-01-u-s-embassy-bonn-confidential-cable) no contexto da reunificação alemã e da dissolução da aliança militar soviética Pacto de Varsóvia, a OTAN descartará "a expansão para o leste de seu território, ou seja, a reaproximação com as fronteiras soviéticas".
 
-[Fevereiro de 1990. O secretário de Estado](https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early) dos EUA, James Baker III, [concorda](https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early) com o presidente soviético Mikhail Gorbachev que "o alargamento da OTAN é inaceitável".[](https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early)
+[Fevereiro de 1990. O secretário de Estado](https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early) dos EUA, James Baker III, [concorda](https://nsarchive.gwu.edu/briefing-book/russia-programs/2017-12-12/nato-expansion-what-gorbachev-heard-western-leaders-early) com o presidente soviético Mikhail Gorbachev que "o alargamento da OTAN é inaceitável".
 
 29 de junho a 2 de julho de 1990. O secretário-geral da OTAN, Manfred Woerner, [diz a uma delegação russa de alto nível](https://nsarchive.gwu.edu/document/16373-document-01-memorandum-boris-yeltsin-about) que “o Conselho da OTAN e ele [Woerner] se opõem ao alargamento da OTAN
 

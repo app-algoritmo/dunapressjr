@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O objetivo é o desenvolvimento integral da cadeia produtiva do nióbio.
 
 O *Diário Oficial da União* publica, nesta sexta-feira (24), [**portaria do Ministério da Ciência, Tecnologia e Inovações (MCTI)**](https://www.in.gov.br/en/web/dou/-/portaria-mcti-n-6.022-de-21-de-junho-de-2022-410029712) que institui, no âmbito do MCTI, o Programa InovaNióbio. O programa visa integrar e fortalecer ações governamentais para o desenvolvimento integral da cadeia produtiva do nióbio, por meio da promoção da inovação na indústria brasileira, a fim de dinamizar a economia, a especialização dos mercados e assegurar a autonomia tecnológica do país em setores de alta tecnologia.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

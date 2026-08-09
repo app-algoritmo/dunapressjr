@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Para garantir a qualidade e inibir a proliferação de marcas de álcool-gel sem eficácia, cientistas do Instituto Nacional de Ciências e Tecnologias Analíticas Avançadas (INCTAA) da Universidade de Campinas (UNICAMP), desenvolveram dois novos métodos para auxiliar instituições oficiais e indústrias no monitoramento do produto no mercado brasileiro. As duas pesquisas, desenvolvidas com a participação de bolsistas financiados pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) estão descritos nas Revistas Científicas *Microchemical Journal (Public Health Emergency COVID-19 Initiative e no Journal of the Brazilian Chemical Society.*
 
 Os pesquisadores atuam nas Universidades Federais de Pernambuco (UFPE) e de Viçosa (UFV) e na Estadual de Campinas (Unicamp). Em parceria com o Instituto de Criminalística da Polícia Científica de Pernambuco, criaram os métodos a partir das espectroscopias no infravermelho (IR) e no infravermelho próximo (NIR). “O método IR requer equipamento de mais alto custo e acessórios especiais”, explica Celio Pasquini, coordenador do INCTAA. “Já os métodos NIR podem ser implementados com instrumentos portáteis e de baixo custo”, afirma.
@@ -35,7 +34,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

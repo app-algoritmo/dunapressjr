@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Cinco estabelecimentos comerciais foram autuados nesta quinta-feira (3) à noite e vão receber multa por descumprirem as medidas sanitárias contra a COVID-19. A notificação foi feita durante fiscalização das forças de segurança do município, que foi intensificada nesta semana. Dois destes locais também foram interditados por tempo indeterminado devido à aglomeração de pessoas e falta de cumprimento às medidas preventivas por clientes e funcionários, como uso de máscara, disponibilização de álcool em gel e distanciamento social.
 
 **[> Leia mais notícias sobre Coronavírus](http://itajai.sc.gov.br/)**
@@ -21,7 +20,7 @@ Os cinco estabelecimentos autuados ficam localizados na Praia Brava, São João,
 
 Além das irregularidades, um homem foi flagrado com porte de entorpecentes e assinou um termo circunstanciado. A operação continua durante todo fim de semana em restaurantes e bares da cidade.
 
-Denúncias podem ser feitas nos telefones 190 (Polícia Militar) e 153 (Guarda Municipal/Codetran). Durante a semana, a população também pode enviar denúncias para a Vigilância Sanitária pelo e-mail visa@itajai.sc.gov.br ou pelos telefones: (47) 3908-5767 e 3908-5036. 
+Denúncias podem ser feitas nos telefones 190 (Polícia Militar) e 153 (Guarda Municipal/Codetran). Durante a semana, a população também pode enviar denúncias para a Vigilância Sanitária pelo e-mail visa@itajai.sc.gov.br ou pelos telefones: (47) 3908-5767 e 3908-5036.
 
 Fonte: itajai.sc.gov.br
 
@@ -33,7 +32,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

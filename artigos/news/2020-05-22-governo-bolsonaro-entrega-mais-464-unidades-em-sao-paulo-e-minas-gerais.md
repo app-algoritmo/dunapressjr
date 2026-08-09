@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 Mais unidades habitacionais para famílias de baixa renda em dois Estados. O Programa Minha Casa, Minha Vida (MCMV), coordenado pelo Ministério do Desenvolvimento Regional (MDR), vai beneficiar mais 2 mil famílias, com  renda mensal de até R$ 1,8 mil (faixa 1 do programa), na entrega de 464 casa nos municípios de São Paulo (SP) e Conquista (MG).
 
-De acordo com o órgão, foram investidos R$ 57,6 milhões com as novas moradias. O ministro Rogério Marinho destacou que o foco do governo do presidente Bolsonaro é atender os que mais precisam. 
+De acordo com o órgão, foram investidos R$ 57,6 milhões com as novas moradias. O ministro Rogério Marinho destacou que o foco do governo do presidente Bolsonaro é atender os que mais precisam.
 
-"Mesmo em meio à pandemia causada pelo coronavírus, mantivemos nossas obras e queremos continuar gerando empregos e aquecendo a economia. Essas moradias, também, representam um sonho realizado e esperado há muito tempo por essas famílias, que terão mais tranquilidade para progredir ainda mais em suas vidas. Esse é o foco do governo do presidente Bolsonaro: atender aos que mais precisam”. 
+"Mesmo em meio à pandemia causada pelo coronavírus, mantivemos nossas obras e queremos continuar gerando empregos e aquecendo a economia. Essas moradias, também, representam um sonho realizado e esperado há muito tempo por essas famílias, que terão mais tranquilidade para progredir ainda mais em suas vidas. Esse é o foco do governo do presidente Bolsonaro: atender aos que mais precisam”.
 
 ### Moradias
 
@@ -37,5 +36,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

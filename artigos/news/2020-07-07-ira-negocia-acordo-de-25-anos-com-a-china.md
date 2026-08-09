@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O FM iraniano Zarif insiste 'nada de secreto' sobre um possível acordo com Pequim, diz que os detalhes serão publicados assim que finalizados.
 
 O Irã negocia um acordo de 25 anos com a China e os termos serão anunciados quando o acordo for fechado, disse o ministro das Relações Exteriores do Irã em uma sessão tempestuosa do parlamento no domingo.
@@ -38,6 +37,6 @@ Fonte The Jerusalem Post****
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## A definição ocorreu na quarta-feira 10 durante reunião do Programa de Parcerias de Investimentos (PPI).
 
 Quatro patrimônios históricos brasileiros receberão o projeto-piloto do Programa Revive. A iniciativa, que é inédita no país, promove a requalificação e o aproveitamento turístico de imóveis com valor cultural, por meio de investimentos privados, a partir de contratos de concessão pública. A definição ocorreu durante reunião do Programa de Parcerias de Investimentos (PPI), realizada na tarde de quarta-feira (10.06), e que contou com a participação do ministro do Turismo, Marcelo Álvaro Antônio.
@@ -25,5 +24,3 @@ A intenção é que os patrimônios hoje em estado de deterioração sejam recup
 Imagem: Cacio Murilo
 
 Fonte: Turismo Gov BR
-
-[](https://dunapress.org/subscription-plan/?aff=Thami)

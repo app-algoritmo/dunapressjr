@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro participou de reunião com colegas do grupo.
 
 O Brasil avança nas reformas econômicas que pretendem gerar uma recuperação sustentada, disse nesta quarta-feira (7) o ministro da Economia, Paulo Guedes, em reunião do G20, grupo das 20 maiores economias do planeta. Em encontro no bloco econômico, ele destacou algumas ações tomadas pelo governo e pelo Congresso.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

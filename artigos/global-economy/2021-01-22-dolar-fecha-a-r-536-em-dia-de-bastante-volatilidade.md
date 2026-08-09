@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa teve terceira sessão seguida de queda.
 
 Num dia de bastante volatilidade, o dólar reverteu o otimismo registrado pela manhã e aproximou-se de R$ 5,40 durante a tarde, antes de desacelerar perto do fim da sessão. A bolsa de valores emendou a terceira sessão seguida de queda, depois de operar em leve alta na abertura dos negócios.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

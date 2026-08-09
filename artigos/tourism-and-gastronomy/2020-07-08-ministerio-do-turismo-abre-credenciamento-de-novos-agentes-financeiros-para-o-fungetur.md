@@ -8,7 +8,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Edital pode ser consultado na página do Fundo. Atualmente, 17 instituições financeiras ofertam crédito para o setor turístico.
 
 Desde ontem terça-feira (07.07), bancos públicos, privados e cooperativas de crédito de todo o país poderão se credenciar junto ao [Ministério do Turismo](http://www.turismo.gov.br/fungetur.html) para ofertar linhas de financiamento com recursos do Fundo Geral de Turismo (Fungetur). A habilitação de novas instituições financeiras tem o objetivo de dar maior abrangência aos recursos ofertados pelo Fundo, facilitando o acesso dos prestadores de serviços turísticos ao crédito. Atualmente, 17 bancos de fomento ofertam financiamento para empreendimentos do setor via fundo.
@@ -23,7 +22,7 @@ Do total de recursos que são disponibilizados aos agentes credenciados, no mín
 
 Fonte: Turismo Gov Br
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

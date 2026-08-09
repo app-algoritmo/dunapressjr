@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Agência Nacional de Vigilância Sanitária (Anvisa) instituiu o Programa Piloto de Ampliação da Qualidade das Indústrias Nacionais de Produtos com o objetivo de fortalecer as indústrias fabricantes de produtos para saúde classes III e IV no país.
 
 O programa tratará da inspeção sanitária por meio educativo. Em reuniões virtuais, os inspetores da Agência explicarão, por exemplo, os critérios técnicos de Boas Práticas de Fabricação (BPF) e detalhar a relação de documentos a serem verificados durante a inspeção, de modo a sanar as dúvidas referentes à Certificação de Boas Práticas de Fabricação de Produtos para Saúde.
@@ -27,5 +26,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

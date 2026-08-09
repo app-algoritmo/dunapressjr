@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Aperfeiçoamento das garantias está na agenda da equipe econômica.
 
 O fortalecimento do crédito “no curto prazo” será uma das prioridades da equipe econômica para 2021, informou nesta quinta-feira (5) a Secretaria de Política Econômica (SPE) do Ministério da Economia. Em nota informativa sobre os objetivos e os desafios da equipe econômica para 2021, o órgão informou que pretende investir na modernização das garantias (bens dados como garantia em empréstimos) para fortalecer a recuperação econômica após a pandemia de covid-19.
@@ -39,5 +38,3 @@ Em relação ao mercado de trabalho, a secretaria informou acreditar que o setor
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

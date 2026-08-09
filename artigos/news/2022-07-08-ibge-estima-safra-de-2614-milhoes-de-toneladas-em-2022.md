@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice é 0,6% abaixo da estimativa de maio.
 
 O Instituto Brasileiro de Geografia e Estatística (IBGE) estimou em 261,4 milhões de toneladas a safra brasileira de cereais, leguminosas e oleaginosas em 2022. Foi o que apontou o Levantamento Sistemático da Produção Agrícola (LSPA), de junho, divulgado nesta quinta-feira (07) pelo órgão. Embora o valor seja 3,2% ou 8,2 milhões de toneladas a mais que a safra de 2021 que ficou em 253,2 milhões, o índice é 0,6% abaixo da estimativa de maio ou 1,5 milhão.
@@ -52,8 +51,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

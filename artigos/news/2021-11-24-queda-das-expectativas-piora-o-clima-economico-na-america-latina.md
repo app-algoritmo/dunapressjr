@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Análise é do Indicador de Clima Econômico da América Latina.
 
 O Indicador de Clima Econômico da América Latina (ICE), divulgado nesta terça-feira (23) pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV), mostra que o resultado do quarto trimestre interrompeu a recuperação que vinha sendo observada desde o segundo trimestre de 2020. O índice, que havia passado para a zona de clima econômico favorável, com 101,4 pontos na sondagem do terceiro trimestre, recuou 20,8 pontos no quarto trimestre.
@@ -24,14 +23,10 @@ De acordo com a análise, nesse último trimestre do ano de 2021, a questão da 
 
 Para a América Latina, falta de confiança na política do governo, seguido de instabilidade política e corrupção, são os três principais problemas da região. Observou-se o elevado percentual de 67,4% da falta de confiança na política do governo. “No Brasil, falta de confiança na política econômica e instabilidade política receberam o mesmo percentual de 66,7%, seguido de infraestrutura inadequada e aumento da desigualdade de renda”, informou o Ibre/FGV.
 
-Os resultados da sondagem mostram um quadro que remete às expectativas desfavoráveis em quase todos os países. “Não confiar na política econômica do governo e a instabilidade política como principais problemas são fatores que dificultam a perspectiva de um cenário favorável para o crescimento econômico”, concluiu o levantamento. 
+Os resultados da sondagem mostram um quadro que remete às expectativas desfavoráveis em quase todos os países. “Não confiar na política econômica do governo e a instabilidade política como principais problemas são fatores que dificultam a perspectiva de um cenário favorável para o crescimento econômico”, concluiu o levantamento.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O número de óbitos pela Covid-19 vem diminuindo no Brasil nas últimas três semanas, mas, segundo o Ministério da Saúde, é preciso observar o comportamento da doença nos próximos dias para ver se esta tendência se confirma.
 
 “Desde a semana trigésima que esse número vem diminuindo progressivamente. A gente precisa ver o comportamento da doença nas próximas duas, três semanas para falarmos que efetivamente estamos em uma queda significativa”, disse Arnaldo Medeiros, secretário de Vigilância em Saúde.
@@ -27,5 +26,3 @@ O secretário de Vigilância em Saúde, Arnaldo Medeiros, ressaltou as medidas d
 Até o momento, o Ministério da Saúde já repassou para estados e municípios 10.328 ventiladores pulmonares. O Governo Federal também habilitou 12.005 leitos de UTI exclusivos para atender pacientes de Covid-19 em todo o país, com um investimento de R$ 1,7 bilhão. Também foram distribuídos 241,3 milhões de unidades de Equipamentos de Proteção Individual e 20 milhões de unidades de medicamentos para todo o país.
 
 Fonte Gov.br
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

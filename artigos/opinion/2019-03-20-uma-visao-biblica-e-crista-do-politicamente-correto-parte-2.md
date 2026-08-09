@@ -7,7 +7,6 @@ categories:
 - Opinion
 ---
 
-
 -Mais uma vez lhe traremos ensinamentos do Meste quanto ao politicamente correto e a distorção que causa em nossas vidas. Esta visão é necessária, nos moldes do que acontece em todas as esferas de poderes e sociais de todos os países.
 
 ## **1 - Quando e porque os pobres não foram prioridade em um momento.**
@@ -100,7 +99,7 @@ Vivemos num tempo em que o evangelho se tornou inclusivista, em que os pecados
 não são tratados nem corrigidos pois não se pode perder um irmão,
 “escandalizá-lo” ou mesmo incomodá-lo e acusá-lo falando sobre seus pecados,
 enquanto o próprio Cristo quando “muitos de seus discípulos o abandonaram e já
-não andavam mais com ele”, perguntou aos doze: “Porventura, não quereis 
+não andavam mais com ele”, perguntou aos doze: “Porventura, não quereis
 vós outros retirar-vos?” (João 6.66 e 67).
 
 Alguns podem
@@ -153,5 +152,3 @@ anteriores sobre o tema:
 - Uma Visão Bíblica e Cristã do politicamente correto - clique [aqui](https://dunapress.org/2019/03/06/uma-visao-biblica-e-crista-do-politicamente-correto/).
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

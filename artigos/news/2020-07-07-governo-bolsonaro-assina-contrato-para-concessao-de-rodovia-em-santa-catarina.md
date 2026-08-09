@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Trecho de 220,4 km fica entre Paulo Lopes (SC) e divisa com o Rio Grande do Sul, e contará com investimentos de R$ 7,4 bilhões.
 
 O ministro da Infraestrutura, Tarcísio Freitas, assinou nesta segunda-feira (6) o contrato de concessão da BR-101/SC, trecho entre Paulo Lopes (SC) e a divisa com o estado do Rio Grande do Sul, com a Concessionária Catarinense de Rodovias S.A (CCR). O trecho tem 220,4 km e contará com investimentos de R$ 7,4 bilhões. A duração do contrato é de 30 anos.
@@ -46,6 +45,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

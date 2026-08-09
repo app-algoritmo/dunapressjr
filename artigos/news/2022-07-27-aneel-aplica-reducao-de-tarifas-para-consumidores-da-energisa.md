@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Revisão se aplica a consumidores do Mato Grosso e Mato Grosso do Sul.
 
 A Agência Nacional de Energia Elétrica (Aneel) decidiu nesta terça-feira (26) aplicar mais duas revisões tarifárias extraordinárias (RTEs) para reduzir as tarifas das contas de luz. As revisões se aplicam aos consumidores atendidos pela Energisa nos estados de Mato Grosso e Mato Grosso do Sul que terão, respectivamente, uma redução média de 1,38% e 1,3% nas tarifas. Os novos valores começam a valer a partir desta quarta-feira (27).
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

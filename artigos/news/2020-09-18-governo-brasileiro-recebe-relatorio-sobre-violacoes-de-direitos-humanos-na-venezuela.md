@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A titular do Ministério da Mulher, da Família e dos Direitos Humanos, ministra Damares Alves, esteve com o ministro-conselheiro da Embaixada da Venezuela em Brasília, Tomás Alejandro Silva Guzmán, nesta quinta-feira (17). Durante o encontro, houve a entrega simbólica do relatório da Missão Internacional de Verificação de Fatos sobre a Venezuela. Estabelecida em 2019 pelo Conselho de Direitos Humanos (CDH) das Nações Unidas (ONU), a iniciativa teve o apoio do Brasil.
 
 "Esse é um momento muito importante para o nosso ministério e para o Brasil. Defendemos a plena garantia de todos os direitos humanos e fundamentais para o povo da Venezuela e a sua libertação" disse a ministra Damares.
@@ -32,5 +31,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

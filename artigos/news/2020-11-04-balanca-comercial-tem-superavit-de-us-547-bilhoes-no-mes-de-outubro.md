@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado é o segundo maior para um mês de outubro, atrás apenas de registrado em 2018.
 
 No mês de outubro, a balança comercial brasileira registrou superávit de US$ 5,473 bilhões. Isso significa que as exportações superam as importações. O dado foi divulgado nesta terça-feira (3) pela Secretaria de Comércio Exterior do Ministério da Economia.
@@ -37,5 +36,3 @@ No ano, as exportações totalizam US$ 174,379 bilhões e as importações, US$ 
 Fonte: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

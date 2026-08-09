@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa de valores sobe 2,43% e encosta em 114 mil pontos.
 
 Em um dia de alívio no mercado internacional, o dólar voltou a cair e fechou na segunda menor cotação do ano. A bolsa de valores teve forte recuperação e encostou em 114 mil pontos após quatro quedas consecutivas.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

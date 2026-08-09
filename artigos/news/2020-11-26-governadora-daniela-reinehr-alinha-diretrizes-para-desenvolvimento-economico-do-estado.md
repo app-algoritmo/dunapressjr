@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A governadora Daniela Reinehr recebeu o novo secretário de Estado do Desenvolvimento Econômico Sustentável, Henry Quaresma, e o adjunto Luiz Eduardo Santos para as primeiras diretrizes e alinhamento de gestão. O encontro ocorreu na residência oficial, nesta quarta-feira, 25.
 
 “Recebi com satisfação, o secretário Henry Quaresma, para um alinhamento de expectativas sobre o trabalho a ser realizado. Com a sua ampla experiência junto ao setor econômico, o secretário traz ações prioritárias de reconexão da pasta com os agentes econômicos de Santa Catarina e com entes nacionais estratégicos para fortalecer o nosso estado. Tenho certeza de que teremos uma atuação produtiva e que irá se reverter ao fortalecimento do ambiente de negócios”, destaca Daniela Reinehr.
@@ -37,7 +36,5 @@ SEU APOIO VOLUNTARIO É MUITO IMPORTANTE!
 Sua assinatura não somente ajudará no fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

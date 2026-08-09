@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice representa queda de 0,1 ponto percentual em relação a maio.
 
 Em junho, a proporção de famílias com dívidas a vencer ficou em 77,3%, o que representa uma queda de 0,1 ponto percentual em relação a maio. Na comparação com junho de 2021, houve crescimento de 7,6 pontos percentuais. Os dados da Pesquisa Nacional de Endividamento e Inadimplência do Consumidor (Peic) foram divulgados nesta quinta-feira (7) pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC).
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

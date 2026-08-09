@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Regimes concedem desoneração tributária ao adquirir insumos para produtos que serão exportados.
 
 A Secretaria de Comércio Exterior (Secex) do Ministério da Economia publicou, nesta quinta-feira (25), no Diário Oficial da União, a [Portaria nº 208/2022](https://www.in.gov.br/en/web/dou/-/portaria-secex-n-208-de-24-de-agosto-de-2022-425012806), para simplificar regras de utilização dos regimes de drawback suspensão e isenção. Nesses regimes, as empresas brasileiras têm desoneração tributária para adquirir insumos importados ou nacionais destinados à fabricação de bens que serão exportados – ou com equiparação legal à exportação. No ano passado, os regimes de drawback possibilitaram a exportação de mais de US$ 61 bilhões.
@@ -24,8 +23,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Mais uma unidade do Estação Cidadania-Esporte foi inaugurada nesta sexta-feira (11) no país. Dessa vez, em Serra Talhada, no sertão de Pernambuco, e contou com a presença do ministro da Cidadania, Onyx Lorenzoni. É a primeira no estado. O projeto tem como objetivo incentivar a iniciação esportiva em regiões de alta vulnerabilidade social.
 
 **O local, um ginásio poliesportivo, recebeu investimentos federais de mais de R$ 3,8 milhões. Conta com estruturas de atletismo, academia, áreas de apoio e enfermaria.**
@@ -48,7 +47,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

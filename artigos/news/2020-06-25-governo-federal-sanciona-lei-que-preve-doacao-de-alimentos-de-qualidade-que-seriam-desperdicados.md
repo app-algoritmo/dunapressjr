@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Texto prevê destinar à população mais vulnerável produtos com segurança alimentar garantida, mas sem valor comercial para empresas.
 
 Numa medida voltada para combater o desperdício de alimentos e promover a doação de excedentes da produção que tenham qualidade e segurança alimentar garantidas para consumo humano, o presidente Jair Bolsonaro sancionou a **[Lei nº 14.016](http://www.in.gov.br/web/dou/-/lei-n-14.016-de-23-de-junho-de-2020-263187111)**, publicada no Diário Oficial da União desta quarta-feira (24.06). 
@@ -37,7 +36,7 @@ O texto também reforça que, durante a vigência da emergência de saúde públ
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

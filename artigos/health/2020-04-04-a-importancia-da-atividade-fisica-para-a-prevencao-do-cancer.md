@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Uma vida fisicamente ativa promove benefícios tanto na prevenção quanto no tratamento dessa doença.
 
 Com o fim do mês de outubro e a chegada do mês de novembro, a incidência dos principais cânceres que atingem homens e mulheres, o de próstata e o de mama, ganha ainda mais foco por conta das campanhas de conscientização e prevenção da doença. Apesar desse destaque, é importante lembrar que prevenção se faz todos os dias e que o cuidado à saúde deve nos acompanhar durante todos os meses do ano.
@@ -46,4 +45,4 @@ E não esqueça: é sempre fundamental consultar um profissional da saúde antes
 
 Fonte saudebrasil.saude.gov.b
 
-Imagem destacada Pixabay[](http://saudebrasil.saude.gov.br/eu-quero-me-exercitar-mais/como-a-atividade-fisica-pode-te-ajudar-a-aliviar-os-sintomas-da-ansiedade)
+Imagem destacada Pixabay

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O estudo trata de fenômenos que envolvem interações em escalas muito pequenas, mas com papel fundamental na evolução do universo. Pedro Simoni Pasquini, graduado, mestre e doutor em Física pela Universidade Estadual de Campinas (Unicamp), é o autor da tese e um dos 49 vencedores da premiação oferecida pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).
 
 O resultado da pesquisa de Pasquini está disponível no repositório da instituição de ensino paulista: [Física de neutrinos: fenomenologia de neutrinos e suas consequências.](http://repositorio.unicamp.br/bitstream/REPOSIP/335047/1/Pasquini_PedroSimoni_D.pdf) “Diferentemente de outras partículas, o neutrino se transforma em outros tipos (são três tipos de neutrinos: de elétron, de múon e de tau). É a chamada oscilação de neutrinos, importante para entendermos como essas partículas elementares explicam o universo”, diz o cientista, que está no Brasil durante a pandemia, mas espera voltar a Xangai (China), onde cursa seu pós-doutorado.
@@ -21,7 +20,7 @@ Por meio da análise dos neutrinos, monitora-se reatores nucleares sem precisar 
 https://www.youtube.com/embed/gazUxVa4Xpw
 
 Legenda das imagens:
-Imagem 1: Abundante em neutrinos, o sol pode ser estudado pela oscilação dessas partículas elementares (Foto: Arquivo pessoal) 
+Imagem 1: Abundante em neutrinos, o sol pode ser estudado pela oscilação dessas partículas elementares (Foto: Arquivo pessoal)
 Imagem 2: Pedro Simoni Pasquini é autor de uma das 49 teses premiadas pela CAPES e mantém as pesquisas em um pós-doutorado na China (Foto: Arquivo pessoal)
 
 *(Brasília – Redação CCS/CAPES)*
@@ -43,7 +42,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

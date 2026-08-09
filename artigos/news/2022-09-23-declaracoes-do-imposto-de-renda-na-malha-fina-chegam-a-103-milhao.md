@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Número representa 2,7% do total de documentos entregues neste ano.
 
 Pouco mais de 1 milhão de contribuintes caíram na malha fina do Imposto de Renda neste ano, divulgou nesta quinta-feira (22) a Receita Federal. Um total de 1.032.279 declarações do Imposto de Renda foram retidas. O número equivale a 2,7% das 38.188.642 declarações do exercício de 2022 enviadas de março a setembro.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

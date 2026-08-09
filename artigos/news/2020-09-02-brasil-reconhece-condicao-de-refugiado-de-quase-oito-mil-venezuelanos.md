@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Decisão foi aprovada pelo Comitê Nacional para os Refugiados (Conare), do Ministério da Justiça e Segurança Pública.
 
 Quase oito mil venezuelanos que vivem no Brasil tiveram reconhecida a condição de refugiados e, a partir de agora, vão poder retirar a Carteira de Registro Nacional Migratório e ter facilitado o acesso a direitos brasileiros, como educação e saúde.
@@ -43,5 +42,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

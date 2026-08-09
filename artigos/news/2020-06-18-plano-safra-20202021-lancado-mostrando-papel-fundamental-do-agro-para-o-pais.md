@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para a ministra, a agropecuária brasileira será um dos principais motores da retomada econômica após a Covid-19.
 
 Ao lançar o Plano Safra 2020/2021, nesta quarta-feira (17), a ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina, destacou o papel fundamental da agropecuária para o Brasil e para o mundo, especialmente neste momento de pandemia.
@@ -59,5 +58,3 @@ A ministra explicou que o Plano Safra é focado nos pequenos e médios produtore
 Fonte: gov.br/agricultura / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando abaixo**:
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

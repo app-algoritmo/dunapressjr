@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### No acumulado dos últimos 12 meses, taxa ficou em 18%.
 
 Os preços no setor industrial em abril deste ano subiram 1,94% na comparação com o mês anterior. O percentual representa recuo frente à passagem de fevereiro para março, quando houve alta de 3,12%. No acumulado dos últimos 12 meses, a taxa ficou em 18%. No acumulado do ano, o indicador atingiu 6,94%. Os dados estão incluídos no Índice de Preços ao Produtor (IPP), divulgado nesta quinta-feira (2) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

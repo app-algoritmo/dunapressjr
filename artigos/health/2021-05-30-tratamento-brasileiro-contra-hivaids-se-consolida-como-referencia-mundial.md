@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Cerca de 585 mil pessoas que vivem com o vírus HIV no País realizam a terapia antirretroviral em unidades da rede pública de saúde. Esses pacientes encontram nesses locais uma realidade bem diferente daquela enfrentada na década de 1980, quando começaram a surgir os casos da doença no Brasil.
 
 Embora a primeira manifestação da Aids em um brasileiro tenha sido confirmada em 1982, apenas em 1987 o medicamento AZT começou a ser utilizado pelos pacientes porque ajudava a evitar o enfraquecimento do sistema imunológico.
@@ -49,7 +48,3 @@ Fonte: http://www.blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

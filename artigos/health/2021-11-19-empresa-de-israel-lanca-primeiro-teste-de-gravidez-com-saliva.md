@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Salignostics, uma startup médica com sede em Jerusalém, lançou o primeiro teste de gravidez do mundo que fornece resultados de amostras de saliva. A tecnologia usada é a mesma que foi criada para fazer a triagem do COVID-19.
 
 A empresa estava trabalhando em um teste de gravidez com saliva antes da pandemia. Depois de desenvolver testes de saliva para triagem de COVID-19, ela percebeu que finalmente tinha várias tecnologias que não tinha para avançar no teste de gravidez.
@@ -29,5 +28,3 @@ Fonte: [https://fr.timesofisrael.com](https://fr.timesofisrael.com)
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

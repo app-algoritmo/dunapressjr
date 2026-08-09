@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 “Essa é uma doença inflamatória crônica das vias aéreas e se não for tratada com o devido cuidado, pode levar a óbito”, explicou a Tatiana Galvão, diretora de comunicação da Sociedade Brasileira de Pneumologia e Tisiologia (SBPT). 
 
 Segundo ela, é a forma mais grave da asma que pode causar ataque súbito acompanhado com parada respiratória. “Na maioria dos casos de asma fatal, os sintomas aparecem com mais de um dia de evolução e se devem à associação de fatores como falta do uso de medicamentos de controle (os corticoides inalatórios), falta de adesão ao tratamento e de consultas regulares com o médico para seguir um plano de ação em caso de crises”, conta a diretora.
@@ -78,7 +77,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Recuperação da economia e impostos sobre lucros garantem crescimento.
 
 A recuperação da economia e os impostos sobre lucros e rendimentos garantiram arrecadação recorde em 2021. Segundo números divulgados nesta terça-feira (25) pela Receita Federal, o governo federal arrecadou R$ 1,879 trilhão no ano passado, crescimento de 17,36% em relação ao registrado em 2020, descontada a inflação oficial pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA).
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

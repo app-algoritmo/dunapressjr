@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Uma equipe da Universidade de Tel Aviv afirma ser capaz de identificar os três principais anticorpos contra o coronavírus com uma precisão de até 99%.
 
 Pesquisadores israelenses desenvolveram um teste muito preciso e eficaz para detectar anticorpos contra o coronavírus, o que poderia contribuir muito para os esforços em andamento para avaliar a extensão da disseminação do vírus na população, informou o décimo terceiro canal na quarta-feira.
@@ -54,6 +53,6 @@ Fonte The Time Of Israel
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos** **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos** **clicando aqui.**](https://dunapress.org/)

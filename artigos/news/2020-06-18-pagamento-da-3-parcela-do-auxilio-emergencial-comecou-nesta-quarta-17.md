@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Os integrantes do Bolsa Família começaram a receber, nesta quarta-feira (17), a terceira parcela do Auxílio Emergencial do Governo Federal. Os repasses de R$ 600 a R$ 1.200 obedecem ao calendário habitual do programa, que segue até 30 de junho. Os primeiros a receber são os beneficiários com NIS final 1.
 
 O calendário de pagamento para os demais cidadãos com direito ao Auxílio Emergencial será divulgado em breve, como anunciou o ministro da Cidadania na reunião do Conselho de Governo na semana passada. "Vamos programar ao longo dos próximos dias o pagamento da terceira parcela", disse Onyx Lorenzoni. A segunda parcela já foi paga a mais de 51 milhões de pessoas que entraram com o pedido para receber o benefício até 30 de abril.
@@ -16,7 +15,7 @@ Outros lotes de solicitações, feitos em maio, foram processados e os cidadãos
 
 ### Ações contra a Covid-19
 
-O Auxílio Emergencial faz parte das ações do Governo Federal para reduzir os impactos socioeconômicos causados pela pandemia da Covid-19. Em maio, 14,28 milhões de famílias receberam o Bolsa Família, num investimento federal de R$ 15,2 bilhões. Esse número representa o segundo maior em famílias contempladas na história do programa. 
+O Auxílio Emergencial faz parte das ações do Governo Federal para reduzir os impactos socioeconômicos causados pela pandemia da Covid-19. Em maio, 14,28 milhões de famílias receberam o Bolsa Família, num investimento federal de R$ 15,2 bilhões. Esse número representa o segundo maior em famílias contempladas na história do programa.
 
 ### Conta Social Digital
 
@@ -24,11 +23,11 @@ Quem nasceu de janeiro a junho poderá movimentar digitalmente os valores pela C
 
 ### Processamentos
 
-A Dataprev informou na segunda-feira (15) que já recebeu mais de 124,18 milhões de solicitações para o Auxílio Emergencial e processou 98,6% deles. A empresa pública é a responsável pelo cruzamento das informações autodeclaradas dos requerentes via site ou aplicativo da Caixa com a base de dados federais.  
+A Dataprev informou na segunda-feira (15) que já recebeu mais de 124,18 milhões de solicitações para o Auxílio Emergencial e processou 98,6% deles. A empresa pública é a responsável pelo cruzamento das informações autodeclaradas dos requerentes via site ou aplicativo da Caixa com a base de dados federais.
 
 Atualmente restam 1,6 milhão de cadastros em processamento, referentes ao período de 27 de maio e 11 de junho. Outros 34.043 pedidos de abril (0,03% do total) passam por processamento adicional no Ministério da Cidadania.
 
-Do total de pedidos, 64,14 milhões foram considerados elegíveis e 16,69 milhões classificados como inconclusivos, quando faltam informações para o processamento integral do pedido. Os inelegíveis, que não têm direito ao benefício pelos critérios estabelecidos em lei, foram 41,59 milhões. 
+Do total de pedidos, 64,14 milhões foram considerados elegíveis e 16,69 milhões classificados como inconclusivos, quando faltam informações para o processamento integral do pedido. Os inelegíveis, que não têm direito ao benefício pelos critérios estabelecidos em lei, foram 41,59 milhões.
 
 São consultadas várias bases oficiais, resguardados os sigilos fiscais e bancários, de forma simultânea, para identificar se o requerente se enquadra nos critérios legais. O mecanismo de cruzamento de informações é atualizado e aperfeiçoado a cada novo processamento por meio da inclusão de novas informações.
 
@@ -42,4 +41,4 @@ Até a última sexta-feira (12), o Governo Federal havia recuperado R$ 29,65 mil
 
 Fonte gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa teve alta nesta sexta e subiu 17,7% no mês.
 
 Em um dia de vaivém no mercado, o dólar encerrou esta sexta-feira (27) com pequeno recuo e acumula recuo de mais de 7% em novembro. A bolsa de valores  também alternou altas e baixas, mas fechou o dia com leve alta e registra ganho de quase 18% no mês.
@@ -29,5 +28,3 @@ Fonte: Agência Brasil – Imagem de destaque: REUTERS/Mike Segar/Direitos Reser
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

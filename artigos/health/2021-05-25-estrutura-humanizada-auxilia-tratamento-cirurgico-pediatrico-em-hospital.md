@@ -7,8 +7,7 @@ categories:
 - Health
 ---
 
-
-A necessidade de preparação para uma cirurgia, seja ela de baixa ou alta complexidade, pode ser uma experiência traumática para pacientes e familiares. No caso das crianças, esse momento pode ser ainda mais angustiante e o apoio do corpo médico e da estrutura hospitalar podem fazer a diferença. Foi com esse objetivo que o Hospital Universitário Cajuru, em Curitiba (PR), adaptou suas estruturas para oferecer um ambiente mais acolhedor e aconchegante a esses pacientes. As obras, feitas em parceria com a PUCPR, incluíram a ampliação de uma sala do centro cirúrgico e a reforma de leitos de recuperação pós-anestésica. Os espaços ganharam decorações infantis para oferecer um atendimento mais humanizado às crianças e adolescentes que passam pelos corredores da instituição. 
+A necessidade de preparação para uma cirurgia, seja ela de baixa ou alta complexidade, pode ser uma experiência traumática para pacientes e familiares. No caso das crianças, esse momento pode ser ainda mais angustiante e o apoio do corpo médico e da estrutura hospitalar podem fazer a diferença. Foi com esse objetivo que o Hospital Universitário Cajuru, em Curitiba (PR), adaptou suas estruturas para oferecer um ambiente mais acolhedor e aconchegante a esses pacientes. As obras, feitas em parceria com a PUCPR, incluíram a ampliação de uma sala do centro cirúrgico e a reforma de leitos de recuperação pós-anestésica. Os espaços ganharam decorações infantis para oferecer um atendimento mais humanizado às crianças e adolescentes que passam pelos corredores da instituição.
 
 Em 2020, cerca de 6 mil atendimentos pediátricos foram realizados no hospital, e quase 730 crianças e adolescentes passaram por um procedimento cirúrgico. Mesmo não sendo um hospital referência em pediatria, o Hospital Cajuru é o principal do estado no atendimento de traumas em decorrência de acidentes de trânsito, com especialistas em ortopedia. De acordo com a coordenadora de Enfermagem do Centro Cirúrgico e Hemodinâmica do hospital, Lorena Pires Fontoura, mesmo sem possuir uma ala exclusiva para crianças, o Hospital Cajuru realiza muitos procedimentos pediátricos de ortopedia e otorrinolaringologia, todos 100% pelo SUS. "Nossos principais tratamentos são relacionados à amigdalectomia, adenoidectomia e microcirurgia otológica, no campo da otorrinolaringologia, e no tratamento de fraturas diversas relacionadas à ortopedia", acrescenta Lorena.
 
@@ -29,7 +28,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

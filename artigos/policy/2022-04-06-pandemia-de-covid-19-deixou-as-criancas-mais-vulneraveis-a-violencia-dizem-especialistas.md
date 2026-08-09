@@ -8,7 +8,6 @@ categories:
 - Policy
 ---
 
-
 O aumento da vulnerabilidade das crianças e adolescentes durante a pandemia de Covid-19 foi constatado pelos participantes do oitavo Seminário Internacional do [Marco Legal da Primeira Infância](https://www2.camara.leg.br/legin/fed/lei/2016/lei-13257-8-marco-2016-782483-norma-pl.html), promovido pela Frente Parlamentar da Primeira Infância nesta quarta-feira (30) na Câmara dos Deputados.
 
 O objetivo do evento é avaliar e discutir como anda a aplicação da legislação de proteção a crianças e adolescentes em todo o país. Um dos temas debatidos no seminário foi o impacto da pandemia de Covid-19 sobre essa parte da população.
@@ -38,7 +37,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Cuiabá/MT - A Polícia Federal prendeu em flagrante nesta quinta-feira (21/5), em Rondonópolis/MT, um homem que estaria ameaçando índios da Terra Indígena Tadarimana.
 
 O suspeito foi encontrado no interior da terra indígena com três armas de fogo, sendo uma arma longa e duas curtas. O indivíduo ainda portava placas de identificação veicular.
@@ -17,5 +16,3 @@ O preso foi encaminhado à Delegacia da Polícia Federal de Rondonópolis onde f
 A Fundação Nacional do Índio (Funai) acompanhou toda a ação.
 
 Comunicação Social da Polícia Federal em Mato Grosso
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

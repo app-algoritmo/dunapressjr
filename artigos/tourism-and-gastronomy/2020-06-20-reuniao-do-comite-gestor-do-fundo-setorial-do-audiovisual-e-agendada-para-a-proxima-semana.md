@@ -8,7 +8,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Ministério do Turismo anunciou data no dia em que se celebra o Cinema Brasileiro.
 
 No Dia Nacional do Cinema Brasileiro, o ministro do Turismo, Marcelo Álvaro Antônio, agendou para a próxima quarta-feira, 24 de junho, a reunião do Comitê Gestor do Fundo Setorial do Audiovisual (FSA) 2020. O encontro será realizado em Brasília.
@@ -19,7 +18,7 @@ Além do ministro, fazem parte do Comitê o diretor-presidente substituto da Anc
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

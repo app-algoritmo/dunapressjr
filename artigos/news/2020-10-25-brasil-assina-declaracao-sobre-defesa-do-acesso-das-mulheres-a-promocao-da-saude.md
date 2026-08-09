@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Trinta e um países, incluindo o Brasil, assinaram, em cerimônia virtual, a chamada Declaração de Consenso de Genebra, um documento no qual as nações defendem a importância de garantir o acesso das mulheres aos últimos avanços em termos de promoção da saúde e reforçar o papel da família como unidade fundamental da sociedade.
 
 Na carta, assinada nessa quinta-feira (22), os países também se comprometem em proteger o direito à vida. A iniciativa foi liderada por seis países: Brasil, Estados Unidos, Egito, Hungria, Indonésia e Uganda. 
@@ -30,5 +29,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

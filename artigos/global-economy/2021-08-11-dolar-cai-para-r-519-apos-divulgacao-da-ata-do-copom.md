@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa iniciou dia em alta, mas encerrou com queda de 0,66%.
 
 Numa sessão marcada pelo alívio externo e pelo tom duro do Comitê de Política Monetária (Copom) no mercado interno, o dólar recuou para abaixo de R$ 5,20, um dia após fechar no maior nível em três semanas. A bolsa de valores iniciou o dia em alta, mas perdeu força ao longo das negociações e fechou com a primeira queda após três ganhos seguidos.
@@ -26,10 +25,6 @@ No exterior, o dia foi marcado pelo otimismo. A aprovação do pacote de infraes
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - Magazine
 ---
 
-
 Pesquisadores propõem uma nova reviravolta no amplamente utilizado **"*coeficiente de Gini*"** - uma medida estatística para determinar a diferença entre os que têm e os que não têm.
 
 Uma nova maneira de medir a desigualdade de riqueza explica melhor a maneira como a vivenciamos. Em um artigo publicado na *Economics Letters* , os economistas Samuel Bowles, do Instituto Santa Fe e Wendy Carlin, da University College London e o Instituto Santa Fe, propõem uma nova reviravolta no amplamente utilizado coeficiente de Gini - uma medida estatística importante para medir a diferença entre os mais ricos. e os que não são ricos.
@@ -27,7 +26,7 @@ A desigualdade é tipicamente medida como o grau de dispersão de uma distribui�
 
 A medida proposta também evita um viés descendente no algoritmo padrão, que para populações pequenas pode ser substancial. Como as redes sociais estão longe de estar completas, as comparações pareadas baseadas nas interações sociais nas quais as pessoas se envolvem rotineiramente podem suportar um nível de desigualdade experimentada que excede ou fica aquém do coeficiente de Gini medido em uma rede hipotética completa. Esse fato é ilustrado com estimativas empíricas para uma comunidade agrícola na Nicarágua.
 
-[](https://reader.elsevier.com/reader/sd/pii/S0165176519303969?token=354D1A1B5B0994FE10094658790C07212932B84BDE7D22EEA0D413DC196ECB0265B243DCF01003E8E12AB3A4BABC9757)Fig. 1 . 
+Fig. 1 .
 Diferenças experientes (painel esquerdo) e as arestas usadas na medida convencional baseada em curva de Lorenz (painel direito).
 
 [Desigualdade como diferença vivenciada: Uma reformulação do  coeficiente Gini.](https://dunapress.org/?r3d=inequality-as-experienced-difference-a-reformulation-of-the-gini-coefficient)
@@ -51,5 +50,3 @@ Pesquisa realizada em: [**Instituto Santa Fe**](http://www.santafe.edu/)
 ## Ver também
 
 https://dunapress.org/2020/06/19/o-que-e-desigualdade-social/
-
--

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Ação se soma às medidas do Governo Bolsonaro para que todos os que tenham direito ao benefício sejam contemplados.
 
 Todos aqueles que tiveram o Auxílio Emergencial negado podem, a partir da próxima segunda-feira (22.06), entrar com pedido de contestação de resultado por meio da **[Defensoria Pública da União em seu município](https://www.dpu.def.br/endereco-distrito-federal)**, apresentando documentos que comprovam a elegibilidade do recebimento do benefício.
@@ -21,7 +20,7 @@ Para Gabriel Faria Oliveira, o acordo é estratégico para dar a chance de que o
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

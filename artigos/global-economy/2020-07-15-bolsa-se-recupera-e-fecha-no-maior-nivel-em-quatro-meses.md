@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Em dia de oscilações, dólar cai para R$ 5,348.
 
 Em um dia marcado pela volatilidade, a bolsa de valores recuperou-se da queda de desta segunda-feira (13) e fechou no maior nível em quatro meses. O dólar chegou a subir para R$ 5,45, mas reverteu o movimento durante a tarde e fechou o dia em queda.
@@ -26,4 +25,4 @@ Há meses, mercados financeiros em todo o planeta atravessam um período de nerv
 
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Nazanin Tabatabaee/Wes Asia News Agency
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Recurso trará melhorias à cidade e vai ajudar na retomada do turismo na região.
 
 O ministro do Turismo, Marcelo Álvaro Antônio, anunciou, na última sexta-feira (17.07), a liberação de R$ 1 milhão para melhorias em Monte Verde (MG). O anúncio foi feito durante visita do ministro à cidade mineira, a convite da Agência de Desenvolvimento de Monte Verde e Região (Move).
@@ -24,7 +23,7 @@ Imagem: Vinícius Oliveira
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Cliqu](https://dunapress.org/subscription-plan/?aff=Thami)e aqui e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Cliqu](https://dunapress.org/subscription-plan/)e aqui e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

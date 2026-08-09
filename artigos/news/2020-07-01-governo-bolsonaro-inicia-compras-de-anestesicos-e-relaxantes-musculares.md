@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medicamentos são usados em pacientes que precisam de intubação devido a complicações causadas pelo novo coronavírus. Mesmo sem ser o responsável pelos estoques, Ministério da Saúde fez a contratação de anestésicos e relaxantes musculares para ajudar no abastecimento de Estados e Municípios.
 
 O uso de anestésicos e relaxantes musculares na intubação de pacientes graves de Covid-19 fez com que o Ministério da Saúde contratasse, ao mesmo tempo, três modalidades de compra destes medicamentos, que são utilizados pelos hospitais de referência nos planos de contingência para o combate à Covid-19.
@@ -18,7 +17,7 @@ Segundo o Ministério da Saúde, a seleção, a aquisição e a distribuição d
 
 A primeira providência da pasta foi a compra direta da indústria para atender a atual urgência. De acordo com o secretário-executivo do Ministério da Saúde, Elcio Franco, foi realizada uma requisição administrativa para abastecimento imediato dos estados e municípios, verificando antecipadamente o estoque excedente da indústria farmacêutica.
 
-“Tomamos o cuidado de utilizar apenas o quantitativo excedente para que não houvesse desabastecimento do mercado interno”, explicou Elcio Franco. Nessa segunda-feira (29), o Ministério da Saúde já distribuiu 185 mil unidades desses anestésicos e relaxantes musculares para os estados do Amazonas, Amapá, Bahia, Ceará, Goiás, Mato Grosso, Pará, Pernambuco, Rio Grande do Norte e São Paulo.  
+“Tomamos o cuidado de utilizar apenas o quantitativo excedente para que não houvesse desabastecimento do mercado interno”, explicou Elcio Franco. Nessa segunda-feira (29), o Ministério da Saúde já distribuiu 185 mil unidades desses anestésicos e relaxantes musculares para os estados do Amazonas, Amapá, Bahia, Ceará, Goiás, Mato Grosso, Pará, Pernambuco, Rio Grande do Norte e São Paulo.
 
 Para atender as necessidades de médio prazo, foi definido o início de um processo licitatório na modalidade pregão, do tipo menor preço, pelo Sistema de Registro de Preços (SRP), para viabilizar a compra pelos estados e suas capitais. Segundo o secretário-executivo, a medida possibilitará que estados e municípios sejam co-participantes e realizem a compra por um valor reduzido, devido a aquisição em grande escala.
 
@@ -34,4 +33,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

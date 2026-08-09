@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Saúde está investindo na ampliação dos atendimentos e no cuidado à saúde das populações ribeirinhas, comunidades que habitam nas proximidades ou margens de rios, das regiões da Amazônia Legal e do Pantanal Sul Mato-Grossense. As equipes de Saúde da Família Ribeirinha que atuam nos serviços locais receberão um reforço financeiro para ampliar e qualificar o atendimento.
 
 **As equipes de saúde que hoje recebem custeio mensal de R$ 10,6 mil passam a receber cerca de R$ 14 mil**. A medida foi regulamentada pela [Portaria n° 3.127](https://www.in.gov.br/en/web/dou/-/portaria-n-3.127-de-18-de-novembro-de-2020-289207514), e publicada no Diário Oficial da União (DOU) dessa quinta-feira (19).
@@ -23,5 +22,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

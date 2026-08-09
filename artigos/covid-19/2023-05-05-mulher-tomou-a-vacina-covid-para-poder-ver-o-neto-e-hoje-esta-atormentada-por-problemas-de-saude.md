@@ -8,7 +8,6 @@ categories:
 - Covid-19
 ---
 
-
 ## Terry Donohue Jenkins teve uma vida plena e gratificante até que, sob pressão de sua família, ela recebeu a vacina Pfizer COVID-19. Agora, ela mal consegue administrar seus negócios.
 
 Em 2021, a nativa de Pickerington, Ohio, Theresa “Terry” Donohue Jenkins, teve uma vida gratificante, operando seu negócio de babá e caminhada com cães, passando tempo com seu enteado e seu neto de 1 ano e esperando um novo neto - ela segundo filho da filha.
@@ -181,7 +180,7 @@ Ela disse:
 
 Esta é “a eterna luta pela qual passo o tempo todo”, disse Jenkins, “tentando lidar mentalmente com todas essas diferentes facetas da minha família que estão em negação”.
 
-Jenkins encontrou um mínimo de apoio do [Grupo de Apoio às Reações Adversas](https://www.facebook.com/groups/3217567388501402) à Vacina COVID-19 de [Catherine “Cat” Parker](https://childrenshealthdefense.org/defender/catherine-parker-covid-vaccine-injuries/) no Facebook, mas diz que as histórias constantes compartilhadas por indivíduos feridos pela vacina tornaram-se deprimentes para ela. Ela disse:[](https://www.facebook.com/groups/3217567388501402)
+Jenkins encontrou um mínimo de apoio do [Grupo de Apoio às Reações Adversas](https://www.facebook.com/groups/3217567388501402) à Vacina COVID-19 de [Catherine “Cat” Parker](https://childrenshealthdefense.org/defender/catherine-parker-covid-vaccine-injuries/) no Facebook, mas diz que as histórias constantes compartilhadas por indivíduos feridos pela vacina tornaram-se deprimentes para ela. Ela disse:
 
 “Para ser honesto, no começo eles ajudaram porque eu vi que não estava sozinho. Eu tentei muito do que todo mundo está fazendo e nada estava realmente funcionando. E então, chegou ao ponto em que é deprimente, e eu não olho mais para isso. Não gosto de olhar porque sempre que olho, vejo pessoas com novos problemas e que estão piorando e isso me deixa ainda mais deprimida... Mas sei que é útil para muitas pessoas.
 

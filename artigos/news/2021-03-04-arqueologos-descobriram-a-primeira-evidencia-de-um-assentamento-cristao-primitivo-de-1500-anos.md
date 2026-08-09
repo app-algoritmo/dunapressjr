@@ -8,14 +8,13 @@ categories:
 - News
 ---
 
-
 Com as palavras “Cristo nasceu de Maria”, os arqueólogos descobriram a primeira evidência de um assentamento cristão primitivo de 1.500 anos atrás no que hoje é uma pequena vila árabe perto de Nazaré.
 
 De acordo com pesquisadores da Autoridade de Antiguidades de Israel, uma inscrição grega recentemente descoberta dedicada ao Messias cristão havia sido originalmente colocada na entrada de uma igreja do século 5 até então desconhecida. A pedra inscrita foi recentemente descoberta em uso secundário em uma parede da estrutura da era bizantina final durante escavações em Taibe , localizada no Vale de Jezreel, no norte de Israel.
 
 De acordo com o texto, a igreja foi fundada sob os auspícios do conhecido arcebispo regional Beit She'an do final do século V, Teodósio, cujo nome no texto parcialmente destruído fornecia aos arqueólogos uma datação segura.
 
-Os alunos do programa preparatório pré-militar de Hanaton trabalham na escavação de um edifício do período islâmico no qual uma inscrição grega do final do século 5 dC, "Cristo nascido de Maria", foi encontrada em uso secundário, na aldeia de et-Taiyiba (Taybeh ) no Vale de Jezreel. 
+Os alunos do programa preparatório pré-militar de Hanaton trabalham na escavação de um edifício do período islâmico no qual uma inscrição grega do final do século 5 dC, "Cristo nascido de Maria", foi encontrada em uso secundário, na aldeia de et-Taiyiba (Taybeh ) no Vale de Jezreel.
 (Einat Ambar-Armon / Autoridade de Antiguidades de Israel)
 
 “A importância da inscrição é que até agora não sabíamos com certeza se havia igrejas deste período nesta área”, disse o arqueólogo Walid Atrash da Autoridade de Antiguidades de Israel ao The Times of Israel. Outros vestígios deste período foram descobertos nas proximidades de Tamra e um mosteiro foi recentemente descoberto por Nurit Feig e Moti Aviam do IAA, do Kinneret College, na vizinha Kfar Kama.
@@ -44,7 +43,7 @@ A menção de Teodósio na inscrição, disse Atrash, e sua localização presum
 
 Atrash explicou ainda que Teodósio incentivou a construção de igrejas em sua região e a menção de seu nome aqui aponta para uma doação financeira de sua sede em Beit She'an, o centro da vida religiosa e capital de Palaestina Secunda, uma província bizantina de 390 DC até a invasão muçulmana de cerca de 636 DC.
 
-Uma inscrição grega do final do século 5 EC, 'Cristo nascido de Maria', recentemente encontrada na vila de et-Taiyiba (Taibe) no Vale de Jezreel. 
+Uma inscrição grega do final do século 5 EC, 'Cristo nascido de Maria', recentemente encontrada na vila de et-Taiyiba (Taibe) no Vale de Jezreel.
 (Tzachi Lang / Autoridade de Antiguidades de Israel).
 
 A inscrição e o prédio de dois cômodos foram descobertos durante escavações de resgate dirigidas por Tzachi Lang e Kojan Haku do IAA, antes da construção de uma estrada dentro da pequena vila moderna de Taibe.
@@ -63,7 +62,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

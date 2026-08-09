@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Entes públicos e privados tem 60 dias para informar impacto financeiro.
 
 O ministro do Supremo Tribunal Federal (STF) Luís Roberto Barroso suspendeu neste domingo (4) o piso salarial nacional da enfermagem e deu prazo de 60 dias para entes públicos e privados da área da saúde esclarecerem o impacto financeiro do piso salarial, os riscos para empregabilidade no setor e eventual redução na qualidade dos serviços. A informação foi divulgada pela assessoria do STF.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

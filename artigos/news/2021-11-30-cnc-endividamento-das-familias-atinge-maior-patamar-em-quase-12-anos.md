@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Desde julho, o percentual de endividados está há 11 meses em alta.
 
 O percentual de famílias brasileiras com dívidas em atraso ou não chegou a 74,6% em outubro deste ano, maior patamar da série da Pesquisa Nacional de Endividamento e Inadimplência do Consumidor (Peic), iniciada em janeiro de 2010. Antes de julho deste ano, a parcela nunca havia superado a marca dos 70%.
@@ -26,10 +25,6 @@ A parcela média da renda comprometida com dívidas manteve-se estável em 30,2%
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O crédito bancário para 136.250 contribuintes será realizado em 31 de março, totalizando mais de R$ 225 milhões.
 
 A Receita Federal abriu nesta quarta-feira (24/3), às 10 horas, a consulta ao lote residual de restituição do Imposto de Renda Pessoa Física (IRPF) do mês de março de 2021. O crédito bancário para 136.250 contribuintes será realizado no dia 31 de março, totalizando mais de R$ 225 milhões. Desse total, R$ 107.012.106,51 referem-se aos contribuintes que têm prioridade legal, sendo 3.199 idosos acima de 80 anos, 23.087 idosos entre 60 e 79 anos, 2.411 com alguma deficiência física ou mental ou moléstia grave, e 7.894 contribuintes cuja maior fonte de renda seja o magistério.
@@ -25,10 +24,6 @@ Caso o valor não seja creditado, o cidadão poderá contatar pessoalmente qualq
 
 Fonte: Ministério da Economia
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

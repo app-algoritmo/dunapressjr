@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Apesar da alta, resultado segue 19,2% abaixo do período pré-pandemia.
 
 O faturamento das empresas nacionais do setor do turismo atingiu R$ 15,3 bilhões em janeiro, 22,9% a mais que o registrado no mesmo mês de 2021. Já em comparação a janeiro de 2020, antes da pandemia de covid-19, o resultado foi 19,2% inferior.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

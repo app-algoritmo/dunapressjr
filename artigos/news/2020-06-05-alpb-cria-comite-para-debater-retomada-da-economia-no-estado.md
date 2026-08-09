@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Frente Parlamentar do Empreendedorismo e Desenvolvimento Econômico da Assembleia Legislativa da Paraíba (ALPB) realizou reunião remota, nesta sexta-feira (5), com objetivo de discutir o Plano de Retomada da Economia no Estado. Durante o debate, representantes do comércio paraibano, empresários e parlamentares definiram a criação de um comitê para contribuir com o retorno das atividades pós-pandemia do coronavírus (Covid-19).
 
 O comitê já deve se reunir na próxima semana e tem como finalidade unir o Poder Legislativo, o Poder Executivo estadual e os representantes do segmento empresarial para que eles participem da estratégia para retornar os trabalhos. O presidente da ALPB, Adriano Galdino, afirmou que o diálogo permanente com os empresários é primordial para a retomada de forma segura. “Nós precisamos auxiliá-los na construção de um plano de segurança para o funcionamento das suas atividades, garantindo um retorno dos negócios e, ao mesmo tempo, evitando o agravamento ainda mais da saúde pública do nosso estado”, disse.
@@ -27,5 +26,3 @@ Fonte: Assembleia Legislativa da Paraíba
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

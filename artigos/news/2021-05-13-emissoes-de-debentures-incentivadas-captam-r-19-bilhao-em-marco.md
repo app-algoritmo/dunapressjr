@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Mês registrou distribuições vinculadas aos setores de energia, transporte, saneamento e telecomunicações.
 
 As emissões de debêntures incentivadas de infraestrutura alcançaram R$ 1,9 bilhão em março. Esse montante foi resultado da distribuição de 10 debêntures vinculadas aos setores de energia, transporte, saneamento e telecomunicações. As informações constam da 88ª edição do Boletim de Debêntures Incentivadas da Secretaria de Política Econômica (SPE), do Ministério da Economia, divulgado nessa terça-feira (11).
@@ -32,8 +31,4 @@ Fonte: gov.br
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

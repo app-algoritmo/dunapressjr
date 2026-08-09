@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Avaliação é do Banco Central, no Relatório de Estabilidade Financeira.
 
 A rentabilidade dos bancos já retornou ao nível pré-pandemia, com o crescimento da margem de juros, a redução das despesas com provisões (reserva sobre riscos de crédito) e os ganhos de eficiência. A avaliação é do Banco Central (BC), em seu Relatório de Estabilidade Financeira referente ao segundo semestre de 2021, divulgado nesta terça-feira (9).
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

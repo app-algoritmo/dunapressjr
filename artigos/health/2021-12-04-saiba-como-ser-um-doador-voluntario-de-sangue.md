@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 As tentativas de uso do sangue para curar doenças vêm desde a pré-história. Durante muitos séculos, no entanto, os resultados foram totalmente infrutíferos, sendo que as primeiras transfusões, que datam de meados do século XVII, eram quase sempre feitas com sangue de animais.
 
 A transfusão é classicamente dividida em três períodos: era pré-histórica, era pré-científica e era científica (até o presente).
@@ -84,8 +83,7 @@ O Dia Nacional do Doador de Sangue, instituído pelo **[Decreto nº 53.988/1964]
 
 A escolha do mês de novembro deve-se ao fato de que, por preceder um período de estoques baixos nos bancos de sangue, com a proximidade das férias, de datas comemorativas de fim de ano, carnaval e outros períodos de feriados prolongados, as doações caem drasticamente.
 
-**
-**Créditos: 
+**Créditos:
 
 [Fundação Hemocentro de Brasília](http://www.fhb.df.gov.br/doacao-de-sangue/#Condicoes)
 [Fundação Hemominas](http://www.hemominas.mg.gov.br/doacao-e-atendimento-ambulatorial/hemoterapia/sangue-breve-historia)
@@ -105,7 +103,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

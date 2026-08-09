@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Dólar subiu 5,36% no mês e fechou a R$ 5,44.
 
 Em mais um dia de instabilidade no mercado financeiro, a bolsa de valores caiu após subir durante a maior parte do pregão. O dólar iniciou o dia em baixa, mas fechou com pequena alta, após o Banco Central intervir no câmbio e impedir que a cotação ultrapassasse R$ 5,50.
@@ -28,10 +27,6 @@ No Brasil, as incertezas em torno de uma eventual prorrogação do auxílio emer
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

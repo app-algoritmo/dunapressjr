@@ -8,7 +8,6 @@ categories:
 - Education
 ---
 
-
 A importância da educação para o desenvolvimento socioeconômico de um país é matéria de amplo conhecimento da sociedade. O recém publicado estudo do Fundo Monetário Internacional (FMI) deixa isso ainda mais claro ao concluir que, ao longo das próximas décadas, os brasileiros terão uma das maiores perdas de renda entre as grandes economias globais em razão do fechamento das escolas na pandemia. Se nada for feito para recuperar a falta de aprendizado completo, principalmente da população mais vulnerável, a renda média dessa população afetada pode sofrer uma redução de 9,1% ao longo da vida.
 
 O fechamento das escolas, com a transferência do ensino para o sistema remoto, foi uma medida que o país precisou enfrentar para não sofrer danos sanitários maiores em decorrência da pandemia. Porém, principalmente para o ensino fundamental das populações mais pobres, houve deficiência na oferta da modalidade remota, ocasionada por diversos fatores, agravada pelo longo tempo em que as crianças se viram privadas de frequentar suas escolas, com profundos reflexos na aprendizagem desse estrato da população.
@@ -36,7 +35,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 O Ministro da Defesa, Fernando Azevedo, acompanhou o Presidente da República, Jair Bolsonaro, e o Comandante do Exército, Edson Leal Pujol, em visita ao Comando de Artilharia do Exército. A instalação fica no Forte Santa Bárbara, em Formosa, município goiano a quase 80 Km da capital federal.
 
 Os presentes assistiram à demonstração de tiros de mísseis realizada pelo sistema de lançadores múltiplos de foguetes Astros 2020. O presidente da República foi convidado a fazer o disparo de tiro do foguete SS40, com distância de 31 km do alvo.
@@ -23,5 +22,3 @@ Seguindo a tradição entre visitantes do Forte Santa Bárbara, o ministro, o pr
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

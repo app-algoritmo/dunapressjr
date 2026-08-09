@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Será o maior crescimento do setor desde 2013.
 
 Mesmo com a pandemia de covid-19 e desafios impostos por escassez e aumento nos custos do aço, a expectativa da Câmara Brasileira da Indústria da Construção (CBIC) para o crescimento do setor em 2021 subiu de 2,5% para 4%.
@@ -24,10 +23,6 @@ Ele acrescentou que a demanda consistente por imóvel, as baixas taxas de juros 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

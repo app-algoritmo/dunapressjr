@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa de valores oscilou, mas fechou com pequena queda de 0,18%.
 
 Em um dia de ajustes no mercado externo, o dólar foi pressionado, mas continuou abaixo de R$ 5,30. A bolsa de valores alternou altas e baixas ao longo do dia, mas fechou com pequena queda.
@@ -24,7 +23,7 @@ O dia também foi marcado pela volatilidade no mercado de ações. O índice Ibo
 
 O dólar teve um dia de alta no mercado externo após ter atingido valores mínimos em quatro meses na comparação com moedas de países emergentes. O euro comercial voltou a superar R$ 6 após comentários da presidente do Banco Central Europeu, Christine Lagarde, que indicam que o órgão pode começar a elevar os juros básicos na zona do euro neste ano. A decisão do Banco Central do Reino Unido de elevar os juros para 0,5% ao ano também valorizou a libra no mercado externo.
 
-No Brasil, a confirmação de que o Comitê de Política Monetária (Copom) do Banco Central (BC) pretende diminuir o ritmo de alta da taxa Selic (juros básicos da economia) a partir da próxima reunião também pressionou o dólar. 
+No Brasil, a confirmação de que o Comitê de Política Monetária (Copom) do Banco Central (BC) pretende diminuir o ritmo de alta da taxa Selic (juros básicos da economia) a partir da próxima reunião também pressionou o dólar.
 
 Nos últimos meses, a autoridade monetária elevou a Selic em 1,5 ponto percentual em cada reunião do Copom. Em comunicado emitido após a reunião desta quarta-feira (2), o BC informou que as próximas elevações serão menores. Juros mais altos em países emergentes tornam essas economias mais atrativas para o capital externo.
 
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

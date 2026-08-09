@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Pesquisa foi feita pelo Dieese em 17 capitais.
 
 O custo médio da cesta básica de alimentos aumentou em nove cidades brasileiras, de acordo com a pesquisa de novembro do Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese). As maiores altas foram registradas em cidades do Norte e do Nordeste, como Recife (8,13%), Salvador (3,76%), João Pessoa (3,62%), Natal (3,25%), Fortaleza (2,91%), Belém (2,27%) e Aracaju (1,96%). O estudo levou em consideração os preços em 17 capitais.
@@ -26,10 +25,6 @@ O Dieese estima que o salário mínimo necessário para manter uma família no p
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

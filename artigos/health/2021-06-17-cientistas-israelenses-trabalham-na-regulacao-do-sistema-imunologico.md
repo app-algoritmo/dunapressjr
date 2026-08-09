@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Uma equipe do Technion afirma ter identificado o mecanismo de linfócitos T que desencadeia choques de citocinas, a causa de muitas mortes por coronavírus.
 
 Pesquisadores israelenses dizem que identificaram uma maneira de parar a reação exagerada do sistema imunológico que tem sido associada a muitas mortes por COVID-19, bem como outras doenças.
@@ -51,7 +50,3 @@ Fonte: The Time Of Israel
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A ideia é incentivar a interação dos jovens com as pessoas que estão ao seu redor e estimular o diálogo. A campanha foi iniciada em 2019 para estimular o diálogo com as pessoas que estão ao seu redor.
 
 Para chamar a atenção dos jovens sobre a importância do diálogo e do apoio na prevenção ao suicídio, a Secretaria Nacional da Juventude vai distribuir mais de 200 mil pulseiras amarelas com a hashtag “#dêumlikenavida. A ação ocorrerá ao longo deste mês como parte da mobilização do Setembro Amarelo, que tem ações motivadas pelo Dia Mundial de Prevenção do Suicídio, em 10 de setembro.
@@ -50,5 +49,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

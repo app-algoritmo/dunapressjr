@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Data é a terceira mais importante para o varejo nacional.
 
 A Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) projeta uma retração de 4,8% nas vendas para o Dia das Crianças, comemorado na próxima segunda-feira, dia 12 de outubro. Segundo os dados da pesquisa divulgada hoje (6) pela entidade, esta é a primeira retração depois de quatro anos, mas não é a pior já registrada, pois a queda em 2016 foi de 8,1%.
@@ -27,5 +26,3 @@ Já os serviços de lanches deverão estar 10,2% mais caros que em 2019 e os liv
 Fonte: Agência Brasil – Imagem de destaque: Fernando Frazão/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

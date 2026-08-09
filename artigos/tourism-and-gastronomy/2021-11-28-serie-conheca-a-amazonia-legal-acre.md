@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 O Acre é a união da tradição com a modernidade na construção do desenvolvimento humano e considerado uma sociedade única de preservação de valores e costumes da "Florestania", que são os princípios de respeito ao meio ambiente e à multiplicidade sociocultural. E sendo a maior biodiversidade da Terra, com seus 16 milhões de hectares de floresta tropical, metade dos seus habitantes mora nas florestas. Dentre eles estão índios e donos de reservas indígenas das mais diferentes etnias.
 
 Não é só a biodiversidade que se destaca no Estado, mas sua história forte e singular também. O Acre passou por muitos processos de lutas pela sua terra, que foi tomada por colonizadores durante o tempo que a borracha foi descoberta na região, mas seus habitantes e os seringueiros (aqueles que extraem o látex das seringueiras para a produção de borracha), entraram em confronto com os colonizadores para ocuparem a região. Mesmo que tenham passado os tempos dourados da borracha e as épocas de lutas, a história ainda está presente nas paisagens acrianas, como em Xapuri, cidade histórica, considerada o Berço da Revolução Acriana e símbolo do Movimento Ambientalista Mundial, e que também foi sede de eventos importantes relacionados à luta de Chico Mendes, seringueiro e líder sindical.
@@ -27,7 +26,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

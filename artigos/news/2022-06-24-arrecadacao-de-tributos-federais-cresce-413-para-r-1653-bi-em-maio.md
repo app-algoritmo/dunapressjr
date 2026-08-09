@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Esse foi o maior valor da série histórica iniciada em 1995.
 
 A Receita Federal arrecadou R$ 165,3 bilhões em tributos em maio de 2022. Considerando a inflação acumulada ao longo do último ano, a cifra é 4,13% superior ao montante arrecadado no mesmo mês de 2021. O resultado de maio é o maior da série histórica, iniciada em 1995, em valores corrigidos pela inflação.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

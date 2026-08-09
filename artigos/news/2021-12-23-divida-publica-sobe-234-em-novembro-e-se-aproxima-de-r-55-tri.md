@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Baixo volume de vencimentos provocou alta.
 
 O baixo volume de vencimentos em novembro fez a Dívida Pública Federal (DPF) subir após dois meses seguidos de queda. Segundo números divulgados nesta quarta-feira (22) pelo Tesouro Nacional, a DPF passou de R$ 5,373 trilhões em outubro para R$ 5,499 trilhões em novembro, alta de 2,34%.
@@ -50,10 +49,6 @@ Por meio da dívida pública, o governo pega dinheiro emprestado dos investidore
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

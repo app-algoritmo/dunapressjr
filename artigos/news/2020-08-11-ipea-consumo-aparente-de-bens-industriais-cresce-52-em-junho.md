@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Indicador mede parcela da produção industrial para o mercado interno.
 
 O Indicador Mensal de Consumo Aparente de Bens Industriais, medido pelo Instituto de Pesquisa Econômica Aplicada (Ipea), cresceu 5,2% em junho, em comparação ao mês anterior, na série com ajuste sazonal. O indicador mede a parcela da produção industrial doméstica destinada ao mercado interno, acrescida das importações.
@@ -26,8 +25,8 @@ O Ipea apurou que, com relação às classes de produção, na comparação dess
 
 Levando em conta a análise setorial, o estudo do Ipea constatou que 15 dos 22 segmentos pesquisados reduziram o índice de difusão, que mede o percentual dos segmentos da indústria de transformação, com aumento em comparação ao período anterior, após ajuste sazonal, de 77% em maio para 68% em junho. O destaque positivo ficou com o segmento veículos, cuja alta na margem atingiu 72,4%.
 
-Na comparação interanual, o resultado ainda é bastante negativo, analisou o Ipea. Somente quatro segmentos registraram crescimento em junho ante igual mês de 2019. Os segmentos outros equipamentos de transporte e farmoquímicos foram os destaques positivos, com altas de 41,6% e 15,4%, respectivamente. No resultado acumulado em 12 meses, quatro segmentos apresentaram variação positiva, entre eles o segmento alimentos, com alta de 0,9%, e produtos de borracha e de material plástico (+1,5%). 
+Na comparação interanual, o resultado ainda é bastante negativo, analisou o Ipea. Somente quatro segmentos registraram crescimento em junho ante igual mês de 2019. Os segmentos outros equipamentos de transporte e farmoquímicos foram os destaques positivos, com altas de 41,6% e 15,4%, respectivamente. No resultado acumulado em 12 meses, quatro segmentos apresentaram variação positiva, entre eles o segmento alimentos, com alta de 0,9%, e produtos de borracha e de material plástico (+1,5%).
 
 Fonte: Agência Brasil –Imagem de destaque: Reuters/Washigton Alves/Direitos Reservados
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

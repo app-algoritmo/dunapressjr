@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Operação Desatino investiga fraudes na contratação de empresa especializada em prestação de serviços médicos clínicos e em diversas especialidades.
 
 A Controladoria-Geral da União (CGU) participou nesta quarta-feira (05/05), no Maranhão, da Operação Desatino. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é combater esquema criminoso de desvio de recursos públicos federais repassados ao Fundo Municipal de Saúde de Brejo (MA), distante 313 km da capital.
@@ -36,8 +35,4 @@ Fonte: Controladoria-Geral da União
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

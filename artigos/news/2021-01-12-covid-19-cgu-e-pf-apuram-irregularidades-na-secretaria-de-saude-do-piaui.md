@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Operação Campanile investiga contratação de empresas sem que fossem seguidos trâmites necessários. Pagamentos suspeitos somam R$ 33,7 milhões.
 
 A Controladoria-Geral da União (CGU) participou, nesta terça-feira (12), no Piauí, da Operação Campanile. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é aprofundar investigações acerca da possível ocorrência de conluio entre gestores da Secretaria de Estado da Saúde (Sesapi) e empresários em processos de dispensa de licitação durante a pandemia da Covid-19, cujos pagamentos ocorreram anteriormente a qualquer formalização das etapas da contratação.
@@ -38,8 +37,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - Magazine
 ---
 
-
 ## A Direcção da Saúde adotou hoje o seguinte - que se aplica das 18h00 de quinta-feira 12 de março a quinta-feira 26 de março de 2020.
 
 ### Os profissionais de saúde que trabalham com atendimento ao paciente estão proibidos de viajar para o exterior. A proibição se aplica a viagens de negócios e viagens particulares. A decisão entra em vigor a partir de hoje até abril de 2020.
@@ -87,5 +86,3 @@ O comitê de resposta a emergências considera que as 15 funções a seguir são
 Fonte: Diretoria da Saúde
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

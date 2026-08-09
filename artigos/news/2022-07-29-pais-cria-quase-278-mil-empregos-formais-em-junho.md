@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Número resulta de 1.898.876 de contratações e 1.620.932 desligamentos.
 
 O Brasil fechou o mês de junho com um saldo de 277.944 empregos formais (com carteira assinada), segundo balanço do Cadastro Geral de Empregados e Desempregados (Novo Caged) apresentado nesta quinta-feira (28) pelo Ministério do Trabalho e Previdência. O saldo de junho foi resultado de 1.898.876 de contratações e 1.620.932 desligamentos.
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

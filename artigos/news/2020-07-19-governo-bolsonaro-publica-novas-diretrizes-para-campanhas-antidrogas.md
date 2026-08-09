@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Todos os programas educacionais e preventivos devem ser fundamentados em evidências científicas e devem respeitar as diferenças, garantindo a diversidade. Campanhas devem cumprir as diretrizes estabelecidas pela Nova Política Nacional sobre Drogas.
 
 A [Recomendação Nº1](http://www.in.gov.br/en/web/dou/-/recomendacao-n-1-de-15-de-julho-de-2020-267031824) que instrui os órgãos do Sistema Nacional de Políticas sobre Drogas (Sisnad) para ações de prevenção ao uso de tabaco e seus derivados, álcool e outras drogas foi publicado no Diário Oficial da União, dessa quinta-feira (16). O documento foi aprovado em reunião extraordinária do Conselho Nacional de Políticas Sobre Drogas (Conad), que ocorreu em junho.
@@ -28,6 +27,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

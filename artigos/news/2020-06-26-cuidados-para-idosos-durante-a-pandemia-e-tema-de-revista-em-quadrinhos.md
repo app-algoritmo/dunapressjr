@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-A revista passatempo [“Xô, Corona!”](https://www.ufjf.br/nucleoid/files/2020/06/VERS%c3%83O-FINAL-X%c3%b4-Corona.pdf), elaborada pelo [Grupo de Estudo Sobre o Indivíduo Idoso (ID)](https://www.ufjf.br/nucleoid/), da Faculdade de Arquitetura e Urbanismo (FAU) da Universidade Federal de Juiz de Fora (UFJF), já está disponível na [versão digital](https://www.ufjf.br/nucleoid/noticias/covid-19-2/revista-xo-corona/) e na impressa. O projeto tem como objetivo levar ao público informações, de maneira lúdica, através de histórias em quadrinhos e diversos, jogos, sobre o bem-estar da pessoa idosa durante a pandemia do novo coronavírus. 
+A revista passatempo [“Xô, Corona!”](https://www.ufjf.br/nucleoid/files/2020/06/VERS%c3%83O-FINAL-X%c3%b4-Corona.pdf), elaborada pelo [Grupo de Estudo Sobre o Indivíduo Idoso (ID)](https://www.ufjf.br/nucleoid/), da Faculdade de Arquitetura e Urbanismo (FAU) da Universidade Federal de Juiz de Fora (UFJF), já está disponível na [versão digital](https://www.ufjf.br/nucleoid/noticias/covid-19-2/revista-xo-corona/) e na impressa. O projeto tem como objetivo levar ao público informações, de maneira lúdica, através de histórias em quadrinhos e diversos, jogos, sobre o bem-estar da pessoa idosa durante a pandemia do novo coronavírus.
 
 Projeto, disponível em versões digital e impressa, é desenvolvido pelo Grupo de Estudo sobre o Indivíduo Idoso, da FAU/UFJF.
 
@@ -18,7 +17,7 @@ De acordo com o professor da FAU e coordenador do ID, Emmanuel Pedroso, o passat
 
 Para Pedroso, a revista pretende contribuir de forma leve e objetiva. “É de extrema importância a divulgação de conteúdos relacionados à segurança e qualidade de vida da pessoa idosa durante a pandemia de Covid-19. Os idosos fazem parte do grupo de risco e é essencial que eles tenham acesso a essas informações”, destaca.
 
-O acesso à edição impressa da revista é limitada. A distribuição está sendo feita pela  Comissão e pelo ID. Através do contato [nucleo.id@ufjf.edu.br](mailto:nucleo.id@ufjf.edu.br), será informada a disponibilidade de exemplares. 
+O acesso à edição impressa da revista é limitada. A distribuição está sendo feita pela  Comissão e pelo ID. Através do contato [nucleo.id@ufjf.edu.br](mailto:nucleo.id@ufjf.edu.br), será informada a disponibilidade de exemplares.
 
 Confira a [versão digital](https://www.ufjf.br/nucleoid/files/2020/06/VERS%c3%83O-FINAL-X%c3%b4-Corona.pdf)
 
@@ -26,7 +25,7 @@ Fonte: gov.br/mec - Capes / Imagem em destaque: estadão
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

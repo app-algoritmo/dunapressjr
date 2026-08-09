@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Os estrangeiros vacinados terão permissão para entrar em Israel em grupos a partir de 23 de maio, segundo anunciou o Ministério da Saúde nesta terça-feira.
 Os turistas precisarão se submeter a um teste de PCR para coronavírus antes de entrar no avião e outro teste de PCR e sorológico quando desembarcarem no Aeroporto Ben-Gurion para confirmar que estão vacinados contra a Covid-19 ou se recuperaram do vírus.
 Será estabelecido um limite para o número de turistas que podem entrar por dia.
@@ -26,7 +25,3 @@ Fonte: https://www.conib.org.br
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

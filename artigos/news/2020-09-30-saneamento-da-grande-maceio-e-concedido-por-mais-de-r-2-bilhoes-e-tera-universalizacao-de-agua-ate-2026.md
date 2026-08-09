@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 BRK Ambiental deve investir outros R$ 2 bi em infraestrutura já nos primeiros 6 anos de contrato, do total de R$ 2,6 bilhões; ágio foi de mais de 13.000%.
 
 A BRK Ambiental Participações S.A foi o vencedor do leilão organizado pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES) para a concessão regionalizada dos serviços de abastecimento de água e esgotamento sanitário da Região Metropolitana de Maceió (AL). A oferta do grupo vitorioso foi de R$ 2,009 bilhões, o que representou um ágio de 13.180% em relação ao valor mínimo estipulado para outorga do serviço (R$ 15,125 milhões). Ao todo, sete consórcios fizeram propostas no certame, ocorrido hoje na Bolsa de Valores B3.
@@ -40,5 +39,3 @@ O leilão para o saneamento de água e esgoto na Grande Maceió é apenas o prim
 Fonte: Agência Alagoas
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

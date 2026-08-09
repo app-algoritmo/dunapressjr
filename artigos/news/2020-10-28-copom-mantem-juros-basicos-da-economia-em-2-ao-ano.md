@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Apesar de alta da inflação, Selic permanece no menor nível da história.
 
 Em meio ao aumento da inflação de alimentos que começa a estender-se por outros setores, o Banco Central (BC) não mexeu nos juros básicos da economia. Por unanimidade, o Comitê de Política Monetária (Copom) manteve a taxa Selic em 2% ao ano. A decisão era [**esperada pelos analistas financeiros**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-10/mercado-financeiro-eleva-projecao-da-inflacao-para-299).
@@ -41,5 +40,3 @@ Ao reduzir os juros básicos, o Copom barateia o crédito e incentiva a produç�
 Fonte: Agência Brasil – Imagem de destaque: Arquivo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

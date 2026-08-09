@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Todos os anos, centenas de milhares de pessoas em todo o mundo sofrem lesões nos nervos periféricos, o que muitas vezes as deixa com deficiências de longo prazo. O sistema nervoso periférico é análogo ao sistema circulatório; uma rede de vasos que atinge todas as partes do corpo, mas em vez do sangue fluindo através dos vasos, os sinais elétricos propagam informações através de fibras finas chamadas axônios, que são engolfadas pelos troncos nervosos.
 
 Esses troncos nervosos são a rede de comunicação transmitindo informações de todas as partes do corpo para o cérebro, coordenando a atividade e gerando funções motoras e sensoriais. Se um dos troncos nervosos estiver danificado ou rompido - uma condição comum em lesões de membros - o paciente pode sentir dor, paralisia e até mesmo uma deficiência permanente.
@@ -51,7 +50,3 @@ Fonte: https://www.israelnationalnews.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

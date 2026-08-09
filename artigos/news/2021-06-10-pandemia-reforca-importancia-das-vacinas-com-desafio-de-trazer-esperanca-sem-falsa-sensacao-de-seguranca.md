@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Pesquisas têm mostrado que 75% dos adultos precisam estar imunizados para que medidas de proteção sejam afrouxadas.
 
 O Brasil entrou em junho com pouco mais de 22 milhões de pessoas completamente imunizadas com as duas doses das vacinas contra a Covid-19. De acordo com números de 1º de junho, quase 22% da população tinha recebido ao menos uma dose e cerca de 10% a segunda. A imunização já reflete numa queda significativa do número de mortes da população idosa, que representava 79% dos óbitos em novembro de 2020 e passou para 57,6% no mês de maio. A grande preocupação dos especialistas agora é que a vacina, que veio para trazer esperança, pode criar uma falsa sensação de que o pior já passou.
@@ -19,9 +18,9 @@ Uma pesquisa realizada no município de Serrana (SP), com a vacina Coronavac do 
 
 **Imunização**
 
-O fato é que nunca se falou tanto em vacinas. A pandemia da Covid-19, que já matou mais de 3,4 milhões de pessoas no mundo, segundo dados da Organização Mundial de Saúde (OMS), também fez com que vacinas fossem desenvolvidas, aprovadas, fabricadas e aplicadas na população em menos de um ano. 
+O fato é que nunca se falou tanto em vacinas. A pandemia da Covid-19, que já matou mais de 3,4 milhões de pessoas no mundo, segundo dados da Organização Mundial de Saúde (OMS), também fez com que vacinas fossem desenvolvidas, aprovadas, fabricadas e aplicadas na população em menos de um ano.
 
-Antes, a vacina da Caxumba tinha o título de ter sido produzida em menor tempo. Foram quatro anos de estudo e experimentos até a sua aprovação. A do ebola, produzida mais recentemente, demorou cinco anos para ser finalizada. Mas, com bom aporte de investimentos, 14 imunizantes contra a Covid-19 já foram aprovados em vários países e dados da OMS indicam que 91 estão sendo testados em humanos. Outros 184 estão na fase de pesquisa laboratorial ou em teste em animais. 
+Antes, a vacina da Caxumba tinha o título de ter sido produzida em menor tempo. Foram quatro anos de estudo e experimentos até a sua aprovação. A do ebola, produzida mais recentemente, demorou cinco anos para ser finalizada. Mas, com bom aporte de investimentos, 14 imunizantes contra a Covid-19 já foram aprovados em vários países e dados da OMS indicam que 91 estão sendo testados em humanos. Outros 184 estão na fase de pesquisa laboratorial ou em teste em animais.
 
 Para a infectologista, o controle de doenças infecciosas só se faz com um bom controle vacinal. “As vacinas são de extrema importância, mas se a cobertura não for mantida pela adesão da população, é possível que ocorram escapes”, diz Viviane. 
 
@@ -34,7 +33,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

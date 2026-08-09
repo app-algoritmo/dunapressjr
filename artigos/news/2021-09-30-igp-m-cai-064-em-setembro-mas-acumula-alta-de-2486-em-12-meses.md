@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em setembro de 2020, o índice subiu 4,34%.
 
 O Índice Geral de Preços – Mercado (IGP-M) caiu 0,64% em setembro, após alta de 0,66% no mês anterior. Com este resultado, o índice acumula alta de 16% no ano e de 24,86% em 12 meses. Em setembro de 2020, o índice subiu 4,34% e acumulou alta de 17,94% em 12 meses. O IGP-M é usado como referência para o reajuste dos contratos de aluguel.
@@ -30,10 +29,6 @@ O Índice Nacional de Custo da Construção (INCC) subiu 0,56% em setembro, repe
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

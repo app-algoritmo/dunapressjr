@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ### Reajuste será de 18,03% para alta tensão e de 10,15% para baixa tensão.
 
-A Agência Nacional de Energia Elétrica (Aneel) aprovou nesta terça-feira (28) o reajuste tarifário das contas de luz deste ano da Enel Distribuição São Paulo. Os novos valores entrarão em vigor a partir de 4 de julho para os 24 municípios da área de concessão da distribuidora, que  atende cerca de 7,6 milhões de unidades consumidoras no estado.
+A Agência Nacional de Energia Elétrica (Aneel) aprovou nesta terça-feira (28) o reajuste tarifário das contas de luz deste ano da Enel Distribuição São Paulo. Os novos valores entrarão em vigor a partir de 4 de julho para os 24 municípios da área de concessão da distribuidora, que atende cerca de 7,6 milhões de unidades consumidoras no estado.
 
 O aumento médio para o consumidor será de 12,04%, sendo 18,03% para alta tensão e 10,15% para baixa tensão. Segundo a empresa, os consumidores de baixa tensão são, na maioria, clientes residenciais. Já os clientes de média e alta tensão são, em geral, indústrias e grandes comércios.
 
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

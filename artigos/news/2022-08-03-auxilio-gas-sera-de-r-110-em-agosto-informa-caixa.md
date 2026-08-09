@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Benefício será pago entre os dias 9 e 22.
 
 Cerca de 5,6 milhões de famílias receberão R$ 110 de Auxílio Gás em agosto, anunciou nesta terça-feira (2) a Caixa Econômica Federal. Até dezembro, o benefício terá o valor dobrado por causa da [**emenda constitucional que elevou benefícios**](https://agenciabrasil.ebc.com.br/politica/noticia/2022-07/congresso-promulga-pec-que-aumenta-beneficios-sociais-ate-dezembro) sociais.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

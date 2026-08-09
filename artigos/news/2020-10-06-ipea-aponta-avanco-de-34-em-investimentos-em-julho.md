@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No acumulado de 12 meses houve recuo de 2,4%.
 
 Levantamento realizado pelo Instituto de Pesquisa Econômica Aplicada (Ipea) mostra avanço de 3,4% em investimentos na economia brasileira no mês de julho, quando comparado com junho. No acumulado dos últimos 12 meses, no entanto, houve um recuo de 2,4%.
@@ -25,5 +24,3 @@ Na comparação com o mesmo período do ano anterior, o componente da construç�
 Fonte: Agência Brasil – Imagem de destaque: CNI/Miguel Ângelo/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

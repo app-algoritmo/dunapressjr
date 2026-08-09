@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Barômetro Econômico Coincidente subiu 0,5 ponto.
 
 Após caírem expressivamente ao longo do segundo semestre de 2021, os Barômetros Econômicos Globais ficaram relativamente estáveis em dezembro. O Barômetro Coincidente interrompeu a sequência de queda iniciada em julho, enquanto o Barômetro Antecedente registrou a sétima queda consecutiva, mantendo-se abaixo dos 100 pontos o que expõe as dificuldades de manutenção do ritmo de retomada da economia mundial.
@@ -38,10 +37,6 @@ Houve queda em três dos cinco indicadores antecedentes setoriais em dezembro: S
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

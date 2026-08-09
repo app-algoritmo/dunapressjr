@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Endividamento cresceu 20,2 pontos por causa de pandemia.
 
 Os gastos extras para o enfrentamento da pandemia da covid-19 levarão a um desafio fiscal para o governo brasileiro nos próximos anos. A dívida bruta do governo geral (DBGG), principal indicador usado nas comparações internacionais, encerrará 2020 em 96% do Produto Interno Bruto (PIB, soma dos bens e serviços produzidos no país), divulgou nesta sexta-feira (30) a Secretaria Especial de Fazenda do Ministério da Economia.
@@ -37,5 +36,3 @@ O resultado primário representa a diferença entre receitas e despesas das cont
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

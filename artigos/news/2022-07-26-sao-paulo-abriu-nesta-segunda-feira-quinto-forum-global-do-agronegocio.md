@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Edição deste ano discute desafio de alimentar população mundial.
 
 Começou nesta segunda-feira (25), na capital paulista, a quinta edição do Global Agribusiness Forum (GAF), que é um dos principais encontros de agronegócios do mundo. Realizado a cada dois anos, a edição de 2022 do evento integra os esforços do agronegócio para superar o desafio de alimentar a população global nas próximas décadas. O 5º GAF tem como tema Segurança Alimentar, Mudanças Climáticas e Sustentabilidade, a ser abordado por palestrantes nacionais e internacionais.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

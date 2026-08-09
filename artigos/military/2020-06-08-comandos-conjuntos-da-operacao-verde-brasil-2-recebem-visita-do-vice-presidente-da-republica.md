@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 O Vice-Presidente da República, Hamilton Mourão, visitou, entre o domingo (07) e esta segunda (08), os Comandos Conjuntos Barão de Melgaço, Príncipe da Beira e Marechal Soares de Andrea. São esses os Comandos Conjuntos que coordenam as ações da Operação Verde Brasil 2 na Amazônia Legal. Ele foi acompanhado do Chefe de Operações Conjuntas do Estado-Maior Conjunto das Forças Armadas do Ministério da Defesa, Almirante de Esquadra Petronio Augusto Siqueira de Aguiar.
 
 Em Cuiabá, Mato Grosso, o Vice-Presidente acompanhou o trabalho do Comando sediado na 13ª Brigada de Infantaria Motorizada, onde o General de Brigada Reinaldo Salgado Beato apresentou os detalhes e resultados obtidos. Até o momento, 2,8 mil metros cúbicos de madeira foram apreendidos, enquanto 4,5 mil metros cúbicos ainda estão sob investigação; 46 tratores, 16 embarcações, 43 caminhões, 123,5 kg de maconha e 206 kg de pasta base de cocaína também foram retidos, enquanto as multas ambientais somam R$ 66 milhões. Após a reunião, o Vice-Presidente participou de coletiva de imprensa.
@@ -33,5 +32,3 @@ Desde a deflagração da Operação Verde Brasil 2, em 11 de maio, militares e a
 
 **Assessoria de Comunicação Social (Ascom)
 Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

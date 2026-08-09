@@ -7,7 +7,6 @@ categories:
 - Agriculture
 ---
 
-
 Tecnologia móvel, monitoramento remoto, baixo custo e resultados eficientes são algumas das vantagens de um novo equipamento médico que promete acelerar a cicatrização de úlceras em diabéticos. Batizado de RAPHA, o aparelho foi desenvolvido por bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) orientados por Suélia Fleury, professora do Programa de Pós-graduação em Engenharia Biomédica da Universidade de Brasília (UnB).
 
 O procedimento é simples: um *kit RAPHA*, composto de um dispositivo emissor de luzes de *led*, lâminas de látex e itens para fazer a assepsia no ferimento é entregue ao paciente.  Após a higienização, a lâmina é aplicada sobre a ferida e, em seguida, o aparelho de *le**d*. O tratamento é diário e dura 35 minutos.
@@ -37,7 +36,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

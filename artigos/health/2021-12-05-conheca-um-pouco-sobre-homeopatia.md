@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A Homeopatia é um sistema médico complexo, de caráter holístico, baseada no princípio vitalista e no uso da lei dos semelhantes enunciada por Hipócrates no século IV a.C., segundo a qual os semelhantes se curam pelos semelhantes, isto é, para tratar um indivíduo que está doente é necessário aplicar um medicamento que, quando experimentado em um homem sadio, apresente os mesmos sintomas que o doente apresente. Esse princípio é parecido com o das vacinas.
 
 Foi desenvolvida por Samuel Hahnemann no século XVIII que, após estudos e reflexões baseados na observação clínica e em experimentos realizados na época, sistematizou os princípios filosóficos e doutrinários da homeopatia em suas obras Organon da Arte de Curar e Doenças Crônicas.
@@ -38,7 +37,6 @@ A implementação da homeopatia no SUS representa uma importante estratégia par
 
 O Dia Nacional da Homeopatia tem como objetivo homenagear a instauração da técnica holística no Brasil e disseminar informações sobre os benefícios desse tipo detratamento.
 
-**
 **Créditos:
 
 [Empresa Brasileira de Serviços Hospitalares (EBSERH)](https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-sul/hu-ufsc/comunicacao/noticias/por-meio-da-integracao-entre-homem-e-natureza-homeopatia-reforca-as-defesas-naturais-organicas)
@@ -56,5 +54,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

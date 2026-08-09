@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa teve alta pelo segundo dia seguido.
 
 Num dia de poucas negociações, o dólar caiu e encerrou a semana praticamente estável. A bolsa de valores iniciou a sessão em baixa, mas recuperou-se e fechou em leve alta.
@@ -22,7 +21,7 @@ O mercado esteve atento a fatores domésticos e externos, num dia de pouca movim
 
 Os dados foram bem recebidos pelo mercado, porque os investidores esperavam contração maior do IBC-Br no ano passado. Uma recuperação econômica mais otimista que o previsto atrai investidores e reduz a pressão sobre o dólar.
 
-O avanço nas discussões sobre a recriação do auxílio emergencial também contribuiu para o desempenho do dólar e da bolsa. Em reunião nesta sexta-feira (12) em Brasília, o ministro da Economia, Paulo Guedes, e os presidentes da Câmara, Arthur Lira, e do Senado, Rodrigo Pacheco, concordaram com a necessidade de votar medidas de ajuste fiscal que compensem os gastos extras com uma nova [**rodada do benefício**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-02/lira-e-pacheco-pedem-extensao-do-auxilio-emergencial-ate-junho). 
+O avanço nas discussões sobre a recriação do auxílio emergencial também contribuiu para o desempenho do dólar e da bolsa. Em reunião nesta sexta-feira (12) em Brasília, o ministro da Economia, Paulo Guedes, e os presidentes da Câmara, Arthur Lira, e do Senado, Rodrigo Pacheco, concordaram com a necessidade de votar medidas de ajuste fiscal que compensem os gastos extras com uma nova [**rodada do benefício**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-02/lira-e-pacheco-pedem-extensao-do-auxilio-emergencial-ate-junho).
 
 No mercado internacional, as bolsas norte-americanas fecharam em leve alta com as expectativas em torno da votação de um pacote de estímulos de US$ 1,9 trilhão para a economia norte-americana. No entanto, o reforço nas medidas de *lockdown *em países da Europa que enfrentam aumento de casos de covid-19 prejudicou as negociações, por causa da possibilidade de que a economia europeia cresça menos que o previsto.
 
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

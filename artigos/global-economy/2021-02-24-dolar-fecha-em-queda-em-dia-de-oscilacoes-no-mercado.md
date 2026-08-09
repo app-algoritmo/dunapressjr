@@ -7,10 +7,9 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa fechou em alta de 2,27%.
 
-Dólar fechou em leve queda nesta terça-feira (23), após um dia de oscilações no mercado. 
+Dólar fechou em leve queda nesta terça-feira (23), após um dia de oscilações no mercado.
 
 A moeda norte-americana negociada no mercado à vista caiu 0,17% e fechou a R$ 5,4456 na venda. Ao longo do dia, a divisa variou entre R$ 5,485 (+0,55) e R$ 5,4089 (-0,85%).
 
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

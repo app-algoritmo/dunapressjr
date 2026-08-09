@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Recife/PE - A Polícia Federal deflagrou nesta quinta-feira (28/5) a segunda fase da Operação Apneia, que decorre de investigação de irregularidades em contratos celebrados por meio de dispensas de licitação pela Prefeitura de Recife, através da Secretaria de Saúde, para aquisição de 500 respiradores pulmonares em caráter emergencial, para combate à Pandemia de Covid-19 no município. A ação contou com a participação do Ministério Público Federal e Controladoria Geral da União.
 
 Foram realizadas diligências nos estados de São Paulo e Pernambuco. Em Recife/PE, os policiais cumpriram dois mandados de busca e apreensão, nos bairros do Recife e Espinheiro.
@@ -31,5 +30,3 @@ A Justiça Federal determinou que os respiradores encontrados pela PF não sejam
 Os envolvidos podem responder pelos crimes de dispensa indevida de licitação (Art. 89 da Lei 8.666/93), uso de documento falso (Art. 304 do CPB), além de sonegação fiscal (Art. 1º da lei nº 8.137/93) e previdenciária (Art. 337-A do CPB) e ainda associação criminosa (Art. 288 do CPB), sem prejuízo de outros delitos que venham a ser apurados no decorrer da investigação.
 
 Comunicação Social da Polícia Federal em Pernambuco
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

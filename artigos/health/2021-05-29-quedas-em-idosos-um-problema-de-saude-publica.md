@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Independentemente da idade, todas as pessoas correm o risco de cair. Porém, para a pessoa idosa, uma queda pode representar um problema grave, levando inclusive a limitações funcionais que antes não existiam. Assim, um idoso que era ativo passa a depender de cuidados de outras pessoas.
 
 Entre as consequências das quedas, a fratura de fêmur é uma das mais graves nas pessoas com 60 anos ou mais de idade. Por ser o maior osso do corpo humano, esse rompimento pode causar perda da funcionalidade e aumento da mortalidade na população idosa.
@@ -63,7 +62,3 @@ Fonte: http://www.blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 O Comando Conjunto Marechal Soares de Andrea, por meio do navio de Patrulha Tucunaré, apreendeu, embarcação que transportava madeira beneficiada, nas proximidades do município de São Sebastião da Boa Vista, no Pará. Os militares constataram a falta dos documentos, ausência do comandante e de pessoal habilitado, além de excesso de carga. A embarcação foi escoltada para o município de São Sebastião da Boa Vista. No município, foram apresentadas a carga e a tripulação para a Secretaria de Meio Ambiente e para a Polícia Civil para as medidas administrativas e penais cabíveis.
 
 **Apoio logístico**
@@ -19,5 +18,3 @@ Na área de atuação do Comando Conjunto Barão de Melgaço, em Mato Grosso, ta
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

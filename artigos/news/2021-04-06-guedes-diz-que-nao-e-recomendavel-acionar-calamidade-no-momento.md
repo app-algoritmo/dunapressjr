@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Segundo o ministro, medida reforçaria instabilidade.
 
 Um eventual acionamento da cláusula de calamidade para enfrentar a pandemia da covid-19 não é recomendável e reforçaria a instabilidade, disse nesta segunda-feira (5) o ministro da Economia, Paulo Guedes. Em evento virtual com investidores, ele comparou a medida à assinatura de um “cheque em branco”.
@@ -32,10 +31,6 @@ Guedes negou haver desentendimentos entre a equipe econômica e o Congresso Naci
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.   
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
-Obrigado pelo apoio!  
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

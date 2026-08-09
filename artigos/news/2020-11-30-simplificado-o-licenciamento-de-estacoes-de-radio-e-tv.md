@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério das Comunicações publicou duas portarias que simplificam os processos de obtenção de licença das emissoras de rádio e TV. A medida é um passo importante para a desburocratização do licenciamento das estações de radiodifusão e facilitará a regularização de milhares de emissoras em todo o país.
 
 De acordo com o ministro das Comunicações, Fábio Faria, a iniciativa agilizará os processos, que antes levavam anos para serem concluídos. “Os processos atualmente se estendem muito. Com isso, a gente espera que o tempo seja reduzido, o que será um grande avanço para o setor de radiodifusão no Brasil.”
@@ -26,7 +25,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

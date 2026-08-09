@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí, por meio da Vigilância Epidemiológica, realizou nesta semana atividades preventivas e educativas para o controle do Aedes aegypti. Na manhã de sexta-feira (04) ocorrerá um mutirão de limpeza nos cemitérios da Fazenda e Espinheiros, a partir das 8h15, para encerrar as atividades da semana. O objetivo será eliminar recipientes que possam acumular água.
 
 **[> Leia mais: Levantamento aponta risco médio de infestação em Itajaí](https://itajai.sc.gov.br/noticia/25889/dengue-levantamento-aponta-risco-medio-de-infestacao-em-itajai)**
@@ -49,7 +48,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

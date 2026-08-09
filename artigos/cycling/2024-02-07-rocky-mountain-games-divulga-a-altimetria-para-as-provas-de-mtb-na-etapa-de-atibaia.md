@@ -23,8 +23,7 @@ O treinador ressalta a importância de treinar em locais, distâncias e altimetr
 Como a pegada do Rocky Mountain Games de democratizar o esporte e unir atletas de todos os níveis em relação à performance, Humberto lembra que a estratégia deve variar entre os bikers novatos e os amadores realmente competitivos. “Para o iniciante, é bom ponderar um pouco em todas as subidas, deixar uma cadência mais leve, uma marcha mais leve para manter a cadência constante”, destaca. Já os profissionais, avalia o treinador, usar os estradões como oportunidade de descanso pode ser uma boa opção para, em seguida, apertar nas subidas íngremes. “Essa diferenciação na abordagem demonstra como adaptar a estratégia ao nível de experiência pode impactar no desempenho”, complementa.
 
 **Temporada 2024 –** Após a abertura em Atibaia, nos dias 9 e 10 de março, o Rocky Mountain Games terá mais duas etapas: Juquitiba (15 de junho) e Campos do Jordão (26 a 27 de outubro).
-[
-](https://click.presskit.com.br/url/9967317e56/6361388b6fc)O Rocky Mountain Games 2024 traz novidades. O Circuito RMG será um ranking que soma os resultados das três etapas e define os campeões do ano. Mas vale ressaltar que só é válido para as modalidades e distâncias que se repetem em todas as etapas. As modalidades são Trail Run (nas distâncias 6km, 12 km, 21 km e 42 km), Canicross, Uphill, MTB 25 km e 50 km e Gravel. A etapa da Pedra Grande conta ainda com o Hike & Fly. Já o Desafio Rocky é uma combinação de Trail Run e Mountain Bike, com 12km de corrida e 25km de pedal.
+O Rocky Mountain Games 2024 traz novidades. O Circuito RMG será um ranking que soma os resultados das três etapas e define os campeões do ano. Mas vale ressaltar que só é válido para as modalidades e distâncias que se repetem em todas as etapas. As modalidades são Trail Run (nas distâncias 6km, 12 km, 21 km e 42 km), Canicross, Uphill, MTB 25 km e 50 km e Gravel. A etapa da Pedra Grande conta ainda com o Hike & Fly. Já o Desafio Rocky é uma combinação de Trail Run e Mountain Bike, com 12km de corrida e 25km de pedal.
 
 O Circuito Rocky Mountain Games é uma realização da Rocky Mountain Sports Content.
 
@@ -33,10 +32,9 @@ Site: **[**https://rockymountaingames.com.br/****
 **](https://click.presskit.com.br/url/9967317e56/6361388b6fc)**Instagram : **[**https://www.instagram.com/rockymountaingames/****
 **](https://click.presskit.com.br/url/9967326ef5/6361388b6fc)**Fan page - **[**https://www.facebook.com/rmountaingames****
 **](https://click.presskit.com.br/url/996733267e/6361388b6fc)**Youtube - [https://www.youtube.com/channel/UC2Zd1D_1VDhPsOjbKUyFt0Q
-](https://click.presskit.com.br/url/996734abbe/6361388b6fc)**[
-](https://click.presskit.com.br/url/9967354bf4/6361388b6fc)***ZDL***
+](https://click.presskit.com.br/url/996734abbe/6361388b6fc)*****ZDL***
 ***Doro Jr. - MTb 13209 - ***[***dorojr@zdl.com.br***](https://click.presskit.com.br/url/996736615d/6361388b6fc)*** - F: 11 984579723***
 ***Rafael De Marco - Mtb.: 27556 - ***[***rafael@zdl.com.br***](https://click.presskit.com.br/url/9967377193/6361388b6fc)*** - Cel: 11 976022986 / WhatsApp: 19 997912108******
-Site: [www.zdl.com.br](https://click.presskit.com.br/url/996738fbe5/6361388b6fc) 
-Facebook: [www.facebook.com/ZDLSports](https://click.presskit.com.br/url/996739b5fa/6361388b6fc) 
+Site: [www.zdl.com.br](https://click.presskit.com.br/url/996738fbe5/6361388b6fc)
+Facebook: [www.facebook.com/ZDLSports](https://click.presskit.com.br/url/996739b5fa/6361388b6fc)
 Instagram: [www.instagram.com/zdlsports](https://click.presskit.com.br/url/99674053e3/6361388b6fc)***

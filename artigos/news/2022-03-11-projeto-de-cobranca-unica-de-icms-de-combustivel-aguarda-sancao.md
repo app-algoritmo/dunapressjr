@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Texto foi aprovado na Câmara na madrugada desta sexta-feira.
 
 O Projeto de Lei Complementar (PLP) 11/20 que prevê a incidência do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) uma única vez sobre os combustíveis, inclusive os importados, aguarda sanção do presidente Jair Bolsonaro. O texto, aprovado na madrugada desta sexta-feira (11) na Câmara dos Deputados, prevê que a cobrança se dará com base em uma alíquota fixa por volume comercializado e única em todo o país.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

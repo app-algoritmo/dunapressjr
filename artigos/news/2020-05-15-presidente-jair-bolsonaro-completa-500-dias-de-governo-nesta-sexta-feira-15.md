@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Entre as ações de destaque, está o auxílio emergencial, a maior operação financeira-emergencial já realizada no Brasil, pago para mais de 50 milhões de brasileiros.
 
 O Governo do Presidente da República, Jair Bolsonaro, completa nesta sexta-feira (15) a marca de 500 dias com foco nas ações de enfrentamento ao coronavírus. As iniciativas adotadas pelo Governo Federal têm como prioridade salvar vidas e preservar empregos. O balanço com as medidas anunciadas pelos Ministérios e órgãos federais está disponível no [Gov.br](https://www.gov.br/).
@@ -18,7 +17,7 @@ Entre as ações de destaque, está a maior operação financeira-emergencial j�
 
 Para reforçar o atendimento de saúde, foram investidos mais de R$ 11 bilhões contra o Covid-19. Por meio desses recursos, foram adquiridos e distribuídos 557 respiradores, 83 milhões de equipamentos de proteção individual (EPIs) como máscaras e luvas e mais de 6,9 milhões de testes para diagnóstico da doença. Em apenas dois meses (entre abril e maio), o Governo Federal habilitou 3.810 leitos de UTI, voltados exclusivamente ao atendimento de pacientes da covid-19. Todos os estados já contam com incremento para custeio para os leitos habilitados. O Ministério da Saúde divulga diariamente os casos diagnosticados, em acompanhamento, recuperados, óbitos e óbitos em investigação.
 
-**População vulnerável** 
+**População vulnerável**
 
 Lançado em abril, o Plano de Contingência para Pessoas Vulneráveis é destinado ao atendimento das pessoas mais suscetíveis aos impactos de saúde e socioeconômico do coronavírus e prevê, até junho de 2020, a destinação de R$ 4,7 bilhões para povos e comunidades tradicionais (indígenas, ribeirinhos, quilombolas e ciganos), idosos, populações em áreas urbanas vulneráveis (comunidades e Operação Acolhida), e em situação de rua e pessoas com deficiência.
 
@@ -28,7 +27,7 @@ O Brasil superou a marca de 7,5 milhões de empregos preservados, conforme balan
 
 Para a manutenção de empregos por pequenas e médias empresas, o Governo Federal anunciou em março a liberação de uma linha de crédito especial de R$ 40 bilhões, com juros reduzidos para o pagamento de salários. O volume de recursos tem potencial para beneficiar, em todo o País, mais de 12 milhões de trabalhadores e 1,4 milhão de pequenas e médias empresas com faturamento anual de R$ 360 mil a R$ 10 milhões ao ano. Pela iniciativa, o governo arca com os salários de funcionários que ganham até dois salários mínimos (R$ 2.090) durante dois meses. E, durante esse período, a empresa que aceitar o financiamento não poderá demitir seus trabalhadores.
 
-Conforme projeção do Ministério da Economia, as medidas de enfrentamento ao coronavírus terão impacto de R$ 1,1 trilhão na economia brasileira ([https://bit.ly/BalancoMEconomia](https://bit.ly/BalancoMEconomia)). Desse total, até R$ 212,4 bilhões vão para ações de apoio à população vulnerável e aos trabalhadores; R$ 133,4 bilhões para auxílio a estados e municípios; R$ 24,3 bilhões para ações de combate à pandemia (garantindo insumos e tratamento aos cidadãos) e R$ 524,4 bilhões em medidas de fluxo de caixa e apoio à manutenção do emprego pelas empresas.
+Conforme projeção do Ministério da Economia, as medidas de enfrentamento ao coronavírus terão impacto de R$ 1,1 trilhão na economia brasileira (). Desse total, até R$ 212,4 bilhões vão para ações de apoio à população vulnerável e aos trabalhadores; R$ 133,4 bilhões para auxílio a estados e municípios; R$ 24,3 bilhões para ações de combate à pandemia (garantindo insumos e tratamento aos cidadãos) e R$ 524,4 bilhões em medidas de fluxo de caixa e apoio à manutenção do emprego pelas empresas.
 
 **Abastecimento**
 
@@ -44,7 +43,7 @@ Prevendo os impactos da pandemia, o Governo Federal acelerou o processo de digit
 
 Com foco na redução de impactos negativos da Covid-19, o Governo Federal também lançou a plataforma Todos por Todos, que interliga digitalmente empresas, entidades, associações e órgãos públicos que desejam doar bens e serviços a quem precisa. Em um mês e meio de funcionamento, a plataforma Todos por Todos já oferece mais de 800 serviços gratuitos, podendo ser acessada pelo link [https://www.gov.br/pt-br/todosportodos.](https://www.gov.br/todosportodos.)
 
-Para auxiliar as instituições sem fins lucrativos que atuam com trabalho voluntário junto a grupos vulneráveis da sociedade, foi lançado o projeto Arrecadação Solidária que, desde abril, recebeu R$ 3,2 milhões de 3.846 doadores. As doações de pessoas físicas ou jurídicas podem ser feitas na página [www.gov.br/todosportodos](http://www.gov.br/todosportodos) e também na plataforma [patriavoluntaria.org](http://patriavoluntaria.org/). 
+Para auxiliar as instituições sem fins lucrativos que atuam com trabalho voluntário junto a grupos vulneráveis da sociedade, foi lançado o projeto Arrecadação Solidária que, desde abril, recebeu R$ 3,2 milhões de 3.846 doadores. As doações de pessoas físicas ou jurídicas podem ser feitas na página [www.gov.br/todosportodos](http://www.gov.br/todosportodos) e também na plataforma [patriavoluntaria.org](http://patriavoluntaria.org/).
 
 A Fundação Banco do Brasil é responsável pela prestação de contas dos recursos arrecadados e pelo monitoramento das organizações sociais apoiadas.
 
@@ -62,8 +61,6 @@ Fonte gov.br
 
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 
-Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação. 
+Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

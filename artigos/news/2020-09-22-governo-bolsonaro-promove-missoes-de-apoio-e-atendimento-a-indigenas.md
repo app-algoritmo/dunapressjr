@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em programa de rádio semanal, vice-presidente comentou também sobre o combate a incêndios e pediu apoio à população. Desde março o Governo Federal já disponibilizou mais de R$ 125 milhões para atender os indígenas.
 
 Os comunidades indígenas de todo o País vêm recebendo atenção especial do Governo Federal durante o período de distanciamento social em função da Covid-19. O assunto foi tema, nesta segunda-feira (21), do programa semanal de rádio Por Dentro da Amazônia, do vice-presidente da República e presidente do Conselho Nacional da Amazônia Legal, general Hamilton Mourão, que conversou com o secretário Especial de Saúde Indígena (SESAI), Robson Santos Silva.
@@ -49,5 +48,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

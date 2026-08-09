@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa cai 0,62% e fecha no menor nível em quase um ano.
 
 Em meio à indefinição em torno da Proposta de Emenda à Constituição (PEC) dos Precatórios, o dólar teve forte alta e voltou a fechar acima de R$ 5,60. A bolsa caiu para abaixo dos 106 mil pontos e fechou no menor nível em quase um ano.
@@ -26,10 +25,6 @@ O segundo fator foi a possibilidade da edição de crédito extraordinário, for
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

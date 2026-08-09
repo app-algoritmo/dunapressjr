@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Os materiais de construção ficaram 3,14% mais caros em abril.
 
 O Índice Nacional da Construção Civil (Sinapi), medido pelo Instituto Brasileiro de Geografia e Estatística (IBGE), registrou taxa de inflação de 1,87% em abril, taxa superior à de 1,45% de março e à de 0,25% de abril de 2020.
@@ -20,8 +19,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

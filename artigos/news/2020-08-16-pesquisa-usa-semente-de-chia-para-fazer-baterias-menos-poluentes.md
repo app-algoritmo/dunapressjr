@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Além de nutritiva, a semente da chia pode produzir compostos que armazenam energia elétrica. Essa descoberta recente da Universidade Federal do Rio Grande do Norte (UFRN) pode gerar pilhas ou baterias menos poluentes. Uma bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) integra a equipe de pesquisa, que registrou patente do novo método.
 
 Jakeline Raiane dos Santos, doutoranda em Ciência de Materiais e autora do estudo explica que no novo processo, a semente de chia (*Salvia hispanica L.*) substitui os compostos tradicionais, e gera uma reação química de eficácia elevada. O resultado foi o óxido de níquel (NiO) em forma de pó, mas com a vantagem de ser obtido de forma menos agressiva ao meio ambiente — além de ter um baixo custo. Entre os usos possíveis para o composto desenvolvido pela UFRN estão células solares orgânicas e baterias. A equipe patenteou o processo, e prepara um artigo para torná-lo público.
@@ -24,6 +23,6 @@ Fonte Redação CCS/CAPES
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)****

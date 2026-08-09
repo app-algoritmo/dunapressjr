@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Segundo confederação, crescimento foi de 6,6% em julho.
 
 Após ter alcançado o menor patamar da série histórica no mês passado, o Índice de Confiança do Empresário do Comércio (Icec), medido pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), registrou crescimento de 6,6% em julho, passando de 66,7 pontos para 69,3 pontos.
@@ -34,4 +33,4 @@ O destaque positivo ficou por conta do aumento das intenções de contratar func
 
 Fonte: Agência Brasil - Imagem de destaque: Fernando Frazão/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

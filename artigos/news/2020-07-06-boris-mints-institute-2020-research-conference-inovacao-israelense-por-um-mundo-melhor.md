@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Boris Mints Institute 2020 Research Conference a ser realizada on-line quinta-feira, 9 de julho.
 
 Israel é frequentemente anunciado por seu histórico de inovação tecnológica e acadêmica. Agora, a Conferência 2020 do Boris Mints Institute está online, para mostrar pesquisas israelenses inovadoras que têm o potencial de criar um futuro global mais brilhante.
@@ -17,7 +16,7 @@ Israel é frequentemente anunciado por seu histórico de inovação tecnológica
 
 Os espectadores podem se registrar para assistir à conferência ao vivo no site do Instituto Boris Mints [aqui](https://www.bmiglobalsolutions.org/registration) . 
 
-Esta será a primeira conferência anual do Boris Mints Institute a ser realizada exclusivamente on-line e fornecerá uma plataforma global para pesquisadores líderes mundiais que trabalham ao lado do Boris Mints Institute da Universidade de Tel Aviv para criar um futuro mais verde e combater as desigualdades sociais.  
+Esta será a primeira conferência anual do Boris Mints Institute a ser realizada exclusivamente on-line e fornecerá uma plataforma global para pesquisadores líderes mundiais que trabalham ao lado do Boris Mints Institute da Universidade de Tel Aviv para criar um futuro mais verde e combater as desigualdades sociais. 
 
 O tema "criar um futuro mais verde" será transmitido por duas apresentações. A primeira, do professor Hadas Mamane, chefe do Programa de Engenharia Ambiental da Faculdade de Engenharia da Universidade de Tel Aviv, apresentará um novo projeto inovador de Tel Aviv em ecologia urbana - 'The Green Wall'. Este será um ecossistema novo e sustentável para a gestão de resíduos e água no edifício Naftali da universidade. 
 
@@ -47,6 +46,6 @@ Fonte The Jerusalem Post****
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

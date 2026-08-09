@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O decreto foi publicado no Diário Oficial desta quinta-feira (18).
 
 O governo federal qualificou oito terminais portuários para serem outorgados à iniciativa privada por meio do Programa de Parcerias de Investimentos (PPI). O decreto, assinado pelo presidente em exercício Hamilton Mourão, foi publicado nesta quinta-feira (18) no [***Diário Oficial da União***](https://www.in.gov.br/en/web/dou/-/decreto-n-10.858-de-17-de-novembro-de-2021-360417132).
@@ -24,14 +23,10 @@ O governo, por meio do Ministério da Infraestrutura e da Agência Nacional de T
 
 O vencedor de cada um dos leilões será aquele que apresentar o maior valor de outorga. O certame está marcado para as 11h, na B3, na bolsa de valores de São Paulo.
 
-As áreas disponíveis na cidade paulista são os terminais STS08 e STS08A, destinados a movimentação, armazenagem e distribuição de combustíveis, enquanto no porto catarinense, granéis líquidos combustíveis ou químicos. Já o Complexo Portuário de Imbituba (terminal IMB05) movimenta granéis líquidos combustíveis ou químicos, proveniente principalmente de Maceió (AL), para abastecer empresas localizadas em toda a região sul. 
+As áreas disponíveis na cidade paulista são os terminais STS08 e STS08A, destinados a movimentação, armazenagem e distribuição de combustíveis, enquanto no porto catarinense, granéis líquidos combustíveis ou químicos. Já o Complexo Portuário de Imbituba (terminal IMB05) movimenta granéis líquidos combustíveis ou químicos, proveniente principalmente de Maceió (AL), para abastecer empresas localizadas em toda a região sul.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

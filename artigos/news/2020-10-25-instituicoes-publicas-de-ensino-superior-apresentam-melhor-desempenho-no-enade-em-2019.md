@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Os cursos das instituições públicas de ensino superior apresentaram desempenhos maiores que os das instituições privadas no Exame Nacional de Desempenho dos Estudantes (Enade) 2019. Os resultados do Enade foram divulgados nesta terça-feira (20) pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep).
 
 O exame avalia o desempenho dos estudantes em relação aos conteúdos programáticos no curso de graduação. A cada edição são avaliados grupos de cursos. Dos cursos enquadrados na faixa 5, melhor nota do indicador, 81,4% são de instituições públicas, enquanto 18,6% correspondem a instituições privadas. O dado faz parte do Conceito Enade, calculado a partir dos desempenhos dos estudantes concluintes dos cursos de graduação no Enade.
@@ -41,5 +40,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

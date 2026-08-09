@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 ## O dinheiro poderia explicar como o capitão Henry Every, então o criminoso mais procurado do mundo por saquear navios que transportavam peregrinos muçulmanos de Meca para a Índia em 1695, escapou da captura.
 
 Um punhado de moedas desenterradas de um pomar de colheita-sua-própria-fruta na zona rural de Rhode Island e outros cantos aleatórios da Nova Inglaterra podem ajudar a resolver um dos casos arquivados mais antigos do planeta.
@@ -76,7 +75,3 @@ Fonte: https://www.timesofisrael.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

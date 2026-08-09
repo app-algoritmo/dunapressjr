@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Inflação cairia 0,3% em até 15 anos.
 
 A redução em 10% da Tarifa Externa Comum (TEC) para a importação de 87% dos produtos de fora do Mercosul injetará R$ 246 bilhões na economia brasileira até 2040, disse nesta sexta-feira (5) o secretário especial de Comércio Exterior e Assuntos Internacionais do Ministério da Economia, Roberto Fendt. Segundo ele, as exportações aumentarão R$ 280 bilhões no mesmo período, com a inserção internacional da indústria brasileira.
@@ -30,10 +29,6 @@ Para o secretário especial, a redução da TEC é essencial para a modernizaç�
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-O primeiro teste com água no Canal Acauã-Araçagi ocorreu na tarde dessa terça-feira (26), se constituindo em mais uma ação importante do Governo do Estado para garantir a segurança hídrica do Agreste Paraibano. O dispositivo para liberação da água foi acionado pelo secretário da Infraestrutura, dos Recursos Hídricos e do Meio Ambiente, Deusdete Queiroga, que representou o governador João Azevêdo. A ação ocorreu no lote 1 da obra, no município de Itatuba (Agreste paraibano). 
+O primeiro teste com água no Canal Acauã-Araçagi ocorreu na tarde dessa terça-feira (26), se constituindo em mais uma ação importante do Governo do Estado para garantir a segurança hídrica do Agreste Paraibano. O dispositivo para liberação da água foi acionado pelo secretário da Infraestrutura, dos Recursos Hídricos e do Meio Ambiente, Deusdete Queiroga, que representou o governador João Azevêdo. A ação ocorreu no lote 1 da obra, no município de Itatuba (Agreste paraibano).
 
 A construção do Canal Acauã-Araçagi é considerada a maior obra hídrica do Estado executada pelo Governo da Paraíba, por meio da Seirhma, com investimento de R$ 1 bilhão e 42 milhões, recursos oriundos do tesouro estadual e do governo federal, nos dois primeiros lotes.
 
@@ -24,15 +23,15 @@ O Canal Acauã-Araçagi objetiva promover o suprimento regular de água bruta ao
 
 ## **O Projeto**
 
-O projeto do Sistema Adutor da Vertentes Litorâneas da Paraíba Canal Acauã-Araçagi compreende 17 segmentos de canais abertos com seção trapezoidal, totalizando 130,44 km, intercalados por cinco trechos de sifões invertidos, construídos em tubos de aço, para ultrapassar vales de rios e córregos, sete aquedutos, galerias para travessias de ferrovia e rodovia. O sistema foi projetado para trabalhar totalmente por gravidade e transportar vazões que variam de 10 m³/s no trecho inicial a 2,5 m³/s no trecho final. 
+O projeto do Sistema Adutor da Vertentes Litorâneas da Paraíba Canal Acauã-Araçagi compreende 17 segmentos de canais abertos com seção trapezoidal, totalizando 130,44 km, intercalados por cinco trechos de sifões invertidos, construídos em tubos de aço, para ultrapassar vales de rios e córregos, sete aquedutos, galerias para travessias de ferrovia e rodovia. O sistema foi projetado para trabalhar totalmente por gravidade e transportar vazões que variam de 10 m³/s no trecho inicial a 2,5 m³/s no trecho final.
 
 O projeto é dividido em três lotes de obras. O lote 01 está com um percentual de execução da ordem de 94,38%, onde foram feitos os testes e comissionamento a seco, em novembro de 2020; o lote 02 está com um percentual de execução da ordem 67,11% e o lote 03, que deverá ser licitado em 2021. Portanto, o lote 01 tem prazo até maio de 2021 e o lote 02 até dezembro de 2021, para conclusão. O lote 03, após licitação, terá prazo de execução de dois anos.
 
-A obra vai garantir a sustentabilidade hídrica das seguintes bacias litorâneas: Bacia do Rio Paraíba, Bacia do Rio Gurinhém (afluente do Rio Paraíba), Bacia do Rio Miriri, Bacia do Rio São Salvador, Bacia do Rio Mamanguape, Bacia do Rio Araçagi, Bacia do Rio Camaratuba; 
+A obra vai garantir a sustentabilidade hídrica das seguintes bacias litorâneas: Bacia do Rio Paraíba, Bacia do Rio Gurinhém (afluente do Rio Paraíba), Bacia do Rio Miriri, Bacia do Rio São Salvador, Bacia do Rio Mamanguape, Bacia do Rio Araçagi, Bacia do Rio Camaratuba;
 
 O Canal Acauã-Araçagi visa o aproveitamento de águas interiores e águas a serem transpostas pelo Projeto de Integração do Rio São Francisco com Bacias Hidrográficas do Nordeste Setentrional – PISF, através do Eixo Leste, em implantação pelo Governo Federal. As águas transpostas pelo Projeto São Francisco já chegaram à Paraíba desde o mês de março de 2017.
 
-A captação se dá no Açude Acauã (Barragem Argemiro de Figueiredo) localizada no baixo Rio Paraíba, ao sul do Estado. A partir da tomada d’água o sistema adutor avança em direção ao norte até desaguar em um afluente do Rio Camaratuba, no município de Curral de Cima. Neste percurso de aproximadamente 129,178 km de extensão, o sistema adutor cruza as bacias dos rios Gurinhém, Mirirí, e Mamanguape/Araçagi, integrando-as, e promove implantação de obras do empreendimento em áreas dos municípios de Itatuba, Mogeiro, Salgado de São Felíx, Itabaiana, São José dos Ramos, Riachão do Poço, Sobrado, Sapé, Mari, Cuité de Mamanguape, Araçagi, Itapororoca e Curral de Cima. 
+A captação se dá no Açude Acauã (Barragem Argemiro de Figueiredo) localizada no baixo Rio Paraíba, ao sul do Estado. A partir da tomada d’água o sistema adutor avança em direção ao norte até desaguar em um afluente do Rio Camaratuba, no município de Curral de Cima. Neste percurso de aproximadamente 129,178 km de extensão, o sistema adutor cruza as bacias dos rios Gurinhém, Mirirí, e Mamanguape/Araçagi, integrando-as, e promove implantação de obras do empreendimento em áreas dos municípios de Itatuba, Mogeiro, Salgado de São Felíx, Itabaiana, São José dos Ramos, Riachão do Poço, Sobrado, Sapé, Mari, Cuité de Mamanguape, Araçagi, Itapororoca e Curral de Cima.
 
 Fonte: paraiba.pb.gov.br – Imagem de destaque: Francisco França
 
@@ -40,8 +39,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

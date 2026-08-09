@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa chegou a subir 0,7%, mas encerrou próxima da estabilidade.
 
 Num dia de altos e baixos no mercado financeiro, o dólar encerrou em leve alta depois de encostar em R$ 5,06. A bolsa chegou a subir 0,7%, mas quase zerou os ganhos e fechou a sessão próxima da estabilidade.
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

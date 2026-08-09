@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O Zarc leva em conta recomendações de instituições de pesquisa e órgãos estaduais sobre medidas de manejo que incluem o período de vazio sanitário e o calendário de plantio para reduzir os riscos relacionados aos aspectos fitossanitários.
 
 Ministério da Agricultura, Pecuária e Abastecimento (Mapa) publicou hoje (29) no Diário Oficial da União as [portarias números 145 a 160 ](http://www.in.gov.br/en/web/dou/-/portaria-n-145-de-28-de-maio-de-2020-259139006)que estabelecem o Zoneamento Agrícola de Risco Climático (Zarc) para a cultura da soja.  O objetivo é reduzir os riscos relacionados a problemas climáticos e também o risco fitossanitário causado pela ferrugem asiática da soja. O Zarc leva em conta recomendações de instituições de pesquisa e órgãos estaduais sobre medidas de manejo que incluem o período de vazio sanitário e o calendário de plantio para reduzir os riscos relacionados aos aspectos fitossanitários.
@@ -20,7 +19,7 @@ Com a publicação do Zarc de girassol e soja, o Mapa finaliza o cronograma de p
 
 Mesmo com a pandemia do Covid-19, os serviços, que envolvem desde o estabelecimento da metodologia e aplicação da modelagem até o recebimento de informações de cultivares e publicação no Diário Oficial da União, foram realizados de forma remota por meio de sistemas de informação, o que permitiu, neste ano, a antecipação da publicação das Portarias de Zarc para a safra de verão subsequente.
 
-**Para que serve o Zarc?** 
+**Para que serve o Zarc?**
 
 https://www.youtube.com/embed/2ik0hz3EGmY  O zoneamento tem o objetivo de reduzir os riscos relacionados aos problemas climáticos e permite ao produtor identificar a melhor época para plantar, levando em conta a região do país, a cultura e os diferentes tipos de solos.
 
@@ -37,8 +36,6 @@ Produtores rurais e outros agentes do agronegócio podem acessar por meio de *ta
 Os resultados também podem ser consultados e baixados por meio da plataforma [“Painel de Indicação de Riscos”](http://indicadores.agricultura.gov.br/zarc/index.htm).
 
 Fonte: MAPA / Imagem em destaque: gov.br
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

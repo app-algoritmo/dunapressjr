@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Preço médio do litro subiu R$ 0,17.
 
 A Petrobras anunciou hoje (8) um aumento de cerca de 8% no preço da gasolina a ser vendido pelas refinarias para as distribuidoras. Com isso, o preço médio do litro do combustível subiu R$ 0,17 e passará a ser de R$ 2,25 a partir de amanhã (9).
@@ -24,8 +23,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

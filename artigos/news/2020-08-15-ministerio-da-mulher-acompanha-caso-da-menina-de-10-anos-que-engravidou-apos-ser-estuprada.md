@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Desde a última quarta-feira (12), integrantes do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) estão em São Mateus (ES) para acompanhar o caso da menina que era estuprada pelo tio desde os seis anos de idade. A criança, que agora tem dez, está grávida.
 
 A equipe de servidores foi enviada pela ministra Damares Alves e compõe os quadros da Secretaria Nacional dos Direitos da Criança e do Adolescente (SNDCA) e da Ouvidoria Nacional de Direitos Humanos (ONDH). Eles se reuniram com membros da Secretaria Municipal de Assistência Social e da rede de proteção de direitos do município, além de visitarem o conselho tutelar local.
@@ -39,6 +38,6 @@ Fonte Gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)****

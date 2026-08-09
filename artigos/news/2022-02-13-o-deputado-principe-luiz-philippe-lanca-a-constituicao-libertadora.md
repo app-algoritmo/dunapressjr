@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Após três anos do anúncio oficial o deputado federal Luiz Philippe de Orleans e Bragança (SP) apresentou proposta de nova Constituição em uma *live,* na noite da quinta-feira, 02 de setembro, dia histórico em que a princesa regente do Brasil,  Maria Leopoldina, assinou a independência do Brasil. Chamada de [**“A Libertadora”**](https://constituicaolibertadora.com.br/),a nova Constituição teve seus objetivos, obstáculos e pontos gerais dissecados pelos autores.
 
 Na transmissão, os autores destacaram que a Constituição Federal, de 1988, gera instabilidade política por permitir que o governo e seus atores burocráticos façam intervenções constantes e em demasia. “Você nunca sabe o que vem depois”, afirmou Luiz Philippe.
@@ -50,7 +49,3 @@ Fonte: https://www.lpbraganca.com.br/luiz-philippe
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

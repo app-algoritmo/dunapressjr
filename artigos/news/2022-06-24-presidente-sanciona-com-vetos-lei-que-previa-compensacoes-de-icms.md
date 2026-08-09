@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Entre os vetos, está o que garantia mínimos em saúde e educação.
 
 O presidente Jair Bolsonaro sancionou com vetos o projeto de lei aprovado pelo Congresso Nacional que prevê um teto limitando o Imposto sobre Circulação de Mercadorias e Serviços (ICMS) que incide sobre combustíveis, energia elétrica, comunicações e transportes coletivos, itens que, segundo o texto, são considerados essenciais “para fins de tributação”.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

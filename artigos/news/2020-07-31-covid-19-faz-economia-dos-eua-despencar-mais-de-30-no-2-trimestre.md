@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Esse foi o declínio mais acentuado desde a Grande Depressão, em 1929**.
 
 A economia dos Estados Unidos contraiu no segundo trimestre no ritmo mais acentuado desde a Grande Depressão, em 1929, uma vez que a pandemia de covid-19 destruiu os gastos dos consumidores e das empresas, e a recuperação está sob ameaça de um ressurgimento dos casos de coronavírus.
@@ -48,4 +47,4 @@ Mas os gastos do governo aumentaram 2,7%, graças ao pacote de estímulo.
 
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Mike Blake
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

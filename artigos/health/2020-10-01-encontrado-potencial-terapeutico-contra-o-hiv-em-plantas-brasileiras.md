@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 O projeto intitulado “**Identificação e caracterização de compostos extraídos da família de plantas Euphorbiaceae utilizados na cura funcional de HIV” **foi capaz de identificar compostos oriundos de plantas brasileiras que possuem atividades contra o vírus HIV. O projeto foi coordenado pelo pesquisador Amilcar Tanuri  da Universidade Federal do Rio de Janeiro.
 
 Os resultados do projeto apoiado pelo MCTI via Conselho Nacional de Desenvolvimento Científico e Tecnológico – CNPq demonstraram que extratos naturais de plantas brasileiras da família Euphorbiaceae podem inibir a transmissão e replicação de HIV. Compostos extraídos destas plantas também possuem a capacidade de ativar a transcrição viral e retirar o HIV da latência, que combinado com a terapia antirretroviral convencional, poderia ser utilizado na cura funcional.
@@ -31,5 +30,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

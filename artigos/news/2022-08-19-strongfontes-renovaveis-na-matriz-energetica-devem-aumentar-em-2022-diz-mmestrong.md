@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Previsão consta do Boletim Mensal de Energia.
 
 Levantamento divulgado pelo Ministério de Minas e Energia (MME) referente ao mês de maio informa que, em 2022, a Oferta Interna de Energia (OIE) deverá crescer menos que o consumo final de energia nos setores econômicos. Segundo o Boletim Mensal de Energia, isso ocorrerá devido à redução das perdas de energia na geração termelétrica, decorrente da “recuperação da geração hidráulica”, após apresentar recuo de 8,5% em 2021.
@@ -29,8 +28,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

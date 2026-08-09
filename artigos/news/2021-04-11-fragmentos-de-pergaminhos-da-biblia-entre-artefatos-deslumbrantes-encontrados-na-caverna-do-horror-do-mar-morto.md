@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Em uma descoberta incrivelmente rara, dezenas de fragmentos de pergaminhos bíblicos de 2.000 anos foram escavados em cavernas do deserto da Judéia durante uma ousada operação de resgate. A maioria dos fragmentos de rolos recém-descobertos - os primeiros achados em 60 anos - são traduções gregas dos livros de Zacarias e Naum do Livro dos Doze Profetas Menores, e são escritos por duas mãos de escribas. Apenas o nome de Deus está escrito em hebraico nos textos.
 
 Os fragmentos dos Profetas foram identificados como vindos de um pergaminho maior que foi encontrado na década de 1950, na mesma “Caverna do Horror” em Nahal Hever, que fica a cerca de 80 metros (260 pés) abaixo do topo de um penhasco. De acordo com um comunicado à imprensa da Autoridade de Antiguidades de Israel, a caverna é "ladeada por desfiladeiros e só pode ser alcançada com rapel precariamente descendo o penhasco".
@@ -51,7 +50,7 @@ Seções do pergaminho do Livro dos Doze Profetas Menores descobertos na expedi�
 
 A IKEA faria bem em observar o artesanato mostrado em uma cesta tecida impressionante que data de cerca de 10.500 anos atrás - cerca de 1.000 anos antes dos primeiros vasos de cerâmica conhecidos - que foi saudada pela IAA como "atualmente incomparável em todo o mundo".
 
-A cesta encontrada na Caverna Muraba'at. 
+A cesta encontrada na Caverna Muraba'at.
 (Yoli Schwartz, Autoridade de Antiguidades de Israel)
 
 O enorme receptáculo de volume de 90-100 litros (24-26 galões) foi descoberto por jovens voluntários da academia de liderança pré-militar de Nofei Prat. A emocionante descoberta ocorreu em uma das cavernas Muraba'at, que anteriormente ofereciam esconderijos de papéis da era romana e restos da Revolta de Bar Kochba, encontrados na Reserva Nahal Darga.
@@ -64,14 +63,14 @@ Devido ao clima árido da região, a enorme cesta do período Neolítico Pré-Ol
 
 Infelizmente, a cesta foi descoberta vazia. “Somente pesquisas futuras de uma pequena quantidade de solo remanescente dentro dele nos ajudarão a descobrir para que foi usado e o que foi colocado nele”, disse o IAA.
 
-Trabalho de conservação na cesta nos laboratórios da Autoridade de Antiguidades de Israel. 
+Trabalho de conservação na cesta nos laboratórios da Autoridade de Antiguidades de Israel.
 (Yaniv Berman, Autoridade de Antiguidades de Israel)
 
 ### Criança mumificada
 
 Há cerca de 6.000 anos, um pai cobriu seu filho com um cobertor para seu sono eterno. O esqueleto completo está sendo pesquisado por Ronit Lupu do IAA e pelo Dr. Hila May, da Escola de Medicina da Universidade de Tel Aviv, que estima ter entre 6 e 12 anos de idade, com base em uma tomografia computadorizada.
 
-Esqueleto de 6.000 anos de uma criança que foi enterrada embrulhada em um pano. 
+Esqueleto de 6.000 anos de uma criança que foi enterrada embrulhada em um pano.
 (Emil Aladjem, Autoridade de Antiguidades de Israel)
 
 Apropriadamente, a criança embrulhada em pano foi descoberta na Caverna do Horror. De acordo com o pré-historiador Lupu, após mover duas pedras chatas, a equipe descobriu que um buraco raso havia sido cavado intencionalmente sob as pedras que seguravam o esqueleto da criança, que foi colocado em posição fetal e coberto com um pano em volta da cabeça e do peito.
@@ -80,14 +79,14 @@ Apropriadamente, a criança embrulhada em pano foi descoberta na Caverna do Horr
 
 ### Estoque e cache de Bar Kochba
 
-Um esconderijo raro do período Bar Kochba. 
+Um esconderijo raro do período Bar Kochba.
 (Dafna Gazit, Autoridade de Antiguidades de Israel)
 
 Várias das cavernas ofereciam achados aleatórios deixados por rebeldes judeus que fugiram para as cavernas no final da Revolta de Bar Kochba, incluindo um esconderijo de moedas que foram estouradas com símbolos de rebeldes judeus, como uma harpa e uma tamareira, uma variedade de pontas de flechas e pontas de lança, pedaços de tecido, sandálias e pentes para piolhos, que ilustravam os itens do cotidiano levados pelos judeus em fuga.
 
 Ofer Sion, chefe do Departamento de Pesquisas da IAA, disse: “Os penhascos altos de 300-400 metros [985-1.300 pés] em uma única queda com essas ravinas enigmáticas que ninguém alcança eram o refúgio final. E em um período da história humana, as famílias fugiram para as cavernas no deserto da Judéia, e realmente não sabemos de mais nada. ”
 
-Achados nas cavernas: fragmentos de jarros e pontas de flechas de Qumran dos períodos pré-históricos e romanos. 
+Achados nas cavernas: fragmentos de jarros e pontas de flechas de Qumran dos períodos pré-históricos e romanos.
 (Dafna Gazit, Autoridade de Antiguidades de Israel)
 
 O arqueólogo Oriah Amichai explicou que as famílias planejaram claramente o que levariam de casa, “quando um dia, quando a guerra acabasse, o que eles poderiam usar para construir uma nova vida. Viemos aqui e reconstruímos a vida daqueles que não sobreviveram no final ”, disse ela.
@@ -102,7 +101,3 @@ Fonte: https://www.timesofisrael.com
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

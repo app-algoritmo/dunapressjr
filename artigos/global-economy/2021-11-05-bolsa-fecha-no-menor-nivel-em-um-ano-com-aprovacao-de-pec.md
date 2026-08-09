@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Dólar caiu até o início da tarde, mas fechou com pequena alta.
 
 A bolsa de valores teve forte queda e fechou no menor nível em quase um ano após a [**aprovação, em primeiro turno, do texto-base da proposta de emenda à Constituição (PEC)**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-11/camara-aprova-em-1o-turno-texto-base-da-pec-dos-precatorios) que parcela os precatórios e muda a regra do teto de gastos. O dólar chegou a operar em queda durante a manhã e o início da tarde, mas fechou com pequena alta.
@@ -24,10 +23,6 @@ A tensão no mercado de câmbio foi agravada pela aprovação da PEC dos Precat�
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

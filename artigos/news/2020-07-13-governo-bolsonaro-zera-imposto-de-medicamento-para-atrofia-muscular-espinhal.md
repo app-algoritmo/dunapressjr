@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Redução será efetuada por meio da inclusão de destaque tarifário e já consta da Lista de Exceções à Tarifa Externa Comum do Mercosul.
 
 A Câmara de Comércio Exterior (Camex) zerou o Imposto de Importação (II) do medicamento Zolgensma, medicamento para [Atrofia Muscular Espinhal (AME)](https://saude.gov.br/saude-de-a-z/atrofia-muscular-espinhal-ame). A droga é considerada o medicamento mais caro do mundo, cotado a R$ 12 milhões, e não tem fabricação no Brasil.
@@ -16,7 +15,7 @@ A r[esolução Nº 66/2020](http://www.in.gov.br/web/dou/-/resolucao-n-66-de-10-
 
 O Zolgensma é uma terapia gênica que deve ser ministrada até os dois anos de idade das crianças que sofrem de AME. A atrofia muscular espinhal provoca a paralisia das pernas e, progressivamente, dos músculos de todo o corpo. A desoneração do medicamento terá impacto positivo no tratamento das crianças portadoras da doença.
 
-O presidente da República, Jair Bolsonaro, comemorou a medida, por meio de sua conta pessoal nas redes sociais. 
+O presidente da República, Jair Bolsonaro, comemorou a medida, por meio de sua conta pessoal nas redes sociais.
 
 **Combate à COVID-19**
 
@@ -32,6 +31,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

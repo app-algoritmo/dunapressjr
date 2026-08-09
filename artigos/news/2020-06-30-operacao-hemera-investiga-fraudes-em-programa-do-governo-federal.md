@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Passo Fundo/RS - A Polícia Federal deflagra, na manhã desta terça-feira (30/6), a Operação Hemera, que investiga fraudes no Programa de Garantia da Atividade Agropecuária (PROAGRO) do Governo Federal.
 
 Cerca de 30 policiais federais cumprem 9 mandados de busca e apreensão nos municípios de Passo Fundo, Ijuí, Tapera e Salto do Jacuí.
@@ -22,4 +21,4 @@ A operação foi denominada Hemera, deusa mitológica grega que representa o Sol
 
 Comunicação Social da Polícia Federal em Passo Fundo
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

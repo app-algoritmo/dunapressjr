@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O programa permite laticínios e cooperativas usarem créditos presumidos do PIS/Pasep e da Cofins de leite in natura, utilizado como insumo, além de beneficiar produtores de leite com assistência técnica.
 
 O pedido de habilitação de laticínios e cooperativas de leite no Programa “Mais Leite Saudável” (PMLS), do Ministério da Agricultura, Pecuária e Abastecimento (Mapa), poderá, a partir de agora, ser realizado de forma *online*. A solicitação deverá ser feita pelo Portal de Serviços do Governo Federal - [www.gov.br](http://www.gov.br/)
@@ -22,7 +21,7 @@ Mundialmente, ressalta Dantas, o setor leiteiro se destaca por sua grande import
 
 O Brasil está entre os cinco maiores produtores mundiais de leite, e o setor tem grande relevância socioeconômica para o mercado interno. A cadeia agroindustrial do leite reúne cerca de 1,2 milhão de produtores, presentes em 98% dos municípios.
 
-“O aumento de produtividade e da produção, resultante de uma gestão profissionalizada e da utilização de ferramentas como inovação e tecnologia, aliados à melhoria na qualidade do produto, credenciará o Brasil como grande exportador de lácteos”, avalia o coordenador. 
+“O aumento de produtividade e da produção, resultante de uma gestão profissionalizada e da utilização de ferramentas como inovação e tecnologia, aliados à melhoria na qualidade do produto, credenciará o Brasil como grande exportador de lácteos”, avalia o coordenador.
 
 Além de possibilitar o acesso a recursos, o "Programa Mais Leite Saudável" representa uma oportunidade para laticínios e cooperativas de leite melhorarem a produtividade e o rendimento de seus processos industriais e produtos finais, uma vez que passam a ter acesso a matérias-primas (leite) de melhor qualidade, com menor descontinuidade no fornecimento, estimulando a profissionalização e a competitividade na cadeia leiteira nacional.
 
@@ -41,5 +40,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)

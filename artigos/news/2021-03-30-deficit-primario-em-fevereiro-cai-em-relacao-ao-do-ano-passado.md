@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado ficou negativo em R$ 21,217 bilhões.
 
 O aumento da arrecadação e o atraso na aprovação do Orçamento deste ano ajudaram o governo a registrar déficit primário menor em fevereiro. No mês passado, o Governo Central (Tesouro Nacional, Previdência Social e Banco Central) teve déficit de R$ 21,217 bilhões, contra resultado negativo de R$ 25,858 bilhões no mesmo mês de 2020, divulgou nesta terça-feira (30) o Tesouro Nacional.
@@ -30,10 +29,6 @@ Em contrapartida, os investimentos (obras e compras de equipamentos) iniciaram o
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

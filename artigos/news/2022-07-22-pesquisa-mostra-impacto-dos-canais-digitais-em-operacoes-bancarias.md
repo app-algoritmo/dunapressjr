@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### De cada dez transações, sete são feitas por canais digitais.
 
 O uso de canais digitais para realização de operações bancárias tem sido dominante no Brasil. Pagamentos e abertura de contas, entre outras transações, são feitas em sua maioria pela internet e pelo celular. De acordo com uma pesquisa da Federação Brasileira de Bancos (Febraban), em parceria com a Deloitte, o uso de canais digitais para operações bancárias cresceram 23% no ano passado e já são sete em cada dez no país.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

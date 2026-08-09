@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Expectativa é que o Copom eleve a Selic esta semana para 7,5%
 
 Diante do aumento da inflação, a expectativa do mercado financeiro é que a taxa básica de juros, a Selic, encerre 2021 em 8,75% ao ano. Na semana passada, a estimativa era de 8,25% ao ano, de acordo com o boletim Focus, pesquisa divulgada semanalmente pelo Banco Central (BC), com a projeção para os principais indicadores econômicos, divulgado nesta segunda-feira (25).
@@ -40,10 +39,6 @@ A expectativa para a cotação do dólar subiu de R$ 5,25 para R$ 5,45, para o f
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

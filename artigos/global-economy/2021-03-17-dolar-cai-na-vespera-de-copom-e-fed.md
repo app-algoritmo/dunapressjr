@@ -7,10 +7,9 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa também fechou em queda.
 
-O dólar fechou esta terça-feira (16) em queda de 0,38%, fechando a R$ 5,6166 na venda. 
+O dólar fechou esta terça-feira (16) em queda de 0,38%, fechando a R$ 5,6166 na venda.
 
 No exterior, o índice do dólar teve variação positiva de 0,5%. Moedas de risco tinham viés de queda, com operadores no aguardo da decisão de política monetária do banco central dos Estados Unidos, o Federal Reserve (Fed).
 
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

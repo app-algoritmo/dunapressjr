@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Todos os setores da economia aumentaram a arrecadação.
 
 O ministro da Economia, Paulo Guedes, disse hoje (29) que o [aumento da arrecadação registrado pela Receita Federal (RFB)](https://agenciabrasil.ebc.com.br/economia/noticia/2021-06/receita-registra-em-maio-melhor-desempenho-arrecadatorio-desde-2000), mostra que a economia “voltou a ficar de pé”.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

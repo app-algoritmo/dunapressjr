@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Pesquisa feita com mais de 33 mil entrevistados, em todo o país, mostra o impacto do novo coronavírus (Covid-19) na vida dos jovens. Com base nos dados coletados, o levantamento revela a percepção dos participantes do estudo quanto aos reflexos da pandemia na rotina e os sentimentos compartilhados por eles após a disseminação da doença.
 
 Promovida pelo Conselho Nacional da Juventude (Conjuve), em parceria com Em Movimento, Fundação Roberto Marinho, Mapa Educação, Porvir, Rede Conhecimento Social, Unesco e Visão Mundial, a pesquisa “Juventudes e a pandemia do Coronavírus” levou em conta quatro temas: economia; saúde e bem-estar; educação; e perspectivas para o futuro.
@@ -51,6 +50,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

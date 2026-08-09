@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Regras mais modernas para simplificar, desburocratizar e atrair investimentos para a aviação geral brasileira. No Palácio do Planalto, foi lançado, nesta quarta-feira (7), o programa Voo Simples, que traz mais de 50 medidas que vão ajudar a reduzir os custos do setor, os impactos causados pela Covid-19 e gerar mais empregos.
 
 A ação é da Agência Nacional de Aviação Civil (Anac) e do Ministério da Infraestrutura, e promete criar um novo ambiente de negócio. Segundo o Ministério da Infraestrutura, o Voo Simples beneficia toda a indústria de aviação, especialmente, profissionais do setor e empresas aéreas de pequeno porte.
@@ -22,7 +21,7 @@ E disse que é um compromisso do governo tornar a vida do brasileiro mais fácil
 
 “No país que inventou a aviação, no país de Santos Dummont, nós voamos pouco. E voamos pouco porque nós perdemos o gosto de voar. Voar se tornou burocrático. Voar se tornou custoso. Voar se tornou um sofrimento. Sofrimento estampado nas lágrimas dos pilotos que nos procuram dizendo que estão perdendo a sua habilitação, porque não conseguem cumprir as exigências, não conseguem arcar com os custos”, afirmou o ministro.
 
-Tarcísio Freitas lembrou que o programa Voo Simples se alia a outras iniciativas já lançadas pelo Governo Federal para incrementar o setor de aviação no Brasil. “Nós estamos conduzindo o maior programa de concessões do mundo e devemos leiloar, até o final do Governo do Presidente Bolsonaro, mais 42 aeroportos. Fizemos 12 e estamos com 22 lá no TCU [Tribunal de Contas da União]; e tenho certeza que esses leilões serão um grande sucesso”, afirmou.  
+Tarcísio Freitas lembrou que o programa Voo Simples se alia a outras iniciativas já lançadas pelo Governo Federal para incrementar o setor de aviação no Brasil. “Nós estamos conduzindo o maior programa de concessões do mundo e devemos leiloar, até o final do Governo do Presidente Bolsonaro, mais 42 aeroportos. Fizemos 12 e estamos com 22 lá no TCU [Tribunal de Contas da União]; e tenho certeza que esses leilões serão um grande sucesso”, afirmou.
 
 Segundo ele, para voar, o Brasil precisa investir em infraestrutura, tanto nos aeroportos da Infraero, como nos aeroportos regionais. “E é por isso que na próxima reunião do Conselho a gente vai lançar a primeira parceria público-privada para aeroportos regionais na região da Amazônia, para dar infraestrutura para as empresas que querem voar, que querem fazer a diferença para aquelas pessoas que precisam do transporte aéreo para sobreviver”, anunciou o ministro.
 
@@ -38,7 +37,7 @@ Também será reduzida a lista de documentos obrigatórios que deverão estar a 
 
 Deverá ser modificado o formato e o funcionamento do Registro Aeronáutico Brasileiro. “Vai ser mais barato aceitar e certificar aeronaves. Vão diminuir as tarifas. Nós vamos simplificar a vida da aviação experimental. Isso sem perder absolutamente nada no que diz respeito à segurança”, disse o ministro.
 
-Não existe hoje regulamentação específica sobre operação anfíbia, a partir do mar ou rio por uma aeronave. O programa Voo Simples prevê esse tipo de operação em águas brasileiras. 
+Não existe hoje regulamentação específica sobre operação anfíbia, a partir do mar ou rio por uma aeronave. O programa Voo Simples prevê esse tipo de operação em águas brasileiras.
 
 O programa Voo Simples prevê ainda a ampliação de locais habilitados de provas necessárias para a obtenção de licenças de pilotos, comissários, mecânicos e despachantes. Atualmente, apenas 13 escritórios da Anac em sete estados estão habilitados para isso. Este número será ampliado para todos os estados da federação, em 50 localidades.
 
@@ -51,5 +50,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

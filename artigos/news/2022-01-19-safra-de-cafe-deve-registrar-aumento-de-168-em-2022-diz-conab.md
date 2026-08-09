@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em 2021, o volume total produzido foi de 47,7 milhões de sacas.
 
 Após queda na produção no ano passado, a primeira estimativa da safra de café em 2022 aponta que a colheita do grão deve ter um aumento de 16,8% em relação ao ano passado, ficando em 55,7 milhões de sacas de 60 quilos (kg). Em 2021, o volume total de café produzido foi 47,7 milhões de sacas. Os números foram divulgados nesta terça-feira (18) pela Companhia Nacional de Abastecimento (Conab). O resultado previsto, entretanto, ainda está abaixo do que foi colhido em 2020, quando a safra recorde foi 63,08 milhões de sacas de 60 kg.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

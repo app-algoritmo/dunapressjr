@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 Assim como as serpentes, você já deve ter ouvido falar que é melhor não mexer com sapos, pois eles são venenosos e podem atacar. Em parte, é verdade: os sapos realmente têm veneno. A diferença é que eles não atacam ou injetam peçonha no inimigo, como as cobras fazem para se alimentar, por exemplo. Na verdade, o veneno do sapo fica localizado em glândulas na superfície da sua pele e é liberado somente quando ele sofre alguma agressão – como quando algum animal o ataca.
 
 “O sapo tem o que chamamos de defesa passiva: ele não ataca e não reage quando é atacado. Ele apenas infla os pulmões para expor as glândulas, e o veneno só é liberado quando o predador morde ou aperta essas glândulas”, explica o diretor do Laboratório de Biologia Estrutural do Butantan, Carlos Jared. Isso acontece porque, ao longo de sua história de mais de 350 milhões de anos na Terra, alguns grupos de anfíbios se desenvolveram por pressão dos predadores e suas glândulas microscópicas na pele passaram a ser macroscópicas.
@@ -31,7 +30,3 @@ Fonte: https://butantan.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

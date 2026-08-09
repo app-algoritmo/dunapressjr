@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Nesta quarta-feira (13) foi firmada parceria entre os programas Criança Feliz, do Ministério da Cidadania, e Conta pra Mim, do Ministério da Educação, para levar o conteúdo de literária para as visitas domiciliares a famílias em vulnerabilidade. Os dois projetos têm como foco o desenvolvimento de crianças na Primeira Infância, que abrange a faixa etária de 0 a 6 anos.
 
 Os visitadores do Criança Feliz receberão treinamento e kits com livros e materiais didáticos do Conta pra Mim a serem entregues às crianças.
@@ -30,7 +29,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

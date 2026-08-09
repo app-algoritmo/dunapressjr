@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice acumula taxas de 9,06% no ano e de 19,15% em 12 meses.
 
 O Índice de Preços ao Produtor (IPP), que mede o preço dos produtos na saída das fábricas, registrou inflação de 1,83% em maio deste ano. A taxa é inferior aos 2,08% de abril, mas superior ao 0,99% de maio de 2021.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

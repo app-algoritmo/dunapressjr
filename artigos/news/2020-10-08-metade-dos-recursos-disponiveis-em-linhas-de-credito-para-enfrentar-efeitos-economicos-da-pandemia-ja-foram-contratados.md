@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## No total, R$ 6 bilhões foram disponibilizados para pequenos empreendedores em atividades urbanas nas regiões Norte, Nordeste e Centro-Oeste.
 
 Mais de R$ 3 bilhões em linhas de crédito para apoiar os pequenos empreendedores do Norte, Nordeste e Centro-Oeste no enfrentamento aos impactos econômicos da pandemia da Covid-19 foram contratados até o início de outubro – o que representa a metade dos valores disponíveis. Os recursos emergenciais fazem parte dos Fundos Constitucionais de Financiamento (FNO, FNE e FCO) e têm o objetivo de reduzir os efeitos causados pela pandemia na economia.
@@ -56,5 +55,3 @@ No total, R$ 106,67 milhões foram para o setor de comércio e serviços. O rest
 Fonte: Ministério do Desenvolvimento Regional
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

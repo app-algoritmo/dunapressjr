@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### A passagem área foi o item que mais contribuiu para a alta.
 
 Os serviços ligados ao turismo ficaram 41,39% mais caros em junho, na comparação com o mesmo mês do ano passado, aponta levantamento da Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo (FecomercioSP), com base nos dados do Índice Nacional de Preços ao Consumidor Amplo (IPCA), do Instituto Brasileiro de Geografia e Estatística (IBGE). A passagem área foi o item que mais contribuiu para a alta, com variação de 122,40% em 12 meses.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

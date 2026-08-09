@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice registra acumulado de 10,40% em 12 meses.
 
 O Índice Geral de Preços – 10 (IGP-10), medido pela Fundação Getulio Vargas (FGV), registrou inflação de 0,74% em junho deste ano, superior aos 0,10% de maio. Com o resultado, o IGP-10 acumula taxas de 8,53% no ano e de 10,40% em 12 meses.
@@ -20,8 +19,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Cadastro no sistema garante acesso a pregões e outras formas de contratação, como dispensa de licitação e adesão a atas de registros de preços.
 
 Os estados do Acre e Roraima alcançaram 100% de seus municípios cadastrados no [compras.gov.br](https://www.gov.br/compras/pt-br). O resultado garante a todos os municípios desses dois estados o acesso aos pregões e a outras formas de contratação, como a dispensa eletrônica e a adesão a atas de registro de preços, além do acesso a mais de 470 mil licitantes de todo o país credenciados no Sistema de Cadastramento Unificado de Fornecedores (Sicaf).
@@ -32,8 +31,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

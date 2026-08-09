@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Secretário de Assuntos Econômicos Internacionais do Ministério da Economia avalia que reformas já aprovadas facilitam acessão do país à entidade, mas aponta desafios pela frente.
 
 O Brasil está adiantado no processo de acessão à Organização para a Cooperação e Desenvolvimento Econômico (OCDE), mas ainda precisa prosseguir nas reformas e na aprovação de marcos regulatórios para confirmar o ingresso na entidade. A avaliação foi feita nesta quinta-feira (3) pelo secretário de Assuntos Econômicos Internacionais (Sain) do Ministério da Economia, Erivaldo Gomes. No último dia 25 de janeiro, a OCDE formalizou o convite para a entrada do país no órgão.
@@ -41,8 +40,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

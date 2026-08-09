@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Pesquisadores da Universidade de Tel Aviv veem imunidade promissora à reinfecção de pacientes com coronavírus.
 
 Todo mundo que contrai o coronavírus produz anticorpos, determinaram pesquisadores da Universidade de Tel Aviv, o que, segundo eles, tranquiliza o sujeito incerto da imunidade.
@@ -38,4 +37,4 @@ Fonte The Time Of Israel
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

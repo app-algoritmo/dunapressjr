@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O empreendimento irá funcionar no município do Conde.
 
 O governador João Azevêdo assinou, nesta segunda-feira (27), um protocolo de intenções para a instalação de uma unidade do Grupo Cavalo Marinho na Paraíba. A empresa atua no ramo de comércio de combustíveis. Por conta da pandemia, a reunião foi feita por meio de videoconferência e a assinatura do protocolo foi feita através de certificação digital. Além do governador, participaram também da reunião o diretor presidente da Companhia de Desenvolvimento da Paraíba, Rômulo Polari Filho; o sócio-diretor da Cavalo Marinho, Armando Fonseca; o gerente comercial da empresa, Márcio Fonseca; e o gerente financeiro, Flavio Fonseca.
@@ -23,10 +22,10 @@ O empreendimento irá funcionar no município do Conde e deve injetar, inicialme
 
 A unidade industrial que funcionará na Paraíba fará a distribuição do óleo diesel e óleo combustível para todo o estado e estados adjacentes, como também o serviço de logística no transporte de combustíveis para as grandes distribuidoras (BR, Shell e Ipiranga).
 
-A capacidade de armazenamento da base na Paraíba será de 200.000 litros e a empresa pretende distribuir inicialmente cerca de 2 milhões de litros ao mês. Futuramente espera-se aumentar para 3 milhões de litros ao mês, gerando um faturamento anual em torno de R$ 100 milhões. 
+A capacidade de armazenamento da base na Paraíba será de 200.000 litros e a empresa pretende distribuir inicialmente cerca de 2 milhões de litros ao mês. Futuramente espera-se aumentar para 3 milhões de litros ao mês, gerando um faturamento anual em torno de R$ 100 milhões.
 
-O sócio-diretor da Cavalo Marinho, Armando Fonseca, comentou a expectativa do grupo em atuar em breve na Paraíba: “Será um prazer pra gente estar junto com vocês de mãos dadas, pra gente poder crescer não só a empresa, como também ajudar no crescimento do estado”. 
+O sócio-diretor da Cavalo Marinho, Armando Fonseca, comentou a expectativa do grupo em atuar em breve na Paraíba: “Será um prazer pra gente estar junto com vocês de mãos dadas, pra gente poder crescer não só a empresa, como também ajudar no crescimento do estado”.
 
 Fonte: paraiba.pb.gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

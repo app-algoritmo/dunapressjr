@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Vanessa Caroline Lopes, engenheira agrônoma formada pela Universidade Federal de São Carlos (UFSCar), é mestre pelo Programa de Pós-Graduação em Agricultura Tropical e Subtropical do Instituto Agronômico de Campinas (IAC). Com bolsa de Demanda Social da CAPES, ela pesquisou o uso de óleos essenciais para o controle de podridões em pós-colheita de uva ‘Itália”.
 
 **Explique o seu projeto de pesquisa.**
@@ -35,7 +34,3 @@ Fonte: https://www.gov.br/capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

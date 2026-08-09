@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A 1ª Câmara do Tribunal de Contas da Paraíba, após Inspeção Especial, julgou irregulares, nesta quinta-feira (3), 8,6 mil empréstimos concedidos entre 2005 e 2012 para servidores da Prefeitura de João Pessoa, em valor máximo de R$ 6,2 mil cada, por meio do Fundo Municipal de Apoio aos Pequenos Negócios (Empreender - JP). As despesas totalizaram R$ 17,1 milhões.
 
 O julgamento pela irregularidade (processo nº 10232/12) avaliou as atividades do programa no período. Uma das conclusões da Auditoria, e destacada pelo conselheiro relator Antônio Gomes Vieira Filho na sessão virtual, foi de que a concessão dos empréstimos em consignação não teve foco em atividade empreendedora, e se afastou dos objetivos do Programa Empreender-JP.
@@ -30,7 +29,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
 
 Obrigado pelo apoio!

@@ -8,7 +8,6 @@ categories:
 - Policy
 ---
 
-
 -Muitos conceitos literários trazem o politicamente correto como autoritário e tirânico, pois utiliza de todas as formas para ludibriar a mentalidade coletiva.
 
 O politicamente correto é visível na
@@ -62,5 +61,3 @@ Basicamente é você não conseguir manifestar o que pensa porque falar outra co
 Definitivamente, em nome do politicamente correto a omissão tem se instalado no coração dos cristãos que se acovardam, não têm coragem de chamarem de mal o verdadeiro mal, de denunciarem o pecado seja de quem e onde for.
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

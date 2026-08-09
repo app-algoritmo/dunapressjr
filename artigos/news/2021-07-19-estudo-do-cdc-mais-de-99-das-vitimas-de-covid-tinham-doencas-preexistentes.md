@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medo e ansiedade podem ser mortais quando se trata de COVID, descobriu um novo estudo, que mostra os principais fatores de risco para a morte por coronavírus.
 
 A esmagadora maioria dos adultos hospitalizados nos Estados Unidos após serem infectados com o coronavírus sofria de uma ou mais doenças pré-existentes, mostra um novo estudo, com mais de 99% dos pacientes com COVID que morreram com pelo menos uma doença pré-existente.
@@ -51,7 +50,3 @@ Fonte: https://www.israelnationalnews.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

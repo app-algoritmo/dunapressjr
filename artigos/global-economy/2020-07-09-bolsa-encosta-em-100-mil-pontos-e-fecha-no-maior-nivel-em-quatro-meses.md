@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Dólar oscilou bastante, mas fechou em queda.
 
 A bolsa de valores aproximou-se dos 100 mil pontos e encerrou esta quarta-feira (8) no maior nível em quatro meses. O índice Ibovespa, da B3 (a bolsa de valores brasileira), subiu 2,05% e fechou o dia aos 99.770 pontos.
@@ -24,4 +23,4 @@ Há várias semanas, mercados financeiros em todo o planeta atravessam um perío
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

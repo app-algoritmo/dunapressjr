@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Proposta segue para votação do plenário do Congresso.
 
 A Comissão Mista de Orçamento (CMO) aprovou nesta terça-feira (29) o Projeto de Lei do Congresso Nacional (PLN) 2/22, que permite a redução de tributos sobre combustíveis sem necessidade de compensar a perda de arrecadação. A proposta segue para votação do plenário do Congresso. A próxima sessão está marcada para 4 de abril.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Cos últimos 47 anos, a agropecuária cresceu em média 3,22% ao ano. Entre os censos de 2006 e 2017, a taxa de crescimento aproximou-se de 4,3%, superando Estados Unidos (1,9%), China (3,3%), Chile (3,1%) e Argentina (2,7%). De 1995 a 2017, o Valor Bruto da Produção dobrou, sendo que a tecnologia foi responsável por mais de 60% desse crescimento.
 
 Esses são alguns dos dados do livro “Uma Jornada Pelos Contrastes do Brasil: Cem anos do Censo Agropecuário”, lançado nessa terça-feira (1º) pelo Ministério da Agricultura, Pecuária e Abastecimento (Mapa), em parceria com o Instituto de Pesquisa Econômica Aplicada (Ipea) e o Instituto Brasileiro de Geografia e Estatística (IBGE). Com a participação de 64 pesquisadores de diversas instituições, a publicação traz um diagnóstico atual da agropecuária brasileira a partir de uma análise histórica e de informações estatísticas coletadas pelo censo agropecuário desde 1920.
@@ -52,7 +51,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

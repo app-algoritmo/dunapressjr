@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Dados são da Agência Nacional do Petróleo.
 
 Em maio, a produção de petróleo no país atingiu cerca de 2,879 milhões de barris por dia (MMbbl/d) e 132 milhões de metros cúbicos por dia (MMm3/d) de gás natural, totalizando 3,707 milhões de barris de óleo equivalente por dia (MMboe/d).
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

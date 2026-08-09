@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Iniciativa é resultado do trabalho conjunto do Ministério da Economia, do TSE e do Serpro.
 
 O ministro da Economia, Paulo Guedes, ressaltou nesta terça-feira (8) – durante a cerimônia de lançamento de mais uma etapa para a implantação do Documento Nacional de Identidade (DNI) – que a iniciativa é fruto de uma parceria entre os poderes Judiciário e Executivo voltada ao atendimento das necessidades do cidadão brasileiro. “Vamos para o futuro digitalizados com o nosso DNI”, disse o ministro. “É uma vitória do Brasil”, acrescentou.
@@ -22,7 +21,7 @@ O presidente do TSE, ministro Luís Roberto Barroso, classificou a implementaç�
 
 O DNI faz parte do programa de Identificação Civil Nacional (ICN), criado pela [Lei n° 13.444/2017](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13444.htm) visando a implantação de um sistema nacional de identificação do cidadão de forma integrada em todo o país. O TSE informa que o documento digital será gerado mediante a utilização de aplicativo gratuito disponível para smartphones e tablets nas plataformas Android e iOS e utilizará tecnologias do TSE e do Serviço Federal de Processamento de Dados (Serpro).
 
- Apenas as pessoas que tiveram as impressões digitais inseridas na Base de Dados da Identificação Civil Nacional (BDICN) poderão emitir o DNI, ou seja, somente quem já fez o cadastramento biométrico (coleta de foto e das impressões digitais) na Justiça Eleitoral ou em institutos de identificação parceiros. “Esse procedimento tem como objetivo reforçar a segurança, a confiabilidade e a higidez da identificação”, segundo o TSE, que possui um dos maiores bancos de dados biométricos das Américas, com mais de 120 milhões de cidadãos cadastrados em arquivo eletrônico (com foto, assinatura e impressões digitais).     
+ Apenas as pessoas que tiveram as impressões digitais inseridas na Base de Dados da Identificação Civil Nacional (BDICN) poderão emitir o DNI, ou seja, somente quem já fez o cadastramento biométrico (coleta de foto e das impressões digitais) na Justiça Eleitoral ou em institutos de identificação parceiros. “Esse procedimento tem como objetivo reforçar a segurança, a confiabilidade e a higidez da identificação”, segundo o TSE, que possui um dos maiores bancos de dados biométricos das Américas, com mais de 120 milhões de cidadãos cadastrados em arquivo eletrônico (com foto, assinatura e impressões digitais).
 
 A emissão do documento terá início em março, numa fase de testes com servidores da Justiça Eleitoral e de outros órgãos públicos. A expectativa, de acordo com o TSE, é que, no futuro, o DNI seja um importante meio de identificação do cidadão em suas relações com a sociedade e com os órgãos e entidades governamentais e privados. A partir de agosto, conforme o TSE, cidadãos domiciliados no estado de Minas Gerais também terão acesso ao documento. O estado foi escolhido em razão de acordo de cooperação firmado no fim de 2021. Ao longo de 2022, cidadãos de outros estados poderão emitir o DNI, que estará disponível para toda a população a partir de fevereiro de 2023.
 
@@ -32,8 +31,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

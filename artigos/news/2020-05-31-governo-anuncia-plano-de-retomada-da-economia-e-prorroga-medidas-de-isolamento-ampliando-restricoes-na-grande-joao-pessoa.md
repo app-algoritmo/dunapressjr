@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 O plano de abertura gradual da economia tem previsão para se iniciar no dia 15 de junho.
 
-O governador da Paraíba João Azevêdo e prefeitos da Grande João Pessoa assinaram, neste sábado (30), o decreto nº 40.289, que institui o isolamento social rígido na Capital paraibana e nos municípios de Cabedelo, Santa Rita, Bayeux, Conde, Caaporã, Alhandra e Pitimbu. As medidas conjuntas, que visam reduzir a circulação de pessoas e o tráfego de veículos, irão vigorar entre os dias 1º e 14 de junho, para conter a propagação da Covid-19 na região que concentra 5.827 dos 12.011 casos confirmados da doença, até o momento, na Paraíba. 
+O governador da Paraíba João Azevêdo e prefeitos da Grande João Pessoa assinaram, neste sábado (30), o decreto nº 40.289, que institui o isolamento social rígido na Capital paraibana e nos municípios de Cabedelo, Santa Rita, Bayeux, Conde, Caaporã, Alhandra e Pitimbu. As medidas conjuntas, que visam reduzir a circulação de pessoas e o tráfego de veículos, irão vigorar entre os dias 1º e 14 de junho, para conter a propagação da Covid-19 na região que concentra 5.827 dos 12.011 casos confirmados da doença, até o momento, na Paraíba.
 
 O chefe do Executivo estadual também assinou o decreto nº 40.288 que estende as medidas de isolamento social, já em vigor, para os demais municípios paraibanos até o próximo dia 14 e fixou para a primeira quinzena de junho a apresentação do plano de retomada da economia, que será iniciado a partir do dia 15 de junho. Os detalhes do plano serão apresentados neste domingo (31), às 18h, durante uma Live com o governador João Azevêdo.
 
@@ -36,5 +35,3 @@ Fonte: pb.gov.br
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Montadora anunciou na segunda-feira encerramento de atividades no país.
 
 O Ministério Público do Trabalho (MPT) abriu três inquéritos civis para avaliar os danos sociais do fechamento das fábricas da Ford no Brasil. Nesta semana, a montadora anunciou o encerramento das atividades das unidades de Taubaté (SP), Camaçari (BA) e Horizonte (CE).
@@ -34,8 +33,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

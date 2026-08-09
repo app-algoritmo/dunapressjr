@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Intervenções em todo o país contaram com repasses de mais de R$ 200 milhões do órgão.
 
 Um balanço do Ministério do Turismo revela que, durante o primeiro semestre de 2020, 443 obras apoiadas financeiramente pelo órgão, em todas as regiões do país, tiveram trabalhos concluídos. Os projetos, que receberam R$ 201,9 milhões do MTur, incluem serviços como pavimentação asfáltica, revitalização de orlas, a construção e a reforma de praças, entre outros.
@@ -28,7 +27,7 @@ Imagem: Prefeitura de Gramado
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

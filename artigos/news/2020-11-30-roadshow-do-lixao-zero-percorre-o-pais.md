@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério do Meio Ambiente (MMA) realiza desde o dia 27/10 um roadshow sobre o Sistema Nacional de Informações sobre a Gestão dos Resíduos Sólidos (SINIR). Os eventos são realizados em formato virtual, em parceria com a Associação Brasileira de Empresas de Tratamento de Resíduos e Efluentes (Abetre), e cobrirão todos os estados da Federação.
 
 Com o objetivo de oferecer conhecimento técnico e prático sobre o SINIR, os eventos conjuntos vêm sendo realizados para apresentar em detalhe as funcionalidades do SINIR, que foi lançado pelo Ministério do Meio Ambiente em 2019, como um dos primeiros resultados concretos do programa Lixão Zero.
@@ -46,7 +45,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

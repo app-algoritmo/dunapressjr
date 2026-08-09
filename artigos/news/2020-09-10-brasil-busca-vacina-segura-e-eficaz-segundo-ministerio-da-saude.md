@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Para secretário, a suspensão nos testes da vacina de Oxford é um procedimento de segurança necessário. Segundo Anvisa, no Brasil, não há relato de eventos adversos graves em voluntários do estudo. Brasil é um dos países que participa do estudo global para vacina contra a Covid-19.
 
 O contrato da Fiocruz e do laboratório AstraZeneca sobre a vacina de Oxford contra a Covid-19 não sofrerá qualquer alteração. A afirmação foi feita pelo secretário-executivo do Ministério da Saúde, Elcio Franco, ao comentar, nesta quarta-feira (9), em coletiva à imprensa, a suspensão temporária dos testes.
@@ -46,7 +45,7 @@ Segundo o Ministério da Saúde, os resultados da pesquisa serão usados para tr
 
 ### Projeto Saúde e Evidências
 
-O Ministério da Saúde reforçou a importância de cuidar da saúde mental do brasileiro, em especial neste momento de isolamento social. Para isso, existe o projeto [Saúde e Evidências](http://registra-rh.saude.gov.br/), que tem como objetivo oferecer conteúdo científico das áreas de especialização em saúde em ambiente virtual. 
+O Ministério da Saúde reforçou a importância de cuidar da saúde mental do brasileiro, em especial neste momento de isolamento social. Para isso, existe o projeto [Saúde e Evidências](http://registra-rh.saude.gov.br/), que tem como objetivo oferecer conteúdo científico das áreas de especialização em saúde em ambiente virtual.
 
 A primeira etapa do projeto tem como destaque a saúde mental, por meio de publicação de documentos científicos elaborados pela Associação Brasileira de Psiquiatria.
 
@@ -61,5 +60,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

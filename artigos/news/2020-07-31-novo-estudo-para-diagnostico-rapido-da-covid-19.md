@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Projeto de equipe multidisciplinar da UFMG recebe apoio do Programa de Combate a Epidemias.
 
 Diagnóstico rápido e preciso para a COVID-19, com monitoramento remoto integrado a *smartphone* é a proposta de estudo realizado por equipe multidisciplinar da Universidade Federal de Minas Gerais ([UFMG](https://ufmg.br/)). Esse é um dos nove projetos da instituição desenvolvidos com apoio do [Programa de Combate a Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/prevencao-e-combate-a-surtos-endemias-epidemias-e-pandemias-edital-n-09-2020) da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).
@@ -38,7 +37,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

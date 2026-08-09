@@ -7,8 +7,7 @@ categories:
 - Policy
 ---
 
-
-Em postagem no seu instagram na manhã deste sábado (31), Carlos Bolsonaro escreve homenagem emocionante para seu pai, Jair Bolsonaro.[](https://vidverto.io/)
+Em postagem no seu instagram na manhã deste sábado (31), Carlos Bolsonaro escreve homenagem emocionante para seu pai, Jair Bolsonaro.
 
 No post, Carlos enaltece as realizações do seu pai e fala do exemplo que Bolsonaro sempre foi para ele e seus irmãos.
 

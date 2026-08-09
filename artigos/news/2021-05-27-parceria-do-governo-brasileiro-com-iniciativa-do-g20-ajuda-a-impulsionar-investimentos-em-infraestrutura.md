@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Valor total de projetos brasileiros até 2022 deve chegar a US$ 44,66 bilhões, conforme previsão do Global Infrastructure Hub.
 
 O Brasil fortaleceu seus esforços pelo desenvolvimento sustentável da infraestrutura, após 18 meses de uma parceria com o *Global Infrastructure Hub* (GI Hub), iniciativa do G-20 – grupo das 20 maiores economias do mundo – para apoiar agendas de infraestrutura sustentável, resiliente e inclusiva. A estimativa do *GI Hub* é de que, de 2020 a 2022, os projetos de infraestrutura leiloados no Brasil alcancem a cifra de US$ 44,66 bilhões.
@@ -37,8 +36,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

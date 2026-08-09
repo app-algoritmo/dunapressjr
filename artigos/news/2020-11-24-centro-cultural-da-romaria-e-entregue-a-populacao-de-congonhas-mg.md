@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Por meio do Iphan, também serão investidos R$ 6 milhões nas obras do Parque da Romaria na cidade mineira. Construído em 1932, em forma circular, o Prédio da Romaria está localizado na Alameda Cidade de Matozinhos de Portugal.
 
 O Centro Cultural da Romaria, em Congonhas (MG), foi entregue à população. Construído em 1932, o prédio foi restaurado a partir de um investimento de R$ 6 milhões do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), vinculado ao Ministério do Turismo. Os investimentos na cidade, ao todo, somam R$ 19 milhões, incluindo, ainda, a construção do Teatro Municipal (R$ 7 milhões) e as obras do Parque da Romaria (R$ 6 milhões).
@@ -40,7 +39,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

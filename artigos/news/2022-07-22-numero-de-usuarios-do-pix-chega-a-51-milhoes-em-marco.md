@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Modalidade de transferências instantâneas teve alta de 72% em um ano.
 
 Em funcionamento desde novembro de 2020, o Pix (sistema de transferências instantâneas do Banco Central) continua a atrair cada vez mais correntistas. Em março deste ano, o número de usuários com chaves Pix cadastradas somou 51 milhões, com alta de 72% em relação ao mesmo mês de 2021.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

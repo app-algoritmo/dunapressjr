@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Fortaleza/CE – A Polícia Federal deflagrou nesta quinta-feira, 25/6, a OPERAÇÃO RES PUBLICA, com o objetivo de arrecadar os originais de certames licitatórios para aprofundar as investigações sobre 25 contratações fraudulentas, nas quais foram utilizadas verbas públicas federais das áreas da saúde e educação, nos municípios de Apuiarés e Pentecoste no Estado do Ceará.
 
 Foram cumpridos dois mandados de busca e apreensão nas sedes das Prefeituras desses municípios, expedidos pela Justiça Federal do Ceará.
@@ -22,4 +21,4 @@ Os investigados responderão, de acordo com o nível de participação, pelo cri
 
 Comunicação Social da Polícia Federal no Ceará
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

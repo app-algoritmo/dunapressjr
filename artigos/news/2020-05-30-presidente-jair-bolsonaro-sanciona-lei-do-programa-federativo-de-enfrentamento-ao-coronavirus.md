@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Auxílio financeiro é estimado em R$ 125 bilhões aos entes, em forma de envio de recursos e suspensão do pagamento de dívidas.
 
 presidente da República, Jair Bolsonaro, sancionou, com vetos, a lei que trata da ajuda financeira a estados, municípios e Distrito Federal para o combate aos efeitos da pandemia do novo coronavírus . A [Lei Complementar nº 173](http://www.in.gov.br/en/web/dou/-/lei-complementar-n-173-de-27-de-maio-de-2020-258915168), de 27 de maio de 2020, foi publicada no Diário Oficial da União desta quinta-feira (28) e garante auxílio financeiro aos entes federativos, em forma de envio direto de recursos e suspensão do pagamento de dívidas.
@@ -36,5 +35,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

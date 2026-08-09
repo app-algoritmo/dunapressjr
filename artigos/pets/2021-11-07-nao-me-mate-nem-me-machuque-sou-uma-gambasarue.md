@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 Nesta época do ano os gambás estão se reproduzindo e isso faz com que as fêmeas fiquem mais lentas e busquem locais seguros para ficarem com os filhotes.
 
 Neste caso, basta espantá-los calmamente para fora de casa/quintal ou simplesmente deixá-los em paz.
@@ -49,7 +48,3 @@ Fonte: https://www.estudopratico.com.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

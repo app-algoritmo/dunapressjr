@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Terminais devem receber R$ 6,1 bilhões em investimentos.
 
 Em leilão realizado hoje (7) na B3 (Bolsa de Valores de São Paulo), foram concedidos 22 aeroportos em 12 estados, arrecadando-se R$ 3,3 bilhões em outorgas. A concorrência foi feita pela Agência Nacional de Aviação Civil (Anac) em três blocos: Norte, Sul e Central.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
-Obrigado pelo apoio!  
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

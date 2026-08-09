@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Expectativa para o PIB caiu de 4,65% para 4,58%.
 
 A previsão do mercado financeiro para o crescimento da economia brasileira este ano caiu de 4,65% para 4,58%. A estimativa está no [**boletim Focus**](https://www.bcb.gov.br/publicacoes/focus) desta segunda-feira (20), pesquisa divulgada semanalmente pelo Banco Central (BC) com a projeção para os principais indicadores econômicos.
@@ -38,10 +37,6 @@ A expectativa do mercado para a cotação do dólar é R$ 5,60 para o final dest
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

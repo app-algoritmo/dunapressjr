@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O ministro da Justiça e Segurança Pública, André Mendonça, participou nesta quarta-feira (10), do lançamento da campanha “Sinal Vermelho para violência doméstica”. A iniciativa do Conselho Nacional de Justiça (CNJ) e da Associação dos Magistrados Brasileiros (AMB) tem como foco ajudar mulheres em situação de violência a pedirem ajuda nas farmácias do país.
 
 “Sinal Vermelho é um sinal de basta, de chega! Sinal de que precisamos mudar a direção e isso se faz com o esforço de todos nós, mas, acima de tudo, com a liderança das instituições e as de Justiça são fundamentais nesse processo”, afirmou Mendonça durante videoconferência.
@@ -23,5 +22,3 @@ O corregedor de Justiça do CNJ, ministro Humberto Martins, lembrou que a violê
 A campanha é um dos resultados do Pacto Pelas Mulheres que conta com a participação do MJSP.
 
 *Com informações da Assessoria de Comunicação do Conselho Nacional de Justiça (CNJ)*
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

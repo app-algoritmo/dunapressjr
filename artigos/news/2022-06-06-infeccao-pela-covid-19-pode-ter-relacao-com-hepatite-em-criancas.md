@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
+Cientistas britânicos e norte-americanos estão investigando uma possível relação do adenovírus 41 associado à infecção prévia pelo SARS-CoV-2 como possíveis causadores da hepatite aguda em crianças. Detalhes da investigação foram abordados em um [artigo na revista Gastroenterology & Hepatology da The Lancet](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(22)00166-2/fulltext#%20).
 
-Cientistas britânicos e norte-americanos estão investigando uma possível relação do adenovírus 41 associado à infecção prévia pelo SARS-CoV-2 como possíveis causadores da hepatite aguda em crianças. Detalhes da investigação foram abordados em um [artigo na revista Gastroenterology & Hepatology da The Lancet](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(22)00166-2/fulltext#%20). 
-
-[Clique aqui para saber sobre a doença e seus sintomas](https://butantan.gov.br/noticias/cientistas-apontam-4-hipoteses-para-a-causa-da-hepatite-aguda-grave--veja-quais-sao). 
+[Clique aqui para saber sobre a doença e seus sintomas](https://butantan.gov.br/noticias/cientistas-apontam-4-hipoteses-para-a-causa-da-hepatite-aguda-grave--veja-quais-sao).
 
 Cientistas da Imperial College London, na Inglaterra, e do Centro Médico Cedars Sinai, nos Estados Unidos, concluíram que a infecção pelo SARS-CoV-2 pode resultar em efeitos duradouros no organismo, o que eles chamaram de “reservatórios virais”. Essa persistência viral de SARS-CoV-2 no trato gastrointestinal pode levar à liberação repetida de proteínas virais pelo epitélio intestinal, dando origem à ativação imune.
 
@@ -18,9 +17,9 @@ Essa ativação imune repetida pode ser mediada por um superantígeno (desencade
 
 “Nossa hipótese é que os casos recentemente relatados de hepatite aguda grave em crianças podem ser uma consequência da infecção por adenovírus com trofismo intestinal [nutrição dos tecidos do intestino] em crianças previamente infectadas por SARS-CoV-2 e portadoras de reservatórios virais”, relata o artigo.
 
-A presença do SARS-CoV-2 foi identificada em 18% dos casos relatados no Reino Unido, em 11 dos 97 casos testados para adenovírus na admissão hospitalar, e em outros três casos nas oito semanas anteriores à admissão. Onze dos 12 pacientes israelenses com a hepatite aguda também haviam tido Covid-19 nos últimos meses, e a maioria dos casos relatados de hepatite ocorreram em pacientes abaixo dos cinco anos. 
+A presença do SARS-CoV-2 foi identificada em 18% dos casos relatados no Reino Unido, em 11 dos 97 casos testados para adenovírus na admissão hospitalar, e em outros três casos nas oito semanas anteriores à admissão. Onze dos 12 pacientes israelenses com a hepatite aguda também haviam tido Covid-19 nos últimos meses, e a maioria dos casos relatados de hepatite ocorreram em pacientes abaixo dos cinco anos.
 
-Já o **[adenovírus 41](https://butantan.gov.br/noticias/cientistas-apontam-4-hipoteses-para-a-causa-da-hepatite-aguda-grave--veja-quais-sao)** é um subtipo incomum de vírus que afeta predominantemente crianças pequenas e pacientes imunocomprometidos, mas que nunca havia sido relatado como causador de hepatite aguda grave. Porém, ao ser encontrado em várias amostras entre os infectados, a Organização Mundial da Saúde (OMS) e os cientistas de várias partes do mundo passaram a trabalhar a infecção pelo adenovírus como a principal hipótese para o desenvolvimento da hepatite. 
+Já o **[adenovírus 41](https://butantan.gov.br/noticias/cientistas-apontam-4-hipoteses-para-a-causa-da-hepatite-aguda-grave--veja-quais-sao)** é um subtipo incomum de vírus que afeta predominantemente crianças pequenas e pacientes imunocomprometidos, mas que nunca havia sido relatado como causador de hepatite aguda grave. Porém, ao ser encontrado em várias amostras entre os infectados, a Organização Mundial da Saúde (OMS) e os cientistas de várias partes do mundo passaram a trabalhar a infecção pelo adenovírus como a principal hipótese para o desenvolvimento da hepatite.
 
 Segundo o artigo da Gastroenterology & Hepatology, as crianças com hepatite aguda devem ser investigadas quanto à persistência de SARS-CoV-2 nas fezes, distorção do receptor de células T e regulação positiva de IFN-γ (citocina liberada após indução de resposta imune), porque isso poderia fornecer evidências de um mecanismo de superantígeno do SARS-CoV-2 em um hospedeiro sensibilizado pelo adenovírus 41. “Se for encontrada evidência de ativação imune mediada por superantígenos, terapias imunomoduladoras devem ser consideradas em crianças com hepatite aguda grave”, concluíram os cientistas.
 
@@ -45,7 +44,3 @@ Fonte: https://butantan.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

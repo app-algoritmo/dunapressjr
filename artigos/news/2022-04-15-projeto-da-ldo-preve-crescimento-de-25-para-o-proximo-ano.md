@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Inflação cairá para 3,3% em 2023, depois de alcançar 6,55% em 2022.
 
 A economia brasileira deverá crescer 2,5% no próximo ano, depois de crescer 1,5% em 2022. A estimativa consta do Projeto da Lei de Diretrizes Orçamentárias (PLDO) 2023, enviado nesta quinta-feira (14) ao Congresso Nacional.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

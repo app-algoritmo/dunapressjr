@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Levantamento do Sebrae mostra recorde de micro e pequenas empresas.
 
 A abertura de pequenos negócios no país bateu recorde no ano passado, mostra levantamento divulgado pelo Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae). Em 2021, mais de 3,9 milhões de empreendedores formalizaram micro e pequenas empresas ou se registraram como microempreendedores individuais (MEIs).
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

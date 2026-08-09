@@ -7,10 +7,9 @@ categories:
 - Food
 ---
 
-
 ## Alimentação variada e saudável é a principal forma de proteger o sistema imunológico e garantir um desenvolvimento saudável.
 
-Febres, resfriados, infecções e alergias são preocupações constantes na vida dos pais de "plantão". Aumentar a imunidade das crianças se torna uma prioridade, principalmente em tempos de pandemia. O sistema imunológico é o responsável por barrar vírus, bactérias, fungos e parasitas, e por isso precisa ser fortalecido para proteger o corpo dos pequenos. 
+Febres, resfriados, infecções e alergias são preocupações constantes na vida dos pais de "plantão". Aumentar a imunidade das crianças se torna uma prioridade, principalmente em tempos de pandemia. O sistema imunológico é o responsável por barrar vírus, bactérias, fungos e parasitas, e por isso precisa ser fortalecido para proteger o corpo dos pequenos.
 
 Segundo a engenheira de alimentos Melissa Gomide Carpi, os alimentos são os principais responsáveis pela tarefa de fortalecer a imunidade. "Uma alimentação saudável, rica em vitaminas e minerais, com macro e micro nutrientes, é essencial para aumentar a imunidade. Quando apresentamos às crianças uma alimentação saudável desde a infância, temos ainda mais chances de torná-las adultos conscientes da importância de escolher alimentos ricos, variados e saudáveis nas refeições, pensando em uma imunidade fortalecida a longo prazo", explica a gerente de inovação de produto da Jasmine Alimentos.
 
@@ -45,7 +44,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

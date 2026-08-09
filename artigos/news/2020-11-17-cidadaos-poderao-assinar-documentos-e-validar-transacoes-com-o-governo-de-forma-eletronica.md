@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A relação do Governo com a sociedade já é digital e agora ficará ainda mais ágil e segura. Nesta segunda-feira (16), foi publicado no Diário Oficial da União o [Decreto nº 10.543](https://www.in.gov.br/en/web/dou/-/decreto-n-10.543-de-13-de-novembro-de-2020-288224831), que regulamenta os níveis, as categorias e as condições de uso e aceitação das assinaturas eletrônicas de documentos pelos cidadãos e órgãos da Administração Pública Federal. Segundo a norma, os órgãos deverão descrever em cada serviço público ofertado, até o dia 1º de julho de 2021, o nível exigido de assinatura eletrônica, garantindo a devida transparência para o cidadão.
 
 “O uso das assinaturas eletrônicas representa um grande feito para tornar a Administração Pública mais eficiente e focada na produção de impactos positivos na vida dos cidadãos”, afirma o secretário especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia, Caio Paes de Andrade
@@ -52,5 +51,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

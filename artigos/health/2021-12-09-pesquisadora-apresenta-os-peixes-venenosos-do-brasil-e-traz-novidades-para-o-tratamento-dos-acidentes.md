@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 Os acidentes com peixes [peçonhentos](http://canalciencia.ibict.br/noticias/996_Entrevista_Monica_Ferreira.html#) são comuns no Brasil. Os peixes que mais causam acidentes no país são os bagres, entretanto os causados pelo peixe chamado niquim são um dos que têm piores efeitos, pois a ferida pode evoluir rapidamente para uma [necrose](http://canalciencia.ibict.br/noticias/996_Entrevista_Monica_Ferreira.html#). Esse peixe se esconde na areia e, por não ser visto, os banhistas e pescadores acabam tocando ou mesmo pisando nele, que, por possuir espinhos nas suas costas e nas laterais do seu corpo, provoca as lesões.
 
 Desde 1996, a pesquisadora Mônica Lopes Ferreira, do Instituto Butantan (SP), vem estudando os peixes venenosos do litoral brasileiro, como o niquim, o peixe-escorpião, os bagres e as arraias. Seus estudos fazem do Brasil um dos países pioneiros em pesquisas sobre peixes peçonhentos. A pesquisa já desenvolveu um soro único que neutraliza os venenos desses peixes peçonhentos, bem como auxilia no tratamento das intoxicações. Estes estudos vêm contribuindo para o conhecimento de como os venenos agem no corpo das pessoas acidentadas, o que ajuda a buscar tratamentos que possam combater as lesões causadas pelas toxinas presentes nos venenos.
@@ -29,7 +28,6 @@ Sabemos que mares e oceanos representam 70% da superfície de nosso planeta. Os 
 
 Esses animais possuem importância médica pelos acidentes que provocam em humanos, uma vez que são incapacitantes, mantendo a vítima afastada do trabalho por semanas ou meses, além de acarretar importantes sequelas pela ausência de uma terapia específica para tratamento deste tipo de acidente. Estudar os peixes peçonhentos, seus venenos, propor uma terapia adequada ao acidentado, descobrir nos venenos substâncias com aplicação farmacológica, são metas importantes das pesquisas que desenvolvo.
 
-**
 Como o Instituto Butantan realiza estas pesquisas?
 
 **Os estudos são realizados por etapas. Primeiro, descrevemos as manifestações clínicas, [locais ou sistêmicas](http://canalciencia.ibict.br/noticias/996_Entrevista_Monica_Ferreira.html#), provocadas pelo envenenamento, e estudamos o mecanismo de ação de cada veneno. Depois, os componentes químicos dos venenos são isolados e caracterizados. Utilizamos os venenos e as toxinas como [antígenos](http://canalciencia.ibict.br/noticias/996_Entrevista_Monica_Ferreira.html#) para entendermos como agem no sistema imunológico e prospectamos toxinas com potencial para uso terapêutico. Trabalhamos em uma abordagem multidisciplinar, utilizando conhecimentos principalmente das áreas de [toxinologia](http://canalciencia.ibict.br/noticias/996_Entrevista_Monica_Ferreira.html#), imunologia, farmacologia, bioquímica e biologia molecular. Assim, procuramos melhorar a compreensão dos mecanismos imunológicos relacionados aos fenômenos inflamatórios e a importância destes para a função dos tecidos biológicos. Também desenvolvemos pesquisas que possibilitem compreender com mais detalhes como os venenos e toxinas interagem com o sistema imune.
@@ -42,7 +40,7 @@ Como o Instituto Butantan realiza estas pesquisas?
 
 **No veneno do niquim descobrimos uma nova família de proteínas, as ‘natterinas’. Estas proteínas também são encontradas em peixes não peçonhentos, pelo menos em alguma fase da sua vida. Esta é a primeira toxina descrita em veneno de peixe. Sua descoberta possibilitou o melhor entendimento dos mecanismos da resposta imune de resistência a [patógenos](http://canalciencia.ibict.br/noticias/996_Entrevista_Monica_Ferreira.html#) em diferentes peixes importantes da indústria pesqueira mundial, o que favorece a geração de melhores terapias e vacinas. A natterina pode combater bactérias causadoras de doenças em humanos, como certos vibriões. Um composto derivado desta proteína possui atividade anti-inflamatória e poderá ser utilizado no tratamento de doenças como asma e esclerose múltipla.
 
-Os peixes peçonhentos estudados pela equipe da Dra. Mônica, no Instituto Butantan, e as regiões do Brasil onde eles ocorrem. Fonte: Mônica Lopes Ferreira. 
+Os peixes peçonhentos estudados pela equipe da Dra. Mônica, no Instituto Butantan, e as regiões do Brasil onde eles ocorrem. Fonte: Mônica Lopes Ferreira.
 
 **Título original da pesquisa**
 [Caracterização Farmacológica, Bioquímica e Imunológica de Venenos e Toxinas de Peixes Peçonhentos do Brasil](http://www.imunorregulacaoibu.com.br/)
@@ -73,7 +71,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

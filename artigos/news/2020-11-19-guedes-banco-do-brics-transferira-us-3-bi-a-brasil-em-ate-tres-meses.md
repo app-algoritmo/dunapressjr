@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro compromete-se a não furar teto de gastos.
 
 O Brasil receberá US$ 3 bilhões nos próximos meses do Novo Banco de Desenvolvimento (NBD), disse nesta quarta-feira (18) o ministro da Economia, Paulo Guedes. Com sede na China, o NBD é formado pelos países do Brics, grupo que reúne Brasil, Rússia, Índia, China e África do Sul.
@@ -29,5 +28,3 @@ Guedes acrescentou que, para 2021, o governo acredita num crescimento entre 3% e
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Bai Kelin/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

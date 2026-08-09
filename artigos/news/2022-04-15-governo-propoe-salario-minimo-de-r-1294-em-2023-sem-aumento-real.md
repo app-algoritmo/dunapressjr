@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Reajuste segue previsão de 6,7% do INPC para este ano.
 
 O salário mínimo em 2023 será de R$ 1.294 e não terá aumento acima da inflação. O reajuste consta do projeto da Lei de Diretrizes Orçamentárias (PLDO) de 2023, **[enviado nesta quinta-feira ](https://dunapress.org/2022/04/15/congresso-recebe-projeto-da-lei-de-diretrizes-orcamentarias-de-2023/)**(14) ao Congresso Nacional.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

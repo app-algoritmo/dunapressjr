@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Presidente da República, Jair Bolsonaro, sancionou o projeto de lei que classifica os combustíveis, energia elétrica, comunicações e transporte coletivo como itens essenciais e assim limita a cobrança do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) sobre eles.
 
 A Lei Complementar nº194, 23 de junho de 2022, sancionada pelo Presidente Jair Bolsonaro, está publicada em edição extra do [Diário Oficial da União](https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?jornal=601&pagina=1&data=23/06/2022&totalArquivos=3) da quinta-feira (23/06). A ideia, de acordo com a Secretaria-Geral da Presidência da República, é impedir que esses itens paguem a mesma alíquota tributária de produtos supérfluos.
@@ -34,7 +33,3 @@ Fonte:  https://www.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

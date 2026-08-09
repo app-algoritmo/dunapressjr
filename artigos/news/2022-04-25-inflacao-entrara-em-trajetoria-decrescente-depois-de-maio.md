@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Previsão é de assessor do Ministério da Economia ao Brasil em Pauta.
 
 Países espalhados pelo mundo inteiro estão enfrentando crises econômicas com aumento da inflação. De acordo com o assessor de Assuntos Estratégicos do Ministério da Economia, Adolfo Sachsida, a inflação dos Estados Unidos é a maior dois últimos 40 anos; a da Alemanha, dos últimos 30; e a Inglaterra enfrenta a pior crise inflacionária em 10 anos. As declarações foram dadas em entrevista ao programa *Brasil em Pauta*, da **TV Brasil**, que foi ao ar neste domingo, às 19h30.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 Nesta terça-feira (09), o Ministério da Defesa e a Federação das Indústrias do Estados de São Paulo (FIESP) assinaram Acordo de Cooperação Técnica para elaboração de soluções estratégicas de financiamentos e investimentos na Base Científica, Tecnológica e Industrial de Defesa (BCTID). A primeira ação é o desenvolvimento e operacionalização de mecanismo financeiro informatizado (FINTECH). A ferramenta será criada especificamente para atender às demandas da Economia de Defesa.
 
 Além da criação da Fintech Defesa, o acordo, que terá vigência de 60 meses, prevê que as ações envolvem a “elaboração de diagnósticos, desenvolvimento de estudos para posterior elaboração de propostas que irão viabilizar a operacionalização de um ecossistema de investimentos, financiamentos, seguros e garantias para atender às demandas específicas da BCTID”.
@@ -32,5 +31,3 @@ A solenidade virtual também contou com a participação do Secretário Geral do
 
 **Assessoria de Comunicação Social (Ascom)
 Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## "São recorrentes as denúncias relacionadas a pessoas e agentes públicos que impedem cidadãos de oferecerem alimentos e água aos animais de rua".
 
 Apresentado em 5 de agosto pelo deputado federal Fred Costa (Patriota-MG), um projeto de lei visa garantir que pessoas de qualquer lugar do Brasil tenham o direito de fornecer alimento e água em espaços públicos para animais em situação de rua, incluindo cães e gatos comunitários.
@@ -25,7 +24,7 @@ Segundo o autor da proposta, infeliz episódio também já foi identificado envo
 
 **[Clique aqui](https://forms.camara.leg.br/ex/enquetes/2292834)** para opinar sobre o projeto de lei.
 
-Creditos: [David Arioch](https://vegazeta.com.br/author/vegazeta_wp/)[ ](http://davidarioch.com/)[http://davidarioch.com](http://davidarioch.com/) Jornalista e especialista em jornalismo cultural, histórico e literário (MTB: 10612/PR)
+Creditos: [David Arioch](https://vegazeta.com.br/author/vegazeta_wp/)[http://davidarioch.com](http://davidarioch.com/) Jornalista e especialista em jornalismo cultural, histórico e literário (MTB: 10612/PR)
 
 Fonte: https://vegazeta.com.br/category/noticias/
 
@@ -38,7 +37,3 @@ Fonte: https://vegazeta.com.br/category/noticias/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

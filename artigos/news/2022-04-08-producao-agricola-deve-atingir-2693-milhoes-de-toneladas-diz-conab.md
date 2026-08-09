@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Condições climáticas podem reduzir produção em 6,7%.
 
 A produção de grãos no Brasil poderá chegar a 269,3 milhões de toneladas na safra 2021/22. O número é 5,4% maior do que o registrado na safra anterior, correspondendo um acréscimo de 13,8 milhões de toneladas, caso se confirmem as expectativas anunciadas nesta quinta-feira (7) pela Companhia Nacional de Abastecimento (Conab).
@@ -72,8 +71,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

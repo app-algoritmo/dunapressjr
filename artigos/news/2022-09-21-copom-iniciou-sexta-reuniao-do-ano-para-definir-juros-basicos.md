@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Expectativa é que taxa Selic se mantenha em 13,75% ao ano.
 
 O Comitê de Política Monetária (Copom) do Banco Central (BC) começou nesta terça-feira (20), em Brasília, a sexta reunião do ano para definir a taxa básica de juros, a Selic, e pode manter o aperto monetário com mais um aumento na taxa, mas em menor nível do que nos últimos encontros, quando foi elevada em 0,5 ponto. Nesta quarta-feira (21), ao fim do dia, o Copom anunciará a decisão.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

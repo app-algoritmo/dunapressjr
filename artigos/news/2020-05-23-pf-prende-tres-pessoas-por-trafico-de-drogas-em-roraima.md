@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Boa Vista/RR - A Força Integrada de Combate ao Crime Organizado de Roraima - FICCO, coordenada pela Polícia Federal e integrada pelas polícias Civil e Militar e pelas secretarias da Justiça e Cidadania e da Segurança Pública de Roraima, prendeu na madrugada de hoje, 22/5, três pessoas por tráfico de drogas no município de Bonfim/RR, divisa com a Guiana.
 
 Os elementos colhidos na prisão de um casal por tráfico de drogas, na última quarta-feira, 20/5, permitiram aos investigadores da Força Integrada a identificação de um novo suspeito, que teria a atribuição de trazer drogas de Bonfim/RR.
@@ -21,5 +20,3 @@ O suspeito estava trazendo quase quatro quilos de maconha junto com um comparsa,
 Os três presos foram encaminhados ao sistema prisional, onde permaneceram à disposição da Justiça.
 
 Comunicação Social da Polícia Federal em Roraima
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Representantes do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) participaram de um bate-papo on-line promovido pela Associação Brasileira de Mantenedoras de Ensino Superior (ABMES), nesta terça-feira, 7 de julho, com o objetivo de esclarecer dúvidas sobre o Exame Nacional de Desempenho dos Estudantes (Enade) 2020. O exame precisou ser adiado para o próximo ano, em função das restrições impostas devido à pandemia de COVID-19, que impactaram o cronograma de aulas das instituições de educação superior em todo o país.
 
 A equipe do Inep explicou que a decisão de alteração da data do exame para 2021 levou em consideração a situação de excepcionalidade do momento atual e os possíveis impactos nos Indicadores de Qualidade da Educação Superior.
@@ -28,7 +27,7 @@ Fonte: gov.br / Imagem em destaque: Inep.gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

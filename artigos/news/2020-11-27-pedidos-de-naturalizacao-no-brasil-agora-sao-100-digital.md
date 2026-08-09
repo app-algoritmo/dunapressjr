@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Justiça e Segurança Pública consolidou os procedimentos de naturalização, regulamentando a plataforma digital do Sistema Naturalizar-se, que passou a ser, desde o início deste mês, o único meio de recebimento de pedidos de naturalização, tornando os processos mais ágeis e simplificados.
 
 Com a expansão do Sistema Naturalizar-se a todas as unidades da Polícia Federal já foram recebidos 639 pedidos de naturalização, desde o início de novembro, que estão em análise.
@@ -32,7 +31,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

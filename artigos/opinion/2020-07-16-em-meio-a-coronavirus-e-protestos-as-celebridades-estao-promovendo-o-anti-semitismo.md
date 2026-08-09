@@ -7,7 +7,6 @@ categories:
 - Opinion
 ---
 
-
 *Por Mohamad Tawhidi*
 
 Em uma sociedade que está determinada a combater o racismo, é estranho e alarmante notar que, mesmo nesses tempos, o comportamento anti-semita de celebridades está no auge de todos os tempos.
@@ -40,7 +39,7 @@ A onda de retórica anti-semita não é repentina, e as atuais condições polí
 
 Outra celebridade, Roger Waters, do Pink Floyd - famoso por suas declarações anti-Israel - apareceu em uma rede de TV afiliada ao Hamas e culpou Israel por ter inventado o método usado pela polícia para matar George Floyd.
 
-"Essa é uma técnica israelense", disse Waters, "ensinada às forças policiais militarizadas dos Estados Unidos da América por especialistas israelenses, que os americanos vêm voando para os Estados Unidos para ensiná-los a matar os negros porque eles ' vi como os israelenses têm sido eficientes em assassinar palestinos nos territórios ocupados usando essas técnicas. 
+"Essa é uma técnica israelense", disse Waters, "ensinada às forças policiais militarizadas dos Estados Unidos da América por especialistas israelenses, que os americanos vêm voando para os Estados Unidos para ensiná-los a matar os negros porque eles ' vi como os israelenses têm sido eficientes em assassinar palestinos nos territórios ocupados usando essas técnicas.
 
 ”Não há absolutamente nenhuma evidência de que os militares israelenses tenham ensinado a polícia americana a assassinar cidadãos americanos.
 
@@ -66,6 +65,6 @@ Fonte The Jerusalem Post
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

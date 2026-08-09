@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Projeto de lei oriundo da medida provisória vai a sanção presidencial.
 
 O Senado aprovou nesta quinta-feira (16) a Medida Provisória 926/20, que flexibiliza regras de licitações durante a pandemia provocada pelo novo coronavírus. A [**MP foi publicada **](https://agenciabrasil.ebc.com.br/geral/noticia/2020-03/bolsonaro-edita-mp-e-decreto-para-definir-atividades-essenciais)pelo governo no dia 20 de março. O propósito é ajudar os gestores municipais e estaduais a tomar providências mais rápidas no combate ao covid-19. O projeto de lei oriundo da MP vai a sanção presidencial.
@@ -26,4 +25,4 @@ Durante a discussão da matéria, os senadores chamaram a atenção para a impor
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

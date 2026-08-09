@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ### Crédito será depositado no dia 29 de julho.
 
-A Receita Federal liberou nesta sexta-feira (22) a consulta ao terceiro lote de restituição do Imposto de Renda Pessoa Física (IRPF) 2022. Além dos contribuintes que entregaram a declaração até o dia 3 de maio, o lote contempla ainda restituições residuais de exercícios anteriores. 
+A Receita Federal liberou nesta sexta-feira (22) a consulta ao terceiro lote de restituição do Imposto de Renda Pessoa Física (IRPF) 2022. Além dos contribuintes que entregaram a declaração até o dia 3 de maio, o lote contempla ainda restituições residuais de exercícios anteriores.
 
 O crédito bancário para 5.242.668 contribuintes será realizado no dia 29 de julho, totalizando RS 6,3 bilhões. Mais da metade desse valor será pago a quem têm prioridade legal, como pessoas com idade a partir de 60 anos; contribuintes com algum tipo de deficiência física ou mental ou moléstia grave; e contribuintes cuja maior fonte de renda seja o magistério.
 
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

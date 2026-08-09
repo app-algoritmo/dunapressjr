@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Setor de serviços apresentou a maior confiança dos últimos sete anos.
 
 A confiança dos donos de pequenos negócios voltou à estabilidade em outubro, após ter apresentado uma ligeira queda em setembro, segundo o Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae) a partir dos dados da Sondagem Econômica das Micro e Pequenas Empresas, realizada mensalmente em parceria com a Fundação Getúlio Vargas (FGV).
@@ -36,14 +35,10 @@ Para o Sebrae, essa percepção de melhora nas expectativas pode estar relaciona
 
 Já a confiança das micro e pequenas empresas da indústria de transformação, o MPE-Indústria, manteve o movimento de queda pelo terceiro mês consecutivo, recuando 3,6 pontos, para 98,4 pontos, passando para zona de pessimismo.
 
-Segundo o Sebrae, essa piora com as expectativas de curto prazo no setor foi fator preponderante da queda da confiança. Todos os indicadores que compõem o índice recuaram, com destaque para o de produção para os próximos três meses, que caiu 7,6 pontos, para 96,7 pontos. As empresas de vestuário foram as que mais sofreram negativamente no mês de outubro, quando a confiança caiu 9,1 pontos, para 90 pontos, menor nível desde junho de 2021, de 80,9 pontos. 
+Segundo o Sebrae, essa piora com as expectativas de curto prazo no setor foi fator preponderante da queda da confiança. Todos os indicadores que compõem o índice recuaram, com destaque para o de produção para os próximos três meses, que caiu 7,6 pontos, para 96,7 pontos. As empresas de vestuário foram as que mais sofreram negativamente no mês de outubro, quando a confiança caiu 9,1 pontos, para 90 pontos, menor nível desde junho de 2021, de 80,9 pontos.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

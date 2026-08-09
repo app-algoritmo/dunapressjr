@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Conhecidos popularmente como os dentes do juízo, os sisos são os últimos a nascerem. Por isso, assim que começam a aparecer, podem movimentar a arcada dentária provocando inchaço e dor na região. Não existe padrão para os dentes do siso, que podem ser de diversos tamanhos e formas. Assim como não existe um padrão de paciente, alguns precisam retirar os quatro sisos, outros não.
 
 E por isso as dúvidas em torno dos sisos são muitas. Existe a necessidade de extrair? É preciso esperar o dente todo nascer para tirar? Eles entortam os outros dentes? A dentista e especialista da ClearCorrect, Caroline Aranalde, esclarece as mais recorrentes:
@@ -47,7 +46,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

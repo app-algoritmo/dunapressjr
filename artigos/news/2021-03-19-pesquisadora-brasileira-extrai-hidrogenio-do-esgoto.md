@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Doutora em Engenharia Ambiental pela University of Colorado Boulder, EUA, com bolsa da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), Fernanda Leite Lobo é graduada em Engenharia Elétrica pela Universidade do Estado do Amazonas e em Engenharia Civil pela Universidade Federal do Amazonas. Atualmente trabalha no Departamento de Engenharia Hidráulica e Ambiental da Universidade Federal do Ceará, pesquisando nas áreas de energias renováveis, tratamento de esgoto, relação entre parâmetros elétricos e a atividade de bactérias eletroativas, reaproveitamento de energia e nutrientes no tratamento de esgoto, biocarvão e eletrocoagulação.
 
 **Você teve artigo publicado na Revista Energy & Environmental Science sobre produção de hidrogênio a partir de esgoto. Explique como isto acontece.**
@@ -59,7 +58,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

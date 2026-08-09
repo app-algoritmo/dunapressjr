@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa subiu quase 2% e aproximou-se dos 115 mil pontos.
 
 Influenciada por fatores domésticos e internacionais, a cotação do dólar caiu para abaixo de R$ 5,60 e fechou no menor nível em duas semanas. A bolsa subiu pelo terceiro dia seguido e aproximou-se dos 115 mil pontos.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Proposta compõe primeira parte da reforma tributária.
 
 A primeira parte da proposta da reforma tributária do governo federal, [**entregue nesta terça-feira (21)**](https://agenciabrasil.ebc.com.br/politica/noticia/2020-07/guedes-entrega-proposta-de-reforma-tributaria-ao-congresso) pelo ministro Paulo Guedes ao Congresso Nacional, prevê a unificação de dois impostos federais, o Programa de Integração Social e de Formação do Patrimônio do Servidor Público (PIS/Pasep) e a Contribuição sobre o Financiamento da Seguridade Social (Cofins). Os dois tributos serão extintos para dar lugar à Contribuição Social sobre Operações com Bens e Serviços (CBS), com alíquota única de 12%.
@@ -36,4 +35,4 @@ A última proposta pretende acabar com a contribuição patronal sobre a folha d
 
 Fonte: Agência Brasil – Imagem de destaque: Michel Jesus/Câmara dos Deputados
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

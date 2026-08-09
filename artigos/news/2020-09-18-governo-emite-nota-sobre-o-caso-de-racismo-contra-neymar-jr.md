@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Diante de mais um caso de racismo que veio à tona no esporte, o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) vem a público prestar solidariedade ao jogador Neymar Jr. O atacante chamado de “macaco” pelo zagueiro Alváro González, do Olympique de Marseille, foi expulso de campo após reagir ao ato preconceituoso com um tapa. Essa não é a primeira vez que Neymar é vítima de racismo no futebol.
 
 A Secretaria Nacional de Políticas de Promoção da Igualdade Racial (SNPIR) condena veementemente qualquer tipo de violência e repudia, especialmente, episódios de discriminação contra a cor da pele.
@@ -33,5 +32,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

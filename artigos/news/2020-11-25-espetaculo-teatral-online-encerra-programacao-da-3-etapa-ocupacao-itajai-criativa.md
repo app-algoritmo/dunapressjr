@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A terceira etapa da Ocupação Itajaí Criativa que, tradicionalmente, é realizada em Itajaí na Casa Almeida e Voight, está ocupando o universo online. A programação do evento encerra nesta sexta (27) e sábado (28), às 20h, com a performance de teatro “Homens Pink”, da Cia. La Vaca, de Florianópolis.
 
   **[> Clique aqui para assistir](https://www.youtube.com/c/T%C3%A9spisCiadeTeatro)** 
@@ -17,7 +16,7 @@ A terceira etapa da Ocupação Itajaí Criativa que, tradicionalmente, é realiz
 
 Os interessados poderão acompanhar o evento gratuitamente, de qualquer parte do Brasil, através do YouTube da Téspis Cia de Teatro.
 
- No canal, ainda será possível acompanhar as exposições guiadas por artistas visuais. A programação completa está disponível no site da Itajaí Criativa – Residência Artística.  **[>Clique aqui para acessar a programação completa ](http://www.itajaicriativa.com.br/)** Ocupação Itajaí Criativa trouxe mais de dez ações culturais gratuitas e online ao decorrer deste ano.
+ No canal, ainda será possível acompanhar as exposições guiadas por artistas visuais. A programação completa está disponível no site da Itajaí Criativa – Residência Artística.itajaicriativa.com.br/)** Ocupação Itajaí Criativa trouxe mais de dez ações culturais gratuitas e online ao decorrer deste ano.
 
  Espetáculos de teatro, shows de música, exposições, oficinas de formação e exibição de curtas metragens integraram a programação que uniu atrações convidadas com outras que foram selecionadas através de editais. 
 
@@ -35,7 +34,5 @@ SEU APOIO VOLUNTARIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

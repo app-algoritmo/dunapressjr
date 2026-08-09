@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Ministro diz que é passo decisivo para acesso à OCDE.
 
 O ministro da Economia, Paulo Guedes, disse nesta terça-feira (12) que a criação de um novo sistema de preços de transferência pelo Brasil representa “um passo decisivo” para o acesso do país à Organização para a Cooperação e Desenvolvimento Econômico (OCDE).
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

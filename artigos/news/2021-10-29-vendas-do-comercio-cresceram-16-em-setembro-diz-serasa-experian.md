@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Material de construção registrou maior alta de 9,1%.
 
 As vendas no varejo do comércio físico no país tiveram alta de 1,6% em setembro em comparação ao mesmo mês do ano passado. A elevação foi impulsionada principalmente pelo setor de material de construção, que registrou a maior alta de 9,1%. Os dados divulgados nesta quinta-feira (28) são do indicador de Atividade do Comércio da Serasa Experian.
@@ -20,10 +19,6 @@ Na comparação de setembro com o mês anterior, o comércio registrou leve alta
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

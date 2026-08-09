@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Contribuinte deve conferir valores na Carteira de Trabalho Digital.
 
 Depois de dúvidas de trabalhadores beneficiados pelo Benefício Emergencial de Preservação do Emprego e da Renda (BEm), a Receita Federal esclareceu como declarar a redução de jornada ou a suspensão do contrato de trabalho no Imposto de Renda. O programa ajudou a preservar o emprego em empresas impactadas pela pandemia de covid-19 no ano passado.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Aplicações de até R$ 1 mil representaram 59,99% de todas as operações.
 
 Em maio deste ano, as vendas de títulos públicos federais por meio do Tesouro Direto atingiram R$ 3,9 bilhões. No mesmo mês, foram resgatados R$ 2,14 bilhõe. Dessa forma, a emissão líquida, ou seja, o saldo entre papéis emitidos menos os títulos resgatados, foi de R$ 1,76 bilhão.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

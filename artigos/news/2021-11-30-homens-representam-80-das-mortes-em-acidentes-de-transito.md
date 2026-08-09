@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Oito em cada dez pessoas que morrem em acidentes de trânsito no Brasil são homens. O trânsito brasileiro é o quarto mais violento do continente americano e a principal causa de mortes de jovens entre 20 e 30 anos, segundo  pesquisa divulgada pela Organização Mundial da Saúde (OMS). Em 2020, o país registrou a morte de 27,8 mil pessoas no trânsito, o que significa que, a cada dia, mais de 75 pessoas perderam a vida nas ruas e estradas. Os números são preocupantes e o que chama a atenção é que 80% das vítimas fatais são do sexo masculino. Os dados são da Associação Brasileira de Medicina de Tráfego (Abramet) e do DataSUS/DPVAT.
 
-O trânsito paranaense é o terceiro que mais mata no Brasil. Os acidentes desse tipo correspondem a 29% das causas externas dos óbitos no estado, com a taxa de mortalidade acima de 10 a cada 100 mil habitantes. Em 2020, foram 2,4 mil, ou seja, por dia, 7 pessoas perderam a vida dessa maneira, conforme dados do Sistema de Informações sobre Mortalidade (SIM). No Paraná, o perfil dos mais atingidos também são homens, representando 83% das mortes por acidentes em transporte terrestre. 
+O trânsito paranaense é o terceiro que mais mata no Brasil. Os acidentes desse tipo correspondem a 29% das causas externas dos óbitos no estado, com a taxa de mortalidade acima de 10 a cada 100 mil habitantes. Em 2020, foram 2,4 mil, ou seja, por dia, 7 pessoas perderam a vida dessa maneira, conforme dados do Sistema de Informações sobre Mortalidade (SIM). No Paraná, o perfil dos mais atingidos também são homens, representando 83% das mortes por acidentes em transporte terrestre.
 
 Mesmo com a queda de acidentes entre 2019 e 2020, o número de pessoas mortas em batidas se manteve no mesmo patamar no Paraná. Houve uma redução de 34% no total de acidentes, mas a diminuição de mortes foi de apenas 2,7%, de acordo com estatísticas do Sistema Único de Saúde (SUS) e do Registro Nacional de Acidentes e Estatísticas de Trânsito (Renaest). O estado inclusive firmou acordo com o Plano Nacional de Redução de Mortes e Lesões no Trânsito (Pnatrans) e com o Plano de Ações Estratégicas para o Enfrentamento das Doenças Crônicas e Agravos Não Transmissíveis no Brasil 2021 – 2030 (Plano de Dant) com meta de reduzir em 50% os sinistros de trânsito.
 
@@ -33,7 +32,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

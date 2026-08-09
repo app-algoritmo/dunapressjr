@@ -8,8 +8,7 @@ categories:
 - Covid-19
 ---
 
-
-O Epoch Times noticiou em 23 de abril o caso horrível de uma mulher de 41 anos da Geórgia que teve um transplante de rim [negado](https://12ft.io/proxy?ref=&q=https://www.theepochtimes.com/mother-of-7-denied-kidney-transplant-for-refusing-covid-shot-in-georgia_5212353.html) , apesar de estar em diálise e quase morrer. Devido à gravidade de sua condição, ela precisa fazer diálise três vezes por semana para sustentar sua vida.
+O Epoch Times noticiou em 23 de abril o caso horrível de uma mulher de 41 anos da Geórgia que teve um transplante de rim [negado](https://12ft.io/proxy&q=https://www.theepochtimes.com/mother-of-7-denied-kidney-transplant-for-refusing-covid-shot-in-georgia_5212353.html) , apesar de estar em diálise e quase morrer. Devido à gravidade de sua condição, ela precisa fazer diálise três vezes por semana para sustentar sua vida.
 
 O motivo de tal rejeição? A mulher, que já foi vacinada com COVID-19, se recusa a receber a vacina COVID-19 por motivos religiosos e médicos.
 
@@ -39,7 +38,7 @@ Essas vacinas experimentais não apenas falham na prevenção da transmissão, m
 
 De acordo com Jayanta Bhattcharya, professor de medicina, economia e pesquisa e política em saúde da Universidade de Stanford, do ponto de vista médico, todos os pré-requisitos necessários para uma obrigação de vacina simplesmente não estão em vigor.
 
-“Se uma vacina não impede a transmissão de doenças, a ideia de que você tem que vacinar outras pessoas para me proteger é simplesmente errada”, [diz ele](https://12ft.io/proxy?ref=&q=https://www.theepochtimes.com/researcher-and-professor-criticize-covid-19-vaccine-trials-at-national-citizens-inquiry_5193190.html) .
+“Se uma vacina não impede a transmissão de doenças, a ideia de que você tem que vacinar outras pessoas para me proteger é simplesmente errada”, [diz ele](https://12ft.io/proxy&q=https://www.theepochtimes.com/researcher-and-professor-criticize-covid-19-vaccine-trials-at-national-citizens-inquiry_5193190.html) .
 
 Para piorar a situação, os cientistas descobriram agora que as vacinas de mRNA, e não a própria infecção por COVID-19, podem causar danos cerebrais e cardíacos.
 
@@ -51,7 +50,7 @@ Nos últimos dois anos, pelo menos 30 países do mundo industrializado, incluind
 
 Em seu livro Cause Unknown: The Epidemic of Sudden Deaths, Ed Dowd levanta a hipótese de que "as mortes súbitas entre jovens em países desenvolvidos são devidas a vacinas de mRNA".
 
-Dowd [argumenta](https://12ft.io/proxy?ref=&q=https://www.theepochtimes.com/health/doctors-around-the-world-say-its-time-to-stop-the-shots_5103024.html) que "o número de mortes em excesso na América atribuídas ao COVID-19 em 2020 foi realmente muito menor do que o enorme aumento de mortes súbitas que começou em 2021 depois que as vacinas COVID-19 se espalharam".
+Dowd [argumenta](https://12ft.io/proxy&q=https://www.theepochtimes.com/health/doctors-around-the-world-say-its-time-to-stop-the-shots_5103024.html) que "o número de mortes em excesso na América atribuídas ao COVID-19 em 2020 foi realmente muito menor do que o enorme aumento de mortes súbitas que começou em 2021 depois que as vacinas COVID-19 se espalharam".
 
 Vamos pegar meu país, a Austrália, como exemplo. No final de 2021, a Austrália alcançou uma impressionante cobertura de imunização de 80% da população.
 

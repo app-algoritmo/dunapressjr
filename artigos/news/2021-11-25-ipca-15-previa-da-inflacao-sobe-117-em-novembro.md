@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Acumulado em 12 meses fica em 10,73%, impactado pela alta na gasolina.
 
 A prévia da inflação, medida pelo Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), apresentou alta de 1,17% em novembro. O resultado representa a maior variação para o mês desde 2002, quando o índice ficou em 2,08%.
@@ -32,10 +31,6 @@ O IPCA-15 difere do IPCA pelo período de coleta, que vai do dia 16 do mês ante
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

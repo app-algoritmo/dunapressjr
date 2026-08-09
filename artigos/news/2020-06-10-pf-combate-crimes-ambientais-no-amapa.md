@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Macapá/AP - A Polícia Federal deflagrou, na manhã desta quarta-feira (10/6), a Operação Marrocos*, para combater crimes ambientais, visando reprimir instalação de serrarias sem autorização legal, crime de receptação e desmatamento de área pública, em Mazagão, no Amapá.
 
 Na ação, que contou com a participação de integrantes do Exército Brasileiro (EB) e agentes do Instituto Brasileiro do Meio Ambiente e dos Recurso Naturais (IBAMA), cerca de 50 policiais federais dão cumprimento a 7 mandados de busca e apreensão em serrarias clandestinas instaladas às margens da foz do Rio Mazagão, em Mazagão/AP.
@@ -23,5 +22,3 @@ Se condenados, poderão cumprir pena de até 9 anos e 6 meses de reclusão.
 *Marrocos - O nome faz referência ao nome da cidade de Mazagão. Ela foi escolhida para receber a população da então possessão portuguesa de Mazagão, no Marrocos, abandonada por ordem do Marquês de Pombal.
 
 Comunicação Social da Polícia Federal no Amapá
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

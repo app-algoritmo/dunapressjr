@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Empresas brasileiras certificadas serão reconhecidas como mais seguras.
 
 As empresas brasileiras certificadas como operadores econômicos autorizados (OEA) poderão exportar mais rapidamente e com menos burocracia para os Estados Unidos. Após sete anos de negociações, a Receita Federal assinou acordo de reconhecimento mútuo (ARM) com a aduana norte-americana.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Soja deve ter número recorde: 150,36 milhões de toneladas.
 
 As primeiras projeções para a produção de grãos para a safra 2022/23 apontam para uma colheita de 308 milhões de toneladas. Segundo dados divulgados nesta quarta-feira (24), em Brasília, pela Companhia Nacional de Abastecimento (Conab), o resultado é impulsionado, principalmente, pelo bom desempenho dos mercados de milho, soja, arroz, feijão e algodão.
@@ -60,8 +59,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

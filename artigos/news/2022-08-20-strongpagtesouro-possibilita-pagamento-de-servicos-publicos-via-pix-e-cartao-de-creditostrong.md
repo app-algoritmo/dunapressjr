@@ -8,14 +8,13 @@ categories:
 - News
 ---
 
-
 ### Plataforma digital permite visualizar pagamento em poucos segundos após sua finalização.
 
 Pagamentos das taxas para emissão de passaporte, de registro de patentes, de inscrições em concursos públicos e no Exame Nacional do Ensino Médio (Enem) e de outros serviços podem ser realizados de forma totalmente digital pela plataforma PagTesouro. O serviço oferecido pela Secretaria do Tesouro Nacional do Ministério da Economia (STN/ME) fornece ao cidadão uma forma de pagar os valores devidos aos órgãos públicos federais via Pix e cartão de crédito, além do tradicional boleto bancário.
 
 As transações realizadas a partir do PagTesouro são registradas nos sistemas de arrecadação como Guia de Recolhimento da União (GRU) digital – documento instituído pelo ME para recolhimento das receitas de órgãos, autarquias, fundações e demais entidades integrantes dos orçamentos fiscal e da seguridade social.
 
-Na plataforma, contribuinte e órgão arrecadador podem visualizar o pagamento em poucos segundos após sua finalização, concluídas nas [instituições financeiras do país que aceitam pagamentos oriundos do PagTesouro](https://www.bcb.gov.br/content/estabilidadefinanceira/pix/ListadeparticipantesdoPix.pdf).
+Na plataforma, contribuinte e órgão arrecadador podem visualizar o pagamento em poucos segundos após sua finalização, concluídas nas .
 
 ### Como usar o PagTesouro
 
@@ -33,8 +32,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

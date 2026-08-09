@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 “A economia está voltando, saímos da recessão agora, vamos oficialmente sair da recessão. Estamos retomando o crescimento econômico”, ressaltou Guedes.
 
 Diante do crescimento de 9,47% da economia brasileira nos meses de julho, agosto e setembro, divulgado nesta sexta-feira (13) pelo Banco Central, o ministro da Economia, Paulo Guedes, afirmou que o Brasil está de fato saindo da recessão. O Índice de Atividade Econômica do Banco Central (IBC-Br) indicou o crescimento em comparação ao segundo trimestre.
@@ -39,5 +38,3 @@ A construção civil foi indicada como um dos impulsionadores da alavancagem da 
 Fonte: gov.br – Imagem de destaque: Reprodução/AEB
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

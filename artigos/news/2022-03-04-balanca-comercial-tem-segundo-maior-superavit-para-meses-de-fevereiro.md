@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Exportações superaram importações em US$ 4,05 bilhões.
 
 Depois de registrar déficit em janeiro, a balança comercial recuperou-se em fevereiro e teve o segundo maior resultado positivo para o mês. No mês passado, o país exportou US$ 4,049 bilhões a mais do que importou. O superávit só não foi maior que o de fevereiro de 2017, quando o país vendeu US$ 4,229 bilhões a mais do que comprou.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

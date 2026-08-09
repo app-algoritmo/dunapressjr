@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Fonte: Agência S
 
 Rubens Ricupero estava lotado como diplomata em Washington quando os Estados Unidos celebraram os 200 anos da Independência, em 1976. Ele lembra que os eventos comemorativos, tanto os do governo quanto os da sociedade, se espalharam pelo país inteiro e puderam ser contados aos milhares.
@@ -23,7 +22,7 @@ O historiador avalia que o aniversário da Independência seria a oportunidade p
 
 Leia, a seguir, a entrevista concedida por Ricupero à **Agência Senado**.
 
-[](https://www12.senado.leg.br/noticias/infomaterias/2022/08/bicentenario-e-momento-para-brasil-encarar-seus-problemas-diz-historiador/ricupero/@@images/imagem)O historiador e diplomata Rubens Ricupero (foto: Roque de Sá/Agência Senado)
+O historiador e diplomata Rubens Ricupero (foto: Roque de Sá/Agência Senado)
 
 **Por que o bicentenário da Independência precisa ser lembrado?**
 
@@ -39,7 +38,7 @@ A vantagem de um aniversário como o da Independência é que se trata de um cat
 
 Quando os americanos comemoraram os 200 anos da Independência, em 1976, eu era diplomata nos Estados Unidos e me lembro que eles organizaram centenas ou até milhares de iniciativas no país inteiro. O planejamento havia começado dez anos antes, com a criação de uma comissão pelo Congresso. Como o 200º aniversário ocorreu um ano depois do fiasco da retirada americana da Guerra do Vietnã, o governo do presidente Gerald Ford soube instrumentalizar os festejos para reanimar o abatido espírito da nação com uma visão nostálgica e apologética do passado. Um século antes, os americanos haviam organizado na Filadélfia a Exposição do Centenário, em que ocorreu a famosa demonstração do telefone por Alexander Graham Bell ao imperador D. Pedro II. No Brasil de hoje, me espanta não haver nenhum movimento nesse sentido.
 
-[](https://www12.senado.leg.br/noticias/infomaterias/2022/08/bicentenario-e-momento-para-brasil-encarar-seus-problemas-diz-historiador/exposicao/@@images/imagem)Sociedade compareceu em peso à Exposição Internacional do Centenário da Independência, em 1922, no Rio de Janeiro (foto: Augusto Malta/Instituto Moreira Salles)
+Sociedade compareceu em peso à Exposição Internacional do Centenário da Independência, em 1922, no Rio de Janeiro (foto: Augusto Malta/Instituto Moreira Salles)
 
 **O Brasil não está preocupado com os 200 anos da Independência?**
 
@@ -57,7 +56,7 @@ Aqueles livros clássicos da década de 1930 com análises revolucionárias sobr
 
 Até mesmo no ano 2000 tivemos uma movimentação por ocasião dos 500 anos do Descobrimento, ao contrário de hoje. No ano anterior, o governo criou o Parque Nacional do Descobrimento, no sul da Bahia, a região em que os portugueses desembarcaram em 1500. O Descobrimento foi o início da extinção de muitos dos povos originários e também o começo da escravidão comercial, mas o aniversário passou ao largo dessas questões. Não se incluíram os indígenas e os negros nas discussões e não se debateram transformações sociais para o presente. De qualquer forma, os 500 anos não passaram em branco. Hoje, às vésperas do bicentenário, o país parece estar completamente anestesiado.
 
-[](https://www12.senado.leg.br/noticias/infomaterias/2022/08/bicentenario-e-momento-para-brasil-encarar-seus-problemas-diz-historiador/a-noite/@@images/imagem)Imprensa engajada: na edição de 7 de setembro de 1922, o jornal carioca A Noite dedica a primeira página ao centenário da Independência (imagem: reprodução/Biblioteca Nacional Digital)
+Imprensa engajada: na edição de 7 de setembro de 1922, o jornal carioca A Noite dedica a primeira página ao centenário da Independência (imagem: reprodução/Biblioteca Nacional Digital)
 
 **O senhor atribui essa despreocupação com o bicentenário da Independência apenas à falta de liderança do governo?**
 

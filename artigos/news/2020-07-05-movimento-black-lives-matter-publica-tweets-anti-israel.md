@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 "À medida que Israel avança com a anexação da Cisjordânia, e a política britânica dominante é amordaçada e privada do direito de criticar o sionismo e as atividades coloniais dos colonos de Israel, nos mantemos firmes e claramente ao lado de nossos camaradas palestinos. PALESTINA LIVRE ”, twittou a seção inglesa do movimento.
 
 O movimento Black Lives Matter (BLM) cresceu desde a morte de George Floyd, em 25 de maio, um negro asfixiado por um policial branco em Minneapolis e cujo vídeo chocou o mundo.
@@ -34,6 +33,6 @@ Fonte The Time Of Israel
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

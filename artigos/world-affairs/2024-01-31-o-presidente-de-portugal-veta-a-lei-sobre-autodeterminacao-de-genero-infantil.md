@@ -7,8 +7,7 @@ categories:
 - World Affairs
 ---
 
-
-O presidente de **[Portugal](https://gaceta.es/europa/rebelo-de-sousa-formaliza-la-dimision-del-gobierno-de-costa-que-tiene-competencias-limitadas-desde-este-viernes-20231208-0953/)** , **Marcelo Rebelo de Sousa** , **vetou a lei** que estabelecia as medidas que as escolas deviam aplicar para garantir o direito à **autodeterminação da identidade de género dos alunos** nas escolas.**[](https://gaceta.es/europa/rebelo-de-sousa-formaliza-la-dimision-del-gobierno-de-costa-que-tiene-competencias-limitadas-desde-este-viernes-20231208-0953/)**************
+O presidente de **[Portugal](https://gaceta.es/europa/rebelo-de-sousa-formaliza-la-dimision-del-gobierno-de-costa-que-tiene-competencias-limitadas-desde-este-viernes-20231208-0953/)** , **Marcelo Rebelo de Sousa** , **vetou a lei** que estabelecia as medidas que as escolas deviam aplicar para garantir o direito à **autodeterminação da identidade de género dos alunos** nas escolas.****************
 
 A Presidência portuguesa, através de comunicado publicado no seu site, indicou que rejeitou a escolha de um nome neutro **“por considerar que o decreto não garante um equilíbrio** no que diz respeito ao princípio essencial da liberdade pessoal”.
 

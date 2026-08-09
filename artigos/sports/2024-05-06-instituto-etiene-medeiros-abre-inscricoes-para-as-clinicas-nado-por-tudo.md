@@ -12,13 +12,13 @@ categories:
 
 O Programa de Clínicas de Natação Nado Por Tudo está com inscrições abertas a partir desta segunda-feira (6). Promovido pelo Instituto Etiene Medeiros (IEM), serão dois encontros: o primeiro marcado para o dia 25 deste mês, com mais uma data programada para o dia 1 de junho, ambos no período da manhã e com as atividades no Complexo Esportivo Santos Dumont, em Boa Viagem, na Zona Sul do Recife (PE).
 
-Uma iniciativa inovadora e pioneira do Instituto. O projeto está sendo viabilizado por meio da lei de incentivo ao esporte, tendo o BV como facilitador. O objetivo é incentivar a prática da natação, especialmente entre os jovens, com clínicas dedicadas à aprendizagem e aprimoramento dos quatro estilos: nados crawl, peito, borboleta e costas. 
+Uma iniciativa inovadora e pioneira do Instituto. O projeto está sendo viabilizado por meio da lei de incentivo ao esporte, tendo o BV como facilitador. O objetivo é incentivar a prática da natação, especialmente entre os jovens, com clínicas dedicadas à aprendizagem e aprimoramento dos quatro estilos: nados crawl, peito, borboleta e costas.
 
-O novo projeto do IEM traz a expertise adquirida ao longo da carreira da sua fundadora, a nadadora pernambucana Etiene Medeiros, mais uma vez para a sua cidade natal, Recife. Este será o primeiro programa de clínica realizado pelo Instituto, que visa fortalecer e enriquecer o cenário esportivo de Pernambuco - antes houve uma clínica Nado Por Tudo em 2017. 
+O novo projeto do IEM traz a expertise adquirida ao longo da carreira da sua fundadora, a nadadora pernambucana Etiene Medeiros, mais uma vez para a sua cidade natal, Recife. Este será o primeiro programa de clínica realizado pelo Instituto, que visa fortalecer e enriquecer o cenário esportivo de Pernambuco - antes houve uma clínica Nado Por Tudo em 2017.
 
 Neste primeiro projeto, as clínicas serão realizadas no Grande Recife. No entanto, o Instituto tem a visão de expandir a iniciativa para outras cidades do estado e para diferentes regiões do País em um futuro próximo, transmitindo conhecimento e compartilhando experiências com praticantes da modalidade em diversas categorias em todo o Brasil.
 
-As inscrições estão abertas para a primeira fase – nado crawl. Qualquer praticante de natação entre 7 e 17 anos pode se inscrever, desde que tenha conhecimento básico do estilo crawl. Elas podem ser feitas no link [https://bit.ly/inscricaoclinicaNPT](https://click.presskit.com.br/url/1012264b500/6361388b6fc).
+As inscrições estão abertas para a primeira fase – nado crawl. Qualquer praticante de natação entre 7 e 17 anos pode se inscrever, desde que tenha conhecimento básico do estilo crawl. Elas podem ser feitas no link [](https://click.presskit.com.br/url/1012264b500/6361388b6fc).
 
 “Se você busca aperfeiçoar as técnicas dos nados crawl, peito, borboleta e costas, venha conosco! Anote já na sua agenda e participe do Programa de Clínicas Nado Por Tudo”, afirma Antônio Coutinho, coordenador técnico do IEM.
 

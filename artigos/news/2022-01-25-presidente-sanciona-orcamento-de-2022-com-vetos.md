@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Valor total da despesa é R$ 4,73 trilhões.
 
 O presidente Jair Bolsonaro sancionou, com vetos, o Orçamento de 2022 aprovado em dezembro pelo Congresso Nacional. O valor total da despesa – previsto na [**Lei 14.303**](https://www.in.gov.br/en/web/dou/-/lei-n-14.303-de-21-de-janeiro-de-2022-*-375541502), publicada no *Diário Oficial da União *desta segunda-feira (24) – é de R$ 4,73 trilhões. Deste total, R$ 1,88 trilhão tem como destino o refinanciamento da dívida pública federal.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

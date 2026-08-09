@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Contribuinte deve prestar atenção a ganhos com valorização.
 
 Um dos momentos que mais geram dúvidas na hora de preencher a declaração do Imposto de Renda (IR) consiste na venda e na compra de imóveis. Além de declarar a propriedade como um bem, o contribuinte precisa estar atento a ganhos com a valorização. Caso não tenha trocado de residência e tenha ganhado dinheiro com a operação, poderá ter de pagar 15% de imposto sobre a diferença.
@@ -50,10 +49,6 @@ Também existe uma isenção parcial para ganhos de capital, para imóveis compr
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio!  
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

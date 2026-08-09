@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Durante uma discussão com Amanda Klein, durante o Jornal da Manhã da última terça-feira (16)  José Carlos Bernardi sugeriu que a morte de judeus poderia fomentar a retomada econômica do Brasil. "É só assaltar todos os judeus que a gente consegue chegar lá. Se a gente matar um monte de judeus e se apropriar do poder econômico deles, o Brasil enriquece. Foi o que aconteceu com a Alemanha pós-guerra", disse o jornalista na ocasião.
 
 A fala foi repudiada por Amanda e integrantes da comunidade judaica. Após a repercussão negativa, a Jovem Pan divulgou um comunicado no qual destacou que as visões de seus comentaristas não refletem a opinião da empresa.
@@ -44,7 +43,3 @@ Fonte: https://www.conib.org.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Robótica garante precisão milimétrica nas cirurgias e mobilidade mais rápida aos pacientes.
 
 A covid-19 afetou a qualidade de vida da população mundial. Aumento de peso e sedentarismo são reclamações comuns e têm trazido consequências sérias para pessoas que sofrem com problemas no joelho ou já realizaram artroplastia. Pesquisa realizada no Reino Unido e publicada na revista *The Bone and Joint Journal* para avaliar a percepção das pessoas que necessitam de cirurgia total de joelho indicou que 20% dos pacientes estavam com qualidade de vida “piores que a morte”. Além disso, o número de pessoas com esse problema praticamente dobrou durante a pandemia.
@@ -18,11 +17,11 @@ A reclamação de quem sofre com artrose no joelho se justifica por essa ser uma
 
 **Maior precisão**
 
-O Hospital Marcelino Champagnat, em Curitiba (PR), é a sétima instituição do Brasil a contar com a tecnologia para realização da artroplastia total de joelho. A primeira cirurgia foi realizada no início de outubro e já demonstrou maior precisão na colocação dos implantes, menor quantidade de materiais utilizados, além de diminuição da dor e cicatrizes.  
+O Hospital Marcelino Champagnat, em Curitiba (PR), é a sétima instituição do Brasil a contar com a tecnologia para realização da artroplastia total de joelho. A primeira cirurgia foi realizada no início de outubro e já demonstrou maior precisão na colocação dos implantes, menor quantidade de materiais utilizados, além de diminuição da dor e cicatrizes.
 
 O ortopedista Fabiano Kupczik explica que em breve o robô poderá ser utilizado também para colocação de prótese parcial do joelho e do quadril. “Ainda é uma técnica mundialmente recente, que dá uma precisão milimétrica que não é possível a olho nu, ideal para os casos mais complexos, de deformidades, sequelas de outras cirurgias e quando os outros tratamentos não apresentam mais resultados. É indicado para casos mais avançados da doença”, explica o médico.
 
-“Em menos de 24 horas, eu já conseguia colocar o pé no chão e andar com ajuda do andador. Agora, quero voltar a caminhar, a ter uma vida normal e poder brincar com a minha netinha de 3 anos”, ressalta a aposentada. 
+“Em menos de 24 horas, eu já conseguia colocar o pé no chão e andar com ajuda do andador. Agora, quero voltar a caminhar, a ter uma vida normal e poder brincar com a minha netinha de 3 anos”, ressalta a aposentada.
 
 **Funcionamento**
 
@@ -39,7 +38,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

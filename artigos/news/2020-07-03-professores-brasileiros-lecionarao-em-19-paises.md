@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Iniciativa interministerial envia 20 professores brasileiros para universidades no exterior
 
 Foi publicada nesta quinta-feira, 02, no Diário Oficial da União, o [resultado](https://www.capes.gov.br/images/novo_portal/editais/resultados/02072020_Edital_29_LEITORADO_Resultado_Preliminar.pdf) da seleção do [Programa Leitorado](http://www.capes.gov.br/bolsas-e-auxilios-internacionais/pais/218-multinacional/10088-programa-leitorado).  O [edital nº 29/2019](https://www.capes.gov.br/images/novo_portal/editais/editais/17012020_EDITAL_29_2019_-_RETIFICA%C3%87%C3%83O_LEITORADO.pdf), lançado pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) em parceria com o [Ministério das Relações Exteriores](http://www.itamaraty.gov.br/pt-BR/) (MRE), abria vagas para 20 professores brasileiros atuarem em instituições de ensino superior, em 19 países.
@@ -24,7 +23,7 @@ Fonte: gov.br / Imagem em destaque: vocesa.com.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

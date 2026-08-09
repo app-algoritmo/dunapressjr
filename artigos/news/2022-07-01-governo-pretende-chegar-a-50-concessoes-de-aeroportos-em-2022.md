@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Santos Dumont e Galeão, no Rio de Janeiro, ficam para o próximo ano.
 
 O secretário nacional de Aviação Civil, Ronei Glanzmann, informou, nesta quinta-feira (30), que o governo federal espera chegar ao fim do ano com 50 terminais concedidos para administração da iniciativa privada. Se a previsão for concretizada, serão contratados R$ 18 bilhões em investimentos privados. A informação foi dada nesta quinta-feira (30) durante o a apresentação do balanço de 2022 do Ministério de Infraestrutura em uma cerimônia em Brasília.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

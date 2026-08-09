@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Quem convive com a psoríase acaba enfrentando uma situação mais difícil do que os próprios sintomas da enfermidade: o preconceito. Conscientizar e alertar as pessoas sobre a realidade da doença acaba se tornando uma iniciativa necessária na vida dessas pessoas. Mas, o que você sabe sobre esse mal?
 
 A psoríase é uma doença crônica da pele, não contagiosa e caracterizada pela presença de manchas róseas ou avermelhadas, recobertas por escamas esbranquiçadas. Vandirene Saraiva, 50 anos, tem psoríase há 25 anos e confirma que a discriminação ainda é a pior consequência.
@@ -44,7 +43,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

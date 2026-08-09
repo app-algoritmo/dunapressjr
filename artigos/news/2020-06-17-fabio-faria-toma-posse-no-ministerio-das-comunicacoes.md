@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Segundo ele, é prioritário promover a inclusão digital porque ainda há uma grande parcela da população sem acesso à internet.
 
  O presidente da República, Jair Bolsonaro, deu posse, nesta quarta-feira (17), ao ministro das Comunicações, Fabio Faria. A cerimônia ocorreu em Brasília, no Palácio do Planalto.
@@ -38,4 +37,4 @@ Também estão sob o comando do ministério a Telebras, Correios, Agência Nacio
 
 Fábio Salustino Mesquita de Faria chegou ao Congresso Nacional antes de completar 30 anos, quando foi eleito em 2006 para deputado federal pelo estado do Rio Grande do Norte. O novo ministro está em seu quarto mandato pelo estado. Antes de assumir o ministério era também terceiro-secretário da mesa diretora da Câmara.
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

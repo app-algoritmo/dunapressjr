@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 “Você não pode mudar o vento, mas pode ajustar as velas do barco para chegar onde quer.”
 
 A frase dita por Confúcio há cerca de 2.500 anos nunca foi tão atual. Passados cerca de dois meses desde o início dos decretos de emergência sanitária pela Covid-19, temos observado o comportamento nacional dia a dia se modificando. Esforços para manter o País no rumo do crescimento vêm sendo implementados nas ações diárias dos setores classificados como essenciais, os quais têm, diuturnamente, se adequado para viabilizar a manutenção de suas rotinas.
@@ -29,5 +28,3 @@ Outro importante braço dessa complexa engrenagem, o Tribunal Marítimo buscou a
 O cenário internacional que se desenhou vem requerendo da sociedade como um todo um grande esforço para a manutenção do desenvolvimento do País. Os representantes e agentes da Autoridade Marítima, esses presentes em nossos Distritos Navais e nas suas Capitanias, Delegacias e Agências subordinadas, distribuídas por todo o litoral e território nacional, têm apoiado constantemente a capacidade de resiliência do setor, zelosos de suas atribuições legais de segurança da navegação, salvaguarda da vida humana no mar e em águas interiores e a prevenção da poluição hídrica causada por embarcações. Além disso, as atividades referentes ao Ensino Profissional Marítimo permitem a continuidade da formação de cidadãos que se transformam em homens e mulheres voltados para as atividades marítimas e cônscios de seus deveres e responsabilidades com o Brasil. Agora, mais do que nunca, a vocação marítima e fluvial de nosso País deverá ser explorada e a Autoridade Marítima ciosa de seu papel não medirá esforços para que isso se confirme. Nascemos pelo mar e continuaremos a nos desenvolver por ele e por nossas hidrovias.
 
 Fonte: Portal de Imprensa da Marinha do Brasil
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O objetivo é gerar informações sobre a espécie para que, em junho de 2021, especialistas da área, técnicos da SAP e representantes do setor pesqueiro avaliem as medidas de gestão adotadas para a sardinha-verdadeira.
 
 A Secretaria de Aquicultura e Pesca (SAP), do Ministério da Agricultura, Pecuária e Abastecimento (Mapa), quer realizar um novo ordenamento para a pesca da sardinha-verdadeira (Sardinella brasiliensis) em todo o país. Com base nesta diretriz, foi publicada nesta sexta-feira (12), no Diário Oficial da União (DOU), a [Instrução Normativa SAP/MAPA nº 18](http://www.in.gov.br/en/web/dou/-/instrucao-normativa-n-18-de-10-de-junho-de-2020-261278240) que inova quanto ao monitoramento da atividade, desenvolvendo um sistema para a coleta de informações sobre a sardinha-verdadeira nas indústrias pesqueiras.
@@ -32,4 +31,4 @@ Fonte: gov.br/agricultura / Imagem em destaque: aquiagora.net
 
 **- U$ 10,00 anual (com todos os benefícios nesta opção - Press, Magazine, artigos científicos diversos, entre outros acessos)**
 
-https://dunapress.org/?aff=Leonardo
+https://dunapress.org/

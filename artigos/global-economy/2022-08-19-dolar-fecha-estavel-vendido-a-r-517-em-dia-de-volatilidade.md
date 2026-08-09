@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa oscila, mas encerra sessão com pequena alta de 0,09%.
 
 Ainda sob influência do mercado norte-americano, o dólar fechou estável, após superar os R$ 5,20 ao longo do dia. A bolsa de valores alternou altas e baixas, mas teve pequeno ganho, impulsionada pela alta no preço internacional do petróleo.
@@ -25,5 +24,3 @@ Nesta quinta-feira (18), um dirigente regional do Fed reiterou que o órgão pre
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

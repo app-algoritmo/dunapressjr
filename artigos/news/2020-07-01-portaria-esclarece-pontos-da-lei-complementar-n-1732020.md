@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A lei estabelece o Programa Federativo de Enfrentamento ao Coronavírus SARS-CoV-2 (Covid-19).
 
 Foi publicada em edição extra do Diário Oficial da União desta terça-feira (30/06) a Portaria Conjunta RFB/PGFN nº 1.072/2020 que esclarece pontos da [Lei Complementar nº 173, de 27 de maio de 2020](http://www.in.gov.br/en/web/dou/-/lei-complementar-n-173-de-27-de-maio-de-2020-258915168), que institui o Programa Federativo de Enfrentamento ao Coronavírus SARS-CoV-2 (Covid-19).
@@ -20,4 +19,4 @@ A Portaria evidencia ainda que a suspensão de pagamentos determinada pela Lei C
 
 Fonte: Receita Federal – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

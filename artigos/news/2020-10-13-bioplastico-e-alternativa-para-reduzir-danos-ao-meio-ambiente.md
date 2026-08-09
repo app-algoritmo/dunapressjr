@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Um projeto desenvolvido no Centro de Tecnologias Estratégicas do Nordeste (Cetene), unidade de pesquisa do MCTI, trabalha na produção de bioplástico, uma alternativa sustentável para reduzir os danos ao meio ambiente. As aplicações de polímeros biodegradáveis, como o bioplástico, foram tema de um painel neste domingo (11), na programação do Mês Nacional da Ciência Tecnologia e Inovações (MNCTI), disponível no canal do ministério no YouTube[: www.youtube.com/ascommcti](http://www.youtube.com/ascommcti).
 
 Atualmente, são consumidas mais de 360 milhões de toneladas de plásticos por ano em todo o mundo.  “Quase tudo que a gente usa hoje tem algo de plástico, derivado de petróleo, e demora séculos no meio ambiente para se degradar. Nesse contexto, os polímeros biodegradáveis são uma alternativa para reduzir os impactos”, afirma a pesquisadora bolsista Carolina Malafaia, que desenvolve o projeto no Cetene e conduziu o painel com a participação das pesquisadoras Priscilla  Albuquerque e Marthynia Pessoa.
@@ -39,5 +38,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

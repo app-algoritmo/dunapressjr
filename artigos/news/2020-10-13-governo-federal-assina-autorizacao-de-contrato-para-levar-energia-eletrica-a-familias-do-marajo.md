@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 Foi dada a largada para o início dos serviços que vão levar energia elétrica à população dos municípios da Ilha do Marajó (PA), por meio do Programa Mais Luz para a Amazônia. A ação faz parte do Abrace o Marajó, do Governo Federal, que foi lançado, em Breves (PA), nesta sexta-feira (9), e conta com mais de cem iniciativas para a região.
 
-A autorização do primeiro contrato do programa foi assinada em cerimônia que contou com a presença do Presidente da República, Jair Bolsonaro e do Ministro de Minas e Energia, Bento Albuquerque. 
+A autorização do primeiro contrato do programa foi assinada em cerimônia que contou com a presença do Presidente da República, Jair Bolsonaro e do Ministro de Minas e Energia, Bento Albuquerque.
 
 A distribuidora de energia do Estado, Equatorial Energia Pará, poderá dar início aos projetos de sistemas de geração fotovoltaica nas residências de famílias marajoaras, que, até então, utilizavam gerador movido a óleo diesel. Esses painéis fotovoltaicos vão gerar energia elétrica a partir de fonte renovável para as famílias que vivem longe das redes de distribuição.
 
@@ -38,5 +37,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

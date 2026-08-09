@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Projeto de Lei 1950/21 inclui centros de atendimento veterinário no Cadastro Nacional de Estabelecimentos de Saúde (CNES) e determina que sejam submetidos ao licenciamento e à fiscalização pela vigilância sanitária.
 
 A proposta em análise na Câmara dos Deputados segue uma recomendação do Conselho Nacional de Saúde (CNS). Em 2018, o CNS apoiou o reconhecimento de consultórios, clínicas, ambulatórios e hospitais veterinários como estabelecimentos de saúde, disse o autor, deputado [Fred Costa (Patriota-MG)](https://www.camara.leg.br/deputados/204494).
@@ -35,7 +34,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

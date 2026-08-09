@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Recursos poderão ser usados na safra 2021/2022.
 
 A Caixa Econômica Federal anunciou nesta quinta-feira (10) a antecipação da oferta de recursos para financiar as atividades agrícolas do segundo semestre da safra 2021/2022, a chamada safra verão, que se estende de fevereiro a junho. A iniciativa foi divulgada pelo presidente do banco estatal, Pedro Guimarães.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

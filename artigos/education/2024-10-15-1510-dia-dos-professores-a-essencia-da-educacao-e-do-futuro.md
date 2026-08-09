@@ -8,7 +8,6 @@ categories:
 - Future and Innovation
 ---
 
-
 No dia 15 de outubro, celebramos o Dia dos Professores, uma data que reconhece a importância desses profissionais na formação de cidadãos e no desenvolvimento de uma sociedade mais justa e consciente. Os professores são mais do que transmissores de conhecimento; eles são mediadores de sonhos, incentivadores de potencialidades e agentes de transformação.
 
 A data foi escolhida em 1963 em homenagem a D. Pedro I, que, em 1827, sancionou a primeira lei que tratava do ensino no Brasil. Desde então, o papel do professor evoluiu, acompanhando as mudanças tecnológicas e sociais, mas sua essência permanece: a dedicação ao ensino e ao bem-estar dos alunos.
@@ -27,4 +26,4 @@ Sem o professor, o progresso não seria possível. São eles que abrem portas pa
 
 Neste Dia dos Professores, reconheçamos a importância de sua missão e reafirmemos nosso compromisso com a valorização da educação.
 
-[Clique aqui para acessar Duna Educação](https://dunapress.org/edu)
+org/edu)

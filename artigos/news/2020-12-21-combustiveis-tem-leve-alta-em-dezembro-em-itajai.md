@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Os combustíveis em Itajaí registraram alta no mês de dezembro em comparação ao mês anterior. As gasolinas comum e aditivada subiram menos de 1% - 0,19% e 0,68% respectivamente -, e o etanol está 1,61% mais caro. Já o diesel baixou 0,45% e o diesel S-10 puxou a alta com 2,47%. As variações foram registradas pelos fiscais da Procuradoria do Consumidor (Procon) de Itajaí em 44 postos de combustíveis da cidade na segunda-feira (14).
 
 A maior diferença constatada pelo Procon é nos preços entre os estabelecimentos. O etanol registrou a maior diferença de valores (R$ 0,70), com preços até R$ 3,89. Na gasolina comum, a diferença entre o maior e o menor preço é de R$ 0,60 e os preços na bomba variam entre R$ 4,19 e R$ 4,79. Na aditivada, a diferença é de R$ 0,46, com preços até R$ 4,79.
@@ -28,7 +27,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

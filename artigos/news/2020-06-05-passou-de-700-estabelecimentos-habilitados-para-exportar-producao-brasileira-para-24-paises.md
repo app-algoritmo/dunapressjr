@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Desde janeiro de 2019, Brasil abriu mais de 65 mercados para produtos agropecuários.
 
 ais de 700 estabelecimentos foram habilitados a exportar produtos agropecuários para 24 países desde janeiro de 2019. No início desta semana, mais quatro unidades frigoríficas de aves e uma de suínos foram credenciadas e irão vender as carnes do Brasil ao Vietnã.
@@ -38,8 +37,6 @@ A agropecuária apresentou crescimento de 0,6% no primeiro trimestre de 2020 em 
 Em relação a igual período do ano anterior, no caso primeiro trimestre, a agropecuária teve crescimento de 1,9%.
 
 Fonte: gov.br / Imagem em destaque: gov.br/agricultura
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

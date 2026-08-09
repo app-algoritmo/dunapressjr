@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Este ano, já são R$ 5,02 bilhões de dívidas honradas pela União.
 
 A União pagou, em julho, R$ 400,56 milhões em dívidas atrasadas de estados, segundo o [**Relatório de Garantias Honradas pela União em Operações de Crédito e Recuperação de Contragarantias**](https://www.tesourotransparente.gov.br/publicacoes/relatorio-mensal-de-garantias-honradas-rmgh/2022/7), divulgado nesta segunda-feira (8) pelo Tesouro Nacional. Do total, R$ 162,95 milhões são débitos não quitados pelos estados de Minas Gerais; R$ 106,67 milhões do Rio de Janeiro; R$ 77,46 milhões de Goiás, e R$ 53,47 milhões do Rio Grande do Sul.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

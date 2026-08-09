@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Redução faz parte de compromisso firmado entre governo e B3.
 
 Desde o dia 1º de janeiro, o investidor com recursos no Tesouro Direto paga menos para manter o dinheiro aplicado. A taxa de custódia dos títulos caiu de 0,25% para 0,20% do valor dos papéis.
@@ -32,10 +31,6 @@ A venda de títulos é uma das formas que o governo tem de captar recursos para 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

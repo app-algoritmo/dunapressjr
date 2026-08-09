@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Graduado em Ciências Biológicas pelo Instituto de Biociências da Universidade de São Paulo (IB-USP), Fabio Oliveira é mestre e doutor na área pela mesma intuição. Ao concluir seu doutorado, o pesquisador revelou uma nova classificação, mais completa, para os gatos-palheiros.
 
 **Fale um pouco sobre o seu trabalho.**
@@ -51,7 +50,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

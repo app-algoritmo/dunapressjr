@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Queda no preço foi de R$ 0,25 por quilo.
 
 A Petrobras anunciou, nesta sexta-feira (8), uma redução no preço do Gás Liquefeito de Petróleo (GLP), que é usado com gás de cozinha. A diminuição no valor foi de R$ 0,25 por quilo. Segundo a companhia, isso foi possível graças à taxa de câmbio, que tem refletido uma valorização do real frente ao dólar.
@@ -20,8 +19,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

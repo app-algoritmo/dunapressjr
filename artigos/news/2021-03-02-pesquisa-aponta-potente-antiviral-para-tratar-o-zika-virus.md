@@ -7,20 +7,19 @@ categories:
 - News
 ---
 
-
 Estudo realizado pelo pesquisador Felipe Rocha da Silva, do Programa de Biotecnologia da Universidade Federal de São João del Rei (UFSJ) avaliou medicamentos que possuem grande potencial para se tornar um antiviral no tratamento do zika vírus. A pesquisa de doutorado foi a vencedora do [Prêmio CAPES de Tese 2020](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) na área de Biotecnologia. 
 
 Imagem do zika vírus (Foto: Arquivo pessoal) 
 
-O zika é um vírus transmitido pelo mosquito *Aedes aegypt*i e provoca sintomas como dor de cabeça, febre baixa, dores leves nas articulações, manchas vermelhas na pele, coceira e vermelhidão nos olhos. Casos de microcefalia também estão ligados à  doença que ainda não tem tratamento ou vacina específica no Brasil. 
+O zika é um vírus transmitido pelo mosquito *Aedes aegypt*i e provoca sintomas como dor de cabeça, febre baixa, dores leves nas articulações, manchas vermelhas na pele, coceira e vermelhidão nos olhos. Casos de microcefalia também estão ligados à  doença que ainda não tem tratamento ou vacina específica no Brasil.
 
-A tese foi elaborada de maneira interdisciplinar, abrangendo as áreas de virologia, bioinformática e química medicinal. Os estudos mostraram que a clorciclizina, anti-histamínico aprovado pela Agência Sanitária Americana (FDA) para o tratamento de alergias, possui grande potencial para se tornar um antiviral.  
+A tese foi elaborada de maneira interdisciplinar, abrangendo as áreas de virologia, bioinformática e química medicinal. Os estudos mostraram que a clorciclizina, anti-histamínico aprovado pela Agência Sanitária Americana (FDA) para o tratamento de alergias, possui grande potencial para se tornar um antiviral.
 
  Felipe Rocha da Silva, doutor em Biotecnologia (Foto: Arquivo pessoal).
 
-“O anti-histamínico teve resultado promissor, pois encontramos compostos orgânicos que inibiram a multiplicação do vírus no organismo e podem reduzir as complicações decorrentes da infecção”, explicou Felipe Rocha. Ainda segundo o pesquisador, como todas as características do medicamento já estão bem descritas na literatura, é possível aproveitar as informações e desenvolver um tratamento de forma mais rápida. Ele ainda ressalta que outros fármacos aprovados pelo mercado apresentaram afinidade com a pesquisa e poderão ser analisados, abrindo portas para outros alunos continuarem o trabalho. 
+“O anti-histamínico teve resultado promissor, pois encontramos compostos orgânicos que inibiram a multiplicação do vírus no organismo e podem reduzir as complicações decorrentes da infecção”, explicou Felipe Rocha. Ainda segundo o pesquisador, como todas as características do medicamento já estão bem descritas na literatura, é possível aproveitar as informações e desenvolver um tratamento de forma mais rápida. Ele ainda ressalta que outros fármacos aprovados pelo mercado apresentaram afinidade com a pesquisa e poderão ser analisados, abrindo portas para outros alunos continuarem o trabalho.
 
-Para Rocha, a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) foi importante para o desenvolvimento do trabalho. “O prêmio vai permitir dar continuidade ao projeto e espero em um futuro próximo ter esse fármaco no mercado para tratar o vírus zika. É uma pesquisa que vai ajudar o Brasil ”, acredita. 
+Para Rocha, a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) foi importante para o desenvolvimento do trabalho. “O prêmio vai permitir dar continuidade ao projeto e espero em um futuro próximo ter esse fármaco no mercado para tratar o vírus zika. É uma pesquisa que vai ajudar o Brasil ”, acredita.
 
 **Prêmio CAPES de Tese 2020**
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) divulgou no dia 1º de outubro o resultado do [Prêmio CAPES de Tese 2020](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1), oferecido às melhores teses de doutorado defendidas em 2019. No total, 49 trabalhos foram premiados e outros 94  receberam menções honrosas.
@@ -52,7 +51,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

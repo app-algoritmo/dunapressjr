@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa de valores sobe 1,23% e aproxima-se dos 113 mil pontos.
 
 Influenciado pelo mercado doméstico e internacional, o dólar teve a maior queda diária desde o fim de janeiro e voltou a fechar abaixo de R$ 5,70. A bolsa de valores teve um dia de recuperação e aproximou-se dos 113 mil pontos.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Norma estabelece metodologia para comprovar a capacidade dos prestadores executarem os serviços de abastecimento de água e esgotamento sanitário e vai resultar na melhoria da qualidade de vida das pessoas.
 
 Foi publicado no Diário Oficial da União desta segunda-feira (7/6) o [decreto de capacidade econômico-financeira](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/Decreto/D10710.htm), que visa avaliar cada prestador de serviço de abastecimento de água e esgotamento sanitário em relação à capacidade para cumprir e viabilizar a universalização dos serviços na área licitada ou de operação até 2033, nos termos do art. 11-B da 11.445/2007, seja por recursos próprios ou por contratação de dívida.
@@ -24,8 +23,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

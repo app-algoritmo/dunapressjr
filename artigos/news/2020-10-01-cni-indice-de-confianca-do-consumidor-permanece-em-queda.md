@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Indicador fica abaixo da média histórica em setembro.
 
 O consumidor brasileiro continua sem confiança, devido aos efeitos da pandemia de covid-19 na economia. O Índice Nacional de Expectativa do Consumidor (Inec) de setembro de 2020 ficou em 42,8 pontos, 3,3 pontos abaixo da média histórica (46,1 pontos) e 4,5 pontos abaixo do último resultado disponível, de dezembro de 2019. O indicador foi divulgado hoje (1º) pela Confederação Nacional da Indústria (CNI).
@@ -37,5 +36,3 @@ A pesquisa foi realizada pelo Ibope Inteligência, que ouviu 2 mil pessoas em 12
 Fonte: Agência Brasil – Imagem de destaque: Tomaz Silva/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

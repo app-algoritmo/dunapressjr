@@ -7,7 +7,6 @@ categories:
 - Opinion
 ---
 
-
 *A renda básica universal e a tecnologia - Os globalistas tentam de todas as formas dominar tudo e todos*.
 
 Empobreceram as pessoas nos últimos 100 anos pelo menos. Isto é para empurrar a todos para a renda mensal mínima mundial. Venderão isto como uma coisa boa e a “salvação”, porém não é por aí.
@@ -36,7 +35,7 @@ Quanto ao 5G há muito a descobrir e precisamos saber ao que estamos e seremos s
 
 Link de documentário sugerido – Clique [aqui](https://www.youtube.com/watch?).
 
-Fonte da imagem: [http://bootlead.blogspot.com/2007/07/o-povo-brasileiro-est-caminhando-para-o.html](http://bootlead.blogspot.com/2007/07/o-povo-brasileiro-est-caminhando-para-o.html) 
+Fonte da imagem: [http://bootlead.blogspot.com/2007/07/o-povo-brasileiro-est-caminhando-para-o.html](http://bootlead.blogspot.com/2007/07/o-povo-brasileiro-est-caminhando-para-o.html)
 
 Olá amigos. Ajude-nos a levar o jornalismo independente a todas as partes!
 
@@ -46,4 +45,4 @@ Em uma época em que notícias falsas e distorcidas estão em todas as partes, s
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com, com artigos, informações gerais e cursos que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-[https://dunapress.org/subscription-plan/?ref=Leonardo](https://dunapress.org/subscription-plan/?ref=Leonardo)
+[https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)

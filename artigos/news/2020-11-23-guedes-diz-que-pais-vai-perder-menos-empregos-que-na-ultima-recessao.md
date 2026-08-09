@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro estima perda de cerca de 300 mil vagas formais neste ano.
 
 O ministro da Economia, Paulo Guedes, disse hoje (23) que o país deve perder cerca de 300 mil vagas formais de trabalho neste ano. Apesar da retomada de criação de novos postos de trabalho nos últimos meses, o ministro prevê que haja uma desaceleração na geração de empregos até o fim de 2020.
@@ -25,5 +24,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

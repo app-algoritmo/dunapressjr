@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Crédito será realizado dia 30 e beneficiará 260 mil contribuintes.
 
 Já está disponível para consulta o lote residual de restituição do Imposto de Renda de Pessoa Física (IRPF) do mês de novembro de 2021. O lote inclui também restituições residuais de exercícios anteriores. Segundo a Receita, o crédito bancário para 260.412 contribuinte será realizado no dia 30 deste mês, no valor total de R$ 450 milhões.
@@ -24,14 +23,10 @@ A Receita disponibiliza, ainda, aplicativo para *tablets *e *smartphones* que po
 
 O pagamento da restituição é realizado diretamente na conta bancária informada na Declaração de Imposto de Renda. Se, por algum motivo, o crédito não for feito (por exemplo, a conta informada foi desativada), os valores ficarão disponíveis para resgate por até um ano no Banco do Brasil. Neste caso, o cidadão poderá reagendar o crédito dos valores de forma simples e rápida pelo [**Portal BB**](https://www.bb.com.br/irpf), ou ligando para a Central de Relacionamento BB por meio dos telefones 4004-0001 (capitais), 0800-729-0001 (demais localidades) e 0800-729-0088 (telefone especial exclusivo para deficientes auditivos).
 
-“Caso o contribuinte não resgate o valor de sua restituição no prazo de um ano, deverá requerê-lo pelo Portal e-CAC, disponível no *site* da Receita Federal, acessando o menu Declarações e Demonstrativos > Meu Imposto de Renda e clicando em "Solicitar restituição não resgatada na rede bancária”, esclareceu a Receita. 
+“Caso o contribuinte não resgate o valor de sua restituição no prazo de um ano, deverá requerê-lo pelo Portal e-CAC, disponível no *site* da Receita Federal, acessando o menu Declarações e Demonstrativos > Meu Imposto de Renda e clicando em "Solicitar restituição não resgatada na rede bancária”, esclareceu a Receita.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

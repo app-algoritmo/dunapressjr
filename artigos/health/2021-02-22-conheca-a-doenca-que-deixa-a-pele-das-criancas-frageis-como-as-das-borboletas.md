@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Feridas muito doloridas que podem ser comparadas com queimaduras de segundo grau, aparecimento de bolhas e descolamento da pele especialmente nas áreas de maior atrito. Estamos falando da doença rara Epidermólise Bolhosa, uma doença de pele, genética e hereditária, que tem mais de trinta tipos.
 
 As crianças com a doença são conhecidas como “Crianças Borboleta”, pois a pele fica tão frágil que se assemelha a das asas de uma borboleta.
@@ -48,7 +47,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

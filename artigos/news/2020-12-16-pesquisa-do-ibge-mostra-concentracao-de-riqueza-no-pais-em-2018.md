@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Os dados constam da pesquisa PIB dos Municípios.
 
 O Brasil ainda apresenta concentração de riqueza. Em 2018, os 25 municípios mais ricos do país detinham 36,3% do Produto Interno Bruto (PIB, soma dos bens e serviços produzidos no país). Em 2002, esse percentual era maior: 40,6%. Os dados constam da pesquisa PIB dos Municípios 2018, divulgada hoje (16) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -43,8 +42,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

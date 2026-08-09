@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Uma equipe do Centro Médico da Universidade Hadassah-Hebraica comparou a função do folículo ovariano em mulheres que foram vacinadas, que se recuperaram do vírus e mulheres que não o fizeram.
 
 A vacina contra o  coronavírus, assim como a própria doença, não altera a fertilidade feminina, mostrou um estudo recente realizado por uma equipe do Hadassah-University Medical Center.
@@ -43,5 +42,3 @@ Fonte: https://www.jpost.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O prazo para o envio da declaração será de 7 de março a 29 de abril.
 
 A Receita Federal anunciou nesta quinta-feira (24) algumas mudanças que poderão representar facilidades para a declaração do Imposto de Renda (IR) deste ano, que tem como base o ano de 2021. O período de entrega das declarações será entre 7 de março e 29 de abril, e os lotes de restituição terão início em 31 de maio, divididos em cinco grupos mensais até 30 de setembro. A expectativa da Receita é receber 34,1 milhões de documentos até o final do prazo.
@@ -52,8 +51,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

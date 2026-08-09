@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A premiação foi criada pelo Ministério da Infraestrutura como forma de estimular a excelência na administração dos portos públicos brasileiros.
 
 A Superintendência do Porto de Itajaí foi reconhecida em duas categorias da primeira edição do Prêmio Portos + Brasil. Entre os 32 portos brasileiros avaliados, a Autoridade Portuária de Itajaí ficou em segundo lugar nas categorias Crescimento da Movimentação e Execução Orçamentária de Investimento.
@@ -29,7 +28,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

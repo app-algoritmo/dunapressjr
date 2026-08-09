@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa caiu 6,74% no mês e está no menor nível desde novembro
 
 Em mais um dia de turbulência no mercado financeiro, o dólar aproximou-se de R$ 5,65 e encerrou outubro com alta de quase 4%. A bolsa de valores teve o segundo dia consecutivo de queda e continua no nível mais baixo desde novembro do ano passado.
@@ -28,10 +27,6 @@ Em relação ao mercado de câmbio, a alta do dólar não se deve apenas aos fat
 
 Fonte: Agência Brasil – Imagem: Reuters/Rick Wilking/Direitos Reservados
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Durante visita à cidade, Álvaro Antônio inaugurou a primeira etapa de revitalização do bodódromo.
 
 O ministro do Turismo, Marcelo Álvaro Antônio, assinou nesta quinta-feira (25.06), a liberação de mais de R$ 32 milhões para a revitalização e modernização do Centro de Convenções de Petrolina (PE). Com o recurso, será possível, entre outras benfeitorias, a transformação do auditório principal do local em um teatro municipal, sendo um dos principais lugares para a disseminação da cultura na cidade. Ainda na ocasião, o ministro inaugurou a primeira etapa da revitalização do bodódromo, complexo gastronômico a céu aberto com restaurantes, lanchonetes e bares.
@@ -22,7 +21,7 @@ Imagem: Roberto Castro
 
 Fonte: Turismo Gov Br
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Altamira/PA - A Policia Federal deflagrou nesta terça feira (26/5) a Operação Plata o Plomo, no município de Altamira/PA, com o objetivo de combater atividade criminosa de empréstimo a juros, realizada por pessoas não autorizadas para, principalmente, pequenos empreendedores da cidade.
 
 Cerca de 13 policiais federais foram nobilizados para o cumprimento de quatro mandados de busca e apreensão em desfavor de parte dos investigados, todos da nacionalidade colombiana.
@@ -19,5 +18,3 @@ Inicialmente, os alvos responderão por operar instituição financeira sem auto
 O nome da operação faz referência a uma expressão que ficou conhecida por ser utilizada pelo narcotraficante colombiano Pablo Escobar, que significa que a pessoa deveria se submeter a sua conduta criminosa ou seria assassinada.
 
 Comunicação Social da Polícia Federal no Pará
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

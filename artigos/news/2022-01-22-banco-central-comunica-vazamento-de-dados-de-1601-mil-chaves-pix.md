@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Foram vazados dados cadastrais da Acesso Pagamentos.
 
 Cerca de 160,1 mil clientes da Acesso Soluções de Pagamento tiveram dados das chaves Pix vazadas, informou nesta sexta-feira (21) o Banco Central (BC). Esse foi o segundo vazamento de dados desde o lançamento do sistema instantâneo de pagamentos, em novembro de 2020.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

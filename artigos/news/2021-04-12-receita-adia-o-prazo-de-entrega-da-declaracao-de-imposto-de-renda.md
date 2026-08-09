@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Novo prazo se encerrará no dia 31 de maio.
 
 A Receita Federal adiou, para 31 de maio, o prazo para entrega da declaração de Imposto de Renda da Pessoa Física, ano-base 2020. O período de ajuste anual, que começou em 1º de março, terminaria no dia 30 de abril, mas foi prorrogado pela Instrução Normativa nº 2.020/2021, publicada hoje (12) no *[**Diário Oficial da União**](https://www.in.gov.br/en/web/dou/-/instrucao-normativa-rfb-n-2.020-de-9-de-abril-de-2021-313193696).*
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

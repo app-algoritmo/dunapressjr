@@ -7,10 +7,9 @@ categories:
 - Food
 ---
 
-
 Pesquisa da Associação Brasileira da Indústria de Chocolates, Amendoim e Balas (Abicab), realizada em parceria com o Instituto Kantar, revela que houve um aumento considerável na compra e consumo de chocolates, com crescimento de 1,5% nos últimos anos. Hoje, o chocolate já atinge 82,6% das casas brasileiras.
 
-O ingrediente apresenta inúmeros benefícios nutritivos, gastronômicos e até mesmo emocionais.  Além de ser saboroso, também é versátil e está presente em inúmeras receitas. Para comemorar o Dia do Chocolate, celebrado em 7 de julho, o NH Curitiba The Five disponibilizou a receita de uma das sobremesas carro-chefe do Grão Coffee Bar e Five Lounge. E, claro, com muito chocolate e sabor para inovar o cardápio e celebrar a data em grande estilo. 
+O ingrediente apresenta inúmeros benefícios nutritivos, gastronômicos e até mesmo emocionais.  Além de ser saboroso, também é versátil e está presente em inúmeras receitas. Para comemorar o Dia do Chocolate, celebrado em 7 de julho, o NH Curitiba The Five disponibilizou a receita de uma das sobremesas carro-chefe do Grão Coffee Bar e Five Lounge. E, claro, com muito chocolate e sabor para inovar o cardápio e celebrar a data em grande estilo.
 
 **Chocolate três texturas**
 
@@ -55,14 +54,14 @@ Ingredientes:
 
 - Faça um creme inglês misturando a gema de ovo com o açúcar e o leite.
 - Cozinhe até alcançar 80ºC de temperatura.
-- Em seguida, derreta o chocolate e misture a crema inglesa. 
+- Em seguida, derreta o chocolate e misture a crema inglesa.
 - Deixe esfriar e misture com a nata.
 
 **Para o Brownie**
 
 - Coloque a manteiga em uma batedeira e mexa por seis minutos. Retire e misture o chocolate derretido.
 - Bata as gemas de ovo com o açúcar, e depois, as claras de ovos.
-- Misture a manteiga com o chocolate, as claras de ovos e as gemas, e acrescente aos poucos a farinha e as nozes. 
+- Misture a manteiga com o chocolate, as claras de ovos e as gemas, e acrescente aos poucos a farinha e as nozes.
 - Cozinhe em um molde de 2 cm de massa a 180ºC, durante 20 minutos.
 
 ***Sugestão de apresentação: ***
@@ -80,7 +79,3 @@ Fonte:  Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

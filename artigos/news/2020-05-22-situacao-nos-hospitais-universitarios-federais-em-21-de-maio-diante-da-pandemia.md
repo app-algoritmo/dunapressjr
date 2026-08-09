@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Informativo diário é divulgado no portal e nas redes sociais do Ministério da Educação**
 
 Os 40 hospitais universitários federais administrados pela Empresa Brasileira de Serviços Hospitalares (Ebserh) possuem 1.737 leitos para o atendimento e apoio a pacientes com Covid-19. Os dados são do boletim sobre as unidades desta quinta-feira, 21 de maio.
@@ -19,8 +18,6 @@ Além dos esforços com compra de equipamento e infraestrutura para receber os p
 **Atuação da Rede Ebserh –** Desde os primeiros anúncios sobre a Covid-19, a Rede Ebserh tem trabalhado em parceria direta com os ministérios da Educação e da Saúde, tendo como diretrizes o monitoramento da situação no país e em suas 40 unidades hospitalares.Em algumas regiões, as unidades da Ebserh têm atuado como hospitais de referência no enfrentamento à Covid-19, enquanto que em outras, atuam como retaguarda em atendimentos assistenciais para a população, por meio do Sistema Único de Saúde (SUS).
 
 Fonte: portal.mec.gov.br / Imagem em destaque: Ebserh
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

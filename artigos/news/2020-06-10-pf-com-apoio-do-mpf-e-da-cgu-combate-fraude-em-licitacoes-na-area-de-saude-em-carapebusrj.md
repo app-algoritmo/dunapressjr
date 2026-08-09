@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Macaé/RJ - A Polícia Federal, em ação conjunta com o MPF e CGU, deflagrou nesta terça-feira (9/6) a operação SCEPTICUS, com o objetivo de apurar fraudes em licitações no Fundo Municipal de Saúde do Município de Carapebus/RJ.
 
 A ação de hoje mobilizou 80 policiais federais, além de servidores do MPF e CGU e visa cumprir 25 mandados de busca e apreensão na Prefeitura Municipal de Carapebus, na Secretaria Municipal de Saúde e Fundo Municipal de Saúde, além de endereços de empresas e pessoas físicas situados nas cidades de Carapebus, Duas Barras, Campos dos Goytacazes, São João da Barra, Itaperuna, Macaé, Armação de Búzios e Vitória/ES, todos expedidos pela Vara Federal da Subseção Judiciária de Macaé.
@@ -20,8 +19,5 @@ Dentre os indícios de fraudes verificados estão: a escolha de empresas antes m
 A soma de recursos públicos envolvidos nas dispensas de licitação investigadas alcança a cifra de aproximadamente R$ 4,7 milhões.
 
 A palavra de origem latina scepticus significa ceticismo, que traduz a falta de crença nas ações empreendidas pelos agentes públicos e empresários investigados no combate ao COVID-19.
- 
 
 Comunicação Social da Polícia Federal no Rio de Janeiro
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

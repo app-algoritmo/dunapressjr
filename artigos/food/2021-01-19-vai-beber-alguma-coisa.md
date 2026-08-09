@@ -7,10 +7,9 @@ categories:
 - Food
 ---
 
-
 É tão comum que já ficou até automático. O garçom chega na mesa e logo oferece o cardápio de bebidas. Com os pedidos dos pratos feitos, a pergunta que sempre encerra é: “E para beber, o que você vai querer?”. Em muitos lugares, os combos já são montados sempre incluindo alguma bebida para acompanhar.
 
-E não é só fora de casa que isso acontece. O hábito de ingerir líquidos durante as refeições também é muito comum em casa, seja no almoço, jantar ou lanche. Os eleitos para fazer esse acompanhamento geralmente são sucos e refrigerantes, mas em alguns casos entram aí as bebidas alcoólicas, como vinhos e cervejas. 
+E não é só fora de casa que isso acontece. O hábito de ingerir líquidos durante as refeições também é muito comum em casa, seja no almoço, jantar ou lanche. Os eleitos para fazer esse acompanhamento geralmente são sucos e refrigerantes, mas em alguns casos entram aí as bebidas alcoólicas, como vinhos e cervejas.
 
 Apesar de parecer harmonizar muito bem com esse momento, a ingestão de líquidos durante as refeições principais (almoço e jantar) não é recomendada, pois conforme ensina o livro [Desmistificando dúvidas sobre Alimentação e Nutrição](http://bvsms.saude.gov.br/bvs/publicacoes/desmistificando_duvidas_sobre_alimenta%C3%A7%C3%A3o_nutricao.pdf) a prática pode resultar em distensão no estômago, dificultando a digestão.
 
@@ -42,7 +41,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

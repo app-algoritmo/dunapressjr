@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Esses recursos se somam aos R$ 500 milhões liberados em abril para ajudar os agricultores familiares no enfrentamento dos efeitos causados pela Covid-19.
 
 O dinheiro é utilizado pela União para comprar parte da produção agrícola desses produtores que estão com estoques acumulados por causa do distanciamento social. Em muitos municípios, com o fechamento das feiras, das escolas e das entregas porta a porta, agricultores familiares encontram dificuldades de comercializarem sua produção. Com a medida, é possível beneficiar mais de 11 mil agricultores rurais.
@@ -26,7 +25,7 @@ Já o Amazonas, vai receber quase R$ 5 milhões dos R$ 72,9 milhões anunciados,
 
 ### PAA
 
-O Programa de Aquisição de Alimentos tem como principais objetivos promover o acesso à alimentação e incentivar a agricultura familiar. A execução do programa pode ser feita por meio de seis modalidades: Compra com Doação Simultânea, Compra Direta, Apoio à Formação de Estoques, Incentivo à Produção e ao Consumo de Leite, Compra Institucional e Aquisição de Sementes. 
+O Programa de Aquisição de Alimentos tem como principais objetivos promover o acesso à alimentação e incentivar a agricultura familiar. A execução do programa pode ser feita por meio de seis modalidades: Compra com Doação Simultânea, Compra Direta, Apoio à Formação de Estoques, Incentivo à Produção e ao Consumo de Leite, Compra Institucional e Aquisição de Sementes.
 
 O programa vem sendo executado por estados e municípios em parceria com o Ministério da Cidadania e a Companhia Nacional de Abastecimento (Conab). É uma das ações do Governo Federal para a inclusão produtiva rural das famílias mais pobres.
 
@@ -40,5 +39,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

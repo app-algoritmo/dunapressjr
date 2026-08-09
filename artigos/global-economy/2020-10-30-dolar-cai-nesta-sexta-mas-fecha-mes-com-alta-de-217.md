@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa caiu e teve pior semana desde março.
 
 Graças a uma intervenção do Banco Central (BC), o dólar encerrou a sexta-feira (30) em queda, mas acumulou, em outubro, alta pelo terceiro mês seguido. A bolsa de valores caiu pela quarta vez na semana e encerrou o mês com o pior desempenho semanal desde o início da pandemia do novo coronavírus, em março.
@@ -29,5 +28,3 @@ O mercado também está sendo influenciado pelas tensões com a proximidade das 
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Mohamed Abd El Ghany/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

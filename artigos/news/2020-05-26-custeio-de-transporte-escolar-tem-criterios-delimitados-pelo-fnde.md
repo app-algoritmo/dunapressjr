@@ -7,13 +7,12 @@ categories:
 - News
 ---
 
-
 ## **Estados, municípios e o Distrito Federal poderão utilizar os valores na aquisição de combustível, na contratação de serviço terceirizado ou na manutenção de veículos do programa Caminho da Escola**
 
-                     
+
 O Fundo Nacional de Desenvolvimento da Educação (FNDE) estabeleceu os critérios para assistência financeira direcionada a estados, municípios e ao Distrito Federal, por meio de emendas parlamentares individuais e de bancadas impositivas, para o custeio do transporte escolar.
 
-As regras detalhadas estão dispostas em [resolução](http://www.in.gov.br/web/dou/-/resolucao-n-8-de-20-de-maio-de-2020-257818520) publicada na edição desta quinta-feira, 21 de maio, do *Diário Oficial da União* (DOU). 
+As regras detalhadas estão dispostas em [resolução](http://www.in.gov.br/web/dou/-/resolucao-n-8-de-20-de-maio-de-2020-257818520) publicada na edição desta quinta-feira, 21 de maio, do *Diário Oficial da União* (DOU).
 
 Com o texto, o FNDE abre a possibilidade para que parlamentares invistam recursos em emendas de custeio para manutenção do transporte. Não há recursos adicionais ao programa.
 
@@ -26,8 +25,6 @@ O cálculo do montante que cada ente federativo pode receber terá como base o m
 As transferências financeiras serão realizadas após apresentação de documentos de comprovação das despesas no Simec, como contratos, notas fiscais ou similares. As prestações de contas dos recursos recebidos por meio das emendas para custeio do transporte escolar seguem as regras definidas na legislação do Plano de Ações Articuladas (PAR).
 
 Fonte: portal.mec.gov.br / Imagem em destaque: Infonet
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

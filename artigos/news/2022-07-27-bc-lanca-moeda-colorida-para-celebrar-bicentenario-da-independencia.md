@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Destinadas a colecionadores, peças serão vendidas por R$ 34 e R$ 420.
 
 Os colecionadores podem, a partir desta terça-feira (26), comprar duas moedas comemorativas do bicentenário da Independência do Brasil. O Banco Central (BC) lançou nesta terça-feira uma moeda de prata e outra de cuproníquel (liga de cobre e de níquel) alusivas à data.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

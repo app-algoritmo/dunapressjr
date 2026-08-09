@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A garantia da liberdade religiosa aos cidadãos durante a pandemia do novo coronavírus (Covid-19) foi o tema da reunião da Aliança Internacional pela Liberdade Religiosa. A aliança que conta com a participação de 27 países, incluindo o Brasil, trabalha para a redução da perseguição religiosa em todo o mundo.
 
 A secretária ajunta nacional de proteção global, Maíra Miranda, participou da discussão como representante do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH). Para ela, a troca de experiências com outros países é essencial na tomada de decisões para garantir direitos fundamentais dos cidadãos.
@@ -35,6 +34,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

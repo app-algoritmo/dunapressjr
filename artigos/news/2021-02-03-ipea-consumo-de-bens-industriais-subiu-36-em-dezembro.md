@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice representa a oitava variação positiva seguida.
 
 O Indicador Ipea de Consumo Aparente de Bens Industriais, que é a parcela da produção industrial doméstica para o mercado interno acrescida das importações, teve alta de 3,6% em dezembro, na comparação com o mês anterior.
@@ -38,8 +37,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

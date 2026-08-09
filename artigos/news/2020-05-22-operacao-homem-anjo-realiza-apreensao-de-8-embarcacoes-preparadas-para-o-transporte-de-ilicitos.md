@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Guaíra/PR – A Polícia Federal em Guaíra deflagrou, em Guaíra/PR, hoje (20/5), a Operação Homem Anjo, buscando responsabilizar os envolvidos no atentado contra o militar do Exército Brasileiro, no último dia 10.
 
 A atuação contou com o apoio de diversos grupos especiais de várias forças de segurança, dentre eles o CAOP, NEPOM, GEPOM, GPI e GISE da PF, TIGRE e GOA da PCPR, COBRA/BPFRON da PMPR, em sua maioria envolvidos nos trabalhos de buscas realizadas ao longo do Rio Paraná.
@@ -22,5 +21,3 @@ A atuação contou com o apoio de diversos grupos especiais de várias forças d
 Os materiais apreendidos foram encaminhados para a Delegacia de Polícia Federal em Guaíra, para continuidade dos trabalhos e demais diligências de praxe.
 
 Comunicação Social da Polícia Federal em Guaíra/PR
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

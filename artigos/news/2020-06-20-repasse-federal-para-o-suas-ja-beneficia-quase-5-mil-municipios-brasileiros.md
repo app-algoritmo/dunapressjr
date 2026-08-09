@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Recursos foram aceitos por 89% dos entes elegíveis, totalizando um repasse de R$ 818 milhões para estruturar a rede assistencial no combate ao Covid-19.
 
 O recurso emergencial oferecido pelo Governo Federal para que estados e municípios fortaleçam a rede socioassistencial durante o combate à pandemia de Covid-19 já foi aceito por 4.971 entes da federação. Isso significa que 89,3% de todos os 5.564 elegíveis preencheram, até as 10h desta sexta-feira (19.06), o Termo de Aceite do Ministério da Cidadania. Isso totaliza um repasse de mais de R$ 818,7 milhões. As informações são do monitoramento diário realizado pela Secretaria Nacional de Assistência Social (SNAS).
@@ -40,7 +39,7 @@ Já em números absolutos, Minas Gerais  é o estado com o maior número de muni
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ananda Antonio, Larissa Wiedemann e Valdir Florêncio da Veiga Jr, membros do Programa de Pós-graduação em Química, assinam o artigo publicado pela revista Royal Society of Chemistry Advances (RSC Advances) sobre a atuação de produtos naturais contra a covid-19. De acordo com o documento, foi possível observar que compostos naturais sugeridos por modelagem computacional são capazes de inibir o contágio e a replicação do coronavírus SARS-CoV-2, que causa a covid-19.
 
 Publicado na edição de junho do periódico, o artigo “*Natural Products role against covid-19*” apresenta o trabalho de ampla revisão bibliográfica em várias bases de dados para avaliar a possibilidade de empregar produtos naturais no desenvolvimento de tratamentos contra a covid-19. “Foi possível observar que compostos naturais sugeridos por modelagem computacional são capazes de inibir a inoculação [transmissão] e replicação do SARS-CoV-2. Eles pertencem às classes de substâncias que incluem flavanonas, flavonois, alcaloides, ácidos graxos, terpenoides e esteroides. Entre estes, os flavonoides apresentaram os resultados mais promissores para os estudos *in vitro* e *in vivo* contra a covid-19. Até o momento, um estudo foi realizado *in vitro *com flavonoides, sugeridos pelas análises *in silico*. Substâncias dessa classe química estão presentes na flora Amazônica, que pode servir de fonte para o desenvolvimento de tratamentos ou medicamentos preventivos”, informa Larissa Wiedemann, professora do Departamento de Química da Ufam, uma das autoras da publicação.
@@ -24,7 +23,7 @@ Fonte: gov.br / Imagem em destaque: diaonline
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

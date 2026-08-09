@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Ativos virtuais a partir de R$ 5 mil precisam ser informados.
 
 Bitcoin, ether, NFT. Nos últimos anos, essas palavras passaram a fazer parte do cotidiano de investidores em todo o mundo. Ativos virtuais que acumulam rendimentos, os criptoativos têm passado a representar fonte de patrimônio que entrou no radar do Fisco e precisam ser declarados no Imposto de Renda (IR), dependendo do valor acumulado e dos ganhos do investidor.
@@ -72,8 +71,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

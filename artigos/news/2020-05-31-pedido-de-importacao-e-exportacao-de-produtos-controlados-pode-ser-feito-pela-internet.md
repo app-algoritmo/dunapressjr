@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A digitalização de nove serviços relacionados a produtos controlados integra o Plano Digital da Agência Nacional de Vigilância Sanitária.
 
 Os pedidos de autorização para importar ou exportar produtos controlados - considerados prioritários no enfrentamento à pandemia do novo coronavírus – podem ser feitos online. A partir de agora, demandas como solicitar, alterar ou cancelar autorização para as  importações e exportações desses produtos podem ser realizados no Portal [Gov.br](http://www.gov.br/). 
@@ -27,25 +26,25 @@ A Estratégia de Governo Digital recém publicada estabelece a meta de 100% de d
 
 **Os nove procedimentos relacionados a produtos controlados agora disponíveis no Gov.br são: **
 
-> Autorização de Importação de substância, planta ou medicamento controlado; 
+> Autorização de Importação de substância, planta ou medicamento controlado;
 
->  Autorização de Exportação de substância, planta ou medicamento controlado; 
+>  Autorização de Exportação de substância, planta ou medicamento controlado;
 
->  Autorização de Fabricação para Fim Exclusivo de Exportação; 
+>  Autorização de Fabricação para Fim Exclusivo de Exportação;
 
-> Autorização para Fim de Desembaraço Aduaneiro; 
+> Autorização para Fim de Desembaraço Aduaneiro;
 
-> Autorização Especial Simplificada para Estabelecimento de Ensino e Pesquisa; 
+> Autorização Especial Simplificada para Estabelecimento de Ensino e Pesquisa;
 
-> Certificado de Não Objeção para Importação; 
+> Certificado de Não Objeção para Importação;
 
-> Certificado de Não Objeção para Exportação; 
+> Certificado de Não Objeção para Exportação;
 
-> Cota de Importação Inicial; 
+> Cota de Importação Inicial;
 
 > Renovação de cota de importação.
 
-Os novos sete serviços digitais relacionados a saneantes e um a agrotóxicos: 
+Os novos sete serviços digitais relacionados a saneantes e um a agrotóxicos:
 
 > Alteração de registro de saneantes;
 
@@ -72,5 +71,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

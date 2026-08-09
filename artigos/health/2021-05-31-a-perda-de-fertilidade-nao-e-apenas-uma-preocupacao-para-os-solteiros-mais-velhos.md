@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 ## Não apenas solteiros mais velhos: o instituto de preservação da fertilidade diz que a perda de fertilidade não é uma preocupação apenas para mulheres solteiras.
 
 A comunidade religiosa dá grande ênfase aos solteiros mais velhos e está tentando encontrar soluções para ajudar nesta questão complicada.
@@ -38,7 +37,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

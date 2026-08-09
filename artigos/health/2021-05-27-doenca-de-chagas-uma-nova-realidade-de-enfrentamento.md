@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Por muito tempo, a possibilidade de receber uma picada do inseto conhecido como barbeiro e adquirir a Doença de Chagas preocupava a população brasileira. Durante as aulas de ciências, aprendíamos todo o ciclo da doença: o inseto barbeiro infectado picava a pele de uma pessoa e depositava suas fezes na região; ao coçar o local, as fezes contaminadas caiam na corrente sanguínea; e, assim, era transmitida a doença de chagas.
 
 Mas essa realidade mudou. Ações realizadas no controle de vetores ajudaram o Brasil a receber, em 2006, a certificação internacional da interrupção da transmissão vetorial da doença pela principal espécie do inseto, o Triatoma infestans.
@@ -75,7 +74,3 @@ Fonte: http://www.blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

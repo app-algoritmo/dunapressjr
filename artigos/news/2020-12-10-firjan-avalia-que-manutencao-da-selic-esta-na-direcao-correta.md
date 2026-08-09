@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Copom manteve a taxa Selic em 2%.
 
 O Comitê de Política Monetária do Banco Central (Copom) decidiu manter a taxa básica de juros da economia (Selic) em 2%. A Federação das Indústrias do Rio de Janeiro avaliou, em nota, que a manutenção da taxa básica de juros em 2% está na direção correta.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

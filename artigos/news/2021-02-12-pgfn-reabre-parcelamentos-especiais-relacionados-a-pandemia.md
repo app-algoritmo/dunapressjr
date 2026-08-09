@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Negociação abrange tributos vencidos entre março e dezembro de 2020.
 
 Pessoas físicas e empresas que deixaram de pagar tributos federais por causa da pandemia de covid-19 poderão parcelar a dívida, a partir de 1º de março, com desconto na multa e nos juros. A Procuradoria-Geral da Fazenda Nacional (PGFN) publicou [**portaria**](https://www.in.gov.br/en/web/dou/-/portaria-n-1.696-de-10-de-fevereiro-de-2021-303444111) no *Diário Oficial da União* que recria as transações excepcionais.
@@ -46,8 +45,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

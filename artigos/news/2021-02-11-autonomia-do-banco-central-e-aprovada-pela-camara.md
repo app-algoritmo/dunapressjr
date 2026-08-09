@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Matéria segue para sanção presidencial.
 
-A Câmara dos Deputados aprovou nesta quarta-feira (10) o projeto que prevê autonomia para o Banco Central. A matéria segue para sanção presidencial. 
+A Câmara dos Deputados aprovou nesta quarta-feira (10) o projeto que prevê autonomia para o Banco Central. A matéria segue para sanção presidencial.
 
 O PLP 19/19[** foi aprovado pelo Senado**](https://agenciabrasil.ebc.com.br/politica/noticia/2020-11/senado-aprova-projeto-de-autonomia-do-banco-central) em novembro de 2020 e confere mandato de quatro anos para o presidente e diretores da autarquia federal. O texto estabelece que o Banco Central passa a se classificar como autarquia de natureza especial caracterizada pela "ausência de vinculação a ministério, de tutela ou de subordinação hierárquica".
 
@@ -40,8 +39,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Bolsa de valores sobe 2,04% com expectativa de fim de altas nos juros.
 
 As expectativas de desaceleração na economia dos Estados Unidos e as indicações de que o Banco Central (BC) brasileiro está perto de encerrar o ciclo de alta nos juros fizeram o mercado financeiro ter um dia de tranquilidade. O dólar caiu e voltou a aproximar-se de R$ 5,2. A bolsa de valores subiu mais de 2% e atingiu o nível mais alto em quase dois meses.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

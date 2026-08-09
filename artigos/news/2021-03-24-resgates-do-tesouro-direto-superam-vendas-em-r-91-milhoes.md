@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Títulos mais procurados foram os vinculados à inflação.
 
 Os resgates do Tesouro Direto superaram as vendas em R$ 9,1 milhões em fevereiro. De acordo com os dados do Tesouro Nacional, divulgados nesta terça-feira (23), as vendas do programa atingiram R$ 1,814 bilhão no mês passado. Já os resgates totalizaram R$ 1,823 bilhão, sendo R$ 1,699 bilhão relativo a recompras de títulos públicos e R$ 123,4 milhões a vencimentos, quando o prazo do título acaba, e o governo precisa reembolsar o investidor com juros.
@@ -36,10 +35,6 @@ A venda de títulos é uma das formas que o governo tem de captar recursos para 
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.   
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

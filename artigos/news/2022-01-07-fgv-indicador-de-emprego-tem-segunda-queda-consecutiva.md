@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É o menor patamar desde abril do ano passado.
 
 O Indicador Antecedente de Emprego (Iaemp), medido pela Fundação Getulio Vargas (FGV), teve queda de 1,2 ponto em dezembro, encerrando 2021 com 81,8 pontos. É a segunda queda consecutiva do indicador, que chegou ao menor patamar desde abril do ano passado.
@@ -20,10 +19,6 @@ Cinco dos sete componentes do indicador tiveram queda, com destaque para a situa
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

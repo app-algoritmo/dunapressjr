@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Prazo atual é 31 de maio. Texto segue para sanção.
 
 A Câmara dos Deputados aprovou a prorrogação, até 31 de julho de 2021, do prazo de entrega da declaração do Imposto de Renda Pessoa Física referente aos rendimentos de 2020. A proposta será enviada à sanção presidencial.
@@ -33,8 +32,4 @@ Fonte: Agência Câmara de Notícias
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Em um mês, reservas internacionais caem US$ 658 milhões.
 
 As contas externas registraram saldo negativo de US$ 2,4 bilhões em fevereiro deste ano. No mesmo mês de 2021, o déficit foi de US$ 4 bilhões nas transações correntes, que são as compras e vendas de mercadorias, serviços e transferência de renda com outros países.
@@ -50,8 +49,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa subiu pouco e manteve-se acima dos 110 mil pontos.
 
 Em um dia de poucos negócios por causa do feriado de Ação de Graças nos Estados Unidos, o dólar fechou em leve alta. A bolsa de valores operou em queda, mas fechou com pequeno ganho, mantendo-se acima dos 110 mil pontos.
@@ -27,5 +26,3 @@ Fonte: Agência Brasil – Imagem de destaque: Reuters/Marcos Brindicci/Direitos
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

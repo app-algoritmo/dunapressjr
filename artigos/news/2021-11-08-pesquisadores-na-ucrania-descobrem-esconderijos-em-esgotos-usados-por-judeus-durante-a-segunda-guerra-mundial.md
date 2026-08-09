@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Sob as ruas de paralelepípedos de Lviv, pesquisadores ucranianos descobriram novos esconderijos no sistema de esgoto subterrâneo da cidade que abrigava judeus que fugiam dos nazistas durante o Holocausto, de acordo com um relatório da terça-feira.
 
 Os pesquisadores encontraram uma pequena caverna que eles acreditavam ter sido usada pelos judeus em fuga em 1943 em sua primeira noite antes de se mudarem para uma área de abrigo maior, informou a [Reuters](https://www.reuters.com/world/europe/ukrainians-unearth-hiding-places-jews-city-sewers-during-nazi-holocaust-2021-10-05/) .
@@ -40,7 +39,3 @@ Fonte: https://www.timesofisrael.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

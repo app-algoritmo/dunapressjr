@@ -7,7 +7,6 @@ categories:
 - Features
 ---
 
-
 Yael Shelbia, 19, está no topo da lista das '100 Faces Mais Bonitas' de TC Candler; atualmente servindo na IAF, ela representou a linha de maquiagem KKW Beauty de Kim Kardashian; Gal Gadot ocupa a 21ª posição.
 
 A modelo israelense de dezenove anos Yael Shelbia foi premiada com o primeiro lugar na lista anual [TC Candler](https://independentcritics.com/about-us/) “100 As Rostos Mais Bonitas do Ano”.
@@ -34,7 +33,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

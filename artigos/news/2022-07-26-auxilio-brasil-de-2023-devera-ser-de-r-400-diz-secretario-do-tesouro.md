@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Adicional de R$ 200 só deverá ser pago até fim deste ano.
 
 O secretário Especial do Tesouro e do Orçamento do Ministério da Economia, Esteves Colnago, disse nesta segunda-feira (25) que o governo deve definir em R$ 400 o valor do Auxílio Brasil no Orçamento de 2023. De acordo com o secretário, o entendimento da equipe econômica é que a legislação não obriga o pagamento do adicional de R$ 200. O valor adicional foi definido na Proposta de Emenda à Constituição (PEC) dos Benefícios Sociais e será pago até dezembro de 2022.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

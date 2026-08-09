@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O evento será transmitido ao vivo pelos canais de YouTube tanto do Mapa quanto do MJSP.
 
 O Ministério da Agricultura, Pecuária e Abastecimento (Mapa), em parceria com Ministério da Justiça e Segurança Pública (MJSP), Confederação da Agricultura e Pecuária do Brasil (CNA) e Confederação Nacional dos Trabalhadores na Agricultura (Contag) promove na próxima segunda-feira (20), às 10h, o *webinar* "O produtor rural e o combate à venda casada".
@@ -29,13 +28,13 @@ Data: 20 de julho
 
 Hora: 10h (horário de Brasília)
 
-Acessos: [bit.ly/vendacasada-mapa](https://%20bit.ly/vendacasada-mapa) ou [bit.ly/vendacasada-mjsp](http://bit.ly/vendacasada-mjsp)
+Acessos: bit.ly/vendacasada-mapa ou bit.ly/vendacasada-mjsp
 
 Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

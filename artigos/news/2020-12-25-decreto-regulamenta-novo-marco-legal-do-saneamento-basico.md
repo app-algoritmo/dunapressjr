@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Texto define repasses a governos locais para apoiar licitações.
 
 Cinco meses após a sanção do novo [**Marco Legal do Saneamento Básico**](https://agenciabrasil.ebc.com.br/politica/noticia/2020-07/governo-sanciona-novo-marco-legal-do-saneamento), o presidente Jair Bolsonaro editou nesta quinta-feira (24) decreto para regulamentar os repasses a governos locais para apoiar licitações.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

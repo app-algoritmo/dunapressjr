@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 As informações são repassadas pelas Secretarias Estaduais de Saúde e consolidadas pelo Ministério da Saúde. Ministério da Saúde checa os dados e consolida todas as informações, que são publicadas nos sistemas oficiais e plataformas.
 
 O Brasil registrou, na terça-feira (9), o total de 311.064 casos de pessoas curadas do novo coronavírus (Covid-19). As informações foram atualizadas às 18h45, e repassadas pelas Secretarias Estaduais de Saúde de todo o País. O Ministério da Saúde checou e consolidou todos os dados, que já estão publicados nos sistemas oficiais e plataformas da pasta.
@@ -27,5 +26,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

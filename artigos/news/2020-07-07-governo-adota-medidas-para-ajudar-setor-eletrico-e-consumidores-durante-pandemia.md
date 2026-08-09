@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em entrevista, o secretário de energia elétrica também destacou iniciativas para incentivar a energia limpa.
 
 A pandemia do novo coronavírus provocou redução no consumo de energia elétrica no país por grandes setores como a indústria e o comércio e também o aumento da inadimplência.
@@ -54,6 +53,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

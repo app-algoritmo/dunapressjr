@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Nota Informativa esclarece pontos referentes à regularidade de contratos e deveres das prefeituras.
 
 O Novo Marco Legal do Saneamento Básico acaba de completar dois anos, aprimorando o ambiente regulatório, com segurança jurídica para a realização de investimentos privados no setor. Aprovada pelo Congresso Nacional e sancionada pela Presidência da República em 15 de julho de 2020, a Lei nº 14.026/2020 estabeleceu condições para cumprir a meta de universalizar os serviços de saneamento básico no país até 2033: 99% da população com acesso a abastecimento de água e 90% à coleta e tratamento de esgoto.
@@ -21,15 +20,15 @@ O conteúdo foi preparado a partir de diálogo da União com o Instituto Trata B
 
 A Nota Informativa explica os motivos que exigem o término dos contratos irregulares. Os principais argumentos são a necessidade de adequação das metas de universalização do acesso aos serviços públicos de saneamento básico, e a condição para acesso aos recursos públicos federais e aos financiamentos com recursos da União ou geridos ou operados por órgãos ou entidades. Para que se atinja o objetivo, previsto em lei, deve-se encerrar os contratos irregulares e buscar uma forma regular de prestação, seja via prestação direta ou por meio de concessão precedida de licitação. A responsabilidade pela extinção dos contratos irregulares é do Poder Executivo municipal, em conjunto com as agências reguladoras subnacionais.
 
-Um dos pilares do novo marco regulatório refere-se ao incentivo para que os municípios efetuem a adesão ao modelo de regionalização da prestação dos serviços de saneamento básico, com a cobrança por essas atividades. Isso favorece ganhos de escala para a modelagem econômico-financeira a partir de arranjos sustentáveis de municípios. 
+Um dos pilares do novo marco regulatório refere-se ao incentivo para que os municípios efetuem a adesão ao modelo de regionalização da prestação dos serviços de saneamento básico, com a cobrança por essas atividades. Isso favorece ganhos de escala para a modelagem econômico-financeira a partir de arranjos sustentáveis de municípios.
 
-A agenda tem relevância para o Ministério da Economia, especialmente tendo em vista os impactos econômico-sociais dos investimentos em saneamento e a necessidade de cumprimento do novo marco como condição para alocação de recursos públicos federais. 
+A agenda tem relevância para o Ministério da Economia, especialmente tendo em vista os impactos econômico-sociais dos investimentos em saneamento e a necessidade de cumprimento do novo marco como condição para alocação de recursos públicos federais.
 
 ### Resultados 
 
-A nova legislação possibilitou a definição das metas para universalização dos serviços; o aumento da concorrência pelo mercado, com a realização de processos licitatórios para a prestação do serviço mediante concessão; maior segurança jurídica para a alienação do controle acionário das empresas estaduais; a prestação regionalizada com os ganhos de escala e de eficiência; e a definição do papel da Agência Nacional de Águas e Saneamento Básico (ANA) para a determinação de normas de referência sobre a regulação dos serviços públicos de saneamento. 
+A nova legislação possibilitou a definição das metas para universalização dos serviços; o aumento da concorrência pelo mercado, com a realização de processos licitatórios para a prestação do serviço mediante concessão; maior segurança jurídica para a alienação do controle acionário das empresas estaduais; a prestação regionalizada com os ganhos de escala e de eficiência; e a definição do papel da Agência Nacional de Águas e Saneamento Básico (ANA) para a determinação de normas de referência sobre a regulação dos serviços públicos de saneamento.
 
-A respeito da participação da iniciativa privada, houve a realização de leilões de concessão de serviços públicos de saneamento, incluindo abastecimento de água, esgotamento sanitário e manejo de resíduos sólidos urbanos. Desde a entrada em vigor da lei, vários certames já foram realizados, envolvendo cidades nos estados do Amapá, Ceará, Alagoas, Bahia, Minas Gerais, Espírito Santo, Goiás e Mato Grosso do Sul, com população total de cerca de 20 milhões de pessoas. 
+A respeito da participação da iniciativa privada, houve a realização de leilões de concessão de serviços públicos de saneamento, incluindo abastecimento de água, esgotamento sanitário e manejo de resíduos sólidos urbanos. Desde a entrada em vigor da lei, vários certames já foram realizados, envolvendo cidades nos estados do Amapá, Ceará, Alagoas, Bahia, Minas Gerais, Espírito Santo, Goiás e Mato Grosso do Sul, com população total de cerca de 20 milhões de pessoas.
 
 Um dos destaques neste novo cenário foi o leilão de concessão do Bloco 3 da Companhia Estadual de Águas e Esgotos do Rio de Janeiro (Cedae), realizado em dezembro de 2021. A operação arrecadou R$ 2,2 bilhões, recursos que fortaleceram o caixa estadual. Vencedora, a empresa Águas do Brasil, Saab Participações II S.A. comprometeu-se também a investir R$ 4,7 bilhões para universalizar os serviços nos 21 municípios fluminenses abrangidos pela concessão.
 
@@ -37,8 +36,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

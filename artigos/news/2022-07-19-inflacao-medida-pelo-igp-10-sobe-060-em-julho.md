@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ### No ano, o indicador da FGV acumula avanço de 9,18%.
 
-O Índice Geral de Preços – 10 (IGP-10) subiu 0,60% em julho, percentual um pouco abaixo da alta do mês anterior, quando alcançou 0,74%. No ano, o indicador acumula avanço de 9,18% e de 10,87% em 12 meses. Em julho do ano passado, a elevação foi bem menor, ficou em 0,18% e o acumulado de 12 meses chegou a 34,61%. 
+O Índice Geral de Preços – 10 (IGP-10) subiu 0,60% em julho, percentual um pouco abaixo da alta do mês anterior, quando alcançou 0,74%. No ano, o indicador acumula avanço de 9,18% e de 10,87% em 12 meses. Em julho do ano passado, a elevação foi bem menor, ficou em 0,18% e o acumulado de 12 meses chegou a 34,61%.
 
 Os índices foram divulgados nesta segunda-feira (18) pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV). O IGP-10 mede a evolução de preços no período entre os dias 11 do mês anterior e 10 do mês de referência. A série do indicador começou no início em 1993.
 
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

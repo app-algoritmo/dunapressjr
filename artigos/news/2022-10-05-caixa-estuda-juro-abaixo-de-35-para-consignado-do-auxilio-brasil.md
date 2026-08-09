@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Banco fará ação para conscientizar sobre riscos de empréstimo.
 
 A presidente da Caixa, Daniella Marques, informou nesta terça-feira (4) que, a partir da segunda quinzena de outubro, o banco público pretende apresentar taxas inferiores ao teto de 3,5%, definido para empréstimos consignados que serão garantidos pelas futuras parcelas do Auxílio Brasil. A medida virá acompanhada de uma ação para conscientizar beneficiários sobre o risco de contrair empréstimos.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

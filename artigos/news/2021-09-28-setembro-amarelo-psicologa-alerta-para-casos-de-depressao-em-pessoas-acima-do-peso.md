@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O mês de setembro é marcado pela conscientização sobre a importância da prevenção do suicídio. No Brasil, de acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), 30% das pessoas que buscam tratamento para emagrecer apresentam depressão. Segundo relatório “Estatísticas da Saúde Mundial de 2021”, da Organização Mundial da Saúde (OMS), 22% da população adulta brasileira está obesa.
 
 Especialistas alertam que pessoas obesas são mais vulneráveis ao risco de suicídio. “Pensando na gordofobia e nos indivíduos que sofrem preconceitos por estarem acima do peso - a OMS considera a questão da obesidade um dos maiores problemas de saúde pública. No Brasil, mais da metade da população está com sobrepeso e isso traz riscos em diferentes contextos, além dos casos de suicídios que crescem e podem estar relacionados com histórico de agressões vinculados com o corpo fora dos padrões sociais esperados”, alerta a doutora Rafaela de Faria, psicóloga e professora do curso de Psicologia da Universidade Positivo (UP).
@@ -28,7 +27,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

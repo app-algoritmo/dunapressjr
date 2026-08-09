@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado positivo foi puxado pelo bom desempenho da safra, como a da soja, no primeiro trimestre do ano.
 
 A agropecuária apresentou crescimento de 0,6% no primeiro trimestre de 2020 em comparação ao quarto trimestre de 2019, conforme dados divulgados nesta sexta-feira (29) pelo Instituto Brasileiro de Geografia e Estatística (IBGE) sobre o Produto Interno Bruto (PIB) do país. O setor foi o único da atividade econômica nacional a crescer no período analisado.
@@ -27,8 +26,6 @@ Apesar da pandemia do novo coronavírus, o PIB do setor agropecuário brasileiro
 Para a safra 2019/20, a estimativa para a produção de grãos é de 250,9 milhões de toneladas, volume 3,6% (8,8 milhões de toneladas) superior ao colhido em 2018/19, de acordo com o 8º Levantamento da Safra 2019/20 divulgado no último dia 12, pela Conab.
 
 Fonte: MAPA / Imagem em destaque: gov.br
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

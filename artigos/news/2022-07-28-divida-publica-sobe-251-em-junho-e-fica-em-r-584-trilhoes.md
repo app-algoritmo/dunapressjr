@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Custo médio de emissão atingiu maior nível em 5 anos.
 
 O baixo volume de vencimentos e a alta dos juros e do dólar fizeram a Dívida Pública Federal (DPF) subir em junho. Segundo números divulgados nesta quarta-feira (27) pelo Tesouro Nacional, a DPF passou de R$ 5,702 trilhões em maio para R$ 5,846 trilhões no mês passado, alta de 2,51%.
@@ -54,8 +53,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

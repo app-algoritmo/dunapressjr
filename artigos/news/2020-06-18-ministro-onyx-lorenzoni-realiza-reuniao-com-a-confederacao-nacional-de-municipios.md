@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O encontro foi pautado pelo auxílio do Governo Federal repassado ao Sistema Único de Assistência Social (SUAS).
 
 O ministro da Cidadania, Onyx Lorenzoni, se reuniu na tarde desta quarta-feira (17) com prefeitos das cinco regiões do país para discutir o auxílio repassado ao Sistema Único de Assistência Social (SUAS). O encontro, feito por videoconferência, também contou com a participação do Secretário Especial do Desenvolvimento Social do Ministério da Cidadania, Sérgio Queiroz, do presidente da Confederação Nacional de Municípios (CNM), Glademir Aroldi e Andreia Lauande, presidente do Colegiado Nacional de Gestores Municipais de Assistência Social (Congemas).
@@ -24,7 +23,7 @@ A expectativa é que essa reunião com representantes municipais ocorra periodic
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

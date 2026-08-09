@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 Em 2020, o Ministério da Defesa reafirma o envolvimento das Forças Armadas com o meio ambiente atuando na Operação Verde Brasil 2. A data, reconhecida como o Dia Mundial do Meio Ambiente, foi estabelecida em 1972, durante a Conferência de Estocolmo sobre o Meio Ambiente Humano da Organização das Nações Unidas (ONU), na Suécia.
 
 A Operação Verde Brasil 2, deflagrada em 11 de maio, conta com a atuação de 3.815 militares, 440 agentes, 110 viaturas, 20 embarcações e 12 aeronaves em ações de fiscalização de madeireiras, inspeções navais, combate a incêndios, além de postos de bloqueio e controle de estradas. Os Comandos Conjuntos, instalados em Belém (PA), Porto Velho (RO) e Cuiabá (MT), atuam nos Estados de Acre, Amazonas, Rondônia, Mato Grosso e Pará.
@@ -31,5 +30,3 @@ Em dois meses de Operação, 1.835 focos de incêndio foram combatidos. O efetiv
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

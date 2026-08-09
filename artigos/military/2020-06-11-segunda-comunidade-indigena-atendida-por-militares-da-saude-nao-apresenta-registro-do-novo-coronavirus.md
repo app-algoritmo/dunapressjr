@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 Em continuidade à ação de assistência à saúde nas comunidades indígenas do município de São Gabriel da Cachoeira, no Amazonas, médicos e enfermeiros militares, realizaram, na terça-feira (09), 86 atendimentos a moradores de Querari. Os profissionais também vacinaram 61 adultos e crianças. Essa é a segunda comunidade atendida pela ação deflagrada pelos Ministérios da Defesa e da Saúde. Até o momento não existe registro de pessoas contaminadas ou com suspeita de estarem infectadas pelo novo coronavírus na localidade.
 
 A comunidade indígena Querari fica localizada na fronteira com a Colômbia, separada apenas pelo Rio Vaupés, sendo uma margem brasileira e a outra colombiana. A população conta com 250 moradores da etnia Kubeo. De acordo com o Comandante do 2° Pelotão Especial de Fronteira do Exército (PEF), Tenente de Infantaria Uerlei Nivaldo da Costa Moreira, a relação de apoio e suporte com a comunidade é muito próxima. Com as notícias da pandemia, esta aproximação foi moldada no sentido de continuar prestando o apoio, mas com cuidados para evitar a transmissão do vírus. "Nós enfatizamos na descontaminação de todo material que chega e isto tem funcionado até o momento. Conscientizamos a população, por meio de reuniões com as lideranças locais, de maneira a combater e evitar a propagação do vírus", explica.
@@ -27,5 +26,3 @@ O apoio às comunidades indígenas do município de São Gabriel da Cachoeira é
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Paulo Guedes voltou a defender tributação de dividendos.
 
 O crescimento da economia brasileira no primeiro semestre equivale às projeções mais otimistas do mercado, disse nesta quinta (1º) o ministro da Economia, Paulo Guedes. Em evento em São Paulo, ele declarou que o Produto Interno Bruto (PIB, soma das riquezas produzidas no país) deverá encerrar o ano com desempenho melhor que o previsto.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

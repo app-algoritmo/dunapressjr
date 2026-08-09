@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Queda em maio foi de 13,3% em relação ao mesmo mês de 2019.
 
 O Produto Interno Bruto (PIB), que é a soma de todos os bens e serviços produzidos no país, recuou 10,5% no trimestre encerrado em maio deste ano, na comparação com o mesmo período de 2019. Na comparação com o trimestre encerrado em fevereiro deste ano, a queda chegou a 9,4%. Os dados são do Monitor do PIB, da Fundação Getulio Vargas (FGV).
@@ -20,4 +19,4 @@ A exportação de bens e serviços apresentou queda de 1,3%, enquanto as importa
 
 Fonte: Agência Brasil – Imagem de destaque: José Paulo Lacerda/CNI/Direitos Reservados
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

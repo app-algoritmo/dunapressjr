@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Estimativa de inflação caiu de 8,8% para 5,8%, ainda acima da meta.
 
 O Banco Central (BC) elevou a projeção para o crescimento da economia este ano. A estimativa para a expansão do Produto Interno Bruto (PIB, a soma de todos os bens e serviços produzidos no país) passou de 1,7% para 2,7%. A projeção consta do [**Relatório de Inflação**](https://www.bcb.gov.br/publicacoes/ri), publicação trimestral do BC, divulgado nesta quinta-feira (29).
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

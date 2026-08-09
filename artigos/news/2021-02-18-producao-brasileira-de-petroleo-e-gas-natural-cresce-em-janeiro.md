@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Rio de Janeiro foi o estado que mais produziu no mês passado, diz ANP.
 
 A produção brasileira de petróleo aumentou 5,26% em janeiro deste ano em relação à de dezembro de 2020, alcançando média em torno de 2,870 milhões de barris por dia. Já a produção de gás natural evoluiu 7,36%, com média de cerca de 136,327 milhões de metros cúbicos diários. Os dados constam do Painel Dinâmico de Produção do Petróleo e Gás Natural e foram divulgados nesta quarta-feira (17) pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP).
@@ -23,8 +22,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

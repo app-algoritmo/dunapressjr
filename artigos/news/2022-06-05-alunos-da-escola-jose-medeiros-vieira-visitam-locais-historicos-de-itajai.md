@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Estudantes dos terceiros e quintos anos da Escola Básica José Medeiros Vieira, do bairro São Vicente, visitaram o Museu Histórico de Itajaí e a Casa da Cultura Dide Brandão nesta quarta (02) e quinta-feira (03). A atividade extraclasse envolveu 200 estudantes e está relacionada à programação do aniversário de 162 anos de Itajaí, que será desenvolvida pela unidade de ensino ao longo do mês de junho.
 
 “Estamos conectados com a ideia que Itajaí é multicultural e pluriétnica e conhecer a história local é um exercício de cidadania. Entendemos que é função da escola informar e despertar o interesse sobre o município onde eles residem e, através de visitas guiadas, os alunos são capazes de vivenciar e visualizar um pouco da história do nosso município”, pontuou a professora que acompanhou os alunos nas visitas, Nadia Ceccon.
@@ -27,7 +26,3 @@ Fonte: https://itajai.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

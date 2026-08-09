@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Expectativa do empresariado é de otimismo moderado.
 
 A produção industrial começou o ano de 2022 em um ritmo menor, seguindo a tendência do segundo semestre do ano passado, informou hoje (15) a Confederação Nacional da Indústria (CNI). De acordo com o boletim Sondagem Industrial, a produção, o emprego e a utilização da capacidade instalada recuaram de dezembro para janeiro.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

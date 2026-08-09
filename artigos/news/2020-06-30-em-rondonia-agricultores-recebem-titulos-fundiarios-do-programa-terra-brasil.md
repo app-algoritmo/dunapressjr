@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A Secretaria de Agricultura de Rondônia estima que este ano serão distribuídos mais 350 títulos, ao custo de R$ 40 milhões.
 
 O Ministério da Agricultura, Pecuária e Abastecimento (Mapa) e o governo de Rondônia anunciaram nesta segunda-feira (29), em videoconferência, a primeira etapa da entrega de títulos, por meio do Programa Nacional de Crédito Fundiário – Terra Brasil, para pequenos agricultores.
@@ -24,7 +23,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

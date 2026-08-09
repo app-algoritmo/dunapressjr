@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 A 'guerra para acabar com todas as guerras' acabou sendo o oposto, pois o acordo do pós-guerra forneceu um terreno fértil para a ascensão do nazismo e seus horrores.
 
 Enquanto as armas silenciavam em 1918, os vencedores da Primeira Guerra Mundial concordaram em uma coisa: a Alemanha deve pagar.
@@ -81,5 +80,3 @@ Fonte: https://www.timesofisrael.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

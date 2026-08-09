@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Cata Treco, programa da Secretaria Municipal de Obras, divulgou a agenda para a próxima semana. Serão sete localidades atendidas. Os atendimentos iniciam na segunda-feira (30) pelo bairro São Judas e seguem pelos bairros São João, Dom Bosco, Ressacada, Vila Operária, Carvalho e Centro. O caminhão estará nas ruas até sexta-feira (04), das 7h30 às 11h30 e das 13h30 às 17h30.
 
 A população pode tirar as dúvidas sobre o Cata Treco pelo WhatsApp, basta adicionar o número (47) 99601-2645 e mandar mensagens de texto. Mensagens de áudio, ligações e chamadas de vídeo serão desconsideradas.
@@ -37,7 +36,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

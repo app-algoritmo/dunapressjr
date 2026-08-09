@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Colheitadeira Combinada Holt Caterpillar.**
 
 Durante muito tempo a ocupação da população trabalhadora girou em torno da produção de alimentos: em especial grãos de vários tipos, como trigo e cevada na Europa e América do Norte. A população do campo estimada dos Estados Unidos era de 90% da população.
@@ -20,7 +19,7 @@ Grã-Bretanha e Estados Unidos eram os líderes no desenvolvimento de maquinári
 
 Benjamin Holt, que era o irmão mais novo (1849-1920), era, reconhecidamente, o mais inteligente, mais habilidoso e mais versado em mecânica. Em1886, desenvolveu uma colheitadeira combinada de lagarta impulsionada por correias articuladas flexíveis acopladas às rodas.
 
-Em 1890, Benjamin Holt e Daniel Best (1838-1923), iniciaram experiências com vários tipos de tratores a vapor para uso exclusivo na agricultura.  
+Em 1890, Benjamin Holt e Daniel Best (1838-1923), iniciaram experiências com vários tipos de tratores a vapor para uso exclusivo na agricultura.
 
 Em 1891, Benjamin Holt desenvolveu uma colheitadeira combinada com uma tecnologia de autorregulagem que lhe permitia fazer a colheita em terrenos inclinados. Mas para puxar e controlar essas novas colheitadeiras em funcionamento era preciso mais de 20 cavalos ou mulas. Então foi preciso encontrar uma fonte de energia alternativa, que para a época era o vapor.
 
@@ -44,4 +43,4 @@ Referências Bibliográficas
 
 **CHALINA, Eric. 50 Máquinas que mudaram o Rumo da História. Tradução de Fabiano Morais. Rio de Janeiro. Sextante. 2014.  **
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

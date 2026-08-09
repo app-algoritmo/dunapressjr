@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Informações foram divulgadas pela Pré-Sal Petróleo (PPSA).
 
 No mês de julho, a média diária da produção de petróleo no regime de partilha alcançou 691 mil barris por dia (bpd), revelando aumento de 3% em relação ao mês anterior, de acordo com o Boletim Mensal dos Contratos de Partilha de Produção, divulgado nesta segunda-feira (19) pela Pré-Sal Petróleo (PPSA). Desde o início da série histórica, em 2017, a produção acumulada em regime de partilha de produção somou 229,2 milhões de barris de petróleo, dos quais 16 milhões couberam à União.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

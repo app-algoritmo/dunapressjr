@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Receita Federal publicou nesta segunda-feira, dia 07 de dezembro, a Instrução Normativa RFB nº 1.996/2020 que atualiza o cronograma de implantação da EFD-Reinf, alterando as datas em que contribuintes passam a ser obrigados à entrega da escrituração.
 
 Com a recente simplificação das informações que são prestadas no eSocial, foi necessário também a realização de ajustes no formato (leiaute) e informações que são prestadas pela Escrituração Fiscal Digital de Retenções e Outras Informações Fiscais (EFD-Reinf).
@@ -20,7 +19,7 @@ Em razão destes ajustes foram alteradas as datas de início de obrigatoriedade 
 
 A EFD-Reinf em conjunto com o eSocial e a DCTFWeb visam substituir a Guia de Recolhimento do FGTS e de Informações à Previdência Social (GFIP) para a apuração e recolhimento das contribuições previdenciárias e, mais adiante, e a Declaração do Imposto sobre a Renda Retido na Fonte (DIRF). Por isso, essas três obrigações precisam ser implantadas de forma integrada, com prazos semelhantes para os mesmos grupos de contribuintes.
 
-Fonte: Receita Federal 
+Fonte: Receita Federal
 
 SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 É pacifico entre todos os pensadores humanitários de que as guerras são desnecessários derramamentos de sangue e uma clara demonstração da estupidez humana, todavia, para os estudiosos bélicos, as guerras são muitas vezes a resposta inevitável para a resolução de disputas entre duas soberanias em conflito. Entretanto algo que ambas correntes doutrinarias hão de concordar, é o fato de que uma das guerras mais nonsense, que já ocorreu na história militar, foi um episódio intitulado de A Guerra do Porco. Que nada tem a ver com a figura suína que recentemente tem causado discórdia no meio político brasileiro.
 
 O conflito deflagrou-se em junho de 1859, onde as Ilhas de San Juan, localizadas na fronteira entre Estados Unidos e Canada, estavam em disputa entre Inglaterra e Estados Unidos. Por este motivo, a ilha era habitada tanto por norte-americanos, quanto por britânicos, e neste cenário o americano chamado Lyman Cutlar, possuía uma propriedade rural onde vivia da agricultura, porém, sua plantação de batatas vinha sendo atacada por porcos. Diante disto, no dia 15 de junho, Cutlar avistou um porco de raça britânica devorando suas batatas, e insatisfeito com os prejuízos que vinha sofrendo, Lyman pegou sua arma e atirou no porco, matando o suíno. Pouco tempo depois, o proprietário do porco, um irlandês chamado Charles Griffin, que estava residindo na ilha como empregado na empresa Hudson’s Bay Company, companhia pecuarista britânica, tomou conhecimento do ocorrido.
@@ -23,5 +22,3 @@ Referências Bibliográficas:
 - COLEMAN, Ernest C. The Pig War: The most perfect war in the history. The History Press. 2009.
 
 - VOURI, Mike. The Pig WAR: Standoff at Griffin Bay. Discover Your Northwest. 2013.
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

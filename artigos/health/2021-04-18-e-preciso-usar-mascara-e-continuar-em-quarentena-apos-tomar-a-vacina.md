@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Com o início da vacinação contra a Covid-19 no Brasil, muitas pessoas já estão ansiosas para voltar à normalidade e fazendo planos para depois de tomar a vacina. Porém, a rotina não voltará ao normal logo após a imunização. Será preciso ter um pouco mais de paciência antes de abandonar o uso de máscaras e a quarentena.
 
 Após tomar as duas doses da vacina, ainda é necessário esperar pelo menos 15 dias para que ela atinja a eficácia esperada. E, para voltar à normalidade, boa parte da população precisa já ter sido imunizada. Isso porque o mecanismo de funcionamento de uma vacina consiste na introdução de uma partícula chamada de antígeno, que produz uma resposta imunológica no corpo.
@@ -26,7 +25,3 @@ Fonte: butantan.gov.br
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

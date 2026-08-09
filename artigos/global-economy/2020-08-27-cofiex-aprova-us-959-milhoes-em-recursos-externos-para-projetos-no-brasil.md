@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Maior parte dos recursos será destinada a programas para combate aos efeitos econômicos causados pela Covid-19 e beneficiará micro, pequenas e médias empresas.
 
 A Comissão de Financiamentos Externos (Cofiex) do Ministério da Economia aprovou, nesta terça-feira (25/8), em sua 145ª reunião, o valor total de US$ 959,4 milhões para quatro projetos financiados com recursos externos de bancos multilaterais de desenvolvimento. Os recursos serão utilizados em programas voltados para o combate aos efeitos econômicos da crise causada pela pandemia da Covid-19, e em projetos de melhorias socioambientais em cidades dos estados de Minas Gerais e Santa Catarina.
@@ -27,5 +26,3 @@ O quarto financiamento aprovado é para a segunda etapa do Projeto de Transporte
 Fonte: Ministério da Economia – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

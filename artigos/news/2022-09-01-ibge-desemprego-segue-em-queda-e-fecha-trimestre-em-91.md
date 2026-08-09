@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Pnad Contínua registra recorde de trabalhadores sem carteira assinada.
 
 A taxa de desocupação caiu para 9,1% no trimestre encerrado em julho, o que representa uma queda de 1,4 ponto percentual na comparação com o trimestre terminado em abril. O índice se igualou com o menor da série desde dezembro de 2015. Os dados são da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua, divulgada nesta quarta-feira (31) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

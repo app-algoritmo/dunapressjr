@@ -8,25 +8,13 @@ categories:
 - News
 ---
 
-
 ## Tradição e patriotismo em um sensacional entretenimento norueguês.
 
 Trata-se de um evento de música militar e shows espetaculares em nível internacional. Em 2018 participaram cerca de 850 colaboradores de todo o mundo, coros e vários artistas de outras artes emocionantes.
 
 A tatuagem militar é uma performance de música ou exibição das Forças Armadas. O termo surgiu no início do século XVII, frase holandesa *doe den tap toe* ("feche a torneira"), um toque soado pelos bateristas ou trompetistas por ordem do Comandante para instruir os estalajadeiros perto das guarnições militares a parar de servir cerveja e para os soldados retornarem ao quartel; portanto, não está relacionado ao termo "tattoo" vindo do Tahiti com o significado de "desenho de tinta feito na pele". (*)
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
 ### Clique para assistir ao vídeo na íntegra
-
-[](https://tv.nrk.no/se?v=KOID75001018&t=29s)
 
 Próxima Tatuagem Militar Norueguesa: 24 a 26 de abril de 2020 em Oslo.
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Márcio Nunes de Oliveira foi o entrevistado do programa A Voz do Brasil.
 
 O novo modelo de passaporte brasileiro foi anunciado nesta semana. Entrevistado pelo programa *A Voz do Brasil*, diretor-geral da Polícia Federal (PF), Márcio Nunes de Oliveira, o passaporte do Brasil é um dos mais seguros do mundo, porém, há 16 anos não passava por atualizações, e alguns itens de segurança já estavam obsoletos.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

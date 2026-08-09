@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Rinite é a inflamação aguda ou crônica, infecciosa, alérgica ou irritativa da mucosa nasal. Os casos mais graves são, em sua maioria, são causados por vírus, já os casos crônicos ou recorrentes são geralmente determinados pela rinite alérgica, induzida pela exposição a componentes que possuem maior probalidade de causar alergias nas pessoas, entre eles os ácaros da poeira domiciliar, barata, os fungos, epitélio, urina e saliva de animais (cão e gato). Os principais irritantes são a fumaça do cigarro e alguns ingredientes utilizados em produtos de limpeza e construção.
 
 A arquiteta Luciana Jobim, 28 anos, enfrenta diariamente as possibilidades de crise de rinite alérgica. “Por ser arquiteta e visitar muitas obras com poeira e cheiros fortes de tinta e outros materiais, tenho que lutar contra isso diariamente”, conta. Como toda alergia, a rinite pode apresentar duas fases: a primeira, chamada imediata, ocorre minutos após o estímulo; e a segunda, denominada fase tardia ou inflamatória, que ocorre de quatro a oito horas após o estímulo.
@@ -37,7 +36,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

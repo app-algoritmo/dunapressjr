@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## **Formação on-line acontecerá até a próxima sexta-feira, 29 de maio.**
 
 A partir desta terça-feira, 26 de maio, o Ministério da Educação (MEC) dá mais um passo na implantação das escolas cívico-militares no país. Em uma plataforma on-line, 52 militares da reserva iniciam a capacitação para atuarem no novo modelo de escola. Até sexta-feira, 29 de maio, eles conhecerão os papéis e as responsabilidades dos militares no Programa Nacional das Escolas Cívico-Militares.
@@ -35,8 +34,6 @@ Outras 27 escolas contarão com efetivos das corporações estaduais, ou seja, p
 - administrativa: objetiva aprimorar a infraestrutura e a organização da escola e, consequentemente, a utilização de recursos disponíveis na unidade escolar. Os militares atuarão, prioritariamente, na área educacional e prestarão assessoramento nas áreas administrativa e didático-pedagógica. O governo preservará a exclusividade das atribuições dos profissionais da educação previstas na LDB.
 
 Fonte: portalmec.gov.br / Imagem em destaque: AB - ebc
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

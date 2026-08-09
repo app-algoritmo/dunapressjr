@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 No dia 03 de outubro é comemorado o Dia Mundial do Dentista, profissional responsável por manter uma boa saúde bucal e promover mais bem-estar, autoestima e saúde geral para o corpo, pois é através da boca que ocorre uma boa mastigação, fundamental a digestão dos alimentos e melhor absorção dos nutrientes.
 
 Além de manter uma boa higiene bucal, também é preciso ter uma alimentação saudável e ir ao dentista regularmente. O profissional de saúde bucal deve ser procurado em casos de alteração na boca, ferida que não cicatriza, mesmo que indolor, manchas, caroços, inchaços, placas esbranquiçadas ou avermelhadas.
@@ -36,7 +35,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

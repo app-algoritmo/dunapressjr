@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Escolas poderão solicitar obras didáticas, literárias e pedagógicas para a educação infantil.
 
 O processo de aquisição de obras didáticas, literárias e pedagógicas do Programa Nacional do Livro e do Material Didático (PNLD) foi oficialmente aberto nesta semana. A principal novidade do [edital](https://www.fnde.gov.br/index.php/programas/programas-do-livro/consultas/editais-programas-livro/item/13526-edital-pnld-2022) é a previsão inédita de livros didáticos para alunos da pré-escola a partir de 2022.
@@ -19,7 +18,7 @@ O objetivo da iniciativa é priorizar o investimento na educação infantil. “
 Os livros serão destinados às escolas da educação básica pública, das redes federal, estaduais, municipais e do Distrito Federal e das instituições comunitárias, confessionais ou filantrópicas sem fins lucrativos e conveniadas com o poder público. O PNLD vai disponibilizar três tipos de obras, que atenderão ao sistema de ensino por quatro anos:
 
 - obras didáticas destinadas aos estudantes, professores e gestores da educação infantil;
-- obras literárias destinadas aos estudantes e professores da educação infantil; 
+- obras literárias destinadas aos estudantes e professores da educação infantil;
 - obras pedagógicas de preparação para alfabetização baseada em evidências.
 
 **Obras didáticas –** São destinadas a professores de estudantes matriculados em creches (0 até 3 anos e 11 meses) e  a alunos e professores na pré-escola (quatro a cinco anos). O programa vai oferecer o manual do professor, materiais digitais complementares para o professor e para o gestor escolar e o inédito livro impresso do estudante (no caso da pré-escola).
@@ -49,8 +48,6 @@ O programa Tempo de Aprender é voltado para o aperfeiçoamento, apoio e valoriz
 Direcionado para a aplicação de práticas baseadas em evidências científicas nacionais e internacionais que deram certo, o novo programa do MEC traça um plano estratégico para corrigir a rota das políticas públicas de alfabetização no país. O programa será implementado por meio da adesão de estados, municípios e Distrito Federal, que já podem manifestar interesse no site [alfabetizacao.mec.gov.br](http://alfabetizacao.mec.gov.br/).
 
 Fonte: gov.br/mec / Imagem em destaque: portalmec
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### *Número é superior à quantidade de casos ativos, ou seja, pessoas que estão em acompanhamento médico. Informações foram atualizadas às 18h desta terça-feira (01/09).*
 
 O Brasil alcançou mais de 3 milhões de recuperados da Covid-19. Em todo o país, são 3.159.096 pessoas curadas da doença. No mundo, estima-se que pelo menos 13 milhões de pessoas diagnosticadas com Covid-19 já se recuperaram. O número de pessoas curadas no Brasil é superior à quantidade de casos ativos (669.239), que são os pacientes em acompanhamento médico. O registro de pessoas curadas já representa mais da metade do total de casos acumulados (80%). As informações foram atualizadas às 18h de hoje (01/09) e foram enviadas pelas Secretarias Estaduais e Municipais de Saúde.
@@ -36,4 +35,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

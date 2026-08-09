@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Terão direito a receber mais de 3,3 milhões de contribuintes.
 
 A Receita Federal paga hoje (30) o segundo lote de restituição do Imposto de Renda Pessoa Física (IRPF) de 2020. Mais de 3,3 milhões contribuintes receberão R$ 5,7 bilhões no lote de maior valor já registrado.
@@ -28,4 +27,4 @@ Caso o valor não seja creditado, o contribuinte poderá contactar pessoalmente 
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

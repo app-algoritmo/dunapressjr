@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Sempre olhe para o lado bom da vida: a pesquisa da Universidade Hebraica mostra que o otimismo aumenta a expectativa de vida entre os idosos.
 
 A felicidade pode levar a uma saúde melhor, mas ajuda você a viver mais? Essa é uma questão que os pesquisadores da Universidade Hebraica de Jerusalém (HU) fizeram em um estudo longitudinal que começaram na década de 1990. Eles analisaram o impacto do otimismo na longevidade e descobriram que manter uma perspectiva positiva pode estender diretamente sua vida.
@@ -35,7 +34,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

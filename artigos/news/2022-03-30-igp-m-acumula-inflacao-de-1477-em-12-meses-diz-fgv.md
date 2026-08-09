@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### A taxa para o mês de março ficou em 1,74%.
 
 O Índice Geral de Preços – Mercado (IGP-M), usado no reajuste dos contratos de aluguel no país, registrou inflação de 1,74% em março deste ano. A taxa é inferior às observadas no mês anterior (1,83%) e em março de 2021 (2,94%).
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

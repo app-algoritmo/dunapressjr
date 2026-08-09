@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa caiu 0,24%, mas manteve-se acima de 100 mil pontos.
 
 Num dia de tensões no mercado externo e de divulgação de dados econômicos no Brasil, o dólar encerrou com leve queda depois de uma sessão volátil. A bolsa de valores também caiu, mas conseguiu manter-se acima dos 100 mil pontos.
@@ -23,5 +22,3 @@ No mercado de ações, o índice Ibovespa, da B3, encerrou a segunda-feira aos 1
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Rick Wilking/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

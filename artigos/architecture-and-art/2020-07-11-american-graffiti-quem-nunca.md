@@ -7,7 +7,6 @@ categories:
 - Architecture and Art
 ---
 
-
 **Loucuras de Verão – *American Graffiti*, 1973  A ressignificação da película de George Lucas**
 
 Existem filmes que marcam nossa vida, desde a infância. Nessa época em que o mundo vive a convulsão da pandemia, todos privados de uma simples sessão de cinema, é exatamente o instante em que o pensamento se volta até mesmo para os antigos *drive-in theaters* (mega telas de filmes assistidos de dentro de carros em enormes estacionamentos). Há quem diga que cérebros estão fervendo para isso, não apenas por mera nostalgia, mas pela realidade atual em contraponto à experiências que se quer tocar novamente com as mãos.
@@ -28,7 +27,7 @@ Ao contrário de outros filmes, não há uma trilha sonora composta especialment
 
 *Imagem: Reprodução*
 
-Também, neste período eu não conseguia enxergar o significado de cada personagem. Na época, percebia a mim mesma mais parecida com os papéis de Paul Le Mat, o rapaz rebelde e de Charles Martin Smith, o moço ingênuo que apenas queria ser igual aos outros, mas aparenta ser mais humilde. 
+Também, neste período eu não conseguia enxergar o significado de cada personagem. Na época, percebia a mim mesma mais parecida com os papéis de Paul Le Mat, o rapaz rebelde e de Charles Martin Smith, o moço ingênuo que apenas queria ser igual aos outros, mas aparenta ser mais humilde.
 
 Na última vez das tantas que assisti, vi o quanto esta representação mudou em minha mente ao passar dos anos. Lembrei de minha situação, quando tinha a idade desses jovens.
 
@@ -58,6 +57,4 @@ A estética complementar me transporta a um período histórico que não vivi. O
 
 Quando começamos o **Press Periódico** para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!
 
-https://dunapress.org/subscription-plan/?ref=barrosprojectmanager
-
-[](https://dunapress.org/subscription-plan/?ref=danberg1000)
+https://dunapress.org/subscription-plan/

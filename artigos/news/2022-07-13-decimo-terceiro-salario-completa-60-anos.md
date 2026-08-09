@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Gratificação foi criada em meio a disputa entre patrões e empregados.
 
 Uma das principais conquistas do trabalhador brasileiro está fazendo aniversário. O décimo terceiro salário completa hoje (13) 60 anos. Equivalente à remuneração mensal, a gratificação natalina foi sancionada em 13 de julho de 1962 pelo então presidente João Goulart.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

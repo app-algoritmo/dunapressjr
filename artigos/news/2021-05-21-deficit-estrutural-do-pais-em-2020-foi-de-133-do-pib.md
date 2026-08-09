@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Boletim divulgado pela Secretaria de Política Econômica, nesta quinta-feira (20/05), apresenta o resultado fiscal estrutural no ano passado.
 
 Estudo realizado pela Secretaria de Política Econômica (SPE) do Ministério da Economia aponta que o setor público brasileiro registrou déficit estrutural de -1,33% do PIB em 2020. O [Boletim Resultado Fiscal Estrutural 2020](https://www.gov.br/fazenda/pt-br/assuntos/politica-fiscal/atuacao-spe/resultado-fiscal-estrutural/resultado-fiscal-estrutural), divulgado nesta quinta-feira (20/5), parte do resultado primário do setor público consolidado, divulgado pelo Banco Central (BC) – incluindo governo central, empresas estatais, além de estados e municípios –, e do qual são retirados os eventos não recorrentes e os efeitos do ciclo econômico, de modo a obter uma estimativa do resultado fiscal estrutural.
@@ -34,8 +33,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O CDC apresenta dados que mostram um aumento de 32 vezes na inflamação do coração entre meninos adolescentes após a vacinação com Covid-19.
 
 Após mais de 300 casos do que os Centros de Controle de Doenças (CDC) definem como miocardite, o FDA decidiu colocar um alerta sobre casos raros de inflamação do coração em suas fichas técnicas para as vacinas Pfizer e Moderna Covid-19.
@@ -42,7 +41,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa de Engenharia (Coppe) e o Instituto de Biofísica Carlos Chagas Filho (IBCCF), ambos da UFRJ, desenvolveram um novo teste sorológico para detecção de anticorpos para a COVID-19. Chamado de S-UFRJ, o teste, desenvolvido sob a coordenação dos cientistas Leda Castilho (Coppe) e André Vale (IBCCF),  custará menos que R$ 5.
 
 O S-UFRJ tem tecnologia escalonável e custo reduzido de produção da proteína S (*spike*), presente na estrutura do novo coronavírus. O baixo custo da proteína desenvolvida no Laboratório de Engenharia de Cultivos Celulares (Lecc/Coppe), associado a uma coleta de amostras mais simples e acessível, possibilita o acesso e a expansão da testagem – fatores importantes, principalmente em países em desenvolvimento. No Brasil, testes rápidos aprovados pela Agência Nacional de Vigilância Sanitária (Anvisa) têm sido comercializados em farmácias por mais de R$ 130. O da UFRJ representa uma redução superior a 96%.
@@ -38,5 +37,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

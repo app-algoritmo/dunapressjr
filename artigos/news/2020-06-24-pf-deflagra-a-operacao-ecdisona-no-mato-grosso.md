@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Cuiabá/MT– A Polícia Federal deflagrou nesta terça-feira (23/6) a OPERAÇÃO ECDISONA, visando reprimir organização criminosa dedicada à prática de crimes tributários e empresariais, falsidades ideológicas, fraude a credores, estelionato, organização criminosa e lavagem de capitais.
 
 Participam da operação 30 policiais, que cumprem dez mandados de busca e apreensão e um mandado de prisão preventiva em Barra do Garças/MT. As ordens foram expedidas pela Justiça Federal do município.
@@ -28,4 +27,4 @@ Mais informações à imprensa serão prestadas a partir das 9h, individualmente
 
 Comunicação Social da Polícia Federal em Mato Grosso
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

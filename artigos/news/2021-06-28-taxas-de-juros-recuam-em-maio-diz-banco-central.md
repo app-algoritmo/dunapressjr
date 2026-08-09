@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Juros para as famílias caíram 1,2 ponto percentual para 39,9% ao ano.
 
 A taxa média de juros paga pelas famílias no crédito livre caiu em maio para 39,9% ao ano. O número apresenta uma queda de 1,2 ponto percentual no mês, segundo as estatísticas monetárias e de crédito de maio, divulgadas hoje (28) pelo Banco Central. Na comparação com maio de 2020, o declínio da taxa é de 3,8 pontos percentuais.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

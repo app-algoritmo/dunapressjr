@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Qual é o valor de um implante dentário? E de um processo de clareamento nos dentes? Essas foram algumas das mais frequentes perguntas feitas no Brasil para o Google em 2021, na categoria Quanto Custa. O registro do site de busca mostra o chamado Efeito Zoom, que é o aumento da procura por tratamentos para um rosto mais harmônico, desejo causado pela maior frequência das reuniões por videoconferência.
 
 O serviço de busca anunciou quais foram os termos mais procurados no país, divididos em categorias: Buscas do Ano, Acontecimentos, Como fazer, O que?, Mortes, Filmes, Séries, Programas de TV, Música (Letra), Personalidades, Clubes de futebol, Perto de mim, Quanto custa, Atletas Olímpicos, Receitas, Beleza, Virou meme e Como ser.
@@ -34,7 +33,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

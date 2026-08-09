@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Estudo é da Associação Brasileira de Supermercados.
 
 O consumo nos lares brasileiros registrou queda de 3,47% em maio na comparação com abril. Em relação ao mesmo período de 2021, houve alta de 0,39%. No acumulado do ano tem-se expansão de 2,02%. Os dados foram divulgados nesta quinta-feira (14), em São Paulo, pela Associação Brasileira de Supermercados (Abras). A queda da inflação em maio refletiu em menor variação nos preços da cesta de alimentos.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

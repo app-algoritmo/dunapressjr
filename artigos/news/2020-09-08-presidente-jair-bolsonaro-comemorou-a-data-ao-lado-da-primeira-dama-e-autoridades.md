@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A bordo do Rolls-Royce presidencial e acompanhado por crianças, o Presidente da República, Jair Bolsonaro, deu início às comemoração do 7 de Setembro, Dia da Independência, nesta manhã, no Palácio da Alvorada, em Brasília (DF).
 
 Escoltado pela cavalaria do Batalhão da Guarda Presidencial, o veículo percorreu o trajeto de cerca de 400 metros entre o Palácio e o espelho d'água localizado na entrada do Alvorada, residência oficial do Presidente da República. Ao lado da Primeira-Dama, Michelle Bolsonaro, e do Vice-Presidente General Hamilton Mourão, o Presidente participou da execução do Hino Nacional, Hino da Independência e o hasteamento da Bandeira.
@@ -37,5 +36,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

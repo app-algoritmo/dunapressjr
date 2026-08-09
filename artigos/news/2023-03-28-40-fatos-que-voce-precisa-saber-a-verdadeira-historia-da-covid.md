@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Publicamos pela primeira vez nossa imensamente popular "folha de dicas" em setembro de 2021, em resposta a dezenas - até centenas - de solicitações de fontes e dados de leitores. O artigo foi concebido como um recurso e despejo de link e foi deliberadamente livre de interpretação, contribuição editorial ou opinião.
 
 A resposta foi incrível, em poucas semanas tornou-se o nosso artigo mais lido e o número de visitantes manteve-se constante desde então.
@@ -202,7 +201,7 @@ dr David Nabarro, enviado especial da Organização Mundial da Saúde para o Cov
 
 Um relatório da ONU de abril de 2020 [alerta para 100.000 crianças mortas pelo impacto econômico dos bloqueios](https://www.reuters.com/article/us-health-coronavirus-children-un/u-n-warns-economic-downturn-could-kill-hundreds-of-thousands-of-children-in-2020-idUSKBN21Y2X7) , enquanto [milhões enfrentam pobreza e fome](https://www.washingtonpost.com/world/national-security/un-pandemic-could-push-tens-of-millions-into-chronic-hunger/2020/07/13/0733e34e-c51e-11ea-a825-8722004e4150_story.html) .
 
-[Desemprego](https://news.un.org/en/story/2020/06/1067432) , pobreza, [suicídio](https://pubmed.ncbi.nlm.nih.gov/32275300/) , alcoolismo, uso de drogas e outras crises sociais e de saúde mental estão aumentando em todo o mundo. Cirurgias e [check-ups](https://web.archive.org/web/20200724212540/https://amp.theguardian.com/society/2020/jun/01/millions-in-uk-miss-cancer-screenings-tests-and-treatments-due-to-covid-19) perdidos e [atrasados](https://www.birmingham.ac.uk/news-archive/2020/covid-19-disruption-will-lead-to-28-million-surgeries-cancelled-worldwide-1) ​​já levaram ao aumento da mortalidade por doenças cardíacas, câncer e outras doenças em muitos países ao redor do mundo.[](https://web.archive.org/web/20200724212540/https://amp.theguardian.com/society/2020/jun/01/millions-in-uk-miss-cancer-screenings-tests-and-treatments-due-to-covid-19)
+[Desemprego](https://news.un.org/en/story/2020/06/1067432) , pobreza, [suicídio](https://pubmed.ncbi.nlm.nih.gov/32275300/) , alcoolismo, uso de drogas e outras crises sociais e de saúde mental estão aumentando em todo o mundo. Cirurgias e [check-ups](https://web.archive.org/web/20200724212540/https://amp.theguardian.com/society/2020/jun/01/millions-in-uk-miss-cancer-screenings-tests-and-treatments-due-to-covid-19) perdidos e [atrasados](https://www.birmingham.ac.uk/news-archive/2020/covid-19-disruption-will-lead-to-28-million-surgeries-cancelled-worldwide-1) ​​já levaram ao aumento da mortalidade por doenças cardíacas, câncer e outras doenças em muitos países ao redor do mundo.
 
 Um [relatório do Banco Mundial de junho de 2021](https://blogs.worldbank.org/opendata/updated-estimates-impact-covid-19-global-poverty-turning-corner-pandemic-2021) estima que **quase 100 milhões de pessoas foram empurradas para a pobreza extrema pelas chamadas “medidas anti-Covid”** .
 

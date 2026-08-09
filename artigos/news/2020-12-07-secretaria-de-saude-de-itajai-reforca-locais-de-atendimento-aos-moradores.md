@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Com o aumento de casos e internações pela COVID-19 nas últimas semanas, a Secretaria de Saúde de Itajaí está reorganizando os fluxos e protocolos internos para dar mais agilidade aos serviços de urgência e emergência, especialmente no Centro Integrado de Saúde (CIS), que é referência para estes atendimentos. Outra medida é reforçar os locais de atendimento aos moradores para facilitar os encaminhamentos e reduzir o risco de contágio.
 
 **[> Leia mais notícias sobre Coronavírus](http://itajai.sc.gov.br/coronavirus)**
@@ -26,7 +25,7 @@ Adultos, idosos e crianças com sintomas de COVID-19 (febre, tosse, coriza, dor 
 
 Já os pacientes adultos, acima de 15 anos, com outras patologias, como traumas, acidentes e demais queixas clínicas, devem buscar atendimento na UPA do bairro Cordeiros (Rua Enedina D’Ávila, s/nº). Crianças sem sintomas de doenças respiratórias podem ser atendidas na Unidade de Atendimento Infantil, localizada junto ao Hospital Pequeno Anjo, com entrada pela rua João Bauer. Os três serviços funcionam 24 horas, todos os dias da semana.
 
-Além das UPAs, Centro de Triagem e Unidade Infantil, casos leves de COVID-19 e pacientes com outras queixas de baixa complexidade podem buscar atendimento na unidade básica de saúde mais próxima durante a semana, em horário comercial. Casos graves podem buscar diretamente os hospitais Marieta e Pequeno Anjo para assistência. 
+Além das UPAs, Centro de Triagem e Unidade Infantil, casos leves de COVID-19 e pacientes com outras queixas de baixa complexidade podem buscar atendimento na unidade básica de saúde mais próxima durante a semana, em horário comercial. Casos graves podem buscar diretamente os hospitais Marieta e Pequeno Anjo para assistência.
 
 Fonte: itajai.sc.gov.br
 
@@ -38,7 +37,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

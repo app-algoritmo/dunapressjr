@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Anúncio foi feito pelo secretário-geral da OMT que ressaltou o trabalho realizado pelo governo brasileiro. Escritório regional será o primeiro na América Latina.
 
 A Organização Mundial do Turismo (OMT), agência das Nações Unidas especializada em Turismo, decidiu trazer um escritório regional para o Brasil no ano que vem, o primeiro na América Latina. O anúncio foi feito pelo secretário-geral da OMT, Zurab Pololikashvili, durante a Abav Collab, feira virtual organizada pela Associação Brasileira de Agências de Viagens (Abav). Zurab agradeceu o apoio e o trabalho que vem sendo realizado pelo Presidente Jair Bolsonaro e pelo ministro do Turismo, Marcelo Álvaro Antônio, e ressaltou que a medida vai impulsionar o turismo na América do Sul.
@@ -26,5 +25,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

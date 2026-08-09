@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Com a nova redução, sobe para 303 o número de produtos com tarifa zerada até 30 de junho de 2021.
 
 O Comitê-Executivo de Gestão da Câmara de Comércio Exterior (Gecex) decidiu reduzir o Imposto de Importação a 0% para mais cinco produtos, contemplando seringas e agulhas classificadas nos códigos 9018.31.11, 9018.31.19, 9018.31.90, 9018.32.19 e 9018.39.10 da Nomenclatura Comum do Mercosul - NCM. Os produtos passam a integrar a lista de reduções tarifárias temporárias com o objetivo de facilitar o combate à pandemia da Covid-19, de que trata a [Resolução Gecex nº 17, de 17 de março de 2020](https://www.in.gov.br/en/web/dou/-/resolucao-n-17-de-17-de-marco-de-2020-248564246).
@@ -29,8 +28,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Ferramenta permitirá que turistas tenham cópias digitais dos principais documentos necessários para a identificação pessoal em destinos.
 
 Agilizar procedimentos e aumentar a segurança do processo de identificação de visitantes, de forma a favorecer a retomada do turismo global. Este é o objetivo de uma parceria firmada entre a Organização Mundial do Turismo (OMT) e a consultoria Wanderlust World para o desenvolvimento de um aplicativo por meio do qual viajantes vão poder apresentar cópias digitais dos principais documentos necessários ao ingressar em destinos de todo o planeta.
@@ -24,7 +23,7 @@ Imagem: Infraero
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

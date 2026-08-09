@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Livre mercado pode ser vantajoso, mas precisa de concorrência.
 
 Novas tecnologias levam à possibilidade de uso de novos equipamentos que proporcionam novas formas de serviços e de relações comerciais. A exemplo da telefonia, o setor de energia também passa por esse processo e, diante dele, tem procurado atualizar a legislação. Este foi o tema debatido nesta terça-feira (24) durante o Ciclo de Palestras sobre Legislação e Políticas Públicas – evento promovido pelo Instituto de Pesquisa Econômica Aplicada (Ipea).
@@ -80,8 +79,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

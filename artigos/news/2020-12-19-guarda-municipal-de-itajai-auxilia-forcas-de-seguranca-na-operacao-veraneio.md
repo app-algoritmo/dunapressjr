@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Guarda Municipal de Itajaí vai atuar na Operação Veraneio em apoio às demais forças de segurança do Estado e do Município. O cronograma foi definido na terça-feira (15) durante reunião no Batalhão da Polícia Militar. Entre as ações previstas estão: barreiras nas entradas da cidade, fiscalização nas praias, rondas nos bairros e blitze de trânsito. As medidas já devem ser intensificadas para os feriados de Natal e Ano Novo.
 
 A operação vai ocorrer de forma conjunta com outras corporações e órgãos, como Polícia Civil, Polícia Militar, Codetran, Vigilância Sanitária, Secretaria de Desenvolvimento Urbano e Habitação, Secretaria de Assistência Social e Secretaria de Obras.
@@ -38,5 +37,3 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)

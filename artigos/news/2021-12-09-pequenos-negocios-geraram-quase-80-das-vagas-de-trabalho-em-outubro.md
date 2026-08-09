@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Levantamento é do Sebrae, com base em dados do Caged.
 
 Com a abertura de 201,7 mil [**novos postos**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-11/caged-brasil-criou-253-mil-vagas-de-emprego-em-outubro) de trabalho, as micro e pequenas empresas foram as responsáveis por 79,7% das 253 mil vagas criadas no mês de outubro. O levantamento é do Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae), com base nos dados do Cadastro Geral de Empregados e Desempregados (Caged). Nos meses anteriores, segundo o Sebrae, esse percentual girava em torno de 70%.
@@ -24,10 +23,6 @@ Ao analisar as empresas de médio e grande porte, no mesmo período, dos princip
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

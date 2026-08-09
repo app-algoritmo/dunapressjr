@@ -8,10 +8,9 @@ categories:
 - Health
 ---
 
+Quando as pessoas iniciaram o confinamento em razão da pandemia, em março de 2020, uma das primeiras percepções foi quanto tempo elas passariam a mais com suas famílias. Paralelamente, ficou clara a importância de cuidar da saúde mental em tempos tão difíceis. Mais de um ano depois, essa preocupação permanece e as dificuldades para manter uma rotina saudável e equilibrada, em alguns momentos, parecem ainda maiores. Fica a dúvida: como se adaptar a essa situação sem deixar que tantas turbulências afetem a convivência familiar?
 
-Quando as pessoas iniciaram o confinamento em razão da pandemia, em março de 2020, uma das primeiras percepções foi quanto tempo elas passariam a mais com suas famílias. Paralelamente, ficou clara a importância de cuidar da saúde mental em tempos tão difíceis. Mais de um ano depois, essa preocupação permanece e as dificuldades para manter uma rotina saudável e equilibrada, em alguns momentos, parecem ainda maiores. Fica a dúvida: como se adaptar a essa situação sem deixar que tantas turbulências afetem a convivência familiar? 
-
-Algumas dicas podem ajudar você a tirar o melhor desse período, com leveza, valorizando ainda mais as relações. 
+Algumas dicas podem ajudar você a tirar o melhor desse período, com leveza, valorizando ainda mais as relações.
 
 - Tome cuidado com consumo de informações
 
@@ -27,7 +26,7 @@ Desde o início da pandemia fala-se muito sobre a importância de ter uma rotina
 
 Deve-se estabelecer horários para acordar, trabalhar, fazer as refeições e até para pausas. Passar o dia de pijama, bem como ficar na cama ou no sofá não contribuem com o home office, muito menos com a saúde mental. O ideal é vestir roupas confortáveis e criar um ambiente tranquilo para realizar as atividades, inclusive do ponto de vista ergonômico.
 
-Mas estipular horários é diferente de seguir exatamente a mesma rotina dos “tempos normais”. Portanto, deve-se repensar a rotina familiar, afinal, além do trabalho e dos estudos, agora é preciso administrar uma rotina doméstica mais intensa. É fundamental dividir as tarefas para que ninguém se sobrecarregue. 
+Mas estipular horários é diferente de seguir exatamente a mesma rotina dos “tempos normais”. Portanto, deve-se repensar a rotina familiar, afinal, além do trabalho e dos estudos, agora é preciso administrar uma rotina doméstica mais intensa. É fundamental dividir as tarefas para que ninguém se sobrecarregue.
 
 - Use a tecnologia para se aproximar das pessoas
 
@@ -45,7 +44,7 @@ Com tanto conteúdo gratuito na internet, como tutoriais de DIY (sigla em inglê
 
 - Reserve momentos para ficar sozinho
 
-Todo mundo precisa de um tempo sozinho às vezes. Ter este hábito, e ensiná-lo aos filhos, é um ótimo exemplo de respeito à convivência e de como cuidar da saúde mental. É extremamente saudável que cada um tenha o seu espaço para reflexão. 
+Todo mundo precisa de um tempo sozinho às vezes. Ter este hábito, e ensiná-lo aos filhos, é um ótimo exemplo de respeito à convivência e de como cuidar da saúde mental. É extremamente saudável que cada um tenha o seu espaço para reflexão.
 
 Como agora estão todos mais tempo em casa, esses períodos ficam mais limitados. Mas é aconselhado que busquem conversar e negociar como cada um pode ter momentos de relaxamento sem ser interrompido. Tentar separar alguns minutos do dia para se desconectar fazendo exercícios, lendo um livro, escutando uma música ou, simplesmente, aproveitando o silêncio é uma boa pedida. 
 
@@ -58,7 +57,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

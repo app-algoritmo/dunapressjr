@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Comprometimento com equilíbrio fiscal será mantido, afirmou Guedes.
 
 No que depender da equipe econômica, o Auxílio Brasil, programa que pretende substituir o Bolsa Família e pagará um benefício de R$ 400, poderá ser financiado com cerca de R$ 30 bilhões fora do teto de gastos, disse nesta quarta-feira (20) o ministro da Economia, Paulo Guedes. Em participação virtual num evento de entidade da construção civil, ele confirmou parte do pagamento do benefício fora da regra fiscal e disse que o movimento não seria necessário se o Senado tivesse aprovado a reforma do Imposto de Renda.
@@ -42,10 +41,6 @@ Inicialmente com valor previsto de R$ 300, o Auxílio Brasil passou para R$ 400,
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

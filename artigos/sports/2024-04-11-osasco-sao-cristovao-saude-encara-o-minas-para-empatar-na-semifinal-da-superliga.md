@@ -47,7 +47,7 @@ A força do conjunto impulsionou o desempenho individual de Osasco ao longo da t
 **Segundo Turno
 **18/01 – **Osasco São Cristóvão Saúde** 3 x 0 Brasília – Osasco
 25/01 – Unilife Maringá 1 x 3 **Osasco São Cristóvão Saúde** - Maringá
-02/02 – **Osasco São Cristóvão Saúde 3 **x 0 Barueri - Osasco 
+02/02 – **Osasco São Cristóvão Saúde 3 **x 0 Barueri - Osasco
 06/02 – Pinheiros 2 x 3 **Osasco São Cristóvão Saúde** - São Paulo
 11/02 – **Osasco São Cristóvão Saúde** 3 x 0 Sesi Bauru - Osasco
 21/02 – Fluminense 1 x 3 **Osasco São Cristóvão Saúde** - Rio de Janeiro
@@ -58,16 +58,13 @@ A força do conjunto impulsionou o desempenho individual de Osasco ao longo da t
 22/03 – Bluvolei/FURB 0 x 3 **Osasco São Cristóvão Saúde **– Blumenau
 
 **Mais informações:
-*****Osasco Vôlei TV: ******[https://www.youtube.com/c/OsascoV%C3%B4leiTV](https://click.presskit.com.br/url/1007751b45a/6361388b6fc)[
-](https://click.presskit.com.br/url/1007751b45a/6361388b6fc)******Fan page: ***[***https://www.facebook.com/osascovoleibolclube/***](https://click.presskit.com.br/url/1007752dd36/6361388b6fc)***         ***
+*****Osasco Vôlei TV: ******[https://www.youtube.com/c/OsascoV%C3%B4leiTV](https://click.presskit.com.br/url/1007751b45a/6361388b6fc)******Fan page: ***[***https://www.facebook.com/osascovoleibolclube/***](https://click.presskit.com.br/url/1007752dd36/6361388b6fc)***         ***
 ***Instagram: ***[***www.instagram.com/osascovoleibolclube/***](https://click.presskit.com.br/url/1007753fa18/6361388b6fc)***         ***
-***Twitter: ***[***www.twitter.com/osascovc***](https://click.presskit.com.br/url/10077546cfa/6361388b6fc)*** 
+***Twitter: ***[***www.twitter.com/osascovc***](https://click.presskit.com.br/url/10077546cfa/6361388b6fc)***
 
 ******Assessoria de Imprensa:
 ******ZDL Sports         ***
 ***Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](mailto:dorojr@zdl.com.br) - F: 11 984579723         ***
 ***Rafael De Marco - Mtb.: 27556 - [rafael@zdl.com.br](mailto:rafael@zdl.com.br) - Cel: 11 976022986 - ******WhatsApp: 19 997912108
 
-******Site: ******[www.zdl.com.br](https://click.presskit.com.br/url/1007749b78a/6361388b6fc)[
-](https://click.presskit.com.br/url/10077558764/6361388b6fc)******Facebook: ******[www.facebook.com/ZDLSports](https://click.presskit.com.br/url/100775630ec/6361388b6fc)[
-](https://click.presskit.com.br/url/100775630ec/6361388b6fc)******Instagram: ***[***www.instagram.com/zdlsports***](https://click.presskit.com.br/url/100775779b9/6361388b6fc)
+******Site: ******[www.zdl.com.br](https://click.presskit.com.br/url/1007749b78a/6361388b6fc)******Facebook: ******[www.facebook.com/ZDLSports](https://click.presskit.com.br/url/100775630ec/6361388b6fc)******Instagram: ***[***www.instagram.com/zdlsports***](https://click.presskit.com.br/url/100775779b9/6361388b6fc)

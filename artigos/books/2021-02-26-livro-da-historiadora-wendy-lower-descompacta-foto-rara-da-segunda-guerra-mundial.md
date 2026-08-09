@@ -8,7 +8,6 @@ categories:
 - Books
 ---
 
-
 No Museu Memorial do Holocausto dos Estados Unidos em 2009, a historiadora Wendy Lower viu uma imagem perturbadora de uma mãe judia e seu filho sendo executados por vários homens. Lower soube imediatamente que ela estava olhando uma rara evidência visual relacionada aos tiroteios ao ar livre na Ucrânia ocupada pelos nazistas. Durante esta fase do genocídio, os alemães e seus colaboradores massacraram judeus em plena luz do dia.
 
 A única fotografia do chamado “Holocausto por balas” revela muitos aspectos da ideologia genocida dos nazistas, de acordo com Lower. A imagem foi inicialmente mantida nos arquivos de segurança do regime comunista tcheco.
@@ -93,7 +92,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

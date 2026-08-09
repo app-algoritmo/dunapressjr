@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em ata, Copom diz que inflação deve se elevar no curto prazo.
 
 A economia brasileira apresenta recuperação parcial, assim como ocorre em outros países. A avaliação é do Comitê de Política Monetária (Copom) do Banco Central (BC), na ata da última reunião, divulgada hoje (22). No último dia 16, o Copom decidiu manter a taxa básica de juros, a [**Selic, em 2% ao ano**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-09/copom-interrompe-sequencia-de-queda-e-mantem-selic-em-2-ao-ano).
@@ -37,5 +36,3 @@ O comitê reconhece que pode haver necessidade de reduções na taxa básica de 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

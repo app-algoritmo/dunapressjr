@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Trump disse à Fox: “Esta eleição foi uma fraude. Foi uma eleição fraudada! ”
 
-O presidente dos Estados Unidos, Donald Trump, deu a entender que pode orquestrar um evento anunciando sua candidatura de 2024 durante a posse do presidente eleito Joe Biden em 20 de janeiro, [informou o ](https://www.independent.co.uk/news/world/americas/us-election-2020/trump-election-2024-biden-inauguration-b1763221.html)*The Independent* . [](https://www.independent.co.uk/news/world/americas/us-election-2020/trump-election-2024-biden-inauguration-b1763221.html)"Minha mente não vai mudar em seis meses", disse ele à Fox News em sua primeira entrevista desde o dia da eleição. 
+O presidente dos Estados Unidos, Donald Trump, deu a entender que pode orquestrar um evento anunciando sua candidatura de 2024 durante a posse do presidente eleito Joe Biden em 20 de janeiro, [informou o ](https://www.independent.co.uk/news/world/americas/us-election-2020/trump-election-2024-biden-inauguration-b1763221.html)*The Independent* . "Minha mente não vai mudar em seis meses", disse ele à Fox News em sua primeira entrevista desde o dia da eleição. 
 
 Três fontes já confirmaram a consideração séria de Trump de uma corrida em 2024, de acordo com o [Daily Beast](https://www.thedailybeast.com/trumps-already-gaming-out-a-2024-run-including-an-event-during-bidens-inauguration) , já que ele alegadamente se gabou para pelo menos dois deles que "ainda permaneceria no centro das atenções", apesar de uma vitória de Biden. 
 
@@ -30,7 +29,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

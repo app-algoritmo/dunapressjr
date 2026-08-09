@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Os experimentos Technion mostram níveis normais de açúcar no sangue prolongados após um único tratamento.
 
 A diabetes tipo 2 é causada pela resistência à insulina e pela redução da capacidade das células de absorver açúcar e é caracterizada por níveis elevados de açúcar no sangue. Suas complicações de longo prazo incluem doenças cardíacas, derrames, danos à retina que podem resultar em cegueira, insuficiência renal e fluxo sanguíneo insuficiente nos membros, o que pode levar a amputações. Atualmente, é tratada por uma combinação de mudanças no estilo de vida, medicamentos e injeções de insulina, mas, em última análise, está associada a uma redução de 10 anos na expectativa de vida.
@@ -33,7 +32,3 @@ Fonte: https://www.gov.il
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

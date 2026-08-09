@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Superávit comercial cresceu 4,6% em relação a 2019.
 
 A queda das importações em ritmo maior que o recuo das exportações fez a balança comercial encerrar 2020 com superávit maior do que em 2019. No ano passado, o Brasil exportou US$ 50,235 bilhões a mais do que importou, alta de 4,6% em relação ao superávit observado em 2019. Pelo critério da média diária, que divide o saldo total pelo número de dias úteis, o crescimento somou 7,1%.
@@ -34,8 +33,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Produção será puxada pela recuperação da safra de milho.
 
-A primeira estimativa para a safra agrícola de 2022, divulgada nesta quinta-feira (11) pelo Instituto Brasileiro de Geografia e Estatística (IBGE), prevê a produção de 270,7 milhões de toneladas de grãos, cereais e leguminosas. 
+A primeira estimativa para a safra agrícola de 2022, divulgada nesta quinta-feira (11) pelo Instituto Brasileiro de Geografia e Estatística (IBGE), prevê a produção de 270,7 milhões de toneladas de grãos, cereais e leguminosas.
 
 De acordo com o instituto, se os dados do Levantamento Sistemático da Produção Agrícola (LSPA) forem confirmados, será um recorde da série histórica, iniciada em 1975, com um aumento de 7,8% em relação às estimativas deste ano, o que representa 19,5 milhões de toneladas a mais.
 
@@ -20,7 +19,7 @@ Segundo o gerente da pesquisa, Carlos Barradas, além da previsão de normalidad
 
 “Outra razão para a perspectiva de recorde diz respeito à questão econômica. Apesar do aumento dos custos de produção, os preços das commodities agrícolas como milho, trigo e soja estão altos, ajudados pela valorização do dólar, fazendo o produtor aumentar o plantio e investir mais nessas lavouras”, explica.
 
-O instituto prevê crescimento de 0,8% na produção de soja, com 1,1 milhão de toneladas a mais; de 2,4% no algodão herbáceo em caroço, com 84,9 mil toneladas, 12,8% no sorgo, com 302,4 mil toneladas; 6,9% no feijão primeira safra, com 80,9 mil toneladas, e aumento de 9,8% no feijão segunda safra, com previsão de 101 mil toneladas. 
+O instituto prevê crescimento de 0,8% na produção de soja, com 1,1 milhão de toneladas a mais; de 2,4% no algodão herbáceo em caroço, com 84,9 mil toneladas, 12,8% no sorgo, com 302,4 mil toneladas; 6,9% no feijão primeira safra, com 80,9 mil toneladas, e aumento de 9,8% no feijão segunda safra, com previsão de 101 mil toneladas.
 
 Por outro lado, a pesquisa estima quedas nas produções do arroz, de 3,9% ou 451,6 mil toneladas; do feijão terceira safra, de 0,9% ou 5,1 mil toneladas, e do trigo, de 10% ou 785,8 mil toneladas.
 
@@ -36,10 +35,6 @@ A produção de soja deve chegar a 134,1 milhões de toneladas e o milho 86,7 mi
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

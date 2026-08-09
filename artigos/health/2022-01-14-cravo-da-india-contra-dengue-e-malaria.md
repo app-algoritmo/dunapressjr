@@ -7,10 +7,9 @@ categories:
 - Health
 ---
 
-
 Mosquitos são responsáveis por transmitir diversas doenças como malária, [encefalite](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/190-cravo-da-india-contra-dengue-e-malaria#), dengue, febre amarela e [filariose](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/190-cravo-da-india-contra-dengue-e-malaria#). Nos países tropicais, devido ao calor e à umidade, é comum a proliferação de mosquitos das espécies *Aedes aegypti* e *Anopheles darlingi*. No Brasil e em outros países, o *Aedes aegypti* é o maior causador da dengue. A disseminação dessa doença tem sido uma grande preocupação, principalmente pela sua forma mais grave - a dengue hemorrágica, que pode afetar o sistema nervoso central. De acordo com a Organização Mundial de Saúde, um quinto (1/5) da população mundial tem risco de contrair dengue. Já o mosquito *Anopheles darlingi* é o maior transmissor da Malária no Brasil, principalmente na região Amazônica. Essa doença é um problema de saúde pública em mais de 100 países. Estima-se que quase um milhão de pessoas morreu por causa da malária, sendo que 90% dessas mortes ocorreram na África.
 
-Até então não foi encontrada uma vacina que tenha resultados significativos na imunização da dengue ou malária. Assim, o controle da população dos mosquitos transmissores torna-se uma arma importante no combate a essas doenças. Diversas substâncias têm sido estudadas como inseticidas, uma vez que os mais usados atualmente vêm perdendo sua eficiência à medida que os mosquitos aumentam as suas resistências. 
+Até então não foi encontrada uma vacina que tenha resultados significativos na imunização da dengue ou malária. Assim, o controle da população dos mosquitos transmissores torna-se uma arma importante no combate a essas doenças. Diversas substâncias têm sido estudadas como inseticidas, uma vez que os mais usados atualmente vêm perdendo sua eficiência à medida que os mosquitos aumentam as suas resistências.
 
 A flor do cravo-da-índia, ou simplesmente cravo, é usada como especiaria desde a antiguidade. Na culinária brasileira está bastante presente, devido ao aroma e sabor característicos. Na medicina, o cravo é conhecido por ter propriedades bactericida, fungicida e mesmo antiviral. Pelas suas diversas particularidades, pesquisadores do Instituto Nacional de Pesquisas da Amazônia (Inpa) e da Universidade do Estado do Amazonas (UEA) estudaram o efeito [larvicida](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/190-cravo-da-india-contra-dengue-e-malaria#) do cravo-da-índia.
 
@@ -73,7 +72,3 @@ Fonte: https://canalciencia.ibict.br/ciencia
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -60,16 +60,15 @@ São Paulo** - Parque Villa-Lobos
 Horário: das 13h às 22h
 
 **Rio de Janeiro** - Praia de Ipanema
-23 e 24 de setembro 
+23 e 24 de setembro
 Horário: das 17h às 20h
 
 **Mais informações:****
-Site: [https://rockyspirit.com.br/](https://click.presskit.com.br/url/969274e329/6361388b6fc)[
-](https://click.presskit.com.br/url/969275f428/6361388b6fc)Instagram : [https://www.instagram.com/rockyspiritfest/
+Site: [https://rockyspirit.com.br/](https://click.presskit.com.br/url/969274e329/6361388b6fc)Instagram : [https://www.instagram.com/rockyspiritfest/
 ](https://click.presskit.com.br/url/969276a33c/6361388b6fc)Fan page - [https://www.facebook.com/](https://click.presskit.com.br/url/969277f010/6361388b6fc)[rockyspiritfest](https://click.presskit.com.br/url/969276a33c/6361388b6fc)
-*
+
 Assessoria de Imprensa:
-ZDL 
+ZDL
 Doro Jr. - MTb 13209 - ***[***dorojr@zdl.com.br***](https://click.presskit.com.br/url/969278c1c6/6361388b6fc)*** - F: 11 984579723 ******
 Rafael De Marco - Mtb.: 27556 - ***[***rafael@zdl.com.br***](https://click.presskit.com.br/url/9692798eb4/6361388b6fc)*** - Cel: 11 976022986 / WhatsApp: 19 997912108 ******
 

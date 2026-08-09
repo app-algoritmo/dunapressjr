@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior da (CAPES), alunos da Universidade Federal de Uberlândia (UFU),desenvolveram um teste rápido para a COVID-19 que usa a inteligência artificial para fazer o diagnóstico, a partir de uma pequena amostra de saliva e sem a necessidade de reagentes. O resultado sai em menos de dois minutos.
 
 Paula de Souza Santos, pós-doutoranda do Programa em Genética e Bioquímica da UFU explica que o equipamento, chamado ATR-FTIR, usa raios infravermelhos para detectar a presença de traços virais do Sars-Cov-2 na saliva: “A gente coleta a saliva do paciente e seca a amostragem em equipamento com alta temperatura. Forma-se um filme e então o equipamento faz a leitura. Esse perfil vai depois, por inteligência artificial construída a partir de um algoritmo, definir se esse paciente é positivo ou negativo”.
@@ -35,7 +34,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

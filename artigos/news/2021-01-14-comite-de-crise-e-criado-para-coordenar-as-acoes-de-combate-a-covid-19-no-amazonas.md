@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em visita ao Centro Integrado de Comando e Controle do Governo do Amazonas, o ministro da Saúde, Eduardo Pazuello, anunciou a criação de um comitê de crise no estado. O objetivo é agilizar e aumentar a eficiência das tomadas de decisões acerca das ações de combate à Covid-19.
 
 Na terça-feira (12), o estado recebeu do Governo Federal 198 cilindros de oxigênio para reforçar o tratamento de pacientes com Covid-19 que necessitam de suporte respiratório.
@@ -32,7 +31,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

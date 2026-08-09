@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O índice é estável em relação ao trimestre anterior: 14,4%, diz IBGE.
 
 A taxa de desemprego no país ficou em 14,6% no trimestre encerrado em maio deste ano, segundo dados divulgados hoje (30) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). O índice é estável, em termos estatísticos, em relação ao trimestre imediatamente anterior (encerrado em fevereiro deste ano): 14,4%.
@@ -22,10 +21,6 @@ O nível da ocupação, que é o percentual de pessoas ocupadas na população e
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 A pesquisa foi realizada com um grupo de voluntários idosos saudáveis. Durante 30 dias, eles inseriram na alimentação a ingestão de 400 ml de suco de uva integral, divididos em duas porções. Antes do início da pesquisa e após os 30 dias de consumo do suco, foram tomadas as medidas de peso corporal e circunferência abdominal dos voluntários, que também passaram pelo Mini Exame do Estado Mental (MEEM) e teste da mobilidade funcional (Timed Up & Go). Foram coletadas amostras de sangue para testes bioquímicos e esfoliação da camada interna bucal para extração e análise de alterações das células epiteliais.
 
 MEEM, também conhecido como Teste de Folstein, é comumente utilizado para avaliar a função cognitiva. É rápido e de fácil aplicação, não requerendo material específico. O teste, um breve questionário que pode ser respondido em 10 min, avalia orientação espacial, temporal, memória imediata, recordação, capacidade de cálculo, repetição, compreensão, escrita e cópia de desenho. Já o Timed Up & Go (TUG) avalia velocidade, agilidade e equilíbrio. O teste consiste em levantar-se de uma cadeira, sem ajuda dos braços, andar a uma distância de três metros, dar a volta e retornar. No início do teste, o avaliado deve estar com o dorso apoiado no encosto da cadeira e, ao final, deve encostar novamente. O tempo gasto para a realização do movimento define o risco do avaliado sofrer quedas.
@@ -53,7 +52,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

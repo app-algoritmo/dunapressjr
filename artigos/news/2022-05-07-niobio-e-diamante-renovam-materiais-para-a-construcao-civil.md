@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Desenvolver um material com alto grau de dureza, resistente e atóxico para ser usado na indústria petrolífera e na construção civil. Esse foi o objetivo do bolsista da CAPES, Meysam Mashhadikarimi, durante o seu doutorado pelo Programa de Pós-Graduação em Ciência e Engenharia de Materiais da Universidade Federal do Rio Grande do Norte (UFRN).
 
 Mashhadikarimi conta que sua pesquisa resultou na criação de um produto composto a partir da junção do pó de diamante com o nióbio para confecção de ferramentas diamantadas. “Substituímos o cobalto pelo nióbio com o objetivo de diminuir as falhas das ferramentas e aumentar a sua vida útil”, pontua.
@@ -31,7 +30,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

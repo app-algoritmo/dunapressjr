@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 Mais uma vez, associações e sociedades relacionadas à doença celíaca em todo o mundo estão se unindo para comemorar a data com o slogan “Ilumine a Doença Celíaca”.
 
 Neste 16 de maio de 2022, pontos de referência mundiais terão iluminação azul como forma de apoiar a campanha organizada pela Celiac Disease Foundation com a mensagem de que é preciso lançar luz sobre a conscientização da doença celíaca e a necessidade de pesquisas para seu tratamento e cura.
@@ -61,7 +60,7 @@ A doença celíaca não tem cura e por isso a dieta deve ser seguida rigorosamen
 A contaminação cruzada ocorre quando há transferência direta ou indireta de contaminantes físicos, químicos ou biológicos de um alimento, utensílio, vetor ou manipulador para alimentos que serão consumidos. Pode ocorrer nas diferentes etapas do processo de produção do alimento: pré-preparo, tratamento, armazenamento, transporte, serviço. São fontes de contaminação: esponjas, panos de prato, colher de pau, óleo para fritura, dentre outros.
 
 **Observação 1**: Celíacos só podem ingerir alimentos feitos em cozinhas descontaminadas.
-**
+
 Observação 2**: A **[Lei nº 10.674/2003](https://www.planalto.gov.br/ccivil_03/leis/2003/l10.674.htm)** tornou obrigatório que todos os alimentos industrializados informem em seus rótulos a presença ou não de glúten, como forma de resguardar o direito à saúde das pessoas com doença celíaca.
 
 Fonte: https://bvsms.saude.gov.br/
@@ -75,7 +74,3 @@ Fonte: https://bvsms.saude.gov.br/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

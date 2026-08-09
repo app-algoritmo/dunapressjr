@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medida é fruto do compromisso firmado entre Legislativo e Executivo.
 
 O governo encaminhou ao Congresso um projeto de lei que reduz incentivos e benefícios tributários de setores da economia. A Secretaria-Geral da Presidência informou nesta quinta-feira (16) que a medida é fruto do compromisso firmado entre o Legislativo e o Executivo para possibilitar o pagamento do auxílio emergencial em 2021, benefício que atende a população mais vulnerável durante a pandemia de covid-19.
@@ -28,10 +27,6 @@ A expectativa do governo é que o projeto seja aprovado ainda esse ano e iniciad
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

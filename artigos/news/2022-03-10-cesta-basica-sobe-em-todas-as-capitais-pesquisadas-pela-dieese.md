@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Feijão, café e óleo de soja puxaram alta de preços.
 
-O custo da cesta básica de alimentos aumentou em fevereiro nas 17 capitais pesquisadas pelo Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese). Segundo levantamento divulgado nesta quarta-feira (9) pelo Dieese, as maiores altas foram em Porto Alegre (3,4%), Campo Grande (2,78%), Goiânia (2,59%) e Curitiba (2,57%). 
+O custo da cesta básica de alimentos aumentou em fevereiro nas 17 capitais pesquisadas pelo Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese). Segundo levantamento divulgado nesta quarta-feira (9) pelo Dieese, as maiores altas foram em Porto Alegre (3,4%), Campo Grande (2,78%), Goiânia (2,59%) e Curitiba (2,57%).
 
 Em 12 meses, comparando fevereiro com o mesmo mês de 2021, as maiores altas ocorreram em Campo Grande (23%), Natal (19,9%) e Recife (16,9%).
 
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

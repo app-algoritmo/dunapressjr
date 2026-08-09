@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Foi a sexta queda consecutiva do indicador.
 
 A produção industrial do país caiu 0,2% de outubro para novembro de 2021. Foi a sexta queda consecutiva do indicador, que acumula perdas de 4% no período de seis meses. Os dados da Pesquisa Industrial Mensal foram divulgados nesta quinta-feira (6) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -22,10 +21,6 @@ Entre as quatro grandes categorias econômicas da indústria, bens de capital, i
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

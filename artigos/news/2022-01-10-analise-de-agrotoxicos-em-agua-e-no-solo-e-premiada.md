@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A técnica, descoberta nos anos 1970, amplifica o sinal desses materiais e permite identificar sua presença na natureza por meio de nanopartículas metálicas. A pesquisa foi realizada na Unesp, com um período de estágio no Conselho Superior de Investigação Científica (CSIC), em Madri (Espanha).
 
 O autor da tese premiada defende a importância de se desenvolver metodologias que identifiquem a presença dessas substâncias na água, no solo e em alimentos como verduras, cascas de frutas e legumes, por exemplo, e contribuam para monitorar a sua qualidade. “O uso em excesso, a falta de ação específica, além da manipulação e do descarte incorretos desses produtos, os tornam prejudiciais ao meio ambiente e, consequentemente, podem acarretar problemas de saúde para o sistema que entrar em contato com eles”, explica Rubira.
@@ -27,7 +26,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

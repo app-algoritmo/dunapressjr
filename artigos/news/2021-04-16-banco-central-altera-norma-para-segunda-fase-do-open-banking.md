@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medida reforça segurança de dados dos clientes.
 
 O *Diário Oficial da União* de hoje (16) traz [**resolução**](https://www.in.gov.br/en/web/dou/-/resolucao-bcb-n-86-de-14-de-abril-de-2021-314565458) do Banco Central (BC) que modifica regras para a implementação no país do sistema financeiro aberto, chamado *open banking*. Objetivo é reforçar o direito à proteção de dados dos clientes.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

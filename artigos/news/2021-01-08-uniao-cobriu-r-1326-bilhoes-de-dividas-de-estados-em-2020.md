@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Valor representa alta de 58,9% em relação ao ano anterior.
 
 O [**Tesouro Nacional**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-01/uniao-cobriu-r-835-bilhoes-de-dividas-atrasadas-de-estados-em-2019) pagou, em 2020, R$ 13,265 bilhões em dívidas atrasadas de estados. O valor é 58,9% a mais que o registrado em 2019, quando a União havia desembolsado R$ 8,35 bilhões.
@@ -46,8 +45,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

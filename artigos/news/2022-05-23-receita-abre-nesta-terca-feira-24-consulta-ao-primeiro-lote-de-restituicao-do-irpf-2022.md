@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Serão contemplados 3.383.969 contribuintes; valor total do crédito é de R$ 6,3 bilhões.
 
 A partir das 10 horas desta terça-feira (24), o primeiro lote de restituição do Imposto de Renda Pessoa Física (IRPF) 2022 estará disponível para consulta. Esse lote contempla também restituições residuais de exercícios anteriores.
@@ -19,16 +18,12 @@ Para saber se a restituição está disponível, o contribuinte deve acessar a [
 
 A Receita Federal oferece, ainda, aplicativo para *tablets* e *smartphones* que possibilita consultar diretamente nas bases do órgão informações sobre liberação das restituições do IRPF e a situação cadastral de uma inscrição no CPF.
 
-O pagamento da restituição é realizado diretamente na conta bancária informada na Declaração de Imposto de Renda. Se, por algum motivo, o crédito não for realizado – por  exemplo, a conta informada foi desativada –, os valores ficarão disponíveis para resgate por até um ano no Banco do Brasil. Neste caso, o cidadão poderá reagendar o crédito dos valores de forma simples e rápida pelo [Portal BB](https://www.bb.com.br/irpf),  ou ligando para a Central de Relacionamento BB por meio dos telefones 4004-0001 (capitais), 0800-729-0001 (demais localidades) e 0800-729-0088 (telefone especial exclusivo para deficientes auditivos).
+O pagamento da restituição é realizado diretamente na conta bancária informada na Declaração de Imposto de Renda. Se, por algum motivo, o crédito não for realizado – por exemplo, a conta informada foi desativada –, os valores ficarão disponíveis para resgate por até um ano no Banco do Brasil. Neste caso, o cidadão poderá reagendar o crédito dos valores de forma simples e rápida pelo [Portal BB](https://www.bb.com.br/irpf), ou ligando para a Central de Relacionamento BB por meio dos telefones 4004-0001 (capitais), 0800-729-0001 (demais localidades) e 0800-729-0088 (telefone especial exclusivo para deficientes auditivos).
 
-Caso o contribuinte não resgate o valor de sua restituição no prazo de um  ano, deverá [pedir novamente o pagamento](https://www.gov.br/pt-br/servicos/obter-restituicao-de-imposto-de-renda-nao-resgatada-no-banco).
+Caso o contribuinte não resgate o valor de sua restituição no prazo de um ano, deverá [pedir novamente o pagamento](https://www.gov.br/pt-br/servicos/obter-restituicao-de-imposto-de-renda-nao-resgatada-no-banco).
 
 Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa sobe 0,21% e tem melhor mês desde dezembro de 2020.
 
 Beneficiado pelo fluxo de recursos para países emergentes, o dólar aproximou-se de R$ 5,30 e fechou esta segunda-feira (31) no menor valor em quatro meses. A Bolsa de Valores teve pequena alta, mas encerrou janeiro com o maior ganho em mais de um ano.
@@ -22,7 +21,7 @@ O mercado de ações também teve um dia de tranquilidade. O índice Ibovespa, d
 
 ## Juros
 
-Apesar da expectativa de que o Federal Reserve (Fed, Banco Central norte-americano) aumente os juros a partir de março, tem prevalecido o entendimento de que os efeitos da alta para os países emergentes estão precificados (incorporados aos preços dos ativos). 
+Apesar da expectativa de que o Federal Reserve (Fed, Banco Central norte-americano) aumente os juros a partir de março, tem prevalecido o entendimento de que os efeitos da alta para os países emergentes estão precificados (incorporados aos preços dos ativos).
 
 Tradicionalmente, juros altos em economias avançadas estimulam a fuga de recursos de mercados emergentes, mas parte dos investidores tem entendido que as ações e as moedas de países em desenvolvimento ficaram muito baratas nos últimos meses.
 
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

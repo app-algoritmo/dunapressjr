@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Campanha pelo fim da violência contra as mulheres terá 16 dias de ativismo online.
 
 O Município de Itajaí está engajado na campanha mundial 16 Dias de Ativismo pelo Fim da Violência Contra as Mulheres. Neste ano, a iniciativa ocorrerá online para sensibilizar, prevenir e eliminar casos de violência contra meninas e mulheres. As ações ocorrerão de 25 de novembro (Dia Internacional pela Eliminação da Violência Contra as Mulheres) a 10 de dezembro (Dia Internacional dos Direitos Humanos).
@@ -37,5 +36,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

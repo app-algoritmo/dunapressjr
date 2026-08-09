@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Para muitos a doação de leite parece ser somente um momento sublime, que todas as mães desejam e de suma importância somente para aquelas mulheres que conseguem amamentar, nada além disso. Ledo engano! O leite materno é o melhor e mais nutritivo alimento para os bebês, mas infelizmente não é para todas as mães.
 
 Lorenzo nasceu com 30 semanas, mas por ter sido prematuro, sua mãe não conseguia alimentá-lo. “Assim que meu filho nasceu, ele teve que ir para Unidade de Tratamento Intenso (UTI) para ser se desenvolver, já que ele quis vir ao mundo mais cedo. E o leite doado foi fundamental para o desenvolvimento do meu filho”, relata Nayra Rocha de 24 anos.
@@ -55,7 +54,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

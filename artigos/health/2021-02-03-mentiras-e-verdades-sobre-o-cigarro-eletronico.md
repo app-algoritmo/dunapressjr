@@ -7,10 +7,9 @@ categories:
 - Health
 ---
 
-
 Disfarçados por uma infinidade de sabores e aromas, os cigarros eletrônicos dão, à primeira vista, a ideia de serem uma boa alternativa. Principalmente por parecerem, acima de tudo, inofensivos à saúde. Os vaporizadores, como assim também são chamados, ganharam um espaço muito rápido principalmente entre os mais jovens, reacendendo o debate sobre o tabagismo.
 
-Por ser mais prático, ter uma aparência mais tecnológica e atrativa e não causar aquele incômodo do cigarro tradicional – sobretudo pela diferença de odor -, os eletrônicos passaram a ser socialmente aceitáveis em diversos ambientes, principalmente em festas e eventos.  
+Por ser mais prático, ter uma aparência mais tecnológica e atrativa e não causar aquele incômodo do cigarro tradicional – sobretudo pela diferença de odor -, os eletrônicos passaram a ser socialmente aceitáveis em diversos ambientes, principalmente em festas e eventos.
 
 Tudo isso é motivo de sobra para fazer com que os usuários nem sequer se considerarem fumantes, intensificando ainda mais o uso. Mas tem um lado dessa história que provavelmente não te falaram e que está por trás de todo esse vapor com aroma de menta ou de chiclete. Entenda as mentiras e verdades sobre o cigarro eletrônico.
 
@@ -50,7 +49,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

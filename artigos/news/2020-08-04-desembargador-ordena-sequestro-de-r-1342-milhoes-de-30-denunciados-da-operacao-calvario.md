@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O desembargador Ricardo Vital de Almeida, relator da Operação Calvário no Tribunal de Justiça da Paraíba, deferiu pedido do Ministério Público estadual e decretou o sequestro (indisponibilidade) de dinheiro, valores e ativos financeiros, através do Sistema Bacen-Jud, em face de 30 dos 35 denunciados pelo MPPB. A medida visa garantir, em caso de eventual condenação, a reparação dos danos morais coletivos ocasionados pelo delito objeto da denúncia, em torno de R$ 134,2 milhões.
 
 A lista é composta dos seguintes nomes: Ricardo Vieira Coutinho, Estelizabel Bezerra de Souza, Maria Aparecida Ramos Meneses, Márcia de Figueiredo Lucena Lira, Waldson Dias de Souza, Gilberto Carneiro da Gama, Coriolano Coutinho, José Edvaldo Rosas, Cláudia Luciana de Sousa Mascena Veras, Aracilba Alves da Rocha, Ney Robison Suassuna, Geo Luiz de Sousa Fontes, Bruno Miguel Teixeira de Avelar Pereira Caldas, Jair Eder Araújo Pessoa Júnior, Raquel Vieira Coutinho, Benny Pereira de Lima, Breno Dornelles Pahim Filho, Breno Dornelles Pahim Neto, Denise Krummenauer Pahim, Saulo Pereira Fernandes, Keydison Sammuel de Sousa Santiago, Maurício Rocha Neves, David Clemente Monteiro Correia, José Arthur Viana Teixeira, Vladimir dos Santos Neiva, Valdemar Ábila, Márcio Nogueira Vignoli, Hilário Ananias Queiroz Nogueira e Járdel da Silva Aderico.
@@ -29,4 +28,4 @@ Segue a decisão na íntegra:
 
 Fonte: Tribunal de Justiça da Paraíba
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

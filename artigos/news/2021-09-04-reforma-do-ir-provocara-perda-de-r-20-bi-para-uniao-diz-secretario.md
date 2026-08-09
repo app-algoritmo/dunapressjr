@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## IFI calcula perda maior, de R$ 21,8 bi para 2022 e R$ 52,2 bi até 2024.
 
 Aprovada pela Câmara dos Deputados na quarta-feira (1º), a reforma do Imposto de Renda (IR) provocará perda de cerca de R$ 20 bilhões para o governo federal em 2022, disse nesta sexta-feira (3) o secretário especial de Tesouro e Orçamento do Ministério da Economia, Bruno Funchal. Em evento virtual promovido por uma instituição financeira, ele disse que os cálculos definitivos ainda serão feitos pela Receita Federal, mas informou que a equipe econômica trabalha com esse impacto.
@@ -38,10 +37,6 @@ A proposta original introduziria alíquota de 20%, com arrecadação de R$ 14,3 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

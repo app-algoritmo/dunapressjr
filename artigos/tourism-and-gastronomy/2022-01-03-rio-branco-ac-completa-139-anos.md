@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 Rio Branco (AC) completou 139 anos nesta terça-feira (28.12) trazendo ao fim do ano mais motivos para comemorar. A capital do Acre está localizada em uma região privilegiada, no coração da Amazônia, o que faz da cidade o local ideal para o ecoturismo. O Brasil está no topo do ranking dos países com mais riquezas naturais do mundo e a cidade aniversariante do dia com certeza é uma das estrelas nacionais nesse quesito e contribui para manter o país na lista dos destinos tendência no pós-pandemia.
 
 A guia de turismo rio-branquense Gercilânia Santos afirma que na capital acreana não faltam atrativos para os turistas. “Rio Branco é uma cidade bastante acolhedora, com comidas típicas, cultura local de excelência, clima muito agradável; podemos andar com segurança e tranquilidade”, conta.
@@ -29,7 +28,3 @@ Fonte: https://www.gov.br/turismo
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

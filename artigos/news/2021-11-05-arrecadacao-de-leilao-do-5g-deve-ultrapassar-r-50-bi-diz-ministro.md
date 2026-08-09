@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Declaração foi feita durante live do presidente Jair Bolsonaro.
 
 O ministro das Comunicações, Fábio Faria, disse nesta quinta-feira (4) acreditar que o valor de arrecadação do[** leilão do 5G**](https://agenciabrasil.ebc.com.br/geral/noticia/2021-11/claro-vivo-e-tim-arrematam-faixa-de-35-ghz-do-leilao-do-5g) deve ultrapassar os R$ 50 bilhões inicialmente previstos. Durante *live *semanal do presidente Jair Bolsonaro, Faria classificou o leilão como o maior do setor em toda a América Latina.
@@ -30,14 +29,10 @@ De acordo com o ministro, a previsão é que, na Região Norte, maior deserto di
 
 Dados do ministério mostram que há, no Brasil, cerca de 7 mil escolas urbanas sem internet no momento. A proposta do governo é que elas passem a estar conectadas por meio do valor arrecadado no leilão do 5G.
 
-“Das 85 mil escolas que existem na área urbana, 72 mil receberão internet 5G standalone”, concluiu Faria, ao se referir ao chamado 5G puro, que permite velocidade de conexão mais rápida, dentre outras vantagens. 
+“Das 85 mil escolas que existem na área urbana, 72 mil receberão internet 5G standalone”, concluiu Faria, ao se referir ao chamado 5G puro, que permite velocidade de conexão mais rápida, dentre outras vantagens.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

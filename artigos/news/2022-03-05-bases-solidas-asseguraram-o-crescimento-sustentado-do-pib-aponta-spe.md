@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Secretaria de Política Econômica destaca a importância das ações de consolidação fiscal e aumento da produtividade.
 
 Impulsionado pelo binômio econômico de ações de consolidação fiscal e de aumento da produtividade, o Brasil apresenta um crescimento em bases sólidas, com o investimento privado liderando a retomada econômica brasileira. Essa análise foi apresentada pelo chefe da Assessoria Especial de Assuntos Estratégicos do Ministério da Economia, Adolfo Sachsida, na manhã desta sexta-feira (4), ao divulgar a [Nota Informativa *–* Resultado do Produto Interno Bruto (PIB)](https://www.gov.br/economia/pt-br/centrais-de-conteudo/publicacoes/notas-informativas/2022/resultado-pib-2021-e-perspectivas.pdf) de 2021 e perspectivas, elaborada pela Secretaria de Política Econômica (SPE). “Os dados confirmam o acerto da política econômica adotada pelo governo neste momento tão difícil de pandemia. Confirmam a recuperação, como é constantemente alertado pelo ministro Paulo Guedes”, destacou Sachsida, em entrevista coletiva.
@@ -36,7 +35,7 @@ A taxa de investimento em 2021 foi de 19,2% do PIB, acima do observado no ano an
 
 Sobre o atual cenário global adverso *–* devido à guerra no Leste europeu *–*, o chefe da Assessoria Especial de Assuntos Estratégicos alertou que o Brasil já se posicionou ao lado das democracias ocidentais, se colocando em posição contrária à invasão russa na Ucrânia. Sob o ponto de vista econômico, Sachsida alertou que o momento exige, internamente, a manutenção dos esforços de consolidação fiscal e de aumento da produtividade, com avanços na modernização dos marcos regulatórios e na agenda de concessões e privatizações.
 
-Sachsida manifestou otimismo quanto aos avanços das medidas da agenda de modernização da economia que estão no Congresso. Citou a  importância da aprovação dos textos do Novo Marco de Garantias ([PL nº 4.188/2021](http://www.planalto.gov.br/CCIVIL_03/Projetos/PL/2021/msg625-novembro2021.htm)); de concessões e parcerias público-privadas ([PL nº 7.063/2017](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2124888)) e de debêntures de infraestrutura ([PL nº 2.646/2020](https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2646-2020)); além da proposta de Modernização de Registros Públicos ([MP nº 1.085/2021](http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Mpv/mpv1085.htm)), entre outros temas já nas mãos dos parlamentares. Ao falar sobre o programa de concessões e privatizações, declarou que já está encaminhada a capitalização da Eletrobras e defendeu o apoio do Senado para a aprovação do projeto de privatização dos Correios ([PL nº 591/2021](https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-591-2021)).
+Sachsida manifestou otimismo quanto aos avanços das medidas da agenda de modernização da economia que estão no Congresso. Citou a importância da aprovação dos textos do Novo Marco de Garantias ([PL nº 4.188/2021](http://www.planalto.gov.br/CCIVIL_03/Projetos/PL/2021/msg625-novembro2021.htm)); de concessões e parcerias público-privadas ([PL nº 7.063/2017](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2124888)) e de debêntures de infraestrutura ([PL nº 2.646/2020](https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2646-2020)); além da proposta de Modernização de Registros Públicos ([MP nº 1.085/2021](http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Mpv/mpv1085.htm)), entre outros temas já nas mãos dos parlamentares. Ao falar sobre o programa de concessões e privatizações, declarou que já está encaminhada a capitalização da Eletrobras e defendeu o apoio do Senado para a aprovação do projeto de privatização dos Correios ([PL nº 591/2021](https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-591-2021)).
 
 “Por isso a importância tão grande de o ministro Paulo Guedes ter ido aos Estados Unidos mostrar aos investidores estrangeiros a força dos novos marcos legais brasileiros, que melhoram a segurança jurídica do investimento, e a nossa agenda de concessões, a maior fronteira de concessões do mundo. Ou seja, mostrar ao mundo que, neste momento, o Brasil é um porto seguro para o investimento internacional, para o investimento privado”, reforçou Sachsida.
 
@@ -46,14 +45,10 @@ Além do chefe da Assessoria Especial de Assuntos Estratégicos, a entrevista co
 
 “Em outras palavras, os dados confirmam o acerto da política econômica adotada pelo Governo brasileiro nesse período tão difícil de pandemia”, completa [@ASachsida](https://twitter.com/ASachsida?ref_src=twsrc%5Etfw) .
 
-&mdash; Ministério da Economia (@MinEconomia) [March 4, 2022](https://twitter.com/MinEconomia/status/1499734487575547913?ref_src=twsrc%5Etfw) 
+&mdash; Ministério da Economia (@MinEconomia) [March 4, 2022](https://twitter.com/MinEconomia/status/1499734487575547913?ref_src=twsrc%5Etfw)
 
 Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

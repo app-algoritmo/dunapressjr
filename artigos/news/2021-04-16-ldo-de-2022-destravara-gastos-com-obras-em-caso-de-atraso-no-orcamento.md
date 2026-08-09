@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Investimentos de estatais e recuperação de rodovias poderão continuar.
 
 Investimentos de estatais e obras de conservação e recuperação de rodovias poderão ser executadas em 2022, mesmo que haja atraso na aprovação do Orçamento. A novidade consta do projeto da Lei de Diretrizes Orçamentárias (PLDO) do próximo ano, enviado nesta quinta-feira (15) ao Congresso Nacional.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

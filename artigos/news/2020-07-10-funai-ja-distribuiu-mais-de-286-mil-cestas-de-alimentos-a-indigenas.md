@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Fundação Nacional do Índio (Funai) já investiu, desde o início da pandemia, quase R$ 24 milhões em ações de combate ao novo coronavírus. Entre as medidas, está a distribuição de mais de 286 mil cestas de alimentos a indígenas em situação de vulnerabilidade social em todo o País. As entregas envolvem recursos próprios, doações e parcerias com outros setores do governo federal. A expectativa é alcançar, nos próximos dias, a marca de 500 mil cestas entregues.
 
 A iniciativa envolve o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH), a Companhia Nacional de Abastecimento (Conab) e a Secretaria Especial de Saúde Indígena (Sesai), entre outros parceiros. A ação deve beneficiar 154 mil famílias em 3 mil comunidades indígenas. A maior parte dos itens (182 mil) foi adquirida pela Conab com recursos do MMFDH. Já a distribuição tem sido executada pela Funai, com o auxílio do Ministério da Defesa.
@@ -34,7 +33,7 @@ As solicitações podem ser encaminhadas para os telefones (61) 99622-7067 e (61
 
 ### Empresa Solidária
 
-A [Campanha Empresa Solidária](http://funai.gov.br/empresasolidaria/) segue aberta para doações que serão destinados às famílias indígenas mais vulneráveis, como alimentos não-perecíveis, produtos de higiene pessoal e materiais de limpeza. A ideia é que as doações possam se somar ao trabalho que vem sendo realizado pela fundação. 
+A [Campanha Empresa Solidária](http://funai.gov.br/empresasolidaria/) segue aberta para doações que serão destinados às famílias indígenas mais vulneráveis, como alimentos não-perecíveis, produtos de higiene pessoal e materiais de limpeza. A ideia é que as doações possam se somar ao trabalho que vem sendo realizado pela fundação.
 
 ### Saúde indígena
 
@@ -59,6 +58,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

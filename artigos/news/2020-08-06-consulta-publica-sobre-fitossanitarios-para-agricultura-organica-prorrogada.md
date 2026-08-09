@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A proposta estabelece requisitos mínimos para a produção e para o aumento da segurança desse tipo de insumo dentro das propriedades agrícolas.
 
 O Ministério da Agricultura, Pecuária e Abastecimento (Mapa) prorrogou por 90 dias o prazo da consulta pública sobre fabricação de produtos fitossanitários com uso aprovado para agricultura orgânica. A proposta de Instrução Normativa estabelece requisitos mínimos para a produção e para o aumento da segurança desse tipo de insumo dentro das propriedades agrícolas. O prazo para o recebimento das sugestões havia terminado em julho.
@@ -24,7 +23,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

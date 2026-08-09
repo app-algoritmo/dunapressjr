@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Educação (MEC) e o Instituto Nacional de Educação de Surdos (Ines) informam que a Associação Comunicativa Roquette Pinto (Acerp) possui contrato vigente de prestação de serviços com o Instituto, para execução da TV INES com encerramento previsto para novembro de 2020.
 
 Importante ressaltar que o MEC garantiu os recursos ao Ines para a realização dos desembolsos à Acerp, conforme pactuado no contrato de prestação de serviços e, que não há parcelas em atraso.
@@ -20,7 +19,7 @@ Fonte: gov.br / Imagem em destaque: tdn
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

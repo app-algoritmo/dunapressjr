@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Do endereço ao CPF, da data de nascimento aos hábitos financeiros, os dados pessoais estão hoje nos registros das mais diversas empresas. Para além dos serviços e/ou produtos que as companhias comercializam, essas informações são também ativos muito valiosos. Por isso, os dados são tão visados por criminosos e é papel da empresa que os coleta garantir que eles não sejam roubados ou adulterados. Um projeto de segurança sólido precisa atuar em duas frentes: proteger o usuário de ameaças, garantindo integridade e confidencialidade e, ao mesmo tempo, maximizar o retorno de investimentos e gerar novas oportunidades.
 
 Para a diretora de Tecnologia e Operações da Tecnobank, **Adriana Saluceste**, informação é um dos pontos mais delicados das operações da empresa, que trabalha com o sistema financeiro. “Mantemos uma política de atualização constante de sistemas operacionais e de firmware, com o intuito de mitigar possíveis explorações de vulnerabilidades. Práticas de desenvolvimento seguro são adotadas para evitar brechas que possibilitam vazamento de dados ou indisponibilidade dos sistemas”, explica. Mas como reduzir as chances de que um ataque hacker invada o banco de dados? A especialista enumera oito pontos que precisam de atenção redobrada.
@@ -22,7 +21,7 @@ Para garantir segurança, é fundamental restringir o acesso aos dados àquelas 
 
 **       3**. **Exija senhas seguras e fatores múltiplos de autenticação**
 
-Senhas fortes, com menos chances de serem copiadas ou adivinhadas são uma camada extra de proteção de dados. O mesmo serve para fatores de autenticação. Quanto mais etapas, melhor. “Além de autenticar com senha, você pode exigir uma pergunta de segurança, um código que vá para o celular do usuário, um token. A gente usa recursos dessa natureza para garantir que o conteúdo esteja disponível, mas mantenha a confidencialidade da informação”, afirma a diretora da Tecnobank. 
+Senhas fortes, com menos chances de serem copiadas ou adivinhadas são uma camada extra de proteção de dados. O mesmo serve para fatores de autenticação. Quanto mais etapas, melhor. “Além de autenticar com senha, você pode exigir uma pergunta de segurança, um código que vá para o celular do usuário, um token. A gente usa recursos dessa natureza para garantir que o conteúdo esteja disponível, mas mantenha a confidencialidade da informação”, afirma a diretora da Tecnobank.
 
 - **Negligência com a informação pública**
 
@@ -55,7 +54,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

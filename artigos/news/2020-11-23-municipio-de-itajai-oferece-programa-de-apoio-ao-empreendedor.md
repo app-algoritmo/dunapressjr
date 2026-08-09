@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O programa busca ensinar empreendedores a divulgar seu produto através do marketing digital.
 
 A Secretaria Municipal de Desenvolvimento Econômico, em parceria com o Sebrae, oferece consultorias de marketing digital gratuitas. O Programa de Apoio ao Empreendedor ocorrerá de 24 de novembro a 04 de dezembro. Serão consultorias online com uma hora de duração.
@@ -27,7 +26,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

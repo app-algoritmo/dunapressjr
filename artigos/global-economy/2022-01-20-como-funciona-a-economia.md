@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Hoje trazemos este excelente vídeo do canal Jovens de Negócio desenvolvido por Breno Perrucho, onde você já deve ter se perguntado como funciona a economia.
 
 🙄As escolas te ensinam o que é uma célula, mas não te falam o que é economia, nem sobre como cuidar do seu próprio dinheiro, nem sobre macroeconomia e nada de educação financeira.
@@ -42,6 +41,6 @@ O governo se utiliza então da taxa de juros como uma forma de frear o consumo d
 
 Como o dinheiro migra da mão do setor privado para o setor público, menor se torna a capacidade do setor privado se expandir, criar empregos e aumentar a produção interna. Isso pode gerar desemprego.
 
-Download gratuito do 𝗲𝗕𝗼𝗼𝗸 𝗕𝗮𝗻𝗰𝗼 𝗖𝗲𝗻𝘁𝗿𝗮𝗹: [https://bit.ly/3cstZN9](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFktaVg5WlRKWndyX0dYWS16alNjOTRXal85Z3xBQ3Jtc0ttWHhFa1ZPMl9LaHpuekhwVWFXQTJVX0ZTSEZfTFYxNjdNVHZaVThlcUdOaG1TYVBDQVpoUE9CUTVOOW5xQkhnNU1JcVJSQXZBX2dreGdEY0xUWDZGMmhHckJadmNqN3JZcDJyMGM3QlQ5bHdYc1F4NA&q=https%3A%2F%2Fbit.ly%2F3cstZN9)
+Download gratuito do 𝗲𝗕𝗼𝗼𝗸 𝗕𝗮𝗻𝗰𝗼 𝗖𝗲𝗻𝘁𝗿𝗮𝗹: [](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFktaVg5WlRKWndyX0dYWS16alNjOTRXal85Z3xBQ3Jtc0ttWHhFa1ZPMl9LaHpuekhwVWFXQTJVX0ZTSEZfTFYxNjdNVHZaVThlcUdOaG1TYVBDQVpoUE9CUTVOOW5xQkhnNU1JcVJSQXZBX2dreGdEY0xUWDZGMmhHckJadmNqN3JZcDJyMGM3QlQ5bHdYc1F4NA&q=https%3A%2F%2Fbit.ly%2F3cstZN9)
 
 Fonte: Canal Jovens de Negócio

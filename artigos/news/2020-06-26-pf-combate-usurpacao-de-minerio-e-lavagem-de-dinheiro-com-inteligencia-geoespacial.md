@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Natal/RN - A Polícia Federal deflagrou na manhã desta sexta-feira, 26/6, a Operação Siroco*, com o objetivo de apurar usurpação de minério, lavagem de capitais e crimes ambientais.
 
 Policiais federais cumprem, simultaneamente, três mandados judiciais de busca e apreensão, expedidos pela 15ª Vara Federal do Rio Grande do Norte, nas cidades de Natal/RN e Fortaleza/CE. A operação do Rio Grande do Norte foi deflagrada de forma coordenada com a Operação Anemoi, deflagrada, também na data de hoje, pela Polícia Federal no Ceará e que investiga fatos similares praticados pelos mesmos suspeitos naquele estado.
@@ -36,4 +35,4 @@ Será concedida entrevista coletiva às 10h, por meio do aplicativo Teams. Os in
 
 Comunicação Social da Polícia Federal no Rio Grande do Norte
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

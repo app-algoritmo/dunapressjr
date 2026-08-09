@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Cumprimento de recomendações às empresas multinacionais é um dos principais itens avaliados pela Organização; revisão vai contribuir para acessão do Brasil.
 
 O Ponto de Contato Nacional (PCN) do Brasil, que promove as Diretrizes para Empresas Multinacionais da Organização para Cooperação e Desenvolvimento Econômico (OCDE), está passando por uma avaliação entre pares (*peer review)*. A revisão será feita por representantes de outros países, durante o primeiro semestre deste ano, para verificar se o PCN brasileiro está em conformidade com as Diretrizes, permitindo que se identifiquem os pontos fortes e as necessidades de aprimoramento.
@@ -26,8 +25,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

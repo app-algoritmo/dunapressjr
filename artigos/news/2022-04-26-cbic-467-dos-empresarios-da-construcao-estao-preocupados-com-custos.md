@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Inflação de materiais é de 51,21% de janeiro de 2020 a março de 2022.
 
 A alta nos preços de insumos é o que mais tem preocupado empresários da construção civil. De acordo com a Câmara Brasileira da Indústria da Construção (CBIC), o problema foi mencionado por 46,7% dos empresários do setor, no levantamento Desempenho Econômico da Indústria da Construção Civil e Perspectivas, divulgado nesta segunda-feira (25).
@@ -52,8 +51,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

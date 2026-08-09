@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Comissão especial votou parecer na noite desta sexta-feira
 
 A comissão especial da Câmara dos Deputados sobre a Proposta de Emenda à Constituição (PEC) 135/19, que torna obrigatório o voto impresso, aprovou nesta sexta-feira (6), por 22 votos a 11, o parecer do deputado Raul Henry (MDB-PE) que recomenda que o plenário rejeite o texto.
@@ -20,14 +19,10 @@ Após a publicação do parecer da comissão especial e decorridas duas sessões
 
 O texto original da PEC, de autoria da deputada Bia Kicis (PSL-DF), determina que o registro de votos em eleições, plebiscitos e referendos será “obrigatória a expedição de cédulas físicas conferíveis pelo eleitor”. A justificativa apresentada pela deputada é permitir eventuais auditorias.
 
-Pouco antes da reunião da comissão, o presidente da Câmara, Arthur Lira (PP-AL) anunciou em um pronunciamento que a decisão sobre a PEC 135/19 será tomada pelos parlamentares e que a proposta[** será levada para votação no plenário**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-08/presidente-da-camara-pec-do-voto-impresso-sera-analisada-no-plenario) da Câmara. 
+Pouco antes da reunião da comissão, o presidente da Câmara, Arthur Lira (PP-AL) anunciou em um pronunciamento que a decisão sobre a PEC 135/19 será tomada pelos parlamentares e que a proposta[** será levada para votação no plenário**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-08/presidente-da-camara-pec-do-voto-impresso-sera-analisada-no-plenario) da Câmara.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Video library
 ---
 
-
 O natal é sempre revisitado por alguma produção cinematográfica, peça teatral e shows de fim de ano. Muitos tentam oferecer algo que seja bem acolhido pelo público, todavia poucos conseguem.
 
 Muitas produções já trabalharam o tema, vários livros já foram escritos e adaptados, o que torna um desafio produzir algo que seja digno de atenção, e dinheiro, durante as festas natalinas.
@@ -31,7 +30,5 @@ De fato, essa alternância entre drama e comédia marca esse filme e permite ao 
 Além de um sucesso no Brasil, o filme conquistou o “Top” da Netflix nos Estados Unidos, Polônia, Espanha, México entre outros países.
 
 Diante de um ano tão difícil, esse filme surge como uma grata surpresa.
-
-https://dunapress.org/luiz-gustavo-dos-santos-chrispino-pix-autorizado/
 
 Clique [AQUI NO LINK](https://www.amazon.com/-/pt/dp/B07S28ND6Z/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=luiz+gustavo+chrispino&qid=1590260721&sr=8-1) e adquira na Amazom.com - em E-book e Impresso

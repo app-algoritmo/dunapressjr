@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Alta nos preços do petróleo e de fertilizantes fez saldo cair 22,7%.
 
 O encarecimento do preço de vários itens importados, especialmente fertilizantes e petróleo, fez o superávit da balança comercial encolher em julho. No mês passado, o país exportou US$ 5,444 bilhões a mais do que importou, queda de 22,7% em relação ao registrado no mesmo mês de 2012.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

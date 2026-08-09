@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O mercado de trabalho abre, cada vez mais, as portas para a terceira idade. Mais do que incentivada, a contratação de idosos passa a ser necessária. De acordo com o IBGE (Instituto Brasileiro de Geografia e Estatística), cerca de 30 milhões de brasileiros têm 60 anos ou mais. Além disso, a OMS (Organização Mundial de Saúde) garante que, em 2025, o Brasil será o sexto país do mundo com o maior número de idosos. “O preconceito que se tinha com relação às pessoas mais maduras no mercado de trabalho, aos poucos, vai ficando de lado, já que muitas empresas perceberam que esse segmento oferece vantagens aos negócios”, afirma o doutor em Administração e professor de Pós-Graduação da Universidade Positivo (UP), Fábio Vizeu.
 
 Diversas ações tentam estimular a contratação desse público. O Projeto de Lei (PL) 4.890/2019, se aprovado na Comissão de Assuntos Econômicos (CAE), tem como finalidade oferecer incentivos fiscais, com duração de cinco anos, para empresas que contratarem funcionários com idade igual ou superior a 60 anos. Além disso, nos últimos anos, grandes empresas como Votorantim e Unilever criaram programas para empregar exclusivamente idosos. Startups estão surgindo e prometem lucrar muito com esse segmento. A Maturi, por exemplo, é uma plataforma que gera vagas de trabalho para pessoas acima dos 50 anos de idade. Segundo Vizeu, há pelo menos cinco bons motivos para empresas contratarem idosos. São eles:
@@ -43,7 +42,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

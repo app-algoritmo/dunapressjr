@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 Todo mundo já conhece os benefícios de uma vida fisicamente ativa tanto na prevenção quanto no tratamento de diversas doenças, sejam elas físicas ou psicológicas. Mas pouca gente lembra dos cuidados necessários antes do início de uma atividade física.
 
 Ulisses Masseli, profissional de Educação Física do Hospital Universitário Maria Aparecida Pedrossian, de Campo Grande (MS) e vinculado à Rede Empresa Brasileira de Serviços Hospitalares (EBSERH), ensina alguns passos importantes que precisam ser seguidos para que nenhuma surpresa desagradável atrapalhe sua vida em movimento.
@@ -63,7 +62,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

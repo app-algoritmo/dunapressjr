@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) publicou, nesta quarta-feira, 8 de julho, o documento-base do exame para Certificado de Proficiência em Língua Portuguesa para Estrangeiros (Celpe-Bras). O objetivo é oferecer aos participantes, aos professores de língua portuguesa para estrangeiros e aos pesquisadores da área um instrumento para apresentar o modelo teórico do exame e a sua operacionalização nas partes escritas e oral.
 
 O documento inédito, elaborado pela Diretoria de Avaliação da Educação Básica do Inep, possui 135 páginas e uma ampla explicação sobre todo o processo do exame, como o marco legal; o referencial teórico; a estrutura do exame e os parâmetros de avaliação; os quadros de referência; a descrição dos níveis de proficiência; e o processo de avaliação e confiabilidade.
@@ -25,7 +24,7 @@ Fonte: gov.br / Imagem em destaque: ufrr.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Cirurgiã-dentista formada pelo Centro Universitário Dr. Leão Sampaio (UNILEÃO) e mestranda do Programa em Ciências Odontológicas pela Universidade Federal do Rio Grande do Norte (UFRN), Ana Larisse Carneiro desenvolve pesquisas clínicas com ênfase em novas possibilidades tecnológicas para as reabilitações orais.
 
 **Fale um pouco sobre o seu trabalho.**
@@ -38,7 +37,3 @@ Fonte: https://www.gov.br/capes
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

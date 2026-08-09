@@ -10,5 +10,3 @@ categories:
 As 10 informações que os homens gostariam que as mulheres já soubessem no início de um relacionamento.
 
 Estratégias sigilosas de campo reveladas para seu benefício, não se queixe: aplique! Ou não aplique - e antão se queixe.
-
-[](https://www.instagram.com/alessandroloiolamd/)

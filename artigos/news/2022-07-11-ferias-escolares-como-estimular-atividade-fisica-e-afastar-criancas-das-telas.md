@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Com o fim do primeiro semestre de aulas, boa parte das crianças volta a passar longos períodos do dia dentro de casa. Durante o período de férias escolares, muitos pais podem achar desafiador manter os pequenos longe das atrativas telas de celulares, notebooks, tablets e da televisão. Mas, por mais que a batalha com os equipamentos eletrônicos seja árdua, é necessário estimular atividades físicas, principalmente ao ar livre, para que crianças e adolescentes se mantenham saudáveis mesmo no período de recesso escolar.
 
 Quando estão na escola, crianças têm à disposição um espaço importante de desenvolvimento da base motriz. E é fundamental fazer com que elas permaneçam em movimento, de acordo com a assessora de Educação Física do Sistema Positivo de Ensino e doutoranda em Fisiologia do exercício, Juliana Landolfi Maia. “O sedentarismo não é só a falta de movimento, mas também está relacionado ao estímulo excessivo causado por atividades como jogos eletrônicos, filmes e outros conteúdos acessados em smartphones, videogame, televisão e tablets”, destaca. Ela explica que estudos recentes mostram que esse tempo passado em frente às telas é um fator de preocupação quando o assunto é saúde.
@@ -47,7 +46,3 @@ Fonte:  Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

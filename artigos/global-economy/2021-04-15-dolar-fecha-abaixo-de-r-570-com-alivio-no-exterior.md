@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa encerra no maior nível em quase dois meses.
 
 Em um dia de alívio nos mercados internacionais, o dólar fechou abaixo de R$ 5,70 pela primeira vez em quase uma semana. Na terceira sessão seguida de alta, a bolsa de valores fechou acima de 120 mil pontos pela primeira vez desde fevereiro.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Os resgates líquidos da DPF no mês passado somaram R$ 167,16 bilhões, com melhora do perfil do endividamento.
 
 A Dívida Pública Federal (DPF) encerrou o mês de abril em R$ 5,089 trilhões, o que representa retração de 2,92%, em termos nominais, na comparação com os R$ 5,242 trilhões registrado ao final de março. O dado está presente no Relatório Mensal da Dívida de abril, divulgado nesta quarta-feira (26/5) pela Secretaria do Tesouro Nacional (STN). A redução de R$ 153,3 bilhões no estoque da DPF em relação ao mês anterior reflete o resgate líquido de R$ 167,2 bilhões e a apropriação positiva de juros de R$ 13,9 bilhões.
@@ -66,8 +65,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

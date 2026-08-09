@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice teve alta de 4,5 pontos na passagem de setembro para outubro.
 
 O Índice de Confiança da Indústria, da Fundação Getulio Vargas (FGV), teve alta de 4,5 pontos na passagem de setembro para outubro deste ano. Com isso, o indicador, que mede a confiança do empresário da indústria brasileiro, atingiu 111,2 pontos, em uma escala de zero a 200 pontos, o maior nível desde abril de 2011 (111,6 pontos).
@@ -25,5 +24,3 @@ Segundo a pesquisadora, no entanto, há uma demora na recuperação do indicador
 Fonte: Agência Brasil – Imagem de destaque: José Paulo Lacerda/CNI/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Em reunião com o presidente da República Jair Bolsonaro, ministros e com o Colégio Nacional de Secretários de Segurança Pública (Consesp) nesta quarta-feira (10), o ministro da Justiça e Segurança Pública, André Mendonça, defendeu a união de esforços e a integração para alcançar resultados positivos na segurança pública. O ministro destacou que os pilares da atuação são a gestão do conhecimento e a gestão da informação.
 
 “Daremos toda estrutura possível para que os estados possam desenvolver o trabalho na área de segurança pública. O nosso papel é apoiar, cooperar, coordenar e, principalmente, trabalhar em parceria, de forma integrada e coordenada, com os secretários de Segurança Pública. Teremos um contato permanente para que o Ministério seja um centro facilitador do trabalho desenvolvido pelos secretários”, afirmou o ministro André Mendonça em coletiva de imprensa após a reunião.
@@ -20,5 +19,3 @@ Para aprimorar a administração e gestão orçamentária dos recursos do Fundo 
 O presidente do Consesp, Cristiano Barbosa Sampaio, explicou a importância da abertura do diálogo com o Governo Federal, por meio do Ministério da Justiça e Segurança Pública, e se disse “otimista com o encontro”. “Já na primeira semana que o ministro André Mendonça assumiu fomos recebidos pessoalmente, com tempo e atenção. No nosso primeiro contato, ficou claro como o tema tem sido tratado de forma prioritária por esta gestão. Essa aproximação é de extrema importância para avançarmos na pauta da segurança pública”, destacou Sampaio.
 
 Fonte: Portal de Imprensa do Ministério da Justiça e Segurança Pública
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

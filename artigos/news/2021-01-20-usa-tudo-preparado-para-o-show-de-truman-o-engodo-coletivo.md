@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 Monitorado por câmeras e transmitido em redes "democraticamente" corretas, hoje 20 de janeiro de 2021, o mundo será testemunha da maior fraude de todos os tempos, a posse do novo presidente americano, eleito por milhares de defuntos, urnas fraudulentas, votos falsificados, mídias, redes sociais e big techs parciais e autoritárias, não, o que você está vendo não é um pesadelo, é uma realidade.
 
-O circo americano está preparado para uma das inaugurações mais incomuns da história. 
+O circo americano está preparado para uma das inaugurações mais incomuns da história.
 
-O presidente eleito deve tomar posse hoje 20 de janeiro em meio a medidas de segurança, tornando-se uma das inaugurações mais estranhas e incomuns da história dos Estados Unidos.[](https://www.theepochtimes.com/t-lockdown)[](https://www.theepochtimes.com/t-history)
+O presidente eleito deve tomar posse hoje 20 de janeiro em meio a medidas de segurança, tornando-se uma das inaugurações mais estranhas e incomuns da história dos Estados Unidos.
 
 Como muitos predecessores, o eleito fará o juramento nas escadas do edifício do Capitólio. Mas o tradicional desfile pela Pennsylvania Avenue, que normalmente atrai centenas de milhares de americanos, foi cancelado e substituído por um desfile virtual. Os bailes inaugurais também foram cancelados.
 

@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-Ajuda consiste no custeio de diárias de bombeiros militares de outros estados que atuarão no combate às chamas. Ministro da Justiça e Segurança Pública, André Mendonça, ofereceu ajuda aos governos de Mato Grosso e Mato Grosso do Sul. 
+Ajuda consiste no custeio de diárias de bombeiros militares de outros estados que atuarão no combate às chamas. Ministro da Justiça e Segurança Pública, André Mendonça, ofereceu ajuda aos governos de Mato Grosso e Mato Grosso do Sul.
 
 O Ministro da Justiça e Segurança Pública, André Mendonça, ofereceu ajuda aos governos de Mato Grosso e Mato Grosso do Sul para custear diárias de bombeiros militares de outros estados para reforço no combate aos incêndios que afetam principalmente o Pantanal.
 
@@ -26,5 +25,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

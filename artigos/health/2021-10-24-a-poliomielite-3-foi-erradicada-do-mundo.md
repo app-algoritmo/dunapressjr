@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 No dia 24 de outubro, data que marca o Dia Mundial da Poliomielite.
 
 “Eu só não nasci com a pólio, mas aprendi a conviver com as sequelas. Até mesmo porque eu nunca soube o que é caminhar dentro dos padrões da normalidade. No meu caso, eu adquiri antes mesmo da primeira dose da vacina, que é aos dois meses. Eu não tive acesso a vários esportes, várias outras oportunidades que eu deveria ter eu não tive em virtude da paralisia. A vacina é única prevenção”. O relato é do cirurgião dentista Ricardo Gadelha, que teve poliomielite antes dos dois meses de vida, essa doença, que também é conhecida como paralisia infantil.
@@ -46,7 +45,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

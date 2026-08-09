@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro do Desenvolvimento Regional, Rogério Marinho, assina edital para contratação de empresa responsável pelo projeto executivo.
 
 Mais uma obra para levar água à população deve começar nos próximos meses. É o Sistema Seridó, no Rio Grande do Norte. No estado, o ministro do Desenvolvimento Regional, Rogério Marinho, lançou, nesta quinta-feira (26), o edital para contratação da empresa que deverá elaborar o projeto executivo e de estudos complementares do novo empreendimento.
@@ -43,5 +42,3 @@ Fonte: gov.br – Imagem de destaque: Ministério do Desenvolvimento Regional
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

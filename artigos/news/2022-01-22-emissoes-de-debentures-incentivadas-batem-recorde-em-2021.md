@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Papéis financiam projetos de infraestrutura com isenção de IR.
 
 Títulos privados isentos de Imposto de Renda (IR) que financiam projetos de infraestrutura, as debêntures incentivadas, fecharam 2021 com recorde. Depois de caírem em 2020, quando atingiram R$ 28,04 bilhões em captações, os lançamentos desses papéis somaram R$ 47,2 bilhões no ano passado.
@@ -30,8 +29,4 @@ Em seguida, vêm os empreendimentos de transporte e logística, com R$ 38,21 bil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

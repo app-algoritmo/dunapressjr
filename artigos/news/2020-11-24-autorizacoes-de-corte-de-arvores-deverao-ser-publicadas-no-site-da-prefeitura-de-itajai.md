@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Em segunda discussão, a Câmara de Vereadores de Itajaí aprovou nesta terça-feira (24), durante a 56ª Sessão Ordinária, o [Projeto de Lei Ordinária (PLO) nº 144/2019](http://www.cvi.sc.gov.br/public/elegis2/pdf/projetodeleiordinaria144_2019.pdf), do vereador Níkolas Reis (Podemos). O PLO, que dispõe sobre a divulgação eletrônica de autorizações e licenças ambientais em Itajaí recebeu 16 votos favoráveis.
  
 O projeto determina que toda autorização para corte de árvores ou licença ambiental para retirada de áreas verdes deverá ser publicada no site oficial do Município. A publicação deverá ser feita com antecedência mínima de 15 dias do serviço de corte, com a respectiva justificativa técnica. Em casos de remoções feitas com urgência, haverá um prazo máximo de três dias úteis após a realização do serviço para a publicação da autorização.
@@ -36,7 +35,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

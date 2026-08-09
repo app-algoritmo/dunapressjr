@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O que é a pesquisa?
 
 O Brasil, por suas características geográficas, possui uma enorme quantidade de água doce superficial, distribuída em rios e lagos: aproximadamente 12% de toda a água doce do planeta, enquanto que toda a Europa só tem 7%. Se a quantidade média de chuva no mundo é de aproximadamente 800 mm anuais, na maioria dos municípios brasileiros a quantidade é quase o dobro disso.
@@ -16,7 +15,7 @@ A grande disponibilidade de água superficial no território brasileiro explica 
 
 Erosões provocam o desprendimento de partículas de solo que são arrastadas pelas chuvas para dentro dos reservatórios ou para cursos de água que deságuam nos reservatórios. Parte do volume de solo que chega ao reservatório fica em suspensão, deixando a água turva e com coloração marrom-avermelhada, e essa alta turbidez leva a uma diminuição da qualidade da água. Outra parte deposita-se no fundo do reservatório, processo conhecido como assoreamento. Com todo este aporte contínuo de sedimentos, os reservatórios vão perdendo sua capacidade de acumulação de água, o que reduz sua vida-útil. Um menor volume d’água acumulado pode afetar drasticamente vidas e serviços que dela dependem. Quem não se lembra da crise de água na cidade de São Paulo em 2015, ou do racionamento de energia elétrica no início dos anos 2000?
 
-Atentos ao assoreamento de reservatórios de usinas hidrelétricas (UHEs) na região central do Brasil, pesquisadores da Universidade Federal de Goiás (UFG), com o apoio de Furnas Centrais Elétricas, observaram os processos erosivos presentes nas margens e áreas do entorno de reservatórios com o objetivo de compreender a dinâmica do processo de assoreamento, suas causas e consequências. Foram estudados três reservatórios com diferentes idades: UHE Furnas, no estado de Minas Gerais, construído na década de 1960, UHE Itumbiara, situada na divisa entre Goiás e Minas, construída nos anos 80, e UHE Batalha, também localizada entre os dois estados, obra concluída em 2012, cujo reservatório ainda não havia enchido quando a pesquisa foi iniciada.[](https://canalciencia.ibict.br/images/itens/PESQUISAS/ErosoesEmBordasDeReservatorios/0300_11.jpg)
+Atentos ao assoreamento de reservatórios de usinas hidrelétricas (UHEs) na região central do Brasil, pesquisadores da Universidade Federal de Goiás (UFG), com o apoio de Furnas Centrais Elétricas, observaram os processos erosivos presentes nas margens e áreas do entorno de reservatórios com o objetivo de compreender a dinâmica do processo de assoreamento, suas causas e consequências. Foram estudados três reservatórios com diferentes idades: UHE Furnas, no estado de Minas Gerais, construído na década de 1960, UHE Itumbiara, situada na divisa entre Goiás e Minas, construída nos anos 80, e UHE Batalha, também localizada entre os dois estados, obra concluída em 2012, cujo reservatório ainda não havia enchido quando a pesquisa foi iniciada.
 
 ## Como é feita a pesquisa?
 
@@ -24,7 +23,7 @@ O primeiro estudo no âmbito da pesquisa abordou a [geologia](https://canalcien
 
 Em um segundo momento, foram utilizadas imagens aéreas dos reservatórios, nas quais era possível identificar casos de erosão. Os profissionais que trabalham nos reservatórios participaram dessa etapa identificando, nas imagens, os casos já conhecidos. Os locais mais atingidos pela erosão foram visitados e cadastrados. Em cada local foi possível fazer um diagnóstico preciso da erosão. Obras de recuperação de baixo custo foram implementadas nos locais afetados pela erosão, que passaram a ser monitorados ao longo de toda a pesquisa. Parte da equipe de pesquisadores dedicou-se ao levantamento da chegada de sedimentos aos reservatórios através de córregos. Outra parte da equipe estudou o impacto da energia das ondas geradas pelo vento nas margens dos reservatórios, que também podem provocar erosão, além da perda de áreas produtivas próximas. Em locais de maior probabilidade de ocorrência de ondas, foram instalados equipamentos submersos para avaliação da energia. Esses locais são monitorados periodicamente com um Laser Scanner, equipamento que faz rapidamente levantamento topográfico gerando imagens em 3D.
 
-Várias ações de educação ambiental foram realizadas junto aos moradores do entorno dos reservatórios. Foram oferecidos cursos, palestras e oficinas em escolas e universidades, para divulgar os prejuízos da erosão e do assoreamento, bem como capacitar multiplicadores de todas as idades para ações positivas. Vasto material didático está sendo produzido pela equipe de pesquisadores, com base nos resultados obtidos com os estudos, como um livro técnico e duas cartilhas sobre os problemas relacionadas à erosão e a necessidade de colaboração de todos na manutenção  dos reservatórios.[](https://canalciencia.ibict.br/images/itens/PESQUISAS/ErosoesEmBordasDeReservatorios/1/0300_15.jpg)
+Várias ações de educação ambiental foram realizadas junto aos moradores do entorno dos reservatórios. Foram oferecidos cursos, palestras e oficinas em escolas e universidades, para divulgar os prejuízos da erosão e do assoreamento, bem como capacitar multiplicadores de todas as idades para ações positivas. Vasto material didático está sendo produzido pela equipe de pesquisadores, com base nos resultados obtidos com os estudos, como um livro técnico e duas cartilhas sobre os problemas relacionadas à erosão e a necessidade de colaboração de todos na manutenção  dos reservatórios.
 
 ## Qual a importância da pesquisa?
 
@@ -65,7 +64,3 @@ Fonte:  https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

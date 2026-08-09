@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Serviço avançará gradualmente no país até 2029.
 
 A partir desta quinta-feira (6), cinco capitais da Região Norte começam a ter sinais da internet 5G sendo transmitidos pelas antenas das operadoras. Com isso, a quinta geração da tecnologia completa a primeira etapa prevista em edital, disponibilizando o serviço a todas as 27 capitais do país.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

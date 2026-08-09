@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Diante dos fatos relacionados ao Inquérito 4.781, em curso no Supremo Tribunal Federal, pontuo que:
 
 1. Vivemos em um Estado Democrático de Direito. É democrático porque todo o poder emana do povo. E a este povo é garantido o inalienável direito de criticar seus representantes e instituições de quaisquer dos Poderes. Além disso, aos parlamentares é garantida a ampla imunidade por suas opiniões, palavras e votos.
@@ -27,5 +26,3 @@ André Luiz de Almeida Mendonça
 Ministro da Justiça e Segurança Pública
 
 Fonte: Portal de Imprensa do Ministério da Justiça e Segurança Pública
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

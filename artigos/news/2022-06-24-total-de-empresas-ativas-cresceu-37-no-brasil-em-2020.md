@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Hoje, há 5,4 milhões de companhias no país, revela o IBGE.
 
 O número de empresas e outras organizações ativas no Brasil cresceu 3,7% entre 2019 e 2020, chegando a 5,4 milhões. Mesmo com esse aumento, o total de pessoas ocupadas assalariadas em empresas diminuiu 1,8% no mesmo período, o que significa 825,3 mil postos de trabalho formais a menos no país.
@@ -18,7 +17,7 @@ As mulheres foram as que mais perderam postos de trabalho. Os dados são da pesq
 
 “A gente não imagina, em período de forte crise econômica, ter aumento de empresas. Mas, ao mesmo tempo, isso é explicado pelo crescimento de empresas que não possuem assalariados”, disse o gerente da pesquisa, Thiego Ferreira.
 
-“Apesar de todos os esforços, inclusive políticos, e das políticas públicas para manter os empregos, ocorreram, naturalmente, demissões. Muita gente teve redução na renda ou porque foi demitida ou porque teve diminuição da jornada de trabalho e isso pode ter motivado a busca dessas pessoas por abrirem seus próprios negócios”, argumentou.  
+“Apesar de todos os esforços, inclusive políticos, e das políticas públicas para manter os empregos, ocorreram, naturalmente, demissões. Muita gente teve redução na renda ou porque foi demitida ou porque teve diminuição da jornada de trabalho e isso pode ter motivado a busca dessas pessoas por abrirem seus próprios negócios”, argumentou.
 
 ### Menos funcionários e salários menores
 
@@ -50,14 +49,10 @@ O gerente da pesquisa destacou, ainda, que as áreas de alimentação e de arte,
 
 O Cempre é um banco de dados mantido pelo IBGE com informações cadastrais e econômicas da grande maioria das empresas e outras organizações legalmente constituídas no Brasil.
 
-Integram esse banco empresas inscritas no Cadastro Nacional de Pessoa Jurídica (CNPJ), da Secretaria Especial da Receita Federal. Microempreendedores individuais não fazem parte do levantamento.  
+Integram esse banco empresas inscritas no Cadastro Nacional de Pessoa Jurídica (CNPJ), da Secretaria Especial da Receita Federal. Microempreendedores individuais não fazem parte do levantamento.
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

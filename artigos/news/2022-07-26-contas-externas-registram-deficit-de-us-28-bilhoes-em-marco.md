@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Reservas internacionais caem US$ 4,6 bilhões em um mês.
 
 As contas externas brasileiras registraram déficit de US$ 2,8 bilhões em março. Em março do ano passado também foi registrado déficit de US$ 5,2 bilhões nas contas que representam as compras e vendas de mercadorias, serviços e transferência de renda com outros países.
@@ -58,8 +57,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

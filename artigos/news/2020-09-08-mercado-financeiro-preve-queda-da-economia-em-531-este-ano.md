@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para o próximo ano, a expectativa é de crescimento de 3,50%, diz BC.
 
 A previsão do mercado financeiro para a queda da economia brasileira este ano foi ajustada de 5,28% para 5,31%. A estimativa de recuo do Produto Interno Bruto (PIB) – a soma de todos os bens e serviços produzidos no país – está no boletim Focus, publicação divulgada todas as semanas pelo Banco Central (BC), com a projeção para os principais indicadores econômicos.
@@ -41,5 +40,3 @@ A previsão para a cotação do dólar permanece em R$ 5,25, ao final deste ano.
 Fonte: Agência Brasil – Imagem de destaque: **Marcello Casal Jr./Agência Brasil**
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

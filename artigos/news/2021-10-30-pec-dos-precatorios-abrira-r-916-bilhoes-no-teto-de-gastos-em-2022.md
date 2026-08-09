@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para 2021, será aberto espaço fiscal de R$ 15 bilhões.
 
 A proposta de emenda à Constituição (PEC) que parcela o pagamento de precatórios e muda o cálculo do teto de gastos permitirá ao governo gastar R$ 91,6 bilhões adicionais em 2022. A estimativa foi divulgada nesta sexta-feira (29) pelo Ministério da Economia e é superior à previsão inicial do governo e de parlamentares de que o impacto chegaria a R$ 83,6 bilhões.
@@ -32,10 +31,6 @@ Em relação à dívida pública, que sobe quando os déficits aumentam, a Dívi
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

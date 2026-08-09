@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Decidir qual a melhor escola para o filho sempre foi um desafio capaz de tirar o sono de qualquer pai. Com a pandemia, inúmeros fatores se somaram a essa questão, tornando a decisão ainda mais difícil. De um lado, escolas que tentam administrar não apenas o contexto pedagógico que precisou ser repensado por conta da pandemia, mas também a gestão operacional e financeira, abalada pela redução no número de alunos e pelos investimentos necessários para a implantação do ensino remoto e híbrido. E de outro, pais que precisam decidir em meio a uma pandemia que ainda não acabou qual a melhor (e mais segura) opção para o filho.
 
 Para tentar recuperar os alunos perdidos, as escolas particulares abriram a temporada de matrículas mais cedo, neste ano. Muitas estão com as vagas para 2022 abertas desde o primeiro semestre. Mas, de acordo com a diretora pedagógica do Sistema Positivo de Ensino, Acedriana Vogel, conquistar a preferência dos pais em um cenário de pandemia não será uma atividade simples. Uma pesquisa realizada pelo site Melhor Escola ouviu mais de 1.200 pais e responsáveis em todo o país. Entre os participantes do levantamento, 71,4% afirmam que a renda familiar diminuiu e 96% dizem que pretendem checar a segurança sanitária da escola antes de realizar a matrícula.
@@ -30,7 +29,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

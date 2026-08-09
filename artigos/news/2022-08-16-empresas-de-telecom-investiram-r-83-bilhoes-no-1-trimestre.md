@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O montante representa um crescimento nominal de 3,8%.
 
 Os investimentos das prestadoras em telecomunicações somaram R$ 8,3 bilhões no primeiro trimestre de 2022, segundo balanço divulgado nesta segunda-feira (15) pela Conexis Brasil Digital, sindicato das empresas de telecomunicações e de conectividade.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Paulo Guedes voltou a defender negociações comerciais individuais.
 
 O Brasil apoia a proposta do Uruguai de reduzir em 20% a Tarifa Externa Comum (TEC) do Mercosul até o fim do ano. O apoio foi expresso pelos ministros da Economia, Paulo Guedes, e das Relações Exteriores, Carlos França, na reunião do Conselho Mercado Comum do bloco.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!

@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Destacado por revista norte-americana, local é ícone de turismo, histórias de amor e passeios em família.
 
 Um dos principais pontos turísticos de Recife, a Rua do Bom Jesus foi eleita a 3ª mais bonita do mundo. A seleção foi feita pela Architectural Digest, importante publicação dos Estados Unidos, que listou 31 ruas espalhadas por vários países - apenas uma no Brasil. Além da beleza, o local, encravado no centro da capital pernambucana, revela também histórias de moradores, de relacionamentos e é ponto de encontro de famílias e turistas. Até ensaio de casamento já teve por lá.
@@ -34,7 +33,7 @@ Imagem principal: Camila Pessoa
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

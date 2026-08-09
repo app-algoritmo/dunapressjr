@@ -8,12 +8,11 @@ categories:
 - News
 ---
 
-
 ### A região Nordeste apresentou o segundo saldo positivo de julho.
 
 O mercado de trabalho da Paraíba registrou saldo positivo pelo quinto mês consecutivo no ano. Dados do Cadastro Geral de Empregados e Desempregados (Caged), do Ministério da Economia, mostram que a Paraíba gerou um saldo de 4.130 postos formais em julho, resultado de 17.269 admissões contra 13.139 desligamentos.
 
-Todos os setores tiveram saldo positivo, mas o setor da indústria (2.658) liderou o saldo de vagas do mês de julho, seguido mais atrás de serviços (+806), enquanto comércio (+335), construção (+258) e agropecuária (73) completaram as cinco atividades. 
+Todos os setores tiveram saldo positivo, mas o setor da indústria (2.658) liderou o saldo de vagas do mês de julho, seguido mais atrás de serviços (+806), enquanto comércio (+335), construção (+258) e agropecuária (73) completaram as cinco atividades.
 
 Além de julho (4.130), os meses de março (729), abril (2.378), maio (3.032) e junho (3.602) também haviam registrado saldo positivo.
 
@@ -27,8 +26,4 @@ Fonte: paraiba.pb.gov.br
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

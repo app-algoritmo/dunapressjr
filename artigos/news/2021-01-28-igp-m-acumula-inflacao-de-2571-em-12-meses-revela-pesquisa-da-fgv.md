@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em janeiro de 2020, o acumulado era de 7,81%.
 
 O Índice Geral de Preços-Mercado (IGP-M), usado no reajuste de contratos de aluguel em todo o país, registrou inflação de 2,58% em janeiro deste ano. A taxa é maior que a de dezembro do ano passado (0,96%). Segundo a Fundação Getulio Vargas (FGV) informou hoje (28), o IGP-M acumula inflação de 25,71% em 12 meses. Em janeiro de 2020, o acumulado era de 7,81%.
@@ -24,8 +23,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

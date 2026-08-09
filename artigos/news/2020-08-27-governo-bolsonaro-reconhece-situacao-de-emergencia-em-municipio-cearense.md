@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Situação foi declarada após rompimento de uma tubulação em barragem do Projeto São Francisco; Governo autorizou o repasse de R$ 100,6 mil para assistência às famílias. Ministro Rogério Marinho esteve em Jati para acompanhar os trabalhos.
 
 Ministério do Desenvolvimento Regional (MDR) autorizou o [repasse](https://www.in.gov.br/en/web/dou/-/portaria-n-2.279-de-24-de-agosto-de-2020-273919096) de R$ 100,6 mil para assistência a famílias que foram transferidas de suas casas no entorno da Barragem Jati, no Ceará, após o rompimento de uma tubulação da estrutura. O [reconhecimento federal](https://www.in.gov.br/en/web/dou/-/portaria-n-2.271-de-24-de-agosto-de-2020-273916751) de situação de emergência do município foi publicado na edição desta terça-feira (25) do Diário Oficial da União.
@@ -27,5 +26,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

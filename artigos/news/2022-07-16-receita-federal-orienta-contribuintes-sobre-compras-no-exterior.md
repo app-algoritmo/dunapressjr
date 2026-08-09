@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ### Conheça as regras de entrada de mercadoria durante o retorno ao país.
 
 Após fazer uma viagem internacional, é importante que o contribuinte fique atento às regras de entrada de mercadorias no retorno ao Brasil. Saber o que é possível trazer para o país, o que deve ser declarado e o que é proibido é necessário para evitar contratempos desnecessários.
 
 Por exemplo, livros, jornais, revistas e bens de uso ou consumo pessoal são isentos do pagamento de tributos e não precisam ser declarados. Para um produto ser considerado item de uso pessoal, a aquisição deve ter sido necessária, de acordo com as circunstâncias da viagem, a condição física do viajante e as atividades profissionais executadas naquele período fora do país. Por exemplo: uma máquina fotográfica, um relógio e um telefone celular devem ser apresentados na condição de usados.
 
-De acordo com a Receita Federal, os bens sujeitos ao pagamento do imposto de importação e que não se enquadrem como de uso pessoal serão isentos caso estejam dentro do conceito de bagagem acompanhada e até o limite da cota de US$ 1 mil (cerca de R$ 5 mil) para chegada por via aérea ou marítima e US$ 500 para entrada via terrestre. Os viajantes também podem trazer outros US$ 1 mil de lojas *free shop*  (aquelas do aeroporto).
+De acordo com a Receita Federal, os bens sujeitos ao pagamento do imposto de importação e que não se enquadrem como de uso pessoal serão isentos caso estejam dentro do conceito de bagagem acompanhada e até o limite da cota de US$ 1 mil (cerca de R$ 5 mil) para chegada por via aérea ou marítima e US$ 500 para entrada via terrestre. Os viajantes também podem trazer outros US$ 1 mil de lojas *free shop* (aquelas do aeroporto).
 
 As isenções de impostos são individuais e intransferíveis, ou seja, não se pode somar as cotas para se beneficiar, ainda que entre familiares. Além de observar a cota de valor, é preciso obedecer aos limites quantitativos. Bebidas alcoólicas são permitidos somente 12 litros no total. Caso exceda o quantitativo, desde que não indique finalidades comerciais ou industriais, os itens serão tratados normalmente como bagagem. Entretanto, não haverá isenção dos tributos.
 
@@ -32,8 +31,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

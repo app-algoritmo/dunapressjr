@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Saúde entregou 6.410 ventiladores pulmonares, aos estados e ao Distrito Federal, para auxílio no atendimento aos pacientes com Covid-19.  Somente entre os dias 22 e 29 de junho foram entregues 1.553 equipamentos. A compra e distribuição dos ventiladores pulmonares é parte do apoio estratégico do Governo do Brasil no combate à pandemia.
 
 Desse total, 3.477 são ventiladores de UTI e 2.933 de transporte, que também podem ser usados em unidades intensivas. Os equipamentos foram distribuídos da seguinte forma: Acre (150), Alagoas (135), Amapá (105), Amazonas (222), Bahia (306), Ceará (248), Distrito Federal (150), Espírito Santo (155), Goiás (276), Maranhão (241), Mato Grosso (150), Mato Grosso do Sul (100), Minas Gerais (389), Pará (406), Paraíba (245), Paraná (274), Pernambuco (135), Piauí (90), Rio de Janeiro (814), Rio Grande do Norte (177), Rio Grande do Sul (297), Rondônia (191), Roraima (125), Santa Catarina (73), São Paulo (766), Sergipe (120) e Tocantins (70).
@@ -26,4 +25,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

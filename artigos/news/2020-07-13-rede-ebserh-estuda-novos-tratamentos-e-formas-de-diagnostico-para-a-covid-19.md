@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Análise de imagens e uso de plasma sanguíneo estão entre as iniciativas de hospitais universitários federais.
 
 Como hospitais universitários federais, as unidades da Rede Ebserh têm como atividades a assistência à saúde, mas também o ensino, a pesquisa e a extensão. Nesse contexto educacional e acadêmico, pesquisas clínicas estão sendo realizadas na busca por um tratamento eficaz ou por profilaxia da Covid-19 – medidas de prevenção ou imunização, como vacina, por exemplo.
@@ -48,7 +47,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

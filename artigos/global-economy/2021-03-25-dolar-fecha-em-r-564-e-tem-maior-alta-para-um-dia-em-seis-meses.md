@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa caiu 1,06% e fechou no menor nível em 15 dias.
 
 Uma onda de más notícias do exterior e as tensões econômicas internas fizeram o dólar ter a maior alta diária em seis meses e voltar a aproximar-se de R$ 5,65. A bolsa de valores caiu pelo terceiro dia seguido e encerrou no menor nível em 15 dias.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

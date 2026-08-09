@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A audiência também contou com a presença de especialistas na área.
 
 A Comissão de Desenvolvimento, Turismo e Meio Ambiente da Assembleia Legislativa da Paraíba (ALPB), realizou Audiência Pública remota nesta sexta-feira (12) para discutir a implantação da 1ª Estação de Tecnologia de Ionização Atmosférica do Brasil, na Paraíba. O sistema é desenvolvido para melhorar os índices pluviométricos em regiões de clima semiárido. A audiência foi presidida pelo deputado Moacir Rodrigues e contou com a participação dos deputados Jutay Meneses e Tovar Corrêa Lima, além de especialistas em clima, meteorologistas e representante do Ministério de Ciência, Tecnologia e Informação.
@@ -38,10 +37,6 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique aqui no banner abaixo para assinar
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

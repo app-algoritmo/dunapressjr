@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice é apurado pela CNC.
 
 A confiança do comerciante brasileiro subiu pela segunda vez consecutiva em julho, de acordo com o Índice de Confiança do Empresário do Comércio (Icec), apurado pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC).
@@ -30,10 +29,6 @@ Em relação à situação econômica do país, houve percepção positiva mais 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

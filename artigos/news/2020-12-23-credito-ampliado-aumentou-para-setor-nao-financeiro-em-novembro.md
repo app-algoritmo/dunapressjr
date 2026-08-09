@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em 12 meses o aumento foi de 14,6%.
 
 O crédito ampliado ao setor não financeiro alcançou R$ 11,7 trilhões em novembro, valor que corresponde a 157% do Produto Interno Bruto (PIB, soma dos bens e dos serviços produzidos no país). Segundo as Estatísticas Monetárias e de Crédito divulgadas hoje (23) pelo Banco Central, o resultado representa um aumento de 14,6% ao longo de 12 meses e de 0,2% no mês.
@@ -52,8 +51,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

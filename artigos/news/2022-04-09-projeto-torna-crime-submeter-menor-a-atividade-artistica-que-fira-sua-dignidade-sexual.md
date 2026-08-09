@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-## Autores da proposta argumentam que os direitos da criança e do adolescente devem ser resguardados com todo o zelo possível. 
+## Autores da proposta argumentam que os direitos da criança e do adolescente devem ser resguardados com todo o zelo possível.
 
 O Projeto de Lei 633/22 define como crime submeter ou permitir que criança ou adolescente participe de peça cinematográfica, televisiva, teatral, de dança, ou outra, comercial ou não, que fira sua dignidade sexual, mesmo que de modo implícito ou simulado. A pena prevista é de um ano a três anos de reclusão e multa.
 
@@ -37,7 +36,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

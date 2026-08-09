@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-A pesquisadora do Instituto Butantan Ana Maria Moura da Silva é a primeira pessoa do Brasil e a segunda cientista mulher a ser homenageada com [o Venoms and Toxins 2021 Awards, prêmio máximo da conferência sobre o assunto, realizada anualmente pelo grupo Toxinology at Oxford, ligado à Universidade de Oxford, na Inglaterra](http://lpmhealthcare.com/venoms-and-toxins-2021/ana-maria-moura-da-silva/). O reconhecimento foi entregue nesta na quinta (26), durante o Oitavo Encontro Internacional de Toxinologia de Oxford, pelo conjunto da obra. 
+A pesquisadora do Instituto Butantan Ana Maria Moura da Silva é a primeira pessoa do Brasil e a segunda cientista mulher a ser homenageada com [o Venoms and Toxins 2021 Awards, prêmio máximo da conferência sobre o assunto, realizada anualmente pelo grupo Toxinology at Oxford, ligado à Universidade de Oxford, na Inglaterra](http://lpmhealthcare.com/venoms-and-toxins-2021/ana-maria-moura-da-silva/). O reconhecimento foi entregue nesta na quinta (26), durante o Oitavo Encontro Internacional de Toxinologia de Oxford, pelo conjunto da obra.
 
 “Fiquei feliz em ter esse reconhecimento. E muito surpresa. Mas o prêmio não é só meu, é dos colegas que me ajudaram também”, comemora a pesquisadora, que atua na área de toxinologia desde 1987. Por conta da pandemia do SARS-CoV-2, a conferência foi realizada virtualmente. 
 
@@ -21,13 +20,13 @@ Foi graças a esse mundo científico que a pesquisadora conheceu outras línguas
 
 Ana Maria dedica toda sua formação pessoal ao conhecimento que teve da realidade de muitos colegas de outros países, alguns emergentes. Mas foi no Brasil que uma grande paixão apareceu: a cientista viu na Amazônia, a maior floresta tropical do mundo e região onde mais ocorre acidente ofídico no país, a chance de se aprofundar ainda mais nos estudos de venenos e toxinas.
 
-“Tem várias vertentes para estudar veneno. Uma é estudar veneno para procurar novas drogas, outra, para entender a ecologia da serpente e outra, com que eu mais me identifiquei, era para ajudar no tratamento dos pacientes que sofrem acidentes ofídicos”, diz ela. A pesquisadora partiu para o norte brasileiro e começou a estudar a [Bothrops Atrox, nome científico da jararaca-do-norte, responsável por 90% dos acidentes ofídicos na região.](https://www.sciencedirect.com/science/article/pii/S2590171020300151) 
+“Tem várias vertentes para estudar veneno. Uma é estudar veneno para procurar novas drogas, outra, para entender a ecologia da serpente e outra, com que eu mais me identifiquei, era para ajudar no tratamento dos pacientes que sofrem acidentes ofídicos”, diz ela. A pesquisadora partiu para o norte brasileiro e começou a estudar a [Bothrops Atrox, nome científico da jararaca-do-norte, responsável por 90% dos acidentes ofídicos na região.](https://www.sciencedirect.com/science/article/pii/S2590171020300151)
 
 https://www.youtube.com/embed/egQ31IiBy7Y
 
 https://www.youtube.com/embed/AUAeNjDs9HY
 
-Por anos, Ana Maria estudou os venenos das jararacas de diferentes cidades para avaliar se o soro do Butantan era eficiente. Nessa jornada, passou por municípios como Manaus (AM), Santarém (PA) e Cruzeiro do Sul (AC). “Tem veneno que mata e tem veneno que aleija, depende da quantidade de veneno que a serpente injeta, do local onde ela pica, do tempo que a pessoa demora para chegar ao hospital. O município de Santarém, por exemplo, é gigante e tem soro em apenas dois lugares. Se uma pessoa da comunidade ribeirinha em Tapajós é picada, ela tem que pegar o barco, subir o rio. Em até três horas é possível cuidar da pessoa. Passando disso, começa a complicar a situação”, explica. 
+Por anos, Ana Maria estudou os venenos das jararacas de diferentes cidades para avaliar se o soro do Butantan era eficiente. Nessa jornada, passou por municípios como Manaus (AM), Santarém (PA) e Cruzeiro do Sul (AC). “Tem veneno que mata e tem veneno que aleija, depende da quantidade de veneno que a serpente injeta, do local onde ela pica, do tempo que a pessoa demora para chegar ao hospital. O município de Santarém, por exemplo, é gigante e tem soro em apenas dois lugares. Se uma pessoa da comunidade ribeirinha em Tapajós é picada, ela tem que pegar o barco, subir o rio. Em até três horas é possível cuidar da pessoa. Passando disso, começa a complicar a situação”, explica.
 
 Em 2020, a pesquisadora se tornou professora visitante da Universidade Estadual do Amazonas, Fundação de Medicina Tropical Doutor Heitor Vieira Dourado (FMT) e passou a colaborar com grupos internacionais e da Amazônia para abordar aspectos ecológicos e evolutivos das serpentes, eficácia da soroterapia e tratamentos alternativos. “São estudos de evolução da serpente, de como o veneno dela evolui, o que diferencia uma venenosa de uma não venenosa, qual a vantagem de ter adquirido o veneno, as vantagens da mutação. Estudo do veneno é realmente fascinante.” Ana Maria fez uma parceria com hospitais de Manaus para trabalhar com ensaios clínicos, mas com a pandemia os projetos desaceleraram. Ana segue esperançosa de, em breve, retornar ao trabalho de campo. 
 
@@ -52,7 +51,3 @@ Fonte: https://butantan.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

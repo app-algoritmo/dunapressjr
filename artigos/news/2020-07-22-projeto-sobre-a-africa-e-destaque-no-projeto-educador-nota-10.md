@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Trabalho fica entre os dez melhores do Prêmio Educador Nota 10 e vira tema de mestrado no âmbito do Proeb.
 
 Um projeto de aulas para o ensino fundamental ‘Viajando pela cultura africana’, deu à Suzi Dorneles Rocha, professora de Educação Física, a oportunidade de ficar entre os dez vencedores do [Prêmio Educador Nota 10](https://premioeducadornota10.org/premiacao/). Nele, temas como identidades africanas e afro-brasileira são estudados a partir de jogos e brincadeiras de países como Moçambique, Nigéria e Senegal. A iniciativa se desenvolveu no âmbito do [Programa de Mestrado Profissional para Professores da Educação Básica, o Proeb](https://www.capes.gov.br/educacao-a-distancia/proeb), oferecido pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).
@@ -26,7 +25,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

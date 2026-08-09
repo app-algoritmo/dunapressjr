@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Indicador atingiu 80,2 pontos, em uma escala de zero a 200 pontos
 
 O Índice de Confiança do Consumidor (ICC) subiu 1,4 ponto em agosto e atingiu 80,2 pontos, em uma escala de zero a 200 pontos. Isso significa que voltou ao mesmo nível de março deste ano, quando a pandemia do novo coronavírus começou a impactar a economia. Nas médias móveis trimestrais, a alta ficou em 6,0 pontos. As informações foram divulgadas hoje (24) pela Fundação Getulio Vargas (FGV).
@@ -35,4 +34,4 @@ Fonte: Agência Brasil – Imagem de destaque: Tânia Rego/Agência Brasil
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.
 Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes e torne-se um assinante.
 
-https://dunapress.org/produto/assinatura-empresa-business/?aff=joabsonjoao
+https://dunapress.org/produto/assinatura-empresa-business/

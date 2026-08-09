@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Queda na inflação oficial foi puxada pela redução nos combustíveis.
 
 O Índice Nacional de Preços ao Consumidor Amplo (IPCA) fechou o mês de julho com deflação de 0,68%, a menor taxa da série histórica, iniciada em 1980. No acumulado do ano, a inflação oficial está em 4,77% e em 12 meses ficou em 10,07%. Em junho, a inflação subiu 0,67%. Os dados foram divulgados nesta terça-feira (9) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

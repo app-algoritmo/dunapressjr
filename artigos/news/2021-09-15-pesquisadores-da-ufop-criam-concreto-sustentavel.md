@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O material, além de ser menos danoso ao meio ambiente, apresenta resultados promissores quando comparados ao concreto convencional.
 
 Pesquisadores do Programa de Pós-Graduação em Engenharia Civil da Universidade Federal de Ouro Preto (Ufop), em parceria com o grupo de pesquisa Reciclos, avaliaram o desempenho de um tipo de concreto produzido inteiramente com resíduos da indústria siderúrgica. O produto, feito da sobra da produção do aço, além de causar menos danos ao meio ambiente, promete ser mais resistente que o concreto convencional.
@@ -29,7 +28,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

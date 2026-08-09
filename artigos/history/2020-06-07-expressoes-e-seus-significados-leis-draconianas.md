@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 As expressões históricas percorrem de forma livre em meio as nossas interações sociais, chegando até a ser presente em várias culturas e com a colocação original de seu significado. Neste artigo escreverei sobre as Leis Draconianas que muito é usado por políticos ou em grandes empresas em suas interações administrativas.
 
 Utilizamos hoje em dia estas duas palavras para adjetivar uma ação imposta através de regras, ordens ou leis, que remeteria a algo ruim, exagerado, com excesso de severidade, que causaria grande dano aos contemplados por estes desígnios. Ou seja, tais leis impostas por determinado governo, por exemplo, tende a causar grande dano a população, tais leis seriam então “leis draconianas”.
@@ -52,6 +51,6 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-[https://dunapress.org/subscription-plan/?aff=Vitor](https://dunapress.org/subscription-plan/?aff=Vitor)
+[https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)
 
 https://dunapress.org/2020/05/20/expressoes-e-seus-significados-a-vitoria-de-pirro/

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa caiu nesta sexta, com pessimismo externo.
 
 Num dia de tensões no mercado financeiro, o dólar teve a maior alta diária desde o fim de outubro, mas encerrou a semana em queda de 1,63%. A bolsa caiu, acompanhando a movimentação no exterior, mas fechou a semana com alta de 1,16%.
@@ -29,5 +28,3 @@ No Brasil, o mercado também repercutiu uma declaração do ministro da Economia
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Mike Segar/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

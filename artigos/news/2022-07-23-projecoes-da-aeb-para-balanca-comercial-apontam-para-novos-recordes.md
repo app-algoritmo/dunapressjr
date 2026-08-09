@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Previsão é que as exportações cresçam 13,8% e as importações, 21%.
 
 A revisão da balança comercial para 2022, divulgada nesta sexta-feira (22) pela Associação de Comércio Exterior do Brasil (AEB), aponta para um crescimento de 13,8% nas exportações, totalizando valor de US$ 319,471 bilhões, contra os US$ 280,633 bilhões efetivados em 2021. Para as importações, o aumento previsto pela AEB é de 21%, com resultado de US$ 265,345 bilhões, ante US$ 219,409 bilhões realizados no ano passado. Para o superávit, entretanto, a previsão é alcançar US$ 54,126 bilhões, redução de 11,9% em comparação aos US$ 61,224 bilhões apurados em 2021.
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

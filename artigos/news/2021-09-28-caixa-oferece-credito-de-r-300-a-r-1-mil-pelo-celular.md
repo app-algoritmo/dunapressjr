@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Nascidos em janeiro e fevereiro já podem pedir pelo app Caixa Tem.
 
 A Caixa Econômica Federal lançou nesta segunda-feira (27) o programa Crédito Caixa Tem, que vai oferecer empréstimos de R$ 300 a R$ 1 mil, direto pelo aplicativo de celular Caixa Tem. A taxa de juros é de 3,99% ao mês, com pagamento em até 24 vezes.
@@ -50,10 +49,6 @@ Com o aplicativo, o cliente pode pagar contas de água, luz, telefone, gás e bo
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

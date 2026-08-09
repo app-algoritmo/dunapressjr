@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Em relação ao início de 2019, a queda foi de quatro dias e 10 horas (82,2%).
 
 Oprazo médio para a abertura de uma empresa no Brasil caiu para 23 horas ao final do segundo quadrimestre deste ano – ou seja, em agosto. É o menor tempo médio já registrado. O patamar atual representa queda de 17 horas (42,5%) em relação ao final do primeiro quadrimestre do ano, encerrado em abril; e de um dia e 17 horas (64,1%) em comparação com o final do segundo quadrimestre de 2021. Os dados são do [Painel Mapa de Empresas](https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas), divulgados nesta sexta-feira (9) pela Secretaria Especial de Produtividade e Competitividade (Sepec) do Ministério da Economia.
@@ -24,8 +23,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

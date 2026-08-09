@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Belo Horizonte/MG – Na tarde desta sexta-feira, 19/6, desembarcou em Belo Horizonte mais um voo oriundo dos Estados Unidos da América, trazendo 39 deportados.
 
 Coube à Polícia Federal realizar os procedimentos de controle migratório, uma de suas competências definidas pela Constituição da República.
@@ -17,5 +16,3 @@ Dentre os deportados, retornou ao país um foragido da Justiça, que foi preso p
 Seguindo todos os protocolos de cuidados do Ministério da Saúde em face da pandemia do Covid-19, a Polícia Federal continua trabalhando para a manutenção da lei e da ordem, preservando o estado democrático de direito.
 
 Comunicação Social da Polícia Federal em Minas Gerais
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

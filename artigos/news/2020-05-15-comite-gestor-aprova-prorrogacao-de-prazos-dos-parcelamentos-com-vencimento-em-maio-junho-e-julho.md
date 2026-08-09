@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Resolução também amplia prazo de Opção pelo Simples Nacional, em 2020, para até 180 dias após a inscrição no CNPJ
 
 Em função dos impactos da pandemia da Covid-19, o Comitê Gestor do Simples Nacional (CGSN) aprovou, em reunião presencial realizada hoje (15/5), a Resolução CGSN nº 155, de 15 de maio de 2020, estabelecendo que:
@@ -30,5 +29,3 @@ Ajude-nos a levar o jornalismo independente a todas as partes!
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

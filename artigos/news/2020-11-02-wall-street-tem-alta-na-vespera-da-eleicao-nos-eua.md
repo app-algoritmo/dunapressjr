@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Investidores se preparam para grandes oscilações nesta semana.
 
 Os índices Dow Jones e S&P 500 fecharam em alta nesta segunda-feira, com o Nasdaq registrando leves ganhos na véspera da eleição presidencial norte-americana, conforme os investidores se preparavam para grandes oscilações nesta semana.
@@ -25,5 +24,3 @@ O Dow Jones Industrial fechou em alta de 1,6%, pata 26.925,05 pontos, o S&P 500 
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Andrew Kelly
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

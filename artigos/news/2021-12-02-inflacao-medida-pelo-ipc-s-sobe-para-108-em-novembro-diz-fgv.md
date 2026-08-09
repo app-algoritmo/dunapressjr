@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alta foi puxada pelos setores de transportes e habitação.
 
 O Índice de Preços ao Consumidor Semanal (IPC-S), medido pela Fundação Getulio Vargas (FGV), registrou inflação de 1,08% em novembro deste ano, taxa superior ao 0,77% registrado no mês anterior. Em 12 meses, o IPC-S acumula taxa de 9,89%, também superior aos 9,73% acumulados até outubro.
@@ -18,10 +17,6 @@ Por outro lado, seis grupos de despesa tiveram queda na taxa de um mês para out
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### ICE monitora tendências econômicas na América Latina.
 
 O Índice de Clima Econômico (ICE) do Brasil recuou 8,2 pontos no terceiro trimestre do ano, em relação ao trimestre anterior. A queda veio depois de uma alta de 4,5 pontos na passagem do primeiro para o segundo trimestre de 2022. O dado foi divulgado nesta segunda-feira (22) pela Fundação Getulio Vargas (FGV).
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,14 +7,11 @@ categories:
 - News
 ---
 
-
 Itajaí chegou nesta segunda-feira (23) a 9.750 casos confirmados de COVID-19 e 189 mortes em decorrência da doença. Do total de contaminados, 8.546 pacientes já se recuperaram (87,65%) e 1.015 estão com o vírus ativo (39 internados e 976 em isolamento domiciliar). Há ainda 165 casos suspeitos aguardando resultado de exames.
 
 Neste boletim foram contabilizados 320 exames, sendo que 202 deram negativo e 118 positivo. Entre os casos positivos, 63 são mulheres (03 a 72 anos) e 55 são homens (05 a 75 anos), sendo que três pessoas são profissionais de saúde. Esses pacientes se autodeclararam: 79 brancos e 39 negros (pretos e/ou pardos).
 
 Também foram confirmadas três novas mortes por COVID-19 em Itajaí: um homem de 75 anos e duas mulheres de 72 e 71 anos. Os pacientes estavam internados no Hospital Marieta e tinham registro de comorbidades.
-
-* * *
 
 **Números de casos em Itajaí:**
 - CASOS CONFIRMADOS: 9.750
@@ -34,7 +31,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

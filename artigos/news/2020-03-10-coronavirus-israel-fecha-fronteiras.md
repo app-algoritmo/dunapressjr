@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 As autoridades israelenses estão tentando intensamente manter o vírus corona sob controle.
 
 14 israelenses foram adicionados à lista de pessoas infectadas pelo coronavírus no domingo, o que significa que o número total de pessoas infectadas em Israel agora é de 42. Pela primeira vez, uma pessoa é infectada sem saber a origem da infecção.
 
 Sete dos novos pacientes haviam retornado de viajar na Europa, enquanto outros seis ficaram doentes após serem infectados por pessoas doentes em Israel.
 
-[](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)Israel map Johns Hopkins
+Israel map Johns Hopkins
 
 Ainda ninguém morreu com o vírus em Israel, mas um motorista de ônibus de 38 anos está lutando pela vida depois de ser infectado por um grupo de turistas gregos. O homem está inconsciente e conectado a um respirador no hospital de Tiberíades.
 

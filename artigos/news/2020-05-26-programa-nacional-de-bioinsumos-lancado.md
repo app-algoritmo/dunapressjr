@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O foco é aproveitar o potencial da biodiversidade brasileira para reduzir a dependência dos produtores rurais em relação aos insumos importados e ampliar oferta de matéria-prima para o setor.
 
 ministra da Agricultura, Pecuária e Abastecimento (Mapa), Tereza Cristina, lança nesta quarta-feira (27) o Programa Nacional de Bioinsumos, que pretende estimular a pesquisa, a produção e o uso de produtos biológicos na agropecuária do país.
@@ -26,13 +25,11 @@ O lançamento será por meio de uma *live*, pelo canal do YouTube do Mapa. Na se
 
 **HORÁRIO**: 15h
 
-**FORMATO**: LIVE pelo canal do YouTube do Mapa - [bit.ly/ver-bioinsumos](http://bit.ly/ver-bioinsumos)
+**FORMATO**: LIVE pelo canal do YouTube do Mapa - bit.ly/ver-bioinsumos
 
-**ACESSO À COLETIVA**: [bit.ly/coletiva-bioinsumos](http://bit.ly/coletiva-bioinsumos)
+**ACESSO À COLETIVA**: bit.ly/coletiva-bioinsumos
 
 Fonte: portal.mec.gov.br / Imagem em destaque: Mapa
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

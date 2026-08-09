@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) oficializou como serão calculados os quatro Indicadores de Qualidade da Educação Superior que divulga anualmente: Conceito Enade, Indicador de Diferença entre os Desempenhos Observado e Esperado (IDD), Conceito Preliminar de Curso (CPC) e Índice Geral de Cursos Avaliados da Instituição (IGC). A Portaria nº 429 publicada nesta quarta-feira, 8 de julho, no Diário Oficial da União, detalha como eles serão calculados e como as instituições de educação superior poderão se manifestar sobre os insumos utilizados para os cálculos. Posteriormente, será determinado qual o período previsto para a divulgação dos resultados.
 
 Os Indicadores de Qualidade da Educação Superior Esses indicadores mantêm uma relação direta com o Ciclo Avaliativo do Enade, que acontece a cada três anos. São produzidos a partir dos resultados do Exame Nacional de Desempenho dos Estudantes (Enade) e das respostas ao Questionário do Estudante; do desempenho dos estudantes no Exame Nacional do Ensino Médio (Enem); das informações sobre o corpo docente e o número de matrículas na graduação, apurados pelo Censo da Educação Superior; e das notas e números de matrículas dos programas de pós-graduação stricto sensu, apurados pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).
@@ -33,7 +32,7 @@ Fonte: gov.br / Imagem em destaque: catho
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

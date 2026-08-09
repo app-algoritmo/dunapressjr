@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Setor faturou R$ 149 bilhões, segundo o Ibram.
 
 O setor mineral faturou no primeiro semestre deste ano R$ 149 bilhões. Trata-se de um crescimento de 98% na comparação com os R$ 75,3 bilhões registrados entre janeiro e junho de 2020. Os dados foram divulgados nesta quarta-feira (21) pelo Instituto Brasileiro de Mineração (Ibram), entidade que reúne as maiores mineradoras que atuam no país.
@@ -38,10 +37,6 @@ No grupo das dez cidades com as maiores arrecadações, três são do Pará: Par
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

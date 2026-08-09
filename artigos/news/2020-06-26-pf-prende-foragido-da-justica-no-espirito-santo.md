@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Vila Velha/ES – A Polícia Federal e a Polícia Rodoviária Federal prenderam nessa quinta-feira, 25/6, na Rodovia do Contorno (BR 101), Cariacica/ES, indivíduo foragido da Penitenciária Semiaberta de Vila Velha (PSVV), em 06/08/2018, condenado por tráfico de drogas, roubo e homicídio.
 
 No momento da abordagem, o preso se identificou com documentos falsos, o que resultou também em sua prisão em flagrante pelo crime de uso de documento falso.
@@ -21,4 +20,4 @@ Diante desses dados, foi dada voz de prisão ao condutor do veículo, que foi co
 
 Comunicação Social da Polícia Federal no Espírito Santo
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

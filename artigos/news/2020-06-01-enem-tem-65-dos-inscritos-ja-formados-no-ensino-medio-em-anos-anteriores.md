@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dos 6,1 milhões de inscritos, 1,4 milhão está no terceiro ano do ensino médio, sendo que a maioria deles, 81,7%, estuda na rede pública de ensino.
 
 O Exame Nacional do Ensino Médio (Enem) recebeu 6.121.363 inscrições, sendo 6.020.263 para a aplicação da prova impressa e 101.100 para a versão digital. Do total de inscritos, 65% concluíram o ensino médio em anos anteriores, 23% são concluintes e 12% são treineiros, geralmente quem está no primeiro ou no segundo ano do ensino médio.
@@ -33,8 +32,6 @@ Também são novidades da edição deste ano:
 - haverá tempo adicional de 60 minutos para lactantes que solicitarem atendimento especializado na inscrição, desde que comprovem a necessidade, conforme previsto em edital.
 
 Fonte: gov.br/mec / Imagem em destaque: Mec
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Informações serão usadas para atualização do Sistema Nacional de Informações sobre Saneamento (SNIS).
 
 O Governo Federal, por meio do Ministério do Desenvolvimento Regional (MDR), prorrogou, até 13 de junho, o prazo para que os municípios brasileiros prestem informações para a atualização do Sistema Nacional de Informações sobre Saneamento (SNIS). A ferramenta é fundamental para o planejamento do saneamento básico no país, tanto para as instâncias federais como também para estados e municípios.
@@ -31,8 +30,4 @@ Os dados do SNIS são coletados anualmente junto aos municípios e aos prestador
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

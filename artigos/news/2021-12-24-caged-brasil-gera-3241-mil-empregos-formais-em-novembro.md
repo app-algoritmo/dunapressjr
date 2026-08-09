@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Acumulado do ano chega a 2,9 milhões de novas vagas.
 
 O Brasil gerou 324.112 postos de trabalho em novembro deste ano, resultado de 1.772.766 admissões e de 1.448.654 desligamentos de empregos com carteira assinada. No acumulado de 2021, o saldo positivo é de 2.992.898 novos trabalhadores no mercado formal. Os dados são do Ministério do Trabalho e Previdência, que divulgou nesta quinta-feira (23) as Estatísticas Mensais do Emprego Formal, o Novo Caged.
@@ -44,10 +43,6 @@ As estatísticas completas do Novo Caged estão [**disponíveis na página do Mi
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

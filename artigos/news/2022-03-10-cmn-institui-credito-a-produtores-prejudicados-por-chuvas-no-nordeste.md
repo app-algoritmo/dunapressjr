@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Conselho também autorizou renegociações de dívidas de agricultores.
 
 Os produtores rurais e agricultores familiares do Nordeste afetados por enchentes terão acesso a uma linha de crédito emergencial. A medida foi aprovada em reunião extraordinária do Conselho Monetário Nacional (CMN), que também autorizou a renegociação de dívidas desses agricultores.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

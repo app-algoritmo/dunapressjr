@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Informação é de pesquisa do IBGE.
 
 O volume de serviços no país cresceu 0,6% na passagem de dezembro de 2020 para janeiro de 2021. A alta veio depois de uma estabilidade na passagem de novembro para dezembro. Com o resultado, o setor encontra-se 3% abaixo do patamar de fevereiro de 2020, ou seja, do período pré-pandemia de covid-19.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

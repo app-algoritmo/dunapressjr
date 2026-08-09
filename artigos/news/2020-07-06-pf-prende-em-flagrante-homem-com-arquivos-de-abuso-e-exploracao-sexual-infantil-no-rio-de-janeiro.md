@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Rio de Janeiro/RJ - Na manhã de hoje (6/7), ao cumprir mandado de busca e apreensão, expedido pela 3ª Vara Criminal Federal do Rio, a Polícia Federal prendeu em flagrante, um homem de 68 anos, em Campo Grande, Zona Oeste do Rio.
 
 Com o preso, que morava e cuidava de uma escola desativada, os policiais federais encontraram inúmeros arquivos com cenas de violência sexual contra crianças, motivo pelo qual foi preso em flagrante delito como incurso nas penas previstas no artigo 241-B do ECA, reclusão de 1 a 4 anos.
@@ -19,4 +18,4 @@ Todo o material apreendido será encaminhado para a realização de exames peric
 
 Comunicação Social da Polícia Federal no Rio de Janeiro
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

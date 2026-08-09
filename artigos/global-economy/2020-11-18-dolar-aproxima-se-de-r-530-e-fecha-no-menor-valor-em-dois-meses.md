@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa encerra terça-feira no maior nível desde o fim de fevereiro.
 
 Em mais um dia de euforia no mercado financeiro, o dólar fechou no menor valor em dois meses, influenciado pelo cenário internacional e pela indicação de que o Banco Central (BC) pode aumentar as intervenções no câmbio. A bolsa de valores subiu pela terceira sessão seguida, encerrando no maior nível desde o fim de fevereiro.
@@ -27,5 +26,3 @@ O Ibovespa subiu mesmo com a realização de lucros no mercado internacional. No
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

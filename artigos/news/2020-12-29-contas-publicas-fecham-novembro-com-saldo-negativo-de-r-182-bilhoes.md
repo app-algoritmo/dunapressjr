@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado é o maior para o mês desde 2016.
 
 O Governo Central – Tesouro Nacional, Banco Central e Previdência Social – registrou déficit primário de R$ 18,241 bilhões, em novembro, informou nesta terça-feira (29) a Secretaria do Tesouro Nacional. O resultado apresentou crescimento real (descontada a inflação) de 5,5%, em relação a novembro de 2019. É o maior saldo negativo para o mês desde novembro de 2016, quando ficou em R$ 44,324 bilhões.
@@ -36,8 +35,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

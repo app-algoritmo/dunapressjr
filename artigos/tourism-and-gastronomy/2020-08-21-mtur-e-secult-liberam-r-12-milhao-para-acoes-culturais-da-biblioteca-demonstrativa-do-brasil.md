@@ -8,7 +8,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Iniciativa faz parte do processo de reabertura e da comemoração do cinquentenário do local, comemorado em 2020.
 
 O Ministério do Turismo e a Secretaria Especial da Cultura assinaram, nesta quarta-feira (19.08), um edital de chamamento público que vai selecionar uma Organização da Sociedade Civil (OSC) para executar o projeto de programação cultural da Biblioteca Demonstrativa do Brasil. A iniciativa, que está orçada em R$ 1,2 milhão, ocorre por ocasião da reabertura do espaço ao público, prevista para novembro deste ano, e da comemoração do cinquentenário da Biblioteca, comemorado em 2020. (Acesse [aqui](http://www.turismo.gov.br/images/chamadas_selecoes/Programa%C3%A7%C3%A3o_Cultural_BDB_-_2020/SEI_MTUR_-_0587449_-_Edital_n%C2%BA1-2020_Programa%C3%A7%C3%A3o_Cultural_BDB_assinado.pdf) o edital)
@@ -25,7 +24,7 @@ Imagem: Roberto Castro/MTur - wikipedia
 
 Fonte: Turismo Gov Br
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

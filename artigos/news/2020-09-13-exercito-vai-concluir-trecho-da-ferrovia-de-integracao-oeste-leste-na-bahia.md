@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Parceria com a Valec foi assinada durante visita do Presidente Jair Bolsonaro a obras da ferrovia, na Bahia. A obra completa terá aproximadamente 1.527 quilômetros e ligará o futuro Porto Sul, em Ilhéus (BA), à cidade de Figueirópolis (TO). 
+Parceria com a Valec foi assinada durante visita do Presidente Jair Bolsonaro a obras da ferrovia, na Bahia. A obra completa terá aproximadamente 1.527 quilômetros e ligará o futuro Porto Sul, em Ilhéus (BA), à cidade de Figueirópolis (TO).
 
 O Presidente Jair Bolsonaro e o ministro da Infraestrutura, Tarcísio Gomes de Freitas, visitaram, nesta sexta-feira (11), em São Desidério (BA), as obras de construção da Ferrovia de Integração Oeste-Leste (Fiol) que será uma importante via de escoamento de grãos e minério do estado da Bahia. Na ocasião, foi assinada uma parceria com o Exército para a execução de um trecho da obra.
 
@@ -43,5 +42,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

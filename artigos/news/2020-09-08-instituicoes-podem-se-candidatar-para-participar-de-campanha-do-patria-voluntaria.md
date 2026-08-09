@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Instituições que possuem projetos voltados a crianças e adolescentes em situação de vulnerabilidade pode se candidatar para participar da campanha Apadrinhe um Futuro.
 
 As entidades que querem se candidatar para participar da campanha “Apadrinhe um Futuro”, do programa Pátria Voluntária devem acessar o edital e enviar o projeto até o dia 13 de setembro no [site do programa](https://patriavoluntaria.org/pt-BR/pages/25f71323-5ac7-42c6-8eac-2fbef9239d59).
@@ -65,5 +64,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

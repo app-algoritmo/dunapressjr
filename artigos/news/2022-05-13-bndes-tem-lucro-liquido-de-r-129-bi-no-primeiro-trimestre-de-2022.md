@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Resultados foram apresentados pelo presidente do banco.
 
 O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) divulgou nesta quinta-feira (12) que teve um lucro líquido do banco, no primeiro trimestre deste ano de R$ 12,9 bilhões, representando um crescimento de 32% em relação a igual período de 2021. Os desembolsos, de janeiro a março deste ano, foram de R$ 14,8 bilhões, o que significa 31% a mais do que o primeiro trimestre do ano passado.
@@ -18,7 +17,7 @@ O ativo do sistema BNDES totalizou R$ 749,7 bilhões em 31 de março de 2022, 1,
 
 ### Petrobras
 
-O presidente do BNDES,  Gustavo Montezano, falou sobre uma eventual privatização da Petrobras. A[** desestatização da empresa foi anunciada**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-05/ministro-entrega-estudos-de-privatizacao-da-ppsa-e-da-petrobras) pelo novo ministro de Minas e Energia, Adolfo Sachsida, e pelo ministro da Economia, Paulo Guedes. A modelagem das privatizações das estatais passa, necessariamente, pelo BNDES.
+O presidente do BNDES, Gustavo Montezano, falou sobre uma eventual privatização da Petrobras. A[** desestatização da empresa foi anunciada**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-05/ministro-entrega-estudos-de-privatizacao-da-ppsa-e-da-petrobras) pelo novo ministro de Minas e Energia, Adolfo Sachsida, e pelo ministro da Economia, Paulo Guedes. A modelagem das privatizações das estatais passa, necessariamente, pelo BNDES.
 
 Segundo o presidente do banco, caso o governo siga com a decisão de privatizar a Petrobras, não é possível estabelecer um prazo para que isso ocorra. “Eu prefiro não passar um timing, varia por operação. Apenas como exemplo, o que aconteceu na Eletrobras, a gente foi mandatado em fevereiro de 2021. Já transcorreu um ano e meio. A Petrobras é outro ativo, também complexo. Passar qualquer estimativa de data, acho que seria um pouco leviano”, disse.
 
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

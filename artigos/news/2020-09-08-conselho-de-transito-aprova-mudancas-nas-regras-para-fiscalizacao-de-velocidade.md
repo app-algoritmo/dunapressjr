@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Medidas têm por objetivo valorizar o aspecto educativo na fiscalização do trânsito. Entre as alterações aprovadas também estão a proibição do uso de equipamentos sem dispositivo registrador de imagem. 
 
 A partir de agora, a instalação de aparelhos redutores de velocidade de veículos, os chamados radares – fixos ou portáteis –, deve observar critérios técnicos bem definidos. O Conselho Nacional de Trânsito (Contran) estabeleceu, em reunião virtual realizada na última quarta-feira (2), novas regras para o uso dos radares pelos órgãos de fiscalização.
@@ -33,5 +32,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

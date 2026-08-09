@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Finalizadas as etapas de inscrição e pagamento da taxa pelos participantes não isentos, o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) tem confirmados 5.783.357 inscritos para o Exame Nacional do Ensino Médio (Enem) 2020. São 5.687.271 inscrições para o Enem impresso e 96.086 para o Enem Digital, novidade desta edição. A maioria dos interessados em fazer o Enem 2020 já finalizou os estudos: 65,6% concluíram o ensino médio em anos interiores, um total de 3.794.543 participantes. Do total de inscritos confirmados, 83% efetuaram inscrição gratuita, por atenderem aos critérios de isenção especificados pelos editais ou estarem concluindo o ensino médio em escola pública neste ano.
 
 O total de inscritos confirmados representa um aumento de 13,5% em relação ao quantitativo do ano passado, ainda que o número de pré-inscrições efetuadas tenha sido inferior ao de 2019. Quase 95% dos pré-inscritos tiveram a inscrição confirmada em 2020, também um crescimento em relação à dinâmica de inscrições nos anos anteriores – em 2019, por exemplo, apenas 80% dos inscritos totais tiveram a inscrição confirmada neste período. Ações como a criação da aplicação digital da prova, a ampliação do período para pagamento e a concessão de gratuidade automática a todos os inscritos que se enquadrassem nos perfis de isenção de taxa, mesmo sem pedido formal, podem ter contribuído para superar os desafios impostos pela pandemia de COVID-19 e aumentar a marca dos participantes confirmados para o exame.
@@ -34,7 +33,7 @@ Fonte: gov.br/mec / Imagem em destaque: MEC
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

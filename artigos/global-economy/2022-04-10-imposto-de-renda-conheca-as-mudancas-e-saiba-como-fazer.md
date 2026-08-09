@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 A Receita Federal espera que mais de 34 milhões de contribuintes enviem a declaração. Uma das mudanças deste ano é a disponibilidade da declaração pré-preenchida para todas as plataformas. Antes, a facilidade era limitada a quem tinha certificado digital. Confira as principais novidades e dicas para enfrentar o leão.
 
 - **Quem deve declarar:** a declaração é obrigatória para as pessoas que receberam rendimentos tributáveis superiores a R$ 28.559,70 no ano passado; quem obteve ganho de capital pela alienação de bens e direitos; negociou em bolsa de valores; recebeu rendimentos isentos – não tributáveis ou tributados na fonte (como indenização trabalhista ou rendimento de poupança) acima de R$ 40 mil em 2021; ou que tenha bens com valor acima de R$ 300 mil, entre outras regras mais específicas.
@@ -32,7 +31,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

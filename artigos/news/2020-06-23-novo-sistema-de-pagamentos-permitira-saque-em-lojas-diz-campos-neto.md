@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Pix permite também transferências instantâneas e é gratuito.
 
 O sistema de pagamentos instantâneos, chamado de Pix, será gratuito para pessoas físicas e permitirá saque por meio das lojas da rede varejista. A informação é do presidente do Banco Central (BC), Roberto Campos Neto, na abertura da 9ª reunião plenária do Fórum Pagamentos Instantâneos, realizada nesta segunda-feira (22), de forma virtual.
@@ -24,4 +23,4 @@ Segundo Campos Neto, a sistema agregará conveniência aos consumidores e pode g
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

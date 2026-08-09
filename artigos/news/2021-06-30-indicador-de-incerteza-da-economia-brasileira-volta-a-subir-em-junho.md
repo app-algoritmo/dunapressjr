@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice chegou a 122,3 pontos, diz FGV.
 
 O Indicador de Incerteza da Economia (IIE-Br) subiu 2,4 pontos em junho, para 122,3 pontos. Com o resultado, o indicador está 7,2 pontos acima do nível de fevereiro de 2020, último mês antes da chegada da pandemia de covid-19 ao Brasil. O dado foi divulgado hoje (30) pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV/Ibre).
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

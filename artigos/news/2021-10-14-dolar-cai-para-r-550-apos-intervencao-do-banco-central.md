@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa sobe e ultrapassa 113 mil pontos pela primeira vez no mês.
 
 Com a ajuda do Banco Central (BC), que interveio no câmbio, o dólar teve leve queda depois de encostar em R$ 5,60 durante o dia. A bolsa de valores subiu e fechou acima dos 113 mil pontos pela primeira vez no mês.
@@ -24,10 +23,6 @@ Os investidores aguardam a votação da proposta de emenda à Constituição (PE
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

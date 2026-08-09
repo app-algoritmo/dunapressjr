@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O empreendimento irá gerar um investimento inicial de R$ 200 milhões.
 
 O governador João Azevêdo assinou, nesta segunda-feira (26), protocolo de intenções, com a multinacional portuguesa EDPR para instalação de parques solares no município de São José de Lagoa Tapada, no Sertão da Paraíba. O empreendimento irá gerar um investimento inicial de R$ 200 milhões e a criação de 900 empregos diretos e indiretos na fase de construção, além de promover melhorias na infraestrutura da região e implementar ações sociais junto às comunidades locais.
@@ -28,5 +27,3 @@ A EDPR é uma empresa do grupo EDP que atua na identificação, estudo, planejam
 Fonte: paraíba.pb.gov.br – Imagem de destaque: Francisco França
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

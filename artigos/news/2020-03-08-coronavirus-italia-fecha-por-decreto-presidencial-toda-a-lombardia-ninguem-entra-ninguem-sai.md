@@ -8,12 +8,9 @@ categories:
 - News
 ---
 
-
 Com **366 mortos e 16 milhões de pessoas em quarentena**  pelo coronavírus número deste domingo, um aumento de 133 em relação ao sábado. Os casos de contágio já são 7.375, tendo aumentado em 1.326 em 24 horas. Lombardia é o marco zero.
 
 Mapa Hopkins de contágio e mortes: Itália
-
-[](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 **Um em cada quatro italianos acordou neste domingo em quarentena** devido ao coronavírus COVID-19 ou Wuhan. Enquanto a maioria da população dormia, seu primeiro-ministro, Giuseppe Conte, anunciou ao amanhecer que estendia as restrições de movimento que até agora afetavam uma dúzia de localidades no norte do país a toda a região da Lombardia e a pelo menos 15 províncias. Essas medidas excepcionais afetam **16 milhões de pessoas** e estarão em vigor **até** pelo menos **3 de abril** .
 

@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 Em dezembro de 1987, com apenas 27 anos de fundação, Brasília (DF) se tornava o primeiro conjunto urbano do século 20 reconhecido como Patrimônio Cultural da Humanidade pela Organização das Nações Unidas para a Educação a Ciência e a Cultura (Unesco). A conquista inseriu a capital federal no seleto grupo de monumentos igualmente agraciados com o título, a exemplo da Muralha da China, das pirâmides do Egito e da Acrópole de Atenas, na Grécia.
 
 É farta a lista de atributos que credenciaram a cidade à condição especial. Destaque para a correspondência entre o projeto urbanístico único de Lucio Costa e a moderna arquitetura de Oscar Niemeyer, visíveis na concepção do Plano Piloto e o seu formato de avião. Brasília desfila espaços públicos singulares, como a imponente Esplanada dos Ministérios e a Praça dos Três Poderes, além da formação simétrica de suas superquadras residenciais.
@@ -35,7 +34,3 @@ Fonte: https://www.gov.br/turismo
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

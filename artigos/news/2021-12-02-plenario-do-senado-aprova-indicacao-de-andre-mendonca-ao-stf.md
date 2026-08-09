@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Placar foi de 47 votos a favor e 32 contra.
 
 O plenário do Senado Federal aprovou, por 47 votos a 32, a indicação do ex-ministro da Justiça e ex-advogado-geral da União André Mendonça para a vaga do Supremo Tribunal Federal (STF) deixada pela aposentadoria do ministro Marco Aurélio Mello.
 
-A indicação ficou parada na CCJ por mais de quatro meses, o maior tempo registrado até hoje. A senadora Eliziane Gama (Cidadania-MA), foi a primeira mulher a relatar uma indicação de ministro aos Supremo.  Antes da votação no plenário, Eliziane disse que nenhuma outra indicação foi carregada de tanta polêmica quanto de André Mendonça. Segundo ela, viu-se o debate religioso assumindo o lugar do debate sobre a reputação ibilida e o notório saber jurídico do candidato. “Ninguém pode ser vetado por sua orientação religiosa”, disse.
+A indicação ficou parada na CCJ por mais de quatro meses, o maior tempo registrado até hoje. A senadora Eliziane Gama (Cidadania-MA), foi a primeira mulher a relatar uma indicação de ministro aos Supremo. Antes da votação no plenário, Eliziane disse que nenhuma outra indicação foi carregada de tanta polêmica quanto de André Mendonça. Segundo ela, viu-se o debate religioso assumindo o lugar do debate sobre a reputação ibilida e o notório saber jurídico do candidato. “Ninguém pode ser vetado por sua orientação religiosa”, disse.
 
 [**Mais cedo, Mendonça foi sabatinado pelos integrantes da Comissão de Constituição de Justiça **](https://agenciabrasil.ebc.com.br/politica/noticia/2021-12/nome-de-andre-mendonca-ao-stf-e-aprovado-da-ccj-no-senado)(CCJ) da Casa.[** Lá, a aprovação se deu por com 18 votos a favor e outros 9 contra.**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-12/nome-de-andre-mendonca-ao-stf-e-aprovado-da-ccj-no-senado) Antes de votar, muitos senadores declararam publicamente seu apoio a Mendonça.
 
@@ -34,10 +33,6 @@ Nascido em Santos (SP), André Mendonça é advogado da União desde 2000, foi a
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

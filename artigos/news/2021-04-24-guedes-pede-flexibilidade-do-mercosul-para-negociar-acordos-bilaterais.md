@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro também defendeu redução de tarifa externa comum.
 
 Os países-membros do Mercosul precisam de mais liberdade para negociarem acordos bilaterais, defendeu nesta sexta-feira (23) o ministro da Economia, Paulo Guedes. Em sessão temática do Senado sobre o aniversário de 30 anos do bloco, ele declarou que a flexibilidade para cada país negociar acordos individuais aumenta a integração internacional, respeitando o ritmo de cada sócio.
@@ -30,12 +29,10 @@ Recentemente, o [**Brasil reduziu as tarifas de importação de bens de capital 
 
 ## **Diminuição**
 
-Segundo Guedes, o Mercosul teve sucesso nos primeiros dez anos, mas o fluxo de comércio diminuiu nos anos seguintes por causa da falta de integração internacional do bloco. “Uma grande ferramenta que foi criada como uma avenida em direção à globalização e à integração acabou virando uma bolha que nos isolou dos grandes fluxos de comércio e investimento”, criticou. 
+Segundo Guedes, o Mercosul teve sucesso nos primeiros dez anos, mas o fluxo de comércio diminuiu nos anos seguintes por causa da falta de integração internacional do bloco. “Uma grande ferramenta que foi criada como uma avenida em direção à globalização e à integração acabou virando uma bolha que nos isolou dos grandes fluxos de comércio e investimento”, criticou.
 
 O ministro destacou que, nas últimas décadas, 3,7 bilhões de europeus e asiáticos saíram da miséria por meio do livre comércio global.
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

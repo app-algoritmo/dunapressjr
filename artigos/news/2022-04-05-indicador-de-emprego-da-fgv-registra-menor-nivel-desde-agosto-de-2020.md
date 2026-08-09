@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice antecipa tendências do mercado de trabalho.
 
 O Indicador Antecedente de Emprego (Iaemp), medido pela Fundação Getulio Vargas (FGV), ficou praticamente estável de fevereiro para março, com uma variação negativa de 0,1 ponto. Com o resultado, o Iaemp chegou a 75 pontos, o menor nível desde agosto de 2020, que registrou 74,8 pontos.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

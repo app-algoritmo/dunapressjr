@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Setor tem queda de 2,2% no 1º semestre e de 2,8% em 12 meses.
 
 A produção industrial brasileira apresentou queda de 0,4% em junho, depois de quatro meses consecutivos de números positivos. O último recuo tinha sido em janeiro: 1,9%.
@@ -34,7 +33,7 @@ O setor de coque, produtos derivados do petróleo e biocombustíveis, que caiu 1
 
 As outras contribuições para o resultado negativo do setor foram as atividades de máquinas e equipamentos (-2%), metalurgia (-1,8%), equipamentos de informática, produtos eletrônicos e ópticos (-2,8%) e outros equipamentos de transporte (-5,5%).
 
-Na comparação com maio, nove atividades se expandiram. Os destaques no resultado geral da indústria, no campo positivo, foram produção de veículos automotores, reboques e carrocerias (6,1%) e  indústrias extrativas (1,9%).
+Na comparação com maio, nove atividades se expandiram. Os destaques no resultado geral da indústria, no campo positivo, foram produção de veículos automotores, reboques e carrocerias (6,1%) e indústrias extrativas (1,9%).
 
 “O setor de veículos acentuou o crescimento verificado em maio (3,8%), mas essa alta não conseguiu eliminar as perdas anteriores. O saldo dessa atividade ainda é negativo, uma vez que ela ainda está 8,5% abaixo do patamar pré-pandemia”, frisou Macedo.
 
@@ -70,8 +69,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

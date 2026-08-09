@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Governo criou o Programa Titula Brasil para ampliar os procedimentos de titulação e regularização fundiária das áreas rurais sob domínio da União ou do Instituto Nacional de Colonização e Reforma Agrária (Incra). A [portaria](https://www.in.gov.br/en/web/dou/-/portaria-conjunta-n-1-de-2-de-dezembro-de-2020-291801586) foi publicada nessa quinta-feira (3), no Diário Oficial da União (DOU).
 
 “Por meio desta portaria, vamos trazer uma viabilidade extremamente positiva no sentido de regularização fundiária. É a portaria que estabelece a parceria entre o Incra e todas as prefeituras do Brasil, com destaque principal para os nove estados da Amazônia Legal”, explica o secretário Especial de Assuntos Fundiários do Ministério da Agricultura, Pecuária e Abastecimento, Luiz Antônio Nabhan Garcia.
@@ -29,7 +28,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

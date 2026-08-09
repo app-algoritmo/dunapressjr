@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa recupera-se e fecha no maior nível em uma semana.
 
 Pressionado pelo mercado externo, o dólar interrompeu a trégua e voltou a subir nesta terça-feira (23), encostando em R$ 5,61. A bolsa de valores recuperou-se das quedas recentes e fechou no maior nível em uma semana.
@@ -22,14 +21,10 @@ Apesar da decisão do governo norte-americano de queimar estoques para baratear 
 
 Em relação ao dólar, a moeda teve a maior alta diária em oito meses contra as principais divisas de países emergentes. A expectativa de que o Federal Reserve (Fed, Banco Central dos Estados Unidos) antecipe o aumento de juros por causa da recuperação da economia norte-americana pressionou as cotações em todo o planeta. As novas restrições contra a covid-19 postas em prática por diversos países europeus também contribuíram para piorar o clima no mercado internacional.
 
-No Brasil, o dólar só desacelerou nas horas finais de negociação após notícias de que o Senado está próximo de chegar a um acordo para votar a Proposta de Emenda à Constituição (PEC) dos Precatórios. Apesar de o governo ter revisado para cima, de R$ 91,6 bilhões para R$ 106,1 bilhões, o impacto da PEC, os investidores consideram a proposta a saída menos ruim para aumentar os gastos públicos do que uma possível edição de um decreto de calamidade pública. 
+No Brasil, o dólar só desacelerou nas horas finais de negociação após notícias de que o Senado está próximo de chegar a um acordo para votar a Proposta de Emenda à Constituição (PEC) dos Precatórios. Apesar de o governo ter revisado para cima, de R$ 91,6 bilhões para R$ 106,1 bilhões, o impacto da PEC, os investidores consideram a proposta a saída menos ruim para aumentar os gastos públicos do que uma possível edição de um decreto de calamidade pública.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

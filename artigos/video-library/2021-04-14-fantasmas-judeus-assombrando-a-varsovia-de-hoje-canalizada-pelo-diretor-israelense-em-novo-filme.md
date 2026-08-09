@@ -8,7 +8,6 @@ categories:
 - Video library
 ---
 
-
 Alguns residentes do distrito de Muranów, na capital polonesa, são mantidos acordados à noite por ecos de violinos tocando e risos de crianças. Diz-se que os rádios ligam e desligam sozinhos e - em um apartamento - “uma família inteira de judeus” aparece quando as luzes se acendem.
 
 Em seu documentário “ [Muranów](https://www.muranowfilm.com/) ” , o diretor Chen Shelach explora a “assombração” do bairro de Varsóvia, onde a Alemanha nazista criou o maior gueto da Europa. Mais de 400.000 judeus foram amontoados no gueto de Varsóvia, que foi totalmente queimado quando os combatentes judeus se revoltaram em abril de 1943.
@@ -68,7 +67,3 @@ Fonte: https://www.timesofisrael.com
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

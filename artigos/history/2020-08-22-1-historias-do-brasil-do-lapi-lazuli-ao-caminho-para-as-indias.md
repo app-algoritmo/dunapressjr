@@ -19,7 +19,7 @@ Todos estes intercâmbios culturais e comerciais tomaram mais um impulso com a e
 
 A maior estabilidade política trazida pelo poderoso Império iniciado por Gengis Khan permitiu que a Rota da Seda inundasse a Europa com produtos vindos principalmente da China. Acompanhando estes produtos vieram transferências tecnológicas importantíssimas como a pólvora, o astrolábio, o compasso e mapas mais práticos.
 
-Assim como ocorreu na época de Alexandre Magno, o desmoronamento do Império Mongol teve um efeito devastador na Europa. Em 1400, com o desaparecimento da unidade política e da segurança das rotas de comércio com o Oriente, os caminhos foram praticamente fechados e os comerciantes europeus começaram a procurar rotas alternativas para as “Índias”. 
+Assim como ocorreu na época de Alexandre Magno, o desmoronamento do Império Mongol teve um efeito devastador na Europa. Em 1400, com o desaparecimento da unidade política e da segurança das rotas de comércio com o Oriente, os caminhos foram praticamente fechados e os comerciantes europeus começaram a procurar rotas alternativas para as “Índias”.
 
 Não é exagero afirmar que o fim do Império Mongol foi uma das principais motivações para o início das Grandes Navegações, que levariam Colombo ao Mar do Caribe em 1492 e trariam Pedro Álvares Cabral ao litoral da Bahia em 1500. Mas algumas coisas importantes aconteceriam antes que a armada de Cabral jogasse suas âncoras perto do Monte Pascoal.
 
@@ -28,5 +28,3 @@ Imagem em destaque: Lapis Lazuli India, Awake Robin Designs
 **Assine Prêmio: **
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista trás informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (BAPRMA).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=barrosprojectmanager)

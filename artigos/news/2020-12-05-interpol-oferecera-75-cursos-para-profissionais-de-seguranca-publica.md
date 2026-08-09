@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Justiça e Segurança Pública firmou parceria com a Organização Internacional de Polícia Criminal (Interpol) para disponibilizar 75 cursos à distância aos profissionais que integram o Sistema Único de Segurança Pública (SUSP). Os cursos, nos idiomas inglês, francês, espanhol e árabe, serão ministrados por meio da plataforma da instituição internacional, a Interpol Global Learning Centre (IGLC).
 
 Entre as opções de cursos estão "Linguagem corporal e sinais de mentira em um interrogatório policial", “Terrorismo Radiológico e Nuclear - Inteligência em fontes abertas nas investigações", “Gestão Radiológica da Cena do Crime”, "Investigações sobre correio eletrônico", "Investigação sobre Drogas”.
@@ -38,7 +37,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

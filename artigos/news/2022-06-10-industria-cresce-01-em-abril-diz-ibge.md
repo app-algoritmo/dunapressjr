@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Oito dos 15 locais investigados acompanharam o resultado positivo.
 
 A indústria cresceu 0,1% em abril, segundo a Pesquisa Industrial Mensal (PIM Regional) do Instituto Brasileiro de Geografia e Estatística (IBGE). Oito dos 15 locais investigados acompanharam o resultado positivo. As maiores altas foram registradas no Rio de Janeiro (5,9%), em Santa Catarina (3,3%) e na Bahia (3%).
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

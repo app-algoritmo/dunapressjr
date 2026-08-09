@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Calendários foram divulgados nesta segunda-feira pelo governo.
 
 Cerca de dez dias após a promulgação da emenda constitucional que ampliou benefícios sociais, o Ministério do Trabalho e Previdência divulgou nesta segunda-feira (25) o calendário para o pagamento dos auxílios a caminhoneiros e taxistas afetados pela alta do preço dos combustíveis. Os benefícios serão pagos de agosto a dezembro, com a parcela de agosto sendo paga em dobro em relação às demais parcelas.
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

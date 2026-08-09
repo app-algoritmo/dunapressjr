@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Concessão dos serviços terá investimentos de R$ 27 bilhões em 35 anos de contrato e gerará 40 mil empregos diretos.
 
 Foi realizado, nesta sexta-feira (30/4), o leilão da Companhia Estadual de Águas e Esgotos (Cedae) do Rio de Janeiro, considerado o maior das últimas décadas e o maior de saneamento do país. O leilão aconteceu na B3, em São Paulo, com a presença do presidente da República, Jair Bolsonaro, e do ministro da Economia, Paulo Guedes, entre outras autoridades. O projeto foi estruturado pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES) e recebeu apoio do governo federal, por meio do Ministério do Desenvolvimento Regional e do Programa de Parcerias de Investimentos (PPI), do Ministério da Economia.
@@ -57,8 +56,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

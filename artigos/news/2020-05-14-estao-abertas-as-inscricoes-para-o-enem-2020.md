@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O período de inscrições para o Exame Nacional do Ensino Médio (Enem) 2020 teve início nesta segunda-feira (11) e fica aberto até o dia 22 de maio. O procedimento deve ser feito na [Página do Participante](https://enem.inep.gov.br/participante/#!/), no site ou no aplicativo do Enem.
 
 A edição deste ano conta com algumas novidades, como o Enem Digital, que será aplicado em versão piloto para 101 mil inscritos, e a utilização de programas eletrônicos para facilitar a leitura de pessoas com deficiências visuais. Além disso, o Enem se integra ao [portal](http://gov.br/) de acesso único do Governo Federal.
@@ -40,7 +39,7 @@ O Enem impresso será aplicado nos dias 1º e 8 de novembro e a versão digital,
 
 Fonte gov.br
 
-https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress
+https://dunapress.org/subscription-plan/
 
 Ajude-nos a levar o jornalismo independente a todas as partes!
 
@@ -50,4 +49,4 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-[ASSINE O PRESS PERIÓDICO](http://Ajude-nos%20a%20levar%20o%20jornalismo%20independente%20a%20todas%20as%20partes!%20%20Graças%20ao%20apoio%20de%20leitores%20como%20você,%20é%20possível%20realizar%20um%20excelente%20trabalho%20jornalístico%20de%20pesquisa%20e%20investigação,%20oferecendo%20um%20serviço%20sério%20de%20alta%20qualidade%20com%20imprensa%20livre%20e%20jornalismo%20independente.%20%20Em%20uma%20época%20em%20que%20notícias%20falsas%20e%20distorcidas%20estão%20em%20todas%20partes,%20seu%20apoio%20é%20vital%20para%20o%20bom%20desenvolvimento%20da%20informação.%20%20Entre%20no%20link%20abaixo%20e%20nos%20ajude%20a%20continuar%20o%20nosso%20trabalho%20com%20informações%20gerais%20que%20podem%20ser%20lidos%20por%20toda%20a%20família%20em%20uma%20abordagem%20que%20prima%20pela%20ética%20e%20pelo%20respeito%20ao%20leitor.%20%20ASSINE%20O%20PRESS %20%20 https:/dunapress.org/subscription-plan/?ref=joiceferreiradunapress)
+[ASSINE O PRESS PERIÓDICO](http://Ajude-nos%20a%20levar%20o%20jornalismo%20independente%20a%20todas%20as%20partes!%20%20Graças%20ao%20apoio%20de%20leitores%20como%20você,%20é%20possível%20realizar%20um%20excelente%20trabalho%20jornalístico%20de%20pesquisa%20e%20investigação,%20oferecendo%20um%20serviço%20sério%20de%20alta%20qualidade%20com%20imprensa%20livre%20e%20jornalismo%20independente.%20%20Em%20uma%20época%20em%20que%20notícias%20falsas%20e%20distorcidas%20estão%20em%20todas%20partes,%20seu%20apoio%20é%20vital%20para%20o%20bom%20desenvolvimento%20da%20informação.%20%20Entre%20no%20link%20abaixo%20e%20nos%20ajude%20a%20continuar%20o%20nosso%20trabalho%20com%20informações%20gerais%20que%20podem%20ser%20lidos%20por%20toda%20a%20família%20em%20uma%20abordagem%20que%20prima%20pela%20ética%20e%20pelo%20respeito%20ao%20leitor.%20%20ASSINE%20O%20PRESS %20%20 https:/dunapress.org/subscription-plan/)

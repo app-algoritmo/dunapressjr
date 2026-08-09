@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Nos cinco primeiros meses foram realizados 240,6 mil novos contratos.
 
 A Caixa Econômica Federal disse hoje (7) que atingiu, entre os meses de janeiro a maio de 2021, R$ 52,4 bilhões em concessão de crédito imobiliário, um crescimento de 41,4% em relação ao mesmo período de 2020. Nos cinco primeiros meses do ano, o banco celebrou 240,6 mil novos contratos e mais de 962 mil de pessoas com casa nova. De acordo com o banco, a carteira de crédito imobiliário do banco alcançou R$ 523,1 bilhões em maio, com 5,76 milhões de contratos.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

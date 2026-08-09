@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O programa assegura investimentos de R$ 435,17 mi no Estado.
 
 O governador João Azevêdo lançou, nesta segunda-feira (5), por meio de transmissão ao vivo nas redes sociais do Governo do Estado, o programa de novas obras rodoviárias e de mobilidade urbana que será executado até 2022 na Paraíba. As ações têm o objetivo de assegurar desenvolvimento e impulsionar a economia de todas as regiões do estado, com a injeção de recursos totalmente do tesouro estadual na ordem de R$ 435,17 milhões.
@@ -49,10 +48,6 @@ A soma das obras anunciadas, as concluídas e em andamento representa um investi
 
 Fonte: paraíba.pb.gov.br
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

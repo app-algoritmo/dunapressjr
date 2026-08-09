@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Entre as doenças endêmicas da Amazônia (isto é, mais comuns na região) estão a Tuberculose, as doenças causadas por Escherichia coli, Salmonella sp, Shigella sp e Staphylococcus aureus e as Dermatomicoses (lesões de pele ocasionadas por fungos). Os Cientistas do Instituto Nacional de Pesquisas (INPA) da Amazônia estão investigando extratos de microrganismos ambientais e os de plantas reconhecidas pelos saberes tradicionais, como eficazes contra essas doenças. Buscam isolar e identificar novos compostos com ação antibiótica ou compostos que possam estimular o crescimento microbiano para uso em técnicas laboratoriais de diagnóstico.
 
 Os pesquisadores coletam, nas áreas dos Campi do INPA, as espécies vegetais com indicações de uso popular e microrganismos ambientais. Realizam bioensaios antimicrobianos, voltados para a busca de compostos vegetais ou microbianos que tenham ação comprovada contra as micobactérias, principalmente o Mycobacterium tuberculosis (agente da tuberculose), Escherichia coli, Salmonella sp, Shigella sp, Staphylococcus aureus e fungos dermatofíceos. Outros bioensaios são realizados para detectar substâncias com fins biotecnológicos aplicáveis em métodos laboratoriais de diagnóstico em tuberculose.
@@ -33,7 +32,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

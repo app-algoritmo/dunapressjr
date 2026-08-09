@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Inscrições para 4º edital do módulo já estão abertas.
 
 Estão abertas até o próximo dia 29 de junho as inscrições para o 4º edital do Módulo Startups, do Programa Petrobras Conexões para Inovação, lançado pela empresa. A divulgação das empresas selecionadas na primeira etapa do processo está prevista para julho. O regulamento pode ser encontrado [**aqui**](https://tecnologia.petrobras.com.br/modulo-startups.html#edital2022). *Startups* são empresas emergentes de base tecnológica.
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

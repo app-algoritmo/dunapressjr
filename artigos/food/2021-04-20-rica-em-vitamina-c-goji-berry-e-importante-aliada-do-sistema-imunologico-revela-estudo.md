@@ -8,10 +8,9 @@ categories:
 - Food
 ---
 
-
 Usada tradicionalmente na medicina chinesa, a goji berry é um fruto da planta *Lycium barbarum*, com origem nas montanhas do Tibet, na Ásia. A pequena fruta vermelha ficou popularmente conhecida em outras regiões do mundo pelo alto teor de nutrientes, como vitaminas, minerais, fibras, aminoácidos e antioxidantes. Segundo estudo da Universidade de Sidney, a goji berry reúne diversos benefícios para a saúde e é considerada uma forte aliada do sistema imunológico.
 
-De acordo com a engenheira de alimentos Melissa Carpi, a fruta pode ser incluída em receitas para associar os benefícios nutricionais com novos sabores. “Por ser importada, ela dificilmente é encontrada in natura no Brasil. A versão da[ ](https://www.jasminealimentos.com/produtos/integral/goji-berries/)goji berry desidratada tem um valor mais acessível, mantendo todos os nutrientes. A melhor forma de inserir a fruta na rotina é consumi-la como snack, ou ainda adicionada a cereais, frutas e iogurtes”, explica a gerente de inovação de produto da Jasmine Alimentos, empresa especializada em alimentos saudáveis.
+De acordo com a engenheira de alimentos Melissa Carpi, a fruta pode ser incluída em receitas para associar os benefícios nutricionais com novos sabores. “Por ser importada, ela dificilmente é encontrada in natura no Brasil. A versão dagoji berry desidratada tem um valor mais acessível, mantendo todos os nutrientes. A melhor forma de inserir a fruta na rotina é consumi-la como snack, ou ainda adicionada a cereais, frutas e iogurtes”, explica a gerente de inovação de produto da Jasmine Alimentos, empresa especializada em alimentos saudáveis.
 
 **Imunidade fortalecida**
 
@@ -21,7 +20,7 @@ A goji berry concentra grandes quantidades de vitamina C. Apenas 100 gramas de f
 
 Além da vitamina C, a goji berry também reúne vitaminas A, B6 e E. Juntas, elas têm elevada ação antioxidante, que ajudam a reduzir o colesterol ruim, responsável por doenças cardiovasculares. Os nutrientes também ajudam a reduzir a quantidade de homocisteína, que está relacionado ao surgimento de problemas cardíacos.
 
-**Mais energia e bem-estar** 
+**Mais energia e bem-estar**
 
 Por possuir vitaminas do complexo B, que aceleram o metabolismo, a goji berry aumenta a produção de energia do corpo. Os nutrientes também ajudam na produção de serotonina, hormônio responsável por causar a sensação de bem-estar.
 
@@ -43,5 +42,3 @@ Fonte: Central Press
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

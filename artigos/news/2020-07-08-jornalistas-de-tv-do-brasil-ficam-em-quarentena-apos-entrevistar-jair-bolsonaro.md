@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 As emissoras brasileiras retiraram os jornalistas do cargo depois que foram expostos ao presidente Jair Bolsonaro em uma entrevista em que ele anunciou que havia testado positivo para o coronavírus, colocando-os em quarentena até que testassem negativo para a doença.
 
 Na terça-feira, Bolsonaro disse a um punhado de jornalistas de televisão em sua residência oficial que ele havia testado positivo para o novo coronavírus.
@@ -34,6 +33,6 @@ Fonte The Jerusalem Post****
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos** **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos** **clicando aqui.**](https://dunapress.org/)

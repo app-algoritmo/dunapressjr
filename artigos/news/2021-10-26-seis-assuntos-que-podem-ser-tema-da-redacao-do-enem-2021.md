@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Todos os anos, a redação do Exame Nacional do Ensino Médio (Enem) é uma das principais preocupações dos estudantes que se preparam para a prova. Afinal, a redação sozinha é responsável por garantir até mil pontos para aqueles que alcançarem a nota máxima. Saber escrever bem é muito importante para conquistar esses pontos, mas não é o único fator para o sucesso. Além de respeitar as normas gramaticais e saber usar corretamente a pontuação, também é necessário ter conhecimentos sobre o tema proposto na prova.
 
 Dentro de todo um universo de assuntos possíveis, alguns se destacam por serem atuais ou estarem muito relacionados ao cotidiano do país. Em 2020, por exemplo, o tema escolhido foi “o estigma associado às doenças mentais na sociedade brasileira”. No ano anterior, 2019, por sua vez, o tema foi “a democratização do acesso ao cinema no Brasil”. Mas e este ano, quais assuntos podem ser cobrados dos estudantes na redação? Para o professor de História e coordenador editorial do Sistema Positivo de Ensino, Norton Nicolazzi Junior, a principal característica do tema da redação é apresentar um problema da sociedade brasileira e pedir para que o estudante proponha uma solução. "Por isso, é importante saber quais assuntos foram debatidos no país no último ano e ler muito a respeito de cada um deles”. O especialista seleciona alguns pontos sobre os quais é aconselhável se aprofundar para o Enem 2021.
@@ -47,7 +46,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

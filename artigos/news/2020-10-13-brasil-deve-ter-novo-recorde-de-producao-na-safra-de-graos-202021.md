@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O 1º Levantamento da safra de grãos 2020/21 mostra que o Brasil deve ter uma produção recorde no período. A produção está estimada em 268,7 milhões de toneladas, volume 4,2% maior que o recorde da safra 2019/20, que totalizou 257,7 milhões de toneladas de grãos. Os dados foram divulgados nesta quinta-feira (8) pela Companhia Nacional de Abastecimento (Conab).
 
 A área cultivada também deve aumentar. A estimativa é de um crescimento de 1,3% o que corresponde a 879,5 mil hectares a mais. Na safra de grãos 2020/21 o plantio deve ocupar 66,8 milhões de hectares.
@@ -43,5 +42,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

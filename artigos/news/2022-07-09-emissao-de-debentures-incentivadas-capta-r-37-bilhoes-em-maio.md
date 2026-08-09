@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Desde 2012, volume total distribuído chega a R$ 185,9 bilhões relacionados a projetos de investimento.
 
 As emissões de debêntures incentivadas chegaram a R$ 3,7 bilhões no mês de maio de 2022, segundo dados da [102ª edição do Boletim de Debêntures Incentivadas](https://www.gov.br/economia/pt-br/centrais-de-conteudo/publicacoes/boletins/boletim-de-debentures-incentivadas/2022/spe-me-boletim-debentures-lei-12-431-mai-2022-v2.pdf/view), divulgado nesta sexta-feira (8) pela Secretaria de Política Econômica (SPE) do Ministério da Economia. Foram distribuídas dez debêntures de infraestrutura, vinculadas aos setores de energia, transporte, saneamento e telecomunicações. O prazo médio das emissões das debêntures de infraestrutura, em maio, foi de 11,1 anos, com remuneração média de IPCA + 6,6%.
@@ -28,8 +27,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

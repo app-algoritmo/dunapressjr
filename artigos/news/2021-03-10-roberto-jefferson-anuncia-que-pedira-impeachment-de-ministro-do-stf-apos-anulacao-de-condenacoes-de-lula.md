@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 -O presidente do PTB, Roberto Jefferson, anunciou que o corpo jurídico do partido está elaborando um pedido de impeachment do ministro Edson Fachin, do STF, responsável por decisão que anulou condenações do ex-presidente Lula no âmbito da Operação Lava Jato. Neste contexto, ele ressaltou que não admitirá omissão da parte de Rodrigo Pacheco, presidente do Senado Federal.
 
 O político declarou: “Nosso Departamento Jurídico do PTB está elaborando um pedido de impeachment do ministro Edson Fachin. Estamos avaliando os abusos cometidos por Fachin para podermos dar entrada no pedido de impeachment no Senado. Posteriormente daremos mais informações.
@@ -33,4 +32,4 @@ Ademais, ele citou Rui Barbosa: “De tanto ver triunfar as nulidades; de tanto 
 
 Fonte: Folha Política
 
-Inscreva-se em nosso canal para acompanhar todas as transmissões de Jair Bolsonaro, assim como os melhores vídeos sobre temas políticos: [http://bit.ly/FolhaPoliticaYoutube](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDFOUjk3X3lUV3Y5UDQtTk4yOVl2M1RMeGpfZ3xBQ3Jtc0trNVF2Y0RXUGxjY0lFT2xaVU92QXQ4MmJvdjhyZTVVU0xyay00ZHhvc0V3TU9nYlp5WlYtQU1zeHpjTkdLQ0ZWb0lBZUd2RFRkSTRpOTlYWTVHYW5NNnhOOXlYUEliS19XNkV2ZmhGdzFwNk9JdjRhcw&q=http%3A%2F%2Fbit.ly%2FFolhaPoliticaYoutube)​
+Inscreva-se em nosso canal para acompanhar todas as transmissões de Jair Bolsonaro, assim como os melhores vídeos sobre temas políticos: [](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDFOUjk3X3lUV3Y5UDQtTk4yOVl2M1RMeGpfZ3xBQ3Jtc0trNVF2Y0RXUGxjY0lFT2xaVU92QXQ4MmJvdjhyZTVVU0xyay00ZHhvc0V3TU9nYlp5WlYtQU1zeHpjTkdLQ0ZWb0lBZUd2RFRkSTRpOTlYWTVHYW5NNnhOOXlYUEliS19XNkV2ZmhGdzFwNk9JdjRhcw&q=http%3A%2F%2Fbit.ly%2FFolhaPoliticaYoutube)​

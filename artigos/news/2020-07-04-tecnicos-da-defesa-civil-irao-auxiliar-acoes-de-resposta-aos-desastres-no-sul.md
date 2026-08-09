@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Equipes da Secretaria Nacional de Proteção e Defesa Civil (Sedec) vêm acompanhando, desde as primeiras ocorrências, a situação das fortes chuvas e vendavais que estão afetando os estados do Sul do País. Técnicos do Centro Nacional de Gerenciamento de Riscos e Desastres (Cenad), da Defesa Civil Nacional, estão em contato permanente com as defesas civis locais – estado e municípios atingidos – para a emissão de alertas, avaliação de riscos e de danos já provocados.
 
 Desde o último fim de semana, com a previsão de formação de um ciclone subtropical em áreas da Argentina e do Paraguai, técnicos do Cenad têm se reunido sistematicamente com equipes dos institutos de meteorologia e do Centro Nacional de Monitoramento e Alertas de Desastres Naturais (Cemaden). Os esforços resultaram em alertas que foram previamente emitidos às autoridades locais e à população.
@@ -32,6 +31,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

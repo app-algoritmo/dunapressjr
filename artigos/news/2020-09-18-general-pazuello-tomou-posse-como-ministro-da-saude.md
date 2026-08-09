@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Desde 16 de maio no cargo de forma interina, o ministro está à frente das ações federais de enfrentamento ao novo coronavírus. O general Eduardo Pazuello assumiu, oficialmente, nesta quarta-feira (16), o comando do Ministério da Saúde, em cerimônia no Palácio do Planalto. 
+Desde 16 de maio no cargo de forma interina, o ministro está à frente das ações federais de enfrentamento ao novo coronavírus. O general Eduardo Pazuello assumiu, oficialmente, nesta quarta-feira (16), o comando do Ministério da Saúde, em cerimônia no Palácio do Planalto.
 
 O general Eduardo Pazuello assumiu, oficialmente, nesta quarta-feira (16), o comando do Ministério da Saúde, em cerimônia no Palácio do Planalto. O ministro estava no cargo interinamente desde 16 de maio. Desde então, tem coordenando as ações federais de prevenção e enfrentamento à Covid-19 no País.
 
@@ -48,5 +47,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

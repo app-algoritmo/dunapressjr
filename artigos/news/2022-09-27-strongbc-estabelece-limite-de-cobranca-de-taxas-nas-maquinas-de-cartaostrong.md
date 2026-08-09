@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Resolução passa a vigorar em 1° de abril de 2023.
 
 O Banco Central estabeleceu limites para a cobrança da tarifa de intercâmbio (TIC) e para o prazo de liquidação de operações de cartões pré-pagos e de cartões de débito. A TIC é a remuneração paga ao emissor do cartão, a cada transação, pelo credenciador do estabelecimento comercial, que é quem aluga as maquininhas de cartão para os comerciantes.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

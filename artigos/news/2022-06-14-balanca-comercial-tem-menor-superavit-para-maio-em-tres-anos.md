@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Exportações superaram importações em US$ 4,94 bilhões.
 
 O aumento do preço de várias mercadorias importadas e as medidas de lockdown na China afetaram a balança comercial brasileira em maio. No mês passado, o país exportou US$ 4,943 bilhões a mais do que importou. Esse é o superávit mais baixo para o mês desde 2019, quando o resultado tinha ficado positivo em US$ 4,369 bilhões.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

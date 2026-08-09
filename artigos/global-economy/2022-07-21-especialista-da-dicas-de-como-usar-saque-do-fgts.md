@@ -7,8 +7,7 @@ categories:
 - Global Economy
 ---
 
-
-Mais de 42 milhões de trabalhadores com direito ao saque extraordinário de até R$ 1 mil do Fundo de Garantia de Tempo de Serviço (FGTS) começam a receber a partir desta quarta-feira (20). De acordo com a Caixa Econômica Federal, a medida pode injetar R$ 30 bilhões na economia. O valor liberado vai depender do saldo que cada pessoa possui, considerando a soma disponível de todas as contas. O pagamento será feito conforme o mês de nascimento e segue até 15 de junho. Os primeiros a receber são os nascidos em janeiro. Quem nasceu em fevereiro vai poder sacar o dinheiro em 30 de abril. 
+Mais de 42 milhões de trabalhadores com direito ao saque extraordinário de até R$ 1 mil do Fundo de Garantia de Tempo de Serviço (FGTS) começam a receber a partir desta quarta-feira (20). De acordo com a Caixa Econômica Federal, a medida pode injetar R$ 30 bilhões na economia. O valor liberado vai depender do saldo que cada pessoa possui, considerando a soma disponível de todas as contas. O pagamento será feito conforme o mês de nascimento e segue até 15 de junho. Os primeiros a receber são os nascidos em janeiro. Quem nasceu em fevereiro vai poder sacar o dinheiro em 30 de abril.
 
 O valor, no entanto, deve ser usado com cautela, de acordo com o doutor em Administração e professor de Finanças da Universidade Positivo, Itamir Caciatori Júnior. “A primeira coisa a se fazer é pensar nas obrigações, principalmente naquelas que estão vencidas em bancos e financeiras, como empresas de cartão de crédito, já que são as que possuem juros e taxas mais altas. A quitação de dívidas em atraso é prioridade”, explica.
 
@@ -27,7 +26,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

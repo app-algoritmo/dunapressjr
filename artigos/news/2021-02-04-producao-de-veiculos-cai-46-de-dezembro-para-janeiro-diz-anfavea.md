@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Comparada a janeiro de 2020, produção aumentou 4,3%.
 
 A produção de veículos no país caiu 4,6% em janeiro na comparação com dezembro de 2020, ao passar de 209,3 mil unidades para 199,7 mil. Comparada à produção de janeiro de 2020, quando foram produzidas 191,7 mil unidades, houve aumento de 4,3%. Os dados foram divulgados hoje (4) pela Associação Nacional dos Fabricantes de Veículos Automotores (Anfavea).
@@ -20,7 +19,7 @@ Segundo os dados, as vendas caíram 29,8% em janeiro, com o licenciamento de 171
 
 As exportações chegaram a 25 mil unidades em janeiro deste ano, 34,8% a menos do que o registrado em dezembro, quando foram comercializadas no mercado externo 38,4 mil unidades. Na comparação com janeiro do ano passado, quando as exportações foram de 20,5 mil veículos, houve aumento de 21,9%. “Número bom para a exportação considerando o cenário, com pandemia na América Latina”.
 
-De acordo com a Anfavea, o emprego em janeiro foi de 103,4 mil postos de trabalho no setor de autoveículos, o que representou um aumento de 2,1% em relação a dezembro (101,2 mil). Com relação a janeiro do ano passado, quando eram 107,2 mil vagas, houve queda de 3,5%. 
+De acordo com a Anfavea, o emprego em janeiro foi de 103,4 mil postos de trabalho no setor de autoveículos, o que representou um aumento de 2,1% em relação a dezembro (101,2 mil). Com relação a janeiro do ano passado, quando eram 107,2 mil vagas, houve queda de 3,5%.
 
 “Grande parte do acréscimo neste ano é por conta das montadoras ligadas a veículos comerciais, que voltaram a contratar. Boa parte dessas contratações são temporárias, com prazo determinado. Isso indica alento, mas certa preocupação sobre quão firme será a demanda num futuro próximo. Nós torcemos para que o emprego temporário seja transformado em permanente”, disse Moraes.
 
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

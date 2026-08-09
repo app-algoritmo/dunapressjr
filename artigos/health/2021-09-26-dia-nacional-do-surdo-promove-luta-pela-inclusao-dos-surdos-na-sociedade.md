@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Há oito anos Cristiane Ventura descobriu que sua filha percebia o mundo de um modo diferente das outras crianças. A pequena e sorridente Tarsila Maria nasceu com a síndrome Charge e, entre outras características, tem surdez profunda e severa. Naquele momento, Cristiane e seu marido, José Carvalho Júnior, começaram a conhecer um universo completamente novo, muito além das palavras e dos sons na convivência com a menina.
 
 “Naquele momento inicial minha preocupação não era nem como ela iria enfrentar o mundo, mas como o mundo iria receber ela. Além disso, outra grande preocupação era como seria nossa comunicação com a Tarsila. Não tínhamos nenhum conhecimento sobre surdez, foi a descoberta de um mundo novo”, lembra.
@@ -40,7 +39,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

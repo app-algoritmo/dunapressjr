@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Como já mencionado no primeiro artigo sobre o tema temos que rever muito a forma como vivemos economicamente nos dias de hoje. Pois o consumismo é desenfreado, o endividamento populacional é crescente, os lucros de bancos e mega oligarquias também, e, de fato, pouco se reverte em nosso favor.
 
 Isto porque é um plano bem sucedido de manter o controle sobre o dinheiro, sobre o que consumimos, como vivemos enquanto consumidores, esbanjando, gastando mais do que se ganha ou produz. Também, por que não querem que tenhamos conhecimento sobre tudo isto, bem como saiamos desta situação deplorável.
@@ -70,4 +69,4 @@ Em uma época em que notícias falsas e distorcidas estão em todas as partes, s
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com, com artigos, informações gerais e cursos que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-[https://dunapress.org/subscription-plan/?ref=Leonardo](https://dunapress.org/subscription-plan/?ref=Leonardo)
+[https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Entre os projetos, há previsão de privatização de nove estatais.
 
 O Conselho do Programa de Parcerias e Investimentos (PPI), do Ministério da Economia, apresentou nesta quarta-feira (2) uma carteira com 115 ativos para leilões e projetos de concessão à iniciativa privada em 2021, com expectativa de gerar R$ 367 bilhões em investimentos. O anúncio foi feito após a 14ª reunião do conselho, na manhã desta quarta-feira, que foi presidida pelo ministro da Economia, Paulo Guedes, e teve a participação do presidente Jair Bolsonaro.
@@ -45,7 +44,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
 
 Obrigado pelo apoio!

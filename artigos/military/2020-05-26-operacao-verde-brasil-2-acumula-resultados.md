@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 A atuação dos militares da Marinha, do Exército e da Aeronáutica na Operação Verde Brasil 2 não cessa. Mesmo nos fins de semana e em horários alternativos, os Comandos Conjuntos Príncipe da Beira, Barão de Melgaço e Marechal Soares de Andrea dão sequência às atividades que visam à prevenção e à repressão de delitos ambientais. Apenas no domingo (24), cerca de 100 veículos e 100 embarcações foram revistados, ao passo que mais de 500 metros cúbicos de madeira extraída irregularmente foram apreendidos. Um total de R$ 580.592,89 foi aplicado em multas.
 
 Em Mato Grosso, o Comando Conjunto Barão de Melgaço patrulhou eixos rodoviários e estabeleceu pontos de checagem de veículos, por militares do 66º Batalhão de Infantaria Motorizado. A mesma atividade foi desenvolvida pelos efetivos dos 4º 6º e 61º Batalhões de Infantaria de Selva, subordinados ao Comando Conjunto Príncipe da Beira, em atuação nos Estados do Acre, Amazonas e Rondônia. Os militares ainda realizaram patrulhas fluviais nos rios da região. Já os 5º e 7º Batalhões de Engenharia de Construção transportam madeiras apreendidas até a capital acreana, sob a escolta do 17º Pelotão de Polícia do Exército.
@@ -23,5 +22,3 @@ Entre delitos não relacionados a crimes ambientais, a Operação também apreen
 **Assessoria de Comunicação Social (Ascom)**
 
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

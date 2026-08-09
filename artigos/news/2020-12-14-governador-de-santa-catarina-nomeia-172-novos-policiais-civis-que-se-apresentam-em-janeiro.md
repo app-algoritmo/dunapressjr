@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O governador Carlos Moisés assinou a nomeação de 104 novos agentes e 68 escrivães para a Polícia Civil de Santa Catarina aprovados em concurso público de 2017. Os atos foram publicados no Diário Oficial do Estado de Santa Catarina na **edição de quinta-feira, 10**.
 
 “Nosso objetivo é trazer mais segurança para o cidadão catarinense. Assumimos o compromisso de fazer a reposição do efetivo de Segurança Pública e estamos avançando neste sentido. Tudo isso sem abrir mão da nossa responsabilidade com os gastos com folha de pagamento e comprometimento das receitas estaduais", afirmou o governador.
@@ -29,7 +28,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

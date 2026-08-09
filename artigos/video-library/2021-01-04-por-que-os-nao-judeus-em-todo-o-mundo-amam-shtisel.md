@@ -7,7 +7,6 @@ categories:
 - Video library
 ---
 
-
 Com a estreia da 3ª temporada em Israel antes de um lançamento global na Netflix, os espectadores explicam o que eles amam no drama que gira em torno de uma família israelense ultraortodoxa.
 
 Reina Rodriguez Taylhardat é uma gerente de mídia social de 37 anos da Cidade do México que foi criada "muito católica", mas agora se identifica como uma "católica leve". Ela também é uma grande fã de "Shtisel", a série israelense de 2013 voltada para personagens sobre o dia-a-dia de uma família Haredi, ou ultraortodoxa.
@@ -106,7 +105,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

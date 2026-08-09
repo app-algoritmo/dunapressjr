@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Um total de 50.070 servidores estão sendo beneficiados com a Lei.
 
 O Governo da Paraíba, por meio da Secretaria de Estado da Administração, informa que cumpre, desde o dia 3 de junho de 2020, a Lei Estadual n° [11.699](http://sapl.al.pb.leg.br/sapl/sapl_documentos/norma_juridica/13645_texto_integral) que suspende por 120 dias (quatro meses), a cobrança de parcelas de empréstimos consignados de servidores do governo da Paraíba, com o objetivo de amenizar a crise econômica causada pela pandemia da Covid-19.
@@ -21,4 +20,4 @@ Caso o estado de calamidade pública perdure por período superior ao estabeleci
 
 Fonte: paraiba.pb.gov.br – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

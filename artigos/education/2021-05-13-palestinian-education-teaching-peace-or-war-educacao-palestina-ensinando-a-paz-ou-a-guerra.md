@@ -9,7 +9,6 @@ categories:
 - Geopolitics
 ---
 
-
 ## Como é a educação na Palestina e o que os estudantes aprendem?
 
 Há poucos dias, tive a oportunidade de ver alguns vídeos de jovens palestinos falando sobre atentados suicidas e os benefícios de participar desse tipo de atentado suicida como uma entrada para o céu e como uma entrada para o paraíso. Apesar de alguma experiência substancial em terrorismo e no que está acontecendo no Oriente Médio, achei esses vídeos absolutamente chocantes que adolescentes, jovens palestinos, declarassem que o objetivo desejado na vida é ser um homem-bomba , para matar tantos israelenses quanto pudessem como uma entrada para o nirvana, para o céu, para o paraíso. Declara o senador Arlen Specter.
@@ -62,7 +61,7 @@ De acordo com o PNUD, há um total de 53 instituições de ensino superior crede
 
 Existem grandes barreiras para os alunos do ensino médio que desejam cursar o ensino superior. Políticas restritivas por parte das autoridades israelenses afetam os alunos, especialmente ao impedir que os alunos do ensino médio de Gaza continuem seus estudos na Cisjordânia. Estudantes palestinos que vivem em Jerusalém Oriental têm pouco acesso às universidades israelenses, e os formados pela Universidade Al-Quds têm dificuldade em obter aprovação formal para seus diplomas em Israel.
 
-## [Clique aqui para ler o relatório completo](https://www.govinfo.gov/content/pkg/CHRG-108shrg90712/pdf/CHRG-108shrg90712.pdf) 
+## [Clique aqui para ler o relatório completo](https://www.govinfo.gov/content/pkg/CHRG-108shrg90712/pdf/CHRG-108shrg90712.pdf)
 
 [elfsight_pdf_embed id="17"]
 
@@ -78,6 +77,6 @@ links externos
 
 - [Relatório da UNICEF sobre a Palestina e o abandono escolar](https://www.unicef.org/mena/reports/state-palestine-out-school-children) (2018)
 
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!, clique e comece já!
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!
 
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)https://dunapress.org/edu/
+https://dunapress.org/edu/

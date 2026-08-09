@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 André Pinto Rebouças nasceu na cidade de Cachoeira – BA, em 13 de janeiro de 1838, filho mais velho de Antônio Pereira Rebouças e Carolina Pinto Rebouças. Possuía sete irmãos.
 
 Vivendo no século XIX com sua família, sua mãe era filha de comerciantes e seu pai, um homem importante e de grande prestígio na época. Advogado autodidata, representou o estado da Bahia na Câmara dos Deputados por diversas legislaturas, foi secretário de governo da, então, província de Sergipe, e conselheiro do Império.
@@ -19,8 +18,6 @@ Novamente em companhia de seu irmão Antônio, viaja para a Europa motivado pelo
 Atuou como engenheiro militar na Guerra do Paraguai, a partir de maio de 1865, porém dado a problemas de saúde, retorna à capital do Império em julho de 1866.
 
 Desse momento em diante, passa a desenvolver projetos com seu irmão Antônio na tentativa de estruturação de companhias privadas com a captação de recursos junto a particulares e a bancos, visando a modernização do país.
-
-[](http://www.palmares.gov.br/?attachment_id=40364)
 
 As obras que André realizou como engenheiro estavam ligadas ao abastecimento de água na cidade do Rio de Janeiro, às docas Dom Pedro II e à construção das docas da Alfândega. Os irmãos Rebouças foram responsáveis pelo projeto da estrada de ferro que liga Curitiba ao porto de Paranaguá, considerada, até hoje, uma obra de concepção arrojada.
 
@@ -42,7 +39,7 @@ A importância de André Rebouças para a modernização do país e para a aboli
 
 **Fontes:**
 
-[http://basilio.fundaj.gov.br/pesquisaescolar./index.php?option=com_content&view=article&id=333&Itemid=1](http://basilio.fundaj.gov.br/pesquisaescolar./index.php?option=com_content&view=article&id=333&Itemid=1) 
+[http://basilio.fundaj.gov.br/pesquisaescolar./index.php?option=com_content&view=article&id=333&Itemid=1](http://basilio.fundaj.gov.br/pesquisaescolar./index.php?option=com_content&view=article&id=333&Itemid=1)
 [http://educacao.uol.com.br/biografias/andre-reboucas.htm](http://educacao.uol.com.br/biografias/andre-reboucas.htm)
 [https://pt.wikipedia.org/wiki/Andr%C3%A9_Rebou%C3%A7as](https://pt.wikipedia.org/wiki/Andr%C3%A9_Rebou%C3%A7as)
 [http://www.historiahistoria.com.br/materia.cfm?tb=alunos&id=196](http://www.historiahistoria.com.br/materia.cfm?tb=alunos&id=196)
@@ -58,7 +55,3 @@ Fonte: https://www.palmares.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

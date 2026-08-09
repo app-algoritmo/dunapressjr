@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
-Com o crescimento da população mundial e consequentemente a demanda por combustíveis fósseis, surgiu a necessidade de se buscar fontes de energia de origem renovável. Uma das soluções encontradas foi a introdução de biocombustíveis (combustíveis de origem vegetal), como o bioetanol de milho (EUA, União Europeia e China) e o de cana-de-açúcar (Brasil, Índia e Colômbia, principalmente), como fontes de energia.  
+Com o crescimento da população mundial e consequentemente a demanda por combustíveis fósseis, surgiu a necessidade de se buscar fontes de energia de origem renovável. Uma das soluções encontradas foi a introdução de biocombustíveis (combustíveis de origem vegetal), como o bioetanol de milho (EUA, União Europeia e China) e o de cana-de-açúcar (Brasil, Índia e Colômbia, principalmente), como fontes de energia.
 
 Todavia, com o aumento da procura por bioetanol, começou a existir uma competição entre a produção de alimentos e biocombustíveis, visto que o milho e a cana-de-açúcar também constituem a base para a alimentação humana e animal, cujas necessidades são crescentes. Isso desencadeou a busca por outras fontes de vegetais não utilizados na alimentação como matéria prima para o biocombustível.  Assim, a espécie vegetal *Solanum lycocarpum*, conhecida no Cerrado brasileiro por “lobeira”, tem se tornado, potencialmente, uma dessas fontes alternativas para a produção de bioetano.
 
-Algumas características importantes levaram à escolha dessa espécie como potencial matéria-prima para a produção de bioetanol, tais como: (1) alta quantidade de amido nos frutos (51% da polpa seca) - baixo teor de amido resistente e alto teor de amido digestível (89,8%) - e (2) baixo conteúdo dos compostos como proteínas, alcaloides, ácido fítico e compostos fenólicos que atrapalham o processo de obtenção de bioetanol. 
+Algumas características importantes levaram à escolha dessa espécie como potencial matéria-prima para a produção de bioetanol, tais como: (1) alta quantidade de amido nos frutos (51% da polpa seca) - baixo teor de amido resistente e alto teor de amido digestível (89,8%) - e (2) baixo conteúdo dos compostos como proteínas, alcaloides, ácido fítico e compostos fenólicos que atrapalham o processo de obtenção de bioetanol.
 
 Nesse contexto, pesquisadores da Universidade Federal de Goiás e do Instituto Federal de Educação, Ciência e Tecnologia de Goiás buscaram, no amido extraído de lobeira (*Solanum lycocarpum*), mais uma fonte de energia renovável.
 
@@ -26,7 +25,7 @@ Os resultados mostram que, com a utilização das enzimas, foi possível quebrar
 
 Este estudo demonstra que as enzimas aplicadas no amido do fruto da lobeira trabalham de forma eficiente para quebrar o polímero de amido e liberar a glicose. Resultados similares já foram encontrados em pesquisas realizadas com amido de mandioca e de trigo. Entretanto, o que torna interessante e vantajoso o processo de obtenção de bioetanol a partir de lobeira é que as enzimas imobilizadas no processo de produção podem ser reaproveitadas, uma vez que não imobilizadas nos demais processos acabam sendo perdidas, aumentando os custos com a obtenção do bioetanol.
 
-Apesar de pesquisas ainda serem necessárias para otimizar o processo/tempo de  obtenção de glicose e de fermentação, a lobeira pode ser uma fonte promissora e renovável para a produção de bioetanol, por ser uma planta amplamente distribuída no Brasil, principalmente em regiões de Cerrado, o que abre boas oportunidades para que novas pesquisas sejam aplicadas ao desenvolvimento de inovações tecnológicas para o manejo e uso sustentável da espécie, como uma opção para a produção de bioetanol. 
+Apesar de pesquisas ainda serem necessárias para otimizar o processo/tempo de  obtenção de glicose e de fermentação, a lobeira pode ser uma fonte promissora e renovável para a produção de bioetanol, por ser uma planta amplamente distribuída no Brasil, principalmente em regiões de Cerrado, o que abre boas oportunidades para que novas pesquisas sejam aplicadas ao desenvolvimento de inovações tecnológicas para o manejo e uso sustentável da espécie, como uma opção para a produção de bioetanol.
 
 Pesquisador(es) Responsável(eis):
 
@@ -52,7 +51,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

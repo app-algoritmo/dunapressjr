@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ferramenta possibilitará conexão direta entre potenciais interessados.
 
 O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) anunciou, nesta segunda-feira (16), o lançamento da Rede de Investidores. A ferramenta inovadora vai conectar usuários com interesse comum por projetos de infraestrutura e privatizações.
@@ -24,10 +23,6 @@ Para ter acesso a todas as informações, os interessados precisam se cadastrar 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### A maior queda foi registrada no Rio de Janeiro.
 
 O Índice de Preços ao Consumidor Semanal (IPC-S) recuou em quatro das sete capitais pesquisadas pela Fundação Getulio Vargas (FGV), de maio para junho deste ano. A maior queda foi registrada no Rio de Janeiro, já que a inflação caiu 0,46 ponto percentual no período, ao passar de 0,51% para 0,05%.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

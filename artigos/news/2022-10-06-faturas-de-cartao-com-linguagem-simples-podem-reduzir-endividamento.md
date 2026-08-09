@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Pesquisa do BC faz parte do Relatório de Economia Bancária.
 
 A adoção de faturas de cartão de crédito que apresentam linguagem simplificada e destaque para informações relevantes sobre as opções de pagamento tem o potencial de melhorar o entendimento sobre esse produto, incentivar melhores decisões financeiras e reduzir o endividamento da população. Em [**estudo**](https://www.bcb.gov.br/content/publicacoes/boxe_relatorio_de_economia_bancaria/boxe_3_efeito_mudanca_layout_fatura_cc.pdf) divulgado nesta quarta-feira (5) pelo Banco Central (BC), o órgão avalia que esses efeitos parecem ser ainda maiores para as pessoas com menor escolaridade.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

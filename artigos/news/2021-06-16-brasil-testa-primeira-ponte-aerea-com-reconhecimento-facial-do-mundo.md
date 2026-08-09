@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Aeroporto de Congonhas estreia Embarque + Seguro 100% Digital com uso de biometria simultânea de passageiros no trecho entre Rio de Janeiro (Santos Dumont) e São Paulo.
 
 O projeto Embarque + Seguro 100% Digital com uso de reconhecimento facial do gov.br chega nesta terça-feira (15) ao Aeroporto de Congonhas (SP). Pela primeira vez no mundo, os passageiros da ponte aérea entre as capitais de São Paulo e Rio de Janeiro participam do teste simultâneo da tecnologia de ponta a ponta, sem a necessidade de apresentar cartão de embarque e documento de identificação.
@@ -28,8 +27,4 @@ Fonte: gov.br
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

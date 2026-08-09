@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa de valores tem leve queda em dia de volatilidade global.
 
 O embargo dos Estados Unidos ao petróleo e ao gás da Rússia não teve grandes efeitos no câmbio. O dólar acelerou a queda e fechou em baixa pela primeira vez após duas altas seguidas. A bolsa de valores oscilou muito ao longo do dia, mas teve leve queda em meio à volatilidade global.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Fundo Nacional de Desenvolvimento da Educação (FNDE) prorrogou até 31 de dezembro o prazo para a renovação semestral dos contratos concedidos pelo Fundo de Financiamento Estudantil (Fies) no segundo semestre de 2020. Os aditamentos dos contratos deverão ser feitos pelo sistema SisFies.
 
 Todo semestre os estudantes devem renovar o financiamento por meio dos aditamentos semestrais de renovação, quando inserem informações como semestralidade e aproveitamento acadêmico.
@@ -28,7 +27,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

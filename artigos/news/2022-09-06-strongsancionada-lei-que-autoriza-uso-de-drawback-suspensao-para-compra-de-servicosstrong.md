@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 ### A partir de 2023, exportadores brasileiros poderão aproveitar a isenção tributária do regime para compra de serviços como transporte, seguro, manejo e armazenagem de cargas.
 
-Foi sancionada nesta segunda-feira (5) a [Lei nº 14.440, de 2 de setembro de 2022](https://www.in.gov.br/en/web/dou/-/lei-n-14.440-de-2-de-setembro-de-2022-426940133), que autoriza a inclusão de serviços no regime de drawback suspensão, entre outras disposições. A medida permite que os exportadores brasileiros adquiram serviços importados ou domésticos com suspensão do pagamento da contribuição para PIS/Pasep e da Cofins, desde que esses serviços sejam direta e exclusivamente vinculados à exportação ou à entrega, no exterior, de produto resultante da utilização do mecanismo de drawback. 
+Foi sancionada nesta segunda-feira (5) a [Lei nº 14.440, de 2 de setembro de 2022](https://www.in.gov.br/en/web/dou/-/lei-n-14.440-de-2-de-setembro-de-2022-426940133), que autoriza a inclusão de serviços no regime de drawback suspensão, entre outras disposições. A medida permite que os exportadores brasileiros adquiram serviços importados ou domésticos com suspensão do pagamento da contribuição para PIS/Pasep e da Cofins, desde que esses serviços sejam direta e exclusivamente vinculados à exportação ou à entrega, no exterior, de produto resultante da utilização do mecanismo de drawback.
 
 O *drawback* suspensão é uma ferramenta de inserção internacional das empresas brasileiras que amparou a exportação de mais de US$ 61 bilhões em 2021 e, atualmente, abrange a desoneração tributária apenas na compra de mercadorias estrangeiras e nacionais destinadas à industrialização de produtos que serão exportados.
 
@@ -39,8 +38,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

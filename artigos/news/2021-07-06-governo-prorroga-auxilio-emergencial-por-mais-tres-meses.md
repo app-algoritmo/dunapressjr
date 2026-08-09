@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Benefício continuará a ser pago até outubro.
 
 O presidente Jair Bolsonaro assinou nesta segunda-feira (5) o decreto que prorroga por três meses o pagamento do auxílio emergencial à população de baixa renda afetada pela pandemia da covid-19. Com isso, o benefício, que terminaria agora em julho, será estendido até outubro. De acordo com a Secretaria-Geral da Presidência da República, o ato será publicado na edição desta terça-feira (6) do *Diário Oficial da União (DOU)*.
@@ -24,10 +23,6 @@ Pelas regras estabelecidas, o auxílio será pago às famílias com renda mensal
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

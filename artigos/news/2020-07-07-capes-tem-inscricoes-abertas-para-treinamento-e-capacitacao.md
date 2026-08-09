@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## As aulas para capacitação sobre o Portal de Periódicos da CAPES são gratuitas.
 
 Estão abertas as inscrições gratuitas para as capacitações de agosto sobre o [Portal de Periódicos](https://www.periodicos.capes.gov.br/) da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). As turmas oferecem videoaulas nos períodos matutino, vespertino e noturno, além dos sábados pela manhã.
@@ -23,7 +22,7 @@ Fonte: gov.br / Imagem em destaque: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

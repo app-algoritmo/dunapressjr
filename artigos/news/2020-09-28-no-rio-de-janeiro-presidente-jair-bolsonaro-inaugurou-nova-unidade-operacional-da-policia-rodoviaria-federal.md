@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Presidente Jair Bolsonaro entregou, nesta quinta-feira (24), à Superintendência da Polícia Rodoviária Federal no Rio de Janeiro, novas viaturas e armamentos que serão utilizados para patrulhar as estradas do estado. O Presidente também participou da entrega de novas estruturas no interior da superintendência, e inaugurou a Unidade Operacional (UOP), na alça de acesso à Linha Vermelha, em local estratégico da Via Dutra.
 
 Segundo o diretor-geral da Polícia Rodoviária Federal, Eduardo Aggio, que acompanhou o Presidente Jair Bolsonaro, as ações mostram o empenho do Governo Federal com a segurança pública em todo o País.
@@ -50,5 +49,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

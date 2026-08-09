@@ -7,7 +7,6 @@ categories:
 - Architecture and Art
 ---
 
-
 ## Uma reflexão sobre um dos mais influentes grupos de música eletrônica do século XX.
 
 Düsseldorf, fim da década de 1960. Surge um grupo de rock psicodélico que se tornará uma das maiores influências da música pop mundial. Kraftwerk, usina ou central elétrica em alemão, começou a se destacar em 1974, com seu álbum Autobahn.
@@ -31,5 +30,3 @@ O tempo me fez mudar, não sei se é algo positivo, mas minha insensibilidade ce
 Robôs são programados para reproduzir e cruzar códigos criados por seres humanos. A monotonia e o tédio não são iminentes? O artista está em constante mutação. O próprio museu, que é de grande inspiração, muda suas exposições entre períodos, de acordo com diferentes pontos de vista, propostos pelos curadores.
 
 Entendo que o quarteto de Düsseldorf quer ser eternizado pelo seu trabalho e influência. Em antítese, não os considero sagrados, mas seres humanos mortais, que inclusive já começaram a partir para a outra dimensão, como Florian Schneider-Esleben.
-
-[](https://dunapress.org/subscription-plan/?aff=jesshutter)

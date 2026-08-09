@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medida beneficia 300 mil empresas, diz Ministério da Economia.
 
 A ampliação de 25% para 35% no corte do Imposto sobre Produtos Industrializados (IPI) pode elevar os investimentos no Brasil em até R$ 534 bilhões nos próximos 15 anos, disse nesta sexta-feira (29), em Brasília, a secretária especial de Produtividade e Competitividade do Ministério da Economia, Daniella Marques. Segundo ela, a medida, publicada nesta sexta-feira no Diário Oficial da União, beneficiará 300 mil empresas da indústria.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

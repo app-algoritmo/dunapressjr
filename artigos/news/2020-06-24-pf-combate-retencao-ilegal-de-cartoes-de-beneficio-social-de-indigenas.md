@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Governador Valadares/MG – A Polícia Federal deflagrou nesta quarta-feira, 24/6, a Operação Policial DESENGATE, com o apoio da Polícia Militar de Minas Gerais, para combater a prática ilegal de retenção de cartões de benefícios sociais de indígenas da etnia Maxakalis e prender autor de graves ameaças e violência contra aquele povo indígena.
 
 A PF representou por nove mandados judiciais, sendo um de prisão preventiva e oito de busca e apreensão, todos expedidos pela Justiça Federal de Teófilo Otoni/MG. A ordem de prisão e seis mandados de busca e apreensão foram cumpridos em Santa Helena de Minas, enquanto as duas restantes de busca e apreensão foram cumpridas em Bertópolis/MG e Ladainha/MG.
@@ -20,4 +19,4 @@ Seguindo todos os protocolos de cuidados do Ministério da Saúde em face da pan
 
 Comunicação Social da Polícia Federal em Minas Gerais
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

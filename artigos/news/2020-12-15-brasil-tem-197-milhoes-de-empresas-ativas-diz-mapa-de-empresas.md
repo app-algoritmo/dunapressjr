@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Destas, 298 mil foram abertas em novembro de 2020.
 
 Há, no Brasil, 19,7 milhões de empresas ativas. Destas, 298 mil foram abertas em novembro de 2020; sendo que 40% delas conseguiram ser registradas no prazo inferior a um dia. No mesmo mês, 88.638 fecharam – o que resulta em um saldo de 202 mil empresas a mais do que foi registrado em outubro.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

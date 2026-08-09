@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medida atende a decisões recentes do Supremo Tribunal Federal.
 
 Um [**decreto**](https://www.in.gov.br/en/web/dou/-/decreto-n-11.182-de-24-deagosto-de-2022-424474177) publicado no fim da tarde desta quarta-feira (24) em edição extraordinária do *Diário Oficial da União* restaurou as alíquotas de Imposto sobre Produtos Industrializados (IPI) de 109 produtos fabricados na Zona Franca de Manaus. A medida atende a decisões recentes do ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes, que suspendeu trechos de três decretos que cortavam em 35% o IPI da maioria dos produtos fabricados no país.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

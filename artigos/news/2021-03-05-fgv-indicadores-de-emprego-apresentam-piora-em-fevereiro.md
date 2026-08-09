@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Indicador Antecedente de Emprego caiu 0,6 ponto e chegou a 82,9 pontos.
 
 Os dois indicadores de mercado de trabalho da Fundação Getulio Vargas (FGV) apresentaram piora na passagem de janeiro para fevereiro. O Indicador Antecedente de Emprego (Iaemp) recuou 0,6 ponto e chegou a 82,9 pontos, em uma escala de zero a 200.
@@ -24,8 +23,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

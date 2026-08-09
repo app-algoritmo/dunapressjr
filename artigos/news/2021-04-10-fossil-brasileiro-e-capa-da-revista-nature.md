@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
-A Revista *Nature*, uma das mais importantes  publicações científicas do mundo, trouxe em sua edição de dezembro [um artigo científico sobre o fóssil de um ](https://www.nature.com/articles/s41586-020-3011-4.epdf)*[Ixalerpeton polesinensis](https://www.nature.com/articles/s41586-020-3011-4.epdf). *Oanimal pré-histórico viveu há 230 milhões de anos e foi encontrado na região central do Rio Grande do Sul. Com a participação de quatro pesquisadores brasileiros, dois deles ex-bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), o texto traz detalhes sobre a anatomia do dinossauro.  
+A Revista *Nature*, uma das mais importantes  publicações científicas do mundo, trouxe em sua edição de dezembro [um artigo científico sobre o fóssil de um ](https://www.nature.com/articles/s41586-020-3011-4.epdf)*[Ixalerpeton polesinensis](https://www.nature.com/articles/s41586-020-3011-4.epdf). *Oanimal pré-histórico viveu há 230 milhões de anos e foi encontrado na região central do Rio Grande do Sul. Com a participação de quatro pesquisadores brasileiros, dois deles ex-bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), o texto traz detalhes sobre a anatomia do dinossauro.
 
 Encontrado no sítio arqueológico Buriol, na cidade de São João do Polêsine, o *Ixalerpeton polesinensis – *cuja imagem foi concebida pelo paleoartista Rodolfo Nogueira – estampou a capa da revista e é classificado como um dinossauromorfo da família dos lagerpetídeos. Esses animais seriam os antepassados dos pterossauros, espécie de répteis que voavam e apresentavam semelhanças com as aves.
 
  Paleontólogo Sérgio Cabreira, um dos autores do Estudo. Imagem Capes.
 
-O trabalho foi desenvolvido por cientistas de diversas instituições do mundo, entre elas a Universidade de São Paulo (USP). Os pesquisadores brasileiros  Max Langer e Mario Bronzati, ambos da USP, Fábio Della Vechia, do Instituto Catalão de Paleontologia Miquel Crusafont, da Espanha, e os paleontólogos Lúcio Roberto da Silva e Sergio Furtado Cabreira, membros da Associação Sul-Brasileira de Paleontologia, foram os responsáveis pela descoberta e pelos estudos anatômicos sobre *Ixalerpeton*.  
+O trabalho foi desenvolvido por cientistas de diversas instituições do mundo, entre elas a Universidade de São Paulo (USP). Os pesquisadores brasileiros  Max Langer e Mario Bronzati, ambos da USP, Fábio Della Vechia, do Instituto Catalão de Paleontologia Miquel Crusafont, da Espanha, e os paleontólogos Lúcio Roberto da Silva e Sergio Furtado Cabreira, membros da Associação Sul-Brasileira de Paleontologia, foram os responsáveis pela descoberta e pelos estudos anatômicos sobre *Ixalerpeton*.
 
 Usando a microtomografia computadorizada e reconstruções em 3D de restos cranianos, os pesquisadores foram capazes de identificar características únicas, como a forma da orelha interna, similar a dos pterossauros. Embora a transição exata entre vertebrados terrestres e voadores permaneça desconhecida, os pesquisadores acreditam que tais evidências coletadas apontam os primeiros passos em direção às características anatômicas e fisiológicas dos pterossauros.
 
@@ -34,7 +33,3 @@ Fonte: Capes
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

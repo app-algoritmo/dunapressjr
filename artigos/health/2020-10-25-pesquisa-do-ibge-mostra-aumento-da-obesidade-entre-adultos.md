@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A proporção de obesos na população com 20 anos ou mais de idade mais que dobrou no país entre 2003 e 2019, passando de 12,2% para 26,8%. Nesse período, a obesidade feminina subiu de 14,5% para 30,2% , enquanto a obesidade masculina passou de 9,6% para 22,8%.
 
 Os dados são do segundo volume da Pesquisa Nacional de Saúde 2019, divulgada nesta quarta-feira (21), pelo Instituto Brasileiro de Geografia e Estatística (IBGE). A amostragem da pesquisa envolveu 108 mil domicílios no Brasil.
@@ -34,7 +33,7 @@ Outro dado revela que 94,4% das pessoas entrevistadas não tinham plano de saúd
 
 Por meio de um questionário aplicado aos moradores com 18 anos ou mais de idade que tiveram pelo menos dois atendimentos com o mesmo médico em Unidades Básicas de Saúde ou Unidades de Saúde da Família, foram verificadas informações sobre a Atenção Primária em Saúde.
 
-Os questionários receberam valores que foram usados para calcular o escore geral da Atenção Primária em Saúde que varia de 0 a 10. O escore geral obtido na pesquisa no Brasil foi de 5,9, determinando a qualidade no atendimento. Foi estipulado que um escore igual ou superior a 6,6 aponta excelente qualidade de atenção primária à saúde. 
+Os questionários receberam valores que foram usados para calcular o escore geral da Atenção Primária em Saúde que varia de 0 a 10. O escore geral obtido na pesquisa no Brasil foi de 5,9, determinando a qualidade no atendimento. Foi estipulado que um escore igual ou superior a 6,6 aponta excelente qualidade de atenção primária à saúde.
 
 Os homens pontuaram a atenção primária em saúde com 5,9 e as mulheres com 5,8. Na faixa etária de 18 a 39 anos, o escore ficou em 5,6. Entre as pessoas com 60 anos ou mais de idade, em 6,1. Já as pessoas que não trabalham pontuaram 5,9 e as ocupadas, 5,8.
 
@@ -47,5 +46,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

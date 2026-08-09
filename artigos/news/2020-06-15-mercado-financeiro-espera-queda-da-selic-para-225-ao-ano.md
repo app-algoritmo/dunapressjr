@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 As projeções estão no boletim Focus, do Banco Central.
 
 O mercado financeiro espera que a taxa básica de juros, a Selic, seja reduzida de 3% ao ano para 2,25% ao ano, na reunião do Comitê de Política Monetária (Copom) do Banco central (BC), marcada para esta terça e quarta-feira (17). Depois dessa redução, a expectativa é que não haja novas reduções da Selic neste ano.
@@ -39,5 +38,3 @@ A previsão para a cotação do dólar passou de R$ 5,40 para R$ 5,20, ao final 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal**.
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

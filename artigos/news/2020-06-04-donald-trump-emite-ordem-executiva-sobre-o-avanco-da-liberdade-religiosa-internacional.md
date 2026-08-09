@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Pela autoridade que me é conferida pela Presidência pela Constituição e pelas leis dos Estados Unidos da América, é ordenado o seguinte:
 
 Seção 1 .  Política. (a) A liberdade religiosa, a primeira liberdade da América, é um imperativo moral e de segurança nacional. A liberdade religiosa para todas as pessoas em todo o mundo é uma prioridade da política externa dos Estados Unidos, e os Estados Unidos respeitarão e promoverão vigorosamente essa liberdade. Conforme declarado na Estratégia de Segurança Nacional de 2017, nossos Fundadores entendiam a liberdade religiosa não como uma criação do estado, mas como um presente de Deus para todas as pessoas e um direito que é fundamental para o florescimento de nossa sociedade.
@@ -60,8 +59,6 @@ DONALD J. TRUMP
 
 THE WHITE HOUSE,
 2 de junho de 2020.
-
-[](https://dunapress.org/subscription-plan/?aff=barrosprojectmanager)
 
 ***Original Version:***
 

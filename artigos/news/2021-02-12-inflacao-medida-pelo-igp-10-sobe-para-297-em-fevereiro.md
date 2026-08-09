@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Taxa é superior à de janeiro (1,33%).
 
 O Índice Geral de Preços – 10 (IGP-10) registrou inflação de 2,97% em fevereiro deste ano, taxa superior ao 1,33% de janeiro deste ano e ao 0,01% de fevereiro de 2020. Segundo a Fundação Getulio Vargas (FGV), com o resultado o IGP-10 acumula taxas de inflação de 4,35% no ano e de 28,17% em 12 meses.
@@ -22,8 +21,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

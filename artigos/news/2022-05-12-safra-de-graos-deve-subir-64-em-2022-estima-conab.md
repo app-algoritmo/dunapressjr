@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Melhora é explicada pela maior área plantada de milho.
 
 A safra de grãos brasileira 2021/2022 deve alcançar 271,8 milhões de toneladas, um aumento de 6,4% na comparação com o ciclo anterior, informou nesta quinta-feira (12) a Companhia Nacional de Abastecimento (Conab). A estimativa, que faz parte do 8º levantamento da safra divulgado pela empresa, aponta ainda um ganho de 2,5 milhões de toneladas quando comparado com a estimativa publicada no mês anterior.
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

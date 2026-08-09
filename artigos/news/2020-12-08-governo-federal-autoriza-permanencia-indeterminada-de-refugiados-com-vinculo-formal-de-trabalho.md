@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Conselho Nacional de Imigração (CNIg) e o Comitê Nacional para os Refugiados (Conare), do Ministério da Justiça e Segurança Pública, autorizaram, para os solicitantes de refúgio no Brasil, a residência associada à questão laboral. Com a nova medida, o solicitante pode transformar a autorização de residência temporária para residência por prazo indeterminado.
 
 A ação assegura a continuidade da regularidade migratória àqueles que já contribuem economicamente para o crescimento do país e possibilitou, até o momento, a extinção de mais de 1.500 processos de refúgio.
@@ -29,7 +28,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

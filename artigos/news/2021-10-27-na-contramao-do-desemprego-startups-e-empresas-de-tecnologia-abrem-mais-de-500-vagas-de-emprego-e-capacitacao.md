@@ -8,18 +8,17 @@ categories:
 - News
 ---
 
-
 ## Salários chegam a R$ 12 mil e benefícios vão de plano de saúde e auxílio home office a licença paternidade de dois meses e cestas de alimentos orgânicos.
 
 Startups e empresas de tecnologia de várias regiões do país têm mais de 500 vagas abertas em diversas áreas, para atuar em home office ou nos modelos híbrido e presencial. Na contramão das estatísticas nacionais - o Brasil tem 14,4 milhões de pessoas desempregadas, de acordo com os dados mais recentes, divulgados pelo IBGE em agosto - essas empresas têm oportunidades de emprego e capacitação na área de tecnologia, que se tornou a mais promissora da economia global. Os setores de data science, desenvolvimento, arquitetura de software, gestão de riscos, compliance, governança, qualidade de software e cibersegurança são os que têm mais vagas disponíveis. Os salários podem chegar a R$ 12 mil, com inúmeros benefícios, que incluem plano de saúde, auxílio home office, cestas de alimentos orgânicos, aulas de inglês e licença paternidade de dois meses.
 
-Uma pesquisa realizada pela Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação (Brasscom) revelou que o mercado de Tecnologia da Informação (TI) deve criar 420 mil novas vagas até 2024. A estimativa de especialistas é que, devido à falta de qualificação nesse mercado, 150 mil dessas vagas não serão preenchidas. Para a Brasscom, existe um déficit anual de 24 mil profissionais especializados no Brasil. Em 2020, as áreas de TIC empregavam 1,62 milhão de brasileiros. Entre contratações e demissões, o saldo do ano fechou positivo, em 58,6 mil. Já entre janeiro e agosto deste ano, o setor somou 81.220 novas vagas com carteira assinada no país, segundo dados do Caged. 
+Uma pesquisa realizada pela Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação (Brasscom) revelou que o mercado de Tecnologia da Informação (TI) deve criar 420 mil novas vagas até 2024. A estimativa de especialistas é que, devido à falta de qualificação nesse mercado, 150 mil dessas vagas não serão preenchidas. Para a Brasscom, existe um déficit anual de 24 mil profissionais especializados no Brasil. Em 2020, as áreas de TIC empregavam 1,62 milhão de brasileiros. Entre contratações e demissões, o saldo do ano fechou positivo, em 58,6 mil. Já entre janeiro e agosto deste ano, o setor somou 81.220 novas vagas com carteira assinada no país, segundo dados do Caged.
 
 **Capacitação gratuita para pesquisadores**
 
 Com o objetivo de desenvolver ainda mais e estimular o ecossistema de inovação de base científica e tecnológica em São Paulo, o programa Acelerando Cientistas, do Sebrae-SP, está com inscrições abertas. As atividades serão conduzidas pela [Wylinka](https://wylinka.org.br/), instituição sem fins lucrativos que atua no apoio à inovação de base científica e tecnológica.
 
-Pesquisadores de todas as áreas podem se inscrever [neste link](http://bit.ly/acelerandocientistas). O objetivo é ensinar como modelar uma startup e transformar o objeto de pesquisa em uma solução viável para o mercado e para a sociedade. A meta é inscrever pelo menos 500 pesquisadores para a qualificação, que é totalmente gratuita. Os pesquisadores podem ser professores e estudantes de instituições e centros de tecnologia que não sabem como gerar um negócio de base tecnológica que resolva um problema real, para despertar a possibilidade de empreender a partir da sua pesquisa.
+Pesquisadores de todas as áreas podem se inscrever neste link. O objetivo é ensinar como modelar uma startup e transformar o objeto de pesquisa em uma solução viável para o mercado e para a sociedade. A meta é inscrever pelo menos 500 pesquisadores para a qualificação, que é totalmente gratuita. Os pesquisadores podem ser professores e estudantes de instituições e centros de tecnologia que não sabem como gerar um negócio de base tecnológica que resolva um problema real, para despertar a possibilidade de empreender a partir da sua pesquisa.
 
 **Vagas abertas**
 
@@ -85,9 +84,9 @@ Abaixo, uma seleção de startups e empresas de tecnologia com vagas em aberto:
 
 **Empresa:** [**Foregon**](https://www.foregon.com/)
 
-**Sobre: **A Foregon desenvolve ferramentas que ajudam os consumidores a  
+**Sobre: **A Foregon desenvolve ferramentas que ajudam os consumidores a
 
-encontrar, comparar e solicitar o produto financeiro ideal, de forma 
+encontrar, comparar e solicitar o produto financeiro ideal, de forma
 
 descomplicada, transparente e gratuita em seu marketplace.
 
@@ -97,9 +96,9 @@ descomplicada, transparente e gratuita em seu marketplace.
 
 **Quantas vagas em aberto: **10
 
-**Perfil / setor das vagas em aberto:** Produto; Marketing; Comercial; Estratégia, Engenharia e Financeiro  
+**Perfil / setor das vagas em aberto:** Produto; Marketing; Comercial; Estratégia, Engenharia e Financeiro
 
-**Como acessar as vagas: **[*https://www.foregon.com/queroserforegon/*](https://www.foregon.com/queroserforegon/) e também na página do Linkedin Foregon - [*https://www.linkedin.com/company/foregon/*](https://www.linkedin.com/company/foregon/) 
+**Como acessar as vagas: **[*https://www.foregon.com/queroserforegon/*](https://www.foregon.com/queroserforegon/) e também na página do Linkedin Foregon - [*https://www.linkedin.com/company/foregon/*](https://www.linkedin.com/company/foregon/)
 
 **Empresa:** Telehybrida
 
@@ -147,7 +146,7 @@ descomplicada, transparente e gratuita em seu marketplace.
 
 **Empresa:** [**ilegra**](https://ilegra.com/)
 
-**Sobre: **A ilegra é uma empresa global que oferece soluções em design digital, inovação, software e operações de TI, ciência de dados e cultura digital. 
+**Sobre: **A ilegra é uma empresa global que oferece soluções em design digital, inovação, software e operações de TI, ciência de dados e cultura digital.
 
 **Setor:** Tecnologia
 
@@ -159,7 +158,7 @@ descomplicada, transparente e gratuita em seu marketplace.
 
 **Como acessar as vagas: **[https://ilegra.gupy.io/](https://ilegra.gupy.io/)
 
-**Empresa:** [Memora Processos Inovadores](https://memora.com.br/) 
+**Empresa:** [Memora Processos Inovadores](https://memora.com.br/)
 
 **Setor:** Tecnologia
 
@@ -175,7 +174,7 @@ descomplicada, transparente e gratuita em seu marketplace.
 
 **Empresa:** hygia bank
 
-**Sobre: **dado o alto preço cobrado pelos planos de saúde existentes no Brasil, a maioria dos brasileiros tem uma cultura muito reativa, quando o assunto é a prevenção de doenças físicas e mentais. Isto é, busca especialistas e hospitais apenas quando algum problema já existe. A *startup *hygia bank criou um modelo de negócio visando não somente de facilitar o acesso aos serviços na área de saúde e financeira, mas de melhorar o relacionamento das pessoas com o próprio bem-estar por meio de saúde preventiva. A ferramenta é bem simples de usar e engloba um banco digital, um aplicativo de saúde e uma loja de serviços para o segmento. 
+**Sobre: **dado o alto preço cobrado pelos planos de saúde existentes no Brasil, a maioria dos brasileiros tem uma cultura muito reativa, quando o assunto é a prevenção de doenças físicas e mentais. Isto é, busca especialistas e hospitais apenas quando algum problema já existe. A *startup *hygia bank criou um modelo de negócio visando não somente de facilitar o acesso aos serviços na área de saúde e financeira, mas de melhorar o relacionamento das pessoas com o próprio bem-estar por meio de saúde preventiva. A ferramenta é bem simples de usar e engloba um banco digital, um aplicativo de saúde e uma loja de serviços para o segmento.
 
 **Setor:** Saúde
 
@@ -199,19 +198,19 @@ ___________________________________________________________________
 
 **Original.io**
 
-**Contatos da assessoria de imprensa:** Experta Media **- **Elara Leite - [elara@expertamedia.com.br](mailto:elara@expertamedia.com.br)/ (11) 93931-3083 
+**Contatos da assessoria de imprensa:** Experta Media **- **Elara Leite - [elara@expertamedia.com.br](mailto:elara@expertamedia.com.br)/ (11) 93931-3083
 
 **Viasoft**
 
-**Contatos da assessoria de imprensa:** [denise@oliverpress.com.br](mailto:denise@oliverpress.com.br) 
+**Contatos da assessoria de imprensa:** [denise@oliverpress.com.br](mailto:denise@oliverpress.com.br)
 
 [**ilegra**](https://ilegra.com/)
 
-**Contatos da assessoria de imprensa:** [vanessa@oliverpress.com.br](mailto:vanessa@oliverpress.com.br) 
+**Contatos da assessoria de imprensa:** [vanessa@oliverpress.com.br](mailto:vanessa@oliverpress.com.br)
 
 [**Foregon**](https://www.foregon.com/)
 
-**Contatos da assessoria de imprensa:** [maristela.coimbra@foregon.com](mailto:maristela.coimbra@foregon.com) 
+**Contatos da assessoria de imprensa:** [maristela.coimbra@foregon.com](mailto:maristela.coimbra@foregon.com)
 
 **Telehybrida**
 
@@ -223,7 +222,7 @@ ___________________________________________________________________
 
 **Acqio**
 
-**Contatos da assessoria de imprensa:** [acqio@rpmacomunicacao.com.br](mailto:acqio@rpmacomunicacao.com.br) 
+**Contatos da assessoria de imprensa:** [acqio@rpmacomunicacao.com.br](mailto:acqio@rpmacomunicacao.com.br)
 
 [**Memora Processos Inovadores**](https://memora.com.br/)** **
 
@@ -248,7 +247,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

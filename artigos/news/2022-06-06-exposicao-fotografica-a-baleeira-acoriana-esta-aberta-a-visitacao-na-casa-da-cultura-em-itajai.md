@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Itajaí recebe, neste mês, durante a programação do aniversário de 162 anos da cidade, a exposição fotográfica A Baleeira Açoriana, de autoria do arquiteto Joel Pacheco, por meio do projeto “Açores – Conhecer é Viver!”. Na quinta-feira (02), aconteceu a abertura da mostra artística, que segue até a próxima quinta-feira (09), na Galeria Mauro Caelum da Casa da Cultura Dide Brandão.
 
 Durante a abertura, prestigiada por autoridades, artistas e visitantes, o autor falou sobre o processo criativo e o que o inspirou a realizar a mostra fotográfica. A proposta nasceu a partir de uma viagem aos Açores, onde ele visitou e fotografou as nove ilhas do arquipélago e acompanhou uma regata de baleeiras na cidade de Horta, Ilha do Faial, durante as festas da Semana do Mar. Pacheco investigou o surgimento, a produção e a utilização da baleeira no arquipélago açoriano e também na orla de Santa Catarina.
@@ -32,5 +31,3 @@ Fonte: https://itajai.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

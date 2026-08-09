@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Mais de 63 mil acidentes foram registrados em rodovias federais do Brasil em 2020, sendo que quase 82% dos casos tiveram vítimas, segundo o Painel CNT de Consultas Dinâmicas dos Acidentes Rodoviários. Nesse cenário, o Maio Amarelo chega mais uma vez para conscientizar a população sobre a importância da direção segura e defensiva, com a campanha "Respeito e Responsabilidade, Pratique no Trânsito''. Além de evitar acidentes e preservar o bem-estar dos motoristas, a campanha também contribui para diminuir a sobrecarga dos hospitais durante a pandemia, principalmente no atendimento de casos graves.
 
 Em 2020, os casos de urgência e ortopedia no Hospital Universitário Cajuru, referência em trauma, corresponderam a 91% dos mais de 119 mil atendimentos realizados. Uma alta parcela desses casos corresponde a vítimas de acidentes de trânsito. "Os acidentes com maior frequência e gravidade são com motociclistas e as lesões podem variar bastante. O que a gente mais observa no dia a dia ao atender vítimas de acidente de trânsito são traumas de crânio encefálico e traumas de membros como fraturas, amputações ou perda permanente dos movimentos. Além disso, também são frequentes os traumas internos, como tórax e abdômen que podem levar o paciente à morte", comenta o médico plantonista do Pronto Socorro do Hospital Universitário Cajuru, Gleicon Oliveira da Rosa.
@@ -26,7 +25,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

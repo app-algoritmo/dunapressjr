@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre o mecanismo utilizado pelo telefone-castiçal automatic electric, mas vamos falar um pouco da história do telefone.
 
 **A disputa por patentes**
@@ -30,9 +29,7 @@ O italiano Antonio Meneei (1808-1889), em 1871 registrou uma patente provisória
 
 A maior disputa que há nesse conflito pela patente dos Estados Unidos é entre Alexander Graham Bell (1847-1922) e Elisha Gray (1835- 1901).
 
-Tanto a patente de Bell quanto a patente provisória de Gray foram registradas no mesmo dia, 14 de fevereiro de 1876, com duas horas de diferença, onde Bell foi o primeiro a patentear e com isso tem o mérito de ser o inventor do telefone.  
-
-[](https://br.pinterest.com/pin/653162752191386481/)
+Tanto a patente de Bell quanto a patente provisória de Gray foram registradas no mesmo dia, 14 de fevereiro de 1876, com duas horas de diferença, onde Bell foi o primeiro a patentear e com isso tem o mérito de ser o inventor do telefone.
 
 Na época surgiram acusações de roubo e fraude de patente, assim como as teorias conspiratórias que buscavam explicar por que Bell acabaria por vencer a disputa.
 
@@ -43,8 +40,6 @@ A princípio as linhas telefônicas eram limitadas, instaladas individualmente, 
 Exemplos dessas centrais telefônicos são vistas em filmes de época, onde mostra a pessoa ligando para a central telefônica e informava o número o qual desejaria se comunicar.
 
 A telefonista estabelecia a conexão com pares de fios que eram plugados manualmente em uma mesa telefônica. Enquanto havia poucas linhas telefônicas o sistema funcionou bem, mas as linhas telefônicas foram aumentando e foram surgindo linhas telefônicas de longa distância foi visto a necessidade de automatizar o sistema para conectar os usuários de forma mais rápida e eficaz.
-
-[](https://br.pinterest.com/pin/169799848422184000/)
 
 **Um problema por ter uma telefonista como intermediária e a busca pela solução**
 
@@ -64,8 +59,6 @@ O sistema de Strowger era o mecanismo utilizado pelo telefone-castiçal automati
 
 Os telefones Strowger Automatic Electric originais não tinham disco giratório. Antecipando o desenvolvimento muito posterior da tecnologia de teclas pressionáveis, eles possuíam botões que o usuário precisava apertar um determinado número de vezes para que os contatos na central "subissem" passo a passo e fizessem a conexão com o telefone desejado. Em 1896, a Automatic Electric introduziu o primeiro telefone com disco giratório, que permaneceu em uso até o final do século XX.
 
-[](https://br.pinterest.com/pin/695172892471461902/)
-
 **Curiosidades**
 
 Para realizar a ligação usando o sistema de Strowger, o usuário deveria realizar a combinação do acionamento de três botões **G**, **H** e **I**, localizados numa caixa em sua casa (sim, isso no futuro se tornou o teclado numérico).
@@ -78,7 +71,7 @@ Se mudarmos a chave do telefone fixo de “tone” para “pulse” e apertar qu
 
 [1878: SURGE A PROFISSÃO DE TELEFONISTA](https://www.dw.com/pt-br/1878-surge-a-profiss%C3%A3o-de-telefonista/a-412863#:~:text=A%20primeira%20central%20telef%C3%B4nica%20do,Bell%20obteve%20um%20%C3%AAxito%20sensacional). Deutsche Welle. Disponível em: Acesso em 07 de jun. de 2020.
 
-CHALINA, Eric. **50 Máquinas que mudaram o Rumo da História.** Tradução de Fabiano Morais. Rio de Janeiro. Sextante. 2014.  
+CHALINA, Eric. **50 Máquinas que mudaram o Rumo da História.** Tradução de Fabiano Morais. Rio de Janeiro. Sextante. 2014.
 
 [HISTÓRIA DO TELEFONE](https://www.portalsaofrancisco.com.br/historia-geral/historia-do-telefone). Portal São Francisco. Disponível. Acesso em: 07 de jun.2020.
 
@@ -89,8 +82,6 @@ CHALINA, Eric. **50 Máquinas que mudaram o Rumo da História.** Tradução de F
 Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique aqui no banner abaixo para assinar
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

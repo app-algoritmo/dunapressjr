@@ -7,12 +7,11 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Material lista cuidados que devem ser adotados pelos setores de hospedagem e alimentação.
 
 A região paulista da Serra da Mantiqueira se prepara para retomar, de forma gradual e responsável, as atividades do setor de turismo. O Consórcio Intermunicipal Serra da Mantiqueira (CISMA), responsável pela gestão da região turística, lançou a “Cartilha de Boas Práticas em Hospitalidade em Tempos de Covid-19”. O documento traz recomendações de medidas de segurança a serem adotadas para preservar a saúde e a segurança, não apenas dos visitantes, mas de toda a equipe de colaboradores.
 
-A cartilha contém protocolos rígidos, alinhados às recomendações da Organização Mundial da Saúde (OMS), a serem utilizados pelos profissionais, desde o manobrista aos funcionários da lavanderia, sobre higienização, ações que permitam o distanciamento necessário entre as pessoas e o uso de máscaras. O documento, destinado a hotéis, pousadas, hostels, apart-hotéis, bares e restaurantes, será distribuído aos mais de 400 estabelecimentos de hospedagem e 550 locais de alimentação das cidades que integram a Região Turística coordenada pelo CISMA: Campos do Jordão, Monteiro Lobato, Pindamonhangaba, Santo Antônio do Pinhal, São Bento do Sapucaí, São Francisco Xavier, São José dos Campos e Tremembé. 
+A cartilha contém protocolos rígidos, alinhados às recomendações da Organização Mundial da Saúde (OMS), a serem utilizados pelos profissionais, desde o manobrista aos funcionários da lavanderia, sobre higienização, ações que permitam o distanciamento necessário entre as pessoas e o uso de máscaras. O documento, destinado a hotéis, pousadas, hostels, apart-hotéis, bares e restaurantes, será distribuído aos mais de 400 estabelecimentos de hospedagem e 550 locais de alimentação das cidades que integram a Região Turística coordenada pelo CISMA: Campos do Jordão, Monteiro Lobato, Pindamonhangaba, Santo Antônio do Pinhal, São Bento do Sapucaí, São Francisco Xavier, São José dos Campos e Tremembé.
 
 “A união e a ação integrada das cidades são fundamentais para o desenvolvimento regional. E o propósito da cartilha é justamente este: unificar e alinhar as orientações, provocando os necessários ajustes operacionais que o momento exige”, destaca Clodomiro Correia de Toledo Junior, presidente do CISMA.
 
@@ -26,7 +25,7 @@ Imagem: Marco Ankosqui
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?aff=Thami)
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)
 
 Experimente por 7 Dias Gratuitos
 

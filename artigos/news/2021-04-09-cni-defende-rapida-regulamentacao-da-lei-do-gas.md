@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Nova lei foi publicada hoje no Diário Oficial da União.
 
 A Confederação Nacional da Indústria (CNI) considera que o governo deve acelerar a regulamentação da Lei do Gás para atrair investimentos estrangeiros e nacionais.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

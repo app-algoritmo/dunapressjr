@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Centro de Reabilitação Pós-COVID de Itajaí completa nesta quinta-feira (14) um mês de funcionamento. A unidade, criada para reduzir e tratar os impactos da doença, já atendeu 85 pacientes neste período. O centro conta com uma equipe multiprofissional e realiza atendimentos em pessoas com sequelas respiratórias, motoras ou emocionais em função da COVID-19.
 
 Em média, são feitos seis acolhimentos por dia no novo centro. Dos 85 pacientes atendidos em um mês de funcionamento, 54% na está na faixa etária dos 60 a 70 anos, sendo a maioria deles homens. As principais queixas tratadas pelos profissionais são dispneia (dificuldade para respirar), cansaço, fadiga, falta de memória e concentração. Alguns pacientes também relatam a permanência da perda de olfato e paladar. Já na área emocional, as reclamações mais frequentes são medo e ansiedade.
@@ -28,7 +27,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

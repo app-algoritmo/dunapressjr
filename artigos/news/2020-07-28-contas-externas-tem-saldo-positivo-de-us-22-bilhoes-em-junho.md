@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Foi o terceiro mês seguido de superávit.
 
 As contas externas registraram saldo positivo em junho, informou hoje (28) o Banco Central (BC). O superávit em transações correntes, que são as compras e vendas de mercadorias e serviços e transferências de renda do Brasil com outros países, chegou a US$ 2,235 bilhões. Esse foi o terceiro mês seguido de superávit e, de acordo com dados revisados, é o maior saldo positivo para junho da série histórica do BC, iniciada em 1995.
@@ -50,4 +49,4 @@ Em junho, após quatro meses de saídas líquidas, os investimentos em carteira 
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

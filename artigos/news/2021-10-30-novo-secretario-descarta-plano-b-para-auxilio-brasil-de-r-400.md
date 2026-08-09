@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Elevação do teto permitirá sobra de R$ 10 bilhões em 2022.
 
 A equipe econômica não tem um plano alternativo para viabilizar o Auxílio Brasil, com benefício mínimo de R$ 400 por família, caso a proposta de emenda à Constituição (PEC) que parcela os precatórios não seja aprovada pelo Congresso, disse nesta sexta-feira (29) o novo secretário especial do Tesouro e Orçamento, Esteves Colnago. Ele afirmou que o Ministério da Economia não trabalha com a decretação de um estado de calamidade pública para executar recursos fora do teto de gastos.
@@ -38,10 +37,6 @@ Colnago esclareceu que o texto da PEC dos Precatórios não abre exceção para 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

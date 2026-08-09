@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Profissionais do hospital deram continuidade de forma adaptada aos estudos desses pacientes, mesmo com o cenário atípico provocado pela Covid-19.
 
 **São Luís (MA) **– Uma internação influencia bastante na vida escolar de uma criança. A rotina de estudos é substituída por tratamentos, medicações e repouso. Entretanto, é possível garantir uma continuidade do processo de aprendizagem e acompanhamento pedagógico, dentro das limitações do momento. Em meio à pandemia, com a suspensão das aulas, os pacientes da ala pediátrica do Hospital Universitário da Universidade Federal do Maranhão, vinculado à Rede Ebserh (HU-UFMA/Ebserh), continuaram desenvolvendo suas atividades diretamente em seus leitos, com o acompanhamento de profissionais.
@@ -39,7 +38,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

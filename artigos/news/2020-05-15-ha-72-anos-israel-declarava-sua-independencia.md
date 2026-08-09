@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Declaração de Independência do Estado de Israel foi assinada às 16 horas do dia 14 de maio de 1948, em Tel Aviv, algumas horas antes do término do mandato britânico sobre a Palestina.
 
 Nesta data, após algumas discussões, o Conselho Nacional, criado para examinar as necessidades políticas da comunidade judaica na Palestina votou aceitando o texto final da Declaração de Independência. Naquela tarde, às 16 horas, David Ben-Gurion, presidente do Conselho Nacional, leu a Declaração de Independência no Museu de Tel Aviv. Naquela manhã, sem saber ao certo quando iria eclodir uma guerra com os Estados árabes, Ben-Gurion pediu ao seu secretário que levasse a Declaração a um banco local para ser guardada num cofre.
@@ -31,5 +30,3 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
 ASSINE O PRESS PERIÓDICO
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

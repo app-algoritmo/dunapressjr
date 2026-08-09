@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Houve redução de 5 horas em relação a junho, mostra Mapa de Empresas.
 
 O tempo médio de abertura de empresas no país, em julho deste ano, foi de um dia e 2 horas, redução de 5 horas em relação ao mês anterior (um dia e 7 horas). É o menor tempo médio já registrado. O dado está presente no [Painel Mapa de Empresas](https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas/painel-mapa-de-empresas) da Secretaria Especial de Produtividade e Competitividade (Sepec) do Ministério da Economia, atualizado na terça-feira (9) com os resultados apurados no mês passado.
@@ -37,14 +36,10 @@ No país, 19 estados registraram aumento no número de registros em relação a 
 
 O Mapa de Empresas mostra, ainda, que o Brasil encerrou julho com 19.862.765 empresas ativas, elevação de 1,3% sobre o mês anterior. Em relação a junho, todos os estados registraram aumento de pelo menos 1%.
 
-Por atividades econômicas, o segmento de “lanchonetes, casas de chá, de sucos e similares” apresentou a maior expansão em julho, com 6.539 novas empresas no país (alta de 6,8% sobre junho). Seis atividades registraram aumento porcentual e quatro tiveram queda. 
+Por atividades econômicas, o segmento de “lanchonetes, casas de chá, de sucos e similares” apresentou a maior expansão em julho, com 6.539 novas empresas no país (alta de 6,8% sobre junho). Seis atividades registraram aumento porcentual e quatro tiveram queda.
 
 Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

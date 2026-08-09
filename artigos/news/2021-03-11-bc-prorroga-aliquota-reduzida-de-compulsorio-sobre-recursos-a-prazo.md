@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alíquota subiria de 17% para 20% em abril.
 
 Por mais sete meses, os bancos continuarão a recolher menos recursos para o Banco Central (BC). A autoridade monetária prorrogou até o fim de outubro a alíquota reduzida de 17% de compulsório sobre recursos a prazo.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

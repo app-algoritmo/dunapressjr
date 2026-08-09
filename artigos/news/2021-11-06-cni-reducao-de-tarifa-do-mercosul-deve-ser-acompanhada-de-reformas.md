@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para entidade, medida só será efetiva com o aumento da competitividade.
 
 A redução em 10% da Tarifa Externa Comum (TEC) do Mercosul para 87% dos produtos de fora do bloco incentiva a integração da economia brasileira, mas precisa vir acompanhada de medidas que reduzam o Custo Brasil e aumentem a competitividade do país. A avaliação é da Confederação Nacional da Indústria (CNI), que defendeu ações complementares para estimular as exportações nacionais.
@@ -28,10 +27,6 @@ A última reivindicação da CNI é o estímulo do comércio justo, com a abertu
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

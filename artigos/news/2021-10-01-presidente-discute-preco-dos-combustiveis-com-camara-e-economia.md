@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Reunião ocorreu esta manhã no Palácio da Alvorada.
 
 O presidente da Câmara dos Deputados, Arthur Lira (PP-AL), disse, hoje (1º), que vai passar o final de semana em tratativas para buscar soluções para reduzir o preço dos combustíveis. Lira se reuniu com o presidente Jair Bolsonaro e o ministro da Economia, Paulo Guedes, para debater o tema, bem como as pautas da agenda econômica.
 
-"Em reunião agora com o presidente Bolsonaro e com o ministro Paulo Guedes para discutirmos não somente o preço dos combustíveis como a pauta da economia. Como eu disse aos líderes, passaremos o final de semana em conversas e tratativas", publicou Lira em seu perfil no Twitter. 
+"Em reunião agora com o presidente Bolsonaro e com o ministro Paulo Guedes para discutirmos não somente o preço dos combustíveis como a pauta da economia. Como eu disse aos líderes, passaremos o final de semana em conversas e tratativas", publicou Lira em seu perfil no Twitter.
 
 O presidente da Câmara foi recebido no Palácio da Alvorada, na manhã desta sexta-feira em encontro que não constava da agenda oficial do presidente Jair Bolsonaro. Os sucessivos aumentos no preço dos combustíveis tem pressionado a inflação.
 
@@ -24,10 +23,6 @@ Lira lembrou que a [**Câmara aprovou nesta semana proposta que reduz o preço d
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

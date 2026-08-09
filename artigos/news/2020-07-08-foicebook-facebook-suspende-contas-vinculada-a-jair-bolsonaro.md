@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Facebook suspendeu na quarta-feira uma rede de contas de mídia social que, segundo ele, foram usadas para espalhar mensagens políticas divergentes online por funcionários do presidente brasileiro Jair Bolsonaro e dois de seus filhos.
 
 A empresa afirmou que, apesar dos esforços para disfarçar quem estava por trás da atividade, encontrou vínculos com a equipe de dois legisladores brasileiros, além do presidente e de seus filhos, o congressista Eduardo Bolsonaro e o senador Flavio Bolsonaro.
@@ -36,6 +35,6 @@ Fonte The Jerusalem Post****
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

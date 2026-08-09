@@ -8,14 +8,13 @@ categories:
 - History
 ---
 
-
 ## Trajetória da mulher que lutou bravamente no Brasil e ajudou a mudar história na Itália pode ser conhecida por meio de filmes e livros; conheça alguns deles.
 
 Numa época em que figuras femininas não costumavam ter destaque na sociedade e na história, Ana Maria de Jesus Ribeiro da Silva mudou o curso de sua vida ao conhecer o italiano Giuseppe Garibaldi. Com apenas 18 anos se uniu aos farroupilhas sulistas que desejavam separar-se do Brasil e fundar uma República.
 
-Assim se iniciou a trajetória da heroína Anita Garibaldi, nascida em Laguna (SC), que este ano recebe homenagens por seu bicentenário de nascimento. Junto de seu companheiro Garibaldi, pegou em armas, combateu tropas, conduziu soldados em marchas, além de organizar um hospital para cuidar dos feridos em batalhas. Hoje, nomeia avenidas, ruas e escolas em todo o país, já foi tema de escola de samba no carnaval do Rio de Janeiro e sua história também já foi contada em filmes, livros e documentários. Nos dias atuais, Anita pode ser considerada um símbolo do empoderamento feminino. 
+Assim se iniciou a trajetória da heroína Anita Garibaldi, nascida em Laguna (SC), que este ano recebe homenagens por seu bicentenário de nascimento. Junto de seu companheiro Garibaldi, pegou em armas, combateu tropas, conduziu soldados em marchas, além de organizar um hospital para cuidar dos feridos em batalhas. Hoje, nomeia avenidas, ruas e escolas em todo o país, já foi tema de escola de samba no carnaval do Rio de Janeiro e sua história também já foi contada em filmes, livros e documentários. Nos dias atuais, Anita pode ser considerada um símbolo do empoderamento feminino.
 
-"O fato de ser uma figura feminina lutando como soldado, ativa e bravamente, contribuiu para conferir à Anita a importância que a figura tem em nossa história. Se considerarmos a época em que viveu e as atitudes que tomou, Anita rompeu padrões em uma sociedade em que mulheres estavam relegadas a tarefas domésticas e familiares", analisa o coordenador editorial do Sistema Positivo de Ensino, Norton Nicolazzi Junior. 
+"O fato de ser uma figura feminina lutando como soldado, ativa e bravamente, contribuiu para conferir à Anita a importância que a figura tem em nossa história. Se considerarmos a época em que viveu e as atitudes que tomou, Anita rompeu padrões em uma sociedade em que mulheres estavam relegadas a tarefas domésticas e familiares", analisa o coordenador editorial do Sistema Positivo de Ensino, Norton Nicolazzi Junior.
 
 Depois de lutar ao lado do novo companheiro no Brasil e também no Uruguai, Anita e Garibaldi seguiram para o país natal de Garibaldi, a Itália, onde novamente se envolveram na luta armada, desta vez pela unificação da península italiana. Já com 4 filhos de Garibaldi, Anita mais uma vez não aceitou ficar em casa e seguiu com o companheiro para lutar contra austríacos e franceses. Mesmo doente, Anita se recusou a abandonar as tropas. A guerreira morreu aos 28 anos, grávida do quinto filho. Seu mausoléu está em Roma, capital italiana, onde é tratada como uma das heroínas que se sacrificaram para que a Itália se tornasse um país unificado.
 
@@ -70,7 +69,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

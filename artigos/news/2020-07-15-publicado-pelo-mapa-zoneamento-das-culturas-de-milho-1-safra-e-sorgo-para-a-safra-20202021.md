@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Estudos para o milho 1ª safra passaram por revisão metodológica da Embrapa e validação de entidades e produtores.
 
 Foram publicadas no Diário Oficial da União desta terça-feira (14) as  [portarias 166 a 182](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=14/07/2020&jornal=515&pagina=75&totalArquivos=332)  com o Zoneamento Agrícola de Risco Climático (Zarc), ano-safra 2020/2021, para o cultivo do milho 1ª para as seguintes unidades da Federação: DF; GO; MT; MS; BA; MA; PI; AC; RO; TO; ES; MG; RJ; SP; PR; RS e SC.
@@ -27,7 +26,7 @@ Para a safra 2020/2021 o zoneamento do milho 1ª safra passou por revisão metod
 
 Foram realizadas 15 reuniões de validação para cultura do milho, no período entre 10 e 29 de junho de 2020, todas por meio de videoconferência.
 
-Também foram publicadas as Portarias de Zarc da cultura do Sorgo para os estados da Bahia, Maranhão, Piauí, Minas Gerais e Rio Grande do Sul. O sorgo passará por revisão metodológica ainda este ano, com isso outros estados terão portarias divulgadas até novembro deste ano. Acesse aqui as [portarias 161 a 165](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=14/07/2020&jornal=515&pagina=8&totalArquivos=332).  
+Também foram publicadas as Portarias de Zarc da cultura do Sorgo para os estados da Bahia, Maranhão, Piauí, Minas Gerais e Rio Grande do Sul. O sorgo passará por revisão metodológica ainda este ano, com isso outros estados terão portarias divulgadas até novembro deste ano. Acesse aqui as [portarias 161 a 165](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=14/07/2020&jornal=515&pagina=8&totalArquivos=332).
 
 **Aplicativo Plantio Certo**
 Produtores rurais e outros agentes do agronegócio podem acessar através de tablets e smartphones, de forma mais prática, as informações oficiais do Zarc, facilitando a orientação quanto aos programas de política agrícola do governo federal. O aplicativo móvel [Zarc Plantio Certo](https://play.google.com/store/apps/details?id=embrapa.br.zonamento), desenvolvido pela Embrapa Informática Agropecuária (Campinas/SP), está disponível no sistema Android.
@@ -38,7 +37,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

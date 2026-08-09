@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Dólar voltou a aproximar-se de R$ 5,40.
 
 Num dia de euforia com o anúncio de resultados promissores em mais uma vacina contra a covid-19, o dólar voltou para a faixa dos R$ 5,40. A bolsa de valores fechou no maior nível em oito meses, antes de a Organização Mundial da Saúde (OMS) declarar a pandemia do novo coronavírus.
@@ -23,5 +22,3 @@ O anúncio do resultado do teste da Moderna e a declaração do democrata Joe Bi
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Paulo Whitaker/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

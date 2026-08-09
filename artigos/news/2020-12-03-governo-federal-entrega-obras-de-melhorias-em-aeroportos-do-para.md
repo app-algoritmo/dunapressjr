@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Infraestrutura entregou obras de melhoria nos aeroportos de Santarém (PA) e de Oriximiná (PA). Os investimentos do Governo Federal somam mais de R$ 18 milhões nos dois aeródromos.
 
 Em Santarém, que tem o aeroporto administrado pela Empresa Brasileira de Infraestrutura Aeroportuária (Infraero), a obra de recuperação de uma das cabeceiras da pista de pouso e decolagem recebeu investimento de R$ 4,62 milhões.
@@ -30,7 +29,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

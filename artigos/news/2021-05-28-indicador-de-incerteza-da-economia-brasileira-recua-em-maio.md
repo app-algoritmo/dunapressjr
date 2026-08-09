@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O índice chegou a 119,9 pontos, diz FGV.
 
 O Indicador de Incerteza da Economia brasileira, medido pela Fundação Getulio Vargas (FGV), caiu 9,5 pontos de abril para maio deste ano. Com o resultado, o índice chegou a 119,9 pontos e está apenas 4,8 pontos acima do nível de fevereiro de 2020, último mês antes da chegada das medidas restritivas adotadas para combater a pandemia de covid-19 no país.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

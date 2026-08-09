@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O Produto Interno Bruto foi estimado em R$ 6,338 trilhões.
 
 A atividade econômica no país recuou 0,1% no terceiro trimestre, em relação ao período anterior, mas em setembro teve alta de 0,3%, se comparado a agosto. Frente ao terceiro trimestre do ano passado, a economia brasileira cresceu 4,1%, e 2,4% em setembro, comparado ao mesmo mês em 2020. Em termos monetários, no acumulado do ano até setembro, o Produto Interno Bruto (PIB, soma dos bens e dos serviços produzidos no país) foi estimado, em valores correntes, em R$ 6,338 trilhões.
@@ -52,10 +51,6 @@ A importação também anotou evolução. O crescimento no terceiro trimestre fi
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Mais de 35 mil denúncias de violência sexual contra crianças e adolescentes recebidas pelo Disque 100 (Disque Direitos Humanos) nos anos 2018 e 2019. Números como esses serão o ponto de partida das discussões no "Fórum Nacional para Proteção de Crianças e Adolescentes Vítimas de Exploração Sexual no Contexto de Pornografia na Internet". Com transmissão ao vivo, o evento ocorre nos próximos dias 29 e 30 de julho.
 
 Entre os participantes, estarão magistrados, procuradores e defensores públicos, conselheiros tutelares, secretários de educação dos estados e delegados federais e das Polícias Civis, além de representantes de empresas de tecnologia.
@@ -39,6 +38,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

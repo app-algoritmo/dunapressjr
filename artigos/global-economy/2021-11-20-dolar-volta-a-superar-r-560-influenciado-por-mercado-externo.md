@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa teve a primeira alta após quatro quedas seguidas.
 
 Influenciado pelo mercado externo, o dólar subiu pelo quinto dia seguido e voltou a ficar acima de R$ 5,60. A bolsa de valores teve a primeira alta após quatro sessões consecutivas de perda, mas fechou a semana com perda de mais de 3%.
@@ -18,14 +17,10 @@ A expectativa de alta de juros nos Estados Unidos estimula a retirada de capitai
 
 No mercado de ações, o dia foi marcado pela recuperação. O índice Ibovespa, da B3, fechou o dia aos 103.035 pontos, com ganho de 0,59%. A alta foi puxada por ações de mineradoras, influenciada pela subida do preço internacional do minério de ferro, e por empresas de telefonia, beneficiadas por uma decisão do Supremo Tribunal Federal de reduzir o Imposto sobre a Circulação de Mercadorias e Serviços (ICMS) sobre serviços de telecomunicações em Santa Catarina. Apesar da alta desta sexta-feira, a bolsa encerrou a semana com queda de 3,1%.
 
-A expectativa de que o Senado fatie a Proposta de Emenda à Constituição (PEC) dos Precatórios trouxe alívio para o mercado. Para investidores, a aprovação de um texto mais enxuto ajudará a reduzir as incertezas fiscais. Mesmo com a PEC aumentando os gastos públicos em 2022, os analistas econômicos acreditam que essa saída seria menos custosa do que um eventual decreto de calamidade pública para bancar o Auxílio Brasil de R$ 400. 
+A expectativa de que o Senado fatie a Proposta de Emenda à Constituição (PEC) dos Precatórios trouxe alívio para o mercado. Para investidores, a aprovação de um texto mais enxuto ajudará a reduzir as incertezas fiscais. Mesmo com a PEC aumentando os gastos públicos em 2022, os analistas econômicos acreditam que essa saída seria menos custosa do que um eventual decreto de calamidade pública para bancar o Auxílio Brasil de R$ 400.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

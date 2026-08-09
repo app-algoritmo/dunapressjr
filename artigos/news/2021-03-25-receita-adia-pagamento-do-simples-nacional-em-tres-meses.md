@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Parcelas voltarão a ser pagas em julho em seis prestações.
 
 Os micro e pequenos empresários e os microempreendedores individuais (MEI) deixarão de pagar as parcelas do Simples Nacional pelos próximos três meses, de abril a junho, anunciou há pouco o secretário especial da Receita Federal, José Barroso Tostes Neto. A medida foi decidida nesta quarta-feira (24) em reunião extraordinária do Comitê Gestor do Simples Nacional.
@@ -26,10 +25,6 @@ O secretário da Receita ressaltou que, por enquanto, o Fisco não pensa em adia
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.   
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

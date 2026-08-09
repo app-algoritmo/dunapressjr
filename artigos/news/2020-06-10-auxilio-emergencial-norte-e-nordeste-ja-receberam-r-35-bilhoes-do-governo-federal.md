@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Ministro da Cidadania, Onyx Lorenzoni, reforça relevância de o dinheiro chegar aos mais vulneráveis. Valor representa quase metade dos recursos pagos no programa. 
 
 O ministro da Cidadania destacou a importância de se fazer chegar o benefício a 58,6 milhões de pessoas entre as mais necessitadas. “Nós rodamos 120 milhões de CPFs para chegar a esse grupo”, afirmou Onyx. “A cobertura que o governo faz no Nordeste é extraordinária em função do grande trabalho feito pela Caixa, pela Dataprev e pela equipe do Ministério da Cidadania”, disse.
@@ -30,5 +29,3 @@ Os números devem aumentar após a reanálise de 5,1 milhões de pedidos, além 
 “De 7 de abril a 7 de junho, encontramos 34 milhões de pessoas. Aqui estão os invisíveis, os informais, aqueles que o Estado nunca viu. Eles estão todos bancarizados, sabemos o endereço da pessoa, a composição familiar, o CPF, a atividade. Um dos caminhos que vamos buscar depois é o do microcrédito, para ser um grande elemento de apoio a essas famílias no pós-pandemia”, projetou o ministro da Cidadania.
 
 Fonte: Gov BR
-
-[](https://dunapress.org/subscription-plan/?aff=Thami)

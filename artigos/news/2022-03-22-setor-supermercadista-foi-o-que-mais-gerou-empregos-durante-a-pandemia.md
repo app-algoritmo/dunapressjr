@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O segundo setor que mais contratou foi o de carga rodoviária.
 
 Em plena pandemia do novo coronavírus, o setor de supermercados foi o maior gerador de empregos no país, com 156.120 novos postos gerados, sendo 57.214 novas vagas, em 2020, e 98.906, em 2021. O setor foi responsável por 6,1% do total de novos postos de trabalho no período 2020/2021, de acordo com o Mapa dos Empregos no Setor de Supermercados, realizado pela Associação de Supermercados do Estado do Rio de Janeiro (Asserrj) em conjunto com a consultoria Future Tank.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

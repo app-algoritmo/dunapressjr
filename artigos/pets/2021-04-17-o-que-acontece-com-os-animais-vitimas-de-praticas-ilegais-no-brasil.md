@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 Em meados de janeiro, um caso de apreensão de animais no Aeroporto Internacional de São Paulo, em Guarulhos, foi destaque em sites e jornais. Foi apenas mais um caso desse crime que ocorre diversas vezes. Infelizmente comum, o tráfico de animais aumentou nos últimos meses, segundo Giuseppe Puorto, diretor do Museus Biológico e Histórico do Instituto Butantan. Didático em suas explicações, o diretor esclarece: “E por que aumenta? Tanto o tráfico interno, brasileiro, como do tráfico internacional aumenta, porque alguém compra esses animais!”
 
 No caso mais recente, em que cerca de 200 animais foram apreendidos, o diretor conta que recebeu uma ligação do Ibama (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis) pedindo ajuda, pois os bichos chegaram em situação muito difícil. Tanto filhotes como adultos estavam em recipientes inapropriados. Do total, ficaram no Butantan 98 animais, entre anfíbios, répteis e artrópodes. Os demais seguiram para outros lugares, já que nem todos podiam ser absorvidos pelo Instituto por falta de espaço naquele momento. Quando isso acontece, os animais podem ser encaminhados para outros locais receptivos de fauna apreendida.
@@ -18,7 +17,7 @@ Por isso a importância do Ibama e de outros órgãos que monitoram os pontos de
 
 **O papel do Butantan no recebimento desses animais**
 
-Do mesmo modo que saem do Brasil, muitos animais vêm de outros países e, exemplo disso, é uma apreensão de 2019, também realizada pelo Ibama que enviou ao Butantan, vários filhotes, entre eles, dois monstros-de-gila. Venenoso, o lagarto tem como habitat natural o sudoeste dos E.U.A. e noroeste do México, uma área muito quente e seca. O animal, cuja espécie hoje é quase ameaçada de extinção, está exposta no Museu Biológico.  
+Do mesmo modo que saem do Brasil, muitos animais vêm de outros países e, exemplo disso, é uma apreensão de 2019, também realizada pelo Ibama que enviou ao Butantan, vários filhotes, entre eles, dois monstros-de-gila. Venenoso, o lagarto tem como habitat natural o sudoeste dos E.U.A. e noroeste do México, uma área muito quente e seca. O animal, cuja espécie hoje é quase ameaçada de extinção, está exposta no Museu Biológico.
 
 O Butantan também recebe doações espontâneas da população. É o caso de uma jiboia – resgatada por um caminhoneiro – que chegou do Piauí ainda filhote, no ano de 1999. “Eu recebi esse bichinho bem pequenininho, filhote, preparei um terrário e comecei a cuidar dele. Ele vai fazer 22 anos. Está lindo! Eu tenho esse como grande exemplo legal. Você cuida do bicho, dá condições e ele está aí”, conta Giuseppe, com brilho nos olhos.
 
@@ -32,7 +31,7 @@ Giuseppe lamenta a condição em que esses animais apreendidos chegam, que pode 
 
 O número de casos de apreensão varia muito. A maioria dos casos são de poucos animais, mas os casos de grande apreensões acima de cinquenta exemplares estão aumentando.
 
-A maioria dos animais foi salva das mãos de traficantes, chegando ao Butantan após apreensão. Eles recebem o cuidado necessário e acabam por encontrar um lar. De acordo com o diretor, cada apreensão é uma história, e dois casos com najas são marcantes pela questão da saúde pública e pela questão ambiental. 
+A maioria dos animais foi salva das mãos de traficantes, chegando ao Butantan após apreensão. Eles recebem o cuidado necessário e acabam por encontrar um lar. De acordo com o diretor, cada apreensão é uma história, e dois casos com najas são marcantes pela questão da saúde pública e pela questão ambiental.
 
 Giuseppe conta que em 2017 o Instituto Butantan recebeu muitos eventos grandes. Em um desses casos, chegou uma naja de Balneário Camboriú, Santa Catarina, resgatada, pelos Bombeiros, em uma estação de Tratamento de Águas.
 
@@ -60,7 +59,7 @@ Casos como esses, de acordo com Giuseppe, “são marcantes pela condição, pel
 
 A recomendação é de que quem tiver animal irregular em casa, precisa procurar um órgão competente. Dependendo do tipo de animal, pode ser entregue em um CETAS (Centro de Triagem de Animais Silvestres), por exemplo, mas nunca ser solto na natureza. Dessa forma, ninguém é colocado em risco.
 
-Quer saber quais outros animais o Museu Biológico tem? [Clique aqui](https://butantan.gov.br/noticias/mate-a-saudade-dos-museus-do-butantan-com-o-tour-virtual) e explore o **Tour Virtual** que o Butantan preparou para você! 
+Quer saber quais outros animais o Museu Biológico tem? [Clique aqui](https://butantan.gov.br/noticias/mate-a-saudade-dos-museus-do-butantan-com-o-tour-virtual) e explore o **Tour Virtual** que o Butantan preparou para você!
 
 Fonte: butantan.gov.br
 
@@ -70,7 +69,3 @@ Fonte: butantan.gov.br
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Decretos são considerados desnecessários e retirada simplifica acesso à legislação pelo cidadão. Os 305 decretos revogados agora tratam de temas variados e eram considerados sem eficácia.
 
 Como parte do esforço para simplificar o acesso da população à legislação, o Governo Federal revogou mais 305 decretos considerados desnecessários. A medida integra as ações dos 600 dias de governo do Presidente Jair Bolsonaro.
@@ -36,4 +35,4 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
-[Torne-se um assinante Prêmio e obtenha 25% de desconto, CLIQUE AQUI  acesse o link  e aplique o código JOMAFE e obtenha o desconto promocional.](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)
+[Torne-se um assinante Prêmio e obtenha 25% de desconto, CLIQUE AQUI  acesse o link  e aplique o código JOMAFE e obtenha o desconto promocional.](https://dunapress.org/produto/assinatura-leitor-premio/)

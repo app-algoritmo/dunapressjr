@@ -8,7 +8,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Durante visita a São Raimundo Nonato (PI) foi anunciado a inclusão do parque em campanhas promocionais.
 
 O ministro do Turismo, Marcelo Álvaro Antônio, e o presidente da República, Jair Bolsonaro, anunciaram o empenho de R$ 6,5 milhões para obras de infraestrutura turística no município de São Raimundo Nonato, no Piauí. O anúncio ocorreu nesta quinta-feira (30.07) durante visita à cidade e ao Parque Nacional da Serra da Capivara. Com o montante, será possível pavimentar as ruas que recebem maior fluxo de veículos, além de revitalizar e reformar o Centro de Apoio ao Turista.
@@ -17,7 +16,7 @@ Pela primeira vez na região, o presidente da República, Jair Bolsonaro, destac
 
 Segundo Álvaro Antônio, a ação se soma à diversas outras que estão sendo realizadas pelo governo federal em prol da transformação dos destinos turísticos do país e da geração de emprego e renda. “O nosso desafio é traduzir o potencial que o Brasil tem no Turismo em realidade. A cidade de São Raimundo Nonato abriga um dos maiores parques arqueológicos do mundo e tem potencial para 2 ou 3 milhões de visitantes. Obviamente, a gente precisa de infraestrutura e é nesse sentido que o governo federal e o presidente Jair Bolsonaro têm nos orientado”, concluiu.
 
-Ainda durante a visita, o Ministério do Turismo incluiu a Serra da Capivara no escopo da Campanha Promocional da Pasta de incentivo ao setor nos Parques Nacionais do Brasil e também na política do Fundo Setorial do Audiovisual para produção de filmes e documentários que tenham como tema ou plano de fundo os destinos turísticos nacionais. 
+Ainda durante a visita, o Ministério do Turismo incluiu a Serra da Capivara no escopo da Campanha Promocional da Pasta de incentivo ao setor nos Parques Nacionais do Brasil e também na política do Fundo Setorial do Audiovisual para produção de filmes e documentários que tenham como tema ou plano de fundo os destinos turísticos nacionais.
 
 No ano passado, o Ministério do Turismo esteve em três ocasiões na região para identificar e aprimorar as potencialidades turísticas do atrativo. Numa delas, técnicos da Pasta realizaram um diagnóstico das necessidades de infraestrutura, conectividade, meio ambiente e promoção do local.
 
@@ -29,7 +28,7 @@ Imagem: Alan Santos/PR
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsistas destacam importância do ambiente para o desenvolvimento de suas pesquisas.
 
 Com 14 milhões de quilômetros quadrados (km²), o continente Antártico é fonte primordial de pesquisas climáticas e ambientais para toda a Terra. A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) promoveu uma parceria com outras instituições e, desde 2018, investiu R$ 5,7 milhões na promoção de pesquisa científica e formação de recursos humanos. Em março de 2020, a nova Estação Antártica foi inaugurada e a ciência brasileira comemorou.
@@ -25,8 +24,6 @@ Superlativa em quase todos os seus aspectos, a Antártica causa surpresa e espan
 Elis Rocha, doutoranda em Oceanologia pela Universidade Federal do Rio Grande (FURG) e bolsista da Capes destaca que se sente bastante privilegiada de estudar e ter tido a oportunidade de conhecer um lugar tão único quanto a Antártica. “O Oceano Austral tem um papel-chave na regulação do clima do planeta, além de ser um ambiente muito sensível às atuais mudanças climáticas. A pesquisa, observação e monitoramento dessa região é fundamental para o melhor entendimento da biogeoquímica dos oceanos e o funcionamento do sistema climático do nosso planeta”.
 
 Fonte: gov.br/mec / Imagem em destaque: MEC
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

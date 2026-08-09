@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A cada ano, cerca de 12 mil novos casos de câncer infantil são diagnosticados no Brasil, segundo o Instituto Nacional do Câncer (Inca). A maioria envolve crianças de quatro a cinco anos de idade. Apesar de ser uma doença grave, com o avanço da medicina, cerca de 80% das crianças e adolescentes acometidos da doença podem ser curados, se diagnosticados precocemente e tratados em centros especializados.
 
 De acordo com a coordenadora de oncologia e hematologia do Hospital da Criança José de Alencar de Brasília (DF), Isis Magalhães, o diagnóstico precoce já é importante quando se trata de um adulto, mas é crucial na luta contra a doença quando o paciente é uma criança. “A nossa principal ação médica é diagnosticar precocemente. Para isso, a gente depende do médico pediatra geral que vai estar com a criança regularmente. Também nós dependemos da conscientização desses médicos de entrar no diagnóstico diferencial. De investigar a possibilidade de câncer”, alerta.
@@ -32,7 +31,7 @@ Outros problemas ocorrem durante o tratamento. “Nossa causa maior de mortalida
 
 Atualmente, a arma mais importante contra o câncer infantil é a quimioterapia. Aliás, as crianças respondem melhor a este processo do que os adultos. Acontece que tal tratamento tem efeitos negativos que precisam ser acompanhados quando o câncer é vencido. Diminuir essas complicações tóxicas também é um desafio para a medicina.
 
-As sessões de quimioterapias venceram o linfoma que acometia o Nicolas Barroso, de três anos. Com pouco mais de um ano ele começou o tratamento e já está na fase de manutenção da medicação. Nele, as complicações tóxicas foram mínimas e a vida voltou ao normal. Ele já estuda, brinca e vive como qualquer criança saudável. “Só de ele estar aqui perto de mim é uma vitória. E ele está curado. É muito esperto, inteligente. É um grande milagre”, comemora a mãe Letícia Barroso.  
+As sessões de quimioterapias venceram o linfoma que acometia o Nicolas Barroso, de três anos. Com pouco mais de um ano ele começou o tratamento e já está na fase de manutenção da medicação. Nele, as complicações tóxicas foram mínimas e a vida voltou ao normal. Ele já estuda, brinca e vive como qualquer criança saudável. “Só de ele estar aqui perto de mim é uma vitória. E ele está curado. É muito esperto, inteligente. É um grande milagre”, comemora a mãe Letícia Barroso.
 
 Além de todos os recursos disponíveis no Sistema Único de Saúde (SUS) para o combate ao câncer infantil, o Ministério da Saúde ressalta que é preciso humanizar ao máximo o atendimento. “Os pais nunca estão preparados. Ninguém nunca encara bem essa sensação de possibilidade de perda. É uma coisa inconcebível”, lembra a oncologista Isis.
 
@@ -50,7 +49,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

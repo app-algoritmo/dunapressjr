@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Empregos na indústria cresceram 1,9% em agosto.
 
 O faturamento real da indústria da transformação ultrapassou o patamar pré-pandemia do início do ano, e a atividade industrial se manteve em crescimento em agosto. As informações são da [**pesquisa Indicadores Industriais**](http://portaldaindustria.com.br/estatisticas/indicadores-industriais/?utm_source=gpc_agencia_de_noticias&utm_medium=site&utm_campaign=IndicadoresAgo20), divulgada hoje (6) pela Confederação Nacional da Indústria (CNI).
@@ -27,5 +26,3 @@ De acordo com a pesquisa, acompanhando o movimento da massa salarial, o rendimen
 Fonte: Agência Brasil – Imagem de destaque: CNI/Miguel Ângelo/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

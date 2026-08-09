@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Inscrições para o processo seletivo para as bolsas remanescentes começam no dia 15 de setembro. Programa oferece bolsas parciais e integrais para facilitar o ingresso de estudantes nas universidades particulares.
 
 O Ministério da Educação (MEC) publicou, nessa terça-feira (8), um edital para o processo de seleção de bolsas remanescentes do Programa Universidade para Todos (Prouni). Serão ofertadas cerca de 90 mil bolsas que não foram preenchidas no processo seletivo regular para o segundo semestre de 2020. As inscrições devem ser feitas via internet, na [página do Prouni](http://prouniportal.mec.gov.br/).
@@ -27,5 +26,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

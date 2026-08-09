@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Quem busca a certificação do ensino fundamental ou do ensino médio, pode se inscrever para o Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja) 2020.
 
 A inscrição no exame é voluntária e gratuita, e deve ser feita até 22 de janeiro, pela internet, no Sistema Encceja.
@@ -52,7 +51,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O reajuste começa a valer a partir deste sábado.
 
 A Petrobras anunciou nesta sexta-feira (19) que o preço médio da gasolina em suas refinarias terá redução de R$ 0,14 por litro, o que representa uma queda de 4,95%. O reajuste começa a valer a partir deste sábado (20). O preço médio do combustível ficará em R$ 2,69 por litro. O diesel não sofre alteração, permanecendo em R$ 2,86 por litro.
@@ -24,10 +23,6 @@ Na terça-feira (16), o Comitê de Pessoas da Petrobras considerou que Luna pree
 
 Fonte: Agência Brasil – Imagem de destaque: Arquivo/Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

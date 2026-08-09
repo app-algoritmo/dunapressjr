@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Informalidade atinge 40,1% da população ocupada.
 
 Dados da ocupação divulgados nesta quinta-feira (30) pelo Instituto Brasileiro de Geografia e Estatística (IBGE) mostram recuperação continuada do mercado de trabalho. A Pesquisa Nacional por Amostra de Domicílios Contínua (Pnad Contínua) aponta que a taxa de desocupação ficou em 9,8% no trimestre móvel encerrado em maio.
@@ -52,8 +51,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

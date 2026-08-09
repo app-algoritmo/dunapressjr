@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bancos, financeiras, fintechs poderão oferecer novo sistema.
 
 O Banco Central (BC) aprovou 762 instituições, incluindo bancos, financeiras, fintechs (empresas de tecnologia no setor financeiro) , instituições de pagamentos, entre outras, para ofertar o Pix, novo sistema de pagamentos instantâneos, a partir de novembro.
@@ -25,5 +24,3 @@ O BC lembra que o [**cadastramento de chaves**](https://agenciabrasil.ebc.com.br
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

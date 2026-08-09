@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Enquanto a empresa de biotecnologia alemã trabalhava em uma injeção para derrotar o vírus, outras empresas em todo o país já começaram a organizar a infraestrutura necessária para entregá-lo a bilhões.
 
 Foi durante o café da manhã na manhã de inverno de 24 de janeiro que Ozlem Tureci e seu marido Ugur Sahin decidiram: “Precisamos dar o tiro de largada nisso”.
@@ -150,7 +149,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

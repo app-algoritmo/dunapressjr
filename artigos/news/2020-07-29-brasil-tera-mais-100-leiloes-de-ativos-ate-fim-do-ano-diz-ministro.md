@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Portfólio atraente põe o país na mira de investidores.
 
 O ministro da Infraestrutura, Tarcísio de Freitas, disse nesta terça-feira (28) que a superação de gargalos que envolviam direitos dos trabalhadores, obtida com a reforma trabalhista, já foi percebida pelos investidores estrangeiros e, com o portfólio de ativos atraentes para leilões no país; a trajetória de recuperação fiscal; e a queda da taxa básica de juros (Selic), representa um conjunto de fatores que colocam o Brasil na mira dos investidores.
@@ -28,4 +27,4 @@ Para superar tal problema, o ministro disse que a estratégia adotada nos leilõ
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

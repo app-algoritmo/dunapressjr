@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Decisão faz total de empresas federais cair para 178.
 
 Criada em 2012 e conhecida como estatal do trem-bala, a Empresa de Planejamento e Logística S.A. (EPL) foi incorporada à Valec, estatal de ferrovias em regime de parceria público-privada. A fusão das duas empresas foi concluída nesta sexta-feira (30), segundo o Ministério da Economia.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

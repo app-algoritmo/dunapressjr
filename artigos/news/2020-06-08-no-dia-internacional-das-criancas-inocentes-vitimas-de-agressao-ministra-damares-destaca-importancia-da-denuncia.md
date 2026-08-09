@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-“Vamos, todos nós, começar a ouvir mais e olhar mais para nossas crianças. Vamos denunciar em caso de violência, de violação de direito de criança”, pediu Damares Alves. 
+“Vamos, todos nós, começar a ouvir mais e olhar mais para nossas crianças. Vamos denunciar em caso de violência, de violação de direito de criança”, pediu Damares Alves.
 
 No Dia Internacional das Crianças Inocentes Vítimas de Agressão, 04 de junho, a ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, disse que a data é um alerta para que o mundo se mobilize na defesa da infância. No Brasil, o Governo Federal tem agido fortalecendo e ampliando a rede de proteção como os conselhos tutelares e canais de denúncias.
 
@@ -23,13 +22,13 @@ Balanço do Disque 100 mostrou que, em 2019, a central atendeu 2,7 milhões de l
 
 “A violência contra a criança no Brasil também é de verdade. Ela acontece nas esquinas, nas ruas, nas casas, nas escolas, em todos os lugares. O Governo Federal entende as diversas formas e modalidades de violências contra a criança no Brasil, a violência física, psicológica, a negligência, a violência sexual, o abandono”, afirmou Damares.
 
- O Disque 100 permite que as denúncias de violações de direitos contra crianças cheguem aos órgãos de proteção.  
+ O Disque 100 permite que as denúncias de violações de direitos contra crianças cheguem aos órgãos de proteção.
 
 ### Rede de Proteção
 
 Segundo a ministra, para combater a violência contra a criança no país, o governo está fortalecendo elos importantes da rede de proteção que são os conselhos tutelares e o canal de denúncias Disque 100. “O Governo Federal tem trabalhado da seguinte forma, primeiro, temos uma rede de proteção. Nessa rede de proteção temos ali o Conselho Tutelar. O Governo Federal vem equipando e fortalecendo os conselhos tutelares nos municípios”.
 
-Damares detalhou que, em 2109, mais de 600 Conselhos Tutelares receberam veículos e computadores. Entre 2019 e 2020, mais de 3 mil conselheiros passaram por treinamento para qualificação. 
+Damares detalhou que, em 2109, mais de 600 Conselhos Tutelares receberam veículos e computadores. Entre 2019 e 2020, mais de 3 mil conselheiros passaram por treinamento para qualificação.
 
 A ministra citou ainda as campanhas de conscientização. Em maio, foi lançada a campanha de conscientização e enfrentamento à violência doméstica, que também tem as crianças como foco.
 
@@ -54,5 +53,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Secretário especial adjunto de Comércio Exterior e Assuntos Internacionais apontou impacto positivo de medidas do governo como causa para a melhora do ambiente de negócios.
 
 A relação bilateral entre Brasil e Estados Unidos avançou nos últimos dois anos, apesar da pandemia, com a implementação de medidas em áreas como facilitação de comércio, boas práticas regulatórias, nova Lei Cambial, infraestrutura e crescimento sustentável. A avaliação foi feita pelo secretário especial adjunto de Comércio Exterior e Assuntos Internacionais do Ministério da Economia, João Rossi, na terça-feira (8), em evento organizado por AmCham Brasil, Conselho Empresarial Brasil-EUA e Confederação Nacional da Indústria (CNI), para comentar a [sessão especial do Fórum de Altos Executivos Brasil - Estados Unidos (Fórum de CEOs)](https://www.gov.br/economia/pt-br/assuntos/noticias/2022/fevereiro/brasil-e-estados-unidos-realizam-sessao-especial-do-forum-de-ceos), realizada no dia anterior. “A gente vê vários movimentos que estão convergindo para essa melhora do ambiente de negócios entre Brasil e Estados Unidos”, disse Rossi, durante o evento virtual.
@@ -37,8 +36,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

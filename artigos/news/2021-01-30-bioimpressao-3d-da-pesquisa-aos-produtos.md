@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A impressão tridimensional (3D) é um método de fabricação de objetos sólidos a partir de um arquivo digital contendo informações de coordenadas espaciais. A criação de um protótipo impresso em 3D é alcançada depositando-se camadas sucessivas de material, até que o objeto esteja concluído. Uma característica importante dessa metodologia é que podem ser utilizados variados tipos de materiais, tais como metais, resinas, polímeros e, mais recentemente, componentes biológicos, incluindo biomoléculas e células. Quando componentes biológicos estão envolvidos no procedimento de fabricação, o processo é denominado de bioimpressão 3D.
 
 Essa técnica constitui uma das inovações mais recentes em biotecnologia e biologia sintética, permitindo desde a produção de pequenos grupos organizados de células usados para ensaios de atividade até a confecção de órgãos inteiros para transplantes. No que diz respeito aos ensaios, a bioimpressão 3D fornece modelos mais interessantes do que os de cultivos tradicionais de células, em que as mesmas se encontram desorganizadas e fora do seu ambiente real. O uso da impressão tridimensional permite recriar com mais fidelidade o contexto em que as células se encontram no corpo, preservando melhor sua função. Dessa forma, testes de atividade biológica se tornam mais precisos e realistas, evidenciando efeitos que substâncias podem ter no corpo que não eram detectados nos testes anteriores.
@@ -19,7 +18,6 @@ A equipe que atua no Laboratório de Nanobiotecnologia (LNANO) da Embrapa Recurs
 O projeto desenvolvido pela equipe é constituído de várias etapas, iniciando-se pela criação do modelo tridimensional, desenhado em computador, que serve de base para a impressão do objeto. Concluído o esqueleto digital, os cientistas buscam utilizar materiais biológicos ou biocompatíveis para a impressão da estrutura que irá abrigar as células, de modo que elas se desenvolvam de forma semelhante ao que se observa na natureza. O grupo espera, com o tempo, elaborar e aprimorar maneiras para criar rapidamente cópias em laboratório de tecidos de plantas e animais e de colônias de micro-organismos.
 
 Após essa etapa, os protótipos produzidos nas bioimpressoras precisam ser avaliados quanto às suas propriedades físicas e químicas. A avaliação mostra se os tecidos estão prontos para participar de ensaios biológicos, nos quais serão comparadas as ações de compostos em células cultivadas por métodos convencionais e no modelo 3D. Também serão feitos testes comparando os efeitos de [bioativos](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-exatas-e-da-terra/337-bioimpressao-3d-da-pesquisa-aos-produtos#) e nanossistemas em animais e nos tecidos produzidos em laboratório.
- 
 
 **Figura 2 -** Exemplo de como a bioimpressão 3D pode ser utilizada em ensaios. Na figura, os tecidos vivos foram impressos em cada um dos poços da placa, e podem ser usados para testagem de fármacos ou outras substâncias bioativas. Crédito: Joseph Elsbernd. 3D rendering of a 24 well plate.
 
@@ -43,7 +41,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

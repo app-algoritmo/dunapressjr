@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Técnicos da Defesa Civil Nacional estão em Santa Catarina para auxiliar nos trabalhos de resposta aos desastres provocados pela passagem de um ciclone extratropical no Sul do País nesta semana.
 
 Na manhã desta sexta-feira (3), o secretário nacional de Proteção e Defesa Civil, coronel Alexandre Lucas Alves, se reuniu com representantes do governo do estado para discutir apoio aos atingidos pelo ciclone e disse que o Governo Federal não vai poupar esforços para auxiliar a população. “Estamos aqui por recomendação do presidente Jair Bolsonaro e do ministro Rogério Marinho [Desenvolvimento Regional], para que, de imediato, tomemos conhecimento de todas as necessidades que o Governo Federal pode auxiliar no apoio aos catarinenses”, disse.
@@ -34,4 +33,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

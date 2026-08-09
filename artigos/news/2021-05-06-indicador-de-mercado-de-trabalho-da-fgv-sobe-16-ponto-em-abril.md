@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Taxa fica abaixo de fevereiro de 2020, período pré-pandemia.
 
 O Indicador Antecedente de Emprego (Iaemp), calculado pela Fundação Getulio Vargas (FGV), cresceu 1,6 ponto de março para abril deste ano. Com isso, o indicador chegou a 78,7 pontos, recuperando 18% da queda acumulada nos três meses anteriores.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

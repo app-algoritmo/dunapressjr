@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O projeto da Universidade Federal do Triângulo Mineiro (UFTM) selecionado no Programa de Combate a Epidemias da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) quer descobrir se existem pessoas com maior imunidade à COVID-19 e quais fatores — entre eles, genéticos — podem ser determinantes para isso. Com essas respostas em mãos, os pesquisadores pretendem trazer avanços no diagnóstico e no tratamento da doença.
 
 O grupo já conta com mais de mil amostras, entre sangue, urina e secreção nasal. O material é coletado em pacientes de quatro hospitais em Uberaba (MG): de Clínicas da UFTM (HC-UFTM), Regional José Alencar, São Domingos, Unimed e Mário Palmério, da Universidade de Uberaba (Uniube).  “A análise se dá pela procura de alterações, aumento ou diminuição, de alguma substância, para ver se é algo que fará a doença ficar mais grave”, explica Virmondes Rodrigues Júnior, coordenador do projeto. A ideia é agir antes que a doença evolua para uma forma mais grave.
@@ -29,7 +28,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estudo mostra que a vacina oferece 2 a 8 vezes mais proteção contra casos graves de Covid-19.
 
 O Ministério da Saúde realizou um estudo comparativo de dados de janeiro de 2021 a julho de 2021, com atenção especial aos casos graves de coronavírus. A partir do estudo, verifica-se que pessoas com comorbidades que foram vacinadas estão mais protegidas contra doenças graves do que pessoas sem comorbidades que não foram vacinadas, em uma comparação entre pessoas da mesma idade divididas em vários grupos de maiores de 40 anos .
@@ -45,7 +44,3 @@ Fonte: https://www.israelnationalnews.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

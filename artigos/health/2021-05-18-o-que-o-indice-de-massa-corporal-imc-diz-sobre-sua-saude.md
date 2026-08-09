@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Criado no século 19 pelo matemático Lambert Quételet, o Índice de Massa Corporal, conhecido pela sigla IMC, é um cálculo simples que permite medir se alguém está ou não com o peso ideal. Muitas pessoas buscam descobrir seu IMC quando iniciam uma dieta específica ou uma atividade física. E estão certas, pois ele aponta a normalidade - peso adequado -, a magreza ou a obesidade em diferentes níveis. Mas, com o resultado deste cálculo em mãos, o que fazer? E o que este número final diz sobre a saúde de cada pessoa?
 
 Para fazer o cálculo, basta dividir o peso pela altura ao quadrado. É importante ter as medidas exatas antes do cálculo. Não vale “chutar” ou arriscar um palpite. O número final representa o quanto a pessoa tem de massa muscular + massa de gordura + massa óssea. Com o resultado, o próximo passo é traduzi-lo. Veja a tabela para interpretar:
@@ -44,11 +43,11 @@ Se o índice estiver muito abaixo da normalidade para o homem e para a mulher in
 
 Ao calcular o IMC, é importantíssimo levar em consideração se a pessoa é um atleta, uma criança ou um idoso. No caso de uma pessoa que pratica musculação, por exemplo, o IMC pode muitas vezes não ser verdadeiro. O índice não pode ser interpretado do mesmo jeito que de uma pessoa sedentária, que provavelmente tem o índice de gordura muito maior. Então essa é uma crítica que se faz a usar o Índice de Massa Corporal de forma indiscriminada.
 
-Essas pessoas devem ser vistas por um profissional de Nutrição ou por um endrocnologista, que não se baseiam apenas pelo IMC. Para este público, são necessárias classificações específicas. 
+Essas pessoas devem ser vistas por um profissional de Nutrição ou por um endrocnologista, que não se baseiam apenas pelo IMC. Para este público, são necessárias classificações específicas.
 
 É indicado que as pessoas façam uma autocrítica da qualidade de alimentação e atividade física. Um IMC dentro da normalidade não é o suficiente para considerar a pessoa 100% saudável. Às vezes ela tem uma massa corporal normal, mas não está se alimentando adequadamente e é uma pessoa extremamente sedentária. O IMC normal não isenta de qualquer preocupação com a sua qualidade de vida.
 
-Para aprender a se alimentar corretamente, acesse o [**Guia Alimentar para a População Brasileira**](http://bvsms.saude.gov.br/bvs/publicacoes/guia_alimentar_populacao_brasileira_2ed.pdf). 
+Para aprender a se alimentar corretamente, acesse o [**Guia Alimentar para a População Brasileira**](http://bvsms.saude.gov.br/bvs/publicacoes/guia_alimentar_populacao_brasileira_2ed.pdf).
 
 Fonte:  http://www.blog.saude.gov.br
 
@@ -59,7 +58,3 @@ Fonte:  http://www.blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

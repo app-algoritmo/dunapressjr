@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ter moradia própria agora é uma realidade para 300 famílias de baixa renda de Mossoró (RN). Nesta sexta-feira (21), as unidades habitacionais foram entregues pelo Presidente Jair Bolsonaro no Residencial Mossoró I. O Ministério do Desenvolvimento Regional investiu R$ 18,3 milhões no empreendimento que vai beneficiar cerca de 1,2 mil pessoas.
 
 Durante a cerimônia, o Presidente Bolsonaro, acompanhado de uma comitiva de ministros às famílias da cidade, realizou a entrega de chaves dos apartamentos a futuros moradores do residencial. E também visitou uma das contempladas na cidade, Janaína Vieira Alves.
@@ -35,5 +34,3 @@ Além das 300 residências entregues nesta sexta-feira, outras 600 estão em con
 Também foram entregues 212 mil residências do programa até o fim de julho. Destas, 26 mil para famílias que mais precisam. Além disso, mais de 189 mil unidades habitacionais foram contratadas para as Faixas 1,5, Faixa 2 e Faixa 3, financiadas com recursos do Fundo de Garantia do Tempo de Serviço (FGTS).
 
 Fonte Gov.br
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

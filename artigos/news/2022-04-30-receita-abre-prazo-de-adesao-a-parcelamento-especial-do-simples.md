@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Aumento de tributo para instituições financeiras custeará programa.
 
 Depois de três meses de espera, as micro e pequenas empresas e os microempreendedores individuais (MEI) poderão aderir ao parcelamento especial criado para renegociar dívidas com o governo. A Receita Federal publicou nesta sexta-feira (29) a [**instrução normativa**](https://www.in.gov.br/web/dou/-/instrucao-normativa-rfb-n-2.078-de-28-de-abril-de-2022-396449323) que cria o Programa de Reescalonamento do Pagamento de Débitos no Âmbito do Simples Nacional (Relp).
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

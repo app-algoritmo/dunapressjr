@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Serão apoiados até 90 projetos e financiadas 720 bolsas nos estados do Norte, Maranhão e Mato Grosso para desenvolver pós-graduação na região.
 
 O prazo para envio de propostas para o [Programa de Desenvolvimento da Pós-Graduação (PDPG) na Amazônia Legal](http://www.capes.gov.br/bolsas/programas-estrategicos/desenvolvimento-regional/programa-de-desenvolvimento-da-pos-graduacao-pdpg-na-amazonia-legal) se encerra nesta sexta-feira, 10. A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) vai apoiar até 90 projetos de consolidação de iniciativas existentes na Região Amazônica e criará novas áreas de concentração ou programas de pós-graduação. Serão 720 bolsas de mestrado, doutorado e pós-doutorado e até R$ 56,4 milhões de investimento.
@@ -30,7 +29,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

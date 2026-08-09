@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-O Fundo Nacional de Desenvolvimento da Educação (FNDE) prorrogou, até 31 de julho, os prazos para validação das inscrições pelas Comissões Permanentes de Supervisão e Acompanhamento e para formalização junto ao banco da contratação do Fundo de Financiamento Estudantil (Fies). 
+O Fundo Nacional de Desenvolvimento da Educação (FNDE) prorrogou, até 31 de julho, os prazos para validação das inscrições pelas Comissões Permanentes de Supervisão e Acompanhamento e para formalização junto ao banco da contratação do Fundo de Financiamento Estudantil (Fies).
 
 De acordo com a portaria publicada hoje (29) no [***Diário Oficial da União***](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=29/06/2020&jornal=515&pagina=26), a decisão foi tomada em razão das medidas de enfrentamento à pandemia de covid-19.
 
@@ -24,7 +23,7 @@ Fonte: Agência Brasil / Imagem em destaque: agenciabrasil.ebc.com.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

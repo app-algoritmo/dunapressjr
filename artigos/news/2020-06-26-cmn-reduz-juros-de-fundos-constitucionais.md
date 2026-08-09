@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Novos valores serão aplicados a partir de julho.
 
 A redução da taxa Selic – juros básicos da economia – para o menor nível da história levou o Conselho Monetário Nacional (CMN) a diminuir os juros dos fundos constitucionais. As novas taxas vigorarão para a próxima safra, de julho deste ano a junho do próximo ano. Os juros cairão, em média, 1 ponto percentual, mas a redução, em algumas linhas, chegou a quase 3 pontos.
@@ -20,4 +19,4 @@ Formados por 1% da arrecadação do Imposto de Renda e do Imposto sobre Produtos
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

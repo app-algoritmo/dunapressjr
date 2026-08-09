@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 **Bolsa encerra em queda e volta a ficar abaixo dos 103 mil pontos**.
 
 Pela primeira vez em cinco sessões, o dólar caiu, influenciado por um movimento global de correção das altas dos últimos dias. O dólar comercial fechou esta terça-feira (11) vendido a R$ 5,415, com recuo de R$ 0,05 (-0,91%).
@@ -20,4 +19,4 @@ No mercado de ações, o dia foi marcado pelas oscilações. O índice Ibovespa,
 
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Nazanin Tabatabaee/West Asia News Agency
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

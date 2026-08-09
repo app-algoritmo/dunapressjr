@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa encerra com alta de 2,5% depois de subir quase 4%.
 
 Em um dia de oscilações no mercado financeiro, o dólar fechou próximo da estabilidade, depois de cair para R$ 5,22 durante a manhã. A bolsa de valores chegou a subir quase 4%, mas desacelerou ao longo do dia.
@@ -27,5 +26,3 @@ O resultado das eleições deverá destravar as negociações em torno de um nov
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

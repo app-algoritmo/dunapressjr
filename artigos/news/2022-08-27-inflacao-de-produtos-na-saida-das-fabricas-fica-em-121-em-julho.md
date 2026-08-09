@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice de Preços ao Produtor é medido pelo IBGE e foi divulgado nesta sexta-feira.
 
 O Índice de Preços ao Produtor (IPP), que mede a variação dos preços dos produtos na saída das fábricas do país, registrou inflação de 1,21% em julho deste ano. A taxa é superior ao 1,01% medido em junho, e inferior ao 1,86%, aferido em julho do ano passado.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

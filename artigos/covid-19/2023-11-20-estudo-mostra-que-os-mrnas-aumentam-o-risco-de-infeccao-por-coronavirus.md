@@ -7,7 +7,6 @@ categories:
 - Covid-19
 ---
 
-
 ## O estudo, conduzido por investigadores italianos, também contém notícias muito preocupantes para as pessoas que receberam três ou mais vacinas Moderna.
 
 Os investigadores italianos relatam que as pessoas que receberam pelo menos uma vacinação contra a Covid tinham cerca de 30% mais probabilidade de serem infectadas com Sars-Cov-2 do que as pessoas não vacinadas.
@@ -64,4 +63,4 @@ No entanto, ensaios clínicos sólidos – que são muito mais fiáveis ​​do
 
 Por outras palavras, mesmo que as vacinas não fizessem nada para reduzir as mortes por Covid, seria de esperar que os investigadores descobrissem que reduziram as mortes por Covid em 70 por cento apenas através do efeito de vacinados saudáveis.
 
-Fonte: [Substack ](https://alexberenson.substack.com/p/another-major-study-shows-the-mrnas?utm_source=post-email-title&publication_id=363080&post_id=138806596&utm_campaign=email-post-title&isFreemail=false&r=pf6gr&utm_medium=email)[*Alex Berenson*](https://alexberenson.substack.com/p/another-major-study-shows-the-mrnas?utm_source=post-email-title&publication_id=363080&post_id=138806596&utm_campaign=email-post-title&isFreemail=false&r=pf6gr&utm_medium=email)[ ](https://alexberenson.substack.com/p/another-major-study-shows-the-mrnas?utm_source=post-email-title&publication_id=363080&post_id=138806596&utm_campaign=email-post-title&isFreemail=false&r=pf6gr&utm_medium=email)
+Fonte: [Substack ](https://alexberenson.substack.com/p/another-major-study-shows-the-mrnas?utm_source=post-email-title&publication_id=363080&post_id=138806596&utm_campaign=email-post-title&isFreemail=false&r=pf6gr&utm_medium=email)[*Alex Berenson*](https://alexberenson.substack.com/p/another-major-study-shows-the-mrnas?utm_source=post-email-title&publication_id=363080&post_id=138806596&utm_campaign=email-post-title&isFreemail=false&r=pf6gr&utm_medium=email)

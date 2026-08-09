@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 População ocupada tem menor nível da série iniciada em 2012.
 
 O segundo trimestre de 2020 registrou recorde na redução de 9,6% no número de pessoas ocupadas no Brasil. No total, 8,9 milhões de pessoas perderam seus postos de trabalho de abril a junho, em relação ao período de janeiro a março. Com isso, a população ocupada ficou em 83,3 milhões, o menor nível da série histórica, iniciada em 2012. Na comparação com o mesmo período de 2019, a queda foi de 10,7%.
@@ -44,4 +43,4 @@ Com menos trabalhadores informais, que tem remunerações menores, o rendimento 
 
 Fonte: Agência Brasil – Imagem de destaque: Tomaz Silva/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Infraestrutura, por meio da Secretaria Nacional de Transportes Terrestres (SNTT), lançou o Inov@BR, programa de estímulo à modernização das principais rodovias federais, para promover o aumento da segurança e da eficiência logística do país.
 
 “A segurança viária, a fluidez e a tecnologia são os pilares dessa modernização que planejamos. A transformação digital é nossa premissa e vamos fazer com que ela chegue até as rodovias federais. Nosso principal desafio é aumentar a qualidade de serviço ao usuário e estamos trabalhando para isso acontecer”, afirma o ministro da Infraestrutura, Tarcísio Gomes de Freitas.
@@ -28,7 +27,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

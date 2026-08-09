@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Levantamento é feito pelo Banco Central.
 
-A atividade econômica brasileira registrou acomodação no quarto trimestre de 2021, mas com “divergência de resultados” entre os setores. De acordo com o Boletim Regional, divulgado nesta terça-feira (22) pelo Banco Central, o setor de comércio registrou nova retração no trimestre, em função da queda na renda real das famílias. 
+A atividade econômica brasileira registrou acomodação no quarto trimestre de 2021, mas com “divergência de resultados” entre os setores. De acordo com o Boletim Regional, divulgado nesta terça-feira (22) pelo Banco Central, o setor de comércio registrou nova retração no trimestre, em função da queda na renda real das famílias.
 
 O setor de serviços manteve trajetória positiva, enquanto a produção industrial registrou estabilidade. O levantamento indica que a agricultura apresenta perspectiva positiva para 2022, apesar das condições climáticas adversas na Região Sul.
 
@@ -102,8 +101,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

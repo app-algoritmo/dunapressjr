@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Equipe trabalha na elaboração de material didático e contato com usuários.
 
 O projeto Diversitas, desenvolvido pelo Centro de Ciências Médicas da Universidade Federal da Paraíba (UFPB), apoiará, no pós-pandemia, pacientes com deficiência ou limitação que utilizam os serviços ambulatoriais do Hospital Universitário Lauro Wanderley (HULW), no campus I, em João Pessoa.
@@ -48,13 +47,13 @@ Rilda Muñoz esclarece que, embora raramente seja reconhecida como diversidade, 
 
 “Deficiências podem afetar órgãos dos sentidos (visão e audição), o intelecto ou mobilidade física; podem ser estáticas ou progressivas, congênitas ou adquiridas, morfológicas (afetando a forma do corpo) ou funcionais (função), visíveis ou invisíveis. Todas essas diferenças criam uma heterogeneidade dentro do todo”.
 
-Além da coordenadora, o projeto conta com a participação do professor José Maroja, do Departamento de Medicina Interna; da técnico-administrativa Isabella Soares e das estudantes de Medicina Renata Freitas, Cândida Virlene e Danielle Dantas. 
+Além da coordenadora, o projeto conta com a participação do professor José Maroja, do Departamento de Medicina Interna; da técnico-administrativa Isabella Soares e das estudantes de Medicina Renata Freitas, Cândida Virlene e Danielle Dantas.
 
 Fonte: gov.br / Imagem em destaque: gde
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

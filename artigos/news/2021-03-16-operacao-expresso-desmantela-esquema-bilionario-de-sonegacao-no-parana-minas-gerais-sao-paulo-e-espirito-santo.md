@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Maior operação de combate a fraudes tributárias do setor de café já realizada nos quatro estados identificou que envolvidos devem mais de R$ 1 bilhão em impostos estaduais e federais.
 
 A Receita Federal, a Polícia Civil do Paraná, a e as Receitas Estaduais do Paraná e Minas Gerais deflagraram a operação “Expresso”, nesta terça-feira (16), para desmantelar gigantesco esquema de sonegação do setor de café e crimes relacionados. As investigações contam com a participação da Receita Estadual do Estado de São Paulo, dos Ministérios Públicos do Paraná e Minas Gerais.
@@ -21,13 +20,13 @@ Resultado de investigações iniciadas há mais de dois anos pela Polícia Civil
  
 Os alvos da operação são pessoas físicas e empresas. Entre estes, grandes atacadistas e corretores de café em grãos do Paraná, além de transportadores, proprietários e representantes de torrefações paranaenses conhecidas no ramo cafeeiro nacional.  
 
-Os mandados judiciais estão sendo cumpridos em 39 municípios: Londrina, Carlópolis, Cornélio Procópio, Ibaiti, Jandaia do Sul, Mandaguari, Maringá, Matinhos, Pérola, Rolândia e Santo Antônio da Platina, no Paraná; São Paulo, Espírito Santo do Pinhal, Hortolândia, Itatiba, Itu, Leme, Santo Antonio do Jardim, São Bernardo do Campo e Santos, em São Paulo; Vitória, Colatina e Vila Velha, no Espírito Santo;  Belo Horizonte, Aimorés, Andradas, Borda da Mata, Divino, Itamogi, Itueta, Manhuaçu, Matozinhos, Miraí, Muriaé, Ouro Fino, Patrocínio, Poços de Caldas, São Sebastião do Paraíso e Varginha, em Minas Gerais. 
+Os mandados judiciais estão sendo cumpridos em 39 municípios: Londrina, Carlópolis, Cornélio Procópio, Ibaiti, Jandaia do Sul, Mandaguari, Maringá, Matinhos, Pérola, Rolândia e Santo Antônio da Platina, no Paraná; São Paulo, Espírito Santo do Pinhal, Hortolândia, Itatiba, Itu, Leme, Santo Antonio do Jardim, São Bernardo do Campo e Santos, em São Paulo; Vitória, Colatina e Vila Velha, no Espírito Santo;  Belo Horizonte, Aimorés, Andradas, Borda da Mata, Divino, Itamogi, Itueta, Manhuaçu, Matozinhos, Miraí, Muriaé, Ouro Fino, Patrocínio, Poços de Caldas, São Sebastião do Paraíso e Varginha, em Minas Gerais.
 
 ## **O ESQUEMA**
 
-De acordo com a força-tarefa, atacadistas e corretores de café de Londrina e região possibilitavam a diversas torrefações do Paraná a aquisição do café em grão cru de duas formas. A primeira, destinando o produto juntamente com créditos fraudulentos de ICMS advindos de notas fiscais falsas; a segunda, na aquisição do café em operações fraudulentas (dentro do Paraná), em que o recolhimento dos tributos não era feito. 
- 
-Em ambos os casos, a mercadoria era oriunda de Minas Gerais e do Espírito Santo, comercializada por cooperativas e produtores rurais desses estados, sendo as notas fiscais destinadas a empresas de fachada, as chamadas “noteiras”, também localizadas em Minas Gerais e no Espírito Santo. 
+De acordo com a força-tarefa, atacadistas e corretores de café de Londrina e região possibilitavam a diversas torrefações do Paraná a aquisição do café em grão cru de duas formas. A primeira, destinando o produto juntamente com créditos fraudulentos de ICMS advindos de notas fiscais falsas; a segunda, na aquisição do café em operações fraudulentas (dentro do Paraná), em que o recolhimento dos tributos não era feito.
+
+Em ambos os casos, a mercadoria era oriunda de Minas Gerais e do Espírito Santo, comercializada por cooperativas e produtores rurais desses estados, sendo as notas fiscais destinadas a empresas de fachada, as chamadas “noteiras”, também localizadas em Minas Gerais e no Espírito Santo.
 
 As operações envolvendo empresas dos dois estados possibilitavam o não recolhimento do ICMS sobre as notas fiscais falsas. Paralelamente, outra empresa “noteira”, situada em São Paulo, emitia notas fiscais falsas destinadas a atacadistas e torrefações do Paraná.  
  
@@ -44,14 +43,10 @@ Houve também sonegação de tributos federais (IRPF). O montante, neste caso, p
  
 Os órgãos envolvidos na Operação “Expresso” alertam que, além de subtrair recursos da coletividade, a sonegação de tributos gera concorrência desleal, uma vez que, ao não cumprir com suas obrigações legais, a empresa fraudulenta cria condições para oferecer produtos com valores abaixo do praticado pelo mercado, prejudicando as empresas cumpridoras de seus deveres. 
 
-Fonte: Receita Federal 
+Fonte: Receita Federal
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 No acumulado do ano, saldo de admissões e demissões ficou negativo.
 
 As demissões de empregos formais chegaram a 906.444 e as admissões a 895.460, em junho. Com isso, o saldo negativo ficou em 10.984 vagas, número inferior ao registrado em maio (-350.303), informou hoje (28) a Secretaria Especial de Previdência e Trabalho do Ministério da Economia, que divulgou os dados do Novo Cadastro Geral de Empregados e Desempregados (Novo Caged).
@@ -38,4 +37,4 @@ Com 5.889 admissões em regime de tempo parcial e 11.461 desligamentos, o trabal
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

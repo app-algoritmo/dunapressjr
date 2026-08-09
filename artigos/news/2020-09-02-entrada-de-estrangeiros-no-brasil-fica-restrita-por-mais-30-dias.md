@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O governo federal prorrogou, por mais 30 dias, as restrições para entrada de estrangeiros no país. A Portaria Interministerial [nº ](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=29/07/2020&jornal=600&pagina=1)419, publicada em edição extra do Diário Oficial da União na quarta-feira (26), foi assinada pelos ministros da Justiça e Segurança Pública, André Mendonça; da Casa Civil, Braga Netto; da Infraestrutura, Tarcísio Gomes de Freitas, e da Saúde (interino), Eduardo Pazuello.
 
 De acordo a portaria, com algumas exceções, fica restringida a entrada no Brasil de estrangeiros de qualquer nacionalidade por rodovias, outros meios terrestres ou por transporte aquaviário, seguindo-se as recomendações da Agência Nacional de Vigilância Sanitária (Anvisa), devido aos riscos de contaminação e disseminação da Covid-19. Voos internacionais que tenham como ponto de chegada no Brasil os aeroportos dos estados do Goiás, do Mato Grosso do Sul, do Rio Grande do Sul, de Rondônia, de Roraima e do Tocantins também ficam momentaneamente proibidos.
@@ -29,5 +28,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
- [](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

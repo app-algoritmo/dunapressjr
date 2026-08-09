@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Obras devem impulsionar turismo local pós pandemia. Mercado amazonense foi inaugurado em 1937 e oferece produtos regionais.
 
 O Ministério do Turismo (MTur) vai investir R$ 2,7 milhões em obras de reforma, ampliação e modernização do Mercado Municipal de Parintins (AM). Com as novas instalações, a expectativa é de que o setor turístico tenha um maior impulsionamento no período pós-pandemia, atraindo mais visitantes e gerando emprego e renda.
@@ -27,5 +26,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

@@ -8,12 +8,11 @@ categories:
 - News
 ---
 
-
 ## As atividades de inspeção e fiscalização seguem funcionando com todos os cuidados necessários para que não ocorram prejuízos à manutenção do abastecimento.
 
 Serviço de Inspeção Federal (SIF) divulgou, nesta quarta-feira (15), a quarta edição do relatório de atividades sobre os impactos decorrentes da pandemia do coronavírus (Covid-19) nas atividades do setor. Segundo o levantamento, a demanda por certificação sanitária para fins de exportação de produtos de origem animal do Brasil teve um aumento de 11% em junho deste ano, na comparação com o mesmo mês do ano passado. O total de Certificados Sanitários Internacionais emitidos em junho foi de 32.153.
 
-Consideradas como essenciais pelo Decreto 10.282, as atividades de inspeção e fiscalização seguem funcionando com todos os cuidados necessários para que não ocorram prejuízos à manutenção do abastecimento público de produtos de origem animal para consumo humano e de produtos destinados à alimentação animal com segurança à sociedade.  
+Consideradas como essenciais pelo Decreto 10.282, as atividades de inspeção e fiscalização seguem funcionando com todos os cuidados necessários para que não ocorram prejuízos à manutenção do abastecimento público de produtos de origem animal para consumo humano e de produtos destinados à alimentação animal com segurança à sociedade.
 
 Estão registrados no SIF 3.318 estabelecimentos de produtos de origem animal nas áreas de carnes e produtos cárneos, leite e produtos lácteos, mel e produtos apícolas, ovos e pescado e seus produtos derivados.
 
@@ -27,7 +26,7 @@ O Mapa tem monitorado junto com as empresas e representantes do setor produtivo 
 
 As fiscalizações registraram redução, no mês de maio, do número de abates em frigoríficos de aves e bovinos. Em relação aos frigoríficos de aves, a redução foi de 7% em comparação a maio de 2019, o que representa pouco mais de 32 milhões de aves que deixaram de ser abatidas.
 
-Nos frigoríficos de bovinos, a redução foi de 11%, deixando de ser abatidos aproximadamente 233 mil animais em comparação ao mesmo período no ano de 2019. As fiscalizações também mostram que o abate de suínos se manteve praticamente estável nos meses de abril e maio, com redução de cerca de 1%.  
+Nos frigoríficos de bovinos, a redução foi de 11%, deixando de ser abatidos aproximadamente 233 mil animais em comparação ao mesmo período no ano de 2019. As fiscalizações também mostram que o abate de suínos se manteve praticamente estável nos meses de abril e maio, com redução de cerca de 1%.
 
 **Licenças de importação**
 
@@ -41,7 +40,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

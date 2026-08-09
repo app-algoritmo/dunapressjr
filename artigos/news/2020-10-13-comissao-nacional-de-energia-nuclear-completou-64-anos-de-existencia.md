@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 No dia em que completou seus 64 anos de existência, a Comissão Nacional de Energia Nuclear (Cnen) promoveu na tarde desse sábado (10), nas atividades do Mês Nacional da Ciência, Tecnologia e Inovações – sob a coordenação do Ministério da Ciência, Tecnologia e Inovações (MCTI) – entrevista com o presidente da autarquia vinculada ao Ministério, Paulo Roberto Pertusi. Criada em 1956 e estruturada pela Lei n. 4.118/1962, que dispõe sobre a Política Nacional de Energia Nuclear, a Cnen é um órgão superior de planejamento, orientação, supervisão, fiscalização, além de estabelecer normas e regulamentos em radioproteção. É responsável por regular, licenciar e fiscalizar a produção e o uso da energia nuclear no Brasil.
 
 Em sua entrevista, o presidente da Cnen destacou o papel da instituição que tem como objetivo propiciar potencial científico e tecnológico, e de pesquisa e desenvolvimento. “E isso ela vem fazendo ao longo dessas seis décadas”, ressaltou Pertusi.
 
-O presidente apontou as vertentes de atuação da Comissão Nacional de Energia Nuclear – como órgão regulador (licenciamento e fiscalização das atividades nucleares), desenvolvimento de tecnologias e produtos ligados à área nuclear, e tecnologias correlatas; e formação especializada. 
+O presidente apontou as vertentes de atuação da Comissão Nacional de Energia Nuclear – como órgão regulador (licenciamento e fiscalização das atividades nucleares), desenvolvimento de tecnologias e produtos ligados à área nuclear, e tecnologias correlatas; e formação especializada.
 
 Ao ser indagado por uma das questões que mais provocam insegurança na sociedade, sobre os acidentes nucleares que entraram para a história, Paulo Roberto afirmou que “os poucos que ocorreram com usinas nucleares no mundo – mas que ocorreram – foram suficientes para gerar um pânico. Há uma desinformação muito grande a respeito da segurança das usinas”, disse.
 
@@ -37,5 +36,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Valor deve ser apresentado como rendimento isento ou não tributável.
 
 Parte dos 60,4 milhões de trabalhadores que retiraram até R$ 998 do Fundo de Garantia do Tempo de Serviço (FGTS) no ano passado terá de acertar as contas com o Leão. O saque imediato deve ser informado na Declaração do Imposto de Renda Pessoa Física 2020.
@@ -42,4 +41,4 @@ As orientações detalhadas sobre a declaração do IRPF 2020 estão disponívei
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

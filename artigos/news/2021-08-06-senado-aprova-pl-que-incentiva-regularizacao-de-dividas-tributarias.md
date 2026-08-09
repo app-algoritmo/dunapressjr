@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Texto segue para análise da Câmara.
 
 O Senado aprovou nesta quinta-feira (5) projeto que altera o Programa Especial de Regularização Tributária (Pert). O texto estabelece novos prazos e condições para pagamento de débitos com a União. A matéria segue para análise da Câmara dos Deputados.
@@ -32,10 +31,6 @@ Segundo o relator, aderiram ao Pert, popularmente chamado de Refis, lançado em 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

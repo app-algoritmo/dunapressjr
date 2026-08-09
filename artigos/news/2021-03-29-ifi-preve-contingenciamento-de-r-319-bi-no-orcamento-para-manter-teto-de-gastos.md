@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Instituição Fiscal Independente (IFI) do Senado Federal divulgou [nota técnica](https://t.co/yyMAjK69zz?amp=1) que analisa os números do Orçamento de 2021, [aprovado na semana passada pelo Congresso Nacional](http://www12.senado.leg.br/noticias/materias/2021/03/29/25/aprovado-orcamento-de-2021-com-deficit-de-r-247-1-bilhoes). De acordo com a nota, a elevação das despesas discricionárias (aquelas que não são obrigatórias e por isso podem ser bloqueadas pelo governo) da Lei Orçamentária Anual para R$ 139,1 bilhões levaria ao estouro do teto de gastos em R$ 31,9 bilhões.
 
 Segundo os cálculos da IFI, o teto de gastos permitiria despesa discricionária de, no máximo, R$ 107,2 bilhões em 2021.
@@ -33,10 +32,6 @@ No Orçamento aprovado pelo Congresso ([PLN 28/2020](http://www.congressonaciona
 
 Fonte: Agência Senado
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

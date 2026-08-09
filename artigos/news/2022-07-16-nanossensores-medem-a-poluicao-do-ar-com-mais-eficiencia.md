@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## O que é a pesquisa?
 
 Os veículos automotores, os aterros sanitários e as estações de tratamento de esgoto estão entres os principais responsáveis pelo aumento da poluição atmosférica. Sabendo disso, muitos países têm dado mais atenção, nos últimos anos, ao desenvolvimento de tecnologias capazes de detectar gases poluentes e determinar a composição deles, permitindo um monitoramento ambiental mais completo e eficiente, bem como maior controle das emissões, sobretudo veiculares.
 
-Atualmente, várias técnicas são utilizadas na detecção de gases poluentes. Cada uma tem suas vantagens e desvantagens. Entretanto, é consenso que as principais características para bons sensores de gases são: capacidade para detectar diferentes tipos de gás (seletividade), alta sensibilidade para medir baixas concentrações, resposta rápida, temperatura ambiente para operar (alguns dispositivos exigem altas temperaturas de operação), baixo custo de produção e manutenção, baixo consumo de energia e praticidade no transporte e instalação. 
+Atualmente, várias técnicas são utilizadas na detecção de gases poluentes. Cada uma tem suas vantagens e desvantagens. Entretanto, é consenso que as principais características para bons sensores de gases são: capacidade para detectar diferentes tipos de gás (seletividade), alta sensibilidade para medir baixas concentrações, resposta rápida, temperatura ambiente para operar (alguns dispositivos exigem altas temperaturas de operação), baixo custo de produção e manutenção, baixo consumo de energia e praticidade no transporte e instalação.
 
 Pensando nessas características, Priscila Gonçalves e os irmãos Eduardo e Luiza Araújo, estudantes do curso de Engenharia de Energia, da Universidade de Brasília (UnB Gama), desenvolveram, sob a orientação da professora María del Pilar Hidalgo, nanossensores capazes de detectar gases poluentes em diferentes ambientes.
 
@@ -28,7 +27,7 @@ A caracterização elétrica de gases pelos nanossensores demonstrou seletividad
 
 ## Qual a importância da pesquisa?
 
-A pesquisa em desenvolvimento tecnológico de nanossensores possibilita várias aplicações, com amplo campo para estudos específicos na área de detecção de gases. O grupo da UnB conseguiu desenvolver sensores mais avançados do que os atuais disponíveis no mercado. Além de eficientes na detecção de gases poluentes no ambiente, a tecnologia é capaz de identificar o gás graças à maior sensibilidade e seletividade alcançadas no desenvolvimento dos equipamentos. 
+A pesquisa em desenvolvimento tecnológico de nanossensores possibilita várias aplicações, com amplo campo para estudos específicos na área de detecção de gases. O grupo da UnB conseguiu desenvolver sensores mais avançados do que os atuais disponíveis no mercado. Além de eficientes na detecção de gases poluentes no ambiente, a tecnologia é capaz de identificar o gás graças à maior sensibilidade e seletividade alcançadas no desenvolvimento dos equipamentos.
 
 Os avanços obtidos com os novos nanossensores podem revolucionar a área de monitoramento de gases, aperfeiçoando o controle da emissão de poluentes nocivos ao meio ambiente e à saúde, o monitoramento de vazamento desses gases, mesmo em pequenas quantidades, e a adoção mais rápida de medidas preventivas ou corretivas. Outro aspecto favorável é que os nanosensores podem equipar dispositivos portáteis utilizados por profissionais que fiscalizam o nível de poluição do ar. Por exemplo, um agente de fiscalização de trânsito poderia medir, durante uma blitz, os gases expelidos por um veículo, ou um agente ambiental poderia aferir se os níveis de emissão de poluente de uma fábrica estão dentro dos limites definidos pela legislação.
 
@@ -61,7 +60,3 @@ Fonte:  https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

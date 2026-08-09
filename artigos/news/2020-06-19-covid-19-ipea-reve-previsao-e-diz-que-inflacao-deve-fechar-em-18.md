@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Para 2021, a expectativa é de inflação de 3,1%.
 
 O Instituto de Pesquisa Econômica Aplicada (Ipea) decidiu rever sua previsão de inflação oficial, medida pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA), para 2020. De acordo com seu boletim de conjuntura de junho, divulgado hoje (19), no Rio de Janeiro, a expectativa é que a inflação feche 2020 em 1,8%.
@@ -24,7 +23,7 @@ Com base nos dados oficiais do Instituto Brasileiro de Geografia e Estatística 
 
 Para os próximos meses, o Ipea prevê o fim das deflações expressivas dos combustíveis e  reajustes das tarifas de energia elétrica e de medicamentos já programados para o segundo semestre, o que  deve causar aumento dos preços de serviços e produtos administrados.
 
-Por outro lado, é esperada uma redução do ritmo de crescimento do preço dos alimentos, que devem encerrar o ano com inflação de 3%. 
+Por outro lado, é esperada uma redução do ritmo de crescimento do preço dos alimentos, que devem encerrar o ano com inflação de 3%.
 
 No caso dos serviços livres e dos demais bens de consumo, são estimadas altas de 2,2% e 1%, respectivamente, devido a uma expectativa de retomada moderada da demanda interna, ao lado da existência de capacidade ociosa e ausência de pressão significativa sobre os custos de produção.
 
@@ -34,4 +33,4 @@ Para 2021, a expectativa é de retomada do crescimento da economia, o que deve d
 
 Fonte: Agência Brasil – Imagem em destaque: Arquivo/Marcelo Camargo/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

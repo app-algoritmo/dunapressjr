@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Operação Assepsia II aprofunda investigação de fraudes em aquisição de máscaras e álcool em gel para enfrentamento da pandemia do coronavírus.
 
 A Controladoria-Geral da União (CGU) participou, nesta quinta-feira (15/04), em Rio Branco (AC), da Operação Assepsia II. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é reforçar a apuração de fraudes, praticadas pela Secretaria Municipal de Saúde (SEMSA), na aquisição de máscaras e de álcool em gel para o enfrentamento da Covid-19.
@@ -32,8 +31,4 @@ Fonte: Controladoria-Geral da União
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

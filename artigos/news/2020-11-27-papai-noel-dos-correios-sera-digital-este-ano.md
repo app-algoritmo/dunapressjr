@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Natal se aproxima e, com a chegada dele, também tem início uma das campanhas de solidariedade mais queridas do Brasil: o Papai Noel dos Correios. Em função da Covid-19, este ano a estatal promoveu adaptações para assegurar a realização, com segurança, de um dos maiores projetos sociais do país.
 
 As principais mudanças foram no recebimento das cartinhas – que ocorrerá, prioritariamente, de forma virtual – e na adoção dos pedidos das crianças, que será 100% on-line, por meio do Blog do Papai Noel dos Correios.
@@ -36,7 +35,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

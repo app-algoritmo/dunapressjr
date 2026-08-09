@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Allan Araújo é mestre em Engenharia de Materiais pela Universidade Federal da Paraíba (UFPB) e doutor em Ciência e Engenharia de Materiais pela Universidade Federal do Rio Grande do Norte (UFRN), com período no Centro de Tecnologia Mecânica e Automação da Universidade de Aveiro, em Portugal. Sua pesquisa é feita na área de conversão de energia a partir de reações químicas usando materiais cerâmicos.   
+Allan Araújo é mestre em Engenharia de Materiais pela Universidade Federal da Paraíba (UFPB) e doutor em Ciência e Engenharia de Materiais pela Universidade Federal do Rio Grande do Norte (UFRN), com período no Centro de Tecnologia Mecânica e Automação da Universidade de Aveiro, em Portugal. Sua pesquisa é feita na área de conversão de energia a partir de reações químicas usando materiais cerâmicos.
 
 **De onde surgiu seu interesse por essa área do conhecimento?**
 A Engenharia de Materiais é uma área interdisciplinar, uma vez que tudo em nossa volta são materiais. Ela interliga a estrutura dos materiais, o processo de fabricação, as propriedades e suas aplicações. O desenvolvimento de materiais é bastante importante pois são eles que limitam as possibilidades e as capacidades do ser humano de agir sobre seu universo social, sendo um dos problemas mais urgentes do ponto de vista científico e tecnológico.
@@ -49,7 +48,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

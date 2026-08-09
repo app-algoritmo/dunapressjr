@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Sem necessidade de download, nova versão do aplicativo auxilia a sociedade no acompanhamento da alimentação escolar.
 
 Para garantir ainda mais transparência, controle e participação social nas ações do Programa Nacional de Alimentação Escolar (PNAE), o Fundo Nacional de Desenvolvimento da Educação (FNDE) disponibilizou a ferramenta e-PNAE na versão web. Sendo assim, a plataforma se torna acessível sem necessidade de download, ou seja, os interessados em acompanhar a execução do programa não precisam mais baixar o aplicativo em seus celulares. Basta apenas acessar a página [www.fnde.gov.br/epnae](http://www.fnde.gov.br/epnae)
@@ -24,7 +23,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

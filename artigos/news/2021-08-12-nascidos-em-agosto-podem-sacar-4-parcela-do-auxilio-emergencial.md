@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dinheiro também pode ser transferido para conta-corrente.
 
 Trabalhadores informais e inscritos no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico) nascidos em agosto podem sacar, a partir de hoje (12) a quarta parcela do auxílio emergencial 2021. O dinheiro foi depositado nas contas poupança digitais da Caixa Econômica Federal em 25 de julho. Os recursos também podem ser transferidos para uma conta-corrente, sem custos para o usuário.
@@ -24,10 +23,6 @@ Neste ano, a nova rodada de pagamentos, durante sete meses, prevê parcelas de R
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

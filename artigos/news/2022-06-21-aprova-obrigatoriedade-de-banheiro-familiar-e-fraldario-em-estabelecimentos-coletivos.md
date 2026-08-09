@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Comissão de Direitos Humanos e Legislação Participativa (CDH) aprovou nesta quarta-feira (15) projeto que obriga a instalação de banheiro familiar e fraldário em estabelecimentos coletivos, tanto públicos como privados. Pelo texto, as regras valerão para as novas edificações e também para as que passarem por ampliações ou reformas.
 
 O Projeto de Lei do Senado [(PLS) 430/2018](https://www25.senado.leg.br/web/atividade/materias/-/materia/134502), do senador Telmário Mota (Pros-RR), foi aprovado na forma de substitutivo redigido pela relatora na CDH, senadora Mara Gabrilli (PSDB-SP), lido pelo senador Paulo Paim (PT-RS). O PL segue para análise terminativa na Comissão de Constituição e Justiça (CCJ).
@@ -62,7 +61,3 @@ Fonte: Agência Senado
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

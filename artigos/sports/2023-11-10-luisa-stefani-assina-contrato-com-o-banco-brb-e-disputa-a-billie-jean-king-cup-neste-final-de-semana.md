@@ -16,7 +16,7 @@ Luisa Stefani, número 18 do mundo, assinou contrato com o Banco BRB que passa a
 
 Luisa Stefani está em Brasília e jogará no sábado (11) pela Billie Jean King Cup no confronto contra a Coreia do Sul que começa nesta sexta-feira (10). A tenista terá Beatriz Haddad Maia como parceira no que está previsto como último jogo do confronto que vale vaga no Qualifier da temporada 2024. As duas enfrentarão Booyoung Jeong e Dayeon Back. O time tem ainda Laura Pigossi, Ingrid Martins e Carol Meligeni. A capitã é Roberta Burzagli.
 
-**Fazendo história no tênis -** A paulistana Luisa Stefani, 26 anos, conquistou ao lado da parceira Laura Pigossi, a inédita medalha de bronze nas Duplas Femininas nos Jogos Olímpicos de Tóquio em 2021. Outra grande conquista foi o título de Duplas Mistas no Australian Open, em 2023, a primeira dupla de brasileiros a vencer um Grand Slam, ao lado de Rafael Matos. 
+**Fazendo história no tênis -** A paulistana Luisa Stefani, 26 anos, conquistou ao lado da parceira Laura Pigossi, a inédita medalha de bronze nas Duplas Femininas nos Jogos Olímpicos de Tóquio em 2021. Outra grande conquista foi o título de Duplas Mistas no Australian Open, em 2023, a primeira dupla de brasileiros a vencer um Grand Slam, ao lado de Rafael Matos.
 
 Durante a semifinal do Us Open 2021, Luisa sofreu uma grave lesão no joelho, passou por cirurgia e se afastou do circuito profissional. No retorno, após um ano de recuperação, conquistou vários títulos: WTA 500 de Berlim (Caroline Garcia, 2023), WTA 500 de Abu Dhabi (Shuai Zhang, 2023); WTA 500 de Adelaide, na Austrália (Taylor Towsend, 2023); WTA 125 de Montevidéu, no Uruguai (Ingrid Martins, 2022); WTA 1000 de Guadalajara, no México (Storm Hunter, 2022); WTA 250 de Chennai, na Índia (Gabriela Dabrowsky, 2022).
 
@@ -25,13 +25,12 @@ Durante a semifinal do Us Open 2021, Luisa sofreu uma grave lesão no joelho, pa
 ***Mais informações:
 ******Instagram: [https://www.instagram.com/luisastefani/
 ](https://click.presskit.com.br/url/983854e4ad/6361388b6fc)******Fanpage: [https://www.facebook.com/LuisaStefani.Tennis
-](https://click.presskit.com.br/url/983855b039/6361388b6fc)******Marketing/Comercial-Dani Schnaider: +55 19 991072217 - [dani@agenciadeatletas.com.br](https://click.presskit.com.br/url/9838561a17/6361388b6fc) 
+](https://click.presskit.com.br/url/983855b039/6361388b6fc)******Marketing/Comercial-Dani Schnaider: +55 19 991072217 - [dani@agenciadeatletas.com.br](https://click.presskit.com.br/url/9838561a17/6361388b6fc)
 ******Gallas Press-Fabrizio Gallas - +55 21 99023-0660 - [fabrizio@gallaspress.com.br
 ](https://click.presskit.com.br/url/98385706d8/6361388b6fc)******Facebook: [https://www.facebook.com/gallaspress
 ](https://click.presskit.com.br/url/983858b2ca/6361388b6fc)******Instagram: [https://www.instagram.com/fabriziogallas/](https://click.presskit.com.br/url/98385981cf/6361388b6fc)***
 
-***[
-](https://click.presskit.com.br/url/98385981cf/6361388b6fc)******ZDL
+*********ZDL
 ******Doro Jr. - MTb 13209 - 11 984579723 - [dorojr@zdl.com.br
 ](https://click.presskit.com.br/url/9838600c6a/6361388b6fc)******Deborah Mamone - MTb 15148 - [deborah@zdl.com.br
 ](https://click.presskit.com.br/url/98386150e4/6361388b6fc)******Site: [www.zdl.com.br

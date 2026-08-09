@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa subiu 1,84%, fechando em alta pelo segundo dia seguido.
 
 As indicações de que o Banco Central norte-americano começará a retirar os estímulos monetários ainda este ano fizeram o dólar subir e fechar acima de R$ 5,30. A bolsa de valores fechou em alta pelo segundo dia seguido e retomou os 112 mil pontos, ainda refletindo o alívio em relação às medidas da China para evitar uma crise no mercado imobiliário local.
@@ -24,10 +23,6 @@ Em relação ao mercado chinês, os temores de que uma eventual falência da Eve
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

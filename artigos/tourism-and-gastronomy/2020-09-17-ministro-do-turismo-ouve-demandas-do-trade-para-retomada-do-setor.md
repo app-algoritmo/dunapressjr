@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Assuntos como reforma tributária, reabertura de atrativos e políticas de benefícios aos turistas foram debatidos.
 
 O ministro do Turismo, Marcelo Álvaro Antônio, se reuniu na quarta-feira (16.09) com representantes das 20 principais entidades turísticas do país para ouvir as demandas referentes à retomada do setor. Entre elas, a importância da reforma tributária para o desenvolvimento do Turismo, os próximos passos para a reabertura dos destinos e a criação de políticas que beneficiam os turistas. Além dos secretários nacionais da Pasta, estavam presentes – por videoconferência - membros das entidades hoteleiras, agências de viagens, parques temáticos, cruzeiros marítimos, entre outros.
@@ -25,5 +24,3 @@ Imagem: Roberto Castro/MTur
 Fonte: Turismo Gov BR
 
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=Thami)

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Moeda norte-americana vinha em tendência de queda.
 
 O dólar fechou em alta ante o real nesta terça-feira (9), com o mercado de câmbio doméstico seguindo uma correção global nesta sessão, depois de dias de frenético rali em ativos de risco por causa do otimismo com a recuperação econômica.
@@ -37,5 +36,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

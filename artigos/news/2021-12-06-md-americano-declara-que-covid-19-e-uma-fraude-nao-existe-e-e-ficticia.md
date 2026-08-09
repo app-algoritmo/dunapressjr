@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## -Cientista doutorado em biologia e imunologia testa 1500 supostas amostras positivas de Covid-19 coletadas no sul da California e afirma não ter encontrado o famoso virus chinês.
 
 Para as agências verificadoras de fatos, o médico que denúncia a fraude  é um "suposto" homem, um suposto médico, um suposto PhD, querendo assim fazer que todos acreditem que ele não existe e que nada disso existe, nem amostras, nem testes, nem resultados, nem dezenas de médicos que acompanharam os ensaios e nem dezenas de relatórios emitidos à diversas autoridades sanitárias e políticas, apenas o vírus existe, dizem...
@@ -16,7 +15,7 @@ Para as agências verificadoras de fatos, o médico que denúncia a fraude  é u
 
 https://videopress.com/v/RGymndEZ?resizeToParent=true&cover=true&posterUrl=https%3A%2F%2Fdunapress.org%2Fwp-content%2Fuploads%2F2021%2F12%2Fcovid-19-fraude_mov_std.original.jpg&preloadContent=metadata
 
-Transcrição: 
+Transcrição:
 
 “Tenho doutorado em virologia e imunologia. Sou um cientista de laboratório clínico e testei 1.500 amostras "supostamente" positivas de Covid 19 coletadas aqui em S. Califórnia. Quando minha equipe de laboratório e eu fizemos o teste através dos postulados de Koch e observação em um SEM (microscópio eletrônico de varredura), não encontramos Covid em qualquer uma das 1.500 amostras. O que descobrimos foi que todas as 1.500 amostras eram principalmente Influenza A e algumas eram Influenza B, mas não um único caso de Covid, e não usamos o B.S. Teste de PCR. Em seguida, enviamos o restante das amostras para Stanford, Cornell e alguns laboratórios da Universidade da Califórnia, e eles encontraram os mesmos resultados que nós, SEM COVID. Eles encontraram influenza A e B. Todos nós falamos com o CDC e pedimos amostras viáveis ​​de COVID, que o CDC disse que não poderia fornecer porque não tinha nenhuma amostra.
 Agora chegamos à firme conclusão, por meio de toda a nossa pesquisa e trabalho de laboratório, que o COVID 19 era imaginário e fictício. A gripe foi chamada de Covid e a maioria dos 225.000 mortos estavam mortos por comorbidades como doenças cardíacas, câncer, diabetes, enfisema etc. e então eles pegaram a gripe que enfraqueceu ainda mais seu sistema imunológico e eles morreram. Ainda estou para encontrar uma única amostra viável de Covid 19 para trabalhar.
@@ -39,8 +38,8 @@ BS, Química, University of Alabama, 1974
 1976-1979, Predoctoral Fellow do NIMH e NIH, Departamento de Bioquímica, Universidade de Vanderbilt
 1975, Predoctoral Fellow do NIMH, Departamento de Bioquímica, Vanderbilt University Ver menos
 
-[](https://www.vet.cornell.edu/research/faculty/robert-oswald-phd)Department of Molecular Medicine
-Professor James Law Professor of Molecular Medicine 
+Department of Molecular Medicine
+Professor James Law Professor of Molecular Medicine
 
 ## Ver também:
 

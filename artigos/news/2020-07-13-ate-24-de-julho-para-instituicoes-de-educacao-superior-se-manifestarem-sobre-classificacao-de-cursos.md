@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O período para as instituições de educação superior se manifestarem a respeito da classiﬁcação preliminar de seus novos cursos inseridos no cadastro e-MEC termina em 24 de julho. A consulta e a manifestação em relação à classiﬁcação deverão ser realizadas no sistema do Exame Nacional de Desempenho dos Estudantes (Enade), no ambiente da Classiﬁcação Internacional Normalizada da Educação Adaptada para Cursos de Graduação e Sequenciais de Formação Especíﬁca (Cine Brasil). As manifestações estão sendo recebidas desde quinta-feira, 9 de julho. Os novos cursos foram inseridos no e-MEC entre 26 de fevereiro e 31 de maio de 2020.
 
 A classiﬁcação é importante para a disseminação das estatísticas da educação superior do país e será utilizada como referência para o enquadramento dos cursos a serem avaliados no Enade, para a designação das comissões de avaliação dos cursos de graduação e como referência de classiﬁcação dos cursos por meio do cadastro e-MEC. Ela também permitirá comparações de estatísticas educacionais entre países por parte de organizações internacionais.
@@ -27,7 +26,7 @@ Fonte: gov.br / Imagem em destaque: giromt
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

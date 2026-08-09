@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Segunda alta seguida leva indicador ao maior nível desde maio de 2020.
 
 O indicador de Intenção de Consumo das Famílias (ICF) subiu 0,4% e chegou a 77,6 pontos em fevereiro, o maior nível desde maio de 2020, quando o ICF estava em 81,7 pontos. Os dados foram divulgados nesta sexta-feira (18) pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC). Na comparação com fevereiro de 2021, o aumento foi de 4,6%. Segundo a CNC, o indicador está abaixo do nível de satisfação, de 100 pontos, desde abril de 2015, quando ficou em 102,9 pontos.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

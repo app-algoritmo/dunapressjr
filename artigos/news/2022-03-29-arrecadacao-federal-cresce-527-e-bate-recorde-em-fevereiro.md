@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Melhora da economia e petróleo impulsionam receita.
 
 Impulsionada pela recuperação da economia e pelo encarecimento do petróleo internacional, a arrecadação federal bateu recorde para meses de fevereiro. Segundo dados divulgados nesta segunda-feira (28) pela Receita Federal, o governo arrecadou R$ 148,66 bilhões no mês passado, com aumento de 5,27% acima da inflação em valores corrigidos pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA).
@@ -41,8 +40,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

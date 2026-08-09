@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O valor é o maior desde 2000.
 
 A União arrecadou R$ 172,31 bilhões em agosto, de acordo com dados divulgados nesta terça-feira (27) pela Receita Federal. Na comparação com agosto do ano passado, houve um crescimento de 8,21%, descontada a inflação, em valores corrigidos pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA). O valor é o maior desde 2000, tanto para o mês de agosto quanto para o período acumulado.
@@ -50,8 +49,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

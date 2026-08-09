@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Previsão supera estimativa feita em julho pelo Ministério da Economia.
 
 As contas públicas do governo federal devem fechar este ano com [**déficit **](https://agenciabrasil.ebc.com.br/economia/noticia/2020-07/deficit-primario-devera-encerrar-2020-em-r-78745-bilhoes)de R$ 866,4 bilhões. O valor corresponde a 12,1% de tudo o que o país produz – Produto Interno Bruto (PIB). A previsão foi divulgada hoje (4) pelo Ministério da Economia e supera a estimativa feita em julho (R$ 787,45 bilhões em 2020). As informações estão na Análise do Impacto Fiscal das Medidas de Enfrentamento à Covid-19.
@@ -37,5 +36,3 @@ A dívida líquida do setor público (balanço entre o total de créditos e déb
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

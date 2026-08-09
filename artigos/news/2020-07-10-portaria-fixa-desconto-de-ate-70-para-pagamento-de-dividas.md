@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Medida possibilitará parcelamento em até 145 meses.
 
 A Advocacia-Geral da União (AGU) publicou no [***Diário Oficial da União***](http://www.in.gov.br/web/dou/-/portaria-n-249-de-8-de-julho-de-2020-265869037) (DOU) uma portaria regulamentando a negociação das dívidas tributárias entre a Administração Pública e pessoas físicas ou jurídicas com créditos considerados irrecuperáveis ou de difícil recuperação. A norma possibilitará a negociação com descontos de até 70% e parcelamentos em até 145 meses.
@@ -20,7 +19,7 @@ As propostas de negociação poderão ser oferecidas pela PGF, pela PGU ou pelo 
 
 A classificação dos créditos irrecuperáveis ou de difícil recuperação é feita a partir da análise do tempo de cobrança estabelecido nas normas da AGU; a suficiência e liquidez das garantias associadas aos créditos; a existência de parcelamentos ativos; a perspectiva de êxito das estratégias administrativas e judiciais de cobrança; o custo da cobrança judicial; o histórico de parcelamentos dos créditos; e a capacidade de pagamento.
 
-Pessoas jurídicas com créditos considerados irrecuperáveis ou de difícil recuperação poderão pagar uma entrada de 5% do valor devido e optar, por exemplo, em fazer o pagamento restante em parcela única com 50% de desconto ou em até 84 parcelas com redução de 10%. 
+Pessoas jurídicas com créditos considerados irrecuperáveis ou de difícil recuperação poderão pagar uma entrada de 5% do valor devido e optar, por exemplo, em fazer o pagamento restante em parcela única com 50% de desconto ou em até 84 parcelas com redução de 10%.
 
 As pessoas físicas também poderão dar uma entrada de 5% do valor e terão a possibilidade pagar o valor remanescente em parcela única com 70% de desconto ou em até 145 meses com redução de 10%.
 
@@ -30,4 +29,4 @@ Novas portarias deverão ser publicadas pela PGF e PGU antes de 15 de julho para
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

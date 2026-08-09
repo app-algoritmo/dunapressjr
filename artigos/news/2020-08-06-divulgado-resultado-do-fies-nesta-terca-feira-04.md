@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Os pré-selecionados devem complementar a inscrição até esta quinta-feira (06).
 
 O resultado do processo seletivo do 2º semestre de 2020 do Fundo de Financiamento Estudantil (Fies) foi divulgado nesta terça-feira (04), conforme previsto no cronograma. Desde a zero hora desta terça-feira, os candidatos podem consultar o resultado da chamada única, divulgado [na página do Fies](http://fies.mec.gov.br/). Os pré-selecionados têm até as 23h59 desta quinta-feira (06) para complementar a inscrição, procedimento que pode ser realizado na página do Fies.
@@ -26,7 +25,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

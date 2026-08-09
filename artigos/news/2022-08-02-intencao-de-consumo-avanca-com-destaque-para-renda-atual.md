@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Percepção positiva do mercado de trabalho segue em crescimento.
 
 A Intenção de Consumo das Famílias (ICF) continuou avançando em julho. Com alta de 1,2%, o índice apurado pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) alcançou 80,7 pontos, superando mais uma vez os resultados do mesmo mês nos 2 anos anteriores, durante o auge da pandemia da covid-19.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

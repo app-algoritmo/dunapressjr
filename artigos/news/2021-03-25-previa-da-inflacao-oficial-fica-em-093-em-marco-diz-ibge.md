@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Essa é a maior variação de preços para um mês de março desde 2015.
 
 O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), que mede a prévia da inflação oficial, registrou taxa de 0,93% em março deste ano, acima do 0,48% de fevereiro deste ano e do 0,02% de março de 2020. Essa é a maior variação de preços para um mês de março desde 2015 (1,24%), de acordo com dados divulgados hoje (25) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio!  
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

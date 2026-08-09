@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 A Global Research, o Centro de Pesquisa sobre Globalização, dirigido pelo Prof. Michel Chossudovsky, publicou sobre o tema da origem do vírus, uma série de artigos de especialistas internacionais. Eles demonstram que “não se pode excluir que o vírus tenha sido criado em laboratório”. É um campo cercado pelo segredo mais denso, frequentemente sobre a cobertura de pesquisa científica civil. No entanto, surgem fatos:
 
-A presença em Wuhan de um Laboratório Biológico, onde os cientistas chineses, em colaboração com a França, efectuam estudos sobre vírus letais, entre os quais, alguns enviados pelo [Laboratório Canadiano de Microbiologia](https://en.wikipedia.org/wiki/National_Microbiology_Laboratory). Em Julho de 2015, o [Instituto Pirbright](https://en.wikipedia.org/wiki/Pirbright_Institute)  do governo britânico, patenteou um “coronavírus atenuado” nos EUA. 
+A presença em Wuhan de um Laboratório Biológico, onde os cientistas chineses, em colaboração com a França, efectuam estudos sobre vírus letais, entre os quais, alguns enviados pelo [Laboratório Canadiano de Microbiologia](https://en.wikipedia.org/wiki/National_Microbiology_Laboratory). Em Julho de 2015, o [Instituto Pirbright](https://en.wikipedia.org/wiki/Pirbright_Institute)  do governo britânico, patenteou um “coronavírus atenuado” nos EUA.
 
 Em ***Outubro de 2019***, o Johns Hopkins Center for Health Security  efetuou, em Nova York,  ***uma simulação*** de pandemia de coronavírus prevendo um cenário que, se ocorresse, causaria 65 milhões de mortes.
 
@@ -54,11 +53,11 @@ Também é importante notar que a OMS adotou inicialmente um acrônimo semelhant
 
 **Corrupção e o papel da OMS**
 
-E o que motivou o diretor-geral da OMS, Dr.  **Tedros Adhanom Ghebreyesus,**  a declarar o coronavírus **nCoV-2019**  como uma “Emergência de Saúde Pública de Interesse Internacional (PHEIC)” em 30 de janeiro, quando a epidemia foi amplamente confinada à China Continental? 
+E o que motivou o diretor-geral da OMS, Dr.  **Tedros Adhanom Ghebreyesus,**  a declarar o coronavírus **nCoV-2019**  como uma “Emergência de Saúde Pública de Interesse Internacional (PHEIC)” em 30 de janeiro, quando a epidemia foi amplamente confinada à China Continental?
 
 As evidências sugerem que o diretor-geral da OMS Tedros estava atendendo aos interesses de poderosos patrocinadores corporativos. [Segundo F. William Engdahl](https://www.globalresearch.ca/who-who-tedros-adhanom/5704110) , Tedros estabeleceu um relacionamento duradouro com os Clintons e a Fundação Clinton. Ele tinha laços estreitos com a  Fundação Bill e Melinda Gates.
 
-Juntamente com o Fórum Econômico Mundial de Davos (WEF), a Gates Foundation foi a patrocinadora do “exercício de simulação” nCoV-2019 de John Hopkins 2019 em outubro. 
+Juntamente com o Fórum Econômico Mundial de Davos (WEF), a Gates Foundation foi a patrocinadora do “exercício de simulação” nCoV-2019 de John Hopkins 2019 em outubro.
 
 Como ministro da saúde, Tedros também presidiria o Fundo Global de Combate à Aids, Tuberculose e Malária, que foi cofundado pela Fundação Gates. O Fundo Global está cheio de escândalos de fraude e corrupção.
 
@@ -94,7 +93,7 @@ Não houve pandemia de H1N1 em 2009. Foi um golpe de ganhar dinheiro, conforme r
 
 - 43,3% dos "casos confirmados" na China agora são classificados como "recuperados" (veja o gráfico acima). Relatórios ocidentais não fazem distinção entre "casos confirmados" e "casos infectados confirmados". É o último que é relevante. A tendência é de recuperação e declínio dos "casos infectados confirmados".
 
-A campanha massiva de vacinação da OMS (mencionada acima) foi devidamente confirmada pelo Diretor Geral Dr.  **Tedros Adhanom Ghebreyesus**  em 28 de fevereiro: 
+A campanha massiva de vacinação da OMS (mencionada acima) foi devidamente confirmada pelo Diretor Geral Dr.  **Tedros Adhanom Ghebreyesus**  em 28 de fevereiro:
 
 “... o trabalho também está progredindo em vacinas e terapêuticas. **Mais de 20 vacinas estão em desenvolvimento em todo o mundo** e várias terapêuticas estão em ensaios clínicos. Esperamos os primeiros resultados em algumas semanas ”(grifo nosso)
 
@@ -126,7 +125,7 @@ E agora foi lançada uma campanha mundial de vacinação para coibir o COVID-19 
 
 Um número baixo e a mídia está espalhando pânico.
 
-Enquanto isso, existem  [15 milhões de casos de gripe nos EUA](https://www.contagionlive.com/news/us-flu-cases-climb-to-15-million-with-54-pediatric-deaths-recorded-in-201920-season) 
+Enquanto isso, existem  [15 milhões de casos de gripe nos EUA](https://www.contagionlive.com/news/us-flu-cases-climb-to-15-million-with-54-pediatric-deaths-recorded-in-201920-season)
 
 "Os seguintes links originais do CDC foram descontinuados". - A mais [recente vigilância](https://www.cdc.gov/flu/weekly/index.htm#ILIActivityMap) do [FluView](https://www.cdc.gov/flu/weekly/index.htm#ILIActivityMap) (https://www.cdc.gov/flu/weekly/index.htm#ILIActivityMap) dos Centros de Controle e Prevenção de Doenças dos EUA (CDC) relata que, em 18 de janeiro de 2020, houve **15 milhões de casos de gripe, 140.000 hospitalizações e 8200 mortes** nos EUA nesta temporada de influenza.
 
@@ -161,7 +160,3 @@ A fonte original deste artigo é Pesquisa Global Copyright © [Prof Michel Choss
 [PhD Judy Mikovits, a cientista que descobriu a “bala mágica” contra o câncer](https://dunapress.org/2020/01/09/phd-judy-mikovits-a-cientista-que-descobriu-a-bala-magica-contra-o-cancer/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/subscriptions/)
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

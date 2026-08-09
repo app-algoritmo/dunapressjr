@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### MP permite autorização de reajustes quando preço do diesel oscilar 5%.
 
 A Câmara dos Deputados aprovou nesta terça-feira (30), a Medida Provisória (MP) 1.117/22, que reduz o percentual de gatilho para reajuste do preço do frete rodoviário de cargas. A MP, [**que está em vigor**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-05/mp-muda-tabela-do-preco-do-frete-rodoviario-de-carga) desde 17 de maio deste ano, permite que a Agência Nacional de Transportes Terrestres (ANTT) atualize os valores mínimos do frete rodoviário de cargas sempre que houver oscilação superior a 5% no preço do óleo diesel no mercado nacional, para mais ou para menos.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

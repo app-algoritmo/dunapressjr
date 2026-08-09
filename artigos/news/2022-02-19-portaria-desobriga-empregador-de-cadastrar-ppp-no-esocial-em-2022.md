@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Implantação em meio eletrônico será no dia 1º de janeiro de 2023.
 
 O[*** Diário Oficial da União***](http://in.gov.br/en/web/dou/-/portaria-mtp-n-334-de-17-de-fevereiro-de-2022-381121789) desta sexta-feira (18) publicou a Portaria 334/22 que desobriga empresas, até o fim deste ano, de informar os eventos S-2220 (Monitoramento da Saúde do Trabalhador) e S-2240 (Condições Ambientais do Trabalho – Agentes Nocivos) no eSocial - sistema informatizado da administração pública. Com a norma, não haverá aplicação de multas no âmbito do Ministério do Trabalho para as empresas que não fizerem a declaração em meio digital.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

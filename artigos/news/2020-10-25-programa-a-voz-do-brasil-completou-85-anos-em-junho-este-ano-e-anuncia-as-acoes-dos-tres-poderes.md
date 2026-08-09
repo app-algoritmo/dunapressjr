@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A portaria que estabelece as condições, critérios e procedimentos para a flexibilização e a dispensa do horário de retransmissão obrigatória do programa de rádio A Voz do Brasil pelas emissoras de radiodifusão sonora está publicada na edição desta sexta-feira (23) do [Diário Oficial da União](https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=23/10/2020&jornal=515&pagina=390).
 
 Em 2018, foi sancionada a lei que flexibilizou o horário do programa, que, até então, era transmitido pelas emissoras, obrigatoriamente, das 19h às 20h. Assim, a retransmissão pode ter início entre as 19h e as 21h, horário local.
@@ -41,5 +40,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

@@ -7,16 +7,15 @@ categories:
 - News
 ---
 
-
 ### Código de Defesa do Consumidor estabelece regras para troca.
 
 Receber um presente nem sempre é sinônimo de satisfação garantida. A pessoa que adquirir um produto e ele não servir ou apresentar algum defeito tem o direito de troca. Quem determina as situações em que a substituição é possível é o Código de Defesa do Consumidor. Existem situações em que a troca é obrigatória e, em outras, que depende da loja onde o produto foi comprado.
 
-No caso, por exemplo, de uma blusa, calça ou tênis que você ganhou, mas não gostou da cor, do tamanho ou simplesmente não serviu, o Código de Defesa do Consumidor diz que o lojista não é obrigado a efetuar a troca. Ela só será obrigatória nos casos em que o produto apresentar defeito. 
+No caso, por exemplo, de uma blusa, calça ou tênis que você ganhou, mas não gostou da cor, do tamanho ou simplesmente não serviu, o Código de Defesa do Consumidor diz que o lojista não é obrigado a efetuar a troca. Ela só será obrigatória nos casos em que o produto apresentar defeito.
 
 Nesses casos, fica garantido ao consumidor trocar uma roupa com problemas de confecção ou um brinquedo que saiu quebrado da loja. Entretanto, se o produto já tiver sido adquirido com defeito e o consumidor foi avisado disso no momento da compra, ele não terá direito à troca.
 
-Se o defeito for aparente, a legislação determina o prazo de 30 dias para que o consumidor possa pedir a substituição, caso o produto seja um bem não durável, como alimentos e produtos de beleza. Se for um bem durável, como um eletrodoméstico, um eletroeletrônico, o prazo é de 90 dias. 
+Se o defeito for aparente, a legislação determina o prazo de 30 dias para que o consumidor possa pedir a substituição, caso o produto seja um bem não durável, como alimentos e produtos de beleza. Se for um bem durável, como um eletrodoméstico, um eletroeletrônico, o prazo é de 90 dias.
 
 A solicitação de troca pode ser feita diretamente à loja, ao fabricante ou à assistência técnica. O código diz ainda que se não for possível o conserto do produto no prazo de até 30 dias, o consumidor poderá optar pela troca, a devolução do dinheiro ou o abatimento proporcional do preço.
 
@@ -30,7 +29,7 @@ Os produtos com o chamado vício oculto, aqueles em que não se consegue constat
 
 Aparelhos de TV, geladeiras, máquinas de lavar e fogão se enquadram na classificação de produtos essenciais e, no caso de defeito de fabricação, eles podem ser trocados imediatamente. Nesses casos, o consumidor não precisa esperar o prazo de 30 dias para reparo e, assim que constatar o defeito, o fornecedor deve trocar o produto ou devolver imediatamente a quantia paga.
 
-Já a troca por outros motivos depende de cada estabelecimento. Por isso, vale conversar com a pessoa que comprou o presente para saber se o vendedor se comprometeu a fazer a troca, mesmo com o produto em condições. O Código de Defesa do Consumidor diz que se o estabelecimento tiver uma política de troca, ele tem a obrigação de fazer a substituição. 
+Já a troca por outros motivos depende de cada estabelecimento. Por isso, vale conversar com a pessoa que comprou o presente para saber se o vendedor se comprometeu a fazer a troca, mesmo com o produto em condições. O Código de Defesa do Consumidor diz que se o estabelecimento tiver uma política de troca, ele tem a obrigação de fazer a substituição.
 
 Em ambas as situações, a troca deve respeitar o valor pago pelo produto, mesmo que haja liquidações ou aumento de preço. Em caso de troca pelo mesmo produto, a loja não pode exigir complemento de valor. O consumidor também não pode pedir abatimento do preço caso haja mudança entre o que foi pago e o valor no dia da troca.
 
@@ -62,8 +61,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

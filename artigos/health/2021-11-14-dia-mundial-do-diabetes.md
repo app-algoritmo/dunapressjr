@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Cerca de 250 milhões de pessoas no mundo têm diabetes. Os números assustam e ajudam a avaliar o tamanho do desafio para combater essa doença. E para reforçar a conscientização a respeito desse mal, principalmente em relação a sua prevenção e as dificuldades enfrentadas pelos pacientes, foi instituída pela Federação Internacional de Diabetes (IDF) e pela Organização Mundial da Saúde (OMS), no dia 14 de novembro, o Dia Mundial do Diabetes.
 
 De acordo com a Sociedade Brasileira de Diabetes, no Brasil existem, atualmente, mais de 13 milhões de pessoas vivendo com diabetes e esse número tende a aumentar. No Brasil, as Doenças Crônicas Não Transmissíveis (DCNT), como diabetes, são responsáveis por mais de setenta por cento das mortes, sendo que o excesso de peso é o maior fator de risco para o aumento da doença. “No Brasil, em 2008, 70,6% dos casos de diabetes em mulheres e 60,3% dos casos de diabetes em homens são atribuídos ao excesso de peso”, destacou a Coordenação Geral de Prevenção de Doenças Crônicas e Controle do Tabagismo do Ministério da Saúde.
@@ -70,7 +69,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

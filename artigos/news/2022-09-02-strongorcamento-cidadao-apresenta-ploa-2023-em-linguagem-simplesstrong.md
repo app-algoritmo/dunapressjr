@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Documento visa ampliar transparência e acesso da sociedade ao orçamento público.
 
 Apresentado pelo Poder Executivo ao Congresso Nacional, o Projeto de Lei Orçamentária Anual (PLOA) de 2023 consiste em uma proposta que estima as receitas e fixa as despesas para o próximo ano, a partir de um grande volume de informações técnicas. Com a perspectiva de abordar o PLOA de forma mais explicativa e simplificada para a sociedade, a Secretaria de Orçamento Federal do Ministério da Economia publicou, nesta quarta-feira (31), o [Orçamento Cidadão](https://www.gov.br/economia/pt-br/assuntos/planejamento-e-orcamento/orcamento/orcamentos-anuais/2023/ploa/Orcamento_Cidadao_2023.pdf).
@@ -20,8 +19,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

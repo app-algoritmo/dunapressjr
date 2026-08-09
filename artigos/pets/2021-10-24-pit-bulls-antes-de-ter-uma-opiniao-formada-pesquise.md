@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 Pit Bulls não só eram usados como babás, como também eram a primeira escolha quando o assunto era a proteção de uma criança. Eles tinham uma reputação tão boa que eram conhecidos como “O cachorro babá”.
 
 Pessoas de todas as classes usavam Pit Bulls como companheiros e protetores de suas crianças. Hoje, os Pit Bulls são mostrados como agressivos e temperamentais pela mídia, as pessoas têm medo que eles machuquem alguém, ou que eles sejam naturalmente predisposto a atacar outros cachorros.
@@ -23,7 +22,7 @@ Mais fatos interessantes sobre Pit Bulls:
 
 Com a educação certa, Pit Bulls podem ser naturalmente dóceis, cuidadosos e sensíveis.
 
-Infelizmente essa raça é a que mais sofre maus tratos, por serem dóceis, são trancafiados sem comida e água com a finalidade, que se tornem bravos. 
+Infelizmente essa raça é a que mais sofre maus tratos, por serem dóceis, são trancafiados sem comida e água com a finalidade, que se tornem bravos.
 
 Os PITBULLS são umas das raças que mais sofre, que mais são levadas ao extremo da crueldade!
 
@@ -50,7 +49,3 @@ Via [@hachiong](https://www.instagram.com/hachiong/)
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

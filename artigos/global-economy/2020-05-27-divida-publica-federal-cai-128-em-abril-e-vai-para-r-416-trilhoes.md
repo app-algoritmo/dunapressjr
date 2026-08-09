@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Vencimento de títulos e baixa emissão provocaram queda.
 
 A concentração de vencimentos de papéis e a baixa emissão de títulos motivadas pela crise provocada pela pandemia do novo coronavírus (covid-19) fizeram o endividamento do governo cair pelo segundo mês seguido. A Dívida Pública Federal (DPF), que inclui o endividamento interno e externo do governo federal, recuou, em termos nominais, 1,28% em abril, na comparação com março, informou hoje (27) a Secretaria do Tesouro Nacional. O estoque passou de R$ 4,215 trilhões para R$ 4,161 trilhões.
@@ -49,5 +48,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

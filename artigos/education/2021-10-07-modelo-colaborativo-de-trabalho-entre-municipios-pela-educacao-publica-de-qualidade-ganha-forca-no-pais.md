@@ -8,7 +8,6 @@ categories:
 - Education
 ---
 
-
 ## Material explica passo a passo para implantação de Arranjos de Desenvolvimento da Educação.
 
 Atuar em regime de colaboração tem feito a diferença na qualidade da Educação de redes municipais de várias regiões do país. O trabalho é possível com a implantação dos Arranjos de Desenvolvimento da Educação (ADEs). Recentemente, os ADEs tiveram duas importantes conquistas: a homologação da resolução das diretrizes operacionais para implementação do ADE como instrumento de gestão pública para a melhoria da qualidade social da educação, pelo ministro da Educação, Milton Ribeiro; e a aprovação na Câmara dos Deputados do Projeto de Lei que prevê a regulamentação do modelo de trabalho do ADE.
@@ -34,7 +33,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

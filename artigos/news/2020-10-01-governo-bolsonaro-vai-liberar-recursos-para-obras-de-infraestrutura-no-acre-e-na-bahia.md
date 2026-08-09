@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-Foram anunciados repasses de R$ 68,74 milhões para cidades dos dois estados. 
+Foram anunciados repasses de R$ 68,74 milhões para cidades dos dois estados.
 
 Governo Federal vai destinar R$ 68,74 milhões para fomentar o desenvolvimento regional no interior da Bahia e no Acre. Nesta semana, o Ministro do Desenvolvimento Regional, Rogério Marinho visitou os dois estados e reforçou a importância dos investimentos federais para dar oportunidades às mais diversas regiões do País.
 
@@ -26,5 +25,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

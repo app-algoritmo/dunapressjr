@@ -8,7 +8,6 @@ categories:
 - Magazine
 ---
 
-
 O novo curso visa proporcionar uma visão geral da língua Norueguesa, abrangendo os principais aspectos de gramática, vocabulário relevante para interações do dia-a-dia e funções básicas do uso cotidiano da língua como, por exemplo, se apresentar, trocar informações pessoais, ir ao mercado, etc.
 
 As línguas são dinâmicas e, apesar de manter uma estrutura fixa ao longo de sua existência, estão sempre em movimento e incorporando em seu vocabulário as novas formas de expressão e comunicação.
@@ -22,8 +21,6 @@ Os objetivos de cada módulo detalham o que você irá aprender passo-a-passo ao
 ## Comece agora!
 
 [Informações, matrículas e acesso a sala de aula](https://www.duna.global/vikannorsk/)
-
-[](https://www.duna.global/vikannorsk/)
 
 ## Ver também
 

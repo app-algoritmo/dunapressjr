@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Parcelamento em até 20 anos terá desconto na multa e nos juros.
 
 As prefeituras que têm débitos com o Instituto Nacional do Seguro Social (INSS) inscritos na Dívida Ativa da União poderão renegociar as pendências. A Procuradoria-Geral da Fazenda Nacional (PGFN) editou [**portaria que institui um parcelamento especial**](https://in.gov.br/en/web/dou/-/portaria-pgfn/me-n-1.-308-de-15-de-fevereiro-de-2022-380622113) para esses municípios.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

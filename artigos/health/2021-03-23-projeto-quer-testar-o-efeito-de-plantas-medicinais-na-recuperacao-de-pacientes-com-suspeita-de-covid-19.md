@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 Um grupo de pesquisadores da Universidade Federal do Rio Grande do Sul (UFRGS) teve projeto aprovado no Programa de Combate a Epidemias, da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), para fazer ensaio clínico sobre a eficácia de plantas medicinais, usadas na forma dos populares chás, como agentes complementares no tratamento dos pacientes com suspeita de COVID-19. A pesquisa é liderada por Ionara Rodrigues Siqueira, professora do Programa de Pós-Graduação em Ciências Biológicas: Farmacologia e Terapêutica, da universidade gaúcha.
 
 A proposta é testar dois tipos de infusões de espécies de plantas ricas em compostos fenólicos, especificamente a *Achyrocline satureioides*, conhecida usualmente como “marcela” ou “macela”, e a *Malus domestica, *a chamada maçã desidratada. O teste será aplicado em pacientes voluntários que já estejam recebendo tratamento médico, conforme protocolos de atendimento de saúde.
@@ -47,7 +46,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

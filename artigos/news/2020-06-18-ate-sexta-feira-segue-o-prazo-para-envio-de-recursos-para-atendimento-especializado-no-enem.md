@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Inscritos devem acessar a Página do Participante para enviar os documentos.
 
 Quem se inscreveu no Exame Nacional do Ensino Médio (Enem) 2020 e vai precisar de atendimento especializado durante as provas tem até esta sexta-feira, 19 de junho, para entrar com recurso e apresentar novos documentos. A justificativa é realizada por meio da própria [Página do Participante](http://%20%28https/enem.inep.gov.br/participante/#!/)), canal utilizado pelo candidato no momento da inscrição. Quem pediu para ser tratado pelo nome social também tem até amanhã para entrar com recurso.
@@ -33,5 +32,3 @@ As informações a respeito do Enem 2020 podem ser acompanhadas nos portais do I
 Fonte: gov.br/mec / Imagem em destaque: MEC
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

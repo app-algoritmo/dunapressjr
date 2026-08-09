@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A nova tecnologia de visão a ser testada durante a próxima missão espacial RAKIA pode ajudar todos nós na Terra a ver melhor.
 
 A exposição prolongada a condições de microgravidade durante missões espaciais pode prejudicar várias funções fisiológicas em geral, e o sistema visual em particular. A chamada síndrome neuro-ocular relatada em missões espaciais prolongadas caracterizadas por baixa gravidade inclui visão diminuída, mudanças no nervo óptico e na retina e uma mudança no erro refrativo, e todos podem permanecer presentes após o retorno à Terra.
@@ -29,7 +28,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

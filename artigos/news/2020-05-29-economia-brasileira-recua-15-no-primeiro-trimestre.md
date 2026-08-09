@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Resultado foi afetado pelo novo coronavírus e isolamento social.
 
 O Produto Interno Bruto (PIB), que é a soma de todos os bens e serviços produzidos no país, teve queda de 1,5% no primeiro trimestre deste ano, na comparação com último trimestre de 2019.
@@ -33,5 +32,3 @@ Fonte: Agência Brasil – Imagem de destaque: José Paulo Lacerda/CNI/Direitos 
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

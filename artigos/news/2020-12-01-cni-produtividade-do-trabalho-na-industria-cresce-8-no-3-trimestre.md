@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Apesar de recuperação, indicador não deve crescer mais de 1% no ano.
 
 Depois de seis meses seguidos de queda por causa da pandemia do novo coronavírus, a produtividade do trabalho na indústria recuperou-se no terceiro trimestre. Segundo a Confederação Nacional da Indústria (CNI), o indicador subiu 8% de julho a setembro em relação ao trimestre anterior. O crescimento desconsidera as sazonalidades, oscilações típicas de determinadas épocas do ano.
@@ -29,8 +28,6 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/YFYyl67Ra7)
 
 Obrigado pelo apoio!
 

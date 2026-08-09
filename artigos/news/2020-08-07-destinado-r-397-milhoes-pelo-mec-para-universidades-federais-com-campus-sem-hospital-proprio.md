@@ -8,14 +8,13 @@ categories:
 - News
 ---
 
-
 ## Recursos são para viabilizar cenários de prática para alunos de Medicina e para a compra de materiais e equipamentos de saúde.
 
-O Ministério da Educação (MEC) vai destinar R$ 39,7 milhões a 45 universidades federais brasileiras que não possuem hospital próprio. O recurso será utilizado para viabilizar cenários de prática para alunos dos cursos de Medicina que precisam cumprir o chamado internato - que é o estágio curricular obrigatório, nos dois últimos anos de curso - e também servirá para a compra de materiais e equipamentos de saúde. 
+O Ministério da Educação (MEC) vai destinar R$ 39,7 milhões a 45 universidades federais brasileiras que não possuem hospital próprio. O recurso será utilizado para viabilizar cenários de prática para alunos dos cursos de Medicina que precisam cumprir o chamado internato - que é o estágio curricular obrigatório, nos dois últimos anos de curso - e também servirá para a compra de materiais e equipamentos de saúde.
 
-O MEC publicou uma nota técnica no dia 29 de julho com os critérios para a distribuição dos recursos, referentes ao exercício de 2020. Os critérios observam a quantidade de alunos matriculados no 5º e 6º ano do curso de Medicina por universidade; estipulam um valor de referência de R$ 9 mil por aluno ao ano; piso de R$ 200 mil para universidades sem alunos nos dois últimos anos da graduação de Medicina e piso de R$ 400 mil para universidades com estudantes nessa etapa final. Eles poderão ser aplicados em pactuações e convênios com hospitais privados, municipais, estaduais e filantrópicos para que os estudantes exerçam o internato sob supervisão e, assim, concluam a formação médica. 
+O MEC publicou uma nota técnica no dia 29 de julho com os critérios para a distribuição dos recursos, referentes ao exercício de 2020. Os critérios observam a quantidade de alunos matriculados no 5º e 6º ano do curso de Medicina por universidade; estipulam um valor de referência de R$ 9 mil por aluno ao ano; piso de R$ 200 mil para universidades sem alunos nos dois últimos anos da graduação de Medicina e piso de R$ 400 mil para universidades com estudantes nessa etapa final. Eles poderão ser aplicados em pactuações e convênios com hospitais privados, municipais, estaduais e filantrópicos para que os estudantes exerçam o internato sob supervisão e, assim, concluam a formação médica.
 
-Esses suporte, oferecido pelo MEC, está previsto na [Resolução no 3, de 20 de junho de 2014, da Câmara de Educação Superior do Conselho Nacional de Educação](http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=15874-rces003-14&category_slug=junho-2014-pdf&Itemid=30192), que institui as Diretrizes Curriculares Nacionais do Curso de Graduação em Medicina. 
+Esses suporte, oferecido pelo MEC, está previsto na [Resolução no 3, de 20 de junho de 2014, da Câmara de Educação Superior do Conselho Nacional de Educação](http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=15874-rces003-14&category_slug=junho-2014-pdf&Itemid=30192), que institui as Diretrizes Curriculares Nacionais do Curso de Graduação em Medicina.
 
 **Distribuição dos recursos
 **Confira abaixo a relação das universidades que receberão os recursos, conforme os critérios da nota técnica da Diretoria de Desenvolvimento da Educação Superior, da Secretaria de Educação Superior do MEC:
@@ -26,7 +25,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

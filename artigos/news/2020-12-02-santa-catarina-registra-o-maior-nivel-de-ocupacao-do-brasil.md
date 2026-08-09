@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
+Santa Catarina sai mais uma vez na frente e mantém índices acima da média nacional em relação ao emprego. O estado catarinense registrou o maior nível de ocupação do país em outubro: 57,6%. Eram 3,43 milhões de pessoas ocupadas, entre as 5,97 milhões que tinham idade de trabalhar, segundo dados divulgados na Pesquisa Nacional por Amostra de Domicílios (PNAD-Covid19), pelo Instituto Brasileiro de Geografia e Estatística (IBGE), nesta terça-feira, 1º. O nível nacional foi de 49,3%, e o da região Sul, 56%.
 
-Santa Catarina sai mais uma vez na frente e mantém índices acima da média nacional em relação ao emprego. O estado catarinense registrou o maior nível de ocupação do país em outubro: 57,6%. Eram 3,43 milhões de pessoas ocupadas, entre as 5,97 milhões que tinham idade de trabalhar, segundo dados divulgados na Pesquisa Nacional por Amostra de Domicílios (PNAD-Covid19), pelo Instituto Brasileiro de Geografia e Estatística (IBGE), nesta terça-feira, 1º. O nível nacional foi de 49,3%, e o da região Sul, 56%.  
-
-“Esse é mais um resultado que mostra que estamos no caminho certo. Desde o início da pandemia, nossa prioridade foi preservar vidas, garantindo o atendimento a todos os pacientes. Porém, também investimos em ações para garantir o emprego e renda das famílias catarinenses”, ressalta o governador Carlos Moisés.  
+“Esse é mais um resultado que mostra que estamos no caminho certo. Desde o início da pandemia, nossa prioridade foi preservar vidas, garantindo o atendimento a todos os pacientes. Porém, também investimos em ações para garantir o emprego e renda das famílias catarinenses”, ressalta o governador Carlos Moisés.
 
 Santa Catarina também apresentou o menor número de pessoas desocupadas entre todos os estados em outubro, 7,7%, o que representa 288 mil entre as 3,72 milhões que estavam na força de trabalho. Resultando em um recuo de 0,1 pontos percentuais em relação a setembro (7,8%). O índice cai desde junho (8,6%). Neste quesito, a média nacional ficou em 14,1%.
 
@@ -32,7 +31,5 @@ SEU APOIO VOLUNTARIO É MUITO IMPORTANTE!
 Sua assinatura não somente ajudará no fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

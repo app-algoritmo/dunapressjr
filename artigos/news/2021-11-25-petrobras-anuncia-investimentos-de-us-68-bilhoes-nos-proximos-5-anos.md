@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Valor é 24% superior ao investido no plano anterior.
 
-A Petrobras anunciou nesta quarta-feira (24) que nos próximos cinco anos os investimentos da companhia serão na ordem de US$ 68 bilhões, valor 24% superior ao mesmo período do plano anterior. A decisão foi tomada nesta quarta-feira pelo Conselho de Administração da companhia, ao aprovar o Plano Estratégico para o quinquênio 2022-2026. 
+A Petrobras anunciou nesta quarta-feira (24) que nos próximos cinco anos os investimentos da companhia serão na ordem de US$ 68 bilhões, valor 24% superior ao mesmo período do plano anterior. A decisão foi tomada nesta quarta-feira pelo Conselho de Administração da companhia, ao aprovar o Plano Estratégico para o quinquênio 2022-2026.
 
 “A companhia mantém sua estratégia consistente de focar em projetos com pleno potencial de gerar recursos e contribuições para a sociedade brasileira”, disse o presidente da Petrobras, Joaquim Luna e Silva.
 
@@ -28,14 +27,10 @@ No plano está previsto também a conclusão da segunda unidade da Refinaria Abr
 
 Para a Comercialização e Logística, o investimento de US$ 1,8 bilhão, e se destina principalmente à continuidade operacional, focada em um ambiente competitivo, com destaque para os investimentos obrigatórios a serem alocados no Terminal de Santos, em função do leilão da área realizado recentemente.
 
-O presidente da companhia disse que o plano reforça a importância de uma Petrobras forte, saudável e geradora de recursos. “Em 2021 são estimados mais de R$ 220 bilhões entre tributos e impostos recolhidos e dividendos pagos à União e demais entes federativos. Vamos gerar cada vez mais recursos que não ficam retidos no caixa da companhia, mas retornam à sociedade sob a forma de tributos, dividendos e investimentos, com efeito multiplicador na geração de empregos e no crescimento da economia brasileira”. 
+O presidente da companhia disse que o plano reforça a importância de uma Petrobras forte, saudável e geradora de recursos. “Em 2021 são estimados mais de R$ 220 bilhões entre tributos e impostos recolhidos e dividendos pagos à União e demais entes federativos. Vamos gerar cada vez mais recursos que não ficam retidos no caixa da companhia, mas retornam à sociedade sob a forma de tributos, dividendos e investimentos, com efeito multiplicador na geração de empregos e no crescimento da economia brasileira”.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

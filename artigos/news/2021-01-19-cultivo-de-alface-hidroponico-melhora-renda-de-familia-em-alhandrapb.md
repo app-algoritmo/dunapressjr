@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O período de colheita da alface é de 48 a 56 dias.
 
 Mesmo com a pandemia que limitou as atividades no campo, o produtor rural Sérgio Marcos Filho, do sítio Acais, em Alhandra, no Litoral Norte paraibano, não adiou a implantação do projeto de produção de alface pelo sistema de hidroponia. No começo de 2020, ele obteve financiamento, implantou o projeto e já comercializa produção, com grande aceitação na feira livre e lanchonetes locais.
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

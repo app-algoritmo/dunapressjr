@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministério da Agricultura retirou do mercado mais de 80 mil litros de cerveja contaminada da empresa.
 
 O Ministério da Agricultura, Pecuária e Abastecimento (Mapa) divulga nesta terça-feira (4) o relatório final a respeito das ações fiscais realizadas na cervejaria Backer após análises e detecção da presença dos contaminantes monoetilenoglicol (MEG) e dietilenoglicol (DEG) em cervejas produzidas pela marca.
@@ -18,7 +17,7 @@ As apurações fiscais indicaram que a cervejaria Backer adotou práticas irresp
 
 A empresa também possui diversas falhas e lacunas em seus sistemas de controle e gestão internos, apresentando informações incompletas nos relatórios de produção e controles de rastreabilidade ineficientes.
 
-A Cervejaria Backer segue interditada até que seja possível afirmar que não há riscos para a produção de cervejas no local. 
+A Cervejaria Backer segue interditada até que seja possível afirmar que não há riscos para a produção de cervejas no local.
 
 **Recolhimento dos produtos**
 
@@ -32,7 +31,7 @@ Os procedimentos para apuração de responsabilidades na esfera administrativa j
 
 No início das apurações, o Mapa trabalhou com o método qualitativo para detectar a presença dos contaminantes e assim mitigar os riscos à saúde dos consumidores. Após validação do método quantitativo pelo Laboratório Federal de Defesa Agropecuária (LFDA) de Minas Gerais, as análises passaram a fornecer a quantidade dos contaminantes nas amostras.
 
-Ao todo, o relatório apresenta os resultados das análises quantitativas dos glicóis MEG e DEG em cerca de 600 amostras de cervejas da Backer, indicando a presença de glicóis em 36 lotes produzidos ao longo de 2019 e 2020, em concentrações variadas. 
+Ao todo, o relatório apresenta os resultados das análises quantitativas dos glicóis MEG e DEG em cerca de 600 amostras de cervejas da Backer, indicando a presença de glicóis em 36 lotes produzidos ao longo de 2019 e 2020, em concentrações variadas.
 
 **>> Confira [aqui](https://www.gov.br/agricultura/pt-br/assuntos/noticias/mapa-divulga-relatorio-final-das-acoes-na-cervejaria-backer/relatriodeaes_cervejariabacker.pdf) o Relatório de ações: Cervejaria Backer**
 
@@ -50,7 +49,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

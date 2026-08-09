@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Coordenadores das áreas de avaliação participaram da conferência de apresentação do trabalho feito entre 2011-2020 pela Comissão. Benedito Aguiar abriu o evento on-line.
 
 A Comissão Especial de Acompanhamento do Plano Nacional de Pós-Graduação (PNPG) 2011-2020 apresentou nesta terça-feira, 07, a prévia do trabalho realizado durante o decênio para os coordenadores das áreas de avaliação da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). A reunião* on-line* teve a participação de Benedito Aguiar, presidente da Coordenação.
@@ -24,7 +23,7 @@ Fonte: gov.br / Imagem em destaque: comciencia.com.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

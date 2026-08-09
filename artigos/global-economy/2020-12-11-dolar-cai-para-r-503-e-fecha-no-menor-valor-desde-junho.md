@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa subiu e encerrou no nível mais alto desde fevereiro.
 
 Uma combinação de otimismo externo com ações tomadas pelo Banco Central (BC) fez o dólar desabar nesta quinta-feira (10) e fechar no valor mais baixo desde junho. A bolsa de valores superou os 115 mil pontos e renovou o nível máximo desde fevereiro.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

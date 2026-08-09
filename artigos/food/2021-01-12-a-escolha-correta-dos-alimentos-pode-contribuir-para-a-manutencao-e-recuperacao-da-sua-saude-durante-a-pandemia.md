@@ -8,8 +8,7 @@ categories:
 - Food
 ---
 
-
-A função dos alimentos vai muito além de simplesmente nos manter saciados. Uma alimentação adequada e saudável garante uma boa nutrição e o funcionamento adequado de todo o corpo. Portanto, ela influencia, e muito, na saúde. 
+A função dos alimentos vai muito além de simplesmente nos manter saciados. Uma alimentação adequada e saudável garante uma boa nutrição e o funcionamento adequado de todo o corpo. Portanto, ela influencia, e muito, na saúde.
 
 Alimentos *in natura*, como frutas, legumes, verduras, grãos diversos, oleaginosas, tubérculos, raízes, carnes e ovos, são saudáveis e excelentes fontes de fibras, de vitaminas, minerais e de vários compostos que são essenciais para a manutenção da saúde e a prevenção de muitas doenças. Inclusive aquelas que aumentam o risco de complicações do Coronavírus, como diabetes, hipertensão e obesidade.
 
@@ -27,17 +26,17 @@ A recomendação, então, é investir na aquisição de alimentos *in natura* 
 
 Planejar as refeições contribui para a manutenção de uma rotina alimentar adequada e saudável, já que ter sempre uma comida de verdade ao alcance ajuda a evitar os ultraprocessados. Também é importante ficar atento em relação ao consumo excessivo de alimentos, ao comportamento sedentário e ao estresse emocional.
 
-O [Guia Alimentar para a População Brasileira](http://189.28.128.100/dab/docs/portaldab/publicacoes/guiadebolso2018.pdf), editado pelo Ministério da Saúde, traz orientações bastante práticas para cada uma das principais refeições (café da manhã, almoço e jantar), oferecendo dicas variadas que levam em consideração a cultura e características alimentares regionais. 
+O [Guia Alimentar para a População Brasileira](http://189.28.128.100/dab/docs/portaldab/publicacoes/guiadebolso2018.pdf), editado pelo Ministério da Saúde, traz orientações bastante práticas para cada uma das principais refeições (café da manhã, almoço e jantar), oferecendo dicas variadas que levam em consideração a cultura e características alimentares regionais.
 
 ## **Indo às compras**
 
 A etapa anterior começa aqui, nas compras. Antes de sair de casa e encarar o contato com outras pessoas, é importante planejar o que será comprado. Assim, você garante a disponibilidade dos alimentos e evita sair de casa com muita frequência. Mas lembre-se: nada de comprar além do necessário. Faça uma compra responsável e dê a chance para outras pessoas comprarem também.
 
-Para ajudar na organização e planejamento, a dica é se fazer as seguintes perguntas: quais alimentos tenho em casa? Com os alimentos que tenho em casa, quais refeições consigo preparar? Quais alimentos preciso comprar para as refeições que ainda irei fazer nos próximos dias? 
+Para ajudar na organização e planejamento, a dica é se fazer as seguintes perguntas: quais alimentos tenho em casa? Com os alimentos que tenho em casa, quais refeições consigo preparar? Quais alimentos preciso comprar para as refeições que ainda irei fazer nos próximos dias?
 
 Priorizar alimentos da estação também é uma dica para garantir melhores preços, maior frescor e disponibilidade. Procure também fazer compras em mercados com produção local, diretamente dos agricultores ou em outros locais que comercializam variedades de alimentos in natura ou minimamente processados.
 
-**Cuidados para se proteger do COVID-19** 
+**Cuidados para se proteger do COVID-19**
 
 Não abra mão da distância mínima de 2 metros entre você e as outras pessoas nos estabelecimentos comerciais, além do uso de máscara. Lave bem as mãos após as compras e faça uso do álcool em gel depois de manusear os produtos comprados, objetos e equipamentos. Se possível, aproveite que os serviços de entrega estão em alta e compre frutas, verduras e legumes sem sair de casa.
 
@@ -83,7 +82,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

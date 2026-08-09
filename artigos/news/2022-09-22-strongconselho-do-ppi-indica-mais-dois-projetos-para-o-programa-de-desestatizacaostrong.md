@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Tiveram suas recomendações aprovadas, durante a 23ª reunião ordinária do colegiado, a Companhia Docas do Rio de Janeiro e a Companhia Docas do Pará.
 
 O Conselho do Programa de Parcerias de Investimentos (CPPI) decidiu, durante sua 23ª reunião ordinária, realizada na terça-feira (20), recomendar ao presidente da República a qualificação no PPI e inclusão no Programa Nacional de Desestatização de dois novos projetos: a Companhia Docas do Rio de Janeiro (CDRJ) e a Companhia Docas do Pará (CDP). Caso a recomendação seja integralmente acatada, a carteira do PPI passará a contar, no total, com 209 projetos.
@@ -20,7 +19,7 @@ Por fim, o CPPI deliberou pela aprovação e alteração da Resolução CPPI nº
 
 Os projetos qualificados no âmbito do PPI têm, por determinação legal, prioridade nacional perante todos os agentes públicos, nas esferas administrativa e de controle da União, Estados, Distrito Federal e Municípios.
 
-O PPI atua na coordenação e monitoramento dos projetos em apoio aos ministérios setoriais e aos demais entes federativos, em especial no que diz respeito ao planejamento, modelagem e acompanhamento dos empreendimentos. O objetivo desse processo é promover e estruturar melhores contratos para oferta de infraestrutura e serviços públicos à população, primando pela concorrência, transparência e segurança jurídica. 
+O PPI atua na coordenação e monitoramento dos projetos em apoio aos ministérios setoriais e aos demais entes federativos, em especial no que diz respeito ao planejamento, modelagem e acompanhamento dos empreendimentos. O objetivo desse processo é promover e estruturar melhores contratos para oferta de infraestrutura e serviços públicos à população, primando pela concorrência, transparência e segurança jurídica.
 
 [Acesse todas as deliberações](https://www.gov.br/economia/pt-br/assuntos/noticias/2022/setembro/arquivo/23-reuniao-do-conselho-do-ppi.pdf) tomadas pelo Conselho do Programa de Parcerias de Investimentos em sua 23ª reunião ordinária
 
@@ -28,8 +27,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

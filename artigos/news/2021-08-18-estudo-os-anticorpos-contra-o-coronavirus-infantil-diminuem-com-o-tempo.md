@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Novo estudo do Shaare Zedek Medical Center mostra que a grande maioria das crianças não tinha anticorpos COVID-19 detectáveis ​​quatro meses após a doença.
 
 Pesquisadores israelenses do Centro Médico Shaare Zedek em Jerusalém descobriram que os níveis de anticorpos contra o coronavírus em crianças diminuem com o tempo, e a maioria das crianças com teste positivo há mais de quatro meses não tem mais anticorpos, relatou *Israel Hayom* .
@@ -39,7 +38,3 @@ Fonte: https://www.israelnationalnews.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

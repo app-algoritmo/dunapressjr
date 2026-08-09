@@ -7,14 +7,13 @@ categories:
 - Education
 ---
 
-
 Informações que chegam por todos os lados, na tela do celular, no computador, pela televisão, podcasts, aplicativos de mensagem. Estar conectado 24 horas por dia faz com que nem mesmo as crianças e jovens estejam livres da disseminação desenfreada de notícias falsas. Embora as *fake news* não sejam uma novidade do século XXI, hoje elas se espalham com muito mais velocidade e com um alcance inédito.
 
 Como a escola pode contribuir para que os estudantes desenvolvam seu senso crítico e, assim, não sejam vítimas de informações mentirosas e manipuladoras? De acordo com especialistas no tema, isso é possível com o desenvolvimento de uma análise crítica, que as pessoas só têm condições de exercitar a partir do domínio de competências e habilidades de leitura e escrita que estão no cerne da formação de leitores críticos e, portanto, mais preparados para identificar as armadilhas das *fake news*. Prevista na nova BNCC (Base Nacional Comum Curricular), a Educação Midiática é a abordagem que permite a construção dessa aprendizagem sobre o que é e como se produz a informação, com o objetivo de combater a desinformação.
 
 Para a consultora pedagógica do Sistema de Ensino Aprende Brasil, Yasmim Forte, um dos principais objetivos da escola atualmente deve ser oferecer uma preparação que permita ao aluno analisar situações complexas, desenvolver a capacidade de olhar uma informação e fazer uma interpretação coerente. É preciso que ele enxergue o que está por trás da notícia, o que ela reflete, qual a influência do contexto, da cultura local e a quem ela interessa. "A BNCC coloca a cultura digital como uma competência geral. Um dos desafios da Educação como um todo é garantir que o aluno adquira a capacidade de ter diferentes olhares sobre um mesmo assunto e, para isso, precisamos envolver todas as áreas do conhecimento: Linguagens, Matemática, Ciências da Natureza e Ciências Humanas e Sociais. A Educação Midiática é um caminho tão importante para a escola percorrer com os alunos porque ela faz parte da vida do aluno o tempo todo", destaca Yasmim.
 
-E, para que a Educação consiga formar cidadãos com independência e senso crítico para decidir sobre o consumo de qualquer tipo de informação, Yasmim defende que aprender a fazer essa curadoria deve ser uma prática já na infância. "O ideal é trabalhar essa abordagem em todos os níveis do ensino, promovendo uma construção - permeada tanto pela análise dos meios de comunicação, das diferentes mídias, como também por um aprendizado mediado pela tecnologia", afirma. Educadores indicam algumas iniciativas simples de Educação Midiática para serem trabalhadas em sala de aula ou mesmo em casa.. 
+E, para que a Educação consiga formar cidadãos com independência e senso crítico para decidir sobre o consumo de qualquer tipo de informação, Yasmim defende que aprender a fazer essa curadoria deve ser uma prática já na infância. "O ideal é trabalhar essa abordagem em todos os níveis do ensino, promovendo uma construção - permeada tanto pela análise dos meios de comunicação, das diferentes mídias, como também por um aprendizado mediado pela tecnologia", afirma. Educadores indicam algumas iniciativas simples de Educação Midiática para serem trabalhadas em sala de aula ou mesmo em casa..
 
 **1. Como é feito um jornal?**
 
@@ -32,7 +31,7 @@ Em um mundo cada vez mais conectado, impedir que os estudantes tenham contato co
 
 A leitura de imagens também é muito importante no cotidiano do mundo contemporâneo. Muitas vezes, uma imagem pode trazer uma informação falsa, fora de contexto ou até mesmo antiga. Analisar criticamente imagens e incentivar a leitura crítica é um exercício que pode ser feito com crianças de todas as idades, até mesmo na Educação Infantil. Uma das maneiras de fazer isso é mostrando às crianças diferentes imagens e pedindo que elas discorram sobre o que estão vendo.
 
-Em um segundo momento, as crianças são apresentadas ao contexto em que cada imagem foi feita, à história completa da imagem. A seguir, elas podem voltar a compartilhar suas percepções sobre as fotografias e, com a ajuda do professor, refletir sobre as mudanças de opinião entre a primeira e a segunda rodadas de análise. “As pessoas precisam estar preparadas para fazer essa curadoria. Cabe a nós sermos os curadores da nossa experiência nesse universo da informação, que é muito poderoso, mas exige esse preparo”, destaca Daniela. Quanto antes as crianças começarem a ser preparadas para integrar esse mundo repleto de informações, melhor será sua vivência nele. 
+Em um segundo momento, as crianças são apresentadas ao contexto em que cada imagem foi feita, à história completa da imagem. A seguir, elas podem voltar a compartilhar suas percepções sobre as fotografias e, com a ajuda do professor, refletir sobre as mudanças de opinião entre a primeira e a segunda rodadas de análise. “As pessoas precisam estar preparadas para fazer essa curadoria. Cabe a nós sermos os curadores da nossa experiência nesse universo da informação, que é muito poderoso, mas exige esse preparo”, destaca Daniela. Quanto antes as crianças começarem a ser preparadas para integrar esse mundo repleto de informações, melhor será sua vivência nele.
 
 Alexandre e Daniela falam mais sobre o assunto no 21º episódio do  *podcast* PodAprender, cujo tema é “**Educação Midiática no combate às *fake news***”. O programa pode ser ouvido no site do Sistema de Ensino Aprende Brasil ([sistemaaprendebrasil.com.br)](http://sistemaaprendebrasil.com.br/podaprender/), nas plataformas Spotify, Deezer, Apple Podcasts, Google Podcasts e nos principais agregadores de podcasts disponíveis no Brasil.
 
@@ -46,5 +45,3 @@ Fonte: Central Press
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

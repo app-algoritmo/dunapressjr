@@ -24,14 +24,7 @@ Localizada a cerca de 70km da cidade de São Paulo, Juquitiba permite aos atleta
 O Circuito Rocky Mountain Games tem patrocínio da Francis, Cerveja Patagonia, com apoio da Tim, Prefeitura de Juquitiba e Mynd. Realização da Rocky Mountain Sports Content e a mídia oficial é a Go Outside.
 
 **Mais informações:
-****Site: ****[https://rockymountaingames.com.br/](https://click.presskit.com.br/url/1019303295c/6361388b6fc)[
-](https://click.presskit.com.br/url/1019303295c/6361388b6fc)****Instagram : ****[https://www.instagram.com/rockymountaingames/](https://click.presskit.com.br/url/10193049f27/6361388b6fc)[
-](https://click.presskit.com.br/url/10193049f27/6361388b6fc)****Fan page - ****[https://www.facebook.com/rmountaingames](https://click.presskit.com.br/url/1019305a9d2/6361388b6fc)[
-](https://click.presskit.com.br/url/1019305a9d2/6361388b6fc)****Youtube - ****[https://www.youtube.com/channel/UC2Zd1D_1VDhPsOjbKUyFt0Q](https://click.presskit.com.br/url/101930608be/6361388b6fc)[
-
-](https://click.presskit.com.br/url/101930608be/6361388b6fc)*****ZDL
+****Site: ****[https://rockymountaingames.com.br/](https://click.presskit.com.br/url/1019303295c/6361388b6fc)****Instagram : ****[https://www.instagram.com/rockymountaingames/](https://click.presskit.com.br/url/10193049f27/6361388b6fc)****Fan page - ****[https://www.facebook.com/rmountaingames](https://click.presskit.com.br/url/1019305a9d2/6361388b6fc)****Youtube - ****[https://www.youtube.com/channel/UC2Zd1D_1VDhPsOjbKUyFt0Q](https://click.presskit.com.br/url/101930608be/6361388b6fc)*****ZDL
 ******Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](mailto:dorojr@zdl.com.br) - F: 11 984579723
 ******Rafael De Marco - Mtb.: 27556 - [rafael@zdl.com.br](mailto:rafael@zdl.com.br) - Cel: 11 976022986 / WhatsApp: 19 997912108
-******Site: ******[www.zdl.com.br](https://click.presskit.com.br/url/1019300d421/6361388b6fc)[
-](https://click.presskit.com.br/url/1019307bca8/6361388b6fc)******Facebook: ******[www.facebook.com/ZDLSports](https://click.presskit.com.br/url/1019308aa87/6361388b6fc)[
-](https://click.presskit.com.br/url/1019308aa87/6361388b6fc)******Instagram: ***[***www.instagram.com/zdlsports***](https://click.presskit.com.br/url/10193097053/6361388b6fc)
+******Site: ******[www.zdl.com.br](https://click.presskit.com.br/url/1019300d421/6361388b6fc)******Facebook: ******[www.facebook.com/ZDLSports](https://click.presskit.com.br/url/1019308aa87/6361388b6fc)******Instagram: ***[***www.instagram.com/zdlsports***](https://click.presskit.com.br/url/10193097053/6361388b6fc)

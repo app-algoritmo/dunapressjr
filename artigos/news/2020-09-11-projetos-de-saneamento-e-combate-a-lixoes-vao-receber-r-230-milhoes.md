@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério do Meio Ambiente autorizou o repasse de R$ 232 milhões para obras e ações de saneamento básico do programa Lixão Zero. Os recursos, viabilizados nessa quarta-feira (9), são do Banco Nacional de Sesenvolvimento Econômico e Social (BNDES) e têm origem no Fundo Nacional de Mudanças do Clima (FNMC).
 
 Somado aos R$ 350 milhões liberados em agosto, o novo repasse representa um recorde histórico no volume ofertado pelo banco nas linhas do Fundo Clima, totalizando ainda o maior repasse já realizado pelo Ministério num mesmo ano.
@@ -25,5 +24,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

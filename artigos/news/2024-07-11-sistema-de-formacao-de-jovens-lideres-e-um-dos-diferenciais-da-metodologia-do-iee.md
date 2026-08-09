@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O Instituto Esporte e Educação, em seus 23 anos de atuação, trabalha com liderança juvenil por meio do esporte, nos eixos de aulas, monitoria, eventos, cursos e mercado de trabalho. Projeto Rede de Núcleos tem um terço da equipe formada por ex-alunos.
 
 **Julho, 2024 –** O foco é o esporte educacional, que segue os princípios da inclusão e do respeito às diferenças. E é com essa metodologia que o Instituto Esporte e Educação (IEE) chega a diferentes municípios do Brasil, realizando diversos projetos e atividades. Nela, os jovens têm um papel muito especial. Ao longo de seus 23 anos de atuação, o IEE desenvolve metodologia para trabalhar com liderança juvenil por meio do esporte, nos eixos de aulas, monitoria, eventos, cursos e mercado de trabalho.
@@ -35,9 +34,7 @@ A participação ativa em jogos e mediação fortalece a autonomia, confiança n
 
 “Fiz o curso de jovens líderes. É muito importante ter ideias durante a monitoria que possam ajudar a aprender mais, a se comunicar mais”, garante a também aluna do IEE, Emily Antunes.
 
-**Confira o vídeo sobre o Sistema de Formação de Jovens** no link [https://www.youtube.com/watch?v=uleLpQrscSw](https://click.presskit.com.br/url/10252079834/6361388b6fc)[
-
-](https://click.presskit.com.br/url/1025068570f/6361388b6fc)**Sobre o Instituto Esporte e Educação** – Criado em 2001 pela medalhista olímpica Ana Moser, o Instituto Esporte e Educação (IEE) já atendeu a 7,5 milhões de crianças e jovens e capacitou mais de 63 mil professores e educadores em todo o Brasil. Sua metodologia já chegou em 27% dos municípios brasileiros (1.488).
+**Confira o vídeo sobre o Sistema de Formação de Jovens** no link [https://www.youtube.com/watch?v=uleLpQrscSw](https://click.presskit.com.br/url/10252079834/6361388b6fc)**Sobre o Instituto Esporte e Educação** – Criado em 2001 pela medalhista olímpica Ana Moser, o Instituto Esporte e Educação (IEE) já atendeu a 7,5 milhões de crianças e jovens e capacitou mais de 63 mil professores e educadores em todo o Brasil. Sua metodologia já chegou em 27% dos municípios brasileiros (1.488).
 
 A metodologia do IEE é baseada nos princípios do esporte educacional: inclusão de todos, construção coletiva, respeito à diversidade, educação integral, rumo à autonomia. Além das esportivas, as atividades realizadas são nas esferas da cultura, saúde, cidadania, protagonismo juvenil e ação comunitária.
 
@@ -51,7 +48,7 @@ O Instituto Esporte Educação conta com os seguintes parceiros: Itaú, VALE, Me
 *ZDL**
 Doro Jr. - MTb 13209 - ***[***dorojr@zdl.com.br***](https://click.presskit.com.br/url/10250722f38/6361388b6fc)** - 11 984579723*****
 Deborah Mamone - MTb 15148  - ***[***deborah@zdl.com.br***](https://click.presskit.com.br/url/1025073e1ee/6361388b6fc)** - 11 991628967*****
-****
+
 **Site: **[**www.zdl.com.br****
 **](https://click.presskit.com.br/url/102507405c7/6361388b6fc)**Facebook: **[**www.facebook.com/ZDLSports****
 **](https://click.presskit.com.br/url/10250759d22/6361388b6fc)**Instagram: **[**www.instagram.com/zdlsports**](https://click.presskit.com.br/url/10250763f91/6361388b6fc)*

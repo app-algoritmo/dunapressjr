@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Uma pesquisa conduzida por um bolsista da CAPES na Universidade Federal de Uberlândia (UFU) pode ser útil no combate ao câncer. O estudo levou à descoberta de uma molécula que se mostrou agressiva contra o câncer na pele (melanoma) e o câncer em ossos e músculos (sarcoma). Além disso,  ela é menos tóxica para as células não cancerosas. Os resultados estão descritos em [artigo](https://www.nature.com/articles/s41598-021-03909-1) publicado no *Scientific Reports*, jornal científico que pertence ao grupo Nature.
 
 Uma das substâncias encontradas na molécula é o cobre, metal que existe no corpo humano e participa de diversas funções no organismo, como a criação de vasos sanguíneos. Isolado, pode beneficiar tumores. Ligado a outros materiais, porém, ajuda no combate às células cancerosas. “A ideia é que o cobre atue como um cavalo de Troia. Quando o tumor precisar de cobre, vai puxar de lá e vai acabar se intoxicando”, explica Pedro Henrique Alves Machado, bolsista de doutorado em Genética e Bioquímica.
@@ -27,7 +26,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

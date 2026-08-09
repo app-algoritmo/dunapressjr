@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Em duas semanas, já foram realizadas 362 consultas e 375 testes rápidos com a linha de frente contra a pandemia.
 
 O Complexo Hospitalar da Universidade Federal do Ceará (UFC), vinculado à Empresa Brasileira de Serviços Hospitalares (Ebserh), criou um ambulatório para atendimento exclusivo de quem está na linha de frente do combate ao novo coronavírus. Em menos de duas semanas de funcionamento, o ambulatório da estatal ligada ao Ministério da Educação (MEC), já realizou 362 consultas e 375 testes rápidos.
@@ -36,4 +35,4 @@ Fonte: gov.br/mec / Imagem em destaque: tdc
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.** **Clique no banner abaixo para assinar.**
 
-https://dunapress.org/?aff=Leonardo
+https://dunapress.org/

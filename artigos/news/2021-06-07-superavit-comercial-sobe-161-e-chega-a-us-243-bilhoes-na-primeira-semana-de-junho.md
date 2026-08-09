@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Exportações aumentam 94,1% e atingem US$ 4,85 bilhões, com importações de US$ 2,42 bilhões, em alta de 54,5%; no acumulado do ano, superávit é de US$ 29,55 bilhões, subindo 55,3%.
 
 O Brasil abriu o mês de junho com alta de 161,6% no superávit da balança comercial, que chegou a US$ 2,43 bilhões na primeira semana do mês. O resultado foi impulsionado pelo aumento de 94,1% nas exportações, que atingiram US$ 4,85 bilhões, enquanto as importações subiram 54,5% e totalizaram US$ 2,42 bilhões. Assim, a corrente de comércio (soma das exportações e importações) alcançou US$ 7,27 bilhões, subindo 78,8% pela média diária, na comparação com junho de 2020.
@@ -41,8 +40,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

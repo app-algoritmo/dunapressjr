@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Fisioterapeuta pela Sociedade Padre Anchieta de Ensino (UniAnchieta), Ana Aparecida Pires é mestranda em Saúde da Mulher pela Faculdade de Medicina de Jundiaí (FMJ) e estuda a eficácia da drenagem linfática manual (DLM), técnica que ajuda na reabilitação de puérperas.
 
 **Fale um pouco sobre o seu trabalho.**
@@ -46,6 +45,6 @@ Imagem destacada Pixabay
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)****

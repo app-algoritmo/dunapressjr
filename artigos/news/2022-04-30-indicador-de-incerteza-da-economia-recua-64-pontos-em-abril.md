@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice atinge menor nível desde janeiro de 2020, diz FGV.
 
 O Indicador de Incerteza da Economia (IIE-Br) recuou 6,4 pontos em abril para 114,9 pontos (pts), menor nível desde janeiro de 2020 (112,9 pts), período anterior à pandemia de covid-19 no país. O índice foi divulgado nesta sexta-feira (29) pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV).
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

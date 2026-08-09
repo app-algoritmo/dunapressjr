@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em abril, a taxa ficou em 1,58% e acumulou 9,16% no ano.
 
 O Índice Geral de Preços – 10 (IGP-10) registrou inflação de 1,58% em abril deste ano. A taxa é inferior ao índice de 2,99% observado em março, mas superior ao de 1,13% de abril de 2020. Os dados foram divulgados hoje (15) pela Fundação Getulio Vargas (FGV).
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

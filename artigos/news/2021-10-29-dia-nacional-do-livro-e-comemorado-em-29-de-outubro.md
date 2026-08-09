@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A leitura colabora diretamente para a construção e formação de todas e todos! Por isso, neste dia, é importante refletir sobre a relevância da democratização ao acesso e o incentivo à leitura. A revolução é coletiva!
 
 O Dia Nacional do Livro é celebrado, em todo o Brasil, em 29 de outubro. A data é uma homenagem à fundação da Biblioteca Nacional do Brasil em 1810. A Biblioteca fica na cidade do Rio de Janeiro e é considerada pela UNESCO uma das dez maiores bibliotecas nacionais do mundo e também a maior biblioteca da América Latina. 
@@ -24,7 +23,7 @@ Atualmente, no mundo digital que vivemos, os livros evoluíram mais uma vez e as
 
 Porém, existe outra “corrente de pensamento” que acredita que isso não vai acontecer tão cedo, porque, mesmo com toda a praticidade das versões digitais, elas nunca proporcionarão o prazer do cheiro de um livro novo, de sentir a textura do papel enquanto o livro é folheado, de riscar os trechos preferidos à caneta com o próprio punho, e de sentir orgulho por ter uma determinada obra em sua estante ou prateleira.
 
-De qualquer maneira, independente do gosto de cada um, seja impresso ou eletrônico, os livros continuarão cumprindo o seu importante papel, que é servir como um portal de acesso para a leitura, e levar a mente a conhecimentos e fantasias que deixam a vida muito mais interessante e feliz.[](https://esab.edu.br/dia-nacional-do-livro-29-de-outubro/#)[](https://esab.edu.br/dia-nacional-do-livro-29-de-outubro/#)[](https://esab.edu.br/dia-nacional-do-livro-29-de-outubro/#)[](https://esab.edu.br/dia-nacional-do-livro-29-de-outubro/#)[](mailto:?subject=Check%20out%20-%20Dia%20nacional%20do%20livro%20%E2%80%93%2029%20de%20outubro&body=You%20can%20see%20it%20live%20here%20https://esab.edu.br/dia-nacional-do-livro-29-de-outubro/?utm_source=sharemail.%20%20Made%20by%20ESAB%20-%20Escola%20Superior%20Aberta%20do%20Brasil%20https://esab.edu.br%20.)
+De qualquer maneira, independente do gosto de cada um, seja impresso ou eletrônico, os livros continuarão cumprindo o seu importante papel, que é servir como um portal de acesso para a leitura, e levar a mente a conhecimentos e fantasias que deixam a vida muito mais interessante e feliz.[](mailto:?subject=Check%20out%20-%20Dia%20nacional%20do%20livro%20%E2%80%93%2029%20de%20outubro&body=You%20can%20see%20it%20live%20here%20https://esab.edu.br/dia-nacional-do-livro-29-de-outubro/?utm_source=sharemail.%20%20Made%20by%20ESAB%20-%20Escola%20Superior%20Aberta%20do%20Brasil%20https://esab.edu.br%20.)
 
  Referência Bibliográficahttp://www.brasil.gov.br/cultura/2013/10/dia-nacional-do-livro-e-comemorado-em-29-de-outubro
 
@@ -41,7 +40,3 @@ Fonte: https://www.orientarcentroeducacional.com.br/noticias/dia-nacional-do-liv
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

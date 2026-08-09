@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 [Portaria nº 430](https://www.in.gov.br/en/web/dou/-/portaria-n-430-de-30-de-dezembro-de-2020-297214729), de 30 de dezembro de 2020, do Ministério da Economia, define os feriados nacionais e pontos facultativos no ano de 2021. As datas deverão ser observadas pelos órgãos e entidades da Administração Pública Federal direta, autárquica e fundacional do Poder Executivo, sem comprometimento das atividades públicas consideradas como serviços essenciais à população.
 
 Segundo estabelece a portaria, os dias de guarda dos credos e religiões não relacionados poderão ser compensados desde que previamente autorizados pelo responsável pela unidade administrativa de exercício do servidor.
@@ -58,7 +57,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

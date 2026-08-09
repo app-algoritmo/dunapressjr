@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ### Sachsida participou de audiência na Comissão de Defesa do Consumidor.
 
-Uma semana depois de ir à Câmara dos Deputados dar explicações sobre a alta no preço dos combustíveis, o ministro de Minas e Energia, Adolfo Sachsida, voltou à Casa nesta terça-feira (28) e avaliou que o Brasil está dando a “resposta correta” para o problema. 
+Uma semana depois de ir à Câmara dos Deputados dar explicações sobre a alta no preço dos combustíveis, o ministro de Minas e Energia, Adolfo Sachsida, voltou à Casa nesta terça-feira (28) e avaliou que o Brasil está dando a “resposta correta” para o problema.
 
 “Tanto é correta, que o resto do mundo inteiro está tentando fazer isso: reduzir tributos. Estados Unidos, Europa. Sabe qual a diferença? É que aqui nós já fizemos”, disse, desta vez, em audiência pública na Comissão de Defesa do Consumidor.
 
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

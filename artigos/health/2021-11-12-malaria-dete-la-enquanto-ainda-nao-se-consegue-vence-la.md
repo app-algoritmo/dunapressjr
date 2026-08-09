@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A malária é uma doença causada por [protozoários](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/346-malaria-dete-la-enquanto-ainda-nao-se-consegue-vence-la#) do gênero Plasmodium que são transmitidos a pessoas pela picada de mosquitos (do gênero Anopheles) que transportam esse microrganismo. Existem cinco espécies de parasitas que causam malária em humanos e duas delas (*[P. falciparum e P. vivax](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/346-malaria-dete-la-enquanto-ainda-nao-se-consegue-vence-la#)*) apresentam o maior número de casos no Brasil. As pessoas infectadas por tais [patógenos](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/346-malaria-dete-la-enquanto-ainda-nao-se-consegue-vence-la#) costumam apresentar febres, dor de cabeça, calafrios, indisposição e pode ser fatal se não for tratada corretamente.
 
 O nosso país é responsável por grande parte dos casos de malária nas Américas. Isso ocorre, pois, uma porção considerável do território brasileiro fica na Amazônia, região onde essa doença é [endêmica](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/346-malaria-dete-la-enquanto-ainda-nao-se-consegue-vence-la#) devido às condições ambientais que favorecem a proliferação do mosquito, e infra estruturais que impõem dificuldades de acesso a hospitais e tratamentos dos doentes.
@@ -61,5 +60,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

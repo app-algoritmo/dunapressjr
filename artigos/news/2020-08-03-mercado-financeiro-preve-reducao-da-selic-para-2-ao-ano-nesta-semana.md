@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Reunião do Copom está marcada para terça e quarta-feira.
 
 O mercado financeiro espera que a taxa básica de juros, a Selic, seja reduzida de 2,25% para 2% ao ano, na reunião do Comitê de Política Monetária (Copom) do Banco central (BC), marcada para esta terça e quarta-feira (4). Depois dessa redução, a expectativa é que não haja novas reduções da Selic neste ano.
@@ -38,4 +37,4 @@ A previsão para a cotação do dólar permanece em R$ 5,20, ao final deste ano.
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

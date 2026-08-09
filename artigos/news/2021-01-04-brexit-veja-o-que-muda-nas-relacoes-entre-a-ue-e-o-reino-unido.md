@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Acordo entrou em vigor provisoriamente em 1º de janeiro.
 
 O acordo de comércio e parceria entre a União Europeia (UE) e o Reino Unido entrou em vigor, provisoriamente, no dia 1º de janeiro e será mantido até o último dia de fevereiro. Até lá, o Parlamento Europeu terá que analisar, fiscalizar e aprovar para que em março o documento assinado pelas duas partes passe a gerir, de forma definitiva, as relações entre os 27 países do bloco e o Reino Unido.
@@ -122,8 +121,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

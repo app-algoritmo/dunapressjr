@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa tem terceira queda seguida, influenciada pelo exterior.
 
 Num dia de alívio no mercado de câmbio, o dólar fechou abaixo de R$ 5,50 e atingiu o valor mais baixo em quase dois meses. A bolsa de valores, no entanto, não acompanhou o otimismo e teve a terceira queda seguida, influenciada pelo mercado externo.
@@ -25,5 +24,3 @@ A bolsa de valores não aproveitou o desempenho positivo. O Ibovespa operou em a
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

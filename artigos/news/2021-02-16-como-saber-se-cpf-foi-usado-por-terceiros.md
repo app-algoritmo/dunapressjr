@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Sistema do Banco Central permite consultar histórico de contas abertas.
 
 Os recentes vazamentos de dados de consumidores acenderam o alerta. Desde o mês passado, episódios de divulgação em massa expuseram na internet informações financeiras de milhões de brasileiros e abriram caminho para golpes virtuais.
@@ -62,8 +61,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

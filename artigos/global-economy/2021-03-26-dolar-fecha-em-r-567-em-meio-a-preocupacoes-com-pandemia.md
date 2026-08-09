@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa recuperou-se das últimas quedas e subiu 1,5%.
 
 Num dia de preocupações globais com o avanço da pandemia de covid-19, o dólar voltou a aproximar-se de R$ 5,70 e fechou no maior nível em duas semanas. A bolsa de valores, no entanto, recuperou-se da queda dos últimos dias e fechou em alta.
@@ -26,10 +25,6 @@ Juros mais baixos que a taxa neutra estimulam aplicações em investimentos de m
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. 
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)   
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

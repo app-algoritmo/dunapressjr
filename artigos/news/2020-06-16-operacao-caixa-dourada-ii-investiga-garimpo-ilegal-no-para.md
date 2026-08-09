@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Redenção/PA – A Polícia Federal deflagrou hoje (16/6), em Redenção/PA, a Operação Caixa Dourada II, para dar continuidade a investigações sobre garimpo ilegal na região sul do Pará.
 
 Policiais federais deram cumprimento a dois mandados de busca e apreensão em endereços ligados a garimpeiro ilegal. Os mandados foram expedidos pela Justiça Federal em Redenção/PA, atendendo a pedidos da Polícia Federal.  As medidas de busca foram realizadas em dois imóveis pertencentes a investigado por crimes ambientais, extração ilegal de minérios e posse de material explosivo.
@@ -19,5 +18,3 @@ Além disso, a operação também tem o objetivo de encontrar mais provas da pr�
 Destaca-se, por fim, que, também em virtude dos pedidos formulados pela Polícia Federal, a Justiça Federal determinou a imposição ao investigado de várias medidas cautelares diversas da prisão, a exemplo da proibição de mudança de residência sem prévia permissão judicial, de acessar locais de garimpos ilegais e de manter contato com outras pessoas que, com ele, praticam os mesmos crimes.
 
 **Comunicação Social da Polícia Federal em Redenção/PA**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Pesquisadores brasileiros liderados pelo professor do programa de pós-graduação em Ciências Genômicas e Biotecnologia da Universidade Católica de Brasília (UCB), Marcelo Henrique Soller Ramada, estudam na Antártica a possibilidade de musgos se tornarem possíveis medicamentos contra várias doenças. O estudo, conduzido como parte do Programa Antártico Brasileiro (Proantar), avalia a composição genética destas plantas, sua natureza e capacidade da resistência a ambientes hostis.
 
  Amostras recolhidas em solo Antártico serão analisadas em laboratórios no Brasil (Foto: Arquivo Pessoal)
@@ -36,7 +35,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

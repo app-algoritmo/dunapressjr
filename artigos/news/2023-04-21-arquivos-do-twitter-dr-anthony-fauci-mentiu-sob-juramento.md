@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A tão esperada parcela de hoje dos 'Arquivos do Twitter' é trazida a nós pelo jornalista Paul Thacker, ex-investigador principal do senador Chuck Grassley, via The DisInformation Chronicle.
 
 https://twitter.com/thackerpd/status/1649037538663727106?t=T3sShscZ3A2XqfAg-4ZKdg&s=19
@@ -40,19 +39,11 @@ Os procuradores-gerais da Louisiana e do Missouri [processaram o governo federal
 
 Lendo [o depoimento ](https://agjefflandry.com/Files/Article/13094/Documents/FauciDeposition.pdf), encontrei Fauci negando, em diversas ocasiões, qualquer interação com as redes sociais. Aqui está apenas um exemplo.
 
-[](https://www.zerohedge.com/s3/files/inline-images/7dcaeca8-3196-4638-b4c8-b7f378d898c0_786x422.jpg?itok=MK0Mtggm)
-
 Novamente, não é verdade - de acordo com a atualização interna do programa COVID-19 de março de 2021 do Twitter. “Dr. Anthony Fauci fez uma aquisição de conta para @WHCOVIDResponse.”
-
-[](https://www.zerohedge.com/s3/files/inline-images/498fac43-a080-46b2-abcb-d6a8dcb52b83_1128x1244.jpg?itok=sqkaGLr4)
 
 Em seguida, pesquisei o twitter COVID Response da Casa Branca e confirmei que Fauci havia assumido a conta.
 
-[](https://www.zerohedge.com/s3/files/inline-images/bf51b290-8dc9-4e00-b658-b1cc92001242_1202x330.png?itok=VbYitiP1)
-
 Surpresa. Fauci assumiu a conta novamente naquele mês de abril.
-
-[](https://www.zerohedge.com/s3/files/inline-images/bb52ec74-83ce-4abf-9bde-d0f94712b07d_1930x906.jpg?itok=auTSuRfk)
 
 “Ele está envolvido mesmo que não escreva os tuítes ”, disse Martin Kulldorff, [professor de medicina ](https://connects.catalyst.harvard.edu/Profiles/display/Person/78448)licenciado de Harvard e um dos vários cientistas envolvidos no processo contra o governo federal por censura. “Para mim, isso é explosivo e parece que ele mentiu sob juramento.”
 

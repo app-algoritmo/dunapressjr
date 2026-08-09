@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Montezano disse que processo vem ocorrendo nos últimos 5 anos.
 
 O presidente do Banco Nacional de Desenvolvimento Econômico e Social (BNDES), Gustavo Montezano, disse nesta quinta-feira (28) que o aumento da participação do setor privado tem impulsionado os projetos de infraestrutura no país. “A gente está passando de um modelo de infraestrutura essencialmente dependente do recurso público direta ou indiretamente para o modelo de parceria público-privado”, disse, acrescentando que o processo vem ocorrendo nos últimos 5 anos.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

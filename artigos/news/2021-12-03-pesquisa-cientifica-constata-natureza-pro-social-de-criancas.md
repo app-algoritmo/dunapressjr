@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Mayara Wenice de Medeiros venceu o [Prêmio CAPES de Tese](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) 2021 na área de Psicologia com um estudo sobre o comportamento pró-social das crianças e a sua busca pela aceitação social. O trabalho, realizado durante seu doutorado na Universidade Federal do Rio Grande do Norte (UFRN), foi conduzido com crianças residentes em zonas urbanas comunidades rurais e quilombolas do interior do Rio Grande do Norte.
 
 Medeiros tentou entender como fatores como o ostracismo, um termo utilizado para se referir a exclusão social sofrida por um indivíduo por parte de um grupo, ou pertencimento a grupos com culturas mais interdependentes,  poderiam determinar o comportamento pró-social na infância. Ela também investigou como a influência de um *priming* pró-social, isto é, a estimulação cognitiva através de uma pista sutil do ambiente, seria decisivo para instigar um comportamento de ‘partilha’ pelas crianças, e a existência de mecanismos da ‘cognição implícita’ para mensurar a preferência de crianças por comportamentos pró-sociais ou antissociais.
@@ -27,7 +26,3 @@ Fonte: https://www.gov.br/capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Inscrições foram publicadas no Diário Oficial desta sexta-feira.
 
 A Comissão Especial de Licitação (CEL), da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), aprovou inscrições de mais cinco empresas para a Oferta Permanente de Partilha da Produção [de petróleo e gás] (OPP), cujo leilão está previsto para 16 de dezembro próximo.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

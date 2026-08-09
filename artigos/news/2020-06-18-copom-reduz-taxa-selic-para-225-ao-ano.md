@@ -7,16 +7,15 @@ categories:
 - News
 ---
 
-
 Percentual é o menor da série histórica.
 
 O Banco Central (BC) diminuiu, pela oitava vez consecutiva, os juros básicos da economia. Por unanimidade, o Comitê de Política Monetária (Copom) reduziu a taxa Selic para 2,25% ao ano, com corte de 0,75 ponto percentual.
 
 A decisão era esperada por analistas financeiros. Segundo a pesquisa Focus do BC dessa semana, a maior parte dos agentes econômicos **[aguardava uma redução ](https://dunapress.org/2020/06/15/mercado-financeiro-espera-queda-da-selic-para-225-ao-ano/)**dos juros básicos para o patamar de 2,25%.
 
-Em comunicado, o BC informou que a redução dos juros decidida nas últimas reuniões é compatível com os impactos econômicos da pandemia do novo coronavírus e que, para as próximas reuniões, poderá haver um "ajuste residual" no estímulo monetário. No entanto, a manutenção da taxa em patamares reduzidos, no médio prazo, vai depender da trajetória dos gastos do governo no ano que vem, tendo em vista os altos investimentos em recursos para conter os efeitos da pandemia.  
+Em comunicado, o BC informou que a redução dos juros decidida nas últimas reuniões é compatível com os impactos econômicos da pandemia do novo coronavírus e que, para as próximas reuniões, poderá haver um "ajuste residual" no estímulo monetário. No entanto, a manutenção da taxa em patamares reduzidos, no médio prazo, vai depender da trajetória dos gastos do governo no ano que vem, tendo em vista os altos investimentos em recursos para conter os efeitos da pandemia.
 
-"O Copom entende que, neste momento, a conjuntura econômica continua a prescrever estímulo monetário extraordinariamente elevado, mas reconhece que o espaço remanescente para utilização da política monetária é incerto e deve ser pequeno. O comitê avalia que a trajetória fiscal ao longo do próximo ano, assim como a percepção sobre sua sustentabilidade, são decisivas para determinar o prolongamento do estímulo", afirmou o BC, em nota à imprensa.  
+"O Copom entende que, neste momento, a conjuntura econômica continua a prescrever estímulo monetário extraordinariamente elevado, mas reconhece que o espaço remanescente para utilização da política monetária é incerto e deve ser pequeno. O comitê avalia que a trajetória fiscal ao longo do próximo ano, assim como a percepção sobre sua sustentabilidade, são decisivas para determinar o prolongamento do estímulo", afirmou o BC, em nota à imprensa.
 
 Com a decisão desta quarta-feira (17), a Selic está no menor nível desde o início da série histórica do Banco Central, em 1986. De outubro de 2012 a abril de 2013, a taxa foi mantida em 7,25% ao ano e passou a ser reajustada gradualmente até alcançar 14,25% ao ano em julho de 2015. Em outubro de 2016, o Copom voltou a reduzir os juros básicos da economia até que a taxa chegasse a 6,5% ao ano em março de 2018, só voltando a ser reduzida em julho de 2019.
 
@@ -38,4 +37,4 @@ A taxa básica de juros é usada nas negociações de títulos públicos no Sist
 
 Fonte: Agência Brasil – Imagem de destaque: Antônio Cruz
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

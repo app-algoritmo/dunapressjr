@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 Nesta quarta-feira (3), as novas instalações do Campus Brasília da Escola Superior de Guerra foram incorporadas ao patrimônio do Ministério da Defesa. A área, que estava sob a administração da Escola Nacional de Administração Pública (ENAP), foi transferida à Pasta por meio de Termo de Entrega Patrimonial. O evento ocorreu na sede do Campus, no bairro Jardim Botânico, na capital federal.
 
 Durante a breve cerimônia, o Secretário de Patrimônio da União, Fernando Bispo, entregou o documento ao Comandante da Escola Superior de Guerra, Almirante Wladmilson Borges. Com essa transferência, é possível a migração progressiva do Comando da Escola e de suas principais estruturas, da cidade do Rio de Janeiro, para a capital federal.
@@ -27,5 +26,3 @@ Estiveram presentes, também, o Secretário de Orçamento e Organização Instit
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

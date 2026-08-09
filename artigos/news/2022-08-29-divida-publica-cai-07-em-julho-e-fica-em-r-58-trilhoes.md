@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Alto vencimento de títulos prefixados justifica queda.
 
 O alto volume de vencimentos e a queda do dólar fizeram a Dívida Pública Federal (DPF) cair em julho. Segundo números divulgados nesta segunda-feira (29) pelo Tesouro Nacional, a DPF passou de R$ 5,846 trilhões em junho para R$ 5,804 trilhões no mês passado, baixa de 0,7%.
@@ -52,8 +51,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

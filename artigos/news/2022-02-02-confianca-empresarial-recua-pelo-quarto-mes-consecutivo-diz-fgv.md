@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## ICE caiu 2,5 pontos para 91,6 pontos, em escala que vai de 0 a 200.
 
 A confiança dos empresários recuou 2,5 pontos em janeiro e atingiu 91,6 pontos, em uma escala que vai de 0 a 200. Os resultados acima de 100 indicam confiança. O resultado é o menor nível desde abril de 2021, quando o Índice de Confiança Empresarial (ICE) alcançou 89,6 pontos.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

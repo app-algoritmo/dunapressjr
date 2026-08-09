@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O que é a pesquisa?
 
 A poluição do ar é um fenômeno comum nos centros urbanos e é causa de diversos males para a saúde de seus moradores. Os veículos movidos a [combustíveis fósseis](https://canalciencia.ibict.br/ciencia-em-sintese1/engenharias/332-e-se-substituissemos-os-taxis-por-veiculos-eletricos#) são os principais poluentes nas cidades, devido especialmente aos [gases do efeito estufa](https://canalciencia.ibict.br/ciencia-em-sintese1/engenharias/332-e-se-substituissemos-os-taxis-por-veiculos-eletricos#) que seus motores emitem, destacando-se entre eles o gás carbônico (CO2). O acúmulo desses gases na atmosfera, além de causar problemas locais, são uma das causas do [Aquecimento Global](https://canalciencia.ibict.br/ciencia-em-sintese1/engenharias/332-e-se-substituissemos-os-taxis-por-veiculos-eletricos#), um dos maiores perigos para o futuro do planeta.
@@ -26,7 +25,7 @@ A pesquisa comparou as emissões de CO2 de dois tipos de veículos em percursos 
 
 Como o funcionamento de hidrelétricas depende de chuvas que reabastecem seus reservatórios, o estudo também simulou o que aconteceria em situações de seca, em que essas usinas produzissem menos energia e o país tivesse que utilizar outras fontes, mais poluidoras, como as termelétricas. Assim, apesar de os automóveis elétricos não gerarem em si gases do efeito estufa, estariam usando energia proveniente da queima de combustíveis, contribuindo indiretamente para a emissão de CO2.
 
-A pesquisa também comparou qual seria o custo para os motoristas de táxis operarem os dois tipos de veículos e como isso impactaria no lucro da atividade profissional. Para isso foram considerados valores como custo para comprar o carro, gasto com manutenção e com combustível ou energia elétrica. 
+A pesquisa também comparou qual seria o custo para os motoristas de táxis operarem os dois tipos de veículos e como isso impactaria no lucro da atividade profissional. Para isso foram considerados valores como custo para comprar o carro, gasto com manutenção e com combustível ou energia elétrica.
 
 **Figura 1-** Nissan Leaf, veículo elétrico usado por taxistas em programas realizados no Rio de Janeiro (A) e em São Paulo (B). Crédito: Imagem de domínio público da Internet.
 
@@ -75,7 +74,3 @@ Fonte:  https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

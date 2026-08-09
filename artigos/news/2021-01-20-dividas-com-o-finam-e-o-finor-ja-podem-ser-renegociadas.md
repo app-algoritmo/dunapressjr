@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Meta é atender mais de 1,7 mil empresas, que poderão voltar a tomar crédito e gerar novos negócios e empregos.
 
 Uma demanda histórica de empreendedores do Norte e Nordeste acaba de ser contemplada pelo Governo Federal. A partir desta quarta-feira (20), empresas dessas regiões já podem renegociar as dívidas com os Fundos de Investimento da Amazônia (Finam) e do Nordeste (Finor), administrados pelo Ministério do Desenvolvimento Regional (MDR). O prazo para renegociação dos débitos vai até 18 de dezembro.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

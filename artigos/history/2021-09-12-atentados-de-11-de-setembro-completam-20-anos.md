@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Mais de três mil pessoas morreram no dia 11 de setembro de 2001, quando ataques coordenados atingiram as torres do World Trade Center, em plena Nova York, e o Pentágono, sede do Departamento de Defesa dos Estados Unidos, em Arlington, Virginia. Além desses dois alvos, um avião de passageiros também acabou caindo na Pensilvânia. Assumidos mais tarde pela al-Qaeda, organização fundamentalista islâmica, os atentados daquele dia mudaram a história da sociedade contemporânea e foram o prelúdio do que ficou conhecido como a “Guerra ao Terror”. Vinte anos depois, a retomada do Afeganistão pelo Taliban, um dos apoiadores da al-Qaeda, traz de volta um questionamento: o mundo ocidental realmente foi capaz de vencer essa guerra? Para tentar responder essa e outras perguntas, uma boa dica é assistir debates recentes, documentários e programas especiais.
 
 Para o professor de Geopolítica e Negócios Internacionais e coordenador do curso de Comércio Exterior da Universidade Positivo, João Alfredo Lopes Nyegray, o combate ao terrorismo não funcionou. “Atacar alvos supostamente terroristas não é a solução. Se invadir o Iraque, o Afeganistão ou tomar parte no conflito da Síria nos ensinou algo, é que nunca podemos ter certeza se um grupo terrorista foi ou não eliminado”, afirma. Dado como derrotado pelos Estados Unidos, o Taliban voltou a assumir o comando do governo afegão antes mesmo da retirada completa das tropas americanas do país. O cenário parece ser ainda mais aterrador que antes, e, transcorridas duas décadas de ocupação, o grupo, inclusive, apoderou-se de armamento bélico das tropas estadunidenses. “Os Estados Unidos tentaram reconstruir algumas partes do país, com investimentos que somam mais de US$ 1 trilhão, também nas áreas militar e energética. Enquanto isso, o Taliban, que nunca foi definitivamente vencido, engrossava suas próprias fileiras. O grupo hoje está em melhores condições de equipamentos do que estava há 20 anos”, acrescenta.
@@ -29,7 +28,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

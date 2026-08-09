@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## As empresas já podem iniciar as obras, que devem gerar 15 mil empregos em nove estados.
 
 A Agência Nacional de Energia Elétrica (Aneel) assinou os contratos de concessão de 10 lotes de linhas de transmissão arrematados no Leilão de Transmissão nº 1/2020, promovido em dezembro do ano passado. O projeto integrou a carteira do Programa de Parcerias de Investimentos (PPI) e é resultado de esforços conjuntos da Aneel, Ministério de Minas e Energia, Empresa de Pesquisa Energética (EPE) e do Operador Nacional do Sistema Elétrico (ONS).
@@ -22,10 +21,6 @@ O Leilão de Transmissão nº 1/2020 foi a maior licitação de 2020 do Programa
 
 Fonte: gov.br
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.   
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

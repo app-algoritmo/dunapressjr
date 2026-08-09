@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Governo da Paraíba destinou R$ 5,4 milhões de contrapartida para o pagamento do Garantia-Safra que irá contemplar agricultores de 58 municípios paraibanos até o final de fevereiro. O benefício tem o objetivo de garantir a segurança alimentar de agricultores familiares que comprovaram a perda de 50% da produção agrícola.
 
 Devido à pandemia da Covid-19, a antecipação do pagamento das parcelas do benefício, na safra 2019/2020, será mantida de forma excepcional. O pagamento será feito integralmente em parcela única de R$ 850,00. Até o momento, 25.471 famílias já foram contempladas com os recursos referentes a esse período.
@@ -84,8 +83,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

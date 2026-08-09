@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 ## O livro profundamente pesquisado do autor israelense-americano Gershom Gorenberg serve como um corretivo, trazendo para o primeiro plano a história há muito esquecida da campanha do Norte da África na Segunda Guerra Mundial.
 
 Se não fosse pela graça de Deus e por alguns gênios poloneses e britânicos, os nazistas teriam derrotado os Aliados no Egito, varrido para a então Palestina, destruído qualquer chance que o Estado de Israel tinha de existir e massacrado as centenas de milhares de Judeus que vivem no Norte da África e no Oriente Médio.
@@ -136,7 +135,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

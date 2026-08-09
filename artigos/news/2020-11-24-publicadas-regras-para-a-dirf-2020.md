@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A Declaração do Imposto sobre a Renda Retido na Fonte ajuda a evitar sonegação fiscal de pessoas jurídicas e físicas.
 
 As regras e os prazos para a elaboração e entrega da Declaração do Imposto sobre a Renda Retido na Fonte (DIRF), a partir do ano-calendário de 2020, foram publicados nesta segunda-feira (23) no [Diário Oficial da União (DOU)](https://www.in.gov.br/en/web/dou/-/instrucao-normativa-n-1.990-de-18-de-novembro-de-2020-289584246).
@@ -43,5 +42,3 @@ Fonte: gov.br – Imagem de destaque: Marcelo Camargo/Agência Brasil
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

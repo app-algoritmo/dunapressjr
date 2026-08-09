@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Podem doar pessoas entre 16 e 69 anos, pesem no mínimo 50 kg e estejam em boas condições de saúde.
 
 Mesmo durante a pandemia da Covid-19, os hemocentros precisam da doação de sangue dos voluntários e, para isso reforçaram as medidas de higiene e distanciamento social para conter a contaminação pelo coronavírus. O sangue coletado é utilizado, por exemplo, em atendimentos de urgência, cirurgias de grande porte e tratamento de pessoas com crônicas e câncer.
@@ -37,8 +36,6 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique no banner abaixo para assinar
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

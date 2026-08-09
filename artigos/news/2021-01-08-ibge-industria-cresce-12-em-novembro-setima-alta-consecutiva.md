@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No acumulado em 12 meses, queda é de 5,2%.
 
 Pelo sétimo mês seguido, a produção da indústria nacional cresceu frente ao mês anterior, com alta de 1,2% em novembro contra outubro. Entretanto, de janeiro a novembro de 2020, o setor registrou perda de 5,5%. No acumulado em 12 meses, a queda foi de 5,2%. Mesmo com o desempenho positivo recente, a produção industrial ainda se encontra 13,9% abaixo do nível recorde, alcançado em maio de 2011.
@@ -38,8 +37,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

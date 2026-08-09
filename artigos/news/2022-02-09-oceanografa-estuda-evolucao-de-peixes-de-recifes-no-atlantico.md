@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Thais Lemos Quintão é graduada em Oceanografia pela Universidade Federal do Espírito Santo (Ufes), mesma instituição em que hoje é doutoranda em Biologia Animal. A pesquisadora foi bolsista da CAPES no mestrado, também na Ufes, etapa na qual realizou estudo sobre a história evolutiva dos peixes do gênero Priolepis, no Atlântico. Ela constatou que barreiras biogeográficas e mudanças climáticas são fundamentais para a formação de espécies de recifes naquele oceano e encontrou indícios de que a cadeia Vitória-Trindade, cordilheira submersa na costa do Brasil com mais de mil quilômetros de extensão, pode facilitar a colonização das ilhas mesoatlânticas por espécies da costa brasileira.
 
 **Quando começou a trabalhar com peixes?**
@@ -53,7 +52,3 @@ Fonte: https://www.gov.br/capes/pt-br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

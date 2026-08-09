@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Rio de Janeiro/RJ – A Polícia Federal concluiu hoje (6/7) a investigação sobre o incêndio do Museu Nacional da Quinta da Boa vista, ocorrido no dia 02 de setembro de 2018, no Rio de Janeiro/RJ.
 
  A perícia técnica-criminal da PF confirmou que o início do fogo ocorreu no Auditório Roquette Pinto, localizado no 1º andar, próximo a entrada principal do Museu. O local provável do início do incêndio foi um dos aparelhos de ar condicionado instalado no interior do Auditório. O Laudo Pericial descartou a hipótese de incendiarismo, ou ação criminosa.
@@ -20,4 +19,4 @@ Rio de Janeiro/RJ – A Polícia Federal concluiu hoje (6/7) a investigação so
 
 Comunicação Social da Polícia Federal no Rio de Janeiro
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

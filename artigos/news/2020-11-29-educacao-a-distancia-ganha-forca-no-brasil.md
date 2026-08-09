@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Hoje, dia 27 de novembro, Dia Nacional da Educação a Distância, o Ministério da Educação comemorou os avanços do ensino on-line no Brasil. A educação por meios digitais inova e revoluciona as abordagens de aprendizado e, mais que isso, tem sido utilizada de maneira eficaz para promover a qualidade do ensino e a equidade educacional por permitir aos estudantes acessar informações, explorar diferentes domínios de conhecimento e criar novas habilidades, independentemente da localização.
 
 Vale destacar que a tecnologia tem sido útil para ajudar os alunos e a comunidade acadêmica a lidar com as incertezas e mudanças rápidas da sociedade atual por conta do coronavírus.
@@ -30,7 +29,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

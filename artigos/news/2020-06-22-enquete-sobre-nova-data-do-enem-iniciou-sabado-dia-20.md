@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) disponibilizará, a partir das 10h deste sábado, 20 de junho, enquete para que os inscritos no Exame Nacional do Ensino Médio (Enem) 2020 contribuam, de forma voluntária, para a escolha das novas datas de aplicação do exame. A enquete será realizada na Página do Participante e os inscritos poderão participar até as 23h59 do dia 30 de junho, escolhendo uma das opções apresentadas, com o adiamento das provas em 30, 60 ou 180 dias das datas previstas nos editais.
 
 Confira as opções de datas:
@@ -29,8 +28,6 @@ Os inscritos que desejarem participar deverão acessar a Página do Participante
 Fonte: gov.br/mec / Imagem em destaque: pm
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 - U$ 1,00 mensal
 

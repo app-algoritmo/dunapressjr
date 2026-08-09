@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Trajetória do Iace nos últimos meses indica recuperação de atividades.
 
 O Indicador Antecedente Composto da Economia Brasileira (Iace) ficou estável em outubro em 123,3 pontos, 3,3 pontos acima do período pré-pandemia no Brasil (fevereiro de 2020). Das oito séries do componente, cinco contribuíram de forma negativa e três de forma positiva para o resultado agregado. A maior contribuição positiva veio do Indicador de Expectativas da Indústria, enquanto a maior contribuição negativa veio do Indicador de Expectativas de Serviços.
@@ -23,5 +22,3 @@ O Indicador Antecedente Composto da Economia busca antecipar tendências da econ
 Fonte: Agência Brasil – Imagem de destaque: Miguel Ângelo/CNI/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

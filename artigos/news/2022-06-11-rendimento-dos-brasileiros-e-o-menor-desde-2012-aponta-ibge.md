@@ -7,16 +7,15 @@ categories:
 - News
 ---
 
-
 ### Fim do auxílio emergencial contribuiu para escalada de desigualdade.
 
 No segundo ano de pandemia, em 2021, o rendimento médio dos brasileiros caiu para o menor patamar registrado desde 2012. De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), o rendimento médio mensal real domiciliar per capita em 2021 foi de R$ 1.353. Em 2012, primeiro ano da série histórica da pesquisa, esse rendimento era o equivalente a R$ 1.417. Em 2020, no primeiro ano de pandemia, era de R$ 1.454.
 
-Os dados são da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua Rendimento de todas as fontes 2021, divulgados nesta sexta-feira (10). Esses valores referem-se a uma média de quanto recebe cada um dos brasileiros, por mês. Os valores de anos anteriores são atualizados pela inflação do período para que possam ser comparados. Esses rendimentos tratam-se de médias, o que significa que há grupos que ganham mais, grupos que ganham menos e ainda aqueles que não possuem rendimento.  
+Os dados são da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua Rendimento de todas as fontes 2021, divulgados nesta sexta-feira (10). Esses valores referem-se a uma média de quanto recebe cada um dos brasileiros, por mês. Os valores de anos anteriores são atualizados pela inflação do período para que possam ser comparados. Esses rendimentos tratam-se de médias, o que significa que há grupos que ganham mais, grupos que ganham menos e ainda aqueles que não possuem rendimento.
 
 A pesquisa mostra que, em média, os brasileiros estão recebendo menos e também que menos brasileiros possuem algum rendimento. O percentual de pessoas com rendimento na população do país caiu de 61% em 2020 para 59,8% em 2021, o mesmo percentual de 2012 e também o mais baixo da série histórica.
 
-O IBGE considera no levantamento os rendimentos provenientes de trabalhos; de aposentadoria e pensão; de aluguel e arrendamento; de pensão alimentícia, doação e mesada de não morador; além de outros rendimentos. 
+O IBGE considera no levantamento os rendimentos provenientes de trabalhos; de aposentadoria e pensão; de aluguel e arrendamento; de pensão alimentícia, doação e mesada de não morador; além de outros rendimentos.
 
 Considerados apenas os brasileiros que possuem rendimento, a média mensal registrada em 2021 foi R$ 2.265, segundo o IBGE, a menor da série histórica. As menores médias desde 2012 entre as pessoas com rendimento também foram registradas em aposentadoria e pensão, com média de R$1.959 e em outros rendimentos (R$ 512).
 
@@ -52,8 +51,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

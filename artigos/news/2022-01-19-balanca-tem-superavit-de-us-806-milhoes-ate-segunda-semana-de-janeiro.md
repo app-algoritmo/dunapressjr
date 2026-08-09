@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Com US$ 9,94 bilhões em exportações e US$ 9,13 bilhões em importações, corrente de comércio aumentou 26,6%, alcançando US$ 19,07 bilhões.
 
 A balança comercial registrou superávit de US$ 806 milhões até a segunda semana de janeiro. Comparado a janeiro de 2021, pela média diária, as exportações cresceram 33% e somaram US$ 9,94 bilhões, enquanto as importações cresceram 20,4% e totalizaram US$ 9,13 bilhões. Assim, a corrente de comércio aumentou 26,6%, alcançando US$ 19,07 bilhões. Os dados foram divulgados nesta segunda-feira (17) pela Secretaria de Comércio Exterior (Secex) do Ministério da Economia.
@@ -22,7 +21,7 @@ Já a Indústria de Transformação elevou principalmente as vendas de carne bov
 
 ## **Importações**
 
-Do lado das importações, houve recuo de 22% nas compras de Agropecuária, que somaram US$ 161,87 milhões. Já a Indústria Extrativa aumentou as compras em 218,9%, chegando a US$ 870,41 milhões, enquanto na indústria de Transformação as importações aumentaram 13,3% e alcançaram US$ 7,83 bilhões. 
+Do lado das importações, houve recuo de 22% nas compras de Agropecuária, que somaram US$ 161,87 milhões. Já a Indústria Extrativa aumentou as compras em 218,9%, chegando a US$ 870,41 milhões, enquanto na indústria de Transformação as importações aumentaram 13,3% e alcançaram US$ 7,83 bilhões.
 
 Na Agropecuária, houve crescimento nas importações de animais vivos, não incluído pescados ou crustáceos (+181,1%), pescado inteiro vivo, morto ou refrigerado (+48,3%) e látex, borracha natural, balata, guta-percha, guaiúle, chicle e gomas naturais (+78%), mas diminuíram as compras de trigo e centeio não moídos (-24%) e milho não moído, exceto milho doce (-49,9%).
 
@@ -32,8 +31,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

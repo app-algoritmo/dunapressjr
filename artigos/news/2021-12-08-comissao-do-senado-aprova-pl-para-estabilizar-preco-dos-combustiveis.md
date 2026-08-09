@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Projeto de lei visa amortecer impacto de aumentos do petróleo no país.
 
 A Comissão de Assuntos Econômicos (CAE) do Senado aprovou nesta terça-feira (7) o [**Projeto de Lei (PL) 1.472/2021**](https://www25.senado.leg.br/web/atividade/materias/-/materia/148141), que cria um programa para estabilização do preço do petróleo e derivados no Brasil. O projeto visa amortecer os impactos dos aumentos do preço do barril de petróleo e conter a alta nos preços dos combustíveis.
@@ -36,10 +35,6 @@ Em seu projeto, o senador Rogério Carvalho propunha que o sistema de bandas fos
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

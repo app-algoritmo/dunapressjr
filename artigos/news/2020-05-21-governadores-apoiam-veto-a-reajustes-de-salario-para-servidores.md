@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Momento é de unidade nacional, diz governador de Mato Grosso do Sul.
 
 Em reunião por videoconferência com o presidente Jair Bolsonaro, os governadores manifestaram hoje (21) apoio ao veto do trecho do projeto de lei aprovado pelo Congresso Nacional que deixa várias categorias do funcionalismo de fora do congelamento de salários de servidores públicos, proposto pelo governo federal.
@@ -53,5 +52,3 @@ Maia voltou a defender a ampliação das reformas administrativa  e tributária 
 Fone: Agência Brasil – Imagem de destaque: Marcos Corrêa/PR
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

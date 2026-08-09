@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Empresa vencedora tem a meta de universalizar o acesso aos serviços a mais de 420 mil habitantes.
 
 Um total de 423 mil habitantes do município de Cariacica e de bairros da cidade de Viana, na região metropolitana de Vitória (ES), vão ser beneficiados com ampliação do serviço de esgotamento sanitário. O serviço será prestado pela empresa vencedora do leilão ocorrido nesta terça-feira (20), na Bolsa de Valores B3, em São Paulo.
@@ -38,5 +37,3 @@ A meta do Governo Federal é alcançar a universalização dos serviços de sane
 Fonte: gov.br – Imagem de destaque: Arquivo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

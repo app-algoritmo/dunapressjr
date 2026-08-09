@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## As famílias recorreram mais ao crédito para sustentar o consumo.
 
 O nível de endividamento médio das famílias brasileiras em 2021 foi o maior em 11 anos, segundo a Pesquisa de Endividamento e Inadimplência do Consumidor (Peic), divulgada nesta terça-feira (18) pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC).
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

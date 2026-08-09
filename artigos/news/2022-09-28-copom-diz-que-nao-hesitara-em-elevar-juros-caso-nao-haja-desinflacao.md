@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Na semana passada, comitê do BC interrompeu ciclo de aumentos da Selic.
 
 O Comitê de Política Monetária (Copom) do Banco Central (BC) informou que “não hesitará” em retomar o ciclo de alta da taxa básica de juros, a Selic, caso o processo de desinflação não transcorra como esperado. Em reunião na semana passada, diante da queda da inflação dos últimos meses, o [**Copom manteve a Selic em 13,75% ao ano**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-09/copom-mantem-juros-basicos-da-economia-em-1375-ao-ano).
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

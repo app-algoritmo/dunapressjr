@@ -8,12 +8,11 @@ categories:
 - News
 ---
 
-
 ## Por outro lado, Roraima (50%) e Rondônia (35%) foram os estados com os maiores crescimentos das despesas correntes no período.
 
 Os estados de Rondônia (28%), Pará (26%) e Paraíba (24%) apresentaram os maiores crescimentos, em termos percentuais, de suas receitas correntes no 5º bimestre de 2022 na comparação com o mesmo período de 2021. Por outro lado, os estados que apresentaram maior crescimento das despesas correntes foram Roraima (50%), Rondônia (35%), Amazonas (30%) e Alagoas (28%).
 
-Os dados são do [Relatório Resumido de Execução Orçamentária em Foco dos estados + DF referente ao 5º bimestre de 2022](https://www.tesourotransparente.gov.br/publicacoes/rreo-em-foco-estados-e-municipios/2022/17) [ ](https://www.tesourotransparente.gov.br/publicacoes/rreo-em-foco-estados-e-municipios/2022/14?ano_selecionado=2022)publicado nesta terça-feira (20) pelo Tesouro Nacional. O RREO em Foco - Estados e DF traz os principais dados da execução orçamentária das 27 unidades da federação, possibilitando a comparação de sua situação fiscal, e é feito com base nos documentos que os próprios entes publicam no Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro – Siconfi, gerido pelo Tesouro.
+Os dados são do [Relatório Resumido de Execução Orçamentária em Foco dos estados + DF referente ao 5º bimestre de 2022](https://www.tesourotransparente.gov.br/publicacoes/rreo-em-foco-estados-e-municipios/2022/17) publicado nesta terça-feira (20) pelo Tesouro Nacional. O RREO em Foco - Estados e DF traz os principais dados da execução orçamentária das 27 unidades da federação, possibilitando a comparação de sua situação fiscal, e é feito com base nos documentos que os próprios entes publicam no Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro – Siconfi, gerido pelo Tesouro.
 
  Outro indicador importante da saúde fiscal de um estado é a poupança corrente, que equivale ao valor das receitas correntes menos as despesas correntes empenhadas. Esse é um número que, se for positivo, aponta para a autonomia para realizar investimentos com recursos próprios; quando negativo, mostra a dependência de receitas de capital para realizá-los. Amapá com 43% e Mato Grosso com 39% foram os estados que alcançaram os maiores percentuais de poupança corrente em relação à RCL. Já Rio Grande do Sul (11%) e Distrito Federal (12%) foram os estados com os piores desempenhos nesse indicador.
 

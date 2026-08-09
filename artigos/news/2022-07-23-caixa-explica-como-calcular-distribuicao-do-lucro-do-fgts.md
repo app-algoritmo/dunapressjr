@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Valor corresponde ao saldo de cada conta em 31 de dezembro.
 
 A distribuição de R$ 13,2 bilhões do lucro do Fundo de Garantia do Tempo de Serviço (FGTS) em 2021, aprovada nesta sexta-feira (22) pelo [**Conselho Curador**](http://%3Chttps/agenciabrasil.ebc.com.br/geral/noticia/2022-07/fgts-distribuira-99-do-lucro-aos-trabalhadores%3E) do fundo, será dividida proporcionalmente entre os cotistas. Quanto maior o saldo da conta vinculada ao FGTS, mais o trabalhador terá a receber.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

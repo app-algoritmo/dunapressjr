@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Cerca de 3 mil microempresas devem ser beneficiadas.
 
 A Caixa Econômica Federal disponibilizou R$ 50 milhões em microcrédito. Na última quinta-feira (3), o Ministério da Economia aumentou o limite da Caixa para contratação pelo Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe) em R$ 2,55 bilhões.
@@ -39,5 +38,3 @@ Os clientes devem [**acessar o site da Caixa**](http://www.caixa.gov.br/caix
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

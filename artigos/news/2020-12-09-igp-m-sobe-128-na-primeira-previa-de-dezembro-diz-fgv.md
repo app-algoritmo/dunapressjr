@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alta foi puxada pelas taxas de variação das commodities.
 
 O Índice Geral de Preços-Mercado (IGP-M) subiu 1,28% nos primeiros dez dias, ou primeiro decêndio, de dezembro. O percentual é menor do que o registrado no mesmo período de novembro, quando ficou em 2,67%. Segundo o Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV), que divulgou a primeira prévia do indicador hoje (9), com este resultado, a taxa em 12 meses passou de 23,79% para 23,52%.
@@ -38,8 +37,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

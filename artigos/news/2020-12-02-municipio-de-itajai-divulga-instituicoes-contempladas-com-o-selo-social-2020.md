@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Sexta-feira (27) o Município de Itajaí realizou a 11ª edição do programa Selo Social. Foram certificadas 98 instituições e premiados 10 projetos destaques. O reconhecimento é pautado na Agenda 2030 das Nações Unidas e os Objetivos de Desenvolvimento Sustentável (ODS).
 
 As organizações inscreveram 804 projetos para o Selo Social 2020, cujas atividades foram realizadas ao longo do ano passado. Para receber o certificado, os projetos foram avaliados por uma comissão intersetorial que verificou se as iniciativas contemplavam uma ou mais metas dos 17 ODS.
@@ -158,7 +157,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

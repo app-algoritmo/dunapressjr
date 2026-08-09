@@ -8,10 +8,9 @@ categories:
 - History
 ---
 
-
 ## Um projeto paleográfico baseado em inteligência artificial realizado por estudiosos na Holanda encontrou uma maneira de substituir o olho humano pela inteligência artificial.
 
-Gerações de escribas estavam treinando juntos há cerca de 2.000 anos no deserto da Judéia? Alguns dos manuscritos conhecidos como Manuscritos do Mar Morto foram[ ](https://www.jpost.com/archaeology/dead-sea-scrolls-many-caves-left-more-biblical-texts-may-emerge-662327) produzidos como um esforço de equipe por dois ou mais escribas trabalhando lado a lado em Qumran?
+Gerações de escribas estavam treinando juntos há cerca de 2.000 anos no deserto da Judéia? Alguns dos manuscritos conhecidos como Manuscritos do Mar Morto foram produzidos como um esforço de equipe por dois ou mais escribas trabalhando lado a lado em Qumran?
 
 E quantos autores estão por trás do corpus de artefatos cujo desenterramento é considerado uma das descobertas arqueológicas mais importantes do século 20?
 
@@ -23,7 +22,7 @@ Os Manuscritos do Mar Morto são um corpus de cerca de 25.000 fragmentos  desc
 
 A paleografia é a disciplina que estuda a escrita antiga. No caso dos Manuscritos do Mar Morto, foi crucial extrair informações que vão desde a datação dos manuscritos até se fragmentos contendo partes dos mesmos textos pertenceram originalmente ao mesmo rolo ou a outros diferentes.
 
-Este projeto representa a primeira tentativa de substituir o olho humano dos paleógrafos por uma análise de inteligência artificial, como explicou ao *The Jerusalem Post o* Prof. 
+Este projeto representa a primeira tentativa de substituir o olho humano dos paleógrafos por uma análise de inteligência artificial, como explicou ao *The Jerusalem Post o* Prof.
 
 Mladen Popović, chefe do Instituto Qumran da Universidade de Groningen *.*“Descobrir quantos escribas trabalharam em um manuscrito ou estavam envolvidos na escrita dos pergaminhos em geral pode parecer uma coisa trivial, mas abre uma maneira totalmente nova de pensar sobre os manuscritos do Mar Morto, não apenas como uma coleção, criado para um grupo, mas como coleções diferentes para pessoas diferentes ”, disse Popović. 
 
@@ -53,5 +52,3 @@ Fonte: https://www.jpost.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

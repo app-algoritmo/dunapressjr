@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 "É um sacrifício sair de uma rotina de maus hábitos. Criar uma rotina saudável é mais difícil ainda, mas vale muito a pena. Eu pude ver isso depois de emagrecer e me sentir mais disposta”, a descrição é da médica veterinária Luiza Cysne, de 32 anos que chegou a pesar 122 quilos e hoje está com 59 quilos.
 
 De fato, balancear o cardápio é uma tarefa difícil principalmente pela correria do dia a dia. Mas, cuidar da alimentação é fundamental para evitar doenças causadas por falta de nutrientes e combater e a obesidade.
@@ -50,7 +49,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

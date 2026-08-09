@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Buscar a geração de novos antivirais para enfrentar a COVID-19 e outras viroses, sob uma abordagem multidisciplinar. Essa foi a proposta da Universidade Federal da Paraíba (UFPB) aprovada no Edital nº11/2020 do Programa de Combate a Epidemias, uma iniciativa da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), vinculada ao Ministério da Educação (MEC).
 
 José Maria Barbosa Filho, coordenador do projeto, explicou que o estudo vai utilizar ferramentas de bioinformática para “triagem virtual e proposição de derivados dos medicamentos a serem sintetizados, criando novas moléculas com atividade antiviral contra o SARS-CoV-2”. Serão investigados compostos inspirados nos principais fármacos em fase clínica de avaliação contra a COVID-19: Remdesivir, Hidroxicloroquina e Nitazoxanida.
@@ -32,7 +31,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

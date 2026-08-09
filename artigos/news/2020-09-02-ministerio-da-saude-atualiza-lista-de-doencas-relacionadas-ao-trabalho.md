@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Novo documento foi elaborado com base em listas internacionais, consulta dirigida, oficina com especialistas e consulta pública com a população.
 
 O Ministério da Saúde atualizou a Lista de Doenças Relacionadas ao Trabalho (LDRT) após ouvir diversas frentes como especialistas, profissionais da Rede Nacional de Atenção Integral à Saúde do Trabalhador (Renast), representantes do setor produtivo e trabalhadores e a população em geral. A pasta publicou [portaria com a atualização nesta terça-feira (01/09) no Diário Oficial da União](https://www.in.gov.br/en/web/dou/-/portaria-n-2.309-de-28-de-agosto-de-2020-275240601).
@@ -32,5 +31,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

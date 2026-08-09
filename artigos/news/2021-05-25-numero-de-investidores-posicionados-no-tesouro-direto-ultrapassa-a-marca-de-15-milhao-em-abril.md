@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Dado representa um aumento de 23.915 investidores no mês.
 
 Em abril de 2021, o total de investidores ativos no Tesouro Direto – isto é, aqueles que atualmente estão com saldo em aplicações no programa – atingiu a marca de 1.503.720 pessoas, o que representa um aumento de 23.915 investidores no mês. Já o número de investidores cadastrados no programa aumentou em 357.926, o que mostra crescimento de 3,48% em relação a março de 2021, atingindo a marca de 10.643.707 pessoas. Os dados constam do [balanço do Tesouro Direto](https://www.tesourotransparente.gov.br/publicacoes/balanco-do-tesouro-direto-btd).
@@ -39,8 +38,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

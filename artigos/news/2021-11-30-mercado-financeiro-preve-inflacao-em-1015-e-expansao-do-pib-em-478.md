@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para 2022, caiu a previsão de crescimento do PIB de 0,70% para 0,58%.
 
 A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA), considerada a inflação oficial do país, subiu de 10,12% para 10,15% neste ano. Essa foi a 34ª elevação consecutiva da projeção. A estimativa está no Boletim Focus de nesta segunda-feira (29), pesquisa divulgada semanalmente pelo Banco Central (BC), com a expectativa das instituições para os principais indicadores econômicos.
@@ -34,10 +33,6 @@ A expectativa para a cotação do dólar se manteve em R$ 5,50 para o final dest
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

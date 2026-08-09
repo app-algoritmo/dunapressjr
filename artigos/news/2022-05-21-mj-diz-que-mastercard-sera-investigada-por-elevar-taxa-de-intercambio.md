@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Denúncia foi feita pela Associação Brasileira de Supermercados.
 
 O Ministério da Justiça e Segurança Pública informou que, diante de denúncia feita pela Associação Brasileira de Supermercados (Abras), a administradora de cartões Mastercard Brasil será investigada “por possível elevação da taxa de intercâmbio cobrada sobre o uso de cartões de crédito e débito, utilizados para recebimentos nos supermercados”.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

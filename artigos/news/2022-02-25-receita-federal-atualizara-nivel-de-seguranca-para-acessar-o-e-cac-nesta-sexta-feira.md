@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O acesso ao Portal e-CAC com a conta gov.br será permitido somente para contas com nível prata ou ouro.
 
 A partir desta sexta-feira, dia 25 de fevereiro, para acessar os serviços digitais da Receita Federal com a conta gov.br será necessário possuir nível de segurança prata ou ouro. Contas com nível bronze não terão mais acesso no portal e-CAC.
@@ -38,7 +37,7 @@ Saiba mais sobre a conta gov.br em: [https://www.gov.br/governodigital/pt-br/con
 
 Saiba mais sobre os níveis de segurança em: [https://www.gov.br/governodigital/pt-br/conta-gov-br/saiba-mais-sobre-os-niveis-da-conta-govbr](https://www.gov.br/governodigital/pt-br/conta-gov-br/saiba-mais-sobre-os-niveis-da-conta-govbr)
 
-### O que é a conta gov.br 
+### O que é a conta gov.br
 
 A conta gov.br é uma identificação segura que comprova em meios digitais quem está usando o sistema ou serviço. Ela é gratuita e está disponível para todos os cidadãos brasileiros.
 
@@ -46,8 +45,4 @@ Fonte: Receita Federal
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

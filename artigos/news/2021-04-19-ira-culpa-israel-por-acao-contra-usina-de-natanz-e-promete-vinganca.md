@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O ministro das Relações Exteriores do Irã, Mohammad Javad Zarif, culpou Israel por uma ação que neste domingo causou grandes danos à instalação nuclear de Natanz e prometeu “vingança contra os sionistas”. O chanceler também advertiu que o ato de sabotagem – uma explosão que danificou o sistema elétrico da usina e o funcionamento de novas centrífugas – só fará com que o Irã substitua as centrífugas danificadas por outras ainda melhores.
 O Irã também afirmou que identificou uma pessoa que estaria envolvida na ação.
 As declarações de Mohammad Javad Zarif culpando Israel foram feitas durante reuniões com o Comitê de Segurança Nacional do Parlamento iraniano nesta segunda-feira, de acordo com a mídia iraniana.
@@ -32,7 +31,3 @@ Fonte: https://www.conib.org.br
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

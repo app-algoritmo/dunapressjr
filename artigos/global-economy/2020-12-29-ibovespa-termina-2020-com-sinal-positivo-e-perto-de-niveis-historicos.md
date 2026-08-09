@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Índice da B3, a bolsa de valores brasileira, acumula alta de 3% no ano.
 
 Uma das máximas no mercado financeiro é de que contra fluxo não há argumento, e o encerramento de 2020 na bolsa brasileira reforça tal premissa, com o Ibovespa terminando o ano com sinal positivo e perto de níveis históricos.
@@ -54,8 +53,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

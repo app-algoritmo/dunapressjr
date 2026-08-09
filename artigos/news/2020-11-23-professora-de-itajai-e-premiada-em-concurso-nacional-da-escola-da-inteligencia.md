@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 “Professor Inovador” teve como objetivo valorizar e reconhecer o trabalho dos professores durante a pandemia.
 
 O prêmio nacional “Professor Inovador” da Escola da Inteligência ficou com a Escola Básica João Duarte. Débora Bueno Tozetto da Costa, professora de língua portuguesa para os sextos anos, foi a vencedora do prêmio na cidade. Ao todo, participaram 10 professores de Itajaí. O prêmio tinha como objetivo valorizar e reconhecer o trabalho dos professores durante a pandemia de Covid-19.
@@ -32,7 +31,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

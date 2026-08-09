@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Constantemente, é possível se deparar com "dicas" sugerindo alimentos ditos saudáveis que não são e outros caracterizados como vilões que não são tão prejudiciais quanto parecem. 
 
 **1) Os carboidratos são vilões da alimentação? **
@@ -69,7 +68,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

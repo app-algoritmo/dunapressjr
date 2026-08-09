@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Para combater a falsificação de medicamentos, a Anvisa atua com outros órgãos de governo, agências reguladoras e autoridades policiais. A Anvisa recomenda que os pacientes que façam uso da importação por pessoa física fiquem atentos a pontos durante o processo de importação.
 
 Agência Nacional de Vigilância Sanitária (Anvisa) aponta para o crescimento dos casos de falsificação de medicamentos no Brasil. Em 2018 foram identificados três falsificações de medicamentos, em 2019 foram quatro e em 2020, até o momento, já foram identificados oito casos. A Anvisa identificou que a maioria das falsificações acontecem com medicamentos de alto custo. Ações de fiscalização mostram que as quadrilhas estão se especializando nesses medicamentos, uma vez que possuem uso mais restrito; portanto, poucos frascos podem render muito lucro e a falsificação se torna de difícil percepção.
@@ -61,8 +60,6 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique aqui para assinar
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

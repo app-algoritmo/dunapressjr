@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 A política reformadora de D. João VI, intensa e complexa, deu à vida mental do Brasil uma multiplicidade de caráter que foi bem o prenúncio de sua definitiva emancipação. Sua própria presença no país permitiu aos brasileiros exercer influência direta sobre as decisões tomadas, obrigando à instalação de uma estrutura administrativa autônoma e liberando certas atividades necessárias à Corte (que vinham sendo proibidas na Colônia), como a imprensa, por exemplo. Tudo isso levou a uma igualdade política entre a Metrópole e a Colônia, que o príncipe reinante reconheceu ao elevar o Brasil a Reino Unido a Portugal e Algarves (1816).
 
 No plano econômico, a luta pela abolição dos monopólios iniciou-se antes mesmo que a esquadra conduzindo a Família Real chegasse ao Brasil. José da Silva Lisboa, futuro Visconde de Cairu, defensor das teorias econômicas liberais, que exigiam a não-intervenção do Estado nos negócios, obteve de Dom João VI o decreto de abertura dos portos (1808), extinguindo o monopólio comercial, exceto para produtos contemplados com essa regalia. A abertura dos portos e alguns tratados comerciais com a Inglaterra assinados na época mudaram o sentido da política econômica, que se tornou mais liberal, permitindo proveito maior para os consumidores brasileiros e comerciantes.
@@ -25,7 +24,7 @@ As mudanças promovidas durante a época joanina e o retorno de D. João à Metr
 
 [Um busto de Dom João VI, conhecido por ornamentar o saguão principal da Biblioteca Nacional foi trazido para o Brasil junto com o acervo da Real Biblioteca e há cem anos faz parte do prédio sede da FBN.](https://www.bn.gov.br/explore/curiosidades/personagem-d-joao-vi-busto-bicentenario)
 
-Em 2016, a Série Documentos Literários, colaboração da Divisão de Manuscritos, recordou o aniversário de 201 anos de criação do Reino Unido de Portugal, Brasil e Algarves. Foi disponibilizado um documento que traz o relato dos festejos de aclamação de D. João, não mais na qualidade de Príncipe, mas na de Rei do Reino Unido de Portugal, Brasil e Algarves. [A obra está sob a guarda da Divisão de Obras Gerais da Biblioteca Nacional e pode ser consultada na íntegra pela BN Digital.](http://bit.ly/2h8sKE8)
+Em 2016, a Série Documentos Literários, colaboração da Divisão de Manuscritos, recordou o aniversário de 201 anos de criação do Reino Unido de Portugal, Brasil e Algarves. Foi disponibilizado um documento que traz o relato dos festejos de aclamação de D. João, não mais na qualidade de Príncipe, mas na de Rei do Reino Unido de Portugal, Brasil e Algarves. A obra está sob a guarda da Divisão de Obras Gerais da Biblioteca Nacional e pode ser consultada na íntegra pela BN Digital.
 
 [Dom João VI e a Biblioteca Nacional: o papel de um legado. Edição foi motivada pelo aniversário de 200 anos da chegada da família real portuguesa ao Brasil.](http://objdigital.bn.br/acervo_digital/div_obrasgerais/drg1251605/drg1251605.pdf)
 
@@ -41,7 +40,7 @@ Em 2016, a Série Documentos Literários, colaboração da Divisão de Manuscrit
 
 [Alvará régio proibindo o comércio de escravos da costa da África ao norte do Equador, estabelecendo as respectivas penas, feitas no Rio de Janeiro, aos 26 jan. 1818.] [Manuscrito]](http://objdigital.bn.br/objdigital2/acervo_digital/div_manuscritos/mss1457734/mss1457734.pdf)
 
-[Relato dos festejos de aclamação de D. João, não mais na qualidade de Príncipe, mas na de Rei do Reino Unido de Portugal, Brasil e Algarves.](http://bit.ly/2h8sKE8)
+Relato dos festejos de aclamação de D. João, não mais na qualidade de Príncipe, mas na de Rei do Reino Unido de Portugal, Brasil e Algarves.
 
 Fonte: http://bndigital.bn.gov.br/artigos/200-anos-da-independencia-a-presenca-de-d-joao-vi-no-brasil/
 

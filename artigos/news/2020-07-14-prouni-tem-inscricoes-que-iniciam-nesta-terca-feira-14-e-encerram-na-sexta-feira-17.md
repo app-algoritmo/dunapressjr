@@ -8,16 +8,15 @@ categories:
 - News
 ---
 
-
 ## Nesta edição, candidatos podem concorrer a 167.780 bolsas oferecidas em 1.061 instituições de ensino superior.
 
-Depois do Sisu, o Ministério da Educação (MEC) oferece mais uma oportunidade de acesso ao ensino superior e abre as inscrições para o Programa Universidade para Todos (Prouni). O Programa oferece bolsas de estudos integrais (100%) e parciais (50%) em instituições particulares de ensino superior. Os interessados poderão se inscrever entre terça-feira (14) e sexta-feira (17), no [portal do Prouni](http://prouniportal.mec.gov.br/), em que também é possível consultar as bolsas disponíveis. É importante destacar que, para se inscrever, é preciso utilizar o login e a senha cadastrados no [acesso.gov.br, o portal de serviços do Governo Federal](https://sso.acesso.gov.br/login).  
+Depois do Sisu, o Ministério da Educação (MEC) oferece mais uma oportunidade de acesso ao ensino superior e abre as inscrições para o Programa Universidade para Todos (Prouni). O Programa oferece bolsas de estudos integrais (100%) e parciais (50%) em instituições particulares de ensino superior. Os interessados poderão se inscrever entre terça-feira (14) e sexta-feira (17), no [portal do Prouni](http://prouniportal.mec.gov.br/), em que também é possível consultar as bolsas disponíveis. É importante destacar que, para se inscrever, é preciso utilizar o login e a senha cadastrados no [acesso.gov.br, o portal de serviços do Governo Federal](https://sso.acesso.gov.br/login).
 
-Nesta edição do Programa, que é o segundo processo seletivo de 2020, foram disponibilizadas 167.780 bolsas em 1.061 instituições particulares de ensino superior, sendo 60.551 bolsas integrais e 107.229 bolsas parciais. O resultado da primeira chamada deve ser divulgado ainda este mês, no dia 21 de julho. Lembrando que o Prouni tem, ainda, outras duas oportunidades (segunda chamada e lista de espera) para os candidatos concorrerem às bolsas de estudo. O cronograma completo está no [portal do Prouni](http://prouniportal.mec.gov.br/).  
+Nesta edição do Programa, que é o segundo processo seletivo de 2020, foram disponibilizadas 167.780 bolsas em 1.061 instituições particulares de ensino superior, sendo 60.551 bolsas integrais e 107.229 bolsas parciais. O resultado da primeira chamada deve ser divulgado ainda este mês, no dia 21 de julho. Lembrando que o Prouni tem, ainda, outras duas oportunidades (segunda chamada e lista de espera) para os candidatos concorrerem às bolsas de estudo. O cronograma completo está no [portal do Prouni](http://prouniportal.mec.gov.br/).
 
 **Requisitos**
 
-Para concorrer às bolsas integrais, o estudante deve comprovar renda familiar bruta mensal, por pessoa, de até 1,5 salário mínimo. Para as bolsas parciais (50%), a renda familiar bruta mensal deve ser de até 3 salários mínimos por pessoa. O candidato também precisa ter realizado o último Enem e ter alcançado, no mínimo, 450 pontos de média nas notas. Além disso, o estudante não pode ter tirado zero na redação.  
+Para concorrer às bolsas integrais, o estudante deve comprovar renda familiar bruta mensal, por pessoa, de até 1,5 salário mínimo. Para as bolsas parciais (50%), a renda familiar bruta mensal deve ser de até 3 salários mínimos por pessoa. O candidato também precisa ter realizado o último Enem e ter alcançado, no mínimo, 450 pontos de média nas notas. Além disso, o estudante não pode ter tirado zero na redação.
 
 **Bolsas**
 
@@ -29,7 +28,7 @@ Fonte: gov.br / Imagem em destaque: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

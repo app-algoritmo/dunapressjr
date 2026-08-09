@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Emenda prevê estado de emergência para ampliar auxílios.
 
 O Congresso Nacional promulgou nesta quinta-feira (14) a emenda à Constituição que prevê a criação de um estado de emergência para ampliar o pagamento de benefícios sociais até o fim do ano. A Proposta de Emenda à Constituição (PEC) passou por uma tramitação rápida, e com alguma polêmica, até sua [**aprovação**](https://agenciabrasil.ebc.com.br/politica/noticia/2022-07/camara-aprova-pec-dos-beneficios-sociais-em-segundo-turno) na quarta-feira (13), na última semana antes do recesso legislativo.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

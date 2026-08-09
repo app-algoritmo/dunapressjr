@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Macapá/AP - A Polícia Federal deflagrou nesta quarta-feira (24/6) a Operação Panaceia - Fase 2, para combater desvio de medicamentos e de teste de diagnósticos para Covid-19, além do uso indevido de serviços públicos de saúde, em Oiapoque/AP.
 
 Cerca de 15 policiais federais dão cumprimento a três mandados de busca e apreensão em residências de servidores públicos da Prefeitura do Oiapoque/AP. A prefeita do município fica afastada de suas funções como medida cautelar, além da proibição de acessar qualquer prédio público e não poder ter contato com outros dois investigados. Todos os mandados foram expedidos pelo Tribunal Regional Federal da 1ª Região (TRF1).
@@ -26,4 +25,4 @@ Se condenados, os investigados poderão cumprir pena de até 24 anos de reclusã
 
 Comunicação Social da Polícia Federal no Amapá
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

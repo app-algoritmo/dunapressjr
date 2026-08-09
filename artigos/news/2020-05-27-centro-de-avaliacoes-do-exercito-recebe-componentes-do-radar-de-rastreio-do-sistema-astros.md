@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 **Rio de Janeiro (RJ) –** No período de 19 a 21 de maio, o Centro de Avaliações do Exército (CAEx) – "Campo de Provas da Marambaia" – procedeu, em São Bernardo do Campo (SP), ao recebimento em fábrica dos conjuntos pedestal e antena do radar de rastreio que integrará o Sistema Transportável de Rastreamento de Engenhos em Voo (STREV). A implementação do STREV faz parte do Projeto de Instrumentação de Campo de Instrução, que consta do Plano Estratégico do Exército (PEEx) 2020-2023 e integra o Programa Estratégico do Exército ASTROS 2020.
 
 A modernização desse radar, de fabricação francesa e anteriormente adquirido pelo Exército Brasileiro em 1974, no contexto do desenvolvimento do antigo Sistema ASTROS, representa uma etapa fundamental para a consecução do STREV. O equipamento é um dos componentes primordiais para conferir a almejada capacidade de rastreio de engenhos em voo ao sistema em questão.
@@ -20,5 +19,3 @@ Após concluído, o STREV conferirá uma nova e importante capacidade de teste e
 Antes da missão, a equipe do CAEx recebeu as devidas orientações de saúde e os equipamentos de proteção individual, de forma a cumprir as medidas sanitárias preventivas estabelecidas nas diretrizes do Comandante do Exército e do Chefe do DCT para a prevenção e o combate à COVID-19 e nas Notas Técnicas expedidas pela Diretoria de Saúde acerca do assunto, a fim de preservar a saúde dos militares e de seus familiares e manter a capacidade operativa dos quadros do SCTIEx.
 
 Fonte: CAEx
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

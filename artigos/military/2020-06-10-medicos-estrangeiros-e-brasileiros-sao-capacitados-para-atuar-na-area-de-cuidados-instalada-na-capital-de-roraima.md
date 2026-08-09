@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 Um total de 162 médicos venezuelanos, cubanos, bolivianos e brasileiros participam de capacitação para atuar na Área de Cuidados. Trata-se de unidade de saúde construída pela Operação Acolhida para atender a população de Roraima acometida pela Covid-19. No domingo (07), ocorreu a aula inaugural da turma, no auditório do Ministério Público de Roraima.
 
 Entre os alunos, estava a médica venezuelana Mares Gregoria Canelones. Emocionada por estar voltando para a área em que é formada, disse estar feliz por trabalhar na tarefa de salvar vidas. Há nove anos graduada e com especialidade em gerência hospitalar, migrou em 2017 para capital amazonense em busca de melhores condições de vida. Após quase desistir da profissão, recebeu o aviso de abertura de vaga para atuar na Área de Cuidados. Somente com o dinheiro da passagem do ônibus de Manaus para a capital roraimense, conseguiu uma vaga. “A Operação Acolhida não tem preço. É uma missão gratificante que nos abre muitas portas no momento que mais se necessita. Sabemos o que é perder a família, morar em outro país. E o atendimento que faremos será com todo o coração”, declarou a médica.
@@ -19,5 +18,3 @@ Para os médicos, principalmente os venezuelanos, incorporar ao corpo clínico d
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

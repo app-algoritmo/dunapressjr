@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Mandato vai até 13 de abril de 2023.
 
 O Conselho de Administração da Petrobras aprovou nesta segunda-feira (27) a nomeação de Caio Mário Paes de Andrade como novo conselheiro, elegendo-o em seguida para a presidência da estatal. Ele assumirá a função após o ato de posse, cuja data ainda não está definida. Seu mandato irá até 13 de abril de 2023. É a quarta troca de comando na estatal durante o mandato presidencial de Jair Bolsonaro.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

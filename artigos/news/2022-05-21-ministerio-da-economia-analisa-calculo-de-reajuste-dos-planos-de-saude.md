@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Percentual a ser aplicado em 2022 será próximo a 15,8%, prevê Abramge.
 
 A Agência Nacional de Saúde Suplementar (ANS) informou que o percentual máximo de reajuste a ser autorizado para os planos individuais ou familiares está sendo calculado e será divulgado pela agência após conclusão dos estudos e manifestação do Ministério da Economia. A agência reguladora enviou o cálculo do índice de reajuste anual no dia 10 de maio para a pasta. “Ainda não há, portanto, uma data definida para divulgação do índice”, afirmou a ANS.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

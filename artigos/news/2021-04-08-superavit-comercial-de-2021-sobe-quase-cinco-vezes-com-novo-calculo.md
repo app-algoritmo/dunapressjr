@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Metodologia foi revisada para atender a recomendações internacionais.
 
 Uma mudança de metodologia multiplicou em quase cinco vezes o superávit da balança comercial (exportações menos importações) em 2021, informou nesta quarta-feira (7) a Secretaria de Comércio Exterior do Ministério da Economia. O resultado positivo nos três primeiros meses deste ano passou de US$ 1,648 bilhão para US$ 7,948 bilhões, por causa da retirada de importações fictícias de plataformas de petróleo que apareciam nos números anteriores.
@@ -38,10 +37,6 @@ As estatísticas relativas ao Repetro continuarão a ser divulgadas, mas em tabe
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.   
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)  
-
-Obrigado pelo apoio!  
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

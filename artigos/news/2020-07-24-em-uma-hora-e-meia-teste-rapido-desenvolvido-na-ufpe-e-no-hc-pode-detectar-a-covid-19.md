@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Coordenadora da pesquisa é a professora da UFPE Rejane Pereira Neves.
 
 Uma técnica molecular mais barata, com diagnóstico rápido da Covid-19 (em cerca de uma hora e meia) e sem a necessidade de realização de contraprova está sendo pesquisada pelo Departamento de Micologia da UFPE em parceria com o Hospital das Clínicas e com a Fundação Oswaldo Cruz em Pernambuco (Fiocruz-PE). A técnica RT-Lamp já é utilizada em países asiáticos, como a China e o Japão, e está sendo estudada pela pesquisa “Modelo biológico in vitro aplicada no diagnóstico rápido e específico do Sars Cov-2 por RT-Lamp”. O HC é unidade vinculada à Empresa Brasileira de Serviços Hospitalares (Ebserh).
@@ -25,7 +24,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

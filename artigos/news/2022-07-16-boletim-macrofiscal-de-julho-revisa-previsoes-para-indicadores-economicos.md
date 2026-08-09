@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Documento divulgado pela Secretaria de Política Econômica eleva projeção de crescimento do PIB para 2022 de 1,5% para 2%, e reduz estimativa de 7,9% para 7,2% da inflação pelo IPCA.
 
 A Secretaria de Política Econômica (SPE) do Ministério da Economia elevou a estimativa de crescimento do Produto Interno Bruto (PIB) brasileiro para 2022, de 1,5% para 2%. De 2023 em diante, as previsões permanecem em 2,5%, segundo o Boletim Macrofiscal de julho, divulgado na quinta-feira (14) em entrevista coletiva.
@@ -34,8 +33,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## Em torno de 58% dos recursos dos produtores foram acatados e 42% indeferidos.
 
 E m 2020, já foram realizadas nove sessões de julgamento do colegiado da Comissão Especial de Recursos do Programa de Garantia da Atividade Agropecuária (CER-Proagro), todas em formato virtual, que julgaram 1.351 recursos.
 
 O Ministério da Agricultura, Pecuária e Abastecimento (Mapa) já vinha tornando digital os recursos administrativos e a realização do trabalho de forma remota desde 2019, com metas e objetivos estabelecidos. "Até o final deste ano, o objetivo é julgar 2,8 mil processos. Todos os recursos são analisados com maior celeridade e qualidade. Esse aumento de eficiência reduz o prazo de resposta dos recursos de 2 anos para até 8 meses”, explica o secretário de Política Agrícola do Mapa, César Halum.
 
-Até 30 de julho foram realizadas nove reuniões de julgamento com os resultados publicados no Diário Oficial da União (DOU), conforme tabela abaixo: 
+Até 30 de julho foram realizadas nove reuniões de julgamento com os resultados publicados no Diário Oficial da União (DOU), conforme tabela abaixo:
 
 **PROCESSOS JULGADOS 2020****REUNIÃO****PROAGRO MAIS****PROARO Tradicional****TOTAL****RELAÇÃO ACOLHIDOS/TOTAL (%)****ACOLHIDOS****NEGADOS****ACOLHIDOS****NEGADOS****1****82****50****12****7****151****62,25%****2****66****46****17****21****150****55,33%****3****74****52****10****13****149****56,38%****4****60****38****9****17****124****55,65%****5****70****52****10****12****144****55,56%****6****89****48****9****11****157****62,42%****7****70****69****15****11****165****51,52%****8****72****49****16****15****152****57,89%****9****75****48****25****11****159****62,89%****Total****658****452****123****118****1351****57,81%**
 
@@ -26,17 +25,17 @@ Em 2020, mesmo no decorrer da pandemia do Covid-19, foram mantidos os esforços 
 
 O recebimento dos recursos, verificação de admissibilidade das solicitações dos produtores rurais, análise e julgamento dos processos estão sendo feitos de forma remota. Os pedidos de recursos dos produtores são recepcionados e analisados pelos técnicos do Mapa, por meio do Sistema de Processos da Comissão Especial de Recursos, o que vem permitindo manter o cronograma de julgamentos estabelecido para este ano. Os julgamentos são realizados por servidores do Mapa, Ministério da Economia e Banco Central do Brasil.* *** **
 
-**Acesso aos resultados** 
+**Acesso aos resultados**
 
-Os produtores rurais que ingressaram com recurso junto à Comissão Especial de Recursos (CER) podem verificar se seu recurso se encontra entre os 1.351 divulgados no DOU neste ano. [A lista pode ser consultada por nome, e é apresentada em ordem alfabética](https://www.gov.br/agricultura/pt-br/assuntos/noticias/comissao-de-recursos-do-proagro-julgou-1-351-processos-neste-ano/2020_07_29Planilhas_CER_nonasesso.xlsx). 
+Os produtores rurais que ingressaram com recurso junto à Comissão Especial de Recursos (CER) podem verificar se seu recurso se encontra entre os 1.351 divulgados no DOU neste ano. [A lista pode ser consultada por nome, e é apresentada em ordem alfabética](https://www.gov.br/agricultura/pt-br/assuntos/noticias/comissao-de-recursos-do-proagro-julgou-1-351-processos-neste-ano/2020_07_29Planilhas_CER_nonasesso.xlsx).
 
-O Proagro permite que pequenos e médios produtores que tiveram a colheita de diversas culturas prejudicada por fenômenos naturais, como enchentes ou secas, fiquem desobrigados de liquidar suas operações de crédito rural para custeio junto à instituição financeira, conforme estabelecida pelo Conselho Monetário Nacional. O agricultor que não concordar com a decisão tem até 30 dias para apresentar recurso à Comissão Especial de Recursos junto ao agente financeiro, a contar da data em que o beneficiário tiver ciência da decisão do banco ou da cooperativa de crédito. 
+O Proagro permite que pequenos e médios produtores que tiveram a colheita de diversas culturas prejudicada por fenômenos naturais, como enchentes ou secas, fiquem desobrigados de liquidar suas operações de crédito rural para custeio junto à instituição financeira, conforme estabelecida pelo Conselho Monetário Nacional. O agricultor que não concordar com a decisão tem até 30 dias para apresentar recurso à Comissão Especial de Recursos junto ao agente financeiro, a contar da data em que o beneficiário tiver ciência da decisão do banco ou da cooperativa de crédito.
 
 A comissão avalia cada caso com base em documentos, como notas fiscais, análises técnicas e laudos periciais, e julga administrativamente a divergência entre o produtor e a instituição financeira. Após a primeira avaliação, que é realizada por técnicos do Mapa, os recursos são julgados por um colegiado composto por representantes do Ministério da Agricultura, Banco Central e Ministério da Economia. Os resultados das decisões são publicados na Seção 1 do Diário Oficial da União.
 
 Em caso de dúvidas, o produtor pode entrar em contato pelo e-mail: coordenacao.cer@agricultura.gov.br
 
-**Proagro** 
+**Proagro**
 
 O Programa é custeado por recursos alocados pela União, além de recursos provenientes da taxa paga pelo produtor rural para aderir ao Proagro. O objetivo do programa é garantir a amortização ou liquidação de custeios agrícolas objetos de financiamento, no caso de ocorrência de sinistro na lavoura, na proporção das perdas apuradas e permitir o recebimento dos recursos próprios comprovadamente aplicados na lavoura.
 
@@ -52,7 +51,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

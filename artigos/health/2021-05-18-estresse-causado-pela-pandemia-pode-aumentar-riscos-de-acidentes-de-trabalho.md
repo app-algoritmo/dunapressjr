@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 O Brasil está no topo da lista de países com maior número de casos de depressão e ansiedade durante a pandemia de Covid-19, de acordo com um estudo conduzido pela Universidade de São Paulo (USP) em 11 países. Trabalhar em meio à tensão gerada pelo aumento no número de casos da doença, pelo distanciamento social e pelas muitas incertezas econômicas, sociais e sanitárias tem sido um desafio para a maior parte dos brasileiros. Esse tipo de cenário contribui de forma significativa para elevar um outro índice preocupante: **o de acidentes de trabalho**.
 
 De acordo com a psicóloga e professora do curso de Psicologia da Universidade Positivo (UP), Janete Knapik, estados emocionais alterados influenciam negativamente a realização das atividades do cotidiano. “Os estados emocionais estão diretamente envolvidos no processo de pensamento e execução de uma ação. A carga de trabalho emocional e cognitiva podem elevar a probabilidade de que as emoções, em especial as negativas, produzam pensamentos que não estão relacionados com o trabalho que está sendo feito. Esse fenômeno tende a reduzir os níveis gerais de atenção, o que, por sua vez, aumenta a probabilidade de acidentes”, explica.
@@ -31,7 +30,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

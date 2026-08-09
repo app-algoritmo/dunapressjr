@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Plenário da Assembleia Legislativa rejeitou, na sessão ordinária desta quarta-feira (25), os vetos do Poder Executivo a pontos da Lei de Diretrizes Orçamentárias (LDO) para 2021 e a um projeto de lei (PL) de origem parlamentar que altera o Código Estadual Ambiental (Lei 14.675/2009). Em ambos, a Comissão de Constituição e Justiça (CCJ) emitiu parecer recomendando a rejeição.
 
 O veto parcial à LDO foi derrubado com apenas um voto contrário, do deputado Bruno Souza (Novo). O Executivo vetou três itens da proposta que deu origem à LDO, aprovada em agosto passado pelos deputados. Os pontos vetados buscavam dar mais transparência às ações dos poderes e órgãos da administração pública estadual, além de estabelecer o limite de até 60 emendas elaboradas pelos deputados ao orçamento estadual, no valor mínimo de R$ 100 mil cada.
@@ -30,7 +29,5 @@ SEU APOIO VOLUNTARIO É MUITO IMPORTANTE!
 Sua assinatura não somente ajudará no fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

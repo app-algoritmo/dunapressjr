@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Reservas internacionais estão em US$ 346,4 bilhões, diz BC.
 
 As contas externas brasileiras apresentaram déficit de US$ 3,5 bilhões em maio de 2022. No mesmo mês do ano passado, o resultado havia sido superávit de US$ 2,5 bilhões. Os números resultam das compras e vendas de mercadorias, serviços e transferências de renda entre o Brasil e outros países.
@@ -52,8 +51,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

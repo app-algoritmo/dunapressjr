@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### De janeiro a março, foram fabricados 327,1 mil veículos.
 
 A produção de motocicletas no Polo Industrial de Manaus teve um crescimento de 37,8% no primeiro trimestre deste ano em comparação com o mesmo período de 2021. Foram fabricadas, de janeiro a março, 327,1 mil veículos de duas rodas, segundo balanço divulgado nesta terça-feira (12) pela Associação Brasileira dos Fabricantes de Motocicletas, Bicicletas e Similares (Abraciclo).
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

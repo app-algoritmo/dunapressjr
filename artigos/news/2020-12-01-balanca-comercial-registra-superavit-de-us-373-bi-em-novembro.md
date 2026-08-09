@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Saldo é 4,7% maior que o registrado no mesmo mês de 2019.
 
 A balança comercial registrou, em novembro, o terceiro maior superávit para o mês. O país exportou US$ 3,732 bilhões a mais do que importou, divulgou nesta terça-feira (1º) o Ministério da Economia. Isso representa crescimento de 4,7% em relação ao mesmo mês do ano passado, quando o superávit atingiu US$ 3,565 bilhões.
@@ -39,8 +38,6 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/YFYyl67Ra7)
 
 Obrigado pelo apoio!
 

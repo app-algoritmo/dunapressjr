@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Conforme a proposta, em caso de reincidência, a multa pode chegar a R$ 20 mil.
 
 A Comissão de Seguridade Social e Família da Câmara dos Deputados aprovou projeto de lei que define o aleitamento materno como um direito das mães e das crianças, que pode ser exercido livremente em espaços públicos e privados de uso coletivo, sendo proibido qualquer tipo de constrangimento, repressão ou restrição ao seu exercício.
@@ -40,7 +39,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

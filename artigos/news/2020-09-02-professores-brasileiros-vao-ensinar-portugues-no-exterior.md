@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Quinze professores brasileiros foram selecionados para promover a língua, cultura e literatura do Brasil no exterior, pelo Programa Leitorado, conforme resultado divulgado pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) no Diário Oficial da União desta segunda-feira, 31. A parceria com o Ministério das Relações Exteriores (MRE) vai aumentar o acesso desses profissionais a centros internacionais de excelência e oferecer oportunidade de colegas no Brasil e no exterior colaborarem entre si.
 
 Além de ensinarem disciplinas relacionadas à língua e literatura brasileiras, os selecionados vão colaborar com projetos acadêmicos durante os dois anos previstos para a execução das atividades, que podem ser prorrogados pelo mesmo período. O MRE vai financiar as bolsas, na modalidade Leitor, e as passagens de ida e volta dos beneficiários. À CAPES coube o processo seletivo e a avaliação dos candidatos, conforme os critérios estabelecidos no edital.
@@ -25,5 +24,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

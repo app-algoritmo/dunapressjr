@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Método Canguru é uma ação estratégica para reduzir o impacto da prematuridade no desenvolvimento do recém-nascido.
 
 Em todo o mundo, 15 milhões de crianças nascem prematuras todos os anos. No Brasil, são, em média, 330 mil bebês ao ano que nascem antes das 37 semanas de gestação. De acordo com o Ministério da Saúde, 11,7% de todos os partos feitos no país ocorrem antes do tempo. Ocupamos a 10ª posição entre as nações onde são registrados mais casos de prematuridade.
@@ -55,5 +54,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

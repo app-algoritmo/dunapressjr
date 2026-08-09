@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 *Novo Boletim Epidemiológico também apresentou queda de 13% no número de óbitos, a maior registrada até o momento*
 
 O Ministério da Saúde atualizou, nesta quinta-feira (17), o cenário epidemiológico da Covid-19 no Brasil, que apresentou a maior redução de casos já registrada. Com diminuição de 30%, a quantidade de pessoas infectadas caiu de 39.550, na semana de 30/8 a 5/9, para 27.527 na semana de 6 a 12/9. Também houve queda no número de óbitos, com 13% a menos de mortes causadas pelo vírus.
@@ -33,5 +32,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

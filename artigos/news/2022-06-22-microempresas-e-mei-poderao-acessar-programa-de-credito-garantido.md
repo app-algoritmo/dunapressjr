@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Recursos deverão estar disponíveis no final de julho.
 
 A segunda edição do Programa Emergencial de Acesso ao Crédito, na modalidade garantia (PEAC-FGI), poderá apoiar microempresas e microempreendedores individuais (MEI), anunciou o Banco Nacional de Desenvolvimento Econômico e Social (BNDES).
@@ -42,14 +41,10 @@ Lanz deixou claro que o foco é ampliar o acesso para microempreendedores indivi
 
 ### Balanço
 
-As contratações de financiamento do primeiro PEAC-FGI foram encerradas em dezembro de 2020. Dados acumulados pelo BNDES entre 30 de junho e 31 de dezembro de 2020 revelam que o total de financiamentos contratados com garantia pelo programa emergencial de crédito alcançou R$ 92,1 bilhões, por meio de mais de 40 agentes financeiros, com 135.720 operações e apoio a 114.355 empresas de todas as regiões do país. Dessas companhias, 68% eram de pequeno porte; 31% de médio porte; 1% de grande porte. Os financiamentos foram concedidos em mais de 3.800 municípios. 
+As contratações de financiamento do primeiro PEAC-FGI foram encerradas em dezembro de 2020. Dados acumulados pelo BNDES entre 30 de junho e 31 de dezembro de 2020 revelam que o total de financiamentos contratados com garantia pelo programa emergencial de crédito alcançou R$ 92,1 bilhões, por meio de mais de 40 agentes financeiros, com 135.720 operações e apoio a 114.355 empresas de todas as regiões do país. Dessas companhias, 68% eram de pequeno porte; 31% de médio porte; 1% de grande porte. Os financiamentos foram concedidos em mais de 3.800 municípios.
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

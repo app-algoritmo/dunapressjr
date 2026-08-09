@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Detentores de manifestações culturais de Comunidades Remanescentes de Quilombos (CRQs) e não quilombolas autodeclarados negros (pretos ou pardos) podem participar da seleção pública “Arte do Quilombo”. Os interessados, que devem ser comprovadamente praticantes das expressões culturais afro-brasileiras, devem se inscrever até o dia 24 de agosto.
 
 A premiação, com valor total de R$ 688 mil, contemplará 100 projetos. Serão selecionados quatro vencedores por categoria, divididos em Música, Dança, Teatro, Leitura, escrita e oralidade, e Artesanato. Cada região do país receberá 20 prêmios individuais de R$ 6.880,00.
@@ -39,6 +38,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

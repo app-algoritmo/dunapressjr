@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Remuneração média em salários mínimos diminuiu em 10 anos.
 
 No primeiro ano da pandemia de covid-19, em 2020, as maiores quedas no número de empresas e de empregos ocorreram no setor de serviços prestados às famílias, que inclui as atividades de alimentação e de turismo. As informações são da Pesquisa Anual de Serviços (PAS) 2020, divulgada nesta quarta-feira (24) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). O levantamento não inclui os serviços financeiros.
@@ -18,7 +17,7 @@ O gerente da pesquisa, Marcelo Miranda, explica que a PAS traz dados comparativo
 
 “A pesquisa não tenta verificar relações de causalidade entre os elementos conjunturais e a evolução dos indicadores apresentados. No senso comum, a gente pode ver muitos dados que corroboram o pensamento comum do que a pandemia pode ter causado lá no ano de 2020, mas a gente não faz essa análise de causalidade”.
 
-Nos dados gerais, o número de empresas do setor de Serviços caiu 1,1% frente a 2019. O pessoal ocupado diminuiu 2,4% e o total pago em remunerações reduziu 4%.  Houve aumento de pessoas ocupadas na atividade de seleção, agenciamento e locação de mão de obra, com o maior crescimento tanto em termos absolutos (143,1 mil pessoas) como percentuais (22,2%).
+Nos dados gerais, o número de empresas do setor de Serviços caiu 1,1% frente a 2019. O pessoal ocupado diminuiu 2,4% e o total pago em remunerações reduziu 4%. Houve aumento de pessoas ocupadas na atividade de seleção, agenciamento e locação de mão de obra, com o maior crescimento tanto em termos absolutos (143,1 mil pessoas) como percentuais (22,2%).
 
 Na comparação com 2019, enquanto o (PIB) brasileiro caiu 3,9% em 2020, o PIB do setor de serviços recuou 4,3%, gerando R$ 1,8 trilhão de receita operacional líquida. Os maiores aumentos em participação na receita de um ano para o outro foram serviços profissionais, administrativos e complementares (1,7 ponto percentual) e outras atividades de serviços (1,3 ponto percentual). As maiores quedas foram de serviços prestados principalmente às famílias (2,6 pontos percentuais) e transportes, serviços auxiliares aos transportes e correio (1 ponto percentual).
 
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

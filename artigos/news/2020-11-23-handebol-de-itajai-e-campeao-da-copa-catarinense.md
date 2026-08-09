@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A equipe masculina de handebol de Itajaí ADI/Aceu/Univali/Slice/FMEL se consagrou campeã da Copa Catarinense de Handebol, nas categorias juvenil e adulto. O campeonato estadual promovido pela Associação Desportiva Itajaiense (ADI) e  Associação Cultural Espotiva Univali (ACEU), foi realizado neste final de semana, no ginásio de esportes Gabriel Collares. As equipes itajaienses representam a Fundação Municipal de Esporte e Lazer (FMEL).
 
 Além de Itajaí, a competição contou com a participação dos municípios de Criciúma, Joinville e Saudades. As disputas fazem parte da preparação para o Campeonato Brasileiro Juvenil, que será realizado entre os dias 30 de novembro e 5 de dezembro, no mesmo local. E também para a Liga Nacional, que será realizada entre os dias 15 e 20 de dezembro, em Arujá (SP).
@@ -40,7 +39,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

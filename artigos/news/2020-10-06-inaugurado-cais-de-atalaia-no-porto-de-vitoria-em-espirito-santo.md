@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Ministro da Infraestrutura também autorizou, no último sábado, execução de obras para melhorias na BR-319, no Amazonas. 
+Ministro da Infraestrutura também autorizou, no último sábado, execução de obras para melhorias na BR-319, no Amazonas.
 
 Mesmo por conta da Covid-19, as obras de infraestrutura não pararam no país. O ministro da Infraestrutura, Tarcísio Gomes de Freitas, seguiu durante todo o ano entregando empreendimentos em vários estados brasileiros. Nesta segunda-feira (5), por exemplo, ele inaugurou, no Porto de Vitória, no Espírito Santo, o Cais de Atalaia, que vai ampliar em 10% a capacidade do porto. A obra teve início em 2015, mas, desde lá, sofreu várias interrupções.
 
@@ -67,5 +66,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

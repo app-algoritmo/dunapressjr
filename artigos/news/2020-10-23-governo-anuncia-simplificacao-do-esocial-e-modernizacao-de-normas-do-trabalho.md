@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medidas vão reduzir burocracia, poupar tempo e melhorar o ambiente de negócios no país.
 
 Novos passos para modernizar as regras que regulamentam o trabalho, eliminar burocracias e trazer mais segurança ao trabalhador. Tudo isso faz parte do programa Descomplica Trabalhista, lançado nesta quinta-feira (22), no Palácio do Planalto, pelo Presidente Jair Bolsonaro.
@@ -59,5 +58,3 @@ O eSocial é um sistema informatizado da administração pública que traz dados
 Fonte: gov.br - Imagem de destaque: Marcos Corrêa/PR
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

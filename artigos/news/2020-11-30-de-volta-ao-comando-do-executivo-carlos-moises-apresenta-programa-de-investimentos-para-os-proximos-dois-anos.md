@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O governador Carlos Moisés apresentou um plano de investimentos estratégicos para Santa Catarina em sua volta ao cargo, após a absolvição no processo de impeachment sobre a equiparação salarial dos procuradores do Estado. O programa Santa Catarina. Um Estado de Verdade prevê quase R$ 10 bilhões até 2022 nas áreas de infraestrutura, retomada da economia e planejamento hídrico.
 
 Segundo o chefe do Executivo, trata-se de um projeto com visão de futuro, pensado as necessidades do Estado no ano de 2035. Serão investimentos em todas as regiões de Santa Catarina. Na infraestrutura, o valor chega a R$ 5,5 bilhões. Para a retomada da economia, serão empregados R$ 2,3 bilhões. No planejamento hídrico, o aporte será de R$ 1,7 bilhão.
@@ -31,7 +30,5 @@ SEU APOIO VOLUNTARIO É MUITO IMPORTANTE!
 Sua assinatura não somente ajudará no fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

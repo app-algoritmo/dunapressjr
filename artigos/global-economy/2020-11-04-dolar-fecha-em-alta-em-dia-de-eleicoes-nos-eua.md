@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa subiu 2,49% em meio a otimismo externo.
 
 No dia das eleições nos Estados Unidos, o dólar fechou em pequena alta depois de operar em baixa na maior parte da sessão. As incertezas em relação a votações no Congresso, que caía com o clima de otimismo nos mercados internacionais.
@@ -25,5 +24,3 @@ Depois de semanas de tensão por causa das eleições norte-americanas, os merca
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

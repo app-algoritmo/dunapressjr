@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Em 2022, saques superam depósitos em R$ 85,17 bilhões.
 
 A caderneta de poupança, aplicação financeira mais tradicional dos brasileiros, continua a enfrentar a fuga de recursos. Em agosto, os brasileiros sacaram R$ 22,02 bilhões a mais do que depositaram na poupança, informou nesta terça-feira (6) o Banco Central (BC). É a maior retirada líquida (saques menos depósitos) registrada para um mês desde o início da série histórica, em 1995.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

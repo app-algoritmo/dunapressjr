@@ -7,7 +7,6 @@ categories:
 - Policy
 ---
 
-
 Nas eleições **majoritárias**, o candidato eleito é aquele que tem mais votos. É assim para eleger o presidente da República, senadores, governadores e prefeitos.
 
 Para eleger deputados federais, estaduais e vereadores, o sistema é **proporcional** – e descobrir quem foi eleito envolve um cálculo um pouco mais complexo. Para entender, é preciso saber que, nesse tipo de eleição, o voto que você dá para candidatos conta também como voto no partido.
@@ -54,7 +53,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

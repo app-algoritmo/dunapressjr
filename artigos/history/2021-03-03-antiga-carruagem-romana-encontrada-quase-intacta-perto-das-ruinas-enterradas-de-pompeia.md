@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Uma carruagem romana ornamentada foi descoberta "quase intacta" perto da cidade italiana de Pompéia, o parque arqueológico anunciou no sábado, chamando-a de uma descoberta "sem paralelo" no país.
 
 A carruagem processional de quatro rodas foi encontrada no pórtico de um estábulo onde os restos mortais de três cavalos foram desenterrados em 2018, incluindo um ainda em seu arreio.
@@ -17,11 +16,6 @@ Pompeia foi enterrada em lava fervente quando o Monte Vesúvio entrou em erupç�
 
 “Uma grande carruagem cerimonial com quatro rodas, junto com seus componentes de ferro, belas decorações de bronze e estanho, restos de madeira mineralizada e marcas de materiais orgânicos (das cordas aos restos da decoração floral), foi descoberta quase intacta”, um comunicado emitido pelo parque arqueológico disse.
 
-- 
-- 
-- 
-- 
-- 
 Vista de uma carruagem, com seus elementos de ferro, decorações de bronze e restos de madeira mineralizada, que foi encontrada em Civita Giuliana, ao norte de Pompéia. (Parco Archeologico di Pompei via AP)
 
 “Esta é uma descoberta excepcional ... que não tem paralelo na Itália até agora - em excelente estado de preservação.”
@@ -72,7 +66,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

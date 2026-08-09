@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Custo da construção, por metro quadrado, é de R$ 1.652,27.
 
 O Índice Nacional da Construção Civil (Sinapi) avançou 1,48% em julho, o que significa um recuo de 0,17 ponto percentual em relação ao apurado em junho: 1,65%. O acumulado de janeiro a julho é de 9,11%, mas, nos últimos 12 meses, atingiu 14,07%. Esse percentual é um pouco abaixo dos 14,53% registrados nos doze meses imediatamente anteriores.
@@ -45,5 +44,3 @@ Segundo o IBGE, as estatísticas do Sinapi “são fundamentais na programação
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

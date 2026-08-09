@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 Ler e escrever são apenas o primeiro passo para que uma pessoa se desenvolva como indivíduo crítico, cidadão e membro de uma sociedade, dizem especialistas. E, mesmo antes que uma criança conheça as letras e sílabas, é possível usar brincadeiras e livros com desenhos para começar a formar seu senso crítico.
 
 O brincar, por exemplo, é, mais que uma forma de manter os pequenos entretidos, fundamental para trabalhar habilidades como a criatividade, a imaginação e a compreensão do simbólico. Para a consultora pedagógica do Sistema de Ensino Aprende Brasil, Michelle Floriani, “o brincar que se apresenta hoje nas escolas também traz construções socioemocionais. As brincadeiras possibilitam que os alunos ocupem lugares sociais e construam consciência a partir de outra forma de olhar. Elas trazem o simbólico e a imaginação e ensinam por outro processo cognitivo”. Michelle lembra, no entanto, que, para que isso aconteça, é necessário que os educadores desempenhem um papel de mediadores, usando essas brincadeiras para começar a suscitar nos estudantes as primeiras noções de questionamento.
@@ -35,7 +34,3 @@ Fonte:  Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

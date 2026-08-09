@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Pesquisadores israelenses descobrem uma nova maneira de combater o câncer: reprogramando o sistema imunológico para combater o câncer. E tudo começa com as bactérias intestinais.
 
 Um estudo inovador liderado pelo Oncologista GI Sênior Dr. Ben Boursi com o oncologista sênior Professor Gal Markel e o estudante de doutorado Erez Baruch do Centro Médico Sheba em Israel provou que é possível reprogramar um sistema imunológico recalcitrante, obrigando-o a combater o câncer, por alterar o microbioma intestinal do paciente.
@@ -39,7 +38,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

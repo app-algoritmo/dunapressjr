@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Do total de pedidos, 66,2% foram feitos pela internet.
 
 As solicitações de seguro-desemprego chegaram a 570.543 em julho. O número representa uma redução de 8,8% na comparação com julho do ano passado, de 625.605 pedidos. Na comparação com junho deste ano (653.174), houve retração de 12,7%. Os dados foram divulgados hoje (6) pela Secretaria Especial de Previdência e Trabalho do Ministério da Economia.
@@ -30,4 +29,4 @@ Para dúvidas e esclarecimentos, o empregado pode acionar as superintendências 
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

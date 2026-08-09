@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Cata Treco, programa da Secretaria Municipal de Obras, divulgou a agenda para esta semana. Serão quatro localidades atendidas. Os atendimentos iniciam na segunda-feira (16) pelo bairro Cordeiros e seguem pelos bairros Murta, Salseiros e Volta de Cima. O caminhão estará nas ruas até sexta-feira (20), das 7h30 às 11h30 e das 13h30 às 17h30.
 
 A população pode tirar as dúvidas sobre o Cata Treco pelo WhatsApp, basta adicionar o número (47) 99601-2645 e mandar mensagens de texto. Mensagens de áudio, ligações e chamadas de vídeo serão desconsideradas.
@@ -25,5 +24,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

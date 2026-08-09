@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A parceria entre empresa e universidade resultou em uma solução de baixo custo para modernizar um processo de logística em uma planta industrial de Curitiba (PR). O protótipo de veículo autônomo autoguiado e movido a bateria agiliza o transporte de produtos entre setores da fábrica, resultando em solução sustentável e diminuindo desperdício.
 
 O projeto começou quando uma equipe da Neodent, indústria curitibana de implantes dentários, procurou a Universidade Federal do Paraná (UFPR) para desenvolver, em parceria com alunos dos cursos de Engenharia Elétrica e Mecânica, uma forma de transporte de baixo custo que levasse a matéria-prima do setor de logística para o de produção, e retornasse com os produtos finalizados. Dois estudantes foram escolhidos em processo de seleção para trabalhar na fábrica como estagiários, recebendo auxílio da empresa para levantar a melhor forma de resolver a questão.
@@ -35,7 +34,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

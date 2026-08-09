@@ -72,12 +72,11 @@ No total, o Rocky Spirit terá 52 filmes, um recorde, com crescimento de 40% em 
 O Rocky Spirit 2023 tem patrocínio da Prefeitura do Rio e da Bassi e apoio da Centauro e Parque Villa-Lobos. As mídias oficiais do evento são GoOutside e Hardcore. A Realização é do Rocky Mountain em parceria com a Mountainfilm.
 
 **Mais informações:****
-Site: [https://rockyspirit.com.br/](https://click.presskit.com.br/url/97037813cd/6361388b6fc)[
-](https://click.presskit.com.br/url/970379f96e/6361388b6fc)Instagram : [https://www.instagram.com/rockyspiritfest/
+Site: [https://rockyspirit.com.br/](https://click.presskit.com.br/url/97037813cd/6361388b6fc)Instagram : [https://www.instagram.com/rockyspiritfest/
 ](https://click.presskit.com.br/url/970380dc10/6361388b6fc)Fan page - [https://www.facebook.com/](https://click.presskit.com.br/url/97038161e3/6361388b6fc)[rockyspiritfest](https://click.presskit.com.br/url/970380dc10/6361388b6fc)
-*
+
 Assessoria de Imprensa:
-ZDL 
+ZDL
 Doro Jr. - MTb 13209 - ***[***dorojr@zdl.com.br***](https://click.presskit.com.br/url/970382a321/6361388b6fc)*** - F: 11 984579723 ******
 Rafael De Marco - Mtb.: 27556 - ***[***rafael@zdl.com.br***](https://click.presskit.com.br/url/9703839070/6361388b6fc)*** - Cel: 11 976022986 / WhatsApp: 19 997912108 ******
 Site: ***[***www.zdl.com.br***](https://click.presskit.com.br/url/9703847052/6361388b6fc)*** ******

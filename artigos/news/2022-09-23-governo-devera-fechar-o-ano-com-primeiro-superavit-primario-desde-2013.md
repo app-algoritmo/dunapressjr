@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Relatório estima resultado positivo de R$ 13,548 bi neste ano.
 
 Pela primeira vez em nove anos, as contas públicas deverão fechar no azul. Em 2022, o Governo Central – Tesouro Nacional, Previdência Social e Banco Central – deverá obter superávit primário de R$ 13,548 bilhões. Isso ocorrerá porque, além de as despesas caírem, o governo aumentou as projeções de receitas.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

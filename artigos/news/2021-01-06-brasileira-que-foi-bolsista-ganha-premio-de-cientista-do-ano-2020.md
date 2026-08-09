@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A pesquisadora Ângela Wyse, do programa de pós-graduação em Bioquímica da Universidade do Rio Grande do Sul (UFRGS), ganhou o prêmio Cientista do Ano 2020 na categoria Ciências Médicas e da Saúde, oferecido pelo *International Achievements Research Center*, de Chicago (EUA). Ela é a única brasileira entre 23 cientistas a receber a premiação.
 
 Ex-bolsista de doutorado da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes), a cientista destaca a importância da bolsa na trajetória profissional. “Para além da minha própria formação, cerca de 70% dos mais de 70 mestres e doutores que orientei eram bolsistas da Capes. Esse trabalho com os alunos foi um dos fatores para o reconhecimento, além da produção acadêmica.”
@@ -28,7 +27,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

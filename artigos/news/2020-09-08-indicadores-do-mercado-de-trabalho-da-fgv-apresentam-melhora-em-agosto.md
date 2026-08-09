@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice atingiu 74,7 pontos em uma escala de zero a 200 pontos.
 
 Os dois indicadores do mercado de trabalho da Fundação Getulio Vargas (FGV) apresentaram melhora na passagem de julho para agosto deste ano. O Indicador Antecedente de Emprego, que busca antecipar tendências do mercado de trabalho para o futuro com base nas expectativas dos consumidores e dos empresários da indústria e dos serviços de todo o país, cresceu 8,8 pontos no período.
@@ -23,5 +22,3 @@ O outro índice, o Indicador Coincidente de Desemprego (ICD), que mede a opiniã
 Fonte: Agência Brasil – Imagem de destaque: **Marcello Casal Jr./Agência Brasil**
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Acumulado nos doze meses chegou a 13,61%.
 
 O Índice Nacional da Construção Civil (Sinapi) atingiu 0,58% em agosto, um recuo de 0,9 ponto percentual na comparação com o mês anterior, quando ficou em 1,48%.
@@ -20,7 +19,7 @@ Segundo o gerente do Sinapi, Augusto Oliveira, as desacelerações são notadas 
 
 ### Custo
 
-O custo nacional da construção, por metro quadrado, subiu em relação a julho. Em agosto atingiu R$ 1.661,85. Desse valor, R$ 994,67 são relativos aos materiais e R$ 667,18 à mão de obra. Em julho, o custo nacional ficou em R$ 1.652,27. A parcela dos materiais registrou taxa de 0,69%, o que significa queda tanto na comparação com julho (1,38%) quanto com agosto do ano passado (1,62%). 
+O custo nacional da construção, por metro quadrado, subiu em relação a julho. Em agosto atingiu R$ 1.661,85. Desse valor, R$ 994,67 são relativos aos materiais e R$ 667,18 à mão de obra. Em julho, o custo nacional ficou em R$ 1.652,27. A parcela dos materiais registrou taxa de 0,69%, o que significa queda tanto na comparação com julho (1,38%) quanto com agosto do ano passado (1,62%).
 
 “A taxa de agosto representa o terceiro menor índice de 2022”, completou o gerente.
 
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

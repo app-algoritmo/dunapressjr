@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Um banho ritual da era do Segundo Templo que foi recentemente descoberto no Monte das Oliveiras em Jerusalém, no local que se acredita ser o Getsêmani do Novo Testamento, está sendo apresentado como a primeira evidência que liga o local de peregrinação ao período em que Jesus viveu.
 
 De acordo com todos os quatro Evangelhos, é no Getsêmani - que idiomicamente significa "lagar de azeite" em hebraico - que Jesus passou uma noite de agonia após a Última Ceia, aceitou sua eventual traição e execução e foi preso pelos guardas do Templo do Sinédrio .
@@ -98,7 +97,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

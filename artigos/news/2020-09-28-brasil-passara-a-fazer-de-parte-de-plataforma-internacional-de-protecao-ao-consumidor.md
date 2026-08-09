@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Para garantir mais proteção aos consumidores brasileiros, o Governo Federal aderiu à plataforma internacional de denúncias de fraudes e golpes relacionados ao comércio eletrônico, a Econsumer. O acordo foi firmado, nesta sexta-feira (25), em uma cerimônia virtual, entre a Secretaria Nacional do Consumidor (Senacon), vinculada ao Ministério da Justiça e Segurança Pública; e a Comissão Federal de Comércio dos Estados Unidos (Federal Trade Comission).
 
 A plataforma econsumer.gov foi criada em 2001 e é uma iniciativa da ICPEN (International Consumer Protection and Enforcement Netword). Ela permite que o consumidor faça denúncias on line de fraudes internacionais na internet, como a de ofertas falsas de produtos; e oferece instruções para evitar esse tipo de crime. A plataforma também traz estatísticas que ajudam na elaboração de políticas públicas voltadas à defesa do consumidor.
@@ -27,7 +26,7 @@ O Consumidor.gov.br é um serviço público e gratuito que permite a interlocuç
 
 ### Países que integram a Econsumer
 
-Fazem parte da plataforma Econsumer, além do Brasil, os seguintes países: Austrália, Bélgica, Bulgária, Canadá, Chile, Costa Rica, Dinamarca, República Dominicana, Egito, El Salvador, Estados Unidos, Estônia, Finlândia, Gâmbia, Grécia, Hungria, Irlanda, Israel, Itália, Japão, Quênia, República da Coreia, Lituânia, Letônia, México, Nigéria, Países Baixos, Noruega, Nova Zelândia, Peru, Filipinas, Polônia, Espanha, Suriname, Suécia, Suíça, Turquia, Reino Unido e Zâmbia. 
+Fazem parte da plataforma Econsumer, além do Brasil, os seguintes países: Austrália, Bélgica, Bulgária, Canadá, Chile, Costa Rica, Dinamarca, República Dominicana, Egito, El Salvador, Estados Unidos, Estônia, Finlândia, Gâmbia, Grécia, Hungria, Irlanda, Israel, Itália, Japão, Quênia, República da Coreia, Lituânia, Letônia, México, Nigéria, Países Baixos, Noruega, Nova Zelândia, Peru, Filipinas, Polônia, Espanha, Suriname, Suécia, Suíça, Turquia, Reino Unido e Zâmbia.
 
 A plataforma internacional Econsumer entrará em funcionamento para os consumidores brasileiros em novembro deste ano, e contará com uma versão em português.
 
@@ -48,5 +47,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

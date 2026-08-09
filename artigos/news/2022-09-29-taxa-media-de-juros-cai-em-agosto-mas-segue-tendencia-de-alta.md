@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Endividamento das famílias chega a 53,1% em julho.
 
 A taxa média de juros das concessões de crédito livre e direcionado teve leve queda no mês de agosto, mas mantém a tendência de alta em 12 meses, segundo as Estatísticas Monetárias e de Crédito divulgadas nesta quarta-feira (28) pelo Banco Central (BC). A taxa alcançou 28,7% ao ano em agosto, redução de 0,7 ponto percentual no mês e alta de 7,6 pontos percentuais em 12 meses.
@@ -54,8 +53,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

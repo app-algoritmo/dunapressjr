@@ -8,7 +8,6 @@ categories:
 - Features
 ---
 
-
 ## Eddie Izzard co-escreve e estrela em 'Six Minutes to Midnight', exibido em 26 de março, ambientado em Bexhill-on-Sea, onde as filhas de oficiais de Hitler estudaram para ganhar poder brando.
 
 Desde a década de 1890, centenas de escolas independentes operaram na cidade litorânea inglesa de Bexhill-on-Sea . Mas entre todas as escolas de Bexhill, uma se destaca por razões chocantes: Aberta de 1932 a 1939, a Augusta Victoria College (AVC) era uma escola nazista para meninas adolescentes e jovens de 16 a 21 anos.
@@ -38,7 +37,7 @@ O primeiro é um distintivo escolar (usado pelos alunos em seus blazers de unifo
 
 O segundo é um prospecto escolar de cerca de 1935, que tem um logotipo revisado, do qual a bandeira imperial foi omitida. Essa mudança coincidiu com a chegada da principal Frau Helene Rocholl, que tinha laços estreitos com o regime nazista.
 
-Notavelmente, a única menção publicada da escola da qual o curador Porter tem conhecimento é em “Paris Fashion And World[ ](https://www.amazon.com/Paris-Fashion-World-War-Two/dp/1350000264)War Two. Difusão global e controle nazista ” que inclui algumas frases no crachá.
+Notavelmente, a única menção publicada da escola da qual o curador Porter tem conhecimento é em “Paris Fashion And WorldWar Two. Difusão global e controle nazista ” que inclui algumas frases no crachá.
 
 “Julian me mostrou isso e eu fiquei tipo, 'Sério ?!'”, disse Izzard enquanto mostrava a imagem do logotipo na tela do smartphone.
 
@@ -86,7 +85,7 @@ AVC era essencialmente uma escola de acabamento. De acordo com Porter, o currí
 Foto de estudantes lendo jornais em Augusta Victoria College, Bexhill-on-Sea, included em c. 
 Prospecto de 1935. (Museu Bexhill)
 
-A proficiência em inglês foi fundamental para a construção de alianças entre a elite dos dois países. 
+A proficiência em inglês foi fundamental para a construção de alianças entre a elite dos dois países.
 
 O Rev. Dr. FE England, ministro da Igreja Presbiteriana local, cujos serviços foram atendidos por alguns dos alunos AVC, foi citado no Bexhill-on-Sea Observer em 12 de outubro de 1935, como dizendo: “As meninas vieram da Alemanha não apenas para estudar inglês - eles podiam fazer isso na Alemanha - mas para obter uma visão sobre nossa vida inglesa e nos compreender. ”
 
@@ -127,7 +126,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O governo vem mantendo empenho em garantir apoio ao setor, especialmente, nesse momento de pandemia.
 
 O Fundo de Defesa da Economia Cafeeira (Funcafé) já assinou contratos com 14 dos 31 agentes financeiros habilitados a operacionalizar os recursos da safra 2020/2021.
@@ -25,7 +24,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

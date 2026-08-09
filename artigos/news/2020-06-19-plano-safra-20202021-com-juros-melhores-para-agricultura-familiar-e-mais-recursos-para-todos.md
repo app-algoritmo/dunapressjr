@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## As novidades foram debatidas pela ministra Tereza Cristina, os secretários Fernando Schwanke e Eduardo Sampaio e convidados em live nesta quinta-feira. Uma das novidades é lançamento de edital para residência profissional agrícola.
 
 Ministério da Agricultura, Pecuária e Abastecimento (Mapa) promoveu nesta quinta-feira (18) uma live para discutir as novidades do Plano Safra 2020/2021, lançado ontem (17), para a agricultura familiar. A ministra Tereza Cristina, acompanhada dos secretários Fernando Schwanke (Agricultura Familiar e Cooperativismo) e Eduardo Sampaio (Política Agrícola), debateu o tema com o diretor-geral do Instituto Interamericano de Cooperação para a Agricultura (IICA), Manuel Otero; o presidente da Cresol Confederação, Cledir Magri; o diretor executivo de Crédito do Sicredi, Gustavo Freitas, e o ex-ministro da Agricultura, Roberto Rodrigues.
@@ -37,7 +36,7 @@ O Plano Safra 2020/2021 amplia de quatro para seis anos o custeio associado para
 
 **Habitação rural**
 
-Para o presidente da Cresol Confederação, Cledir Magri, o Ministério marcou um “golaço” ao disponibilizar crédito para a construção e reforma de casas rurais (Pronaf Habitação). A iniciativa foi implantada na safra 2019/2020 e foi mantida no Plano Safra 2020/2021.  
+Para o presidente da Cresol Confederação, Cledir Magri, o Ministério marcou um “golaço” ao disponibilizar crédito para a construção e reforma de casas rurais (Pronaf Habitação). A iniciativa foi implantada na safra 2019/2020 e foi mantida no Plano Safra 2020/2021.
 
 Na safra 2020/2021, está prevista linha de financiamento de R$ 500 milhões com taxa de juros de 4.0 % a.a., redução de 13% na taxa. De julho 2019 até maio 2020, foram financiados R$ 400 milhões, beneficiando mais de 8.000 famílias de agricultores familiares.
 
@@ -47,7 +46,7 @@ Além dos recursos, filhos também poderão financiar a construção de moradias
 
 **Residência Agrícola**
 
-Durante a live, foi anunciado o primeiro edital do Programa de Residência Profissional Agrícola, que irá  selecionar projetos para a qualificação técnica de estudantes e recém-egressos de cursos de ciências agrárias e afins, de nível médio e superior, por meio de treinamento prático, supervisionado e orientado. 
+Durante a live, foi anunciado o primeiro edital do Programa de Residência Profissional Agrícola, que irá  selecionar projetos para a qualificação técnica de estudantes e recém-egressos de cursos de ciências agrárias e afins, de nível médio e superior, por meio de treinamento prático, supervisionado e orientado.
 
 O edital, com montante de R$ 17,1 milhões, pretende contemplar 900 estudantes. Podem apresentar as propostas instituições de ensino públicas federais. A meta é beneficiar 1.500 estudantes e recém-egressos (15 a 29 anos) dos cursos de ciências agrarias e afins, principalmente de regiões com alta concentração de agricultores familiares e com projetos estratégicos, como o Agronordeste.
 
@@ -64,5 +63,3 @@ Estima-se a contratação de 298 mil apólices, num montante segurado da ordem d
 Fonte: gov.br/agricultura / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

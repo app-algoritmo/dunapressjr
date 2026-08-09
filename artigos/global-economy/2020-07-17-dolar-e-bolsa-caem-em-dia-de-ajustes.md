@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Dados sobre recuperação em outros países afetaram negócios.
 
 Em um dia marcado por dados contraditórios sobre a recuperação econômica de vários países, o dólar e a bolsa de valores caíram. Depois de encostar em R$ 5,40 nos últimos dois dias, a moeda norte-americana voltou a rondar o nível de R$ 5,30. A bolsa de valores reverteu parte dos ganhos dos últimos dias, mas manteve-se acima dos 100 mil pontos.
@@ -22,4 +21,4 @@ Há vários meses, mercados financeiros em todo o planeta atravessam um período
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

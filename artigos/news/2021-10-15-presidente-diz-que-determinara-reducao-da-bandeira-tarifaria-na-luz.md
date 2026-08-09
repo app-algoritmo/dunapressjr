@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Declaração foi dada durante evento evangélico em Brasília.
 
-O presidente Jair Bolsonaro afirmou na noite desta quinta-feira (14) que determinará ao Ministério de Minas e Energia (MME) que altere a bandeira tarifária de energia elétrica para rebaixá-la a um valor menor a partir do mês que vem. A declaração foi feita durante discurso na Conferência Global Millenium, um evento que reúne igrejas evangélicas.  
+O presidente Jair Bolsonaro afirmou na noite desta quinta-feira (14) que determinará ao Ministério de Minas e Energia (MME) que altere a bandeira tarifária de energia elétrica para rebaixá-la a um valor menor a partir do mês que vem. A declaração foi feita durante discurso na Conferência Global Millenium, um evento que reúne igrejas evangélicas.
 
-"Estávamos na iminência de um colapso. Não podíamos transmitir pânico à sociedade. Dói a gente autorizar o ministro Bento [Albuquerque], das Minas e Energia, a decretar a bandeira vermelha. Dói no coração, sabemos da dificuldade da energia elétrica. Vou determinar que ele volte à bandeira normal a partir do mês que vem", disse o presidente, sem entrar em detalhes sobre qual seria a redução pretendida.  
+"Estávamos na iminência de um colapso. Não podíamos transmitir pânico à sociedade. Dói a gente autorizar o ministro Bento [Albuquerque], das Minas e Energia, a decretar a bandeira vermelha. Dói no coração, sabemos da dificuldade da energia elétrica. Vou determinar que ele volte à bandeira normal a partir do mês que vem", disse o presidente, sem entrar em detalhes sobre qual seria a redução pretendida.
 
 O país enfrenta a maior crise hídrica em 91 anos, o que tem afetado os reservatórios das usinas hidrelétricas. Neste cenário, o custo de energia aumenta porque é preciso acionar as usinas termoelétricas, que são mais caras. Em agosto, a Agência Nacional de Energia Elétrica (Aneel) anunciou a [**criação de uma nova bandeira tarifária**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-08/aneel-cria-nova-bandeira-tarifaria-e-conta-de-luz-fica-mais-cara) na conta de luz, chamada de bandeira de escassez hídrica. A taxa extra passou a ser de R$ 14,20 para cada 100 kilowatt-hora (KWh) consumidos e entrou em vigor a partir do dia 1º setembro, permanecendo vigente até abril do ano que vem.
 
@@ -24,10 +23,6 @@ Mais cedo, o ministro Bento Albuquerque reiterou que o país não corre risco de
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

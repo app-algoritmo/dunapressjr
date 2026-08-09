@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Em destaque as principais ações do governo, e seus respectivos ministérios, decorrentes até a terceira semana de maio. 
+Em destaque as principais ações do governo, e seus respectivos ministérios, decorrentes até a terceira semana de maio.
 
  Mais de 200 mil brasileiros curados da covid-19; Ministério da Saúde.
 
@@ -71,5 +70,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

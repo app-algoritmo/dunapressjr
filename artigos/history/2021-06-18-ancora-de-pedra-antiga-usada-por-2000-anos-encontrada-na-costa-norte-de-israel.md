@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 ## A autoridade de parques diz que o artefato, descoberto em uma escavação subaquática em Tel Dor, foi usado pela primeira vez na Idade do Bronze.
 
 Arqueólogos descobriram uma antiga âncora de barco feita de pedra que permaneceu em uso por cerca de 2.000 anos, anunciou a Autoridade de Parques e Natureza de Israel na quinta-feira.
@@ -31,7 +30,3 @@ Fonte: timesofisrael.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

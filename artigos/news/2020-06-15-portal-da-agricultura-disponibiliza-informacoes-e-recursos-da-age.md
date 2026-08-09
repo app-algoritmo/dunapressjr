@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 A Assessoria de Gestão Estratégica (AGE), a quem compete coordenar a gestão estratégica e os projetos estratégicos corporativos do Ministério da Agricultura, Pecuária e Abastecimento (Mapa) e de suas organizações coligadas, disponibiliza à sociedade e servidores acesso a informações e recursos no novo Portal da Agricultura.
 
-A nova estrutura administrativa do Mapa, que reúne, além de suas secretarias internas, órgãos como a Agência Nacional de Assistência Técnica e Extensão Rural (Anater), Companhia Nacional de Abastecimento (Conab), Empresa Brasileira de Pesquisa Agropecuária (Embrapa), Instituto Nacional de Colonização e Reforma Agrária (Incra), Instituto Nacional de Meteorologia (Inmet) e Serviço Florestal Brasileiro (SFB), requer a disponibilização de informações de modo mais direto. Por isso, a AGE passa a oferecer seus recursos no novo Portal da Agricultura, agora parte do Portal Gov.Br.    
+A nova estrutura administrativa do Mapa, que reúne, além de suas secretarias internas, órgãos como a Agência Nacional de Assistência Técnica e Extensão Rural (Anater), Companhia Nacional de Abastecimento (Conab), Empresa Brasileira de Pesquisa Agropecuária (Embrapa), Instituto Nacional de Colonização e Reforma Agrária (Incra), Instituto Nacional de Meteorologia (Inmet) e Serviço Florestal Brasileiro (SFB), requer a disponibilização de informações de modo mais direto. Por isso, a AGE passa a oferecer seus recursos no novo Portal da Agricultura, agora parte do Portal Gov.Br.
 
 Entre as informações institucionais oferecidas pela AGE para a sociedade está o **Plano Estratégico do Mapa 2020-2027,** que está sendo construído coletivamente por servidores de todas as unidades administrativas do Ministério. O público pode também conhecer o Portfólio de Projetos Estratégicos Corporativos 2019-2022 – Portfólio de PECs, que reúne as 16 iniciativas prioritárias da atual gestão para vencer os desafios da pasta.
 
@@ -25,8 +24,6 @@ Fonte: gov.br / Imagem em destaque: Mapa
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.**
 
 **Clique aqui no banner abaixo para assinar!**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura:
 

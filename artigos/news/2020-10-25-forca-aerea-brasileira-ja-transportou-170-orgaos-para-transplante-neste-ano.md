@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 A qualquer hora do dia ou da noite uma aeronave da Força Aérea Brasileira (FAB) pode ser acionada para transportar um órgão que vai salvar uma vida. Nesta sexta-feira (23), quando é celebrado o Dia da Força Aérea Brasileira, a corporação também comemora a marca de 170 órgãos transportados este ano.
 
-O transporte de órgãos é uma das missões da FAB que se soma às funções de manter a soberania do espaço aéreo, integrar o território nacional e participar de missões humanitárias, entre outras. 
+O transporte de órgãos é uma das missões da FAB que se soma às funções de manter a soberania do espaço aéreo, integrar o território nacional e participar de missões humanitárias, entre outras.
 
 O acionamento de uma aeronave ocorre de acordo com a demanda repassada pelo Ministério da Saúde, que coordena o Sistema Nacional de Transplantes. A partir de então, é ativada uma cadeia de eventos. É preciso checar as condições de pouso no aeroporto de destino, acionar a tripulação e avisar ao controle de tráfego aéreo que se trata de um transporte de órgãos, o que dá ao avião prioridade para procedimentos de pouso e decolagem.
 
@@ -39,5 +38,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

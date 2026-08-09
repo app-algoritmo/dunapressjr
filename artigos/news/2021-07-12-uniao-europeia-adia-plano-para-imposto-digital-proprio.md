@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Valor do imposto é questionado por autoridades do bloco.
 
 A Comissão Europeia vai adiar seu plano de propor um novo imposto sobre os serviços digitais em julho, disse um porta-voz nesta segunda-feira (12), após intensa pressão do governo norte-americano.
@@ -28,10 +27,6 @@ A UE vem tentando há anos impor seu próprio imposto digital e pretendia aprese
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

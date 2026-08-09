@@ -8,7 +8,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Estudo aponta que é importante para o país retomar a agenda de reformas, viabilizando o crescimento sustentável.
 
 A Secretaria de Política Econômica do Ministério da Economia (SPE/ME) divulgou, nesta sexta-feira (29/1),nota informativa com projeções de crescimento econômico e medidas fiscais. A análise destaca que as medidas adotadas pelo Brasil para mitigar os efeitos da pandemia da Covid-19 reverteram as expectativas de queda para o Produto Interno Bruto (PIB) em 2020 para níveis menos críticos.
@@ -27,8 +26,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

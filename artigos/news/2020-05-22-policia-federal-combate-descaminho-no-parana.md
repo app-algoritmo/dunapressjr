@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Guaíra/PR - A Polícia Federal deflagrou nesta sexta-feira (22/5) a Operação Rota Alternativa, com o fim de combater a prática do crime de descaminho. Estão sendo cumpridos dois mandados de busca e apreensão na cidade de Umuarama/PR.
 
 A investigação teve início após apreensão de mais de 500 aparelhos de telefone celular, na cidade de Alto Paraíso/PR. Na ocasião, os eletrônicos eram transportados em um veículo ocupado por duas pessoas. Os envolvidos teriam carregado o veículo na região de fronteira com o Paraguai e tinham como destino a cidade Umuarama.
@@ -23,5 +22,3 @@ A operação deflagrada nesta manhã foi batizada de Rota Alternativa por conta 
 O investigado responderá pelo delito de descaminho e associação criminosa. Os objetos apreendidos foram encaminhados para Delegacia da Polícia Federal em Guaíra.
 
 Comunicação Social da Polícia Federal em Guaíra/PR
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Quatro dos cinco setores da economia tiveram criação de vagas formais.
 
 O Ministério do Trabalho e Previdência informou nesta terça-feira (30) que foram gerados 253.083 empregos com carteira assinada em outubro. O números fazem parte do Novo Cadastro Geral de Empregados e Desempregados (Novo Caged). Conforme o levantamento, o saldo é de 2,6 milhões de novas vagas nos dez primeiros meses deste ano.
@@ -22,10 +21,6 @@ Os estados de São Paulo (76,9 mil), Minas Gerais (21,3 mil) e Rio de Janeiro (1
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

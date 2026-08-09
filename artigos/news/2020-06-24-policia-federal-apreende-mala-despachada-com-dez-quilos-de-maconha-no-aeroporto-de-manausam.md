@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 **Manaus/AM** - A Polícia Federal apreendeu, na madrugada desta terça-feira (23/06), por volta da 01h45, uma bagagem despachada em condições suspeitas no Aeroporto Internacional de Manaus/AM.
 
 Policiais federais identificaram e separaram para inspeção a mala que fora despachada para um voo com destino a Campinas/AM, mas o responsável pela bagagem não foi localizado.
@@ -29,4 +28,4 @@ O evento tem por objetivo reforçar as diretrizes do órgão de modo a promover 
 
 Fonte: Portal de Imprensa da Polícia Federal
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

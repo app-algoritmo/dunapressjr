@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Para Campos Neto, alimentos e energia poderiam ter ajuda temporária.
 
 A melhoria da arrecadação decorrente da alta global de preços poderia ser usada para subsidiar temporariamente itens como alimentos e energia, defendeu nesta quarta-feira (1º) o presidente do Banco Central (BC), Roberto Campos Neto. Em videoconferência com instituições financeiras internacionais, ele disse que essas medidas poderiam amenizar o custo social da inflação sobre a população de menor renda.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

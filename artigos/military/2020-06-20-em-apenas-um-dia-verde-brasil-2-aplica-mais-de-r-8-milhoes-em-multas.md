@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 Em menos de 24h, a Operação Verde Brasil 2 aplicou R$ 8.692.555,00 em multas por atividades ilegais na área da Amazônia Legal. Na quinta-feira (18), o Comando Conjunto Barão de Melgaço estabeleceu postos de bloqueio e controle de estradas em diversas localidades de Mato Grosso, com o emprego de militares do 66° Batalhão de Infantaria Motorizado e do 58º Batalhão de Infantaria Motorizado. As ações resultaram na revista de 114 veículos e três termos de infração.
 
 O Comando Conjunto Príncipe da Beira realizou ações de inspeção naval, fiscalização de madeireiras, postos de bloqueio e controle de estradas e patrulha motorizada, terrestre e fluvial na Foz do Rio Madeira. Militares da Marinha e do Exército atuaram em conjunto nessa operação, o que resultou na revista de 32 viaturas e 27 embarcações.
@@ -21,5 +20,3 @@ Desde a deflagração da Operação Verde Brasil 2, em 11 de maio, militares e a
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

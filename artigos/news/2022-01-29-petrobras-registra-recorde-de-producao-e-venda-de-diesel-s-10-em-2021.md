@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## O diesel S-10 é um combustível com baixo teor de enxofre.
 
 A Petrobras registrou recorde de produção e vendas de diesel S-10 em 2021. O diesel S-10 é um combustível com baixo teor de enxofre. Foram produzidos 21,2 bilhões de litros, aumento de 10% em relação a 2020, e comercializados 25,8 bilhões de litros, revelando expansão de 34,7% na mesma comparação.
 
 A companhia esclareceu que, para atender seus contratos de venda, sua produção de diesel S-10 é complementada por importações realizadas pela própria Petrobras.
 
-Segundo a empresa, o crescimento do consumo do óleo diesel S-10 está associado à modernização da frota nacional e garante os melhores resultados ambientais e econômicos para os usuários. Atualmente, a venda do S-10 corresponde a mais da metade das vendas totais de diesel da Petrobras. 
+Segundo a empresa, o crescimento do consumo do óleo diesel S-10 está associado à modernização da frota nacional e garante os melhores resultados ambientais e econômicos para os usuários. Atualmente, a venda do S-10 corresponde a mais da metade das vendas totais de diesel da Petrobras.
 
 “Os números refletem os esforços da companhia para ampliar a oferta do produto com menor teor de enxofre e que atende às tecnologias mais modernas de motores em uso no Brasil”, disse a empresa.
 
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

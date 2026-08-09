@@ -37,7 +37,7 @@ Com 9 episódios, ‘A Maldição da Mansão Bly’ já está disponível na Net
 
 **Imagem em destaque:** Tecmundo e Omelete
 
-https://dunapress.org/produto/assinatura-leitor-premio/?aff=milah44
+https://dunapress.org/produto/assinatura-leitor-premio/
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o
 

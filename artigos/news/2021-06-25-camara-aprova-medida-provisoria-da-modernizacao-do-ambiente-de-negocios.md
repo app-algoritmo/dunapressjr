@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medidas aprovadas também alteram regras de abertura e funcionamento de empresas e de procedimentos para exportação e importação.
 
 A Câmara dos Deputados aprovou a [Medida Provisória nº 1040/2021](https://www.camara.leg.br/proposico%C2%BAesWeb/fichadetramitacao?idProposicao=2275840) que altera regras de abertura e funcionamento de empresas e de procedimentos para exportação e importação, além de ter um forte impacto na facilidade de se fazer negócios no Brasil e no *ranking Doing Business* do Banco Mundial. Segundo equipe técnica do Ministério da Economia, "grande parte das alterações promovidas pelo texto aprovado é positiva, desburocratizante e melhora o ambiente de negócios, especialmente as novas regras para abertura e funcionamento das empresas. Os dispositivos que irão permitir a institucionalização do Portal Único e eliminação do Siscoserv, por exemplo, representam importantes avanços institucionais, inclusive nos aproximando das melhores práticas internacionais".
@@ -38,19 +37,19 @@ Prevê medidas de facilitação da obtenção de energia elétrica, com prazo m�
 
 Em destaque, as seguintes alterações:
 
-(i)        a prescrição intercorrente (durante o curso do processo de execução) observará o mesmo prazo de prescrição da pretensão;
+(i) a prescrição intercorrente (durante o curso do processo de execução) observará o mesmo prazo de prescrição da pretensão;
 
-(ii)       põe fim à figura da sociedade simples e inclui novas regras gerais de sociedades que deverão ser observadas por todas as sociedades empresárias;
+(ii) põe fim à figura da sociedade simples e inclui novas regras gerais de sociedades que deverão ser observadas por todas as sociedades empresárias;
 
-(iii)      torna definitiva a substituição da figura das Eirelis pela sociedade limitada unipessoal.
+(iii) torna definitiva a substituição da figura das Eirelis pela sociedade limitada unipessoal.
 
-## **Propriedade Industrial (LPI)** 
+## **Propriedade Industrial (LPI)**
 
 Revoga:
 
-(i)        dispositivo da LPI que permite a extensão de patentes na hipótese de o INPI se encontrar impedido de analisá-las no prazo legal devido pendência judicial ou força maior;
+(i) dispositivo da LPI que permite a extensão de patentes na hipótese de o INPI se encontrar impedido de analisá-las no prazo legal devido pendência judicial ou força maior;
 
-(ii)       artigo que estabelece que a concessão de patentes para produtos e processos farmacêuticos dependerá da prévia anuência da Anvisa.
+(ii) artigo que estabelece que a concessão de patentes para produtos e processos farmacêuticos dependerá da prévia anuência da Anvisa.
 
 ## **Nota Comercial**
 
@@ -70,8 +69,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

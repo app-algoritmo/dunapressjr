@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Para o primeiro semestre de 2021, o Centro de Memória do Butantan preparou uma programação que mergulha no passado, cumprindo sua missão de preservar e difundir a história do Instituto, enquanto mantém todos seguros em casa. Isso porque, neste semestre, os tradicionais seminários do Centro serão todos digitais.
 
-“Os webinários surgiram em 2019 como uma forma de manter a equipe interna informada sobre as várias linhas de pesquisa que começamos a consolidar. Logo, nossos temas despertaram o interesse de outras áreas da instituição, fazendo com os seminários se tornassem abertos ao público interessado”, conta Suzana Cesar Gouveia Fernandes, diretora do Centro de Memória. Desde sua criação, os seminários do Centro de Memória já receberam a técnica documentalista do Centro de Documentação e Informação Científica da PUC-SP Simone Fernandes; o arquiteto do IPHAN Anderson Felix; e os pesquisadores do Butantan Eny Stanger Ferreira, Sergio de Simone e Nelson Ibañez. 
+“Os webinários surgiram em 2019 como uma forma de manter a equipe interna informada sobre as várias linhas de pesquisa que começamos a consolidar. Logo, nossos temas despertaram o interesse de outras áreas da instituição, fazendo com os seminários se tornassem abertos ao público interessado”, conta Suzana Cesar Gouveia Fernandes, diretora do Centro de Memória. Desde sua criação, os seminários do Centro de Memória já receberam a técnica documentalista do Centro de Documentação e Informação Científica da PUC-SP Simone Fernandes; o arquiteto do IPHAN Anderson Felix; e os pesquisadores do Butantan Eny Stanger Ferreira, Sergio de Simone e Nelson Ibañez.
 
 A programação de 2021 será inaugurada em 12/04 com o webinário “A primeira fase do Laboratório de Genética no Instituto Butantan: a participação de Gerta von Ubisch”, que será mediado por Juliana Cabral e terá como palestrante o biólogo, mestre em Genética e pesquisador científico do Butantan Mario Gustavo Mayer. A palestra abordará a trajetória do Laboratório de Genética e a atuação da cientista alemã Gerta von Ubisch, que chefiou a Seção de Genética do Butantan, entre os anos de 1935 e 1938.
 
@@ -52,7 +51,3 @@ Fonte: butantan.gov.br
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A aprovação foi por unanimidade do PL 339/2021, proposto pelo deputado Marcius Machado (PL) e assinado por vários parlamentares. Conforme a ementa, a proposição altera o Código Estadual de Proteção dos Animais para explicitar a proibição da realização de corrida de cães e do abandono de animais domésticos em Santa Catarina. Em agosto, outra iniciativa, também de autoria de Marcius e com o mesmo objetivo, foi rejeitada pelo Plenário da Assembleia.
 
 A votação desta quarta foi acompanhada por ativistas da causa animal de várias cidades do estado. O autor do PL afirmou que a proposta tipifica a corrida de cães como um crime, além de estabelecer multa para esse tipo de ocorrência.
@@ -35,7 +34,3 @@ Fonte: https://agenciaal.alesc.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

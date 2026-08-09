@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Palmas/TO – A Polícia Federal deflagrou na manhã desta terça-feira (7/7) a Operação “Xunxo”, que tem como objetivo desarticular grupo criminoso especializado em fraudes bancárias eletrônicas.
 
 Aproximadamente 30 policiais federais cumprem 8 mandados de busca e apreensão, nas cidades de Palmas e Porto Nacional, todos expedidos pela 4º Vara da Justiça Federal do Tocantins.
@@ -23,4 +22,4 @@ A Polícia Federal ressalta que, em razão da situação de pandemia da COVID-19
 
 **Comunicação Social da Polícia Federal no Tocantins**
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

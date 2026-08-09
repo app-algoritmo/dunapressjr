@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ata da reunião do comitê da semana passada foi divulgada hoje.
 
 O Comitê de Política Monetária (Copom) do Banco Central (BC) informou hoje (22) que o aumento de 0,75 ponto percentual na taxa básica de juros, a Selic, levou em consideração a “persistência da pressão inflacionária” maior que a esperada, sobretudo entre os bens industriais. Apesar da persistência, o comitê identifica tendência de melhora na economia do país. Na última quarta-feira (16), o [**Copom elevou a Selic**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-06/copom-eleva-taxa-basica-de-juros-para-425-ao-ano) de 3,5% ao ano para 4,25% ao ano.
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Requerimentos seriam liberados a partir de 8 de fevereiro.
 
 Cerca de 320 mil trabalhadores que não sacaram o abono salarial de anos anteriores só poderão pedir a retirada a partir de 31 de março. O Ministério do Trabalho e Previdência adiou o início do prazo para requerer os valores, que começaria no próximo dia 8.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 ## O duque de Edimburgo quebrou o boicote não oficial de Israel pela realeza britânica para participar da cerimônia de 1994 que nomeou a princesa Alice sua mãe, como "justa entre as nações" por esconder 3 judeus dos nazistas.
 
 O príncipe Philip, que morreu aos 99 anos , era talvez o membro mais próximo da família real britânica aos judeus e às causas judaicas, e em 1994 fez uma visita histórica a Israel. Embora a viagem tenha sido pessoal, feita para homenagear sua mãe, a princesa Alice da Grécia, que está enterrada no Monte das Oliveiras em Jerusalém, ela marcou o fim de um boicote não oficial ao estado judeu pela monarquia britânica. Seu neto, o príncipe William, fez a primeira visita oficial da realeza em 2018.
@@ -83,7 +82,3 @@ Fonte: https://www.timesofisrael.com
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

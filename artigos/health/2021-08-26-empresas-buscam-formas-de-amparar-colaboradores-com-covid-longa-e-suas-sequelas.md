@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Fadiga, névoa cerebral e mal-estar pós esforço físico e mental estão entre os sintomas mais comuns que se mantêm após a doenç*a*.
 
 Novas pesquisas sobre as sequelas da covid-19 apontam para mais de 200 sintomas associados em dez diferentes órgãos. Segundo um estudo publicado no portal Lancet com 4 mil pacientes, perda de memória, alucinações, tremores e fadiga estão entre os problemas mais comuns, fazendo com que 45% dos participantes precisem diminuir as horas trabalhadas após a doença. O estudo sugere, ainda, que alguns sintomas podem surgir  meses após a infecção pelo coronavírus e que 90% deles ainda sejam persistentes após 6 meses da doença.
@@ -16,7 +15,7 @@ Diante dessa nova realidade, muitas empresas estão procurando novas formas de a
 
 Infectado no início da pandemia, o caso dele acendeu o alerta para que a instituição procurasse uma forma de apoiar seus 12 mil funcionários e passasse a utilizar o aplicativo Flowing. O App inicia com um questionário e vai orientando os colaboradores de acordo com as respostas inseridas. Assim, em casos suspeitos ou confirmados, é acionada uma equipe de suporte que realiza o acolhimento e o acompanhamento diário por telefone. “O aplicativo dá o suporte para toda uma estrutura de *backoffice*  que precisa entrar em ação nesses momentos”, comenta o gerente corporativo de Recursos Humanos do Grupo, Andree Dias.
 
-Lançada em setembro, a ferramenta oferece diversas possibilidades para atender as mudanças de cada fase da pandemia. “O aplicativo começou pequeno e acabou crescendo. Agora temos uma preocupação grande com o pós-covid também, já que muitas pessoas acabam ficando com sequelas. Em parceria com operadoras de saúde, oferecemos o suporte com psicólogos, fisioterapeuta e médicos clínicos”, explica. “Como o colaborador é o protagonista no funcionamento do App, contamos com a abertura deles para o atendimento durante o caso agudo e para o acompanhamento de sequelas, além da sensibilidade dos gestores das áreas para sinalizar a necessidade desse atendimento posterior”, complementa Andree. 
+Lançada em setembro, a ferramenta oferece diversas possibilidades para atender as mudanças de cada fase da pandemia. “O aplicativo começou pequeno e acabou crescendo. Agora temos uma preocupação grande com o pós-covid também, já que muitas pessoas acabam ficando com sequelas. Em parceria com operadoras de saúde, oferecemos o suporte com psicólogos, fisioterapeuta e médicos clínicos”, explica. “Como o colaborador é o protagonista no funcionamento do App, contamos com a abertura deles para o atendimento durante o caso agudo e para o acompanhamento de sequelas, além da sensibilidade dos gestores das áreas para sinalizar a necessidade desse atendimento posterior”, complementa Andree.
 
 **Teleconsulta diminui busca por serviço**
 
@@ -37,7 +36,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

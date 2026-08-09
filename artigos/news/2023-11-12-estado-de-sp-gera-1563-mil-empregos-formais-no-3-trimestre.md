@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alta é de 1,2% em relação ao trimestre imediatamente anterior; na comparação com 2022, são 396.975 postos de trabalho a mais.
 
 Foram gerados 156.334 empregos com carteira de trabalho assinada no 3º trimestre de 2023 no Estado de São Paulo, alta de 1,2% em relação ao trimestre imediatamente anterior. É o que revela a pesquisa Emprego Formal, da Fundação Seade, com base no Cadastro Geral de Empregados e Desempregados (Caged). Na comparação com o mesmo período de 2022, são 396.975 postos de trabalho a mais, crescimento de 3,0%.
@@ -27,6 +26,5 @@ As ocupações com maiores saldos positivos foram:
 - atendente de lojas e mercados (7.657)
 
 Siga o canal “Governo de São Paulo” no WhatsApp:
-[https://bit.ly/govspnozap](https://bit.ly/govspnozap)
 
 Fonte: [Governo de São Paulo ](https://www.saopaulo.sp.gov.br/ultimas-noticias/estado-de-sp-gera-1563-mil-empregos-formais-no-3o-trimestre/)

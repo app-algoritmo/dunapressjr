@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 São seis selos sobre meios de comunicação, principais sintomas da Covid-19, serviços essenciais, profissionais da saúde, ciência e tecnologia e unidades de terapia intensiva. Os correios farão uma tiragem de 60 mil blocos (com os seis selos).
 
 Para homenagear os trabalhos de combate à pandemia do novo coronavírus, os Correios lançaram, nessa quarta-feira (8), um bloco de seis selos com o tema. A emissão faz parte de uma parceria com a Organização Pan-Americana da Saúde (Opas). A divulgação aconteceu também pelos canais oficiais dos Correios nas redes sociais.
@@ -34,6 +33,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

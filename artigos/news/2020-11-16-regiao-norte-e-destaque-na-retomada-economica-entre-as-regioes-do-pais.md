@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Banco Central divulgou boletim que apresenta as condições da economia no último trimestre.
 
 O Banco Central divulgou a nova edição do Boletim Regional. O destaque fica por conta da região Norte, cujo desempenho no trimestre encerrado em agosto apresentou maior intensidade de retomada econômica em relação às demais regiões do país no atual contexto provocado pela Covid-19.
@@ -15,8 +14,6 @@ O Banco Central divulgou a nova edição do Boletim Regional. O destaque fica po
 De acordo com o documento, divulgado na sexta-feira (13), alguns elementos explicam esse protagonismo atual do Norte, tais como: estrutura industrial voltada para bens duráveis destinados ao mercado doméstico e à exportação de commodities e uma maior importância relativa do programa de auxílio emergencial do Governo Federal. Nesse cenário, o crescimento dos principais indicadores relativos ao comércio, à prestação de serviços e à produção industrial foi superior às demais regiões do país.
 
 Depois do Norte, o melhor desempenho no período analisado foi o da região Sul, onde os principais indicadores do boletim corroboram uma recuperação gradual da economia. O avanço do nível de atividade no Sul, de 5,1%, contrasta com a queda de 7,1% observada no trimestre encerrado em maio, quando a economia da região foi uma das que mais sofreu por conta dos efeitos severos da Covid-19.
-
-- 
 
 Em seguida, os dados apontam para o Sudeste. “O aumento gradual da mobilidade social permitiu a retomada da indústria e do comércio e, em menor medida, do setor de serviços, com reflexos positivos sobre o mercado de trabalho da região”, afirma o chefe-adjunto no Departamento Econômico do Banco Central, José Henrique Carvalho.
 
@@ -33,5 +30,3 @@ Acesse a íntegra do Boletim Regional clicando [AQUI](https://www.bcb.gov.br/pub
 Fonte: gov.br – Imagem de destaque: Arquivo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

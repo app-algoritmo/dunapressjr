@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Atualmente, o Brasil é a nação não membro com maior número de requisitos exigidos aprovados.
 
 O Brasil deu mais um passo para aderir à Organização para Cooperação e Desenvolvimento Econômico (OCDE). Foi aprovado instrumento legal no quesito considerações de segurança para aplicação de organismos de DNA recombinante na agricultura, indústria e meio ambiente.
@@ -27,7 +26,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
 
 Obrigado pelo apoio!

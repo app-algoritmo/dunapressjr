@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Educação, por meio da Capes (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior), está ofertando 1.400 bolsas fora do Brasil para doutorandos de programas de pós-graduação (PPG). O edital, referente ao Programa de Doutorado-Sanduíche no Exterior (PDSE),  foi publicado no Diário oficial da União desta sexta-feira (9).
 
 Com o orçamento de R$89,8 milhões, o Programa permite que alunos matriculados em cursos de doutorado no Brasil façam parte de seus estudos em instituição no exterior. Após a conclusão da bolsa, que dura entre quatro e seis meses, eles devem retornar ao país para a defesa da tese. Para participar do edital, o doutorando deve contar com nota igual ou superior a quatro na Avaliação Quadrienal da CAPES de 2017.
@@ -23,5 +22,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

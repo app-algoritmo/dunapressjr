@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É a maior taxa para um ano desde 2015.
 
 O Índice Nacional de Preços ao Consumidor Amplo – 15 (IPCA-15), que mede a prévia da inflação oficial, fechou 2021 em 10,42%. Essa é a maior taxa para um ano desde 2015 (10,71%). Em 2020, o IPCA-15 havia ficado em 4,23%.
@@ -28,10 +27,6 @@ Habitação teve alta de preços de 0,90%, puxada principalmente pelo aumento do
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

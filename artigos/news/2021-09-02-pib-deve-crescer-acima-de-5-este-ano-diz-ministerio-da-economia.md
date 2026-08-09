@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em nota sobre PIB, secretaria manteve estimativa de expansão.
 
 O Produto Interno Bruto (PIB), soma de todos os bens e serviços produzidos no país, deve apresentar crescimento acima de 5% este ano. A previsão foi mantida pela Secretaria de Política Econômica do Ministério da Economia, na Nota Informativa sobre o **[resultado do PIB, divulgado nesta quarta-feira (1º) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).](https://dunapress.org/2021/09/02/pib-fica-estavel-no-segundo-trimestre-deste-ano/)**
@@ -26,10 +25,6 @@ A secretaria espera pela “continuidade do bom desempenho do setor de serviços
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

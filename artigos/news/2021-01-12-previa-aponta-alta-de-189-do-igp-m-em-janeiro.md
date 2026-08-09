@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice é usado no reajuste de aluguéis.
 
 O Índice Geral de Preços-Mercado (IGP-M) teve alta de 1,89% nos primeiros dez dias (decêndio) de janeiro, informou hoje (12), no Rio de Janeiro, o Instituto Brasileiro de Economia da Fundação Getúlio Vargas (Ibre/FGV). O IGP-M é usado para o reajuste de contratos de aluguel, e a divulgação de hoje é uma prévia da pesquisa mensal.
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

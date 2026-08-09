@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Força Aérea Brasileira implantou o Núcleo do Centro de Defesa Cibernética da Aeronáutica (NuCDCAER). O objetivo é proporcionar maior segurança ao Sistema de Controle e Defesa do Espaço Aéreo e às Atividades Espaciais. No contexto das novas ameaças aos recursos tecnológicos, é importante ampliar o Poder Aeroespacial.
 
 Com 100 anos da criação da Concepção Estratégica “Força Aérea 100”, o ambiente cibernético é um domínio de interesse fundamental para a operação. O Estado-Maior da Aeronáutica (Emaer) é o responsável pelo estudo de implementação do NuCDCAER na estrutura organizacional do Centro de Computação da Aeronáutica de Brasília (CCA-BR). E, também, por, posteriormente, promover medidas administrativas de desativação do NuCDCAER e ativação do Centro de Defesa Cibernética da Aeronáutica (CDCAER), previsto para até dezembro de 2023.
@@ -30,7 +29,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

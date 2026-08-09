@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa de valores caiu 0,49% após iniciar dia em alta.
 
 Influenciado por fatores domésticos e internacionais, o dólar, que nesta segunda-feira (5) tinha tido a maior queda diária em cinco semanas, voltou a subir nesta terça-feira (6) e encostou na barreira de R$ 5,60. A bolsa de valores fechou com queda, após iniciar o dia em alta.
@@ -21,5 +20,3 @@ A reversão de expectativas também afetou o mercado de ações. O índice Ibove
 Todos os três principais índices de ações dos Estados Unidos viraram bruscamente para baixo com o congelamento das negociações para o pacote de estímulos. Em Wall Street, o Dow Jones (das empresas industriais) caiu 1,34%, o S&P 500 perdeu 1,4% e o Nasdaq (das empresas tecnológicas) caiu 1,57%.
 
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Mohamed Abd El Grany/Direitos Reservados
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

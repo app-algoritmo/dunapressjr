@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Texto também revoga lei que permite vaquejada e veda criação inadequada de pets.
 
 O Projeto de Lei 1355/21 proíbe que práticas cruéis e as relacionadas à criação de animais sejam classificadas como patrimônio cultural imaterial do Brasil. Ao mesmo tempo, o texto revoga a [Lei 13.364/16](https://www2.camara.gov.br/legin/fed/lei/2016/lei-13364-29-novembro-2016-783953-norma-pl.html), que reconhece o rodeio, a vaquejada e o laço como bens culturais; e a [Lei 10.220/01](https://www2.camara.gov.br/legin/fed/lei/2001/lei-10220-11-abril-2001-358253-norma-pl.html), que regulamenta a atividade de peão de rodeio.
@@ -43,7 +42,3 @@ Entre no link e conheça quem foram os deputados catarinenses que são a favor d
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A doença de Canavan é uma doença neurológica incapacitante e fatal que causa danos cerebrais causados ​​pela presença de um gene herdado defeituoso. Esse gene prejudica a capacidade do corpo de produzir mielina, a substância branca, protetora e isolante do cérebro.
 
 Em uma sala de cirurgia no Children's Hospital em Dayton no mês passado, Benny Landsman, de quatro anos, filho de uma família no Brooklyn, Nova York, se beneficiou do primeiro ensaio clínico de um terapia genética aprovada pelo FDA para o tratamento da doença de Canavan.
@@ -177,7 +176,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Viveiro Municipal de Itajaí realiza neste mês de dezembro mais uma edição da conhecida Feira de Doação de Mudas Nativas. A ação gratuita, coordenada pelo Instituto Itajaí Sustentável (INIS), ocorre na sede do Viveiro, na rua Osvaldo Bertemes, 144, bairro Fazenda. As doações serão feitas de segunda a quinta-feira, das 8h às 12h e das 13h às 17h, e na sexta-feira, no horário das 8h às 12h e 13h às 16h.
 
 Segundo o INIS, algumas das espécies disponíveis para doação são: pitanga preta, ameixa de Joinville, araçá amarelo, araçá pêra, bacupari, graviola e mulungu-do-litoral. Serão disponibilizadas até cinco mudas de árvores por família, que deve residir em Itajaí. Os interessados devem levar sua própria sacola reutilizável ou recipiente para carregar a muda.
@@ -25,15 +24,6 @@ Conheça algumas características de espécies que estão disponíveis para doa�
 
 - Mulungu-do-litoral: Árvore ornamental com espinhos, podendo ser empregada no paisagismo em geral. Possui flores de coloração vermelha muito atrativa para os beija-flores. Possui rápido crescimento, florescendo de junho a setembro.
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
 **Informações adicionais**:
 Instituto Itajaí Sustentável
 (47) 3349-7255
@@ -50,7 +40,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

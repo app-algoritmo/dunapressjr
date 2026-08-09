@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## CAPES oferece 75 mil vagas para três cursos on-line: Português, Matemática e Tecnologias da Informação e Comunicação.
 
 Vão até 24 de julho as inscrições para os cursos de aprimoramento profissional, com 60 horas de duração, oferecidos pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), em parceria com o Ministério da Educação (MEC). São 75 mil vagas disponíveis para três capacitações: Português, Matemática e Tecnologias da Informação e Comunicação (TICs). As aulas são gratuitas e 100% a distância.
 
-Podem participar estudantes de graduação, concluintes do Ensino Médio e alunos matriculados na Universidade Aberta do Brasil ([UAB](https://www.capes.gov.br/uab?view=default)). As inscrições são feitas pela plataforma virtual da CAPES, no link: [http://avamec.mec.gov.br/#/instituicao/capes](http://avamec.mec.gov.br/#/instituicao/capes) onde o interessado preencherá um formulário com dados pessoais e, em seguida, terá acesso ao sistema para se matricular no curso desejado. Na conclusão do curso os participantes receberão um certificado da CAPES. 
+Podem participar estudantes de graduação, concluintes do Ensino Médio e alunos matriculados na Universidade Aberta do Brasil ([UAB](https://www.capes.gov.br/uab?view=default)). As inscrições são feitas pela plataforma virtual da CAPES, no link: [http://avamec.mec.gov.br/#/instituicao/capes](http://avamec.mec.gov.br/#/instituicao/capes) onde o interessado preencherá um formulário com dados pessoais e, em seguida, terá acesso ao sistema para se matricular no curso desejado. Na conclusão do curso os participantes receberão um certificado da CAPES.
 
 Em sua primeira edição, no ar desde abril, o sistema registrou mais de 45 mil inscrições. “A iniciativa é uma grande oportunidade para que os alunos se capacitem com conhecimentos complementares aos estudos regulares, sobretudo neste tempo de pandemia onde muitos tiveram as aulas interrompidas”, explica Benedito Aguiar, presidente da CAPES. A ação estimula o aprendizado e fortalece o ensino a distância.
 
@@ -29,7 +28,7 @@ Fonte: gov.br / Imagem em destaque: Mn
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

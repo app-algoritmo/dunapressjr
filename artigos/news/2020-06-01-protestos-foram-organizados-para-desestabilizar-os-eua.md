@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Na manhã de domingo, cerca de 25 cidades americanas estavam sob algum tipo de toque de recolher com tropas da Guarda Nacional em Minneapolis e na capital dos EUA após dias de protestos e distúrbios violentos. Em meio ao caos e à incerteza, vozes de ambos os lados do corredor político alegaram que a violência foi alimentada por conspirações e orquestrada por "profissionais".
 
 O comentarista de direita Candace Owens e outros culpam George Soros e "anarquistas de esquerda" ou o movimento antifa de esquerda, ativista e antifascista por estar por trás da violência. O presidente dos EUA, Donald Trump, escreveu que "é o ANTIFA e a esquerda radical".
@@ -31,7 +30,7 @@ A jornalista Lara Logan também twittou que havia "agitadores profissionais".
 O vídeo dos protestos, mostrando a polícia prendendo jornalistas, atirando bolas de tinta em pessoas na varanda e dirigindo-se a protestos, não parecia mostrar que os manifestantes estavam organizados. Em Seattle, onde os manifestantes queimaram carros da polícia, um homem roubou um AR-15 de um dos carros, apenas para ser arrebatado por alguém que parecia um membro da polícia ou um militar.
 
 O homem que saqueava não parecia ser um profissional treinado para usar a arma. Na capital Washington, os saques de várias lojas de tecnologia começaram depois que as multidões foram dispersadas por balas de gás lacrimogêneo e borracha.
-Nenhuma das conspirações 
+Nenhuma das conspirações
 
 apresentadas para os protestos explicou como os supostos organizadores sabiam esperar até que um policial matasse um afro-americano em Minneapolis para iniciar seu plano.Também não foi explicado como os ativistas da "antifa" poderiam viajar facilmente a todas essas cidades dos EUA durante a pandemia, onde muitas cidades têm bloqueios ou ordens de "ficar em casa". Nenhum dos manifestantes violentos detidos foi entrevistado para explicar suas ações e se a inteligência "russa" ou "George Soros" os motivou.
 
@@ -56,7 +55,5 @@ Ajude-nos a levar o jornalismo independente a todas as partes!
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)
 
 Entre no link  e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.

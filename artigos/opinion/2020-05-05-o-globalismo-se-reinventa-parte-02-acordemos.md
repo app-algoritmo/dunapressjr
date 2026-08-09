@@ -7,7 +7,6 @@ categories:
 - Opinion
 ---
 
-
 O sistema financeiro, monopólios e as tecnologias estão sendo utilizadas contra nós neste momento. É hora de mudar este quadro, hora de acordar. OMS e ONU não representam países ou vontades do povo. Bancos que prezam pelo endividamento menos ainda, pois querem apenas escravos das dívidas.
 
 Utilizaram um vírus para politizar tudo, acabar com economias de países, emprestar dinheiro para países pobres, permitindo as vezes instalações de várias empresas de setores vitais, energia, água, agricultura, tecnologia e informação, como a internet 5G. Agora estão criando a moeda mundial, com a desculpa de ajudar a reerguer a economia mundial.
@@ -28,7 +27,6 @@ Teremos que pagar o preço para sair de tudo isto, pois este é o plano “deles
 
 Link - O Globalismo se reinventa parte 01 - clique [aqui](https://dunapress.org/2020/04/21/o-globalismo-se-reinventa-a-todo-instante/).
 Fonte da imagem: https://cristianderosa.wordpress.com/category/globalismo/
- 
 
 Olá amigos. Ajude-nos a levar o jornalismo independente a todas as partes!
 
@@ -38,4 +36,4 @@ Em uma época em que notícias falsas e distorcidas estão em todas as partes, s
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com, com artigos, informações gerais e cursos que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-[https://dunapress.org/subscription-plan/?ref=Leonardo](https://dunapress.org/subscription-plan/?ref=Leonardo)
+[https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)

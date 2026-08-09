@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Projeção de déficit nas contas públicas caiu para R$ 831,2 bi.
 
 Os gastos do governo federal relacionados ao enfrentamento à pandemia de covid-19 somaram R$ 620,5 bilhões, divulgou nesta terça-feira (22) a Secretaria Especial de Fazenda do Ministério da Economia. Desse total, R$ 588,9 bilhões afetarão o déficit primário neste ano, e R$ 31,6 bilhões impactarão as contas públicas em 2021.
@@ -38,8 +37,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

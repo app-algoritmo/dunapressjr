@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Um processo que usa uma espécie de sabão natural, feito à base de gordura animal e vegetal, acaba de ser patenteado pelo Instituto Nacional de Propriedade Industrial (INPI). O produto foi criado por pesquisadores da Universidade Federal do Rio Grande do Norte (UFRN) e tem o poder de extrair até 97% das impurezas tóxicas geradas pelos corantes usados no processo de fabricação da indústria têxtil. A novidade, 100% natural, foi desenvolvida no Programa de Pós-graduação em Engenharia Química da UFRN e conta com a participação dos cientistas Tereza Neuma, Afonso Avelino Dantas Neto, Eduardo Lins de Barros Neto, Shirley Katia da Silva Nunes e Ricardo Paulo Fonseca Melo.
 
 Ricardo Melo, ex-doutorando da UFRN, e um dos autores da patente da invenção (Foto: Arquivo pessoal)
@@ -34,7 +33,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

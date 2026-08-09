@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Previsão do governo é oferecer mais quatro parcelas este ano.
 
 Em sessão solene remota do Congresso Nacional nesta segunda-feira (15), deputados e senadores promulgaram a Emenda Constitucional 109/2021. O texto é resultado da aprovação da proposta de emenda à Constituição Emergencial, a PEC Emergencial. Aprovada no Senado no dia 4 de março e confirmada pela Câmara na madrugada da última sexta-feira (12), a norma abre caminho para que o governo federal pague, em 2021, um novo auxílio emergencial aos mais afetados pela pandemia de covid-19.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

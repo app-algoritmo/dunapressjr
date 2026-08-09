@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Mais autonomia e eficiência: essas são as promessas da cadeira de rodas motorizada desenvolvida pelo bolsista da CAPES, Willian Ricardo Bispo Murbak Nunes. O pesquisador, coorientado pelo professor Ruberlei Gaino, trabalhou no modelo durante o mestrado em Engenharia Elétrica, na Universidade Estadual de Londrina (UEL).
 
 Com motor trifásico, que transforma a energia elétrica em mecânica, o modelo é mais eficiente na manutenção da velocidade e da autonomia. “O sistema de controle garante estabilidade para diferentes pesos e obstáculos no chão, e também proporciona melhoria de autonomia, pois consome menos energia da bateria em relação às cadeiras com motores de corrente contínua”, explica Willian.
@@ -29,7 +28,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estabilidade ocorre após três trimestres seguidos de crescimento.
 
 O Produto Interno Bruto (PIB) - a soma de todos os bens e serviços produzidos no país - ficou estável no segundo trimestre de 2021, na comparação com o primeiro trimestre do ano. Houve variação negativa de 0,1%, o que o Instituto Brasileiro de Geografia e Estatística (IBGE) considera como estabilidade. Os dados são do Sistema de Contas Nacionais Trimestrais, divulgados nesta quarta-feira (1º) pelo IBGE.
@@ -18,10 +17,6 @@ Segundo o instituto, a estabilidade ocorre depois de três trimestres seguidos d
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

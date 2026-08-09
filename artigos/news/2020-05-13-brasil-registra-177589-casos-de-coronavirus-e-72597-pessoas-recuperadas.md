@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Os dados foram atualizados até as 19h desta terça-feira (12/5) com informações repassadas pelas Secretarias Estaduais de Saúde.
 
 O Ministério da Saúde registrou até as 19h desta terça-feira (12) o total de 177.589 casos de coronavírus em todo o Brasil, sendo que 40% das pessoas (72.597) estão recuperadas após contraírem a doença. As informações foram atualizadas e repassadas pelas Secretarias Estaduais de Saúde. Outros 95.593 casos (52,1%) estão em acompanhamento.
@@ -42,4 +41,4 @@ Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações 
 
 ASSINE O PRESS PERIÓDICO
 
-https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress
+https://dunapress.org/subscription-plan/

@@ -7,8 +7,7 @@ categories:
 - E-auto
 ---
 
-
-A Ford lança sua picape elétrica pesada Ford F-150 Lightning com chassi avançado que tem suspensão dianteira e traseira independentes, bateria de até  150kw e potências entre 426 e 563cv, com preços entre os 42.000 e 90.000 US$.
+A Ford lança sua picape elétrica pesada Ford F-150 Lightning com chassi avançado que tem suspensão dianteira e traseira independentes, bateria de até 150kw e potências entre 426 e 563cv, com preços entre os 42.000 e 90.000 US$.
 
 A estratégia da Ford tem sido eletrificar suas marcas mais populares primeiro, e é por isso que eles começaram com o Mustang, exatamente em um engarrafamento completamente novo, o popular Transit e agora o F-150.
 
@@ -29,7 +28,7 @@ A Ford não revelou o tamanho da bateria, mas o site americano Car and Driver ca
 
 O MODELO SUPERIOR: Platinum custará cerca de US $ 90.000 nos Estados Unidos.
 
-O carro, é rápido, tem tração nas quatro rodas por meio de um motor em cada eixo. 
+O carro, é rápido, tem tração nas quatro rodas por meio de um motor em cada eixo.
 
 O menor pacote recebe 426 cavalos, enquanto o maior recebe 563. Nesses tratores, o torque é muito mais importante. E aqui ambas as configurações têm até 1.050 Nm de torque. Nos Estados Unidos, pesa 4.535 quilos. Mas aí eles estão bem acostumados. O diesel mais potente pode suportar 6.350 quilos.
 
@@ -81,8 +80,4 @@ Fonte: Elbil.no
 
 https://dunapress.org/2021/02/10/duelo-dos-eletricos-4x4-ford-mustang-mach-e-ypper-vs-volvo-xc40-p8/
 
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!, clique e comece já!
-
-[](https://dunapress.org/edu)
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!

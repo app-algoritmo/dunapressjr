@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Bloco é formado por Brasil, Rússia, Índia, China e África do Sul.
 
 O presidente Jair Bolsonaro disse nesta quinta-feira (23) que as economias emergentes foram fundamentais para a recuperação da economia internacional que teve início em 2008, motivo pelo qual mostra-se ainda mais necessária a reforma de organizações internacionais, em especial do Conselho de Segurança das Nações Unidas. A afirmação foi feita durante a 14ª Cúpula do Brics, sob a presidência *pro tempore* [temporariamente] da China.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - Magazine
 ---
 
-
 ## -A grande farsa das organizações meio ambientais levam a busca por respostas e levanta uma questão polêmica sobre um grave problema ambiental que está alterando a climatologia do planeta Terra.
 
 Neste documentário você poderá descobrir números estatísticos irrefutáveis do setor que intensivamente está dizimando os recursos naturais do planeta e  por que essa crise tem sido ignorada por grandes grupos ambientalistas.
@@ -24,5 +23,3 @@ https://dunapress.org/2021/04/18/conheca-o-plano-climatico-agricola-de-reducao-d
 https://dunapress.org/2021/04/04/este-e-o-incentivo-em-dinheiro-que-a-noruega-esta-oferecendo-para-que-outras-nacoes-protejam-suas-florestas/
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

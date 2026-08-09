@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A formação profissional desenvolve habilidades, desperta a autoestima e incentiva a autonomia. É o que revela a pesquisa de pós-doutorado do bolsista da Coordenação de Pessoal de Nível Superior (CAPES), Renan Antônio da Silva, pelo Programa de Pós-Graduação em Direitos Humanos e Cidadania (PPGDH/Ceam/UnB). O estudo apresenta a importância dos cursos profissionalizantes na inserção de pessoas com deficiência no mercado de trabalho.
 
 A pesquisa acompanhou, entre agosto e dezembro de 2018, 28 concluintes de formações oferecidas pelo Serviço Nacional de Aprendizagem Industrial (Senai), do estado de São Paulo (SP). Desses, 57% eram do sexo masculino e 46% eram mulheres com idades entre 18 e 24 anos. Entre as deficiências observadas, 82% eram físicas, auditivas e visuais.
@@ -41,7 +40,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

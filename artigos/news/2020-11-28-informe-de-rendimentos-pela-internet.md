@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A Receita Federal simplificou o acesso ao informe de rendimentos do cidadão no Portal e-CAC.
 
 A Receita Federal tornou possível o acesso à **consulta aos rendimentos informados por fontes pagadoras**, disponível no Portal e-CAC, para cidadãos com o uso do código de acesso ou acesso único (conta Gov.Br), já adotado pela Receita Federal para autenticação no portal.
@@ -25,5 +24,3 @@ Fonte: Receita Federal
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

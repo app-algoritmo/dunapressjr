@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Agentes financeiros do programa de financiamento estudantil divulgaram procedimentos para interessados fazerem as solicitações.
 
 Estudantes com contratos do Fundo de Financiamento Estudantil (Fies) já podem pedir a suspensão do pagamento de até quatro parcelas nas plataformas disponibilizadas nesta semana pelos agentes financeiros: Banco do Brasil e Caixa. Segundo estimativa do Fundo Nacional de Desenvolvimento da Educação (FNDE), cerca de 960 mil alunos estão aptos ao benefício, que vale para aqueles que estavam com pagamentos em dia na data em que foi reconhecido o estado de calamidade pública por conta da pandemia do novo coronavírus – 20 de março.
@@ -35,7 +34,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

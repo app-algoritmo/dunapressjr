@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Saúde ampliou o período de vacinação contra o sarampo, para a população de 20 a 49 anos, até 31 de agosto. Dados preliminares das secretarias estaduais de saúde, registrados no Sistema de Informação do Programa Nacional de Imunizações, apontam que, desde o início da ação (16 de março) até o dia 15 de julho, foram vacinadas 3,7 milhões de pessoas nessa faixa-etária.
 
 A principal medida de prevenção e controle do sarampo é a vacinação, disponível durante todo o ano nos postos de saúde do País. Já foram enviadas 4,3 milhões de doses da vacina, além do quantitativo para o atendimento de rotina. Também está em andamento a aquisição emergencial de 29 milhões de seringas e agulhas para apoiar os estados.
@@ -30,6 +29,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

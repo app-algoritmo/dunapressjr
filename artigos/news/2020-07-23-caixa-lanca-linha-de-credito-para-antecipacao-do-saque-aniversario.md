@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Trabalhadores podem solicitar antecipação em até três saques na modalidade, com juros de 0,99% a.m.
 
 A Caixa Econômica vai disponibilizar, a partir da próxima segunda-feira (27), uma linha de crédito de Antecipação do Saque-Aniversário do FGTS. A nova linha oferece condições diferenciadas aos trabalhadores, que não precisarão esperar o mês de seu aniversário para terem acesso aos recursos do Saque-Aniversário.
@@ -26,4 +25,4 @@ Após optar pelo Saque-Aniversário, o cliente deverá acessar o Internet Bankin
 
 Fonte: gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

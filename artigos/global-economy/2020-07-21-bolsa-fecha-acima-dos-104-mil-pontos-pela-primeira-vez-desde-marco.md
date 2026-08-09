@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Dólar caiu para R$ 5,34 com avanços de vacinas.
 
 O Ibovespa fechou acima dos 104 mil pontos nesta segunda-feira (20), o que não acontecia desde março, com ações de varejo e de telecomunicações liderando as altas na bolsa de valores, em sessão ainda apoiada por ganhos em Wall Street após notícias positivas sobre vacinas contra a covid-19.
@@ -32,4 +31,4 @@ Com a expectativa de divulgar nesta terça-feira (21) sua proposta para unificar
 
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Paulo Whitaker/Direitos Reservados
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

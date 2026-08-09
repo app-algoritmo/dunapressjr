@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Pensando na guarda e na preservação da memória da prática pedagógica, especialmente para as gerações futuras, um de seus compromissos sociais, o centro de memória e pesquisa [História da Alfabetização, Leitura, Escrita e dos Livros Escolares](https://wp.ufpel.edu.br/hisales/) da Universidade Federal de Pelotas (Hisales/UFPel) lança o projeto “Memórias da Alfabetização em Tempos de Pandemia”. Assim, professoras e professores, pais, mães, crianças, gestores e demais interessados são convidados a contribuir com o projeto. Para isso, o Hisales pede que enviem vídeos (de no máximo de cinco minutos), textos, relatos, poesias, músicas, atividades, fotografias, entre outras manifestações do trabalho desenvolvido com/na alfabetização.
 
 De acordo com o grupo, hoje se vive tempos de incertezas, dúvidas, inseguranças, mas também de reinvenção. O chamado “ensino remoto” tem sido um desafio para todos. “Famílias e docentes estão tentando novas experiências na alfabetização das crianças – algumas, provavelmente, bem-sucedidas, outras nem tanto. Queremos conhecer essas experiências, compartilhá-las com colegas e guardar essa memória para que possamos manter vivas as experiências desse momento tão difícil e singular”, destaca o grupo. O intuito é, também, celebrar o importante e desafiador trabalho das professoras e dos professores, bem como das famílias.
@@ -18,7 +17,7 @@ Fonte: gov.br / Imagem em destaque: donfanews
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

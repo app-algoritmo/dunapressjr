@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### É a terceira queda seguida no preço de venda para distribuidoras.
 
 Os preços do querosene de aviação (QAV) terão redução de 0,84% nos valores de venda para as distribuidoras a partir do próximo sábado (1º). A informação foi divulgada nesta quarta-feira (28) pela Petrobras.
@@ -22,14 +21,10 @@ A Petrobras comercializa o QAV produzido em suas refinarias ou importado apenas 
 
 “Importante ressaltar que o mercado brasileiro é aberto à livre concorrência e não existem restrições legais, regulatórias ou logísticas para que outras empresas atuem como produtores ou importadores de QAV”, destacou a estatal.
 
-Informações adicionais sobre os preços de venda da Petrobras podem ser acessadas no [**site da companhia**](https://precos.petrobras.com.br/).  “Conforme regulação da ANP, os novos preços de QAV estarão disponíveis nesse *site* a partir de 1º de outubro, data de início de vigência”, concluiu.
+Informações adicionais sobre os preços de venda da Petrobras podem ser acessadas no [**site da companhia**](https://precos.petrobras.com.br/). “Conforme regulação da ANP, os novos preços de QAV estarão disponíveis nesse *site* a partir de 1º de outubro, data de início de vigência”, concluiu.
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

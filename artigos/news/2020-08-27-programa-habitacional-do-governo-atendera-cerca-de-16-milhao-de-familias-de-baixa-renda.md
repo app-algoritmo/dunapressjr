@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Programa atuará na regularização fundiária, melhoria dos imóveis, retomada de obras e menores juros para financiamento. Serão contempladas, principalmente, áreas ocupadas por famílias com renda de até R$ 5 mil mensais que vivam em núcleos urbanos informais.
 
 O Governo Federal lançou, nesta terça-feira (25), o Programa Casa Verde e Amarela que vai atender cerca de 1,6 milhão de famílias de baixa renda com financiamento habitacional até 2024. O programa conta com taxas de juros mais baixas e ampliação da regularização fundiária no País para garantir moradia digna à população.
@@ -53,5 +52,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

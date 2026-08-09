@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Entre as denúncias de violações de direitos humanos contra crianças e adolescentes, 18,6% dos casos estão ligados a situações de violência sexual. É o que demonstra um balanço realizado pela Ouvidoria Nacional dos Direitos Humanos do Ministério da Mulher, da Família e dos Direitos Humanos (ONDH/MMFDH). Foram 18.681 registros contabilizados entre janeiro e dezembro do ano passado. Em 2022, já foram registradas 4.486 denúncias.
 
 “A infância é uma das fases mais importantes do desenvolvimento humano e um evento traumático nessa fase pode ser determinante para a fase adulta. Por isso, é importante protegê-la”, alertou o secretário nacional dos Direitos da Criança e do Adolescente, Maurício Cunha. “Por isso, a campanha do Maio Laranja que estamos realizando tem o objetivo de tirar o tema da violência sexual da invisibilidade, informando, sensibilizando e convocando a participação de toda a sociedade em  defesa dos direitos deste segmento social”, completou.
@@ -24,7 +23,7 @@ A subnotificação também pode aparecer em outras bases de dados. De acordo com
 
 **Como denunciar**
 
-Em 2021, 48,4% (9.053) das denúncias de violência sexual contra crianças e adolescentes por meio do Disque 100 foram anônimas. A qualquer momento a central de atendimento da Ouvidoria pode ser acionada, 24 horas por dia, incluindo finais de semana e feriados. 
+Em 2021, 48,4% (9.053) das denúncias de violência sexual contra crianças e adolescentes por meio do Disque 100 foram anônimas. A qualquer momento a central de atendimento da Ouvidoria pode ser acionada, 24 horas por dia, incluindo finais de semana e feriados.
 
 A ONDH também dispõe de site, aplicativo (Direitos Humanos Brasil), WhatsApp (61-99656-5008) e Telegram (digitar na busca “Direitoshumanosbrasilbot”), que oferecem os mesmos serviços de escuta qualificada. No caso das crianças e adolescentes, a denúncia também pode ser realizada por meio do [Aplicativo Sabe - Conhecer, Aprender e Proteger.](https://www.gov.br/mdh/pt-br/assuntos/noticias/2021/outubro-rosa/aplicativo-que-recebe-denuncias-de-criancas-e-adolescentes-ja-esta-disponivel)
 
@@ -44,5 +43,3 @@ Fonte: https://www.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

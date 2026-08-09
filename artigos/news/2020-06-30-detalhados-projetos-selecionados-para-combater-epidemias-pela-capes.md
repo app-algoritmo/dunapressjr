@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Edital nº 9 de 2020 selecionou 31 projetos de pesquisa e formação de recursos humanos na pós-graduação. Serão 503 pesquisadores e 42 instituições envolvidas.
 
 “Nosso objetivo é atenuar as complicações cardiovasculares causadas pela COVID-19. São essas complicações que matam e lotam o sistema de saúde”, afirma Bruno Caramelli, coordenador de um dos 31 projetos selecionados no [edital nº 9](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/prevencao-e-combate-a-surtos-endemias-epidemias-e-pandemias-edital-n-09-2020) do [Programa de Combate a Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/prevencao-e-combate-a-surtos-endemias-epidemias-e-pandemias-edital-n-09-2020) da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Os projetos selecionados pela CAPES abrangem 503 pesquisadores de 42 instituições públicas e privadas, do Brasil e exterior.
@@ -28,7 +27,7 @@ Fonte: gov.br / Imagem em destaque: agazeta
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,23 +7,11 @@ categories:
 - Chronicle
 ---
 
-
 Esta é uma crônica em homenagem a todas as mulheres ativistas do Brasil. Porque 13 de Maio continua aqui, só nós é que não o vemos. Temos que lutar ainda muito para abolir a nossa escravatura. Proponho também esse exercício de despertar a pequena ou grande Princesa Isabel que mora em todas nós. Nossa inspiração é uma moça conservadora e recatada, que embora consciente de sua condição feminina, suas obrigações com o marido e os filhos, demonstra indignação com os desmandos de grupos de interesses que só querem o poder, mesmo à custa de vidas humanas e da escravização de homens, mulheres, idosos e crianças. Não, não estou me referindo às Tias do Zap e ao Dória.
 
 Video apresentação Vera Amatti
 
 Álbum de fotos Princesa Isabel
-
- 
-
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 
 Penso na mulher discriminada e vilipendiada por uma oligarquia machista e retrógrada, incapaz de vislumbrar um Brasil desenvolvido, com ideias novas e ao mesmo tempo preservando a tradição, respeitando crenças e opiniões. Um Brasil que negava o voto à mulher, a terra a quem a trabalhava e o trono à herdeira legítima e preparada para reinar. Muito antes de algumas feias recalcadas subverterem os ideais do direito *feminino*, transformando-o em *feminazismo*, Isabel defendia o direito das mulheres, correndo o risco aqui de certo anacronismo, pois o conceito de feminismo só aparece no século 20, ainda que gestado no século 19. Fosse a luta de Isabel levada adiante, as mulheres teriam direito de votar 40 anos antes no Brasil.
 
@@ -50,5 +38,3 @@ https://rainhastragicas.com/2015/12/10/princesa-isabel-a-rebelde-conheca-os-plan
 Ver também
 
 https://dunapress.org/2020/04/25/redes-sociais-aclamam-trineto-do-imperador-pedro-ii-para-presidencia-do-parlamento-brasileiro/
-
-[](https://dunapress.org/subscription-plan/?ref=barrosprojectmanager)

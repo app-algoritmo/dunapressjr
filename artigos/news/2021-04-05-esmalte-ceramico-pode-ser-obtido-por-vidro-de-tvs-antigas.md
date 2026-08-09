@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Os vidros dos tubos de imagem de televisores e monitores de computadores antigos podem ser usados na fabricação de esmalte para revestimentos cerâmicos. O trabalho, de pesquisadores da Escola de Engenharia de São Carlos da Universidade de São Paulo (EESC/USP) traz uma solução mais barata e sustentável do que a tradicional do mercado, pois recicla lixo eletrônico. A iniciativa nasceu de uma demanda direta da sociedade: um estudo feito pela equipe estima que só 26% dos vidros desse tipo seja reciclado em todo o mundo.
 
 A principal função do esmalte é impermeabilizar a peça cerâmica. O produto é, em geral, obtido a partir dos pós de argila, caulim e frita. Este é a matéria-prima mais cara da produção. Pela técnica desenvolvida na instituição de ensino paulista, ela pode ser  parcialmente substituída pelo vidro do painel dos televisores e monitores. O processo de tratamento do produto e seus resultados foram tema da [dissertação](https://www.teses.usp.br/teses/disponiveis/18/18158/tde-10122014-112933/pt-br.php) de Raúl Revelo, mestre e doutor em Engenharia dos Materiais pela USP e ex-bolsista da CAPES.
@@ -28,7 +27,3 @@ Fonte: *CCS/CAPES.*
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante!. Sua assinatura contribuirá para o crescimento do bom jornalismo e  ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

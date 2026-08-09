@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 ## Enquete parlamentar - Vote!, mas antes conheça os fatos.
 
-O Deputado Rodrigo Maia, o dono da câmara diz que este projeto de lei é um absurdo e que não perderá seu tempo em algo que não terá apoio da maioria dos deputados. 
+O Deputado Rodrigo Maia, o dono da câmara diz que este projeto de lei é um absurdo e que não perderá seu tempo em algo que não terá apoio da maioria dos deputados.
 
 Assista o vídeo
 
@@ -42,8 +41,6 @@ Flagrados pelas câmaras e pelas redes sociais, diversos parlamentares opositore
 ## Enquete parlamentar - clique para votar!
 
 [PL3019-2020](https://forms.camara.leg.br/ex/enquetes/2254171)
-
-[](https://dunapress.org/subscription-plan/?aff=barrosprojectmanager)
 
 ## Ver também
 

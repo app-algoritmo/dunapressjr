@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Pesquisa vai levantar informações e subsidiar produção de eventos virtuais, materiais de apoio, vídeos, podcasts e cursos.
 
 O Fundo Nacional de Desenvolvimento da Educação (FNDE), vinculado ao Ministério da Educação, lançou uma pesquisa para saber a opinião dos agentes educacionais sobre as ações de assistência técnica da autarquia. As informações enviadas pelos profissionais servirão como base para a produção de cursos, eventos virtuais e materiais de apoio, como vídeos, e-books e podcasts.
@@ -21,8 +20,6 @@ Podem participar da pesquisa diretores de escola, conselheiros de alimentação 
 O assessor técnico de educação corporativa, Carlos Fortini, explica que todas as sugestões serão levadas em conta a fim de que os materiais produzidos alcancem o público de maneira mais prática e eficiente. “Ao contar com gestores educacionais na elaboração das políticas públicas, há maior chance de estas serem consistentes, melhorando assim o desempenho de todos os profissionais envolvidos com a execução dos programas”.
 
 Fonte: gov.br/mec / Imagem em destaque: mec
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

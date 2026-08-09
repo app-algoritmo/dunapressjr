@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Pesquisa analisa como a depressão, a ansiedade e o estresse afetam os cuidados do paciente com a pressão arterial.
 
 Além da prevenção, do diagnóstico, do tratamento e da cura, cientistas buscam soluções para os efeitos da COVID-19 na saúde mental dos pacientes. É o caso de pesquisadores da Programa de Pós-Graduação em Enfermagem da Universidade Federal de Goiás (UFG), que analisam as complicações do novo coronavírus em hipertensos.
@@ -44,7 +43,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

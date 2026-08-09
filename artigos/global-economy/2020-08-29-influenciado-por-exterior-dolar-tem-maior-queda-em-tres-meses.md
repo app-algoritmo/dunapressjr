@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Moeda norte-americana fechou em R$ 5,41.
 
 Influenciado por ações do Banco Central norte-americano, o dólar teve nesta sexta-feira (28) a maior queda em três meses. O dólar comercial encerrou o dia vendido a R$ 5,416, com recuo de R$ 0,163 (-2,93%). Essa foi a maior queda percentual em um dia desde 2 de junho, quando a moeda tinha caído 3,23%.
@@ -25,5 +24,3 @@ Além dos fatores internacionais, a alta do Ibovespa foi influenciada pelos juro
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

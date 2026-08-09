@@ -20,9 +20,9 @@ A corrida de 10 km terá largada às 7h, seguida pelo percurso de 5 km, às 7h30
 
 As crianças que participarem da corrida ganharão ingressos para o longa da Paramount Pictures, além de máscaras dos personagens, que vão interagir com as crianças, tirar fotos e distribuir os ingressos e as máscaras.
 
-“Será, com certeza, um evento com muita diversão para as famílias. Esperamos todos na Marginal Pinheiros neste domingo”, afirma Rafael Montalvão, diretor de marketing da Netshoes. 
+“Será, com certeza, um evento com muita diversão para as famílias. Esperamos todos na Marginal Pinheiros neste domingo”, afirma Rafael Montalvão, diretor de marketing da Netshoes.
 
-**Entrega de kits –** A entrega do kit para os inscritos na Netshoes Run (Premium, Intermediário, Básico ou Infantil) será na loja Netshoes da rua Maria Prestes Maia, 300, na Vila Guilherme, nesta sexta-feira (25), das 12h às 20h, e no sábado (26), das 9h às 18h. Nesses dias, os 500 primeiros que chegarem e levarem um tênis usado para doação, ganharão uma corta vento exclusiva da marca. 
+**Entrega de kits –** A entrega do kit para os inscritos na Netshoes Run (Premium, Intermediário, Básico ou Infantil) será na loja Netshoes da rua Maria Prestes Maia, 300, na Vila Guilherme, nesta sexta-feira (25), das 12h às 20h, e no sábado (26), das 9h às 18h. Nesses dias, os 500 primeiros que chegarem e levarem um tênis usado para doação, ganharão uma corta vento exclusiva da marca.
 
 A Netshoes Run tem como patrocinador principal a Samsung, com patrocínios de Paramount, Livela, Época Cosméticos e Oakley. A organização é da Sagaz Esportes.
 
@@ -34,9 +34,7 @@ André Vendrami
 **](https://click.presskit.com.br/url/966399e1b9/6361388b6fc)**Gabriela Tornich****
 **[gabriela.tornich@novapr.com.br**
 **](https://click.presskit.com.br/url/966400ab20/6361388b6fc)**Patricia Vivas****
-**[patricia.vivas@novapr.com.br](https://click.presskit.com.br/url/9664016382/6361388b6fc)[
-
-](https://click.presskit.com.br/url/966402b655/6361388b6fc)***ZDL - Imprensa Sagaz******
+**[patricia.vivas@novapr.com.br](https://click.presskit.com.br/url/9664016382/6361388b6fc)***ZDL - Imprensa Sagaz******
 Doro Jr. - MTb 13209 - ***[***dorojr@zdl.com.br***](https://click.presskit.com.br/url/9664033d87/6361388b6fc)*** - 11 984579723******
 Deborah Mamone - MTb 15148  - ***[***deborah@zdl.com.br***](https://click.presskit.com.br/url/966404be6e/6361388b6fc)*** - 11 3285.5911******
 Site: ***[***www.zdl.com.br******

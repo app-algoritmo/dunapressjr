@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Crédito especial será destinado à Caixa, Ceagesp, Eletrosul e Emgepron.
 
 O governo federal encaminhou ao Congresso Nacional um projeto de lei (PL) para abertura de crédito especial no valor de R$ 61,6 milhões. Os recursos serão investidos na Caixa Econômica Federal, Companhia de Entrepostos e Armazéns Gerais de São Paulo (Ceagesp), Companhia de Geração e Transmissão de Energia Elétrica do Sul do Brasil (CGT Eletrosul) e Empresa Gerencial de Projetos Navais (Emgepron).
@@ -34,10 +33,6 @@ A pasta destacou que a proposta de alteração orçamentária é compatível com
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

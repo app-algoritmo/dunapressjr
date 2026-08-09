@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ao longo do tempo, o Paço de São Cristóvão, que abriga hoje o Museu Nacional, sofreu diversas transformações, como a ampliação do palácio feita por D. Pedro II a partir de 1850. Lá ele viveu em um período de longa duração, tornando este edifício testemunha de diversos momentos importantes na História do Brasil.
 
 Paço de São Cristóvão.
@@ -53,7 +52,3 @@ Fonte: https://www.museunacional.ufrj.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

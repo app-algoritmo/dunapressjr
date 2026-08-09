@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Novos modelos são para venda de gasolina A e óleo diesel.
 
 A Petrobras aprovou novos modelos contratuais para venda de gasolina A (sem adição de etanol) e de óleo diesel (rodoviário e marítimo) para as distribuidoras de combustíveis. A Petrobras não deu detalhes sobre os novos modelos, mas informou que não haverá mudanças em sua política de preços desses produtos.
@@ -20,10 +19,6 @@ A decisão de fazer novos modelos contratuais com as distribuidoras visa a aumen
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

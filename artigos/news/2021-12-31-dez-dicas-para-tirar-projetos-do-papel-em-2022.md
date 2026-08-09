@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Uma lista de metas para cumprir, uma de livros para ler, uma de lugares para conhecer, uma de conflitos a solucionar, uma de amigos para rever e daí por diante. Para muitas pessoas, o fim de ano é uma oportunidade de avaliar a própria evolução e traçar objetivos para os próximos 365 dias que estão para começar. Mas, diante de todos os desafios dos últimos dois anos, como organizar esses objetivos de maneira realista?
 
 Para a doutora em Educação e professora do curso de Psicologia da Universidade Positivo, Rafaela de Faria, “o fato de planejar o ano seguinte e almejar conquistas que se gostaria de alcançar já é uma forma de exercitar a esperança em dias melhores, mas a perseverança para enfrentar os momentos difíceis e seguir em frente é o que faz a diferença nas realizações”. Mas atenção: as metas determinadas no início de um ciclo precisam ser realistas, desafiadoras, mas estar ao alcance. Do contrário, essas listas podem gerar ainda mais frustração. Rafaela aponta dez dicas para melhorar a lista de objetivos para 2022.
@@ -34,7 +33,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

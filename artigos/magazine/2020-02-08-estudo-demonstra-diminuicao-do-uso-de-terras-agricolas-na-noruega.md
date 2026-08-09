@@ -7,7 +7,6 @@ categories:
 - Magazine
 ---
 
-
 Um estudo baseado em mapas de recuperação de terras e mudanças no uso da terra, demonstram a demolição de terras agrícolas.
 
 Ao longo de muitos anos, as terras agrícolas foram construídas para o benefício de moradias, estradas, indústria e outros fins, mas até agora a extensão ainda não é conhecida. O Statistics Norway (Statistics Norway), portanto, em colaboração com o Instituto Norueguês de Bioeconomia (NIBIO), analisou dados de mapas digitais para mapear a deterioração real e usar a mudança de terras cultivadas e aráveis.
@@ -21,8 +20,6 @@ http://gty.im/1171943705
 Durante o período de 2004 a 2015, 97.600 acres de terras agrícolas foram demolidas na Noruega. Isso corresponde a 0,9% das terras agrícolas registradas no início da análise. Entre os municípios, Rogaland está no topo, com um total de 17.000 acres de área construída. Isso corresponde a 1,6% das terras agrícolas disponíveis no município no início deste período. A menor área agrícola foi construída em Oslo, com 300 acres, mas ainda assim constituía a maior parcela em todo o condado, com 3,4% da área disponível.
 
 Clique na Imagem para ver as estatísticas gerais
-
-[](https://www.ssb.no/natur-og-miljo/faktaside/landskap-i-norge)
 
 ### Maior pressão perto das cidades
 

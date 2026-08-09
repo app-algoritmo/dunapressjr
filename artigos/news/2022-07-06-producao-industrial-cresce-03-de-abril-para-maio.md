@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Setor não consegue repor perda de 1,9% de janeiro.
 
 A produção da indústria brasileira cresceu 0,3% na passagem de abril para maio deste ano. É a quarta alta consecutiva. Apesar dos quatro meses de crescimento, a indústria ainda não conseguiu repor a perda de 1,9% de janeiro.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

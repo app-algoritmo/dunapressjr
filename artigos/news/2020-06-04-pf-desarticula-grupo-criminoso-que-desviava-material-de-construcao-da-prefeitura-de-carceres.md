@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Cárceres/MT - A Polícia Federal, em operação conjunta com a Força Tática, Polícia Militar e o Sistema Penitenciário, deflagrou nesta quarta-feira (3/6) a Operação BETUME, com o objetivo de desarticular grupo criminoso que atuava desviando material de construção civil (piche asfáltico) da Prefeitura Municipal de Cáceres / MT.
 
 Os policiais federais flagraram os indivíduos descarregando o produto da Secretaria de Obras da Prefeitura Municipal de Cáceres / MT em uma residência. Segundo informações, o material era comercializado e vendido a particulares por preço abaixo de mercado.
@@ -22,5 +21,3 @@ A Prefeitura Municipal de Cáceres / MT acompanhou a operação e recebeu de vol
 A Polícia Federal seguirá com as investigações para identificar todos os envolvidos no crime.
 
 Comunicação Social da Polícia Federal no Mato Grosso
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

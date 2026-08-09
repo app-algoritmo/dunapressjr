@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Segundo o [Blog da Saúde](http://www.blog.saude.gov.br/promocao-da-saude/32563-dismorfofobia-transtorno-causa-preocupacao-excessiva-com-a-aparencia), a vigorexia é um tipo de transtorno dismorfóbico – de distorção da autoimagem e faz com que os indivíduos que o possui fiquem exageradamente fortes, desenvolvendo muito alguns grupos musculares que tiram a uniformidade do corpo.
 
 Desse modo, a vigorexia é uma doença psicológica caracterizada pela insatisfação constante com o corpo, conforme explica Silvia Feiten, Mestre em Saúde Pública do Hospital Universitário Maria Aparecida Pedrossian (MS) e vinculada à Empresa Brasileira de Serviços Hospitalares (EBSERH).
@@ -50,7 +49,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

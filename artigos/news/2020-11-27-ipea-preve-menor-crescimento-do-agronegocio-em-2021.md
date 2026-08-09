@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Redução está relacionada às produções de trigo, café e cana-de-açúcar.
 
 O agronegócio deve crescer 1,5% em 2020 e 1,2% no ano que vem. A projeção é do Instituto de Pesquisa Econômica Aplicada (Ipea), que reviu para baixo suas previsões. Na análise anterior, feita no mês passado, o instituto estimou crescimento de 1,9% e 2% para este ano e para 2021, respectivamente. Os novos números estão descritos na [**Carta de Conjuntura Agro**](https://www.ipea.gov.br/portal/images/stories/PDFs/conjuntura/201124_cc_49_nota_21_agropecuaria.pdf) publicada nesta semana.
@@ -33,5 +32,3 @@ Fonte: Agência Brasil – Imagem de destaque: CNA/Wenderson Araujo/Trlux
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

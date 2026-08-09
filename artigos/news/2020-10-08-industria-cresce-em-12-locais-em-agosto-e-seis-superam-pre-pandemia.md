@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dados foram divulgados hoje pelo IBGE.
 
 O setor industrial nacional teve alta em 12 dos 15 locais analisados pela Pesquisa Industrial Mensal (PIM-Regional), na passagem de julho para agosto. O resultado mostra que seis locais já superaram o patamar pré-pandemia da covid-19: Amazonas (7,6%), Pará (5,5%) Ceará (5%), Goiás (3,9%), Minas Gerais (2,6%) e Pernambuco (0,7%) estão acima do nível de produção de fevereiro de 2020.
@@ -31,5 +30,3 @@ Por outro lado, Pernambuco (-3,9%) e Espírito Santo (-2,7%) tiveram as maiores 
 Fonte: Agência Brasil – Imagem de destaque: CNI/Miguel Ângelo/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

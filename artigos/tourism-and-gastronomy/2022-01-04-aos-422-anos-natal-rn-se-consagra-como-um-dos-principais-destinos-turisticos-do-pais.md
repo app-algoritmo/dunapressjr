@@ -8,7 +8,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 Point dos buggys e reconhecida como terra do camarão, Natal (RN) comemorou 422 anos no dia  25 de Dezembro. Apesar de ser a segunda capital brasileira com a menor área territorial, a cidade potiguar guarda grandes atrativos turísticos, principalmente para os apaixonados por sol e mar. Além das praias deslumbrantes, os turistas podem aproveitar a culinária sem igual, uma arte ímpar, cultura e uma hospitalidade que só os natalenses têm. Para nos apresentar todos estes encantos, convidamos a guia de turismo Patrícia Araújo.
 
 Para começar, Paty, como é conhecida pelos turistas, destaca a potencialidade de sol e mar que a capital potiguar apresenta. “O Rio Grande do Norte é considerado para muitos um destino de sol e praia. Temos 410 km de litoral. Os turistas vêm conhecer as belezas que são mostradas nas novelas e em programas de TV. Pipa e a Praia de Baía de Formosa são alguns dos principais destinos destas pessoas”, destacou a guia.
@@ -38,7 +37,3 @@ Fonte: https://www.gov.br/turismo
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

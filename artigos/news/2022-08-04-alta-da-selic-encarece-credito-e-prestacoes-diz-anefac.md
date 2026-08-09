@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Poupança continua rendendo menos que fundos de investimento.
 
 **[A elevação da taxa Selic (juros básicos da economia), decidida nesta quarta-feira (3) pelo Banco Central](https://dunapress.org/2022/08/04/copom-eleva-juros-basicos-da-economia-para-1375-ao-ano/)**, continuará a encarecer o crédito e as prestações, segundo a Associação Nacional dos Executivos de Finanças, Administração e Contabilidade (Anefac). Apesar de o impacto na ponta final ser diluído, por causa da diferença muito grande entre a taxa básica e os juros efetivos de prazo mais longo, o tomador de novos empréstimos sentirá os efeitos do aperto monetário.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

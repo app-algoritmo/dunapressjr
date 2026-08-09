@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa teve maior queda diária desde abril.
 
 Em mais um dia de tensão no mercado financeiro, o dólar voltou a fechar no maior nível em cinco meses e a bolsa de valores teve a maior queda percentual para um dia desde abril. O dólar comercial encerrou esta quarta-feira (28) vendido a R$ 5,763, com alta de R$ 0,081 (+1,43%).
@@ -25,5 +24,3 @@ Nos Estados Unidos, as bolsas também fecharam em queda, afetadas pelo avanço d
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Mike Segar/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

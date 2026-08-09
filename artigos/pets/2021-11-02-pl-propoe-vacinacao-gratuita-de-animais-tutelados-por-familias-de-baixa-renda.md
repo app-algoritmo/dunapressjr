@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 Um projeto de lei protocolado na terça-feira (31/08) pelo deputado Chiquinho Brazão (Avante-RJ) propõe a “vacinação gratuita” de animais tutelados por famílias de baixa renda.
 
 O benefício diz respeito às vacinas polivalentes V8 para cães e V4 para gatos que previnem diversas doenças – como cinomose, hepatite infecciosa canina, parvovirose, coronavirose, leptospirose, panleucopenia, calicivirose, rinotraqueíte e clamidiose.
@@ -47,7 +46,3 @@ Fonte: [https://vegazeta.com.br](https://vegazeta.com.br)
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

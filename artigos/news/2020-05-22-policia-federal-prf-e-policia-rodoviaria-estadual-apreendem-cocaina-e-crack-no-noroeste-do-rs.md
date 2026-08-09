@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Santo Ângelo/RS: Ação integrada da Polícia Federal, Polícia Rodoviária Federal e Polícia Rodoviária Estadual resultou na apreensão de dois quilos de cocaína e crack e na prisão de um homem por tráfico de drogas.
 
 A abordagem ocorreu na manhã de hoje (21/5) na BR-285, no município de Bozano, na região noroeste do Estado. Policiais abordaram um casal que se deslocava em um automóvel que se dirigia da região metropolitana de Porto Alegre em direção a Santa Rosa.
@@ -20,5 +19,3 @@ Os dois foram conduzidos à Polícia Federal em Santo Ângelo, onde foram ouvido
 As prisões e a apreensão são fruto do trabalho integrado da Polícia Federal, Polícia Rodoviária Federal, Receita Federal, Polícia Rodoviária Estadual, Canil do 7º RPMon e da DRACO de Santa Rosa.
 
 Comunicação Social da Polícia Federal em Santo Ângelo
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Os dados estão no Relatório Contábil do Tesouro Nacional (RCTN) de 2020, divulgado pelo Tesouro Nacional
 
 O patrimônio líquido (PL) da União, que é a diferença entre o total de ativos e passivos da Administração Pública Federal, ficou negativo em R$ 4,445 trilhões em 2020, o que representa um aumento nominal de R$ 1,463 trilhão, ou seja, crescimento de 49,1% em relação ao valor de 2019 (R$ 2,982 trilhões). Os dados estão no [Relatório Contábil do Tesouro Nacional (RCTN)](https://www.tesourotransparente.gov.br/publicacoes/relatorio-contabil-do-tesouro-nacional-rctn/) de 2020, divulgado nesta quinta-feira (10/6) pelo Tesouro Nacional.
@@ -23,8 +22,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

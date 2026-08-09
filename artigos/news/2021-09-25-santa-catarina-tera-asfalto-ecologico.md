@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## A pavimentação ecológica é uma alternativa sustentável, com durabilidade alta e evita o recapeamento a cada três ou quatro anos, além de reduzir o impacto ambiental com a exploração das pedreiras.
 
 Hoje, o Brasil adota a pavimentação com mistura composta de 95% de pedra britada e 5% de asfalto, ocasionando o curto prazo de durabilidade e baixo desempenho desse tipo de asfalto, que costuma apresentar problemas como trincas, buracos e outros. Isso acaba gerando novos gastos e comprometendo o fluxo de veículos.
 
-Projeto de Lei 227/2019, do deputado Marcius Machado (PL), que garante a preferência para o uso de massa asfáltica adicionada com borracha de pneus usados (asfalto borracha ou asfalto ecológico), na pavimentação ou na conservação de estradas estaduais e municipais. A Lei 18.145/2021 pode ser acessada no link: https://bit.ly/3xd3J1J.
+Projeto de Lei 227/2019, do deputado Marcius Machado (PL), que garante a preferência para o uso de massa asfáltica adicionada com borracha de pneus usados (asfalto borracha ou asfalto ecológico), na pavimentação ou na conservação de estradas estaduais e municipais. A Lei 18.145/2021 pode ser acessada no link:
 
 O Projeto foi sancionado pelo governador Carlos Moisés da Silva (PSL) .
 
@@ -35,7 +34,3 @@ Fonte: http://agenciaal.alesc.sc.gov.br/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

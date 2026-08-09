@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Florianópolis/SC – A Polícia Federal, em conjunto com a CGU, deflagrou nesta quarta-feira, 17/6, a Operação Torre de Marfim II, que investiga desvios de recursos públicos mediante utilização da UFSC e de suas fundações de apoio, com o cumprimento de mandados de busca e apreensão em dois locais distintos. A ação é um desdobramento da Operação Torre de Marfim, deflagrada em 07/12/2017.
 
 Com base no resultado das buscas realizadas na primeira fase da operação e nos dados obtidos a partir da decretação de quebra de sigilos bancário e fiscal dos investigados, foi possível identificar fortes indícios de pagamento de propina da ordem de R$ 2,4 milhões para ex-funcionário do Ministério da Saúde, com o objetivo de que direcionasse verbas federais para a UFSC, no montante de R$ 40 milhões, para o projeto E-SUS ATENÇÃO BÁSICA, que visava desenvolver ferramenta de informática para gestão de dados da atenção básica no sistema SUS.
@@ -21,5 +20,3 @@ Em relação ao empresário, foram determinadas várias medidas cautelares diver
 Os dois investigados foram indiciados pela prática de crimes licitatórios  (artigos 89 e 90 da Lei nº 8.666/93), de corrupção ativa (artigo 333 do Código Penal), de corrupção passiva(artigo 317 do Código Penal), de peculato (artigo 312 do Código Penal) e de lavagem de dinheiro (artigo 1º, *caput*, da Lei nº 9.613/98).
 
 **Comunicação Social da Polícia Federal em Santa Catarina**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

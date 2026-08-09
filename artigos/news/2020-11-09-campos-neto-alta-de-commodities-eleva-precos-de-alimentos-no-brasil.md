@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ele também citou aumento do consumo de alimentos em casa.
 
 O presidente do Banco Central, Roberto Campos Neto, disse nesta segunda-feira (9) que a alta dos preços de alimentos no Brasil é influenciada pelo dólar e pelos preços de commodities, produtos básicos com cotação internacional.
@@ -23,5 +22,3 @@ O presidente do BC também reforçou que o governo brasileiro quer reduzir o tam
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

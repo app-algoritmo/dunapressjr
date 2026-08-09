@@ -8,7 +8,6 @@ categories:
 - Literature
 ---
 
-
 Além dos prejuízos econômicos, como redução da renda e o desemprego, a pandemia está causando danos psicológicos irreversíveis. De acordo com o economista José Pio Martins, reitor da Universidade Positivo e membro da Academia Paranaense de Letras, o confinamento necessário para conter o contágio da Covid-19 é uma tragédia para o relacionamento, principalmente para as crianças, que estão afastadas dos amigos. "A escola não é apenas local de alfabetização, instrução, é espaço de lazer, de relacionamento humano e social, em que a criança vai se adaptando à sociedade", afirma.
 
 Segundo o professor, ouvir, ler e assistir histórias de superação trazem conforto para enfrentar este período, mostrando que todos nós podemos escapar das armadilhas da nossa mente, não importam as circunstâncias. "Se alguém falar para mim que está triste e angustiado, por causa do cenário que estamos vivendo eu sugiro que procurem as histórias de Simon Gronowski e Edith Eva Eger, ambos com mais de 90 anos e sobreviventes do Holocausto".
@@ -23,7 +22,7 @@ Perguntado por que toca piano na janela, o advogado belga respondeu que fica fel
 
 **Edith Eva Eger**
 
-Aos 93 anos, a judia eslovaca Edith Eva Eger é doutora em Psicologia e se dedica a ajudar soldados com traumas físicos e mentais causados pela guerra. Ela e a irmã foram salvas do campo de concentração de Auschwitz aos 16 anos, onde os pais foram assassinados na câmara de gás. Pio Martins indica a leitura de dois livros de Edith Eva Eger: "A liberdade é uma escolha" que, com lições práticas e inspiradoras, revela o penoso processo de superação da autora e ajudam as pessoas a se libertarem de suas prisões mentais; e "A bailarina de Auschwitz", que conta a história da sobrevivente do Holocausto. 
+Aos 93 anos, a judia eslovaca Edith Eva Eger é doutora em Psicologia e se dedica a ajudar soldados com traumas físicos e mentais causados pela guerra. Ela e a irmã foram salvas do campo de concentração de Auschwitz aos 16 anos, onde os pais foram assassinados na câmara de gás. Pio Martins indica a leitura de dois livros de Edith Eva Eger: "A liberdade é uma escolha" que, com lições práticas e inspiradoras, revela o penoso processo de superação da autora e ajudam as pessoas a se libertarem de suas prisões mentais; e "A bailarina de Auschwitz", que conta a história da sobrevivente do Holocausto.
 
 "As lições deixadas por Edith e Simon nos enchem de esperança e provam que enquanto há saúde e vida, há o que fazer", ressalta o reitor, reforçando a importância do distanciamento social e comemorando a chegada da vacinação aos professores.
 
@@ -36,7 +35,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

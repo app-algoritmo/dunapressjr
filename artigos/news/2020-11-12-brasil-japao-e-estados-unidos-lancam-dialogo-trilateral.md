@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Os três países intensificarão a coordenação de políticas sobre questões regionais, busca de uma prosperidade econômica compartilhada e fortalecimento da governança democrática.
 
 Representantes do Brasil, Japão e Estados Unidos reuniram-se para lançar o Diálogo Trilateral Brasil-EUA-Japão (JUSBE). **Na esteira dos tradicionais vínculos que mantêm, baseados em valores compartilhados como liberdade, direitos humanos, democracia e o Estado de Direito, as três nações almejam uma ordem internacional livre e aberta, onde países prosperam lado a lado como Estados soberanos e independentes**.
@@ -21,5 +20,3 @@ Os três países afirmaram ainda o compromisso em assegurar um ecossistema de re
 Fonte: gov.br – Imagem de destaque: Ministério das Relações Exteriores
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

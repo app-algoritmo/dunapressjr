@@ -8,12 +8,11 @@ categories:
 - News
 ---
 
-
 Chatbot simula conversa humana e estará disponível no SUS.
 
 O Hospital Universitário Lauro Wanderley, na Paraíba, desenvolveu um robô virtual que interage com o usuário por meio de conversas online e fornece informações sobre sintomas e formas de prevenção contra o novo coronavírus (Covid-19). 
 
-Batizado de Dr. Labimec, o chatbot criado pelos pesquisadores do Labimec, na verdade, é um software que trabalha e gerencia as trocas de mensagens simulando uma conversa humana. 
+Batizado de Dr. Labimec, o chatbot criado pelos pesquisadores do Labimec, na verdade, é um software que trabalha e gerencia as trocas de mensagens simulando uma conversa humana.
 
 Ao atender os internautas, o assistente virtual tem a finalidade de medir o grau de conhecimento das pessoas e passar conceitos dos órgãos como a Organização Mundial da Saúde (OMS) e o Ministério da Saúde (MS). Entre as informações que o robô virtual repassa, estão: formas de prevenção à covid-19, principais sintomas da doença e sugestões de hospitais de referência.
 
@@ -32,5 +31,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

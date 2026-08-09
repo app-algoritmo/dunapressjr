@@ -7,12 +7,11 @@ categories:
 - Health
 ---
 
-
 Estudo analisou, dentre outras questões, a proporção de anticorpos da população brasileira em relação ao coronavírus, que chegou a 3,8% do público entrevistado na terceira fase.
 
 O maior estudo sobre a Covid-19 no Brasil, “Evolução da Prevalência de Infecção por Covid-19 no Brasil: Estudo de Base Populacional”, financiado pelo Ministério da Saúde, foi concluído e trouxe informações importantes sobre a evolução da doença no país. O estudo foi coordenado pelo Centro de Epidemiologia da Universidade Federal de Pelotas (UFPel) com a proposta de utilização dos resultados, pelo Ministério da Saúde, na formulação de estratégias para o combate à pandemia, além de ações e programas de prevenção.
 
-Para a realização do inquérito, o Governo Federal disponibilizou 150 mil testes rápidos que detectam a presença de anticorpos IgM (de infecção mais recente) e IgG (de infecção mais antiga) para o coronavírus, a partir de amostras de sangue. A pesquisa entrevistou e testou 89.397 pessoas em todas as regiões do país durante os meses de maio de junho de 2020. 
+Para a realização do inquérito, o Governo Federal disponibilizou 150 mil testes rápidos que detectam a presença de anticorpos IgM (de infecção mais recente) e IgG (de infecção mais antiga) para o coronavírus, a partir de amostras de sangue. A pesquisa entrevistou e testou 89.397 pessoas em todas as regiões do país durante os meses de maio de junho de 2020.
 
 A coleta de dados foi feita por profissionais do Instituto Brasileiro de Opinião Pública e Estatística (Ibope) nos domicílios de 133 cidades espalhadas por todos os estados do Brasil. Houve três fases de coleta de dados: a primeira fase ocorreu de 14 a 21 de maio, totalizando 25.025 (75,2%) entrevistas e testes; a segunda, entre os dias 04 e 07 de junho, com o total de 31.165 (93,7%) entrevistas e testes; e a terceira, entre os dias 21 e 24 de junho, totalizando 33.207 (99,9%) entrevistas e testes.
 
@@ -56,4 +55,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

@@ -7,7 +7,6 @@ categories:
 - Features
 ---
 
-
 A história da família ultraortodoxa de Jerusalém recomeça quatro anos depois, com nove novos episódios.
 
 Os fãs israelenses de “Shtisel” estavam esperando, com a tão esperada estreia da terceira temporada do amado drama exibido em 20 de dezembro de 2020,às 21h no Yes.
@@ -18,7 +17,7 @@ O patriarca Shulem Shtisel (Dov Glickman) está procurando um jogo sete anos ap�
 
 Ruchami (Shira Haas, vencedora do Emmy por "Unorthodox") e Hanina Tonik (Yoav Rotman) estão descobrindo seu próprio matrimônio, enquanto seus pais, Giti (Neta Riskin) e Lippe (Zohar Strauss), continuam a discutir em seu casamento complicado.
 
-A 3ª temporada estará disponível em breve na Netflix, anunciou o produtor YES Studios , com as temporadas 1 e 2 restantes no serviço de streaming para visualização junto com os episódios mais recentes. Em Israel, os novos episódios da terceira temporada de “Shtisel” irão ao ar semanalmente, com legendas em inglês disponíveis no Yes VOD.  
+A 3ª temporada estará disponível em breve na Netflix, anunciou o produtor YES Studios , com as temporadas 1 e 2 restantes no serviço de streaming para visualização junto com os episódios mais recentes. Em Israel, os novos episódios da terceira temporada de “Shtisel” irão ao ar semanalmente, com legendas em inglês disponíveis no Yes VOD.
 
 Trabalhar na terceira temporada foi como “voltar para casa”, disse Dikla Barkai, produtora de longa data de “Shtisel”, que foi uma das primeiras a ler o roteiro escrito por Ori Elon e Yehonatan Indursky.
 
@@ -44,7 +43,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

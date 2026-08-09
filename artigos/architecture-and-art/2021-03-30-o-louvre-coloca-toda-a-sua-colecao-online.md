@@ -7,7 +7,6 @@ categories:
 - Architecture and Art
 ---
 
-
 O museu do Louvre em Paris disse na sexta-feira que colocou quase meio milhão de itens de sua coleção online para o público visitar gratuitamente.
 
 Como parte de uma grande renovação de sua presença online, o museu mais visitado do mundo criou um novo banco de dados de 482.000 itens em [Collections.louvre.fr](https://collections.louvre.fr/en/) com mais de três quartos já etiquetados com informações e fotos.
@@ -48,7 +47,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

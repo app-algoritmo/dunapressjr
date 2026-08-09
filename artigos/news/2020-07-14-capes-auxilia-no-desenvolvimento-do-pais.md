@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em comemoração ao aniversário da CAPES, que completou 69 anos no último sábado, o presidente Benedito Aguiar faz um balanço das ações nos primeiros seis meses de 2020.
 
 Neste período de pandemia a CAPES reorganizou sua forma de trabalho e manteve todas as iniciativas em funcionamento, com aumento da produtividade e implementação de ações inéditas. A continuidade de programas e a criação de outras iniciativas são destacadas por Benedito Aguiar em entrevista, onde fala do aumento do número de bolsas à avaliação multidimensional, passando pela educação a distância, formação de professores e auxílio aos bolsistas no Brasil e exterior. “A CAPES tem tido um papel fundamental no desenvolvimento social e econômico do nosso País e se tornará cada vez mais relevante na busca de uma melhor qualidade de vida da população”, ressalta.
@@ -42,7 +41,7 @@ Fonte: gov.br / Imagem em destaque: folhabv
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

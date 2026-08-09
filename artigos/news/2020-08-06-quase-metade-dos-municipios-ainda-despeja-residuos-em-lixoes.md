@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Brasil tem alto índice de destinação incorreta do lixo**.
 
 Quase metade dos municípios brasileiros (49,9%) pesquisados ainda despeja resíduos em lixões – depósitos irregulares e ilegais. Além disso, 17,8 milhões de brasileiros não têm coleta de lixo nas casas e apenas 3,85% dos resíduos são reciclados. Os dados fazem parte do Índice de Sustentabilidade da Limpeza Urbana (ISLU), elaborado pelo Sindicato Nacional das Empresas de Limpeza Urbana (Selurb), em parceria com a consultoria PwC Brasil.
@@ -66,4 +65,4 @@ Os países desenvolvidos, ao contrário, com soluções regionalizadas e estrutu
 
 Fonte: Agência Brasil – Imagem de destaque: Arquivo/Wilson Dias/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

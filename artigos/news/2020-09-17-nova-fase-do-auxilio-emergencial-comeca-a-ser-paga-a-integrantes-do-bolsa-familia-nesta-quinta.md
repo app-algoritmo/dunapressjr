@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Benefício de R$ 300 ou R$ 600 seguirá o calendário usual do programa do Governo Federal. Profissionais do Ministério da Cidadania se reuniram em videoconferência com representantes estaduais para apresentar balanço e detalhar a operação.
 
 Ministério da Cidadania promoveu uma reunião nesta terça-feira (15.09) com os representantes estaduais do Programa Bolsa Família (PBF) e do Cadastro Único para apresentar um balanço do Auxílio Emergencial e detalhar a operação de pagamento das próximas parcelas. O benefício de R$ 300 ou R$ 600 começa a ser pago nesta quinta-feira (17.09) para os integrantes do Bolsa Família, conforme o calendário do programa.
@@ -30,5 +29,3 @@ A mulher chefe de família monoparental continua tendo direito ao benefício dob
 Fonte: Gov BR
 
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=Thami)

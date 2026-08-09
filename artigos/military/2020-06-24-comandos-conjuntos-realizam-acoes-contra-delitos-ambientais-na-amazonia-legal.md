@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 O Comando Conjunto Oeste, sediado em Campo Grande, capital de Mato Grosso do Sul, está à frente de inspeções nas localidades de Palmarito, Corixa e Fortuna. Diariamente, veículos que transitam pelas estradas são vistoriados.
 
 Sob o Comando Conjunto Amazônia, sediado em Manaus, no Amazonas, são fiscalizados madeireiras e beneficiamento de madeiras. O 54º Batalhão de Infantaria de Selva (54º BIS) fez reconhecimento aeromóvel em apoio ao IBAMA, em Apuí, também no Amazonas. Os militares desse Batalhão combateram crimes ambientais em apoio ao ICMBio e Instituto de Proteção Ambiental do Amazonas, na Flora Novo Aripuanã e Apuí. O resultado dessas atividades foi a revista de 28 viaturas e 26 embarcações, com a apreensão de duas viaturas e detenção de quatro pessoas.
@@ -25,4 +24,4 @@ A Secretaria Municipal de Meio Ambiente de Moju confiscou a madeira ilegal. Já 
 **Assessoria de Comunicação Social (Ascom)
 Ministério da Defesa**
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

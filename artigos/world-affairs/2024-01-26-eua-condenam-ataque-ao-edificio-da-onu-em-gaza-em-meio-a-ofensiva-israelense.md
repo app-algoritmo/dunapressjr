@@ -7,7 +7,6 @@ categories:
 - World Affairs
 ---
 
-
 Os Estados Unidos condenaram o atentado à bomba contra um centro de recepção da ONU no sul da Faixa de Gaza, no qual nove palestinos foram mortos ontem e dezenas ficaram feridos em meio à ofensiva israelense contra o movimento islâmico Hamas.
 
 Ontem, a agência da ONU para os refugiados palestinos (UNRWA) informou que dois projéteis de tanques atingiram um prédio que abrigava 800 pessoas em Khan Yunis, no sul da Faixa de Gaza, deixando nove mortos e 75 feridos.
@@ -28,4 +27,4 @@ Questionado se os Estados Unidos estiveram em contacto com Israel sobre o ataque
 
 Esta semana, os militares israelitas afirmaram ter “cercado” Khan Yunis, a principal cidade do sul de Gaza que é o epicentro dos recentes combates contra o Hamas.
 
-Fonte: [Agência IP](https://www.ip.gov.py/ip/eeuu-condena-ataque-a-edificio-de-la-onu-en-gaza-en-medio-de-la-ofensiva-israeli/) [](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.ip.gov.py%2Fip%2Feeuu-condena-ataque-a-edificio-de-la-onu-en-gaza-en-medio-de-la-ofensiva-israeli%2F)
+Fonte: [Agência IP](https://www.ip.gov.py/ip/eeuu-condena-ataque-a-edificio-de-la-onu-en-gaza-en-medio-de-la-ofensiva-israeli/)

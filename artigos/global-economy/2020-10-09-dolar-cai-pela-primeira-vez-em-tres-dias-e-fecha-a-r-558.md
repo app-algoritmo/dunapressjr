@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa teve forte alta de 2,51% ajudada por alguns bancos.
 
 Influenciado por notícias positivas do exterior e do Brasil, o mercado financeiro teve um dia de tranquilidade nesta quinta-feira (8). O dólar caiu pela primeira vez em três dias. A bolsa de valores teve forte alta, ajudada por ações de bancos.
@@ -25,5 +24,3 @@ No Brasil, a reação do comércio em setembro contribuiu para animar o mercado.
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Rick Wilking/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 ### Normativo permite desonerar micro e pequenas empresas.
 
-Foi publicada, na edição desta terça-feira (13)  do Diário Oficial da União, a [Portaria Conjunta nº 76](https://in.gov.br/en/web/dou/-/portaria-conjunta-secint/rfb-n-76-de-9-de-setembro-de-2022-428661802) das Secretarias Especiais de Comércio Exterior e Assuntos Internacionais (Secint) e da Receita Federal do Brasil (RFB), que apresenta novas regras sobre a concessão, gestão e controle dos regimes aduaneiros especiais de drawback suspensão e isenção. Esses mecanismos permitem a desoneração tributária de insumos aplicados na produção de bens exportados, por vários segmentos da economia brasileira, como carne de aves e suína, minério de ferro, celulose, automóveis e produtos químicos. No ano passado, 22% dos embarques ao exterior realizados pelo Brasil tiveram o apoio dos regimes em questão.
+Foi publicada, na edição desta terça-feira (13) do Diário Oficial da União, a [Portaria Conjunta nº 76](https://in.gov.br/en/web/dou/-/portaria-conjunta-secint/rfb-n-76-de-9-de-setembro-de-2022-428661802) das Secretarias Especiais de Comércio Exterior e Assuntos Internacionais (Secint) e da Receita Federal do Brasil (RFB), que apresenta novas regras sobre a concessão, gestão e controle dos regimes aduaneiros especiais de drawback suspensão e isenção. Esses mecanismos permitem a desoneração tributária de insumos aplicados na produção de bens exportados, por vários segmentos da economia brasileira, como carne de aves e suína, minério de ferro, celulose, automóveis e produtos químicos. No ano passado, 22% dos embarques ao exterior realizados pelo Brasil tiveram o apoio dos regimes em questão.
 
 A nova regulamentação foi elaborada em atendimento à determinação do Decreto nº 10.139/2019, que prevê a necessidade de revisão e consolidação de atos normativos inferiores a decreto. O regramento agora divulgado substitui duas normas antigas que estavam em vigor desde o ano de 2010.
 
@@ -27,8 +26,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

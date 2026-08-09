@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Mulheres que se declaram brancas compõem o segundo grupo mais afetado por violações. Enquanto as mulheres pardas sofrem mais de 43% das 85.412 denúncias registradas, as brancas representam 37% desse total.
 
 A violência em seus diversos tipos é uma triste realidade vivida por mulheres brasileiras de todas as faixas etárias, etnias e níveis socioeconômicos. Porém, dados da Central de Atendimento à Mulher - Ligue 180 de 2019 traçaram o perfil mais comum de acordo com registros de denúncias feitos ao longo do ano.
@@ -58,8 +57,6 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique no banner abaixo para assinar
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

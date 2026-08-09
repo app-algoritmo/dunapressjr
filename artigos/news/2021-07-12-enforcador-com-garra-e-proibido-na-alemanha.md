@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 No dia 25 de junho de 2021, o ENFORCADOR com GARRAS, foi proibido na Alemanha, assim como também é proibido em outros países Europeus.
 
 O enforcador é uma espécie de coleira com guia já acoplada, com um dispositivo tipo nó falso, cujo objetivo é travar o cachorro. Quando ele puxa a guia, o dispositivo aperta ao redor do pescoço e, por bom instinto, o cão deveria parar.
@@ -33,5 +32,3 @@ Fonte: Instagran [@investigador.cassiosilva](https://www.instagram.com/investiga
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

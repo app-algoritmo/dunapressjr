@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O balanço anual confirma que as ações do governo brasileiro beneficiam a população mais vulnerável.
 
 O relatório “O Estado da Segurança Alimentar e Nutricional no Mundo”, publicado neste mês pela Organização das Nações Unidas para a Alimentação e Agricultura (FAO), mostrou que o Brasil continua fora do Mapa da Fome. Isso significa que menos de 2,5% da população brasileira vive em situação de subnutrição. O resultado positivo evidencia que o conjunto de políticas públicas adotadas pelo Governo Federal tem atendido de maneira satisfatória as necessidades das pessoas que se encontram em situação de vulnerabilidade social.
@@ -22,7 +21,7 @@ Além disso, foi sancionada, em junho, a Lei nº 14.016, que dispõe sobre o com
 
 Ao comentar que o Brasil tem um grande protagonismo na segurança alimentar e nutricional mundial, Enio Marques, secretário nacional de Inclusão Social e Produtiva do Ministério da Cidadania, ressalta que o país é um dos maiores fornecedores de alimentos do mundo, estando presente nas mesas das famílias de mais de 200 países. “São ações como as de apoio à agricultura familiar e à rede de entidades socioassistenciais que nos permitiram chegar a uma situação estável para garantir aos brasileiros um direito fundamental, que é o direito à alimentação”, afirmou Marques.
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

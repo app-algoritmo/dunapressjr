@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Bolsista da Coordenação de Pessoal de Nível Superior (CAPES), José Yago Rodrigues Silva, químico doutorando pelo Programa de Pós-Graduação em Ciência de Materiais da Universidade Federal de Pernambuco (UFPE), desenvolveu uma esponja biodegradável e reutilizável. A bioesponja, como foi chamada, é 100% sustentável e produzida a partir do alginato, um composto orgânico presente nas algas marinhas que é capaz de absorver rejeitos de petróleo em oceanos e rios.
 
 Bioesponja pode ser reutilizada por mais de 10 vezes (Foto: Arquivo pessoal)
@@ -54,7 +53,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

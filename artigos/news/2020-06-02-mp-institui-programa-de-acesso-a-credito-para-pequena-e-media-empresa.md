@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Medida provisória está no Diário Oficial de hoje.
 
 A [Medida Provisória (MP) nº 975](http://www.in.gov.br/en/web/dou/-/medida-provisoria-n-975-de-1-de-junho-de-2020-25963975), publicada hoje no Diário Oficial da União, institui o Programa Emergencial de Acesso a Crédito. O objetivo, diz a MP, é facilitar o acesso a crédito por meio da disponibilização de garantias e de preservar empresas de pequeno e de médio portes diante dos impactos econômicos decorrentes da pandemia de coronavírus (covid-19).
@@ -25,5 +24,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

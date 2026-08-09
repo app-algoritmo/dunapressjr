@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Estudo defende mais produtividade para que indústria avance no país.
 
 A Federação das Indústrias do Rio de Janeiro (Firjan) apresentou nesta quinta-feira (18) a Agenda Propostas Firjan para um Brasil 4.0, um conjunto de proposições para incentivar o crescimento econômico no país, especialmente no estado do Rio. São 62 propostas de abrangência nacional e 41 voltadas para o estado, que podem contribuir para o planejamento de políticas públicas nos dois níveis de governo. O documento será encaminhado aos candidatos à Presidência da República e ao governo do Rio de Janeiro.
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

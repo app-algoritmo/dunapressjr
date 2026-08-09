@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Na manhã do dia 3 de maio, em mais uma reunião da CCJ, a deputada Ana Campagnolo (PL-SC) defendeu, mais uma vez, o direito dos CACs ao porte de armas de fogo.
 
 A parlamentar é relatora dos projetos de lei sobre o tema e apresentou seu voto favorável. No entanto, pedidos de vista de dois deputados atrasaram o processo. Pelo regimento da Casa, os deputados têm 15 dias para averiguar e devolver os projetos.
@@ -35,5 +34,3 @@ O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Ed
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

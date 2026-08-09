@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Existente desde 2014, ferramenta foi ampliada este ano.
 
 A partir deste ano, o contribuinte terá mais facilidade para entregar a declaração pré-preenchida do Imposto de Renda Pessoa Física. Um projeto piloto em desenvolvimento pela Receita Federal ampliará a utilização da ferramenta a contribuintes inscritos do [**Portal de Serviços Públicos**](https://sso.acesso.gov.br/login?client_id=contas.acesso.gov.br&authorization_id=177d56ca27b) do Governo Federal.
@@ -40,8 +39,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

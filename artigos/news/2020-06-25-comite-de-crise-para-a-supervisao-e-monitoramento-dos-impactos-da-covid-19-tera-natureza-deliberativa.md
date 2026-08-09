@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Ato do Governo Federal traz prerrogativa expressa do comitê dispor sobre objetivos, estratégias e ações relacionados à pandemia.
 
 A medida tem a finalidade de permitir expressamente que o Comitê de Crise para a Supervisão e Monitoramento dos Impactos da Covid-19 delibere sobre prioridades, diretrizes e aspectos estratégicos relativos aos impactos da Covid-19.
@@ -23,7 +22,7 @@ O objetivo inicial era apenas articular e monitorar ações entre os ministéri
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

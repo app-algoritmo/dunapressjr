@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Nova legislação faz parte das ações adotadas para reduzir os impactos da pandemia sobre a economia brasileira.
 
 O presidente da República, Jair Bolsonaro, sancionou nesta quinta-feira (24/9) a [Lei n° 14.060](http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Lei/L14060.htm) que permite a prorrogação excepcional, por um ano, dos prazos para cumprimento dos regimes de *drawback* suspensão e isenção. Esses regimes conferem maior competitividade aos exportadores brasileiros, desonerando de tributos as importações e aquisições locais de insumos utilizados na produção de bens destinados ao mercado externo.
@@ -29,5 +28,3 @@ De acordo com a Secex/ME, em 2019, US$ 49,1 bilhões foram exportados com a util
 Fonte: Ministério da Economia – Imagem de destaque: Tânia Rego/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em 12 meses, o déficit em transações correntes é de US$ 26,7 bilhões.
 
 As contas externas tiveram saldo negativo de US$ 4,464 bilhões em outubro, informou nesta quinta-feira (25) o Banco Central (BC). No mesmo mês de 2020, o déficit foi de US$ 1,152 bilhão nas transações correntes, que são as compras e vendas de mercadorias e serviços e transferências de renda com outros países.
@@ -72,14 +71,10 @@ Para 2021, nas transações correntes, a revisão mais significativa ocorreu nas
 
 Nos demais componentes das transações correntes houve revisão apenas da balança comercial de bens, com redução de US$ 76 milhões no superávit comercial. Dessa forma, o déficit em transações correntes acumulado de janeiro a setembro de 2021 foi[** revisado de US$ 8,1 bilhões para US$ 11,3 bilhões**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-10/contas-externas-tem-saldo-negativo-de-us-17-bilhao-em-setembro), elevação de US$ 3,2 bilhões.
 
-A revisão do IDP de janeiro a setembro de 2021 aumentou o ingresso líquido em US$ 2,6 bilhões, de US$ 40,7 bilhões para US$ 43,3 bilhões. Houve acréscimo de US$ 4 bilhões decorrente da revisão das estimativas de lucros reinvestidos e redução de US$ 1,5 bilhão nos ingressos líquidos de operações intercompanhia. 
+A revisão do IDP de janeiro a setembro de 2021 aumentou o ingresso líquido em US$ 2,6 bilhões, de US$ 40,7 bilhões para US$ 43,3 bilhões. Houve acréscimo de US$ 4 bilhões decorrente da revisão das estimativas de lucros reinvestidos e redução de US$ 1,5 bilhão nos ingressos líquidos de operações intercompanhia.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

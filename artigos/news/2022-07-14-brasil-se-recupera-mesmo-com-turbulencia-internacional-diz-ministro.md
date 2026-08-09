@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Guedes divulgará nesta quinta-feira (14) novas projeções para o PIB.
 
 Enquanto diversas economias avançadas sofrem com a ameaça de recessão, o Brasil está se recuperando, disse nesta quarta-feira (13) o ministro da Economia, Paulo Guedes. Durante evento de comemoração dos 25 anos da Lei Geral de Telecomunicações (LGT), o ministro afirmou que as instituições financeiras têm revisado para cima das projeções do Produto Interno Bruto (PIB, soma dos bens e dos serviços produzidos no país) brasileiro.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

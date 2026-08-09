@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Moeda fechou sexta-feira vendida a R$ 5,207. Bolsa subiu 0,09%.
 
 Num dia de volatilidade no mercado internacional, o dólar fechou a volátil sessão desta sexta-feira (24) em leve queda, depois de subir quase 0,8% mais cedo. A cotação alternou altas e baixas, em meio a temores sobre as relações entre Estados Unidos e China.
@@ -22,4 +21,4 @@ A instabilidade nos mercados externos refletiu-se na bolsa brasileira. O índice
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

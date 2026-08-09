@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Impacto de gastos com pandemia subiu para R$ 615 bilhões.
 
 As despesas com o enfrentamento da pandemia do novo coronavírus adiaram as projeções para o reequilíbrio das contas públicas. Segundo relatório divulgado nesta sexta-feira (30) pela Secretaria Especial de Fazenda do Ministério da Economia, somente em 2027 o país voltará a registrar superávit primário (resultados positivos nas contas do governo sem os juros da dívida pública).
@@ -37,5 +36,3 @@ As estimativas de impacto no orçamento das medidas financeiras, que não interf
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

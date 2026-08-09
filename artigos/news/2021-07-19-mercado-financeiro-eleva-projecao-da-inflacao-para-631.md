@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Previsão para expansão do PIB variou de 5,26% para 5,27% em 2021.
 
 A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA), a inflação oficial do país, deste ano subiu de 6,11% para 6,31%. A estimativa está no boletim Focus de hoje (19), pesquisa divulgada semanalmente pelo Banco Central (BC), com a projeção para os principais indicadores econômicos.
@@ -16,7 +15,7 @@ Para 2022, a estimativa de inflação é de 3,75%. Para 2023 e 2024, as previsõ
 
 A projeção para 2021 está acima da meta de inflação que deve ser perseguida pelo BC. A meta, definida pelo Conselho Monetário Nacional, é de 3,75% para este ano, com intervalo de tolerância de 1,5 ponto percentual para cima ou para baixo. Ou seja, o limite inferior é de 2,25% e o superior de 5,25%.
 
-No mês passado, a[** inflação**](http://agenciabrasil.ebc.com.br/economia/noticia/2021-07/inflacao-fica-em-053-em-junho-puxada-pela-alta-da-energia-eletrica) desacelerou para 0,53%, depois de chegar a 0,83% em maio. Com o resultado, o IPCA acumula alta de 3,77% no ano e 8,35% nos últimos 12 meses.  
+No mês passado, a[** inflação**](http://agenciabrasil.ebc.com.br/economia/noticia/2021-07/inflacao-fica-em-053-em-junho-puxada-pela-alta-da-energia-eletrica) desacelerou para 0,53%, depois de chegar a 0,83% em maio. Com o resultado, o IPCA acumula alta de 3,77% no ano e 8,35% nos últimos 12 meses.
 
 ## Taxa de juros
 
@@ -36,10 +35,6 @@ A expectativa para a cotação do dólar se mantém em R$ 5,05 ao final deste an
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

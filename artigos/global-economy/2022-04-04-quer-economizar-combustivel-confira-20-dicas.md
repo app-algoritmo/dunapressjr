@@ -7,14 +7,13 @@ categories:
 - Global Economy
 ---
 
-
 A guerra da Ucrânia afeta todo o mundo. O aumento no valor do barril de petróleo já impactou nos preços dos combustíveis. Encher o tanque está cada vez mais caro e a expectativa é de que essa situação não se resolva tão cedo. Com isso, a única alternativa para os motoristas é economizar.
 
-Ao contrário do pensamento comum, economizar combustível não é apenas caçar promoção na hora de abastecer. É tomar atitudes na manutenção do veículo e na forma de dirigir. Até o uso do ar-condicionado tem suas particularidades. Você sabia que, na estrada, fechar os vidros e ligar o ar economiza combustível? Essa e mais 19 dicas ajudam a reduzir o consumo de combustível. 
+Ao contrário do pensamento comum, economizar combustível não é apenas caçar promoção na hora de abastecer. É tomar atitudes na manutenção do veículo e na forma de dirigir. Até o uso do ar-condicionado tem suas particularidades. Você sabia que, na estrada, fechar os vidros e ligar o ar economiza combustível? Essa e mais 19 dicas ajudam a reduzir o consumo de combustível.
 
 As atitudes começam desde uma condução mais consciente (acelerando menos na cidade, desligando o motor quando ficar mais tempo parado, trocar a marcha na hora certa), passando pela manutenção do veículo, calibragem de pneus, troca de óleo do motor e dos filtros, escolha dos melhores produtos (como aditivos para combustível e óleo e líquidos de arrefecimento) fazer o alinhamento e balanceamento, entre outros.
 
-Para ajudar nessa jornada em busca de formas para economizar combustível, a Promax Bardahl elaborou um e-book com 20 dicas simples e práticas para a rotina na condução nas ruas das cidades ou estradas brasileiras. 
+Para ajudar nessa jornada em busca de formas para economizar combustível, a Promax Bardahl elaborou um e-book com 20 dicas simples e práticas para a rotina na condução nas ruas das cidades ou estradas brasileiras.
 
 Para baixar o e-book, basta acessar: [https://conteudo.bardahl.com.br/economia-combustivel
 ](https://click.presskit.com.br/url/858364ff2b/6361388b6fc)
@@ -41,7 +40,3 @@ Fonte: ***ZDL Sports***
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

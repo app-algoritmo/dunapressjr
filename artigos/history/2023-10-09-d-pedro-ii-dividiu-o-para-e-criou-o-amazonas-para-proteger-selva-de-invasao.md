@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Em 1823, meses após a Independência do Brasil, o deputado Arouche Rendon (SP) lembrou num discurso que São Paulo, sua província, tinha um território gigantesco. Para provar que não exagerava, ele citou duas vilas paulistas localizadas em pontos remotos:
 
 — Há a vila da Curitiba em cima da serra e a vila de Paranaguá na marinha. Ambas distam 100 léguas da capital da província.
@@ -23,8 +22,6 @@ O Paraná foi desmembrado de São Paulo em 1853 — completou 170 anos no mês p
 Foram as duas únicas províncias criadas nos tempos do Império. Para que essa redivisão interna do Brasil fosse feita, os paulistas e os paraenses tiveram que abrir mão de praticamente a metade de seus territórios.
 
 O historiador Vitor Marcos Gregório, que é professor do Instituto Federal do Paraná (IFPR) e fez uma tese de doutorado sobre a criação das duas províncias, explica que essa medida no reinado de D. Pedro II foi motivada por fatores internacionais e domésticos.
-
-[](https://www12.senado.leg.br/noticias/especiais/arquivo-s/d-pedro-ii-dividiu-o-para-e-criou-o-amazonas-para-proteger-selva-de-invasao/imagem-1/@@images/imagem)
 
 De acordo com ele, a Floresta Amazônica brasileira corria o risco de ser invadida pela Inglaterra e pela França. As maiores potências militares da época sonhavam com expandir as colônias da Guiana Inglesa e da Guiana Francesa até as margens do Rio Amazonas, tomando terras do Brasil. Na época, o traçado das fronteiras amazônicas ainda era nebuloso.
 
@@ -48,8 +45,6 @@ A criação, portanto, não foi automática nem imediata. O projeto de lei teve 
 
 Os documentos do Arquivo do Senado mostram que, nos dois casos, os debates parlamentares foram acirrados.
 
-[](https://www12.senado.leg.br/noticias/especiais/arquivo-s/d-pedro-ii-dividiu-o-para-e-criou-o-amazonas-para-proteger-selva-de-invasao/imagem-3/@@images/imagem)
-
 Na época, o atual Amazonas correspondia à comarca do Rio Negro. Os defensores da emancipação no Senado argumentaram que a comarca, incrustada na floresta, ficava afastada demais da capital do Pará e só deixaria de ser um vazio demográfico e econômico quando passasse a contar com um governo provincial próprio.
 
 Um desses defensores foi o senador Paula Souza (SP), que afirmou:
@@ -64,8 +59,6 @@ Quando algum colega afirmou que criar instituições provinciais e contratar ser
 
 — Quem não semeia não pode colher. Será mais um suprimento que tenha de fazer o Império enquanto as rendas do Rio Negro não crescerem. Portugal avançou grossos capitais para engrandecer e povoar o Brasil, que lhe era totalmente desconhecido. Portugal e nós, seus descendentes, vemos o lucro que apareceu desse avanço de despesas. Sem essa criação nova [a província do Amazonas], perder-se-á para sempre aquele precioso território, para ser habitado por homens selvagens e feras das matas.
 
-[](https://www12.senado.leg.br/noticias/especiais/arquivo-s/d-pedro-ii-dividiu-o-para-e-criou-o-amazonas-para-proteger-selva-de-invasao/imagem-2/@@images/imagem)
-
 Outro defensor da criação do Amazonas, o senador Visconde de Abrantes (CE) disse que a porção ocidental do Pará tinha condições de superar a decadência que amargava no Império, já que vivera momentos áureos no passado:
 
 — A comarca ou capitania do Rio Negro, ainda em 1819, exportou o valor de 170 contos de réis fortes em gêneros e produtos que passarei a mencionar: tabaco, salsa, café, cacau, cravo fino, anil, quina, breu, óleo de copaíba, algodão em rama, manteiga de tartaruga etc. Existiam vários estabelecimentos fabris, cujos produtos eram exportados até para o estrangeiro. Havia cordas de muito valor e outros artefatos, inclusive louça para o consumo da província do Pará. A maior parte desses estabelecimentos não existe hoje. Por que, senhores? Porque o Rio Negro não tem sido administrado.
@@ -79,8 +72,6 @@ No Senado, um parlamentar avaliou que seria inviável criar uma província com t
 Recorrendo a uma comparação, o senador prosseguiu:
 
 — Quando foi criada a província de Mato Grosso, qual era a sua população? A estatística atual dá para a população livre de Mato Grosso 36 mil almas. E eu pergunto: qual seria a população de Mato Grosso há 40 anos ou na época em que foi elevado em capitania geral ou em província? Hoje deve ter duplicado. As mesmas circunstâncias que levaram o poder de então a organizar ali uma província com tão mesquinha população são as mesmas ou talvez menos poderosas que as que hoje aconselham a elevação do Rio Negro.
-
-[](https://www12.senado.leg.br/noticias/especiais/arquivo-s/d-pedro-ii-dividiu-o-para-e-criou-o-amazonas-para-proteger-selva-de-invasao/imaqgem-5/@@images/imagem)
 
 As tensões internacionais também apareceram nos debates parlamentares. O senador Bernardo Pereira de Vasconcelos (MG) apontou o perigo:
 
@@ -100,8 +91,6 @@ Enquanto estudavam o projeto de lei, os senadores receberam duas representaçõe
 
 Com o apoio dos próprios paraenses, o projeto de divisão do Pará foi transformado em lei em 1850 sem enfrentar maiores dificuldades.
 
-[](https://www12.senado.leg.br/noticias/especiais/arquivo-s/d-pedro-ii-dividiu-o-para-e-criou-o-amazonas-para-proteger-selva-de-invasao/imagem-4/@@images/imagem)
-
 O atual Paraná correspondia à comarca paulista de Curitiba e Paranaguá. Para os defensores da emancipação, essa comarca deveria ser elevada a província por já ser desenvolvida e povoada e ter renda suficiente para manter-se por conta própria — argumento diametralmente oposto ao empregado pelos apoiadores da criação do Amazonas.
 
 Em 1850, o senador Batista de Oliveira (CE) apresentou uma emenda ao projeto de lei de emancipação do Amazonas prevendo a separação simultânea do Paraná. Num discurso, ele apresentou seus motivos:
@@ -118,8 +107,6 @@ O senador acrescentou:
 
 — Daí provém que, não obstante ser pela província de Curitiba que se arrecada a maior parte da renda da província de São Paulo, ela tem estado quase abandonada. O governo provincial não se ocupa daquela comarca. É por isso que os seus habitantes desejam muito a criação de uma administração local que se cure mais de perto dos seus interesses materiais.
 
-[](https://www12.senado.leg.br/noticias/especiais/arquivo-s/d-pedro-ii-dividiu-o-para-e-criou-o-amazonas-para-proteger-selva-de-invasao/infografico/@@images/imagem)
-
 Houve resistência na bancada de São Paulo. Indignado, o senador Francisco de Paula Souza (SP) se manifestou com veemência contra a “mutilação” de sua província:
 
 — Qual o motivo por que uma província como São Paulo, que tem alguma história, que tem sido sempre tão útil ao Brasil, há de descer de sua categoria, há de ficar reduzida a província de última ordem? Todos sabem que já se lhe tirou uma parte para o Rio de Janeiro e se pretendem ainda tirar várias vilas. Tirada a comarca de Curitiba, o que resta a São Paulo? Isso fere o amor que os provincianos têm e devem ter à sua província. Se isso fosse em proveito do Brasil todo, bem, devíamos sacrificar o interesse local ao interesse geral, mas não resulta isso da medida de que se trata.
@@ -135,8 +122,6 @@ O senador Vergueiro, que já era contrário à criação do Amazonas, também se
 Na direção inversa da tomada pelos deputados provinciais do Pará, que apoiaram a criação do Amazonas, a Assembleia Provincial de São Paulo enviou uma representação aos senadores pedindo que não aprovassem a emancipação do Paraná.
 
 Por causa da oposição dos paulistas, a criação do Paraná foi mais difícil e demorada que a do Amazonas. A divisão de São Paulo poderia ter sido aprovada junto com a do Pará, em 1850, mas os debates no Parlamento se estenderam por mais tempo e a aprovação só ocorreu três anos depois.
-
-[](https://www12.senado.leg.br/noticias/especiais/arquivo-s/d-pedro-ii-dividiu-o-para-e-criou-o-amazonas-para-proteger-selva-de-invasao/imagem-7/@@images/imagem)
 
 O historiador Vitor Marcos Gregório, do IFPR, entende que o processo de criação do Amazonas e do Paraná mostra com clareza que o sistema político representativo, caracterizado por um Poder Legislativo forte e atuante, funcionava plenamente no Brasil já no período imperial:
 

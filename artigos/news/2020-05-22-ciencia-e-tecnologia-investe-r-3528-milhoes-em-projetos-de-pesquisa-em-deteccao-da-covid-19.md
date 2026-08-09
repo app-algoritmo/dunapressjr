@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Investimentos serão para desenvolvimento de novos testes e materiais de saúde, estruturação de laboratórios e instalação de internet em unidades de saúde.
 
 Cerca de 100 projetos de diversos setores de ciência, pesquisa e telecomunicações vão receber um aporte de R$ 352,8 milhões, segundo o Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC). O valor é referente a um crédito extraordinário autorizado por meio da Medida Provisória [962/2020](http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Mpv/mpv962.htm). 
@@ -36,5 +35,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

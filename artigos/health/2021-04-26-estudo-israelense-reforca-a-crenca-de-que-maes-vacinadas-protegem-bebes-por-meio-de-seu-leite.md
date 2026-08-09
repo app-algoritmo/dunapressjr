@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 ## Por pelo menos 6 semanas após o início da primeira injeção de COVID, as mães que amamentam produzem leite com anticorpos, sugerindo que estão protegidas do vírus enquanto amamentadas; nenhum evento adverso registrado.
 
 Os bebês de mães que amamentam recentemente vacinadas recebem leite embalado com anticorpos por pelo menos seis semanas, mostra uma nova pesquisa israelense.
@@ -54,5 +53,3 @@ Fonte: https://www.timesofisrael.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

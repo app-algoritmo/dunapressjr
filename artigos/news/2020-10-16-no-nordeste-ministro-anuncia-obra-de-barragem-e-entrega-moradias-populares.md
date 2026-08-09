@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ações beneficiam famílias de baixa renda e levam água a quem sofre efeitos da seca.
 
 Para levar água a quem precisa e garantir a segurança hídrica na Paraíba, o ministro do Desenvolvimento Regional, Rogério Marinho, anunciou, nesta quinta-feira (15), no município de Patos (PB), o repasse de recursos para as obras da barragem Espinho Branco.
@@ -33,5 +32,3 @@ Segundo o ministro do Desenvolvimento Regional, há uma série de obras que est�
 Fonte: gov.br – Imagem de destaque: Adalberto Marques/MDR
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,14 +7,13 @@ categories:
 - Architecture and Art
 ---
 
+Aristóteles tem muito a dialogar com os novos mestres sofistas e senhores da erística
 
-Aristóteles tem muito a dialogar com os novos mestres sofistas e senhores da erística 
-
-Em um debate, geralmente, não cativa a audiência, e dela se recebe a tão buscada atenção, o mais douto, o mais apaixonado ou o mais admirado.  Aristóteles reconhecia o valor da retórica e percebeu três elementos chave, que sendo bem administrados, resultariam na persuasão do público; são eles: *O ethos, O pathos e o Logos*. A política demanda conhecimento estratégico, percepção aguçada e inteligência e disso já tratei no artigo: *[Bolsonaro desconhece a arte da guerra?](https://dunapress.org/wp-admin/post.php?post=12332&action=edit)*[ ](https://dunapress.org/wp-admin/post.php?post=12332&action=edit)Porém no debate público me deparo com uma retórica bem construída ao ponto de poder levar o ouvinte a aceitar que 2+2=5 , além de poder persuadir o ouvinte a negar a realidade passível de ser compreendida de modo objetivo e até mesmo de distorcê-la em prol de um conceito subjetivo; seria como eu dirigir minha visão  a uma árvore e ao defini-la como tal , sou interpelado por alguém que usando de vários elementos retóricos me convence que o que vejo não se trata de uma árvore, e sim, de uma pedra. Neste artigo falarei com o *ethos* e o *pathos .*
+Em um debate, geralmente, não cativa a audiência, e dela se recebe a tão buscada atenção, o mais douto, o mais apaixonado ou o mais admirado.  Aristóteles reconhecia o valor da retórica e percebeu três elementos chave, que sendo bem administrados, resultariam na persuasão do público; são eles: *O ethos, O pathos e o Logos*. A política demanda conhecimento estratégico, percepção aguçada e inteligência e disso já tratei no artigo: *[Bolsonaro desconhece a arte da guerra?](https://dunapress.org/wp-admin/post.php?post=12332&action=edit)*Porém no debate público me deparo com uma retórica bem construída ao ponto de poder levar o ouvinte a aceitar que 2+2=5 , além de poder persuadir o ouvinte a negar a realidade passível de ser compreendida de modo objetivo e até mesmo de distorcê-la em prol de um conceito subjetivo; seria como eu dirigir minha visão  a uma árvore e ao defini-la como tal , sou interpelado por alguém que usando de vários elementos retóricos me convence que o que vejo não se trata de uma árvore, e sim, de uma pedra. Neste artigo falarei com o *ethos* e o *pathos .*
 
 O passado nos ensina não a sobreviver mas , sim, a viver.
 
-O conhecimento histórico nos permite ver o presente com um maior entendimento. Nenhum evento histórico surge sem que antes haja um que o preceda, porém, muitas vezes, certos grupos desejam separar passado e presente como se certo evento atual fosse em si sem paralelos em toda a história humana; estudar e analisar a sociedade e suas demandas através do *conservadorismo,* por exemplo, é um absurdo, pois **somente **uma linha de entendimento progressista pode responder a  sociedade líquida ( prefiro este termo de Zygmunt Bauman para descrever a sociedade que faço parte) com todas suas inquietações e inclinações. O que percebo como estudioso e amante de literatura histórica é como o debate público está dominado por algo que foi muito comum durante a república romana e o império romano: *o panem et circenses*. O orador oferece diversão (o riso e o divertimento) somada a alguma resposta que saciará a busca intelectual do seu público (panem), no fim, contudo, nada há nas mentes do público que permita a este captar a realidade de modo mais metódico ou preciso, tampouco, que permita a estes que não sejam massas de manobras dentro das narrativas políticas vigentes; o publico comeu o pão e se divertiu com todo espetáculo retórico que o levou ao riso e a catarse (do grego κάϑαρσις, kátharsis), levantou do assento, satisfeito, indo a casa , como se algo de produtivo tivesse valido o valor pago e o tempo dedicado. 
+O conhecimento histórico nos permite ver o presente com um maior entendimento. Nenhum evento histórico surge sem que antes haja um que o preceda, porém, muitas vezes, certos grupos desejam separar passado e presente como se certo evento atual fosse em si sem paralelos em toda a história humana; estudar e analisar a sociedade e suas demandas através do *conservadorismo,* por exemplo, é um absurdo, pois **somente **uma linha de entendimento progressista pode responder a  sociedade líquida ( prefiro este termo de Zygmunt Bauman para descrever a sociedade que faço parte) com todas suas inquietações e inclinações. O que percebo como estudioso e amante de literatura histórica é como o debate público está dominado por algo que foi muito comum durante a república romana e o império romano: *o panem et circenses*. O orador oferece diversão (o riso e o divertimento) somada a alguma resposta que saciará a busca intelectual do seu público (panem), no fim, contudo, nada há nas mentes do público que permita a este captar a realidade de modo mais metódico ou preciso, tampouco, que permita a estes que não sejam massas de manobras dentro das narrativas políticas vigentes; o publico comeu o pão e se divertiu com todo espetáculo retórico que o levou ao riso e a catarse (do grego κάϑαρσις, kátharsis), levantou do assento, satisfeito, indo a casa , como se algo de produtivo tivesse valido o valor pago e o tempo dedicado.
 
 **O
 *Ethos* : Não basta ser, aparente ser**
@@ -61,15 +60,15 @@ estruturalmente e de **mesmo** impacto
 social como o que ainda existe na  ditadura da Coreia do Norte, claramente, todo
 dado e livro citado que nega a fala do meu adversário será logo tido como fruto
 de minha ignorância ; não sou historiador , ele sim. Aqui titularidade se
-confunde com percepção, análise objetiva dos fatos e conhecimento.  
+confunde com percepção, análise objetiva dos fatos e conhecimento.
 
-A construção do *ethos* na retórica totalitarista busca cercear a fala do outro, ridicularizá-la e torná-la insignificante, por não dizer irrelevante, no debate. Uma imagem vale mais que mil palavras, infelizmente. 
+A construção do *ethos* na retórica totalitarista busca cercear a fala do outro, ridicularizá-la e torná-la insignificante, por não dizer irrelevante, no debate. Uma imagem vale mais que mil palavras, infelizmente.
 
 ** O *****Pathos *****: A cultura do vitimismo e a cultura do medo**
 
-A audiência é persuadida a confiar na linha de raciocínio do orador/debatedor através da empatia. Onde a emoção reina, a lógica é mero figurante. Uma série de imagens será criada no imaginário do público com o intuito de levá-lo a um certo estado emocional que permitirá ao orador tornar cada argumento em algo irrefutável na mente do seu ouvinte. Dados são meros detalhes diante de uma imagem criada tão teatralmente. Posso levar dados a um debate, informação histórica e mostrar com citações de vários estudiosos que o modo como o negro foi tratado dentro da sociedade americana e pelo governo difere abismalmente do que ocorreu no Brasil; posso falar que aqui tivemos em diferentes momentos históricos, negros ou afrodescendentes que ascenderam socialmente como: Xica da Silva( eternizada no imaginário popular pela novela produzida pela extinta Tevê Manchete), André Pinto Rebouças( engenheiro, militante do movimento abolicionista e admirador de Dom Pedro II), José do Patrocínio (farmacêutico, jornalista, escritor, orador e ativista político brasileiro) , Ernesto Carneiro Ribeiro (médico, professor -Rui Barbosa foi um dos vários ilustres alunos-, linguista e educador brasileiro) , Nilo Peçanha( muito tempo antes de Barak Obama, tivemos um presidente afrodescendente )e a lista seguiria , mas basta o outro debatedor levar o espectador a visualizar uma imagem onde um governo tirânico no Brasil oprimia o negro a tal ponto que , mesmo com o fim da escravidão, a ascensão social era um quase impossibilidade , para que qualquer argumento meu seja refutado não por argumentos e dados,  mas pelo emocional.  Quando uma imagem é criada no emocional do público e por este acolhida como se fosse uma realidade objetiva, qualquer dado e contestação levará este público a rejeitar não só os argumentos, mas , também, quem os trouxe a mesa. 
+A audiência é persuadida a confiar na linha de raciocínio do orador/debatedor através da empatia. Onde a emoção reina, a lógica é mero figurante. Uma série de imagens será criada no imaginário do público com o intuito de levá-lo a um certo estado emocional que permitirá ao orador tornar cada argumento em algo irrefutável na mente do seu ouvinte. Dados são meros detalhes diante de uma imagem criada tão teatralmente. Posso levar dados a um debate, informação histórica e mostrar com citações de vários estudiosos que o modo como o negro foi tratado dentro da sociedade americana e pelo governo difere abismalmente do que ocorreu no Brasil; posso falar que aqui tivemos em diferentes momentos históricos, negros ou afrodescendentes que ascenderam socialmente como: Xica da Silva( eternizada no imaginário popular pela novela produzida pela extinta Tevê Manchete), André Pinto Rebouças( engenheiro, militante do movimento abolicionista e admirador de Dom Pedro II), José do Patrocínio (farmacêutico, jornalista, escritor, orador e ativista político brasileiro) , Ernesto Carneiro Ribeiro (médico, professor -Rui Barbosa foi um dos vários ilustres alunos-, linguista e educador brasileiro) , Nilo Peçanha( muito tempo antes de Barak Obama, tivemos um presidente afrodescendente )e a lista seguiria , mas basta o outro debatedor levar o espectador a visualizar uma imagem onde um governo tirânico no Brasil oprimia o negro a tal ponto que , mesmo com o fim da escravidão, a ascensão social era um quase impossibilidade , para que qualquer argumento meu seja refutado não por argumentos e dados,  mas pelo emocional.  Quando uma imagem é criada no emocional do público e por este acolhida como se fosse uma realidade objetiva, qualquer dado e contestação levará este público a rejeitar não só os argumentos, mas , também, quem os trouxe a mesa.
 
- Dois pontos a ser mencionados:  
+ Dois pontos a ser mencionados:
 
 O vitimismo blinda os cerceadores da liberdade alheia
 
@@ -79,13 +78,13 @@ O medo é a arma daqueles que não possuem argumentos.
 
 Cultura do medo: Célio
 Pezza, colunista e escritor definem assim o temo no seu artigo pela Gazeta
-Digital: 
+Digital:
 
 A cultura do medo é a melhor
 forma de manipular as pessoas e muito utilizada para controle das massas. Já
 Maquiavel aconselhava o Príncipe a instigar o medo nos seus súditos, porque
 este era mais potente e duradouro que o amor. Governar pelo medo! Esta era a
-sua orientação, sempre seguida fielmente pelos **tiranos e opressores**.( Negrito meu) 
+sua orientação, sempre seguida fielmente pelos **tiranos e opressores**.( Negrito meu)
 
 Para
 Paula Argentino , advogada em seu artigo publicado pela jus.com.br :
@@ -120,7 +119,7 @@ totalitários vêm realizando através da mídia tem como objetivo convencer e
 persuadir a população a aceitar a imagem social apresentada como crível e
 factual, como também, colocar no ostracismo quem questiona a veracidade de tal
 imagem. O povo guiado e adestrado pelo medo se torna um exercito paralelo a
-servir propósitos escusos e questionáveis. 
+servir propósitos escusos e questionáveis.
 
 Leituras
 realizadas para o entendimento da retórica segundo Aristóteles:

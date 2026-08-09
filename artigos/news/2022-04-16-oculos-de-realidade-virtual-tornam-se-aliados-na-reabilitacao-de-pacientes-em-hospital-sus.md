@@ -8,12 +8,11 @@ categories:
 - News
 ---
 
-
 Lucas Erichsen sentia-se triste. Ele estava internado na Unidade de Terapia Intensiva (UTI), do Hospital Universitário Cajuru, em Curitiba (PR), onde se viu novamente isolado e distante de sua rotina. O primeiro internamento havia sido em 2017, após sofrer um acidente vascular cerebral (AVC). Três anos depois, um aneurisma e uma pneumonia o fizeram retornar ao hospital para receber cuidados médicos. Mais uma vez, todos os seus planos foram suspensos e ele deu início ao período mais difícil: a luta pela vida.
 
 Mas o sorriso de Lucas, de 22 anos, voltou a estar estampado no rosto após ser convidado a mergulhar em um novo universo. "Ali tudo era possível, desde andar de carro até pilotar um helicóptero", conta. A experiência vivida pelo jovem não foi magia nem alucinação. Foi, sim, parte do tratamento do fisioterapeuta Rafael Cavalli, que faz uso de óculos de realidade virtual (RV) no atendimento a pacientes do hospital 100% Sistema Único de Saúde (SUS) de Curitiba. "A ferramenta ajuda a tornar as sessões de reabilitação mais divertidas e eficazes, auxiliando pacientes com limitações motoras na recuperação", explica o fisioterapeuta.
 
-De uns tempos para cá, a realidade virtual vem ganhando espaço no cotidiano. São computadores, videogames, óculos especiais e outros dispositivos que têm como principal proposta fazer com que o indivíduo se sinta imerso em uma espécie de existência fictícia. Não é de estranhar que essas ferramentas invadam os corredores de hospitais, consultórios e laboratórios. "Os óculos de RV podem ser usados para ajudar na locomoção de pacientes com mal de Parkinson, na fisioterapia de quem sofreu derrame cerebral e para amenizar os sintomas da depressão, por exemplo", detalha Rafael Cavalli. 
+De uns tempos para cá, a realidade virtual vem ganhando espaço no cotidiano. São computadores, videogames, óculos especiais e outros dispositivos que têm como principal proposta fazer com que o indivíduo se sinta imerso em uma espécie de existência fictícia. Não é de estranhar que essas ferramentas invadam os corredores de hospitais, consultórios e laboratórios. "Os óculos de RV podem ser usados para ajudar na locomoção de pacientes com mal de Parkinson, na fisioterapia de quem sofreu derrame cerebral e para amenizar os sintomas da depressão, por exemplo", detalha Rafael Cavalli.
 
 **O que as pesquisas dizem**
 
@@ -29,7 +28,7 @@ Além da dor, a RV vem sendo minuciosamente estudada como um moderno instrumento
 
 "Não estou atendendo bem um paciente pelo que ele tem, mas pelo que ele é". A frase do fisioterapeuta Rafael Cavalli explica a importância de iniciativas inovadoras dentro do SUS. No Hospital Universitário Cajuru, o tratamento com óculos de realidade virtual permite ouvir, oferecer conforto e compreender as opiniões dos pacientes. Longe de perder o protagonismo no processo de reabilitação, os profissionais de saúde passam a atuar como supervisores de todo processo. "Se fosse eu internado lá, será que eu ia gostar de receber apenas um tratamento padrão? A realidade virtual vem nesse sentido, de personalizar e humanizar o atendimento", relata o fisioterapeuta.
 
-O objetivo do tratamento de reabilitação é estimular os movimentos musculares de modo que o paciente crie uma memória motora. É nesse contexto, então, que entra a realidade virtual. Uma ferramenta inovadora na fisioterapia e que tem sido utilizada na avaliação e reabilitação de pessoas com distúrbios do movimento, do equilíbrio postural e da marcha. "Imagine um paciente que perdeu movimentos de determinadas partes do corpo e precisa se submeter à fisioterapia. E se esses exercícios pudessem ser facilitados com o uso de cenários de realidade virtual?", questiona o fisioterapeuta. 
+O objetivo do tratamento de reabilitação é estimular os movimentos musculares de modo que o paciente crie uma memória motora. É nesse contexto, então, que entra a realidade virtual. Uma ferramenta inovadora na fisioterapia e que tem sido utilizada na avaliação e reabilitação de pessoas com distúrbios do movimento, do equilíbrio postural e da marcha. "Imagine um paciente que perdeu movimentos de determinadas partes do corpo e precisa se submeter à fisioterapia. E se esses exercícios pudessem ser facilitados com o uso de cenários de realidade virtual?", questiona o fisioterapeuta.
 
 É por essa razão que a realidade virtual já está sendo utilizada como parte do tratamento para alguns pacientes em reabilitação, como o Lucas Erichsen, sendo uma maneira mais lúdica de aplicar as atividades. "O Lucas é um paciente jovem que estava há três meses internado no hospital. Após uma conversa, descobri que ele gostava de corrida, música eletrônica e aviação. A partir disso montei um vídeo que se encaixasse naquilo e o resultado foi surpreendente", complementa Rafael.
 
@@ -46,7 +45,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

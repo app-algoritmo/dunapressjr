@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## No acumulado de 2023, economia paulista gerou 386 mil postos de trabalho, quase 30% do total do país.
 
-[](http://www.facebook.com/sharer.php?u=https://www.saopaulo.sp.gov.br/ultimas-noticias/estado-de-sp-tem-saldo-de-mais-de-65-mil-empregos-formais-em-agosto/)[](https://twitter.com/share?url=https://www.saopaulo.sp.gov.br/ultimas-noticias/estado-de-sp-tem-saldo-de-mais-de-65-mil-empregos-formais-em-agosto/)[](https://api.whatsapp.com/send?text=https://www.saopaulo.sp.gov.br/ultimas-noticias/estado-de-sp-tem-saldo-de-mais-de-65-mil-empregos-formais-em-agosto/)[](mailto:https://www.saopaulo.sp.gov.br/ultimas-noticias/estado-de-sp-tem-saldo-de-mais-de-65-mil-empregos-formais-em-agosto/)
+[](mailto:https://www.saopaulo.sp.gov.br/ultimas-noticias/estado-de-sp-tem-saldo-de-mais-de-65-mil-empregos-formais-em-agosto/)
 
 O emprego no estado de São Paulo subiu 0,5% em agosto em relação ao mês anterior, revelam os dados da pesquisa Emprego Formal, da [Fundação Seade](https://www.seade.gov.br/). A geração dos postos de trabalho decorreu de 643 mil admissões e 578 mil desligamentos, totalizando saldo de 65.462 posições. Com esse resultado, segundo o Caged, o estoque de empregos formais no estado ficou em 13,5 milhões.
 

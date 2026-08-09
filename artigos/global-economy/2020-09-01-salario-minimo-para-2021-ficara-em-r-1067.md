@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Aumento será menor que o previsto na LDO.
 
 A queda da inflação fez o governo reduzir o reajuste do salário mínimo para o próximo ano. Segundo o projeto do Orçamento de 2021, enviado nesta segunda-feira (31) ao Congresso, o mínimo subirá para R$ 1.067 em 2021.
@@ -27,5 +26,3 @@ Outros parâmetros foram revisados. Por causa da queda da Selic (juros básicos 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

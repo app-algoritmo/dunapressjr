@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 A física Lise Meitner descobriu a fissão nuclear logo após fugir da Alemanha nazista em 1938, mas o Prêmio Nobel foi dado a um homem quando ela viu seu avanço ser usado de maneiras que ela se opunha.
 
 O cientista alemão Otto Hahn ganhou o Prêmio Nobel de Química em 1944 por sua descoberta da fissão nuclear.
@@ -108,7 +107,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

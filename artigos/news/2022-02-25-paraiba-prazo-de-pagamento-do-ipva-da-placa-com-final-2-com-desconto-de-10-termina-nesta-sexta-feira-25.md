@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Os contribuintes têm ainda outras duas opções para pagamento do tributo, mas sem o desconto.
 
 O prazo de pagamento do IPVA (Imposto sobre a Propriedade de Veículos Automotores) da placa com final 2, no Estado da Paraíba, com desconto de 10% na opção da cota única à vista deve ser antecipado para esta sexta-feira, dia 25 de fevereiro, devido ao feriado bancário.
@@ -45,8 +44,4 @@ Fonte: Sefaz-PB
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

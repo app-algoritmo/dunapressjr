@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Com o intuito de desenvolver assuntos em comum da área tecnológica e apoiar pequenas, médias e grandes startups deste setor, foi lançado nesta terça-feira (01) o Polo Regional de Tecnologia e Inovação (PoloTech) na região da Foz do Itajaí e Brusque. A iniciativa, que conta com a parceria da Itajaí Participações S.A., pretende oferecer estrutura, orientação e capacitação para que os profissionais se desenvolvam. 
+Com o intuito de desenvolver assuntos em comum da área tecnológica e apoiar pequenas, médias e grandes startups deste setor, foi lançado nesta terça-feira (01) o Polo Regional de Tecnologia e Inovação (PoloTech) na região da Foz do Itajaí e Brusque. A iniciativa, que conta com a parceria da Itajaí Participações S.A., pretende oferecer estrutura, orientação e capacitação para que os profissionais se desenvolvam.
 
 Durante o encontro aconteceram apresentadas as ações iniciais do PoloTech, além do time institucional e da gestão do PoloTech do próximo ano. Com um painel com empresários do setor, foi a proposta uma discussão para atuação em rede das empresas de tecnologia como estratégia de fortalecimento do polo regional de tecnologia.
 
@@ -27,7 +26,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

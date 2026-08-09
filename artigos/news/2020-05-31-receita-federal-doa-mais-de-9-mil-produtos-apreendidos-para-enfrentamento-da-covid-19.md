@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-Equipamentos médico-hospitalares foram destinados a hospitais e instituições de ensino do Rio Grande do Sul. 
+Equipamentos médico-hospitalares foram destinados a hospitais e instituições de ensino do Rio Grande do Sul.
 
 A Receita Federal, por meio da delegacia do órgão em Santa Maria (RS), fez uma doação, no final do mês de abril, à Universidade Federal de Santa Maria (UFSM) de mais de nove mil aparelhos de uso hospitalar  para ações de combate à Covid -19.
 
@@ -34,5 +33,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

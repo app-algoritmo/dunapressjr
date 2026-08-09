@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Foram assinadas 71 novas operações de crédito garantidas em 2020, 90% delas com Caixa ou BB.
 
 O saldo devedor das garantias concedidas pela União a operações de crédito totalizava R$ 311,99 bilhões ao fim de agosto de 2020, sendo R$ 116,98 bilhões em operações de crédito internas e R$ 195,01 bilhões em operações de crédito externas. O crescimento de 18,5% do saldo em 12 meses foi puxado pela variação positiva do dólar no período, uma vez que 75,8% da dívida garantida sofre influência da taxa de câmbio.
@@ -28,5 +27,3 @@ O relatório publicado hoje apresenta estatísticas referentes aos indexadores, 
 Fonte: Tesouro Nacional – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

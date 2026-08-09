@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alta é 10% em relação à produção prevista para este ano.
 
 A safra brasileira de cereais, leguminosas e oleaginosas deve fechar 2022 com recorde 278 milhões de toneladas, uma alta de 10% em relação à produção prevista para este ano. Esse é o segundo prognóstico para a safra do ano que vem sendo divulgado pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -22,10 +21,6 @@ Apesar das altas de 10,5% para a soja, de 4,9% para o arroz e de 26% para o trig
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

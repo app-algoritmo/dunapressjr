@@ -8,7 +8,6 @@ categories:
 - Video library
 ---
 
-
 Indo para a escola em Kiev, Ucrânia, Sergei Loznitsa sempre se perguntava sobre o que aconteceu em Babyn Yar, ou “Ravina da Avó”. Ele ignorava o fato de que foi ali que 33.771 judeus foram assassinados durante uma onda de assassinatos de dois dias em setembro de 1941.
 
 “Embora eu tenha crescido perto de Babyn Yar e do antigo cemitério judeu, que foi completamente destruído, e quando criança eu tropecei nas lápides judias muitas vezes durante minhas caminhadas, meus pais estavam muito relutantes em responder minhas perguntas sobre o assunto , ”Disse Loznitsa.
@@ -77,7 +76,3 @@ Fonte: https://www.timesofisrael.com
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

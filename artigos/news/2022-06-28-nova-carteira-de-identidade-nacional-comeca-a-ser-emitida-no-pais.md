@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Primeiros documentos foram entregues no Palácio do Planalto; modelo digital estará disponível para os cidadãos a partir de agosto pelo GOV.BR.
 
 As primeiras Carteiras de Identidade Nacional (CIN) foram lançadas nesta segunda-feira (27) pelo presidente Jair Bolsonaro, que entregou os novos modelos a participantes em evento realizado no Palácio do Planalto. A partir do mês de agosto, os brasileiros já poderão contar com a nova CIN, emitida pelos estados em um modelo único, reconhecido em todo o território nacional. A versão digital do documento e a validação dos dados do cidadão para a emissão do documento é feita pelo GOV.BR, plataforma de relacionamento do governo federal com o cidadão.
@@ -44,8 +43,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

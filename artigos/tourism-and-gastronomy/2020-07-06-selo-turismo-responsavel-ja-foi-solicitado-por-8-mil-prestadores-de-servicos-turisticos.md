@@ -8,7 +8,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Iniciativa do Ministério do Turismo tem como objetivo auxiliar a retomada da atividade no país.
 
 Mais de oito mil prestadores de serviços turísticos no país já solicitaram a emissão do selo “Turismo Responsável - Limpo e Seguro”. O número comprova o sucesso da iniciativa lançada pelo Ministério do Turismo há um mês e que tem como objetivo auxiliar que o setor de turismo brasileiro retome as suas atividades o mais breve possível e atenda aos pré-requisitos do novo perfil de turista que surgirá com a pandemia de coronavírus.
@@ -29,7 +28,7 @@ Estão disponíveis protocolos para: Meios de Hospedagem; Agências de Turismo; 
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O vencedor do [Prêmio CAPES de Tese](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) na área de Ciência da Computação, Henrique Ferraz de Arruda, aluno do Programa de Pós-Graduação em Ciências da Computação e Matemática Computacional do Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (USP/SC), investigou a interpretação e a  organização de textos e livros, a partir da análise matemática de sistemas complexos.
 
 O trabalho analisou modelos matemáticos a partir de várias possibilidades de leitura. O pesquisador explica que quando essas redes são transformadas em pontos e estes são interligados, resultam no chamado grafo: “A partir de um grafo podemos extrair uma série de informações. Quando nós lemos um texto, vamos vendo uma palavra por vez de forma linear. Entretanto, quando analisamos na forma de redes, outras relações podem ser representadas”.
@@ -30,7 +29,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

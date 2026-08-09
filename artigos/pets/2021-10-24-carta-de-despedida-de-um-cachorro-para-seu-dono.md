@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 “Meu querido humano, vejo que você está chorando, pois chegou meu momento de partir."
 Não chore, por favor. Quero explicar a você algumas coisas.
 Está triste porque fui embora, mas eu estou feliz por ter te conhecido.
@@ -20,12 +19,12 @@ Você deve saber que nós, animais, vivemos o presente intensamente e somos muit
 Nossas vidas começam quando conhecemos o amor, o mesmo amor que você me deu, meu anjo sem asas e duas pernas.
 Saiba que mesmo se você encontrar um animal que está gravemente ferido, e que só lhe resta apenas um pouquinho de tempo neste mundo, você presta um enorme serviço ao acompanhá-lo em sua transição final.
 Nenhum de nós gosta de estar só, menos ainda quando percebemos que é hora de partir.
-.
+
 Não chores mais, por favor. Eu vou feliz. Tenho na lembrança o nome que você me deu, o calor da sua casa que neste tempo se tornou minha. Eu levo o som de sua voz falando para mim, mesmo não entendendo sempre o que me dizia.
 Eu carrego em meu coração cada caricia que você me deu.
 
 Tudo o que você fez foi muito valioso para mim e eu agradeço infinitamente, não sei como dizer a você, porque eu não falo sua língua, mas certamente em meus olhos pôde ver a minha gratidão.
-.
+
 Eu só vou pedir três favores:
 1-Lave o rosto e começa a sorrir.
 2-Lembre-se que bom que vivemos juntos estes momentos e felizes.
@@ -42,7 +41,3 @@ Fonte: [@afonsodpaula](https://www.instagram.com/afonsodpaula/)
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

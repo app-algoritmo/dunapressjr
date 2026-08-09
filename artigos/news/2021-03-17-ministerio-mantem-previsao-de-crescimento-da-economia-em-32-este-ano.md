@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Projeção para inflação é de 4,4%.
 
 A Secretaria de Política Econômica (SPE) do Ministério da Economia manteve a projeção para o crescimento da economia este ano e elevou a estimativa para a inflação, por influência da alta nos preços dos alimentos. As projeções estão no [**Boletim MacroFiscal**](https://www.gov.br/economia/pt-br/centrais-de-conteudo/publicacoes/boletins/boletim-macrofiscal) divulgado hoje (17).
@@ -42,8 +41,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

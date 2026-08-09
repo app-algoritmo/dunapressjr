@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Créditos podem ser contratados até 31 de dezembro deste ano.
 
 O governo criou o programa de Capital de Giro para Preservação de Empresas (CGPE). É para auxiliar empresários a enfrentar o cenário de dificuldades econômicas decorrentes da pandemia do novo coronavírus (covid-19).
@@ -46,4 +45,4 @@ A MP ainda dispensa a exigência da apresentação de documentação comprobató
 
 Fonte: Agência Brasil - Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

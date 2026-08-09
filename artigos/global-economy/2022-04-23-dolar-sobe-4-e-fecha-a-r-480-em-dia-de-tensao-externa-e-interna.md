@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### A Bolsa de Valores fechou aos 111.078 pontos, com queda de 2,86%.
 
 O mercado financeiro teve um dia de pânico após a volta do feriado. O dólar subiu 4% e teve a maior alta para um único dia desde o início da pandemia de covid-19, em março de 2020. A bolsa de valores teve a maior queda diária desde novembro e registrou a pior semana em seis meses.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

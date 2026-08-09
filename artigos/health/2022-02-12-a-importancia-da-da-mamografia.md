@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 O câncer de mama é uma das doenças que mais matam mulheres no Brasil e no mundo e a mamografia é o método mais eficaz para detectar precocemente este câncer.
 
 É uma radiografia das mamas feita por um equipamento de raios X chamado mamógrafo, capaz de identificar alterações suspeitas de câncer antes do surgimento dos sintomas, ou seja, antes que seja palpada qualquer alteração nas mamas.
@@ -74,7 +73,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

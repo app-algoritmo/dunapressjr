@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Pesquisa é da Confederação Nacional da Indústria.
 
 Levantamento da Confederação Nacional da Indústria (CNI) divulgado nesta quarta-feira (1º) mostra que a alta dos preços de insumos e de matérias-primas atingiu o setor industrial de modo inesperado em março. Segundo o levantamento, o aumento dos custos de insumos e matérias-primas nacionais superou as expectativas de 71% das empresas, na indústria extrativa e de transformação, e de 73% no caso específico da indústria da construção civil.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

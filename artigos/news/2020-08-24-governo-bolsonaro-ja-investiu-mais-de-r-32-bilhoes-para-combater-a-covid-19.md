@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Painel de Compras e Contratos Covid-19, ferramenta do Ministério da Economia, atualiza diariamente os investimentos federais em bens e serviços para serem utilizados durante a crise provocada pelo novo coronavírus.
 
 O Ministério da Economia (ME) divulgou nesta sexta-feira (21) a nova versão do [Painel de Compras e Contratos Covid-19](https://datastudio.google.com/u/0/reporting/1ddb773f-0254-4c9c-9b5c-b70602688bb3/page/2nwRB). Atualizada diariamente, a ferramenta registra que o Governo Federal e os demais usuários do Sistema de Compras do Governo Federal (Comprasnet) já investiram mais de R$ 3,2 bilhões em 8.010 aquisições de bens e serviços para serem utilizados durante a crise de saúde provocada pelo novo coronavírus. Entre eles estão Equipamentos de Proteção Individual (EPI), reagentes, termômetros, máscaras, álcool em gel, material de limpeza e produtos médicos.
@@ -23,5 +22,3 @@ Para o acompanhamento das compras emergenciais, o ministério desenvolveu també
 "Iniciamos um processo de análise contínua dos preços praticados, incorporando-os em novas ferramentas de transparência e uso pelos próprios compradores públicos, auxiliando-os ao longo dos processos de contratação", ressalta o diretor de Normas e Sistemas de Logística, Wesley Lira.
 
 Fonte Gov.br
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

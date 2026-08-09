@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## São Paulo foi a capital que teve a cesta mais cara do país.
 
 O preço da cesta básica aumentou em janeiro em 13 das 17 capitais brasileiras que são analisadas na Pesquisa Nacional da Cesta Básica de Alimentos, realizada mensalmente pelo Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese).
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

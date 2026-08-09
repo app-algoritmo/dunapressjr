@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Por causa do novo coronavírus, uma série de regras vem sendo revistas no setor aéreo. Recentemente, foi publicada no Diário Oficial da União, em caráter temporário, a flexibilização da resolução da Agência Nacional de Aviação Civil de número 400/2016, sobre os direitos e deveres dos passageiros e das empresas aéreas.
 
-Durante este período de pandemia de Covid-19 ficam valendo as seguintes normas:  
+Durante este período de pandemia de Covid-19 ficam valendo as seguintes normas:
 
  - O transportador deve comunicar o passageiro, com antecedência mínima de 24 horas, sobre eventual alteração programada do voo. O prazo anterior era de 72 horas
 
@@ -37,5 +36,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

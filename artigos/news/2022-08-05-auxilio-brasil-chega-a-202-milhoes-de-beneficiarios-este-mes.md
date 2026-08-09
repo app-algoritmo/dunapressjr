@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## De agosto a dezembro serão pagos R$ 600.
 
-Com a inclusão de mais de 2,2 milhões de novas famílias, 20,2 milhões de beneficiários, em condição de vulnerabilidade social, vão receber o mínimo de R$ 600 este mês. Até setembro, o valor pago era de R$ 400, mas um complemento de R$ 200, [**aprovado pelo Congresso em julho**](http://agenciabrasil.ebc.com.br/politica/noticia/2022-07/congresso-promulga-pec-que-aumenta-beneficios-sociais-ate-dezembro), reajustou o benefício -  em caráter emergencial - até 31 de dezembro deste ano.
+Com a inclusão de mais de 2,2 milhões de novas famílias, 20,2 milhões de beneficiários, em condição de vulnerabilidade social, vão receber o mínimo de R$ 600 este mês. Até setembro, o valor pago era de R$ 400, mas um complemento de R$ 200, [**aprovado pelo Congresso em julho**](http://agenciabrasil.ebc.com.br/politica/noticia/2022-07/congresso-promulga-pec-que-aumenta-beneficios-sociais-ate-dezembro), reajustou o benefício - em caráter emergencial - até 31 de dezembro deste ano.
 
 O estado com maior número de novos beneficiários é o Rio de Janeiro: 336 mil inclusões. Na sequência, aparecem São Paulo (290 mil), Bahia (235 mil), Pernambuco (180 mil), Pará (141 mil), Minas Gerais (138 mil) e Ceará (122 mil).
 
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Porto de Cabedelo movimentou 1.139.141 toneladas de cargas em 2020. O número é 5,25% maior que a movimentação de 2019, mesmo durante um ano de pandemia. Os dados são do setor de Gerência de Operações, da Companhia Docas da Paraíba, divulgados na última quinta-feira (31).
 
 O mês de novembro apresentou a maior movimentação do ano. No total, 157.200 toneladas de produtos passaram pelo cais durante o mês. O resultado, além de ser o maior do ano, representa um crescimento de 90% em relação ao mês de outubro, quando a movimentação foi de 82.688 toneladas.
@@ -33,8 +32,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

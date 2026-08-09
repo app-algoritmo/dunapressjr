@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 **Bolsa de valores subiu 0,65%, depois de alternar altas e baixas**.
 
 Num dia de agravamento das tensões entre Estados Unidos e China, o dólar voltou a subir e fechou no maior valor em 45 dias. O dólar comercial encerrou esta segunda-feira (10) vendido a R$ 5,465, com alta de R$ 0,052 (+0,97%).
@@ -26,4 +25,4 @@ No Brasil, o mercado financeiro aguarda a divulgação nesta terça-feira (11) d
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

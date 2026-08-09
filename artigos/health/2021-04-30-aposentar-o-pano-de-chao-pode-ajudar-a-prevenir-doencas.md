@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Uma das ferramentas mais utilizadas para a limpeza doméstica, o pano de chão pode gerar contaminação nos ambientes e ajudar a proliferar doenças quando não usado corretamente. De acordo com o doutor em Ciências Biológicas e coordenador dos cursos de limpeza profissional da Fundação de Asseio e Conservação, Serviços Especializados e Facilities (Facop), Mário Guedes, a má utilização do pano de chão pode trazer riscos à saúde pela contaminação cruzada, que acontece por meio do transporte de micro-organismos de um local para outro. Ou seja, não se trata apenas de praticidade, mas de saúde. O pano utilizado no banheiro, por exemplo, pode carregar vírus, fungos e bactérias para a cozinha, a sala ou o quarto.
 
 Um estudo realizado pela Fundação de Pesquisa para Saúde e Segurança Social (Fess), em parceria com a Universidade de Barcelona, mostrou que a limpeza correta dos ambientes é fundamental para eliminar focos de transmissão de doenças. Segundo o estudo, o banheiro é o local com maior quantidade de germes em uma casa, o que torna a chamada contaminação cruzada um perigo que precisa ser evitado.
@@ -22,7 +21,7 @@ Quando bem utilizado, o *mop* otimiza o processo de limpeza e desinfecção e pe
 
 Embora o *mop* já frequente as prateleiras de supermercados e lojas de departamento há algum tempo, ainda podem restar dúvidas sobre seu uso devido à grande variedade de modelos, aplicações e valores. Guedes explica as diferenças entre os principais tipos de *mop* e para que serve cada um deles.
 
-O *mop* pó é utilizado para a limpeza seca, sem uso de água ou de produtos químicos, e pode ser encarado como um substituto para a vassoura. A vantagem desse tipo de ferramenta sobre a vassoura é que seu refil de tecido tem função eletrostática, ou seja, “retém as partículas de sujidade soltas, como pó, poeira e outros detritos, evitando que elas fiquem em suspensão e se espalhem no ambiente”, diz o biólogo. Os refis podem ser lavados e reutilizados. 
+O *mop* pó é utilizado para a limpeza seca, sem uso de água ou de produtos químicos, e pode ser encarado como um substituto para a vassoura. A vantagem desse tipo de ferramenta sobre a vassoura é que seu refil de tecido tem função eletrostática, ou seja, “retém as partículas de sujidade soltas, como pó, poeira e outros detritos, evitando que elas fiquem em suspensão e se espalhem no ambiente”, diz o biólogo. Os refis podem ser lavados e reutilizados.
 
 Por sua vez, o *mop *úmido - ou esfregão - é composto, além do próprio *mop*, por um balde espremedor. É ali que deve ser colocado o produto de limpeza para aplicação, seguindo a diluição recomendada pelos fabricantes. Ele é ideal para aplicar esses produtos de limpeza no piso, de modo a remover a sujidade que o *mop *seco não conseguiu retirar. Segundo Guedes, “esse equipamento proporciona um contato mínimo com o produto químico e também com a sujidade e é indicado para realizar a limpeza e desinfecção dos ambientes”.
 
@@ -44,5 +43,3 @@ Fonte: Central Press
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

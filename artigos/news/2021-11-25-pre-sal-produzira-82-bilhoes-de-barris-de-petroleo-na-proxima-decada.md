@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estimativa foi apresentada nesta quarta-feira (24) no 4º Fórum Técnico Pré-sal Petróleo.
 
 De 2022 até 2031, a produção de petróleo na camada Pré-sal brasileira deve atingir a marca de 8,2 bilhões de barris de óleo equivalente (boe) acumulados, sendo que 1,5 bilhão são da União, pelo regime de partilha. A comercialização desse óleo vai gerar US$ 116 bilhões no período, além de US$ 92 bilhões em *royalties* e US$ 77 bilhões em impostos. Ou seja, o total de receitas para os cofres da União gerados pela exploração do Pré-sal será de US$ 285 bilhões até 2031.
@@ -36,10 +35,6 @@ Também foram apresentados no evento a experiência de coparticipação no campo
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

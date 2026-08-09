@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Os investimentos estimados totalizam o valor de R$798 milhões.
 
 O governador João Azevêdo anunciou, nesta segunda-feira (6), por meio de transmissão ao vivo nas páginas oficiais do Governo do Estado nas redes sociais, o ‘Programa de Investimentos em Obras Públicas’ na Paraíba. A ação contempla 203 intervenções e tem o objetivo de impulsionar a economia do Estado, com a injeção de recursos estimados em R$ 798 milhões, sendo R$ 601 milhões oriundos do tesouro estadual e R$ 197 milhões do governo federal. Além da retomada dos serviços suspensos devido à pandemia do coronavírus, o plano também envolve o anúncio de novas obras e a autorização de novas ordens de licitação e de serviço, assegurando a geração de emprego e renda em todas as regiões da Paraíba e melhorando a qualidade de vida da população.
@@ -18,7 +17,7 @@ Dentre as 41 obras que já estão em processo licitatório, destacam-se o entroc
 
 Já a construção de 856 apartamentos no Residencial São Judas Tadeu I e II, em Patos, uma obra de R$ 65,4 milhões; o condomínio Cidade Madura, em Monteiro, onde serão investidos R$ 4,7 milhões; obras de esgotamento sanitário em Santa Rita (R$ 2 milhões); e pavimentação de ruas em Campina Grande (R$ 2 milhões) estão entre as 32 ordens de serviço autorizadas pelo chefe do Executivo estadual.
 
-“Mesmo diante de uma questão tão séria e de um momento tão difícil que o mundo e a Paraíba enfrentam, nós continuamos pensando e planejando o Estado de forma segura e responsável. Estamos apresentando o programa de investimentos, mas não podemos nos descuidar do que é mais importante: a saúde. Por isso, é importante manter o uso de máscaras e do álcool gel, o distanciamento social e a lavagem das mãos porque a pandemia ainda não passou”, disse o governador João Azevêdo. 
+“Mesmo diante de uma questão tão séria e de um momento tão difícil que o mundo e a Paraíba enfrentam, nós continuamos pensando e planejando o Estado de forma segura e responsável. Estamos apresentando o programa de investimentos, mas não podemos nos descuidar do que é mais importante: a saúde. Por isso, é importante manter o uso de máscaras e do álcool gel, o distanciamento social e a lavagem das mãos porque a pandemia ainda não passou”, disse o governador João Azevêdo.
 
 **Infraestrutura e mobilidade urbana**
 
@@ -60,8 +59,8 @@ A gestão estadual também irá realizar intervenções nos Estádios Amigão, e
 
 Na área da Saúde, além do Centro de Referência da Saúde da Mulher, está prevista a conclusão do Hospital de São Bento (R$ 6,2 milhões), a conclusão do bloco administrativo e instalação de combate a incêndio no Hemocentro (R$ 1,2 milhão), que também passará por outras intervenções; e a construção da área de repouso para plantonistas do Hospital de Trauma Dom Luiz Gonzaga Fernandes, em Campina Grande (R$ 187 mil).
 
-O plano de retomada de obras foi viabilizado após estudos realizados com a equipe de gestão fiscal do governo e obedecerá todas as orientações previstas no ‘Plano Novo Normal Paraíba’, que permitiu a retomada das atividades da construção civil, observando os protocolos específicos do setor e todas as normas de distanciamento social para evitar a propagação do coronavírus. 
+O plano de retomada de obras foi viabilizado após estudos realizados com a equipe de gestão fiscal do governo e obedecerá todas as orientações previstas no ‘Plano Novo Normal Paraíba’, que permitiu a retomada das atividades da construção civil, observando os protocolos específicos do setor e todas as normas de distanciamento social para evitar a propagação do coronavírus.
 
 Fonte: paraiba.pb.gov.br – Imagem de destaque: Francisco França
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

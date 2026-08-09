@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Natal/RN – A Polícia Federal prendeu em flagrante na noite do último sábado, 23/5, no Aeroporto Internacional Governador Aluízio Alves, na grande Natal, quatro mulheres e um homem, acusados de tráfico de drogas. O grupo, composto por duas catarinenses, de 27 e 29 anos; uma paranaense, 29 anos e uma paraibana, 22 anos, havia desembarcado de um voo que teve origem em Guarulhos/SP. Na bagagem, traziam 47,44 quilos de maconha.
 
 A ação aconteceu durante uma fiscalização de rotina junto ao setor de desembarque doméstico. Após uma rápida entrevista com alguns passageiros, os policiais observaram o comportamento suspeito das quatro jovens que ficaram visivelmente nervosas e não souberam informar, com precisão, o real motivo da viagem e, tampouco, onde ficariam hospedadas. Desconfiados, os agentes pediram então que elas abrissem as malas para uma inspeção e logo encontraram os tabletes da droga.
@@ -26,5 +25,3 @@ Esta foi a maior apreensão de maconha da história realizada pela Polícia Fede
 Apesar das restrições impostas neste período de pandemia, a Polícia Federal segue vigilante na sua missão de reprimir a atuação de criminosos no estado potiguar.
 
 Comunicação Social da Polícia Federal no Rio Grande do Norte
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

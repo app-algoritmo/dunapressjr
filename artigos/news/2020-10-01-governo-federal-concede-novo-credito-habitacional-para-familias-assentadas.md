@@ -7,18 +7,17 @@ categories:
 - News
 ---
 
-
 O novo crédito será concedido para construção ou reforma e será depositado diretamente na conta do assentado. Um total de R$ 340 milhões para essa linha de crédito já está disponibilizado para os assentados.
 
 Um novo crédito habitacional para famílias assentadas foi lançado nesta quarta-feira (30), no Palácio do Planalto, em Brasília. A Instrução Normativa 101/2020 que regulamenta a aplicação do Crédito Instalação para os beneficiários do Programa Nacional de Reforma Agrária (PNRA) foi assinada pelo Presidente Jair Bolsonaro.
 
 A expectativa é que sejam assinados, ainda neste ano, até 10 mil contratos de construção ou de reforma de habitação dentro de assentamentos de reforma agrária. Um total de R$ 340 milhões para essa linha de crédito já está disponibilizado para os assentados.
 
-O novo crédito, conforme determina o documento, será concedido nas modalidades: Habitacional e Reforma Habitacional. 
+O novo crédito, conforme determina o documento, será concedido nas modalidades: Habitacional e Reforma Habitacional.
 
 Modalidade Habitacional: nesse caso, os recursos são direcionados à aquisição de materiais de construção e pagamentos de serviços de engenharia e mão de obra. Será disponibilizado um valor máximo de R$ 34 mil por beneficiário.
 
-Reforma Habitacional: o crédito será destinado à recuperação e ampliação da moradia já existente nos assentamentos criados ou reconhecidos pelo Incra. Terá um valor de até R$ 17 mil por beneficiário.  
+Reforma Habitacional: o crédito será destinado à recuperação e ampliação da moradia já existente nos assentamentos criados ou reconhecidos pelo Incra. Terá um valor de até R$ 17 mil por beneficiário.
 
 Segundo o Instituto Nacional de Colonização e Reforma Agrária (Incra), o recurso passará a ser depositado diretamente na conta do próprio assentado, que poderá acessá-lo por meio de um cartão magnético em seu nome. “Isso faz com que os assentados sejam os protagonistas nesse processo de construção de suas moradias”, disse o presidente do Incra, Geraldo de Melo Filho.
 
@@ -45,5 +44,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

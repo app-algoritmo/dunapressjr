@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Previsão é de crescimento de 3,50% para o próximo ano.
 
 A previsão do mercado financeiro para a queda da economia brasileira este ano foi ajustada de 6,51% para 6,50%. A estimativa de recuo do Produto Interno Bruto (PIB) – a soma de todos os bens e serviços produzidos no país – está no boletim Focus, publicação divulgada todas as semanas pelo Banco Central (BC), com a projeção para os principais indicadores econômicos.
@@ -42,4 +41,4 @@ Quando o Copom aumenta a taxa básica de juros, o objetivo é conter a demanda a
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

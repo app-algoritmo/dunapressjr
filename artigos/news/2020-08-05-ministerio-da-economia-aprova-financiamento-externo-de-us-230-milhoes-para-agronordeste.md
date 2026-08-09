@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Os recursos virão do BID e da União para financiamento de ações, como melhoria da competitividade das cadeias produtivas no Nordeste e no norte do Espírito Santo e de Minas Gerais.
 
 A Comissão de Financiamentos Externos (Cofiex), do Ministério da Economia, aprovou projeto do Ministério da Agricultura, Pecuária e Abastecimento (Mapa) no valor de US$ 230 milhões para financiar ações do AgroNordeste. Os recursos virão do Banco Interamericano de Desenvolvimento (BID), sendo que US$ 40 milhões em contrapartidas da União, por um período de seis anos.
@@ -21,7 +20,7 @@ Lançado em outubro de 2019, o AgroNordeste tem como objetivo promover o aumento
 
 O Mapa conta com vários parceiros para a execução das ações e metas comuns. Fazem parte da rede o Sebrae, Senar, Sistema OCB, Banco do Nordeste (BNB), Banco do Brasil e Aneel, além das vinculadas do Ministério (Conab, Embrapa, Anater e Incra).
 
-Em cinco estados, os planos de trabalho para a estruturação das cadeias produtivas prioritárias já foram concluídos. Os estados são: Paraíba, Rio Grande do Norte, Alagoas, Maranhão e Sergipe. Em todos eles, já foram identificadas as regiões que compõem o primeiro conjunto de territórios prioritários, com as cadeias produtivas principais. Nesta primeira etapa, serão 12 territórios, com cadeias que vão da fruticultura irrigada à ovinocaprinocultura, passando pela apicultura, produção de camarões, mandiocultura e leite de vaca. 
+Em cinco estados, os planos de trabalho para a estruturação das cadeias produtivas prioritárias já foram concluídos. Os estados são: Paraíba, Rio Grande do Norte, Alagoas, Maranhão e Sergipe. Em todos eles, já foram identificadas as regiões que compõem o primeiro conjunto de territórios prioritários, com as cadeias produtivas principais. Nesta primeira etapa, serão 12 territórios, com cadeias que vão da fruticultura irrigada à ovinocaprinocultura, passando pela apicultura, produção de camarões, mandiocultura e leite de vaca.
 
 No último ano, o AgroNordeste apoiou ainda a continuidade de ações diretas e ações do Mapa. Entre elas, a adesão de mais estados nordestinos ao sistema de equivalência da fiscalização sanitária, a divulgação do Selo Arte para qualificação dos produtos artesanais, o lançamento dos programas Brasil Mais Cooperativo e Residência Rural pelos estados do Nordeste.
 
@@ -31,7 +30,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

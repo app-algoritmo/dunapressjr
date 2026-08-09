@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Tal como muitas pessoas, muitos filósofos tiveram seus últimos dias em vida de forma trágica e marcaram, com isso, a nossa história, como por exemplo a de Sócrates que após ser condenado tinha a sua frente a escolha de se suicidar com veneno, ou de se exilar e perder toda a sua memória para a posteridade. Ou também a de Friedrich Nietzsche que acabou por perder sua sanidade mental, sendo fadado assim a loucura. Neste artigo iremos tratar dos últimos dias que se sucederam a morte do filosofo e político Romano Cícero e quais foram suas consequências.
 
 Mas antes que prossigamos, gostaria de recomendar ao leitor duas outras leituras de minha autoria que está relacionado diretamente com Cícero, os links estarão logo abaixo deste texto.
@@ -71,7 +70,7 @@ Como já dito acima, Cícero não chegara a ver o fim da república romana pois 
 
 Em 31 a.C. acontece a Batalha de Áccio onde as duas forças se chocam. Otaviano se faz vitorioso e Marco Antônio se suicida após estes acontecimentos. Roma estava livre para Otávio e em 27 a.C. ele é nomeado a Augusto e aqui se inicia o Império Romano.
 
-## Leia também: 
+## Leia também:
 
 https://dunapress.org/2020/04/02/conselhos-de-um-irmao-de-quintus-t-cicero-para-marcus-t-cicero/
 
@@ -80,7 +79,7 @@ https://dunapress.org/2020/05/06/a-retorica-na-historia-cicero-versus-catilina/
 http://www.lpbraganca.com.br/quem-foi-octaviano-imperador/
 Sobre Octaviano Augusto
 
-## Referencias: 
+## Referencias:
 
 BEARD, Mary. Luis Reyes Gil. *S.P.Q.R: Uma História da Roma Antiga*. São Paulo: Editora Crítica Ed 1.
 
@@ -90,7 +89,7 @@ Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com inf
 
 Clique no link abaixo para assinar
 
-### [https://dunapress.org/subscription-plan/?aff=Vitor](https://dunapress.org/subscription-plan/?aff=Vitor)
+### [https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)
 
 Experimente por 7 Dias Gratuitos – Nossos Valores de Assinatura
 

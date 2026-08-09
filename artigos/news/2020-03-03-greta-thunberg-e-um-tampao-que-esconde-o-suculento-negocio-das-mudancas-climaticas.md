@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 O movimento liderado pela jovem Greta não é casual nem improvisado. Há grandes interesses comerciais e econômicos por trás da ativista.
 
-[](https://s.libertaddigital.com/2019/08/20/1920/1080/fit/greta-thunberg-viaje.jpg)Greta Thunberg Efe
+Greta Thunberg Efe
 
 *O jornal britânico Times* publicou um [artigo devastador](https://t.co/IhFVyZTddH?amp=1) sobre os **vínculos entre Greta Thunberg e vários grupos empresariais e ambientais** . Assinado por Justin Rowlatt, correspondente da *BBC* para questões climáticas, o texto põe em questão a suposta espontaneidade dos protestos comandados por Thunberg e vincula o ativismo da garota sueca aos interesses de diferentes organizações.
 

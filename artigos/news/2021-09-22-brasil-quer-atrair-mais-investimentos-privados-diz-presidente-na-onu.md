@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsonaro disse que é contra adoção do passaporte da vacinação.
 
 O presidente Jair Bolsonaro disse, nesta terça-feira (21), ao abrir a sessão de debates da 76ª Assembleia Geral das Nações Unidas (ONU), que o Brasil está trabalhando na atração de investimentos da iniciativa privada e que possui “tudo o que investidor procura: um grande mercado consumidor, excelentes ativos, tradição de respeito a contratos e confiança no nosso governo”.
@@ -42,10 +41,6 @@ Em sua fala, o presidente também destacou a atuação brasileira no campo human
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

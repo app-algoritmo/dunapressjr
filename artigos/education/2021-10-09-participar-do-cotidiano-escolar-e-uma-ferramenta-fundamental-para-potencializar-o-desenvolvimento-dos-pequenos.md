@@ -8,10 +8,9 @@ categories:
 - Education
 ---
 
-
 A mão que segura firme outra mão que, por sua vez, agarra o lápis para desenhar as primeiras letras do alfabeto. O olhar atento que ajuda a compreender melhor o que os livros didáticos estão dizendo. O pedido de ajuda para os professores quando a própria compreensão não alcança os limites do conteúdo ensinado. De acordo com o Programa Internacional de Avaliação de Estudantes (Pisa), filhos que têm a participação dos pais nos processos de aprendizagem conseguem um melhor desempenho na vida escolar.
 
-Em ciências, por exemplo, esses estudantes apresentam média de 414,08 pontos, enquanto aqueles que não têm acompanhamento dos pais ou responsáveis enquanto estudam chegam a uma média de apenas 357,19. Para o consultor pedagógico e *key account manager* da Conquista Solução Educacional, Fernando Vargas, os resultados do levantamento refletem aquilo que os profissionais de educação já perceberam há muito tempo: quando família e escola andam juntas, as crianças e adolescentes conseguem desenvolver melhor tanto seu conhecimento formal quanto suas habilidades socioemocionais. “Contar com a participação das famílias no cotidiano de aprendizagem é fundamental para que esses jovens se sintam cada vez mais confiantes em sua trajetória acadêmica e projeto de vida”, afirma. 
+Em ciências, por exemplo, esses estudantes apresentam média de 414,08 pontos, enquanto aqueles que não têm acompanhamento dos pais ou responsáveis enquanto estudam chegam a uma média de apenas 357,19. Para o consultor pedagógico e *key account manager* da Conquista Solução Educacional, Fernando Vargas, os resultados do levantamento refletem aquilo que os profissionais de educação já perceberam há muito tempo: quando família e escola andam juntas, as crianças e adolescentes conseguem desenvolver melhor tanto seu conhecimento formal quanto suas habilidades socioemocionais. “Contar com a participação das famílias no cotidiano de aprendizagem é fundamental para que esses jovens se sintam cada vez mais confiantes em sua trajetória acadêmica e projeto de vida”, afirma.
 
 Algumas práticas simples podem contribuir para alcançar esse cenário de integração e trabalho conjunto.
 
@@ -46,7 +45,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

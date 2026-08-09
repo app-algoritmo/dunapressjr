@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Foram debatidos temas como o combate à Covid-19.
 
 presidente da República, Jair Bolsonaro, informou em sua conta nas redes sociais, nesta segunda-feira (15), que conversou, por telefone, com o presidente da Rússia, Vladimir Putin.
@@ -20,4 +19,4 @@ O Brics é grupo formado por Brasil, Rússia, Índia, China e África do Sul. Ne
 
 Fonte gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=joiceferreiradunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

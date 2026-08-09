@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 É incontestável que os alimentos consumidos pelo homem devam conter nutrientes capazes, tanto qualitativa como quantitativamente, de garantir um metabolismo (funcionamento corporal) adequado e, por conseqüência, condições ideais de saúde.
 
 Em função disso uma grande atenção dos especialistas em nutrição recai sobre as frutas e vegetais, já que 73% do total da dieta humana é constituída de alimentos de origem vegetal.
@@ -58,7 +57,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

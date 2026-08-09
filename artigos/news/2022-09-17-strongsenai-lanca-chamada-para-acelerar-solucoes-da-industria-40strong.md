@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Cada projeto selecionado poderá receber até R$ 800 mil.
 
 Micro, pequenas e médias empresas (MPMEs) podem enviar ao Serviço Nacional de Aprendizagem Industrial (Senai) projetos de aplicação da tecnologia da Indústria 4.0 em seus processos produtivos. A instituição lançou edital de R$ 10 milhões para fomentar a inovação no setor.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

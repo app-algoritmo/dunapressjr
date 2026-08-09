@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Boa Vista/RR - A Polícia Federal prendeu na última sexta-feira (12/6) um suspeito de ser responsável pelo aliciamento de mulheres com o fim de exploração sexual no exterior.
 
 Policiais Federais cumpriram um mandado de prisão preventiva e dois de busca e apreensão em Raul Soares, cidade do interior de Minas Gerais. Os mandados foram expedidos pela 1ª Vara Criminal da Justiça Estadual em Roraima, após representação da PF.
@@ -24,5 +23,3 @@ O suspeito teria passado a exigir da vítima dinheiro para não divulgar o conte
 As investigações apontam que um suspeito seria o responsável por todos os contatos, a partir do município de Raul Soares/MG. Ele já teria passagem pelos crimes de extorsão e estelionato e estava com um outro mandado de prisão preventiva decretado pela 29ª Vara Criminal da Justiça Estadual do Rio de Janeiro.
 
 Comunicação Social da Polícia Federal em Roraima.
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

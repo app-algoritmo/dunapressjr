@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Taxa de juros recuou de 23,1% para 21,5% ao ano.
 
 As concessões de crédito no período de 1º de março a 22 de maio de 2020 somaram R$ 914,2 bilhões, incluindo contratações, renovações e suspensão de parcelas, segundo a Federação Brasileira de Bancos (Febraban).
@@ -23,5 +22,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

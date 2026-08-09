@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Prazo para que isso ocorra é até 2025, diz diretora do Fundo Monetário.
 
 Acelerar a recuperação da recessão causada pelo coronavírus pode adicionar US$ 9 trilhões de dólares à renda global até 2025, disse nesta quinta-feira (15) a diretora-gerente do Fundo Monetário Internacional (FMI), Kristalina Georgieva. De acordo com ela, isso depende de uma forte cooperação internacional, incluindo vacinas.
@@ -31,5 +30,3 @@ O G20 (grupo formado pelas principais economias do mundo) aprovou na quarta-feir
 Fonte: Agência Brasil – Imagem de destaque: Yuri Gripas/Reuters
 
 C**ontar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

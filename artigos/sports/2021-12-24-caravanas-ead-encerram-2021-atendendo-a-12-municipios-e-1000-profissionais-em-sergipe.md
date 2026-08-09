@@ -8,7 +8,6 @@ categories:
 - Sports
 ---
 
-
 ## Uma ação em rede, com as metodologias do Instituto Esporte & Educação (IEE), de Ana Moser, e do Instituto Mpumalanga. Um projeto que chegou também a professores e coordenadores da rede estadual de ensino e pela primeira vez atingiu, simultaneamente, várias cidades de um mesmo estado.
 
 O ano termina com um balanço muito positivo para as Caravanas EAD desenvolvidas ao longo de 2021 em Sergipe. Os projetos Caravana do Esporte, do Instituto Esporte & Educação (IEE), e Caravana das Artes, do Instituto Mpumalanga, atenderam pela primeira vez, simultaneamente, a vários municípios de um mesmo estado. Foram 12 cidades, com as atividades envolvendo também professores e coordenadores da rede estadual de ensino. No total, 1.000 profissionais participaram das formações on-line.
@@ -40,7 +39,3 @@ Fonte: ***ZDL Sports***
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

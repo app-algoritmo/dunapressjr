@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## O que é a pesquisa?
 
 Atualmente, a sociedade depende de sistemas mecânicos (aeronaves, navios, veículos militares, grandes máquinas) e de estruturas de engenharia, tais como  pontes, plataformas de extração de petróleo, hidrelétricas e edifícios, as quais, no decorrer dos anos, sofrem com a degradação e, muitas vezes, não podem ser substituídas de imediato por outras novas. Técnicas para detectar danos tornam-se muito úteis para que essas estruturas e sistemas mecânicos continuem sendo utilizadas com segurança, mesmo ao se aproximarem do fim de sua vida útil.
 
-Nos últimos anos, inúmeros pesquisadores têm se dedicado ao estudo de técnicas de Monitoramento de Integridade Estrutural, do inglês, Structural Health Monitoring (SHM). Essas técnicas visam aumentar a segurança das estruturas e reduzir o custo de manutenção delas. Os estudos envolvem a observação de uma estrutura ou sistema mecânico ao longo do tempo, utilizando medições por meio de sensores, os quais identificam características sensíveis a danos ou à degradação. 
+Nos últimos anos, inúmeros pesquisadores têm se dedicado ao estudo de técnicas de Monitoramento de Integridade Estrutural, do inglês, Structural Health Monitoring (SHM). Essas técnicas visam aumentar a segurança das estruturas e reduzir o custo de manutenção delas. Os estudos envolvem a observação de uma estrutura ou sistema mecânico ao longo do tempo, utilizando medições por meio de sensores, os quais identificam características sensíveis a danos ou à degradação.
 
 Para determinar o estado de saúde ou integridade de uma estrutura, os sinais provenientes dos sensores são periodicamente coletados para avaliar a capacidade da estrutura continuar a desempenhar a função para a qual foi construída, diante do inevitável envelhecimento e degradação resultantes das condições ambientais e uso.
 
@@ -26,13 +25,13 @@ Por meio de técnicas de processamento de dados e estatísticas, é possível ca
 
 ## Qual a importância da pesquisa?
 
-O método da impedância é uma técnica de SHM com alta sensibilidade, capaz de detectar danos incipientes. O impedancímetro apresenta tecnologia inovadora, baixo custo, versatilidade, propriedades que fazem dela uma ferramenta de ‘avaliação não destrutiva’ (que preserva a integridade da estrutura durante a avaliação) muito promissora na identificação rápida de falhas estruturais. 
+O método da impedância é uma técnica de SHM com alta sensibilidade, capaz de detectar danos incipientes. O impedancímetro apresenta tecnologia inovadora, baixo custo, versatilidade, propriedades que fazem dela uma ferramenta de ‘avaliação não destrutiva’ (que preserva a integridade da estrutura durante a avaliação) muito promissora na identificação rápida de falhas estruturais.
 
 A motivação para o desenvolvimento de tecnologias de SHM vem de vários setores da indústria. Por exemplo, empresas aeroespaciais, juntamente com empresas governamentais dos Estados Unidos, estão investigando tecnologias para a detecção de danos em superfícies de naves espaciais protegidas por escudos de proteção térmica. Dentre as várias áreas nas quais a análise da integridade estrutural é imprescindível, uma das mais demandantes é a de aviação.
 
 Outra aplicação importante das tecnologias de SHM se dá na engenharia civil que, atualmente, não possui qualquer método quantitativo para determinar se edifícios são seguros para reocupação, após um terremoto de alta magnitude. Com o SHM ganhando cada vez mais espaço, no futuro haverá diferentes formas de minimizar a incerteza da reocupação, associada às avaliações unicamente visuais das edificações após um terremoto.
 
-Em caso de eventos extremos, como um terremoto ou um tsunami, o SHM poderia ser utilizado para uma rápida triagem e avaliação da condição de estruturas e sistemas mecânicos atingidos, fornecendo, rapidamente, informações confiáveis sobre a integridade e desempenho deles, respectivamente. Além disso, o SHM tem potencial para ser utilizado de forma on-line, isto é, monitoramento contínuo, em tempo real, do comportamento dinâmico de estruturas e sistemas mecânicos. 
+Em caso de eventos extremos, como um terremoto ou um tsunami, o SHM poderia ser utilizado para uma rápida triagem e avaliação da condição de estruturas e sistemas mecânicos atingidos, fornecendo, rapidamente, informações confiáveis sobre a integridade e desempenho deles, respectivamente. Além disso, o SHM tem potencial para ser utilizado de forma on-line, isto é, monitoramento contínuo, em tempo real, do comportamento dinâmico de estruturas e sistemas mecânicos.
 
 As tecnologias desenvolvidas para o SHM permitirão que as abordagens atuais sobre a manutenção evoluam para medições precisas da qualidade das estruturas a partir de um sistema sensorial acoplado a elas, capaz de alertar sobre danos detectados. Ações de manutenção poderão ser providenciadas antes que a degradação da estrutura atinja nível crítico, trazendo, assim, benefícios à segurança e econômicos. Esses avanços no prognóstico da vida útil das estruturas dependem, entretanto, do desenvolvimento de componentes físicos de um computador mais sofisticado, bem como procedimentos de análise de dados mais complexos, capazes de interrogar adequadamente a estrutura monitorada.
 
@@ -59,7 +58,3 @@ Fonte:  https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

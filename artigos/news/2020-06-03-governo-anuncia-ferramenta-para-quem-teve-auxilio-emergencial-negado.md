@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 Quem teve o auxílio negado poderá contestar por telefone, pelo site ou nas agências dos Correios.
 
-O ministro da Cidadania, Onyx Lorenzoni, em entrevista ao Planalto nesta terça-feira (2), anunciou a criação de uma ferramenta de contestação para pessoas que tiveram o auxílio emergencial de R$ 600 negado. Lorenzoni afirmou que "para melhorar ainda mais o atendimento, nós estamos constituindo no sistema uma trilha de contestação que deverá estar já funcionando a pleno vapor a partir da próxima segunda-feira, através do telefone 121 do Ministério da Cidadania, ou através do site". 
+O ministro da Cidadania, Onyx Lorenzoni, em entrevista ao Planalto nesta terça-feira (2), anunciou a criação de uma ferramenta de contestação para pessoas que tiveram o auxílio emergencial de R$ 600 negado. Lorenzoni afirmou que "para melhorar ainda mais o atendimento, nós estamos constituindo no sistema uma trilha de contestação que deverá estar já funcionando a pleno vapor a partir da próxima segunda-feira, através do telefone 121 do Ministério da Cidadania, ou através do site".
 
-O auxílio emergencial do Governo Federal é o benefício de R$ 600 mensais (R$ 1,2 mil para mães solteiras) pago a trabalhadores informais, microempreendedores individuais, autônomos e desempregados para amenizar os impactos do isolamento social adotado devido à pandemia do novo coronavírus. 
+O auxílio emergencial do Governo Federal é o benefício de R$ 600 mensais (R$ 1,2 mil para mães solteiras) pago a trabalhadores informais, microempreendedores individuais, autônomos e desempregados para amenizar os impactos do isolamento social adotado devido à pandemia do novo coronavírus.
 
 De acordo com o ministro, a contestação poderá ser feita por todos que tiveram o auxílio negado. Lorenzoni informou que, dos 120 milhões de CPFs avaliados, em torno de 33 ou 34 milhões são pessoas que não tinham direito. E há um total de 1,5 milhão de pessoas que tinham problemas de grande complexidade nos seus relatos.
 
@@ -39,5 +38,3 @@ Fonte: gov.br – Imagem de destaque: Secom/PR
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

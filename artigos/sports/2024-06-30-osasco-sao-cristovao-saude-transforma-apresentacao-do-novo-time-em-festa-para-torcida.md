@@ -9,7 +9,6 @@ categories:
 - Volleyball
 ---
 
-
 ## Clube que inovou ao usar o ambiente digital para se comunicar com fãs, traz formato renovado e enche as arquibancadas do ginásio José Liberatti.
 
 Osasco São Cristóvão Saúde alia tradição na quadra a vanguarda na comunicação e na relação com seus torcedores. No período da pandemia, conectou os fãs por meio de lives e apresentação de atletas por meio das redes sociais. Agora, deixa de lado o modelo seguido pela maioria das equipes de vôlei e aponta - com sucesso - em um modelo disruptivo para a modalidade, agora investindo na experiência. Na último dia 20, o clube levou a torcida para o ginásio José Liberatti, onde show musical ao vivo, presença de ex-atletas como Carol Albuquerque, celebridades como o humorista Carioca e, claro, o time para a temporada 2024-25 a esperava.
@@ -29,16 +28,11 @@ Natália foi apresentada pela amiga Camila Brait. A capitã osasquense participo
 O técnico Luizomar não esconde o otimismo com o novo grupo. “Acredito que conseguimos montar um elenco de grande potencial, mantendo a boa base da temporada passada e trazendo reforços importantes, como a Natália, Polina, Valquíria e as demais meninas. Agora é trabalhar muito, construir o entrosamento técnico e tático porque a temporada é longa, forte e de alto nível”, afirmou o treinador, que completou. “Estou muito feliz em ver nossa torcida lotando o Liberatti para receber esse novo grupo e também contar com a presença do prefeito Rogério Lins e nossos patrocinadores. Sou muito grato a todos”.
 
 **Mais informações:
-*****Osasco Vôlei TV: ******[https://www.youtube.com/c/OsascoV%C3%B4leiTV](https://click.presskit.com.br/url/102257304c3/6361388b6fc)[
-](https://click.presskit.com.br/url/102257304c3/6361388b6fc)******Fan page: ***[***https://www.facebook.com/osascovoleibolclube/***](https://click.presskit.com.br/url/1022574d516/6361388b6fc)***         ***
+*****Osasco Vôlei TV: ******[https://www.youtube.com/c/OsascoV%C3%B4leiTV](https://click.presskit.com.br/url/102257304c3/6361388b6fc)******Fan page: ***[***https://www.facebook.com/osascovoleibolclube/***](https://click.presskit.com.br/url/1022574d516/6361388b6fc)***         ***
 ***Instagram: ***[***www.instagram.com/osascovoleibolclube/***](https://click.presskit.com.br/url/10225755ee2/6361388b6fc)***         ***
-***Twitter: ******[www.twitter.com/osascovc](https://click.presskit.com.br/url/1022576931a/6361388b6fc)[
-
-](https://click.presskit.com.br/url/1022576931a/6361388b6fc)******Assessoria de Imprensa:
+***Twitter: ******[www.twitter.com/osascovc](https://click.presskit.com.br/url/1022576931a/6361388b6fc)******Assessoria de Imprensa:
 ******ZDL Sports         ***
 ***Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](mailto:dorojr@zdl.com.br) - F: 11 984579723         ***
 ***Rafael De Marco - Mtb.: 27556 - [rafael@zdl.com.br](mailto:rafael@zdl.com.br) - Cel: 11 976022986 - WhatsApp: 19 997912108
 
-******Site: ******[www.zdl.com.br](https://click.presskit.com.br/url/10225715dca/6361388b6fc)[
-](https://click.presskit.com.br/url/1022577bfe9/6361388b6fc)******Facebook: ******[www.facebook.com/ZDLSports](https://click.presskit.com.br/url/10225788511/6361388b6fc)[
-](https://click.presskit.com.br/url/10225788511/6361388b6fc)******Instagram: ***[***www.instagram.com/zdlsports***](https://click.presskit.com.br/url/1022579b34c/6361388b6fc)
+******Site: ******[www.zdl.com.br](https://click.presskit.com.br/url/10225715dca/6361388b6fc)******Facebook: ******[www.facebook.com/ZDLSports](https://click.presskit.com.br/url/10225788511/6361388b6fc)******Instagram: ***[***www.instagram.com/zdlsports***](https://click.presskit.com.br/url/1022579b34c/6361388b6fc)

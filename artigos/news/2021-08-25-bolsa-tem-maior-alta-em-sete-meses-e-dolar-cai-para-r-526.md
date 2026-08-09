@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Trégua no exterior e declarações de Lira impulsionaram mercado.
 
 Num dia de otimismo externo e de alívio interno, a bolsa de valores teve a maior alta diária em sete meses e reduziu as perdas em agosto. O dólar caiu para o menor valor em 11 dias e voltou a ser cotado abaixo de R$ 5,30.
@@ -26,10 +25,6 @@ No mercado interno, a declaração do presidente da Câmara dos Deputados, Arthu
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

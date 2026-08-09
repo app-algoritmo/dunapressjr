@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério do Desenvolvimento Regional, por meio da Secretaria Nacional de Proteção e Defesa Civil, liberou o repasse de R$ 4,3 milhões para cidades afetadas por inundações, vendavais e chuvas intensas. Os recursos beneficiarão municípios do Rio Grande do Sul, Mato Grosso, São Paulo, Minas Gerais e Maranhão.
 
 O maior volume de repasses será destinado a Mata Roma (MA), que foi atingida por inundações e utilizará R$ 2,26 milhões para a construção de 57 moradias. Já Ubatuba, no litoral paulista, terá acesso a R$ 1,08 milhão para obras de contenção e drenagem na Estrada da Almada e na Rua Fernando Cirilo Junior, no bairro da Enseada. Ouro Preto, em Minas Gerais, receberá R$ 936,6 mil para a execução de cortina atirantada e de muro em concreto com contrafortes em bairros da cidade.
@@ -28,7 +27,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

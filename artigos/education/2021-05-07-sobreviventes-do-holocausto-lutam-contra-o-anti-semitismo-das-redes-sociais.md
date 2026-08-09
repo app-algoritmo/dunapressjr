@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 ## Como parte da campanha, os sobreviventes gravaram vídeos explicando como as palavras acabaram levando às atrocidades cometidas durante o Holocausto.
 
 Os sobreviventes do Holocausto se juntaram ao Facebook e à Claims Conference para lutar contra o anti-semitismo nas redes sociais na campanha #ItStartedWithWords.
@@ -41,7 +40,3 @@ Fonte: https://www.jpost.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Guarulhos/SP – A Polícia Federal prendeu na noite do domingo (31/5) um brasileiro que atuava como médico, usando documentos de um colombiano que já exerceu a profissão no país.
 
 A PF recebeu informações de médicos, que trabalham em um hospital da baixada santista, acerca das desconfianças sobre as atitudes e prescrições feitas por um colega de trabalho que atuava no atendimento a vítimas do novo covid-19.
@@ -19,5 +18,3 @@ De posse das informações e com o apoio da Polícia Militar, foi realizada dili
 O suspeito foi indiciado e responderá pelos crimes de exercício ilegal da função de Medicina e falsidade ideológica.
 
 Comunicação Social da Polícia Federal em Guarulhos
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

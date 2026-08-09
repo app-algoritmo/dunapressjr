@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## As unidades de ensino têm agora até 3 de julho para demandar exemplares extras e as secretarias têm até o dia 6 para validar os pedidos.
 
 O Fundo Nacional de Desenvolvimento da Educação (FNDE), vinculado ao Ministério da Educação, alterou o prazo para que as escolas solicitem livros didáticos extras no sistema de reserva técnica. Mantida pelo FNDE, essa reserva serve para auxiliar as unidades de ensino que não conseguiram suprir a demanda mesmo com o remanejamento dos livros. Nesses casos, gestores escolares devem acessar o sistema para fazer seus pedidos.
@@ -25,7 +24,7 @@ Fonte: gov.br / Imagem em destaque: MEC
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O mês de dezembro voltou a registrar alta nos alimentos que compõem a cesta básica em Itajaí. A variação média de preços ficou em 5,79% na soma dos produtos de menor valor e 2,04% na soma dos produtos com os preços mais altos da cesta. Os números registrados pela fiscalização da Procuradoria do Consumidor (Procon) de Itajaí são de 36 itens básicos do consumo dos brasileiros. Os fiscais estiveram em oito estabelecimentos nos dias 07 e 08 de dezembro.
 
 Mesmo com a farinha de mandioca, ovos, achocolatado, café, vinagre, margarina, cebola, sabão em pó, água sanitária, papel higiênico e álcool em gel registrarem queda nos preços em comparação a novembro, a cesta ainda registrou aumento de preços no geral. Produtos como a farinha de arroz, o quilo da batata lavada e da banana e o sabão em barra tiveram um salto no preço acima de 30%.
@@ -32,7 +31,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

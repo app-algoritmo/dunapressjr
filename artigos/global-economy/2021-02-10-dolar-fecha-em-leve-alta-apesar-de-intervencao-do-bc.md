@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa encerra com queda de 0,19%.
 
 Em mais um dia de volatilidade no mercado financeiro, o dólar chegou a ultrapassar os R$ 5,40, mas encerrou com leve alta após o Banco Central (BC) atuar no mercado financeiro. A bolsa de valores chegou a subir em alguns momentos, mas encerrou em queda pelo segundo dia consecutivo.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

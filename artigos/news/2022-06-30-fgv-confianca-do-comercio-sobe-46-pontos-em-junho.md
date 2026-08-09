@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice de Situação Atual avançou 7,4 pontos.
 
 O Índice de Confiança do Comércio (Icom) subiu 4,6 pontos em junho e alcançou 97,9 pontos. É o maior nível desde agosto do ano passado, quando o índice ficou em 100,9 pontos. Em médias móveis trimestrais, o Icom avançou 3,7 pontos, o que representa o quarto resultado positivo em sequência. Os dados foram divulgados nesta quarta-feira (29) pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV Ibre).
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

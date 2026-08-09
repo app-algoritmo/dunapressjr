@@ -8,14 +8,13 @@ categories:
 - Education
 ---
 
-
 ## Os estudantes noruegueses apresentam desempenho médio mais fraco em leitura e ciências em comparação com a pesquisa anterior do PISA em 2015. Os resultados para matemática são inalterados.
 
 ## Resultados estáveis ​​ao longo do tempo em leitura, matemática e ciências
 
-O PISA 2018 mostra um declínio acentuado no desempenho dos estudantes noruegueses na leitura a partir de 2015, voltando ao nível das pesquisas anteriores do PISA. Os resultados em matemática são os mesmos de 2015, e nas ciências naturais há um ligeiro declínio. Ainda estamos acima da média da OCDE nas três disciplinas. 
+O PISA 2018 mostra um declínio acentuado no desempenho dos estudantes noruegueses na leitura a partir de 2015, voltando ao nível das pesquisas anteriores do PISA. Os resultados em matemática são os mesmos de 2015, e nas ciências naturais há um ligeiro declínio. Ainda estamos acima da média da OCDE nas três disciplinas.
 
-Os resultados variaram em diferentes direções desde o PISA 2000. A coisa mais segura que se pode dizer sobre o desenvolvimento a longo prazo dos resultados é que ele é estável ao longo do tempo em todos os campos.  
+Os resultados variaram em diferentes direções desde o PISA 2000. A coisa mais segura que se pode dizer sobre o desenvolvimento a longo prazo dos resultados é que ele é estável ao longo do tempo em todos os campos.
 
 ## Diferenças de gênero
 
@@ -35,9 +34,9 @@ Os estudantes noruegueses dizem que experimentam melhores horas de trabalho nas 
 
 O que é o PISA?
 
-O PISA mede a competência de jovens de 15 anos em leitura, matemática e ciências. 
+O PISA mede a competência de jovens de 15 anos em leitura, matemática e ciências.
 
-A pesquisa também fornece informações sobre outros fatores, como o ambiente de aprendizagem e a importância do histórico familiar dos alunos para os resultados. 
+A pesquisa também fornece informações sobre outros fatores, como o ambiente de aprendizagem e a importância do histórico familiar dos alunos para os resultados.
 
 A pesquisa é realizada a cada três anos. Todas as três disciplinas são incluídas a cada vez, mas passam a ser a área principal. Quando um assunto é a área principal, existem várias tarefas acadêmicas e várias questões relacionadas a isso. A leitura é a principal área do PISA 2018.
 
@@ -49,8 +48,4 @@ A Diretoria de Educação atribuiu ao Departamento de Formação de Professores 
 
 A OCDE tem responsabilidade internacional pelo PISA. - [Veja PDF PISA 2018](https://dunapress.org/wp-content/uploads/2019/12/kortrapport-pisa-2018.pdf)
 
-### O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!, clique e comece já!
-
-[](https://dunapress.org/edu)
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+### O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## São 51.924 vagas em 57 instituições de ensino superior públicas; inscrições estarão abertas entre 7 e 10 de julho.
 
 A consulta de vagas do Sistema de Seleção Unificada (Sisu) já está disponível. Os dados podem ser acompanhados pelo [site do Sisu](https://sisu.mec.gov.br/). Os estudantes têm acesso às instituições, aos locais e aos cursos que serão oferecidos.
@@ -29,7 +28,7 @@ Fonte: gov.br / Imagem em destaque: agazeta
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

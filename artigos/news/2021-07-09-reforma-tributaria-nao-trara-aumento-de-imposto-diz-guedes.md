@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro voltou a defender tributação de dividendos.
 
 A proposta de reformulação do Imposto de Renda, em tramitação na Câmara dos Deputados, não vai aumentar a carga tributária, disse nesta sexta-feira (9) o ministro da Economia, Paulo Guedes. O ministro admitiu a possibilidade de ajustes no texto, mas disse que o texto está “na direção correta” e reiterou a defesa da tributação de dividendos (parcela do lucro das empresas distribuída aos sócios e acionistas).
@@ -28,10 +27,6 @@ Em fevereiro, Castello Branco foi substituído pelo general Joaquim Luna e Silva
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Projeto prevê alíquota zero do PIS/Pasep, da Cofins e da CSLL.
 
 O presidente Jair Bolsonaro decidiu vetar alguns trechos do projeto de lei que cria o Programa Emergencial de Retomada do Setor de Eventos (Perse). O anúncio foi feito pelo próprio presidente à imprensa, no Palácio do Planalto, no início da noite desta segunda-feira (3). Ele estava acompanhado do ministro da Economia, Paulo Guedes, e do secretário de produtividade, emprego e competividade da pasta, Carlos da Costa.
@@ -20,7 +19,7 @@ O projeto prevê alíquota zero do PIS/Pasep, da Cofins e da Contribuição Soci
 
 E é justamente a redução de impostos um dos itens que serão vetados por Bolsonaro. "Alguns vetos se farão necessários, para se evitar até uma judicialização", justificou o presidente.
 
-De acordo com Carlos da Costa, o motivo do veto é técnico.  "Isso, neste momento, nós vamos ter que vetar, por um motivo muito simples. Não existia uma estimativa que coubesse dentro das compensações tributárias que precisariam ser feitas. O volume de compensações tributárias que deveriam ser feitas, caso tudo fosse sancionado, ele teria um aumento de imposto sobre outros setores, que é algo que o presidente sempre falou que é contra. Nós não aumentamos impostos nesse governo", afirmou.
+De acordo com Carlos da Costa, o motivo do veto é técnico. "Isso, neste momento, nós vamos ter que vetar, por um motivo muito simples. Não existia uma estimativa que coubesse dentro das compensações tributárias que precisariam ser feitas. O volume de compensações tributárias que deveriam ser feitas, caso tudo fosse sancionado, ele teria um aumento de imposto sobre outros setores, que é algo que o presidente sempre falou que é contra. Nós não aumentamos impostos nesse governo", afirmou.
 
 Segundo o secretário, o governo vai negociar diretamente com o setor para focalizar a redução de impostos sobre aquelas empresas que realmente necessitam.
 
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

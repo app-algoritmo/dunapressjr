@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dados foram divulgados hoje no boletim mensal da ANP.
 
 Pelo segundo mês consecutivo, a produção na área do pré-sal registrou recorde, tanto no petróleo quanto no gás natural. Em agosto, foram produzidos 2,776 MMboe/d (milhões de barris de óleo equivalente por dia). Desse total, 2,201 MMbbl/d (milhões de barris por dia) de petróleo e 91,398 MMm3/d (milhões de m3 por dia) de gás natural.
@@ -37,5 +36,3 @@ O maior número de poços produtores terrestres (1.097) foi registrado em Estrei
 Fonte: Agência Brasil – Imagem de destaque: Geraldo Falcão/Agência Petrobras
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Grandes predadores, como as onças, desempenham importante papel nos [ecossistemas](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/236-genetica-alerta-para-a-extincao-de-grandes-predadores#). Por estarem no nível mais alto da cadeia alimentar, são também chamados de ‘predadores de topo de cadeia alimentar’ e controlam o crescimento de populações de herbívoros, como capivaras, veados e porcos-do-mato, bem como de predadores de menor porte, como jaguatiricas, raposas e mãos-peladas.
 
 A destruição do meio ambiente causa a perda de *[habitats](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/236-genetica-alerta-para-a-extincao-de-grandes-predadores#) *e a [fragmentação florestal ](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/236-genetica-alerta-para-a-extincao-de-grandes-predadores#)que, por sua vez, provocam o isolamento de populações de animais, ameaçando, especialmente, espécies que precisam de grandes áreas para viver, como é o caso dos predadores de topo. A extinção desses predadores, essenciais para o equilíbrio dos ecossistemas, romperia as interações entre eles e suas presas, com efeitos desastrosos ao equilíbrio do meio ambiente.
@@ -63,9 +62,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
-
-[](https://canalciencia.ibict.br/images/itens/PESQUISAS/GeneticaAlertaParaaExtincaoDeGrandesPredadores/1/0289_oncapintadagambarini.jpeg)

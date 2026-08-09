@@ -7,15 +7,13 @@ categories:
 - History
 ---
 
-
-[
-](https://www.fab.mil.br/sis/enoticias/imagens/original/43706/travessia_kjg.jpg)Um marco para a navegação aérea mundial completou 100 anos em 2022. De 30 de março a 17 de junho de 1922, os aviadores portugueses Gago Coutinho e Sacadura Cabral empreenderam a Primeira Travessia Aérea do Atlântico Sul. Partindo do Rio Tejo, em Lisboa, a aeronave batizada por Lusitânia, um hidroavião monomotor especialmente concebido para a ocasião, realizou o primeiro voo ligando Portugal ao Brasil, repetindo, assim, pelo ar, a viagem marítima do navegador português Pedro Álvares Cabral, alguns séculos antes.
+Um marco para a navegação aérea mundial completou 100 anos em 2022. De 30 de março a 17 de junho de 1922, os aviadores portugueses Gago Coutinho e Sacadura Cabral empreenderam a Primeira Travessia Aérea do Atlântico Sul. Partindo do Rio Tejo, em Lisboa, a aeronave batizada por Lusitânia, um hidroavião monomotor especialmente concebido para a ocasião, realizou o primeiro voo ligando Portugal ao Brasil, repetindo, assim, pelo ar, a viagem marítima do navegador português Pedro Álvares Cabral, alguns séculos antes.
 
 Ao todo, a missão aérea durou 62 horas e 26 minutos, percorrendo cerca de 8.300 quilômetros, fazendo escalas em Las Palmas, Gando, São Vicente, São Tiago, Penedos de São Pedro e São Paulo, Fernando de Noronha, Recife, Salvador, Porto Seguro, Vitória e, por fim, Rio de Janeiro, que na época era a capital brasileira.
 
-[](https://www.fab.mil.br/sis/enoticias/imagens/original/43706/travessia2.jpg)A viagem representou uma inestimável contribuição para a aviação, já que até então viagens de longas distâncias dificultava a manutenção do rumo. Para vencer o obstáculo, a dupla encontrou, com genialidade, uma solução inédita. Após intensos estudos e seus conhecimentos em geografia e cartografia, o Almirante Gago Coutinho aperfeiçoou o sextante náutico, adaptando-o à aviação. Em parceria com Sacadura Cabral, desenvolveu um equipamento denominado “Corretor de Rumos”, que permitia plotar a deriva do avião e calcular o rumo verdadeiro, com excelente precisão. 
+A viagem representou uma inestimável contribuição para a aviação, já que até então viagens de longas distâncias dificultava a manutenção do rumo. Para vencer o obstáculo, a dupla encontrou, com genialidade, uma solução inédita. Após intensos estudos e seus conhecimentos em geografia e cartografia, o Almirante Gago Coutinho aperfeiçoou o sextante náutico, adaptando-o à aviação. Em parceria com Sacadura Cabral, desenvolveu um equipamento denominado “Corretor de Rumos”, que permitia plotar a deriva do avião e calcular o rumo verdadeiro, com excelente precisão.
 
-[](https://www.fab.mil.br/sis/enoticias/imagens/original/43706/Fairey_F_III_D_no_17_Santa_Cruz.jpg)**H****istórico**
+**H****istórico**
 
 O início do projeto da Travessia Aérea do Atlântico Sul teve lugar em 1919, por ocasião da visita do Presidente do Brasil a Portugal, quando Sacadura Cabral lançou a ideia de comemorar o primeiro centenário da independência do Brasil.
 

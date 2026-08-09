@@ -7,18 +7,17 @@ categories:
 - News
 ---
 
-
 ## Entidades defendem reformas e respeito ao teto de gastos.
 
-O Comitê de Política Monetária (Copom) manteve a taxa Selic em 2% ao ano. A Selic é o principal instrumento do Banco Central para manter sob controle a inflação oficial, medida pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA). Com o anúncio nesta quarta-feira (28), representantes do setor da indústria comentaram sobre a [**decisão**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-10/copom-mantem-juros-basicos-da-economia-em-2-ao-ano). 
+O Comitê de Política Monetária (Copom) manteve a taxa Selic em 2% ao ano. A Selic é o principal instrumento do Banco Central para manter sob controle a inflação oficial, medida pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA). Com o anúncio nesta quarta-feira (28), representantes do setor da indústria comentaram sobre a [**decisão**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-10/copom-mantem-juros-basicos-da-economia-em-2-ao-ano).
 
 ## Firjan
 
-A Federação das Indústrias do Estado do Rio de Janeiro (Firjan) considerou acertada a decisão do Comitê de Política Monetária (Copom) do Banco Central de manter a taxa básica de juros Selic em 2% ao ano, mas pediu a aprovação urgente das reformas para que haja recuperação econômica. A informação foi divulgada na noite desta quarta-feira (28) por meio de nota. 
+A Federação das Indústrias do Estado do Rio de Janeiro (Firjan) considerou acertada a decisão do Comitê de Política Monetária (Copom) do Banco Central de manter a taxa básica de juros Selic em 2% ao ano, mas pediu a aprovação urgente das reformas para que haja recuperação econômica. A informação foi divulgada na noite desta quarta-feira (28) por meio de nota.
 
 “A Firjan entende que a manutenção da taxa básica de juros em 2% vai na direção correta. Mesmo diante da recuperação econômica observada, ainda há elevada capacidade ociosa em diversos setores da economia. Além disso, as expectativas para a inflação seguem dentro da meta, apesar da recente alta dos preços de alimentos. De fato, o quadro econômico e social demanda a continuidade de políticas de estímulo à atividade e garantia de emprego e renda”, afirmou a entidade, na nota.
 
-A Firjan lembrou, entretanto, que o desequilíbrio das contas públicas coloca em risco a continuidade de regras fiscais, como o teto de gasto. A federação reiterou que é urgente a aprovação de reformas, como a tributária e a administrativa, e também a PEC emergencial. “Apenas dessa forma, será possível garantir o arcabouço fiscal, a manutenção da confiança e a recuperação econômica. Caso contrário, além do baixo crescimento e elevado desemprego, teremos por consequência inflação e juros altos em um futuro não tão distante”, conclui a nota. 
+A Firjan lembrou, entretanto, que o desequilíbrio das contas públicas coloca em risco a continuidade de regras fiscais, como o teto de gasto. A federação reiterou que é urgente a aprovação de reformas, como a tributária e a administrativa, e também a PEC emergencial. “Apenas dessa forma, será possível garantir o arcabouço fiscal, a manutenção da confiança e a recuperação econômica. Caso contrário, além do baixo crescimento e elevado desemprego, teremos por consequência inflação e juros altos em um futuro não tão distante”, conclui a nota.
 
 ## CNI
 
@@ -41,5 +40,3 @@ A Federação das Indústrias do Estado do Rio Grande do Sul (FIERGS) disse que 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

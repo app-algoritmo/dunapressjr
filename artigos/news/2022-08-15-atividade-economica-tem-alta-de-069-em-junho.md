@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### IBC-Br foi divulgado, nesta segunda-feira, pelo Banco Central.
 
 A atividade econômica brasileira registrou alta de 0,69% em junho, na comparação com maio, de acordo com dados divulgados nesta segunda-feira (15) pelo Banco Central (BC). Esse dado é dessazonalizado, ou seja, desconsidera diferenças de feriados e de oscilações da atividade econômica, típicas de determinadas épocas do ano.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

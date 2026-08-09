@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Instituição elevou para R$ 27 bi a R$ 30 bi projeção de ganhos em 2022.
 
 O Banco do Brasil (BB) voltou a bater recorde semestral de lucro. De janeiro a junho, a instituição financeira teve lucro líquido ajustado de R$ 14,4 bilhões, crescimento de 44,9% em relação ao mesmo período do ano passado.
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

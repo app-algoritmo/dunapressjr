@@ -8,13 +8,12 @@ categories:
 - Health
 ---
 
-
 As chamadas medidas antropométricas (das palavras gregas anthropos, que significa “homem”, “ser humano” e metrikos, que tem o sentido de “justa proporção”) são dados básicos essenciais para a concepção de produtos proporcionalmente adequados aos seres humanos.
 
 De carros a prédios, de roupas a máquinas, do tamanho dos degraus à dimensão de uma caneta, medidas antropométricas possibilitam o projeto e o desenvolvimento de produtos ergonomicamente adaptados a seus usuários (a ergonomia é a ”ciência do conforto”, isto é, da adequação das medidas dos produtos às dimensões humanas).
 
-Tecnicamente a antropometria trata de duas áreas: 
-1.a medição das características que definem a geometria física, as propriedades de massa e as capacidades em termos de força do corpo humano e 
+Tecnicamente a antropometria trata de duas áreas:
+1.a medição das características que definem a geometria física, as propriedades de massa e as capacidades em termos de força do corpo humano e
 2.a aplicação dos dados levantados nessa medição.
 
 Um produto dimensionado sem considerar as características morfológicas da população usuária pode ser inseguro de manipular e/ou operar, o que favorece a ocorrência de acidentes.
@@ -40,15 +39,15 @@ Mas a evolução digital da criação de projetos para o setor produtivo, com a 
 
 Para formatar manequins antropométricos virtuais tridimensionais é necessária uma tecnologia de ponta que levanta as medidas da superfície corporal: o escaneamento (isto é, o mapeamento) tridimensional do corpo humano, feito por meio de um equipamento chamado Scanner 3D.
 
-Para isso, pesquisadores do Instituto Nacional de Tecnologia desenvolveram o projeto Pesquisa Antropométrica Tridimensional da População Brasileira – PATPB, que visa: 
-1.levantar dados antropométricos da população brasileira em três dimensões, e 
+Para isso, pesquisadores do Instituto Nacional de Tecnologia desenvolveram o projeto Pesquisa Antropométrica Tridimensional da População Brasileira – PATPB, que visa:
+1.levantar dados antropométricos da população brasileira em três dimensões, e
 2.gerar ferramentas de auxilio ao projeto de produtos, postos e ambientes de trabalho em sistemas CAD.
 
 Esses dados serão a base para o correto dimensionamento dos produtos com os quais a nossa população interage cotidianamente, o que trará melhorias para a qualidade do produto e conforto e segurança para o usuário.
 
 Os objetivos gerais da pesquisa são:
 
-1.representar em três dimensões a variabilidade antropométrica da população adulta e infanto-juvenil brasileira; 
+1.representar em três dimensões a variabilidade antropométrica da população adulta e infanto-juvenil brasileira;
 2.dispor e fornecer dados antropométricos tridimensionais da população para empresas, órgãos normativos e certificadores e associações de defesa do consumidor, buscando a qualidade de uso, principalmente dos produtos dos quais se exige certificação;
 3.gerar dados antropométricos tridimensionais da população brasileira para aplicação pela indústria de produção de bens de capital e de consumo nos setores de máquinas e ferramentas, automotivos, mobiliário doméstico, escolar e de escritório, equipamentos de uso doméstico, vestuário, calçados, equipamentos de proteção individual, brinquedos, entre outros;
 4.gerar manequins tridimensionais virtuais representativos da população brasileira, com base nos dados pesquisados e tratados, disponibilizando a sua aplicação em projetos que usem sistemas de modelagem virtual de produtos (CAD);
@@ -59,7 +58,7 @@ Os objetivos gerais da pesquisa são:
 
 O projeto usa como referência experiências internacionais assemelhadas. A tecnologia usada é o scanner tridimensional laser, que possibilita a medição detalhada da superfície externa do corpo humano, por meio do levantamento de milhares de pontos, em três dimensões, com precisão e rapidez. As maiores vantagens em relação aos métodos tradicionais de medição que usam fitas métricas, antropômetros e outros equipamentos, são:
 
-1.Eliminação das principais restrições das pesquisas antropométricas: o tempo e a reprodutibilidade. Uma vez criado, o arquivo da imagem escaneada pode ser utilizado inúmeras vezes para extrair informações, de modo confiável; 
+1.Eliminação das principais restrições das pesquisas antropométricas: o tempo e a reprodutibilidade. Uma vez criado, o arquivo da imagem escaneada pode ser utilizado inúmeras vezes para extrair informações, de modo confiável;
 2.arquivo do registro do escaneamento do corpo em 3D, o que permite levantar uma quantidade quase infinita de variáveis antropométricas, independente da presença física do indivíduo;
 3.redução da necessidade de aproximações estatísticas para determinação das variáveis, o que facilita o uso dos dados em sistemas CAD e em sistemas de prototipagem rápida;
 4.uso dos dados obtidos para calcular áreas de superfície, formas dos segmentos corporais, contornos do corpo e outras medidas que não podem ser obtidas por meio dos métodos tradicionais em antropometria. Essas medições possibilitam também o detalhamento de modelos humanos e suas formas físicas, fundamentais para a indústria, entre elas a do vestuário;
@@ -83,7 +82,7 @@ Ao realizar a pesquisa outro benefício será alcançado: a capacitação de té
 
 Finalmente, a adoção de métodos e tecnologias comparáveis às dos países mais desenvolvidos possibilita o intercâmbio dos dados gerados. A troca de dados antropométricos entre EUA, Europa e Brasil e o uso da antropometria das populações européia e americana para criar produtos de exportação traz vantagens competitivas: agrega valor aos produtos nacionais e facilita sua colocação no mercado externo.
 
-E para ampliar essa troca de dados em âmbito internacional, foi criado o grupo WEAR - World Engineering Anthropometry Resource, com pesquisadores dos cinco continentes e que tem como objetivos: 
+E para ampliar essa troca de dados em âmbito internacional, foi criado o grupo WEAR - World Engineering Anthropometry Resource, com pesquisadores dos cinco continentes e que tem como objetivos:
 1.padronizar as metodologias de pesquisas antropométricas, de forma a poder comparar e trocar bases de dados das diferentes populações;
 2.disponibilizar as bases de dados antropométricos existentes; e
 3.criar uma base mundial de dados antropométricos.
@@ -101,5 +100,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

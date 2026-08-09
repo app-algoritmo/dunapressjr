@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Os inscritos no Exame Nacional do Ensino Médio (Enem) 2020 ainda podem participar da votação para a escolha da nova data do exame, adiado devido à pandemia de COVID-19. O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) disponibilizará a enquete até o dia 30 de junho, na Página do Participante, para que os inscritos contribuam, de forma voluntária, escolhendo uma das opções apresentadas, com o adiamento das provas em 30, 60 ou 180 dias das datas previstas nos editais.
 
 **Confira as opções de datas:**
@@ -36,7 +35,7 @@ Fonte: gov.br/mec - Capes / Imagem em destaque: portalcorreio.com.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

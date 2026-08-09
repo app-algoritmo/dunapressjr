@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Objetivo do trabalho, em parceria com a Polícia Civil, é contribuir com informações de inteligência que permitam a captura de foragidos da justiça.
 
 A Controladoria-Geral da União (CGU) colabora com a segunda fase da Operação Ladino, deflagrada nesta quarta-feira (29) pela Polícia Civil do Estado do Amapá (PC-AP). O objetivo do trabalho é contribuir com informações de inteligência que permitam aos órgãos de persecução penal capturarem foragidos da justiça com mandados de prisão em aberto.
@@ -22,4 +21,4 @@ A CGU tem participado ou colaborado com diversas [operações especiais](https:/
 
 Fonte: gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -7,8 +7,7 @@ categories:
 - Education
 ---
 
-
-Dominar um outro idioma pode ser uma tarefa árdua e, ao longo desse processo de aprendizagem e consolidação, erros recorrentes acabam surgindo no caminho de quem busca a fluência. Embora esses equívocos sejam bastante comuns e façam parte do processo natural de aprendizado, é importante ter em mente a origem dos erros para conseguir monitorá-los com mais facilidade. 
+Dominar um outro idioma pode ser uma tarefa árdua e, ao longo desse processo de aprendizagem e consolidação, erros recorrentes acabam surgindo no caminho de quem busca a fluência. Embora esses equívocos sejam bastante comuns e façam parte do processo natural de aprendizado, é importante ter em mente a origem dos erros para conseguir monitorá-los com mais facilidade.
 
 De acordo com o assessor de conteúdo do PES English, Esrom Adriano Freitas Irala, uma das principais causas de pequenos (e até grandes) equívocos nesses casos é a interferência que a língua mãe exerce sobre quem está tentando falar uma outra língua que não seja a nativa. "A língua mãe serve como base para o nosso pensamento, como uma âncora para aprendizagem de uma segunda, terceira ou quantas línguas forem. Principalmente no início, ela pode interferir na aquisição de outra língua e, em alguns casos, ela bloqueia a comunicação. Se eu não consigo comunicar a minha mensagem por causa de uma interferência da minha língua mãe, a língua adicional não cumpre sua função, que é comunicar", explica Freitas.
 
@@ -16,7 +15,7 @@ Como exemplo, o especialista cita alguns dos principais erros que podem ocorrer 
 
 **Tradução literal**
 
-Esse é o tipo de equívoco que pode trazer problemas na comunicação e levar a muitas situações cômicas numa comunicação real. Por exemplo: um calouro brasileiro em uma universidade americana, em seu primeiro dia por lá, está interagindo com seus colegas pela primeira vez e uma das perguntas é sobre a idade deles. O calouro brasileiro pergunta em tradução literal do português para o inglês: "*How many years do you have*?" (Quantos anos você tem?). Um dos colegas responde, meio sem entender: "*Two*!". Em inglês não se utiliza essa construção de frase para perguntar a idade de alguém. O certo é "*How old are you?"* Em uma tradução literal seria como perguntar: "Quão velho você é?". Logo, o que o colega americano provavelmente entendeu quando o calouro fez a pergunta "*How many years do you have?"* foi "Quantas orelhas você tem?" e, de pronto, ele respondeu: "Duas". *Years* (anos) e *Ears* (orelhas) não têm exatamente a mesma pronúncia, mas são bastante semelhantes e por isso, nesse contexto, é possível a confusão. Essa é a armadilha da tradução literal de expressões, frases e perguntas do português para o inglês, pois, muitas vezes, a maneira de dizer a mesma coisa é diferente! "É importante ficar atento às diferentes maneiras de dizer a mesma coisa em português e em inglês. Deve-se procurar anotar essas diferenças sempre que elas aparecerem, pois assim fica mais fácil para internalizar e evitar esse erro no futuro", aconselha o especialista. 
+Esse é o tipo de equívoco que pode trazer problemas na comunicação e levar a muitas situações cômicas numa comunicação real. Por exemplo: um calouro brasileiro em uma universidade americana, em seu primeiro dia por lá, está interagindo com seus colegas pela primeira vez e uma das perguntas é sobre a idade deles. O calouro brasileiro pergunta em tradução literal do português para o inglês: "*How many years do you have*?" (Quantos anos você tem?). Um dos colegas responde, meio sem entender: "*Two*!". Em inglês não se utiliza essa construção de frase para perguntar a idade de alguém. O certo é "*How old are you?"* Em uma tradução literal seria como perguntar: "Quão velho você é?". Logo, o que o colega americano provavelmente entendeu quando o calouro fez a pergunta "*How many years do you have?"* foi "Quantas orelhas você tem?" e, de pronto, ele respondeu: "Duas". *Years* (anos) e *Ears* (orelhas) não têm exatamente a mesma pronúncia, mas são bastante semelhantes e por isso, nesse contexto, é possível a confusão. Essa é a armadilha da tradução literal de expressões, frases e perguntas do português para o inglês, pois, muitas vezes, a maneira de dizer a mesma coisa é diferente! "É importante ficar atento às diferentes maneiras de dizer a mesma coisa em português e em inglês. Deve-se procurar anotar essas diferenças sempre que elas aparecerem, pois assim fica mais fácil para internalizar e evitar esse erro no futuro", aconselha o especialista.
 
 **Estrutura da língua**
 
@@ -49,7 +48,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

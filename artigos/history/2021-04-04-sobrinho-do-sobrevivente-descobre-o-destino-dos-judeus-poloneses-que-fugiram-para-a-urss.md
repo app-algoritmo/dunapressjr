@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Quando meu tio Herman Likwornik fugiu do leste da Polônia para o interior soviético em junho de 1941, o médico judeu de 38 anos se debateu se deveria ou não trazer sua esposa Lonia com ele. Os soviéticos, sob ataque dos alemães, estavam evacuando o território polonês que ocupavam desde 1939 e levando consigo poloneses com formação médica. No caos da evacuação repentina, Likwornik decidiu primeiro determinar por conta própria como eram as condições no interior soviético.
 
 Meu tio passou o resto da guerra na União Soviética, mas antes de falecer em 1975, não me lembro dele ter falado sobre esse período.
@@ -76,7 +75,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

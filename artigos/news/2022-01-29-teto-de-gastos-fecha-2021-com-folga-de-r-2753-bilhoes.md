@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## PEC dos Precatórios liberou R$ 64,9 bilhões no Orçamento de 2022.
 
 O teto federal de gastos encerrou 2021 com folga de R$ 27,53 bilhões, divulgou nesta sexta-feira (28) a Secretaria do Tesouro Nacional. Do limite de R$ 1,486 trilhão, foram executados R$ 1,458 trilhão, o equivalente a 98,1% do total.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 No Quartel-General do Exército, aconteceu a entrega solene da documentação dominial do imóvel denominado Pátio Ferroviário de Brasília (PFB), da Secretaria de Coordenação e Governança de Patrimônio da União (SPU) para o Exército, materializada pela atualização do respectivo Termo de Entrega e Recebimento (TER). A cerimônia contou com a presença de diversas autoridades federais e distritais, além de militares do Departamento de Engenharia e Construção (DEC).
 
 Para o Chefe do DEC, General de Exército Claudio Coscia Moura, a solenidade é muito significativa, pois materializa a entrega de uma área que vai permitir ao Exército desenvolver vários projetos. "O imóvel foi destinado para a aplicação de Programas Estratégicos do Exército e de interesse da Defesa Nacional, alcançados pelas atividades militares e complementares, viabilizando construções destinadas às atividades de aquartelamento ou campos de instrução, bem como obras voltadas às áreas de saúde e moradia militar, entre outras que se fizerem necessárias", esclareceu.
@@ -25,5 +24,3 @@ Localizado na extremidade oeste do Eixo Monumental, o terreno é delimitado a su
 
 **Assessoria de Comunicação Social (Ascom)
 Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

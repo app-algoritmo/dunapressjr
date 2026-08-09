@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 As águas subterrâneas são importantes fontes de abastecimento de água, principalmente nas regiões rurais, onde as casas em geral utilizam poços artesianos para suprir suas necessidades. Normalmente a qualidade destas águas não passa por avaliações mais criteriosas, o que deixa em aberto a possibilidade da existência de riscos desconhecidos para a saúde da população. Por isso cientistas do Instituto de Radioproteção e Dosimetria, IRD/CNEN, associados á Rede de Geotecnologia em Águas Subterrâneas, RESUB, da Universidade Federal Fluminense, estão avaliando os níveis de concentrações de isótopos radioativos (átomos que emitem radiação) que ocorram naturalmente em depósitos de águas subterrâneas. Essa pesquisa busca identificar os principais fatores que influenciam as concentrações e estimar os níveis da exposição natural da população à radiação, devida ao consumo dessas águas.
 
 Inicialmente os poços de abastecimento da região a ser estudada são mapeados. A seguir uma análise das características da região, dos poços e dos usos das águas determina a seleção dos poços onde a água será coletada. Durante a coleta são medidos parâmetros, como pH (acidez/alcalinidade da água), Eh (potencial de oxiredução, parâmetro físico-químico para entender que tipo de substâncias os elementos químicos formam na água), temperatura, nível de água no poço e vazão.
@@ -51,7 +50,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

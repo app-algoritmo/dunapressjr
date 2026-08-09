@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Após registrar um aumento nos casos de COVID-19 e na ocupação hospitalar durante o mês de novembro, o Município de Itajaí está reforçando as ações de controle da doença. Entre as medidas está a aquisição de mais testes, solicitação de novos leitos de enfermaria de retaguarda e reorganização dos fluxos de atendimento, bem como implantação de melhorias na estrutura no Centro de Triagem e Unidade de Pronto Atendimento (UPA) do Centro Integrado de Saúde (CIS).
 
 Além de reforçar as medidas não farmacológicas de controle à doença, como uso de máscara, álcool em gel 70% e distanciamento social, a Secretaria de Saúde do município vai ampliar a testagem da população. Foram adquiridos mais 50 mil testes rápidos para aplicação. A intenção é retomar os mutirões nos bairros nas próximas semanas. Atualmente, Itajaí é uma das cidades que mais testa em Santa Catarina, com mais de 70 mil exames realizados.
@@ -33,7 +32,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

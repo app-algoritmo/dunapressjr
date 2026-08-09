@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estimativa reflete menor saldo comercial, com aumento das importações.
 
 A projeção do Banco Central (BC) para o saldo negativo das contas externas, neste ano, passou de US$ 21 bilhões para US$ 30 bilhões. O resultado corresponde a 1,8% do Produto Interno Bruto (PIB, soma de todos os bens e serviços produzidos no país) e reflete, principalmente, a expectativa de menor saldo da balança comercial, com aumento da projeção para as importações, de US$ 239 bilhões para US$ 249 bilhões em 2021.
@@ -50,10 +49,6 @@ Entre os principais passivos da conta financeira, manteve-se a projeção de lig
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

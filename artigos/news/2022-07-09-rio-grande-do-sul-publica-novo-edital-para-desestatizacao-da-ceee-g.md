@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### A entrega de propostas dos interessados na B3 no dia 26 de julho.
 
 O governo gaúcho, representado pela Secretaria de Estado do Meio Ambiente e Infraestrutura, publicou nesta sexta-feira (8) o edital de desestatização da Companhia Estadual de Geração de Energia Elétrica (CEEE-G), que teve estruturação do Banco Nacional de Desenvolvimento Econômico e Social (BNDES).
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

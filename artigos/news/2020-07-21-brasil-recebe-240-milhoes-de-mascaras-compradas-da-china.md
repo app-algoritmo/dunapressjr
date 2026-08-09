@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Brasil recebeu, na noite desse domingo (19), o último voo da operação conjunta entre o Ministério da Infraestrutura e a Latam para trazer da China máscaras cirúrgicas e N95 usadas por profissionais que atuam no combate à Covid-19. Foram 39 voos realizados desde maio que trouxeram ao País 240 milhões de máscaras adquiridas pelo Governo Federal.
 
 O primeiro voo com máscaras chegou a Guarulhos em 6 de maio. Os equipamentos de proteção são distribuídos aos profissionais de saúde nas 27 unidades da federação. As máscaras N95 são as mais indicadas para proteger profissionais expostos ao novo coronavírus.
@@ -44,6 +43,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

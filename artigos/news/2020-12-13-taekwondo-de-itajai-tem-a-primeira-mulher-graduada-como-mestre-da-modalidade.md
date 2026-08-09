@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 No sábado (05), a auxiliar técnica de taekwondo Volnete Rosimer Fornara se tornou a primeira mulher mestre do taekwondo itajaiense. Volnete alcançou a graduação de faixa preta 4° Dan. O evento foi realizado no Ginásio Aurélio Solano de Macedo, na cidade de Balneário Piçarras. Volnete é auxiliar técnica de taekwondo da Fundação Municipal de Esporte e Lazer (FMEL) e representa o município em competições da modalidade.
 
 Volnete pratica taekwondo desde 2007 e é treinada pelo mestre e técnico de taekwondo da FMEL, Lenoir de Oliveira. O evento foi promovido pela Federação Catarinense de Taekwondo (FCTKD) e contou com a presença do presidente da federação, Allan Fábio Siqueira, e também com o presidente da Confederação Brasileira de Taekwondo (CBTKD), Alberto Cavalcante Maciel Junior.
@@ -33,7 +32,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa chegou a superar 105 mil pontos, mas fechou com pequena queda.
 
 O dólar comercial fechou no menor valor em quase um mês, com o real liderando os ganhos nos mercados globais de câmbio em dia de fraqueza generalizada da moeda norte-americana conforme investidores se apegaram a expectativas de mais estímulos em meio a esperanças sobre vacinas para a covid-19.
@@ -30,4 +29,4 @@ O Ibovespa foi influenciado pelas bolsas norte-americanas, que perderam o fôleg
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

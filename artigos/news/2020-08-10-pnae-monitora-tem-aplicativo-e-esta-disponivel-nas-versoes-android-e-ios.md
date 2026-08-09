@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ferramenta automatiza o processo de monitoramento do Programa Nacional de Alimentação Escolar.
 
 Dando continuidade às ações de inovação, bem como transparência, controle e participação social do Programa Nacional de Alimentação Escolar (PNAE), o Fundo Nacional de Desenvolvimento da Educação (FNDE) disponibilizou as versões Android e iOS da ferramenta PNAE Monitora, criada para auxiliar os técnicos do programa no acompanhamento da política da alimentação escolar realizada nos estados e municípios. Até então, a plataforma estava disponível apenas na versão web, em [https://www.fnde.gov.br/pnaemonitora/](https://www.fnde.gov.br/pnaemonitora/).
@@ -24,7 +23,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

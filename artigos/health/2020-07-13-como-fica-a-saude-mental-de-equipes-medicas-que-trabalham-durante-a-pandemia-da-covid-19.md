@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 A facilidade de contaminação do novo coronavírus (SARS-CoV-2) fez aumentar em hospitais o número de pacientes com sintomas da COVID-19 ― em enfermarias, clínicas e unidades de tratamento intensivo (UTIs). Proporcionalmente ao aumento dos casos de infecções, houve a necessidade de ampliação da quantidade de equipes médicas (médicos, enfermeiros, etc.), além do aumento da carga horária de trabalho destas.
 
 Por trás do grande profissionalismo das equipes médicas que atuam no combate ao novo coronavírus, existe a preocupação em relação à saúde mental desses profissionais. Trabalhar sob condições de extremo estresse pode, pois, aumentar o estado de ansiedade e afetar a qualidade do sono, que é indicador de saúde física e mental para uma equipe médica.
@@ -33,6 +32,6 @@ Fonte canalciencia.ibict.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Cerca de 45 mil assinaturas foram registradas em um período de 15 horas entre o final da tarde de domingo e a manhã desta segunda-feira no site [https://cpidoaborto.com.br](https://cpidoaborto.com.br)
 
 O presidente da Assembleia Legislativa, Moacir Sopelsa (MDB), comunicou aos deputados, durante a sessão ordinária desta terça-feira (19), que a Procuradoria Jurídica da Alesc deu parecer favorável para a instalação de uma Comissão Parlamentar de Inquérito (CPI) para apurar a interrupção da gravidez de uma menina de 11 anos, que teria sido vítima de abuso sexual.
@@ -21,7 +20,7 @@ Cerca de 45 mil assinaturas foram registradas em um período de 15 horas entre o
 
 O presidente da Alesc, no entanto, disse que, conforme entendimento definido em reunião de líderes das bancadas e dos partidos, será dado prazo de uma semana para que os deputados sejam consultados sobre como deverá ser elaborado o calendário de trabalho da CPI e outros assuntos pertinentes.
 
-A Dep. Ana Campagnolo que foi a idealizadora da CPI do aborto usou as redes sociais para agradecer a repercussão e a grande mobilização popular. 
+A Dep. Ana Campagnolo que foi a idealizadora da CPI do aborto usou as redes sociais para agradecer a repercussão e a grande mobilização popular.
 
 https://www.instagram.com/p/CgK40YCuw5B/
 
@@ -43,7 +42,3 @@ Créditos  https://www.instagram.com/anacampagnolo/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

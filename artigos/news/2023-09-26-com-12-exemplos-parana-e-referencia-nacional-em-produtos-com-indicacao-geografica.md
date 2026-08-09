@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O Estado do Paraná possui 12 dos 101 produtos com certificação nacional emitida pelo INPI, que leva em conta critérios técnicos, econômicos e culturais. A Agência Estadual de Notícias (AEN) elaborou uma série de reportagens para tratar dos impactos do reconhecimento na cadeia produtiva regional.
 
 Com 12 dos 101 produtos brasileiros que possuem registro de Indicação Geográfica (IG), o Paraná é o terceiro estado com mais certificados no País, atrás apenas de Minas Gerais (16) e Rio Grande do Sul (13). O reconhecimento passou a ser concedido no Brasil há duas décadas pelo Instituto Nacional de Propriedade Industrial (INPI) e serve para atestar a reputação e valor diferenciado dos produtos que são caracterizados pelo seu local de origem, garantido a eles uma identidade própria e gerando efeitos positivos na economia regional.
@@ -40,7 +39,7 @@ Baseado em estudos nacionais e internacionais, o INPI estima que, a partir do mo
 
 “A proteção garantida pela IG, além de preservar as tradições locais, contribui para diferenciar produtos e serviços, melhorar o acesso ao mercado e promover o desenvolvimento regional, gerando efeitos para produtores, prestadores de serviço e consumidores”, afirma.
 
-[](https://www.aen.pr.gov.br/Galeria-de-Imagens/SERIE-INDICACAO-GEOGRAFICA#&gid=1&pid=5)Em Antonina, a banana vira uma bala única, conhecida internacionalmente. Foto: Gilson Abreu/AEN
+Em Antonina, a banana vira uma bala única, conhecida internacionalmente. Foto: Gilson Abreu/AEN
 
 **SÉRIE **– Para abordar a história dos produtos paranaenses certificados com a Indicação Geográfica, o trabalho realizado para a obtenção do reconhecimento e os impactos causados nas regiões onde eles são produzidos, a Agência Estadual de Notícias (AEN) elaborou uma série de reportagens focada em cada IG e que serão publicadas ao longo das próximas semanas.
 

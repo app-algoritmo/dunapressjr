@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Aumento decorre da demanda acentuada para empresas.
 
 O Banco Central (BC) aumentou a projeção para a expansão do crédito este ano de 7,6% para 11,5%. A estimativa consta do Relatório de Inflação, divulgado hoje (24), em Brasília.
@@ -40,7 +39,7 @@ Acrescentou que o desempenho do crédito às pessoas jurídicas com recursos liv
 
 Segundo o Banco Central, a retomada de emissões de dívidas corporativas fora do Sistema Financeiro Nacional “deve propiciar fonte alternativa de financiamento para as grandes empresas, favorecendo o movimento de desaceleração do crédito bancário”.
 
-O saldo de crédito para empresas com recursos direcionados “deve registrar desaceleração e manter-se estável em 2021, o que sinaliza retorno ao perfil de expansão do crédito anterior à pandemia, mais concentrado nas operações com recursos livres”. 
+O saldo de crédito para empresas com recursos direcionados “deve registrar desaceleração e manter-se estável em 2021, o que sinaliza retorno ao perfil de expansão do crédito anterior à pandemia, mais concentrado nas operações com recursos livres”.
 
 “Importante observar que ambas as desacelerações devem ser avaliadas considerando forte efeito da base de comparação, de modo que a expansão do crédito seguirá sendo relevante na fase de recuperação da economia”, disse o BC.
 
@@ -59,5 +58,3 @@ O BC espera recuperação nas entradas líquidas de IDP, em linha com cresciment
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

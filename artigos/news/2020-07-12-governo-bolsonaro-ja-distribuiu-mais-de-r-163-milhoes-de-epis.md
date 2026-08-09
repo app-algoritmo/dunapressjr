@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Os materiais são para os profissionais de saúde de todos os estados que atuam no cuidado a pacientes com Covid-19. 
+Os materiais são para os profissionais de saúde de todos os estados que atuam no cuidado a pacientes com Covid-19.
 
 Para garantir a proteção de profissionais de saúde que atuam na linha de frente do enfrentamento à Covid-19, o Ministério da Saúde já distribuiu 163,3 milhões de Equipamentos de Proteção Individual (EPIs) para todo o País. Entre os itens estão máscaras, aventais, óculos e protetores faciais, toucas, sapatilhas, luvas e álcool. As entregas são para auxiliar e reforçar as redes de saúde dos estados e municípios no combate à pandemia da Covid-19.
 
@@ -56,6 +55,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

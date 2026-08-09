@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Educação (MEC) prorrogou por 30 dias a autorização para substituir disciplinas presenciais por aulas que utilizem meios e tecnologias de informação e comunicação em cursos que estão em andamento. Publicada nesta quarta-feira, 13 de maio, a [portaria](http://www.in.gov.br/en/web/dou/-/portaria-n-473-de-12-de-maio-de-2020-256531507) passa a valer na sexta, 15.
 
 Ao criar a possibilidade do ensino a distância na grade presencial, o objetivo da pasta é manter a rotina de estudos dos alunos. A mudança é válida para o sistema federal de ensino, composto pelas universidades federais, pelos institutos federais, pelo Colégio Pedro II, pelo Instituto Nacional de Educação de Surdos (Ines), pelo Instituto Benjamin Constant (IBC) e pelas universidades e faculdades privadas.
@@ -21,8 +20,6 @@ Como alternativa, a primeira portaria permite que as instituições de ensino su
 As instituições podem também alterar o calendário de férias, desde que cumpram os dias letivos e horas-aula estabelecidos. A aplicação da substituição não pode ser feita em práticas profissionais de estágios e de laboratórios.
 
 Fonte: mec.gov.br / Imagem em destaque: Pixabay.com
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Assine o Press clicando no banner acima e contribua para o intercâmbio Brasil-Noruega, bem como notícias de fontes primárias e confiáveis, como também artigos científicos de todas as áreas. Muito conhecimento para sua VIDA!***
 

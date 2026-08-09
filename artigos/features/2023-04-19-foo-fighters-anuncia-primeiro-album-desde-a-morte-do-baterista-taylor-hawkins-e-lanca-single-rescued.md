@@ -10,7 +10,7 @@ categories:
 
 ## O Foo Fighters lançará o primeiro álbum desde que o baterista de longa data Taylor Hawkins morreu ano passado, anunciou a gravadora do grupo.
 
-O álbum da banda, But Here We Are* ,* será lançado em 2 de junho pelo selo Roswell Records/RCA Records. O primeiro single, “Rescued”, já está disponível.*[](https://deadline.com/tag/but-here-we-are/)*
+O álbum da banda, But Here We Are* ,* será lançado em 2 de junho pelo selo Roswell Records/RCA Records. O primeiro single, “Rescued”, já está disponível.**
 
 O comunicado de imprensa anunciando o álbum chama But Here We Are uma é “resposta brutalmente honesta e emocionalmente crua a tudo o que o Foo Fighters suportou no ano passado”.
 

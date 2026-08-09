@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Governo Federal investirá R$ 51 milhões para garantir a segurança hídrica no Rio Grande do Norte. O aporte foi anunciado, nesta quinta-feira (3), pelo ministro do Desenvolvimento Regional, Rogério Marinho, que visitou as barragens Oiticica, em Jucurutu, e Passagem das Traíras, em Jardim do Seridó.
 
 A maior parte dos recursos será voltada a Oiticica, que receberá R$ 40 milhões do Ministério do Desenvolvimento Regional para a continuidade do empreendimento. Toda a obra está orçada em R$ 547,9 milhões, sendo R$ 530,9 milhões em recursos da pasta. Desse total, R$ 483,3 milhões já foram repassados pela União – sendo R$ 231 milhões desde janeiro de 2019 e R$ 130 milhões apenas este ano. O governo do Rio Grande do Norte, responsável pela execução do empreendimento, arca com R$ 19 milhões em contrapartidas.
@@ -44,7 +43,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

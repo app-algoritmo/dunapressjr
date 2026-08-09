@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Bolsa sobe quase 1% e atinge maior nível desde setembro.
 
 Em queda pela quinta vez seguida, o dólar aproxima-se de R$ 4,90 e está no menor valor desde o fim de junho do ano passado. A bolsa de valores também acumulou a quinta alta consecutiva e atingiu o maior nível em quase sete meses.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

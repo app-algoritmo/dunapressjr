@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 CNI consultou 2.305 empresas entre 1º a 13 julho.
 
 O Índice de Confiança do Empresário Industrial (ICEI) teve melhora em 29 dos 30 setores industriais pesquisados em julho, mas em apenas dez o indicador ultrapassou a linha divisória que indica confiança dos empresários com o mercado. Entre eles estão os setores de produtos de limpeza, farmoquímicos, móveis, alimentos e plásticos.
@@ -26,4 +25,4 @@ A pesquisa da CNI consultou 2.305 empresas entre 1º a 13 julho, sendo 899 peque
 
 Fonte: Agência Brasil – Imagem de destaque: Tânia Rego/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

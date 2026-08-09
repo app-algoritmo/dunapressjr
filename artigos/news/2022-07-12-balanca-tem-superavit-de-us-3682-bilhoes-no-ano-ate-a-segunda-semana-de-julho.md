@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Corrente de comércio chegou a US$ 311,01 bilhões, com US$ 173,91 bilhões em exportações e US$ 137,09 bilhões em importações; no mês, saldo positivo é de US$ 2,51 bilhões.
 
 A balança comercial registrou superávit de US$ 36,82 bilhões no acumulado do ano, até a segunda semana de julho, com recuo de 7,5% em relação ao período de janeiro a julho do ano passado. A corrente de comércio subiu 24,3%, atingindo US$ 311,01 bilhões, na soma de US$ 173,91 bilhões em exportações e US$ 137,09 bilhões em importações. Os dados foram divulgados nesta segunda-feira (11) pela Secretaria de Comércio Exterior (Secex) do Ministério da Economia.
@@ -35,8 +34,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

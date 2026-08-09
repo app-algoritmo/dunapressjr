@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Contribuintes terão até 31 de julho para optar por essas modalidades de negociação.
 
 Foram publicados hoje, dia 1º de julho, a Portaria nº 15.413, de 29 de junho de 2020, e o Edital nº 4, de 30 de junho de 2020, prorrogando o prazo de ingresso nas modalidades de transação extraordinária e de transação por adesão.
@@ -42,4 +41,4 @@ Para mais informações sobre as transações extraordinária e por adesão, [cl
 
 Fonte: Procuradoria-Geral da Fazenda Nacional
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

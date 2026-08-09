@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Navegação Interior registrou crescimento de 7,15%. movimentação de carga geral solta teve alta 26,9% no ano.
 
 O setor portuário movimentou 375,7 milhões de toneladas no primeiro quadrimestre de 2022. Os portos privados foram responsáveis por movimentarem 244 milhões de toneladas e os públicos 131,7 milhões. Os dados são do [Estatístico Aquaviário da ANTAQ](http://anuario.antaq.gov.br/).
@@ -24,8 +23,4 @@ Levando-se em conta o perfil de carga, os números mostram que houve um crescime
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

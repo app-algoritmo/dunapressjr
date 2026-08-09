@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Titular será o responsável pela melhoria do ambiente de negócios, e a otimização das iniciativas público-privadas para o setor.
 
 O turismólogo Lucas Felício Fiuza é o novo secretário Nacional de Atração de Investimentos, Parcerias e Concessões do Ministério do Turismo. Recém-criada pela nova estrutura do MTur, a secretaria tem o objetivo de atrair investimentos privados para o setor através da melhora do ambiente de negócios com foco na segurança jurídica e nas parcerias público-privadas envolvendo concessões e autorizações. Também faz parte das atribuições da pasta, o fungetur (fundo geral do turismo) e o apoio ao crédito, um pilar fundamental no estímulo aos investimentos no setor do turismo. Além disso, o titular terá a função de integrar o planejamento, o ordenamento e a gestão territorial do setor às estratégias de atração de investimentos.
@@ -22,7 +21,7 @@ Imagem: Roberto Castro
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

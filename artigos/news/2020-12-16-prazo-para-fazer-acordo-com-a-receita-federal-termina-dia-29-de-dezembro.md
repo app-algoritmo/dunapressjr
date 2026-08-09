@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O acordo de transação pode dar até 50% de desconto nas negociações para pagamento de processos tributários de até 60 salários-mínimos que estejam em discussão administrativa.
 
 O prazo para aderir ao acordo de transação para processos tributários em discussão administrativa (contencioso tributário), regulamentada pelo [Edital de Transação por Adesão nº 1 de 2020](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=112082), termina dia 29 de dezembro de 2020, às 23h59min59s (vinte e três horas, cinquenta e nove minutos e cinquenta e nove segundos), hora de Brasília.
@@ -36,8 +35,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

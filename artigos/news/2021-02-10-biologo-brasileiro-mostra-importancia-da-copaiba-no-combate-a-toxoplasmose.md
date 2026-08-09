@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O biólogo Samuel Cota Teixeira é bolsista de pós-doutorado da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) na Universidade Federal de Uberlândia (UFU), onde é pesquisador vinculado ao Programa de Pós-Graduação (PPG) em Imunologia e Parasitologia Aplicadas. Em seu trabalho [desvendou](https://www.gov.br/oleo-de-copaiba-pode-combater-a-toxoplasmose) o papel do óleo de copaíba no combate à toxoplasmose ([leia o artigo aqui](https://www.nature.com/articles/s41598-020-72230-0.epdf?sharing_token=pHxJjHbl2UQZvniJKp4kX9RgN0jAjWel9jnR3ZoTv0PXN6c5nAwHoZyP0KMHXD_H-WLgoUGkkc5HUwGVmsJRvzz_dxCWY3tJTvyMuJryluZLwt1GPTK8Z59-QlH6mjitG49tbulPltp2ofIICU70o0NT8vHYrMR1FixTZuesafk%3D)).
 
 **Fale um pouco da sua trajetória.**
@@ -65,7 +64,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

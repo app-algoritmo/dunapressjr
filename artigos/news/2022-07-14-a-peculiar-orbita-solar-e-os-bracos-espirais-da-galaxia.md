@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O que é a pesquisa?
 
 Durante a noite, em situações de luminosidade baixa, é possível identificar uma banda brilhante que corta o céu. Essa é a Via Láctea, a galáxia onde se encontra o Sistema Solar e, consequentemente, nosso planeta. Seu formato, comum a muitas outras galáxias, é devido a longos braços que irradiam de sua região central criando uma espiral. É esse disco, formado pelos braços, que origina a estrutura luminosa que observamos no céu noturno.
@@ -24,7 +23,7 @@ Para compreender a origem do Braço Local, foram analisados dados de seus traça
 
 Os cálculos apontam para a existência de uma zona entre os braços de Sagitário-Carina e Perseu onde estrelas oscilam sem atravessá-los. Essa ilha de estabilidade, que se situa entre regiões mais caóticas da nossa galáxia não é a única. A pesquisa prevê a existência de quatro áreas estáveis na Via Láctea, que são deslocadas à mesma velocidade dos braços galácticos. Não só houve evidências de que o Sol está nessa região, mas muitos dos traçadores provenientes do Braço Local também.
 
-Figura 2 - Mapa do disco de nossa Galáxia. Os braços espirais estão indicados por linhas escuras e seus nomes estão indicados. As cruzes pretas e vermelhas indicam posições de objetos muito jovens e cujas posições foram muito bem determinadas por técnicas de radioastronomia. As cruzes vermelhas são os traçadores que estão presos na região do Braço local e a cruz azul é o Sol. Os contornos em vermelho indicam os limites teóricos da região de aprisionamento (a ilha de estabilidade). Os objetos em preto não estão aprisionados. As unidades de distância nos dois eixos estão em kiloparsec (1 kpc é aprox. 3000 anos luz). A posição da [barra central da galáxia](https://canalciencia.ibict.br/ciencia-em-sintese1/engenharias/321-a-peculiar-orbita-solar-e-os-bracos-espirais-da-galaxia#) é indicada por uma elipse em branco. Crédito: artigo original de Lepine et al., 2017. 
+Figura 2 - Mapa do disco de nossa Galáxia. Os braços espirais estão indicados por linhas escuras e seus nomes estão indicados. As cruzes pretas e vermelhas indicam posições de objetos muito jovens e cujas posições foram muito bem determinadas por técnicas de radioastronomia. As cruzes vermelhas são os traçadores que estão presos na região do Braço local e a cruz azul é o Sol. Os contornos em vermelho indicam os limites teóricos da região de aprisionamento (a ilha de estabilidade). Os objetos em preto não estão aprisionados. As unidades de distância nos dois eixos estão em kiloparsec (1 kpc é aprox. 3000 anos luz). A posição da [barra central da galáxia](https://canalciencia.ibict.br/ciencia-em-sintese1/engenharias/321-a-peculiar-orbita-solar-e-os-bracos-espirais-da-galaxia#) é indicada por uma elipse em branco. Crédito: artigo original de Lepine et al., 2017.
 
 ## Qual a importância da pesquisa?
 
@@ -59,7 +58,3 @@ Fonte:  https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

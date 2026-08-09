@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Dados fazem parte da Produção Agrícola Municipal 2021, do IBGE.
 
 O valor da produção agrícola do país em 2021 bateu novo recorde e alcançou R$ 743,3 bilhões, aumento de 58,6% em relação ao ano anterior. A área plantada totalizou 86,7 milhões de hectares, o que representou ampliação de quase 3,3 milhões de hectares, área 3,9% superior à registrada em 2020. Após dois anos seguidos de recordes na série, a safra de grãos caiu 0,4% em 2021, com 254,4 milhões de toneladas.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

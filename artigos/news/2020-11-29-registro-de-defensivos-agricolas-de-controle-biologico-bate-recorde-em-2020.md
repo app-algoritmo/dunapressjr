@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ato n° 65 do Departamento de Sanidade Vegetal e Insumos Agrícolas da Secretaria de Defesa Agropecuária, publicado nesta sexta-feira (27) no Diário Oficial da União (DOU), traz o registro de 42 produtos formulados, ou seja, defensivos agrícolas que efetivamente estarão disponíveis para uso pelos agricultores. Desse total, 13 são defensivos agrícolas de controle biológico, sendo seis deles autorizados para uso na agricultura orgânica.
 
 “Faltando um mês até o fim do ano, 2020 já se desenha como o ano verde em termos de registro de biopesticidas sustentáveis. Esse é um recorde que contribui imensamente para a sustentabilidade da agricultura brasileira”, destaca o coordenador-geral de Agrotóxicos e Afins, Bruno Breitenbach
@@ -26,7 +25,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

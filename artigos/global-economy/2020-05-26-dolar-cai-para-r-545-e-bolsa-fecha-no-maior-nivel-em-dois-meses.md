@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Com feriado nos Estados Unidos, mercado tem dia de alívio no Brasil.
 
 Em um dia de alívio no Brasil e de feriado nos Estados Unidos, o mercado financeiro teve um dia de euforia. O dólar fechou abaixo de R$ 5,50 pela primeira vez em 25 dias, e a bolsa de valores subiu para o maior nível desde o início de março.
@@ -33,5 +32,3 @@ Fonte: Agência Brasil– Imagem de destaque: Marcello Casal Jr./Agência Brasil
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

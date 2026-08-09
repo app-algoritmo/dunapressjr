@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa encerra abril com segundo mês seguido de alta.
 
 Num dia de ajustes no mercado internacional, o dólar teve a maior alta diária em um mês. Mesmo assim, a moeda norte-americana encerrou abril com a primeira queda mensal desde dezembro. A bolsa de valores recuou nesta sexta-feira (30), mas alcançou a segunda alta mensal consecutiva.
@@ -22,14 +21,10 @@ Apesar de ter encerrado a semana com queda de 1,36%, o Ibovespa fechou abril com
 
 Abril foi marcado pelo alívio no mercado doméstico e internacional. No exterior, a pressão sobre o dólar caiu depois que o Federal Reserve (Fed, Banco Central norte-americano) garantiu que manterá a política de estímulos para a maior economia do planeta recuperar-se da pandemia de covid-19 e não aumentará os juros tão cedo. Além disso, o presidente Joe Biden anunciou dois pacotes, no total de US$ 4 trilhões, voltados para investimentos em infraestrutura e para ajuda a famílias vulneráveis.
 
-No Brasil, o fechamento de um acordo sobre o Orçamento de 2021 contribuiu para aliviar o mercado. Após semanas de receio dos investidores de que o texto aprovado pelo Congresso levasse à violação do teto de gastos com emendas parlamentares, o [**Orçamento foi sancionado**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-04/presidente-sanciona-lei-orcamentaria-de-2021-com-veto-parcial) no último dia 22 com vetos parciais de R$ 19,8 bilhões e um bloqueio temporário de R$ 9,2 bilhões. 
+No Brasil, o fechamento de um acordo sobre o Orçamento de 2021 contribuiu para aliviar o mercado. Após semanas de receio dos investidores de que o texto aprovado pelo Congresso levasse à violação do teto de gastos com emendas parlamentares, o [**Orçamento foi sancionado**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-04/presidente-sanciona-lei-orcamentaria-de-2021-com-veto-parcial) no último dia 22 com vetos parciais de R$ 19,8 bilhões e um bloqueio temporário de R$ 9,2 bilhões.
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

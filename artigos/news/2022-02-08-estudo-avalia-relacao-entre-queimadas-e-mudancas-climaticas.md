@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A bióloga Cibele Inês Rockenbach é mestre pelo Programa de Pós-Graduação em Ambiente e Desenvolvimento da Universidade de Vale do Taquari (Univates). Atualmente pesquisadora no Laboratório de Paleobotânica e Evolução de Biomas, do Museu de Ciências da mesma instituição, Cibele estudou a morfologia da resina em carvão vegetal fóssil para entender quais  efeitos os incêndios vegetacionais causaram no clima ao longo da história do planeta.
 
 **Fale sobre seu projeto de pesquisa e objetivos.**
@@ -42,7 +41,3 @@ Fonte: https://www.gov.br/capes/pt-br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

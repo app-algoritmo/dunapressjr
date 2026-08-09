@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Avaliação é da Associação de Comércio Exterior do Brasil.
 
 Levantamento divulgado nesta segunda-feira (1º) pela Associação de Comércio Exterior do Brasil (AEB) revela que, apesar da retomada dos resultados positivos alcançados a partir de 2021 com a amenização da pandemia da covid-19, o Brasil não pode considerar a América do Sul um mercado cativo para suas exportações. Isso se deve, em grande parte, à presença crescente da China, que começou a tirar do Brasil o lugar de principal fornecedor em alguns países, com destaque para Argentina e Chile. “A China está ocupando todo o espaço. A América do Sul é um terceiro mercado para ela”, disse o presidente-executivo da AEB, José Augusto de Castro.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

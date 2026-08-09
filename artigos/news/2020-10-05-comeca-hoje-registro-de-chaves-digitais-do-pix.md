@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Cliente poderá cadastrar e-mail, telefone ou CPF e CNPJ.
 
 Novo sistema de pagamentos instantâneos do Banco Central (BC), previsto para começar a funcionar em novembro, o Pix entrará oficialmente em teste nesta segunda-feira (5). A partir de hoje, os clientes poderão registrar as chaves digitais de endereçamento para enviar ou receber recursos em 644 instituições financeiras.
@@ -39,5 +38,3 @@ No caso de empresas, a plataforma traz vantagens em relação ao pagamento por c
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

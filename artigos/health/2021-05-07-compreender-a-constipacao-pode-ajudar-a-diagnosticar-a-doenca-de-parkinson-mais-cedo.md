@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 ## Pesquisadores da Universidade Hebraica revelam uma cadeia de eventos fisiológicos que podem ajudar a fornecer novos métodos para o diagnóstico de doenças.
 
 Embora a doença de Parkinson (DP) seja uma das doenças neurológicas mais comuns, os médicos ainda não possuem uma metodologia validada em laboratório, ou biomarcador, para diagnosticá-la definitivamente. Em vez disso, os neurologistas se baseiam principalmente em um diagnóstico clínico baseado no aparecimento de sintomas motores específicos que indicam que um paciente está sofrendo da doença. O que dá origem aos sintomas motores é a perda de células de dopamina no cérebro.
@@ -50,7 +49,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

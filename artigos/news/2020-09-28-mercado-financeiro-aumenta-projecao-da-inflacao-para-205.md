@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Previsão para a cotação do dólar oficial permanece em R$ 5,25.
 
 A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA - a inflação oficial do país) deste ano subiu de 1,99% para 2,05%. A estimativa está no boletim Focus de hoje (28), publicação divulgada todas as semanas pelo Banco Central (BC), em Brasília,  com a projeção para os principais indicadores econômicos.
@@ -39,5 +38,3 @@ A previsão para a cotação do dólar permanece em R$ 5,25, ao final deste ano.
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

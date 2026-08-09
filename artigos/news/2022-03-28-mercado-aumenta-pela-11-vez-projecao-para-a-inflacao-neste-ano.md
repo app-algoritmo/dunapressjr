@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### IPCA deve fechar 2022 em 6,86%.
 
 O mercado financeiro aumentou pela 11ª vez consecutiva a previsão de inflação para este ano. Segundo projeção do Boletim Focus, divulgada nesta segunda-feira (28) pelo Banco Central, o Índice de Preços ao Consumidor Amplo (IPCA) deve fechar este ano em 6,86%. Há uma semana, a projeção do mercado era de que a inflação este ano ficasse em 6,59%%. Há quatro semanas, a previsão era de 5,6%.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

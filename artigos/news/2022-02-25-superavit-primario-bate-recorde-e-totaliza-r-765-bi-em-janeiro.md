@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Aumento na arrecadação impulsionou resultado positivo.
 
 Impulsionadas pelo [**aumento da arrecadação**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-02/arrecadacao-de-impostos-federais-aumentaram-183-em-janeiro) em janeiro, as contas do Governo Central - Tesouro Nacional, Previdência Social e Banco Central - iniciaram 2022 com superávit recorde. No mês passado, o resultado ficou positivo em R$ 76,539 bilhões.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

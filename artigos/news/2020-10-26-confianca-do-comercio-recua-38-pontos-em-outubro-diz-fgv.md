@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Indicador passou para 95,8 pontos, em uma escala de zero a 200 pontos.
 
 O Índice de Confiança do Comércio, medido pela Fundação Getulio Vargas (FGV), recuou 3,8 pontos de setembro para outubro deste ano. Com isso, o indicador passou para 95,8 pontos, em uma escala de zero a 200 pontos, e interrompeu uma sequência de cinco altas consecutivas.
@@ -19,5 +18,3 @@ A confiança do empresário caiu em todos os seis principais segmentos do comér
 Fonte: Agência Brasil – Imagem de destaque: Tomaz Silva/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

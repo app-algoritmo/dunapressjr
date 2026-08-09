@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estudo em grande escala encontrou forte conexão entre coronavírus e derrames - particularmente em pacientes mais jovens.
 
 Desde que o coronavírus se tornou uma pandemia global generalizada, os pesquisadores médicos têm procurado entender como o vírus afeta outras doenças médicas, especialmente as neurológicas.
@@ -35,7 +34,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

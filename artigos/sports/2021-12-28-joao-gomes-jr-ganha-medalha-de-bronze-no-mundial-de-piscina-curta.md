@@ -7,7 +7,6 @@ categories:
 - Sports
 ---
 
-
 O nadador João Gomes Jr. encerrou com chave de ouro a temporada de 2021, ganhando uma medalha de bronze no Campeonato Mundial de Piscina Curta (25m) de Abu Dhabi, nos Emirados Árabes. A conquista, no Dia do Atleta, veio ao nadar a final do 50m peito em 25s80. O pódio teve ainda Nic Fink, dos Estados Unidos, e Nicolo Martinenghi, da Itália, na primeira e segunda colocações, com os tempos de 25s53 e 25s55.
 
 "O ano foi bem complicado para mim. Não começou da forma que eu imaginava. Eu vinha num ciclo muito bom. Desde 2016, estava em todas as seleções, nenhuma de fora. E acabei não me classificando para a Olimpíada (Tóquio/20). Então, para mim, foi um ano um pouco conturbado, mentalmente também. Mas, eu sabia que foi um detalhe que não vem ao caso. Fico muito feliz por conseguir terminar meu ano de volta ao topo, de volta ao jogo", recordou João Gomes.
@@ -33,7 +32,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

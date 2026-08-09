@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O livro digital é gratuito e está disponível para download.
 
 Pesquisadores do Departamento de Gastronomia e do Programa de Pós-graduação em Ciências da Nutrição da Universidade Federal da Paraíba (UFPB) lançaram [e-book com dicas para compra, preparo e delivery de alimentos](https://drive.google.com/drive/u/0/folders/1AIGmgrFlYO8yv3ABElV8wrAU1SX0hkXr), a fim de potencializar a prevenção ao novo coronavírus. O livro digital é gratuito e está disponível para *download*.
@@ -27,13 +26,13 @@ Segundo Noádia Rodrigues, apesar de a falta de higiene dos alimentos sempre ter
 
 Os outros cinco outros materiais sobre higiene e boas práticas na fabricação de alimentos desenvolvidos pelos pesquisadores estão disponíveis para *[download](http://www.ctdr.ufpb.br/ctdr/contents/menu/conteudo/enfrentamento-ao-covid-19)* no site do Centro de Tecnologia e Desenvolvimento Regional (CTDR) da UFPB, do qual os especialistas fazem parte.
 
-O *e-book* “Boas práticas de prevenção ao coronavírus em serviços de alimentação” é um produto do projeto “Gastronomia descomplicada: ações de enfrentamento à Covid-19” e resultado das ações do projeto de extensão “Adequação as legislações sanitárias e turísticas na comercialização de alimentos por beneficiários de segurança alimentar em João Pessoa”, no âmbito do Programa de Bolsas de Extensão (Proex) da UFPB. 
+O *e-book* “Boas práticas de prevenção ao coronavírus em serviços de alimentação” é um produto do projeto “Gastronomia descomplicada: ações de enfrentamento à Covid-19” e resultado das ações do projeto de extensão “Adequação as legislações sanitárias e turísticas na comercialização de alimentos por beneficiários de segurança alimentar em João Pessoa”, no âmbito do Programa de Bolsas de Extensão (Proex) da UFPB.
 
 Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

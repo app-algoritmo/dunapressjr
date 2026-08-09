@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Pequenas e microempresas, trabalhadores informais e organizações culturais comunitárias receberão recurso.
 
 Nesta segunda-feira (29), foi sancionada pelo Presidente da República, Jair Bolsonaro, a [Lei 14.017/20](http://www.in.gov.br/en/web/dou/-/lei-n-14.017-de-29-de-junho-de-2020-264166628), que trata de ações emergenciais destinadas ao setor cultural a serem adotadas durante o estado de calamidade pública decorrente da pandemia da Covid-19. Com isso, serão transferidos R$3 bilhões aos estados, Distrito Federal e municípios. Além disso, a [Medida Provisória 986](http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Mpv/mpv986.htm) foi editada em conjunto.
@@ -34,7 +33,7 @@ Com a sanção dessa lei e a edição dessa medida provisória, o Governo Federa
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

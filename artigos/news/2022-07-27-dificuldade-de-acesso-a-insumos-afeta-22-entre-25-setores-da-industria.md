@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Para CNI, lockdowns na China e guerra na Ucrânia agravam problema.
 
 A guerra na Ucrânia e os *lockdowns *em regiões industriais da China estão prolongando um problema que começou com a pandemia de covid-19, em 2020. A escassez ou o encarecimento de insumos afeta 22 de 25 setores da indústria, revela levantamento da Confederação Nacional da Indústria (CNI).
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

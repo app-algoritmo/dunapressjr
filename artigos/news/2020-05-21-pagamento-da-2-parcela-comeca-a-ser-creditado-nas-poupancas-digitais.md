@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Benefício será depositado até o dia 26 de maio para 31 milhões de pessoas.
 
 Nesta quarta-feira (20), a segunda parcela do auxílio emergencial do Governo Federal, no valor de R$ 600, foi creditada na conta de cinco milhões de pessoas que nasceram nos meses de janeiro e fevereiro e não estão no grupo do Bolsa Família. O dinheiro é depositado na poupança social digital aberta automaticamente pela Caixa.
@@ -37,5 +36,3 @@ Fonte: Gov.br – Imagem de destaque: EBC
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.
 
 Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

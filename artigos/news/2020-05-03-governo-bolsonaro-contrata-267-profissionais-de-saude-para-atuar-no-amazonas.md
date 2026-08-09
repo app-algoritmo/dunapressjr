@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A primeira equipe de profissionais de saúde cadastrados na estratégia “O Brasil Conta Comigo” segue neste domingo para Manaus.
 
 O estado do Amazonas ganhará, a partir de segunda-feira (4) um reforço de 267 profissionais de saúde, contratados pelo Ministério da Saúde, para atuar no enfrentamento à Covid-19. São 37 médicos, 118 enfermeiros, 57 técnicos em enfermagem, 26 fisioterapeutas, 12 farmacêuticos e 17 biomédicos. Estes profissionais se inscreveram na ação estratégica “O Brasil Conta Comigo”, que está cadastrando e capacitando profissionais, residentes e estudantes da área de saúde de todo o país para atuarem no atendimento à população diante da pandemia de coronavírus, em apoio aos estados e municípios que mais precisam. A contratação destes profissionais é temporária, por até seis meses, e remunerada de acordo com o salário base de cada categoria.
@@ -72,7 +71,7 @@ Para participar da iniciativa os profissionais não podem ter vínculo atual emp
 
 Além da estratégia “O Brasil Conta Comigo”, outra forma dos profissionais de saúde atuarem na prevenção e combate ao coronavírus é integrando, como voluntários, a Força Nacional do SUS. Neste caso, o Ministério da Saúde já havia enviado 29 profissionais voluntários para reforçar temporariamente o atendimento nas unidades de saúde do estado do Amazonas. Foram 8 médicos, 19 enfermeiros e 2 fisioterapeutas, que também passaram por treinamento ofertado pelo Ministério da Saúde.
 
-[Clique aqui para acessar as perguntas mais frequentes sobre o programa O Brasil Conta Comigo](https://www.saude.gov.br/images/pdf/2020/April/30/FAQ-O-Brasil-Conta-Comigo---Profissionais-da-Sa--de-AM.pdf)
+saude.gov.br/images/pdf/2020/April/30/FAQ-O-Brasil-Conta-Comigo---Profissionais-da-Sa--de-AM.pdf)
 
 **Lista de profissionais que farão parte da 1ª equipe de apoio da estratégia “O Brasil Conta Comigo”**
 

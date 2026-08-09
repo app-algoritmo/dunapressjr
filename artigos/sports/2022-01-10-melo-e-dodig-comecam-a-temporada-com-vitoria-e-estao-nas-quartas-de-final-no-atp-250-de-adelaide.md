@@ -8,7 +8,6 @@ categories:
 - Sports
 ---
 
-
 A dupla Marcelo Melo e Ivan Dodig conquistou na madrugada desta quinta-feira (6) a primeira vitória da temporada 2022. No ATP 250 de Adelaide, na Austrália, o mineiro e o croata, cabeças de chave número 1, confirmaram o favoritismo e derrotaram de virada os norte-americanos Nicholas Monroe e Frances Tiafoe. Melo e Dodig venceram por 2 sets a 1, com parciais de 6/7 (3-7), 7/5 e 10-8, em 1h44min, pelas oitavas de final. O jogo foi paralisado duas vezes em função das chuvas, no primeiro set e no match tie-break.
 
 Melo e Dodig foram bye na primeira rodada e, agora, entram em quadra pela segunda vez, nas quartas de final, diante do húngaro Marton Fucsovics e do norte-americano Tommy Paul, por volta das 2h (horário de Brasília) da madrugada desta sexta-feira (7), buscando uma vaga na semifinal.
@@ -25,7 +24,7 @@ No ranking mundial individual de duplas divulgado nesta segunda-feira (3) pela A
 
 Entre 2017 e 2018, Marcelo ficou 30 semanas – 25 consecutivas - como líder do ranking mundial individual de duplas da ATP (13 semanas em 2017 – terminando o ano como número 1 - e 17 semanas em 2018). Antes, ocupou a liderança pela primeira vez em 2015, por 22 semanas, também virando o ano na frente, e voltou ao primeiro lugar por mais quatro semanas a partir de maio de 2016. Único brasileiro na história a ser número 1 do mundo em duplas.
 
-Em 2020, no México, no ATP 500 de Acapulco, o mineiro Marcelo conquistou o 34º título da carreira e no mês de outubro, no ATP 500 de Viena somou o 35ª da carreira. Pelo 14º ano consecutivo comemorou no mínimo um título por temporada. Dos 35 títulos, todos em duplas, dois são Grand Slam – Roland Garros, na França (2015) e Wimbledon, em Londres (2017) e nove Masters 1000, além de nove ATP 500 e 15 ATP 250. 
+Em 2020, no México, no ATP 500 de Acapulco, o mineiro Marcelo conquistou o 34º título da carreira e no mês de outubro, no ATP 500 de Viena somou o 35ª da carreira. Pelo 14º ano consecutivo comemorou no mínimo um título por temporada. Dos 35 títulos, todos em duplas, dois são Grand Slam – Roland Garros, na França (2015) e Wimbledon, em Londres (2017) e nove Masters 1000, além de nove ATP 500 e 15 ATP 250.
 
 **Primeira vitória em 2022 - **Nas oitavas de final em Adelaide, a primeira vitória de Melo e Dodig no ano. Em** **2021, Marcelo Melo tem três vitórias ao lado do romeno Horia Tecau, uma na estreia no Murray River Open (ATP 250) e duas no Australian Open, ambos em Melbourne. Uma vitória jogando com a russa Vera Zvonareva na estreia nas duplas mistas do Grand Slam. Duas vitórias com Jean-Julien Rojer, na estreia do ATP 250 de Doha e na estreia do Masters 1000 de Madri. Três vitórias com Lukasz Kubot em Wimbledon. Duas com Marcus Daniell em Washington. Uma com Kubot na estreia em Toronto. E duas com Kubot em Winston-Salem. Com Dodig, três vitórias em Indian Wells e uma em Antuérpia.
 
@@ -44,7 +43,3 @@ Release: **Redação **ZDL
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

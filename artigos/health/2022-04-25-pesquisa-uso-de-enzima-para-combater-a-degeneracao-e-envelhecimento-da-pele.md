@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Natália Santos do Nascimento faz mestrado no Programa de Pós-Graduação em Bioquímica-Farmacêutica da Universidade de São Paulo (USP), e quer encontrar um método para deter o processo de envelhecimento cutâneo. Ela compreende que o envelhecimento é um processo natural dos organismos, causado por diversos fatores, mas também acredita que é possível combatê-lo por meio de uma enzima, a catalase.
 
 **Conte-nos um pouco da sua trajetória acadêmica.**
@@ -43,5 +42,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

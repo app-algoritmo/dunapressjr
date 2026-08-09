@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ### Pesquisa foi elaborada por BID e pela revista The Economist.
 
-Embora registre desafios, o Brasil tem um dos melhores ambientes para a elaboração de parcerias-público privadas (PPP) na América Latina. A conclusão é de relatório divulgado hoje (13) pelo Banco Interamericano de Desenvolvimento (BID) e pela revista *The Economist*. 
+Embora registre desafios, o Brasil tem um dos melhores ambientes para a elaboração de parcerias-público privadas (PPP) na América Latina. A conclusão é de relatório divulgado hoje (13) pelo Banco Interamericano de Desenvolvimento (BID) e pela revista *The Economist*.
 
 Os autores do levantamento não elaboraram um *ranking*, mas dividiram os 26 países estudados em grupos. O Brasil está na categoria “desenvolvido”, com nota entre 60 e 79,9. Na mesma categoria, estão Chile, Uruguai, Peru, Colômbia, Panamá e Costa Rica. Nenhum país no continente foi incluído na categoria “maduro”, com nota entre 80 e 100.
 
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

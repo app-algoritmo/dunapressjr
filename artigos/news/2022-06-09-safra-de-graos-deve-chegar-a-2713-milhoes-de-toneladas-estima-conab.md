@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Estimativa faz parte do 9º levantamento da safra.
 
 A safra de grãos brasileira 2021/2022 deve alcançar 271,3 milhões de toneladas, informou nesta segunda-feira (8) a Companhia Nacional de Abastecimento (Conab). A estimativa, que faz parte do 9º levantamento da safra divulgado pela empresa, aponta ainda um ganho de 15,8 milhões de toneladas na comparação com a safra de 2020/2021.
@@ -18,7 +17,7 @@ Segundo a Conab, esse aumento na produção é explicado por um melhor desempenh
 
 De acordo com a Conab, a área plantada, na atual safra, é estimada em 73,7 milhões de hectares, crescimento de 5,7% se comparada à safra 2020/21. Os maiores incrementos são observados na soja, 4,6%, ou 1,8 milhão de hectares e, no milho, 8,6% ou 1,7 milhão de hectares.
 
-O levantamento mostra ainda que, no final de maio, as culturas de primeira safra estavam com a colheita praticamente finalizada, as de segunda safra em fase inicial de colheita e as de terceira safra, juntamente com as culturas de inverno, em fase de semeadura. 
+O levantamento mostra ainda que, no final de maio, as culturas de primeira safra estavam com a colheita praticamente finalizada, as de segunda safra em fase inicial de colheita e as de terceira safra, juntamente com as culturas de inverno, em fase de semeadura.
 
 Na avaliação de Ribeiro, o resultado final vai depender do clima nos próximos meses. “O resultado final do volume desta safra ainda depende do comportamento climático, fator preponderante para o desenvolvimento das culturas”, disse Ribeiro.
 
@@ -26,7 +25,7 @@ A Conab informou que, para o milho, é esperada uma produção total de 115,2 mi
 
 Em relação ao arroz, a produção será menor que a da safra passada. A queda estimada é de 9,9%. Com isso a safra deve ficar em 10,6 milhões de toneladas, das quais 9,8 milhões são de cultivo irrigado e 0,8 milhões com o plantio sequeiro.
 
-"As condições climáticas de maio foram favoráveis para a conclusão da colheita na maioria dos estados, mas houve um excesso de chuvas no Nordeste, que tem prejudicado o avanço da colheita", diz o levantamento.   
+"As condições climáticas de maio foram favoráveis para a conclusão da colheita na maioria dos estados, mas houve um excesso de chuvas no Nordeste, que tem prejudicado o avanço da colheita", diz o levantamento.
 
 A soja também terá uma queda na produção, disse a Conab. A produção estimada é 10,1% menor em relação à safra anterior e deve ficar em 124,3 milhões.
 
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

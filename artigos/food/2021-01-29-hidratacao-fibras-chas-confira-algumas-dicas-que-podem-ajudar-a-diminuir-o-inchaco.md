@@ -8,8 +8,7 @@ categories:
 - Food
 ---
 
-
-Quem nunca se sentiu um pouco mais inchado depois de exagerar nas festas ou em alguma viagem, né? Acontece que a alimentação, o álcool e a baixa ingestão de água podem provocar essas reações no corpo. É o que chamamos de retenção de líquido. Com a chegada do carnaval batendo à porta, as dicas que vamos passar serão ainda mais úteis! 
+Quem nunca se sentiu um pouco mais inchado depois de exagerar nas festas ou em alguma viagem, né? Acontece que a alimentação, o álcool e a baixa ingestão de água podem provocar essas reações no corpo. É o que chamamos de retenção de líquido. Com a chegada do carnaval batendo à porta, as dicas que vamos passar serão ainda mais úteis!
 
 ## **O que é e o que causa a retenção de líquido?**
 
@@ -51,7 +50,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

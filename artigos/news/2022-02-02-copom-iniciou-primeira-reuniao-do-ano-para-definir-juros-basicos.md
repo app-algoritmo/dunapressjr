@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Expectativa é que Selic suba de 9,25% para 10,75%.
 
 O Comitê de Política Monetária (Copom) do Banco Central (BC) começou nesta terça-feira (1º), em Brasília, a primeira reunião do ano para definir a taxa básica de juros, a Selic. Pela primeira vez em cinco anos, os juros deverão atingir os dois dígitos. Até o fim desta quarta-feira (2), o Copom anunciará a decisão.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

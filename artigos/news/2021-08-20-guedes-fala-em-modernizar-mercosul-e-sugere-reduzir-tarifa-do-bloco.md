@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## Ministro participou de audiência pública sobre o tema no Senado.
 
-O ministro da Economia, Paulo Guedes, disse nesta quarta-feira (19) que o Mercosul não tem, para o Brasil, a mesma importância que teve em seu momento inicial, quando foi “uma espécie de trampolim” para o país avançar em termos de competitividade. 
+O ministro da Economia, Paulo Guedes, disse nesta quarta-feira (19) que o Mercosul não tem, para o Brasil, a mesma importância que teve em seu momento inicial, quando foi “uma espécie de trampolim” para o país avançar em termos de competitividade.
 
 Segundo ele, o bloco “não está correspondendo às expectativas”, ainda que não tenha deixado de ser uma “ferramenta válida e importante”. A solução para isso, disse Guedes, passa pela modernização do bloco. As afirmações foram feitas durante audiência pública no Senado, destinada a debater a ampliação e a modernização do bloco constituído por Brasil, Argentina, Uruguai e Paraguai.
 
-“Nos últimos 30 anos, o comércio global aumentou muito e tirou 3,7 bilhões de pessoas da miséria, aumentando a renda per capita. Enquanto isso, nós, quando fomos pioneiros em criar grandes blocos de integração comercial, fomos ficando para trás”, disse o ministro ao iniciar sua participação na comissão. 
+“Nos últimos 30 anos, o comércio global aumentou muito e tirou 3,7 bilhões de pessoas da miséria, aumentando a renda per capita. Enquanto isso, nós, quando fomos pioneiros em criar grandes blocos de integração comercial, fomos ficando para trás”, disse o ministro ao iniciar sua participação na comissão.
 
 Guedes disse que o Mercosul foi “um grande sucesso” como plataforma para aumentar a integração do bloco e para lançar a economia brasileira na economia global. “Foi uma espécie de trampolim para o Brasil se integrar à economia global”, disse o ministro ao lembrar que, entre 1991 e 1998, a participação do Mercosul na corrente de comércio brasileira subir de 9% para 18%. “Depois disso começou a cair”, complementou.
 
@@ -26,7 +25,7 @@ Guedes acrescentou que continua considerando o bloco uma plataforma "válida e i
 
 No início do ano, o Brasil propôs ao bloco a primeira revisão da TEC, cuja média de alíquotas está em 13,4%. Inicialmente a proposta era de uma redução de 20% dessa alíquota. Posteriormente a equipe econômica brasileira suavizou a redução para 10% em 2021 e outros 10% em 2022 – percentual a ser aplicado sobre a atual alíquota.
 
-Outro ponto que está em discussão é a proposta de flexibilizar as negociações comerciais do grupo regional com outros países, por meio da alteração do Tratado de Assunção, de forma a atenuar a exigência de negociação conjunta dos quatro países membros. 
+Outro ponto que está em discussão é a proposta de flexibilizar as negociações comerciais do grupo regional com outros países, por meio da alteração do Tratado de Assunção, de forma a atenuar a exigência de negociação conjunta dos quatro países membros.
 
 “Não gostaríamos que a cláusula de consenso do Mercosul virasse um veto ou uma cláusula de veto, que diz que se alguém não quer andar, o outro também não pode andar. Nós achamos que o Brasil é grande demais, com grande potencial e desafios enormes. Não podemos ser prisioneiros de um arranjo institucional que não se modernize e degenere o fluxo de comércio. O Brasil não pode virar prisioneiro de uma filosofia de protecionismo e atraso”, disse Guedes.
 
@@ -34,10 +33,6 @@ O ministro reiterou que a ferramenta que é o Mercosul não está correspondendo
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

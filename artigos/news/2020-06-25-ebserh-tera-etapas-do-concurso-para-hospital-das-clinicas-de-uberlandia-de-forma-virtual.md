@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Avaliação de títulos e heteroidentificação estão com prazos abertos para recebimento de documentos.
 
 **Uberlândia (MG)** – Estão abertas as etapas de prova de títulos e experiência profissional e de heteroidentificação do concurso público realizado pela Empresa Brasileira de Serviços Hospitalares (Ebserh) para o Hospital de Clínicas da Universidade Federal de Uberlândia (HC-UFU). Por conta da pandemia de Covid-19, e como forma de evitar a contaminação, essas novas etapas não serão realizadas de modo presencial, mas à distância.
@@ -39,7 +38,7 @@ Fonte: gov.br/mec - Capes / Imagem em destaque: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

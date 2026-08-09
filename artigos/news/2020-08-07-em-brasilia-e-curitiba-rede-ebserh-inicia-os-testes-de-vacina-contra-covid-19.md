@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultados em fases anteriores foram considerados promissores e produziram anticorpos em 90% dos participantes.
 
 Os dois hospitais vinculados à Rede Ebserh que participam de estudo internacional para testar a vacina contra a Covid-19 estão iniciando, nesta semana, suas respectivas atuações. O Hospital Universitário de Brasília (HUB-UnB/Ebserh) começou os testes na quarta-feira, 5, enquanto que o Complexo Hospital de Clínicas (CHC-UFPR/Ebserh), em Curitiba (PR), iniciará na sexta-feira, 7. As vacinas são voltadas a profissionais da saúde que se voluntariaram para a realização dessa etapa do estudo.
@@ -37,7 +36,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

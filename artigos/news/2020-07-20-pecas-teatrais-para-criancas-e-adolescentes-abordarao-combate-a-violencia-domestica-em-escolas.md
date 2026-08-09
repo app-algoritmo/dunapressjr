@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Um projeto de laboratório teatral vai receber R$ 100 mil para criar espetáculos sobre a violência contra a mulher. As peças serão apresentadas em escolas públicas do Distrito Federal (DF). A iniciativa do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) prevê, além do fortalecimento das políticas públicas de enfrentamento à violência doméstica, a geração de emprego e renda.
 
 A Secretaria Nacional dos Direitos da Criança e do Adolescente (SNDCA) ficará responsável pela ação, em parceria com o Instituto Cultural e Social Lumiar. Os recursos destinados ao projeto são oriundos de emendas parlamentares.
@@ -32,6 +31,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

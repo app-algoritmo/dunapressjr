@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado do ano, entretanto, é de resgate líquido R$ 2,09 bilhões.
 
 O Ministério da Economia informou hoje (26) que o estoque de recursos no Tesouro Direto cresceu R$ 3,06 bilhões em 2020, encerrando o ano em R$ 62,70 bilhões. O montante é 5,13% maior que o registrado no fim de 2019.
@@ -46,8 +45,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

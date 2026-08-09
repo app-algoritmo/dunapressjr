@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dando continuidade à série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre o Microscópio Eletrônico Siemens.
 
 ### **Breve histórico da óptica geométrica**
@@ -70,19 +69,19 @@ Em 1897, o físico J.J. Thomson (1856 – 1940) descobriu o elétron, e, década
 
 ### **A necessidade**
 
-Em 1930, o engenheiro eletrônico alemão Reinhold Rudenberg (1883 – 1961) recebeu a notícia a triste notícia de que seu filho pequeno havia contraído poliomielite. Nessa época ainda não existia uma vacina eficaz produzida contra a poliomielite. Isso a tornava uma doença   fatal ou levava suas vítimas à paralisia e perda do movimento das pernas.
+Em 1930, o engenheiro eletrônico alemão Reinhold Rudenberg (1883 – 1961) recebeu a notícia a triste notícia de que seu filho pequeno havia contraído poliomielite. Nessa época ainda não existia uma vacina eficaz produzida contra a poliomielite. Isso a tornava uma doença fatal ou levava suas vítimas à paralisia e perda do movimento das pernas.
 
 O vírus pólio era conhecido, mas tanto ele quanto outros vírus eram pequenos demais para poderem ser vistos pelos microscópios da época.
 
 Rudenberg, baseando-se em pesquisas existentes propôs a criação de um microscópio que pudesse ser focalizado através de lentes eletroestáticas. A empresa para a qual trabalhava, a Siemens AG da Alemanha, registrou as patentes do princípio em 1931.
 
-Ainda em 1931, o então estudante de pós-graduação, Ernst Ruska (1906 – 1988) desenvolveu o primeiro modelo comercial em 1939 ao tirar proveito das patentes da Siemens após se juntar à empresa em 1937.  Assim realizando o sonho de Rudenberg, Ernst, trabalhando em parceria com seu irmão, Helmut Ruska (1908 – 1973), produziu as primeiras imagens de vírus no mundo.
+Ainda em 1931, o então estudante de pós-graduação, Ernst Ruska (1906 – 1988) desenvolveu o primeiro modelo comercial em 1939 ao tirar proveito das patentes da Siemens após se juntar à empresa em 1937. Assim realizando o sonho de Rudenberg, Ernst, trabalhando em parceria com seu irmão, Helmut Ruska (1908 – 1973), produziu as primeiras imagens de vírus no mundo.
 
 https://br.pinterest.com/pin/421297740140890044/
 
 ### Referências Bibliográficas
 
-CHALINA, Eric. 50 Máquinas que mudaram o Rumo da História. Tradução de Fabiano Morais. Rio de Janeiro. Sextante. 2014. 
+CHALINA, Eric. 50 Máquinas que mudaram o Rumo da História. Tradução de Fabiano Morais. Rio de Janeiro. Sextante. 2014.
 
 MARTINS, Roberto de Andrade. Robert Hooke e a pesquisa microscópica dos seres vivos. Filosofia e história da biologia, Universidade Estadual da Paraíba, Grupo de História da Ciência e Ensino, Campina Grande, Paraíba, volume 6, Exemplar 1, p. (105 - 142), janeiro, 2011.
 
@@ -90,8 +89,4 @@ MARTINS, Roberto de Andrade. Robert Hooke e a pesquisa microscópica dos seres v
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

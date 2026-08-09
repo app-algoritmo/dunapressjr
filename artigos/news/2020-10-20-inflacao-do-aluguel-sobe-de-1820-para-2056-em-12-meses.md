@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Pesquisa foi feita pela Fundação Getulio Vargas.
 
 O Índice Geral de Preços-Mercado (IGP-M), usado no reajuste de contratos de aluguel no país, registrou inflação de 2,92% na segunda prévia de outubro. A taxa é inferior aos 4,57% da segunda prévia de setembro.
@@ -19,5 +18,3 @@ A queda da taxa de setembro para outubro foi provocada pelos preços no atacado,
 E o Índice de Preços ao Consumidor, que mede o varejo, subiu de 0,38% para 0,71%. O Índice Nacional de Custo da Construção também cresceu de 0,98% para 1,50%.
 
 Fonte: Agência Brasil – Imagem de destaque: Tomaz Silva/Agência Brasil
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

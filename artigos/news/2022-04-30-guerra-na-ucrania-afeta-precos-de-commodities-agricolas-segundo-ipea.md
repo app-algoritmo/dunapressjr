@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Grãos e oleaginosas tiveram altas no mercado internacional.
 
 A guerra entre Rússia e Ucrânia trouxe incertezas e oscilações significativas nos preços internacionais das principais *commodities* (produtos agrícolas e minerais comercializados no mercado exterior) agropecuárias, aponta nota elaborada pelo Instituto de Pesquisa Econômica Aplicada (Ipea), em parceria com a Companhia Nacional de Abastecimento (Conab) e o Centro de Estudos Avançados em Economia Aplicada da Escola Superior de Agricultura da Universidade de São Paulo (Cepea/Esalq/USP).
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

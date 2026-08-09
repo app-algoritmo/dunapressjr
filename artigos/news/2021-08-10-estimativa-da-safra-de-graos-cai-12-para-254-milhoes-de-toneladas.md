@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## De acordo com a Conab, queda se deve a clima adverso.
 
 A produção de grãos no Brasil deverá ficar em 254 milhões de toneladas, segundo o 11º Levantamento da Safra de Grãos 2020/2021 divulgado hoje (10) pela Companhia Nacional de Abastecimento (Conab). A previsão apresenta uma queda de 1,2%, na comparação com o levantamento anterior. De acordo com a Conab, o volume menor se deve ao impacto causado pelo clima adverso nas lavouras e na produção do país.
@@ -42,10 +41,6 @@ No caso do milho, a previsão é de uma queda de 20% nas exportações, o que, s
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

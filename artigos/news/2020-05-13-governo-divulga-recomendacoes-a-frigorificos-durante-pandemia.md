@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Governo Federal, por meio dos Ministérios da Agricultura, Pecuária e Abastecimento, da Economia e da Saúde, divulgou, na segunda-feira (11), manual com recomendações para frigoríficos em razão da pandemia do novo coronavírus. As orientações abordam como prevenir o contágio do vírus nos ambientes de trabalho e, assim, manter a normalidade do abastecimento alimentar, a manutenção dos empregos e da atividade econômica.
 
 O documento elenca mais de 70 medidas divididas em: caráter geral, práticas de boa higiene e conduta, cuidados nas refeições e no vestiário, sobre as comissões internas de prevenção de acidentes, transporte de trabalhadores fornecido pelo empregador, máscaras de proteção facial, trabalhadores pertencentes ao grupo de risco, suspensão de exigências administrativas em segurança e saúde no trabalho, procedimentos de contingência e retomada das atividades de setores ou do estabelecimento.
@@ -34,4 +33,4 @@ Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações 
 
 ASSINE O PRESS PERIÓDICO
 
-https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress
+https://dunapress.org/subscription-plan/

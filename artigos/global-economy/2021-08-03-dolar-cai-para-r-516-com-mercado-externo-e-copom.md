@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa desacelerou no fim da tarde e fechou com alta de 0,59%.
 
 Num dia de alívio externo e de expectativa com a próxima reunião do Comitê de Política Monetária (Copom), o dólar caiu para R$ 5,16 após ter superado R$ 5,20 na sexta-feira (30). A bolsa de valores chegou a subir mais de 2% durante a manhã, mas desacelerou no fim do dia, influenciada pelo mercado norte-americano.
@@ -26,10 +25,6 @@ No fim do dia, as preocupações com uma desaceleração econômica nos Estados 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Os exames serão disponibilizados via Sistema Único de Saúde (SUS) na cidade de Rio Grande (RS).
 
 Desde a semana passada, a cidade de Rio Grande (RS) conta com uma nova estrutura no enfrentamento à Covid-19. O Laboratório de Apoio Diagnóstico em Infectologia do Hospital Universitário Dr. Miguel Riet Corrêa Jr., vinculado à Universidade Federal do Rio Grande e à Rede Ebserh (HU-Furg/Ebserh), realizará os testes dos pacientes com suspeita da doença causada pelo novo coronavírus. Os pacientes de municípios próximos também poderão ser atendidos na unidade.
@@ -31,4 +30,4 @@ Em algumas regiões, as unidades da Rede Ebserh têm atuado como hospitais de re
 
 Fonte: gov.br/mec / Imagem em destaque: Ebserh
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando [AQUI](https://dunapress.org/?aff=Leonardo).**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando [AQUI](https://dunapress.org/).**

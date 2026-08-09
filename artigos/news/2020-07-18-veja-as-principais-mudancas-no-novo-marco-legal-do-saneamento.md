@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Novo marco legal define universalização de serviços sanitários.
 
 O Marco Legal do Saneamento Básico foi **[publicado nesta quinta-feira](pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=16/07/2020&jornal=515&pagina=1)** (16) no *Diário Oficial da União* (*DOU*) com vetos a dispositivos de 11 artigos. Sancionada na quarta-feira (15) pelo presidente Jair Bolsonaro, a lei prevê a [**universalização dos serviços**](https://agenciabrasil.ebc.com.br/politica/noticia/2020-07/governo-sanciona-novo-marco-legal-do-saneamento) de água e esgoto até 2033 e viabiliza a injeção de mais investimentos privados nos serviços de saneamento.
@@ -98,4 +97,4 @@ Outro dispositivo vetado excluía o setor de tratamento de resíduos sólidos de
 
 Fonte: Agência Brasil – Imagem de destaque: Carolina Gonçalves/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

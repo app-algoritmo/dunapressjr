@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Pesquisa foi feita com executivos de 500 indústrias de pequeno porte.
 
 As pequenas empresas consideram a inovação como uma estratégia para manterem-se no mercado, mas ainda encontram dificuldades para inovar. É o que revela pesquisa da Confederação Nacional da Indústria (CNI), realizada pelo Instituto FSB Pesquisa com executivos de 500 indústrias de pequeno porte (de 10 a 49 empregados). De acordo com os dados, 82% dessas empresas inovaram pelo menos uma vez nos últimos três anos.
@@ -44,10 +43,6 @@ A pesquisa mostra que 45% das pequenas empresas tiveram que investir em ferramen
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

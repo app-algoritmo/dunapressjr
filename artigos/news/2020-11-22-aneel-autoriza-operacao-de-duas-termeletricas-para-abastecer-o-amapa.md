@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Duas usinas termelétricas contribuirão para o reestabelecimento da energia no Amapá, a partir deste sábado (21). A liberação para a operação comercial das usinas Santana II e Santa Rita está prevista em medida publicada pela Agência Nacional de Energia Elétrica (Aneel) no [Diário Oficial da União](https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/11/2020&jornal=515&pagina=164&totalArquivos=249) desta sexta-feira (20).
 
 Em visita ao Amapá, desde ontem (19), o ministro de Minas e Energia, Bento Albuquerque, ressalta que a expectativa é que a carga completa do estado volte ao normal até 26 de novembro. Ele lembrou que, no primeiro fim de semana após o problema, foi possível reestabelecer cerca de 70% da energia com a recuperação de um transformador.
@@ -41,5 +40,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

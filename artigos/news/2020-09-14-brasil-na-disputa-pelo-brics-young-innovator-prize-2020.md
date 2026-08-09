@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Químico do INT/MCTI concorre ao prêmio de Jovem Inovador dos BRICS. 
+Químico do INT/MCTI concorre ao prêmio de Jovem Inovador dos BRICS.
 
 O químico Arthur Gonçalves, orientado pelo pesquisador Alexandre Gaspar, do Laboratório de Catálise (Lacat) do Instituto Nacional de Tecnologia (INT), unidade de pesquisa do MCTI, foi um dos quatro selecionados para representar o Brasil na disputa pelo BRICS Young Innovator Prize 2020. A escolha foi comunicada pelo coordenador-geral de Cooperação Multilateral do Ministério da Ciência, Tecnologia e Inovações (MCTI), Carlos Matsumoto, que chefiará a delegação brasileira participante da quinta edição do *BRICS Young Scientist Forum, *evento integrante do Encontro de Cúpula dos BRICS (Brasil, Rússia, Índia, China e África do Sul), sediado este ano pela Rússia.
 
@@ -25,5 +24,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

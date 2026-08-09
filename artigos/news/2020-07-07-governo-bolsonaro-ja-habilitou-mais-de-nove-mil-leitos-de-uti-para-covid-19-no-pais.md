@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Investimento é de R$ 1,283 bilhão para custeio de leitos destinados exclusivamente para o tratamento de pacientes graves e gravíssimos.
 
 Os hospitais públicos já contam com 9.011 leitos de UTI habilitados pelo Governo Federal para tratar exclusivamente de pacientes com Covid-19, em estado grave ou gravíssimo. Do total, 236 deles são da pediatria. Ao todo, o Ministério da Saúde investiu R$ 1,283 bilhão, pago em parcela única, para estados e municípios custearem esses leitos pelos próximos 90 dias ou enquanto houver necessidade em decorrência da pandemia. Na sexta-feira (3), foram habilitados mais 41 leitos de UTI, ao custo de R$ 5,9 milhões, contemplando a população do estado de Goiás.
@@ -31,6 +30,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

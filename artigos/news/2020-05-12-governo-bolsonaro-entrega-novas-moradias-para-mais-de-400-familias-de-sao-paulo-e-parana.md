@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Foram investidos R$ 36,7 milhões na construção das unidades habitacionais do Minha Casa, Minha Vida. R$ 425 milhões foram destinada à continuidade das obras de 301 mil moradias para famílias que ganham até R$ 1.800.
 
 O Governo Federal finalizou a construção, na quarta-feira (6), e começará a entrega das unidades habitacionais nos estados de São Paulo e Paraná. Foram investidos R$ 36,7 milhões pelo Ministério do Desenvolvimento Regional (MDR) em três empreendimentos. Os residenciais atendem à Faixa 1 do Programa Minha Casa, Minha Vida (MCMV), voltada a grupos familiares com renda mensal de até R$ 1,8 mil. Ao todo, são mais de 416 famílias e 1.600 pessoas beneficiadas.
@@ -32,6 +31,6 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-[ASSINE O PRESS PERIÓDICO](http://Ajude-nos a levar o jornalismo independente a todas as partes! Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente. Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação. Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor. ASSINE O PRESS   https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)
+[ASSINE O PRESS PERIÓDICO](http://Ajude-nos a levar o jornalismo independente a todas as partes! Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente. Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação. Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor. ASSINE O PRESS   https://dunapress.org/subscription-plan/)
 
-https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress
+https://dunapress.org/subscription-plan/

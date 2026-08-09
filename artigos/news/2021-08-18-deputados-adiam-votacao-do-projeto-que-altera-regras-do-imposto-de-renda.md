@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O presidente da Câmara, voltou a falar que não haverá consenso sobre a reforma tributária.
 
 Os deputados adiaram mais uma vez a análise das mudanças no Imposto de Renda previstas no Projeto de Lei [PL 2337/21](https://www.camara.leg.br/noticias/778071-proposta-atualiza-tabela-do-ir-mas-limita-desconto-simplificado), do Poder Executivo. O texto, que faz parte do pacote da reforma tributária, trata da cobrança do tributo sobre lucros e dividendos distribuídos pelas empresas a acionistas, diminuição do Imposto de Renda das empresas e cancelamento de alguns benefícios fiscais.
@@ -62,10 +61,6 @@ Já as renúncias citadas se referem a vários dispositivos com isenções que e
 
 Fonte: Agência Câmara de Notícias
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

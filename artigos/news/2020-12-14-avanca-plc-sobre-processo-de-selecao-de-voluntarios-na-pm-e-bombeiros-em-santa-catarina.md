@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Comissão de Educação, Cultura e Desporto aprovou, na manhã desta quinta-feira (10), em reunião realizada por videoconferência, o parecer favorável ao Projeto de Lei Complementar (PLC) 23/2019, de autoria do deputado Coronel Mocellin (PSL), que altera a Lei Complementar nº 302, de 2005, para regular que o processo de seleção para ingresso de voluntários no Serviço de Auxiliar Temporário da Polícia Militar e do Corpo de Bombeiros Militar do Estado aproveitará a classificação obtida pelo candidato no Exame Nacional do Ensino Médio (Enem).
 
 O projeto, relatado pela deputada Luciane Carminatti (PT), foi aprovado por unanimidade e contou com pareceres apresentados pela Procuradora Geral do Estado (PGE) e Conselho Estadual de Educação. De acordo coma justificativa do autor, a matéria foi apresentada devido ao processo seletivo de tramitação atual ser demorado e com alto custo para aos cofres públicos. Matéria segue para apreciação na Comissão de Segurança Pública.
@@ -57,7 +56,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Falta de componentes dificulta fábricas.
 
 A produção de veículos teve queda de 15,8% em fevereiro na comparação com o mesmo mês de 2021. Segundo o balanço divulgado nesta terça-feira (8), em São Paulo, pela Associação Nacional de Fabricantes de Veículos Automotores (Anfavea), foram montadas em fevereiro deste ano 165,9 mil unidades. Em comparação com janeiro, no entanto, o número representa uma alta de 14,1%.
@@ -34,7 +33,7 @@ Moraes avaliou que ainda é difícil estimar os impactos da guerra na Ucrânia n
 
 Porém, ele listou alguns riscos que o conflito armado traz aos mercados como alta no preço de commodities e aumento da escassez de semicondutores produzidos pela Ucrânia e Rússia, importantes produtores de paládio e gás neônio. Além disso, segundo Moraes, a guerra pode inflacionar o valor dos fretes aéreos e marítimos.
 
-## Impacto do IPI 
+## Impacto do IPI
 
 A previsão da Anfavea é que a redução nas alíquotas do Imposto sobre Produtos Industrializados (IPI), anunciada pelo governo federal no fim do mês passado, possa diminuir entre 1,7% e 4,1% o preço final de algumas categorias de veículos.
 
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

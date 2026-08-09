@@ -7,8 +7,6 @@ categories:
 - Covid-19
 ---
 
-
-**Disclaimer** - Clique aqui para fechar
 Caro leitor,
 
 No Jornal Duna Press, temos o compromisso de fornecer informações precisas e relevantes sobre uma variedade de tópicos, incluindo descobertas científicas importantes. É importante observar que as informações fornecidas em nossos artigos são baseadas em documentos e fontes confiáveis. No entanto, é essencial entender que não podemos nos responsabilizar pelos resultados ou conclusões de análises individuais.
@@ -48,4 +46,4 @@ Enquanto isso, uma vigilância e monitoramento intensificados são imperativos p
 
 Em conclusão, a descoberta de coágulos sanguíneos incomuns entre corpos embalsamados destaca a necessidade de investigação minuciosa e vigilância. Embora possíveis ligações com as vacinas da COVID-19 mereçam consideração, mais pesquisas são essenciais para elucidar os mecanismos subjacentes e estabelecer evidências conclusivas. Ao priorizar a investigação científica e as medidas de saúde pública, podemos abordar os desafios emergentes e mitigar os riscos potenciais de forma eficaz.
 
-Ver Também: Guerra da informação entre Jornalistas Checadores que descordam:  [AFP](https://factcheck.afp.com/doc.afp.com.32JG7UE)
+Ver Também: Guerra da informação entre Jornalistas Checadores que descordam: [AFP](https://factcheck.afp.com/doc.afp.com.32JG7UE)

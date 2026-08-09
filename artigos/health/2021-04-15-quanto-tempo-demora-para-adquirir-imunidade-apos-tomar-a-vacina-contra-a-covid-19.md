@@ -7,10 +7,9 @@ categories:
 - Health
 ---
 
+As vacinas são o primeiro passo para o fim da pandemia do novo coronavírus, mas a imunidade não começa imediatamente após tomar a segunda dose do imunizante. Caso uma pessoa tenha Covid-19 logo após se imunizar, isso não significa que a vacina não funcionou, mas que seu o sistema imunológico ainda não teve tempo para criar a resposta imune.
 
-As vacinas são o primeiro passo para o fim da pandemia do novo coronavírus, mas a imunidade não começa imediatamente após tomar a segunda dose do imunizante. Caso uma pessoa tenha Covid-19 logo após se imunizar, isso não significa que a vacina não funcionou, mas que seu o sistema imunológico ainda não teve tempo para criar a resposta imune. 
-
-Cada organismo reage de uma forma, dependendo de fatores como a faixa etária e o próprio sistema imunológico da pessoa. Em geral, em duas semanas após a segunda dose estaremos protegidos, pois esse é o tempo que nosso sistema leva para criar anticorpos neutralizantes, que barram a entrada do vírus nas células. 
+Cada organismo reage de uma forma, dependendo de fatores como a faixa etária e o próprio sistema imunológico da pessoa. Em geral, em duas semanas após a segunda dose estaremos protegidos, pois esse é o tempo que nosso sistema leva para criar anticorpos neutralizantes, que barram a entrada do vírus nas células.
 
 Esse também foi o intervalo usado nos testes clínicos da CoronaVac, a vacina do Butantan, para medir a resposta imune dos participantes. Ainda vale lembrar que uma quantidade ainda maior de anticorpos pode ser registrada até um mês após o fim da vacinação, também variando de indivíduo para indivíduo.
 
@@ -24,7 +23,3 @@ Fonte: butantan.gov.br
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

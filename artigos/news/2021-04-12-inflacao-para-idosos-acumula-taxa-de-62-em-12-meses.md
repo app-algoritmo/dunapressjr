@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No primeiro trimestre o índice subiu 1,54%, diz FGV.
 
 O Índice de Preços ao Consumidor da Terceira Idade (IPC-3i) subiu 1,54% no primeiro trimestre de 2021 e acumula elevação de 6,2% nos últimos 12 meses, ficando acima da taxa acumulada pelo IPC-Br, no mesmo período, que atingiu 6,1%. O resultado foi divulgado hoje (12) pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV).
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ministro da Economia pede que Congresso não derrube veto a reajustes.
 
 Os servidores públicos e o Congresso Nacional precisam contribuir para a manutenção do eventual veto do presidente Jair Bolsonaro ao reajuste para determinadas categorias do funcionalismo estadual e municipal, disse nesta sexta-feira (15) o ministro da Economia, Paulo Guedes. Ele discursou por cerca de uma hora em evento de balanço dos 500 dias de governo e ressaltou que o governo não quer retirar direitos de nenhum servidor, apenas pedir um esforço conjunto para impedir o descontrole das contas públicas.
@@ -49,5 +48,3 @@ Ajude-nos a levar o jornalismo independente a todas as partes!
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

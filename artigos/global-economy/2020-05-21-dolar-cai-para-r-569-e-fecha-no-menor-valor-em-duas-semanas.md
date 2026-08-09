@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa sobe 0,71% e fecha no maior nível em quase um mês.
 
 O alívio no mercado externo animou o mercado financeiro. O dólar caiu para a menor cotação em 14 dias, e a bolsa de valores fechou no nível mais alto em quase um mês. O dólar comercial encerrou esta quarta-feira (20) vendido a R$ 5,69, com recuo de R$ 0,071 (-1,23%). A moeda operou em baixa durante toda a sessão. Na mínima do dia, por volta das 12h, chegou a R$ 5,67. A cotação fechou no menor nível desde 5 de maio (R$ 5,59).
@@ -27,5 +26,3 @@ O alívio no mercado externo compensou as tensões políticas e dados negativos 
 Fonte: Agência Brasil - Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

@@ -8,18 +8,17 @@ categories:
 - News
 ---
 
-
 Um remédio promissor contra a Covid-19 começou a ser testado em 500 pacientes, informou o ministro da Ciência, Tecnologia, Inovações e Comunicações, Marcos Pontes. Em análises in vitro, o medicamento reduziu em 94% a carga viral em células infectadas pelo novo coronavírus. A estimativa é de que os resultados dos estudos clínicos em pacientes sejam concluídos até a metade do mês de maio.
 
-“A ciência é a única arma que a gente tem para combater o vírus. A solução real dessa pandemia está na ciência”, destacou o ministro Marcos Pontes. 
+“A ciência é a única arma que a gente tem para combater o vírus. A solução real dessa pandemia está na ciência”, destacou o ministro Marcos Pontes.
 
 A seleção desse medicamento faz parte de uma estratégia chamada de reposicionamento de fármacos, adotada por uma força-tarefa formada por 40 cientistas do Laboratório Nacional de Biociências (LNBio), que integra o Centro Nacional de Pesquisa em Energia e Materiais (CNPEM), organização social do Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC).
 
-Foram testados 2 mil medicamentos com o objetivo de identificar fármacos compostos por moléculas capazes de inibir proteínas fundamentais para a replicação viral. Com uso de alta tecnologia como biologia molecular e estrutural, computação científica, quimioinformática e inteligência artificial, os pesquisadores identificaram seis moléculas promissoras que seguiram para teste in vitro com células infectadas com o Sars-CoV-2. Desses seis remédios pesquisados, os cientistas do CNPEM/MCTIC descobriram que dois reduziram significativamente a replicação viral em células. O remédio mais promissor apresentou 94% de eficácia em ensaios com as células infectadas. 
+Foram testados 2 mil medicamentos com o objetivo de identificar fármacos compostos por moléculas capazes de inibir proteínas fundamentais para a replicação viral. Com uso de alta tecnologia como biologia molecular e estrutural, computação científica, quimioinformática e inteligência artificial, os pesquisadores identificaram seis moléculas promissoras que seguiram para teste in vitro com células infectadas com o Sars-CoV-2. Desses seis remédios pesquisados, os cientistas do CNPEM/MCTIC descobriram que dois reduziram significativamente a replicação viral em células. O remédio mais promissor apresentou 94% de eficácia em ensaios com as células infectadas.
 
 A ideia é avaliar se o composto selecionado é eficaz e seguro para que seja recomendado como tratamento.
 
-Seguindo o protocolo clínico serão testados pacientes, com idade acima de 18 anos, com pneumonia inicial e sintomas típicos da doença. Parte do grupo receberá placebo e outra parte receberá o medicamento para avaliar sua eficácia. O tempo de avaliação de cada paciente será de 14 dias. 
+Seguindo o protocolo clínico serão testados pacientes, com idade acima de 18 anos, com pneumonia inicial e sintomas típicos da doença. Parte do grupo receberá placebo e outra parte receberá o medicamento para avaliar sua eficácia. O tempo de avaliação de cada paciente será de 14 dias.
 
 O secretário de Políticas para Formação e Ações Estratégicas do ministério, Marcelo Morales, reforçou que o Brasil possui uma alta capacidade de produção do medicamento a ser testado. Além disso, adiantou que o governo já alertou laboratórios e empresas sobre a necessidade de aumentar a produção do remédio, caso os testes clínicos sejam positivos. “A gente depende de insumos do exterior, mas são acessíveis.”
 
@@ -40,5 +39,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

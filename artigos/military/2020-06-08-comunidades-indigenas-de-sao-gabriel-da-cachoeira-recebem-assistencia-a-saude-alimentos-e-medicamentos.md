@@ -8,8 +8,7 @@ categories:
 - Military
 ---
 
-
-Foi instalada em São Gabriel da Cachoeira, no Amazonas, com o apoio da 2ª Brigada de Infantaria de Selva (2ª Bda Inf Sl), uma base de operação interministerial em atenção à população indígena da Região do Alto Rio Negro. É a partir desse local que saem as equipes de saúde das Forças Armadas e os insumos, em direção aos sete Pelotões Especiais de Fronteira (PEF) na região. 
+Foi instalada em São Gabriel da Cachoeira, no Amazonas, com o apoio da 2ª Brigada de Infantaria de Selva (2ª Bda Inf Sl), uma base de operação interministerial em atenção à população indígena da Região do Alto Rio Negro. É a partir desse local que saem as equipes de saúde das Forças Armadas e os insumos, em direção aos sete Pelotões Especiais de Fronteira (PEF) na região.
 
 A 2ª Bda Inf Sl, situada em São Gabriel da Cachoeira, é uma das brigadas do Exército Brasileiro que se encontra numa das regiões mais estratégicas do território nacional. Debruçado na fronteira com a Colômbia e com a Venezuela, o município abrange área de 294 mil km². De tamanho maior do que o Estado de São Paulo, tem como característica ser o município mais indígena do País: são 45 mil habitantes, sendo que 90% representados por 23 etnias.
 
@@ -25,5 +24,3 @@ Já na Bahia, o Comando Conjunto descontaminou os portos da Companhia das Docas 
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

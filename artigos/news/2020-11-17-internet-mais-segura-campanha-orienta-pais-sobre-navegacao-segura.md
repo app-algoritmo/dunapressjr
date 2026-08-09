@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 A ideia é reforçar o diálogo entre pais e filhos e evitar os perigos que a internet pode trazer para dentro de casa.
 
 Proteger crianças e adolescentes contra crimes na internet tem sido uma das prioridades do Governo Federal. Com esse objetivo, o Ministério da Mulher, da Família e dos Direitos Humanos divulgou dicas sobre o uso compartilhado das redes sociais, como o Facebook e o Twitter.
 
 De acordo com a Central Nacional de Denúncias de Crimes Cibernéticos, foram registradas, em 14 anos, mais de 1,6 milhão de denúncias anônimas de pornografia infantil no universo digital. Casos de pedofilia e aliciamento de menores são outro problema associado aos perigos do mau uso da tecnologia e que tem desafiado as autoridades. As informações são do Ministério da Mulher, da Família e dos Direitos Humanos, que reforça a importância do diálogo constante entre pais e filhos sobre o uso e as regras da tecnologia das redes sociais.
 
-Para saber mais, você pode conferir no [Portal para Mães e Pais](https://www.facebook.com/safety/parents), disponibilizado pelo Facebook. 
+Para saber mais, você pode conferir no [Portal para Mães e Pais](https://www.facebook.com/safety/parents), disponibilizado pelo Facebook.
 
 Confira algumas das dicas divulgadas pelo ministério:
 
@@ -57,5 +56,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

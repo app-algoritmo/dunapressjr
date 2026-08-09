@@ -8,14 +8,13 @@ categories:
 - News
 ---
 
-
-Defesa Civil Nacional vai criar um canal de comunicação direto entre os governos federal e local. 
+Defesa Civil Nacional vai criar um canal de comunicação direto entre os governos federal e local.
 
 Em projeto-piloto para auxiliar os municípios de Santa Catarina afetados pelo ciclone que atingiu o Sul do País na última semana deve ser implementado em breve, de acordo com a Defesa Civil Nacional. A iniciativa consistirá na criação de um canal de comunicação direto e permanente acessível entre profissionais do Ministério do Desenvolvimento Regional (MDR) e representantes das cidades que enfrentam o desastre natural. Ao todo, 152 localidades têm registros de prejuízos no estado. 
 
 Equipes federais responsáveis pela análise dos processos estarão disponíveis por meio de videoconferências para orientar os gestores locais na solicitação de recursos da União.
 
-“Temos orientação expressa do ministro Rogério Marinho e do presidente Jair Bolsonaro de permanecer aqui e percorrer todo o estado até que se tenha uma dimensão real do que está acontecendo, para que acionemos todos os ministérios e os órgãos que possam auxiliar o povo catarinense. Além disso, estamos criando uma linha direta entre a Defesa Civil Nacional e os municípios para ajudar no preenchimento de informações no [S2iD](https://s2id.mi.gov.br/) [Sistema Integrado de Informações sobre Desastres]. O objetivo é acelerarmos o processo de envio dos planos de trabalho para a obtenção de recursos federais”, afirma o secretário nacional de Proteção e Defesa Civil, coronel Alexandre Lucas. 
+“Temos orientação expressa do ministro Rogério Marinho e do presidente Jair Bolsonaro de permanecer aqui e percorrer todo o estado até que se tenha uma dimensão real do que está acontecendo, para que acionemos todos os ministérios e os órgãos que possam auxiliar o povo catarinense. Além disso, estamos criando uma linha direta entre a Defesa Civil Nacional e os municípios para ajudar no preenchimento de informações no [S2iD](https://s2id.mi.gov.br/) [Sistema Integrado de Informações sobre Desastres]. O objetivo é acelerarmos o processo de envio dos planos de trabalho para a obtenção de recursos federais”, afirma o secretário nacional de Proteção e Defesa Civil, coronel Alexandre Lucas.
 
 Equipes da Secretaria Nacional de Proteção e Defesa Civil (Sedec) vêm acompanhando – desde as primeiras ocorrências – a situação das fortes chuvas e vendavais decorrentes da passagem do ciclone. Técnicos do Centro Nacional de Gerenciamento de Riscos e Desastres (Cenad), da Defesa Civil Nacional, também estão em contato permanente com as defesas civis locais – estado e municípios atingidos – para a emissão de alertas, avaliação de riscos e de danos já provocados.
 
@@ -39,6 +38,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

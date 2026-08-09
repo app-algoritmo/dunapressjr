@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A cada quatro estudantes de graduação no Brasil, três frequentam estabelecimentos privados. Existem no país 2.608 instituições de educação superior. Dessas, 2.306 são privadas e 302 públicas. E, do total de matrículas na educação superior (8.604.526), a maior parte, 6.524.108, está na rede privada.
 
 As informações fazem parte do Censo da Educação Superior 2019, realizado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), e divulgado nesta sexta-feira (23) pelo ministro da Educação, Milton Ribeiro.
@@ -53,5 +52,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 Na tarde desta quinta-feira (25), o Ministro da Defesa, Fernando Azevedo, acompanhado por demais autoridades da Pasta, apresentou à imprensa balanço das atividades deflagradas, desde 20 de março, pela Operação Covid-19. A iniciativa de combate à pandemia do novo coronavírus no País envolve a atuação de 10 Comandos Conjuntos espalhados por todo o território brasileiro, além do Comando de Operações Aeroespaciais (COMAE), de funcionamento permanente.
 
 “A nossa atuação teve início com a Operação Regresso, que trouxe os brasileiros que se encontravam em Wuhan, na China”, lembrou o Ministro da Defesa. Ele traçou uma linha do tempo das atividades realizadas pelos militares envolvidos na Operação, para mitigar os efeitos da doença no País.
@@ -23,4 +22,4 @@ No decorrer desses três últimos meses, 572.220 cestas de mantimentos foram ent
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

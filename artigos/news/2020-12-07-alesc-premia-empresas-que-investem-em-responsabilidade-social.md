@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Assembleia Legislativa será palco, em cerimônia via online e transmitida ao vivo pela TVAL, na próxima segunda-feira (7), a partir das 19h, da cerimônia de premiação às empresas e organizações ganhadoras do Certificado e do Troféu de Responsabilidade Social – Destaque SC. Nesta edição, 77 organizações conquistaram a certificação e sete empresas e entidades, as que obtiveram as melhores avaliações de seus balanços sociais, receberão o Troféu Destaque.
 
 No momento em que se comemoram os dez anos da premiação, muitos procedimentos ocorreram por videoconferência. Devido à pandemia de Covid-19, todos os trabalhos tiveram que ser realizados virtualmente. Foram mais de 30 reuniões online, buscando a melhor forma de receber e analisar todas as inscrições de empresas e entidades catarinenses. O resultado foram 130 inscrições recebidas, 100 efetivadas e 77 empresas receberão a Certificação 2020.
@@ -32,7 +31,5 @@ Sua assinatura não somente ajudará no fornecerá notícias precisas, mas tamb�
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

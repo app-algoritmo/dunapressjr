@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Artistas e produtores têm até o dia 15 de outubro para participar da seleção.
 
 Artistas cênicos e produtores brasileiros têm até 15 de outubro para se inscreverem no Programa Iberescena 2020/2021 - Fundo de Ajuda para as Artes Cênicas Ibero-americanas. A iniciativa tem o objetivo de apoiar projetos que promovam a internacionalização e o intercâmbio de profissionais brasileiros, em parceria com representantes dos 16 países que integram o programa: Argentina, Bolívia, Brasil, Colômbia, Chile, Costa Rica, Cuba, Equador, El Salvador, Espanha, México, Panamá, Paraguai, Peru, Portugal e Uruguai. (Clique [aqui](http://www.iberescena.org/) para inscrições)
@@ -20,7 +19,7 @@ Imagem: Ricardo Boni/MTur
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

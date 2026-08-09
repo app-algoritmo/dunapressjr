@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em 12 meses, o investimento em máquinas e equipamentos aumentou 27,9%.
 
 O Indicador Mensal de Formação Bruta de Capital Fixo (FBCF), que são os investimentos, apontou recuo de 1,6% em novembro frente a outubro de 2021, na série com ajuste sazonal. Com esse resultado, o trimestre móvel terminado em novembro apresentou recuo de 2,1%. Em relação aos mesmos períodos de 2020, em novembro verificou-se expansão de 5,8% e, no trimestre móvel, houve crescimento de 9,9%.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

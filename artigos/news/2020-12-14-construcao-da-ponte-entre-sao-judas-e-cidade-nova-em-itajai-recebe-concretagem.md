@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A construção da nova ponte entre os bairros São Judas e Cidade Nova recebeu concretagem na terceira e última estrutura montada no leito do rio, na manhã desta sexta-feira (11). As três estruturas no Itajaí-Mirim servem de sustentação para a parte viária que ligará a rua Adolfo Batschauer, no São Judas, com o entroncamento das ruas Sidney Schulze e Otto Hoier, no Cidade Nova.
 
 A ponte terá 81,9 metros de extensão por 15 metros de largura, com um investimento de quase R$ 5 milhões. A obra é mais um importante projeto na revolução da mobilidade urbana de Itajaí. As próximas etapas serão a colocação das estruturas de cobertura do vão da ponte, a construção dos passeios públicos e a iluminação. A previsão de entrega é para março de 2021.
@@ -21,11 +20,6 @@ Mais pontes em Itajaí
 Outras duas pontes estão previstas para aumentar a capilaridade do trânsito de Itajaí com novas ligações entre os bairros. Uma delas ligará os bairros São João e São Vicente (obra já iniciada) e a outra ficará entre Cordeiros e São Vicente (pronta para início dos trabalhos).
 
 Com os serviços já iniciados, a próxima ponte em Itajaí ligará as ruas São Joaquim, no Bambuzal, e a Juca Cesário, no São João. A obra construirá uma ponte de 50 metros sobre o rio Itajaí-Mirim no valor de até R$ 5,8 milhões. O projeto prevê duas pistas, ciclovia e calçadas.
-
-- 
-- 
-- 
-- 
 
 A outra ponte entre a avenida Nilo Bittencourt, no São Vicente, e a rua Selso Duarte Moreira, no Cordeiros, terá início ainda neste ano. A obra está contratada por R$ 9,2 milhões e será equipada com quatro faixas de tráfego, mais ciclovia e passeio em cada lado. A nova estrutura ligará os dois bairros mais populosos de Itajaí.
 
@@ -41,7 +35,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

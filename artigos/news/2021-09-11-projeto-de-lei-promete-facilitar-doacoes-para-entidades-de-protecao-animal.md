@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Um projeto de lei do deputado federal Otavio Leite (PSDB-RJ) sugere a inclusão de entidades de proteção animal no Marco Regulatório das Organizações da Sociedade Civil (Lei 13.019/2014). Com isso, iniciativas em benefício dos animais terão maior chance de conseguir doações de empresas.
 
 Caso o PL 1891/2021 seja aprovado e torne-se lei, entidades em defesa dos animais poderão ser beneficiadas com apoio financeiro equivalente a até o limite de 2% da receita bruta das empresas, além de bens móveis apreendidos e disponibilizados pela Receita Federal.
@@ -24,7 +23,7 @@ O projeto de lei deve ser avaliado pelas comissões de Trabalho, Administração
 
 **[Clique aqui](https://forms.camara.leg.br/ex/enquetes/2283687)** para opinar sobre o projeto de lei.
 
-Créditos: [David Arioch](https://vegazeta.com.br/author/vegazeta_wp/)[ ](http://davidarioch.com/)[http://davidarioch.com](http://davidarioch.com/) Jornalista e especialista em jornalismo cultural, histórico e literário (MTB: 10612/PR)
+Créditos: [David Arioch](https://vegazeta.com.br/author/vegazeta_wp/)[http://davidarioch.com](http://davidarioch.com/) Jornalista e especialista em jornalismo cultural, histórico e literário (MTB: 10612/PR)
 
 Fonte: https://vegazeta.com.br/category/noticias/
 
@@ -37,7 +36,3 @@ Fonte: https://vegazeta.com.br/category/noticias/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

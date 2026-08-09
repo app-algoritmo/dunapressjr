@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Atrações irão abrir de forma gradativa atendendo às medidas de segurança necessárias.
 
 Turistas poderão voltar a visitar os principais pontos turísticos de Foz do Iguaçu (PR) em breve. Após dois meses fechados em decorrência da pandemia do novo coronavírus, as Cataratas, a Usina de Itaipu Binacional, o Marco das Três Fronteiras e o Parque das Aves vão retomar atendimentos de forma gradativa, atendendo às medidas de segurança necessárias.
@@ -29,5 +28,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Nova plataforma do Banco Central exigirá cadastro no Portal Gov.br.
 
 Retomado nesta segunda-feira (14), o sistema do Banco Central (BC) que permite a consulta a valores esquecidos em bancos e outras instituições financeiras funciona em novo endereço. Chamada de Sistema de Valores a Receber (SVR), a ferramenta passou a funcionar no *site*[** valoresareceber.bcb.gov.br**](https://valoresareceber.bcb.gov.br/), em ambiente desvinculado do Sistema Registrato, que hospedou o serviço nos primeiros dias de funcionamento.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Desejo de comprar é maior nas famílias com renda mais baixa.
 
 A Intenção de Consumo das Famílias (ICF) registrou, na passagem de abril para maio, um crescimento de 4,4%. É a quinta alta consecutiva do indicador, medido pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC).
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Fundo Nacional de Desenvolvimento da Educação (FNDE) pôs em consulta pública as especificações técnicas dos novos ônibus do programa Caminho da Escola. O objetivo é dar transparência ao processo licitatório dos veículos urbanos e rurais que estarão disponíveis para aquisição pelos estados e municípios a partir de 2021 e garantir a oferta de transporte que melhor se adéque às necessidades dos estudantes.
 
 O documento com todas as especificações técnicas dos ônibus ficará disponível no portal do FNDE, na aba [Compras Governamentais](https://www.fnde.gov.br/index.php/acoes/compras-governamentais/compras-nacionais/consultas-publicas/item/13553-consulta-p%C3%BAblica-n%C2%BA-1-2020-%C3%B4nibus-rural-escolar-e-%C3%B4nibus-urbano-escolar-acess%C3%ADvel), até o dia 22 de junho. A proposta é que sejam ouvidos fornecedores, representantes de montadoras de veículos e cidadãos em geral que queiram contribuir com a melhoria das políticas de transporte escolar.  As sugestões deverão ser enviadas para o e-mail [dpcon@fnde.gov.br](mailto:dpcon@fnde.gov.br). Todas serão respondidas durante o processo licitatório.
@@ -23,5 +22,3 @@ Entre o final de 2019 e início de 2020, o Ministério da Educação e o FNDE di
 Fonte: gov.br/mec / Imagem em destaque: MEC
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

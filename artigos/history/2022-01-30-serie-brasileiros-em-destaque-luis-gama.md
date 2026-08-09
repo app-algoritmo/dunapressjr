@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Luís Gonzaga Pinto da Gama foi um dos principais abolicionistas da história do país. Nasceu em 21 de junho de 1830, em Salvador/BA, filho da africana livre, Luiza Mahin e de pai fidalgo branco de origem portuguesa e família rica no Brasil. Apesar de uma vida cheia de conturbações, Luís Gama foi poeta, advogado, jornalista e patrono da cadeira nº15 da Academia Paulista de Letras.
 
 Aos 10 anos, Luís ficou sobre a guarda do pai, pois a mãe foi exilada por motivos políticos. O parentesco não evitou que o menino fosse vendido como escravo pelo próprio pai e levado para o Rio de Janeiro e depois para São Paulo. Foi comprado pelo alferes Antônio Pereira Cardoso, proprietário de uma fazenda no município de Lorena. Em 1847, o jovem estudante Antônio Rodrigues do Prado Júnior conheceu Luís, então com 17 anos, e o ensinou a ler e a escrever. Tempos depois, Luís fugiu da fazenda, em seguida passou pelo Exército e em 1854 passou a se dedicar aos movimentos sociais.
@@ -29,7 +28,3 @@ Fonte: https://www.palmares.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

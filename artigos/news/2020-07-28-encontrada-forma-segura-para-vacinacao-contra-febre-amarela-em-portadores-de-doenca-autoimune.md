@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Estudo coordenado no Hucam-Ufes/Ebserh, em parceria com outras instituições, revela que imunizante aplicado no ES funciona para grupo de pacientes.
 
 Estudo realizado no Hospital Universitário Cassiano Antônio Moraes (Hucam-Ufes) – integrante da Rede Ebserh -, em parceria com outras instituições, revela que, em condições controladas, a vacina para febre amarela usada nos postos de saúde do país foi eficaz e segura em portadores de doenças autoimunes, como a artrite reumatoide e o lúpus.
@@ -41,7 +40,7 @@ Fonte: gov.br / Imagem em destaque: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

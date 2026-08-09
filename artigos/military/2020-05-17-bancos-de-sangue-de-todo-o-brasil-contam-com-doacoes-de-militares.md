@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 Doar sangue é um gesto de solidariedade que salva vidas. E as doações não podem parar mesmo com a pandemia provocada pelo novo coronavírus. Sangue é imprescindível para pessoas em tratamento por diversas doenças, como anemias crônicas, câncer, febre amarela, entre outras necessidades.
 
 A doação de sangue é uma prática comum entre os militares das Forças Armadas e incentivada nas organizações militares. No atual cenário, a iniciativa ganhou ainda mais relevância. Na Região Sul, foram realizadas mais de 3 mil doações de sangue desde o começo da Operação Covid-19, em 20 de março, por militares das três Forças de Defesa.
@@ -31,5 +30,3 @@ Para doar sangue, os requisitos são:
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

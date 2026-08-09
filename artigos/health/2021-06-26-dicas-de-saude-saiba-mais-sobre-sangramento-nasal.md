@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Pelo menos uma vez na vida, 60% das pessoas terão sangramento nasal (epistaxe, em linguagem médica). Ocorre mais comumente nas crianças com menos de 10 anos e em adultos com mais de 35.
 
 A quase totalidade dos sangramentos ocorre na parte da frente do septo que separa as narinas – a parte mais móvel, elástica. Apenas 10% acontecem na parte de trás do septo – a parte fixa e dura – ou nas paredes internas das asas laterais do nariz. Esse tipo, na parte de trás, é mais comum depois dos 60 anos.
@@ -56,7 +55,3 @@ Fonte: https://bvsms.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

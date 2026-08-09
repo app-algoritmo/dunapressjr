@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice é maior que o de fevereiro (0,40%).
 
 O Índice de Preços ao Consumidor–Classe 1 (IPC-C1), que mede a variação da cesta de compras de famílias com renda até 2,5 salários mínimos, teve inflação de 0,82% em março deste ano. A taxa é maior que as apuradas em fevereiro deste ano (0,40%) e em março do ano passado (0,49%).
@@ -24,10 +23,6 @@ O IPC-C1 é calculado com base em preços coletados em sete capitais: São Paulo
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. 
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

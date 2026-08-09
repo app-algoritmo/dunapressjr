@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Pico de incerteza ocorreu no mês de abril.
 
 O Indicador de Incerteza da Economia (IIE-Br), divulgado hoje (30) pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV Ibre) caiu 3,5 pontos em dezembro, fechando o ano em 142,3 pontos. O número é 27,2 pontos acima do verificado em fevereiro de 2020, antes do início da pandemia de covid-19 no Brasil, e 5,5 pontos acima do nível máximo registrado antes desse período, em setembro de 2015.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

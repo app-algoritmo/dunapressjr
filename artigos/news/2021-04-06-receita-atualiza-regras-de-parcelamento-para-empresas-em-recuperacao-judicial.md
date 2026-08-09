@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Lei nº 14.112/2020 aumentou de 84 para 120 meses o prazo de parcelamento de débitos tributários sob responsabilidade de empresário ou sociedade em processo de recuperação judicial.
 
 O prazo de parcelamento de débitos tributários para empresário ou sociedade em situação de falência foi aumentado de 84 para 120 meses, por determinação da [Lei nº 14.112/2020](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/L14112.htm), que atualiza a legislação referente à recuperação judicial, à recuperação extrajudicial e à falência. A norma também reduziu o valor inicial das prestações mediante alterações na sistemática de cálculo, e instituiu nova modalidade de parcelamento, que possibilita a inclusão de tributos passíveis de retenção na fonte e o Imposto sobre Operações Financeiras (IOF) retido e não recolhido ao Tesouro Nacional.
@@ -20,10 +19,6 @@ O cadastramento deve ser feito mediante apresentação de requerimento de LDC, c
 
 Fonte: Ministério da Economia
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.   
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)  
-
-Obrigado pelo apoio!  
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 De acordo com ministério do Desenvolvimento Regional, quase dois milhões de famílias serão atendidas com obras de saneamento em 2020.
 
 Com a importância da água para os cuidados de higiene na prevenção ao novo coronavírus, o Ministério do Desenvolvimento Regional liberou, em maio, R$ 30,1 milhões para obras de saneamento básico em todas regiões do país.
@@ -16,7 +15,7 @@ Além da importância de garantir a continuidade das obras para manter empregos 
 
 “Cada real investindo em saneamento básico permite a economia de R$ 4 em saúde pública. O investimento permite que você tenha uma melhor agilização e racionalidade do recurso no Sistema Único de Saúde (SUS). Isso melhora a produtividade porque diminui mortalidade infantil, melhora a qualidade de vida e uma série de doenças endêmicas, crônicas, do século passado vão deixar de grassar entre a população mais humilde do nosso país”, disse o ministro.
 
-De acordo com Marinho, a estimativa é que as ações do Ministério do Desenvolvimento Regional permitam que quase 2 milhões de famílias sejam atendidas com obras de saneamento em 2020. 
+De acordo com Marinho, a estimativa é que as ações do Ministério do Desenvolvimento Regional permitam que quase 2 milhões de famílias sejam atendidas com obras de saneamento em 2020.
 
 **Uma nova lei para o saneamento **
 
@@ -39,5 +38,3 @@ Fonte: gov.br – Imagem de destaque: MDR 
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

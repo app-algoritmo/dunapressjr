@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Juros básicos são o principal instrumento para segurar inflação.
 
 Atualmente em 4,25% ao ano, a taxa Selic interfere direta e indiretamente no dia a dia dos brasileiros. Definida como os juros básicos da economia, essa taxa serve de base para os demais juros cobrados nas operações de crédito e em boa parte dos investimentos em renda fixa. Na prática, a Selic representa a origem de diversos processos que regem a economia e é o principal instrumento do Banco Central (BC) para segurar a inflação.
@@ -40,10 +39,6 @@ O segundo canal são os investimentos em renda fixa. Como a taxa Selic influenci
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

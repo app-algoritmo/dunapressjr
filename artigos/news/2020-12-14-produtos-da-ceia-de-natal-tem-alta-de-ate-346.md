@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A tradicional ceia natalina de 2020 ficará mais cara na mesa dos itajaienses. Alguns alimentos, como o bacalhau, alcançaram 346,6% de aumento no preço médio. Na soma dos preços de 23 produtos da ceia, a diferença em relação a 2019 pode variar até R$ 254. A ceia com a média de preços em 2019 custava R$ 707,03, enquanto que neste ano sairá por R$ 960,70 (aumento de 33,3%). As informações são da Procuradoria de Defesa do Consumidor (Procon) de Itajaí nos primeiros dias dezembro em oito estabelecimentos da cidade.
 
 Além do bacalhau, outros itens com grande variação foram os quilos do pernil suíno (89,3%) e da cereja (85,8%). Dos 23 itens, apenas quatro registraram queda nos preços. A castanha do Pará puxa as quedas com 5% de baixa no preço do quilo, o panetone está 2,7% mais barato que em 2019, além do chocotone e do quilo do salmão com descontos abaixo de 1%.
@@ -28,7 +27,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

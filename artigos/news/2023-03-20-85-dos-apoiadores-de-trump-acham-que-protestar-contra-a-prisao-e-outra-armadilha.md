@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Uma esmagadora maioria dos entrevistados na plataforma Truth Social de Donald Trump suspeita que as manifestações contra a prisão do ex-presidente tornarão os manifestantes suscetíveis a uma armação no estilo de 6 de janeiro.
 
 Quando [questionados](https://summit.news/2023/03/20/85-per-cent-of-trump-supporters-think-protesting-against-arrest-is-a-january-6-style-trap/) se o potencial protesto contra a prisão de Trump é “uma armadilha do estilo J6”, impressionantes 85% dos apoiadores de Trump responderam afirmativamente.
@@ -42,7 +41,7 @@ As evidências produzidas na conspiração sediciosa dos Proud Boys confirmam qu
 
 O presidente da Câmara, Kevin McCarthy, R-CA, criticou Bragg no domingo por “abusar de seu cargo” ao visar Trump enquanto [facilitava o crime em Nova York](https://www.thegatewaypundit.com/2023/03/nypd-officers-retiring-at-record-pace-as-crime-in-the-city-keeps-rising/) .
 
-“Alvin Bragg está abusando de seu cargo para atingir o presidente Trump enquanto reduz a maioria dos crimes, incluindo crimes violentos, a contravenções. Ele tem regras diferentes para oponentes políticos”, disse McCarthy no Twitter, após Trump dizer em seu Truth Social que acredita que será preso na próxima semana após “vazamentos ilegais”.[](https://widget.adcovery.com/wc/3600/13529/15982/15982,15825,14413.html)[](https://widget.adcovery.com/wc/3600/13529/15982/15982,15825,14413.html)
+“Alvin Bragg está abusando de seu cargo para atingir o presidente Trump enquanto reduz a maioria dos crimes, incluindo crimes violentos, a contravenções. Ele tem regras diferentes para oponentes políticos”, disse McCarthy no Twitter, após Trump dizer em seu Truth Social que acredita que será preso na próxima semana após “vazamentos ilegais”.
 
 https://twitter.com/SpeakerMcCarthy/status/1637537862609453058?t=_qFd2fwxEQg9Uvv3CVXnEw&s=19
 

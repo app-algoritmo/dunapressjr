@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Taxa é superior à observada em maio (0,21%).
 
 O Índice Nacional de Custo da Construção - M (INCC-M), medido pela Fundação Getulio Vargas (FGV), subiu para 0,32% em junho. A taxa é superior à observada em maio (0,21%). Com isso, o indicador acumula taxas de inflação de 1,69% no ano e de 4,01% em 12 meses.
@@ -18,4 +17,4 @@ Os serviços tiveram inflação de 0,19% no mês. Já a mão de obra manteve o m
 
 Fonte: Agência Brasil – Imagem de destaque: Arquivo/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

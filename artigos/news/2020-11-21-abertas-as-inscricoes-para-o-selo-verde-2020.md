@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Estão abertas a partir desta sexta-feira (20) as inscrições para a 3ª edição do Selo Verde. O programa, de iniciativa do Município de Itajaí por meio do Instituto Itajaí Sustentável, visa a destacar as ações sustentáveis desenvolvidas por empresas da cidade. A proposta da certificação é estimular o cumprimento dos Objetivos de Desenvolvimento Sustentável (ODS), iniciativa da Organização das Nações Unidas (ONU), reconhecendo as entidades públicas, empresas e organizações que realizam práticas socioambientais.
 
 As inscrições, que podem ser feitas no link: [https://inis.itajai.sc.gov.br/selo-verde](https://inis.itajai.sc.gov.br/selo-verde), prosseguem até o dia 20 de dezembro. No referido site, também está disponível o Regulamento do Selo Verde, a metodologia utilizada no processo e o passo a passo para que o empreendimento solicite a certificação, além de formulário próprio para inscrição.
@@ -33,5 +32,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

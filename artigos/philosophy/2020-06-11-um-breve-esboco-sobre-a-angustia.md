@@ -7,14 +7,13 @@ categories:
 - Philosophy
 ---
 
-
 A angústia é um estado em que estamos quando nosso espírito se encontra inquieto por aflições e dores. Ela é tão inerente ao homem quanto as penas é a um pássaro. Nós não podemos nos esquivar deste sentimento, e quando nos empossa, encontramo-nos então em completo dilema existencial.
 
 A busca de um indivíduo para uma estada existencial ideal sempre terá seu fim na tranquilidade e conforto na vida. Quando nosso espírito se encontra nestas condições, estará então em completa harmonia com a natureza e seus iguais. Podemos dizer que o oposto deste estado é então ignorado pelo homem, e repudiado quando este se manifesta. A angústia se encontra aqui como mal ao homem.
 
 Apesar deste ser um estado que por vezes nos abaterá sem consentimentos, há reflexões ou experiências que nos colocam em sensação de angústia, isso em qualquer classe ou oficio.
 
-Um sonhador, por exemplo, pode se angustiar ao pensar no quão finito e infinito é como ser humano, ele irá contemplar os mais longínquos cantos do seu pensamento como de costume, e se impressionara com o seu próprio infinito. Em contrapartida, ao ser forçado a viver sua existência real e física, irá notar em cada detalhe as suas fraquezas e limitações, entendendo no fim a finitude mundana frente a morte certa.  
+Um sonhador, por exemplo, pode se angustiar ao pensar no quão finito e infinito é como ser humano, ele irá contemplar os mais longínquos cantos do seu pensamento como de costume, e se impressionara com o seu próprio infinito. Em contrapartida, ao ser forçado a viver sua existência real e física, irá notar em cada detalhe as suas fraquezas e limitações, entendendo no fim a finitude mundana frente a morte certa.
 
 Já um homem comum, vivendo nos dias atuais, poderá certamente se angustiar ao ver sua liberdade e controle de sua vida sendo podados gradualmente frente as precauções contra a pandemia imposta pela covid-19. Nós, por natureza, nos sentimos seguros quando temos em nosso controle o ir e vir, o “o que fazer a está noite” ou “amanhã irei ao parque com meu filho” por exemplo. Sem isso, uma angústia nos apodera frente nossas novas limitações. E até tornar-se isto um habito a ponto de não nos cometer mais dor, sofreremos e nos alimentaremos disto mais e mais.
 
@@ -44,4 +43,4 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-[https://dunapress.org/subscription-plan/?aff=Vitor](https://dunapress.org/subscription-plan/?aff=Vitor)
+[https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)

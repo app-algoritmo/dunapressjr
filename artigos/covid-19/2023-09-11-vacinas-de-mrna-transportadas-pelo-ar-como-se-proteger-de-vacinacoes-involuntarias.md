@@ -7,7 +7,6 @@ categories:
 - Covid-19
 ---
 
-
 É difícil acreditar que as pessoas dispostas a tirar o seu emprego ou a negar-lhe uma cirurgia que salvará a sua vida porque você não está vacinado também possam tentar vaciná-lo secretamente contra a sua vontade?
 
 Imagine isto: você tem a tarefa de vacinar a população, mas há um grande grupo de pessoas que simplesmente não participa, não importa o que você ofereça ou tire. Essa população não conforme (os não vacinados) representava entre 19 e 30 por cento da população dos EUA durante o COVID-19, dependendo de como você calcula os números, de acordo com um relatório do Epoch [Times](https://www.theepochtimes.com/epochtv/researchers-create-aerosolized-mrna-covid-vaccinefacts-matter-5485207?utm_source=prtnrhard&utm_campaign=vigilantf&src_src=prtnrhard&src_cmp=vigilantf) .
@@ -62,6 +61,6 @@ De acordo com o Dr. Substack de McCullough, as dosagens recomendadas no protocol
 
 Mais informações sobre este protocolo podem ser encontradas [aqui](https://vigilantnews.com/post/first-ever-spike-detox-protocol-appears-in-medical-journal-heres-how-you-can-get-better) .
 
-Para nattokinase de alta qualidade, o Dr. [Fórmula de suporte Spike](https://www.twc.health/collections/signature/products/long-haul-formula?ref=bMMTPPFDupnpaP&utm_source=vigilantnews) de McCullough , que também contém raiz de dente-de-leão, selênio e uma série de outros ingredientes promissores que podem proteger você e sua família dos efeitos de longo prazo das proteínas Spike.
+Para nattokinase de alta qualidade, o Dr. [Fórmula de suporte Spike](https://www.twc.health/collections/signature/products/long-haul-formula&utm_source=vigilantnews) de McCullough , que também contém raiz de dente-de-leão, selênio e uma série de outros ingredientes promissores que podem proteger você e sua família dos efeitos de longo prazo das proteínas Spike.
 
 Fonte: [Vigilant Fox](https://vigilantfox.substack.com/p/mrna-vaccines-go-airborne-how-to?utm_source=post-email-title&publication_id=975571&post_id=136681006&utm_campaign=email-post-title&isFreemail=true&r=pf6gr&utm_medium=email)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A informação foi divulgada hoje pela FGV.
 
 O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), que mede a prévia da inflação oficial do país, registrou taxa de 0,48% em fevereiro. O índice ficou abaixo do 0,78% observado em janeiro deste ano, mas acima do 0,22% de fevereiro do ano passado.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Cresce o número de estados brasileiros que já contam com o selo Safe Travels do Conselho Mundial de Viagens e Turismo (WTTC), um reconhecimento pela adoção de protocolos de biossegurança contra o novo coronavírus. É o caso de Alagoas, Ceará, Mato Grosso do Sul, Minas Gerais, Pará, Pernambuco, Rio de Janeiro, Rio Grande do Norte, Santa Catarina e São Paulo, que adotam protocolos globais de saúde e higiene no contexto da Covid-19.
 
 Os pré-requisitos para a obtenção do selo, que tem o apoio da Organização Mundial do Turismo (OMT) e de cerca de 200 grandes empresas do setor em todo o mundo, são atualizados conforme as informações disponíveis sobre a Covid-19. A marca segue recomendações da Organização Mundial da Saúde (OMS) e do Centro de Controle e Prevenção de Doenças (CDC), agência do Departamento de Saúde e Serviços Humanos dos Estados Unidos.
@@ -28,7 +27,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

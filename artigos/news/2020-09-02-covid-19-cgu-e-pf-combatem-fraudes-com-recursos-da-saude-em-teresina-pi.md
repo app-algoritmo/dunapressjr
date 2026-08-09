@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Operação Caligo investiga compra de máscaras e prejuízo decorrente de pagamentos por EPIs adquiridos pelo município que não teriam sido entregues.
 
 A Controladoria-Geral da União (CGU) participa, nesta quarta-feira (2), no Piauí, da Operação Caligo. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é aprofundar investigações acerca de fraude e de compra superfaturada em um processo de dispensa de licitação conduzido pela Fundação Municipal de Saúde (FMS) de Teresina (PI) e acerca de pagamentos efetuados pela Fundação por produtos com indícios de sobrepreço e que não teriam sido fornecidos no âmbito de outro processo de dispensa de licitação por uma das empresas envolvidas.
@@ -29,5 +28,3 @@ A Operação Caligo consiste no cumprimento de dez mandados de busca e apreensã
 Fonte: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

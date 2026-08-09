@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Na forca em 16 de outubro de 1946, o enforcamento do editor de “Der Stürmer” Julius Streicher não saiu como planejado.
 
 Supostamente, o carrasco “estragou” a execução de 15 minutos para infligir mais dor ao impenitente Streicher. Durante esse tempo, o nazista condenado recitou alguns epitáfios memoráveis, incluindo um ligando-o ao vilão de Purim.
@@ -81,7 +80,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

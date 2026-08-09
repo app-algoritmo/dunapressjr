@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Mais de 95% do público recebem os recursos via Auxílio Emergencial, com repasse médio de R$ 1.115. Investimento do Governo Federal é de R$ 15,2 bilhões.
 
 O programa Bolsa Família chegou a 14,283 milhões de famílias em todo o país no mês de julho. O pagamento iniciado no dia 20 segue até 31 de julho. Mais de 95% do público beneficiário recebeu o Auxílio Emergencial do Governo Federal destinado às pessoas mais vulneráveis para ajudar no enfrentamento da crise causada pelo novo coronavírus. Com esse recurso, a renda média das famílias foi de R$1.115,05, num investimento de mais de R$ 15,1 bilhões do Governo Federal.
@@ -30,7 +29,7 @@ Imagem: Sergio Amaral/Min. Cidadania
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 Nossos Valores de Assinatura

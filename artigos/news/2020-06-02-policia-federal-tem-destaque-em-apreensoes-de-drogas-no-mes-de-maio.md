@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Brasília/DF** - A Polícia Federal deflagrou, no mês de maio, diversas ações que resultaram em apreensões de grande quantidade de drogas em todo o Brasil.
 
 As ações foram desenvolvidas em diversos estados da federação, alcançando o Amazonas, Ceará, Mato Grosso do Sul, Minas Gerais, Paraná, Rio Grande no Norte e Sergipe; atacando os múltiplos modais adotados por traficantes de drogas, quais sejam, aéreo, marítimo, rodoviário e utilização das estruturas aeroportuárias.
@@ -29,5 +28,3 @@ Esclarece-se que, mesmo diante de todas as relevantes apreensões realizadas, co
 Apesar das restrições impostas neste período de pandemia, a Polícia Federal segue vigilante na sua missão de reprimir a atuação de criminosos e firme em seu compromisso com a sociedade brasileira.
 
 ***Comunicação Social da PF***
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

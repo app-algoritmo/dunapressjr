@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Nas primeiras horas de 19 de junho de 1946, o Wedgwood, um ex-navio da marinha canadense disfarçado de banana boat, se afastou silenciosamente de Vado, na costa da Riviera italiana.
 
 Mas o navio não carregava frutas; Em vez disso, estavam a bordo mais de 1.000 sobreviventes do Holocausto com destino secreto para o Mandato da Palestina. As condições a bordo da corveta extremamente superlotada eram terríveis - a água estava racionada e o saneamento deficiente - e antes de chegar ao seu destino, o navio teria que executar o bloqueio naval que a Grã-Bretanha impôs para impedir a imigração judaica.
@@ -99,7 +98,7 @@ Klausner logo descobriu que, como fez um apelo desesperado às organizações ju
 
 Para ajudar a reunir famílias e amigos, Klausner começou a reunir uma lista de sobreviventes - deliciado em tê-la impressa em Landsberg, a cidade onde Hitler escreveu “Mein Kampf” - e em Munique estabeleceu um escritório de informações. Em uma das primeiras edições de sua lista regularmente atualizada e publicada, Klausner informou aos leitores que, ao contrário da política militar, “nenhum judeu precisa retornar à sua terra natal”.
 
-Rabino Abraham Klausner, sem chapéu, centro-esquerda, com sobreviventes no campo de deslocados. 
+Rabino Abraham Klausner, sem chapéu, centro-esquerda, com sobreviventes no campo de deslocados.
 (Cortesia Amos Klausner)
 
 Grinberg, por sua vez, convenceu um simpático oficial americano a permitir que ele, sob o pretexto de ser um representante da Cruz Vermelha Internacional, assumisse parte de um hospital militar no mosteiro de St. Ottilien, na Baviera. Foi uma tábua de salvação vital, onde Grinberg ajudou a cuidar dos sobreviventes, alguns dos quais navegaram no Wedgwood, de volta à saúde.
@@ -158,9 +157,9 @@ Sereni, filha de uma das famílias judias italianas mais ricas, emigrou para a P
 
 Arazi e Sereni formaram o que Whitehouse chama de “dupla dinâmica”, com mais navios partindo da Itália para a Palestina sob seu comando - 56 ao todo - do que qualquer outro país europeu. Os contatos de Sereni, inclusive com as autoridades italianas, foram inestimáveis. O mesmo aconteceu com sua capacidade de ajudar Arazi a tecer uma série de acordos com mercadores, proprietários de navios e estaleiros, e aqueles cujo dinheiro financiaria a operação.
 
-- Yehuda Arazi, que co-dirigiu a operação italiana Aliyah Bet. 
+- Yehuda Arazi, que co-dirigiu a operação italiana Aliyah Bet.
 (Cortesia Orli Bach
-- Ada Sereni, agente parceira de Yehuda Arazi. 
+- Ada Sereni, agente parceira de Yehuda Arazi.
 (Cortesia Haim Confino)
 
 Com sede em Milão, a “gangue” de Arazi, como ficou conhecida, transportava sobreviventes da Europa Central e Oriental para a Itália, recolhendo os “suprimentos” necessários para suas viagens das bases aliadas. Muitos soldados britânicos na Itália, acredita Whitehouse, estavam bem cientes desse subterfúgio e optaram por fechar os olhos.
@@ -201,7 +200,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

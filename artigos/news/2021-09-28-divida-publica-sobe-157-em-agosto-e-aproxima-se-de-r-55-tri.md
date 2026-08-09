@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alta da Selic atraiu interesse em títulos vinculados a juros básicos.
 
 Mesmo com queda expressiva das emissões de títulos públicos, a Dívida Pública Federal (DPF) subiu em agosto e aproximou-se de R$ 5,5 trilhões. Segundo números divulgados nesta segunda-feira (27) pelo Tesouro Nacional, a DPF passou de R$ 5,396 trilhões em julho para R$ 5,481 trilhões em agosto, alta de 1,57%.
@@ -48,10 +47,6 @@ Por meio da dívida pública, o governo pega dinheiro emprestado dos investidore
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

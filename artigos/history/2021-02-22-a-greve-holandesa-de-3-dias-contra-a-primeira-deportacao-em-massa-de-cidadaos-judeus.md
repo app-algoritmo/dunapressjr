@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Oitenta anos atrás, a Holanda se tornou o primeiro e único país ocupado pelos nazistas a organizar uma greve nacional para protestar contra a perseguição de seus cidadãos judeus.
 
 A chamada “Greve de Fevereiro” foi o primeiro protesto público em grande escala contra o ataque da Alemanha à Europa. A lembrança do evento evoluiu ao longo das décadas de uma narrativa da resistência holandesa para a narrativa mais complicada do Holocausto, em que 100.000 judeus holandeses foram deportados e assassinados.
@@ -89,7 +88,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

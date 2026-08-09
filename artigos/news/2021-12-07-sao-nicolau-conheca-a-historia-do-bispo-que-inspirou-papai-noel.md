@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Sinterklaasfeest comemora o início das festas de fim de ano; tradição holandesa é celebrada no Brasil.
 
 Não é só o Papai Noel que chega para trazer os presentes das crianças no mês de dezembro. Conhecido como São Nicolau ou "Sinterklaas", o tradicional personagem da cultura holandesa desfila em seu cavalo pelas ruas da cidade distribuindo mimos para as crianças que colocam sapatos na lareira para que o amigo das crianças deixe um presente durante a noite; cenouras também são colocadas para alimentar o cavalo.
@@ -33,7 +32,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

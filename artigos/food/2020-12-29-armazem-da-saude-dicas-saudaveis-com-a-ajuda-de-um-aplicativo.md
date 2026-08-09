@@ -7,12 +7,11 @@ categories:
 - Food
 ---
 
-
 Você sabia que manter alimentação saudável, peso corporal adequado e prática de atividade física estão entre as principais formas de se prevenir o câncer? Tendo essa informação como pano de fundo, o Instituto Nacional do Câncer (INCA) desenvolveu o aplicativo Armazém da Saúde.
 
 A ferramenta funciona como uma espécie de “mercado virtual”, cujo objetivo é fazer com que o usuário simule suas compras habituais de alimentos. A partir das escolhas feitas, ao final das compras, o aplicativo fornece informações sobre os itens comprados e, se for o caso, oferece sugestões de como o usuário pode ter uma alimentação mais saudável.
 
-De uma forma bem lúdica, o aplicativo é ainda uma boa opção para quem não sabe por onde começar o planejamento das compras com escolhas mais saudáveis. Além disso, a ferramenta ainda oferece alguns desafios e missões para promover a adoção de novos comportamentos no dia a dia do usuário. 
+De uma forma bem lúdica, o aplicativo é ainda uma boa opção para quem não sabe por onde começar o planejamento das compras com escolhas mais saudáveis. Além disso, a ferramenta ainda oferece alguns desafios e missões para promover a adoção de novos comportamentos no dia a dia do usuário.
 
 ## **Como funciona o aplicativo?**
 
@@ -62,7 +61,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

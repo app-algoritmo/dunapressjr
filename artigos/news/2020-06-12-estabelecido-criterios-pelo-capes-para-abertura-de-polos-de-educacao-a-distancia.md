@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Portaria orienta instituições de ensino sobre estrutura necessária e formas de avaliação dos espaços.
 
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) publicou normas para o funcionamento dos polos que irão oferecer cursos de pós-graduação stricto sensu no modelo de educação a distância. A [portaria](http://cad.capes.gov.br/ato-administrativo-detalhar?idAtoAdmElastic=4056#anchor) orienta as instituições de ensino superior sobre a estrutura necessária e formas de avaliação dos espaços.
@@ -33,8 +32,6 @@ Em 2019, 17 instituições enviaram propostas para a criação de novos cursos d
 Até o momento, apenas propostas para a criação de cursos de mestrado a distância foram aceitas.
 
 Fonte: gov.br/mec / Imagem em destaque: infoescola.com
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O estudo acompanhou 2 milhões de membros do fundo de saúde Clalit. Resultados significativamente piores (incluindo miocárdio) para infectados vs. vacinados.
 
 Um novo estudo comparando os efeitos colaterais da vacina contra o coronavírus às complicações do próprio coronavírus está sendo publicado na quinta-feira no New England Journal of Medicine. O estudo de pesquisa, que foi conduzido pelo fundo de saúde Clalit junto com a Universidade de Harvard, acompanhou dois milhões de casos, todos membros do Clalit.
@@ -40,5 +39,3 @@ Fonte: https://www.israelnationalnews.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

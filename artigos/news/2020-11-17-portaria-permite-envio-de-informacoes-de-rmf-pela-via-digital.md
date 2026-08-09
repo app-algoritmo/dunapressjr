@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Requisição de Informações sobre Movimentação Financeira (RMF) é instrumento utilizado para fiscalizações da Receita Federal.
 
 A Portaria RFB nº 2.047, de 26 de novembro de 2014, que trata da solicitação e emissão da Requisição de Informações sobre Movimentação Financeira (RMF), foi alterada para permitir que as informações enviadas possam ser enviadas de maneira eletrônica para a Receita Federal. A alteração foi publicada no Diário Oficial da União hoje, através da [Portaria RFB nº 4.747/2020](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=113718).
@@ -19,5 +18,3 @@ Atualmente, o trâmite das informações é realizado somente via Correios ou pe
 Fonte: gov.br – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

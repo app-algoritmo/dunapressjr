@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O valor é 17,96% maior em relação a junho de 2021.
 
 A arrecadação total das Receitas Federais fechou o mês de junho em R$ 181,04 bilhões, informou nesta quinta-feira (21) o Ministério da Economia. O valor representa um acréscimo real de 17,96% em relação a junho de 2021, descontada a inflação medida pelo Índice de Preços ao Consumidor Amplo (IPCA). Esse é o melhor desempenho arrecadatório para o mês de junho desde 2000. No período acumulado de janeiro a junho de 2022, a arrecadação alcançou R$ 1,09 trilhão.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Chronicle
 ---
 
-
 Por Tim Urban
 
 ## **Como colonizar Marte**
@@ -38,11 +37,7 @@ Especificamente, o modelo que Musk tem em mente é que os "voos" para Marte ser�
 
 Então meio que gosto:
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/Venn3.png)
-
 O problema é que agora é mais parecido com:
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/Venn2.png)
 
 Uma vez que Musk acha que a vontade (o círculo amarelo) crescerá de acordo quando houver uma *maneira* viável , Musk identifica o minúsculo círculo azul como o fator limitante crítico: o custo dramaticamente alto demais das viagens espaciais. E consertar isso, ele acredita, será o elo principal entre A e B.
 
@@ -72,13 +67,11 @@ Mas de volta à realidade por um segundo. Se você decidisse que revolucionar o 
 
 Então essa é a lógica que Musk pensou em 2001 e ditou o plano de negócios da SpaceX:
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/SpaceX-Business-Plan.png)
-
 A SpaceX está nisso há 13 anos. Vamos repassar o que aconteceu até agora e o que ainda está por vir.
 
 **Fase 1: descobrir como colocar as coisas no espaço**
 
-**Personagem Principal:** Falcão 1 
+**Personagem Principal:** Falcão 1
 
 **Objetivo:** Lançar algo em órbita antes que Musk fique sem dinheiro
 
@@ -134,21 +127,13 @@ Finalmente, um **foguete** não é uma coisa. Um foguete é um termo usado para 
 
 As missões Apollo foram à lua usando um foguete enorme chamado Saturno V. Saturno V pesava 3.000 toneladas - cerca de sete Boeing 747s - e tinha a altura de um prédio de 35 andares.[5](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/3#)
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/SATURN1.gif)
-
 Saturno V era como um daqueles [conjuntos de bonecas](http://previews.123rf.com/images/nineeak/nineeak1108/nineeak110800011/10313040-russian-doll-babushka-single-row--Stock-Photo.jpg) russas satisfatórios, onde fica cada vez menor. Aqui estão todas as peças:[6](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/3#)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/SATURN.jpg)
 
 O Ônibus Espacial, com uma tarefa muito mais simples de entrar apenas na Órbita Terrestre Baixa, adotou uma abordagem totalmente diferente.
 
 Em vez de um grande foguete de primeiro estágio, o Ônibus Espacial usava dois foguetes (chamados de impulsionadores de foguetes sólidos)[5](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/3#)para fazer a parte pesada da subida, e a carga útil - pessoas e equipamentos - viajou na espaçonave, que eles realmente fizeram parecer uma nave espacial estereotipada. A espaçonave forneceu o resto do impulso depois que os foguetes caíram, usando o combustível do grande tanque laranja. Normalmente, o retorno da espaçonave[6](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/3#) pousou no oceano usando pára-quedas, mas o ônibus espacial fez uma abordagem mais civilizada, pousando em uma pista como um avião:[7](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/3#)
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/Space_shuttle_mission_profile.jpg)
-
 Quando a SpaceX fez seu primeiro foguete, eles não estavam tentando fazer a coisa maior e pior que já foi feita. Em vez disso, eles construíram o que era uma espécie de foguete com rodinhas de treinamento, um foguete pequeno e simples Musk chamado **Falcon 1** (em homenagem ao Millennium Falcon em *Guerra nas Estrelas* ). Era um foguete de dois estágios de 70 pés de altura (21 m) com um motor superpotente na parte inferior - a própria invenção da SpaceX, o motor Merlin.[8](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/3#)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/SPAC_Falcon_1_Vertical_lg.jpg)
 
 Apesar de seu tamanho e capacidade modestos, o Falcon 1 estava repleto de novas tecnologias inovadoras. O objetivo principal era tornar mais barato do que nunca levar pequenas cargas úteis para o espaço - não apenas porque Musk vê a redução de custos como uma forma de nos levar a Marte, mas porque ele a vê como o único aspecto das viagens espaciais que atualmente *pode* ser melhorado de forma significativa. Ele diz: “A velocidade de um foguete sempre será aproximadamente a mesma. A conveniência e o conforto serão praticamente os mesmos. Confiabilidade ... não haverá muitas melhorias nisso. Então, você realmente fica com um parâmetro-chave contra o qual as melhorias de tecnologia devem ser avaliadas, e isso é o custo. ”
 
@@ -172,8 +157,6 @@ Para entender por que isso é tão difícil de fazer, temos que entender o que �
 
 Vamos voltar para a escola por um segundo. Esta é a equação que usamos para descobrir a força da gravidade:
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/Gravity-Equation.png)
-
 **G** é a constante gravitacional, um número supersônico que podemos ignorar neste exercício.
 
 **m 1 e m 2** são as massas dos dois objectos. Existem dois objetos porque a gravidade não é uma coisa unilateral - cada dois objetos se atraem com uma força igual. No caso de você e da Terra, o que você pensa como seu peso *é* a força da gravidade entre você e a Terra, uma força que age igualmente em você e no planeta.[7](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/3#)E porque os dois números de massa estão no numerador, isso significa que quando eles sobem, a força da gravidade também aumenta (proporcional ao seu produto). Então, se eu dobrar sua massa, seu peso dobrará. Se eu deixasse sua massa igual, mas dobrasse a massa da Terra - novamente, seu peso dobraria. Se eu dobrasse *a* sua massa e a da Terra, seu peso *quadruplicaria. *Para nossos propósitos neste post, não precisamos trabalhar com massa.
@@ -181,8 +164,6 @@ Vamos voltar para a escola por um segundo. Esta é a equação que usamos para d
 O que nos preocupa é a parte **d 2** . *d* é a distância entre os dois objetos - ou mais especificamente, a distância entre os *centros de massa* dos dois objetos. No caso da Terra, a massa é distribuída simetricamente, então o centro de massa é o centro do planeta. O raio da Terra é de 3.959 milhas (6.371 km), então quando você está na superfície da Terra, esse é o número que você usa para *d* para determinar a força da gravidade que está experimentando. Como *d* está no denominador da equação, à medida que *d* aumenta, a força da gravidade diminui.
 
 Para ilustrar tudo isso, vou encolher a Terra para cerca de 13 milionésimos de seu tamanho, de modo que tenha exatamente um metro de diâmetro:
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/Meter-Earth.png)
 
 Se dobrarmos *d* movendo um raio da Terra para longe da superfície (meio metro), *d 2*aumenta 4x, então a força da gravidade e seu peso seriam um quarto do que são na superfície. Se você se movesse para um metro de distância - onde caberia uma Terra inteira entre você e a Terra - *d* agora triplicou e sua gravidade é 1/9 do que é na Terra.[8](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/3#)
 
@@ -194,8 +175,6 @@ Então, o que isso significa sobre a gravidade na Órbita Terrestre Baixa, em um
 
 Bem, se tomarmos o ponto médio da altitude média da ISS (230 milhas), descobrimos que estar nessa altura adiciona apenas 5,8% ao *d* normal na superfície da Terra, o que apenas reduz a gravidade da superfície em cerca de 10%.
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/Meter-Earth-gravity-1.png)
-
 Portanto, os astronautas da ISS mal devem sentir a diferença de gravidade. E ainda assim, eles estão flutuando.
 
 O motivo é que eles estão em queda livre.
@@ -204,39 +183,23 @@ Certa vez, tive a chance de voar em um pequeno avião com um piloto que não dav
 
 Eis o porquê: imagine que você está em um penhasco em um planeta menor e mais plano do que a Terra e sem atmosfera - e você joga uma bola de beisebol com toda a força.
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/orbit1.png)
-
 Seria mais ou menos assim:
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/orbit2.png)
 
 Agora, o que aconteceria se um arremessador da liga principal desse uma chance. Pode ser assim:
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/orbit3.png)
-
 E se você disparasse a bala de um canhão? Iria ainda mais longe.
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/orbit4.png)
 
 Antes de cada uma dessas bolas atingir o solo, elas voam em uma trajetória curva. Se a superfície do planeta não atrapalhasse, esses caminhos continuariam como longas elipses. Para manter as coisas simples, vamos apenas combinar cada caminho com um círculo cuja curva se alinha muito bem com a trajetória da bola:
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/orbit5.png)
-
 Agora vamos pegar um canhão muito mais poderoso, e ele faz isso:
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/orbit6.png)
-
 Parece normal, mas observe que a curva do arco está combinando com a forma do planeta. Então, o que acaba acontecendo é o seguinte:
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/orbit6a.jpg)
 
 A bola circundaria o planeta e atingiria a parte de trás do canhão. E se não houvesse nada para bloqueá-la, a bola continuaria “caindo” para sempre, nunca podendo pousar. Como a curva do caminho da bola e o círculo correspondente correspondem exatamente à curvatura do planeta, o planeta continua caindo para longe da bola enquanto a bola tenta cair no chão. Você colocou a bola em órbita.
 
 Se você tivesse um planeta perfeitamente liso de qualquer tamanho e não tivesse atmosfera alguma, poderia, em teoria, colocar algo em órbita bem acima do solo. Mas, como a Terra tem uma atmosfera densa (e uma superfície irregular com montanhas), não importa o quão forte você atire uma bola perto da superfície, a atmosfera iria desacelerar, tornando a curvatura de seu caminho mais e mais apertada até que ela saísse de órbita e Bater no chão. É por isso que tudo que colocamos em órbita fica bem alto, onde a atmosfera é tão fina que não desacelera o objeto. E sem nenhuma força de atrito para interferir, a Lei da Inércia de Newton entra em ação e ela circundará o planeta para sempre.[9](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/3#)
 
 Para entrar em órbita ao redor da Terra, um objeto deve estar se movendo *incrivelmente*rápido. Mas não *muito* rápido. Por quê? Porque então a curva é *muito* ampla, o círculo correspondente é maior que o planeta, e isso acontece:
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/orbit7.jpg)
 
 É por isso que as pessoas falam sobre algo atingindo a “velocidade orbital” para permanecer em órbita e “velocidade de escape” para escapar bem da gravidade da Terra e seguir para o espaço. A velocidade de escape significa apenas que o arco que o caminho faz é mais amplo do que a curvatura do planeta.
 
@@ -246,13 +209,7 @@ Para ter uma ideia de como isso é rápido, se você jogasse uma bola nessa velo
 
 De volta ao SpaceX. Dada a caixa azul acima, faz sentido que o desafio da SpaceX fosse essencialmente “lançar” uma carga útil para cima em órbita. As pessoas pensam que o lançamento de um foguete vai *-se* , mas realmente está jogando algo realmente difícil *para os lados* , e é por isso olhares trajetória de um foguete como este:[12](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/3#)
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/arc.jpg)
-
 É como nossos exemplos acima, e o foguete está agindo como a mão de um gigante que está jogando a carga:
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/orbit0-throw.png)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/orbit0-throw-1.png)
 
 Exceto no mundo real, em vez de um braço e uma mão, uma empresa de foguetes tem que lançar a carga útil com uma altura de sete andares e 40 toneladas[10](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/3#)torre de metal que explode de distância da Terra, e ele vai precisar para executar ping de uma máquina delicada para fora em *apenas* a altitude direito de, a *apenas* a velocidade certa.
 

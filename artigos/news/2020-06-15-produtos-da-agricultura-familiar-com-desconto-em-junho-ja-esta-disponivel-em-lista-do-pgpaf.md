@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 ## Os produtos que registraram queda de preço de mercado terão descontos no momento de amortização ou liquidação do crédito.
 
-A [relação dos produtos](http://www.in.gov.br/en/web/dou/-/portaria-n-20-de-5-de-junho-de-2020-260555642) do Programa de Garantia de Preços para a Agricultura Familiar (PGPAF) com direito ao desconto em junho nas operações de crédito nas instituições financeiras já está disponível. 
+A [relação dos produtos](http://www.in.gov.br/en/web/dou/-/portaria-n-20-de-5-de-junho-de-2020-260555642) do Programa de Garantia de Preços para a Agricultura Familiar (PGPAF) com direito ao desconto em junho nas operações de crédito nas instituições financeiras já está disponível.
 
 A lista com os produtos e os estados contemplados tem validade de 10 de junho a 9 de julho deste ano, conforme a** **Portaria nº 20, da Secretaria de Política Agrícola, do Ministério da Agricultura, Pecuária e Abastecimento.
 
@@ -35,4 +34,4 @@ Fonte: gov.br/agricultura / Imagem em destaque: matopibaagro
 
 - U$ 10,00 anual (com todos os benefícios nesta opção - Press, Magazine, artigos científicos diversos, entre outros acessos)
 
-https://dunapress.org/?aff=Leonardo
+https://dunapress.org/

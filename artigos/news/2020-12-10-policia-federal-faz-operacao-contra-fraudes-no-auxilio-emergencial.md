@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ação abrange 14 estados. Há 42 mandados de busca e apreensão.
 
 A Polícia Federal (PF) faz hoje (10) uma ação contra fraudes no recebimento do auxílio emergencial pago pelo governo federal. Durante a Operação Segunda Parcela, agentes cumprem sete mandados de prisão, 42 mandados de busca e apreensão e 13 de sequestro de bens em 14 estados.
@@ -38,8 +37,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

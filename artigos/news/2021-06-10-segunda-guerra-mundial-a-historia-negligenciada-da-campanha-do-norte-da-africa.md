@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O livro do autor israelense-americano Gershom Gorenberg examina a guerra de inteligência e descriptografia que impediu os nazistas de chegar à Terra Santa.
 
 Se não fosse pela graça de Deus - e graças às mentes de alguns gênios poloneses e alemães - os nazistas teriam derrotado os Aliados no Egito, teriam entrado no território da então Palestina Obrigatória, teriam destruído qualquer chance de que os O Estado de Israel viria a existir e teria massacrado as centenas de milhares de judeus que viviam no norte da África e no Oriente Médio.
@@ -127,7 +126,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

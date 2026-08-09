@@ -8,10 +8,9 @@ categories:
 - Policy
 ---
 
-
 **“As escolas devem equipar as crianças para ter parceiros sexuais” diz a ONU e a OMS**"
 
-As Nações Unidas emitiram o documento “**International Technical Guidance on Sexual Education**” ( **[aqui](https://dunapress.org/wp-content/uploads/2023/05/ITGSE.pdf)[ ](https://www.unfpa.org/sites/default/files/pub-pdf/ITGSE.pdf)**). É a diretriz oficial para escolas primárias em todo o mundo.
+As Nações Unidas emitiram o documento “**International Technical Guidance on Sexual Education**” ( **[aqui](https://dunapress.org/wp-content/uploads/2023/05/ITGSE.pdf)**). É a diretriz oficial para escolas primárias em todo o mundo.
 
 ## O objetivo deste documento está descrito na página 16: Em suas próprias palavras: **“Seu objetivo é equipar as crianças…para desenvolver relações sexuais”.**
 
@@ -45,7 +44,7 @@ A língua falada no vídeo é o Holandês, mas por favor, esteja ciente de que e
 
 **Sexualizar crianças faz parte da Agenda 2030 das Nações Unidas**
 
-Os logotipos do documento das Nações Unidas “International Technical Guidance on Sexual Education” mostram que isso faz parte dos Objetivos de Desenvolvimento Sustentável da Agenda 2030 das Nações Unidas. 
+Os logotipos do documento das Nações Unidas “International Technical Guidance on Sexual Education” mostram que isso faz parte dos Objetivos de Desenvolvimento Sustentável da Agenda 2030 das Nações Unidas.
 
 A Agenda 2030 das Nações Unidas é um plano para transformar todos os aspetos da existência humana na Terra até o ano de 2030. Em suas próprias palavras:
 

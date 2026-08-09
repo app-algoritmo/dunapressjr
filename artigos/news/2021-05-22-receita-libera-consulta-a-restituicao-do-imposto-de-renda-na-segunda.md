@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Prazo para entrega da declaração vai até o dia 31 de maio.
 
 A partir das 10h de segunda-feira (24), o contribuinte que entregou a Declaração do Imposto de Renda Pessoa Física no início do prazo saberá se receberá dinheiro do Fisco ainda este mês. Nesse horário, a Receita Federal liberará a consulta ao primeiro dos cinco lotes de restituição de 2021.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

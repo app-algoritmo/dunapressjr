@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em três editais foram selecionados 92 projetos no âmbito do Programa de Combate a Epidemias. Mais de 1.200 pesquisadores atuarão nos estudos.
 
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) selecionou 23 projetos de Telemedicina e Análise de Dados Médicos para participar do [Programa de Combate a Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias). O [resultado preliminar do edital nº 12](http://www.capes.gov.br/images/novo_portal/editais/resultados/25062020_EDITAL_12_2020_-_Resultado_Preliminar_.pdf) foi publicado no Diário Oficial da União (DOU).
@@ -40,7 +39,7 @@ Fonte: gov.br / Imagem em destaque: MEC
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

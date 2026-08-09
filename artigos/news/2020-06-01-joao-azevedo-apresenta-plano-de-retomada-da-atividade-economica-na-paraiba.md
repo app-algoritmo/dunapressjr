@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O governador João Azevêdo apresentou, neste domingo (31), por meio de transmissão ao vivo nas redes sociais, o plano de retomada da atividade econômica na Paraíba, que ocorrerá a partir do dia 15 de junho.
 
 O modelo é composto por quatro conjuntos de indicadores comportamentais e epidemiológicos que irão gerar uma nota, indicando os setores econômicos que poderão ser abertos em cada município.
@@ -37,5 +36,3 @@ Fonte: paraiba.pb.gov.br
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

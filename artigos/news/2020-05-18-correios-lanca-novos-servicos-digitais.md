@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
+Para facilitar a vida das pessoas que, cada vez mais, precisam ficar em casa e continuar a resolver questões do dia a dia, os Correios lançaram três novas soluções de comunicação digital: a Entrega Digital, o AR Eletrônico e o e-Carta Fácil.
 
-Para facilitar a vida das pessoas que, cada vez mais, precisam ficar em casa e continuar a resolver questões do dia a dia, os Correios lançaram três novas soluções de comunicação digital: a Entrega Digital, o AR Eletrônico e o e-Carta Fácil. 
-
-Com a Entrega Digital, empresas, bancos, instituições públicas e privadas que precisam enviar boletos, contas, extratos, faturas, notificações (e que já façam isso fisicamente pelos Correios) poderão, a partir de agora, também disponibilizar a seus clientes esses comunicados no formato digital, de graça. 
+Com a Entrega Digital, empresas, bancos, instituições públicas e privadas que precisam enviar boletos, contas, extratos, faturas, notificações (e que já façam isso fisicamente pelos Correios) poderão, a partir de agora, também disponibilizar a seus clientes esses comunicados no formato digital, de graça.
 
 Por meio da nova funcionalidade “Minhas Mensagens”, no aplicativo dos Correios, o usuário poderá acessar, de forma fácil, rápida e segura, o espelho digital do que recebe fisicamente na caixa de correio da sua casa.
 
@@ -33,5 +32,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

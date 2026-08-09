@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Taxa atingiu no fim do mês passado maior percentual desde maio.
 
 Em análise técnica divulgada nesta sexta-feira (18), o Instituto de Pesquisa Econômica Aplicada (Ipea) destaca que uma parcela de pessoas que estava fora do mercado de trabalho voltou a procurar emprego. A constatação de se dá a partir dos dados da mais recente edição da[** Pesquisa Nacional por Amostra de Domicílios (Pnad) Covid-19**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-09/ibge-desemprego-na-pandemia-atinge-maior-patamar-em-agosto).
@@ -35,5 +34,3 @@ Atualmente, 8,29 milhões de pessoas estão em teletrabalho. Esse número tem se
 Fonte: Agência Brasil – Imagem de destaque: Vitor Abdala/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

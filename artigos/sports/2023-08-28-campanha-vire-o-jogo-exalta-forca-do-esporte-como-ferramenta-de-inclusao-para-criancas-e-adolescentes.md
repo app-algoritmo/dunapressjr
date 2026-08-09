@@ -25,15 +25,13 @@ Confira o filme da campanha de 1 minuto - [https://youtu.be/mhQrd0tQfiI
 ](https://click.presskit.com.br/url/967382e18f/6361388b6fc)
 **Sobre NESCAU® - **Criada no Brasil em 1932, a marca trouxe para os consumidores e consumidoras brasileiros o inconfundível sabor de chocolate que faz de NESCAU® uma referência no mercado nacional. Com um longo histórico de apoio ao esporte, a marca procura estimular o movimento e a prática esportiva, aliados a uma alimentação balanceada, para o desenvolvimento adequado de jovens e crianças.
 
-**Sobre a Ogilvy Brasil - **A Ogilvy Brasil é uma das agências mais premiadas do mundo criativamente. Em sua lista de clientes estão marcas como: Magazine Luiza, Adidas, Amex, AstraZeneca, BMW, Nestlé, Essilor, Leroy Merlin, Pfizer, entre outras.  A identidade da Ogilvy é baseada em comunicar produtos e serviços que fazem as marcas serem importantes para as pessoas a curto, médio e longo prazos. Por isso, a Ogilvy inspira as marcas e as pessoas, e como consequência, impacta o mundo. Sob o olhar do conceito de David Ogilvy nós continuamos buscando o verdadeiro poder da criação e da cultura publicitária.  Com mais de 133 leões nos últimos anos no Festival de Cannes (2010 a 2021), agência do ano em Cannes em 2013 e mais de 28 Awards de D&AD, Wave, Clio, Lia, El Ojo e Wired, possuímos uma bagagem que nos faz olhar para a frente e nos manter criativos. dessa forma, podemos oferecer para as pessoas uma linguagem expressiva e única na publicidade. 
+**Sobre a Ogilvy Brasil - **A Ogilvy Brasil é uma das agências mais premiadas do mundo criativamente. Em sua lista de clientes estão marcas como: Magazine Luiza, Adidas, Amex, AstraZeneca, BMW, Nestlé, Essilor, Leroy Merlin, Pfizer, entre outras.  A identidade da Ogilvy é baseada em comunicar produtos e serviços que fazem as marcas serem importantes para as pessoas a curto, médio e longo prazos. Por isso, a Ogilvy inspira as marcas e as pessoas, e como consequência, impacta o mundo. Sob o olhar do conceito de David Ogilvy nós continuamos buscando o verdadeiro poder da criação e da cultura publicitária.  Com mais de 133 leões nos últimos anos no Festival de Cannes (2010 a 2021), agência do ano em Cannes em 2013 e mais de 28 Awards de D&AD, Wave, Clio, Lia, El Ojo e Wired, possuímos uma bagagem que nos faz olhar para a frente e nos manter criativos. dessa forma, podemos oferecer para as pessoas uma linguagem expressiva e única na publicidade.
 
 **INFORMAÇÃO PARA A IMPRENSA NESTLÉ – AGÊNCIA PUB
 **[nestle@agencia.pub
 
 ](https://click.presskit.com.br/url/967383eacd/6361388b6fc)**INFORMAÇÃO PARA A IMPRENSA OGILVY**
-**[raphaela.brito@ogilvy.com](https://click.presskit.com.br/url/967384b96d/6361388b6fc)[
-
-](https://click.presskit.com.br/url/967384b96d/6361388b6fc)*****Assessoria de Imprensa Esportiva:         ***
+**[raphaela.brito@ogilvy.com](https://click.presskit.com.br/url/967384b96d/6361388b6fc)*****Assessoria de Imprensa Esportiva:         ***
 ***ZDL          ***
 ***Doro Jr. - MTb 13209 - ***[***dorojr@zdl.com.br***](https://click.presskit.com.br/url/967385e3b0/6361388b6fc)*** - F: 11 984579723         ***
 ***Rafael De Marco - Mtb.: 27556 - ***[***rafael@zdl.com.br***](https://click.presskit.com.br/url/967386036a/6361388b6fc)*** - Cel: 11 976022986         ***

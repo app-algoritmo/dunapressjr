@@ -9,8 +9,6 @@ categories:
 - Social networks
 ---
 
-
-**Disclaimer** - "Clique aqui para fechar este aviso"
 Caro leitor,
 
 No Jornal Duna Press, temos o compromisso de fornecer informações precisas e relevantes sobre uma variedade de tópicos, incluindo descobertas científicas importantes. É importante observar que as informações fornecidas em nossos artigos são baseadas em documentos e fontes confiáveis. No entanto, é essencial entender que não podemos nos responsabilizar pelos resultados ou conclusões de análises individuais.

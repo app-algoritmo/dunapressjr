@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 **Bolsa subiu 1,57% com divulgação de resultados de empresas**.
 
 No dia em que o Banco Central reduziu a taxa Selic (juros básicos da economia) para 2% ao ano, a moeda norte-americana fechou em leve alta. O dólar comercial encerrou esta quarta-feira (5) vendido a R$ 5,294, com valorização de R$ 0,01 (+0,18%).
@@ -30,4 +29,4 @@ O Ibovespa também avançou por causa da divulgação de resultados de empresas.
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

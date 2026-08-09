@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dólar subiu para R$ 5,25 após quatro recuos seguidos.
 
 Num dia de tensões no mercado externo, a bolsa de valores caiu após dois dias seguidos de alta e teve a maior queda diária do mês. O dólar subiu após quatro recuos seguidos, num movimento de alta generalizada em todo o planeta.
@@ -24,10 +23,6 @@ Paralelamente, o recuo no preço de algumas* commodities* (bens primários com c
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

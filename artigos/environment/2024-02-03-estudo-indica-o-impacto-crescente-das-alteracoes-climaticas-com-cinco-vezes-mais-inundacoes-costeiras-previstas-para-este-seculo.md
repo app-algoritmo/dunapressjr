@@ -9,12 +9,11 @@ categories:
 - Geopolitics
 ---
 
-
 As alterações climáticas estão intensificando o risco de inundações costeiras em uma escala alarmante, projetando-se que esses eventos aumentem cinco vezes ao longo do século, afetando mais de 70 milhões de pessoas em todo o mundo. De acordo com dados recentes da Human Climate Horizons, uma colaboração entre o Climate Impact Lab e o Programa das Nações Unidas para o Desenvolvimento (PNUD), a América Latina e as Caraíbas, a Ásia Oriental e o Pacífico, e os Pequenos Estados Insulares em Desenvolvimento (SIDS) lideram as preocupações.
 
 ## [Clique para consultar uma localidade geográfica](https://horizons.hdr.undp.org/?_gl=1*kk2bsr*_ga*MTY2MDAzMzcwMy4xNzA2OTQ2ODIw*_ga_3W7LPK0WP1*MTcwNjk3NDI5Ni4yLjEuMTcwNjk3NDUxMy4zNi4wLjA.)
 
-[](https://horizons.hdr.undp.org/?_gl=1*kk2bsr*_ga*MTY2MDAzMzcwMy4xNzA2OTQ2ODIw*_ga_3W7LPK0WP1*MTcwNjk3NDI5Ni4yLjEuMTcwNjk3NDUxMy4zNi4wLjA.)©Polotno IA - Duna Press
+©Polotno IA - Duna Press
 
 ### O Crescimento das Inundações Costeiras: Um Alerta para as Regiões Mais Vulneráveis
 

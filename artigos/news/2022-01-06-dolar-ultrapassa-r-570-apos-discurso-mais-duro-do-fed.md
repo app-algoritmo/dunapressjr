@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa teve maior queda diária desde novembro.
 
 O endurecimento do Banco Central norte-americano em relação ao aumento de juros nos Estados Unidos provocou uma turbulência no mercado financeiro global. O dólar ultrapassou a barreira de R$ 5,70, no terceiro dia seguido de alta. A bolsa de valores teve a maior queda diária desde novembro.
@@ -26,10 +25,6 @@ O tom da ata do Fed também influenciou as bolsas norte-americanas. O índice Do
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No acumulado em 12 meses, investimentos apresentaram expansão de 12%.
 
 Os investimentos ficaram praticamente estáveis em junho em comparação com o mês anterior. O Indicador Mensal de Formação Bruta de Capital Fixo (FBCF), divulgado nesta quarta-feira (1º) pelo Instituto de Pesquisa Econômica Aplicada (Ipea), registrou queda de 0,1% em junho frente a maio deste ano, na série com ajuste sazonal.
@@ -30,10 +29,6 @@ Segundo o Ipea, na comparação interanual, o bom desempenho foi generalizado. O
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

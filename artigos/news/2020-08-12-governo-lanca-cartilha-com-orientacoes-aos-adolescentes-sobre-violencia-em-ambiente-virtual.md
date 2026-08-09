@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Para auxiliar adolescentes contra a violência em ambiente virtual, o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) adotou uma cartilha com orientações para a prevenção em meios digitais, como sites, aplicativos e redes sociais.
 
 Para a secretária de políticas para as mulheres, Cristiane Britto, a cartilha é uma resposta à necessidade de isolamento social. Nesse período, marcado por ações de enfrentamento à Covid-19, o ambiente virtual tornou-se o principal meio de comunicação entre as pessoas. “A internet representa um espaço de oportunidades para interagir e se relacionar, embora possa ser um 'lugar' de agressões e violências, que tem as adolescentes como vítimas mais vulneráveis”, afirma a secretária.
@@ -33,6 +32,6 @@ Fonte Gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)****

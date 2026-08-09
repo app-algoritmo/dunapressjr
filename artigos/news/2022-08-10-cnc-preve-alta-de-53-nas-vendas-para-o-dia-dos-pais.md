@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ### Estimativa é criar 18,5 mil vagas temporárias.
 
-O volume de vendas para o Dia dos Pais de 2022,  a ser comemorado no próximo domingo (14), deverá atingir R$ 7,28 bilhões, o que representará alta de 5,3% em relação à mesma data no ano passado. Naquele momento, o varejo ainda sofria com o processo de volta da circulação dos consumidores. A estimativa foi divulgada nesta terça-feira (9) pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC).
+O volume de vendas para o Dia dos Pais de 2022, a ser comemorado no próximo domingo (14), deverá atingir R$ 7,28 bilhões, o que representará alta de 5,3% em relação à mesma data no ano passado. Naquele momento, o varejo ainda sofria com o processo de volta da circulação dos consumidores. A estimativa foi divulgada nesta terça-feira (9) pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC).
 
-O presidente da CNC, José Roberto Tadros, disse que em termos de movimentação financeira, o Dia dos Pais é a quarta data comemorativa mais importante para o comércio varejista brasileiro. “Mesmo com a inflação elevada, a perspectiva é positiva para o setor por conta da injeção de recursos extraordinários, como os saques nas contas de FGTS, antecipação do décimo terceiro  salário de aposentados e pensionistas do INSS e ampliação do Auxílio Brasil, tanto do valor do benefício quanto do número de beneficiários”, observou.
+O presidente da CNC, José Roberto Tadros, disse que em termos de movimentação financeira, o Dia dos Pais é a quarta data comemorativa mais importante para o comércio varejista brasileiro. “Mesmo com a inflação elevada, a perspectiva é positiva para o setor por conta da injeção de recursos extraordinários, como os saques nas contas de FGTS, antecipação do décimo terceiro salário de aposentados e pensionistas do INSS e ampliação do Auxílio Brasil, tanto do valor do benefício quanto do número de beneficiários”, observou.
 
 No entendimento da CNC, esses recursos sustentam o avanço nas vendas ao longo deste ano. A entidade lembrou que a Pesquisa Mensal de Comércio (PMC) do Instituto Brasileiro de Geografia e Estatística (IBGE), no último mês de maio, mostrou que o faturamento real do varejo já tinha atingido 3,9% acima do volume registrado às vésperas da pandemia, em fevereiro de 2020 e 3,0% maior do que em agosto do ano passado.
 
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

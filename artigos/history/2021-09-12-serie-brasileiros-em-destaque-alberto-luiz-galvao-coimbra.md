@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Profissão: Engenheiro.
 
 Área do Conhecimento: Engenharias.
@@ -24,7 +23,7 @@ Morre fundador da Coppe-[https://g1.globo.com/rj/rio-de-janeiro/noticia/morre-fu
 
  Homenagem da Mast a Alberto Luiz coimbra.[http://www.abc.org.br/2018/08/16/mast-homenageia-o-professor-alberto-luiz-coimbra/](http://www.abc.org.br/2018/08/16/mast-homenageia-o-professor-alberto-luiz-coimbra/). Último acesso em 10/08/2021.
 
-Prêmios e condecorações: 
+Prêmios e condecorações:
 
 Prêmio Anísio Teixeira.
 
@@ -53,7 +52,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

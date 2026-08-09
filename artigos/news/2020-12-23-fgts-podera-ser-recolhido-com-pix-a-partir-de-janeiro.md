@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Anúncio foi feito por diretor do Banco Central.
 
 A partir de janeiro, o Fundo de Garantia do Tempo de Serviço (FGTS) poderá ser recolhido por meio do Pix, anunciou nesta terça-feira (22) o diretor de Organização do Sistema Financeiro e de Resolução do Banco Central (BC), João Manoel Pinho de Mello. Na abertura da 11ª reunião plenária do Fórum Pix, ele declarou que o BC fechou um acordo de cooperação técnica com a Secretaria Especial de Previdência e Trabalho para permitir o recolhimento por meio do novo sistema de pagamentos instantâneo.
@@ -34,8 +33,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

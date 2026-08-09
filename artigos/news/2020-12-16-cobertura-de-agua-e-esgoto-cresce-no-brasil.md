@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A meta é alcançar a universalização até 2033, garantindo que 99% da população brasileira tenha acesso à água potável e 90% ao tratamento e à coleta de esgoto
 
 No Brasil, 83,7% da população em áreas urbanas é atendida com cobertura de redes de água potável e 54% com redes de esgotamento sanitário. As coberturas de redes de água e de esgoto tiveram crescimento entre 2018 e 2019.
@@ -46,8 +45,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Taxa Selic passou de 2% para 2,75% ao ano e surpreendeu analistas.
 
 Em meio ao aumento da inflação de alimentos que começa a estender-se por outros setores, o Banco Central (BC) subiu os juros básicos da economia pela primeira vez em quase seis anos. Por unanimidade, o Comitê de Política Monetária (Copom) elevou a taxa Selic de 2% para 2,75% ao ano. A decisão surpreendeu os analistas financeiros, [**que esperavam uma elevação para 2,5% ao ano**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-03/mercado-financeiro-eleva-projecao-da-inflacao-para-460-este-ano).
@@ -44,8 +43,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

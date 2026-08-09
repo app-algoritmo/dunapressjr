@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O ministro da Justiça e Segurança Pública, André Mendonça, recebeu, nesta sexta-feira (11), o embaixador da Espanha no Brasil, Fernando Garcia Casas.
 
 No encontro foram discutidas oportunidades de desenvolvimento das relações entre Brasil e Espanha nos âmbitos da Justiça e Segurança Pública. O representante espanhol mencionou a importância da realização, ainda pendente, da Comissão Mista, prevista no Convênio sobre Cooperação em Matéria de Combate à Criminalidade. O Ministro expressou, ainda, a necessidade de intensificar a cooperação e as boas práticas em ações de entregas vigiadas e de formação de equipes conjuntas de investigação.
@@ -21,5 +20,3 @@ Participaram da reunião, os diretores-geral da Polícia Federal, Rolando Alexan
 Pela comitiva da Espanha, estiveram presentes José Manuel Pascual García, ministro conselheiro e José Luis Bergés, adido de interior e José Angle Lopes, segundo adido de interior.
 
 Fonte: Portal de Imprensa do Ministério da Justiça e Segurança Pública
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

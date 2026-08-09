@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Com 40 hospitais espalhados pelo País, Rede Ebserh ofereceu atendimento a mais de 40 mil pessoas com Covid-19 ou suspeita da doença. Hospitais universitários contam com infraestrutura planejada especialmente para atender casos de Covid-19.
 
 O Ministério da Saúde divulgou o primeiro diagnóstico positivo de Covid-19 no Brasil no dia 26 de fevereiro. Causada por um novo coronavírus (Sars-CoV-2), a doença, ainda pouco conhecida, trouxe grandes desafios para o sistema de saúde (instituições, profissionais e pesquisadores). Com 40 hospitais universitários federais, a maior rede de hospitais públicos do País, a Rede Ebserh faz um balanço de ações de combate ao coronavírus.
@@ -29,4 +28,4 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
-[Torne-se um assinante Prêmio e obtenha 25% de desconto, CLIQUE AQUI acesse o link  e aplique o código JOMAFE e obtenha o desconto promocional.](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)
+[Torne-se um assinante Prêmio e obtenha 25% de desconto, CLIQUE AQUI acesse o link  e aplique o código JOMAFE e obtenha o desconto promocional.](https://dunapress.org/produto/assinatura-leitor-premio/)

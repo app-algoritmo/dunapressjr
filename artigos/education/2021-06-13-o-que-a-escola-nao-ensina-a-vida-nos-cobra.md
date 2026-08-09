@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 Hoje, a maioria dos estudantes de 15 anos sabe várias coisas sobre pandemia e poderia explicar aos colegas de sala. Em 2018, antes da Covid-19 e quando o PISA (Programa de Avaliação Internacional de Estudantes) realizou sua última avaliação global, o resultado foi outro. A avaliação perguntou aos alunos se estavam cientes de questões globais de saúde, como pandemias. Em Hong Kong e na Lituânia, mais de 80% dos estudantes responderam que sabiam algo sobre esse tema e poderiam, pelo menos, explicar a questão geral. No entanto, na Arábia Saudita, apenas 53% responderam da mesma forma e na Argentina e na Indonésia, menos da metade, assim como no Brasil.
 
 É importante ressaltar que o conhecimento não implica automaticamente em conscientização: mesmo em alguns países que se deram bem na avaliação científica do PISA – como Coreia, Suíça, Alemanha ou Nova Zelândia –, a porcentagem de estudantes conscientes de problemas globais de saúde foi de 60% ou menos.
@@ -29,7 +28,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

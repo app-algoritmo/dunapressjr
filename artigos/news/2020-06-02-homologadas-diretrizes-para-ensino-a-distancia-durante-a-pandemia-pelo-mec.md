@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Documento traz uma série de atividades não presenciais que podem ser utilizadas pelas redes de ensino.
 
 O Ministério da Educação (MEC) homologou um conjunto de diretrizes do Conselho Nacional de Educação (CNE) que orienta as escolas da educação básica e instituições de ensino superior durante a pandemia do coronavírus. A [publicação](http://www.in.gov.br/en/web/dou/-/despacho-de-29-de-maio-de-2020-259412931) saiu na edição desta segunda-feira, 1º de junho, no Diário Oficial da União (DOU).
@@ -49,8 +48,6 @@ Como a atenção é redobrada para cada aluno, os profissionais do atendimento e
 Também participaram das discussões do documento o Conselho Nacional de Secretários de Educação (Consed), a União Nacional dos Dirigentes Municipais de Educação (Undime), o Fórum dos Conselhos Estaduais e a União Nacional dos Conselhos Municipais de Educação (UNCME). Houve ainda contribuições da sociedade, por meio de consulta pública.
 
 Fonte: gov.br/mec / Imagem em destaque: mec
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

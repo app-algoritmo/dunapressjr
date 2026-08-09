@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Segundo ele, 2021 será um ano de recuperação econômica.
 
 O ministro da Infraestrutura, Tarcísio de Freitas, disse hoje (29) que a responsabilidade fiscal, associada à grande quantidade de portfólios, aos bons ativos brasileiros e à disponibilidade de crédito representam um conjunto de qualidades que manterá o país atrativo para o investimento externo, mesmo em meio à crise decorrente da pandemia.
@@ -35,5 +34,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

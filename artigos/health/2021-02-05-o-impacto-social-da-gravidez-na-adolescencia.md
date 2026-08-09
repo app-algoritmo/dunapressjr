@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A adolescência é uma fase bem delicada, é um período dedicado ao aprofundamento dos projetos de vida, personalidade, interesses, uma fase em que os hormônios começam a borbulhar. Portanto todo cuidado, precaução e aconselhamento são bem-vindos para evitar uma indesejável gravidez na adolescência.
 
 O Ministério da Saúde em parceria com o Ministério da Mulher, Família e dos Direitos Humanos, lançou a campanha de prevenção à gravidez na adolescência. O objetivo é proporcionar junto aos adolescentes, suas famílias e profissionais de saúde, a reflexão sobre as consequências de uma gravidez não intencional e promover o diálogo sobre o assunto.
@@ -46,7 +45,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Maíra Colombarolli avalia motivos para novo ganho de peso em mulheres que passaram por cirurgia bariátrica.
 
 A psicóloga e pesquisadora Maíra Colombarolli conseguiu dois meses de prorrogação na bolsa da Coordenação de Aperfeiçoamento de Nível Superior (CAPES) e continuará os estudos na Itália até setembro. A doutoranda avalia o funcionamento afetivo e cognitivo de mulheres que passaram por cirurgia bariátrica para identificar quais levam a ganhar peso outra vez.
@@ -22,7 +21,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

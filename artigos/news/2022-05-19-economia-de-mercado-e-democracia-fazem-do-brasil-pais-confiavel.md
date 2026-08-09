@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Paulo Guedes falou em congresso sobre mercado global de carbono.
 
 Ser uma democracia ocidental estruturada em uma economia de mercado, e estar localizado próximo aos mercados europeu e norte-americano, ajudará o Brasil a se beneficiar da busca cada vez maior de outros países por segurança energética e alimentar. Mas para garantir essa posição, é fundamental que o país se destaque também como uma potência verde que preserva recursos ambientais e avança na transição para fontes limpas de energia.
@@ -60,8 +59,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

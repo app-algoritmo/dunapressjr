@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Graduada em Ciências Biológicas pela Universidade Federal de Alfenas (MG), Patrícia Ferreira Espuri Sepini é doutoranda no Programa de Pós-Graduação em Ciências Farmacêuticas pela mesma universidade, com Bolsa da CAPES. Seu projeto no mestrado, e agora no doutorado, trata da leishmaniose*, *uma doença infecciosa grave, causada por parasitas*.*
 
 **O que a motivou a estudar a leishmaniose?**
@@ -52,7 +51,3 @@ Fonte: https://www.gov.br/capes/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

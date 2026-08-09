@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Em 12 meses até maio, saldo negativo ficou em 119,9 bilhões.
 
 As contas do setor público consolidado, formado por governo federal, estados, municípios e empresas estatais, registraram déficit primário de R$ 33 bilhões em maio deste ano. As informações, divulgadas nesta sexta-feira (29) pelo Banco Central (BC), mostram que o saldo negativo foi maior que o registrado em maio do ano passado, quando as contas fecharam com déficit de R$ 15,5 bilhões.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

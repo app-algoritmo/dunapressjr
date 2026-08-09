@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medida vale até o fim do ano e pretende conter inflação.
 
 Até o fim do ano, o etanol e seis alimentos não pagarão imposto para entrarem no país. A redução a zero das alíquotas foi anunciada nesta segunda-feira (21) à noite pelo Ministério da Economia, após reunião extraordinária do Comitê-Executivo de Gestão (Gecex) da Câmara de Comércio Exterior (Camex).
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

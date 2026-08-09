@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Porto de Imbituba fechou novembro com 484,3 mil toneladas movimentadas no mês, alta de 12,4% em relação ao volume registrado no mesmo período de 2019 (430,7 mil). O bom desempenho foi alavancado pela variedade de produtos transportados: celulose, comidas em bags, contêineres, minério de ferro, ureia, malte e guindaste, além dos grandes volumes de coque de petróleo. As cargas somaram 122 mil toneladas mensais, um crescimento de 25,7% frente ao mesmo mês de 2019.
 
 Destaque também para o aumento na quantidade embarcada de milho (+153%) e nos desembarques de sal (+107,4%), com mais navios atendidos.
@@ -34,7 +33,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

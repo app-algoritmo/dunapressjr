@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Fortaleza/CE- A Polícia Federal deflagrou, em conjunto com a Receita Federal , as Operações Ásia 1 e 2, que investigam a suposta prática dos crimes de lavagem de dinheiro, evasão de divisas, sonegação fiscal, associação criminosa, falsidade ideológica e descaminho praticados por empresários, consultores e despachantes aduaneiros, no Ceará.
 
 Na Operação Ásia 1, estão sendo cumpridos 15 mandados de busca e apreensão, nos municípios de Fortaleza, Eusébio e São Gonçalo do Amarante, sendo 8 nas residências das pessoas físicas investigadas e outros 7 nos endereços das empresas.
@@ -22,5 +21,3 @@ As importações são declaradas às autoridades aduaneiras sempre em valores me
 Será concedida entrevista coletiva, às 10h30, na Sede da Superintendência da Polícia Federal no Ceará, Av. Borges de Melo, 820, Bairro de Fátima.
 
 Comunicação Social da Polícia Federal no Ceará
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

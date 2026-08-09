@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Governo deve lançar programas para inclusão de jovens no mercado.
 
 O Brasil gerou 309.114 postos de trabalho em junho deste ano, resultado de 1.601.001 admissões e de 1.291.887 desligamentos de empregos com carteira assinada. No acumulado de 2021, o saldo positivo é de 1.536.717 novos trabalhadores no mercado formal. Os dados são do Ministério da Economia, que divulgou hoje (29) as Estatísticas Mensais do Emprego Formal, o Novo Caged.
@@ -38,10 +37,6 @@ As estatísticas completas do Novo Caged estão [**disponíveis na página do Mi
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

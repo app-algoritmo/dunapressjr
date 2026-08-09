@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## **Acordo entre a Coordenação e o Conselho Federal de Enfermagem tem como objetivo estimular o desenvolvimento de pesquisas na área****.**
 
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) divulgou os 25 cursos de mestrado em Enfermagem que vão receber um investimento total de R$ 4,8 milhões. Com o apoio do Conselho Federal de Enfermagem (Cofen), a iniciativa tem o objetivo ampliar a qualificação profissional e o desenvolvimento de pesquisas na área.
@@ -21,8 +20,6 @@ O investimento será destinado aos Programas de Pós-Graduação (PPGs) profissi
 O edital prevê duas modalidades. Os cursos de mestrado profissional recomendados pela Capes terão investimento total de R$ 3 milhões, com valor máximo de R$ 250 mil por projeto. Os que forem oferecidos via cooperação institucional, por PPGs com nota de avaliação de no mínimo 4, terão investimento de R$ 1,8 milhão e valor máximo de R$ 300 mil por projeto. Nesse último caso, as aulas serão ministradas em uma instituição receptora, que garantirá a infraestrutura e o apoio administrativo.
 
 Fonte: portalmec.gov.br / Imagem em destaque: Capes
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

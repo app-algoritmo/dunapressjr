@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### No ano, o setor acumulou aumento de 2,3%, de acordo com dados da Pesquisa Mensal de Comércio.
 
 Na quarta alta consecutiva, o volume de vendas do comércio varejista no país cresceu 0,9% em abril, na comparação com o mês de março. Em relação a abril do ano passado, o crescimento foi de 4,5%. Nos primeiros quatro meses de 2022, o setor acumula aumento de 2,3%. Os dados são da Pesquisa Mensal de Comércio (PMC), divulgada pelo Instituto Brasileiro de Geografia e Estatísticas (IBGE), na sexta-feira (10).
@@ -36,8 +35,4 @@ Fonte: gov.br
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

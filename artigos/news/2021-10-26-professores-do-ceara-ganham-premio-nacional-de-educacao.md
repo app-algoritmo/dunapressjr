@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Fantasiados, educadores usaram van para levar conteúdo e acolhimento a alunos em meio à pandemia.
 
 Pelas ruas de Juazeiro do Norte, no Ceará, uma van adaptada levou, ao longo de vários meses, professores da Escola de Educação Infantil e Ensino Fundamental Carinho da Mamãe rumo às casas dos alunos que, por causa da pandemia, não podiam frequentar a escola. Fantasiados de personagens infantis, os educadores percorreram muitos quilômetros para levar às crianças da Educação Infantil não apenas os conteúdos que elas precisavam continuar aprendendo, mas também o acolhimento e o estímulo que tanto fazia falta a muitas delas no período de aulas remotas. O resultado foi tão expressivo que o projeto foi o vencedor do concurso nacional Professor que Conquista, promovido pela Conquista Solução Educacional com mais de 20 mil professores em todo o país.
 
-Criado pelas professoras da Educação Infantil, o projeto “Carinho Móvel” foi um esforço conjunto e precisou da dedicação também dos pais e familiares. “Pegamos uma van e transformamos em uma sala de aula. Decoramos com personagens infantis, nos caracterizamos e, seguindo todas as medidas sanitárias, saímos pelas ruas levando conhecimento e alegria aos alunos”, explica uma das professoras responsáveis pela ideia, Paula Gracie Damasceno Rocha. O objetivo era possibilitar momentos de interação entre estudantes e educadoras, uma forma de amenizar os impactos emocionais causados pelas condições extraordinárias que precisaram ser enfrentadas durante a pandemia. 
+Criado pelas professoras da Educação Infantil, o projeto “Carinho Móvel” foi um esforço conjunto e precisou da dedicação também dos pais e familiares. “Pegamos uma van e transformamos em uma sala de aula. Decoramos com personagens infantis, nos caracterizamos e, seguindo todas as medidas sanitárias, saímos pelas ruas levando conhecimento e alegria aos alunos”, explica uma das professoras responsáveis pela ideia, Paula Gracie Damasceno Rocha. O objetivo era possibilitar momentos de interação entre estudantes e educadoras, uma forma de amenizar os impactos emocionais causados pelas condições extraordinárias que precisaram ser enfrentadas durante a pandemia.
 
 **Autoestima, confiança e inclusão**
 
@@ -39,7 +38,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

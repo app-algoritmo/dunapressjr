@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Ao longo dos últimos dois anos, mais de R$ 7 bilhões foram doados para pessoas afetadas pela covid-19. Os dados são do Monitor das Doações Covid-19 realizado pela Associação Brasileira de Captadores de Recursos. O estudo mostra ainda que 85% dessas doações foram feitas por empresas. Números que ressaltam que a pandemia reforçou o papel social das instituições. E, assim como nas ações diretamente relacionadas com a pandemia, os projetos das empresas também se ampliaram, principalmente nas causas de saúde, assistência social, educação e geração de renda.
 
 Em Curitiba (PR), alguns projetos tiveram aumento, em 2021, de mais de 400% no número de pessoas alcançadas, em comparação a 2020. O crescimento foi percebido em iniciativas desenvolvidas pelo Instituto das Cidades Inteligentes (ICI) em parceria com outras instituições. No total, mais de 180 mil pessoas foram impactadas ao longo do ano.
@@ -32,7 +31,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

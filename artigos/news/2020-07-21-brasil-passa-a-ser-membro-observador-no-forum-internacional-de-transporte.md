@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Cúpula Anual do Fórum é a maior reunião mundial de Ministros de Transporte.
 
 O Brasil segue para se tornar membro pleno da Organização para a Cooperação e Desenvolvimento Econômico (OCDE). Nesta semana, o País se tornou membro observador no Fórum Internacional de Transporte (ITF). A organização intergovernamental conta com 60 países membros e tem como missão promover uma compreensão mais profunda do papel dos transportes no crescimento econômico, na sustentabilidade ambiental e na inclusão social, além aumentar o perfil público da política de transporte.
@@ -28,4 +27,4 @@ Países que fazem parte da OCDE: Austrália, Áustria, Bélgica, Canadá, Chile,
 
 Fonte: gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

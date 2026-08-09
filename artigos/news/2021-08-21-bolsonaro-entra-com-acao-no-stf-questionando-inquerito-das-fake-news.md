@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ação contesta a forma como a investigação foi aberta.
 
 O presidente Jair Bolsonaro entrou nesta sexta-feira (20) com ação no Supremo Tribunal Federal (STF) questionando as decisões no inquérito das *fake news,* pois, segundo ele, os atos processuais adotados estão “contrariando as liberdades individuais e os princípios constitucionais”.
@@ -34,7 +33,7 @@ Por fim, a ADPF pede ainda que, caso nenhuma das teses anteriores seja acolhida,
 
 - Atos processuais adotados contrariando as liberdades individuais e os princípios constitucionais. [pic.twitter.com/CLYJVYE4CY](https://t.co/CLYJVYE4CY)
 
-&mdash; Jair M. Bolsonaro (@jairbolsonaro) [August 20, 2021](https://twitter.com/jairbolsonaro/status/1428721907994595336?ref_src=twsrc%5Etfw) 
+&mdash; Jair M. Bolsonaro (@jairbolsonaro) [August 20, 2021](https://twitter.com/jairbolsonaro/status/1428721907994595336?ref_src=twsrc%5Etfw)
 
 ## Relembre
 
@@ -46,10 +45,6 @@ Nesta sexta-feira, a PF também cumpriu mandados de busca e apreensão em [**ope
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

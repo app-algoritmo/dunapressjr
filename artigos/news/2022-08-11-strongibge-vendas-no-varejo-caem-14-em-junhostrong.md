@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### É o segundo mês seguido com queda.
 
 O comércio varejista no país registrou queda de 1,4% no volume de vendas, na passagem de maio para junho. Esta é a segunda redução seguida no setor, que, com isso, acumula retração de 0,8% em dois meses, na comparação com o bimestre anterior. Os dados da Pesquisa Mensal do Comércio (PMC) foram divulgados nesta quarta-feira (10) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -60,8 +59,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

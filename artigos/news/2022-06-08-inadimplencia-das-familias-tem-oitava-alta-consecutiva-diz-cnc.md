@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Endividados representam 28,7% das famílias em maio.
 
 A parcela de inadimplentes, aqueles que têm contas ou dívidas em atraso, chegou a 28,7% das famílias brasileiras em maio. É a oitava alta consecutiva do indicador, que vem crescendo desde outubro de 2021. Os dados são da Pesquisa de Endividamento e Inadimplência do Consumidor (CNC) e foram divulgados nesta terça-feira (7).
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

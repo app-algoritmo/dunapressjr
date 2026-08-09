@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O dólar terminou o dia com leve alta de 0,03%, vendido a R$ 5,08.
 
 Os receios em torno do aumento da inflação e das possíveis mudanças na política de preços da Petrobras afetaram o mercado financeiro nesta segunda-feira (7). A bolsa teve a maior queda diária do ano. O dólar, que se aproximou de R$ 5 durante a manhã, fechou com estabilidade, influenciado pelas turbulências no mercado global.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

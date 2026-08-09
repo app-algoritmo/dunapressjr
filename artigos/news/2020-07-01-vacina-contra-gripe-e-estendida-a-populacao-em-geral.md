@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-### Campanha de vacinação contra gripe é encerrada e vacina é estendida ao público geral enquanto durarem os estoques. 
+### Campanha de vacinação contra gripe é encerrada e vacina é estendida ao público geral enquanto durarem os estoques.
 
 Ministério da Saúde encerrou, nessa terça-feira (30), a Campanha Nacional de Vacinação contra a Gripe que teve início em 11 de março. Apesar disso, a vacina ainda pode ser obtida nas unidades de saúde, já que o ministério orientou estados e municípios a estenderem a vacinação ao público em geral, enquanto durarem os estoques.
 
@@ -26,4 +25,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

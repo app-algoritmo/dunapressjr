@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O valor básico da tarifa de pedágio será de R$ 8,32.
 
 O consórcio Infraestrutura MG, formado pelas empresas Equipav e Perfin, é o vencedor do leilão que concedeu à iniciativa privada rodovias compreendidas entre as cidades de Poços de Caldas, Pouso Alegre e Itajubá, integrantes do lote 2-Sul de Minas, do Programa de Concessões Rodoviárias do Estado de Minas Gerais.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

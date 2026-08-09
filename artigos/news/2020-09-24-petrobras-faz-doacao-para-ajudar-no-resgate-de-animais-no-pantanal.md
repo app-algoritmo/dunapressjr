@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-A doação de R$ 150 mil servirá para compra de alimentos, água, equipamentos e medicamentos. O projeto arrecada recursos para espalhar água, comprar alimentos como frutas e milho para os animais em áreas atingidas pelo fogo. 
+A doação de R$ 150 mil servirá para compra de alimentos, água, equipamentos e medicamentos. O projeto arrecada recursos para espalhar água, comprar alimentos como frutas e milho para os animais em áreas atingidas pelo fogo.
 
 O resgate e tratamento de animais atingidos pelos incêndios florestais no Pantanal ganhou um reforço. A Petrobras fará a doação de R$ 150 mil ao Projeto Bichos do Pantanal para compra de alimentos, água, equipamentos e medicamentos.
 Por meio da campanha Ação Bicho Vivo, iniciada em setembro, o projeto arrecada recursos para espalhar água, comprar alimentos como frutas e milho para os animais em áreas atingidas e garantir a estrutura para o trabalho de veterinários e parceiros que fazem a avaliação clínica de animais resgatados e o atendimento emergencial.
@@ -34,5 +33,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

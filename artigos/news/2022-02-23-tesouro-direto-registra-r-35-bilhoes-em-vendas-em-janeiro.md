@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O total de resgates foi menor do que o de vendas.
 
 As vendas de títulos do Tesouro Direto registradas em janeiro foram maiores do que os resgates em mais de R$ 1 bilhão. De acordo com dados divulgados nesta terça-feira (22) pelo Tesouro Nacional, as vendas registradas foram de R$ 3,5 bilhões, enquanto os resgates ficaram em R$ 2,47 bilhões.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

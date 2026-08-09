@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 “O que mais queremos é voltar à normalidade, e o País retornar ao caminho da prosperidade”, disse Bolsonaro.
 
 O presidente da República, Jair Bolsonaro, comandou, nesta terça-feira (9), a 34ª Reunião do Conselho de Governo, no Palácio da Alvorada, para tratar das medidas adotadas pelo governo durante a pandemia do novo coronavírus. Ao abrir a reunião, o presidente lamentou as mortes provocadas pela doença no País e disse esperar que logo o Brasil possa retomar a normalidade. “O que mais queremos é voltar à normalidade, e o País retornar ao caminho da prosperidade”, disse Bolsonaro.
@@ -22,7 +21,7 @@ Bolsonaro destacou o pagamento do Auxílio Emergencial como uma medida important
 
 “Queremos pagar todos aqueles que fazem jus a esse Auxílio Emergencial. Sabemos que o recurso é pouco, mas para quem perdeu tudo, seiscentos reais ele sobrevive, passa por esse momento”, avaliou o presidente.
 
-A declaração feita nesta segunda-feira (8) por uma representante da Organização Mundial de Saúde (OMS) de que a transmissão da Covid-19 por assintomáticos é rara foi citada por Bolsonaro.  
+A declaração feita nesta segunda-feira (8) por uma representante da Organização Mundial de Saúde (OMS) de que a transmissão da Covid-19 por assintomáticos é rara foi citada por Bolsonaro.
 
 “Foi noticiado ontem, também de forma não comprovada ainda, como nada é comprovado na questão do coronavírus, mas que a transmissão por parte de assintomáticos é praticamente zero. Isso vai dar muito debate e muitas lições serão tomadas. Com toda certeza isso pode sinalizar a uma abertura mais rápida do comércio e a extinção daquelas medidas restritivas adotadas, segundo decisão do Supremo Tribunal Federal, por governadores e prefeitos”, disse.
 
@@ -85,5 +84,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

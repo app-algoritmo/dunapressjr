@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Porto Alegre foi a única cidade com queda na taxa de inflação.
 
 A inflação medida pelo Índice de Preços ao Consumidor Semanal (IPC-S) subiu em seis das sete capitais pesquisadas pela Fundação Getulio Vargas (FGV), na passagem de janeiro para fevereiro deste ano. A maior alta foi registrada em Salvador (0,62 ponto percentual, ao passar de 0,03% em janeiro para 0,65% em fevereiro).
@@ -22,8 +21,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 Em 1953 um homem abandonou um filhote de Pastor Alemão à porta do Canil da Polícia Militar no Barro Branco. Este pequeno e indefeso filhote foi então acolhido e treinado pela Polícia Militar, dentro de suas rígidas normas.
 
 Pouco tempo depois Dick, como passou a ser conhecido, já estava treinado e apto a ajudar seu parceiro inseparável, o soldado José Muniz de Souza. Não precisaram de muitas missões para perceber que se tratava de um cachorro especial e logo Dick já era o campeão das buscas realizadas pela PM. Mas o que fez este cachorro ser tão especial, foi um fato que comoveu a cidade inteira e mudou completamente o destino de uma família e do Canil da Polícia Militar de São Paulo. O Governador de São Paulo, na época, era Jânio Quadros, que mesmo contra a opinião pública, queria o fim dos cachorros na PM: “Faça os cães trabalharem, ou dissolva a matilha”.
@@ -35,7 +34,3 @@ Fonte: São Paulo Memórias da Cidade.
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

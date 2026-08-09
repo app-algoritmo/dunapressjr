@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 O ambiente interagências da Operação Verde Brasil 2 garante o máximo de integração entre as Instituições Federais, Órgãos de Segurança Pública e Fiscalização (OSPF) e Entidades públicas de proteção ambiental. Tal intercâmbio tem ampliado as capacidades de cada agente na missão de prevenir e reprimir delitos ambientais. Nesta quarta-feira (27), o Comando Conjunto Príncipe da Beira divulgou o estabelecimento de bases em Extrema e Nova Califórnia, em Rondônia, após operação realizada durante a madrugada.
 
 Mais de 450 militares e agentes se deslocaram em comboios e por vias aéreas para apurar a existência de desmatamento ilegal por parte de madeireiras na região da Ponta do Abunã. Também está sendo realizado patrulhamento na Região da Terra Indígena (TI) Kaxarari. A tropa do Exército está capacitada para prestar o apoio aos agentes ambientais na medição da madeira apreendida, na desmontagem dos equipamentos apreendidos e no transporte de todos os materiais até o depósito por eles indicados, caso necessário.
@@ -26,5 +25,3 @@ Entre delitos não relacionados a crimes ambientais, os militares apreenderam 20
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

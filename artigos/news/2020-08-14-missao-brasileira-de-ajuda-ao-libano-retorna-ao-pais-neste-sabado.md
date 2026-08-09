@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Aeronaves levaram seis toneladas de alimentos e medicamentos para doações. Além das seis toneladas de alimentos e medicamentos enviados nos aviões, Líbano receberá quatro mil toneladas de arroz por via marítima.
 
 s aviões brasileiros enviados em missão humanitária de ajuda ao Líbano retornam ao Brasil neste sábado (15/8). As aeronaves partiram da capital Beirute na tarde desta sexta-feira (14) e farão paradas técnicas para abastecimento antes de pousar em Anápolis (GO) e Brasília (DF).
@@ -28,6 +27,6 @@ Fonte Gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)****

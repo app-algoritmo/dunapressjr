@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Edital com o novo cronograma será publicado nesta quarta-feira (22) no Diário Oficial da União.
 
 As inscrições para o processo seletivo do 2º semestre de 2020 do Fundo de Financiamento Estudantil (Fies), previstas para iniciarem nesta terça-feira, 21, foram adiadas para o período de 28 a 31 de julho. A alteração se deu após o Ministério da Educação (MEC) identificar inconsistências no processamento da distribuição das vagas ofertadas pelas instituições de ensino superior.
@@ -18,7 +17,7 @@ Fonte: gov.br / Imagem em destaque: Abmes
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

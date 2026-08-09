@@ -55,7 +55,7 @@ Formula One F1 - Turkish Grand Prix - Istanbul Park, Istanbul, Turkey - November
 
 News,Superesportes, Notizie Sport, Globo Esporte, Carsughi
 
-https://dunapress.org/produto/assinatura-leitor-premio/?aff=milah44
+https://dunapress.org/produto/assinatura-leitor-premio/
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o
 

@@ -29,8 +29,7 @@ Léo pedalou sem nenhum dia de descanso. Fez média de 236,15 km por dia. "Em 20
 
 Para a aventura, o ciclista teve apoio da Shimano, Sense, Swift Bicycles, Caldasnovasapp, Ictus.Its e LM Mining Company.
 
-**Lives e venda de camisetas -** Ao longo do percurso, Leo realizou lives em que promoveu a venda de camisetas e o sorteio de sua bike, que ele chamou de "Bela" e, também, recebeu doações que ajudaram a viabilizar o projeto. Quem quiser acompanhar mais detalhes da aventura pode seguir pelo instagram (@leopedalandopelomundo) ou pelo seu canal no YouTube (leopedalandopelomundo).[
-](https://click.presskit.com.br/url/9687985cf7/6361388b6fc)
+**Lives e venda de camisetas -** Ao longo do percurso, Leo realizou lives em que promoveu a venda de camisetas e o sorteio de sua bike, que ele chamou de "Bela" e, também, recebeu doações que ajudaram a viabilizar o projeto. Quem quiser acompanhar mais detalhes da aventura pode seguir pelo instagram (@leopedalandopelomundo) ou pelo seu canal no YouTube (leopedalandopelomundo).
 **Dinheiro emprestado para a primeira bike –** A história de Leo com o ciclismo é recente. Há cinco anos, o goiano de Caldas Novas pediu dinheiro emprestado para comprar sua primeira bike. E partiu para os desafios sobre duas rodas. Em 2019, estabeleceu o recorde “Capitais do Brasil”, percorrendo as 27 capitais do país em 166 dias e um total de 18,5 mil quilômetros. Já em 2021, foi a vez do recorde do percurso entre o Monte Caburaí, em Roraima, e Chuí, no Rio Grande do Sul: 10 mil quilômetros percorridos em 44 dias.
 
 “Depois desses recordes pelo Brasil, quis partir para novas e maiores aventuras, um desafio fora do País, e fiquei sabendo da travessia Alaska – Terra do Fogo, da possibilidade de estabelecer essa nova marca e decidi encarar, seguir rumo ao Alaska para a maior aventura da minha vida, desbravando esses 23 mil quilômetros até Ushuaia”, completou.

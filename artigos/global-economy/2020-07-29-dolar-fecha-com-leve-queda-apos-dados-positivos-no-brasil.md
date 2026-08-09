@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa caiu 0,35% em dia de realização de lucros.
 
 Num dia de muita oscilação no mercado financeiro, o dólar fechou praticamente estável, depois de chegar a subir quase 1% durante a sessão. A bolsa de valores caiu 0,35%, em meio à realização de lucros, quando investidores vendem papéis para embolsarem ganhos dos dias anteriores.
@@ -34,4 +33,4 @@ O impasse interferiu nos mercados norte-americanos. O índice Dow Jones, da bols
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

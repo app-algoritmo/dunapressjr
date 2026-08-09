@@ -48,9 +48,7 @@ Referência quando se fala de superação, Aretha sabe que seus sonhos são gran
 ](https://click.presskit.com.br/url/992365a926/6361388b6fc)Linkedin: [www.linkedin.com/in/aretha-duarte-a44420191/?originalSubdomain=br
 ](https://click.presskit.com.br/url/9923660086/6361388b6fc)Youtube: [www.youtube.com/channel/UC5k7PFHnf64qRBWeqI1uoSg
 ](https://click.presskit.com.br/url/992367f420/6361388b6fc)Publicidade, Branding e Parcerias - [bernardo@arethaduarte.com
-](https://click.presskit.com.br/url/992368c4ea/6361388b6fc)Comercial e Palestras - [lais@365palestras.com.br](https://click.presskit.com.br/url/9923698b5d/6361388b6fc)[
-
-](https://click.presskit.com.br/url/9923708ae4/6361388b6fc)***Informações para imprensa:******
+](https://click.presskit.com.br/url/992368c4ea/6361388b6fc)Comercial e Palestras - [lais@365palestras.com.br](https://click.presskit.com.br/url/9923698b5d/6361388b6fc)***Informações para imprensa:******
 ZDL
 Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](https://click.presskit.com.br/url/9923710ff7/6361388b6fc) - F: 11 984579723***
 ***Rafael De Marco - Mtb.: 27556 - [rafael@zdl.com.br](https://click.presskit.com.br/url/992372f521/6361388b6fc) - F: 11 976022986***

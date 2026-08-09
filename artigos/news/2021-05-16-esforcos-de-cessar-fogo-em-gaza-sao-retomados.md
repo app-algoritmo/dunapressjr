@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Uma fonte diplomática disse que o Coordenador Especial da ONU tem mantido conversas extensas com todas as partes sobre um cessar-fogo em Gaza.
 
 Os esforços internacionais para alcançar um cessar-fogo em Gaza foram retomados, Barak Ravid de *Walla! Notícia* noticiada no domingo.
@@ -35,7 +34,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

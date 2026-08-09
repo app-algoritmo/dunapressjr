@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Conhecer as características dos solos do país é importante para garantir a segurança alimentar da população. E também para o planejamento do uso da terra no meio rural. Por isso, o Ministério da Agricultura, Pecuária e Abastecimento lançou, nesta quinta-feira (3), a plataforma tecnológica do Programa Nacional de Solos no Brasil (PronaSolos), que reúne os dados disponíveis sobre solos coletados nos últimos 80 anos.
 
 A plataforma é um sistema unificado e de fácil acesso que faz a interação de vários dados existentes para serem acessados por pesquisadores, produtores rurais e pela população em geral.
@@ -42,7 +41,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

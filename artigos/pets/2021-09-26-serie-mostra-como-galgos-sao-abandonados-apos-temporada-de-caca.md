@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 ## *De acordo com a SOS Galgos, a cada ano, cerca de 50 mil galgos são abandonados na Espanha ao final da temporada de caça*.
 
 Depois de adotar Lenna, uma galgo que seria sacrificada após a temporada de caça na Espanha, **[Travis Patenaude](https://www.stinkeyephotography.com/dogs?fbclid=IwAR3NArXLqToEoD3YjcZurm3OCIPy5lhvAaELAAawLHVY-XHDwYkhJYyn8uI)** decidiu aprender mais sobre essa raça de cães e o que poderia ser feito para levar um alento para esses animais.
@@ -41,7 +40,3 @@ Fonte: https://vegazeta.com.br/category/noticias/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

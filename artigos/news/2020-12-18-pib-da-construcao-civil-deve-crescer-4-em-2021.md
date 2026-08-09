@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Expansão do setor pode ser a maior desde 2013.
 
 Depois de um ano de retração por causa da pandemia do novo coronavírus (covid-19), a construção civil deverá ter, em 2021, o maior crescimento para o setor em oito anos. Segundo projeções divulgadas nesta quinta-feira (17) pela Câmara Brasileira da Indústria da Construção (Cbic), o Produto Interno Bruto (PIB) do segmento deve avançar 4% no próximo ano, depois de recuar 2,8% em 2020.
@@ -34,8 +33,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

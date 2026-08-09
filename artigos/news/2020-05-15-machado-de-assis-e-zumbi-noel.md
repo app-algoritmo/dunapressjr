@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Se há algo que a vida acadêmica nos ensina - e olhe que os ensinamentos por ali são poucos - é que um texto nunca conversa consigo mesmo, mas está em constante diálogo com outros textos e pessoas do passado, do presente e até do futuro, pois um raciocínio claro e fundamentado adquire um caráter de predição. Esse preâmbulo criei apenas para esclarecer por que defendo a posição do atual presidente da Fundação Palmares, Sérgio Camargo, que abriu espaço para a publicação do historiador, jornalista e professor Luiz Gustavo Chrispino, carinhosamente apelidado por mim de “Machado de Niterói”, em vista de sua semelhança física com o mulato órfão, autodidata e epilético que fundou a Academia Brasileira de Letras e se consagrou um dos maiores escritores do século 19.
 
 Intitulado “Zumbi e a Consciência Negra - Existem de Verdade?” o texto do professor Luiz, cujo link está no final desta matéria, é fruto de cuidadosa pesquisa em fontes reconhecidamente confiáveis, como os historiadores Varnhagen, Leda Maria de Albuquerque, Afonso d'Escragnolle Taunay Guilherme de Andréa Frota e Hélio Vianna, todos estudiosos do tema e que chegam à mesma conclusão: Zumbi não é nome próprio, mas título honorífico de “chefe”, e as menções a ele são pontuais e raras, sem nenhuma marca de distinção ou ato heroico.
@@ -27,5 +26,3 @@ Assim também esse Zumbi Noel tem entorpecido a consciência dos negros e gerado
 ## Ver também
 
 https://dunapress.org/2020/05/13/zumbi-e-a-consciencia-negra-existem-de-verdade/
-
-[](https://dunapress.org/subscription-plan/?ref=barrosprojectmanager)

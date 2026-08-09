@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Pagamento maior segue aumento do salário mínimo.
 
 A partir de fevereiro, os cerca de 13 milhões de microempreendedores individuais (MEI) registrados no país pagarão R$ 60,60 para contribuírem com a Previdência Social. O aumento, de 10,18%, segue o reajuste do salário mínimo, que passou de R$ 1,1 mil para R$ 1.212 em [**1º de janeiro**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-01/entra-em-vigor-o-novo-salario-minimo-de-r-1212).
@@ -24,10 +23,6 @@ O boleto mensal do Documento de Arrecadação Simplificada do MEI (DAS-MEI) pode
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

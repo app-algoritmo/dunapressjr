@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Novas versões de proteínas sensíveis à luz podem iluminar os cantos escuros das vias de comunicação do nosso cérebro.
 
 Uma proteína encontrada em um mosquito pode levar a uma melhor compreensão do funcionamento de nosso cérebro? O professor Ofer Yizhar e sua equipe do Departamento de Neurobiologia do Weizmann Institute of Science pegaram uma proteína sensível à luz derivada de mosquitos e a usaram para desenvolver um método aprimorado para investigar as mensagens que são transmitidas de neurônio a neurônio no cérebro de camundongos.
@@ -53,7 +52,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

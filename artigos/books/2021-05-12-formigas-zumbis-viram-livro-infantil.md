@@ -7,20 +7,19 @@ categories:
 - Books
 ---
 
-
 Mestrando em biologia de fungos, algas e plantas pela Universidade Federal de Santa Catarina (UFSC), Cauê Oliveira é integrante do grupo de pesquisa *Monitoring and Inventorying Neotropical Diversity of Fungi* (MIND.Funga) pela mesma instituição. O bolsista é coautor do livro infantil, “A descoberta nas pequenas coisas”, feito pelo grupo para incentivar o estudo científico e a participação da comunidade local na escolha do nome para o fungo, conhecido por tornar as formigas “zumbis”.
 
 **Fale um pouco sobre o seu trabalho.**
 O meu trabalho é sobre a investigação taxonômica e a história evolutiva de um grupo específico de fungos do gênero *Laetiporus* e espécies próximas. Além disso, tive a oportunidade de escrever um livro infantil com meus colegas do grupo de pesquisa MIND Funga, coordenado pelo Prof. Elisandro Ricardo Drechsler-Santos, que pretende mostrar para o público infantil como é o trabalho de um micólogo taxonomista – biólogo que estuda, descreve, identifica e classifica os fungos – desde a descoberta de uma nova espécie em campo até a finalização do trabalho, com a publicação de um nome científico para a mesma em revistas científicas.
 
-**Como surgiu a ideia do livro?**  
+**Como surgiu a ideia do livro?**
 Nosso grupo tem um projeto participante do Programa de Pesquisa em Biodiversidade de Santa Catarina (PPBio-PELD), dentro do Parque Nacional de São Joaquim, na serra catarinense. Ali surgiu a ideia do livro, com o intuito de inserir a comunidade do entorno nas atividades de pesquisa que realizamos e deixar com que eles façam a escolha do nome científico de uma das espécies que descobrimos no local. Escolhemos um fungo muito interessante como tema do livro, os fungos que infectam as formigas e passam a controlá-las. Conhecidos popularmente por fungos que tornam as formigas zumbis, eles são uma espécie ainda não descrita para a ciência.
 
 **Como o fungo contamina a formiga?**
 Os esporos dos fungos, ao serem levados pelo vento, podem se pregar ao corpo das formigas que vivem naquela região. Ao entrar pelo sistema respiratório eles atingem, principalmente, o sistema nervoso, e passam a controlar todas as ações do inseto. Essas formigas vão apresentar comportamentos diferentes, como por exemplo, subir grandes alturas em árvores.  Então, o parasita começa a consumir toda a parte interna da formiga e ali vai se propagar novamente. O fungo prefere locais mais altos, porque assim seus esporos poderão alcançar áreas maiores para a contaminação.
 
 **O fungo representa algum perigo para os seres humanos?**
-Não. Até o momento não há registros de um fungo que ataque o sistema nervoso humano.            
+Não. Até o momento não há registros de um fungo que ataque o sistema nervoso humano.
 
 **Como se deu seu interesse em trabalhar com o assunto?**
 O projeto do livro surgiu em uma das nossas reuniões do grupo de pesquisa MIND.Funga. Ali, o nosso orientador nos propôs o desafio de produzir um material a ser usado por professores da rede de ensino do município de Urubici (SC). Eles seriam convidados a visitar as áreas onde fazemos a pesquisa de campo e levariam de volta  essas informações para serem trabalhadas com seus alunos, em sala de aula. Como também tenho uma  formação em jornalismo, sempre tive vontade de poder conciliar a ciência, a educação e a arte para a divulgação da produção acadêmica.
@@ -52,7 +51,3 @@ Fonte: https://www.gov.br/capes
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

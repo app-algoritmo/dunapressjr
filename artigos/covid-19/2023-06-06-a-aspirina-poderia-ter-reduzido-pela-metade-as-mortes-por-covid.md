@@ -7,7 +7,6 @@ categories:
 - Covid-19
 ---
 
-
 Suspeito que essa droga popular tenha sido alvo de uma campanha de descrédito pela simples razão de que ela compete com anticoagulantes e analgésicos mais novos e muito mais caros, que custam muito mais.
 
 https://www.youtube.com/embed/hfRdFKmoU88?feature=oembed
@@ -184,7 +183,7 @@ Referências:
 
 - [16 ](https://takecontrol.substack.com/p/aspirin-for-covid#footnote-anchor-16-119228171)[Reuters 3 de novembro de 2020](https://www.reuters.com/article/health-coronavirus-lungs-int-idUSKBN27K00X)
 
-- [](https://takecontrol.substack.com/p/aspirin-for-covid#footnote-anchor-17-119228171)[Carta Townsend ](https://www.townsendletter.com/May2018/lumbrokinase0518_2.html)[de 17 de maio de 2018](https://takecontrol.substack.com/p/aspirin-for-covid#footnote-anchor-17-119228171)[](https://www.townsendletter.com/May2018/lumbrokinase0518_2.html)
+- [Carta Townsend ](https://www.townsendletter.com/May2018/lumbrokinase0518_2.html)[de 17 de maio de 2018](https://takecontrol.substack.com/p/aspirin-for-covid#footnote-anchor-17-119228171)
 
 - [18 ](https://takecontrol.substack.com/p/aspirin-for-covid#footnote-anchor-18-119228171)[Comparação de atividade enzimática de enzimas fibrinolíticas comuns 2011](https://www.townsendletter.com/May2018/LumbrokinaseFig2_0518.pdf)
 

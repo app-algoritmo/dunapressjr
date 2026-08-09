@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Com uma população cada vez menor e eventos educacionais ao vivo suspensos, Antony Lishak agarrou o volante para capturar testemunhos antes que seja tarde demais.
 
 Como uma das mais jovens sobreviventes do Holocausto, Eva Clarke passou anos contando a história de como sua mãe, pesando apenas 68 quilos, deu à luz dentro de um campo de concentração apenas um mês antes de ser libertado.
@@ -83,7 +82,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

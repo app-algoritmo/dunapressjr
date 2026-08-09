@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa caiu 1,13% em dia de realização de lucros.
 
 Depois de seis sessões seguidas de queda, o dólar voltou a subir e aproximou-se de R$ 5,40. A bolsa de valores encerrou em baixa depois de ter fechado no maior nível em quase três meses nesta quarta-feira.
@@ -33,5 +32,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

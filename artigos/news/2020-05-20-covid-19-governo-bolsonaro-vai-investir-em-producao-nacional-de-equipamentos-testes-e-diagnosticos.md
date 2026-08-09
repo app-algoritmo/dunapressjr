@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Ciência, Tecnologia, Inovações e Comunicações anunciou a liberação de R$ 352,8 milhões para cerca de cem projetos ligados ao enfrentamento à pandemia do novo coronavírus. Os recursos fazem parte da Medida Provisória 962 de 2020.
 
 Entre os projetos, está interligar, via internet, as unidades básicas de saúde. São cerca de mil pontos via satélite instalados nas áreas mais isoladas do País. Um investimento de R$ 6,3 milhões. O que vai dar mais eficiência ao sistema como afirmou o ministro Marcos Pontes, da Ciência, Tecnologia, Inovações e Comunicações. “Essas conexões de internet nas unidades básicas de saúde vão ficar como um legado para o País, para o sistema de saúde. Isso vai permitir, no futuro, telemedicina; vai permitir exames mais rápidos, o transporte de informações de forma mais dinâmica e eficiente”, disse.
@@ -32,5 +31,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 **Entre no link abaixo** e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

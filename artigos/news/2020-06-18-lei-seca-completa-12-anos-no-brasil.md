@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Lei Seca brasileira completa 12 anos na próxima sexta-feira (19). Para marcar a data, o Ministério da Infraestrutura (MInfra), por meio da Secretaria Nacional de Transportes Terrestres e do Departamento Nacional de Trânsito (Denatran), promoverá uma campanha nas redes sociais para conscientizar a população.
 
 De acordo com o ministério, as ações de conscientização, mesmo nesse momento de pandemia, ainda são necessárias. Por essa razão, é importante expor os riscos de dirigir depois de ter ingerido bebidas alcoólicas e substâncias psicoativas.
@@ -28,14 +27,14 @@ Segundo dados da Polícia Rodoviária Federal (PRF), apenas durante a pandemia (
 
 Ao longo de 2019, o total de acidentes provocados por bebidas alcoólicas foi de 5.631, sendo 1.412 graves. Além disso, cerca de 18 mil motoristas foram notificados por serem flagrados dirigindo sob efeito de álcool.
 
-Resultados 
+Resultados
 
 Na próxima sexta-feira (19), data em que se celebra 12 anos da Lei Seca, será promovido um Webinar entre especialistas para debater seus resultados ao longo dos anos. O evento contará com a presença do Secretário Nacional de Transportes Terrestres, Marcello da Costa; do Diretor do Denatran, Frederico de Moura Carneiro; do Secretário Nacional de Cuidados e Prevenção de Uso de Drogas, Quirino Cordeiro; do Senador Styvenson Vatentim e do Deputado Federal Hugo Leal. O debate acontecerá das 9h30 às 12h e será transmitido pelo canal do Youtube do MInfra.
 
 O link de inscrição está disponível até às 18h de quinta-feira (18). O e-mail para esclarecimento de dúvidas é [webinar@infraestrutura.gov.br](mailto:webinar@infraestrutura.gov.br).
 
-**Faça [aqui sua inscrição](https://bit.ly/3fzLgD1)**
+**Faça aqui sua inscrição**
 
 Fonte gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

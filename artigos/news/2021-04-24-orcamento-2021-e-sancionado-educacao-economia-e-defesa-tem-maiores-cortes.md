@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Somando os cancelamentos e bloqueios, o Orçamento perdeu R$ 29,1 bilhões em comparação com o projeto aprovado pelo Congresso.
 
 O presidente Jair Bolsonaro sancionou nesta quinta-feira (22) a lei orçamentária de 2021 com veto a R$ 19,767 bilhões, cancelados definitivamente, e bloqueio adicional de R$ 9,3 bilhões em despesas discricionárias, que podem ser liberados no decorrer deste ano. Os maiores bloqueios foram nos ministérios da Educação (2,7 bilhões), Economia (R$ 1,4 bilhão) e Defesa (R$ 1,3 bilhão).
@@ -41,5 +40,3 @@ O déficit da Previdência para 2021 é estimado em R$ 369,9 bilhões, ou 4,7% d
 Fonte: Agência Câmara de Notícias
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em médias móveis trimestrais, indicador manteve tendência de alta.
 
 O Índice de Confiança Empresarial (ICE) calculado pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV) apresentou queda de 2,5 pontos em setembro, passando para 99,9 pontos. O resultado interrompeu a sequência de altas que começou em abril deste ano. De acordo com o Ibre, em médias móveis trimestrais, o indicador manteve tendência de alta ao avançar 0,4 ponto.
@@ -28,10 +27,6 @@ Os resultados de setembro indicam ainda que a confiança empresarial aumentou em
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

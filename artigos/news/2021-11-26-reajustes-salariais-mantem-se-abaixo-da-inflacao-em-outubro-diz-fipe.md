@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## São Paulo e Minas concentram maioria dos acordos negociados.
 
 O reajuste mediano dos salários nas negociações ocorridas em outubro ficou 1,8 ponto percentual abaixo do Índice Nacional de Preços ao Consumidor (INPC). A inflação acumulada nos últimos 12 meses, tendo outubro como referência, é 10,8%.
@@ -26,14 +25,10 @@ De acordo com a Fipe, a inflação calculada pelo Instituto Brasileiro de Geogra
 
 O acompanhamento das negociações coletivas é feito por meio de acordos e convenções registrados no Mediador do Ministério da Economia.
 
-A Fipe coleta os dados e informações disponíveis no sistema, tabula e organiza os valores observados para 40 resultados da negociação coletiva, reunidos em acordos e convenções e também por atividade econômica e setores econômicos. 
+A Fipe coleta os dados e informações disponíveis no sistema, tabula e organiza os valores observados para 40 resultados da negociação coletiva, reunidos em acordos e convenções e também por atividade econômica e setores econômicos.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Mudanças previstas preveem manutenção da carga tributária global, sem aumento do peso dos impostos sobre os brasileiros.
 
 Manutenção da carga tributária global, combate à sonegação, redução de distorções e fins de privilégios, simplificação e menos custos, segurança jurídica, neutralidade nas decisões econômicas, foco no estímulo ao investimento e geração de empregos foram os pilares que nortearam a construção da segunda fase da Reforma Tributária, entregue nesta sexta-feira (25) pelo governo federal ao Congresso. Os detalhes da proposta foram apresentados em entrevista coletiva virtual concedida por equipe do Ministério da Economia (ME) logo após o texto ter sido entregue pelo ministro da Economia, Paulo Guedes, e pelo secretário especial da Receita Federal, José Tostes Neto, ao presidente da Câmara, deputado Arthur Lira (PP/AL).
@@ -41,8 +40,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Foram 109 projetos selecionados em três editais que vão estudar Epidemias, Fármacos e Imunologia e Telemedicina e Análise de dados Médicos. Mais de 1.300 pesquisadores participarão.
 
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) divulgou nesta quinta, 16, o resultado final dos projetos selecionados no âmbito do [Programa de Combate a Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/capes-telemedicina-e-analise-de-dados-medicos-edital-n-12-2020). Em três editais, 109 projetos de pesquisa e formação de recursos humanos foram selecionados. Mais de 1.300 pesquisadores de universidades brasileiras e  estrangeiras estarão envolvidos nos estudos. Os projetos vão estudar temas relacionados a [Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/prevencao-e-combate-a-surtos-endemias-epidemias-e-pandemias-edital-n-09-2020), [Fármacos e Imunologia](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/capes-farmacos-e-imunologia-edital-n-11-2020) e [Telemedicina e Análise de dados Médicos](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/capes-telemedicina-e-analise-de-dados-medicos-edital-n-12-2020).
@@ -28,7 +27,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

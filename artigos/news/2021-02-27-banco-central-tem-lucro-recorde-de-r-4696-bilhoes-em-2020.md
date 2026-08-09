@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alta do dólar no ano passado contribuiu para resultado.
 
 A forte alta do dólar no ano passado fez o Banco Central (BC) fechar 2020 com lucro recorde de R$ 469,61 bilhões. O Conselho Monetário Nacional (CMN) aprovou nesta sexta-feira (26) o balanço com as contas da instituição financeira no ano passado.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Profissão: Físico.
 
 Biografia: Cesare Mansueto Giulio Lattes, conhecido como César Lattes, foi um dos cientistas brasileiros mais brilhantes de sua geração. Com apenas 23 anos, ao lado do cientista inglês Cecil Frank Powell e o italiano Giuseppe Occhialini, descobriu uma partícula no interior do núcleo atômico que garante a coesão do átomo: o méson pi.
@@ -30,7 +29,7 @@ Apesar do seu falecimento em março de 2005, Lattes até hoje é alvo de inúmer
 
 Frases
 
-“A ciência não pode prever o que vai acontecer. Só pode prever a probabilidade de algo acontecer. ” 
+“A ciência não pode prever o que vai acontecer. Só pode prever a probabilidade de algo acontecer. ”
 
 “Tudo o que eu fiz não vale uma sinfonia de Mozart.
 
@@ -55,7 +54,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

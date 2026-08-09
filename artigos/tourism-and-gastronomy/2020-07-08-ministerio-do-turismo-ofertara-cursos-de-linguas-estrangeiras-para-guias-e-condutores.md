@@ -8,10 +8,9 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Serão ofertadas mais de 4,2 mil vagas em cursos de inglês e espanhol para os profissionais.
 
-Os guias e condutores de turismo de todo o Brasil terão mais uma oportunidade de qualificação profissional. Agora, em línguas estrangeiras. Isso porque o Ministério do Turismo fechou um acordo de cooperação com o Instituto Federal do Tocantins (IFTO), a Federação Nacional dos Guias de Turismo (Fenag) e com o Conselho Municipal de Turismo de Alto Paraíso (GO) para ofertar cursos de inglês e espanhol para estes profissionais. Ao todo, serão oferecidas mais de 4,2 mil vagas para os parceiros. 
+Os guias e condutores de turismo de todo o Brasil terão mais uma oportunidade de qualificação profissional. Agora, em línguas estrangeiras. Isso porque o Ministério do Turismo fechou um acordo de cooperação com o Instituto Federal do Tocantins (IFTO), a Federação Nacional dos Guias de Turismo (Fenag) e com o Conselho Municipal de Turismo de Alto Paraíso (GO) para ofertar cursos de inglês e espanhol para estes profissionais. Ao todo, serão oferecidas mais de 4,2 mil vagas para os parceiros.
 
 De acordo com o ministro do Turismo, Marcelo Álvaro Antônio, a disponibilização destes cursos será uma importante aliada na retomada do turismo. “Cada vez mais, o mundo tem buscado um maior aperfeiçoamento para atender às demandas que surgem no dia a dia, principalmente em nosso segmento. Para isso, estamos trazendo mais estas oportunidades para estes profissionais, pois sabemos que a qualificação será uma das molas para que o setor turístico volte com tudo após este período que passamos”, concluiu.
 
@@ -23,7 +22,7 @@ A qualificação no turismo é um dos pilares trabalhados pelo Ministério do Tu
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

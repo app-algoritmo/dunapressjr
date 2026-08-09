@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Dentes tortos, separados, grandes ou muito pequenos. Grande parte das pessoas sofre com os dentes desalinhados. Uma pesquisa da Associação Americana de Ortodontia mostrou que em torno de 66% da população têm algum problema de saúde bucal associado ao mau posicionamento dos dentes. Portanto, fazer a correção não é só uma questão de estética. "Dentes tortos dificultam a escovação, podendo causar problemas periodontais como gengivite e periodontite, além de facilitar o aparecimento do tártaro e da cárie", explica a cirurgiã-dentista Caroline Aranalde, especialista da ClearCorrect.
 
  Conheça alguns dos motivos para alinhar os dentes:
@@ -18,7 +17,7 @@ Dentes desalinhados podem dificultar a escovação. Colocar os dentes no lugar e
 
 - **Prevenção de doenças bucais**
 
-A dificuldade em higienizar a boca da maneira correta pode facilitar o surgimento de cáries, tártaros e problemas gengivais. "Cáries e gengivite são algumas das principais doenças que podem aparecer devido à má higienização dos dentes tortos. Com isso, as bactérias proliferam facilmente", afirma a especialista. Os dentes tortos também podem afetar as articulações da mandíbula e trazer problemas para mastigar. 
+A dificuldade em higienizar a boca da maneira correta pode facilitar o surgimento de cáries, tártaros e problemas gengivais. "Cáries e gengivite são algumas das principais doenças que podem aparecer devido à má higienização dos dentes tortos. Com isso, as bactérias proliferam facilmente", afirma a especialista. Os dentes tortos também podem afetar as articulações da mandíbula e trazer problemas para mastigar.
 
 - **Outro problema é a respiração bucal**
 
@@ -43,7 +42,3 @@ Release  por Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

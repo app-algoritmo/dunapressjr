@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa tem primeira alta depois de seis quedas consecutivas.
 
 Em mais um dia de volatilidade no mercado financeiro, o dólar subiu, ignorando a melhora no cenário externo. A bolsa de valores teve uma alta forte depois de seis dias seguidos de queda, impulsionada pelas bolsas norte-americanas.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Companhia Docas da Paraíba vai exportar sal marinho pela primeira vez. O material veio do Rio Grande do Norte e será exportado pelo Porto de Cabedelo no mês de dezembro, com desembarque na Europa. O produto faz parte das novas cargas que a Docas passou ou voltou a operar em 2020.
 
 O armazenamento da carga de sal marinho acontece no Armazém 7. A exportação será do tipo “big bag”. Os big bags são contentores flexíveis de transporte de volumes médios que podem ser usados para armazenar qualquer tipo de granulado ou até mesmo líquidos, com segurança, resistência e maleabilidade máximas.
@@ -24,5 +23,3 @@ Fonte: paraiba.pb.gov.br
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

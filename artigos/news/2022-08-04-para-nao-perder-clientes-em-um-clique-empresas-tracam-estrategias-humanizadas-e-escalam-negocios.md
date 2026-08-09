@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Mais de um terço dos consumidores consideram a possibilidade de romper com uma marca depois de uma experiência ruim. A pesquisa da Sitel *Group* mostra que oferecer bons produtos já não é mais suficiente para deixar o consumidor feliz. Num mercado altamente competitivo e dinâmico, as empresas precisam melhorar cada vez mais o relacionamento com os clientes. Mas as formas de garantir a atração e a retenção mudaram radicalmente. O público demanda atendimento *omnichannel* e experiências humanizadas.
 
 "Colocar o consumidor no centro é determinante para que empresas obtenham o crescimento de seus negócios de forma sustentável. Mas, para garantir a satisfação do consumidor, é preciso dar um passo atrás e conhecê-lo." É o que defendeu a CEO da Customer Centric Consulting, Euriale Voudela, durante o painel sobre *omnichannel*, realizado no Viasoft Connect 2022 e promovido pela Nexcore. "Quanto mais *insights* do comportamento do consumidor, mais ofertas agregativas são possíveis", complementou.
@@ -38,7 +37,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

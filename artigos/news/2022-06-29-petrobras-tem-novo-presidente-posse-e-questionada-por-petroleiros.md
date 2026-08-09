@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Mandato de presidente vai até o dia 13 de abril de 2023.
 
 O ex-secretário especial de Desburocratização do Ministério da Economia Caio Mário Paes de Andrade tomou posse nesta terça-feira (28) como Conselheiro de Administração e presidente da Petrobras. O ato interno foi realizado na sede da companhia, no Rio de Janeiro. Andrade foi aprovado para os dois cargos durante reunião realizada na segunda-feira (27) pelo conselho e se tornou o quinto titular da companhia no governo do presidente Jair Bolsonaro.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 O café é um produto largamente consumido em várias partes do mundo, principalmente em países ocidentais. O café já se tornou hábito dos brasileiros, sendo costume no país oferecer a bebida a convidados, colegas de trabalho ou consumi-la após as refeições. Embora exista há bastante tempo, o café não é uma das bebidas mais antigas do mundo. A *Coffea arabica* (nome científico da variedade mais comum de café) se originou na Abissínia, no continente africano, local que hoje pertence à Etiópia. A espécie foi levada para a Arábia, onde seu cultivo e consumo estão registrados desde 1450. Inclusive, a palavra “café” é originada da palavra árabe “qahwah”, que significa vinho. Sua apreciação na Europa e a ampliação do comércio internacional contribuíram para sua difusão pelo mundo e popularização da bebida.
 
 Além da cafeína, causadora da sensação de disposição associada ao consumo da bebida, estão presentes no café várias outras substâncias que são responsáveis por seus sabores e aromas. Os diversos gostos e cheiros que experimentamos ao tomar um gole de café são resultado de longos processos que vão desde o seu plantio até o preparo. Características do solo, práticas de colheita e pós-colheita e condições climáticas influenciam as transformações químicas e físicas que as moléculas existentes no café sofrem ao longo de sua produção, dando a cada bebida uma identidade própria. Não é à toa que avaliadores profissionais de cafés muitas vezes são capazes de “adivinhar” sua origem geográfica com base apenas no que sentem ao prová-los.
@@ -49,7 +48,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

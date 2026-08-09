@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Atrações são realizadas tomando todos os cuidados possíveis para garantir a segurança e saúde dos visitantes.
 
 O pôr do sol de Foz do Iguaçu (PR) será o palco das apresentações culturais do Marco das 3 Fronteiras, um dos principais destinos turísticos do Brasil. O local, que recebe diversas intervenções artísticas desde a sua reabertura, está obedecendo a todos os protocolos de proteção e saúde recomendados pelos órgãos responsáveis. As apresentações ocorrem de terça-feira a domingo, a partir das 17h30.
@@ -24,7 +23,7 @@ O público tem a oportunidade de contemplar o belo pôr do sol com uma vista do 
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

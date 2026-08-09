@@ -7,20 +7,19 @@ categories:
 - Health
 ---
 
-
 ## Alguns países ao redor do mundo já suspendem o uso de máscaras após avanço da vacinação; entenda como esse cenário não se aplica ao Brasil.
 
 Imagens simbólicas têm viralizado recentemente na internet com repórteres tirando as máscaras ao vivo ao noticiar que, nos Estados Unidos, o uso de máscaras não é mais obrigatório para a população já vacinada com as duas doses. Um gesto simples e tão esperado por milhões de pessoas ao redor do mundo que traz esperança de volta à normalidade. Mas, no Brasil, essa realidade ainda está distante. Confira abaixo alguns motivos pelos quais deve-se manter o uso de máscaras e o distanciamento social no Brasil mesmo com a vacinação.
 
 **Aumento constante no número de casos**
 
-Em mais de um ano de pandemia do novo coronavírus, o país vive o pior momento no número de contágios e mortes diárias por causa da Covid-19. São mais de 70 mil novos casos diários, enquanto nos Estados Unidos a curva de contágio tem diminuído conforme a vacinação avança no país. O infectologista do Hospital Universitário Cajuru, João Telles, explica que o aumento no Brasil se deve a três fatores principais. “A presença de variantes de cepas circulando no território nacional, somado ao baixo número de pessoas vacinadas com as duas doses e o aumento da circulação da população economicamente ativa acabam culminando no alto número de casos de Covid no Brasil”, diz. 
+Em mais de um ano de pandemia do novo coronavírus, o país vive o pior momento no número de contágios e mortes diárias por causa da Covid-19. São mais de 70 mil novos casos diários, enquanto nos Estados Unidos a curva de contágio tem diminuído conforme a vacinação avança no país. O infectologista do Hospital Universitário Cajuru, João Telles, explica que o aumento no Brasil se deve a três fatores principais. “A presença de variantes de cepas circulando no território nacional, somado ao baixo número de pessoas vacinadas com as duas doses e o aumento da circulação da população economicamente ativa acabam culminando no alto número de casos de Covid no Brasil”, diz.
 
 **Baixo índice de vacinados no país**
 
-A suspensão do uso de máscaras entre os norte-americanos é resultado do alto número de pessoas já completamente vacinadas no país, que contempla inclusive adolescentes a partir de 12 anos de idade. Enquanto isso, o Brasil ainda vacina idosos e pessoas com comorbidades. 
+A suspensão do uso de máscaras entre os norte-americanos é resultado do alto número de pessoas já completamente vacinadas no país, que contempla inclusive adolescentes a partir de 12 anos de idade. Enquanto isso, o Brasil ainda vacina idosos e pessoas com comorbidades.
 
-O infectologista explica que, para suspender as máscaras, é necessário que uma alta parcela da população esteja imunizada. “Se tivermos um alto índice de vacinação, com uma curva baixa de contágios e baixa ocupação hospitalar, os riscos de transmissão comunitária são menores. É preciso que esses três fatores estejam andando juntos. Mas essa é uma realidade completamente diferente do Brasil, onde não temos uma grande parcela da população vacinada, com número de casos variando bastante e taxa de ocupação hospitalar muito alta, na maioria das cidades”, afirma. 
+O infectologista explica que, para suspender as máscaras, é necessário que uma alta parcela da população esteja imunizada. “Se tivermos um alto índice de vacinação, com uma curva baixa de contágios e baixa ocupação hospitalar, os riscos de transmissão comunitária são menores. É preciso que esses três fatores estejam andando juntos. Mas essa é uma realidade completamente diferente do Brasil, onde não temos uma grande parcela da população vacinada, com número de casos variando bastante e taxa de ocupação hospitalar muito alta, na maioria das cidades”, afirma.
 
 **Crescimento de casos em jovens**
 
@@ -37,7 +36,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

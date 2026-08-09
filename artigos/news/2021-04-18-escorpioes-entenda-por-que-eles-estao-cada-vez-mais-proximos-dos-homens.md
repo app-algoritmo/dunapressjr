@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Os escorpiões estão cada vez mais próximos dos seres humanos e é no verão que eles mais aparecem, e que os acidentes aumentam. Geralmente os escorpiões são encontrados em cemitérios, terrenos baldios, em meio a materiais de construção e entulhos, podendo aparecer dentro das residências tanto em bairros nobres como em periferias - sendo que nestas o número de acidentes costuma ser ainda maior devido a deficiência no saneamento básico.
 
-Dados do Ministério da Saúde registraram, em 2018, 141,4 mil casos de acidentes com escorpiões em todo o país. Em 2017, foram 125 mil registros de acidentes. Estão mais expostos os trabalhadores da construção civil, quem trabalha na rua, com esgoto ou movimentando materiais que ficaram parados; bem como crianças, que brincam pelo chão e quintal. 
+Dados do Ministério da Saúde registraram, em 2018, 141,4 mil casos de acidentes com escorpiões em todo o país. Em 2017, foram 125 mil registros de acidentes. Estão mais expostos os trabalhadores da construção civil, quem trabalha na rua, com esgoto ou movimentando materiais que ficaram parados; bem como crianças, que brincam pelo chão e quintal.
 
 Uma das causas que aproxima os escorpiões da cidade é o fato de as áreas urbanas abrigarem muitas baratas, que são o alimento preferido desses aracnídeos. Por isso a importância de manter quintais, jardins e demais terrenos limpos e, se possível, sem entulhos. Recomenda-se o fechamento correto dos sacos de lixo, instalação de telas tanto nos ralos de casa como nas janelas e inclusão de sacos de areia nas frestas das portas.
 
@@ -36,7 +35,7 @@ Sobre a utilização de produtos químicos no controle de escorpiões, a biólog
 
 Os acidentes por escorpiões podem ser divididos em três tipos – leves, moderados ou graves – e são mais frequentes na primavera e no verão, épocas em que a população do aracnídeo aumenta devido ao período de reprodução.  O veneno, por ser neurotóxico, é capaz de mexer com todo o sistema nervoso e pode causar muita dor no local da picada, podendo se estender para o membro inteiro. Nesse caso, o médico faz infiltração de anestésico para que a dor fique localizada e diminua rapidamente.
 
-Evoluindo para o caso moderado, a dor ficará mais intensa e o acidente pode causar suor excessivo, náuseas e vômitos, e a partir daí o moderado se torna grave. O agravamento leva à salivação, insuficiência cardíaca, edema pulmonar e até mesmo ao óbito. Para esses dois casos, utiliza-se a soroterapia. O médico avalia quantas ampolas serão necessárias de acordo com a evolução do caso, e o paciente pode ficar internado e em observação. Levar o animal para o atendimento médico pode ajudar a fazer o tratamento adequado mais rapidamente. 
+Evoluindo para o caso moderado, a dor ficará mais intensa e o acidente pode causar suor excessivo, náuseas e vômitos, e a partir daí o moderado se torna grave. O agravamento leva à salivação, insuficiência cardíaca, edema pulmonar e até mesmo ao óbito. Para esses dois casos, utiliza-se a soroterapia. O médico avalia quantas ampolas serão necessárias de acordo com a evolução do caso, e o paciente pode ficar internado e em observação. Levar o animal para o atendimento médico pode ajudar a fazer o tratamento adequado mais rapidamente.
 
 Após o acidente, Denise Candido recomenda não ingerir nada, muito menos bebida alcoólica. Nada disso vai amenizar a dor e nem agir contra o veneno. Também não é correto colocar gelo ou água fria no local da picada: isso faz com que a dor fique muito maior. A única coisa que age contra o veneno é o soro antiaracnídico e antiescorpiônico.
 
@@ -56,7 +55,3 @@ Fonte: butantan.gov.br
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

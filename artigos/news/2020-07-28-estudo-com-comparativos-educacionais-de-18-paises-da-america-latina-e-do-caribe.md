@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O que se espera que aprendam os estudantes da América Latina e do Caribe? A resposta para esta pergunta será divulgada nesta terça-feira, 28 de julho, durante evento on-line promovido pelo Laboratório Latino-americano de Avaliação da Qualidade da Educação (LLECE), ligado à Oficina Regional de Educação para América Latina e Caribe (OREALC/UNESCO Santiago). A programação terá início às 12h (horário de Brasília) e inclui a entrega dos principais resultados encontrados na análise curricular do Estudo Regional Comparativo e Explicativo (Erce) 2019. No Brasil, o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) é o responsável pela aplicação do Erce, do qual participa desde a primeira edição, em 1997.
 
 Os 18 países que participaram do Erce, em 2019, foram Argentina, Brasil, Bolívia, Chile, Colômbia, Costa Rica, Cuba, Equador, El Salvador, Guatemala, Honduras, México, Nicarágua, Panamá, Paraguai, Peru, República Dominicana e Uruguai. Na fase da análise curricular, o estudo incluiu também a Venezuela.
@@ -30,7 +29,7 @@ Fonte: gov.br / Imagem em destaque: Atn
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

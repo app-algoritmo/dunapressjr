@@ -8,14 +8,11 @@ categories:
 - News
 ---
 
-
 ## De janeiro a setembro, as mortes intencionais caíram 9,6% em relação a 2022.
 
 [O número de homicídios dolosos segue em queda no estado de São Paulo. De janeiro a setembro deste ano, foram registrados 1.931 casos, 9,6% a menos que os 2.135 contabilizados no mesmo período de 2022. O número é o menor já registrado desde 2001 – quando a série histórica foi iniciada -, ficando abaixo de 2 mil ocorrências pela 2º vez nestes 23 anos.](http://www.facebook.com/sharer.php?u=https://www.saopaulo.sp.gov.br/ultimas-noticias/sp-tem-queda-recorde-de-homicidio-com-registros-abaixo-de-2-mil-pela-2o-vez-em-23-anos/)
 
 Em setembro, a queda do indicador foi de 5,9% em relação ao mesmo mês do ano passado, de 253 para 238 registros.
-
-[](https://www.saopaulo.sp.gov.br/wp-content/uploads/2023/10/D00051818-e1698265536384.png)
 
 Os latrocínios também tiveram queda recorde na série histórica no acumulado deste ano, registrando 119 ocorrências, 4% a menos do que na comparação com os nove primeiros meses do ano passado. Em setembro, o recuo foi de 19 para 16 casos.
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### INCC-M acumula taxas de inflação de 4,27% no ano e 11,20% em 12 meses.
 
 O Índice Nacional de Custo da Construção – M (INCC-M) registrou inflação de 1,49% em maio deste ano. A taxa é maior do que a observada em abril (0,87%) e menor do que a de maio do ano passado, quando o índice registrou taxa de 1,80%.
@@ -20,8 +19,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

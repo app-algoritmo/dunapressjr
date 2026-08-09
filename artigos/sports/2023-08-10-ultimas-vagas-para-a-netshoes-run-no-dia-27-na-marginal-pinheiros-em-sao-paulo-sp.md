@@ -21,11 +21,11 @@ A Corrida Infantil, com largada às 9h30, terá convidados mais do que especiais
 Kit Básico
 (Divulgação)
 
-Para entreter todos os participantes, Raphael, Michelângelo, Donatello e Leonardo vão interagir com as crianças, tirar fotos e distribuir os ingressos e as máscaras. O percurso será de até 400 metros e distância de acordo com a faixa etária. 
+Para entreter todos os participantes, Raphael, Michelângelo, Donatello e Leonardo vão interagir com as crianças, tirar fotos e distribuir os ingressos e as máscaras. O percurso será de até 400 metros e distância de acordo com a faixa etária.
 
 A Netshoes Run contará, também, com percursos de 5 km e 10 km para os adultos. A corrida de 10 km terá largada às 7h, seguida pelo percurso de 5 km, às 7h30, contando com altimetria perfeita para quem está iniciando ou para quem já corre e quer baixar seu tempo.
 
-“Essa é a primeira corrida de rua organizada pela Netshoes desde 2016. Queremos que seja um evento grandioso, com muita diversão para as famílias, e que desperte a vontade das pessoas em praticar atividade física também nos fins de semana”, afirma Rafael Montalvão, diretor de marketing da Netshoes. 
+“Essa é a primeira corrida de rua organizada pela Netshoes desde 2016. Queremos que seja um evento grandioso, com muita diversão para as famílias, e que desperte a vontade das pessoas em praticar atividade física também nos fins de semana”, afirma Rafael Montalvão, diretor de marketing da Netshoes.
 
 Kit Infantil
 (Divulgação)
@@ -40,9 +40,7 @@ André Vendrami
 **](https://click.presskit.com.br/url/9627121a02/6361388b6fc)**Gabriela Tornich****
 **[gabriela.tornich@novapr.com.br**
 **](https://click.presskit.com.br/url/962713107e/6361388b6fc)**Patricia Vivas****
-**[patricia.vivas@novapr.com.br](https://click.presskit.com.br/url/9627148c57/6361388b6fc)[
-
-](https://click.presskit.com.br/url/962715ecc5/6361388b6fc)***ZDL - Imprensa Sagaz******
+**[patricia.vivas@novapr.com.br](https://click.presskit.com.br/url/9627148c57/6361388b6fc)***ZDL - Imprensa Sagaz******
 Doro Jr. - MTb 13209 - ***[***dorojr@zdl.com.br***](https://click.presskit.com.br/url/9627166a32/6361388b6fc)*** - 11 984579723******
 Deborah Mamone - MTb 15148  - ***[***deborah@zdl.com.br***](https://click.presskit.com.br/url/962717a68f/6361388b6fc)*** - 11 3285.5911******
 Site: ***[***www.zdl.com.br

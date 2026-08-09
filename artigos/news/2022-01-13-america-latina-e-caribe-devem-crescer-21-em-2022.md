@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## Em 2021, a região cresceu 6,2%.
 
 A Comissão Econômica para a América Latina e o Caribe (Cepal) está prevendo para este ano um crescimento médio de 2,1% para a região, bem abaixo dos 6,2% registrados em 2021.
 
 O relatório anual Balanço Preliminar das Economias da América Latina e do Caribe 2021, divulgado nesta quarta-feira (12), além da previsão de desaceleração do crescimento este ano, ainda analisa questões como as assimetrias no acesso à vacinação, as altas taxas de desemprego, principalmente entre as mulheres, e a inflação.
 
-O relatório da Cepal aponta como as estimativas de crescimento e outros indicadores econômicos refletem o impacto sofrido pelos países da região em decorrência da crise da covid-19. 
+O relatório da Cepal aponta como as estimativas de crescimento e outros indicadores econômicos refletem o impacto sofrido pelos países da região em decorrência da crise da covid-19.
 
 "A América Latina e o Caribe cresceram, em média, 6,2% (em 2021), mas quando vamos analisar América Central e México estamos em 6%, e quando vemos América Central sem o México estamos em 6,7%, um crescimento muito importante, tendo Panamá como uma das economias mais importantes. No caso da América do Sul, o Peru, com 13,5%; também Chile, com 11,8%; e Argentina, com 6,8%, crescimentos muito importantes nessas economias", explicou Alicia Bárcena, secretária-executiva da Comissão Regional das Nações Unidas. O Brasil apresentou um crescimento 4,7% no ano passado.
 
@@ -38,10 +37,6 @@ Para 2022, a Cepal projeta uma taxa de desocupação de 11,5% para as mulheres -
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ceratocone é uma doença dos olhos que afeta a estrutura da córnea, camada fina e transparente que recobre toda a frente do globo ocular. Ao sofrer afinamento e aumento na sua curvatura, a córnea deixa de ser redonda e adquire formato de cone.
 
 A data comemorativa foi criada em 2016 pela National Keratoconus Foundation (NKCF) com o objetivo principal de conscientizar e informar sobre o ceratocone, doença que atinge 1 a cada 2.000 pessoas.
@@ -59,7 +58,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

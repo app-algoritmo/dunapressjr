@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
+Fazer exercício físico escutando música no *smartphone*. Busca por espaços para atividades e assistência on-line de treinos. O relógio avisando quantos quilômetros foram percorridos. Cada dia mais, a tecnologia tem se mostrado muito útil à prática de atividades físicas. A inteligência artificial no esporte está presente desde a música que acompanha a corrida até a procura por treinos e ajuda profissional.
 
-Fazer exercício físico escutando música no *smartphone*. Busca por espaços para atividades e assistência on-line de treinos. O relógio avisando quantos quilômetros foram percorridos. Cada dia mais, a tecnologia tem se mostrado muito útil à prática de atividades físicas. A inteligência artificial no esporte está presente desde a música que acompanha a corrida até a procura por treinos e ajuda profissional. 
-
-A tecnologia vem mudando o esporte todos os dias, e ajudando os profissionais dessa área. E isso vai além do VAR (Video Assistant Referee), que veio para ficar nas partidas de futebol. No dia a dia, equipamentos e roupas também estão sendo utilizados para monitorar a taxa cardíaca, distância percorrida e velocidade dos esportistas. Além disso, alguns aplicativos aproximam as pessoas dos profissionais de saúde e, consequentemente, do esporte. Praticantes de atividades físicas conseguem encontrar, por exemplo, nutricionistas e* personal trainers *pelos aplicativos. 
+A tecnologia vem mudando o esporte todos os dias, e ajudando os profissionais dessa área. E isso vai além do VAR (Video Assistant Referee), que veio para ficar nas partidas de futebol. No dia a dia, equipamentos e roupas também estão sendo utilizados para monitorar a taxa cardíaca, distância percorrida e velocidade dos esportistas. Além disso, alguns aplicativos aproximam as pessoas dos profissionais de saúde e, consequentemente, do esporte. Praticantes de atividades físicas conseguem encontrar, por exemplo, nutricionistas e* personal trainers *pelos aplicativos.
 
 **Incentivo ao esporte nas cidades inteligentes**
 
@@ -29,7 +28,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

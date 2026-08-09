@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O tribunal apurou sobrepreço de R$ 123 milhões.
 
 O Tribunal de Contas do Estado do Rio de Janeiro (TCE-RJ), por meio da Secretaria Geral de Controle Externo (SGE), concluiu o relatório de Auditoria Governamental para verificar irregularidades nos contratos emergenciais da Secretaria Estadual de Saúde do Rio para a aquisição de ventiladores pulmonares no combate à pandemia do novo coronavírus (covid-19) e apurou um sobrepreço de R$ 123 milhões na aquisição dos respiradores.
@@ -37,5 +36,3 @@ Fone: Agência Brasil – Imagem de destaque: Reuters/Kai Pfaffenbach/Direitos R
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

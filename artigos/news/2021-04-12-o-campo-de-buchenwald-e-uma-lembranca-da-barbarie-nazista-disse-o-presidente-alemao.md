@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Marcando o 76º aniversário da libertação do campo de concentração, Frank-Walter Steinmeier diz que significa 'fanatismo racial, tortura, assassinato e eliminação'.
 
 O presidente da Alemanha comemorou no domingo o 76º aniversário da libertação do campo de concentração de Buchenwald, lembrando seus compatriotas das atrocidades inconcebíveis que os nazistas cometeram durante o Terceiro Reich.
@@ -33,7 +32,3 @@ Fonte: https://www.timesofisrael.com/
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Ao todo, o governo do Brasil já distribuiu 861 respiradores para 14 estados, a compra e distribuição dos respiradores é parte do apoio estratégico do Governo do Brasil no combate ao novo coronavírus.
 
 O Ministério da Saúde (MS) reforçou a saúde pública com mais 304 respiradores pulmonares. Entre sábado (16) e segunda (18), o Ministério da Saúde realizou a entrega dos equipamentos em nove estados: Goiás, Pernambuco, Paraíba, Amazonas, Rondônia, Pará, Maranhão, São Paulo e Rio de Janeiro. 
@@ -16,7 +15,7 @@ Dos 304 respiradores, 25 foram para Goiás, 35 para Pernambuco, 20 para Paraíba
 
 A compra e distribuição dos respiradores é parte do apoio estratégico do governo do Brasil no atendimento aos estados. As entregas levam em conta a capacidade de atendimento da rede de saúde pública, principalmente nos locais onde a transmissão está se dando em maior velocidade.
 
-### Compra de respiradores 
+### Compra de respiradores
 
 Para o fornecimento de equipamentos no período de três meses (90 dias), a pasta assinou contratos com quatro empresas brasileiras para a produção de 15.300 respiradores, sendo: 6.500 com a Magnamed, 4.300 com a Intermed, 3.300 com a KTK e 1.202 com a empresa Leistung. A distribuição dos equipamentos tem ocorrido conforme a capacidade de produção da indústria nacional, que depende de algumas peças que são importadas.
 
@@ -33,5 +32,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

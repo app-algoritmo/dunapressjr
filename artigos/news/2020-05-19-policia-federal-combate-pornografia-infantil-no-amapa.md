@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Macapá/AP - A Polícia Federal deflagrou, no Dia Nacional de Combate ao Abuso e à Exploração Sexual de Crianças e Adolescentes (18/5), as Operações Kori* e Virada de Jogo*, que investigam a produção, o armazenamento e a divulgação na internet de imagens e vídeos de exploração sexual de crianças e adolescentes no Amapá.
 
 Cerca de 25 policiais federais dão cumprimento a 5 mandados de busca e apreensão nas cidades de Macapá/AP, Santana/AP e Ladainha/MG, para apreender computadores e mídias de armazenamento, contendo imagens de pornografia infanto-juvenil. As buscas contam com a participação do Conselho Tutelar do Município de Macapá/AP.
@@ -23,5 +22,3 @@ Os presos foram conduzidos à Polícia Federal e ficarão à disposição da Jus
 *Virada de Jogo: Faz menção a uma das formas que os investigados utilizavam para aliciar crianças e adolescentes, por meio de jogo de computador.
 
 Comunicação Social da Polícia Federal no Amapá
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

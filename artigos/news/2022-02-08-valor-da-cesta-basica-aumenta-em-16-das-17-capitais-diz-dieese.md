@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## São Paulo, por sua vez, tem a cesta mais cara: R$ 713,86.
 
 O valor da cesta básica aumentou em 16 capitais em janeiro deste ano. A Pesquisa Nacional da Cesta Básica de Alimentos, do Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese), analisou 17 capitais. Brasília (6,36%), Aracaju (6,23%), João Pessoa (5,45%), Fortaleza (4,89%) e Goiânia (4,63%) tiveram as altas mais expressivas na variação mensal.
 
 São Paulo, por sua vez, tem a cesta mais cara: R$ 713,86. Em seguida estão as cidades de Florianópolis (R$ 695,59), Rio de Janeiro (R$ 692,83), Vitória (R$ 677,54) e Porto Alegre (R$ 673). Entre as cidades do Norte e Nordeste, que tem uma composição da cesta diferente, o custo mais barato foi observado em Aracaju, cujo valor ficou em R$ 507,82; João pessoa, R$ 538,65; e Salvador, 540,01.
 
-Na comparação com o mesmo mês do ano passado, as maiores altas acumuladas foram registradas em Natal (21,25%), Recife (14,52%), João Pessoa (14,15%) e Campo Grande (14,08%).  
+Na comparação com o mesmo mês do ano passado, as maiores altas acumuladas foram registradas em Natal (21,25%), Recife (14,52%), João Pessoa (14,15%) e Campo Grande (14,08%).
 
 ## Peso no orçamento
 
@@ -24,7 +23,7 @@ O departamento também calcula o tempo médio necessário para adquirir os produ
 
 ## Alimentos
 
-Entre os destaques no levantamento deste mês, o preço do quilo do café em pó subiu em todas as capitais analisadas na comparação com dezembro. Segundo o Dieese, “a expectativa de quebra da safra 2022/2023 e os menores estoques globais de café elevaram tanto os preços internacionais quanto os preços internos”.  
+Entre os destaques no levantamento deste mês, o preço do quilo do café em pó subiu em todas as capitais analisadas na comparação com dezembro. Segundo o Dieese, “a expectativa de quebra da safra 2022/2023 e os menores estoques globais de café elevaram tanto os preços internacionais quanto os preços internos”.
 
 O açúcar também ficou em destaque, com o valor do quilo mais alto em 15 capitais. Em Brasília, o custo do produto ficou 4,66% mais alto. Apenas Florianópolis e Porto Alegre tiveram queda, de 1,09% e 0,22%, respectivamente. A entressafra é a justificativa para o aumento dos preços.
 
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

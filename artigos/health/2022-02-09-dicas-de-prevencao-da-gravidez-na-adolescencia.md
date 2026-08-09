@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Os adolescentes – indivíduos entre 10 e 20 anos incompletos – representam cerca de 20% a 30% da população mundial, estimando-se que no Brasil essa proporção alcance 23%. Dentre os problemas de saúde nessa faixa etária, a gravidez sobressai em quase todos os países e, em especial, nos países em desenvolvimento.
 
 A taxa mundial de gravidez adolescente é estimada em 46 nascimentos para cada 1 mil meninas de 15 a 19 anos.
@@ -120,7 +119,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

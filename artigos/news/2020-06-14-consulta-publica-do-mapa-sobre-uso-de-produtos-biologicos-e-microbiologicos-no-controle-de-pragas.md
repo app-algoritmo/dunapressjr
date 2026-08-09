@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 ## A produção de agentes biológicos e microbiológicos pode substituir em parte ou no todo a utilização de defensivos agrícolas químicos.
 
-O Ministério da Agricultura, Pecuária e Abastecimento (Mapa) publicou nesta sexta-feira (12) a [Portaria nº 110](http://www.in.gov.br/en/web/dou/-/portaria-n-110-de-10-de-junho-de-2020-261278856), que [submete à consulta pública](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/participacao-social/consultas-publicas/2020/consulta-publica-2013-instrucao-normativa-que-classifica-a-atividade-de-producao-de-produto-fitossanitario-com-uso-aprovado-para-agricultura-organica), pelo prazo de 45 dias, a proposta de Instrução Normativa (IN) que trata da atividade de produção de produtos fitossanitários com uso aprovado para agricultura orgânica. A IN estabelece requisitos mínimos para a produção e para o aumento da segurança desse tipo de insumo dentro das propriedades agrícolas. 
+O Ministério da Agricultura, Pecuária e Abastecimento (Mapa) publicou nesta sexta-feira (12) a [Portaria nº 110](http://www.in.gov.br/en/web/dou/-/portaria-n-110-de-10-de-junho-de-2020-261278856), que [submete à consulta pública](https://www.gov.br/agricultura/pt-br/acesso-a-informacao/participacao-social/consultas-publicas/2020/consulta-publica-2013-instrucao-normativa-que-classifica-a-atividade-de-producao-de-produto-fitossanitario-com-uso-aprovado-para-agricultura-organica), pelo prazo de 45 dias, a proposta de Instrução Normativa (IN) que trata da atividade de produção de produtos fitossanitários com uso aprovado para agricultura orgânica. A IN estabelece requisitos mínimos para a produção e para o aumento da segurança desse tipo de insumo dentro das propriedades agrícolas.
 
 Entre as inovações que a norma propõe está a classificação do risco das atividades de produção de produtos fitossanitários com uso autorizado para agricultura orgânica para uso próprio. Também está prevista a previsão da obrigatoriedade de assistência técnica ou capacitação dos produtores rurais para a produção própria, e a exigibilidade de itens de rastreabilidade obrigatórios aos sistemas de produção para uso próprio.
 
@@ -28,8 +27,6 @@ Fonte: gov.br / Imagem em destaque: dedetizadora.srv.br
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.**
 
 **Clique aqui no banner abaixo para assinar!**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura:
 

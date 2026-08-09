@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Os acidentes vasculares cerebrais (AVCs) são caracterizados por uma alteração no fornecimento de sangue para o cérebro, podendo ser causados por isquemia ou hemorragia cerebral. A isquemia é a supressão do fornecimento de sangue para os tecidos cerebrais, causando uma queda no nível de glicose (açúcar) e oxigênio que provocam danos funcionais e estruturais. Já a hemorragia é devida à ruptura de vasos sanguíneos e extravasamento de sangue, o que desencadeia diversas respostas, tais como inflamação e morte celular, que danificam o órgão.
 
 Os dois tipos de AVC afetam de maneiras distintas o cérebro, mas ambos trazem sequelas duradouras, tais como os déficits de memória de [curto](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/324-cha-verde-na-prevencao-de-danos-causados-por-avc#) e de [longo prazo](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/324-cha-verde-na-prevencao-de-danos-causados-por-avc#), conforme observado. Uma das partes do encéfalo responsável pela aprendizagem e memória é o hipocampo. Essa região é altamente sensível ao [estresse oxidativo](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/324-cha-verde-na-prevencao-de-danos-causados-por-avc#) que costuma acompanhar AVCs. Por isso, terapias com [antioxidantes](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/324-cha-verde-na-prevencao-de-danos-causados-por-avc#) têm mostrado resultados positivos na recuperação do quadro pós-AVC, melhorando o desempenho da memória.
@@ -43,7 +42,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

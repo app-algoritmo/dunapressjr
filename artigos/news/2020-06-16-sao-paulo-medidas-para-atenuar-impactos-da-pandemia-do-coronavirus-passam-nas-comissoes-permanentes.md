@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 As comissões de Administração Pública e Relações do Trabalho (CAPRT), de Constituição, Justiça e Redação (CCJR) e de Finanças, Orçamento e Planejamento (CFOP), reunidas em Congresso de Comissões, finalizaram, nesta segunda-feira (15/6), a discussão e votação do Projeto de Lei 350/2020, de autoria coletiva, que cria mecanismos para o enfrentamento dos efeitos ocasionados pela Covid-19. A proposição deve ser votada em Plenário Virtual ainda nesta semana.
 
 Na reunião em ambiente virtual, presidida pelo deputado Mauro Bragato (PSDB), os parlamentares acataram, com 25 votos favoráveis, 1 contrário e 1 abstenção, o substitutivo apresentado pelo relator Daniel Soares (DEM), que apresenta ajustes ao texto original do projeto, como a permissão para que vítimas de violência doméstica fiquem hospedadas em hotéis ou alojamentos e um auxílio para trabalhadores da área cultural. Ricardo Mellão e Heni Ozi Cukier, ambos do partido Novo, exibiram um parecer em separado que recebeu três votos.
@@ -25,7 +24,7 @@ Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com inf
 
 Clique no link abaixo para assinar
 
-### [https://dunapress.org/subscription-plan/?aff=Vitor](https://dunapress.org/subscription-plan/?aff=Vitor)
+### [https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)
 
 Experimente por 7 Dias Gratuitos – Nossos Valores de Assinatura
 
@@ -34,5 +33,3 @@ Experimente por 7 Dias Gratuitos – Nossos Valores de Assinatura
 – U$ 10,00 anual (com todos os benefícios nesta opção – Press, Magazine, artigos científicos diversos, entre outros acessos)
 
 DUNA Press Jornal – Jornalismo Ético, Sério e Informativo
-
-[](https://dunapress.org/subscription-plan/?aff=Vitor Guerino)[](https://dunapress.org/subscription-plan/?aff=Vitor Guerino)

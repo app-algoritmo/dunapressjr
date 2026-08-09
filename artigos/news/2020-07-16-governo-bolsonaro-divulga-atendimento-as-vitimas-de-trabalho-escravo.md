@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) deu início à divulgação do Fluxo Nacional para Atendimento às Vítimas de Trabalho Escravo a estados e municípios. Até o momento, o documento foi apresentado aos estados de Santa Catarina, Bahia, Rio de Janeiro, Maranhão, Ceará e Mato Grosso do Sul.
 
 O fluxo, resultante de uma ação conjunta entre a Comissão Nacional de Erradicação ao Trabalho Escravo — integrante da estrutura da Secretaria Nacional de Proteção Global (SNPG) — e as Comissões Estaduais para a Erradicação do Trabalho Escravo (Coetraes), foi elaborado com o apoio técnico da Organização Internacional do Trabalho (OIT).
@@ -42,6 +41,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

@@ -7,7 +7,6 @@ categories:
 - Covid-19
 ---
 
-
 ## Talvez você já os tenha conhecido nas redes sociais.
 
 [Um artigo da Nature](https://www.nature.com/articles/s41746-023-00843-6) publicado há dois dias pode fazer você se sentar e prestar atenção:
@@ -23,7 +22,7 @@ Isso foi em resposta aos principais, mas não mencionados, "partes interessadas"
 
 Quem são essas partes interessadas? A palavra “sustentabilidade” era uma revelação inoperante, então verifiquei os suspeitos de sempre. A Fundação Bill e Melinda Gates está por trás dessa ideia e gastou **US$ 6.183.326 em tais “chatbots de aconselhamento sobre vacinas híbridas”** :
 
-Johns Hopkins, outro player global (também financiado por Bill Gates), lançou [um chatbot chamado ](https://coronavirus.jhu.edu/vaccines/q-n-a/new-ai-chat-bot-helps-thousands-learn-vaccine-truths)[Vira](https://vaxchat.org/chat) .[](https://coronavirus.jhu.edu/vaccines/q-n-a/new-ai-chat-bot-helps-thousands-learn-vaccine-truths)
+Johns Hopkins, outro player global (também financiado por Bill Gates), lançou [um chatbot chamado ](https://coronavirus.jhu.edu/vaccines/q-n-a/new-ai-chat-bot-helps-thousands-learn-vaccine-truths)[Vira](https://vaxchat.org/chat) .
 
 Quando eu estava ativo no Twitter, notei que as postagens dos usuários do Twitter ocasionalmente pareciam estranhamente semelhantes, como se fossem geradas por uma inteligência artificial:
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Decisão atende a solicitações de instituições de ensino superior, em função da pandemia de Covid-19.
 
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) adiou para 2021 a aplicação do Exame Nacional de Desempenho dos Estudantes (Enade) de 2020. O motivo são as restrições impostas devido à pandemia de Covid-19, com impacto no cronograma de aulas das instituições de ensino superior em todo o país. De acordo com o presidente do Inep, Alexandre Lopes, a nova data será redefinida conforme os ajustes dos calendários acadêmicos. “Primeiro, nós precisamos saber como será a retomada das aulas nas instituições de ensino superior, como vai ser a conclusão do segundo semestre de 2020, para então podermos definir a data de aplicação do exame”, destacou.
@@ -22,7 +21,7 @@ Fonte: gov.br / Imagem em destaque: Inep
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

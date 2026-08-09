@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Quando ouvimos a palavra higiene, a primeira imagem que nos surge à cabeça é a lavagem das mãos. E tudo bem! Essa prática é, sem dúvida, fundamental na prevenção de doenças. Mas é importante saber que, além desse cuidado, existem outras regras que contribuem para a preservação da saúde.
 
 A cartilha “Noções básicas de higiene” explica, de forma lúdica, a importância da higiene pessoal e relembra que pequenas mudanças de hábito e no dia a dia fazem a diferença.
@@ -20,8 +19,6 @@ Você sabia que existem microrganismos que são mocinhos e outros que são vilõ
 
 Você pode baixar o conteúdo e compartilhar com os seus amigos.
 
-[](https://publicacoeseducativas.butantan.gov.br/web/cartilha-higiene/pages/pdf/cartilha-higiene.pdf)
-
 Fonte: butantan.gov.br
 
 **Ver também:**
@@ -30,7 +27,3 @@ Fonte: butantan.gov.br
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

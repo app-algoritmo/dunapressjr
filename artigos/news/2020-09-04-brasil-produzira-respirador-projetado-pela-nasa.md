@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Empresa Brasileira de Pesquisa e Inovação Industrial está financiando o desenvolvimento em escala do aparelho. O primeiro lote produzido será de 300 ventiladores pulmonares.
 
 Um ventilador pulmonar projetado pela Nasa, a agência espacial dos Estados Unidos, será produzido no Brasil para contribuir no enfrentamento à Covid-19. A Empresa Brasileira de Pesquisa e Inovação Industrial (Embrapii), ligada ao Ministério da Ciência, Tecnologia e Inovações, está financiando o desenvolvimento em escala do aparelho.
@@ -36,5 +35,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

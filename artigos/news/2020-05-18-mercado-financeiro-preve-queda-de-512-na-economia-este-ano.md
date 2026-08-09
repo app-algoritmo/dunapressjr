@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Esta é a 14ª revisão consecutiva na projeção de queda do PIB.
 
 O mercado financeiro continua a revisar a estimativa de queda da economia neste ano. Pela 14ª semana seguida, piorou a expectativa do mercado financeiro para o recuo do Produto Interno Bruto (PIB) – a soma de todos os bens e serviços produzidos no país. Desta vez, a previsão de queda passou de 4,11% para 5,12%.
@@ -51,5 +50,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

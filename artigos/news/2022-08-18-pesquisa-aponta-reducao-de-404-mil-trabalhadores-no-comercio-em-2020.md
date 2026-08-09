@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Comércio por atacado foi o único a ampliar número de funcionários.
 
 Com as medidas de isolamento social impostas pela pandemia de covid-19, o setor do comércio perdeu 404,1 mil trabalhadores, em 2020, em comparação a 2019, das quais 90,4% eram referentes ao comércio varejista (-365,4 mil pessoas), queda de 4,8%. Houve perda também no pessoal ocupado na atividade de comércio de veículos, peças e motocicletas (-76,6 mil), retração de 8,5%. O comércio por atacado foi o único a ampliar o número de funcionários, contratando 37,9 mil pessoas (+2,2%).
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

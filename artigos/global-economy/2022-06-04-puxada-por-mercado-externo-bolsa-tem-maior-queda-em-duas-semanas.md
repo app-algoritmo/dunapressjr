@@ -7,10 +7,9 @@ categories:
 - Global Economy
 ---
 
-
 ### Dólar caiu para R$ 4,77, mas tem primeira alta semanal desde maio.
 
-Puxada pelo temor da alta da inflação nos Estados Unidos, a bolsa de valores teve a maior queda em duas semanas, após três altas consecutivas. O dólar fechou em baixa, mas teve a primeira alta semanal desde o início de maio. 
+Puxada pelo temor da alta da inflação nos Estados Unidos, a bolsa de valores teve a maior queda em duas semanas, após três altas consecutivas. O dólar fechou em baixa, mas teve a primeira alta semanal desde o início de maio.
 
 O índice Ibovespa, da B3, fechou aos 111.102 pontos, com queda de 1,15%. Esse foi o maior recuo diário desde 18 de maio, quando o indicador tinha caído 2,3%. A bolsa de valores fechou a semana com queda de 0,75%, a primeira baixa depois de três semanas de ganhos.
 
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Profissionais atuarão em ações de enfrentamento do Covid-19.
 
 O Governo da Paraíba, por meio da Secretaria de Estado da Saúde (SES), da Secretaria de Estado da Administração (Sead) e da Escola de Serviço Público do Estado da Paraíba (ESPEP), abriu Edital de Credenciamento para cadastro estadual de profissionais de nível superior, técnico, médio e fundamental. A chamada é em caráter emergencial e visa atender as ações de enfrentamento do novo coronavírus (Covid-19). As inscrições podem ser feitas até o dia 7 deste mês.
@@ -25,5 +24,3 @@ Fonte: paraiba.pb.gov.br
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Consumo das famílias diminuiu 1,2% no primeiro trimestre.
 
 A atividade econômica cresceu 1,7% no primeiro trimestre de 2021, na série dessazonalizada, em comparação com o quarto trimestre de 2020. Na comparação com o primeiro trimestre do ano passado, o crescimento foi de 1,6%. Levando em conta o mês de março, houve queda de 2,1% em relação a fevereiro e crescimento de 5,2% na comparação com março de 2020.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

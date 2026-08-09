@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Três foguetes foram disparados do norte da Faixa de Gaza para Israel na noite de domingo, quando as tensões ao longo da região da fronteira pareciam incendiar-se em meio aos planos israelenses de anexar partes da Cisjordânia.
 
 Aparentemente, dois foguetes atingiram um campo aberto por volta das 19 horas, disseram as Forças de Defesa de Israel, sem causar ferimentos ou danos.
@@ -37,7 +36,7 @@ No entanto, a IDF disse que não tinha conhecimento de tal lançamento e não ha
 
 O governo de coalizão de centro-direita do primeiro-ministro Benjamin Netanyahu havia estabelecido o dia 1º de julho como a data a partir da qual ele poderia começar a implementar a proposta de paz do presidente dos EUA, Donald Trump, no Oriente Médio, anexando o território. Mas não houve anúncio na quarta-feira passada nem em nenhum dia desde então.
 
-Fonte The Time Of Israel 
+Fonte The Time Of Israel
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor.**
 
@@ -45,6 +44,6 @@ Fonte The Time Of Israel
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

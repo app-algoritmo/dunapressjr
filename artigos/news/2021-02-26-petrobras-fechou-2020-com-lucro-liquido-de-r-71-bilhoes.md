@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estatal conseguiu se recuperar após nove meses de déficit.
 
 A Petrobras apresentou nesta quinta-feira (25) relatório com resultado financeiro do quarto trimestre do ano passado. A estatal obteve lucro líquido de R$59,9 bilhões. As cifras apontam uma superação das dificuldades registradas nos primeiros nove meses de 2020, quando a estatal foi deficitária devido aos impactos da pandemia de covid-19. No consolidado do ano, o lucro foi de R$7,1 bilhões.
@@ -36,8 +35,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

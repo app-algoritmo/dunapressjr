@@ -7,7 +7,6 @@ categories:
 - Chronicle
 ---
 
-
 -Por Tim Urban |
 
 ## **Missão de Musk**
@@ -21,8 +20,6 @@ Uma reação que não vi é: “Legal, isso faz sentido”.
 Eu entendo - eu me sentia da mesma forma até bem recentemente. Normalmente, uma frase com a palavra Marte é sobre alguma coisa de astronomia esotérica ou alguma coisa de ficção científica nerd. E a palavra colonização costuma surgir em frases sobre história. As duas palavras não deveriam estar juntas no mundo real.
 
 Para explicar por que Musk quer colocar um milhão de pessoas em Marte, vou apresentar a vocês dois alienígenas que vivem em um planeta semelhante à Terra, do outro lado da Via Láctea - Zurple e Quignee:
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/ZQ.jpg)
 
 O planeta de Zurple e Quignee, Uvuvuwu, formou-se 1,2 bilhão de anos depois da Terra, mas porque levou apenas 300 milhões de anos em Uvuvuwu para organismos unicelulares simples evoluírem para organismos unicelulares complexos (levou 1,6 bilhão de anos na Terra), a vida em Uvuvuwu nos venceu e alcançou inteligência de nível humano há 11 milhões de anos. Hoje, as criaturas em Uvuvuwu são muito mais avançadas do que qualquer coisa que poderíamos sonhar na Terra.
 
@@ -43,8 +40,6 @@ Provavelmente, eles estão prestando atenção no padrão de eventos de extinç�
 **A coisa assustadora sobre o universo**
 
 Extinções de espécies são como mortes humanas - estão acontecendo constantemente, em um ritmo moderado e constante. Mas um *evento de extinção em massa*é, para as espécies, como uma guerra ou uma epidemia generalizada é para os humanos - um evento incomum que mata uma grande parte da população de uma só vez. Os humanos nunca experimentaram um evento de extinção em massa e, se um acontecesse, há uma chance razoável de acabar com a raça humana - seja porque o próprio evento nos mataria (como uma colisão com um asteróide grande o suficiente) ou os efeitos de um evento (como algo que dizima o suprimento de comida ou muda drasticamente a temperatura ou a composição atmosférica). O gráfico de extinção abaixo mostra a extinção de animais ao longo do tempo (usando a extinção marinha como um indicador). Eu rotulei os cinco principais eventos de extinção e a porcentagem do total de espécies perdidas durante cada um (não incluído neste gráfico é o que muitos acreditam estar se tornando uma nova extinção em massa, acontecendo agora,[1](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2#)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/07/1062px-Extinction_intensity1.png)
 
 Os eventos de extinção que ocorrem naturalmente podem ser causados ​​por muitas coisas. O universo é um lugar violento e hostil e somos um grupo de organismos frágeis que vivem em um delicado equilíbrio de condições precisas. Estamos por aí, por enquanto, porque o universo está atualmente permitindo que estejamos. Algumas coisas que podem nos destruir:[2](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2#)
 
@@ -67,17 +62,11 @@ Enfim asteróides.
 
 Podemos ser atingidos por um asteróide ou cometa (usarei apenas "asteróide" para me referir a ambos no resto deste) que foi empurrado para fora de sua órbita normal por uma colisão ou alguma perturbação gravitacional (provavelmente causada por Júpiter ou uma estrela que passa).
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/Asteroid.jpg)
-
 Um asteróide não precisa ser enorme para estragar tudo. Em 1908, um asteróide minúsculo de 60 metros [explodiu](http://www-th.bo.infn.it/tunguska/aah2886.pdf) no céu 3-6 mi (5-10 km) sobre a Sibéria. Mesmo lá de cima, [derrubou](http://fox41blogs.typepad.com/.a/6a0148c78b79ee970c019104045f70970c-pi) 80 milhões de árvores. Se tivesse chegado à Terra, teria explodido com a força de mais de 1.000 bombas de Hiroshima. [5](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2#) Um asteróide com um diâmetro de apenas meia milha (0,8 km) levantaria poeira suficiente no ar para reduzir a temperatura da Terra em vários graus durante vários anos, o que teria todos os tipos de efeitos dramáticos. Em 1989, um asteróide desse tamanho [passou pela órbita da Terra](http://articles.latimes.com/1989-04-20/news/mn-2278_1_asteroid-nasa-project-national-aeronautics) , exatamente no local em que a Terra estivera seis horas antes. E o efeito de um impacto de asteróide ainda maior? Bem, apenas observe que cada uma dessas cicatrizes de impacto de asteróide em Júpiter é do tamanho da Terra: [6](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2#)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/Jupiter_showing_SL9_impact_sites.jpg)
 
 O famoso asteróide que deixou os dinossauros tristes tinha cerca de 10 km de diâmetro. Se formos atingidos por um desses, seremos tratados primeiro com uma onda de calor escaldante dez vezes mais quente do que a superfície do sol na área próxima ao local do impacto como o asteróide, descendo do céu 100 vezes a velocidade de uma bala, comprime o ar abaixo dela. Então, uma onda de choque quase instantânea se espalhará, achatando tudo por centenas de quilômetros em todas as direções. Nesse ponto, com a força de mais de um *bilhão*Com as bombas de Hiroshima, a explosão enviará mil quilômetros cúbicos de rocha do asteróide e o local do impacto espirrando para o espaço, criando uma parede negra mais alta do que as nuvens na frente de qualquer pessoa naquela parte do mundo. Quando toda essa rocha chover de volta para a atmosfera, ela se transformará em milhares de enormes bolas de fogo, que colocarão fogo em cidades e florestas por toda a Terra. Em breve, toda a Terra estará extremamente quente, uma cadeia de terremotos será desencadeada, vulcões por toda parte entrarão em erupção e tsunamis impensavelmente grandes atingirão todas as costas. Isso será seguido por uma nuvem mundial de poeira que se levantará e bloqueará o sol por meses e talvez anos, resfriando a Terra consideravelmente - e o clima não voltará ao que é agora por mais de 1.000 anos.
 
 Tudo isso por ter sido atingido por algo que, se a Terra fosse do tamanho de uma mansão de três andares, seria do tamanho de uma ervilha.
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/dinosaur-asteroid.png)
 
 A própria Terra não seria muito afetada pelo impacto - mas as *condições* na superfície da Terra seriam enormemente afetadas por causa de como são extremamente frágeis. Aqui está um [vídeo](https://www.youtube.com/watch?v=bU1QPtOZQZU) estressante que descreve o que acabei de descrever.
 
@@ -86,8 +75,6 @@ A parte mais assustadora é que os asteróides são quase invisíveis no espaço
 Portanto, embora pareça que estamos em nosso pequeno planeta seguro em um universo silencioso e parado, na verdade é mais como estar em uma floresta que *atualmente* é calma e pacífica, mas onde de vez em quando, um terrível carnívoro sedento de sangue irrompe de as árvores e devasta a maior parte da vida aqui, eliminando-a da existência. O gráfico de eventos de extinção em massa acima conta cinco histórias de terror do passado, quando nossa tranquila Terra se tornou o cenário de um pesadelo indescritível para tudo que vivia aqui na época. E vai acontecer de novo - bem aqui, onde você está sentado. A única questão é quando.
 
 Vamos dar uma olhada na história de animais de 600 milhões de anos e nos eventos de extinção em massa ao longo do caminho:
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/Extinction-timeline.png)
 
 Olhando para essa linha do tempo, vemos que embora haja coisas definitivamente ruins surgindo no futuro, as escalas de tempo em questão são *enormes* , então a probabilidade de um desastre natural existencial catastrófico acontecer em um futuro próximo é muito baixa. Quão baixo?
 
@@ -127,7 +114,7 @@ Vamos examiná-los.[7](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-co
 
 **Mercúrio**
 
-[](https://en.wikipedia.org/wiki/Mercury_(planet)#/media/File:Mercury_Globe-MESSENGER_mosaic_centered_at_0degN-0degE.jpg)
+#/media/File:Mercury_Globe-MESSENGER_mosaic_centered_at_0degN-0degE.jpg)
 
 Mercúrio teve o azar de ser o planeta mais próximo do sol, o que é como estar sentado a uma mesa ao lado de um homem agressivamente excitado de 450 libras. E se você estivesse em Mercúrio, seu dia seria gasto em um clima de 800 F (430 C) - tão quente que você poderia colocar um pedaço de chumbo no chão e ele derreteria em uma poça. Quase não há atmosfera em Mercúrio, então, enquanto você estava queimando até a morte, você também estaria em um quase vácuo, o que arrancaria o ar imediatamente de seus pulmões e começaria a vaporizar a umidade em sua pele. A falta de atmosfera também significaria que você seria gravemente envenenado pela radiação do sol (que pareceria 2,5 vezes maior no céu do que na Terra). Do lado positivo, a gravidade de Mercúrio é de apenas 38% da da Terra, então você poderia pular de uma forma boba enquanto morria instantaneamente. Neste ponto,
 
@@ -138,8 +125,6 @@ Sua melhor aposta em Mercúrio seria perto dos pólos que, embora gelados e eter
 Quando perguntei a Musk sobre Mercúrio, ele o chamou de “inferno”, o que encerrou abruptamente a conversa.
 
 **Vênus**
-
-[](https://en.wikipedia.org/wiki/Venus#/media/File:Venus_globe.jpg)
 
 Vênus, para não ser derrotada em idiotice, consegue fazer com que a vida em Mercúrio soe como sentar-se na praia em Maui comendo um camarão grelhado.
 
@@ -155,8 +140,6 @@ Durante o dia, você experimentaria tudo isso com pouca luz, sob uma cobertura d
 
 Considerando tudo o que acabei de dizer, estou super impressionado com a sonda [violenta da](http://www.space.com/18551-venera-13.html) sonda soviética [Venera 13,](http://www.space.com/18551-venera-13.html) que desceu até a superfície de Vênus em 1982 e conseguiu se manter viva por 127 minutos - tempo suficiente para tirar essas duas fotos, a apenas imagens que temos da superfície de Vênus:
 
-[](https://www.reddit.com/r/woahdude/comments/1e04ud/surface_of_venus_pic/)
-
 O vento é um problema que você não tem na superfície de Vênus, onde você sentiria apenas uma leve brisa - mas conforme você subisse pela atmosfera, isso mudaria rapidamente. A atmosfera superior de Vênus é um novo tipo de inferno - ventos constantes dobram a velocidade de nossos furacões mais poderosos e gotículas de ácido sulfúrico (o mesmo ácido usado para desobstruir ralos) por toda parte, atingindo seu rosto. Vênus típica.
 
 Curiosamente, porém, se você chegasse ao *topo* da atmosfera miserável de Vênus, seria recompensado com - chocantemente - condições agradáveis ​​e habitáveis. Aleatoriamente, no topo das nuvens de Vênus está uma camada onde a temperatura e a pressão são semelhantes às da Terra, e porque o oxigênio e o nitrogênio aumentam na densa atmosfera de Vênus (como o hélio na Terra), o ar nessa camada pode realmente ser perto de *respirável* . Isso levou alguns [cientistas](http://scitation.aip.org/content/aip/proceeding/aipcp/10.1063/1.1541418) a realmente discutirem a *colonização* humana da alta atmosfera de Vênus, construindo “cidades projetadas para flutuar a cerca de cinquenta quilômetros de altitude na atmosfera de Vênus”.[8](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2#)
@@ -164,8 +147,6 @@ Curiosamente, porém, se você chegasse ao *topo* da atmosfera miserável de Vê
 Quando perguntei a Musk sobre Vênus, fiquei surpreso ao ouvi-lo sugerir que o planeta poderia ser habitável “com extrema dificuldade”. Ele diz que no futuro , com tecnologia avançada o suficiente, pode haver maneiras de limpar a maior parte da atmosfera de Vênus e *possivelmente* torná-la uma opção de colonização em um futuro distante.[5](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2#)
 
 **marchar**
-
-[](http://space-facts.com/mars/)
 
 Se Marte fosse um lugar na Terra, ninguém iria querer ir para lá. Mas em uma discussão sobre habitar planetas não terrestres, todos os quais são um pesadelo total para se viver, a perspectiva de se mudar para Marte parece estranhamente boa.
 
@@ -175,15 +156,9 @@ Um dia de Marte (um “sol”) dura cerca de 24,5 horas, o que funcionaria bem p
 
 A atração turística mais legal do Sistema Solar também está em Marte, a montanha mais alta do Sistema Solar, Olympus Mons:[9](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2#)
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/07/olympus-mons3.jpg)
-
 O que [cobriria o Arizona](http://static3.businessinsider.com/image/54b3015e6bb3f7551d36bd2b-960/olympus-mons.jpg) e faria o Everest parecer um sopé:[10](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2#)
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/07/olimpys.jpg)
-
 Sem mencionar o cânion de Marte, que faz o Grand Canyon parecer um corte de papel:[11](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2#)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/07/canyon.jpg)
 
 Veremos isso mais tarde, mas em teoria, com bastante esforço e tecnologia, os humanos poderiam *terraformar* Marte e, em algum momento da estrada, ter um planeta um tanto agradável para viver, com árvores e oceanos e sem necessidade de usar um traje espacial do lado de fora.
 
@@ -191,17 +166,13 @@ Veremos isso mais tarde, mas em teoria, com bastante esforço e tecnologia, os h
 
 Estamos prestes a nos afastar muito do sol, então vamos colocar essas distâncias no contexto. Para fazer isso, você pode dividir o Sistema Solar em três terços aproximadamente iguais, cada um com cerca de 1 bilhão de milhas, ou 10 UA de comprimento (uma UA é a distância do Sol à Terra):
 
-**1º terço:** Sol a Saturno 
-**2º terço:** Saturno a Urano 
+**1º terço:** Sol a Saturno
+**2º terço:** Saturno a Urano
 **3º terço:** Urano a Netuno[6](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2#)
 
 Portanto, se o Sistema Solar tem um metro de comprimento, Saturno, Urano e Netuno ficam na extremidade de cada um dos três pés. Júpiter está a 6 polegadas (cerca de 5 UA) do sol, cortando o primeiro terço pela metade, e os outros quatro estão todos comprimidos nas primeiras duas polegadas do primeiro pé:
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/Solar-System-Distances.png)
-
 **Júpiter e Saturno e Urano e Netuno**
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/gas-giants.jpg)
 
 Espero que você tenha gostado de andares, porque nenhum dos outros planetas tem um *. *Veja como os quatro planetas distantes acabaram sendo tão estranhos:
 
@@ -242,8 +213,6 @@ De qualquer maneira - uma vez que existem milhões de humanos em vários corpos 
 **Oh mas também**
 
 Claro, todos esses discos rígidos ainda estão alojados no mesmo sistema solar e, se todos os seus backups estiverem na mesma casa, será problemático se essa casa pegar um incêndio. E, assim como, infelizmente, estamos usando um disco rígido que está destinado a falhar, também moramos em uma casa que um dia irá pegar fogo. O sol está quase na metade de sua vida. Aqui está o roteiro do Ato II:[12](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2#)
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/Act-II-21.jpg)
 
 Depois de aterrorizar a Terra, o sol se moverá para fora e, um por um, tornará cada uma de nossas casas em potencial inabitável. Felizmente, temos a janela verde, o que nos dá a chance de fazer algo a respeito. Musk aponta que estamos atualmente a cerca de 90% do caminho desde o início da Terra até o ponto onde os oceanos evaporam, o calor se torna insuportável e toda a vida complexa morre - ”então, se a vida inteligente tivesse tirado apenas 10% mais para se desenvolver, ele nunca teria se desenvolvido. ”[10](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2#) Quando se trata de nossa evolução, chegamos na nona entrada, bem na hora - e agora temos que descobrir como expandir além do planeta e, eventualmente, do Sistema Solar, antes de sermos arrastados de volta para o não eterno -existência.
 
@@ -305,19 +274,11 @@ Conforme discutimos, a taxa de progresso pode crescer exponencialmente, porque q
 
 - O impacto da espécie humana pré-histórica no mundo natural foi *muito, muito maior do** *que o normal em um período de apenas 100.000 anos - nenhuma outra espécie mudou tanto, tão amplamente, tão rapidamente.
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/Exponential1.png)
-
 - Aproximando-se, o avanço da humanidade nos últimos 10.000 anos, desde a Revolução Agrícola, foi *muito, muito maior do* que o avanço dos humanos em relação a qualquer outro período de 10.000 anos antes.
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/Exponential2.png)
 
 - Ampliando novamente, a explosão da indústria e da tecnologia nos últimos dois séculos desde a Revolução Industrial, entre os anos de 1815 e 2015, *excede em muito* os avanços de qualquer período de 200 anos antes disso.
 
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/Exponential3.png)
-
 Quando você coloca esses gráficos juntos, você acaba com uma *séria* destas tendências:
-
-[](https://waitbutwhy.com/wp-content/uploads/2015/08/Exponential-graph-21.jpg)
 
 Então, talvez eu não esteja sendo ingênuo - talvez haja um bom motivo para acreditar que estamos vivendo em uma curva exponencial de progresso diferente de todas as que a vida já experimentou. E uma vez que com o progresso vem o poder, nossa espécie agora tem uma quantidade sem precedentes de poder para influenciar as coisas.
 

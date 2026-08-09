@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A atuação do Ministério da Justiça e Segurança Pública contribuiu para os resultados positivos da Operação Verde Brasil 2, deflagrada no dia 11 de maio.
 
 A Polícia Federal, Polícia Rodoviária Federal e Força Nacional de Segurança Pública fazem parte da Operação que visa combater o desmatamento ilegal e focos de incêndio na Amazônia Legal.
@@ -24,5 +23,3 @@ Entre delitos não relacionados a crimes ambientais, a PRF apreendeu 206 quilos 
 O combate às ilegalidades na região é uma das propostas imediatas do Conselho Nacional da Amazônia, coordenado pelo vice-presidente Hamilton Mourão. O balanço geral da Operação foi apresentado nesta quarta-feira (27) no Ministério da Defesa.
 
 Fonte: Portal de Imprensa do Ministério da Justiça e Segurança Pública
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

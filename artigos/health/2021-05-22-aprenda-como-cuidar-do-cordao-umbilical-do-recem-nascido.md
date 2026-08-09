@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## *Não é preciso ter medo de limpar a região porque o bebê não sente dor alguma. Caso o umbigo não cicatrize, algumas doenças precisam ser avaliadas pelo profissional de saúde.*
 
 Com o nascimento de uma criança, nascem também inúmeras dúvidas sobre os cuidados que devemos ter com ela, especialmente nos primeiros dias de vida. E um destes cuidados é com o umbigo, pois o coto umbilical, que ligava a mãe ao bebê no útero, ainda fica preso ao recém-nascido por alguns dias. Ele precisa ser bem limpo para evitar infecções até que caia sozinho, pouco depois da primeira semana de vida.
@@ -37,7 +36,3 @@ Fonte:  http://www.blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

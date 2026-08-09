@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Patti Smith e Julian Casablancas do The Strokes entre mais de 600 músicos chamando os artistas para evitar fazer shows em Israel.
 
 Patti Smith e Julian Casablancas, do The Strokes, estão entre os mais de 600 músicos que assinaram uma carta pedindo aos artistas que evitem fazer shows em Israel.
@@ -29,7 +28,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

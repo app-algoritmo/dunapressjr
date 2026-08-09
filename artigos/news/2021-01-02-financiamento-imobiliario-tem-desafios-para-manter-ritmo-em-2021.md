@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Encarecimento de insumos e incertezas sobre renda acendem alerta.
 
 Em meio à crise provocada pela pandemia de covid-19, um setor da economia brasileira encerrou 2020 em ritmo de superação. De janeiro a outubro, os financiamentos imobiliários concedidos com recursos da poupança totalizaram R$ 92,7 bilhões, crescimento de 48,8% em relação ao mesmo período de 2019, segundo os dados da Associação Brasileira das Entidades de Crédito Imobiliário e Poupança (Abecip).
@@ -24,7 +23,7 @@ O presidente da Comissão da Indústria Imobiliária da Cbic, Celso Petrucci, di
 
 ## Base de comparação
 
-Especialista em mercado imobiliário da FGV, o professor Pedro Seixas não é tão otimista. Para ele, a fraca base de comparação em relação a 2019 levou ao crescimento na concessão de financiamentos em 2020. 
+Especialista em mercado imobiliário da FGV, o professor Pedro Seixas não é tão otimista. Para ele, a fraca base de comparação em relação a 2019 levou ao crescimento na concessão de financiamentos em 2020.
 
 Ele diz duvidar se a expansão será sustentável em 2021. “Existe uma retomada, mas a questão é se esse crescimento será sustentável por causa da renda e do emprego. Do ponto de vista pessoal, quem tem dinheiro deve aproveitar os juros baixos e comprar [um imóvel], mas é diferente de dizer que crescimento é sustentável”, analisa.
 
@@ -38,8 +37,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

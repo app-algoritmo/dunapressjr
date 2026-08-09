@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O principal impacto foi o aumento no valor do combustível.
 
 Pelo segundo mês consecutivo, o Indicador Ipea de Inflação por Faixa de Renda registrou, em março, alta da taxa para todas as faixas de renda. As famílias mais atingidas no mês foram as de renda média (rendimentos entre R$ 4.127,41 e R$ 8.254,83) e média alta (entre R$ 8.254,83 e R$ 16.509,66). No primeiro grupo a inflação de fevereiro para março passou de 0,98% para 1,09%; no segundo grupo, foi de 0,97% para 1,08%. Os dados do Instituto de Pesquisa Econômica Aplicada (Ipea) foram divulgados nesta terça-feira (13)
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

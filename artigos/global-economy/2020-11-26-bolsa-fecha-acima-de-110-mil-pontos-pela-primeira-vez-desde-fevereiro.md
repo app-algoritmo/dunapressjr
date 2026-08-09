@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Dólar encerrou o dia vendido a R$ 5,32, no menor nível em seis dias.
 
 Em mais um dia de euforia no mercado financeiro, a bolsa de valores superou a marca de 110 mil pontos pela primeira vez desde o fim de fevereiro. O dólar caiu para o menor nível em seis dias, após oscilar durante a sessão.
@@ -25,5 +24,3 @@ Fonte: Agência Brasil – Imagem de destaque: Reuters/Paulo Whitaker/Direitos R
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

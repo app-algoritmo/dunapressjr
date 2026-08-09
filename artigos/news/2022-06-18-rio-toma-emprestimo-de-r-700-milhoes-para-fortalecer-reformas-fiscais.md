@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Valor foi aprovado quinta-feira pelo Conselho Diretor do Banco Mundial.
 
 A prefeitura do Rio de Janeiro contraiu empréstimo no valor de US$ 135,2 milhões (aproximadamente R$ 700 milhões) para apoiar as reformas fiscais e verdes na capital fluminense. O valor foi aprovado na quinta-feira (16) pelo Conselho Diretor do Banco Mundial, com a finalidade de aprimorar a sustentabilidade fiscal no médio prazo e acelerar a transição rumo ao desenvolvimento urbano, inclusivo e de baixo carbono.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

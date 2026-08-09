@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Publicação está disponível na internet.
 
 A dificuldade que agentes dos diferentes órgãos de defesa do consumidor enfrentam para identificar e caracterizar eventuais aumentos abusivos de preços em um sistema de livre concorrência, no qual o valor de bens e serviços é determinado pela oferta e demanda, motivou a Secretaria Nacional do Consumidor (Senacon) a criar uma cartilha para nortear a atuação dos agentes públicos, especialmente os ligados aos Procons.
@@ -24,7 +23,7 @@ Segundo o coordenador-geral de estudos e monitoramento de mercados da Senacon, F
 
 De acordo com a secretária nacional do Consumidor, Juliana Domingues, o objetivo da secretaria é oferecer um roteiro de atuação que auxilie as atividades diárias dos técnicos e proporcione mais segurança jurídica às decisões dos órgãos que integram o Sistema Nacional de Defesa do Consumidor.
 
-“Precisávamos ter um norte. Fizemos isto [o guia] ao longo de dois anos, com base nas experiências, com ampla discussão e com o subsídio dos órgãos de defesa do consumidor e a participação do Ministério da Economia e do Cade [Conselho Administrativo de Defesa Econômica]”, declarou a secretária, destacando que a falta de parâmetros claros pode, eventualmente, desestimular a concorrência e a inovação e gerar a judicialização de decisões administrativas. "E o consumidor só tem a ganhar, uma vez que suas denúncias serão devidamente investigadas e punidas." 
+“Precisávamos ter um norte. Fizemos isto [o guia] ao longo de dois anos, com base nas experiências, com ampla discussão e com o subsídio dos órgãos de defesa do consumidor e a participação do Ministério da Economia e do Cade [Conselho Administrativo de Defesa Econômica]”, declarou a secretária, destacando que a falta de parâmetros claros pode, eventualmente, desestimular a concorrência e a inovação e gerar a judicialização de decisões administrativas. "E o consumidor só tem a ganhar, uma vez que suas denúncias serão devidamente investigadas e punidas."
 
 Diretor Administrativo da Confederação Nacional do Comércio (CNC) e presidente da Federação do Comércio de Bens, Serviços e Turismo do Estado do Rio de Janeiro (Fecomércio-RJ), Antônio Florêncio Queiroz Júnior elogiou a iniciativa da Senacon.
 
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

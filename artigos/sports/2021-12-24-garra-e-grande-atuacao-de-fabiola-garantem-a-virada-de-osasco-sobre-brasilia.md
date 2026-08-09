@@ -7,7 +7,6 @@ categories:
 - Sports
 ---
 
-
 ## Levantadora saiu do banco no terceiro set, superou dores nas costas e comandou a equipe osasquense na sexta vitória consecutiva na Superliga 21/22.
 
 O Osasco São Cristóvão Saúde precisou de garra, coração e uma grande atuação de Fabíola para virar o jogo sobre o Brasília Vôlei e vencer por 3 sets a 2. As comandadas de Luizomar saíram perdendo por 2 a 0 na noite desta terça-feira (14), no ginásio do Sesi Taguatinga, no Distrito Federal, até a levantadora sair do banco para mudar a história da partida. Poupada nas duas primeiras parciais em função de dores nas costas, ele foi fundamental para o sexto resultado positivo do time na Superliga Banco do Brasil 21/22, com parciais de 17/25, 23/25, 25/15, 25/19 e 22/20, em 2h21min. O resultado mantém as osasquense na terceira colocação.
@@ -36,7 +35,7 @@ FASE DE CLASSIFICAÇÃO - PRIMEIRO TURNO
 5/11 – Sesc RJ Flamengo 0 X 3 **OSASCO SÃO CRISTÓVÃO SAÚDE** – Tijuca
 9/11 – **OSASCO SÃO CRISTÓVÃO SAÚDE** 0 X 3 Dentil Praia Clube  – José Liberatti
 12/11 – Curitiba Vôlei 0 X 3 **OSASCO SÃO CRISTÓVÃO SAÚDE** – Col. Positivo Junior
-16/11 – **OSASCO SÃO CRISTÓVÃO SAÚDE** 3 X 1 Barueri Volleybal Club  – José Liberatti 
+16/11 – **OSASCO SÃO CRISTÓVÃO SAÚDE** 3 X 1 Barueri Volleybal Club  – José Liberatti
 23/11 – EC Pinheiros 0 X 3 **OSASCO SÃO CRISTÓVÃO SAÚDE** – Henrique Villaboim
 26/11 **– OSASCO SÃO CRISTÓVÃO SAÚDE** 3 X 2 Sesi Vôlei Bauru  – José Liberatti
 10/12 – **OSASCO SÃO CRISTÓVÃO SAÚDE** 3 X 1 Country Club Valinhos  – José Liberatti
@@ -61,7 +60,3 @@ Fonte: ***ZDL Sports***
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

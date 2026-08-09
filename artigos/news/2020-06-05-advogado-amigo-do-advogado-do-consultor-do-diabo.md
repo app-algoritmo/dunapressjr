@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Moro, Zucolotto, Tacla e Odebrecht.
 
 ## Tacla Duran o fantasma do ex juiz, ex ministro, atual blogueiro da globo.
@@ -17,8 +16,6 @@ Interpol lançou dúvidas sobre a existência de um julgamento justo contra o ex
 "Entendemos que esta decisão deve servir de alerta ao Estado Brasileiro sobre os excessos, os equívocos, a má qualidade das investigações e parcialidade de alguns magistrados e procuradores responsáveis pela Lava Jato, os quais romperam os limites da ética e do Direito ao transformar esta importante investigação em instrumento de poder e disputa política", conclui a defesa.
 
 “Assegurar e promover a mais ampla assistência mútua possível entre todas as autoridades policiais criminais dentro dos limites das leis existentes nos diferentes países e no espírito da Declaração Universal dos Direitos Humanos.” **É o que determina o 2º artigo da Constituição da Interpol.**
-
-[](https://dunapress.org/subscription-plan/?aff=barrosprojectmanager)
 
 Comissão de Controle dos Arquivos da Interpol [CCF]
 24 de julho de 2018

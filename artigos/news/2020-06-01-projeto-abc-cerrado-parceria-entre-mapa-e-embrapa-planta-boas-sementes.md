@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A experiência do Serviço Nacional de Aprendizagem Rural (Senar) na execução do projeto ABC Cerrado foi apresentada no Congresso Brasileiro de Gestão de Projetos e Liderança, na quinta (28).
 
 O ABC Cerrado é uma ação conjunta entre Senar, Ministério da Agricultura e Embrapa, com recursos de US$ 10,6 milhões do Fundo de Investimento Florestal (FIP, em inglês), administrados pelo Banco Mundial, para a disseminação de adoção de tecnologias de baixa emissão de carbono em propriedades rurais de sete unidades da Federação no Cerrado (Goiás, Maranhão, Minas Gerais, Tocantins, Bahia, Piauí, Mato Grosso do Sul e Distrito Federal).
@@ -29,8 +28,6 @@ A consultora Beatriz Benezra explicou aos participantes do congresso como implan
 Para saber mais sobre o ABC Cerrado e assistir depoimentos de pessoas beneficiadas pelo projeto, acesse [https://www.cnabrasil.org.br/projetos-e-programas/abc-cerrado](https://senlink.senar.org.br/cl/PIPnz/nVp/290f/Mpc4OA06tO6/BKIS/DWJq07oJ5gC/1/).
 
 Fonte: cnabrasil.org.br / Imagem em destaque: senar.org.br
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

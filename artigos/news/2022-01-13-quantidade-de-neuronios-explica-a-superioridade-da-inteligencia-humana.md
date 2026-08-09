@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-O que torna os seres humanos tão superiores intelectualmente em relação a outros animais? Um dos possíveis motivos é que humanos simplesmente possuem mais [neurônios](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/191-quantidade-de-neuronios-explica-a-superioridade-da-inteligencia-humana#) do que outros animais, e possuir mais dessas unidades de processamento no cérebro seria um passo necessário para o desenvolvimento de habilidades complexas, como linguagem e matemática. Mas será que humanos realmente possuem mais neurônios? 
+O que torna os seres humanos tão superiores intelectualmente em relação a outros animais? Um dos possíveis motivos é que humanos simplesmente possuem mais [neurônios](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/191-quantidade-de-neuronios-explica-a-superioridade-da-inteligencia-humana#) do que outros animais, e possuir mais dessas unidades de processamento no cérebro seria um passo necessário para o desenvolvimento de habilidades complexas, como linguagem e matemática. Mas será que humanos realmente possuem mais neurônios?
 
 Para responder a essa pergunta, a equipe de neurocientistas da Universidade Federal do Rio de Janeiro (UFRJ), liderada pela pesquisadora Suzana Herculano-Houzel, investigou o cérebro de um elefante. Se o cérebro do gigante trombudo tiver mais neurônios que o cérebro humano, a hipótese de sermos mais inteligentes por termos mais neurônios cairia por terra.
 
@@ -19,7 +18,6 @@ O estudo da equipe de Herculano-Houzel traz evidências de que o número de neur
 Um elefante africano Loxodonta africana foi abatido no Zimbábue, país localizado no sul da África, com permissão das autoridades locais e de acordo com rigorosos protocolos éticos de pesquisa. O cérebro do animal foi preservado em [formaldeído](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/191-quantidade-de-neuronios-explica-a-superioridade-da-inteligencia-humana#) por 3 dias e em substância anticongelante a –20 ºC. O cérebro foi dividido em 381 fatias e estruturas específicas, como[ cerebelo](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/191-quantidade-de-neuronios-explica-a-superioridade-da-inteligencia-humana#), [bulbo cerebral](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/191-quantidade-de-neuronios-explica-a-superioridade-da-inteligencia-humana#) e o cérebro propriamente dito, foram identificadas visualmente e separadas entre si.
 
 Áreas de córtex cerebral (figuras A e B) foram identificadas e dissecadas em fatias menores. Contagem e identificação de células nessas fatias (isto é, a determinação de quantas células eram neurônios e quantas não eram) foram realizadas por meio do fracionador isotrópico, método simples e rápido de contagem celular desenvolvido por Suzana Herculano-Houzel e Roberto Lent.
- 
 
 **Figuras**. (A) Desenhos ilustrativos de um cérebro humano e de um cérebro de elefante africano. (B) Ilustração mostrando interior do cérebro, com destaque para o córtex cerebral, região mais externa relacionada a habilidades cognitivas superiores, como linguagem e raciocínio. (C). Núcleos de células cerebrais observadas com microscópio de fluorescência. Os núcleos em azul foram marcados com uma substância que se liga ao material genético (presente em neurônios e outros tipos de células). Os núcleos em vermelho foram marcados com um anticorpo que se liga especificamente a neurônios [(A) adaptado de Herculano-Houzel, 2009; (B) e (C) adaptados de Azevedo et al., 2009)].
 
@@ -47,8 +45,7 @@ Pesquisador(es) Responsável(eis)
 
 Sugestões de leitura
 
-[Elefantes têm três vezes mais neurônios do que seres humanos](http://oglobo.globo.com/sociedade/ciencia/elefantes-tem-tres-vezes-mais-neuronios-do-que-seres-humanos-12640419)[
-](http://oglobo.globo.com/sociedade/ciencia/elefantes-tem-tres-vezes-mais-neuronios-do-que-seres-humanos-12640419)
+[Elefantes têm três vezes mais neurônios do que seres humanos](http://oglobo.globo.com/sociedade/ciencia/elefantes-tem-tres-vezes-mais-neuronios-do-que-seres-humanos-12640419)
 [Blog A neurocientista de plantão](http://www.suzanaherculanohouzel.com/)
 
 [Entrevista de Suzana Herculano-Houzel ao programa “Roda Viva” da TV Cultura](http://tvcultura.cmais.com.br/rodaviva/roda-viva-suzana-herculano-houzel-25-03-2013)
@@ -64,7 +61,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

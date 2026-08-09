@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## As implementações das bolsas para o exterior foram adiadas, e não canceladas, para a readequação diante da pandemia e da realidade orçamentária.
 
 Devido à pandemia provocada pela COVID-19 e a elevação dos valores das moedas estrangeiras, a CAPES adiou todas as mobilidades internacionais previstas para este ano. As ações serão retomadas em 2021, em comum acordo com as instituições estrangeiras que receberão os pesquisadores brasileiros.
@@ -22,7 +21,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

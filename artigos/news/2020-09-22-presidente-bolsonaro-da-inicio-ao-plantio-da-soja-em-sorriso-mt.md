@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Brasil é o maior produtor mundial de soja e tem produção estimada em 124,8 milhões de toneladas na safra 2019/2020. 
+Brasil é o maior produtor mundial de soja e tem produção estimada em 124,8 milhões de toneladas na safra 2019/2020.
 
 O Presidente Jair Bolsonaro, acompanhado de ministros, esteve, nesta sexta-feira (18), no município de Sorriso, no Mato Grosso, onde participou do lançamento simbólico de plantio da próxima safra de soja. A cidade é a maior produtora do grão no mundo e o estado é líder de produção no País.
 
@@ -43,5 +42,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

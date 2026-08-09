@@ -7,12 +7,11 @@ categories:
 - Health
 ---
 
-
 Ter um ganho de peso adequado durante a gravidez diminui o risco de algumas doenças, como diabetes e pressão alta. Mas o excesso de peso propicia complicações para a mãe na hora do parto e para o recém-nascido, além de contribuir para a retenção de peso pós-parto. Então afinal: existe um peso ideal para as gestantes?
 
 A resposta é não. Como vamos ver a seguir, isso varia de mulher para mulher e também depende do tempo de gravidez. Mas para todas elas, o controle do peso é fundamental para a sua saúde.
 
-Segundo pesquisas realizadas pela Fundação Oswaldo Cruz, a taxa de malformações fetais é maior em mulheres obesas do que naquelas com peso adequado. Mas as gestantes com baixo peso também merecem atenção e devem receber aconselhamento nutricional e suplementação alimentar, conforme orientação do médico ou nutricionista. 
+Segundo pesquisas realizadas pela Fundação Oswaldo Cruz, a taxa de malformações fetais é maior em mulheres obesas do que naquelas com peso adequado. Mas as gestantes com baixo peso também merecem atenção e devem receber aconselhamento nutricional e suplementação alimentar, conforme orientação do médico ou nutricionista.
 
 ## **A importância do pré-natal**
 
@@ -68,7 +67,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Benefício será pago em parcela única em 102 municípios dos seguintes estados: Alagoas, Bahia, Ceará, Maranhão, Minas Gerais, Paraíba, Pernambuco e Rio Grande do Norte.
 
 A [Portaria nº 21](http://www.in.gov.br/en/web/dou/-/portaria-n-21-de-9-de-junho-de-2020-261274883), que determina o pagamento do benefício do Garantia-Safra e encerra o ciclo 2018/19, foi publicada pela Secretaria de Política Agrícola do Ministério da Agricultura, Pecuária e Abastecimento (Mapa) no dia **12/06**. Neste mês de junho receberão o pagamento total de R$ 70 milhões no total, 82.677 agricultores de 102 municípios de Alagoas, Bahia, Ceará, Maranhão, Minas Gerais, Paraíba, Pernambuco e Rio Grande do Norte.
@@ -50,8 +49,6 @@ Fonte: gov.br / Imagem em destaque: Mapa
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.**
 
 **Clique aqui no banner abaixo para assinar!**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura:
 

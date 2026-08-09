@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministério da Cidadania, em trabalho conjunto com CGU e Dataprev, bloqueou cerca de 400 mil pagamentos com suspeitas de irregularidades. Índice de efetividade é o melhor do mundo.
 
 O Auxílio Emergencial apresenta a cada dia números mais consistentes, unindo agilidade e segurança no pagamento. Criado em abril pelo Governo Federal para garantir uma renda mínima aos brasileiros vulneráveis durante a pandemia, o benefício contempla diretamente cerca de 65 milhões de brasileiros – indiretamente, são 124 milhões de pessoas atingidas, mais da metade da população brasileira.
@@ -36,7 +35,7 @@ Imagem: Isac Nóbrega/PR
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Portaria publicada hoje no Diário Oficial traz regras de renegociação.
 
 O governo federal estabeleceu as regras para que empresas que tomaram empréstimos dos fundos constitucionais possam renegociar suas dívidas.
@@ -44,10 +43,6 @@ Desse total, R$ 3,52 bilhões foram destinados a pequenos empreendedores das tr�
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)  
-
- Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+ Obrigado pelo apoio!

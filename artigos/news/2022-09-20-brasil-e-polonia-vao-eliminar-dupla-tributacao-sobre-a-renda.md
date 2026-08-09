@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Além de prevenir a sonegação fiscal, acordo deve incrementar o comércio e os investimentos bilaterais.
 
 Representantes da Secretaria Especial da Receita Federal do Ministério da Economia e autoridades tributárias do Ministério de Finanças da Polônia concluíram as negociações de um acordo que vai eliminar a dupla tributação sobre a renda e prevenir a sonegação fiscal.
@@ -24,8 +23,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

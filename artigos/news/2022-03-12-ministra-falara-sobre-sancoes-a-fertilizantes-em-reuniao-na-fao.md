@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## Governo lança Plano Nacional de Fertilizantes.
 
 Com a guerra entre Rússia e Ucrânia afetando as exportações internacionais de fertilizantes, indispensáveis à produção agrícola, o governo brasileiro vai tentar pautar na Organização das Nações Unidas para a Alimentação e a Agricultura (FAO) a transformação do insumo em item essencial da segurança alimentar global.
 
-No próximo dia 16, a ministra da Agricultura, Tereza Cristina, fará uma reunião virtual com o diretor-geral da FAO, Qu Dongyu. O diretor do Instituto Interamericano de Cooperação para a Agricultura (IICA), Manuel Otero, também deve participar da conversa. 
+No próximo dia 16, a ministra da Agricultura, Tereza Cristina, fará uma reunião virtual com o diretor-geral da FAO, Qu Dongyu. O diretor do Instituto Interamericano de Cooperação para a Agricultura (IICA), Manuel Otero, também deve participar da conversa.
 
-"Vamos ter uma reunião, no dia 16, com o presidente da FAO e com todos os países hemisféricos para ver se conseguimos colocar na segurança alimentar, que o mundo tanto quer e precisa, os fertilizantes nessa linha. Porque você não faz comida se não tiver fertilizantes. Então, nós temos essa discussão com todos os países da América do Norte e América Latina, para discutirmos e levarmos isso, se for consenso, para ser levado à ONU", afirmou a ministra, em entrevista, nesta sexta-feira (11), para anunciar o lançamento do [**Plano Nacional de Fertilizantes**](http://agenciabrasil.ebc.com.br/politica/noticia/2022-03/presidente-sanciona-hoje-pl-da-cobranca-unica-de-icms-de-combustivel). 
+"Vamos ter uma reunião, no dia 16, com o presidente da FAO e com todos os países hemisféricos para ver se conseguimos colocar na segurança alimentar, que o mundo tanto quer e precisa, os fertilizantes nessa linha. Porque você não faz comida se não tiver fertilizantes. Então, nós temos essa discussão com todos os países da América do Norte e América Latina, para discutirmos e levarmos isso, se for consenso, para ser levado à ONU", afirmou a ministra, em entrevista, nesta sexta-feira (11), para anunciar o lançamento do [**Plano Nacional de Fertilizantes**](http://agenciabrasil.ebc.com.br/politica/noticia/2022-03/presidente-sanciona-hoje-pl-da-cobranca-unica-de-icms-de-combustivel).
 
 Atualmente, Tereza Cristina preside a Junta Interamericana de Agricultura. A reunião da semana que vem faz parte da Mesa Redonda sobre Insumos para Sistemas Agroalimentares Sustentáveis da FAO.
 
@@ -36,7 +35,7 @@ Neste sábado (12), a ministra da Agricultura viajará para o Canadá. Vai conve
 
 Segundo a ministra, a ideia é conversar com a iniciativa privada sobre a disposição do governo brasileiro de facilitar as vendas ao Brasil.
 
-Na viagem a Ottawa estão previstas reuniões com presidentes de empresas produtoras e exportadoras de potássio instaladas no país, além de representantes do governo canadense, informou o ministério. 
+Na viagem a Ottawa estão previstas reuniões com presidentes de empresas produtoras e exportadoras de potássio instaladas no país, além de representantes do governo canadense, informou o ministério.
 
 Em fevereiro, a ministra viajou ao Irã para negociar o aumento de exportações de fertilizantes para o Brasil. Na quinta-feira (10), ela recebeu, em Brasília, representantes de países árabes para debater a possibilidade de aumentar a exportação de insumos para a agropecuária nacional.
 
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

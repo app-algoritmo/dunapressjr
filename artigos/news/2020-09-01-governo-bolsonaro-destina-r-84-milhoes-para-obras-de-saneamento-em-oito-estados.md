@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Valores serão repassados pelo Ministério do Desenvolvimento Regional para obras de abastecimento de água, esgotamento sanitário, manejo de águas pluviais e saneamento integrado. Bahia, Goiás, Pernambuco, Rio de Janeiro, Rio Grande do Norte, Santa Catarina, São Paulo e Sergipe serão beneficiados pelo repasse de recursos do Ministério do Desenvolvimento Regional.
 
 O Ministério do Desenvolvimento Regional (MDR) autorizou o repasse de R$ 8,4 milhões para dar continuidade a obras de saneamento básico nos estados da Bahia, de Goiás, Pernambuco, Rio de Janeiro, Rio Grande do Norte, Santa Catarina, São Paulo e Sergipe. Serão realizadas obras de abastecimento de água, esgotamento sanitário, manejo de águas pluviais e saneamento integrado.
@@ -28,5 +27,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

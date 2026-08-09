@@ -7,8 +7,7 @@ categories:
 - Agriculture
 ---
 
-
-As variedades[ ](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-exatas-e-da-terra/338-palma-forrageira-na-alimentacao-de-caprinos-e-ovinos#)de palma forrageira cultivadas no semiárido brasileiro são de origem mexicana. Adaptadas às condições ambientais da região, essas forrageiras são de grande importância para o fornecimento de nutrientes e suprimento de parte das necessidades de água dos animais no período seco do ano. Essas cactáceas são imprescindíveis para garantira segurança alimentar dos rebanhos caprinos e ovinos. O Brasil possui um rebanho de aproximadamente 27 milhões de ovinos e caprinos. Desse contingente de bodes, cabras e ovelhas, cerca de 18 milhões são criados na região Nordeste e cerca de 15 milhões encontram-se no semiárido.
+As variedadesde palma forrageira cultivadas no semiárido brasileiro são de origem mexicana. Adaptadas às condições ambientais da região, essas forrageiras são de grande importância para o fornecimento de nutrientes e suprimento de parte das necessidades de água dos animais no período seco do ano. Essas cactáceas são imprescindíveis para garantira segurança alimentar dos rebanhos caprinos e ovinos. O Brasil possui um rebanho de aproximadamente 27 milhões de ovinos e caprinos. Desse contingente de bodes, cabras e ovelhas, cerca de 18 milhões são criados na região Nordeste e cerca de 15 milhões encontram-se no semiárido.
 
 No semiárido, predominava a cultura da palma forrageira gigante. Porém, desde 2001, essa variedade tem sido severamente atacada pela cochonilha-do-carmim. Em algumas regiões da Paraíba e de Pernambuco a palma forrageira Gigante foi dizimada, causando prejuízos econômicos, sociais, históricos e até mesmo culturais para os pecuaristas desses Estados.
 
@@ -66,7 +65,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

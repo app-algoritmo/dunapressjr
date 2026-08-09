@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Secretaria de Estado da Saúde (SES) instituiu [**quatro pilares para o enfrentamento da Covid-19**](https://www.sc.gov.br/images/PILARES_COVID.pdf) no território catarinense. A Manutenção das Estruturas de UTI Covid-19, as Campanhas Publicitárias, a Abordagem dos Pacientes na Atenção Primária da Rede SUS e a Fiscalização e Vigilância são as estruturas que serão implantadas para fortalecer o combate ao novo coronavírus.
 
 No quesito de manutenção das estruturas de UTI Covid-19 em Santa Catarina, já está sendo habilitada e prorrogada toda a estrutura de leitos até 31 de dezembro de 2020, além da garantia de custeio por parte do Estado e dos municípios (portaria nº 1.666). Também haverá manutenção dos pagamentos do teto máximo dos contratos das organizações sociais até 31 de dezembro de 2020 e do teto da Política Hospitalar Catarinense (PHC) até junho de 2021.
@@ -27,7 +26,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

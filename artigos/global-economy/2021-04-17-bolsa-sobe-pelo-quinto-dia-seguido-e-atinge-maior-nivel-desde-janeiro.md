@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Dólar tem quarta queda seguida e fecha a R$ 5,58.
 
 Em mais um dia de otimismo no mercado financeiro, a bolsa de valores voltou a subir e alcançou o melhor nível desde janeiro. O dólar caiu pela quarta sessão seguida e voltou a fechar abaixo de R$ 5,60.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

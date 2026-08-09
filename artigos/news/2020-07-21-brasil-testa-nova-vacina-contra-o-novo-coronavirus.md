@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Nove mil voluntários vão participar de nova etapa da pesquisa.
 
 O Brasil inicia terça-feira  (21) os testes de uma vacina chinesa contra o novo coronavírus. Nove mil voluntários de cinco estados brasileiros e do Distrito Federal vão participar. Os voluntários são profissionais de saúde que trabalham no atendimento a pacientes com Covid-19. Vinte mil doses do medicamento chegaram a São Paulo nesta segunda-feira (20).
@@ -26,7 +25,7 @@ Os testes serão realizados nos voluntários que trabalham em instalações espe
 
 Os profissionais de saúde voluntários não podem ter sofrido infecção provocada pelo coronavírus e não devem participar de outros estudos. Os testes também não pode ser realizados em gestantes ou mulheres que planejarem uma gravidez nos próximos três meses. Outra restrição é que não tenham doenças instáveis ou que precisem de medicações que alterem a resposta imune.
 
-O profissional de saúde interessado em participar da pesquisa pode ir na página do [Instituto Buntantan](http://vacinacovid.butantan.gov.br/index). 
+O profissional de saúde interessado em participar da pesquisa pode ir na página do [Instituto Buntantan](http://vacinacovid.butantan.gov.br/index).
 
 ### Parceria
 
@@ -44,6 +43,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

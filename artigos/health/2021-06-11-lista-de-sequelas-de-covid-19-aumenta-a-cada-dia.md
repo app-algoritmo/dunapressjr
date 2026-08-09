@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Estudo aponta pelo menos oito áreas que podem ser comprometidas pela infecção e que vão de sequelas cerebrais a dermatológicas.
 
 Alta hospitalar, um sopro de esperança para milhões de brasileiros que conseguiram superar a covid-19 desde que a pandemia começou. De acordo com o Ministério da Saúde, já são mais de 14 milhões de recuperados, um número que reflete as altas taxas de contaminação pelo Sars-Cov-2 no país. Mas o que vem depois que a doença vai embora? As sequelas deixadas pela covid-19 ainda estão sendo estudadas pela ciência e vão muito além das consequências respiratórias e pulmonares, como fadiga e falta de ar.
@@ -33,7 +32,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O pedido de suspensão foi feito pelo Sinep-PB.
 
 A desembargadora Maria das Graças Morais Guedes deferiu medida cautelar para suspender a eficácia da Lei Estadual nº 11.694, de 27 de maio de 2020, ad referendum do Plenário do Tribunal de Justiça da Paraíba.  A norma questionada dispõe sobre a repactuação provisória e o reequilíbrio dos contratos de consumo educacionais nas escolas de ensino infantil, fundamental e médio, universidades e cursos pré-vestibulares, em razão da não realização de aulas presenciais ocasionada pela pandemia da Covid-19 no âmbito do Estado da Paraíba.
@@ -30,5 +29,3 @@ Fonte: Tribunal de Justiça da Paraíba – Imagem de destaque: Reuters/Amanda P
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

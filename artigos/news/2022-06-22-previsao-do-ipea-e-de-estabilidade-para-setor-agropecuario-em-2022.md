@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Instituto atualiza as projeções do PIB agropecuário para este ano.
 
 O Instituto de Pesquisa Econômica Aplicada (Ipea) divulgou nesta terça-feira (21) a revisão da projeção do valor adicionado (VA) do setor agropecuário de 2022, que passou de crescimento de 1% em março para estabilidade, ou seja, crescimento nulo no ano.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

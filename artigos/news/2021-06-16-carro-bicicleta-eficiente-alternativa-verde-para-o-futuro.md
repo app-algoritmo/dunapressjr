@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Projeto da Universidade Federal do Rio Grande do Norte (UFRN) pretende lançar protótipo em 2023.
 
 A Universidade Federal do Rio Grande do Norte (UFRN) entrou na corrida tecnológica para desenvolver um modelo de automóvel híbrido a partir da união do carro e da bicicleta. Desenvolvido pelo Programa de Pós-Graduação em Engenharia Mecânica da UFRN, como pesquisa de mestrado dos estudantes Ana Carolina Ribeiro da Silva e Gabriel Gomes de Macedo Mendes, o velomóvel se inspira em modelos já existentes, como o [*Pedilio*](https://www.pedilio.de/aktuelles-deutsch/%C3%BCber-mich/), o [*Elf*](https://organictransit.com/) e o [*Bio-Hybrid*](https://www.biohybrid.com/en/).
@@ -34,7 +33,3 @@ Fonte: https://www.gov.br/capes
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

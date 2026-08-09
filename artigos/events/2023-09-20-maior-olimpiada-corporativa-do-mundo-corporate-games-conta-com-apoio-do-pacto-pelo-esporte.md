@@ -30,8 +30,7 @@ O São Paulo Corporate Games tem apoios institucionais da ABRH-SP (Associação 
 site: [https://corporategamesbr.com/](https://click.presskit.com.br/url/9722556158/6361388b6fc)
 Instagram: [@corporategamesbr/](https://click.presskit.com.br/url/9722563e7a/6361388b6fc)
 Linkedin: [corporategamesbr](https://click.presskit.com.br/url/97225783a0/6361388b6fc)
-[
-](https://click.presskit.com.br/url/9722585395/6361388b6fc)ZDL
+ZDL
 Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](https://click.presskit.com.br/url/97225962a6/6361388b6fc) - 11 984579723
 Deborah Mamone - MTb 15148  - [deborah@zdl.com.br](https://click.presskit.com.br/url/97226069cd/6361388b6fc) - 11 991628967
 Site: [www.zdl.com.br

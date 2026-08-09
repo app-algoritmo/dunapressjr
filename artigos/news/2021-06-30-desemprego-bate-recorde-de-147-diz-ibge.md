@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Total de desocupados chega a 14,8 milhões de pessoas.
 
 O número de pessoas desempregadas no Brasil subiu 3,4% no trimestre encerrado em abril deste ano, elevando a taxa de desocupação para 14,7%. Frente ao trimestre encerrado em janeiro, quando a taxa ficou em 14,2%, o aumento foi de 0,4 ponto percentual, o que representa mais 489 mil pessoas desocupadas, totalizando 14,8 milhões de pessoas em busca de trabalho no país. A alta ante o mesmo trimestre móvel de 2020 é de 2,1 pontos percentuais.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

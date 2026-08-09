@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Cerimônia celebra a oferta de ações da Eletrobras.
 
 O presidente da República Jair Bolsonaro e os ministros da Economia, Paulo Guedes, e de Minas e Energia, Adolfo Sachsida, participaram no início da tarde desta terça-feira (14) da cerimônia de toque de campainha da privatização da Eletrobras na B3, a Bolsa de Valores de São Paulo, no centro da capital paulista. Também estiveram presentes o presidente do Banco Nacional de Desenvolvimento Econômico e Social (BNDES), Gustavo Montezano e diversos ex-ministros do governo federal.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

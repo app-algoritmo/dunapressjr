@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Metas de prevenção deverão ser compatíveis com as do Acordo de Paris.
 
 O Ministério da Economia informou divulgou[ nota](https://www.gov.br/economia/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2020/julho/ministerio-da-economia-comenta-meta-de-reducao-do-desmatamento-ilegal) na qual diz “concordar com o pleito apresentado pelo Ministério do Meio Ambiente (MMA) de tornar a meta do Programa de Prevenção e Controle do Desmatamento e do Incêndio dos Biomas do PPA [Plano Plurianual] compatível com as metas definidas no Acordo de Paris.”
@@ -36,4 +35,4 @@ O presidente do BNDES, Gustavo Montezano, manifestou interesse nas demandas rece
 
 Fonte: Agência Brasil – Imagem de destaque: Arquivo/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

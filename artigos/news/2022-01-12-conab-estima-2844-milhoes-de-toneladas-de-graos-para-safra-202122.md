@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estimativa indica crescimento de 12,5% sobre a colheita anterior.
 
 A Companhia Nacional de Abastecimento (Conab) divulgou nesta terça-feira (11) a quarta estimativa para a safra 2021/22 de grãos, em que prevê produção de 284,4 milhões de toneladas.
@@ -32,14 +31,10 @@ A Conab informou que as exportações de soja chegaram a 86,1 milhões de tonela
 
 No caso do algodão em pluma, no ano passado foram exportadas 2 milhões de toneladas, 58% acima da média dos últimos cinco anos. Para 2022, é estimado crescimento para 2,05 milhões.
 
-O levantamento completo pode ser encontrado no [**portal da Conab**](https://www.conab.gov.br/info-agro/safras/graos/boletim-da-safra-de-graos). 
+O levantamento completo pode ser encontrado no [**portal da Conab**](https://www.conab.gov.br/info-agro/safras/graos/boletim-da-safra-de-graos).
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

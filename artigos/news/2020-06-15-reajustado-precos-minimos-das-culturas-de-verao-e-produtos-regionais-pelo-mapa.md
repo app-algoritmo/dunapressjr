@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medida serve para orientar produtores sobre decisão de plantio.
 
 Governo Federal reajustou os preços mínimos para as safras de verão, inclusive sementes, para a temporada 2020/2021 e dos produtos das regiões Norte e Nordeste da safra 2021. O reajuste médio foi de 8,24%. Os preços mínimos têm como base os custos variáveis de produção das lavouras. Outros indicadores de mercado também são considerados, como o custo variável médio da produção regional.
@@ -16,7 +15,7 @@ Para o algodão, o percentual ficou em 7,57%, arroz longo fino (no Rio Grande do
 
 Entre os produtos regionais que sofreram alteração nos valores estão sisal, borracha natural cultivada e juta malva.
 
-Os novos valores foram publicados na [Portaria nº 190](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=12/06/2020&jornal=515&pagina=13&totalArquivos=98), nesta sexta-feira (12). Os[ ](https://www.gov.br/agricultura/pt-br/assuntos/noticias/governo-reajusta-precos-minimos-das-culturas-de-verao/preosmnimos.xlsm)valores dos produtos da Política de Garantia de Preços Mínimos (PGPM) foram fixados pelo Conselho Monetário Nacional (CMN) no último dia 29 de maio.
+Os novos valores foram publicados na [Portaria nº 190](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=12/06/2020&jornal=515&pagina=13&totalArquivos=98), nesta sexta-feira (12). Osvalores dos produtos da Política de Garantia de Preços Mínimos (PGPM) foram fixados pelo Conselho Monetário Nacional (CMN) no último dia 29 de maio.
 
 Os reajustes servem para garantir parte da receita do produtor, representando um seguro de preço a custo zero. O preço mínimo também ajuda o produtor a decidir  sobre o plantio de cada safra agrícola, apoiando-o em caso de crise de preços no mercado, como explica Sílvio Farnese, diretor de Comercialização e Abastecimento da Secretaria de Política Agrícola do Ministério da Agricultura, Pecuária e Abastecimento.
 
@@ -29,5 +28,3 @@ A Política de Garantia de Preços Mínimos é uma ferramenta para diminuir osci
 Fonte: gov.br/agricultura / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em convênio firmado pelo Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) e a Cruz Vermelha beneficiará as quebradeiras de coco babaçu - grupo de mulheres que faz parte de comunidades extrativistas e integra os chamados povos e comunidades tradicionais. O documento foi assinado, nesta sexta-feira (17), durante visita da ministra Damares Alves a Imperatriz (MA).
 
 Por meio da parceria, o grupo que se organiza em associações, cooperativas e articulações locais receberão suporte e cestas básicas destinadas ao reforço alimentar, além de equipamentos de proteção individual (EPIs).
@@ -28,6 +27,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

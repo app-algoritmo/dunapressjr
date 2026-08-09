@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Discussões sobre a Nova Constituição, a Libertadora, tem como principais debatedores o prof. Ives Gandra Martins, o Dr. Modesto Carvalhosa e o deputado Luiz Philippe de Orleans e Bragança.
 
 Lançada no último dia 29 de abril em formato de livro, com comentários, a Constituição Libertadora (A Libertadora - Uma Constituição para o Brasil, LVM Editora), conta com organização e coordenação do deputado federal Luiz Philippe e coautoria de Renata Tavares, Joanisval Gonçalves, Mário Jorge Panno e Ton Martins. A obra propõe uma profunda reforma a partir de nova carta magna que resgate a liberdade e a participação popular, com descentralização, para promoção de estabilidade econômica, política e jurídica.
@@ -34,7 +33,3 @@ Vera Amatti: (11) 98271-1997
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

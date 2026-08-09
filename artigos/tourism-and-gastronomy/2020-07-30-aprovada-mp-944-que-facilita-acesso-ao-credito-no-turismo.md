@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Câmara dos Deputados foi unânime na decisão. Texto segue para sanção presidencial.
 
 O plenário da Câmara dos Deputados aprovou, nesta quarta-feira (29.07), as novas regras para a Medida Provisória nº 944. A mudança na MP, que criou o Programa Emergencial de Suporte a Emprego (Pese) com crédito para o pagamento de salários por pequenas e médias empresas durante a pandemia, beneficiará diretamente empreendedores do Turismo (microempresas e empresas de pequeno porte) que solicitem recursos do Fundo Geral do Turismo (Fungetur). Agora, eles poderão aderir ao Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe) e ao Fundo de Garantia de Operações do Banco do Brasil (FGO) dando mais agilidade e segurança aos empréstimos solicitados.
@@ -22,7 +21,7 @@ A expectativa é que 80% do R$ 5 bilhões sejam destinados aos empreendimentos d
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

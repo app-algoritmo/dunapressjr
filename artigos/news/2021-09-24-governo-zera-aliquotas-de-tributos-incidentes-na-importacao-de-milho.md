@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medida vale até 31 de dezembro.
 
 O presidente Jair Bolsonaro editou uma Medida Provisória (MP) que zera, até 31 de dezembro, os tributos sobre a importação do milho. O texto foi publicado nesta quinta-feira (23) no [***Diário Oficial da União***](http://in.gov.br/en/web/dou/-/medida-provisoria-n-1.071-de-22-de-setembro-de-2021-346776368) e, como tem força de lei, já está em vigor.
@@ -26,10 +25,6 @@ Os gastos com o novo programa acarretarão, neste ano, um acréscimo de R$ 1,62 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

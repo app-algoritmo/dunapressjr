@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Em 2020, o Ministério da Educação (MEC) já destinou, por meio da Secretaria de Modalidades Especializadas em Educação (Semesp), cerca de R$ 257 milhões em investimentos para a formação de professores de Educação Básica da rede pública de ensino e na equipagem ou abertura de novas salas de recursos multifuncionais para o atendimento de educacional especializado para educandos da educação especial.
 
 De Acordo com o Censo 2019, o Brasil tem 100.718 escolas públicas com, pelo menos, uma matrícula na educação especial. Dessas, cerca de 8.400 unidades em todo o país receberão o recurso para ampliar e melhorar o atendimento. Os recursos serão destinados a estados, municípios e ao Distrito Federal.
@@ -23,7 +22,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

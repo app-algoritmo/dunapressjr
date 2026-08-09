@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 ## Estudantes interessados em cursar a universidade na terra da rainha precisam seguir uma série de exigências das instituições de ensino superior britânicas.
 
 Cambridge e Oxford são as mais famosas, mas o Reino Unido tem mais de 130 instituições de ensino superior com interesse em receber estudantes estrangeiros, inclusive os brasileiros. Espalhadas por quatro países - Inglaterra, Escócia, País de Gales e Irlanda do Norte -, essas universidades estão de portas abertas, mas têm alguns critérios de admissão que precisam ser seguidos.
@@ -26,7 +25,7 @@ Além dessas, todos os alunos IB cursam as disciplinas de Teoria do Conhecimento
 
 O diretor do Colégio Positivo - Internacional, que aplica o IB Diploma Programme, Pedro Daniel Oliveira, detalha que se trata de um programa educacional reconhecido em mais de 130 países. “O IB Diploma Programme, programa de alta performance e avaliado externamente por educadores internacionais, promove um ambiente que desenvolve a mentalidade internacional, estimula o pensamento crítico e atua no desenvolvimento da compreensão conceitual e das habilidades cognitivas. Além disso, os dados apontam que a taxa de aprovação de alunos IB em universidades do mundo inteiro é substancialmente superior à de alunos regulares”, pontua.
 
-Não é só no Reino Unido que o IB é aceito como vantagem. Quem cursa o programa pode pleitear vagas em universidades em mais de 130 países, incluindo o Brasil. Instituições como a Fundação Getúlio Vargas (FGV), a Faculdade Albert Einstein e a PUC Rio têm uma via de acesso que considera a pontuação IB e dispensa o vestibular. Também no exterior, como na Alemanha, Holanda, França e no próprio Reino Unido, alunos IB não precisam participar de outros processos de admissão. “O IB é uma excelente opção não só para quem quer estudar fora, mas também pretende manter a janela aberta para as universidades brasileiras”, afirma Oliveira. 
+Não é só no Reino Unido que o IB é aceito como vantagem. Quem cursa o programa pode pleitear vagas em universidades em mais de 130 países, incluindo o Brasil. Instituições como a Fundação Getúlio Vargas (FGV), a Faculdade Albert Einstein e a PUC Rio têm uma via de acesso que considera a pontuação IB e dispensa o vestibular. Também no exterior, como na Alemanha, Holanda, França e no próprio Reino Unido, alunos IB não precisam participar de outros processos de admissão. “O IB é uma excelente opção não só para quem quer estudar fora, mas também pretende manter a janela aberta para as universidades brasileiras”, afirma Oliveira.
 
 Antes de sentar-se nos bancos universitários britânicos, porém, o estudante estrangeiro passa por uma avaliação holística. Trench conta que esses estabelecimentos de ensino avaliam vários fatores para escolher seus alunos. Entre eles, as notas do ensino médio, cartas de referência, entrevistas e uma carta de intenção, que explica por que o estudante deseja estudar no Reino Unido e de que forma poderá agregar à sociedade.
 
@@ -43,7 +42,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

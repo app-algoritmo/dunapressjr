@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Avaliar os efeitos biológicos das fibras alimentares do mamão papaia na saúde do intestino. Esse foi o objetivo de Samira Bernardino Ramos do Prado, em sua pesquisa de doutorado pelo Programa de Pós-graduação em Ciência dos Alimentos da Universidade de São Paulo (USP). O estudo, coordenado pelo professor João Paulo Fabi, recebeu o [Prêmio CAPES de Tese 2020](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) na área da Ciência dos Alimentos. 
+Avaliar os efeitos biológicos das fibras alimentares do mamão papaia na saúde do intestino. Esse foi o objetivo de Samira Bernardino Ramos do Prado, em sua pesquisa de doutorado pelo Programa de Pós-graduação em Ciência dos Alimentos da Universidade de São Paulo (USP). O estudo, coordenado pelo professor João Paulo Fabi, recebeu o [Prêmio CAPES de Tese 2020](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) na área da Ciência dos Alimentos.
 
 O amadurecimento do mamão aumenta a quantidade de fibras solúveis (pectina) em frutos no ponto de consumo (Foto: Arquivo pessoal).
 
@@ -47,7 +46,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

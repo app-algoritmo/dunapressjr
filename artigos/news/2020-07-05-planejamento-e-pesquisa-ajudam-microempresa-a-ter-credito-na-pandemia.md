@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Cooperativas, fintechs e empresas individuais emprestam a juros baixos.
 
 Um dos principais gargalos para os negócios de pequeno porte durante a pandemia da covid-19 pode ser superado com planejamento e pesquisa. Com dificuldade de acesso ao crédito em bancos tradicionais, as micro e pequenas empresas devem avaliar a necessidade do crédito, traçar uma estratégia financeira e diversificar a procura para enfrentarem a crise.
@@ -40,10 +39,10 @@ Apesar da crise, os especialistas do Sebrae aconselham o pequeno empresário afe
 
 No caso de estoque parado, o coordenador do Sebrae sugere promoções para desovar a mercadoria, antes de recorrer a um financiamento de capital de giro. Ele também aconselha o empresário a regularizar eventuais restrições que negativem o Cadastro Nacional de Pessoa Jurídica (CNPJ), como contas de luz e de telefones atrasadas. “O empresário deve reunir as necessidades e os objetivos no papel e só então procurar as instituições financeiras. O planejamento é parte essencial do processo”, destacou.
 
-Em tempos de rupturas provocadas pelo novo coronavírus (covid-19), o analista técnico do Sebrae Giovanni Beviláqua aconselha o empresário a contrair crédito não apenas para manter, mas para remodelar o empreendimento. 
+Em tempos de rupturas provocadas pelo novo coronavírus (covid-19), o analista técnico do Sebrae Giovanni Beviláqua aconselha o empresário a contrair crédito não apenas para manter, mas para remodelar o empreendimento.
 
 “Neste período, muitos negócios pararam de funcionar, mas ao mesmo tempo vimos que muitos se reinventaram. Foi acelerada a transformação digital das empresas por causa da pandemia. Essa pode ser uma oportunidade interessante, uma estratégia para manter e ampliar clientes”, recomenda o analista.
 
 Fonte: Agência Brasil - Imagem de destaque: José Cruz/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

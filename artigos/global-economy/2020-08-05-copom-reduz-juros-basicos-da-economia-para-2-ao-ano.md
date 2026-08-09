@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 **Selic está no menor nível da história depois de nove cortes seguidos**.
 
 Em meio à crise econômica decorrente da pandemia do novo coronavírus, o Banco Central (BC) diminuiu os juros básicos da economia pela nona vez seguida. Por unanimidade, o Comitê de Política Monetária (Copom) reduziu a taxa Selic para 2% ao ano, com corte de 0,25 ponto percentual. A decisão era [**esperada pelos analistas financeiros**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-08/mercado-financeiro-preve-reducao-da-selic-para-2-ao-ano-nesta-semana).
@@ -38,4 +37,4 @@ Ao reduzir os juros básicos, o Copom barateia o crédito e incentiva a produç�
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

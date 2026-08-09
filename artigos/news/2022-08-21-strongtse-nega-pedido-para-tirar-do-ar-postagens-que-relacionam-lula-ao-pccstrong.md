@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Decisão é da ministra da Corte Maria Claudia Bucchianeri.
 
 Um pedido do ex-presidente Lula para obrigar o presidente Jair Bolsonaro a deletar do Twitter postagens em que o petista e seu partido são associados a organização criminosa Primeiro Comando da Capital (PCC) foi negado, neste sábado (20).
@@ -22,14 +21,10 @@ Ao justificar a decisão, Bucchianeri ressalta que o conteúdo do áudio apresen
 
 A ministra avalia que a interceptação traz fatos que não foram “gravemente descontextualizados, manipulados ou editados” portanto, não configuram propaganda antecipada negativa e desinformativa.
 
-Maria Claudia Bucchianeri também negou o pedido do Partido dos Trabalhadores para que Bolsonaro fosse multado e proibido de fazer postagens com teor semelhante. A campanha do ex-presidente da República deve recorrer da decisão ao plenário da Corte Eleitoral. 
+Maria Claudia Bucchianeri também negou o pedido do Partido dos Trabalhadores para que Bolsonaro fosse multado e proibido de fazer postagens com teor semelhante. A campanha do ex-presidente da República deve recorrer da decisão ao plenário da Corte Eleitoral.
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Foram entrevistadas 1.839 empresas de 2 a 10 de maio, diz CNI.
 
 A produção industrial apresentou queda em abril de 2022 na comparação com março, informou nesta segunda-feira (16) a Confederação Nacional da Indústria (CNI). Segundo boletim divulgado pela entidade, o índice que mede a evolução da produção ficou em 46,5 pontos, ficando abaixo dos 50 pontos, linha divisória entre queda e crescimento da produção na comparação com o mês anterior, quando fechou em 54,5 pontos.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

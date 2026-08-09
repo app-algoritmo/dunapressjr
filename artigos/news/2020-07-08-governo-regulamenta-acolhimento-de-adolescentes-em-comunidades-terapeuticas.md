@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A reunião também reforçou a posição brasileira contrária ao relaxamento de políticas internacionais de drogas.
 
 Nesta segunda-feira (6), o Conselho Nacional de Políticas Sobre Drogas (Conad) se reuniu de maneira extraordinária para debater pontos fundamentais para que o Brasil avance ainda mais no combate às drogas e na recuperação e reinserção social de dependentes químicos e seus familiares. O ministro da Cidadania, Onyx Lorenzoni, e o secretário nacional de Cuidados e Prevenção às Drogas, Quirino Cordeiro, participaram do encontro, que ocorreu por videoconferência.
@@ -24,7 +23,7 @@ Imagem: Rafael Carvalho
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

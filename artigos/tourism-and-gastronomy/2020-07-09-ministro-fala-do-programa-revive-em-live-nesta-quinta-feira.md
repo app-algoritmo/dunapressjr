@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Evento será transmitido pelo Facebook do Ministério do Turismo, a partir das 16h30min.
 
 O ministro do Turismo, Marcelo Álvaro Antônio, participa nesta quinta-feira (09.07), 16h30, de uma live sobre o Programa Revive. A secretária Especial do Programa de Parcerias de Investimentos, Martha Seillier, e a presidente do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), Larissa Peixoto, também participam da transmissão. A live será transmitida pelo Facebook no MTur.
@@ -22,7 +21,7 @@ Imagem: Turismo Gov Br
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

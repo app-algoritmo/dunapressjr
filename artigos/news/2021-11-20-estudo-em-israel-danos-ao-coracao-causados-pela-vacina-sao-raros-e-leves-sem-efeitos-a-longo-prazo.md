@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Um estudo conduzido pelo Hospital Beilinson em Petah Tikva, usando uma técnica de varredura detalhada para examinar pacientes com sintomas de uma doença no músculo cardíaco após receber a vacina COVID-19, descobriu que os danos são raros, leves e devem ser curados.
 
 O estudo usou imagens de ressonância magnética cardíaca em pacientes com diagnóstico de miocardite, um músculo cardíaco enfraquecido que foi encontrado em alguns pacientes após terem sido vacinados.
@@ -58,7 +57,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

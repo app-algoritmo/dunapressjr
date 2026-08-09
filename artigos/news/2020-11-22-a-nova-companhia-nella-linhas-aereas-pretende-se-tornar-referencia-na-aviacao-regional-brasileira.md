@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Mais uma empresa aérea de baixo custo pretende investir no Brasil e operar voos dentro do país nos próximos meses. A nova companhia Nella Linhas Aéreas protocolou pedido na Agência Nacional de Aviação Civil (Anac) para iniciar operações regionais.
 
 Segundo a Anac, o encontro faz parte da primeira de uma série de etapas para a obtenção do Certificado de Operador Aéreo (COA), documento que autoriza o início das atividades da companhia. O processo pode durar vários meses, até que a empresa esteja apta a lançar o primeiro voo, mas a previsão é de que isso ocorra ainda no primeiro semestre de 2021.
@@ -29,5 +28,3 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 Obrigado pelo apoio!
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

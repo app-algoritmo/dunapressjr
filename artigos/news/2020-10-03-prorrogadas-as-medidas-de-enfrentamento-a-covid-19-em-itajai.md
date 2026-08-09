@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí informa que estão prorrogadas as medidas de enfrentamento ao coronavírus (COVID-19), por meio do **Decreto Municipal n° 12.022/2020**. Não houve alterações nas proibições e/ou liberações desde o decreto anterior. A prorrogação decorre da Avaliação do Risco Potencial para COVID-19 realizada pelo Governo do Estado de Santa Catarina, visto que a Região da Foz do Rio Itajaí permanece com a indicação de Risco Potencial GRAVE. As prorrogações valem até 07 de outubro.
 
 O Decreto passa a valer a partir desta quinta-feira (1º) e, conforme já determinado, mantém a obrigatoriedade do uso de máscaras em todos os espaços, sejam eles públicos ou privados. O Município de Itajaí ainda reforça a importância de a população manter o isolamento social, sempre que possível, e demais medidas preventivas, como a higienização das mãos, a etiqueta da tosse, não participar de aglomerações, entre outras recomendações.
@@ -60,7 +59,7 @@ Autorizadas aulas práticas de cursos técnicos, atividade de ensino presencial 
 Autorizada a retomada dos serviços, desde que respeitem as regras estabelecidas pela Secretaria de Estado da Saúde na Portaria n° 583 de 24 de agosto de 2020.
 Autorizado o serviço de fretamento para transporte de pessoas.
 
-O transporte municipal aguarda procedimentos internos para funcionamento. 
+O transporte municipal aguarda procedimentos internos para funcionamento.
 
 Fonte itajai.sc.gov.br
 
@@ -69,5 +68,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

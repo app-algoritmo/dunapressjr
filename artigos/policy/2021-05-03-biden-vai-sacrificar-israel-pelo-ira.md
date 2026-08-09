@@ -7,7 +7,6 @@ categories:
 - Policy
 ---
 
-
 ## O governo Biden pode estar preparado para sacrificar uma forte aliança estratégica com Israel se for se opor ao retorno dos EUA ao acordo com o Irã.
 
 Existem vários relatos ocidentais de mensagens claras dos EUA, descritas por alguns como “ordens surpresa” para que Israel pare suas tentativas de inviabilizar as negociações em andamento em Viena com o Irã. Washington pode estar muito preocupado com os comentários do ministro das Relações Exteriores, Gabi Ashkenazi[.](https://www.jpost.com/middle-east/ashkenazi-world-must-act-to-stop-iran-from-getting-future-bomb-665723)
@@ -35,7 +34,7 @@ A questão agora: Israel está preparado para inviabilizar o acordo assinado em 
 Essa pergunta ressoa na cabeça de alguns observadores, e acho que evitar isso está ligado à política do governo Biden. Especialistas e especialistas acreditam que o país está mais comprometido com a segurança de longo prazo de Israel. Isso independentemente de qualquer coisa que o ex-presidente Trump tenha alcançado nesta frente.
 
 Mas o que é certo sobre essa questão é que Biden não se arriscará a irritar seus parceiros israelenses. No entanto, os resultados não são apenas uma questão de intenções. Em vez disso, é necessário ouvir adequadamente as opiniões dos outros países para formular uma abordagem estratégica que atenda aos requisitos e interesses de todas as partes.
-*
+
 Créditos: [SALEM ALKETBI](https://www.jpost.com/author/salem-alketbi) . O escritor é um analista político dos Emirados Árabes Unidos e ex-candidato ao Conselho Nacional Federal.*
 
 Fonte: https://www.jpost.com
@@ -47,7 +46,3 @@ Fonte: https://www.jpost.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

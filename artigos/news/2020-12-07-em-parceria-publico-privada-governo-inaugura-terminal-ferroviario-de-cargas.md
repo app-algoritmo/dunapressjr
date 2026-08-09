@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Infraestrutura inaugurou, nesta sexta-feira (4), terminal ferroviário de cargas da empresa de combustíveis Petronac, localizado em Porto Nacional (TO). Com mais de seis hectares, a área pertence à Valec Engenharia, Construções e Ferrovias S.A. e foi concedida à empresa mediante pagamento de outorga à União.
 
 O terminal ocupa parte do pátio que a estatal implantou próximo à Ferrovia Norte-Sul, linha férrea também construída pela Valec. “No começo do ano que vem, a Ferrovia Norte-Sul estará conectada à Malha Paulista, abrindo um horizonte de possibilidades e oportunidades”, destaca o gerente de projeto do ministério, Alex Trevizan.
@@ -30,7 +29,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

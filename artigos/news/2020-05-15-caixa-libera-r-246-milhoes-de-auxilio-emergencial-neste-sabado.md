@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Benefício já foi creditado para mais de 50 milhões de pessoas
 
 A Caixa disponibilizará R$ 246 milhões do auxílio emergencial para 405.163 mil pessoas neste sábado (16). O banco recebeu ontem (14) da Dataprev o novo lote de beneficiários. No total, serão realizados 311.637 créditos em contas da Caixa e 93.526 em contas de outros bancos.
@@ -37,5 +36,3 @@ Ajude-nos a levar o jornalismo independente a todas as partes!
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

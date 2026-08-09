@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 Atualizações | Tratamento Precoce (imediato, inicial) | Compilação de Protocolos, Publicações Científicas e Pareceres Técnicos das Principais Autoridades Médicas | O que oferecer aos infectados para que não morram
 
 **O maior e mais pesquisado compêndio sobre ivermectina**. **Bomba científica – Novo fármaco, Ivermectina, gratuita por lei, surge como escudo e tem salvado famílias**.
@@ -17,7 +16,7 @@ Desde 27/06/2020 este editorial iniciava a publicação dos fatos científicos q
 
 Óbitos se tornaram visivelmente evitáveis, caso os parâmetros preconizados cientificamente fossem praticados em vez de omitidos. O viés ideológico e político induz o povo ao engano e fatalidade. Nesta matéria, você não verá informações técnicas com base em blogueiros ou YouTubers, mas em pesquisas científicas baseadas em evidências.
 
-Neste artigo, exaustivo, textual, longo de terminologias e bases científicas (o que pode incomodar pessoas de cultura rasa, que se limitam a novela, música e futebol), você pode pesquisar qualquer tema: Use em seu celular a opção três pontinhos "Encontrar na página", ou em seu no notebook, usando F3 ou "Ctrl + F".  
+Neste artigo, exaustivo, textual, longo de terminologias e bases científicas (o que pode incomodar pessoas de cultura rasa, que se limitam a novela, música e futebol), você pode pesquisar qualquer tema: Use em seu celular a opção três pontinhos "Encontrar na página", ou em seu no notebook, usando F3 ou "Ctrl + F".
 
 **NESTA ATUALIZAÇÃO:**
 
@@ -33,21 +32,21 @@ Neste artigo, exaustivo, textual, longo de terminologias e bases científicas (o
 
 **CONCLUSÃO DO ARTIGO CIENTÍFICO (*in verbis*): Este estudo baseia-se em extensa literatura para fornecer terapia tripla de IVM prática, barata, segura, prontamente disponível e altamente eficaz, com o objetivo de prevenir a resistência e que pode ser usada com confiança como tratamento de rotina para COVID-19 ambulatorial.**
 
-**Cem por cento dos pacientes** que aceitaram o tratamento **sobreviveram** sem a necessidade de hospitalização. **Todos** os indivíduos **se recuperaram** dos sintomas hipóxicos (SpO2 > 95%) **em 10 dias de tratamento** (multidroga). 
+**Cem por cento dos pacientes** que aceitaram o tratamento **sobreviveram** sem a necessidade de hospitalização. **Todos** os indivíduos **se recuperaram** dos sintomas hipóxicos (SpO2 > 95%) **em 10 dias de tratamento** (multidroga).
 
-Detalhes das demais substâncias combinadas e formas de utilização fazem parte do protocolo e estudo, conforme documento citado abaixo. Não devemos (nem podemos) praticar ou tolerar em redes sociais e grupos a prescrição de medicamentos, ou as famosas "dicas que meu médico me deu". Isso, além de poder prejudicar e até levar ao óbito uma pessoa que possui condições clínicas que eu e você desconhecemos, constitui crime. 
+Detalhes das demais substâncias combinadas e formas de utilização fazem parte do protocolo e estudo, conforme documento citado abaixo. Não devemos (nem podemos) praticar ou tolerar em redes sociais e grupos a prescrição de medicamentos, ou as famosas "dicas que meu médico me deu". Isso, além de poder prejudicar e até levar ao óbito uma pessoa que possui condições clínicas que eu e você desconhecemos, constitui crime.
 
-Portanto, jamais teremos receitas aqui. Também devemos repudiá-las de nossos grupos, recomendando a qualquer pessoa que consulte um médico. Ele é a autoridade clínica sobre aquele indivíduo. A presente matéria visa apresentar provas científicas e documentais da segurança e eficácia do fármaco, derrubando sofismas e falácias de políticos e do jornalismo midiático. 
+Portanto, jamais teremos receitas aqui. Também devemos repudiá-las de nossos grupos, recomendando a qualquer pessoa que consulte um médico. Ele é a autoridade clínica sobre aquele indivíduo. A presente matéria visa apresentar provas científicas e documentais da segurança e eficácia do fármaco, derrubando sofismas e falácias de políticos e do jornalismo midiático.
 
-Os autores relatam uma terapia eficaz e barata de COVID que **previne a hospitalização e a morte em todos os pacientes** e a rápida resolução da hipóxia (baixo nível de oxigênio) nesses pacientes ambulatoriais “moderados a graves”. Note-se, aqui, que a importância da **IVERMECTINA** para **PROFILAXIA** (prevenção - superior à vacina), de amplo conhecimento de autoridades médicas e publicações científicas, AGORA PROVA-SE, CIENTIFICAMENTE, TAMBÉM SEGURA E EFICAZ PARA **TRATAMENTO E CURA**, combinada a outros quesitos e no tempo correto. 
+Os autores relatam uma terapia eficaz e barata de COVID que **previne a hospitalização e a morte em todos os pacientes** e a rápida resolução da hipóxia (baixo nível de oxigênio) nesses pacientes ambulatoriais “moderados a graves”. Note-se, aqui, que a importância da **IVERMECTINA** para **PROFILAXIA** (prevenção - superior à vacina), de amplo conhecimento de autoridades médicas e publicações científicas, AGORA PROVA-SE, CIENTIFICAMENTE, TAMBÉM SEGURA E EFICAZ PARA **TRATAMENTO E CURA**, combinada a outros quesitos e no tempo correto.
 
 A pesquisa científica foi publicada por meio do **International DOI Foundation (IDF)**, da Federação Mundial de Agências de Registro, com certificação de autoridade para o padrão ISO (ISO 26324).
 
-**DOCUMENTAÇÃO CIENTÍFICA:** 
+**DOCUMENTAÇÃO CIENTÍFICA:**
 
 Essas e outras informações podem ser consultadas na publicação científica oficial - **Published Online**: **9 Feb 2022** - https://doi.org/10.2217/fmb-2022-0014 e  https://doi.org/10.2217/fmb-2022-0014 - com a Ficha Médica que foi utilizada na coleta dos dados.
 
-**CIENTISTAS RESPONSÁVEIS:** 
+**CIENTISTAS RESPONSÁVEIS:**
 
 Assinam a pesquisa e publicação os médicos e cientistas:
 
@@ -109,17 +108,17 @@ Fonte: The DOI® System | Peter A McCullough | Thomas J Borody | Sabine Hazan | 
 
 **Medicamento para chato se torna a pedrinha no sapato de governantes e indivíduos anticiência (ou seria vasectomia sem anestesia, vulgo “calcitrare testiculorum”) de politiqueiros?**
 
-Vamos falar de ciência, ou, será que, como alguns, fingir que o assunto é ciência, mas logo redirecionar as narrativas para inclinações ideológicas e políticas? 
+Vamos falar de ciência, ou, será que, como alguns, fingir que o assunto é ciência, mas logo redirecionar as narrativas para inclinações ideológicas e políticas?
 
 Isso fará toda a diferença na leitura: Preferimos colocar os dados científicos e relatos diante dos seus olhos, para que a verdade se estabeleça, independentemente de nossas preferências pessoais.
 
 É importante ter em mente, antes de tudo, que quando se trata de ciência, não adianta dizer que “acredita ou não acredita”. Acreditar ou não acreditar é questão religiosa ou de time de futebol. Em se tratando de ciência, deve ser levada em conta a existência de evidências, números, registros, fatos e estatísticas. Não leve a sério uma pessoa que diz acreditar na ciência, mas nega-se a aceitar os elementos científicos, fatos, documentos e gráficos - ou os apresenta distorcidamente.
 
-Quantos medicamentos para uma finalidade primária são utilizados para finalidades secundárias? Quetiapina, para esquizofrenia, passa a ser usada em distúrbios de ansiedade ou insônia; finasterida, medicamento de câncer de próstata, utilizado para crescer cabelo; anticoncepcionais utilizados para outros fins terapêuticos importantes; anticonvulsionantes utilizados para bipolaridade; sildenafila, para hipertensão arterial e angina se torna grande sucesso para disfunção erétil. A lista é enorme! 
+Quantos medicamentos para uma finalidade primária são utilizados para finalidades secundárias? Quetiapina, para esquizofrenia, passa a ser usada em distúrbios de ansiedade ou insônia; finasterida, medicamento de câncer de próstata, utilizado para crescer cabelo; anticoncepcionais utilizados para outros fins terapêuticos importantes; anticonvulsionantes utilizados para bipolaridade; sildenafila, para hipertensão arterial e angina se torna grande sucesso para disfunção erétil. A lista é enorme!
 
 O desenvolvimento e validação de um novo fármaco é um processo demorado, oneroso e altamente burocrático. Além disso, o sucesso de sua produção final nunca é garantido. Novas técnicas têm sido propostas para agilizar esse processo. Uma dessas técnicas é chamada de reposicionamento de fármacos, cujo objetivo principal é utilizar fármacos já comercializados para tratamento de outras doenças. Ou, vamos ter que discutir com quem entende do assunto:
 
-“A forma mais eficiente de se descobrir um novo fármaco é se começar com um velho” 
+“A forma mais eficiente de se descobrir um novo fármaco é se começar com um velho”
 
 Sir James W. Black | Prêmio Nobel de Medicina e Fisiologia em 1988
 
@@ -127,13 +126,13 @@ Se alguém disser que chá de casca de banana é o achado do século para surdez
 
 **POR QUE NÃO HÁ COLAPSO E SURTOS DE CONTAMINAÇÃO E ÓBITOS POR COVID-19 NAS PENITENCIÁRIAS? VOCÊ JÁ PAROU PARA ANALISAR ESSE FATO OU "MILAGRE"?**
 
-CONSIDERANDO que o sistema prisional é um dos piores ambientes nas questões sanitárias, comportamentais e transmissibilidade de doenças, esse deve um dos lugares mais importantes para estatísticas, no tocante à curva de vacinação, curva de contaminação e curva de óbitos. 
+CONSIDERANDO que o sistema prisional é um dos piores ambientes nas questões sanitárias, comportamentais e transmissibilidade de doenças, esse deve um dos lugares mais importantes para estatísticas, no tocante à curva de vacinação, curva de contaminação e curva de óbitos.
 
 A partir da análise científica desses grupos de pessoas, as respostas serão as mais claras possíveis para que a população inteira possa compreender a VERDADE.
 
 Levando isso em conta, responda: Por que não existe o mesmo surto de contaminados e mortos nos presídios pela Covid-19 da mesma forma como na população em geral? Por que a imprensa não fala sobre isso todos os dias, propagando o terror, da mesma forma como fala sobre Covid e vacina? Por que não falam sobre isso da mesma forma como citam sobre seus políticos de estimação ou desafetos, mencionados repetidas vezes nas pautas dos jornais diariamente? Por que a imprensa não questiona e não apresenta gráficos periódicos mostrando a diferença do número de contaminados e mortos por Covid-19 entre a sociedade, em contraste aos números e curvas em presídios?
 
-Resposta simples: Porque **nos presídios (assim como na África, por outros motivos) é distribuída ivermectina há décadas, constante, sistemática e continuamente, para conter os surtos de chato e outras patologias decorrentes do tipo de ambiente, falta de condições sanitárias e comportamento sexual**. 
+Resposta simples: Porque **nos presídios (assim como na África, por outros motivos) é distribuída ivermectina há décadas, constante, sistemática e continuamente, para conter os surtos de chato e outras patologias decorrentes do tipo de ambiente, falta de condições sanitárias e comportamento sexual**.
 
 **Se a imprensa falar sobre isso, terá que admitir que essa é a principal razão da diferença absurda do número de contaminados e mortos por Covid-19 na sociedade comum em contraste com grupos do sistema prisional**. E isso irá esbarrar nos interesses políticos do assunto. Começou compreender? Os números não mentem; os fatos também não. Despoje-se de toda narrativa e discursos políticos e analise friamente os fatos e evidências científicas.
 
@@ -143,7 +142,7 @@ Não, não acredite! Não acredite em nossas palavras. Faça a averiguação dos
 
 Faça outro teste, verifique quais governantes, ministros, secretários de saúde, agentes públicos, médicos ou qualquer outra pessoa que fale como autoridade sobre o tema, se essa pessoa declara em todas os pronunciamentos (e se tem coragem de assinar): **EU DECLARO (E ASSINO) AUSÊNCIA DE CONFLITO DE INTERESSES**.
 
-**Vamos aos fatos.** 
+**Vamos aos fatos.**
 
 O sistema prisional (do mundo todo) já é um fato em si, que deve ser levado em conta antes de análises e respostas. Além disso, temos outras provas científicas incontestes das quais você precisa urgentemente tomar ciência:
 
@@ -153,7 +152,7 @@ Daqui em diante, não se trata de acreditar ou não acreditar, nem de preferênc
 
 Será que puxa-sacos, defensores de políticos, imprensa, fabricantes e governantes negam uso do medicamento (que comprovadamente salva vidas) por estarem com medo da substância que elimina chatos (*Pthirus pubis*) - pediculose pubiana - e parasitas? Medo de serem eliminados?
 
-Quem tem medo de ivermectina é chato, além de parasita! 
+Quem tem medo de ivermectina é chato, além de parasita!
 
 **Não tome medicamentos sem orientação médica. É seu médico (não político, redes sociais ou jornalistas) que deverá lhe prescrever adequadamente.**
 
@@ -235,13 +234,13 @@ Caso esse TAC **(Tem Algo Constrito)** estapafúrdio e esquizofrênico, desprovi
 
 De nada adianta propalarmos de forma simplista, religiosa, decorada e jogada ao vento *“e conhecereis a verdade, e a verdade vos libertará”* (Jo.8:32 - ARA), e omitirmos a outra face da mesma verdade, do mesmo Mestre, no mesmo livro, mesmo capítulo e mesma conversa: **“No entanto, vocês não creem em mim, porque lhes digo a verdade!”** (Jo.8:45 - NVI).
 
-De que adianta conhecer e não crer, admitir apenas cognitivamente, mas não aceitar como base real; certificar-se, mas não submeter-se; crer, mas não obedecer; saber, mas não aplicar ou seguir? Saber que o elevador lhe conduz até o décimo andar, mas autorizar apenas o uso de escadas? Saber que determinado medicamento cura a dor de estômago, mas não tomá-lo ou proibí-lo? Sobre isso, também dizem as Escrituras:*** *“Muito bem! Até mesmo os demônios creem — e tremem!”** (Tg.2:19 - NVI). **Com evidências científicas não é diferente!** 
+De que adianta conhecer e não crer, admitir apenas cognitivamente, mas não aceitar como base real; certificar-se, mas não submeter-se; crer, mas não obedecer; saber, mas não aplicar ou seguir? Saber que o elevador lhe conduz até o décimo andar, mas autorizar apenas o uso de escadas? Saber que determinado medicamento cura a dor de estômago, mas não tomá-lo ou proibí-lo? Sobre isso, também dizem as Escrituras:*** *“Muito bem! Até mesmo os demônios creem — e tremem!”** (Tg.2:19 - NVI). **Com evidências científicas não é diferente!**
 
-Igrejas, comunidades, missões, associações, entidades, cristãos que falam, oram e clamam apenas por vacina (todos precisamos delas) mas se calam sobre medicamentos para tratamento e as implicações aqui amplamente delineadas, são tão incoerente, hipócritas e irresponsáveis quanto as autoridades que crescem os olhos para um item de interesse, mas os fecham para dezenas de outros. A esse respeito, já que as Escrituras foram brilhantemente mencionadas, no grupo MÉDICOS PELA VIDA, como bússola para compreensão de vários de nossos problemas nacionais e mundiais, também consta uma séria advertência a Moisés e a todo o povo de Israel, quando pretendiam que as coisas ocorressem apenas por meio de orações: **"Disse o Senhor a Moisés: Por que clamas a mim? Dize aos filhos de Israel que marchem"** (Ex.14:15 - ARA). 
+Igrejas, comunidades, missões, associações, entidades, cristãos que falam, oram e clamam apenas por vacina (todos precisamos delas) mas se calam sobre medicamentos para tratamento e as implicações aqui amplamente delineadas, são tão incoerente, hipócritas e irresponsáveis quanto as autoridades que crescem os olhos para um item de interesse, mas os fecham para dezenas de outros. A esse respeito, já que as Escrituras foram brilhantemente mencionadas, no grupo MÉDICOS PELA VIDA, como bússola para compreensão de vários de nossos problemas nacionais e mundiais, também consta uma séria advertência a Moisés e a todo o povo de Israel, quando pretendiam que as coisas ocorressem apenas por meio de orações: **"Disse o Senhor a Moisés: Por que clamas a mim? Dize aos filhos de Israel que marchem"** (Ex.14:15 - ARA).
 
 Médicos pela vida precisam ter respaldo federal sobre questões clínicas; precisam ter blindagem contra opressões de gestores e políticos locais. Médicos pela vida não podem ser reféns de ideólogos, burocratas administrativos e empresários, sob risco de penalizar com a morte milhões de pacientes (o que já ocorre). Quem cala, consente!
 
-Note-se, hoje há mais de 96% de atingidos pela doença **totalmente curados por tratamento** (quadro abaixo), e vacina não trata doentes! Isto posto, diante da segurança (há décadas) e eficácia (documentos e declarações de autoridades médicas), onde está o protocolo do MS (de imprescindível referência e autoridade nacional, em que pese adequações estaduais, regionais e municipais) para uma vintena de fármacos que poderiam salvar vidas? Ou apenas vacina é assunto de interesse? Com máximo respeito, que se responda com fatos, não com narrativas ou discursos. O que trazemos aqui são dados oficiais e números, não logros, embustes ou opiniões de pauta jornalística. Abaixo, quadro de registros oficiais, nacionais e internacionais, de 19/10/2021, o que pode ser hoje ainda mais promissor e intrigante.   
+Note-se, hoje há mais de 96% de atingidos pela doença **totalmente curados por tratamento** (quadro abaixo), e vacina não trata doentes! Isto posto, diante da segurança (há décadas) e eficácia (documentos e declarações de autoridades médicas), onde está o protocolo do MS (de imprescindível referência e autoridade nacional, em que pese adequações estaduais, regionais e municipais) para uma vintena de fármacos que poderiam salvar vidas? Ou apenas vacina é assunto de interesse? Com máximo respeito, que se responda com fatos, não com narrativas ou discursos. O que trazemos aqui são dados oficiais e números, não logros, embustes ou opiniões de pauta jornalística. Abaixo, quadro de registros oficiais, nacionais e internacionais, de 19/10/2021, o que pode ser hoje ainda mais promissor e intrigante.
 
 A guerra mundial, muito mais do que nação contra nação, uma ideologia versus outra, um político versus outro, um partido versus outro, parece ser entre **verdade** e **mentira**. O grande problema é que você não consegue e não pode ser isento nessa guerra. As informações simplesmente chegam e, seja você médico, policial, pastor, padre, estudante, trabalhador comum, do lar, não há como fingir que não recebeu a informação, como se entrasse por um ouvido e saísse por outro. Ao contrário, você é obrigado a processar a informação e fazer as devidas averiguações, para saber se são verdadeiras ou falsas, se procede ou não, se os fatos são, na verdade, assim como circulados. Você não é e não pode ser neutro. A omissão não é uma opção. As informações, hoje, são potenciais decisões de vida ou morte, sua, ou de seus queridos.
 
@@ -277,7 +276,7 @@ Certamente surgirão “especialistas”, braços de imprensa, e plataformas de 
 
 Esses mesmos senhores terão que usar de idêntico peso e medida investigativa para falar sobre vacinas experimentais, os números de mortos por ineficácia ou por efeitos adversos da substância. Também precisarão se explicar sobre os tratados internacionais de crime contra a humanidade no tocante à obrigatoriedade de praticar em humanos pesquisas científicas de drogas experimentais.
 
-A esse respeito, convém lembrar que ivermectina é fármaco seguro, tanto que há décadas é recomendado pela própria OMS para diversos tipos de doenças regionais no mundo, portanto, substância aprovada e segura. Agora, para outra indicação – reposicionamento de fármaco (off-label) –, conta com as evidências de autoridades médicas e os números aqui apresentados. Que considerem isso. 
+A esse respeito, convém lembrar que ivermectina é fármaco seguro, tanto que há décadas é recomendado pela própria OMS para diversos tipos de doenças regionais no mundo, portanto, substância aprovada e segura. Agora, para outra indicação – reposicionamento de fármaco (off-label) –, conta com as evidências de autoridades médicas e os números aqui apresentados. Que considerem isso.
 
 Antes de dizerem sobre ineficácia comprovada cientificamente (o que não é verdade) dos fármacos que imprensa escolhe para reprovar, alegando que nenhuma droga “mata o vírus”, que se use, no mínimo, a analogia da obrigatoriedade do cinto de segurança e capacete aos condutores e passageiros de veículos. Ora, nenhum desses dispositivos de segurança elimina o risco de acidente. Eles existem e são obrigatórios porque, na ocorrência de acidente, é comprovada a possibilidade de evitar a morte do indivíduo (ou não?). A relação é exatamente a mesma: trata-se de proteção ao indivíduo, por seus próprios meios imunológicos, diante da realidade do vírus que pode infectá-lo.
 
@@ -301,15 +300,11 @@ Government of India – Ministry of Health and Family Welfare – CLINICAL MANAG
 
 Fonte: IBGE | MS | WORLDOMETER | MINISTÉRIO DA SAÚDE E PREVIDÊNCIA SOCIAL - GOVERNO DA ÍNDIA - https://www.mohfw.gov.in/ | trialsitenews.com/uttar-pradesh-health-officials-on-record-ivermectin-as-prophylactic-has-lowered-covid-19-infection-rate-death-rates - 28/09/2021
 
- 
-
 **O TERRORISMO JORNALÍSTICO BRASILEIRO - QUE DOMINA O ASSUNTO CORONAVÍRUS NO PAÍS - COMETE TAMANHO CRIME CONTRA A CIÊNCIA E HUMANIDADE, QUE VIRA PIADA DE PORTUGUÊS. AFINAL, QUEM É O BURRO? ASSISTA O VÍDEO E TIRE SUAS CONCLUSÕES**
 
 Não deixe de ver as questões técnicas após o vídeo.
 
 https://videopress.com/v/WEQGZ9RK?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
-
-   
 
 O Senador Ron Johnson (USA) faz grave denúncia em seu pronunciamento sobre a origem do Covid, e conluio de magnatas para omitir medicamentos seguros e eficazes, reposicionados, que podem salvar infectados (que não são tratáveis por vacina).
 
@@ -335,10 +330,10 @@ O México está obtendo grande êxito com ivermectina. Algumas províncias da Í
 
 A imprensa jamais vai admitir sua cumplicidade e assumir seu erro. Mas, nunca é tarde. Vidas podem ser salvas!
 
-Ainda precisamos de tratamento precoce (inicial, imediato). Não importa quão efetiva seja a vacina, ou quantos estejam seguramente imunizados: Outras pessoas serão infectadas e precisarão de tratamento precoce (inicial, imediato). (Qual tratamento?) E eu peço e imploro à imprensa: Deem atenção a pessoas como o Dr. Kory (vide filme do depoimento científico do Dr. Kory ao Senado, no final desta matéria), ao Dr. Peter McCullough, e inúmeros outros médicos que tiveram coragem e compaixão de tratar pacientes (e estão sendo perseguidos). 
+Ainda precisamos de tratamento precoce (inicial, imediato). Não importa quão efetiva seja a vacina, ou quantos estejam seguramente imunizados: Outras pessoas serão infectadas e precisarão de tratamento precoce (inicial, imediato). (Qual tratamento?) E eu peço e imploro à imprensa: Deem atenção a pessoas como o Dr. Kory (vide filme do depoimento científico do Dr. Kory ao Senado, no final desta matéria), ao Dr. Peter McCullough, e inúmeros outros médicos que tiveram coragem e compaixão de tratar pacientes (e estão sendo perseguidos).
 
 https://videopress.com/v/8KXlgHv3?resizeToParent=true&cover=true&preloadContent=metadata&useAverageColor=true
-Vídeo do Senador, removido pelo YouTube 
+Vídeo do Senador, removido pelo YouTube
 
 **O milagre chegou "*the wonder drug*": Declara cientista arguido no senado dos USA, diante de autoridades e comunidade científica. Boas-novas: ainda há tempo! Informação pode salvar vidas!**
 
@@ -530,7 +525,7 @@ Por esse resultado, extremamente positivo, de visualização sem precedentes - e
 
 - **DRA. CARINE PETRY**. Médica idealizadora do grupo, o qual se ramificou para centenas de subgrupos por todo o país. Qualquer patologia exige intervenção precoce. Estatísticas, objetivos dos grupos. Como evitar colapso no sistema de saúde. CRIAÇÃO DE PROTOCOLO DE COLAPSO - *Link original do vídeo removido: https://www.youtube.com/watch?v=di7dqK_5E9Q#t=04m10s*. Medicamentos em cada fase: hidroxicloroquina, azitromicina, ivermectina, nitazoxanida, associações com zinco - efeito imunomodulador – enoxaparina (antitromboembolítico). Na fase 2, corticoide (prednisolona, dexametasona), importantes para inflamações, associações com antibiótico. Objetivo: diminuir replicação viral, impedir evolução para fases graves da doença; evitar necessidade de entubação, quando há sufocamento no próprio sangue presente nos pulmões e possível óbito. - *Link original do vídeo removido: https://www.youtube.com/watch?v=di7dqK_5E9Q#t=14m10s*
 
-- **DR. CÁSSIO HABICE PRADO** – SP – Porto Feliz. Médico cirurgião, intensivista e prefeito do município. Reestruturação do serviço municipal de saúde. Desde fevereiro/2020, adoção de conduta municipal baseada nos protocolos de Madri (Espanha), Bérgamo (Itália) e Marseille (França). Em março/2020, aplicação do protocolo a partir de sintomas precoces. Tomografia além de testes. Criação e distribuição de “kit” (muito criticado no início), em março, abril e maio. De todos os tratados precocemente, ninguém evoluiu para tubo, respirador, UTI ou óbito. Os 3 óbitos, desde então, são de pacientes que não fizeram o tratamento precoce. Para os pacientes tratados precocemente, que evoluam para a fase 2, é muito mais fácil e seguro o tratamento com os demais medicamentos do protocolo. Tratamento profilático (prevenção) com ivermectina para os “contactantes” (pessoas que convivem com o doente). Dos 4500 contactantes (daquela contagem), nenhum desenvolveu a doença. Foram feitas experiências de tratamento de prevenção, em alojamentos e em um quarteirão do município, cujas centenas de pessoas tomaram ivermectina. Nas quadras ao redor, ocorreram casos da doença. No alojamento e quadra experimental, nenhum caso. Experiência de sucesso pleno, quando era necessário usar dos meios disponíveis. Causa preocupação a procura tardia por tratamento, quando os adoentados (D10, D15, dias de doença), já evoluíram para as fases 2 ou 3, que demandam leitos de UTI, sobrecarregando o sistema de saúde. O município faz profilaxia da equipe médica, funcionários da saúde e contactantes (conviventes). Nenhum deles desenvolveu a doença. Apenas os 2 médicos que se recusaram fazer o tratamento preventivo desenvolveram a doença. Porto Feliz tem a particularidade de receber periodicamente multidões de pessoas vindas a cada feriado que ocorre no Estado, inclusive com indivíduos contaminados. Ainda assim, a segurança da saúde da população municipal tem sido preservada. Os protocolos devem ser praticados rapidamente em todas as cidades, para que o país não entre em colapso. Portanto, há solução. Politizar a questão traz calamidade à saúde pública. - *Link original do vídeo removido: https://www.youtube.com/watch?v=di7dqK_5E9Q#t=18m48s*.  
+- **DR. CÁSSIO HABICE PRADO** – SP – Porto Feliz. Médico cirurgião, intensivista e prefeito do município. Reestruturação do serviço municipal de saúde. Desde fevereiro/2020, adoção de conduta municipal baseada nos protocolos de Madri (Espanha), Bérgamo (Itália) e Marseille (França). Em março/2020, aplicação do protocolo a partir de sintomas precoces. Tomografia além de testes. Criação e distribuição de “kit” (muito criticado no início), em março, abril e maio. De todos os tratados precocemente, ninguém evoluiu para tubo, respirador, UTI ou óbito. Os 3 óbitos, desde então, são de pacientes que não fizeram o tratamento precoce. Para os pacientes tratados precocemente, que evoluam para a fase 2, é muito mais fácil e seguro o tratamento com os demais medicamentos do protocolo. Tratamento profilático (prevenção) com ivermectina para os “contactantes” (pessoas que convivem com o doente). Dos 4500 contactantes (daquela contagem), nenhum desenvolveu a doença. Foram feitas experiências de tratamento de prevenção, em alojamentos e em um quarteirão do município, cujas centenas de pessoas tomaram ivermectina. Nas quadras ao redor, ocorreram casos da doença. No alojamento e quadra experimental, nenhum caso. Experiência de sucesso pleno, quando era necessário usar dos meios disponíveis. Causa preocupação a procura tardia por tratamento, quando os adoentados (D10, D15, dias de doença), já evoluíram para as fases 2 ou 3, que demandam leitos de UTI, sobrecarregando o sistema de saúde. O município faz profilaxia da equipe médica, funcionários da saúde e contactantes (conviventes). Nenhum deles desenvolveu a doença. Apenas os 2 médicos que se recusaram fazer o tratamento preventivo desenvolveram a doença. Porto Feliz tem a particularidade de receber periodicamente multidões de pessoas vindas a cada feriado que ocorre no Estado, inclusive com indivíduos contaminados. Ainda assim, a segurança da saúde da população municipal tem sido preservada. Os protocolos devem ser praticados rapidamente em todas as cidades, para que o país não entre em colapso. Portanto, há solução. Politizar a questão traz calamidade à saúde pública. - *Link original do vídeo removido: https://www.youtube.com/watch?v=di7dqK_5E9Q#t=18m48s*.
 
 - **ALEXANDRE GARCIA** – DF – Brasília. O mediador declara ter tomado o medicamento por causa dos excelentes resultados das inúmeras vidas salvas em Porto Feliz – SP. Sente vergonha de ser brasileiro quando se mistura saúde e vida com questões políticas. O Brasil pode dar o exemplo de sucesso para o mundo. - *Link original do vídeo removido: https://www.youtube.com/watch?v=di7dqK_5E9Q&t=1670s*
 
@@ -908,7 +903,7 @@ A seguir, íntegra do artigo inicial:
 
 **UTILIDADE PÚBLICA: IVERMECTINA, A PREVENÇÃO DE SUA CASA!**
 
-Nem adianta laboratórios e drogarias começarem a frenética elevação de preços porque cada um que assim o fizer vai "ficar mal na fita", diante dos fatos do medicamento gratuito (já pago pelo contribuinte) ou de baixíssimo custo no mercado. 
+Nem adianta laboratórios e drogarias começarem a frenética elevação de preços porque cada um que assim o fizer vai "ficar mal na fita", diante dos fatos do medicamento gratuito (já pago pelo contribuinte) ou de baixíssimo custo no mercado.
 
 Antes de tecermos qualquer opinião como leigos, vejamos os **estudos científicos amplamente indicados no decorrer desta matéria**, os quais estão causando burburinho na população e incômodo em políticos e mercenários da farmacologia.
 
@@ -924,11 +919,11 @@ Antes que meros *blogueiros* de plantão, arrogando ser “referenciais da verda
 
 Façamos aqui um pequeno ajuste semântico sobre nossos vícios de linguagem. Qual a diferença entre um remédio e um medicamento? Dúvida da maioria da população, não se incomode. A grosso modo, têm-se por convenção que **remédio** é aquele chá da vovó, aquele unguento dos índios, aquela mistura de raízes, cascas, folhas, etc., xarope caseiro, garrafada, pajelança, cuja pessoa que utiliza ou administra em outra, não tem qualquer comprovação científica de sua eficácia, posologia, interações, efeitos colaterais ou adversos. Ninguém está dizendo que as misturinhas aprendidas com os “mateiros” há séculos não funcionem, apenas que eles mesmos não o fazem com bases técnicas, mas, do conhecimento popular. **Medicamento** é um produto farmacêutico, tecnicamente obtido ou elaborado, mediante pesquisas científicas, com finalidade profilática, curativa, preventiva, paliativa ou para fins de diagnóstico. São intercambiáveis os termos fármaco, substância, droga, e até o próprio “remédio”.
 
-É exatamente isso: Muita gente irá dizer “Ah, mas esse medicamento (ivermectina) é indicado para quem tem piolho!”. SIM, É VERDADE! Tenho observado até mesmo preconceito de certas pessoas pelo fato de que IVERMECTINA é fármaco classificado como **antiparasitário**, e não **antiviral**. 
+É exatamente isso: Muita gente irá dizer “Ah, mas esse medicamento (ivermectina) é indicado para quem tem piolho!”. SIM, É VERDADE! Tenho observado até mesmo preconceito de certas pessoas pelo fato de que IVERMECTINA é fármaco classificado como **antiparasitário**, e não **antiviral**.
 
-Então, quer dizer que, se apenas mudarmos a classificação técnica, daí a substância passa a funcionar? É assim? Então algumas perguntas ao longo desta matéria deverão ser respondidas de forma isenta, principalmente quanto à eficácia de determinado medicamento para isso ou aquilo, vez que o mundo está carente de soluções, não de disputas de filigranas ou do tecnicismo quando inócuo. 
+Então, quer dizer que, se apenas mudarmos a classificação técnica, daí a substância passa a funcionar? É assim? Então algumas perguntas ao longo desta matéria deverão ser respondidas de forma isenta, principalmente quanto à eficácia de determinado medicamento para isso ou aquilo, vez que o mundo está carente de soluções, não de disputas de filigranas ou do tecnicismo quando inócuo.
 
-Ainda existe uma enorme população discutindo eficácia do uso de máscaras e quais seriam os tipos mais "recomendados". No entanto, com ou sem unanimidade, fato é que ninguém mais sai de casa ou entra em estabelecimentos públicos sem o devido uso de máscaras. O raciocínio para utilização da ivermectina é exatamente o mesmo, principalmente por que se trata de método preventivo. 
+Ainda existe uma enorme população discutindo eficácia do uso de máscaras e quais seriam os tipos mais "recomendados". No entanto, com ou sem unanimidade, fato é que ninguém mais sai de casa ou entra em estabelecimentos públicos sem o devido uso de máscaras. O raciocínio para utilização da ivermectina é exatamente o mesmo, principalmente por que se trata de método preventivo.
 
 Há incontáveis testemunhos de populares, alguns que nos enviam mensagens, dizendo como lhe foi eficaz - não contraindo o vírus - apesar da multidão ou pessoas com quem convive terem sido contaminadas. O que rendeu esse resultado? Se não fez bem, mal não fez, e, até que alguém prove que a não contaminação nada teve a ver com ivermectina, melhor confiar nos médicos e cientistas que estão defendendo o uso desse escudo, do que paralisar diante do problema que chega sem pedir licença. Vamos aos fatos.
 
@@ -940,7 +935,7 @@ Recebemos relatos de pessoas dizendo: “Até a tia, fulana de tal, já idosa, e
 
 Realmente é indicado para tratamento de diversas parasitoses (vermes intestinais), oncocercose (cegueira dos rios, ou mal de garimpeiro - verme parasita transmitido pela picada da mosca preta do tipo *Simulium*), mas, principalmente para escabiose (sarna) e pediculose (piolho).
 
-Em função da pandemia, tanto o **FDA** (Food and Drug Administration – Órgão Regulador de Alimentos e Drogas dos USA), quanto a **ANVISA** (Agência Nacional de Vigilância Sanitária), **autorizaram cientistas e laboratórios a trabalharem com ivermectina** (documentos e protocolos neste artigo). 
+Em função da pandemia, tanto o **FDA** (Food and Drug Administration – Órgão Regulador de Alimentos e Drogas dos USA), quanto a **ANVISA** (Agência Nacional de Vigilância Sanitária), **autorizaram cientistas e laboratórios a trabalharem com ivermectina** (documentos e protocolos neste artigo).
 
 O objetivo da permissão visou tentativa de amenizar, diminuir, reduzir mortes, criar escudo contra contágios, recurso para minorar riscos durante tratamentos, e todo tipo de auxílio terapêutico profilático, senão de cura, para o grande problema da absurda proliferação desse mal.
 
@@ -1014,7 +1009,7 @@ Ainda à página 30 do documento federal, lemos:
 
 ***“O Ministério da Saúde adquire e distribui esses itens aos estados e ao Distrito Federal, cabendo a esses o recebimento, o armazenamento e a distribuição aos municípios.”***
 
-Quem compra, quem armazena, quem tem o dever de distribuir? O gestor que alegar não tê-lo recebido, deverá provar à população, pois é praxe que esteja disponível. É claro que verba pública para elefantes brancos de campanha "sempre dão um jeitinho de conseguir". Dispensa comentários. O texto normativo e oficial fala de per si. Que o povo saiba cobrar de seus políticos, uma vez que aí está a lei que ele deve seguir para atender o povo que o elege. 
+Quem compra, quem armazena, quem tem o dever de distribuir? O gestor que alegar não tê-lo recebido, deverá provar à população, pois é praxe que esteja disponível. É claro que verba pública para elefantes brancos de campanha "sempre dão um jeitinho de conseguir". Dispensa comentários. O texto normativo e oficial fala de per si. Que o povo saiba cobrar de seus políticos, uma vez que aí está a lei que ele deve seguir para atender o povo que o elege.
 
 Segue o documento completo: [https://bvsms.saude.gov.br/bvs/publicacoes/relacao_medicamentos_rename_2020.pdf](https://bvsms.saude.gov.br/bvs/publicacoes/relacao_medicamentos_rename_2020.pdf)
 
@@ -1032,6 +1027,4 @@ Imagens: Reprodução
 
 Quando começamos o **Press Periódico** para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. **Faça parte da missão de espalhar a verdade!** **Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante**!
 
-https://dunapress.org/subscription-plan/?ref=barrosprojectmanager
-
-[](https://dunapress.org/subscription-plan/?ref=danberg1000)
+https://dunapress.org/subscription-plan/

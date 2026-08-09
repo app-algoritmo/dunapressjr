@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Se uma pessoa com sangue do tipo A transmite o vírus para uma pessoa com sangue do tipo O, a pessoa do tipo O terá anticorpos que podem combater o vírus.
 
 Pessoas com sangue tipo O têm menos chance de contrair COVID-19, de acordo com vários estudos publicados em todo o mundo durante a pandemia. 
@@ -74,6 +73,6 @@ Fonte The Jerusalem Post
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

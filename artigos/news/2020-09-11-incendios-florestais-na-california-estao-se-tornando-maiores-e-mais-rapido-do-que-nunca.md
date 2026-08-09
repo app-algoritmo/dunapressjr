@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Quando se trata de incêndios florestais na Califórnia, agora leva dias, não décadas, para produzir o que era visto como uma ocorrência única na vida.
 
 No fim de semana passado, um incêndio na Sierra National Forest, na Califórnia, explodiu em tamanho, prendendo centenas de campistas do Dia do Trabalho, que só puderam ser resgatados por helicópteros que fizeram uma série de vôos com força total na fumaça. Os bombeiros disseram que nunca viram um fogo se mover tão rápido em áreas florestais - 15 milhas (24 quilômetros) em um dia.
@@ -72,5 +71,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

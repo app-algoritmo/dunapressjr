@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa de Valores tem pequena queda em dia de ajustes.
 
 Depois de abrir o dia em alta, o dólar reverteu o movimento e encerrou a segunda-feira (19) no menor nível em um mês, após o fechamento de um acordo sobre o Orçamento de 2021. A bolsa oscilou ao longo da sessão, mas fechou em pequena baixa, em um dia de ajustes.
@@ -25,5 +24,3 @@ No cenário interno, o fechamento de um acordo entre a equipe econômica e o Con
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

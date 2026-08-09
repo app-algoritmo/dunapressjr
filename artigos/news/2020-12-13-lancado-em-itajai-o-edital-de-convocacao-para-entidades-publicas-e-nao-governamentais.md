@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí, por meio da Secretaria Municipal de Desenvolvimento Urbano e Habitação, lançou o edital para a eleição e composição do Conselho Municipal de Gestão e Desenvolvimento Territorial. O documento convoca os interessados para audiência pública marcada para 21 de dezembro, às 18h30, no auditório da Prefeitura de Itajaí. Inscrições das entidades iniciaram na última sexta-feira (04) e vão até as 14h do dia da audiência.
 
 O evento seguirá as recomendações sanitárias de distanciamento social e ocupação máxima dos ambientes em cumprimento às portarias relacionadas à pandemia de coronavírus (COVID-19).
@@ -30,7 +29,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

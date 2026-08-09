@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Guajará-Mirim/RO - A Polícia Federal, em ação  conjunta com o Ministério Público do Trabalho, Ministério do Trabalho e Emprego e com apoio da Força Nacional e CREAS do município de Nova Mamoré,  realizaram hoje (10/6) uma operação de resgate de trabalhadores estrangeiros, em situação análoga a trabalho escravo, no distrito de Jacinópolis, município de Nova Mamoré-RO. A operação foi denominada "Ventre Livre", em alusão a uma gestante que estaria entre os resgatados.
 
 Ação deflagrada após denúncia encaminhada a diversos órgãos públicos sobre uma possível prática de crime em que estrangeiros seriam mantidos em situação análoga a trabalho escravo em uma propriedade rural naquela região levou a articulação entre estes órgãos para uma operação de fiscalização in loco, visando coibir esta prática muito comum que ocorre com estrangeiros no interior de nosso país.
@@ -22,5 +21,3 @@ Após vistoria no local por Fiscal do MTE e em conversa com os trabalhadores, fo
 Diante dos fatos, resgatados os trabalhadores, a investigação seguirá e o proprietário poderá responder pelos atos praticados  nas esferas civil, trabalhista e penal.
 
 Comunicação Social da Polícia Federal em Rondônia/RO
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

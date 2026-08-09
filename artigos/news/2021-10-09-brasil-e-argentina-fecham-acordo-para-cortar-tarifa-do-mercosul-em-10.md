@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medida foi anunciada por chanceleres dos dois países.
 
 Após meses de discussões, o Brasil e a Argentina fecharam um acordo para reduzir a Tarifa Externa Comum (TEC) do Mercosul em 10%, anunciou nesta sexta-feira (8) o Ministério das Relações Exteriores. A medida foi anunciada em declaração conjunta à imprensa dos chanceleres Carlos França, do Brasil, e Santiago Cafiero, do país vizinho.
@@ -24,10 +23,6 @@ Em agosto, a [**equipe econômica tinha concordado em fazer uma diminuição es
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

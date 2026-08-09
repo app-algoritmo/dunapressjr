@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Resolução do Comitê Gestor do Fies regulamentará os critérios a serem adotados pelos estudantes.
 
 O governo federal publicou nesta sexta-feira, 10, a [Lei nº 14.024/2020](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=10/07/2020&jornal=515&pagina=1), que permite a suspensão das parcelas do Fundo de Financiamento Estudantil (Fies) até 31 de dezembro, data final da vigência do estado de calamidade pública decretado em março de 2020 devido à pandemia da Covid-19. A nova norma será regulamentada nos próximos dias pelo Comitê Gestor do Fies, por meio de uma resolução que trará os critérios e procedimentos que deverão ser adotados pelos estudantes.
@@ -31,7 +30,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

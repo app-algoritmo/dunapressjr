@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 No final de janeiro de 2020, a Organização Mundial de Saúde – OMS declarou a doença conhecida como COVID-19 (do Inglês, *Corona Virus Disease 2019*, que significa doença do coronavírus) como uma emergência global, que se transformou em pandemia logo em seguida (março de 2020). Os coronavírus (CoV) compõem uma grande família viral, identificada pelo seu formato de coroa, descrita desde os anos 1960, reunindo vírus causadores de infecções respiratórias em animais e seres humanos, semelhantes a um resfriado convencional. A atual pandemia de COVID-19 é causada por um novo coronavírus (SARS-CoV-2) que emergiu na China e se espalhou rapidamente por diversos países ao redor do mundo.
 
 Na nomenclatura científica este novo vírus foi batizado de SARS-CoV-2, tendo sido detectado originalmente em pacientes infectados na cidade de Wuhan (China). De lá pra cá, esse vírus vem rapidamente se propagando e causando infecções aos moldes de outras epidemias globais, como a já conhecida SARS (do Inglês, *Severe Acute Respiratory Syndrome*, ou Síndrome Respiratória Aguda Grave), ocorrida entre os anos de 2002 e 2003. O vírus atual é geneticamente parecido com um tipo de coronavírus (SARS-CoV) descoberto em morcegos na China.
@@ -28,6 +27,6 @@ Fonte canalciencia.ibict.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

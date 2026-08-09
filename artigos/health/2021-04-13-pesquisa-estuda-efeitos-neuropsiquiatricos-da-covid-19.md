@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Estudos realizados por pesquisadores da Universidade Federal do Rio Grande do Sul (UFRGS) indicam que pacientes infectados pelo vírus SARS-CoV-2 podem vir a apresentar distúrbios neuropsiquiátricos.  A pesquisa encontrou sinais de alterações associados ao alcoolismo, autismo, depressão, distúrbios do sono, esquizofrenia, síndrome do pânico e transtorno bipolar. O trabalho contou com a participação de bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e teve a colaboração do Hospital de Clínicas de Porto Alegre.
 
 Coordenado pelos professores Walter Beys da Silva, Lucélia Santi e André Quincozes Santos, o estudo, realizado pela Faculdade de Farmácia e pelo Instituto de Ciências Básicas da Saúde (ICBS) da UFRGS,  foi publicado no final de dezembro na revista *Brain, Behavior & Immunity – Health*. Em amostras colhidas de pacientes com COVID-19, foram identificadas mudanças na quantidade de RNAs e proteínas, similares às encontradas nas doenças neuropsiquiátricas. Segundo os pesquisadores, não se trata de uma mutação genética, mas de “alterações moleculares similares a quadros patológicos em genes conhecidos por terem associação com doenças neuropsiquiátricas”.
@@ -29,7 +28,3 @@ Fonte: Capes
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

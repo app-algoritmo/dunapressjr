@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Benefício começa a ser pago em dezembro.
 
 A partir de dezembro, o governo federal pagará um vale-gás a famílias de baixa renda, para recompor a alta do preço do gás de cozinha. O Programa Gás do Brasileiros foi [**sancionado**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-11/bolsonaro-sanciona-lei-que-institui-o-auxilio-gas) pelo presidente Jair Bolsonaro na semana passada e ficará em vigor por cinco anos.
@@ -38,10 +37,6 @@ Ele será concedido, preferencialmente, às famílias com mulheres vítimas de v
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

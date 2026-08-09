@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Aeronaves da Embraer serão compradas por empresa dos Estados Unidos
 
 O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) aprovou financiamento de R$ 450 milhões para exportação de aviões brasileiros produzidos pela Embraer para a companhia aérea norte-americana *SkyWest Airlines*. A liberação é por meio da linha de crédito BNDES *Exim* Pós-Embarque, sendo a operação garantida por seguro de crédito chamado *Aircraft Non-Payment Insurance* (ANPI), operado pelo consórcio de seguradoras privadas *Aircraft Finance Insurance Consortium* (AFIC).
@@ -38,8 +37,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

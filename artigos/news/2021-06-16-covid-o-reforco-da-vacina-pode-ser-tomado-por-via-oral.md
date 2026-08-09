@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Administrado como gotas na língua, MigVax, feito na Galiléia, pode ajudar a resolver os problemas complexos associados a dar lembretes.
 
 Uma vacina COVID administrada por via oral feita em Israel mostrou bons resultados em ratos, e seus inventores esperam que esteja pronta como uma dose de reforço para humanos dentro de nove meses.
@@ -51,7 +50,3 @@ Fonte: The Time Of Israel
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

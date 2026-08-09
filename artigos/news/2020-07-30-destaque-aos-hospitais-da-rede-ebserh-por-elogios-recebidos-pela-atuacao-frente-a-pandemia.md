@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Cinco unidades vinculadas foram ressaltadas na primeira semana de uma campanha nacional que busca reconhecer a atuação dos profissionais da saúde.
 
 "Estou parabenizando a todos vocês, profissionais da saúde, pela cura de pacientes que estavam com o novo coronavírus. Gostaria muito de abraçar vocês, mas nós não podemos; então estou enviado esta carta. Nós vamos crescer com vida e saúde. Graças a vocês, tudo vai voltar ao normal”. Esse é um exemplo de declaração feita por um usuário do FalaBR (a identidade é mantida reservada por questão de privacidade do cidadão) – plataforma integrada de Ouvidoria e Acesso à Informação da Controladoria-geral da União (CGU), voltada ao Hospital Universitário da cidade de Petrolina (PE), vinculado à Rede Ebserh.
@@ -41,7 +40,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

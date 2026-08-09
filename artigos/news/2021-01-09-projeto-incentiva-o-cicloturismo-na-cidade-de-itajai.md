@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí instalou duas estações de bicicletas para apoio aos ciclistas. Uma base foi colocada em frente ao Ponto de Informações Turísticas (PIT) no Mercado Público, e a outra está localizada na rua Vereador Germano Luís Viêira, 2000, no bairro Itaipava (anexo ao supermercado Moser). A ação é coordenada pela Secretaria Municipal de Turismo e Eventos e busca estimular o cicloturismo na cidade. A previsão é ampliar as estações para outras localidades em diversos pontos da cidade.
 
 As estações de bicicletas contam com quatro vagas de estacionamento, uma bomba de ar manual e seis ferramentas para reparos: uma chave Philips 1/4 x 4", uma chave de Fenda aço cromo vanádio, uma chave de Fenda 1/8 x 2 polegadas de aço cromo vanádio, duas espátulas de aço para retirada de pneu, uma chave ajustável inglesa 6, e uma chave de boca fixa 15.
@@ -34,7 +33,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

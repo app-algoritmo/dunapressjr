@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O documento da Secretaria de Política Econômica, do Ministério da Economia, publicado nesta terça-feira (27), destaca ainda o impacto das reformas microeconômicas.
 
 No Brasil, a retomada econômica da crise causada pela pandemia da Covid-19 está acontecendo a taxas mais altas que nas crises anteriores, segundo aponta a [Nota Informativa “Revolução nos fundamentos do investimento: análise de reformas microeconômicas”](https://www.gov.br/economia/pt-br/centrais-de-conteudo/publicacoes/notas-informativas/2021/ni-revolucao-nos-fundamentos-do-investimento.pdf), produzida pela Secretaria de Política Econômica do Ministério da Economia (SPE/ME) e divulgada nesta terça-feira (27). “O principal motor do crescimento econômico é o investimento, pois ele amplia a capacidade produtiva do país, aumentando, portanto, o consumo e a renda futuros”, destaca o estudo.
@@ -21,10 +20,6 @@ Em sua conclusão, a Nota Informativa defende que é fundamental aproveitar este
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

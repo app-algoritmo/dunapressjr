@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### País tem atualmente cerca de 400 mil profissionais na área.
 
 O Congresso Nacional promulgou nesta quinta-feira (14) a emenda à Constituição que fixa um piso salarial para enfermeiros, técnicos de enfermagem, auxiliares de enfermagem e parteiras. A proposta, que tramitou no Parlamento por 11 anos, e estabelecia o direito a aposentadoria especial, devido aos riscos inerentes às atividades desempenhadas. O país tem, atualmente, cerca de 400 mil agentes.
@@ -20,8 +19,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

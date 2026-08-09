@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Maior parte do total corresponde a redução de tributos de combustíveis.
 
 A proposta do Orçamento de 2023, encaminhada nesta quarta-feira (31) ao Congresso Nacional, prevê R$ 80,2 bilhões em reduções de impostos e em incentivos fiscais para o próximo ano. A maior parte do impacto no Orçamento corresponde ao prolongamento da desoneração de tributos sobre combustíveis, que trará queda de R$ 52,9 bilhões na arrecadação.
@@ -58,8 +57,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

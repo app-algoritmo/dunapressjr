@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Beneficiários da Tarifa Social estão isentos.
 
 Os consumidores que recebem o benefício da Tarifa Social de Energia Elétrica terão bandeira verde em março. Com isso, não haverá acréscimo na conta de luz dos beneficiários. A decisão foi anunciada nesta sexta-feira (25) pela Agência Nacional de Energia Elétrica (Aneel). Para os demais usuários, no entanto, continua vigente a bandeira Escassez Hídrica, no valor de R$ 14,20 a cada 100 kWh consumidos.
@@ -20,8 +19,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

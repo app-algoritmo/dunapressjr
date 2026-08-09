@@ -15,7 +15,7 @@ A primeira aula do curso está marcada para esta quinta-feira (22), das 19h30 à
 
 O tema visa auxiliar os profissionais e estudantes da área a terem conhecimento sobre as possibilidades que o esporte pode representar para seus alunos, com ou sem deficiências, para o desenvolvimento motor, nas diferentes fases da vida.
 
-Aqueles que não conseguirem acompanhar a aula ao vivo, poderão assistir aos conteúdos posteriormente na plataforma, de forma gratuita e emitir seu certificado de participação.  
+Aqueles que não conseguirem acompanhar a aula ao vivo, poderão assistir aos conteúdos posteriormente na plataforma, de forma gratuita e emitir seu certificado de participação.
 
 **Próximas aulas previstas - **A formação busca mostrar como os professores e suas práticas pedagógicas podem se transformar a partir de diversos conteúdos. O programa de aulas do Summit da Liga Esportiva NESCAU® seguirá até novembro e contará com temas como inclusão de jovens com deficiência, alimentação saudável, desenvolvimento infantil e psicologia.
 
@@ -31,11 +31,10 @@ Os profissionais que já haviam se inscrito para participar do Summit 2023, já 
 **Sobre NESCAU® 
 **Criada no Brasil em 1932, a marca trouxe para o consumidor brasileiro o inconfundível sabor de chocolate que faz de NESCAU® uma referência no mercado nacional. Com um longo histórico de apoio ao esporte, a marca procura estimular o movimento e a prática esportiva, aliados a uma alimentação balanceada, para o desenvolvimento adequado de jovens e crianças.  
 
-**Informações à imprensa**    
-**Nestlé - Agência Pub - [nestle@agencia.pub](https://click.presskit.com.br/url/9984604106/6361388b6fc)[
-](https://click.presskit.com.br/url/9984604106/6361388b6fc)*
-Assessoria de Imprensa Esportiva:         * 
-*ZDL Sports         * 
-*Doro Jr. - MTb 13209 - *[*dorojr@zdl.com.br*](https://click.presskit.com.br/url/998461762f/6361388b6fc)* - F: 11 984579723         * 
-*Rafael De Marco - Mtb.: 27556 - *[*rafael@zdl.com.br*](https://click.presskit.com.br/url/998462be45/6361388b6fc)* - Cel: 11 976022986         * 
+**Informações à imprensa**   
+**Nestlé - Agência Pub - [nestle@agencia.pub](https://click.presskit.com.br/url/9984604106/6361388b6fc)*
+Assessoria de Imprensa Esportiva:         *
+*ZDL Sports         *
+*Doro Jr. - MTb 13209 - *[*dorojr@zdl.com.br*](https://click.presskit.com.br/url/998461762f/6361388b6fc)* - F: 11 984579723         *
+*Rafael De Marco - Mtb.: 27556 - *[*rafael@zdl.com.br*](https://click.presskit.com.br/url/998462be45/6361388b6fc)* - Cel: 11 976022986         *
 *WhatsApp: 19 997912108***

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Uma organização sem fins lucrativos garantiu US $ 13,5 milhões do governo alemão para oferecer a todos os sobreviventes do Holocausto ajuda com a logística de acesso a uma vacina contra o coronavírus.
 
 A Conferência de Reivindicações não fornecerá vacinas. Mas, com o financiamento alemão recém-garantido, está oferecendo a cerca de 190.000 sobreviventes em todo o mundo ajuda gratuita com a tarefa muitas vezes assustadora de marcar sua consulta quando estiver disponível e com transporte.
@@ -47,7 +46,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

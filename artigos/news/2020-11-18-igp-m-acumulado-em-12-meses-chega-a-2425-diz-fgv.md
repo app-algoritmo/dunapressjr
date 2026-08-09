@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Inflação foi de 3,05% na segunda prévia de novembro este ano.
 
 O Índice Geral de Preços - Mercado (IGP-M), usado no reajuste dos contratos de aluguel no país, registrou inflação de 3,05% na segunda prévia de novembro deste ano. A taxa é superior aos 2,92% observados na segunda prévia de outubro, segundo a Fundação Getulio Vargas (FGV).
@@ -21,5 +20,3 @@ O Índice de Preços ao Consumidor, que mede o varejo, teve queda na taxa de inf
 Fonte: Agência Brasil – Imagem de destaque: Divulgação/Diogo Moreira/Máquina CW/Governo do Estado de São Paulo
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

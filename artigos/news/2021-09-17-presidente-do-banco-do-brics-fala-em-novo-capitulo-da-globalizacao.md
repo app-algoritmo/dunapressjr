@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Marcos Troyjo participou de audiência pública em comissão do Senado.
 
 O presidente do Novo Banco de Desenvolvimento (NDB), Marcos Troyjo, entidade criada no âmbito do Brics – grupo formado por África do Sul, Brasil, China, Índia e Rússia –, disse nesta quinta-feira (16), durante audiência no Senado, que o momento atual representa “um novo capítulo da globalização” que favorecerá significativamente países emergentes, em especial o Brasil, por meio do agronegócio e dos financiamentos em infraestrutura.
@@ -62,10 +61,6 @@ Em sua participação final na audiência, o presidente do NDB disse que o debat
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

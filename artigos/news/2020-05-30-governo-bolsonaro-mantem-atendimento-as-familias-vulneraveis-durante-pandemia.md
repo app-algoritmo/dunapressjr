@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Com ajuda da tecnologia, profissionais gravam vídeos e áudios com as atividades, escrevem as orientações e passam via aplicativo de mensagens para pais ou responsáveis reproduzirem em casa.
 
 As ações do programa Criança Feliz, do Ministério da Cidadania, continuam a acontecer mesmo durante a pandemia, com o auxílio das ferramentas digitais. Originalmente, as equipes de trabalho do projeto fazem visitas às famílias vulneráveis para prestar o atendimento socioassistencial. O foco do Criança Feliz é o atendimento a gestantes e crianças de até três anos inscritas no Cadastro Único para Programas Sociais do Governo Federal e crianças de até seis anos que recebem o Benefício de Prestação Continuada (BPC).
@@ -49,5 +48,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

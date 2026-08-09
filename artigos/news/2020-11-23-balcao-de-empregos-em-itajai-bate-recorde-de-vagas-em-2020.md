@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Reaquecimento da economia faz números saltarem para 700 vagas nesta semana.
 
 O Balcão de Empregos do Município de Itajaí registra nas últimas semanas de novembro um recorde de oferta de vagas durante a pandemia de coronavírus (COVID-19). São 700 novas oportunidades de emprego disponíveis nesta segunda-feira (23). O destaque é o crescimento de oportunidades para mão de obra qualificada em costura.
@@ -34,7 +33,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

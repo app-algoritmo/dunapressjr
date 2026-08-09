@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) economizou quase de R$ 3,5 milhões por mês para os cofres públicos ao anular, após autorização do Supremo Tribunal Federal (STF), 295 anistias políticas concedidas indevidamente a ex-cabos da Aeronáutica.
 
 A justificativa para as anulações é de que não há comprovação da existência de perseguição exclusivamente política no ato de desligamento das Forças Armadas. Na época, a Portaria nº. 1104/64 limitava a oito anos o tempo de serviço militar, prazo após o qual eles deveriam ser automaticamente desligados.
@@ -50,8 +49,6 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique no banner abaixo para assinar
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

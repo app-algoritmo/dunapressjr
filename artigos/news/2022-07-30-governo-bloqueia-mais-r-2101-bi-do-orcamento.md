@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Contingenciamento total em 2022 atinge R$ 14,838 bi.
 
 Uma semana após ter [**contingenciado (bloqueado) R$ 6,739 bilhões do Orçamento-Geral da União para 2022**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-07/governo-bloqueia-mais-r-6739-bi-do-orcamento), o governo anunciou um bloqueio adicional de R$ 2,101 bilhões para preservar o funcionamento de alguns serviços públicos. A medida consta de decreto editado nesta sexta-feira (29) à noite pelo presidente Jair Bolsonaro.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

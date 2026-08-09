@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 CNI comemorou ratificação do Protocolo de Nagoia.
 
 A Confederação Nacional da Indústria (CNI) comemorou a ratificação do Protocolo de Nagoia, aprovada nesta quarta-feira (8) na Câmara dos Deputados. Para a confederação, o protocolo trará segurança jurídica ao comércio exterior de produtos com recursos da biodiversidade brasileira.
@@ -30,4 +29,4 @@ Entre os pontos de alerta está o aumento da complexidade regulatória para as e
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

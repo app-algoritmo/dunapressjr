@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Ciência, Tecnologia e Inovações lançou, nesta terça-feira (24), chamada pública de R$ 5 milhões para apoiar a inserção de pesquisadores em empresas vinculadas às melhores incubadoras do país. A iniciativa faz parte do Programa Nacional de Apoio aos Ambientes Inovadores (PNI) e é promovida pela pasta e pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), em parceria com o Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (Confap) e a Associação Nacional de Entidades Promotoras de Empreendimentos Inovadores (Anprotec).
 
 O objetivo é fomentar projetos de pesquisa, desenvolvimento e inovação (P,D&I) de micro e pequenas empresas vinculadas à incubadoras certificadas ou que estejam em processo de obtenção da certificação Cerne. Trata-se de mais uma iniciativa do ministério para apoiar o empreendedorismo inovador no país, especialmente com enfoque em produtos e serviços de alta tecnologia.
@@ -27,7 +26,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

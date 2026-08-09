@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ### Indústria teve faturamento estimado de R$ 13 bilhões em 2021.
 
 Dados da Agência Brasileira de Promoção de Exportações e Investimentos (ApexBrasil) confirmam que o momento foi de celebração para o país neste nesta quinta-feira (7), quando se comemora o Dia Mundial do Chocolate. O Brasil é o 7º maior produtor de cacau no mundo e ocupa também a 7ª posição entre os maiores exportadores do produto e seus derivados.
 
-De acordo com informações da Associação Nacional das Indústrias Processadoras de Cacau (AIPC), o Brasil exportou, no ano passado, 33,521 mil toneladas de chocolates e 54,756 mil toneladas de derivados do cacau, gerando US$ 226 milhões de dólares. O principal destino do chocolate brasileiro é a Argentina, que é seguida por Estados Unidos e Chile. 
+De acordo com informações da Associação Nacional das Indústrias Processadoras de Cacau (AIPC), o Brasil exportou, no ano passado, 33,521 mil toneladas de chocolates e 54,756 mil toneladas de derivados do cacau, gerando US$ 226 milhões de dólares. O principal destino do chocolate brasileiro é a Argentina, que é seguida por Estados Unidos e Chile.
 
 Em relação à exportação de amêndoas de cacau, o volume vendido, em 2021, chegou a 567 toneladas, com expectativa de aumentar para 655 toneladas este ano.
 
@@ -54,14 +53,10 @@ No ano passado, a indústria de chocolate somou 693 mil toneladas produzidas, se
 
 De acordo com informações do Instituto Kantar, a indústria de chocolates teve faturamento estimado de R$ 13 bilhões, em 2021, com alta de 15,7% em relação a 2020.
 
-Embora não fale sobre expectativas, Ubiracy Fonseca admitiu que, pelos resultados obtidos no final de 2021 e agora neste primeiro trimestre, é possível notar que o mercado vem se recuperando gradativamente desde o começo da pandemia. Isso é explicado porque “as indústrias estão sempre evoluindo junto com sua cadeia de produção e procurando trazer novidades e inovações para os consumidores, acompanhando muito de perto a evolução do perfil do público-alvo e mudança de comportamento para atender suas preferências e necessidades”. 
+Embora não fale sobre expectativas, Ubiracy Fonseca admitiu que, pelos resultados obtidos no final de 2021 e agora neste primeiro trimestre, é possível notar que o mercado vem se recuperando gradativamente desde o começo da pandemia. Isso é explicado porque “as indústrias estão sempre evoluindo junto com sua cadeia de produção e procurando trazer novidades e inovações para os consumidores, acompanhando muito de perto a evolução do perfil do público-alvo e mudança de comportamento para atender suas preferências e necessidades”.
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

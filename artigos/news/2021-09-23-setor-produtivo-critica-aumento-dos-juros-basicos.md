@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alta da Selic ameaça recuperação da economia, afirmam entidades.
 
 A elevação dos juros básicos da economia em 1 ponto percentual recebeu críticas do setor produtivo. Para entidades do comércio e da indústria, a alta da taxa Selic contribui para retrair o consumo e ameaçar a recuperação do emprego e da produção.
@@ -32,10 +31,6 @@ A entidade menciona fatores relacionados à inflação de custos – crise energ
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

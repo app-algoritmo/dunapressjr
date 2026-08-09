@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 5ª fase da Operação Recidiva investiga escritório de assessoria técnica e administrativa que desvia recursos por meio de convênios com a União.
 
 A Controladoria-Geral da União (CGU) participou, nesta terça-feira (15), na Paraíba, da 5ª fase da Operação Recidiva. O trabalho foi realizado em parceria com a Polícia Federal (PF) e o Ministério Público Federal (MPF). O objetivo foi investigar esquema de desvio de recursos públicos federais repassados para municípios paraibanos por meio de transferências voluntárias da União.
@@ -22,7 +21,7 @@ Com base nos dados existentes no Sistema de Gestão de Convênios do Governo Fed
 
 Em diversos momentos da investigação que originou a Operação Recidiva, os investigados fizeram alusão a reuniões e orientações prestadas pelo escritório, que já recebeu mais de R$ 15 milhões de prefeituras paraibanas e foi alvo de duas buscas judiciais: a primeira no âmbito da Operação Dublê, em maio de 2012, e a segunda da Operação Pão e Circo, deflagrada em junho de 2012.
 
-## **Impacto social** 
+## **Impacto social**
 
 Os desvios de recursos públicos destinados a obras de infraestrutura básica, a exemplo de saneamento, pavimentação de ruas e implantação de sistemas de abastecimento de água, prejudicam sobremaneira os objetivos de políticas públicas voltadas à promoção de uma melhor qualidade de vida à população.
 
@@ -38,8 +37,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

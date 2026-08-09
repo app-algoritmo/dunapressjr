@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Benefícios seguem variação do INPC e sobem 10,16%.
 
 Os aposentados e pensionistas do Instituto Nacional do Seguro Social (INSS) que recebem mais de um salário mínimo terão aumento de 10,16% em 2022. O reajuste segue a variação do[** Índice Nacional de Preços ao Consumidor (INPC) **](https://agenciabrasil.ebc.com.br/economia/noticia/2022-01/inflacao-sobe-073-em-dezembro-e-fecha-o-ano-em-1016-diz-ibge)de janeiro a dezembro de 2021, divulgado nesta terça-feira (11) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -36,10 +35,6 @@ As requisições de até 60 salários mínimos, que estão livres do parcelament
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

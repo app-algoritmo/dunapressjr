@@ -8,7 +8,6 @@ categories:
 - Global Economy
 ---
 
-
 Além da flutuação do preço dos combustíveis, que impacta diretamente o setor de transportes e indiretamente outros setores da economia, a qualidade do óleo diesel consumido pelos brasileiros ficou ainda pior em fevereiro. O mais recente boletim do Programa de Monitoramento da Qualidade dos Combustíveis (PMQC) revelou que o nível de não conformidade do produto fechou o segundo mês do ano perto dos 6,3%. É mais do que o dobro dos 3,1% registrados em janeiro e o pior mês em dois anos e meio de pesquisas.
 
 Em julho de 2018, o indicador de percentual de amostras de diesel reprovadas pelos laboratórios que formam a rede do PMQC superou os 7,4%. Num histórico que vem desde janeiro de 2008 – quando a adição de biodiesel se tornou obrigatória no Brasil –, fevereiro de 2021 ocupa a quarta posição. Isso se deve ao fato de o Brasil ter uma das mais rigorosas legislações para qualidade de refino do petróleo, que dá origem ao diesel e à gasolina, e também para a produção do biodiesel e do etanol.
@@ -46,7 +45,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Uma única vacina é capaz de proteger mãe e bebê contra três doenças graves. Esta é a dTpa, ou tríplice bacteriana acelular do tipo adulto, que imuniza contra difteria, tétano e coqueluche.
 
 A dTpa é uma das vacinas previstas no Calendário de Vacinação das Gestantes e deve ser aplicada nas futuras mães a partir da 20ª semana de gestação, com uma dose somente. A vacina acelular é segura para a grávida e o bebê.
@@ -47,7 +46,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

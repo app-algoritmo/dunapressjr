@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## *Brincadeiras populares, como pique-pega e bandeirinha, são uma ótima forma de praticar atividade física e interagir com outras pessoas. Então, que tal fazer um intercâmbio entre gerações com as brincadeiras de antigamente e de hoje*?
 
 Quem convive com crianças e adolescentes sabe que eles realmente adoram brinquedos tecnológicos. Mas, eles também estão cheios de energia para gastar e, às vezes, só precisam de um pequeno incentivo para deixar o controle da TV ou do vídeo-game de lado e começar a se movimentar. Isso faz bem para a saúde e para o convívio social.
@@ -43,7 +42,3 @@ Fonte:  http://www.blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

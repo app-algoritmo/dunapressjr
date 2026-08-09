@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Maiores altas foram em Fortaleza (3,92%) e Campo Grande (3,89%).
 
 O preço da cesta básica subiu em 15 das 17 capitais pesquisadas pelo Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese) na comparação entre julho e junho. Segundo o levantamento divulgado nesta quinta-feira (5), as maiores altas foram registradas em Fortaleza (3,92%), Campo Grande (3,89%), Aracaju (3,71%), Belo Horizonte (3,29%) e Salvador (3,27%).
@@ -26,10 +25,6 @@ O café foi outro item que teve alta de preço em 15 capitais, como Vitória (10
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

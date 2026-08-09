@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Segundo as investigações, mais de R$ 750 mil foram desviados.
 
 A Polícia Federal com o apoio da Controladoria-Geral da União (CGU) realiza nesta sexta-feira (5), em Rio Branco, a Operação Dose de Valores. Na ação estão sendo cumpridos 33 mandados de busca e apreensão em endereços em municípios acrianos e em Porto Velho (RO).  O trabalho com a participação de três auditores da CGU e de 160 policiais federais é um desdobramento da Operação Off Label deflagada há dois dias que investiga o combate à supostas fraudes na área da saúde no Acre. Segundo as investigações, mais de R$ 750 mil foram desviados dos cofres públicos. A principal irregularidade é a emissão de notas fiscais frias pelas empresas envolvidas.
@@ -21,5 +20,3 @@ Até agora, além da capital Rio Branco e de Cruzeiro do Sul, foram constatados 
 A CGU, por meio da Ouvidoria-Geral da União (OGU), mantém o [canal Fala.BR](https://sistema.ouvidorias.gov.br/publico/Manifestacao/SelecionarTipoManifestacao.aspx?ReturnUrl=%2f) para o recebimento de denúncias. Quem tiver informações que ajudem esta operação ou sobre quaisquer outras irregularidades, pode enviá-las por meio de formulário eletrônico. A denúncia pode ser anônima, para isso, basta escolher a opção “não identificado”.
 
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

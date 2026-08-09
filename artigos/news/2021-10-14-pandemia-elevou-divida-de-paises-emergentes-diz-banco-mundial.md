@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dívida chegou a US$ 860 bilhões em 2020.
 
 O esforço financeiro feito por países em situação de “baixo rendimento” para a adoção de medidas de combate à pandemia, resultou em um aumento de 12% da dívida desses países no ano passado, fazendo com que o total devido atingisse a marca recorde de US$ 860 bilhões, disse nesta quarta-feira (13) o presidente do Banco Mundial, David Malpass, durante a abertura da reunião anual do banco.
@@ -22,10 +21,6 @@ Ele destacou as ações do banco visando a obtenção de doses de vacinas. “Du
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

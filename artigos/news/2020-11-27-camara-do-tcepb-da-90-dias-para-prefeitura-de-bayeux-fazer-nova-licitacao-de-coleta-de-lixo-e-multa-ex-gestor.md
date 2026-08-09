@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A 1ª Câmara do Tribunal de Contas da Paraíba determinou, nesta quinta-feira (26), em referendo de medida cautelar, que a Prefeitura de Bayeux realize, no prazo de 90 dias, nova licitação para os serviços de coleta e destinação do lixo da cidade. Até a conclusão do novo procedimento, fica mantido o contrato nº 75/2019, que ora assegura a prestação do serviço.
 
 A determinação, em forma de citação, será encaminhada a prefeita do município, Luciene Gomes. E deu-se após o julgamento pela irregularidade do Pregão Presencial nº 020/19 e da Tomada de Preços 24/2019, nos autos processo nº 15969/19 - de verificação de cumprimento de decisões anteriores da Corte, pelo ex-gestor do município, Gutemberg de Lima Davi.
@@ -28,5 +27,3 @@ Fonte: Tribunal de Contas da Paraíba – Imagem de destaque: Reprodução/Tv Ca
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

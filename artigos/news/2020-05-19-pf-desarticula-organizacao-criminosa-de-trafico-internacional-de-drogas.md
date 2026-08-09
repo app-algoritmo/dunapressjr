@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Porto Velho/RO - A Polícia Federal deflagrou nesta terça-feira (19/5) a denominada OPERAÇÃO ALIAS, com o objetivo de desarticular organização criminosa especializada no tráfico internacional de drogas.
 
 Estão sendo cumpridos seis mandados de prisão temporária e quatro mandados de busca e apreensão, todos exarados pela 3ª Vara Federal da Seção Judiciária em Rondônia. Os mandados de prisão e busca foram expedidos para cumprimento nas cidades de Porto Velho/RO, Guajará-Mirim/RO, Caucáia/CE e Ananindeua/PA. Um dos investigados encontra-se foragido no Peru.
@@ -23,5 +22,3 @@ Os presos, após serem ouvidos nas sedes da Polícia Federal, serão encaminhado
 O nome da Operação faz referência a palavra inglesa “ALIAS”, relativa a “pseudônimo”, em razão da falsidade ideológica praticada por vários dos alvos, inclusive o principal líder teria utilizado vários documentos falsos para despistar a atuação policial.
 
 Comunicação Social da Polícia Federal em Rondônia/RO
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa caiu 2,35% em dia de tensão no mercado.
 
 O impasse em torno da votação de um novo pacote de estímulos para a economia norte-americana influenciou o mercado em todo o mundo e teve impactos no Brasil. O dólar aproximou-se de R$ 5,48, e a bolsa de valores devolveu parte dos ganhos dos últimos dias.
@@ -25,5 +24,3 @@ No Brasil, as negociações também foram influenciadas pelas **[declarações d
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

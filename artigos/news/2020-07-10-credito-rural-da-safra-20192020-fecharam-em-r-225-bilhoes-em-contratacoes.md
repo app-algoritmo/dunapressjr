@@ -7,16 +7,15 @@ categories:
 - News
 ---
 
-
 ## Segundo a SPA, apesar da pandemia, as contratações de crédito rural continuaram aumentando ao longo de 2020 até junho.
 
 O desembolso do crédito rural do Plano Safra 2019/2020, no período de julho do ano passado a junho deste ano, alcançou R$ 191,8 bilhões, um aumento de 11% em relação ao período anterior. Somados aos recursos da fonte Letra de Crédito do Agronegócio (LCA) referentes às aquisições de Cédulas de Produto Rural (CPRs) e às operações com agroindústrias, atingiram R$ 225 bilhões (+30%).
 
-Embora previstos anualmente no Plano Safra, os valores da LCA passaram a ser contabilizados desde o mês passado no Sistema de Operações de Crédito Rural e do Proagro (Sicor) do Banco Central. A safra da temporada, 2018/2019 também não tinha essa informação. 
+Embora previstos anualmente no Plano Safra, os valores da LCA passaram a ser contabilizados desde o mês passado no Sistema de Operações de Crédito Rural e do Proagro (Sicor) do Banco Central. A safra da temporada, 2018/2019 também não tinha essa informação.
 
 Do total aplicado dos recursos do crédito rural no consolidado dos 12 meses, R$ 107,48 bilhões (9%) foram destinados ao custeio, R$ 50,36 bilhões (19%) aos investimentos e R$ 10,9 bilhões (59%) para industrialização. Os financiamentos para comercialização tiveram redução de 10%, se situando em R$ 23,05 bilhões.
 
-Os números fazem parte do [Balanço de Financiamento Agropecuário da Safra 2019/2020](https://www.gov.br/agricultura/pt-br/assuntos/noticias/contratacoes-do-credito-rural-da-safra-2019-2020-fecharam-em-r-225-bilhoes/copy_of_Desempenhojun2020_06072020Final.pdf), divulgado nesta quarta-feira (8) pela Secretaria de Política Agrícola (SPA) do Ministério da Agricultura, Pecuária e Abastecimento. 
+Os números fazem parte do [Balanço de Financiamento Agropecuário da Safra 2019/2020](https://www.gov.br/agricultura/pt-br/assuntos/noticias/contratacoes-do-credito-rural-da-safra-2019-2020-fecharam-em-r-225-bilhoes/copy_of_Desempenhojun2020_06072020Final.pdf), divulgado nesta quarta-feira (8) pela Secretaria de Política Agrícola (SPA) do Ministério da Agricultura, Pecuária e Abastecimento.
 
 "Apesar da pandemia do Coronavírus, as contratações de crédito rural continuaram aumentando ao longo de 2020 até junho, final da safra 2019/20", comentou o diretor de Crédito e Informação, Wilson Vaz de Araújo.
 
@@ -44,13 +43,13 @@ Na distribuição dos financiamentos por região, o Sul se destaca com 34%, segu
 
 Em relação à participação dos agentes financeiros que operam com crédito rural, os bancos públicos e privados tiveram redução de um ponto percentual, se situando, respectivamente, em 54% e 26%, secundados pelos bancos cooperativos, que ampliaram sua participação, de 17% para 18%. No ranking dessas instituições, em termos de valor financiado, o Banco do Brasil manteve a 1ª posição, seguido pelo Sicredi, Bradesco e Bancoob. O Banco do Nordeste ocupa a 7ª posição, seguido pela Caixa.
 
-As contratações de crédito agrícola foram de R$ 126,25 bilhões e as de crédito pecuário R$ 65,58 bilhões. Nos financiamentos por produto, os bovinos ocuparam a 1ª posição, seguidos da soja, do milho e do café. 
+As contratações de crédito agrícola foram de R$ 126,25 bilhões e as de crédito pecuário R$ 65,58 bilhões. Nos financiamentos por produto, os bovinos ocuparam a 1ª posição, seguidos da soja, do milho e do café.
 
 Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

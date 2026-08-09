@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Estimativa consta do boletim Focus, publicação divulgada pelo BC.
 
 A previsão do mercado financeiro para a queda da economia brasileira este ano chegou a 6,48%. Essa foi a 17ª revisão seguida para a estimativa de recuo do Produto Interno Bruto (PIB) – a soma de todos os bens e serviços produzidos no país. Na semana passada, a previsão de queda estava em 6,25%.
@@ -45,5 +44,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

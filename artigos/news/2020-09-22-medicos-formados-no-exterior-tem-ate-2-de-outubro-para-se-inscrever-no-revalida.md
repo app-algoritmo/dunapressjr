@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Para atuar no Brasil, médicos com diploma de outros países precisam comprovar conhecimentos e habilidades na área. Exame não ocorre desde 2017. 
+Para atuar no Brasil, médicos com diploma de outros países precisam comprovar conhecimentos e habilidades na área. Exame não ocorre desde 2017.
 
 Quem se formou no exterior em Medicina e pretende atuar no Brasil deve passar por uma prova para comprovar conhecimentos e habilidades na área. É o chamado Revalida, Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira. As inscrições da edição deste ano vão até 2 de outubro e a prova ocorrerá em 6 de dezembro.
 
@@ -51,5 +50,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

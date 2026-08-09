@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Volume de crédito soma R$ 4,671 tri, o que equivale a 53,3% do PIB.
 
 O Banco Central (BC) informou nesta quinta-feira (24), em Brasília, que o estoque de crédito no Sistema Financeiro Nacional (SFN) ficou estável em janeiro na comparação com dezembro de 2021. O volume de crédito no mês passado foi de R$ 4,671 trilhões, o que corresponde a 53,3% do Produto Interno Bruto (PIB), a soma de todas as riquezas produzidas no país.
@@ -26,7 +25,7 @@ O BC disse, ainda, que o crédito com recursos livres às famílias somou R$ 1,5
 
 Entre as principais modalidades, destacaram-se as elevações nas carteiras de crédito pessoal não consignado (3,5%), de cartão de crédito rotativo (8,6%), e de cheque especial (13,6%), as duas últimas influenciadas por fatores sazonais.
 
-Já o saldo das operações de crédito com recursos livres para pessoas jurídicas alcançou R$ 1,3 trilhão em janeiro, redução de 1,8% no mês e alta de 16,5% em doze meses, desacelerando em relação ao mês anterior (17,3%). 
+Já o saldo das operações de crédito com recursos livres para pessoas jurídicas alcançou R$ 1,3 trilhão em janeiro, redução de 1,8% no mês e alta de 16,5% em doze meses, desacelerando em relação ao mês anterior (17,3%).
 
 Ainda segundo o BC, esse desempenho decorreu, em grande parte, da redução sazonal das carteiras de antecipação de faturas de cartão de crédito e de desconto de duplicatas.
 
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

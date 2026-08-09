@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Conhecido como o pai da psicanálise, Sigmund Freud foi o responsável pela revolução no estudo da mente humana. Nascido em Freiberg, Morávia, hoje República Checa, Freud foi o primogênito de Jacob Freud e de Amalie Nathanson. Aos 17, ele ingressou na Universidade de Viena, no curso de Medicina. Notório por ser um aluno brilhante, durante os anos de faculdade, trabalhou intensamente no laboratório de neurofisiologia, até formar-se em 1881. Em 1882, conheceu Martha Bemays e em 1886, quando Freud já possuía consultório particular, casam-se.
 
 Em sua estada de seis meses em Paris, trabalhou com o neurologista francês Jean-Martin Charcot, observando o tratamento da histeria com o uso da hipnose, despertando então seu interesse pelo estudo dos distúrbios mentais.
@@ -38,7 +37,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

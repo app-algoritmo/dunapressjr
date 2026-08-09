@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### São mais de 300 mil propostas atendidas e 83% dos recursos foram destinados a MEIs, micro e pequenas empresas.
 
 Em menos de dois meses de operacionalização, o Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe) e o Programa Emergencial de Acesso a Crédito (Peac-FGI) já ultrapassaram a marca de R$ 32 bilhões em volume de crédito concedido. Foram mais de 300 mil propostas atendidas, entre Microempreendedor Individual (MEI), micro, pequenas e médias empresas. Do volume liberado no período pelo Pronampe e pelo Peac, uma fatia de 83% atendeu exclusivamente MEIs, micro e pequenas empresas. As informações são da Secretaria Especial de Produtividade e Competitividade (Sepec) do Ministério da Economia.
@@ -29,8 +28,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Na noite do último dia 27, a Universidade Federal do Maranhão recebeu a remessa de tablets relativos ao **[Edital Auxílio Inclusão Digital – Modalidade Plena (Empréstimo de Tablet) – Em Caráter Emergencial 2020.1](http://www.ufma.br/portalUFMA/edital/X88QILVGtLjQ7IG.pdf), **em que cada estudante selecionado receberá temporariamente uma unidade, para proporcionar a todos condições de acesso tecnológico e técnico para a realização de atividades remotas durante a retomada do período acadêmico 2020/2021.
 
 No total, a UFMA adquiriu mil tablets com recursos liberados pelo  Ministério da Educação (MEC-Sesu). Os equipamentos serão distribuídos assim que as etapas do seletivo estiverem concluídas,  forem devidamente tombados e a Universidade receber os cinco mil chips da Rede Nacional de Ensino e Pesquisa (RNP) para garantir o acesso à internet.
@@ -50,5 +49,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

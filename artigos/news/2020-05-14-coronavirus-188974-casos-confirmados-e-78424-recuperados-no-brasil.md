@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ate agora 41,5% dos pacientes estão recuperados da doença. Os dados foram atualizados até as 19h desta quarta-feira (13/5).
 
 O Brasil registrou até as 19h desta quarta-feira (13) o total de 188.974 casos de coronavírus e confirmou a recuperação de 78.424 (41,5% do total) pacientes. As informações foram atualizadas e repassadas pelas Secretarias Estaduais de Saúde de todo o Brasil.
@@ -40,5 +39,3 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
 ASSINE O PRESS PERIÓDICO
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

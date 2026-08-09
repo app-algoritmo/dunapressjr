@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 De acordo com a Organização Mundial da Saúde (OMS), todos os anos cerca de 600 milhões de indivíduos no mundo adoecem e 420 mil morrem em decorrência de doenças transmitidas por alimentos (DTA). No Brasil, entre 2000 e 2018, foram registrados oficialmente 247.570 casos de DTA com 195 mortes, segundo dados do Ministério da Saúde. E qual foi a origem principal da contaminação apontada pelo estudo? A cozinha da própria casa.
 
 Realizado pelo Centro de Pesquisas em Alimentos da Faculdade de Ciências Farmacêuticas da USP, o estudo analisou as medidas de higiene, manipulação e armazenamento de alimentos junto a 5 mil pessoas de todos os Estados brasileiros.
@@ -31,7 +30,3 @@ Com respeito às práticas de higienização de verduras, 31,3% costumam fazer a
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

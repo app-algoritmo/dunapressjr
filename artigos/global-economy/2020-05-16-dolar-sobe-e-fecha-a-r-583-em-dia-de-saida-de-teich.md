@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa encerra dia com queda de 1,84%, depois de começar em alta.
 
 Em um dia marcado pela divulgação de indicadores econômicos e pela saída do ministro da Saúde, Nelson Teich, o mercado financeiro teve um dia de volatilidade. Depois de iniciar a sessão em baixa, o dólar comercial encerrou esta sexta-feira (15) vendido a R$ 5,839, com alta de R$ 0,019 (+0,33%). A bolsa de valores, que tinha começado em alta, passou a cair a partir do fim da manhã.
@@ -43,5 +42,3 @@ Ajude-nos a levar o jornalismo independente a todas as partes!
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

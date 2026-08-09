@@ -7,10 +7,9 @@ categories:
 - Health
 ---
 
-
 De acordo com a Sociedade Brasileira de Reumatologia, o lúpus ocorre em qualquer pessoa, porém, as mulheres são muito mais acometidas, principalmente entre 20 e 45 anos, sendo um pouco mais frequente em pessoas mestiças e afrodescendentes. Estima-se que no Brasil existem aproximadamente 65 mil pessoas com lúpus. Já a fibromialgia, são mais de 150 milhões de pessoas que sofrem dessa doença no mundo. Segundo o estudo "A prevalência da fibromialgia no Brasil", calcula-se que existam quatro milhões de pacientes no Brasil, destes, entre 75% e 90% dos afetados são mulheres.
 
-Para Bruna Burko Rocha Chu, reumatologista e professora do curso de Medicina da Universidade Positivo (UP), essas campanhas são importantes pois ajudam os pacientes a identificarem algo errado. “Movimentos como esse fazem as pessoas reconhecerem os problemas que sofrem e acabam procurando ajuda médica já na fase inicial. Com isso, a chance de um diagnóstico precoce e a melhora da doença ajudam numa melhor qualidade de vida desse paciente, já que as doenças não têm cura”, ressalta 
+Para Bruna Burko Rocha Chu, reumatologista e professora do curso de Medicina da Universidade Positivo (UP), essas campanhas são importantes pois ajudam os pacientes a identificarem algo errado. “Movimentos como esse fazem as pessoas reconhecerem os problemas que sofrem e acabam procurando ajuda médica já na fase inicial. Com isso, a chance de um diagnóstico precoce e a melhora da doença ajudam numa melhor qualidade de vida desse paciente, já que as doenças não têm cura”, ressalta
 
 Segundo a especialista, a fibromialgia causa dor crônica em várias partes do corpo por mais de três meses. “São dores difusas envolvendo músculos, tendões e ligamentos. Quando uma dor não é explicada por exame, devemos suspeitar da doença. Além das dores, o paciente também sente muita fadiga, acordando cansado. A doença pode causar outras adversidades, como problemas intestinais, na urina, sensibilidade a barulhos, problemas de humor e ansiedade”, explica. Ela completa, ainda, que o exercício físico é um dos principais tratamentos para a doença, além da terapia cognitiva comportamental.
 
@@ -35,7 +34,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Confederação anuncia plataforma de inovação aberta.
 
 Pesquisa contratada pela Confederação Nacional da Indústria (CNI) com 402 executivos de indústrias de médio (50 a 249 empregados) e grande porte (250 ou mais empregados), em todos os estados, mostra que cerca de sete (69%) em cada dez empresas perderam faturamento recentemente por causa da pandemia provocada pelo novo coronavírus.
@@ -52,4 +51,4 @@ A diretora defende que a plataforma “é uma maneira de ter um olhar mais atent
 
 Fonte: Agência Brasil – Imagem de destaque: José Paulo Lacerda/CNI/Direitos Reservados
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### No ano, a União honrou R$ 2,12 bilhões em dívidas.
 
 O governo federal pagou R$ 569,46 milhões em dívidas atrasadas de estados em março, informou nesta quinta-feira (7) a Secretaria do Tesouro Nacional (STN). Os números dizem respeitos às dívidas garantidas pela União e não honradas por cinco estados. Foram R$ 195,46 milhões relativos a inadimplência do Rio de Janeiro; R$ 182,66 milhões do Rio Grande do Sul; R$ 109,91 milhões de Minas Gerais; R$ 76,40 milhões de Goiás e R$ 5,03 milhões do Rio Grande do Norte.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

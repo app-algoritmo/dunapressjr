@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Uma parceria entre a Empresa Brasileira de Pesquisa Agropecuária (Embrapa) Solos (RJ) e o também carioca Centro Brasileiro de Pesquisas Físicas (CBPF) desenvolveu solução inovadora para a automação da coleta de dados no campo, mais especificamente da infiltração e do fluxo de água no solo. Trata-se de um novo permeâmetro - equipamento mais usado no mundo para avaliar a condução da água nos solos - capaz de fazer essa coleta digitalmente, por meio de um microcomputador de baixo custo. Com isso, reduz o tempo e os custos da avaliação de parâmetros hidráulicos, que permite conhecer o processo de absorção de água pela terra. As instituições buscam agora um parceiro para produzir o equipamento em larga escala e inseri-lo no mercado.
 
 A medição da água infiltrada no solo é fundamental para otimizar a irrigação, diminuindo o desperdício de água e a erosão; e para estimar o desabamento de encostas, auxiliando na prevenção e na elaboração de alarmes mais eficazes e na avaliação do comportamento de terrenos para construção de estradas ou barragens.
@@ -30,7 +29,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

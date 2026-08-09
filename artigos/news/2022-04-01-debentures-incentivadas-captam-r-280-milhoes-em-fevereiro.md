@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Valor é resultado da distribuição de dois títulos do setor de energia, com prazo médio de 10,8 anos e remuneração na faixa de IPCA + 6,3%.
 
 As emissões de debêntures incentivadas alcançaram o valor de R$ 280 milhões em fevereiro, de acordo com a 99ª edição do [Boletim de Debêntures Incentivadas](https://www.gov.br/economia/pt-br/centrais-de-conteudo/publicacoes/boletins/boletim-de-debentures-incentivadas/2021/spe-me-boletim-debentures-lei-12-431-fev-2022.pdf), publicado nesta quinta-feira (31) pela Secretaria de Política Econômica (SPE) do Ministério da Economia. O valor se refere à distribuição de duas debêntures do setor de energia, vinculadas à Lei 12.431/2011.
@@ -32,14 +31,10 @@ Quanto aos Fundos de Infraestrutura, o percentual médio de aplicação em debê
 
 A SPE destaca que a Agência Nacional de Aviação Civil (Anac) passou a divulgar em [sua página](https://www.gov.br/anac/pt-br) (www.gov.br/anac) as demonstrações financeiras dos aeroportos concedidos. “Tal iniciativa pode contribuir para o desenvolvimento do mercado secundário de debêntures do setor”, destaca a secretaria.
 
-As debêntures incentivadas se relacionam a projetos de investimento em geral e, especificamente, a projetos na área de infraestrutura definidos como prioritários, conforme regulamentado pelo Decreto nº 8.874/2016. Esses títulos têm benefícios tributários e são um mecanismo de financiamento de longo prazo, via mercado de capitais, servindo como alternativa às fontes tradicionais para esse fim. 
+As debêntures incentivadas se relacionam a projetos de investimento em geral e, especificamente, a projetos na área de infraestrutura definidos como prioritários, conforme regulamentado pelo Decreto nº 8.874/2016. Esses títulos têm benefícios tributários e são um mecanismo de financiamento de longo prazo, via mercado de capitais, servindo como alternativa às fontes tradicionais para esse fim.
 
 Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

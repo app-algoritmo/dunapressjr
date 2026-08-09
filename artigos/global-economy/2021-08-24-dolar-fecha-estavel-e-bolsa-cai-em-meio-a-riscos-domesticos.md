@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Otimismo externo influencia pouco o mercado no Brasil.
 
 Em um dia de alívio nos mercados externos, o risco doméstico anulou a queda do dólar e fez a moeda norte-americana fechar estável. A bolsa iniciou o dia em alta, mas fechou em queda após duas valorizações seguidas.
@@ -20,16 +19,12 @@ No mercado de ações, o dia também foi marcado por incertezas. O índice Ibove
 
 No exterior, a notícia de que a China não registrou casos de transmissão local de covid-19 pela primeira vez desde julho animou os mercados. O preço de diversas *commodities* (bens primários com cotação internacional) recuperou-se da queda dos últimos dias.
 
-Apesar do otimismo no mercado externo, que derrubou o dólar em quase todo o planeta, a moeda norte-americana encerrou na estabilidade motivada por fatores domésticos: a  possibilidade de que as tensões políticas se reflitam na aprovação de medidas que reduzam a arrecadação e furem o teto de gastos interferiu nas negociações.
+Apesar do otimismo no mercado externo, que derrubou o dólar em quase todo o planeta, a moeda norte-americana encerrou na estabilidade motivada por fatores domésticos: a possibilidade de que as tensões políticas se reflitam na aprovação de medidas que reduzam a arrecadação e furem o teto de gastos interferiu nas negociações.
 
 A proposta de emenda à Constituição (PEC) dos Precatórios cria um fundo formado com receitas de privatização, de venda de imóveis e do pré-sal que podem financiar despesas do futuro programa Auxílio Brasil fora do teto de gastos. Sem acordo na Câmara dos Deputados, o projeto de lei que reforma o Imposto de Renda pode resultar em perda de arrecadação para a União e com o aumento de gastos, com medidas compensatórias para estados e municípios.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Teto também valerá para TED, DOC e outras operações.
 
 Até 4 de outubro, as instituições financeiras deverão estabelecer o limite de R$ 1 mil para as transferências e pagamentos feitos por pessoas físicas entre as 20h e as 6h. A data de início das restrições foi aprovada nesta quinta-feira (23) pelo Banco Central (BC).
@@ -28,10 +27,6 @@ Até 16 de novembro, essa medida deverá ser implementada. Com base nos registro
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

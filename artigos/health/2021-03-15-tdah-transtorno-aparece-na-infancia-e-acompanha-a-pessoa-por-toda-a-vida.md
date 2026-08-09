@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Nem sempre os pais levam a sério quando escutam que o filho não se concentra na sala de aula. Mas você sabia que isso pode ser Transtorno do Déficit de Atenção com Hiperatividade (TDAH)? Esse transtorno é neurobiológico, de causas genéticas, que aparece na infância e frequentemente acompanha o indivíduo por toda a sua vida e se caracteriza por sintomas de desatenção, inquietude e impulsividade.
 
 Segundo a Associação Brasileira de Déficit de Atenção (ABDA), o distúrbio afeta de 3% a 5% das crianças em idade escolar e sua prevalência é maior entre os meninos. Uma das características mais fortes da síndrome é a dificuldade para manter o foco nas atividades e a agitação motora, o que podem prejudicar o aproveitamento escolar.
@@ -52,7 +51,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

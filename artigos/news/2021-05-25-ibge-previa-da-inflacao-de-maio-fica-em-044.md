@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Maior impacto foi da alta da energia elétrica: 2,31%.
 
 O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), conhecido como prévia da inflação, apresentou em maio alta de 0,44%. O índice ficou abaixo da taxa de abril (0,60%) e acumula alta de 3,27% no ano. Nos últimos 12 meses, a variação está em 7,27%, acima dos 6,17% registrados nos 12 meses anteriores.
@@ -24,7 +23,7 @@ A alimentação no domicílio passou de aumento de 0,19% em abril para 0,50% em 
 
 ## Deflação
 
-O único grupo que teve deflação em maio foi o de transportes (-0,23%), influenciado pela queda de 28,85% nas passagens aéreas. Houve recuo também nos transportes por aplicativo (-9,11%) e no seguro voluntário de veículo (-3,18%). 
+O único grupo que teve deflação em maio foi o de transportes (-0,23%), influenciado pela queda de 28,85% nas passagens aéreas. Houve recuo também nos transportes por aplicativo (-9,11%) e no seguro voluntário de veículo (-3,18%).
 
 Os automóveis novos ficaram mais caros 1,16%, o conserto de automóvel subiu 1,05% e a gasolina aumentou 0,29%, acumulando alta de 41,55% nos últimos 12 meses. O IBGE registrou aumento também nas tarifas do metrô (0,46%) e do ônibus urbano (0,25%).
 
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Os jovens brasileiros têm mostrado engajamento na promoção de ações para combater os efeitos negativos provocados pela pandemia da Covid-19. O Conselho Nacional da Juventude (Conjuve) lançou, nessa quarta-feira (12/8) a iniciativa ["Juventudes contra o Corona"](https://www.juventudescontraocorona.com.br/in%C3%ADcio), uma plataforma on-line que busca reunir esforços para solucionar problemas e estimular a colaboração.
 
 O presidente do Conjuve, Rafael Davi, destaca que os jovens são os grandes atores na transformação social. "O engajamento juvenil para a solução de problemas reais do Brasil é uma realidade que avulta nesse momento de pandemia. Essa é uma plataforma ímpar de ações em rede, que unem a juventude em torno do maior problema que vivemos hoje”, explica.
@@ -28,6 +27,6 @@ Fonte Gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)****

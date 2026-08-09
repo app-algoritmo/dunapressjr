@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A Esclerose Lateral Amiotrófica (ELA) é uma doença que afeta o sistema nervoso de forma degenerativa e progressiva e acarreta paralisia motora irreversível. Esclerose significa endurecimento; lateral, porque a doença começa geralmente em um dos lados do corpo e amiotrófica, porque resulta na atrofia dos músculos.
 
 Pacientes com a doença sofrem paralisia gradual e morte precoce como resultado da perda de capacidades cruciais, como falar, movimentar, engolir e respirar.
@@ -67,7 +66,3 @@ A data comemorativa foi instituída pela [Lei nº 13.471/2017](http://www.planal
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A medida foi publicada no Diário Oficial.
 
 As regras para a concessão do auxílio emergencial residual de R$ 300 foram publicadas em edição extra do *Diário Oficial da União *(DOU) dessa quarta-feira (16).
@@ -67,5 +66,3 @@ O decreto define que caso não seja possível verificar a elegibilidade ao auxí
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

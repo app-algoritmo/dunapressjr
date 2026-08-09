@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Ter as mãos limpas é tão importante para a saúde que tem uma data dedicada a isso: o Dia Mundial de Lavar as Mãos, lembrado sempre no dia 15 de outubro. A data é usada por governos e organizações sanitárias para incentivar a lavagem das mãos e fazer com que isso faça parte do cotidiano de todos.
 
 “A doença vai embora junto com a sujeira. Verme, bactéria, mando embora embaixo da torneira”. O compositor Arnaldo Antunes fez uma grande contribuição à saúde pública quando compôs “Lavar as Mãos”. A música, que foi sucesso nos anos 80 no programa infantil Castelo Ra-Tim-Bum, faz um alerta importante para as crianças e adultos: a higienização das mãos deve acontecer diariamente e com frequência.
@@ -56,7 +55,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

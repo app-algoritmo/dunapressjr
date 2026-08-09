@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa oscilou e encerrou dia com pequena queda.
 
 Num dia de otimismo no mercado externo, a moeda norte-americana caiu para o menor nível em cinco semanas. O dólar comercial fechou esta quarta-feira (22) vendido a R$ 5,114, com forte recuo de R$ 0,097 (-1,87%). A divisa está no valor mais baixo desde 12 de junho, quando tinha fechado em R$ 5,045.
@@ -26,4 +25,4 @@ O otimismo no mercado cambial não se repetiu na bolsa. O índice Ibovespa, da B
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

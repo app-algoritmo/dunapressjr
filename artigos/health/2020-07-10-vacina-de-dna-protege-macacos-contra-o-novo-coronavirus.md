@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A pandemia da COVID-19 tornou a criação de uma vacina contra o novo coronavírus (SARS-CoV-2) prioridade global. Com o avanço de estudos sobre o SARS-CoV-2, novos modelos de vacina já estão em fase de ensaios pré-clínicos. Em outras palavras, estão sendo testadas em cobaias antes de serem liberadas para uso em seres humanos. Pesquisadores de Universidades dos Estados Unidos publicaram recentemente um estudo sobre testes de vacinas de DNA em macacos-rhesus, parentes próximos dos seres humanos.
 
 Vacinas de DNA são moléculas de ácido nucleico (DNA) que contém informação para produção de uma molécula normalmente produzida pelo vírus. Contudo, ao ser introduzida no corpo do indivíduo, a vacina induz que seu próprio organismo produza a proteína que vai “treinar” o sistema imunológico a reconhecer ― e combater melhor ― as infecções pelo vírus. As vantagens dessa abordagem são a estabilidade da vacina (demora mais tempo para estragar, facilitando a sua distribuição pelo mundo) e a facilidade de produzi-la em larga escala.
@@ -26,6 +25,6 @@ Fonte canalciencia.ibict.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

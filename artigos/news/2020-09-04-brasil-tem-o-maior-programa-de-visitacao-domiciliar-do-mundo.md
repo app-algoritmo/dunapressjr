@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Programa Criança Feliz está presente em quase três mil municípios. O número representa 70,6% das cidades elegíveis para o programa.
 
 Para aderir à iniciativa, a cidade deve contar com pelo menos um Centro de Referência de Assistência Social (Cras) e ter, no mínimo, 140 pessoas que atendam aos critérios de participação do programa.
@@ -34,5 +33,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

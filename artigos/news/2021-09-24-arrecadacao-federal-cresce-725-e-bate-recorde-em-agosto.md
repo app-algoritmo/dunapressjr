@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Melhora da economia e recolhimento atípico impulsionaram receita.
 
 Impulsionada pela recuperação da economia e por recolhimentos atípicos de algumas grandes empresas, a arrecadação federal em abril bateu recorde para meses de agosto. Segundo dados divulgados nesta quinta-feira (23) pela Receita Federal, o governo arrecadou R$ 146,463 bilhões no mês passado, com aumento de 7,25% acima da inflação em valores corrigidos pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA).
@@ -40,10 +39,6 @@ Atrelados ao faturamento, o PIS e a Cofins medem o consumo. A arrecadação da P
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

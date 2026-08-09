@@ -7,7 +7,6 @@ categories:
 - Covid-19
 ---
 
-
 O governo de Jacinda Ardern reagiu emocionalmente à crise e à ciência mal-entendida, resultando em inúmeras mortes relacionadas à vacina. Essas vítimas se tornaram uma nova fonte de doadores de órgãos para transplantes?
 
 O médico neozelandês Dr. Baseando-se na literatura científica de todo o mundo, Guy Hatchard examina o que as mortes relacionadas à vacina significam da perspectiva de um cirurgião de transplante.
@@ -26,7 +25,7 @@ Consequentemente, a agência Medsafe da Nova Zelândia pôde continuar alegando 
 
 Uma [publicação](https://onlinelibrary.wiley.com/doi/full/10.1111/ajt.14105) anterior à pandemia de 2016 descobriu que as vítimas de derrames fatais geralmente são uma boa fonte para transplantes de órgãos, especialmente quando são mais jovens. A única exceção era a necessidade de cautela em transplantes de fígado de pessoas que morreram de trombocitopenia imune (PTI), pois os receptores tinham menos chances de sobrevivência.
 
-ESTE [trabalho](https://pubmed.ncbi.nlm.nih.gov/37087559/) publicado em abril de 2023 descreve um único caso de uma pessoa que sofreu um AVC em outubro de 2021 causado pela vacinação contra a Covid e cujos órgãos foram retirados para transplante [. ](https://pubmed.ncbi.nlm.nih.gov/37087559/)O jornal menciona de passagem que:[](https://pubmed.ncbi.nlm.nih.gov/37087559/)
+ESTE [trabalho](https://pubmed.ncbi.nlm.nih.gov/37087559/) publicado em abril de 2023 descreve um único caso de uma pessoa que sofreu um AVC em outubro de 2021 causado pela vacinação contra a Covid e cujos órgãos foram retirados para transplante [. ](https://pubmed.ncbi.nlm.nih.gov/37087559/)O jornal menciona de passagem que:
 
 *A trombose associada à trombocitopenia geralmente ocorre no primeiro mês após a vacinação e pode ser fatal mesmo em pessoas jovens e previamente saudáveis. Esses jovens adultos podem eventualmente se tornar doadores de órgãos.*
 

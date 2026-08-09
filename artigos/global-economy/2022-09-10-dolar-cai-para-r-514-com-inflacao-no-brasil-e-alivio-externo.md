@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Bolsa de valores sobe 2,17% e fecha semana em alta.
 
 O alívio internacional e a inflação negativa em agosto no Brasil fizeram o mercado financeiro ter um dia de otimismo nesta sexta-feira (9). O dólar caiu para abaixo de R$ 5,15 e fechou a semana em queda. Influenciada pela recuperação das *commodities* (bens primários com cotação internacional), a bolsa de valores subiu mais de 2% e fechou no maior nível em 10 dias.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

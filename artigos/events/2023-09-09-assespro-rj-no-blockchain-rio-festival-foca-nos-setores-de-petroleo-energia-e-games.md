@@ -68,7 +68,7 @@ A Assespro-RJ, com seu compromisso permanente de promover e articular o debate s
 
 **Local:** EXPO MAG - Rua Beatriz Larragoiti Lucas, s/n Cidade Nova - Rio de Janeiro
 
-**Ingressos: **[https://bit.ly/assesprorjnoblockchainrio2023](https://bit.ly/assesprorjnoblockchainrio2023)
+**Ingressos: **
 
 **Para saber mais sobre os eventos da Assespro pode acessar as páginas:**
 

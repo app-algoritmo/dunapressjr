@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 2ª fase da Operação Dúctil investiga irregularidades na aquisição de insumos e produtos hospitalares para enfrentamento da pandemia de Covid-19.
 
 A Controladoria-Geral da União (CGU) participa, nesta sexta-feira (24), da 2ª Fase da Operação Dúctil. O trabalho é realizado em parceria com a Polícia Federal (PF) e o Ministério Público Federal (MPF). O objetivo é apurar supostas irregularidades na aquisição, pela Prefeitura de Guajará-Mirim (RO), a partir de recursos federais repassados ao ente municipal, de insumos e produtos hospitalares para o enfrentamento da pandemia de Covid-19.
@@ -30,4 +29,4 @@ A Operação Dúctil consiste no cumprimento de 10 mandados de busca e apreensã
 
 Fonte: gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

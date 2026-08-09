@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Agência Nacional de Vigilância Sanitária (Anvisa) foi formalmente comunicada da conclusão, com sucesso, do processo de adesão da Agência ao Esquema de Cooperação em Inspeção Farmacêutica (PIC/S, do inglês Pharmaceutical Inspection Co-operation Scheme). A Anvisa se tornará o 54º membro da iniciativa internacional em inspeção farmacêutica, passando a contar com o reconhecimento internacional da excelência das inspeções em Boas Práticas de Fabricação (BPF) de medicamentos e insumos farmacêuticos de uso humano.
 
 A decisão sobre a adesão da Anvisa ao PIC/S era esperada para a primeira reunião do Comitê do PIC/S de 2020, promovida anualmente em abril. Este ano, entretanto, devido à Covid-19, a deliberação ocorreu virtualmente no dia 15 de outubro, e, nessa segunda-feira (30/11), a Anvisa foi formalmente comunicada da aprovação da filiação. A condição de membro tem início a partir de janeiro de 2021.
@@ -60,7 +59,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

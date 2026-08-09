@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Valor caiu cerca de 40% em relação a 2019.
 
 As emissões de debêntures (títulos privados) incentivadas de infraestrutura alcançaram R$ 3,84 bilhões neste ano até abril. Esse valor ficou abaixo dos R$ 6,4 bilhões alcançados no mesmo período do ano passado, com redução de 40%. Os dados fazem parte da 77ª edição do Boletim de Debêntures Incentivadas, que a Secretaria de Política Econômica (SPE) do Ministério da Economia divulgou hoje (26).
@@ -25,5 +24,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

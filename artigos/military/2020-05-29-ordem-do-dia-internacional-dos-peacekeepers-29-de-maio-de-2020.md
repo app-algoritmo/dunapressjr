@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 O Brasil possui longo histórico de contribuição para a paz mundial. Há 73 anos, no início de 1947, o País enviava, pela primeira vez, três observadores militares para os Balcãs, a serviço das Nações Unidas. Um ano mais tarde, nossa bandeira estaria novamente presente, monitorando o acordo de cessar-fogo árabe-israelense, naquela que se consagrou como a primeira missão de paz das Nações Unidas, motivando a escolha do dia 29 de maio como o Dia Internacional dos Peacekeepers, os “Capacetes Azuis”.
 
 Desde então, o Brasil já participou de 41 operações de paz e missões similares, superando o número de 46 mil civis, militares e policiais brasileiros, que se deslocaram para regiões devastadas pela guerra, onde ninguém mais estava disposto a ir, arriscando suas próprias vidas em prol da manutenção da paz internacional.
@@ -34,5 +33,3 @@ Parabéns a todos os peaceekeepers brasileiros, do passado e do presente, pelo s
 Ministro de Estado da Defesa
 
 Fonte: Portal de Imprensa do Ministério da Defesa
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

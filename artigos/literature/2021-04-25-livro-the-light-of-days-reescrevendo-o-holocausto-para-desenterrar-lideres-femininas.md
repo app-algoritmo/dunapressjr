@@ -8,7 +8,6 @@ categories:
 - Literature
 ---
 
-
 ## No entanto, ao contrário do título, The Light of Days não é uma história, mas um épico de várias camadas, que reescreve o Holocausto e fala muito sobre o preconceito masculino em nosso passado.
 
 Zelda Treger era uma lutadora da resistência disfarçada. Um nazista e um policial a pegaram, depois que ela foi denunciada como judia. O policial permitiu que ela vivesse em troca de ouro, mas forçou Zelda a ir para seu apartamento.
@@ -63,7 +62,7 @@ Assim como a Lista de Schindler expôs uma geração inteira ao Holocausto, A 
 
 Batalion forjou um registro crítico para a nossa compreensão deste evento divisor de águas, que destaca a necessidade da história como um antídoto para a história.
 
- *A LUZ DOS DIAS*; *Por Judy Batalion*; *William Morrow*; *576 páginas*. 
+ *A LUZ DOS DIAS*; *Por Judy Batalion*; *William Morrow*; *576 páginas*.
 
 Créditos: MELANIE TAKEFMAN.
 
@@ -77,5 +76,3 @@ Fonte: https://www.jpost.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 Judy, uma perdigueira pura, foi a mascote de vários navios no Pacífico e foi capturada pelos japoneses em 1942, sendo depois levada para um campo de prisioneiros. Lá ela conheceu o aviador Frank Williams, que dividiu sua pequena porção de arroz com ela.
 
 Judy levantou o moral no campo de prisioneiros de guerra e também aprendeu a latir quando cobras venenosas, crocodilos ou até tigres se aproximaram dos prisioneiros. Quando os prisioneiros foram enviados de volta para Singapura, ela foi contrabandeada em um saco de arroz, nunca tendo choramingado ou feito qualquer barulho, para não denunciar sua presença aos guardas.
@@ -22,7 +21,7 @@ Assim que as hostilidades cessaram, Judy foi contrabandeada a bordo de um navio 
 
 Ao mesmo tempo, Frank Williams foi condecorado com a Cruz Branca de St. Giles do PDSA por sua devoção a Judy. Frank e Judy passaram um ano após a guerra visitando parentes de prisioneiros de guerra ingleses que não sobreviveram, e Frank disse que Judy "sempre proporcionou reconfortante apoios todas as famílias."
 
-Quando Judy finalmente morreu aos 13 anos de idade, Frank passou os dois meses seguintes construindo um memorial de granito e mármore em sua memória, onde incluiu uma placa 
+Quando Judy finalmente morreu aos 13 anos de idade, Frank passou os dois meses seguintes construindo um memorial de granito e mármore em sua memória, onde incluiu uma placa
 
 descrevendo toda a história de sua vida.
 
@@ -37,7 +36,3 @@ Créditos Fanpage Portal Animal.
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

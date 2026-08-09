@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Índice apresentou o maior resultado desde maio de 2020.
 
-O indicador de Intenção de Consumo das Famílias (ICF), medido pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), alcançou o patamar de 72,1 pontos em dezembro deste ano, o maior resultado desde maio de 2020, quando chegou a 81,7 pontos. Segundo a CNC, mesmo com essa recuperação, este foi o pior mês de dezembro da série histórica. 
+O indicador de Intenção de Consumo das Famílias (ICF), medido pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), alcançou o patamar de 72,1 pontos em dezembro deste ano, o maior resultado desde maio de 2020, quando chegou a 81,7 pontos. Segundo a CNC, mesmo com essa recuperação, este foi o pior mês de dezembro da série histórica.
 
 O índice permaneceu abaixo do nível de satisfação (100 pontos), o que vem ocorrendo desde abril de 2015 (102,9 pontos). A série com ajuste sazonal apresentou crescimento mensal de 1,2%, o quarto crescimento consecutivo e mais intenso do que o observado no mês anterior (+0,8%). Entretanto, em relação a dezembro de 2019, houve retração de 25,1%, a nona redução nesta base comparativa.
 
@@ -34,8 +33,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Houve alta em 13 segmentos industriais e recuo em 16.
 
 O Índice de Confiança do Empresário (Icei), edição de outubro, registrou alta em todos os 30 setores analisados pela Confederação Nacional da Indústria (CNI). Na comparação com setembro, houve aumento em 13 setores industriais e recuo em 16.
@@ -27,5 +26,3 @@ Já as maiores quedas ficaram com os setores de equipamentos de informática, qu
 Fonte: Agência Brasil – Imagem de destaque: CNI/José Lacerda/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

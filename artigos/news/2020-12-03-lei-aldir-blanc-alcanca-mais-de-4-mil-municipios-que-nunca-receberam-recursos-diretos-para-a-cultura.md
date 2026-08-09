@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Em levantamento feito pelo Ministério do Turismo mostrou que, antes da Lei Aldir Blanc, cerca de 75% dos municípios do país ficaram, ao menos, 12 anos sem receber recursos do Governo Federal para políticas públicas na área cultural, por meio da administração pública direta. A porcentagem representa 4.775 municípios. Com os repasses do Governo Federal, esse número caiu para 1.392 cidades brasileiras, ou seja, 25%.
 
 “A Lei Aldir Blanc foi e continua sendo um importante socorro ao setor, chegando a todo o país e beneficiando, principalmente, trabalhadores e espaços culturais que tiveram suas atividades interrompidas por conta da Covid-19”, destaca o ministro do Turismo, Marcelo Álvaro Antônio.
@@ -33,7 +32,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

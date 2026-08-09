@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Estima-se que as deduções indevidas atinjam R$ 20 milhões.
 
 Cerca de 3.700 declarações do Imposto de Renda da Pessoa Física (IRPF) dos exercícios de 2016 a 2020, de um grupo de 800 contribuintes, contêm deduções suspeitas com o intuito de reduzir o imposto devido. A investigação é feita pela Delegacia da Receita Federal em Vitória, no Espírito Santo, segundo informações divulgadas hoje (25).
@@ -30,4 +29,4 @@ Segundo a Receita, os contribuintes que não se autorregularizarem serão chamad
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

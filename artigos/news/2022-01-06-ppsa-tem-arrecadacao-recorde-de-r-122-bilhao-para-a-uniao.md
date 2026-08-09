@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado do ano passado ficou 74% acima do total obtido em 2020.
 
 A Pré-Sal Petróleo S.A (PPSA), empresa vinculada ao Ministério de Minas e Energia (MME), encerrou o ano de 2021 com arrecadação de R$ 1,22 bilhão para a União, alta de 74% em comparação com o resultado de 2020, quando foram arrecadados R$ 704 milhões.
@@ -26,10 +25,6 @@ Desde sua criação, em 2013, a PPSA já arrecadou R$ 3,9 bilhões para a União
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

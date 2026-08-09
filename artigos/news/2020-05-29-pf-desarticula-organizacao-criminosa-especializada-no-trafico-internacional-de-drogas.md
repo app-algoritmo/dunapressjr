@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Porto Velho/RO - A Polícia Federal deflagrou nesta sexta-feira (29/5) a denominada OPERAÇÃO QUINTO, com o objetivo de desarticular organização criminosa especializada no tráfico internacional de drogas. Estão sendo cumpridos nove mandados de busca e apreensão, todos exarados pela 3ª Vara Federal da Seção Judiciária em Rondônia, em Ariquemes/RO, Rio Branco/AC e Igarapé/MG.
 
 As investigações foram iniciadas em fevereiro de 2019, com a finalidade de identificar a participação dos integrantes da organização criminosa sediada na região de Ariquemes/RO, com uma estrutura hierárquica bem definida, que tinha como principal atividade a prática do tráfico de drogas oriundas da Bolívia e Peru, para remessa a outros Estados da Federação.
@@ -22,5 +21,3 @@ Os investigados serão ouvidos na Polícia Federal para esclarecer pontos import
 O nome da Operação faz referência ao “quinto trabalho de Hércules”, no qual o herói grego desviou o curso do rio Alfeu para lavar os estábulos do Rei Aúgias, em referência ao objetivo da PF em reprimir, de forma contundente, o tráfico de drogas na cidade de Ariquemes/RO.
 
 Comunicação Social da Polícia Federal em Rondônia/RO
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

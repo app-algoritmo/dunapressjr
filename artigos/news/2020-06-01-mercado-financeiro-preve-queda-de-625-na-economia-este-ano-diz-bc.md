@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Na semana passada, a previsão de queda estava em 5,89%.
 
 As contas externas registraram saldo positivo pelo segundo mês consecutivo, informou hoje (26) o Banco Central (BC). Em abril, o superávit em transações correntes, que são as compras e vendas de mercadorias e serviços e transferências de renda do Brasil com outros países, chegou a US$ 3,840 bilhões, o maior valor da série histórica mensal iniciada em janeiro de 1995.
@@ -59,5 +58,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

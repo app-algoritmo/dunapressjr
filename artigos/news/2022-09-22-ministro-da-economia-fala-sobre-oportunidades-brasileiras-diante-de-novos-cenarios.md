@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Paulo Guedes participou da abertura do 30º Congresso & ExpoFenabrave, em São Paulo.
 
 O cenário atual da economia doméstica e sua dinâmica de crescimento foi um dos temas abordados pelo ministro da Economia, Paulo Guedes, nesta quarta-feira (21), durante o 30º Congresso & ExpoFenabrave, em São Paulo.
@@ -20,8 +19,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

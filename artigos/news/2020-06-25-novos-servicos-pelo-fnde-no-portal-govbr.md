@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Já são 35 opções disponíveis em um só lugar, gerando economia de tempo e recursos.
 
 Para facilitar o acesso dos cidadãos e gestores educacionais aos serviços do Fundo Nacional de Desenvolvimento da Educação (FNDE), a autarquia vinculada ao Ministério da Educação (MEC) disponibilizou mais seis novos serviços no portal [Gov.br](https://www.gov.br/orgaos/fundo-nacional-de-desenvolvimento-da-educacao), do governo federal.
@@ -31,7 +30,7 @@ Fonte: gov.br/mec / Imagem em destaque: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

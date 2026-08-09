@@ -8,7 +8,6 @@ categories:
 - Sports
 ---
 
-
 ## Se derrotar o adversário paranaense por 3 a 0 ou 3 a 1 nesta segunda-feira (20), equipe comandada pelo técnico Luizomar vai empatar em pontos com o Minas Tênis Clube, mas levará vantagem no critério de desempate.
 
 O Osasco São Cristóvão Saúde entra em quadra nesta segunda-feira (20) para assumir a vice-liderança provisória da Superliga Banco do Brasil 21/22. Para isso, precisa vencer o Unilife Maringá pelo placar de 3 sets a 0 ou 3 a 1 na partida que começa às 20h,no ginásio Chico Neto, em Maringá, com transmissão do Canal Vôlei Brasil. Se conseguir, chega aos mesmos 24 pontos do Minas Tênis Clube, mas com uma vitória a mais, o que garante vantagem no desempate.
@@ -27,7 +26,7 @@ FASE DE CLASSIFICAÇÃO - PRIMEIRO TURNO
 5/11 – Sesc RJ Flamengo 0 X 3 **OSASCO SÃO CRISTÓVÃO SAÚDE** – Tijuca
 9/11 – **OSASCO SÃO CRISTÓVÃO SAÚDE** 0 X 3 Dentil Praia Clube  – José Liberatti
 12/11 – Curitiba Vôlei 0 X 3 **OSASCO SÃO CRISTÓVÃO SAÚDE** – Col. Positivo Junior
-16/11 – **OSASCO SÃO CRISTÓVÃO SAÚDE** 3 X 1 Barueri Volleybal Club  – José Liberatti 
+16/11 – **OSASCO SÃO CRISTÓVÃO SAÚDE** 3 X 1 Barueri Volleybal Club  – José Liberatti
 23/11 – EC Pinheiros 0 X 3 **OSASCO SÃO CRISTÓVÃO SAÚDE** – Henrique Villaboim
 26/11 **– OSASCO SÃO CRISTÓVÃO SAÚDE** 3 X 2 Sesi Vôlei Bauru  – José Liberatti
 10/12 – **OSASCO SÃO CRISTÓVÃO SAÚDE** 3 X 1 Country Club Valinhos  – José Liberatti
@@ -52,7 +51,3 @@ Fonte: ***ZDL Sports***
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

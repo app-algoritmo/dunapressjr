@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Apoiar e monitorar a qualidade da assistência cardiovascular ofertada pelo Sistema Único de Saúde (SUS). Esse é o objetivo do Programa de Qualidade na Cardiologia – QualiSUS Cardio, lançado nesta terça-feira (10/05) pelo Ministério da Saúde. A iniciativa estabelece metas, parâmetros e indicadores para repasses, estimulando um atendimento de qualidade nos serviços de cardiologia para a população brasileira.
 
 O lançamento do programa ocorre após a atualização do valor federal de Órteses, Próteses e Materiais Especiais na tabela de procedimentos, publicada em portaria em dezembro do ano passado. A vigência dessa portaria começará a valer junto com a publicação do documento que cria o programa QualiSUS Cardio. Dessa forma, cerca de R$ 299 milhões, total referente à economia gerada pela atualização dos valores, serão revertidos na atualização dos procedimentos de alta complexidade cardiovascular, além de mais R$ 200 milhões adicionais aplicados no desenvolvimento do programa.
@@ -32,7 +31,3 @@ Fonte:   https://www.gov.br/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

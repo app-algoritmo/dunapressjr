@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Novas pesquisas usando modelos artificiais de redes semelhantes ao cérebro sugerem que os neurônios são mais poderosos do que se acreditava anteriormente.
 
 Estamos no meio de uma revolução científica e tecnológica. Os computadores de hoje usam inteligência artificial para aprender com o exemplo e executar funções sofisticadas que, até recentemente, eram consideradas impossíveis.
@@ -48,7 +47,3 @@ Fonte: https://www.israelnationalnews.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

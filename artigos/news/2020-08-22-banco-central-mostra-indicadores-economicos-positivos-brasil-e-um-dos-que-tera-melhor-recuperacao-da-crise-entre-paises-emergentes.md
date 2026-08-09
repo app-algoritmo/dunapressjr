@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Recuperação gradual do País se mostra mais rápida do que a de outros países emergentes.
 
 Em apresentação para investidores do Bank of America nessa quarta-feira (19), o Presidente do Banco Central (BC), Roberto Campos Neto, trouxe dados e projeções que indicam que a economia brasileira mostra uma recuperação mais rápida do que a de outros países emergentes.
@@ -23,5 +22,3 @@ A apresentação destacou a atuação do agronegócio na recuperação do País.
 Para a safra 2020/2021, o Ministério da Agricultura, Pecuária e Abastecimento (Mapa) disponibilizou R$ 236,3 bilhões para apoiar a produção agropecuária nacional. No primeiro mês do Plano Safra, foram contratados R$ 24,15 bilhões em crédito rural, um aumento de 50% sobre o mesmo período no ano passado. A longo prazo, o Banco Central prevê a utilização de financiamento privado para a cadeia do agronegócio.
 
 Fonte: gov.br - Imagem de destaque: Agência Brasil
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

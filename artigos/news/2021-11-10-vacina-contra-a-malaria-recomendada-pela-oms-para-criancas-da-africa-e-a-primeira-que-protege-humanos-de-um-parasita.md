@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Em uma decisão histórica, a Organização Mundial da Saúde (OMS) veio a público, em 6 de outubro de 2021, recomendar a adoção de uma vacina contra a malária para crianças em regiões com alta ocorrência da doença, como a África Subsaariana. O anúncio é resultado de mais de 50 anos de estudos em busca de uma forma de imunização contra a enfermidade que mata, anualmente, 410 mil pessoas, das quais 260 mil crianças com menos de 5 anos. Quase 95% dos óbitos ocorrem na África.
 
 A vacina recomendada age contra o parasita *Plasmodium falciparum*, que causa a forma mais letal da malária e é o mais prevalente no continente africano. Ela foi testada em um programa-piloto que alcançou mais de 800 mil crianças em Gana, no Quênia e no Malaui desde 2019. A imunização ocorre com a aplicação de quatro doses: a primeira aos 5 meses de vida, a segunda aos 8 meses, a terceira aos 11 meses e a quarta dose, de reforço, aos 18 meses.
@@ -28,7 +27,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

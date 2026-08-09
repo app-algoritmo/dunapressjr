@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Oferta faz parte das 122 mil vagas de qualificação profissional gratuitas do programa Novos Caminhos.
 
 Interessados em adquirir mais conhecimentos e ainda ter certificação de instituições públicas de ensino podem concorrer a 56 mil vagas de cursos de qualificação profissional on-line. A iniciativa, que faz parte do programa Novos Caminhos do Ministério da Educação, é uma continuidade da oferta das 122 mil vagas já anunciadas pela pasta. O prazo para inscrições segue até 25 junho e as aulas iniciam dia 30.
@@ -21,8 +20,6 @@ Fonte: gov.br/mec / Imagem em destaque: Pronatec.gov.br
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.**
 
 **Clique aqui no banner abaixo para assinar.**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

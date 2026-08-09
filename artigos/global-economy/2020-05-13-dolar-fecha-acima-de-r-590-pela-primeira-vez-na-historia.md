@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Em dia de oscilação, bolsa de valores fecha com queda de 0,13%
 
 Em meio a tensões no Brasil e no exterior, o dólar fechou acima de R$ 5,90 pela primeira vez na história. O dólar comercial encerrou esta quarta-feira (12) vendido a R$ 5,901, com alta de R$ 0,036 (+0,61%). Este é o maior valor nominal (sem considerar a inflação) desde a criação do real.
@@ -43,5 +42,3 @@ Ajude-nos a levar o jornalismo independente a todas as partes!
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

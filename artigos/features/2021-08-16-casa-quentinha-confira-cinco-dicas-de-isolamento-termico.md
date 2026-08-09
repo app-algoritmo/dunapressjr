@@ -7,12 +7,11 @@ categories:
 - Features
 ---
 
-
 Com essa intensa onda de frio, o ideal é ter ambientes quentes e seguros para se abrigar, não é? Mas, você sabia que o principal motivo para a queda de temperatura na parte interna de casa se dá por um efeito da física? A explicação é simples: esse efeito mostra que a temperatura de um espaço interno é resultado do balanço de ganhos e perdas de calor, ou seja, mesmo com os termômetros do lado de fora gelados é possível acumular calor dentro de casa.
 
 Hoje, existem diversos sistemas de aquecimento que ajudam a aumentar a temperatura dentro de uma casa, mas todos precisam ser planejados com antecedência. Segundo a arquiteta da construtora, Andressa Bassinelli, nesses casos, o ideal é investir em revestimentos que aumentam o conforto térmico, como pisos de madeira, laminados ou vinílicos. “Além disso, paredes, telhados e forros específicos também colaboram para isolar as temperaturas frias. O uso de aquecedores, lareiras e fogões a lenha também são outras boas opções. Lembrando que existem equipamentos como lareiras ecológicas que não exigem infraestruturas específicas para instalação e podem ser compradas e usadas de imediato, sem necessidade de instalações próprias. Mas antes da compra, verifique a metragem do ambiente no qual será colocada para dimensionamento correto do equipamento e para que sejam eficientes no aquecimento”, observa.
 
-Confira uma série de dicas fáceis e rápidas de serem aplicadas em qualquer casa ou apartamento, e colaboram para o isolamento térmico. 
+Confira uma série de dicas fáceis e rápidas de serem aplicadas em qualquer casa ou apartamento, e colaboram para o isolamento térmico.
 
 **1ª - Deixe o sol entrar**
 
@@ -45,7 +44,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

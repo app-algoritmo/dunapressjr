@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 Para fortalecer ações culturais, práticas esportivas e de lazer, além de formação e qualificação para o mercado de trabalho, no município de Maranguape (CE), o ministro da Cidadania, Onyx Lorenzoni, inaugurou, nesta quinta-feira (3), o Estação Cidadania-Esporte, no bairro Outra Banda.
 
 Foram mais de R$ 3,1 milhões de recursos federais investidos no local, que contém equipamentos públicos de política social que, além de promover ações esportivas e culturais, oferece políticas de prevenção à violência e de inclusão digital.
 
-“Daqui vão sair craques do esporte e também vencedores na vida. Esse é um lugar que vai melhorar vidas e realizar sonhos”, ressalta o ministro da Cidadania, Onyx Lorenzoni 
+“Daqui vão sair craques do esporte e também vencedores na vida. Esse é um lugar que vai melhorar vidas e realizar sonhos”, ressalta o ministro da Cidadania, Onyx Lorenzoni
 
 “Este é um espaço de compartilhamento de vidas, de socialização de crianças, de aprender o quanto é importante a disciplina, não desistir, perseverar, ter fé. Aqui vão se aprender os valores de família, de equipe”, destaca o ministro. “Daqui vão sair craques do esporte e também vencedores na vida. Esse é um lugar que vai melhorar vidas e realizar sonhos.”
 
@@ -32,7 +31,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alta do dólar estimula transferências de brasileiros no exterior.
 
 Com a alta do dólar, as remessas de brasileiros que vivem no exterior para familiares no Brasil têm batido recordes. Em setembro, foram registradas US$ 293 milhões de receitas de transferências pessoais, segundo dados do Banco Central (BC). Esse foi o maior volume para o mês de setembro, na série histórica, iniciada em 1995. Em setembro de 2019, as transferências somaram US$ 248,6 milhões.
@@ -25,5 +24,3 @@ A maior parte das transferências que vêm para o Brasil são dos Estados Unidos
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

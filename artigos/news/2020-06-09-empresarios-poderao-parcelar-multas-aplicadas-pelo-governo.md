@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Devedores podem pagar dívidas em até 12 vezes.
 
 O Ministério da Economia estabeleceu, hoje (9), novos procedimentos para o pagamento de multas provenientes de contratos administrativos aplicadas aos fornecedores do governo federal. A [Instrução Normativa nº 43, publicada no Diário Oficial da União (DOU)](http://www.in.gov.br/en/web/dou/-/instrucao-normativa-n-43-de-8-de-junho-de-2020-260785995), permitirá que o fornecedor solicite o parcelamento, compensação e adiamento da cobrança para 2021. Anualmente, a Administração Pública Federal assina contratos para aquisição de bens, serviços e obras em torno de R$ 48 bilhões.
@@ -30,8 +29,6 @@ Segue a instrução normativa na íntegra:
 
 Fonte: Agência Brasil – imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-===================================== 
+=====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Operação Resiliência tem a participação de 80 policiais.
 
 A Polícia Federal (PF) deflagrou hoje (18) a Operação Resiliência, em Brasília, com o objetivo de “desmantelar uma “organização criminosa especializada no cometimento de fraudes no auxílio emergencial”, criado pelo governo federal.
@@ -23,5 +22,3 @@ Além de usar os próprios nomes, os suspeitos usavam nomes de outras pessoas pa
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

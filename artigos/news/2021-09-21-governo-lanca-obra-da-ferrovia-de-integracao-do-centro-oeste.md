@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Serão investidos R$ 2,7 bilhões na implantação de 383 quilômetros de linha férrea, que possibilitará escoamento da safra produzida no Centro-Oeste até portos das regiões Sudeste e Nordeste.
 
 Uma cerimônia marcou o início das obras da Ferrovia de Integração Centro-Oeste (Fico), que receberá investimentos de R$ 2,7 bilhões na implantação de 383 quilômetros de novos trilhos, entre Mara Rosa (GO) e Água Boa (MT). A linha férrea possibilitará escoamento da safra produzida no Centro-Oeste até portos das regiões Sudeste e Nordeste.
@@ -30,10 +29,6 @@ Deve-se destacar ainda os benefícios do empreendimento para o agronegócio da r
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

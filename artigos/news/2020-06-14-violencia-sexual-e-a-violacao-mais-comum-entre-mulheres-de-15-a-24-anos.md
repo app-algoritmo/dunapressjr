@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Segundo o balanço 2019 do Ligue 180, divulgado pelo Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) na última sexta-feira, o crime de violência sexual é mais recorrente entre mulheres com idade entre 15 e 24 anos que se autodeclaram brancas. Das 1978 denúncias registradas, 702 pertencem a essa faixa etária e 836, à etnia.
 
 O perfil da vítima dessa violação difere das demais analisadas no balanço da Central de Atendimento à Mulher de 2019, em que predominam mulheres com faixa etária mais elevada.
@@ -49,8 +48,6 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique no banner abaixo para assinar
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

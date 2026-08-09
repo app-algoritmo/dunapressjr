@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Quem não tiver depósito automático deve pedir liberação.
 
 A partir desta quarta-feira (20), os trabalhadores nascidos em janeiro começaram até R$ 1 mil das contas do Fundo de Garantia do Tempo de Serviço (FGTS). A Caixa Econômica Federal depositará o dinheiro na conta poupança digital, usada para o pagamento de benefícios sociais e previdenciários.
@@ -38,14 +37,10 @@ Para saber se receberá automaticamente o dinheiro ou se precisará pedir o saqu
 
 Confira o calendário de depósitos:
 
-**Mês de nascimento****Data da liberação**Janeiro20 de abrilFevereiro30 de abrilMarço4 de maioAbril 11 de maioMaio14 de maioJunho  18 de maioJulho21 de maioAgosto 25 de maioSetembro28 de maioOutubro1º de junhoNovembro 8 de junhoDezembro15 de junho
+**Mês de nascimento****Data da liberação**Janeiro20 de abrilFevereiro30 de abrilMarço4 de maioAbril 11 de maioMaio14 de maioJunho 18 de maioJulho21 de maioAgosto 25 de maioSetembro28 de maioOutubro1º de junhoNovembro 8 de junhoDezembro15 de junho
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 Em 24 de maio, data de nascimento do Brigadeiro Antônio de Sampaio, o “Bravo dos Bravos”, o Exército Brasileiro comemora o Dia da Arma de Infantaria.
 
 O Brigadeiro Sampaio, filho de Antônio Ferreira de Sampaio e de Antônia de Souza Araújo Chaves, nasceu em 1810, na Fazenda Vitor, situada na povoação de Tamboril, no vale do rio Acaraú, 232 km a sudoeste da cidade de Fortaleza, no Ceará. Com 20 anos, alistou-se como voluntário nas fileiras do 22º Batalhão de Caçadores. Em abril de 1832, recebeu seu batismo de sangue em combate travado nas ruas de Icó e S. Miguel, contra as tropas contrárias à abdicação de D. Pedro I.
@@ -35,5 +34,3 @@ Enfim, a Infantaria brasileira opera em todo o espectro de operações militares
 Enfim, a Infantaria brasileira opera em todo o espectro de operações militares, podendo ser de Polícia do Exército, de Guarda, de Fronteira (Pantanal), de Caatinga, de Montanha, de Selva, Leve, Aeromóvel, Paraquedista, Motorizada, Mecanizada ou Blindada, e está presente em todo o território nacional.
 
 Fonte: Portal de Imprensa do Exército Brasileiro.
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

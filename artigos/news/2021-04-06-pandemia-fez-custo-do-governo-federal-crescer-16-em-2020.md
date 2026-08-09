@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Sem Ministério da Saúde, gastos de funcionamento teriam caído 10%.
 
 Impulsionados pela pandemia de covid-19, os custos totais do governo federal totalizaram R$ 2,64 trilhões e aumentaram 16% em 2020 em relação a 2019, divulgou hoje (6) o Tesouro Nacional. O indicador mede os gastos dos Três Poderes da União e do Ministério Público Federal com mão de obra, funcionamento, insumos, gastos financeiros, desvalorização de patrimônio e repartição de receitas com estados, municípios e organizações da sociedade.
@@ -32,10 +31,6 @@ Esta foi a segunda vez que o Tesouro divulgou o *Boletim Foco em Custos*. A [**p
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.   
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)  
-
-Obrigado pelo apoio!   
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

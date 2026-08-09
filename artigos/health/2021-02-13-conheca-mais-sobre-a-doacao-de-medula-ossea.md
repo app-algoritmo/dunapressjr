@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 O transplante de medula óssea é uma opção de tratamento recomendada em alguns casos de doenças que afetam essas células, como leucemias e linfomas. O procedimento consiste na substituição de uma medula óssea doente ou deficitária por células normais desse tecido, para que se possa reconstituir uma medula nova e saudável.
 
 Existem dois tipos de doadores de tecidos: o doador vivo e o doador cadáver. O doador vivo é o paciente que será submetido à cirurgia para colocação de prótese em quadril, na qual é retirada, durante o procedimento, a cabeça femoral. Para ser doador neste caso, deverá o paciente autorizar a utilização da cabeça femoral pelo banco através de consentimento informado.
@@ -47,7 +46,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

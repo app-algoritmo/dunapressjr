@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Quem precisa renovar a Carteira Nacional de Habilitação ou documentos e processos de veículos deve estar atento aos prazos. Em Santa Catarina, o Detran estendeu o prazo para os processos veiculares como transferência, registro e licenciamento de veículo. Já com relação às CNHs vencidas em 2020, as datas para a renovação do documento são estabelecidos por meio de resolução do Conselho Nacional de Trânsito (CONTRAN) que definiu as datas limites para a regularização.
 
 “O Departamento Nacional de Trânsito (Denatran) permitiu que cada estado estabelecesse o seu cronograma. Aqui em Santa Catarina estamos ampliando prazos para que toda a demanda de atendimento presencial seja atendida com qualidade e segurança”, informou Sandra Mara Pereira, diretora do Detran de Santa Catarina.
@@ -50,7 +49,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

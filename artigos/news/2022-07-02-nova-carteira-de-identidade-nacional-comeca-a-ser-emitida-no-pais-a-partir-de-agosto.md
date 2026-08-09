@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Modelo digital estará disponível para os cidadãos a partir de agosto de 2022 pelo GOV.BR
 
 A partir do mês de agosto, a nova Carteira de Identidade Nacional (CIN) será emitida pelos estados em um modelo único, reconhecido em todo o território nacional, o que vai impedir que um mesmo cidadão possa ter 27 identidades com numerações diferentes, uma em cada unidade da Federação. A versão digital do documento e a validação dos dados do cidadão para a emissão do documento será feita pelo GOV.BR.A nova CIN também permitirá a inclusão da carteira de estudante, pela leitura do *QR Code* presente no novo modelo do documento.
@@ -29,8 +28,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

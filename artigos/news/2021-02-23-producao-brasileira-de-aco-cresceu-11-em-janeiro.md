@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para este ano, a projeção é aumento da produção de 6,7%.
 
 A produção brasileira de aço cresceu 11% em janeiro, em comparação a janeiro do ano passado, constituindo a maior expansão desde janeiro de 2019. Na mesma relação, as vendas internas evoluíram 26% e o consumo aparente teve alta de 25%, maior percentual desde março de 2015. Os números foram apresentados nesta segunda-feira (22) pelo presidente executivo do Instituto Aço Brasil, Marco Polo de Mello Lopes.
@@ -22,7 +21,7 @@ Para que essas previsões positivas sejam alcançadas, Marco Polo de Mello Lopes
 
 Na avaliação do executivo, o ano de 2020 foi um verdadeiro “tsunami”, que impactou toda a economia global com a pandemia do novo coronavírus (covid-19). No início de 2020, segundo disse, o otimismo imperava, com projeção de aumento do Produto Interno Bruto (PIB, soma de todos os bens e serviços produzidos no país) de 2,2%; a expectativa de avanço da reforma tributária; a taxa de juro básica Selic em queda; e o Índice de Confiança da Indústria do Aço (Icia) marcando 73,4 pontos, o maior da série.
 
-Com a covid-19 surgindo na segunda quinzena de fevereiro, os efeitos negativos não demoraram a aparecer impactando os maiores clientes da indústria siderúrgica brasileira, avaliou o executivo. 
+Com a covid-19 surgindo na segunda quinzena de fevereiro, os efeitos negativos não demoraram a aparecer impactando os maiores clientes da indústria siderúrgica brasileira, avaliou o executivo.
 
 No setor automotivo, a queda de produção atingiu 92%, com interrupção de atividades de 5,2 mil concessionárias. A produção de máquinas e equipamentos caiu 38% e 47% das empresas paralisaram suas atividades. Em consequência, a produção de aço até abril de 2020 diminuiu 29%, as vendas internas caíram 36%, o consumo aparente ficou negativo em 33%, o índice de confiança foi reduzido para 16,3 pontos, o menor da série, e a utilização da capacidade instalada chegou a 45,4%, o menor nível da série histórica.
 
@@ -34,7 +33,7 @@ Em termos de consumo per capita, isto é, por habitante, o Brasil ainda se encon
 
 ## Commodities
 
-Marco Polo de Mello Lopes explicou que o boom (explosão) de commodities (produtos minerais e agrícolas comercializados no mercado internacional) que se percebe no mundo tende a continuar rumando para um maior equilíbrio natural. Ele disse que diversas matérias primas permaneceram com preços baixos durante muito tempo, o que desestimulou investimentos em novos projetos. 
+Marco Polo de Mello Lopes explicou que o boom (explosão) de commodities (produtos minerais e agrícolas comercializados no mercado internacional) que se percebe no mundo tende a continuar rumando para um maior equilíbrio natural. Ele disse que diversas matérias primas permaneceram com preços baixos durante muito tempo, o que desestimulou investimentos em novos projetos.
 
 Agora, com a vacinação em massa contra a covid-19, principalmente nos países que iniciaram mais cedo esse processo, há uma perspectiva de crescimento, acredita o executivo.
 
@@ -48,8 +47,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

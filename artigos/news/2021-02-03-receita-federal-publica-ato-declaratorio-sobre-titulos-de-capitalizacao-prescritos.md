@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Sociedades de capitalização devem pagar tributo sobre título de capitalização prescrito sem resgate pelo cliente.
 
 A Receita Federal publicou no dia 25 de janeiro o Ato Declaratório Interpretativo nº 1 de 2021, uniformizando o entendimento quanto à obrigatoriedade da inclusão, na base de cálculo da Contribuição para o PIS/Pasep e da Cofins apuradas pelas sociedades de capitalização, das receitas oriundas de título de capitalização prescrito e não resgatado.
@@ -22,8 +21,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

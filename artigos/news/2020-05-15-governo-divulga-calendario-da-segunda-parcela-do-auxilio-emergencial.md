@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Portaria foi publicada no Diário Oficial da União
 
 O Ministério da Cidadania divulgou, hoje (15), o calendário de pagamento e saques da segunda parcela de R$ 600 do auxílio emergencial, pago em três parcelas, destinado aos trabalhadores informais, microempreendedores individuais (MEI), autônomos e desempregados que perderam renda por causa da pandemia do novo coronavírus (covid-19). A portaria com as datas foi [publicada no Diário Oficial da União](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=15/05/2020&jornal=515&pagina=6).
@@ -39,5 +38,3 @@ Ajude-nos a levar o jornalismo independente a todas as partes!
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

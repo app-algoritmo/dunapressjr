@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Com isso, as contas de FGTS contempladas renderam 5,83% ao ano.
 
 A Caixa anunciou nesta terça-feira (26) a conclusão do processamento da distribuição de R$ 13,2 bilhões do resultado de 2021 do Fundo de Garantia do Tempo de Serviço (FGTS). Com o crédito dos valores, as contas de FGTS contempladas alcançaram rentabilidade de 5,83% ao ano, índice que corresponde a quase o dobro da correção da poupança em 2021, que foi de 2,99%.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

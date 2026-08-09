@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ### Texto também ampliou quantidade de beneficiários.
 
 A Câmara aprovou nesta quarta-feira (29) a medida provisória que aumenta o limite de crédito consignado para os assalariados e autoriza esse tipo de empréstimo também para quem recebe o Benefício de Prestação Continuada (BPC), a Renda Mensal Vitalícia (RMC) e o Auxílio Brasil. A MP segue para o Senado.
 
-O parecer do relator, deputado Bilac Pinto (União-MG), ampliou de 35% para 40% a margem consignável dos empregados celetistas, servidores públicos ativos e inativos, pensionistas, militares e empregados públicos. Os aposentados do Regime Geral de Previdência terão a margem ampliada de 40% para 45%, mesmo valor aplicado a quem recebe BPC ou Renda Mensal Vitalícia. 
+O parecer do relator, deputado Bilac Pinto (União-MG), ampliou de 35% para 40% a margem consignável dos empregados celetistas, servidores públicos ativos e inativos, pensionistas, militares e empregados públicos. Os aposentados do Regime Geral de Previdência terão a margem ampliada de 40% para 45%, mesmo valor aplicado a quem recebe BPC ou Renda Mensal Vitalícia.
 
 Em todos esses casos, 5% é reservado para operações com cartões de crédito consignado.
 
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

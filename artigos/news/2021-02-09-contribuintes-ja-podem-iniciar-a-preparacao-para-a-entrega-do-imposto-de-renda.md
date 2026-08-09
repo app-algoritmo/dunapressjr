@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Declaração do Imposto sobre a Renda da Pessoa Física (DIRPF) começa no próximo mês. Contudo, o contribuinte já pode iniciar a preparação para o cumprimento dessa obrigação para evitar a correria e a falta de algum documento ou informação no momento do envio da declaração.
 
 O conselheiro do Conselho Federal de Contabilidade (CFC), contador Adriano Marrocos, esclarece como o cidadão pode iniciar a preparação para a entrega da DIRPF. “Neste momento, o ideal é revisar os documentos que o contribuinte deve ter guardado ao longo do ano. Recibos de pagamentos feitos a médicos, a dentistas e a outros profissionais da saúde; notas fiscais de hospitais, clínicas e consultórios; documentos de compra e venda de bens, como veículos e imóveis; e os comprovantes de pagamento das escolas, da creche à pós-graduação”, explica.
@@ -42,8 +41,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

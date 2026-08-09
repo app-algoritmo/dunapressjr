@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Palestras e oficinas de saúde integram a Semana da Consciência Negra; sem a presença de público, eventos terão transmissão ao vivo pela internet.
 
 O Município de Itajaí inicia nesta segunda-feira (16) a terceira edição da Campanha *Itajaí Sem Racismo*, ação que tem por objetivo promover o debate sobre o combate e a superação ao racismo. As atividades, coordenadas pela Secretaria Municipal de Promoção da Cidadania, integram a Semana da Consciência Negra, que neste ano traz como destaque o concurso Beleza Negra Itajaí 2020 e o Prêmio Simeão – eventos estes que serão transmitidos ao vivo pela internet, em virtude das restrições de saúde.
@@ -75,5 +74,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

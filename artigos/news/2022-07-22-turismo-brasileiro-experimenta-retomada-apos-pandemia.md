@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### De maio para junho, conectividade aumentou 7,29% no país.
 
 Após dois anos de pandemia de covid-19, quando foram impostas restrições a viagens internacionais em várias partes do mundo, além do fechamento provisório de vários setores do comércio, o Brasil voltou a receber voos de outros países em grande escala. Segundo a Agência Brasileira de Promoção Internacional do Turismo (Embratur), o mês passado registrou 3.806 chegadas de voos internacionais ao país.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

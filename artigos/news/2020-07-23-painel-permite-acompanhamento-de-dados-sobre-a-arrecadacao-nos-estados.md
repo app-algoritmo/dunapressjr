@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Objetivo da iniciativa lançada nesta quarta-feira (22/7) pelo Ministério da Economia é dar transparência e assegurar precisão à alocação de recursos.
 
 A Secretaria Especial de Fazenda do Ministério da Economia lançou nesta quarta-feira (22/7) o [Painel das Medidas de Suporte aos Entres Federais](https://monitora-suporte-federativo.herokuapp.com/), que cruza dados de transferência de recursos e suspensão de dívida com informações do comportamento da arrecadação nos estados. A ferramenta de informação se originou de um estudo produzido pela Secretaria para acompanhamento dos programas de auxílio - em decorrência da pandemia da Covid-19 - efetuados pelo governo federal com base na [Lei Complementar nº 173, de 2020](http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp173.htm), que permitiu a transferência direta de recursos e a suspensão de dívidas com a União.
@@ -36,4 +35,4 @@ https://youtu.be/HzqNfgNOFio
 
 Fonte: gov.br - Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

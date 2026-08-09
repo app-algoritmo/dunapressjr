@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Retomada do setor de serviços estimulará contratações, afirma Sachsida.
 
 O secretário de Política Econômica do Ministério da Economia, Adolfo Sachsida, afirmou nesta terça-feira (17) que o emprego vai crescer em 2021, puxado pelo setor de serviços. Sachsida destacou que ainda existem  R$ 110 bilhões de recursos a serem injetados na economia por meio do restante de pagamentos do auxílio emergencial e do Fundo de Garantia do Tempo de Serviço (FGTS).
@@ -35,5 +34,3 @@ Questionado se o governo tem um plano para o caso de novas medidas de isolamento
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

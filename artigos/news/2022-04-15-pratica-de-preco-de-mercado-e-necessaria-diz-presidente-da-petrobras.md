@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### José Mauro Ferreira Coelho tomou posse na tarde desta quinta-feira (14).
 
 O presidente eleito da Petrobras, José Mauro Ferreira Coelho, tomou posse na tarde desta quinta-feira (14), em cerimônia fechada à imprensa, na sede da empresa, no Rio de Janeiro. Durante o evento, transmitido online, ele falou sobre a importância da prática de preços de mercado de combustíveis.
@@ -52,8 +51,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

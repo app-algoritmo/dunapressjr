@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Por: *Matthias Schupp*.
 
 Sempre que alguém cita a palavra crise, lanço o desafio: tire o S da palavra e transforme crise em crie - temos o futuro em nossas mãos. É uma proposta para encarar momentos críticos como oportunidades. O mundo passa por um período de muitas mudanças e incertezas a respeito do cenário econômico. Mas, mesmo assim, é possível fazer uma aposta para o setor industrial brasileiro: será o ano da inovação aliada com a sustentabilidade. Ou seja, o ano de criar pensando nas consequências futuras.
@@ -38,7 +37,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

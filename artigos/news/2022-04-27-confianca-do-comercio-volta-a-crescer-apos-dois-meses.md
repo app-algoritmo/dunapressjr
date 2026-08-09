@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice subiu 2% em abril acumulando alta de 0,86%.
 
 Após cair em fevereiro e março, o Índice de Confiança do Empresário do Comércio (Icec) subiu 2% em abril, alcançando 118 pontos e acumulando, no quadrimestre, alta de 0,86%. Apesar do crescimento modesto, o indicador, medido pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), apresentou melhor resultado do que o apurado nos quatro primeiros meses de 2021, quando registrou queda de 9,24%.
@@ -20,7 +19,7 @@ O presidente da CNC, José Roberto Tadros, avalia que a percepção mais positiv
 
 ### Expectativas positivas
 
-Segundo a CNC, a única queda registrada na composição do Icec foi no subíndice relativo à contratação de funcionários, em Intenções de Investimento, que apresentou retração de 0,1%.  Já o subíndice referente à empresa contou com o aumento mais significativo, de 3,9%, influenciando o crescimento geral do indicador, de 1,6%.
+Segundo a CNC, a única queda registrada na composição do Icec foi no subíndice relativo à contratação de funcionários, em Intenções de Investimento, que apresentou retração de 0,1%. Já o subíndice referente à empresa contou com o aumento mais significativo, de 3,9%, influenciando o crescimento geral do indicador, de 1,6%.
 
 Para o economista da CNC responsável pela pesquisa, Antonio Everton, os resultados mostram otimismo em relação à dinâmica de vendas do próximo mês. “A alta pode estar associada a ajustes e incrementos que os empresários podem pretender realizar nas suas organizações.”
 
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

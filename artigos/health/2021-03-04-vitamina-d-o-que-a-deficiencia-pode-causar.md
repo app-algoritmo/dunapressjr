@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Responsável por metabolizar o cálcio e o fósforo no nosso organismo, a vitamina D é essencial para a saúde dos ossos. Aproximadamente 80% da necessidade diária pode ser adquirida pela exposição diária ao sol, e 20% pela ingestão alimentar. São fonte de vitamina D alimentos de origem animal, como leite e seus derivados (queijo, iogurte), além de fígado e peixes de águas profundas como salmão e atum.
 
 A vitamina D, é importante para o bom funcionamento do nosso organismo, para a regulação do sistema imunológico, que é nosso sistema de defesa, e faz parte do processo de tratamento e prevenção, inclusive, de doenças autoimunes, como artrite reumatoide e a esclerose múltipla.
@@ -34,7 +33,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

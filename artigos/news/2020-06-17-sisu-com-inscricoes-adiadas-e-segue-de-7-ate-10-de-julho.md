@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estão disponíveis 51 mil vagas em instituições públicas.
 
 As inscrições para o Sistema de Seleção Unificada (Sisu) do segundo semestre de 2020, previstas para 16 a 19 de junho, foram prorrogadas para 7 a 10 de julho. O anúncio foi feito pelo ministro da Educação, Abraham Weintraub, no Twitter. O edital será publicado nos próximos dias no Diário Oficial da União .
@@ -21,5 +20,3 @@ Os estudantes interessados em concorrer a uma vaga em uma universidade ou instit
 Fonte: gov.br/mec / Imagem em destaque: diarioonline
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

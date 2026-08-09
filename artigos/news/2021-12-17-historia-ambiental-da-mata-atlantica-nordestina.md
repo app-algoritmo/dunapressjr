@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Mata Atlântica é o lar de um conjunto único de espécies raras, [endêmicas](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/329-historia-ambiental-da-mata-atlantica-nordestina#) e ameaçadas de extinção . Apesar de guardar rica diversidade biológica, esse [bioma](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/329-historia-ambiental-da-mata-atlantica-nordestina#) sofre com uma intensa devastação das suas florestas para acolher 60% da população brasileira e gerar 70% do produto interno bruto (PIB) brasileiro. Resgatar a história ambiental dessa região é importante para entendermos tanto a evolução das relações entre humanos e natureza, quanto as modificações da paisagem.
 
 Ao norte do Rio São Francisco, existe uma porção da Mata Atlântica cujo estado atual de conservação é preocupante. Mesmo com uma [biota](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/329-historia-ambiental-da-mata-atlantica-nordestina#) excepcionalmente única e diversa, existem cada vez menos florestas nos estados de Alagoas, Pernambuco, Paraíba e Rio Grande do Norte do que no restante do bioma. As características ecológicas dessas florestas as tornam as mais ameaçadas e desmatadas da [Mata Atlântica](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-biologicas/329-historia-ambiental-da-mata-atlantica-nordestina#). Além disso, mais da metade delas está no estágio inicial de regeneração. Para piorar, as matas vêm perdendo a sua diversidade nativa para espécies que têm facilidade em ocupar o ambiente, chamadas de generalistas, pioneiras e oportunistas, que não pertencem naturalmente ao bioma. Outro motivo que dificulta a conservação dessas florestas é o fato de o interesse científico nessa região ser muito inferior ao que é dedicado a outras regiões da Mata Atlântica, sobretudo à região sudeste. A falta de conhecimento e de investigações históricas dificulta saber exatamente quais espécies foram extintas e quanto da floresta se perdeu.
@@ -47,7 +46,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

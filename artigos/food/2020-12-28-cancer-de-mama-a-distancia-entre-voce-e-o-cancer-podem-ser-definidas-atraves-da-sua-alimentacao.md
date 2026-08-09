@@ -8,7 +8,6 @@ categories:
 - Food
 ---
 
-
 Você já ouviu falar muitas vezes da importância da alimentação adequada e saudável para a manutenção da saúde e até mesmo para a prevenção de doenças como obesidade, hipertensão e diabetes. Mas talvez ainda não tenha ouvido falar da relação que a sua comida tem com o surgimento do câncer de mama.
 
 Muita gente se preocupa com o histórico familiar quando se fala dessa doença, e não está errado pensar assim. Afinal, o fator genético exerce um importante papel na formação de tumores. Acontece que, apesar disso, os fatores hereditários, familiares e étnicos estão relacionados a casos raros de câncer.
@@ -19,7 +18,7 @@ Para entender melhor a origem, é preciso deixar claro que a doença em si não 
 
 Segundo o Instituto Nacional do Câncer (INCA), entre 80% e 90% dos casos de câncer estão associados a causas externas. O que significa dizer que as mudanças provocadas no meio ambiente pelo ser humano, os hábitos e os estilos de vida podem aumentar o risco de diferentes tipos da doença. E o câncer de mama também entra nessa conta!
 
-O surgimento de tumores nos seios é algo que assombra e muito as mulheres em qualquer parte do mundo, afinal é o tipo mais incidente no gênero. Dados de 2018 mostram que ocorreram 18 milhões de novos casos de câncer no mundo todo, sendo o de mama o segundo mais recorrente, emplacando o expressivo número de 2.1 milhões. Para o Brasil, a estimativa é que para cada ano do triênio 2020-2022 ocorram 66.280 novos casos da doença. Isso representa um risco estimado de 61 casos a cada 100 mil mulheres.  
+O surgimento de tumores nos seios é algo que assombra e muito as mulheres em qualquer parte do mundo, afinal é o tipo mais incidente no gênero. Dados de 2018 mostram que ocorreram 18 milhões de novos casos de câncer no mundo todo, sendo o de mama o segundo mais recorrente, emplacando o expressivo número de 2.1 milhões. Para o Brasil, a estimativa é que para cada ano do triênio 2020-2022 ocorram 66.280 novos casos da doença. Isso representa um risco estimado de 61 casos a cada 100 mil mulheres.
 
 E diante de dados tão alarmantes, precisamos retomar o assunto lá do início sobre como os fatores externos impactam no surgimento dos tumores. No caso do câncer de mama, por exemplo, a influência genética corresponde a apenas 5 a 10%. Assim como o próprio INCA já sinalizou, os hábitos e estilo de vida são bem mais relevantes, sendo fatores que incluem a alimentação, peso corporal, atividade física, tabagismo, consumo de bebidas alcoólicas e a amamentação.
 
@@ -57,7 +56,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

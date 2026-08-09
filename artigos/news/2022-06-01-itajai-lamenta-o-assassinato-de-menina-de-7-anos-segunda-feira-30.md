@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí lamenta profundamente o falecimento da aluna da Rede Municipal de Ensino, A. X. C., de 07 anos, assassinada nesta segunda-feira (30). A estudante estava no 2° ano da Escola Básica José Potter, do bairro Espinheiros, e será lembrada por todos, colegas, professores e demais funcionários da unidade, como uma menina meiga, carinhosa, inteligente e muito simpática.
 
 A criança faleceu após dar entrada na Unidade de Pronto Atendimento (UPA) do bairro Cordeiros com possíveis ferimentos de arma branca. A equipe de plantão prestou atendimento imediato, no entanto a menina não resistiu e faleceu. O corpo foi encaminhado ao Instituto Médico Legal (IML) para demais investigações. Os familiares que estiveram na UPA com a criança também receberam todo suporte necessário dos profissionais de saúde.
@@ -37,7 +36,3 @@ Fonte: https://itajai.sc.gov.br/noticias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

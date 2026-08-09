@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa subiu 0,44% e fechou em alta pelo segundo dia seguido.
 
 A apresentação do [**parecer da reforma tributária**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-07/relator-da-reforma-tributaria-propoe-corte-de-125-pontos-no-irpj) compensou o mau humor no exterior e fez o dólar desacelerar durante a tarde, permanecendo abaixo de R$ 5,20. A bolsa de valores, que vinha operando em baixa, subiu e terminou em alta pelo segundo dia consecutivo.
@@ -24,10 +23,6 @@ O cenário internacional, no entanto, foi compensado por fatores internos. O rel
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

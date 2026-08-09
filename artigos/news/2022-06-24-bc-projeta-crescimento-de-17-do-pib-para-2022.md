@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Previsão anterior, divulgada em março, era de 1%.
 
 O Banco Central (BC) projetou, para 2022, alta de 1,7% do Produto Interno bruto (PIB), soma de todos os bens e serviços produzidos no país. A previsão anterior, divulgada em março, era de um crescimento de 1%. A revisão foi apresentada nesta quinta-feira (23) pelo diretor de Política Econômica do BC, Diogo Abry Guillen, em coletiva de imprensa que contou com a participação do presidente do BC, Roberto Campos Neto.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O valor médio por operação ficou em R$ 5.056,28.
 
 Foram realizadas 405.828 operações de investimento em títulos do Tesouro Direto em junho, no valor total de R$ 2,05 bilhões. Durante o mês, os resgates foram de R$ 1,72 bilhão. Dessa forma, houve emissão líquida de R$ 330,14 milhões, informou hoje (27) o Tesouro Nacional.
@@ -32,4 +31,4 @@ Os títulos remunerados por índices de preços se mantêm como os mais represen
 
  Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

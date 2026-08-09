@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí atingiu a maior marca histórica da geração de empregos no mês outubro. São 1.652 novas carteiras assinadas no período. O resultado é o melhor mês de outubro desde a criação do Cadastro Geral de Empregados e Desempregados (Caged) e divulgação dos dados pelo extinto Ministério do Trabalho. Itajaí consolida sua recuperação econômica após o auge da pandemia de coronavírus no primeiro semestre com o quinto mês consecutivo de geração positiva de empregos.
 
 Em 2020, outubro também é o melhor mês na geração de empregos formais. Superou em 374 novas vagas o mês de fevereiro, até então melhor marca no ano. O saldo geral de 2020 é positivo: 2.281 novos empregos com carteira assinada na cidade. Segundo o Ministério da Economia, foram mais de 38 mil admissões nos primeiros 10 meses do ano.
@@ -30,7 +29,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

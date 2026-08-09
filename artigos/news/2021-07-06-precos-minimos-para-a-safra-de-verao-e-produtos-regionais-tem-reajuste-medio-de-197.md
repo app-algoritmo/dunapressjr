@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Os valores têm o papel de ser um dos balizadores do volume de recursos concedidos pelos agentes financeiros aos mutuários.
 
 Os preços mínimos para a safra de verão foram publicados no Diário Oficial da União, na [Portaria nº 201](https://in.gov.br/en/web/dou/-/portaria-n-201-de-1-de-julho-de-2021-329486623) do Ministério da Agricultura, Pecuária e Abastecimento. O reajuste médio aplicado, considerando as 12 culturas beneficiadas, foi de 19,76%, sendo o maior aumento para a borracha, com 42,08%; seguido pelo leite nas regiões Sudeste e Sul, com 37,04%.
@@ -25,10 +24,6 @@ Os preços mínimos para borracha, cacau e leite começaram a vigorar a partir d
 
 Fonte: gov.br
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Presidente do BC comparou essa taxa com a do DOC que é de 5%.
 
 A taxa de rejeição de transferências e pagamentos por meio do Pix ficou entre 6,5% e 6,7% ontem (17), depois de atingir 9% no primeiro dia de funcionamento pleno do novo sistema, na última segunda-feira (16). A informação é do presidente do Banco Central (BC), Roberto Campos Neto, que participou hoje (18) de evento virtual organizado pelo Itaú BBA.
@@ -29,5 +28,3 @@ Segundo Campos Neto, a “corrida do ouro” atualmente está no processo de “
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

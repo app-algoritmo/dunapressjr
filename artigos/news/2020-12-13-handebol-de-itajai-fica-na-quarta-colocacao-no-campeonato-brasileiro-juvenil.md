@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A equipe masculina de handebol de Itajaí ADI/Aceu/Univali/Slice/FMEL encerrou a participação no Campeonato Brasileiro Juvenil na quarta colocação. A competição promovida pela Confederação Brasileira de Handebol (CBHb) foi realizada no ginásio de esportes Gabriel Colares entre os dias 30 de novembro e 5 de dezembro. A equipe itajaiense representa a Fundação Municipal de Esporte e Lazer (FMEL) em competições.
 
 Além de Itajaí, participaram da competição mais seis equipes: Pinheiros (SP), Taubaté (SP), Nacional (SC), ADHC (SC), Recriando (RJ) e Grêmio Vila (PB). A equipe itajaiense teve dois atletas destaques no campeonato. O atleta Gabriel dos Santos Rosa foi eleito o melhor armador direito da competição. Já o atleta Ruan Almeida foi eleito o melhor ponta direito do campeonato.
@@ -38,7 +37,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre a Lâmpada Incandescente Tungsram.
 
 A lâmpada incandescente foi um verdadeiro divisor de água na sociedade, pois trouxe iluminação e segurança para os lares e locais de trabalho, pois a eletricidade não era combustível como o querosene nem explosiva como o gás. A lâmpada foi comercializada com sucesso por Tomas Edison (1847-1931) em 1880, e foi aperfeiçoada pelo trabalho paralelo de cientistas húngaros e norte-americanos durante a virada para o século XX.
@@ -30,8 +29,6 @@ A Mazda de tungstênio foi produzida pela primeira vez em 1909 pela Shelby Elect
 
 **Referência Bibliográfica**
 
-CHALINA, Eric. **50 Máquinas que mudaram o Rumo da História**. Tradução de Fabiano Morais. Rio de Janeiro. Sextante. 2014.  
+CHALINA, Eric. **50 Máquinas que mudaram o Rumo da História**. Tradução de Fabiano Morais. Rio de Janeiro. Sextante. 2014.
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

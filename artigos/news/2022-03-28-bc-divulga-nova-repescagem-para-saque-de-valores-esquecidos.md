@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### De hoje a 16 de abril, quem não retirou terá novas datas.
 
 Quem não sacou recursos esquecidos em instituições financeiras na primeira rodada terá nova chance a partir de hoje (28). O Banco Central (BC) divulgou mais uma repescagem do *site* [**Valores a Receber**](http://valoresareceber.bcb.gov.br/). Até 16 de abril, haverá novo cronograma de agendamento de saques baseado no ano de nascimento ou de fundação da empresa.
@@ -70,8 +69,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

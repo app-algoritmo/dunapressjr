@@ -7,18 +7,17 @@ categories:
 - History
 ---
 
-
 Profissão: Nutricionista.
 
 Área do Conhecimento: [Ciências da Saúde](https://canalciencia.ibict.br/ciencia-brasileira-3/notaveis/navegar-por/area-do-conhecimento?value=Ci%C3%AAncias%20da%20Sa%C3%BAde).
 
-Biografia: 
+Biografia:
 
 Alberto Carvalho da Silva, nasceu em Porto-Portugal em 1906 e se notabilizou pelos estudos na área de nutrição. O ponto de partida de seus principais trabalhos foi um estágio na [Universidade de Yale](https://www.yale.edu/), quando se dedicou a realizar pesquisas de nutrição experimental utilizando o gato doméstico.
 
-A partir daí, sua trajetória científica foi dedicada à descoberta de aspectos da nutrição animal que contribuíssem para melhor conhecer as doenças e deficiências nutricionais humanas. Estudou medicina, ciências sociais e filosofia, além de ter sido aluno ouvinte de química. Uma das grandes tristezas dele já quase no final da vida, era ter ficado afastado da atuação acadêmica por onze anos devido ao [AI-5](https://www.educamaisbrasil.com.br/enem/historia/ato-institucional-n-5-ai-5?gclid=cjwkcajwpmoibhbaeiway5m6ybsakkkadm3jye6mgfekgiy3bp6sk_ulv9ynrqvgp5m8lr63e4fkyxoc4gqqavd_bwe). 
+A partir daí, sua trajetória científica foi dedicada à descoberta de aspectos da nutrição animal que contribuíssem para melhor conhecer as doenças e deficiências nutricionais humanas. Estudou medicina, ciências sociais e filosofia, além de ter sido aluno ouvinte de química. Uma das grandes tristezas dele já quase no final da vida, era ter ficado afastado da atuação acadêmica por onze anos devido ao [AI-5](https://www.educamaisbrasil.com.br/enem/historia/ato-institucional-n-5-ai-5?gclid=cjwkcajwpmoibhbaeiway5m6ybsakkkadm3jye6mgfekgiy3bp6sk_ulv9ynrqvgp5m8lr63e4fkyxoc4gqqavd_bwe).
 
-Nesse período, trabalhou na [Fundação Ford ](https://www.fordfoundation.org/our-work-around-the-world/brazil/)e preocupou-se com a aplicação prática das pesquisas científicas. Durante toda a trajetória como pesquisador e acadêmico, revelou-se também, um defensor da ciência e dos cientistas brasileiros atuando na [Fundação de Amparo à Pesquisa do Estado de São Paulo (Fapesp)](https://fapesp.br/) e participando da criação da Associação de Auxiliares de Ensino, que deu origem à[ Associação de Docentes da Universidade de São Paulo (Adusp)](https://www.adusp.org.br/). 
+Nesse período, trabalhou na [Fundação Ford ](https://www.fordfoundation.org/our-work-around-the-world/brazil/)e preocupou-se com a aplicação prática das pesquisas científicas. Durante toda a trajetória como pesquisador e acadêmico, revelou-se também, um defensor da ciência e dos cientistas brasileiros atuando na [Fundação de Amparo à Pesquisa do Estado de São Paulo (Fapesp)](https://fapesp.br/) e participando da criação da Associação de Auxiliares de Ensino, que deu origem à[ Associação de Docentes da Universidade de São Paulo (Adusp)](https://www.adusp.org.br/).
 
 Alberto Carvalho da Silva faleceu no dia 30 de junho de 2002.
 
@@ -40,7 +39,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

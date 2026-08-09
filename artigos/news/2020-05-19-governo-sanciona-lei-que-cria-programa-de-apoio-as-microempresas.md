@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Medida abre crédito especial no valor de R$ 15,9 bilhões.
 
 O presidente Jair Bolsonaro sancionou a lei que cria o Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe). A [Lei nº 13.999/2020](http://www.in.gov.br/en/web/dou/-/lei-n-13.999-de-18-de-maio-de-2020-257394467), que abre crédito especial no valor de R$ 15,9 bilhões, foi publicada no [Diário Oficial da União](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/05/2020&jornal=515&pagina=1) e entra em vigor hoje. O objetivo é garantir recursos para os pequenos negócios e manter empregos durante a pandemia do novo coronavírus no país.
@@ -44,7 +43,7 @@ Analisando a procura de crédito junto aos agentes financeiros, a 3ª Pesquisa d
 
 A pesquisa completa está disponível no [site do Sebrae](https://m.sebrae.com.br/sites/PortalSebrae/sebraeaz/leia-os-boletins-de-mercado-de-cada-setor-e-atualize-a-sua-empresa,de5f974198962510VgnVCM1000004c00210aRCRD).
 
-Imagem de destaque: Marcello Casal Jr/Agência Brasil 
+Imagem de destaque: Marcello Casal Jr/Agência Brasil
 
 Fonte: Agência Brasil
 
@@ -55,5 +54,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

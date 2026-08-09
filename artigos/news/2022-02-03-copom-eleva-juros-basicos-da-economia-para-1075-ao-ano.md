@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Juros atingem dois dígitos pela primeira vez desde 2017.
 
 Em meio ao aumento da inflação de alimentos, combustíveis e energia, o Banco Central (BC) apertou ainda mais os cintos na política monetária. Por unanimidade, o Comitê de Política Monetária (Copom) elevou a taxa Selic, juros básicos da economia, de 9,25% para 10,75% ao ano. A decisão era esperada pelos [**analistas financeiros**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-01/mercado-financeiro-eleva-projecao-de-inflacao-para-538-em-2022).
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

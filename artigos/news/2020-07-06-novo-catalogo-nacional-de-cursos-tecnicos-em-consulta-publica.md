@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Quem quiser participar tem até a próxima sexta-feira, 10 de julho, para apresentar suas contribuições.
 
 Começa nesta segunda-feira, 6 de julho, a consulta pública da versão preliminar do Catálogo Nacional de Cursos Técnicos (CNCT). [O documento pode ser acessado neste link](http://54.166.62.1/). A consulta é aberta a toda a sociedade, e quem quiser participar tem até a próxima sexta-feira, dia 10 de julho, para apresentar suas contribuições, por meio de um [formulário disponível no mesmo endereço](http://54.166.62.1/).
@@ -22,7 +21,7 @@ Fonte: gov.br / Imagem em destaque: jsn
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Para secretário, país está bem posicionado no cenário internacional.
 
 Economia de recursos para pagar os juros da dívida pública, o superávit primário poderá fechar o ano acima da previsão oficial de R$ 13,5 bilhões, disse nesta quinta-feira (29) o secretário do Tesouro Nacional, Paulo Valle. Em entrevista para explicar o [**resultado das contas públicas em agosto**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-09/governo-central-tem-deficit-primario-de-r-4997-bilhoes-em-agosto), ele disse que vários fatores ajudarão as contas públicas neste ano.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

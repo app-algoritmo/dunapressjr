@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Dados se referem à segunda quinzena de junho.
 
 A pandemia de covid-19 afetou negativamente as atividades de 62,4% das 2,8 milhões de empresas em funcionamento na segunda quinzena de junho. Para 22,5% das empresas o efeito foi pequeno ou inexistente e para 15,1% foi positivo. Os dados constam da Pesquisa Pulso Empresa: Impacto da Covid-19 nas Empresas divulgada hoje (30) e fazem parte das Estatísticas Experimentais do Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -20,7 +19,7 @@ Por grandes regiões, os efeitos continuaram negativos para 72% das empresas no 
 
 De acordo com o coordenador de Pesquisas Conjunturais em Empresas do IBGE, Flávio Magheli, de maneira geral, permanece a percepção de dificuldade do impacto geral da pandemia sobre as empresas. “Essa percepção está concentrada nas empresas de menor porte, mas também aparece disseminada seja por atividade econômica seja pela localização no território”.
 
-Segundo o IBGE, os resultados da segunda rodada da pesquisa refletem as percepções das empresas em funcionamento ao final da segunda quinzena de junho em comparação à [**primeira quinzena, cujos resultados foram divulgados no último dia 16**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-07/pandemia-fecha-394-das-empresas-paralisadas-diz-ibge). 
+Segundo o IBGE, os resultados da segunda rodada da pesquisa refletem as percepções das empresas em funcionamento ao final da segunda quinzena de junho em comparação à [**primeira quinzena, cujos resultados foram divulgados no último dia 16**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-07/pandemia-fecha-394-das-empresas-paralisadas-diz-ibge).
 
 Vendas ou serviços
 
@@ -48,4 +47,4 @@ Na adoção dessas medidas, cerca de 39,2% das empresas relataram sentir-se apoi
 
 Fonte: Agência Brasil – Imagem de destaque: Fernando Frazão/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

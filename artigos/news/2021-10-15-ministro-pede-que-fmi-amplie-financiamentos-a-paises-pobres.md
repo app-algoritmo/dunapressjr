@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Paulo Guedes disse que Brasil cumpre requisitos para entrar na OCDE.
 
 O Fundo Monetário Internacional (FMI) precisa ampliar os financiamentos a países pobres e vulneráveis, disse nesta quinta-feira (14) o ministro da Economia, Paulo Guedes. Em reunião plenária do Comitê Monetário e Financeiro Internacional (IMFC), em Washington, ele ressaltou a necessidade de novas linhas de financiamentos, com condições acessíveis, a países mais frágeis e ainda não elegíveis aos programas do FMI.
@@ -28,10 +27,6 @@ Para Guedes, a aceitação do Brasil como membro pleno traz investimentos ao pa�
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

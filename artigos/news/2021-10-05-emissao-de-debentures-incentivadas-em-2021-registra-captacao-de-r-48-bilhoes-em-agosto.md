@@ -8,12 +8,11 @@ categories:
 - News
 ---
 
-
 ## Valor é resultado de investimentos em empreendimentos nos setores de Energia, Transportes e Telecomunicações.
 
-As emissões de debêntures incentivadas de infraestrutura e investimento alcançaram R$ 4,8 bilhões em agosto. No total, 14 debêntures foram distribuídas nos setores de Energia, Transportes e Telecomunicações. Entre 2012 – primeiro ano das debêntures incentivadas, criadas pela Lei 12.431/2011 – até agosto de 2021, o volume total, com esforços amplos e restritos, atingiu R$ 149 bilhões. As informações constam da [93ª edição do Boletim de Debêntures Incentivadas da Secretaria de Política Econômica (SPE) ](https://www.gov.br/economia/pt-br/centrais-de-conteudo/publicacoes/boletins/boletim-de-debentures-incentivadas/2021/spe-me-boletim-debentures-lei-12-431-ago-2021.pdf)do Ministério da Economia divulgada nesta segunda-feira (4).  
+As emissões de debêntures incentivadas de infraestrutura e investimento alcançaram R$ 4,8 bilhões em agosto. No total, 14 debêntures foram distribuídas nos setores de Energia, Transportes e Telecomunicações. Entre 2012 – primeiro ano das debêntures incentivadas, criadas pela Lei 12.431/2011 – até agosto de 2021, o volume total, com esforços amplos e restritos, atingiu R$ 149 bilhões. As informações constam da [93ª edição do Boletim de Debêntures Incentivadas da Secretaria de Política Econômica (SPE) ](https://www.gov.br/economia/pt-br/centrais-de-conteudo/publicacoes/boletins/boletim-de-debentures-incentivadas/2021/spe-me-boletim-debentures-lei-12-431-ago-2021.pdf)do Ministério da Economia divulgada nesta segunda-feira (4).
 
-Entre as distribuições realizadas por meio de Oferta Pública (Instrução CVM nº 400/2003) e Oferta Restrita (Instrução CVM nº 476/2009), a participação dos investidores pessoa física alcançou o montante de R$ 34,7 bilhões até agosto de 2021, correspondendo a 27% das debêntures incentivadas de infraestrutura distribuídas desde 2012.  No ano, a participação dos investidores pessoa física alcançou o total de R$ 6,1 bilhões (22% do total distribuído).
+Entre as distribuições realizadas por meio de Oferta Pública (Instrução CVM nº 400/2003) e Oferta Restrita (Instrução CVM nº 476/2009), a participação dos investidores pessoa física alcançou o montante de R$ 34,7 bilhões até agosto de 2021, correspondendo a 27% das debêntures incentivadas de infraestrutura distribuídas desde 2012. No ano, a participação dos investidores pessoa física alcançou o total de R$ 6,1 bilhões (22% do total distribuído).
 
 ## **Prazo médio e distribuição setorial**
 
@@ -31,10 +30,6 @@ As debêntures incentivadas se relacionam a projetos de investimento em geral e,
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

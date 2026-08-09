@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 PM jura retaliação após dezenas de foguetes disparados contra Jerusalém e no sul, diz que o conflito pode durar muito tempo.
 
 O primeiro-ministro Benjamin Netanyahu falou na cerimônia principal para marcar o Dia de Jerusalém no Monte das Munições na noite de segunda-feira e prometeu uma resposta poderosa ao lançamento de dezenas de foguetes contra Jerusalém e o sul de Israel.
@@ -30,8 +29,6 @@ Fonte: https://www.israelnationalnews.com
 
 - [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
--  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
+- [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio! Gratuitamente, clique e comece já
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A expectativa é ampliar o atendimento educacional especializado a mais de 1,3 milhão de estudantes com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação. Nova PNEE foi ampliada trazendo uma perspectiva equitativa ao longo da vida.
 
 A nova Política Nacional de Educação Especial (PNEE) foi lançada nesta quarta-feira (30), em cerimônia no Palácio do Planalto, para reforçar os sistemas de ensino e garantir o atendimento aos estudantes com deficiência, transtorno do espectro autista e aqueles com altas habilidades ou superdotação.
@@ -43,5 +42,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

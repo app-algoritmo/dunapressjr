@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 A desigualdade econômica e social é um problema crônico no país e manifesta-se diretamente em direitos básicos de cidadania, como acesso aos livros literários e pedagógicos. Esse histórico negativo reflete em diversos problemas, tais como analfabetismo funcional e baixo índice de leitura. Tanto é que a 5.ª edição da pesquisa "Retratos da Leitura no Brasil", realizada pelo Instituto Pró-Livro (IPL), já indicava que a quantidade de leitores no país caiu de 56% em 2015 para 52% em 2019. "Leitor", de acordo com a definição da pesquisa, é quem leu pelo menos um livro, inteiro ou em partes, nos últimos três meses. Já "não leitor" é quem declarou não ter lido nenhum livro nos últimos três meses. O estudo é feito a cada quatro anos, desde 2007.
 
 Para minimizar as mazelas histórico-sociais do país, existem iniciativas como o "Canteiro da Leitura", projeto do Instituto A.Yoshii, braço social do Grupo A.Yoshii, que leva kits de livros, revistas e gibis aos canteiros das construtoras A.Yoshii e Yticon, como forma de incentivar o hábito da leitura entre os colaboradores e seus familiares, já que as publicações podem ser levadas para casa. O projeto, lançado em julho deste ano, marca os 15 anos da entidade que, ao longo da sua trajetória, vem desenvolvendo ações em prol da educação, cultura e meio ambiente, e já beneficiou mais de 20 mil pessoas, entre crianças e adultos.
@@ -29,7 +28,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

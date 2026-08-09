@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Este recuo é o primeiro desde início da série histórica em 2012
 
 A produção industrial recuou nos 15 locais pesquisados pelo Instituto Brasileiro de Geografia e Estatística (IBGE), na passagem de fevereiro para março deste ano. É a primeira vez que isso ocorre desde o início da série histórica, em 2012. As maiores quedas foram observadas no Ceará (-21,8%), no Rio Grande do Sul (-20,1%) e em Santa Catarina (-17,9%).
@@ -20,15 +19,13 @@ No acumulado no ano, houve queda em dez dos 15 locais pesquisados, com destaque 
 
 No acumulado de 12 meses, sete locais tiveram queda, sendo a maior delas no Espírito Santo (-17,2%). O Rio Grande do Sul manteve estabilidade na produção e sete locais tiveram alta, com destaque para o Amazonas (5,2%).
 
-Imagem de destaque: José Paulo Lacerda/CNI/Direitos Reservados 
+Imagem de destaque: José Paulo Lacerda/CNI/Direitos Reservados
 
 Fonte: Agência Brasil
 
 Ajude-nos a levar o jornalismo independente a todas as partes!
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
-Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor. 
+Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
 Assine o Press Periódico
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

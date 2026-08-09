@@ -25,27 +25,27 @@ Outras atrações são as presenças de Beto Pandiani e Sylvio Rocha, que també
 **Confira os 11 filmes da programação de sábado na praia de Ipanema:****
 
 - Gold Standard (mountain bike) – EUA – **A produção traz Bryn Atkinson detonando com sua bike. A escolha da trilha. A equipe. As filmagens. O ajuste perfeito da bicicleta. A pilotagem, o estilo e a velocidade que deixam você de queixo caído. Contemple o novo Padrão Ouro, forjado pela imaginação do atleta.
-**
+
 - A Baffin Vacation (multiesporte) – EUA - **Erik Boomer e Sarah McNair-Landry embarcam em uma audaciosa expedição multiesportiva de 45 dias, viajando pelo remoto cenário da Ilha de Baffin em busca de penhascos para escalar e rios inexplorados para fazer caiaque em águas brancas.
-**
+
 - To Be Frank (surf) – EUA - **filme explora a autenticidade e a comunidade no surfe através de Frank Paine, um ícone de South Bay, de 73 anos, cuja vida gira em torno de um pedaço de praia de dois quarteirões.
-**
+
 - 10/03 A história de David Santos (ciclismo, PNE) – Brasil -** documentário sobre o ciclista David Santos, que perdeu o braço após ser atropelado na Av. Paulista em 2013, evento que se tornou uma das principais razões para a abertura de ciclovias na cidade de São Paulo. Um detalhe da história: seu braço foi jogado em um rio pelo motorista e nunca foi encontrado.**
 
 - Advennture (esqui) – Suíça/Canadá - e**mbora separados pelo oceano Atlântico, os amigos de longa data Sämi Ortlieb e Rob Heule encontram um território único compartilhando experiências de esqui em seus respectivas lares, em Glarus, Suíça, e Alberta, Canadá.**
 
 ****- This is My Climb: Dedicação (escalada) – Brasil - **um retrato sobre a história de Aretha Duarte, montanhista que fez da coleta de material reciclável uma das fontes de renda para financiar a expedição que a transformou na primeira mulher preta latino-americana a chegar ao topo do Everest.
-**
+
 - Soundscape (escalada, PNE) – EUA - **Erik Weihenmayer, cego e atleta de aventura sobe por uma rocha alpina massiva nas profundezas da Serra Nevada, nos Estados Unidos.**
 
 - A Rota Polar (vela) – Brasil - **documentário acompanha o dia a dia do velejador Beto Pandiani e de Igor Bely, seu companheiro de viagem em um barco sem motor, pela icônica passagem noroeste da rota polar, realizada entre junho e setembro de 2022.
-**
+
 - RAW  (surf) - The Sound of Teahupo'o – Polinésia Francesa - **filmado no coração da selva da Polinésia Francesa, e perto da onda mais bonita do mundo, o fotógrafo e cineasta Tim McKenna acompanhou os surfistas locais Gilbert Teave e Tahurai Henry durante um dia especial. Mais do que um vídeo clássico da icônica onda do Taiti, este curta é uma viagem estética e sonora.**
 
 - Earthside (alpinismo) – EUA - **em 2022, Hilaree Nelson, Emily Harrington, Christina Lustenberger e Brette Harrington embarcaram em uma expedição acima do Círculo Ártico para escalar e esquiar as primeiras descidas na Ilha de Baffin. O que encontraram foi uma celebração de onde estiveram e para onde estão indo. E o sucesso da viagem veio não pelo que esquiaram, mas pelo tempo que passaram juntas.**
 
 - Tempo II  (corrida) – EUA - **uma busca conceitual pelos sentimentos compartilhados entre a música e as montanhas, o filme se passa na maior selva urbana do mundo e explora estilos de percussão brasileira e corrida de trilha com o atleta da BD, Kyle Richardson, e o carioca Odin Aguiar.
-**
+
 Confira os 11 filmes da programação de domingo na praia de Ipanema:
 
 - Switzerland Paradise (mountain bike) – França – **acompanhe o pedal sobre geleiras, debaixo de cachoeiras, descendo inclinações íngremes e muito mais. Confira a aventura sobre uma mountain bike em um dos playgrounds de aventura mais bonitos do mundo, para capturar a beleza espetacular do país com belos picos de montanha ao longo do caminho.**
@@ -53,11 +53,11 @@ Confira os 11 filmes da programação de domingo na praia de Ipanema:
 - Queens of the Break (surf) – EUA - **filme sobre as pioneiras do surfe feminino na década de 1980, celebra uma amizade de mais de 50 anos da primeira geração de mulheres no Santa Barbara Surf Club.**
 
 - White Horizon (corrida) – França - **quando mais jovem, Fernanda Maciel disse que era seu sonho viajar pelo mundo e explorar. Nem ela poderia imaginar o que viveria no Monte Vinson, o pico mais alto da Antártida. Com 4.892 metros, a jornada até o cume dura entre quatro e seis dias, mas Fernanda quer ver o quão rápido é capaz de escalar o mais gelado e isolado dos sete cumes.
-**
+
 - Lugar de Criança (criança) - Brasil - **enquanto a criança explora praias, trilhas e montanhas, revela sua capacidade de se conectar com o ambiente, estimulando o desenvolvimento de habilidades como empatia, criatividade, resiliência e autoconfiança, e moldando um indivíduo mais consciente e conectado com o mundo ao seu redor.**
 
 - Born to Freeride (snowboard) – EUA - **quando a Black Diamond resolve criar uma coleção de roupas técnicas inspirada no atleta John Jackson, o resultado é um estilo inconfundível, que brilha muito nas montanhas e nas florestas.
-**
+
 - A Land for Everyone (skate) – Inglaterra - **a fotógrafa de skate e aventura Hannah Bailey e a skatista Lyndsay McLaren exploram as terras altas da Escócia, pelas estradas sinuosas e selvagens de Torridon. Como mulheres que cresceram naquele país, nunca imaginaram uma carreira no skate e esta aventura é um aceno para a infância delas e as jornadas que percorreram.**
 
 - Reel Rock: Resistance Climbing (escalada) – EUA - **entre os antigos terraços agrícolas e montanhas marcadas pela luta da Palestina, uma comunidade unida de escaladores se desenvolveu. O filme convida a explorar os belos penhascos de calcário da terra natal desses escaladores e entender o poder transformador da escalada em suas vidas.**
@@ -65,7 +65,7 @@ Confira os 11 filmes da programação de domingo na praia de Ipanema:
 - Deixe nossa montanha correr livre (meio ambiente, criança) – Brasil - **em um ambiente constantemente ameaçado pelo avanço da mineração, a preservação ambiental desempenha um papel fundamental para o futuro do planeta.**
 
 - Bread Bike (bike) – EUA - **Sam, Matt e Mariah são três jovens na costa central da Califórnia insatisfeitos com o que estudaram na faculdade. Apaixonados pela massa de pão e por fazer comida para outras pessoas, eles transformaram o hobby obsessivo em profissão. Agora a turma do A Bread Bike Bakery produz a sua comida deliciosa, promove produtos locais saudáveis e se diverte ao mesmo tempo.
-**
+
 - Well Worn Life (multiesporte) – EUA - **Well Worn Life é uma série de documentários sobre gente que vive intensamente a vida ao ar livre. Este episódio apresenta Dani Reyes-Acosta, atleta de montanha, cultivadora de terras e contadora de histórias, cujo caminho busca constantemente os limites das possibilidades.
 
 **- Bluetits (natação) – Inglaterra - **o filme segue a fundadora Sian Richardson e os pioneiros do adorado grupo de natação BlueTits, uma organização com 100 mil membros. Uma jornada de autodescoberta e pura alegria de viver, o curta é a celebração calorosa e sincera de mulheres mais velhas e da comunidade que as reúne.
@@ -81,12 +81,11 @@ No total, o Rocky Spirit conta com 52 filmes, um recorde para o maior festival b
 **O Rocky Spirit 2023 tem patrocínio da Prefeitura do Rio e da Bassi e apoio da Centauro e Parque Villa-Lobos. As mídias oficiais do evento são GoOutside e Hardcore. A Realização é do Rocky Mountain em parceria com a Mountainfilm.
 
 **Mais informações:****
-Site: [https://rockyspirit.com.br/](https://click.presskit.com.br/url/9730317ff0/6361388b6fc)[
-](https://click.presskit.com.br/url/973033d053/6361388b6fc)Instagram : [https://www.instagram.com/rockyspiritfest/
+Site: [https://rockyspirit.com.br/](https://click.presskit.com.br/url/9730317ff0/6361388b6fc)Instagram : [https://www.instagram.com/rockyspiritfest/
 ](https://click.presskit.com.br/url/973034ae79/6361388b6fc)Fan page - [https://www.facebook.com/](https://click.presskit.com.br/url/9730352520/6361388b6fc)[rockyspiritfest](https://click.presskit.com.br/url/973034ae79/6361388b6fc)
-*
+
 Assessoria de Imprensa:
-ZDL 
+ZDL
 Doro Jr. - MTb 13209 - ***[***dorojr@zdl.com.br***](https://click.presskit.com.br/url/973036a3de/6361388b6fc)*** - F: 11 984579723 ******
 Rafael De Marco - Mtb.: 27556 - ***[***rafael@zdl.com.br***](https://click.presskit.com.br/url/9730371831/6361388b6fc)*** - Cel: 11 976022986 / WhatsApp: 19 997912108 ******
 Site: ***[***www.zdl.com.br***](https://click.presskit.com.br/url/973038cf3f/6361388b6fc)*****

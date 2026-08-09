@@ -7,7 +7,6 @@ categories:
 - Sports
 ---
 
-
 O ano de 2022 traz uma novidade internacional para o Osasco São Cristóvão Saúde. A ponteira/oposta turca Ceren Kestirengöz Kapucu chega para compor o elenco do time que ocupa a vice-liderança da Superliga Banco do Brasil 2021/22. Ela desembarcou no Brasil nesta segunda-feira (10) e seguiu diretamente para o ginásio José Liberatti, animada com a oportunidade de vestir uma das camisas mais "pesadas" do vôlei mundial.
 
 "Estou muito feliz em fazer parte da equipe de Osasco. É um time de tradição, inclusive internacional, já que detém um título mundial de clubes e espero somar ao grupo. Vou trabalhar muito para isso", disse a atleta de 28 anos e 1,90m de altura, que defendia o Yesilyurt, da cidade turca de Istambul.
@@ -38,7 +37,3 @@ Release ***ZDL Sports *******
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

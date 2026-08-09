@@ -7,19 +7,11 @@ categories:
 - News
 ---
 
-
-“Vai ficar tudo bem e logo estaremos juntos”. “Sempre existe uma luz no fim do túnel”. “Que esse ano traga o hábito de celebrar a vida todos os dias”. Esses são alguns dos dizeres estampados nas camisetas que estão expostas nas grades do Centro de Educação Infantil (CEI) Leonidia dos Santos Vicente, no bairro São Vicente, no varal da empatia. 
+“Vai ficar tudo bem e logo estaremos juntos”. “Sempre existe uma luz no fim do túnel”. “Que esse ano traga o hábito de celebrar a vida todos os dias”. Esses são alguns dos dizeres estampados nas camisetas que estão expostas nas grades do Centro de Educação Infantil (CEI) Leonidia dos Santos Vicente, no bairro São Vicente, no varal da empatia.
 
 A ideia foi promovida pela professora de múltiplas linguagens Silvana Azevedo Cristofóli, que pensou nesta forma das famílias se solidarizarem umas com as outras e estarem próximas neste ano, que foi tão atípico.
 
 “Como neste fim de ano não poderemos fazer uma festa de encerramento, nem nos encontrarmos e nos abraçarmos, idealizamos o varal da empatia para levar mensagens de otimismo e de esperança a todos”, comenta a professora.
-
-- 
-- 
-- 
-- 
-- 
-- 
 
 A ideia logo ganhou força e 20 famílias do CEI aderiram à campanha. Hoje, quem passa pela unidade, que fica na rua São Joaquim, 226, logo se depara com as peças confeccionadas pelos próprios alunos e seus familiares.
 
@@ -37,7 +29,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

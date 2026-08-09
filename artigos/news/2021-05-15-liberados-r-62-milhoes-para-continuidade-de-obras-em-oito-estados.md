@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A Unidade Federativa com o maior volume de recursos é a Bahia, que receberá R$ 29,5 milhões.
 
 O Ministério do Desenvolvimento Regional anunciou, nesta sexta-feira (14), a autorização de pagamentos que somam R$ 62 milhões para a continuidade de 18 obras de saneamento básico em oito estados brasileiros: Bahia, Ceará, Mato Grosso do Sul, Minas Gerais, Rio Grande do Norte, Rio Grande do Sul, Rondônia e Santa Catarina.
@@ -26,8 +25,4 @@ Fonte: gov.br
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Trazer o estudante para o centro da própria vida escolar e torná-lo sujeito ativo de sua Educação. Um dos principais desafios para professores e equipes pedagógicas, essa mudança na forma de encarar o ensino tornou-se ainda mais necessária e urgente durante os últimos dois anos, quando os jovens precisaram, muitas vezes, buscar mais proximidade com os educadores para dar conta das aulas on-line e híbridas.
 
 Em tempos de pandemia, um dos principais desafios dos educadores foi incentivar estudantes de todo o Brasil a buscar uma evolução contínua no desempenho escolar. Pensando nisso, o Sistema de Ensino Aprende Brasil, que atende a rede pública municipal de mais de 210 municípios em todo o país, criou uma série de competições nacionais para reconhecer o esforço e a busca dos estudantes por uma compreensão mais profunda dos conteúdos compartilhados em sala de aula. Com aparelhos celulares como prêmio final, os concursos "Feras da Matemática", "Feras da Língua Portuguesa" e "Feras da Ciência" foram realizados ao longo de 2021 e premiaram estudantes com base nos conhecimentos demonstrados por eles na hora de resolver situações-problema.
@@ -33,7 +32,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

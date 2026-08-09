@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Receita nominal recua 0,2% na comparação com setembro.
 
 O volume de serviços no país recuou 1,2% na passagem de setembro para outubro deste ano. Essa é a segunda retração consecutiva do indicador, que acumula queda de 1,9% nos últimos dois meses. O dado, da Pesquisa Mensal de Serviços (PMS), foi divulgado nesta terça-feira (14), no Rio de Janeiro, pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -28,10 +27,6 @@ A única atividade com variação positiva em outubro foi a de serviços prestad
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa encerrou sexta-feira estável, mas sobe 1,2% na semana.
 
 Num dia de ajustes no mercado financeiro, o dólar encerrou em leve alta, mas acumulou a quarta semana consecutiva de queda. A bolsa encerrou a sexta-feira (11) estável, mas subiu pela sexta semana seguida, o que não ocorria desde o início de 2019.
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

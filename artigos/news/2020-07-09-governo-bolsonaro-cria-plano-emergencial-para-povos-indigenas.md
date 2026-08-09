@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Projeto garante medidas de proteção a indígenas, quilombolas e pescadores artesanais. Indígenas são, conforme a lei, pessoas em situação de extrema vulnerabilidade.
 
 O presidente Jair Bolsonaro sancionou a [Lei nº 1.142/20](http://www.in.gov.br/web/dou/-/lei-n-14.021-de-7-de-julho-de-2020-265632745), que trata de medidas de proteção social para prevenção do contágio e da disseminação da Covid-19 nos territórios indígenas. A proposta tem como objetivo proteger comunidades indígenas, quilombolas, pescadores artesanais e povos tradicionais durante o período da pandemia.
@@ -26,6 +25,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

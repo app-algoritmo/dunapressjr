@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 ## Fabricante de autopeças afirma ter forçado prisioneiros de campos de concentração a marchar até 2.200 quilômetros para experimentar calçados de borracha para o exército alemão durante a Segunda Guerra Mundial.
 
 A fabricante de peças automotivas alemã Continental revelou, que desempenhou um papel fundamental no esforço de guerra nazista e usou milhares de trabalhadores escravos durante a Segunda Guerra Mundial.
@@ -63,5 +62,3 @@ Fonte: https://www.timesofisrael.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

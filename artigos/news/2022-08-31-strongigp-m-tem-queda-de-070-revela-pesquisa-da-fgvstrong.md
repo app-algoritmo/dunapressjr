@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice é usado no reajuste de aluguéis.
 
 O Índice Geral de Preços – Mercado (IGP-M) registrou queda de 0,70% em agosto, após subir 0,21% em julho. A alta acumulada no ano é de 7,63% e em 12 meses está em 8,59%. Na comparação anual, em agosto de 2021, o índice havia subido 0,66% e acumulava alta de 31,12% em 12 meses. Os dados foram divulgados nesta terça-feira (30), no Rio de Janeiro, pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV Ibre).
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

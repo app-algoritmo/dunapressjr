@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Caixa oferecerá crédito com juros reduzidos a inscritos no programa.
 
 Os beneficiários do Auxílio Brasil, futuro programa social que pretende substituir o Bolsa Família, terão acesso a uma linha de crédito especial com juros reduzidos oferecido pela Caixa Econômica Federal, disse nesta quinta-feira (12) o ministro da Cidadania, João Roma. Com início previsto para novembro, o programa pretende atender 16 milhões de famílias.
@@ -24,10 +23,6 @@ Guimarães disse que a alta propensão ao consumo – tendência a consumir, em 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

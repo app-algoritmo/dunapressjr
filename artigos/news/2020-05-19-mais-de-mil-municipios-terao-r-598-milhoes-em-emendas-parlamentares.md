@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Transferências especiais já estão disponíveis nesta terça-feira.
 
 A nova modalidade de repasse de recursos de emendas parlamentares para estados e municípios, chamada de transferências especiais, está disponível a partir desta terça-feira (19). Criada no final do ano passado por emenda à Constituição, essa [modalidade](https://agenciabrasil.ebc.com.br/politica/noticia/2019-12/senado-aprova-transferencia-de-verbas-para-prefeitos-e-governadores) ocorre quando um parlamentar encaminha recursos para um governo estadual ou uma prefeitura sem uma destinação definida.
@@ -41,5 +40,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

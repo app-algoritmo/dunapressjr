@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O faturamento do setor atingiu R$ 313,4 bilhões.
 
 O setor de serviços cresceu 11,1% no primeiro semestre deste ano na cidade de São Paulo, na comparação com o mesmo período do ano passado, informou nesta terça-feira (4) a Federação do Comércio de Bens, Serviços e Turismo do estado de São Paulo (FecomercioSP).
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

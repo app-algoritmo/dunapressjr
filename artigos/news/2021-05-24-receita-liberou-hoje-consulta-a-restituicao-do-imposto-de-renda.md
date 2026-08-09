@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Lote será o maior da história em valor e em número de contribuintes.
 
 A partir das 10h de hoje (24), a Receita Federal liberou a consulta para o que entregou a Declaração do Imposto de Renda Pessoa Física no início do prazo saber se vai receber dinheiro do Fisco ainda este mês. Foi liberado a consulta ao primeiro dos cinco lotes de restituição de 2021.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

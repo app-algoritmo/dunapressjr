@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estoque de empregos formais no país passa de 40,8 milhões.
 
 O Brasil fechou o mês de janeiro de 2022 com um saldo de 155.178 empregos formais, segundo balanço do Cadastro Geral de Empregados e Desempregados (Novo Caged) apresentado nesta quinta-feira (10) pelo Ministério da Economia. O saldo de janeiro foi resultado de 1.777.646 admissões e 1.622.468 desligamentos. Com isso, o estoque de empregos formais no país chegou a 40.833.533, o que representa uma variação de 0,38% em relação ao estoque do mês anterior.
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

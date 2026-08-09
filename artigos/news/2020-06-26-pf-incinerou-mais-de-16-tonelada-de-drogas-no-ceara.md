@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Fortaleza/CE - A Polícia Federal realizou nesta sexta-feira (26/6), no Ceará, a incineração de mais de 1,6 tonelada de drogas.
 
-A ação de hoje faz parte das atividades que marcam a Semana Nacional de Políticas Sobre Drogas 2020, realizada pelo Ministério da Justiça e Segurança Pública, no período de 19 a 26 de junho, e aconteceu na data escolhida pela Organização das Nações Unidas (ONU), a partir de 1987, para o Dia Internacional de Combate às Drogas (26/06). 
+A ação de hoje faz parte das atividades que marcam a Semana Nacional de Políticas Sobre Drogas 2020, realizada pelo Ministério da Justiça e Segurança Pública, no período de 19 a 26 de junho, e aconteceu na data escolhida pela Organização das Nações Unidas (ONU), a partir de 1987, para o Dia Internacional de Combate às Drogas (26/06).
 
 O evento contou com a presença de representantes do Ministério Público e da Vigilância Sanitária do Estado do Ceará e foi realizada numa empresa de cerâmica, localizada no município de Aquiraz, Região Metropolitana de Fortaleza.
 
@@ -26,4 +25,4 @@ O evento foi acompanhado por forte esquema de segurança e seguiu as recomendaç
 
 Comunicação Social da Polícia Federal no Ceará
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

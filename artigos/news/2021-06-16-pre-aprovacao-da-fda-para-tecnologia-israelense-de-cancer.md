@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O software da startup Ibex Medical Analytics deu um passo importante para que seja oferecido no mercado americano.
 
 A Ibex Medical Analytics, fabricante do software de diagnóstico de câncer baseado em IA, disse na quarta-feira que recebeu um aviso de designação de dispositivo inovador da Food and Drug Administration (FDA) dos EUA. Isso ajudará a startup a acelerar seus testes clínicos e obter aprovação regulatória para sua tecnologia.
@@ -37,7 +36,3 @@ Fonte: The Time Of Israel
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

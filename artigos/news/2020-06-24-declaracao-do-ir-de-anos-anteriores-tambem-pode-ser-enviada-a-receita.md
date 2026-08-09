@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Contribuinte deve baixar o programa do ano que deseja declarar.
 
 O contribuinte que, por algum motivo, não entregou à Receita Federal a Declaração de Ajuste Anual (DAA) do Imposto sobre a Renda da Pessoa Física (IRPF) de exercícios anteriores a 2019, ainda pode entregar.
@@ -34,4 +33,4 @@ O último lote tem pagamento previsto para 30 de setembro. No ano passado, as re
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Um Acordo de Cooperação Técnica, entre o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) e o Ministério da Cidadania (MC) para fortalecer as ações de prevenção ao uso de drogas, tratamento e reinserção social de dependentes químicos e seus familiares.
 
 O plano de trabalho prevê o planejamento conjunto,a execução e o monitoramento das ações, com a disponibilização de recursos humanos, tecnológicos e materiais. As atividades terão custeio próprio.
@@ -32,6 +31,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

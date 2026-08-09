@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A média nacional ficou em 1,2% de crescimento.
 
 A produção industrial cresceu em dez dos 15 locais analisados pela Pesquisa Industrial Mensal (PIM-Regional), em novembro. A média nacional ficou em 1,2% de crescimento e oito dessas altas superaram esse percentual: Bahia (4,9%), Rio Grande do Sul (3,8%) Amazonas (3,4%), Região Nordeste (2,9%), Santa Catarina (2,8%), Ceará (1,7%), Rio de Janeiro (1,6%) e São Paulo (1,5%). Os outros locais com índices positivos foram o Paraná (1,2%) e Minas Gerais (0,6%). As quedas mais acentuadas foram no Pará (-5,3%) e em Mato Grosso (-4,3%), além de Pernambuco (-1,0%), Espírito Santo (-0,9%) e Goiás (-0,9%). Os dados foram divulgados hoje (14) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -46,8 +45,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

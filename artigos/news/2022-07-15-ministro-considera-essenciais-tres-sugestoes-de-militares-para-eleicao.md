@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Propostas foram discutidas durante audiência pública no Senado.
 
 O ministro da Defesa, Paulo Sergio Nogueira, afirmou que militares consideram “essenciais” três das 15 propostas que as Forças Armadas já apresentaram à Comissão de Transparência das Eleições, do Tribunal Superior Eleitoral (TSE).
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

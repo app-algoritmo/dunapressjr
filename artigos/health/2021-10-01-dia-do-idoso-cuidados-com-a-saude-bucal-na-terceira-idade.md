@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 As pessoas estão vivendo mais. Com isso, os cuidados com a saúde estão mudando, inclusive com a saúde bucal. No início do milênio, grande parte dos idosos eram desdentados. Esse cenário foi mudando como a implementação de políticas públicas de saúde e a melhora na qualidade de vida, que favoreceram a manutenção e a diminuição das perdas de dentes.
 
 Em 2.060, um quarto (25,5%) da sociedade brasileira deverá ter mais de 65 anos, estima o Instituto Brasileiro de Geografia e Estatística (IBGE). O avanço da idade pode gerar alguns problemas na saúde da boca, como: ocorrência de doença periodontal, que afeta gengiva e ossos que suportam os dentes; cárie; sensibilidade; halitose; xerostomia (boca seca); além de lesões bucais em pessoas que utilizam próteses, devido à má adaptação.
@@ -49,7 +48,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

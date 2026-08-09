@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Taxa média de desocupação em 2020 é a maior, desde 2012.
 
 O desemprego recuou para 13,9% no quarto trimestre de 2020, depois de atingir 14,6% no trimestre anterior. Mas a taxa média de desocupação para o ano passado foi de 13,5%, a maior desde 2012, o que corresponde a cerca de 13,4 milhões de pessoas buscando trabalho no país.
@@ -50,8 +49,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

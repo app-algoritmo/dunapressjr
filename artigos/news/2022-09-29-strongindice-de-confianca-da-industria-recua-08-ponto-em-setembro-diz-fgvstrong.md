@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Nível de Utilização da Capacidade Instalada da Indústria caiu.
 
 O Índice de Confiança da Indústria (ICI), calculado pelo Instituto Brasileiro de Economia, da Fundação Getulio Vargas (FGV/IBRE), recuou 0,8 ponto em setembro e alcançou 99,5 pontos, mas nas médias móveis trimestrais a queda ficou em 0,6 ponto. O indicador mostrou ainda, que, em setembro, 11 dos 19 segmentos industriais monitorados pela sondagem registraram retração.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

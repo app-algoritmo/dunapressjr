@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Com a chegada do verão, o Município de Itajaí reforçou a coleta de lixo nas orlas das praias da cidade, bairros litorâneos e avenidas à beira-mar. A coleta do lixo orgânico é diária e se inicia às 7h, quando os caminhões passam nas principais vias de acesso às praias Brava, Cabeçudas, Geremias, Atalaia e também na avenida Ministro Victor Konder, a Beira-Rio. Além disso, a empresa Ambiental, responsável pela limpeza e conservação das ruas, mantém uma equipe nas praias, das 7h às 15h20.
 
 Durante o verão, o lixo reciclável nas regiões de praia é recolhido nas segundas, quartas e sextas-feiras. Nos demais bairros da cidade, a coleta do lixo orgânico e reciclável se mantém nos mesmos dias e horários.
@@ -36,7 +35,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

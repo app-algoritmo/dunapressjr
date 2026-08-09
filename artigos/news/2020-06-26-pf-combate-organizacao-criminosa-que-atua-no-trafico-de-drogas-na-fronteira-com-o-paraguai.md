@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 **Campo Grande/MS** - A Polícia Federal deflagrou, na manhã desta quinta-feira (25/06), a Operação Exílio com o objetivo de desarticular organização criminosa vinculada à facção criminosa atuante no tráfico internacional de drogas e de armas de fogo, a partir da fronteira do Brasil com o Paraguai.
 
 No transcorrer das investigações, descobriu-se que a organização criminosa investigada é liderada por indivíduos foragidos do sistema prisional paulista, os quais seriam vinculados à referida facção. Os investigados seriam responsáveis por comandar ações de interesse do grupo na região de fronteira formada pelas cidades-gêmeas Ponta Porã (Brasil) e Pedro Juan Caballero (Paraguai). Ainda, verificou-se que os integrantes da Orcrim ocupavam imóveis de alto valor agregado e transitavam em veículos de luxo, adquiridos com valores oriundos da prática de atividades criminosas.
@@ -23,4 +22,4 @@ A Operação foi denominada “Exílio” em razão da descoberta de que indiví
 
 ***Comunicação Social da PF***
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

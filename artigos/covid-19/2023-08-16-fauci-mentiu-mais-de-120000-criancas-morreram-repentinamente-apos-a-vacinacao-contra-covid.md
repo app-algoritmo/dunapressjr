@@ -8,7 +8,6 @@ categories:
 - Covid-19
 ---
 
-
 **Em 2021 Dra. Anthony Fauci estava sempre no pódio, cego pelo brilho das câmeras enquanto enfrentava a nação. Com mão firme, ele ergueu um frasco da vacina Covid-19 da Pfizer e jurou que era a chave para proteger a América e suas crianças da doença "mortal" Covid-19 que dizem estar varrendo o país.**
 
 **O que o público não sabia, no entanto, era que a verdade sobre a segurança da vacina Covid estava enterrada nas próprias mentiras e enganos de Fauci, bem como em documentos confidenciais do governo dos EUA e da Pfizer.**
@@ -125,4 +124,4 @@ Ele foi saudado como um herói, até mesmo um salvador, mas nada mais é do que 
 
 Talvez até pensasse que estava fazendo a coisa certa. Se você repetir uma mentira com bastante frequência, pode acabar acreditando nela. Mas, no final, suas ações tiveram consequências terríveis para a nação e, esperançosamente, com o tempo, também para sua própria alma.
 
-[Fonte: ](https://expose-news.com/2023/08/10/fauci-lied-120k-children-died-covid-vaccine/)[](https://expose-news.com/2023/08/10/fauci-lied-120k-children-died-covid-vaccine/)[Expose News](https://expose-news.com/2023/08/10/fauci-lied-120k-children-died-covid-vaccine/)
+[Fonte: ](https://expose-news.com/2023/08/10/fauci-lied-120k-children-died-covid-vaccine/)[Expose News](https://expose-news.com/2023/08/10/fauci-lied-120k-children-died-covid-vaccine/)

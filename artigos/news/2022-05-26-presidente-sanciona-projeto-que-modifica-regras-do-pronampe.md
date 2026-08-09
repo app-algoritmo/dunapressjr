@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Microempreendedores individuais passam a ter direito a empréstimos.
 
 O presidente Jair Bolsonaro sancionou nesta quarta-feira (25) o Projeto de Lei 3.188/2021, que que mantém recursos para garantir empréstimos a micro e pequenas empresas por meio do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe). O texto [**foi aprovado em definitivo**](https://agenciabrasil.ebc.com.br/politica/noticia/2022-04/senado-aprova-projeto-que-garante-recursos-para-pronampe) pelo Congresso Nacional no fim de abril.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

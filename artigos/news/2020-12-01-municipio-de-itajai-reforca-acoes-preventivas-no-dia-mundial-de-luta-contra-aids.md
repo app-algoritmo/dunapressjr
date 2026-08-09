@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Mais de 90% dos pacientes em tratamento contra HIV/AIDS em Itajaí têm carga viral indetectável, ou seja, não transmitem o vírus e mantém uma vida saudável. Os dados são do Centro de Referência de Doenças Infecciosas (Ceredi), que realiza o acompanhamento dos pacientes na cidade. Ao todo, há 2.688 pessoas realizando tratamento na unidade, sendo que 2.459 são indetectáveis. Nesta terça-feira (1º) em que é celebrado o Dia Mundial de Luta Contra AIDS, a Secretaria de Saúde reforça as ações de prevenção nas unidades de saúde em alusão à campanha Dezembro Vermelho.
 
 Durante o mês, as unidades básicas abordarão o tema por meio de campanhas de conscientização com pacientes e empresas, oferta de testes rápidos para detecção de Infecções Sexualmente Transmissíveis (ISTs), como HIV, sífilis e hepatites B e C, entre outras ações. A intenção é sensibilizar a população sobre a importância do cuidado preventivo e do tratamento.
@@ -38,7 +37,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

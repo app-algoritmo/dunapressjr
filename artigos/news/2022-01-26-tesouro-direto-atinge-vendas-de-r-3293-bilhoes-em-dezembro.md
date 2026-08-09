@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Vendas superaram resgates no mês.
 
 As vendas de títulos do Tesouro Direto superaram os resgates em R$ 1,791 bilhão em dezembro do ano passado. Segundo dados do Tesouro Nacional divulgados nesta terça-feira (25), as vendas de títulos atingiram R$ 3,293 bilhões, e os resgates totalizaram R$ 1,687 bilhão, sendo R$ 1,502 bilhão relativos a recompras.
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

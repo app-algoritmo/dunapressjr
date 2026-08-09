@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice ficou abaixo dos observados em outubro deste ano (1,16%).
 
 O Índice Nacional de Preços ao Consumidor (INPC), que mede a inflação para famílias com renda até cinco salários mínimos, registrou taxa de 0,84% em novembro deste ano. O índice ficou abaixo dos observados em outubro deste ano (1,16%) e novembro do ano passado (0,95%).
@@ -20,10 +19,6 @@ Em novembro, segundo o INPC, os produtos alimentícios tiveram deflação (queda
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

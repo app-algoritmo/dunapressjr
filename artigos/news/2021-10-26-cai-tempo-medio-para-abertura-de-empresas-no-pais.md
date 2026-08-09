@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Prazo era de 5 dias e 9 horas em 2019 e hoje está em 47 horas.
 
 O tempo médio para a abertura de uma empresa no país é três vezes menor do que no início de 2019, ficando em menos de dois dias. Em 2019, o prazo médio era de cinco dias e nove horas e, atualmente, está em 47 horas. Os dados constam da plataforma Governo Digital, ligada ao Ministério da Economia.
@@ -26,10 +25,6 @@ No estado da Bahia, leva-se mais tempo para abrir uma empresa: 6 dias e 1 hora. 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

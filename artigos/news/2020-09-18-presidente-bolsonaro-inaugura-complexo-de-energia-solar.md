@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Presidente Jair Bolsonaro participou, nesta quinta-feira (17), da inauguração da Usina Fotovoltaica Coremas III, um complexo de energia solar localizado no município de Coremas, na Paraíba. O empreendimento contribui para ampliar a oferta de energia limpa e renovável no País.
 
 Na cerimônia de inauguração, o Presidente Bolsonaro destacou a importância do investimento. "Nós viemos [...] para mostrar que, cada vez mais, o nosso Governo acredita na iniciativa privada. Não é fácil investir, em empreender em nosso País ainda”, disse o Presidente. O empreendimento de Coremas é do grupo privado Rio Alto Energias Renováveis.
@@ -27,5 +26,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

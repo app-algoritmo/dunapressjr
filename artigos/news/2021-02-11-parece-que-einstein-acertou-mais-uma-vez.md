@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Localizado em uma galáxia distante da Terra, o buraco negro tem 40 bilhões de quilômetros de diâmetro - cerca de 3 milhões de vezes o tamanho de nosso planeta - e é descrito pelos cientistas como um "monstro".
 
 A luz seria produzida por partículas de gás e poeira aceleradas em alta velocidade e destruídas pouco antes de desaparecer no buraco. Já a área escura seria a sombra que o buraco lança nesse turbilhão.
@@ -42,7 +41,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

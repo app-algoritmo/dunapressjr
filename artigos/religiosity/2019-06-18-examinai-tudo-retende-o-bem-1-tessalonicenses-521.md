@@ -7,7 +7,6 @@ categories:
 - Religiosity
 ---
 
-
 Hoje quero trazer algo relacionado a busca de conhecimento, intelectual e espiritual.
 
 Quando você está disposto a aprender algo novo, primeiramente precisa se desprender de tudo o que tinha adquirido anteriormente, isso não significa que você tenha que desprezar todo o conhecimento adquirido, mas gerar possibilidade de construir mudanças em seu intelecto.
@@ -15,10 +14,6 @@ Quando você está disposto a aprender algo novo, primeiramente precisa se despr
 Agindo desta forma, podemos filtrar o aprendizado e principalmente
 estabelecer o que de fato nos trouxe sabedoria e fortalecimento para nos
 tornamos seres humanos melhores.
-
-- 
-- 
-- 
 
 O Eterno Deus, tem um propósito para cada um de nós e neste está incluído momentos da nossa vida em que nos encontramos aptos para estabelecermos um relacionamento com Ele. Como pai amoroso, Adonai nos convida a O conhecermos cada dia mais, e esse conhecimento estreita um relacionamento, que sempre foi o principal projeto da nossa criação.
 
@@ -32,9 +27,9 @@ eu também os rejeito
 como meus sacerdotes;
 uma vez que vocês ignoraram
 a lei do seu Deus,
-eu também ignorarei seus filhos. 
+eu também ignorarei seus filhos.
 
-Oséas 4:6 
+Oséas 4:6
 
 Se eu conhecimento não te tornar uma pessoa melhor, você apenas gastou tempo e dinheiro alimentando o seu ego.
 
@@ -42,7 +37,7 @@ Fontes imagens: CINA Ohel David ,  Curso Shiur Conversão.
 
 Bíblias: Acervo pessoal.
 
-[](https://www.facebook.com/1183897648315063/photos/1183898888314939/)TEMPLO ISRAELITA OHEL DAVID é o nome dado à Sinagoga Sede, em Curitiba, da Congregação Israelita da Nova Aliança (CINA).
+TEMPLO ISRAELITA OHEL DAVID é o nome dado à Sinagoga Sede, em Curitiba, da Congregação Israelita da Nova Aliança (CINA).
  A CINA é uma comunidade formada por judeus, descendentes e gentios convertidos à fé israelita, baseada nos princípios da Torah, através dos seus 613 mandamentos, procurando conectar a sabedoria judaica, oriunda de escritos de grandes rabinos, com a fé e os ensinos do Rav Yeshua ben David, nosso Mestre Jesus e Mashiach de Israel, que disse: “buscai primeiro o Reino de Deus, e a sua justiça” (Mt 6:33).
 
  Para saber mais, e ampliar seus conhecimentos  clique aqui:

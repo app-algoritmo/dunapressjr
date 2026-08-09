@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 De janeiro a abril foram 4.999.981 admissões e 5.763.213 demissões.
 
 As demissões superaram as contratações com carteira assinada em 860.503 postos de trabalho, em abril. Foram 1.459.099 desligamentos e 598.596 contratações. Os dados do Cadastro Geral de Empregados e Desempregados (Caged) foram divulgados hoje (27).
@@ -47,5 +46,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal/Agência Brasil
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

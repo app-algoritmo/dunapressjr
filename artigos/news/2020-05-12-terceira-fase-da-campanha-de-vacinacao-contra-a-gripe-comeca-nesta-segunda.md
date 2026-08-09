@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O Ministério da Saúde alerta que a parcela da população que integra os grupos prioritários deve ir até um posto de saúde para receber a vacina contra gripe, independente da pandemia.
 
 Começou nesta segunda-feira (11) a terceira fase da Campanha Nacional de Vacinação contra a Gripe, que será dividida em duas etapas. A primeira, que vai de 11 a 17 de maior, tem como público-alvo as pessoas com deficiência, crianças de seis meses a menores de seis anos, gestantes e mães com até 45 dias após o parto.
@@ -42,4 +41,4 @@ Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações 
 
 ASSINE O PRESS PERIÓDICO
 
-https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress
+https://dunapress.org/subscription-plan/

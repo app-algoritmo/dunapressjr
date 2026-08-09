@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 As Forças Armadas permanecem no combate a focos de incêndio em Mato Grosso e Mato Grosso do Sul, pela Operação Pantanal. Além desse trabalho, a Marinha, por seus meios militares e de transporte, apoia o Grupo de Resgate de Animais em Desastres (GRAD), no salvamento de animais silvestres da região. Nessa parceria, levam abastecimento de água e de comida, bem como auxílio de saúde para os bichos que sobreviveram ao fogo.
 
 Também em conjunto com o Corpo de Bombeiros do Mato Grosso, militares e viaturas percorrem cerca de 270km ao longo da Rodovia Transpantaneira, diariamente, para levar essa ajuda humanitária. Por via marítima, embarcações da Marinha perpassam as margens do Rio Cuiabá, levando água e alimentos para os bichos ameaçados pelas queimadas.
@@ -29,5 +28,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor.
 
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

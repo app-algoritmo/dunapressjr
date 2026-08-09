@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## As maiores quedas nesses crimes aconteceram nas Seccionais de Taboão da Serra e São Bernardo do Campo.
 
-[](http://www.facebook.com/sharer.php?u=https://www.saopaulo.sp.gov.br/spnoticias/roubos-de-carga-caem-36-em-julho-na-grande-sao-paulo/)[](https://twitter.com/share?url=https://www.saopaulo.sp.gov.br/spnoticias/roubos-de-carga-caem-36-em-julho-na-grande-sao-paulo/)[](https://api.whatsapp.com/send?text=https://www.saopaulo.sp.gov.br/spnoticias/roubos-de-carga-caem-36-em-julho-na-grande-sao-paulo/)[](mailto:https://www.saopaulo.sp.gov.br/spnoticias/roubos-de-carga-caem-36-em-julho-na-grande-sao-paulo/)
+[](mailto:https://www.saopaulo.sp.gov.br/spnoticias/roubos-de-carga-caem-36-em-julho-na-grande-sao-paulo/)
 
 A atuação das polícias Civil e Militar tem contribuído na repressão aos roubos de cargas nas cidades da Região Metropolitana de São Paulo. Só em julho, houve uma diminuição de 36,3% nos roubos de cargas, com 116 ocorrências. No mesmo mês do ano passado, foram 182 roubos.
 

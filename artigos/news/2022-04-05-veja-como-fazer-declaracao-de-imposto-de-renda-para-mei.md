@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Imposto deve ser declarado se lucro ultrapassar R$ 28.559,70.
 
 Os profissionais autônomos não estão isentos de acertar as contas com o Leão. Mesmo pagando tributos simplificados, os microempreendedores individuais (MEI) devem declarar o Imposto de Renda se o lucro ultrapassar o limite de isenção.
@@ -31,9 +30,9 @@ Calcular a receita bruta do ano anterior e subtrair todas as despesas relacionad
 
 **Passo 2**
 Pegar a receita bruta e aplicar o seguinte percentual para calcular a parcela isenta de Imposto de Renda
-•        8% da receita bruta para comércio, indústria e transporte de carga;
-•        16% da receita bruta para transporte de passageiros;
-•        32% da receita bruta para serviços em geral.
+• 8% da receita bruta para comércio, indústria e transporte de carga;
+• 16% da receita bruta para transporte de passageiros;
+• 32% da receita bruta para serviços em geral.
 
 **Passo 3**
 Preencher o valor da parcela isenta na seção “Rendimentos Isentos – Lucros e
@@ -51,14 +50,14 @@ Caso o contribuinte tenha outros rendimentos fora do MEI, deverá informá-los n
 
 Além de rendimentos tributáveis acima da faixa de isenção, existem critérios que obrigam o preenchimento da declaração, mesmo por MEI. Eles são os seguintes.
 
-•        Rendimentos tributáveis acima de R$ 22.847,76 no ano anterior, caso o MEI ou seus dependentes tenham sido beneficiários do auxílio emergencial;
-•        Recebeu mais de R$ 40 mil isentos, não tributáveis ou tributados na fonte no ano (como indenização trabalhista ou rendimento de poupança);
-•        Teve ganho na venda de bens como casas e carros, entre outros;
-•        Comprou ou vendeu ações na bolsa;
-•        Ganhou mais de R$ 142.798,50 em atividades rurais ou obteve prejuízo rural a ser compensado no ano-calendário de 2021 ou nos próximos anos;
-•        Era proprietário de bens de mais de R$ 300 mil;
-•        Passou a residir no Brasil em qualquer mês do último ano, permanecendo no país até 31 de dezembro;
-•        Vendeu um imóvel e comprou outro no prazo de 180 dias.
+• Rendimentos tributáveis acima de R$ 22.847,76 no ano anterior, caso o MEI ou seus dependentes tenham sido beneficiários do auxílio emergencial;
+• Recebeu mais de R$ 40 mil isentos, não tributáveis ou tributados na fonte no ano (como indenização trabalhista ou rendimento de poupança);
+• Teve ganho na venda de bens como casas e carros, entre outros;
+• Comprou ou vendeu ações na bolsa;
+• Ganhou mais de R$ 142.798,50 em atividades rurais ou obteve prejuízo rural a ser compensado no ano-calendário de 2021 ou nos próximos anos;
+• Era proprietário de bens de mais de R$ 300 mil;
+• Passou a residir no Brasil em qualquer mês do último ano, permanecendo no país até 31 de dezembro;
+• Vendeu um imóvel e comprou outro no prazo de 180 dias.
 
 Nesses casos, o MEI deverá seguir o mesmo roteiro apontado anteriormente para calcular o Imposto de Renda a pagar.
 
@@ -66,8 +65,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

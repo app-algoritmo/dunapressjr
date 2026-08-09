@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Depois de subir 0,5%, bolsa fechou com leve recuo.
 
 As negociações em torno da Proposta de Emenda à Constituição (PEC) Emergencial provocaram uma reversão dos movimentos nos minutos finais da sessão nesta segunda-feira (7), e o dólar, que vinha registrando forte queda, fechou estável. A bolsa de valores, que vinha em alta, chegou a cair 2 mil pontos, mas encerrou com leve recuo, próxima da estabilidade.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

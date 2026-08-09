@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Utilização do meio de pagamento vem aumentando mês a mês.
 
 Em quase oito meses de existência, as modalidades Pix Saque e Pix Troco movimentaram R$ 112,1 milhões, divulgou nesta terça-feira (12) o Banco Central (BC). O órgão passou a apresentar estatísticas mensais de uso dessas funcionalidades do Pix após o fim da [**greve de seus servidores**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-07/servidores-do-banco-central-confirmam-fim-da-greve) que durou três meses.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

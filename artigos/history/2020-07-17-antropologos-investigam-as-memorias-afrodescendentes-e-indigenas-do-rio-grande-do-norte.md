@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Desde o ano 2000 antropólogos da Universidade Federal do Rio Grande do Norte pesquisam as narrativas tradicionais, histórias ancestrais e representações simbólicas de comunidades rurais de indígenas e de afro-descendentes daquele estado, privilegiando a oralidade e a memória.
 
 As coletas de discursos, narrativas, mitos, lendas, lembranças e crenças ligadas ao passado e às origens dessas comunidades, acrescidas às leituras, seminários, cursos e discussões realizadas pelo grupo permitem reavaliar o passado colonial e as identidades étnicas do Rio Grande do Norte.
@@ -63,6 +62,6 @@ Imagem destacada setur.rn.gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

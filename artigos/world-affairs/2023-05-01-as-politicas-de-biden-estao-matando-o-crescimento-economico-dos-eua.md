@@ -7,10 +7,9 @@ categories:
 - World Affairs
 ---
 
-
 ## As políticas econômicas do presidente Joe Biden estão se mostrando ainda mais desastrosas do que se pensava, como indicam os próprios números do governo federal.
 
-No primeiro trimestre, a economia dos EUA cresceu míseros 1,1%, uma queda em relação aos míseros 2,6% de crescimento observados no quarto trimestre, de acordo com o Bureau of Economic Analysis (BEA). A taxa de crescimento também ficou aquém dos 2% previstos, conforme projetado pelos economistas,  [informou ](https://www.theepochtimes.com/us-economy-unexpectedly-slows-to-1-1-percent-in-first-quarter_5224709.html)[*o Epoch Times*](https://www.theepochtimes.com/us-economy-unexpectedly-slows-to-1-1-percent-in-first-quarter_5224709.html) .[](https://www.theepochtimes.com/us-economy-unexpectedly-slows-to-1-1-percent-in-first-quarter_5224709.html)
+No primeiro trimestre, a economia dos EUA cresceu míseros 1,1%, uma queda em relação aos míseros 2,6% de crescimento observados no quarto trimestre, de acordo com o Bureau of Economic Analysis (BEA). A taxa de crescimento também ficou aquém dos 2% previstos, conforme projetado pelos economistas,  [informou ](https://www.theepochtimes.com/us-economy-unexpectedly-slows-to-1-1-percent-in-first-quarter_5224709.html)[*o Epoch Times*](https://www.theepochtimes.com/us-economy-unexpectedly-slows-to-1-1-percent-in-first-quarter_5224709.html) .
 
 “Este foi o crescimento trimestral mais lento desde o segundo trimestre de 2022”, continuou a agência.
 

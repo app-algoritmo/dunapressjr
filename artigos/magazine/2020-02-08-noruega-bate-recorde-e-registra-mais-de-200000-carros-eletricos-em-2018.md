@@ -7,7 +7,6 @@ categories:
 - Magazine
 ---
 
-
 No final de 2018, 3,3 milhões de novos carros foram registrados na Noruega. Destes, 200.700 foram carros elétricos.
 
 A frota de veículos elétricos continua em crescimento constantemente a cada ano, e a participação de carros elétricos foi de 6% no final de 2018, em comparação com 4% no ano anterior. A proporção de carros híbridos aumentou correspondentemente, segundo ultimo informe de [estatísticas da frota nacional](http://www.ssb.no/bilreg). Carros movidos a diesel  mostraram declínio no estoque.
@@ -41,8 +40,6 @@ Os instrumentos usados ​​para estimular esse desenvolvimento são requisitos
 No total, existem hoje cerca de 140 conexões de balsa na Noruega. 17 deles são administrações rodoviárias nacionais administradas pela Administração Norueguesa de Estradas Públicas. O restante são relações estaduais e municipais. Além disso, existem cerca de 100 conexões municipais de lanchas municipais e um número aproximadamente equivalente de rotas municipais está ocupado com barcos menores.
 
 Clique na imagem para acessar as estações de carregamento para barcos e balsas elétricas
-
-[](https://lavutslipp.kystverket.no/)
 
 Queda de matriculas de carros a gasolina e diesel
 

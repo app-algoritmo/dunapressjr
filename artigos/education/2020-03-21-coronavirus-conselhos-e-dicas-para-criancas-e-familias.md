@@ -7,14 +7,13 @@ categories:
 - Education
 ---
 
-
 O surto do COVID19 mudou repentinamente nossa vida cotidiana. Escolas e jardins de infância estão fechados, mamãe e papai podem precisar de um escritório em casa e muitas pessoas estão em quarentena. Aqui estão alguns conselhos para pais e filhos sobre como lidar com o surto do COVID19.
 
 Companherismo e atividades conjuntas
 
-**[Helsenorge](https://dunapress.org/2020/03/22/coronavirus-conselhos-para-pais-filhos-adolescentes-e-mulheres-gravidas/)** recomenda não reunir mais crianças para reuniões de brincadeiras ou atividades conjuntas . O objetivo é manter distância para evitar infecções. Se as crianças encontrarem outras crianças para brincar, elas podem ter um a dois amigos comuns e ficar com elas durante esse período de erupção da coroa. Isso também se aplica aos jovens.  
+**[Helsenorge](https://dunapress.org/2020/03/22/coronavirus-conselhos-para-pais-filhos-adolescentes-e-mulheres-gravidas/)** recomenda não reunir mais crianças para reuniões de brincadeiras ou atividades conjuntas . O objetivo é manter distância para evitar infecções. Se as crianças encontrarem outras crianças para brincar, elas podem ter um a dois amigos comuns e ficar com elas durante esse período de erupção da coroa. Isso também se aplica aos jovens.
 
-O objetivo é manter distância para evitar infecções. Se as crianças encontrarem outras crianças para brincar, elas podem ter um a dois amigos comuns e ficar com elas durante esse período de erupção da coroa. Isso também se aplica aos jovens.  
+O objetivo é manter distância para evitar infecções. Se as crianças encontrarem outras crianças para brincar, elas podem ter um a dois amigos comuns e ficar com elas durante esse período de erupção da coroa. Isso também se aplica aos jovens.
 
 E lembre-se de que as reuniões devem ocorrer ao ar livre. Evite playgrounds com muitas crianças. A recomendação para pelo menos um metro de distância também se aplica aqui. Lave as mãos frequentemente, antes, durante e depois do jogo.
 
@@ -33,8 +32,6 @@ Ouvidoria da criança: com  [quem você pode conversar sobre o coronavírus](htt
 [Conselho do Ministro da Criança e da Família sobre Corona para Crianças e Adolescentes](https://www.facebook.com/barnedep/videos/2577211962516618/?__xts__%5B0%5D=68.ARDuZ1529cEBDAzHR6H_RKkt2ZKgHPvwbFa_dSveZibkzjxtq1re2NE3UFvWxBKVRoIQSo_DFn0EG9CsIX9zvZbEMuBTL4vaG8VjWncCxlVQeAwHisHbVtG0k4zEmtHjyMpGk5awMTP33xTDtRoJRrODHlZzlUjHHWquU-iAqxUprtELOvIjrDarJo-FURLdpiAFr8SzlSa_jvZvVEwC-8on7KbwpMSElTRCH8dudak5xXDv8lK3G6dlNWaCThR6QOpxZK3NLappaIvnMNBBxflomK_MZZXYbUWABD0yoqMCmBUSJTbJykGLJ-n2IWXUNYtCDyGx2_7kGvrWO8ovCAiFWaxBft5dcIXDbg&__tn__=-R) (Facebook)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)
 
 ## Ver Também
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A 13ª reunião do Conselho do Programa de Parcerias de Investimentos foi realizada nesta quarta-feira no palácio do Planalto.
 
 A secretária especial do Programa de Parcerias de Investimentos (PPI), Martha Seillier, apresentou nesta quarta-feira (10), durante coletiva de imprensa no Palácio do Planalto, os resultados das deliberações da 13ª reunião do Conselho do PPI, realizada com o presidente Jair Bolsonaro. 
@@ -34,9 +33,9 @@ No ramo dos aeroportos, foi aprovada a relicitação dos aeroportos internaciona
 
 Inclusão das áreas de oferta permanente de óleo e gás, com a previsão de um leilão já no próximo semestre. De acordo com ela, as áreas de oferta estarão em uma "prateleira virtual" e à medida que forem encontrados interesses pelas áreas os leilões serão organizados.
 
-De acordo com ela, o PPI está revendo um Comitê interministerial para projetos de resíduos sólidos urbanos, para ampliar as parcerias com o setor privado. 
+De acordo com ela, o PPI está revendo um Comitê interministerial para projetos de resíduos sólidos urbanos, para ampliar as parcerias com o setor privado.
 
-No âmbito do Ministério de Minas Energia, está a aprovação de um Comitê Interministerial, chamado Pró-Minerais Estratégicos" para apoiar os investimentos de produção de minerais estratégicos. "Esta é uma demanda importante, principalmente para o setor de fertilizantes no Brasil, nós temos muita dependência de potássio, de fosfato, de importação de outros países, sendo que nós temos no Brasil e precisamos explorá-los", afirmou. 
+No âmbito do Ministério de Minas Energia, está a aprovação de um Comitê Interministerial, chamado Pró-Minerais Estratégicos" para apoiar os investimentos de produção de minerais estratégicos. "Esta é uma demanda importante, principalmente para o setor de fertilizantes no Brasil, nós temos muita dependência de potássio, de fosfato, de importação de outros países, sendo que nós temos no Brasil e precisamos explorá-los", afirmou.
 
 ** Meio Ambiente**
 
@@ -51,5 +50,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

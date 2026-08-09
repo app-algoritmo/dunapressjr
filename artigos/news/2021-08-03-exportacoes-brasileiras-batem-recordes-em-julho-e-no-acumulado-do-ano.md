@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Saldo comercial e corrente de comércio também atingem resultados históricos, enquanto importações cresceram – mesmo sem recordes –, indicando retomada da economia.
 
 A balança comercial voltou a bater recordes no mês de julho e nos sete primeiros meses do ano. No acumulado de janeiro a julho as exportações cresceram 35,3% e somaram US$ 161,42 bilhões, enquanto as importações subiram 30,9% e totalizaram US$ 117,29 bilhões, na comparação com o mesmo período do ano passado. Assim, o Brasil registrou superávit de US$ 44,13 bilhões, em alta de 48,6%, e a corrente de comércio (soma das exportações e importações) subiu 33,4%, atingindo US$ 278,71 bilhões.
@@ -42,10 +41,6 @@ https://youtu.be/5Y-8CwuPHJs
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

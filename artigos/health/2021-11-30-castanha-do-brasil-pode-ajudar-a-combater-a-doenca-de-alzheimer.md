@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 O [mal de Alzheimer](http://canalciencia.ibict.br/pesquisa/0310_Castanha_do_brasil_pode_ajudar_combater_doenca_de_Alzheimer#) é uma doença degenerativa, sem cura, mais comum em pessoas maiores de 65 anos. Caracterizada pela perda progressiva de neurônios, é a principal causa de demência em idosos, atingindo cerca de 35,6 milhões de pessoas no mundo. Com o envelhecimento da população, a perspectiva é de que esse número aumente.
 
 Doenças que comprometem funções cognitivas – atenção, percepção, memória, raciocínio, pensamento e linguagem –, estão relacionadas ao estresse oxidativo, condição observada no organismo durante processos inflamatórios e envelhecimento, e caracterizada pelo aumento de [radicais livres](http://canalciencia.ibict.br/pesquisa/0310_Castanha_do_brasil_pode_ajudar_combater_doenca_de_Alzheimer#), que prejudicam o funcionamento das células. O estresse oxidativo pode levar ao desenvolvimento de tumores e de doenças degenerativas do sistema nervoso, como Parkinson e Alzheimer.
@@ -64,7 +63,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!  
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

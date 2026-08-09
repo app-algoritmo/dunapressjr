@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Mecanismo seria automaticamente acionado em caso de nova calamidade.
 
 O ministro da Economia, Paulo Guedes, defendeu uma proposta que torna automática a vigência do chamado orçamento de Guerra em caso de nova calamidade pública. Segundo o ministro, a ideia pode ser incluída na Proposta de Emenda à Constituição (PEC) do Pacto Federativo, que tramita no Senado.
@@ -39,5 +38,3 @@ Mais cedo, o presidente Jair Bolsonaro tinha chamado de *fake news* (notícias f
 Fonte: Agência Brasil – Imagem de destaque: Najara Araújo/Câmara de Deputados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

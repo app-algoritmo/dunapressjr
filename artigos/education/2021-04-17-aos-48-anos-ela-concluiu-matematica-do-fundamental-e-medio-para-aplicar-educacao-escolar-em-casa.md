@@ -8,14 +8,13 @@ categories:
 - Education
 ---
 
-
 -Tricia Fowler é uma mãe cristã que ensina em casa no meio-oeste norte americano. Atualmente, ela passa a maior parte do tempo ensinando matemática, alimentando com massa fermentada e ajudando com o que está na estação na fazenda que ela divide com o marido e sete filhos.
 
 - Relatos e dicas por Tricia Fowler para The Epoch Times | Olhos grandes e redondos observam vagamente ao redor da sala, em seguida, estreitam os olhos quando um sorriso se espalha por seu rosto. “Não sei”, disse ela ao painel de professores do Math Bowl em 1989. A jovem entrou para a equipe de matemática *pela pele dos dentes* "por um tris", mas se mostrou incapaz de funcionar sob pressão real.
 
 Essa confusão matemática quente "*My Hot Math Mess*" era eu no colégio, diz Tricia Fowler Depois de alguns bloqueios mentais durante as competições de matemática, eu me considerei incapaz de trabalhar com números. Eu escolhi uma especialização com uma aula de matemática e me formei confiante de que os cursos de matemática incômodos eram uma coisa do passado. ***Hot mess: substantivo (informal) uma pessoa ou situação que parece significativamente desorganizada ou desordenada***.
 
-É realmente irônico como a vida acaba. Agora, aos 48 anos, concluí matemática do ensino fundamental e médio quatro vezes junto com vários semestres de álgebra e geometria. Atualmente, passo todas as manhãs estudando Álgebra 1 e 2, já que o sol está entrando pelas janelas da sala de jantar. Não sou mais intimidada por problemas difíceis, mas energizada por eles e fico emocionada ao resolver um novo problema. O que aconteceu com a minha "***bagunça quente de matemática***?" 
+É realmente irônico como a vida acaba. Agora, aos 48 anos, concluí matemática do ensino fundamental e médio quatro vezes junto com vários semestres de álgebra e geometria. Atualmente, passo todas as manhãs estudando Álgebra 1 e 2, já que o sol está entrando pelas janelas da sala de jantar. Não sou mais intimidada por problemas difíceis, mas energizada por eles e fico emocionada ao resolver um novo problema. O que aconteceu com a minha "***bagunça quente de matemática***?"
 
 **Educação escolar em casa** - "***Homeschooling***": Muitas famílias que educam em casa, bem como pais que fazem o dever de matemática com seus filhos depois da escola, podem ver-se em uma grande confusão de matemática. Eu sei que certamente não comecei como o professor de matemática icônico dos meus tempos de escola primária com uma sala de aula silenciosa, quadro-negro e linhas retas de alunos. De muitas maneiras, nossa aula de matemática em casa pode ainda parecer uma **bagunça quente de matemática**, mas tenho testemunhos convincentes de meus dois primeiros formandos que se saíram bem nos cursos de matemática da faculdade: Matemática escolar em casa não é apenas possível, mas gratificante. Depois de anos de experiência com meus próprios filhos, aqui estão alguns princípios que você pode usar em seu tempo de matemática com crianças. **Dicas para matemática escola em casa** - "***Tips for Homeschooling Math***":
 
@@ -51,10 +50,6 @@ Anteriormente, isso me incomodava porque eu não via nenhum benefício em um alu
 
 Se você decidir ensinar matemática em casa, espero que algumas dessas dicas funcionem para o seu ensino doméstico também. Aproveite esses pequenos, mesmo durante sua confusão matemática quente!
 
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

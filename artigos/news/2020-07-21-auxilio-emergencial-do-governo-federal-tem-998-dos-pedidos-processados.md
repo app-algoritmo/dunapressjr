@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Restam 273.630 solicitações a serem analisadas do total de 150,7 milhões de cadastros avaliados desde o início do programa.
 
 A Dataprev processou 99,8% dos pedidos de Auxílio Emergencial, conforme balanço divulgado pela empresa nesta segunda-feira (20.07). Com o envio de um novo lote de requerimentos na última semana, 721.337 pessoas foram consideradas aprovadas em julho. Os cadastros estão disponíveis **[para consulta no site](https://consultaauxilio.dataprev.gov.br/consulta/#/)**. Restam 273.630 solicitações a serem avaliadas, ou 0,18% do total de 150,7 milhões de cadastros analisados desde o início do programa**.**
@@ -26,7 +25,7 @@ Imagem principal: Isac Nóbrega/PR
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

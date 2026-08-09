@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 "Não vamos mudar nossas regras ou nossa abordagem a nada por causa de uma ameaça à nossa renda", disse o chefe do Facebook. Mais de 400 empresas suspenderam suas compras de anúncios na rede social para 1,73 bilhão de usuários diários.
 
 O chefe do Facebook, Mark Zuckerberg, disse a seus funcionários que ele não será influenciado pelo boicote maciço à publicidade contra sua plataforma, liderada por organizações e anunciantes, incluindo Coca-Cola e Starbucks, que estão pedindo mais regulamentação. conteúdo racista e odioso estrito.
@@ -40,6 +39,6 @@ Fonte Time Of Israel
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Mudança deve baratear e fortalecer pequenas transações entre moedas.
 
 As próximas etapas do Pix, sistema de pagamento instantâneo do Banco Central (BC), podem incluir a implementação do Pix internacional, que permitirá a transferência em tempo real de recursos do Brasil para o exterior. A ferramenta está em estudo, ainda sem previsão para entrar em funcionamento, mas o BC deve propor em breve uma série de mudanças nas normas cambiais, visando a modernização do sistema de câmbio e a introdução de novas tecnologias como essa.
@@ -55,5 +54,3 @@ Um dos desafios do Pix internacional, segundo ele, é adotar um sistema de liqui
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

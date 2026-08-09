@@ -7,16 +7,15 @@ categories:
 - History
 ---
 
-
 Profissão: Educador.
 
 Área do Conhecimento: Ciências Sociais Aplicadas.
 
 Biografia:
 
-Anísio Spínola Teixeira foi um dos maiores educadores brasileiros, graças ao pioneirismo na implantação de modelos educacionais como a Escola Parque, saiu em defesa da escola pública e implantação da Lei de Diretrizes e Bases da Educação. Na década de 60, participou, juntamente com Darcy Ribeiro, da criação da Universidade de Brasília, vindo a ser seu segundo reitor. 
+Anísio Spínola Teixeira foi um dos maiores educadores brasileiros, graças ao pioneirismo na implantação de modelos educacionais como a Escola Parque, saiu em defesa da escola pública e implantação da Lei de Diretrizes e Bases da Educação. Na década de 60, participou, juntamente com Darcy Ribeiro, da criação da Universidade de Brasília, vindo a ser seu segundo reitor.
 
-Escreveu vários livros, nos quais defendeu a renovação do sistema educacional brasileiro em bases democráticas, atendendo à formação das classes menos favorecidas. Acreditava que a educação é a base de uma sociedade e que só por ela é possível chegar à justiça social e à igualdade de direitos. Nasceu em Caetité, sertão da Bahia, em 12 de julho de 1900. 
+Escreveu vários livros, nos quais defendeu a renovação do sistema educacional brasileiro em bases democráticas, atendendo à formação das classes menos favorecidas. Acreditava que a educação é a base de uma sociedade e que só por ela é possível chegar à justiça social e à igualdade de direitos. Nasceu em Caetité, sertão da Bahia, em 12 de julho de 1900.
 
 Estudou Direito no Rio de Janeiro e no Teachers College da Universidade de Columbia. Foi Inspetor Geral de Ensino da Bahia, Diretor-Geral da Instrução Pública e Secretário de Educação e Cultura do Distrito Federal, criando a Universidade do Distrito Federal (UDF); foi consultor geral da UNESCO e Secretário de Educação e Saúde da Bahia.
 
@@ -38,7 +37,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

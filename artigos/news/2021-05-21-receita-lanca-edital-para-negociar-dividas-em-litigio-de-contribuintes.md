@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ao longo de cinco anos, é esperada arrecadação de até R$ 1,4 bilhão.
 
 O governo federal lançou um [**edital de acordo de transação tributária**](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2021/maio/novo-edital-para-fazer-acordo-com-a-receita-federal/edital-11-2021-transacao-de-relevante-controversia-juridica.pdf/view) voltado para negociar dívidas com a Receita Federal que estão em litígio, seja administrativo ou judicial. Pela proposta, os contribuintes, tanto pessoa física quanto jurídica, poderão, caso aceitem, quitar os débitos e obter descontos que variam de 30% a 50% dos valores devidos. As adesões começam em 1° de junho e vão até o dia 31 de agosto de 2021.
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

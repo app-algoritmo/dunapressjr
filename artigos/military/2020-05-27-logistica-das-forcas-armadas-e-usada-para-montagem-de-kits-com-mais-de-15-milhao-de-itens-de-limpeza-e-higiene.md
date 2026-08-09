@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 Diversas ações estaduais e municipais, no enfrentamento ao novo coronavírus, contam com a capacidade logística das Forças Armadas. Um dos exemplos é a montagem de 300 mil kits de limpeza e higiene em Jundiaí, São Paulo. Cada kit recebe cinco itens: água sanitária, sabão, sabonete, detergente e álcool em gel. Ou seja, são 1,5 milhão de produtos a serem organizados.
 
 À frente da tarefa está o Comando Militar do Sudeste, em parceria com o Fundo Social de São Paulo (FUSSP). Militares desse Comando foram escalados para manusear os produtos doados pela iniciativa privada, para o programa Higiene e Limpeza Solidária, do governo estadual.
@@ -31,5 +30,3 @@ No estado vizinho, Rio de Janeiro, o apoio logístico é oferecido ao SESC Madur
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

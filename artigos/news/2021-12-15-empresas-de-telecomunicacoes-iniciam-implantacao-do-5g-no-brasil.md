@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro das Comunicações citou cidades que terão cronograma acelerado.
 
 O ministro das Comunicações, Fábio Faria, falou nesta terça-feira (14) em entrevista ao programa* A Voz do Brasil* sobre o cronograma de implantação da quinta geração de conectividade móvel, o 5G. Segundo Faria, Natal, São Paulo, Brasília, Rio de Janeiro e Belo Horizonte devem receber a infraestrutura necessária para a tecnologia em breve. A operadora de telecomunicações TIM, que foi uma das arrematantes do leilão do 5G, informou que já está em processo de execução do chamado 5G Full - o que usa as bandas específicas dedicadas ao funcionamento pleno da tecnologia - nessas cidades.
@@ -30,10 +29,6 @@ https://youtu.be/-adXYAnqeB0
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

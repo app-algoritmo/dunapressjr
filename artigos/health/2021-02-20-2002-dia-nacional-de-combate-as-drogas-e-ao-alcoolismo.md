@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 O uso de álcool e de outras substâncias para busca de prazer ou para amenizar o sofrimento acompanha a história da humanidade desde seus primórdios. Às vezes, e para algumas pessoas, o uso pode gerar problemas como acidentes, desenvolvimento de dependência e danos ao organismo.
 
 No último século, houve uma enorme evolução do conhecimento científico sobre como estas substâncias afetam nosso corpo e a importância do contexto social em que são consumidas. Entretanto, ainda prevalece em grande parte da população o conceito ultrapassado e moralista que atribui à droga em si e ao caráter do usuário, a responsabilidade pelos problemas associados ao uso. Este conceito errôneo leva a intervenções inadequadas e ineficientes.
@@ -60,7 +59,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

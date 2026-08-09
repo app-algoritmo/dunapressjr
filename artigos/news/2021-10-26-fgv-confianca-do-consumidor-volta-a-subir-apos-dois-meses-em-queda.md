@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alta foi puxada pela melhora de perspectivas das famílias.
 
 O Índice de Confiança do Consumidor (ICC), medido pela Fundação Getulio Vargas (FGV), subiu 1 ponto de setembro para outubro deste ano e interrompeu uma trajetória de dois meses em queda. Com o resultado, o indicador chegou a 76,3 pontos, em uma escala de zero a 200 pontos.
@@ -20,10 +19,6 @@ O Índice da Situação Atual, que mede a percepção do consumidor sobre o pres
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Mariana Dias Ribeiro é graduada em Ciências Biológicas – Modalidade Médica, pela Universidade Federal do Rio de Janeiro (UFRJ). Também na instituição fluminense, obteve o título de mestre em Química Biológica, etapa cumprida com bolsa da CAPES. O doutorado é no mesmo programa de pós-graduação, com estudo sobre o impacto das retratações na carreira de cientistas em países de maior produtividade científica em áreas biomédicas. Ela já recebeu dois prêmios pelo projeto, com apoio da Fundação durante seis meses.
 
 **Fale sobre seu trabalho.**
@@ -44,7 +43,3 @@ Fonte: https://www.gov.br/capes/pt-br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

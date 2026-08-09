@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 ## Após longos dias de matança, os oficiais nazistas se dirigiam à sala de jantar perto do acampamento para comer alguma coisa ou beber algo.
 
 Uma fundação polonesa espera restaurar uma cantina onde os guardas SS comeram e procuraram distração após longos dias de matança no antigo campo de extermínio nazista alemão de Auschwitz-Birkenau, para testemunhar uma página esquecida da história do Holocausto.
@@ -55,7 +54,3 @@ Fonte: https://www.timesofisrael.com/
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

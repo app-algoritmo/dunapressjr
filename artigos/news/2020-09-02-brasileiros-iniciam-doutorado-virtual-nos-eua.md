@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em um esforço conjunto da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e da Fundação Fulbright, estudantes brasileiros iniciam neste semestre suas atividades letivas em instituições dos Estados Unidos, em modo *on-line*. A duas organizações procuraram viabilizar, com a maior rapidez possível, o ingresso dos alunos de doutorado pleno no calendário letivo das instituições norte-americanas. Bolsistas que já começaram suas aulas virtuais estão empolgados com a oportunidade de antecipar as atividades letivas.
 
 Beatriz Lima Ribeiro é brasiliense e fará doutorado na Indiana University. “Minha sensação é de alegria por estar tendo o privilégio de começar este programa, um sonho que começa a se realizar, mesmo que seja, inicialmente, apenas *on-line*”, afirmou. Formada em Ciências Sociais, com mestrado em Antropologia Social pela Universidade de Brasília (UnB), estudante pretende dar continuidade em solo norte-americano à sua linha de pesquisa sobre a construção de políticas públicas e meio ambiente desenvolvidas pelos Estados Unidos e pelo Brasil.
@@ -29,5 +28,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
- [](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

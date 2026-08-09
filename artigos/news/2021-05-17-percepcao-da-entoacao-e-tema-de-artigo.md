@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Graduada em Letras pela Universidade Federal do Rio de Janeiro (UFRJ), Luma Miranda é mestre e doutora em língua portuguesa pela mesma instituição e estuda o papel do canal visual na percepção da entoação de afirmações e perguntas no português brasileiro, seu projeto de doutorado.
 
 **Fale um pouco sobre o seu trabalho.**
@@ -43,7 +42,3 @@ Fonte: https://www.gov.br/capes
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

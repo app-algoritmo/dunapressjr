@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Análise de processos de feminicídios revela que mulheres seguem à mercê da própria sorte e que dados importantes sobre as vítimas são precários.
 
 O Brasil iniciou 2021 do mesmo modo que completou 2020: colecionando casos de feminicídios, muitos deles com repercussão nacional. Os padrões de repetição – tanto da motivação do crime (tipificado no Brasil há quase seis anos pela lei 13.104/2015), quanto do descuido com informações elementares sobre a profissão ou escolaridade das vítimas – revelam muito sobre o tratamento processual dispensado ao gênero e serviram de objeto de estudo de uma pesquisa científica desenvolvida no âmbito do Centro de Pesquisa Jurídica e Social (CPJUS) do Programa de Pós-Graduação em Direito da Universidade Positivo (UP).
 
-O grupo de estudantes, coordenados pelas professoras Maria Tereza Uille e Olívia Pessoa,  analisou 147 processos de feminicídios ocorridos no Paraná a partir de 2017, com réus pronunciados e que não corriam em segredo de justiça. Os dados levantados deram origem a um banco de informações que convergem em duas graves constatações: **a invisibilidade da vítima e a falta de uma perspectiva de gênero no trato processual, demonstrada pela dificuldade em encontrar informações essenciais sobre essas mulheres**. 
+O grupo de estudantes, coordenados pelas professoras Maria Tereza Uille e Olívia Pessoa,  analisou 147 processos de feminicídios ocorridos no Paraná a partir de 2017, com réus pronunciados e que não corriam em segredo de justiça. Os dados levantados deram origem a um banco de informações que convergem em duas graves constatações: **a invisibilidade da vítima e a falta de uma perspectiva de gênero no trato processual, demonstrada pela dificuldade em encontrar informações essenciais sobre essas mulheres**.
 
 A escolaridade das vítimas, por exemplo, foi ignorada em 73% dos processos analisados. “Quando uma mulher é vítima do feminicídio, a questão do gênero não para por aí”, sentencia a professora Olívia Pessoa. “Mesmo quando uma mulher é assassinada, quando se analisa algumas sentenças ou atas de audiência, até hoje, nos deparamos com perguntas sobre a vítima que se remete a uma questão de gênero e a um papel que se espera das mulheres. Por outro lado, notamos que essa fonte riquíssima de informação, que é o processo judicial brasileiro, não tem a preocupação em trazer os dados socioeconômicos das mulheres envolvidas, seja como vítimas, seja como rés”, alerta.
 
@@ -34,7 +33,3 @@ Fonte: Central Press
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

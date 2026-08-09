@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## IBGE diz que taxa é menor que a de janeiro: 1,99%.
 
 O Índice Nacional da Construção Civil (Sinapi) registrou inflação de 1,33% em fevereiro deste ano. A taxa, menor que a de janeiro (1,99%), teve em fevereiro sua primeira queda, já que o Sinapi apresentava aumento desde julho de 2020.
@@ -22,8 +21,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 ## Uma investigação sobre o que é conhecido como Operação Reinhard, a matança nazista de mais de 1,5 milhão de judeus em um período de apenas 100 dias.
 
 Mesmo que o Holocausto seja um dos genocídios mais bem documentados em um sentido histórico, há surpreendentemente poucos dados quantitativos disponíveis, mesmo sobre os principais eventos críticos.
@@ -52,8 +51,6 @@ Isso sugere que a taxa de mortes no Holocausto foi subestimada em uma ordem de s
 
 O Holocausto se destaca como uma demonstração de como a máquina eficiente do governo se voltou contra as pessoas de uma forma incomparável. Ele transcendeu em sua crueldade e eficiência sistêmica. Esta é a principal lição do Holocausto que não deve ser esquecida.
 
--
-
 Créditos: [LEWI STONE](https://www.timesofisrael.com/writers/lewi-stone/), professor de Ciências da Vida na Universidade de Tel Aviv e professor de Biomatemática na Universidade RMIT de Melbourne.
 
 *Este artigo foi republicado de The Conversation, via Associated Press, sob uma licença Creative Commons. Leia o artigo original [aqui](http://theconversation.com/quantifying-the-holocaust-measuring-murder-rates-during-the-nazi-genocide-108984) : The Conversation é uma fonte independente e sem fins lucrativos de notícias, análises e comentários de especialistas acadêmicos.*
@@ -66,5 +63,3 @@ Créditos: [LEWI STONE](https://www.timesofisrael.com/writers/lewi-stone/), pro
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## **Determinação vale para as inscrições vencidas até esta segunda-feira, 25 de maio**.
 
 O Fundo Nacional de Desenvolvimento da Educação (FNDE) prorrogou o prazo para a formalização das inscrições Fundo de Financiamento Estudantil (Fies). Os estudantes têm até o dia 30 de junho para validar o processo na Comissão Permanente de Supervisão e Acompanhamento (CPSA) da instituição de ensino que fará o curso e formalizar o financiamento junto ao agente financeiro.
@@ -29,8 +28,6 @@ Os aditamentos dos financiamentos do Novo Fies, referentes a contratos firmados 
 **O programa –** O Fies é o programa do MEC de financiamento de cursos superiores, em instituições particulares, para estudantes que não possuem condições de arcar com os custos.
 
 Fonte: portalmec.gov.br / Imagem em destaque: AG - ebc
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

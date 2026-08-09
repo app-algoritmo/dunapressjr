@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Estratégias para a proteção de crianças e adolescentes em situação de tráfico de pessoas foram tratadas durante a reunião bilateral promovida, nesta quinta-feira (16), por meio de videoconferência. Na ocasião, representantes do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) e do Ministerio de la Niñez y la Adolescencia da República do Paraguai discutiram a atual situação dos dois países, com o objetivo de implementar ações conjuntas.
 
 "A cooperação buscará a construção de fluxo de comunicação bilateral e atenção específica, visando à garantia de direitos e à proteção de crianças e adolescentes do Brasil e do Paraguai que sejam identificados como vítimas de tráfico de pessoas", enfatiza o secretário nacional dos direitos da criança e do adolescente do MMFDH, Maurício Cunha.
@@ -28,6 +27,6 @@ gab.sndca@mdh.gov.br@mdh.gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

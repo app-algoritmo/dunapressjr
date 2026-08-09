@@ -19,7 +19,7 @@ O Health Tech Summit vai proporcionar uma trilha indispensável para profissiona
 
 Esta será uma oportunidade única para se atualizar e gerar conexões com instituições líderes em inovação e saúde. Empresas como Saudi, Beep Saúde, Hospital das Clínicas, Grupo Conexa, Instituto Coalizão Saúde, Stone, TRIA Saúde, Cannect e Omni Saúde, dentre outras, estarão presentes nesta jornada.
 
-Confira todas as empresas participantes e a programação completa em [https://bit.ly/healthtechsummitrio23](https://bit.ly/healthtechsummitrio23)
+Confira todas as empresas participantes e a programação completa em
 
 A primeira edição do evento aconteceu em outubro de 2019 e contou com palestrantes de grandes instituições como Instituto Oswaldo Cruz - Fiocruz, Unimed e Rede D'Or, dentre outras.
 

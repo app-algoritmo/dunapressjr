@@ -8,7 +8,6 @@ categories:
 - Sports
 ---
 
-
 O esporte está no DNA de NESCAU®. Em um movimento de incentivo a modalidade mais popular do Brasil, a marca de achocolatados da Nestlé traz aos torcedores do futebol do Rio Grande do Sul, latas litografadas especiais dos dois grandes times do estado: Internacional e Grêmio. Os produtos já estão disponíveis nos principais pontos de venda.
 
 Os dois clubes gaúchos vivem momentos distintos, mas mantendo a grande tradição de grande do futebol nacional. Enquanto o Inter terminou o Brasileirão 2021 na 12ª colocação, com uma vaga na Copa Sul-Americana, o Grêmio lutará para retornar a elite do futebol nacional em 2022.
@@ -32,7 +31,3 @@ Fonte: ***ZDL - [zdl@zdl.com.br](https://click.presskit.com.br/url/846355662b/6
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

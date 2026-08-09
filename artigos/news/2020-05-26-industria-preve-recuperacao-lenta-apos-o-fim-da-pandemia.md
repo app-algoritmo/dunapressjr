@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Setor de alimentos mantém nível de produção, mas outros estão parados.
 
 No Dia da Indústria, comemorado nesta segunda-feira (25), o setor acredita que os efeitos da pandemia serão maiores enquanto durar o distanciamento social. Pesquisas recentes da Federação das Indústrias do Estado do Rio de Janeiro (Firjan) mostram que os empresários ainda estão pessimistas para os próximos seis meses. “E isso é devido, principalmente, à falta de perspectiva do fim do 'lockdown' (confinamento ou bloqueio total). Enquanto os empresários não têm um horizonte de volta à normalidade, isso acaba afetando diretamente as expectativas”, disse à Agência Brasil o gerente de Estudos Econômicos da Firjan, Jonathas Goulart.
@@ -47,5 +46,3 @@ Fone: Agência Brasil – Imagem de destaque: REUTERS/Washington Alves/Direitos 
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## **Coordenação informou novas datas para divulgação de resultados, homologação e início das atividades.**
 
 Por conta do grande volume de propostas recebidas, a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) alterou os prazos do [edital nº 9 de 2020](http://capes.gov.br/images/novo_portal/editais/editais/28052020_Edital_9_2020.pdf) do [Programa de Combate a Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias). O resultado preliminar estava previsto para ser publicado a partir de 25 de maio e a nova previsão será a partir de 22 de junho. A iniciativa é uma das medidas da vinculada ao Ministério da Educação (MEC) para o enfrentamento da pandemia de coronavírus.
@@ -27,8 +26,6 @@ O programa é estruturado em duas fases. Na etapa inicial, 1.150 bolsas emergenc
 Já a segunda etapa seleciona 57 projetos, que receberão 550 bolsas e R$ 200 mil para despesas.
 
 Fonte: portalmec.gov.br / Imagem em destaque: Capes
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

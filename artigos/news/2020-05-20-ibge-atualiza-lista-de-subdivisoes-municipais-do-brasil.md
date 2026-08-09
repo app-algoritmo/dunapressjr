@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Levantamento, referente a 2019, acrescenta 111 novos distritos municipais.A estrutura territorial brasileira mantém 5.568 municípios desde 2013.
 
 O Instituto Brasileiro de Geografia e Estatística (IBGE) realizou mais uma atualização na lista de subdivisões municipais do País. O atual levantamento, referente a 2019, traz o acréscimo de 111 novos distritos municipais e três novos subdistritos ou regiões administrativas em relação ao levantamento anterior.
@@ -31,5 +30,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

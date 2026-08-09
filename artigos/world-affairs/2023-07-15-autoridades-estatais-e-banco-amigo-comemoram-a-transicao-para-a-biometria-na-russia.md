@@ -8,7 +8,6 @@ categories:
 - World Affairs
 ---
 
-
 ## Mas os russos não estão tão entusiasmados.
 
 O Sistema Bimétrico Unificado da Rússia (UBS), um banco de dados biométrico nacional operado comercialmente (não, não estou brincando – mais sobre isso depois), foi apresentado como um método seguro e eficaz de identificar os proles.
@@ -81,7 +80,7 @@ Agora, algumas observações do relato de Nakanune, que eu recomendo que você l
 
 *Infelizmente, as autoridades da Rússia iniciaram um curso de “escravização biométrica digital” de pessoas e não suavizarão sua posição. Dada a nossa dependência tecnológica do Ocidente, isso pode ter consequências inesperadas ao longo do tempo.*
 
-Para os interessados ​​em uma perspectiva diferente, Katyusha.org também [publicou ](https://katyusha.org/oczifrovka/nasha-zadacha-sformirovat-u-lyudej-privyichku-k-biometrii-czifrolobbistyi-rasskazali-o-svoix-planax-na-konferenczii-v-tass.html)[um relatório](https://katyusha.org/oczifrovka/nasha-zadacha-sformirovat-u-lyudej-privyichku-k-biometrii-czifrolobbistyi-rasskazali-o-svoix-planax-na-konferenczii-v-tass.html) sobre esta festa biométrica . Apesar das diferenças ideológicas (Nakanune - socialista, Katyusha - conservador), você descobrirá que as conclusões de Katyusha são muito semelhantes às que Nakanune comunicou a seus próprios leitores.[](https://katyusha.org/oczifrovka/nasha-zadacha-sformirovat-u-lyudej-privyichku-k-biometrii-czifrolobbistyi-rasskazali-o-svoix-planax-na-konferenczii-v-tass.html)
+Para os interessados ​​em uma perspectiva diferente, Katyusha.org também [publicou ](https://katyusha.org/oczifrovka/nasha-zadacha-sformirovat-u-lyudej-privyichku-k-biometrii-czifrolobbistyi-rasskazali-o-svoix-planax-na-konferenczii-v-tass.html)[um relatório](https://katyusha.org/oczifrovka/nasha-zadacha-sformirovat-u-lyudej-privyichku-k-biometrii-czifrolobbistyi-rasskazali-o-svoix-planax-na-konferenczii-v-tass.html) sobre esta festa biométrica . Apesar das diferenças ideológicas (Nakanune - socialista, Katyusha - conservador), você descobrirá que as conclusões de Katyusha são muito semelhantes às que Nakanune comunicou a seus próprios leitores.
 
 Não quero repetir como surgiu o UBS (foi levado às pressas pela Duma Estatal e depois assinado por Putin quando os russos se preparavam para o feriado de Ano Novo, ou seja, o governo usou com sucesso os mesmos truques que costumava não conseguir aplicar a lei nacional do código QR – o estado russo está aprendendo!), mas encorajo qualquer pessoa que não esteja familiarizada com esta história incrível e perturbadora a ler nossos relatórios anteriores sobre o assunto:
 

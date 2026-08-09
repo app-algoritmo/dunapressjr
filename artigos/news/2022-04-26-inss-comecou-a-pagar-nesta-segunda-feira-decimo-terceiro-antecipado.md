@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Até 6 de maio, 31 milhões de pessoas receberão a primeira parcela.
 
 Os aposentados e pensionistas do Instituto Nacional do Seguro Social (INSS) começam a receber nesta segunda-feira (25) a antecipação do décimo terceiro. Até 6 de maio, mais de 31 milhões de segurados receberão a primeira parcela, que será paga conforme o dígito final do Número de Inscrição Social (NIS).
@@ -19,25 +18,25 @@ Quem não tiver acesso à internet pode consultar a liberação do décimo terce
 **Confira o calendário de pagamento**
 
 Quem ganha o salário mínimo
-Final do NIS            Primeira parcela     Segunda parcela
-1                                 25 de abril                  25 de maio
-2                                 26 de abril                  26 de maio
-3                                 27 de abril                  27 de maio
-4                                 28 de abril                  30 de maio
-5                                 29 de abril                  31 de maio
-6                                 2 de maio                   1º de junho
-7                                 3 de maio                    2 de junho
-8                                 4 de maio                    3 de junho
-9                                 5 de maio                    6 de junho
-0                                 6 de maio                    7 de junho
+Final do NIS Primeira parcela Segunda parcela
+1 25 de abril 25 de maio
+2 26 de abril 26 de maio
+3 27 de abril 27 de maio
+4 28 de abril 30 de maio
+5 29 de abril 31 de maio
+6 2 de maio 1º de junho
+7 3 de maio 2 de junho
+8 4 de maio 3 de junho
+9 5 de maio 6 de junho
+0 6 de maio 7 de junho
 
 Quem recebe mais que o salário mínimo
-Final do NIS     Primeira parcela     Segunda parcela
-1 e 6                    2 de maio                   1º de junho
-2 e 7                    3 de maio                    2 de junho
-3 e 8                    4 de maio                    3 de junho
-4 e 9                    5 de maio                    6 de junho
-5 e 0                    6 de maio                    7 de junho
+Final do NIS Primeira parcela Segunda parcela
+1 e 6 2 de maio 1º de junho
+2 e 7 3 de maio 2 de junho
+3 e 8 4 de maio 3 de junho
+4 e 9 5 de maio 6 de junho
+5 e 0 6 de maio 7 de junho
 
 ***Fonte: INSS***
 
@@ -53,8 +52,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

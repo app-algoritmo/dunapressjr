@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Operação Polígrafo investiga fraudes na aquisição, por dispensa de licitação, de 100 mil kits de teste rápido para Covid-19, no valor de R$ 10,5 milhões.
 
 A Controladoria-Geral da União (CGU) participa, nesta quinta-feira (30), da Operação Polígrafo. O trabalho é realizado em parceria com a Polícia Federal (PF) e o Ministério Público de Rondônia (MPRO). O objetivo é combater supostas ilegalidades em dispensa de licitação, promovida pela Secretaria de Estado da Saúde (SESAU/RO), para aquisição de 100 mil kits de testes rápidos para diagnóstico da Covid-19. O montante envolvido é da ordem de R$ 10,5 milhões.
@@ -38,4 +37,4 @@ O MPRO também determinou a indisponibilidade de bens em nome da empresa investi
 
 Fonte: gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

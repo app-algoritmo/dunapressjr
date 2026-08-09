@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Corrente de comércio atinge US$ 20,76 bilhões no período; no acumulado do ano, saldo positivo é de US$ 47,94 bilhões, com corrente de comércio de US$ 299,70 bilhões.
 
 Abalança comercial brasileira registrou superávit de US$ 3,58 bilhões até a segunda semana de agosto, em um crescimento de 29,3%, pela média diária, em relação a agosto do ano passado. A corrente de comércio (soma das exportações e importações) alcançou US$ 20,76 bilhões, em alta de 50,4%. No acumulado do ano, o superávit chegou a US$ 47,94 bilhões, subindo 44,6%, e a corrente de comércio atingiu US$ 299,70 bilhões, um aumento de 34,9%, na comparação com o período de janeiro a agosto de 2020. Os dados foram divulgados nesta segunda-feira (16) pela Secretaria de Comércio Exterior (Secex) do Ministério da Economia.
@@ -37,10 +36,6 @@ Já na Indústria de Transformação as importações foram puxadas pelas altas 
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Iphan, autarquia vinculada ao MTur, aprovou o projeto de intervenções proposto pela Mitra Diocesana da cidade.
 
 Quem passeia pelo Centro Histórico de Petrópolis (RJ), logo tem a atenção captada pela Catedral de São Pedro de Alcântara. Um dos principais símbolos da cidade, este monumento vai passar pela maior restauração de sua história. O Instituto do Patrimônio Histórico e Artístico Nacional (Iphan), autarquia vinculada ao Ministério do Turismo, aprovou o projeto de intervenções, proposto pela Mitra Diocesana de Petrópolis. A execução conta com o apoio do Banco Nacional de Desenvolvimento Econômico e Social (BNDES), que, por meio do BNDES Fundo Cultural, vai investir R$ 13,1 milhões para revitalizar a fachada e os ambientes internos do edifício, além de implementar uma galeria de exposições.
@@ -31,7 +30,7 @@ Imagem: Wania Corredo
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

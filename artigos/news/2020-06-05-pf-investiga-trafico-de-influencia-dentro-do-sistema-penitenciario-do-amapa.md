@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Macapá/AP - A Polícia Federal deflagrou nesta sexta-feira (5/6) a Operação Rábula*, para desarticular organização criminosa que atua promovendo facilitação e elaboração de pareceres jurídicos junto ao Conselho Penitenciário Estadual, no estado do Amapá.
 
 Policiais Federais dão cumprimento a três mandados de busca e apreensão em Macapá/AP, além do pedido de suspensão do exercício da advocacia de um dos investigados. A investigação iniciou após análise de material arrecadado na Operação Alcatraz, deflagrada em fevereiro deste ano.
@@ -23,5 +22,3 @@ Os investigados poderão responder, na medida de suas responsabilidades, pelos c
 * Rábula* – *O nome atualmente é atrelado ao advogado que usa de ardis e chicanas para enredar as questões afetas à sua profissão.
 
 **Comunicação Social da Polícia Federal no Amapá**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

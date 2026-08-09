@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Documentos revelam que o governo federal e as seguradoras incentivaram os profissionais de saúde em Kentucky e na Califórnia a vacinar pacientes do Medicaid contra o COVID-19, oferecendo bônus com base na porcentagem de pacientes vacinados com sucesso.
 
 (Artigo de Brenda Baletti, Ph.D. republicado de [ChildrensHealthDefense.org](https://childrenshealthdefense.org/defender/doctors-bonus-payments-covid-vaccine-medicaid/) )
@@ -22,8 +21,6 @@ Os documentos ajudam a traçar um quadro do esforço mais amplo nos níveis fede
 As estratégias incluíram o fornecimento de centenas de milhões de dólares para a criação de materiais pró-vacina “adaptados culturalmente” e para o treinamento de “mensageiros de confiança” e “influentes” para promover a COVID-19 e as vacinas contra a gripe  [para](https://childrenshealthdefense.org/defender/cdc-grants-covid-vaccines-data-communities-of-color/)  comunidades negras em  [todos os estados](https://www.cdc.gov/vaccines/health-equity/downloads/vice-static-partner-map.pdf) .
 
 As revelações de Nass mostraram que esses esforços foram além de publicidade, campanhas de medo, pagamentos a pacientes e pagamentos a atores comunitários confiáveis ​​e incluíram, em alguns casos, incentivos financeiros diretos a provedores de assistência médica.
-
-[](https://www.brighteon.tv/)
 
 **Kentucky: Medicaid pagou aos médicos até US$ 250 por paciente vacinado do Medicaid**
 

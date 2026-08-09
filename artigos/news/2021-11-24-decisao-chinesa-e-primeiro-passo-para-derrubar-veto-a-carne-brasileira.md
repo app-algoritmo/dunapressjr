@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministra Tereza Cristina espera que liberação ocorra no próximo mês.
 
 A ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina, disse, nesta terça-feira (23), que a decisão das autoridades alfandegárias da China de liberar a entrada no país de carne bovina brasileira que tenha recebido o aval sanitário chinês antes de 4 de setembro é o “primeiro passo” para a retomada integral das exportações do produto brasileiro.
@@ -26,14 +25,10 @@ De acordo com a Organização Internacional de Saúde Animal (OIE, na sigla em i
 
 “Não temos este prejuízo [calculado], mas houve sim um prejuízo. O [preço da] arroba caiu e muitas indústrias tiveram que dar férias [para seus funcionários]. Realmente, houve um prejuízo inicial, mas, agora, a arroba do boi já voltou a subir, pois houve aberturas [para outros mercados]. O setor se movimentou rapidamente e passou a exportar [mais, para outros destinos]. As plantas [industriais] que estavam habilitadas a exportar para os EUA, por exemplo, exportaram mais – motivando uma reação [contrária] dos produtores norte-americanos", disse.
 
-A ministrou acrescentou que a Rússia anunciou uma nova cota global de importações. "Não é uma cota só para o Brasil, mas a qual o país poderá ter acesso e, com certeza, será um acesso grande, pois somos um grande exportador e já temos plantas [industriais] habilitadas [para vender para a Rússia]. Então, o setor mostrou que é forte e vai continuar exportando”, concluiu a ministra. 
+A ministrou acrescentou que a Rússia anunciou uma nova cota global de importações. "Não é uma cota só para o Brasil, mas a qual o país poderá ter acesso e, com certeza, será um acesso grande, pois somos um grande exportador e já temos plantas [industriais] habilitadas [para vender para a Rússia]. Então, o setor mostrou que é forte e vai continuar exportando”, concluiu a ministra.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Expectativa é que taxa suba de 12,75% para 13,25% ao ano.
 
 Em meio aos impactos da guerra no leste europeu e do nervosismo no mercado financeiro internacional, o Comitê de Política Monetária (Copom) do Banco Central (BC) iniciou nesta terça-feira (14) a quarta reunião do ano para definir a taxa básica de juros, a Selic. Nesta quinta-feira (15), ao fim do dia, o Copom anunciará a decisão.
@@ -17,7 +16,7 @@ Nas estimativas das instituições financeiras, o Copom deverá encerrar o ciclo
 
 Na ata da última reunião, os membros do Copom tinham sinalizado que pretendiam concluir o ciclo de alta da Selic porque as elevações dos últimos meses ainda estão sendo sentidas pelo mercado. No entanto, a guerra entre Rússia e Ucrânia passou a impactar a inflação brasileira, por meio do aumento dos combustíveis, de fertilizantes e de outras mercadorias importadas. Além disso, a instabilidade na economia norte-americana, que enfrenta a maior inflação nos últimos 40 anos, têm elevado a cotação do dólar em todo o planeta.
 
-O mercado financeiro sentiu o impacto da economia externa. A última edição do *boletim Focus* elevou a previsão de inflação oficial pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA) de [**8.89% para 9%**](http://%20https/agenciabrasil.ebc.com.br/economia/noticia/2022-06/mercado-financeiro-preve-inflacao-em-9-neste-ano) em 2022 
+O mercado financeiro sentiu o impacto da economia externa. A última edição do *boletim Focus* elevou a previsão de inflação oficial pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA) de [**8.89% para 9%**](http://%20https/agenciabrasil.ebc.com.br/economia/noticia/2022-06/mercado-financeiro-preve-inflacao-em-9-neste-ano) em 2022
 
 Para 2022, a [**meta de inflação**](https://agenciabrasil.ebc.com.br/economia/noticia/2019-06/cmn-fixa-em-35-meta-de-inflacao-para-2022) que deve ser perseguida pelo BC, definida pelo Conselho Monetário Nacional, é de 3,5%, com intervalo de tolerância de 1,5 ponto percentual para cima ou para baixo. Ou seja, o limite inferior é 2% e o superior é 5%. Os analistas de mercado consideram que o teto da meta será estourado pelo segundo ano consecutivo.
 
@@ -41,8 +40,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

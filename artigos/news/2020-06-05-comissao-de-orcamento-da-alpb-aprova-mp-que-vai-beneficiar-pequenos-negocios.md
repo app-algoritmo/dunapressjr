@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Comissão de Orçamento, Fiscalização, Tributação e Transparência da Assembleia Legislativa da Paraíba (ALPB) aprovou, nesta quinta-feira (4), durante reunião remota, realizada através do sistema de videoconferência, a Medida Provisória (MP) 291/2020, encaminhada pelo Governo do Estado, que traz benefícios para as empresas paraibanas.
 
 A MP possibilita a remissão e anistia dos créditos tributários a algumas empresas da Paraíba no período de 2002 a 2020. A iniciativa vai beneficiar especialmente os pequenos negócios, que tiveram seus ganhos comprometidos consideravelmente desde o início da pandemia do coronavírus (Covid-19).
@@ -21,5 +20,3 @@ Fonte: Assembleia Legislativa da Paraíba
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 Eu sou aquele que te espera...
 O teu carro tem um som especial e eu posso reconhecê-lo entre mil.
 Os teus passos têm uma campainha mágica, são música para mim.
@@ -47,7 +46,3 @@ Autor Desconhecido
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

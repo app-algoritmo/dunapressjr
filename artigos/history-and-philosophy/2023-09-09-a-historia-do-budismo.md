@@ -7,12 +7,11 @@ categories:
 - History and Philosophy
 ---
 
-
 O budismo, uma das religiões mais antigas e praticadas do mundo, tem suas origens há mais de 2.500 anos. Esta prática religiosa e filosófica, que começou na Índia, atravessou fronteiras e continentes, encontrando adeptos de diversas culturas. Este artigo busca ilustrar brevemente a trajetória desta religião fascinante. O budismo é uma religião mundial fundada pelo Buda no norte da Índia no século IV aC. Cerca de 500 milhões de pessoas – cerca de sete por cento da população mundial – professam o budismo. As áreas centrais são o Sul e o Sudeste Asiático , os Himalaias , o Tibete e a Mongólia . Também está espalhado pela América do Norte e Europa. O Buda e seus ensinamentos ( *dharma* ) são centrais para o Budismo e constituem duas das "três joias" do Budismo ( *triratna* ). O Buda conquistou o "despertar", que envolve a compreensão das *Quatro Nobres Verdades* , e alcançou o nirvana ("extinção"), o que significa que ele se tornou livre de todo renascimento . Este é o objetivo final de todos os budistas.O Budismo não é apenas um ensinamento religioso e filosófico , mas através da sua ética deixou uma forte marca nas sociedades com as quais tem contactado. O budismo tem sido o principal comunicador da civilização indiana na Ásia e um poderoso impulso cultural na arte, literatura, filosofia e governo estatal durante 2.500 anos. O budismo está hoje dividido em duas tradições principais: *Theravada* e *Mahayana*.
 
 ## Doutrina da fé
 
-O budismo adotou o conceito indiano universal de carma ("a lei das ações"). Karma significa causalidade moral , e a situação de vida do indivíduo é vista como resultado de boas e más ações em vidas anteriores. A luxúria, ou "sede", e a ignorância fazem com que a pessoa renasça de uma vida para outra. Ao mesmo tempo, a doutrina do *anatman* (“não-eu” ou “não-alma”) é fundamental no Budismo. Nenhuma alma eternamente existente vagueia pelo *samsara* (o ciclo de nascimento, morte e renascimento), mas o homem consiste em cinco elementos em constante mudança:[](https://snl.no/kausalitet)
+O budismo adotou o conceito indiano universal de carma ("a lei das ações"). Karma significa causalidade moral , e a situação de vida do indivíduo é vista como resultado de boas e más ações em vidas anteriores. A luxúria, ou "sede", e a ignorância fazem com que a pessoa renasça de uma vida para outra. Ao mesmo tempo, a doutrina do *anatman* (“não-eu” ou “não-alma”) é fundamental no Budismo. Nenhuma alma eternamente existente vagueia pelo *samsara* (o ciclo de nascimento, morte e renascimento), mas o homem consiste em cinco elementos em constante mudança:
 
 - forma externa
 

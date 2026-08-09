@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O agrônomo Adão Felipe dos Santos é doutor em Produção Vegetal pela Universidade Estadual Paulista (Unesp) e professor-adjunto de Agricultura de Precisão no Departamento de Agricultura da Escola de Ciências Agrárias de Lavras, na Universidade Federal de Lavras (Esal/Ufla). Adão fundou e coordena o Grupo de Extensão e Pesquisa em Agricultura Digital (Gepad/Ufla), onde trabalha para identificar com exatidão o ponto ideal para colheita do amendoim. Como bolsista do Programa de Doutorado-Sanduíche ([PDSE](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/multinacional/programa-de-doutorado-sanduiche-no-exterior-pdse)) da CAPES, ele pôde realizar parte da sua pesquisa na *University of Georgia*, nos Estados Unidos.
 
  Resumo da tese (Foto: Arquivo Pessoal)
@@ -41,7 +40,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

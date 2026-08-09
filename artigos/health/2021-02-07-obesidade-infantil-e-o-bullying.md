@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Como resultado de hábitos não saudáveis, a obesidade tem sido assunto frequente nos consultórios médicos. Trata-se de uma doença crônica caracterizada pelo acúmulo de gordura corporal, que possui múltiplas causas e tem feito parte da vida dos brasileiros cada vez mais cedo
 
 Falando sobre os hábitos atuais, uma importante correlação é o aumento da obesidade em decorrência do consumo elevado de alimentos ultraprocessados e da redução de práticas de atividade física. Mas a preocupação não para por aí: a obesidade ainda é fator de risco para diversas doenças, como hipertensão, diabetes, doenças cardiovasculares e câncer.
@@ -22,7 +21,7 @@ Segundo Monique Pimentel, psicóloga organizacional da Maternidade Escola Januá
 
 As consequências disso podem ser muito sérias durante a infância e também na fase adulta. A psicóloga explica que estudos já atestam que crianças vítimas de bullying apresentam maior risco de desenvolver problemas de saúde na vida adulta, como algum tipo de transtorno psiquiátrico, compulsão alimentar, vício do cigarro/álcool e diagnóstico de doenças graves, além dos efeitos nas relações sociais e profissionais.
 
-A profissional orienta que a melhor maneira para lidar com o problema é a conscientização e o diálogo. “É preciso que a rede de apoio (pais, professores, colegas e demais atores sociais) esteja alinhada para prestar o cuidado adequado tanto à vítima do bullying como também ao agressor, pois essa agressividade pode estar camuflando outras necessidades”, completa. 
+A profissional orienta que a melhor maneira para lidar com o problema é a conscientização e o diálogo. “É preciso que a rede de apoio (pais, professores, colegas e demais atores sociais) esteja alinhada para prestar o cuidado adequado tanto à vítima do bullying como também ao agressor, pois essa agressividade pode estar camuflando outras necessidades”, completa.
 
 ## **Vamos lá. É 1, 2, 3 e já!**
 
@@ -47,8 +46,6 @@ Através do link abaixo você obtém 25% de desconto, também contribuirá com a
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
 Obrigado pelo apoio!
 
 Imagem destacada: Pixabay
@@ -64,8 +61,6 @@ Através do link abaixo você obtém 25% de desconto, também contribuirá com a
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
 Obrigado pelo apoio!
 
 Imagem destacada: Pixabay
@@ -80,7 +75,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

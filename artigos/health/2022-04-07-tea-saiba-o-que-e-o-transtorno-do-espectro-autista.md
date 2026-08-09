@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 O TEA é um distúrbio caracterizado pela alteração das funções do neurodesenvolvimento, que podem englobar alterações qualitativas e quantitativas da comunicação, seja na linguagem verbal ou não verbal, na interação social e do comportamento, como: ações repetitivas, hiperfoco para objetos específicos e restrição de interesses. Dentro do espectro são identificados graus que podem ser leves e com total independência, apresentando discretas dificuldades de adaptação, até níveis de total dependência para atividades cotidianas ao longo de toda a vida.
 
 **Como o TEA é diagnosticado?**
@@ -37,7 +36,3 @@ Fonte: https://www.gov.br/saude
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

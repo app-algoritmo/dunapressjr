@@ -7,7 +7,6 @@ categories:
 - Social networks
 ---
 
-
 **"Um juiz de Alagoas ordenou a detenção da jornalista Maria Aparecida, baseando-se em um trecho da decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que foi usado para embasar a prisão do jornalista Allan dos Santos."**
 
 **Como Garantir a Liberdade de Imprensa e Proteger Jornalistas no Brasil**
@@ -23,8 +22,6 @@ A liberdade de imprensa é um dos pilares fundamentais de qualquer democracia. E
 A violência estrutural contra jornalistas, a propriedade altamente concentrada da mídia e os efeitos da desinformação representam grandes desafios para a liberdade de imprensa.
 
 ## O Brasil está classificado em 110º lugar entre 180 países no [Índice Mundial de Liberdade de Imprensa](https://rsf.org/en/index) de 2022 da RSF .
-
-[](https://rsf.org/en/index)
 
 ## Desafios Enfrentados pela Imprensa no Brasil
 

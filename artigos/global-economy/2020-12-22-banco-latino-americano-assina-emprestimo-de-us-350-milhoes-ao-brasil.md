@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Operação havia sido aprovada em agosto.
 
 O Banco de Desenvolvimento da América Latina (CAF) informou nesta segunda-feira (21) ter assinado um empréstimo de US$ 350 milhões – em torno de R$ 1,8 bilhão – para o Ministério da Economia enfrentar a crise gerada pela pandemia de covid-19.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

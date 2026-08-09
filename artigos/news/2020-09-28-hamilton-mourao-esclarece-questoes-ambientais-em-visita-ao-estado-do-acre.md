@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Vice-presidente da República e presidente do Conselho Nacional da Amazônia Legal, Antonio Hamilton Martins Mourão, cumpriu agenda na cidade de Rio Branco, no Acre, voltada às questões ambientais na região. Na tarde do dia 22, o Vice-Presidente embarcou rumo à Rio Branco, sobrevoando duas áreas no estado de Rondônia mapeadas pelos satélites do Centro Gestor e Operacional do Sistema de Proteção da Amazônia (Censipam). Na primeira área, constatou que se tratava de terreno já desmatado e em preparo pelo proprietário da terra.
 
 “Uma delas, nitidamente, é a área que já está desmatada há muito tempo, é o proprietário tratando o terreno pelo meio do fogo. É o modo antiquado, é um problema que nós temos que solucionar aqui na área da Amazônia”, afirmou Mourão.
@@ -37,5 +36,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

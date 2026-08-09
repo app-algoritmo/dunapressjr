@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Na ocasião, o secretário-executivo Marcelo Guaranys, e integrantes da Secint e da Sepec se reuniram com o vice-secretário de Comércio norte-americano, Don Graves.
 
 O aprofundamento da relação comercial entre o Brasil e os Estados Unidos, o compartilhamento de melhores práticas ambientais, o aumento da competitividade das empresas brasileiras e, num sentido mais amplo, o fortalecimento de laços entre os dois países com vistas à liderança conjunta nas Américas foram os assuntos de destaque na reunião realizada na última terça-feira (17) entre o secretário-executivo do Ministério da Economia, Marcelo Guaranys, e o vice-secretário de Comércio norte-americano, Don Graves.
@@ -27,8 +26,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

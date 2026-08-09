@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-Objetivo é atrair novos investimentos e promover o desenvolvimento e o crescimento sustentável no País. 
+Objetivo é atrair novos investimentos e promover o desenvolvimento e o crescimento sustentável no País.
 
 O Governo Federal lançou, nesta segunda-feira (28), o Programa Mineração e Desenvolvimento (PMD). O objetivo é atrair novos investimentos e promover o crescimento e desenvolvimento sustentável da mineração no país.
 
@@ -39,7 +38,7 @@ Dentre as metas previstas, estão:
 - Aperfeiçoar os mecanismos de fiscalização e controle;
 - Divulgar a mineração como atividade essencial para a sociedade e a sua importância para o país; e
 - Aprofundar a interação da sociedade com o setor mineral.
-Para acessar o documento com as principais informações sobre o Programa Mineração e Desenvolvimento, basta clicar [aqui](http://www.mme.gov.br/documents/78404/0/PAM_V4.pdf/1ac2c603-2f11-9efd-ee2a-3de8067b2e65). 
+Para acessar o documento com as principais informações sobre o Programa Mineração e Desenvolvimento, basta clicar [aqui](http://www.mme.gov.br/documents/78404/0/PAM_V4.pdf/1ac2c603-2f11-9efd-ee2a-3de8067b2e65).
 
 ### Setor de mineração brasileiro
 
@@ -58,5 +57,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Procuradoria de Defesa do Consumidor (Procon) de Itajaí orienta a população sobre como proceder em caso de compra de produtos que apresentem vícios/defeitos em pouco tempo de uso. Pelo Código de Defesa do Consumidor (CDC), o procedimento previsto é enviar o produto defeituoso à assistência autorizada pela fabricante, que terá prazo de 30 dias para efetuar o reparo. Vale ressaltar que eventuais custos de envio não são de responsabilidade do consumidor.
 
 Segundo o órgão municipal, caso o prazo não seja respeitado, o consumidor poderá optar pela substituição do produto, abatimento do preço ou, ainda, pelo estorno do valor pago. Quando tratar-se de bem essencial, ou quando o reparo puder comprometer as características, a qualidade ou diminuir o valor do produto, as alternativas previstas em lei poderão ser pleiteadas imediatamente pelo comprador (troca, abatimento ou devolução do valor pago).
@@ -21,5 +20,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

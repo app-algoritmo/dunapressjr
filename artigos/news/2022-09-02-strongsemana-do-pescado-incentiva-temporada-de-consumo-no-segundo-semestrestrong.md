@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Evento nacional vai de 1° a 15 de setembro.
 
 Com o objetivo de estimular o consumo de pescados no país, o setor produtivo nacional lança a 19ª Semana do Pescado 2022. O evento deve movimentar todas as regiões do país, envolvendo supermercados, restaurantes e feiras livres, com espaços gastronômicos abertos para a população, no período de 1° a 15 de setembro.
@@ -28,7 +27,7 @@ Na média, o consumo atual de pescado no Brasil é de 10 quilos por pessoa, por 
 
 ### Desempenho
 
-O Paraná é o líder nacional de produção de peixes, com 172 mil toneladas em 2020, contra 154,2 mil toneladas no ano anterior. O destaque no estado é a tilápia, cuja produção cresceu 11,5%. Em segundo lugar, aparece São Paulo, com crescimento de 6,9% em 2020. 
+O Paraná é o líder nacional de produção de peixes, com 172 mil toneladas em 2020, contra 154,2 mil toneladas no ano anterior. O destaque no estado é a tilápia, cuja produção cresceu 11,5%. Em segundo lugar, aparece São Paulo, com crescimento de 6,9% em 2020.
 
 O bom desempenho dos peixes nativos coloca Rondônia na terceira posição no *ranking* produtor, mesmo com queda de 4,8% em 2020. O volume produzido de 65,5 mil toneladas ainda é bem acima do quarto colocado que é Santa Catarina, cuja produção cresceu 3% e atingiu 51,7 mil toneladas.
 
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

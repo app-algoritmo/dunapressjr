@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 "Temos estado envolvidos em uma avaliação constante sobre como garantir a proteção da privacidade dos cidadãos americanos e de suas informações à medida que elas transitam", acrescentou Pompeo na quarta-feira.
 
 O secretário de Estado dos EUA, Mike Pompeo, disse na terça-feira que os EUA estão "olhando" para proibir o TikTok , a popular rede de compartilhamento de vídeos curtos, frequentemente usada para vídeos de dança e lábios, de operar nos Estados Unidos. 
@@ -16,7 +15,7 @@ O TikTok é de propriedade da ByteDance, uma empresa com sede em Pequim. De aco
 
  Segundo o secretário de Estado, "isso não está relacionado a nenhum negócio ou empresa em particular, mas à segurança nacional americana, e estamos nos esforçando para fazer isso direito".
 
-Ele acrescentou que suas observações sobre o TikTok estavam no contexto dos EUA avaliando a ameaça do Partido Comunista Chinês. "Conversamos sobre isso no contexto da ZTE, conversamos sobre isso no contexto da Huawei e agora estamos avaliando cada instância em que acreditamos que os dados dos cidadãos dos EUA que eles têm em seus telefones ou em seu sistema ou em seus registros de assistência médica - queremos garantir que o Partido Comunista Chinês não tenha uma maneira de acessá-lo facilmente ".“O TikTok é liderado por um CEO americano, com centenas de funcionários e principais líderes em segurança, proteção, produto e políticas públicas aqui nos EUA. 
+Ele acrescentou que suas observações sobre o TikTok estavam no contexto dos EUA avaliando a ameaça do Partido Comunista Chinês. "Conversamos sobre isso no contexto da ZTE, conversamos sobre isso no contexto da Huawei e agora estamos avaliando cada instância em que acreditamos que os dados dos cidadãos dos EUA que eles têm em seus telefones ou em seu sistema ou em seus registros de assistência médica - queremos garantir que o Partido Comunista Chinês não tenha uma maneira de acessá-lo facilmente ".“O TikTok é liderado por um CEO americano, com centenas de funcionários e principais líderes em segurança, proteção, produto e políticas públicas aqui nos EUA.
 
 Não temos prioridade maior do que promover uma experiência de aplicativo segura para nossos usuários. Nunca fornecemos dados de usuários ao governo chinês, nem o faríamos se solicitado ”, disse um porta-voz à CNBC em resposta aos comentários de Pompeo.“A Lei de Segurança Nacional da China exige que, se solicitada, qualquer empresa chinesa forneça seus dados de usuário ao Partido e seus serviços de segurança”, disse Bonnie Glaser, diretora do Projeto China Power no Centro de Estudos Estratégicos e Internacionais, ao *The Jerusalem Post* .
 
@@ -46,6 +45,6 @@ Fonte The Jerusalem Post****
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

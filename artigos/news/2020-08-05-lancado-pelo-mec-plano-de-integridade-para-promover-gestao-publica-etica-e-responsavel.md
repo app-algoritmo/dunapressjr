@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Medidas como capacitação e reorganização da estrutura de cargos e regimentos são parte do plano.
 
 Incentivar e promover um ambiente ético, transparente e com responsabilidade. Para concretizar essas características na gestão pública, a partir dessa segunda-feira, 1º de junho, o Ministério da Educação (MEC) conta com um Plano de Integridade. Com ele, serão implementadas medidas para a política de integridade na gestão das políticas públicas de educação no país.
@@ -41,7 +40,7 @@ Fonte: gov.br / Imagem em destaque: Faveni
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-As inscrições para o 1º Festival da Canção de Itajaí seguem abertas até as 23h59 do dia 07 de julho. A iniciativa integra a programação do aniversário de 162 anos do Município e contemplará artistas de música autoral em três categorias: Ensino Fundamental II, Ensino Médio e Livre. Os interessados devem preencher o formulário on-line disponível [aqui](https://bit.ly/3kKCCpZ).
+As inscrições para o 1º Festival da Canção de Itajaí seguem abertas até as 23h59 do dia 07 de julho. A iniciativa integra a programação do aniversário de 162 anos do Município e contemplará artistas de música autoral em três categorias: Ensino Fundamental II, Ensino Médio e Livre. Os interessados devem preencher o formulário on-line disponível aqui.
 
 O festival tem como objetivo promover e desenvolver a cultura, fomentar a música e incentivar novos compositores. Também busca desenvolver o potencial artístico dos candidatos, elevar o intercâmbio músico-cultural regional e oferecer à população a oportunidade de prestigiar a arte e a cultura expressas por meio da música.
 
@@ -45,8 +44,6 @@ Fonte: https://itajai.sc.gov.br/noticias
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
 
-Gratuitamente, clique e comece já!
-
 Fonte: https://itajai.sc.gov.br/noticias
 Ver também:
 Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.
@@ -54,5 +51,3 @@ Como estabelecer metas de estudos.
  A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.
 ________________________________________
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
- 
-Gratuitamente, clique e comece já!

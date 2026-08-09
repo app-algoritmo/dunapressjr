@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Situada às margens do rio Branco, a capital mais ao norte do Brasil encanta por suas riquezas naturais.
 
 Praia de rio, igarapés, cavalos selvagens, etnoturismo, turismo de aventura e de pesca. É possível encontrar tudo isso em um só lugar: Boa Vista. A capital de Roraima, que completa 130 anos nesta quinta-feira (09.07), é banhada pela Floresta Amazônica e possui diversos atrativos culturais e naturais que atraem turistas de todos os cantos do mundo.
@@ -30,7 +29,7 @@ Imagem principal: Ederson Brito
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

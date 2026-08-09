@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Consultar, corrigir dados do cadastro e saber se o benefício está disponível são os principais serviços pela internet.
 
 Agricultores familiares beneficiários do Garantia-Safra podem consultar dados das inscrições de forma online, serviço disponibilizado pela Secretaria de Política Agrícola, do Ministério da Agricultura, Pecuária e Abastecimento (Mapa).
@@ -33,8 +32,6 @@ O Garantia-Safra é uma ação do Programa Nacional de Fortalecimento da Agricul
 Criado pela Lei nº 10.420, de 10 de abril de 2002, o Fundo Garantia-Safra, de natureza financeira, vinculado ao Mapa, instituiu o benefício Garantia-Safra visando atender aos agricultores familiares da Região Nordeste e norte do estado de Minas Gerais.
 
 Fonte: gov.br / Imagem em destaque: caixa.gov.br
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

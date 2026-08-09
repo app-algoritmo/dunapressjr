@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A iniciativa contempla alunos de institutos e universidades federais que ofertam atividades não presenciais durante a pandemia
 
 Computadores que já foram utilizados por servidores do Ministério da Educação (MEC), agora serão destinados às mãos de alunos de baixa renda matriculados em institutos e universidades federais. Os equipamentos foram substituídos por modelos mais atuais, porém, estão em perfeitas condições de uso e dispõem de configurações suficientes para atender às demandas e às necessidades da rotina dos alunos, como a edição de trabalhos acadêmicos e a possibilidade de acesso à internet.
@@ -26,7 +25,7 @@ Fonte: gov.br / Imagem em destaque: Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

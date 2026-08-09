@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para o ministro, a atividade econômica está em recuperação no país.
 
 O ministro da Economia, Paulo Guedes, afirmou nesta segunda-feira (19) que a economia brasileira está em recuperação e o recuo do Produto Interno Bruto (PIB) neste ano será menor do que o esperado inicialmente.
@@ -37,5 +36,3 @@ O ministro acrescentou que a manutenção do teto é uma “grande luta”. “E
 Fonte: Agência Brasil – Imagem de destaque: Alan Santos/PR
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Verbas de outros anos para combate à covid serão de R$ 15,7 bilhões.
 
 Puxado por despesas obrigatórias e pelas emendas de relator, o estoque dos restos a pagar somará R$ 233,7 bilhões em 2022, com alta de R$ 5,8 bilhões (5,6%) sobre 2021, quando os restos a pagar somaram R$ 227,9 bilhões. A estimativa foi divulgada nesta quinta-feira (27) pelo Tesouro Nacional.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

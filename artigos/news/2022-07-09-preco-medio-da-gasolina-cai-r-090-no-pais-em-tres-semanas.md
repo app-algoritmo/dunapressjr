@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Dados fazem parte de levantamento feito pela ANP.
 
 O valor médio da gasolina nas últimas três semanas caiu R$ 0,90 no país, invertendo a tendência de alta que vinha se verificando desde o início do ano. O estado com menor valor médio do litro da gasolina comum, na última semana é o Amapá, a R$ 5,54. Já o estado com maior valor médio é o Piauí, com R$ 7,25.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

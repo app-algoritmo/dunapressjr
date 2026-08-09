@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Grupo que mais contribuiu para a alta inflacionária foi habitação.
 
 O estudo Indicador de Inflação por Faixa de Renda, divulgado nesta sexta-feira (12) pelo Instituto de Pesquisa Econômica Aplicada (Ipea), mostrou aceleração da taxa de inflação para todas as faixas de renda no mês de outubro deste ano, sendo maior para famílias de menor renda pelo sétimo mês consecutivo. Para essa parcela da população, a taxa de 1,35% ficou 0,15 ponto percentual acima da taxa das famílias de maior renda (1,2%). Em outubro do ano passado, as taxas apuradas foram de 0,98% para as famílias de renda mais baixa e 0,82% para as famílias de renda mais alta.
@@ -28,14 +27,10 @@ Para as famílias com maiores rendas, a inflação acumulada no período sofreu 
 
 ## No ano
 
-Segundo o estudo do Ipea, a maior pressão inflacionária observada de janeiro a outubro de 2021 ocorreu nas faixas de renda média-baixa e muito baixa, com altas de 8,59% e 8,57%, respectivamente. Para os mais ricos, a taxa ficou menor, da ordem de 7,50%. 
+Segundo o estudo do Ipea, a maior pressão inflacionária observada de janeiro a outubro de 2021 ocorreu nas faixas de renda média-baixa e muito baixa, com altas de 8,59% e 8,57%, respectivamente. Para os mais ricos, a taxa ficou menor, da ordem de 7,50%.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Agência cita riscos fiscais para justificar decisão.
 
 A agência de classificação de risco Fitch manteve negativa a perspectiva da nota da dívida pública brasileira. A decisão foi divulgada no fim da tarde desta quarta-feira (18) e ocorre seis meses depois de a agência ter [**piorado a perspectiva**](https://agenciabrasil.ebc.com.br/economia/noticia/2020-05/fitch-reduz-para-negativa-perspectiva-da-nota-do-brasil) a nota do país.
@@ -29,5 +28,3 @@ No início de abril, a S&P tinha rebaixado a perspectiva da nota brasileira. Na 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

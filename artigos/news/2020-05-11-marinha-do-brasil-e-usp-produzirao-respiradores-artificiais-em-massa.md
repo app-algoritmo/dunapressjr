@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em tempos de notícias ruins, medo exacerbado, por vezes proposital e criado pela mídia tradicional e a controlada, temos sim notícias boas e que vem de encontro ao caos social que estamos vivenciando.
 
 Isto porque a Marinha do Brasil, em parceria com a Universidade de São Paulo, iniciará a fabricação de respiradores artificiais, com foco em sanar a falta de estrutura hospitalar para os problemas decorrentes da epidemia do novo vírus, bem como a falta de investimentos neste equipamento tido com tão importante no tratamento das pessoas afetadas.
@@ -16,7 +15,6 @@ Sendo assim, a produção se dará em torno de 25 até 50 ventiladores pulmonare
 
 Fonte da imagem e notícia: Jornal da USP - [aqui](https://jornal.usp.br/institucional/usp-e-marinha-do-brasil-se-preparam-para-produzir-ventiladores-pulmonares/).
 Foto: Cecília Bastos - USP
- 
 
 Olá amigos. Ajude-nos a levar o jornalismo independente a todas as partes!
 
@@ -26,4 +24,4 @@ Em uma época em que notícias falsas e distorcidas estão em todas as partes, s
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com, com artigos, informações gerais e cursos que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-https://dunapress.org/subscription-plan/?ref=Leonardo
+https://dunapress.org/subscription-plan/

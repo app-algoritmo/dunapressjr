@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## As exportações totais do agronegócio somaram mais de US$ 8 bilhões.
 
 As vendas externas de açúcar foram recorde em outubro de 2020, com aumento de 121%, passando de US$ 543,96 milhões em outubro do ano passado para US$ 1,20 bilhão no mesmo mês deste ano. **A quantidade exportada foi recorde para toda a série histórica, com 4,2 milhões de toneladas.**
@@ -25,5 +24,3 @@ As exportações totais do agronegócio em outubro contabilizaram US$ 8,18 bilh�
 Fonte: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

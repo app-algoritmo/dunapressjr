@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Pesquisa é da Fundação Getulio Vargas.
 
 O Índice de Confiança do Comércio, calculado pela Fundação Getulio Vargas (FGV), em todo o país, caiu 18,5 pontos de fevereiro para março. Com isso, o indicador chegou a 72,5 pontos, em uma escala de zero a 200, o menor patamar desde maio do ano passado (67,4 pontos).
@@ -22,10 +21,6 @@ Já o Índice de Expectativas, que apura a confiança no futuro, teve uma queda 
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
-Obrigado pelo apoio!  
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

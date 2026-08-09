@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O atendimento de crianças até 14 anos, sem sintomas de doenças respiratórias, está em novo endereço. Desde 1º de dezembro, a Unidade de Atendimento Infantil do Município passou a funcionar junto ao Hospital Pequeno Anjo, que venceu a licitação para oferta do serviço. No local, as crianças são atendidas em recepção separada dos demais casos sintomáticos de COVID-19.
 
 **[> Leia mais notícias sobre Coronavírus](http://itajai.sc.gov.br/coronavirus)**
@@ -30,7 +29,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

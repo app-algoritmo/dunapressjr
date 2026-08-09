@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Caged registra criação de 414,5 mil vagas com carteira assinada no mês.
 
 Pelo quinto mês consecutivo, o número de contratações com carteira assinada superou o de demissões no Brasil. Segundo dados do Cadastro Geral de Empregados e Desempregados (Caged) divulgados nesta quarta-feira (23) , o país criou 414.556 vagas de emprego em novembro. O número é o melhor da série histórica da pesquisa, iniciada em 1992.
@@ -34,8 +33,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

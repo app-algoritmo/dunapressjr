@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí, por meio da Fundação Municipal de Esporte e Lazer (FMEL), informa nesta quarta-feira (09) que ficam suspensos por tempo indeterminado os eventos de verão de 2021. A decisão é em virtude da pandemia do novo coronavírus (Covid-19).
 
 Os eventos de verão tradicionalmente atraem diversas pessoas e são realizados sempre em janeiro. Em virtude da pandemia, os eventos não poderiam ser realizados dentro dos moldes originais, como nos anos anteriores.
@@ -31,7 +30,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa de valores tem primeira queda semanal após três semanas de alta.
 
 Em um dia de volatilidade no mercado financeiro, o dólar subiu pela primeira vez depois de sete quedas seguidas. Mesmo assim, a moeda norte-americana acumulou a quarta semana consecutiva de recuo. A bolsa de valores subiu na sessão, mas não conseguiu ultrapassar os 121 mil pontos e teve a primeira queda semanal após três semanas de alta.
@@ -27,5 +26,3 @@ Taxas mais altas nos Estados Unidos pressionam o câmbio em países emergentes, 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Não é surpresa para ninguém o risco que o cigarro oferece para a saúde. Essa é uma informação bastante disseminada, até mesmo nas carteiras comercializadas. Mas um ponto importante, e que talvez muita gente deixe passar batido, é sobre o tabagismo passivo. E quando as crianças são expostas a ele, os perigos a curto, médio e longo prazo só aumentam.  
+Não é surpresa para ninguém o risco que o cigarro oferece para a saúde. Essa é uma informação bastante disseminada, até mesmo nas carteiras comercializadas. Mas um ponto importante, e que talvez muita gente deixe passar batido, é sobre o tabagismo passivo. E quando as crianças são expostas a ele, os perigos a curto, médio e longo prazo só aumentam.
 
 Quando um cigarro é aceso, somente uma parte da fumaça é tragada pelo fumante. O restante dela é lançada ao ambiente pela ponta acesa. É aí que entra o fumante passivo! Mas vale lembrar que são expostas a esse consumo involuntário não só as pessoas que convivem com fumantes, mas todas aquelas que estão por perto no momento em que a fumaça é expelida. Inclusive as crianças.
 
@@ -52,7 +51,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

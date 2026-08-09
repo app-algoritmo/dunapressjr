@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-A versão preliminar do Plano Estratégico 2020-2027 do Ministério da Agricultura, Pecuária e Abastecimento (Mapa) já está disponível no Portal da Agricultura. Desenvolvido de forma coletiva e colaborativa, por meio de oficinas realizadas desde 2019, e estruturado pela Coordenação de Planejamento Estratégico da Assessoria de Gestão Estratégica do Gabinete da Ministra , o Plano Estratégico 2020-2027 traz, de forma sintética, a missão, a visão de futuro, os valores organizacionais e as estratégias do Mapa para o período. 
+A versão preliminar do Plano Estratégico 2020-2027 do Ministério da Agricultura, Pecuária e Abastecimento (Mapa) já está disponível no Portal da Agricultura. Desenvolvido de forma coletiva e colaborativa, por meio de oficinas realizadas desde 2019, e estruturado pela Coordenação de Planejamento Estratégico da Assessoria de Gestão Estratégica do Gabinete da Ministra , o Plano Estratégico 2020-2027 traz, de forma sintética, a missão, a visão de futuro, os valores organizacionais e as estratégias do Mapa para o período.
 
 Iniciada em 2005, a construção e implementação da Gestão Estratégica no Ministério gerou importantes mudanças organizacionais, como a melhoria da participação em missões internacionais e a recente reestruturação visando incorporar novas responsabilidades atribuídas ao Mapa a partir de 2019.
 
@@ -29,8 +28,6 @@ Para mais informações entre em contato com a Assessoria de Gestão Estratégic
 Fonte: gov.br/mec / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 - U$ 1,00 mensal
 

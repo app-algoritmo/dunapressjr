@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É maior saldo positivo para agosto na série histórica do BC.
 
 As contas externas registraram saldo positivo em agosto pelo quinto mês seguido, informou hoje (23) o Banco Central (BC).
@@ -40,7 +39,7 @@ As viagens internacionais têm sido afetadas pelas restrições de entrada e sa�
 
 Em agosto, o déficit em renda primária (lucros e dividendos, pagamentos de juros e salários) chegou a US$ 1,188 bilhão, contra US$ 8,165 bilhões no mesmo período de 2019. De janeiro a agosto, o saldo negativo ficou em US$ 28,464 bilhões, ante US$ 39,092 bilhões em igual período do ano passado.
 
-A conta de renda secundária (gerada em uma economia e distribuída para outra, como doações e remessas de dólares, sem contrapartida de serviços ou bens) teve resultado positivo de US$ 295 milhões, contra US$ 325 milhões em agosto de 2019. Nos oito primeiros meses do ano, o resultado positivo chegou a US$ 1,782 bilhão, ante US$ 697 milhões em igual período de 2019. 
+A conta de renda secundária (gerada em uma economia e distribuída para outra, como doações e remessas de dólares, sem contrapartida de serviços ou bens) teve resultado positivo de US$ 295 milhões, contra US$ 325 milhões em agosto de 2019. Nos oito primeiros meses do ano, o resultado positivo chegou a US$ 1,782 bilhão, ante US$ 697 milhões em igual período de 2019.
 
 De acordo com o chefe do Departamento de Estatísticas do Banco Central, Fernando Rocha, a alta do dólar tem incentivado o envio de recursos de brasileiros que moram no exterior para a família no Brasil.
 
@@ -50,12 +49,10 @@ Os ingressos líquidos em investimentos diretos no país (IDP) somaram US$ 1,430
 
 De janeiro a agosto, o IDP chegou a US$ 26,957 bilhões, ante US$ 46 bilhões nos oito primeiros meses de 2019. Nos 12 meses encerrados em agosto de 2020, o IDP totalizou US$ 54,5 bilhões, correspondendo a 3,51% do PIB, em comparação a US$ 62,6 bilhões (3,94% do PIB) em julho. Esse é o menor resultado acumulado em 12 meses desde agosto de 2010, quando ficou em US$ 50,795 bilhões.
 
-Em agosto, os investimentos em carteira no mercado doméstico totalizaram ingressos líquidos (descontadas as saídas) de US$ 2,345 bilhões, dos quais US$ 2,045 bilhões em títulos de dívida e US$ 300 milhões em ações e fundos de investimento. 
+Em agosto, os investimentos em carteira no mercado doméstico totalizaram ingressos líquidos (descontadas as saídas) de US$ 2,345 bilhões, dos quais US$ 2,045 bilhões em títulos de dívida e US$ 300 milhões em ações e fundos de investimento.
 
 Nos oito primeiros meses de 2020, houve saídas líquidas de US$ 28,281 bilhões, contra ingressos líquidos de US$ 7,509 bilhões, em período similar do ano passado. A saída registrada de janeiro a agosto é a maior da série do BC, iniciada em 1995.
 
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

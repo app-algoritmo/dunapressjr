@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Em Paris, o ministro da Economia falou sobre a importância da aprovação de novos marcos regulatórios, os resultados econômicos e a atração de investimentos.
 
 O ministro da Economia, Paulo Guedes, destacou nesta terça-feira (29), durante encontro com empresários franceses, em Paris, os avanços nas reformas que vêm sendo implantadas no Brasil pelo governo federal. O diálogo, organizado pela embaixada brasileira na França, teve a participação de representantes dos setores industrial, financeiro, tecnológico e de serviços.
@@ -26,8 +25,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

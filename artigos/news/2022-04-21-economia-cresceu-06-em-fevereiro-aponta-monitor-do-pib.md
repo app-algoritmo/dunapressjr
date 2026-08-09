@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Dados foram divulgados pela Fundação Getulio Vargas.
 
 A atividade econômica em fevereiro cresceu 0,6% em relação ao mês anterior. Já no trimestre móvel encerrado em fevereiro, comparado ao finalizado em novembro, a alta ficou em 1,1%. Na comparação interanual, a economia cresceu 1,2% em fevereiro. Em termos monetários, estima-se que o acumulado do PIB no primeiro bimestre de 2022, em valores correntes, foi de R$ 1,3 trilhão. As informações são do Monitor do PIB-FGV divulgado nesta quarta-feira (20) pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (IBRE/FGV).
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

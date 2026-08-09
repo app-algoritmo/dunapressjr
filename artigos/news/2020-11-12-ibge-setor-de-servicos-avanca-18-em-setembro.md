@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Na quarta alta consecutiva, o ganho acumulado foi de 13,4%.
 
 O setor de serviços avançou 1,8% na passagem de agosto para setembro, o quarto resultado positivo consecutivo. O ganho acumulado de 13,4% nesse período, porém, ainda é insuficiente para compensar as perdas de 19,8% acumuladas de fevereiro a maio.
@@ -26,7 +25,7 @@ Já o setor de outros serviços, que alcançou 4,8% na comparação com o mês a
 
 Segundo ele, empresas que atuam como intermediárias do processo de captação recursos, tais como as corretoras de títulos e as administradoras de bolsas de valores, têm obtido ganhos expressivos de receita por conta da maior procura por ativos de maior rentabilidade.
 
-De acordo com o IBGE, outra atividade em destaque foi a de informação e comunicação, que avançou 2% em setembro, eliminando a queda de agosto (-1%). Mas o ganho acumulado de 7% no período junho a setembro ainda não compensou todo o recuo (-8,9%) de janeiro a maio. 
+De acordo com o IBGE, outra atividade em destaque foi a de informação e comunicação, que avançou 2% em setembro, eliminando a queda de agosto (-1%). Mas o ganho acumulado de 7% no período junho a setembro ainda não compensou todo o recuo (-8,9%) de janeiro a maio.
 
 Os serviços prestados às famílias acumulam retração de 38,6% no ano, sendo que o segmento de serviços de alojamento e alimentação é o que soma maior queda dentre todos os segmentos, com retração de 40,2%.
 
@@ -37,5 +36,3 @@ O transporte aéreo teve uma alta de 19,2% frente ao mês anterior, mas ainda ac
 Fonte: Agência Brasil – Imagem de destaque: Elza Fiúza/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Sintetizada pela glândula pineal, localizada no cérebro, a melatonina tem papel relevante para o funcionamento do organismo humano. É um hormônio natural, secretado principalmente à noite, na ausência de luz, e distribuído para vários tecidos do corpo. Relacionado diretamente com o chamado ‘relógio biológico’ de cada pessoa, possui  propriedades anti-inflamatórias, antioxidantes, anticancerígenas, e também afeta a qualidade do sono e do humor. A baixa quantidade dessa substância em mulheres que acabaram de ter bebês pode ser uma das causas do estresse, da ansiedade e da depressão no pós-parto.
 
 É pelo leite materno que a criança tem o primeiro contato com esse hormônio. Ele influencia na qualidade do sono do recém-nascido, além de sua concentração afetar o estado de humor da puérpera. Para a investigar seu o efeito, pesquisadores da Faculdade de Enfermagem e do Instituto de Química da Universidade Federal de Goiás (UFG) se uniram para traçar a relação entre a quantidade de melatonina presente no leite da mulher e o padrão alimentar, as doenças emocionais, a repercussão no sono das mães e bebês e as cólicas dos recém-nascidos.
@@ -29,7 +28,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

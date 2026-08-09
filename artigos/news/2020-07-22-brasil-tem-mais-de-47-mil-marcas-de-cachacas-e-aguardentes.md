@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Os dados estão na publicação “A Cachaça no Brasil: Dados de Registro de Cachaças e Aguardentes” referente ao ano de 2019, lançada nesta terça-feira.
 
 O Brasil tem 4.003 marcas de produtos classificados como cachaça e 701 de aguardente de cana registradas no Ministério da Agricultura, Pecuária e Abastecimento. Os dados estão na publicação [“A Cachaça no Brasil: Dados de Registro de Cachaças e Aguardentes”](https://www.gov.br/agricultura/pt-br/assuntos/noticias/brasil-tem-mais-de-4-7-mil-marcas-de-cachacas-e-aguardentes/anuariocachaca2020web_ISBN1.pdf) referente ao ano de 2019, que será lançada nesta terça-feira (21), e[m transmissão ao vivo](https://www.youtube.com/watch?v=xyA57OosiIE&feature=youtu.be).
@@ -30,7 +29,7 @@ O número de estabelecimentos registrados aptos a produzirem aguardente teve uma
 
 Os dez primeiros estados com mais estabelecimentos registrados para a produção de aguardente são Minas Gerais, São Paulo, Santa Catarina, Rio Grande do Sul, Espírito Santo, Ceará, Pernambuco, Paraná, Rio de Janeiro e Bahia.
 
-Considerando o número de marcas de produto aguardente, (701) houve uma redução de 62,35% em relação ao ano anterior. 
+Considerando o número de marcas de produto aguardente, (701) houve uma redução de 62,35% em relação ao ano anterior.
 
 “É dever do Mapa o registro e a fiscalização dos produtores de aguardente e cachaça. Apesar do tamanho do Brasil e a quantidade de estabelecimentos informais, cabe também aos comerciantes e aos consumidores contribuírem para que ocorra uma redução substancial na informalidade, não comercializando e não adquirindo produtos sem registro, que trazem risco à saúde, concorrem deslealmente e não geram empregos formais", ressalta o Coordenador de Vinhos e Bebidas do Mapa, Carlos Muller.
 
@@ -38,7 +37,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

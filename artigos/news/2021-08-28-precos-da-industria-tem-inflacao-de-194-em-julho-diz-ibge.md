@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A taxa é superior ao 1,29% de junho deste ano.
 
 O Índice de Preços ao Produtor (IPP), que mede a variação de preços dos produtos na saída das fábricas, registrou inflação de 1,94% em julho deste ano. A taxa é superior ao 1,29% de junho deste ano, mas inferior aos 3,22% de julho de 2020.
@@ -22,10 +21,6 @@ Entre as quatro grandes categorias econômicas da indústria, a principal alta e
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

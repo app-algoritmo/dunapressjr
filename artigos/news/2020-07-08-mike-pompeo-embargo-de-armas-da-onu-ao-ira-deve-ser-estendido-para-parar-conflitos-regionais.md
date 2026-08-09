@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O secretário de Estado dos EUA, Mike Pompeo, pediu na quarta-feira ao Conselho de Segurança da ONU que estenda o embargo de armas ao Irã e disse que as forças norte-americanas e parceiras apreenderam no mês passado uma embarcação que levava armas aos rebeldes houthis no Iêmen.
 
 "O Conselho de Segurança deve estender o embargo de armas ao Irã para evitar mais conflitos na região", afirmou Pompeo em entrevista coletiva no Departamento de Estado. "Nenhuma pessoa séria pode acreditar que o Irã usará qualquer arma que receber para fins pacíficos".
@@ -23,6 +22,6 @@ Imagem destacada Pixabay
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

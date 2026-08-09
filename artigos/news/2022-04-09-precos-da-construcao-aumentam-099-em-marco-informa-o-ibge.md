@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Nos últimos doze meses, a alta no indicador foi de 15,75%.
 
 O Índice Nacional da Construção Civil (Sinapi) subiu 0,99% em março, aumento de 0,43 ponto percentual (pp) em relação a fevereiro. O acumulado do primeiro trimestre de 2022 ficou em 2,29%. O Sinapi foi divulgado nesta sexta-feira (8) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

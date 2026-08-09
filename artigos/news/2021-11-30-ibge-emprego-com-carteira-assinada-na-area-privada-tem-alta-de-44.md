@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dados da Pnad Contínua se referem ao terceiro trimestre deste ano.
 
 O número de empregados com carteira de trabalho assinada no setor privado, sem contar os trabalhadores domésticos, atingiu o número de 33,5 milhões de pessoas no terceiro trimestre de 2021. Esse total representa um avanço de 4,4% , ou mais 1,4 milhão de pessoas, na comparação com o período anterior e de 8,6% ou mais 2,7 milhões de pessoas em relação a 2020. Os dados da Pesquisa Nacional por Amostra de Domicílios Contínua (Pnad Contínua), foram divulgados nesta terça-feira (30) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -50,10 +49,6 @@ A coleta de informações da pesquisa por telefone é feita desde 17 de março d
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

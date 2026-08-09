@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Caixa separa em dois grupos contas sociais bloqueadas: 51% possuem indícios claros de fraude e 49% têm inconsistência no cadastro.
 
 As pessoas que solicitaram o Auxílio Emergencial e apresentaram inconsistência no cadastro poderão acessar o Caixa Tem a partir desta quinta-feira (23.07) e enviar os documentos que faltam para completar o pedido. Esse grupo representa 49% de quem teve as contas sociais bloqueadas. O banco abrirá um novo acesso ao aplicativo para evitar aglomerações nas agências. Os outros 51% são contas com suspeita de fraude ou de pessoas que sofreram algum tipo de golpe de falsários.
@@ -34,7 +33,7 @@ O calendário do Bolsa Família segue o cronograma habitual e paga, também nest
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A taxa de desocupação foi de 13,3% na semana de 2 a 8 de agosto.
 
 O mercado de trabalho brasileiro mostra sinais de estabilidade, com algum viés de recuperação, ainda que de forma discreta, após o tombo causado pelos efeitos econômicos da pandemia. Os dados foram divulgados nesta sexta-feira (28), em boletim do Instituto de Pesquisa Econômica Aplicada (Ipea), baseado na Pesquisa Nacional por Amostra de Domicílios (Pnad Covid-19) referente à semana de 2 a 8 de agosto.
@@ -35,5 +34,3 @@ De qualquer forma, a redução, na margem, do contingente de pessoas fora da for
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

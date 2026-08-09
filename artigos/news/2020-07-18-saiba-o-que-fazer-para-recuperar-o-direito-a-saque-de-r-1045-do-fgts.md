@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Trabalhadores com dados incompletos precisam concluir cadastro.
 
 Alguns trabalhadores que contavam com o recebimento dos R$ 1.045 da conta do Fundo de Garantia do Tempo de Serviço (FGTS) tomaram um susto nos últimos dias. Com o cadastro no fundo incompleto, eles tiveram o depósito em contas poupança digitais suspenso pela Caixa Econômica Federal.
@@ -26,12 +25,12 @@ Até agora, receberam os R$ 1.045 do FGTS trabalhadores nascidos em janeiro, fev
 
 Outros recursos
 
-Outros meios de verificar a situação do saque emergencial do FGTS são o[** site**](http://www.caixa.gov.br/beneficios-trabalhador/fgts/Paginas/default.aspx) e o telefone 111. A atualização dos dados, no entanto, só está disponível no aplicativo. 
+Outros meios de verificar a situação do saque emergencial do FGTS são o[** site**](http://www.caixa.gov.br/beneficios-trabalhador/fgts/Paginas/default.aspx) e o telefone 111. A atualização dos dados, no entanto, só está disponível no aplicativo.
 
-Nesta primeira etapa, as pessoas podem movimentar o crédito do FGTS apenas por meio do aplicativo *Caixa Tem*, que permite o pagamento de boletos, compras com cartão de débito virtual e compras com código QR em estabelecimentos parceiros. 
+Nesta primeira etapa, as pessoas podem movimentar o crédito do FGTS apenas por meio do aplicativo *Caixa Tem*, que permite o pagamento de boletos, compras com cartão de débito virtual e compras com código QR em estabelecimentos parceiros.
 
 Os saques e as transferências só serão autorizados a partir do dia 25 de julho e seguirão um cronograma de acordo com o mês de nascimento do trabalhador, que se estenderá até 14 de novembro.
 
 Fonte: Agência Brasil – Imagem de destaque: José Cruz/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

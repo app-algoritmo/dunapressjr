@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A primeira parcela da extensão do auxílio emergencial para quem não é beneficiário do Bolsa Família começa a ser paga nesta quarta-feira (30). As parcelas têm o valor de R$ 300 ou R$ 600 para os casos de mães que são chefes de família. 
 
 Os primeiros a ter o dinheiro da extensão creditado em poupança social digital são os que receberam a primeira parcela do auxílio emergencial em abril. Um total de 27 milhões de pessoas serão pagas nessa fase.
@@ -91,5 +90,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

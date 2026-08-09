@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O presidente Jair Bolsonaro sancionou a lei que estabelece incentivos à indústria da reciclagem, mas vetou parte dos estímulos previstos por deputados e senadores para pessoas físicas e jurídicas dedicadas à reutilização, ao tratamento e à reciclagem de resíduos sólidos. A [Lei 14.260/21](https://www2.camara.gov.br/legin/fed/lei/2021/lei-14260-8-dezembro-2021-792071-norma-pl.html) foi publicada no Diário Oficial da União desta quinta-feira (9).
 
 Com a sanção, fica autorizada a criação do Fundo de Investimentos (ProRecicle), cujos recursos serão destinados a projetos de reciclagem e à instituição da Comissão Nacional de Incentivo à Reciclagem.
@@ -42,7 +41,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

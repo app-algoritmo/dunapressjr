@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Avaliação está na ata da última reunião do Copom, divulgada nesta terça-feira.
 
 A incerteza sobre o futuro da política fiscal do país e os estímulos fiscais de aquecimento da economia, como os auxílios dados pelo governo à população e a setores produtivos, pode elevar a expectativa de inflação no país. A avaliação consta da ata da última reunião do Comitê de Política Monetária (Copom) do Banco Central (BC), divulgada nesta terça-feira (9).
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

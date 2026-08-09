@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Projeção para inflação cresceu para 5,9%, mas deve diminuir em 2022.
 
 A Secretaria de Política Econômica (SPE) do Ministério da Economia aumentou a projeção para o crescimento da economia este ano e também para a inflação. As estimativas estão no [**Boletim macrofiscal**](http://www.gov.br/economia/pt-br/centrais-de-conteudo/publicacoes/boletins/boletim-macrofiscal/2021) divulgado hoje (14).
@@ -48,10 +47,6 @@ O Índice Nacional de Preços ao Consumidor (INPC) deverá encerrar este ano com
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

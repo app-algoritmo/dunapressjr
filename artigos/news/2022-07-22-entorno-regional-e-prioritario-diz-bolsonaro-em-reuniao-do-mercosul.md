@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Brasil tem tido papel ativo na mitigação de choques externos na região.
 
 Em vídeo enviado à [**60ª Cúpula de Chefes de Estado do Mercosul**](https://agenciabrasil.ebc.com.br/internacional/noticia/2022-07/presidentes-se-reunem-na-60a-cupula-do-mercosul-no-paraguai), que ocorreu nesta quinta-feira (21), no Paraguai, o presidente da República Jair Bolsonaro declarou que o Brasil tem atuado para que o bloco sul-americano tenha um “papel importante no enfrentamento dos atuais choques externos.”
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

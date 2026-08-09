@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A obesidade é uma doença crônica, progressiva, recidivante e uma epidemia global de acordo com a Organização Mundial da Saúde (OMS). Mais de um bilhão de adultos, em todo o mundo, está acima do peso — destes, 500 milhões são considerados obesos. São mais de 40 milhões de crianças, com idade até cinco anos, que estão acima do peso.
 
 No Brasil, dados da Pesquisa Nacional de Saúde (PNS/2019) apontam que, atualmente, 60,3% dos adultos apresentam excesso de peso, o equivalente a 96 milhões de pessoas. A maior prevalência é no público feminino, com 62,6%.
@@ -55,7 +54,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Mais da metade da população em idade para trabalhar está ocupada.
 
 A taxa de desocupação caiu 1 ponto percentual no trimestre encerrado em julho, indo para 13,7% na comparação com o trimestre finalizado em abril. Mesmo com a queda, o país tem 14,1 milhões de pessoas em busca de um trabalho. Os dados foram divulgados hoje (30), no Rio de Janeiro, pelo Instituto Brasileiro de Geografia e Estatística (IBGE), que produziu a Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua.
@@ -32,10 +31,6 @@ O número de empregados no setor privado sem carteira cresceu 6% na comparação
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

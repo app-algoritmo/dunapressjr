@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Responsável por diversos eventos esportivos do município, o Ginásio Poliesportivo Professor Jucílio de Castro Fernandes ganhará uma estrutura mais moderna. O contrato de serviço foi assinado neste mês e as obras deverão ser concluídas no prazo de nove meses, com o investimento de R$ 482.771,43.
 
 O ginásio fica localizado na rua Eduvirgens Teodoro da Cunha, no bairro Cordeiros, um dos mais populosos de Itajaí.
@@ -27,7 +26,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Apostilas podem auxiliar candidatos na preparação para o exame.
 
 Quem fará o Exame Nacional do Ensino Médio (Enem) 2020 terá mais um recurso para os estudos. O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) disponibilizou em seu portal, de forma inédita, as apostilas de capacitação dos corretores de redação, elaboradas para a edição de 2019. O [material](http://portal.inep.gov.br/web/guest/enem-outros-documentos), direcionado e até então restrito aos corretores, detalha os critérios levados em consideração na correção dos textos.
@@ -27,8 +26,6 @@ A nota máxima prevista é 1.000. Textos com até sete linhas ou que fugiram ao 
 **Redação** – A nota da redação tem um importante papel na composição da nota final do participante e, por isso, pode impactar consideravelmente suas perspectivas futuras, tais como ingressar em uma universidade pública ou ter acesso a financiamento e apoio estudantil. Portanto, todos os envolvidos no processo de avaliação têm a grande responsabilidade de entregar aos participantes resultados justos e confiáveis. As apostilas visam garantir que cada avaliador das redações do Enem corrija os textos de modo a aplicar os mesmos critérios, trazendo equidade para o processo.
 
 Fonte: portal.mec.gov.br / Imagem em destaque: Inep
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

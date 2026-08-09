@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Um pouco antes de Hanukkah, um desenho esquecido de 2.000 anos da menorá do Templo está novamente vendo a luz do dia.
 
 Descoberto pela primeira vez há 40 anos, durante pesquisas arqueológicas em Michmas, uma fortaleza hasmoniana durante a revolta dos Macabeus, o desenho nunca foi publicado por estudiosos e sua documentação foi deixada para acumular poeira nas prateleiras de arquivo. Recentemente redescoberto, ele é incluído em uma nova análise de todas as evidências arqueológicas disponíveis de Michmas, e alguns pesquisadores estão convencidos de que a antiga cidade já foi um indescritível assentamento agrícola sacerdotal.
@@ -17,7 +16,7 @@ Michmas, hoje a aldeia árabe Kfar Mukhmas, a cerca de 3 quilômetros (1,8 milha
 
 O novo estudo publicado no jornal em língua hebraica, “In the Highland's Depth”, apresenta evidências físicas adicionais que sustentam a hipótese de que o antigo Micmás era um assentamento agrícola povoado principalmente por *kohanim* (sacerdotes).
 
-O pesquisador principal, Dr. Dvir Raviv, disse ao The Times of Israel na segunda-feira que, em geral, "Temos muito poucas evidências de assentamentos sacerdotais". O desenho que Raviv encontrou, disse ele, é um passo para iluminar esse déficit.[](https://static.timesofisrael.com/www/uploads/2020/12/146.Jonathan_Destroys_the_Temple_of_Dagon.jpg)Jonathan destruindo o Templo de Dagom, de Gustave Doré. (Domínio público via Wikipedia)
+O pesquisador principal, Dr. Dvir Raviv, disse ao The Times of Israel na segunda-feira que, em geral, "Temos muito poucas evidências de assentamentos sacerdotais". O desenho que Raviv encontrou, disse ele, é um passo para iluminar esse déficit.Jonathan destruindo o Templo de Dagom, de Gustave Doré. (Domínio público via Wikipedia)
 
 Os antigos Michmas são mais conhecidos do Livro dos Macabeus. Conforme descrito em 1 Macabeus 9:73, Jônatas, o mais jovem dos cinco filhos do sacerdote Matatias, que instigou a revolta, faz as pazes com o general selêucida Báquides e se estabelece em Micmás antes de iniciar seu governo, que durou 161-143 AEC. “Assim cessou a espada de Israel; mas Jônatas habitou em Micmás, e começou a governar o povo; e ele destruiu os homens ímpios de Israel. ” (Bíblia King James).
 
@@ -120,7 +119,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

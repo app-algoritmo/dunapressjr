@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Famílias com renda acima de dez mínimos se mostram mais otimistas.
 
 A pesquisa nacional de Intenção de Consumo das Famílias (ICF) de agosto, divulgada nesta quinta-feira (18) pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), mostrou continuidade do processo de crescimento iniciado em janeiro, somando 82,1 pontos. É o maior nível desde abril de 2020 (95,6 pontos) e superou os resultados do mesmo mês nos 2 anos anteriores. O avanço de 1,1% do indicador no mês foi puxado pelo maior otimismo das famílias com renda acima de dez salários mínimos. A variação anual atingiu expansão de 17%.
@@ -52,8 +51,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

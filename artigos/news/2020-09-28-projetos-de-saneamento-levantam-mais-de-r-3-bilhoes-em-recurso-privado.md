@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 No total, mais de 53 milhões de pessoas devem ser beneficiadas com as obras. Geração de empregos pode chegar a 162,6 mil.
 
 Os projetos de saneamento básico autorizados pelo Ministério do Desenvolvimento Regional (MDR) a levantar recursos privados por meio de debêntures incentivadas já captaram mais de R$ 3,4 bilhões para sua execução. No total, mais de 53 milhões de pessoas devem ser beneficiadas com as obras e o número de empregos gerados pode chegar a 162,6 mil. Dos 22 empreendimentos que compõem a carteira da Pasta, 18 já tiveram debêntures emitidas e quatro estão em fase de emissão.
@@ -19,5 +18,3 @@ Para que os projetos de saneamento possam captar recursos por meio de debênture
 Fonte: gov.br – Imagem de destaque: arquivo./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

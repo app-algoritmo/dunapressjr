@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice é menor desde março de 2016.
 
 A taxa de desemprego no Brasil atingiu 11,1% no trimestre de janeiro a março. O índice ficou estável na comparação com o período anterior em 2021. Esse é o menor índice para o trimestre encerrado em março desde 2016, quando também ficou em 11,1%. O número de desempregados que somou 11,9 milhões de pessoas, também ficou estável. A população ocupada estimada em 95,3 milhões recuou 0,5% na mesma comparação. Número representa menos 472 mil pessoas no mercado de trabalho.
@@ -56,8 +55,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Secretaria de Estado do Desenvolvimento Econômico Sustentável (SDE), por meio da Secretaria Executiva do Meio Ambiente (SEMA), destinará R$ 3 milhões para amenizar os prejuízos causados pela estiagem em Santa Catarina.
 
 O recurso, que faz parte do Fundo Estadual de Recursos Hídricos (Fehidro), foi repassado por meio de um termo de cooperação entre a SDE, SEMA, Defesa Civil de Santa Catarina e a Secretaria de Estado da Agricultura, da Pesca e do Desenvolvimento Rural.
@@ -39,7 +38,5 @@ SEU APOIO VOLUNTARIO É MUITO IMPORTANTE!
 Sua assinatura não somente ajudará no fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

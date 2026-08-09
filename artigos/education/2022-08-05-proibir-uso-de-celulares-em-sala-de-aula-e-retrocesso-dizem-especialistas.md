@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 Celulares desligados e guardados na mochila ou no bolso do uniforme ainda não são exatamente coisa do passado, mas estão perto disso. Pelo menos é o que defendem especialistas no uso de tecnologia voltada à Educação. O uso de aparelhos eletrônicos, mesmo durante o horário escolar, é, mais que uma tendência, uma realidade da qual pais, professores e equipes pedagógicas precisam parar de fugir.
 
 Com o avanço do desenvolvimento de ferramentas como aplicativos de celular e recursos on-line, processos como a chamada gamificação do aprendizado têm se tornado onipresentes - e educadores acreditam que quem lutar contra eles vai, provavelmente, cair no ostracismo. Para a editora de conteúdo digital do Sistema de Ensino Aprende Brasil, Giselle Corso, esses recursos são fundamentais para atrair a atenção dos estudantes e garantir uma melhoria na qualidade do ensino no Brasil e no restante do mundo. “É anacrônico exigir que os estudantes fiquem afastados de seus celulares durante todo o período de aula. Devemos, em vez disso, estabelecer uma relação de uso moderado e respeitoso desses aparelhos, de modo a beneficiar o processo de ensino e aprendizagem”, defende.
@@ -20,7 +19,7 @@ Para garantir um bom aproveitamento das ferramentas de tecnologia, o ideal, segu
 
 **E a distração?**
 
-Giselle e Tori reconhecem que os celulares também podem ser uma fonte de distração para crianças e adolescentes, mas lembram que toda e qualquer mídia tem essa mesma característica. “Quando eu era estudante e usávamos papel e caneta, também usávamos o papel para enviar bilhetes, atirar bolinhas nos colegas, fazer joguinhos, etc. Então o problema não é a mídia, mas o uso que se faz dela”, exemplifica o professor. 
+Giselle e Tori reconhecem que os celulares também podem ser uma fonte de distração para crianças e adolescentes, mas lembram que toda e qualquer mídia tem essa mesma característica. “Quando eu era estudante e usávamos papel e caneta, também usávamos o papel para enviar bilhetes, atirar bolinhas nos colegas, fazer joguinhos, etc. Então o problema não é a mídia, mas o uso que se faz dela”, exemplifica o professor.
 
 As redes sociais, por sua vez, também podem ser usadas para aprender, desde que haja uma orientação dos professores para tanto. “É possível estimular que os jovens usem as redes para apresentar conteúdos que estão sendo estudados em sala de aula. Hoje há, inclusive, vários influenciadores digitais que formaram seu público justamente falando sobre aquilo que estão estudando”, completa Giselle.
 
@@ -37,7 +36,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

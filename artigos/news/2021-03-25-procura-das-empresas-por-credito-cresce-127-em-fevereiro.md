@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Destaque para o comércio, com uma alta de 15,5%.
 
 As solicitações de crédito feitas por empresas cresceram 12,7% em fevereiro na comparação com o mesmo mês de 2020, segundo levantamento divulgado hoje (25) pela Serasa Experian. O comércio foi o setor que mais buscou empréstimos, com uma alta de 15,5% na busca por recursos.
@@ -20,10 +19,6 @@ O crescimento da procura por crédito foi maior na Região Nordeste (14,3%), seg
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.    
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

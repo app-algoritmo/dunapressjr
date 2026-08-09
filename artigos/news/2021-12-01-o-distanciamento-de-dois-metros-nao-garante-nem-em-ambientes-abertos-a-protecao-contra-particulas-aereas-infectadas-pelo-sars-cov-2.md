@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 De acordo com os pesquisadores da Universidade de Cambridge, no Reino Unido, essa medida é arbitrária e não impede a transmissão na ausência de máscaras, sugerindo que liberar o uso do equipamento de segurança ao ar livre pode não ser uma boa ideia.
 
 Uma equipe de engenheiros usou a modelagem computacional para quantificar como as gotículas se espalham quando as pessoas tossem. Eles descobriram que, na ausência de máscaras, uma pessoa com COVID-19 pode infectar outra pessoa a uma distância de dois metros, mesmo ao ar livre.
@@ -25,13 +24,11 @@ A equipe continua a pesquisa com simulações semelhantes para espaços como sal
 
 Conforme explicou Shrey Trivedi, também do Departamento de Engenharia, ao site da Universidade de Cambridge: “Uma parte da forma como essa doença se espalha é a virologia: a quantidade de vírus que você tem em seu corpo, quantas partículas virais você expulsa quando fala ou tosse”,  mas outra parte é a mecânica dos fluidos: o que acontece com as gotas depois de serem expelidas, é aí que entramos. Como especialistas em mecânica dos fluidos, somos como a ponte da virologia do emissor para a virologia do receptor e podemos ajudar na avaliação de risco.”
 
-**
 Referência do artigo**:
 
 **[Shrey Trivedi et al. ’Estimates of the stochasticity of droplet dispersion by a cough.’ Physics of Fluids (2021)](https://aip.scitation.org/doi/10.1063/5.0070528)**
 
-**
-**Créditos: 
+**Créditos:
 
 [Cambridge University](https://www.cam.ac.uk/research/news/two-metre-covid-19-rule-is-arbitrary-measurement-of-safety)
 [OLIVETO, Paloma. Correio Brasiliense de 25/11/2021](https://www.correiobraziliense.com.br/ciencia-e-saude/2021/11/4965620-covid-distanciamento-de-2-metros-nao-garante-protecao-contra-particulas-infectadas.html)
@@ -47,7 +44,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

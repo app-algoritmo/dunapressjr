@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O boletim aborda os dados parciais da receita própria (ICMS, IPVA e ITCD).
 
 A Secretaria de Estado da Fazenda (SEFAZ-PB) publica a 8ª edição do ‘Boletim Covid-19’, que traz o impacto na arrecadação do Estado da Paraíba durante a pandemia, aborda os dados parciais da receita própria (ICMS, IPVA e ITCD), referente aos dois primeiros decêndios de junho de 2020. O informativo inclui ainda os valores e a quantidade de notas fiscais e os repasses do Fundo de Participação dos Estados (FPE), além das parcelas de transferências do Apoio Financeiro pela União aos Estados Federativos no mês de junho de 2020. A edição Nº 8 do 'Boletim Covid-19' está anexada abaixo na matéria.
@@ -20,4 +19,4 @@ O Boletim, uma publicação decendial da Secretaria de Estado da Fazenda (SEFAZ-
 
 Segue o boletim na íntegra:
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

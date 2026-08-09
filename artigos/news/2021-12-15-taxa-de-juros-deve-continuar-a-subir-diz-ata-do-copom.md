@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Previsão está na ata da última reunião do comitê.
 
 A taxa básica de juros, a Selic, deve subir novamente na próxima reunião do Comitê de Política Monetária (Copom) do Banco Central (BC), em fevereiro de 2022. A previsão está na ata da última reunião do comitê, divulgada nesta terça-feira (14). [**A taxa Selic sofreu a sétima alta seguida,**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-12/copom-aumenta-taxa-basica-de-juros-para-925%25-ao-ano) na última semana, ao passar de 7,75% para 9,25% ao ano.
@@ -30,10 +29,6 @@ Para 2021, o Conselho Monetário Nacional (CMN) fixou a meta de inflação em 3,
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

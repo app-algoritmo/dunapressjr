@@ -43,10 +43,7 @@ O Festival Vamos Passear é apresentado pela Brasilprev, por meio do Governo Fed
 
 ***Mais informações:****
 **Site: [www.vamospassearbr.com](http://www.vamospassearbr.com/)
-****         [www.ticketsports.com.br](https://click.presskit.com.br/url/1010242f110/6361388b6fc)**[
-](https://click.presskit.com.br/url/1010243f8d9/6361388b6fc)***Instagram: ****[www.instagram.com/vamospassearbr/](https://click.presskit.com.br/url/1010241d16a/6361388b6fc)***[
-
-](https://click.presskit.com.br/url/1010244c84b/6361388b6fc)***ZDL***
+****         [www.ticketsports.com.br](https://click.presskit.com.br/url/1010242f110/6361388b6fc)*****Instagram: ****[www.instagram.com/vamospassearbr/](https://click.presskit.com.br/url/1010241d16a/6361388b6fc)******ZDL***
 **Doro Jr. - MTb 13209 - *****[dorojr@zdl.com.br](https://click.presskit.com.br/url/10102451b3c/6361388b6fc) - 11 984579723***
 **Deborah Mamone - MTb 15148  - *****[deborah@zdl.com.br](https://click.presskit.com.br/url/10102461dad/6361388b6fc) - 11 3285.5911***
 **[Site: ](https://click.presskit.com.br/url/10102470a1b/6361388b6fc)[www.zdl.com.br

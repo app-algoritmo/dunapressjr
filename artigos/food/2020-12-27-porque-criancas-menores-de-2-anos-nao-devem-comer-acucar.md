@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 Os alimentos oferecidos nesse período são decisivos para a formação de hábitos futuros.
 
 Segundo [o Guia Alimentar Para Crianças Brasileiras Menores de 2 anos](http://189.28.128.100/dab/docs/portaldab/publicacoes/guia_da_crianca_2019.pdf), uma publicação do Ministério da Saúde, uma alimentação adequada e saudável começa com o aleitamento materno até os 2 anos ou mais, oferecendo somente o leite da mãe até os 6 meses, e continua com a oferta de alimentos *in natura* e minimamente processados, além do leite materno, a partir desse primeiro semestre.
@@ -66,7 +65,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

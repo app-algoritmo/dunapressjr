@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 A necessidade de reinvenção imposta pela pandemia da covid-19 foi determinante para impulsionar a utilização de recursos tecnológicos no ambiente jurídico. A crise econômica e a paralisação de muitas atividades serviram para mostrar que as inovações tecnológicas vieram para ficar e que o setor não está blindado às transformações. A demanda por sistemas para gestão inteligente cresce cada vez mais e novos *softwares *ganham espaço para dar agilidade ao trabalho.
 
-No Brasil, a alta complexidade e o excesso de burocracia fazem parte do setor jurídico. Segundo o relatório Justiça em Números de 2021, do Conselho Nacional de Justiça, o Poder Judiciário finalizou o ano de 2020 com 75,4 milhões de processos em tramitação, a serem analisados por 18 mil magistrados e mais de 400 mil funcionários públicos. Com o início da pandemia, o uso da tecnologia se tornou ainda mais necessário para diminuir esses números. Pesquisa do Datafolha publicada em maio deste ano mostra que 45% dos advogados já usam algum *software *de gestão para automatização de processos. 
+No Brasil, a alta complexidade e o excesso de burocracia fazem parte do setor jurídico. Segundo o relatório Justiça em Números de 2021, do Conselho Nacional de Justiça, o Poder Judiciário finalizou o ano de 2020 com 75,4 milhões de processos em tramitação, a serem analisados por 18 mil magistrados e mais de 400 mil funcionários públicos. Com o início da pandemia, o uso da tecnologia se tornou ainda mais necessário para diminuir esses números. Pesquisa do Datafolha publicada em maio deste ano mostra que 45% dos advogados já usam algum *software *de gestão para automatização de processos.
 
 Mais do que nunca, a aplicação de tecnologias é indispensável para acelerar tarefas, uma demanda já perceptível no dia a dia do sistema judiciário, como é o caso do Supremo Tribunal Federal (STF). Desde agosto de 2018, o STF faz uso de inteligência artificial para identificar e categorizar os temas que recebe. Batizada de Victor, a ferramenta foi criada em parceria com a Universidade de Brasília (UnB) e ajuda a reduzir a quantidade de processos que aguardam julgamento nos tribunais de todo o país.
 
@@ -37,7 +36,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

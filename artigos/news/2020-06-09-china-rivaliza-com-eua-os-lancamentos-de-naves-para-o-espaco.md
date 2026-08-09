@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ambos países planejam enviar veículos para Marte neste verão.
 
 A rivalidade entre China e Estados Unidos vai esquentar neste verão, quando os dois países enviarem veículos para Marte.
@@ -21,8 +20,6 @@ Acredita-se que um veículo espacial chinês, Mars, seu equipamento de aterrissa
 O mesmo foguete, provavelmente com a maior capacidade de carga útil da família Long March, também foi usado para catapultar o primeiro protótipo do futuro ônibus espacial da China no início de maio.
 
 O veículo marciano chinês, chamado *Chitu* (Coelho Vermelho), fará da China o terceiro país a pousar em Marte, depois dos Estados Unidos e da antiga União Soviética.
-
-[](https://dunapress.org/subscription-plan/?aff=barrosprojectmanager)
 
 E, diferentemente dos programas em fases dos dois países que inicialmente enviaram naves espaciais para a órbita da planta vermelha antes de lançar uma sonda ou um veículo espacial para pousar em sua superfície em missões subsequentes, a China pretende alcançar o planeta de uma só vez.
 

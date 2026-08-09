@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Paulo Guedes fez declaração em evento com presidente Bolsonaro.
 
 O ministro da Economia, Paulo Guedes, falou nesta segunda-feira (25), durante evento com o presidente Jair Bolsonaro, recursos da venda da Petrobras podem ser usados para ampliar os investimentos públicos e em tecnologia e bancar gastos sociais.
@@ -26,14 +25,10 @@ O ministro da Economia adiantou dados econômicos que serão divulgados nesta te
 
 “A economia está voltando com muita força. Conversava há pouco com o grupo da arrecadação da Receita Federal, novos recordes. Amanhã, possivelmente vão soltar também o Caged; mais de 300 mil empregos todo mês estamos criando”, declarou.
 
-O ministro agradeceu ao presidente Jair Bolsonaro a confiança em mantê-lo no cargo. “Eu queria agradecer pela confiança do presidente. É sempre assim, eu estou morrendo afogado, ele aparece, renova a confiança e nós continuamos nessa aliança de liberais e conservadores por um futuro melhor do nosso país”, disse. 
+O ministro agradeceu ao presidente Jair Bolsonaro a confiança em mantê-lo no cargo. “Eu queria agradecer pela confiança do presidente. É sempre assim, eu estou morrendo afogado, ele aparece, renova a confiança e nós continuamos nessa aliança de liberais e conservadores por um futuro melhor do nosso país”, disse.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Fundação de Educação Profissional e Administração Pública de Itajaí (Feapi) vai ofertar um novo curso online destinado a servidores públicos de Itajaí. O Programa de Capacitação em Ética e Compliance Anticorrupção, que será realizado em ambiente online, contará com 600 vagas disponíveis. Os interessados poderão efetuar a inscrição no [site da Feapi](https://feapi.itajai.sc.gov.br/), a partir da próxima segunda-feira (14). O lançamento do curso, nesta quarta-feira (09), marca o Dia Internacional Contra a Corrupção.
 
 A capacitação em ética e compliance é específica para servidores da administração pública municipal. Sua formação possibilita que os servidores tenham noções acerca dos valores éticos exigidos no serviço público, das diretrizes gerais de compliance e das condutas esperadas no desempenho de suas funções.
@@ -39,7 +38,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

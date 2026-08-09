@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 Quem nunca comeu uma comida e sentiu que ela não caiu bem? Mais comuns do que imaginamos, as doenças transmitidas por alimentos ou água contaminados são síndromes que trazem sintomas geralmente gástricos, como náuseas, vômitos, diarreia e dor abdominal. Em casos mais graves, os sintomas vão além, atingem o sistema neurológico e o fígado, por exemplo. A boa notícia é que estas doenças são facilmente preveníveis. Medidas simples podem ser tomadas no dia-a-dia para evitar este transtorno.
 
 Na maioria das vezes os alimentos e a água contaminados se autodenunciam com odor, gosto ou até a aparência, com a cor alterada. No entanto, os grandes vilões são aqueles que não aparentam estar estragados. Geralmente eles podem ser industrializados, como conservas e embutidos. Nem sempre eles apresentam características de que estão contaminados.
@@ -49,7 +48,3 @@ Fonte:  http://www.blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,16 +7,15 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 O Brasil completa três meses do começo da vacinação contra a Covid-19, e, em todo o país, os idosos são os primeiros da fila a serem imunizados. Segundo dados do sistema do Ministério da Saúde em que estão registradas todas as doses já aplicadas, o OpendataSUS, quase 12 milhões de idosos, que representam 39% de pessoas da terceira idade no país, receberam as duas doses da vacina.
 
-De acordo com o gerente geral da BWT Operadora, Gabriel Cordeiro, é nesse cenário que as pessoas da terceira idade já começam a se programar e fazer planos de viagens novamente. “Para aqueles que estão na faixa de idade de 60, 70 e 80 anos, a rapidez com que o tempo passa é um forte motivo para programar uma viagem”, aponta. 
+De acordo com o gerente geral da BWT Operadora, Gabriel Cordeiro, é nesse cenário que as pessoas da terceira idade já começam a se programar e fazer planos de viagens novamente. “Para aqueles que estão na faixa de idade de 60, 70 e 80 anos, a rapidez com que o tempo passa é um forte motivo para programar uma viagem”, aponta.
 
 No entanto, segundo especialistas, após a vacinação, é preciso tempo para o organismo desenvolver os anticorpos necessários e, mesmo imune, a pessoa ainda pode propagar a Covid-19. Por isso, é importante que a escolha pelo destino avalie critérios como segurança, conforto e possibilidades de ter menos contato com pessoas.
 
-Assim, destinos mais próximos de casa ainda serão os mais procurados até meados de 2022, segundo Cordeiro. “Percebemos que a população idosa está mais ativa e cheia de vontades. E uma delas é conhecer novos lugares, novos sabores e desbravar o mundo. Até porque não existe idade para viajar. Mas é importante se atentar aos detalhes de segurança, clima, hospedagem e localização", ressalta. 
+Assim, destinos mais próximos de casa ainda serão os mais procurados até meados de 2022, segundo Cordeiro. “Percebemos que a população idosa está mais ativa e cheia de vontades. E uma delas é conhecer novos lugares, novos sabores e desbravar o mundo. Até porque não existe idade para viajar. Mas é importante se atentar aos detalhes de segurança, clima, hospedagem e localização", ressalta.
 
-O especialista também alerta os viajantes para fraudes na internet, muito comuns entre o público mais velho. "Contar com a ajuda de um agente de viagens evita dores de cabeça desnecessárias", salienta. Cordeiro lista cinco destinos brasileiros entre os preferidos pela terceira idade, que, segundo ele, devem ter maior procura a partir do segundo semestre deste ano. 
+O especialista também alerta os viajantes para fraudes na internet, muito comuns entre o público mais velho. "Contar com a ajuda de um agente de viagens evita dores de cabeça desnecessárias", salienta. Cordeiro lista cinco destinos brasileiros entre os preferidos pela terceira idade, que, segundo ele, devem ter maior procura a partir do segundo semestre deste ano.
 
 **Serra Gaúcha - Gramado e Canela**
 
@@ -51,7 +50,3 @@ Fonte: https: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

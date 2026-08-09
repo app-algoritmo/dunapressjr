@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Serão selecionadas teses e dissertações produzidas no Brasil, em todas as áreas do conhecimento, cujos temas tenham relação com a Defesa Nacional.
 
 Estão abertas até 7 de agosto as [inscrições](https://www.capes.gov.br/images/novo_portal/editais/editais/15062020_Edital_14_MD_CAPES.pdf) para concorrer ao [Prêmio Tiradentes](https://www.capes.gov.br/bolsas/premios/premio-tiradentes). A iniciativa é uma parceria entre a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e o Ministério da Defesa (MD) e premiará trabalhos relacionados à Defesa Nacional. A iniciativa pretende estimular e valorizar à produção acadêmica. Além do reconhecimento financeiro haverá também apoio à participação dos vencedores em congressos acadêmico-científicos.
@@ -27,7 +26,7 @@ Fonte: gov.br / Imagem em destaque: re
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

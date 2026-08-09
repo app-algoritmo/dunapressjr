@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Foi a quinta alta consecutiva nos investimentos.
 
 O Indicador Ipea Mensal de Formação Bruta de Capital Fixo (FBCF), divulgado hoje (1º) pelo Instituto de Pesquisa Econômica Aplicada (Ipea), apontou crescimento de 3,1% em novembro frente a outubro de 2020, registrando a quinta alta consecutiva nos investimentos. Na comparação com novembro de 2019, houve avanço de 3,6%.
@@ -24,8 +23,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

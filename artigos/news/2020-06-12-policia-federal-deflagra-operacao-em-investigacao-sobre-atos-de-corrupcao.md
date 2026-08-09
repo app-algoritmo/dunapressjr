@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 São Paulo/SP - A Polícia Federal deflagrou, na manhã de hoje (12/6), a Operação “PROBITAS” visando combater crimes de corrupção. A ação, que contou com a participação da Receita Federal do Brasil, apura possíveis atos ilegais praticados por servidor público federal.
 
 A investigação teve início em março deste ano, após o recebimento de denúncia contra servidor público, por parte de um empresário, que informou estar sendo pressionado a fornecer-lhe vantagem ilícita (dinheiro).
@@ -21,5 +20,3 @@ Os investigados poderão responder pelos crimes de corrupção passiva tributár
 A operação recebeu a denominação Probitas, origem latina da palavra probidade, pois o que se busca com as investigações é restabelecer a probidade dentro da administração pública, por meio da identificação e afastamento de servidores corruptos.
 
 ***Comunicação Social – SR/PF/SP***
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

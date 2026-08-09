@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Medidas visam facilitar a correção de falhas na declaração e impulsionar a autorregularização dos contribuintes, fortalecendo a relação com o Fisco. 
 
 A Receita Federal lançou na quinta-feira (13) o Manual da Malha Fina e apresentou a Nova Malha Digital, em uma live promovida pelo Conselho Federal de Contabilidade (CFC), Receita Federal e Federação Nacional das Empresas de Serviços Contábeis e das Empresas de Assessoramento, Perícias e Pesquisas (Fenacon). Essas iniciativas refletem o compromisso da Receita em orientar e auxiliar os contribuintes, tanto Pessoa Física quanto Pessoa Jurídica, no cumprimento de suas obrigações fiscais.
@@ -27,7 +26,7 @@ A live contou com a participação de Andrea Costa, subsecretária de Fiscaliza�
 
 [**Acesse aqui o Manual da Malha Fina - Pessoa Física**](https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/malha-fiscal)
 
-[**Clique aqui para acessar a Nova Malha Digital - Pessoa Jurídica**](https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/declaracoes-e-demonstrativos/revisao-de-declaracao-malha) 
+gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/declaracoes-e-demonstrativos/revisao-de-declaracao-malha) 
 
 ## Confira a live de lançamento do Manual da Malha Fina e da Nova Malha Fiscal Digital
 

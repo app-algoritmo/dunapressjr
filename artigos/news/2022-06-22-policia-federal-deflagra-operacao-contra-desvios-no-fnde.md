@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Ex-ministro Milton Ribeiro foi preso; PF cumpre outras 4 prisões.
 
 A Polícia Federal (PF) deflagrou hoje (22) a Operação Acesso Pago, com o objetivo de investigar suposto “tráfico de influência e corrupção para a a liberação de recursos públicos do Fundo Nacional de Desenvolvimento da Educação (FNDE)”, vinculado ao Ministério da Educação (MEC).
@@ -50,8 +49,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

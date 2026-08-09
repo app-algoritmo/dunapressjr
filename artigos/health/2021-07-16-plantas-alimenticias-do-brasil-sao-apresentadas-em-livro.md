@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Publicação foi produzida em parceria por cientistas das Universidades Federais do Rio Grande do Norte e Pernambuco.
 
 Pesquisa da nutricionista e pós-doutoranda da CAPES, Michelle Jacob, da Universidade Federal do Rio Grande do Norte (UFRN), em parceria com seu orientador, especialista em Botânica, Ulysses Paulino de Albuquerque, da Universidade Federal de Pernambuco (UFPE), acaba de virar um livro. O trabalho contou com a participação de pesquisadores estrangeiros e tem como principal proposta oferecer informações sobre a composição nutricional das chamadas Plantas Alimentícias Não Convencionais (PANC). O grupo defende que estas plantas também sejam inseridas na alimentação escolar brasileira.
@@ -29,7 +28,3 @@ Fonte: https://www.gov.br/capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A explosão foi o resultado de uma bateria patriota em resposta a um míssil lançado contra Israel, de acordo com relatórios não confirmados.
 
 Alarmes soaram em Abu Qrenat, perto de Dimona, no sul de Israel, na manhã de quinta-feira, informou a Unidade de Porta-voz das FDI .
@@ -20,7 +19,7 @@ O patriota foi lançado de perto de Dimona e interceptou um míssil acima da c
 
 Vários indícios apontam para o lançamento do míssil do Iraque, enquanto, de acordo com outros relatórios, ele veio da cidade de Daraa, no sul da Síria, após um possível ataque aéreo israelense na área. O IDF está investigando o incidente.
 
-Fonte: 
+Fonte:
 
 **Ver também:**
 
@@ -30,5 +29,3 @@ Fonte:
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

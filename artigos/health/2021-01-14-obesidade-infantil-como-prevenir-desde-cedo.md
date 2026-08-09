@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Independente da fase da vida, os cuidados com a saúde precisam ser constantes. Isso inclui a alimentação, a prática de atividade física, o controle do ganho de peso e a manutenção de tantos outros hábitos saudáveis. Como a própria palavra já sugere, hábito é algo constante. E aqueles que começam desde cedo podem se estender pelo resto da vida.
 
 Ter uma boa saúde é uma construção que começa ainda na infância, mas que tem grandes repercussões na vida adulta. É pensando no futuro dos pequenos que 3 de junho foi escolhido como o dia da Conscientização Contra a Obesidade Mórbida Infantil. A data tem como objetivo conscientizar sobre os cuidados necessários para controle da obesidade em crianças.
@@ -64,7 +63,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa cai 2,17% em meio a preocupações com pandemia.
 
 Em um dia tenso nos mercados externos, o dólar aproximou-se de R$ 5,75 e fechou no maior nível desde março. A bolsa caiu mais de 2%, influenciada por preocupações com o avanço da variante Ômicron do novo coronavírus e por dificuldades na aprovação de um pacote de investimentos em infraestrutura nos Estados Unidos.
@@ -24,10 +23,6 @@ No Brasil, as negociações em torno do Orçamento de 2022 pesaram. O anúncio d
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

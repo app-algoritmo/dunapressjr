@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Decisão foi tomada devido à pandemia do novo coronavírus.
 
 O governo prorrogou o prazo para pagamento da contribuição previdenciária e da Contribuição para o Programa de Integração Social e de Formação do Patrimônio do Servidor Público (PIS/Pasep) e da Contribuição para o Financiamento da Seguridade Social (Cofins). A decisão foi tomada em virtude da crise econômica gerada pela pandemia de covid-19.
@@ -16,4 +15,4 @@ Portaria publicada na edição de hoje (17) do *[**Diário Oficial da União**](
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal](https://dunapress.org/?aff=joabsonjoao)**.**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal](https://dunapress.org/)**.**

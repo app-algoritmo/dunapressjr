@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Vila Velha/ES – A Polícia Federal deflagrou nesta sexta-feira, 26/6, a Operação PARÔNIMO, destinada ao combate ao tráfico de drogas a partir de postagens nos CORREIOS.
 
 A operação contou com a participação de nove policiais federais e foram cumpridos dois mandados de busca e apreensão, em bairros nobres do Município de Vitória/ES. Foram encontradas pequenas quantidades de maconha e cogumelos, bem como petrechos de preparação para consumo.
@@ -25,4 +24,4 @@ Os investigados responderão pelo crime de tráfico interestadual de drogas, em 
 
 Comunicação Social da Polícia Federal no Espírito Santo
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

@@ -7,7 +7,6 @@ categories:
 - Events
 ---
 
-
 A Casa da Cultura Dide Brandão recebe a estreia do show “Dá Fonte Até o Mar”, dos cantores e compositores, Giana Cervi e Vê Domingos, com a participação de Keli Bertan. A apresentação será na quinta-feira (02), às 20h. O valor do ingresso antecipado é R$ 30 (valor correspondente à meia entrada no dia do evento) e R$ 60 (inteira – entradas limitadas).
 
 Depois de 11 shows em Portugal encerrando o projeto “O Mimo”, o duo dá novos passos assinando composições com uma estética diferente. Com as dificuldades impostas pela pandemia, os encontros remotos deram lugar para novas composições. A dupla começou a trocar materiais, como pedaços de letras e melodias, que reunidas tomaram forma de música e surgiu o projeto.
@@ -39,7 +38,3 @@ Fonte: https://itajai.sc.gov.br/noticias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

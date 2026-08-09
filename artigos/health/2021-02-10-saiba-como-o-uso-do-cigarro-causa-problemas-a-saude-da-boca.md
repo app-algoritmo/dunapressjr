@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A nicotina do cigarro causa dependência extrema. Por isso não é fácil deixar de fumar. O tabagismo resulta em vários problemas de saúde. A boca é uma das áreas mais afetadas. As consequências vão desde dentes manchados, doenças gengivais, até câncer de boca. De acordo com o Instituto Nacional de Câncer (INCA), o câncer de boca está entre os dez tumores mais comuns do Brasil. Ele acomete mais homens acima dos 40 anos. Além do tabagismo, infecção pelo HPV e radiação solar também são fatores de risco para esse tipo de câncer.
 
 A boca desempenha importantes funções para a nossa saúde, como a fala, mastigação e respiração. Por ser a maior cavidade do corpo a ter contato direto com o meio ambiente, a boca também é porta de entrada para bactérias e outros micro-organismos prejudiciais à saúde.
@@ -38,7 +37,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

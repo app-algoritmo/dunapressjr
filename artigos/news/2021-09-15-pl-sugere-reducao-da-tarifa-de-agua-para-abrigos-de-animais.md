@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## “A diminuição do custo com água impactará positivamente na atividade de ONGs, santuários, abrigos, protetores e veterinários voluntários"
 
 Um projeto de lei apresentado pelo deputado federal Célio Studart (PV-CE) sugere redução da tarifa de água para abrigos de animais.
@@ -55,7 +54,3 @@ Fonte: [https://vegazeta.com.br](https://vegazeta.com.br)
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

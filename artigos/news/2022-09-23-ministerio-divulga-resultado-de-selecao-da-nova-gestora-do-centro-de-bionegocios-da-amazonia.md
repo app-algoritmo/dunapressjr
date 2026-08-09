@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Certame procura transformar entidade, com foco em geração de trabalho e renda.
 
 Foi publicado no Diário Oficial da União (DOU) desta quinta-feira (22), pelo Ministério da Economia, [o resultado da primeira fase da seleção](https://www.in.gov.br/web/dou/-/edital-n-1-de-20-de-setembro-de-2022-resultado-final-da-1-fase-de-selecao-chamamento-publico-sepec-n-1/2022-431049670) da entidade privada, sem fins lucrativos, que assumirá a gestão do novo Centro de Bionegócios da Amazônia (CBA). A Fundação Universitas de Estudos Amazônicos (FUEA) foi a candidata classificada em primeiro lugar nessa etapa do certame para atuar como organização social. O objetivo é tornar o CBA – até então dedicado exclusivamente à pesquisa – também em um centro vetor de atração de investimentos em bioeconomia.
@@ -39,8 +38,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Grupo de alimentos é impactado por alta de 25,46% no leite longa vida.
 
 Embora o Índice Nacional de Preços ao Consumidor Amplo (IPCA) tenha registrado [**deflação**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-08/ipca-tem-deflacao-de-068-em-julho-menor-taxa-da-serie-historica) de 0,68%, em julho, o grupo de alimentos e bebidas seguiu com alta de preços. Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), que divulgou nesta terça-feira (9) os dados da inflação oficial do país, a alta de 25,46% no leite longa vida e de 14,06% em leites e derivados, pressionou o grupo, que ficou 1,30% mais caro no mês.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

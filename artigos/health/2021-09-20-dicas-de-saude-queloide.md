@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Depois de um corte, um machucado, uma cirurgia ou queimadura, a reação da pele é formar um novo tecido para curar a ferida. O problema é que nem sempre a cicatriz que fica é lisa, fina e discreta. Pode ocorrer um crescimento anormal do tecido na cicatriz, formando o queloide.
 
 É uma alteração benigna, portanto sem risco para a saúde, na qual ocorre uma perda dos mecanismos de controle que normalmente regulam o equilíbrio do reparo e regeneração de tecidos.
@@ -69,7 +68,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

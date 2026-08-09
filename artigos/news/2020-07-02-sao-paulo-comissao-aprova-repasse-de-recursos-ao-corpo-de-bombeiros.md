@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Comissão de Constituição, Justiça e Redação aprovou, em reunião nesta quarta-feira (1/7), proposta que autoriza o repasse de recursos ao Corpo de Bombeiros do Estado. Presidida pelo deputado Mauro Bragato (PSDB), o encontro ocorreu em ambiente virtual.
 
 O Projeto de Lei 529/2019 permite ao Executivo destinar 50% dos valores arrecadados com multas originárias de bafômetro para obras, compra de equipamentos, veículos e ativos para a corporação. Coronel Nishikawa (PSL), autor da proposta, justificou que o serviço desses trabalhadores vai além de apagar incêndios e que "a corporação atua em diversas áreas como assistência médica de emergência, controle de inundações e resgate em locais de difícil acesso. Isso demanda investimentos na categoria".
@@ -26,7 +25,7 @@ Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com inf
 
 Clique no link abaixo para assinar
 
-### [https://dunapress.org/subscription-plan/?aff=Vitor](https://dunapress.org/subscription-plan/?aff=Vitor)
+### [https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)
 
 Experimente por 7 Dias Gratuitos – Nossos Valores de Assinatura
 

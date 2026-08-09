@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 Uma oportunidade para que os pais participem junto com os filhos de novas aventuras por meio de histórias e músicas. O programa Conta pra Mim do Ministério da Educação disponibilizou nesta terça-feira (25) uma série de programas para o acesso de pais, crianças e profissionais de educação. Entre os produtos, estão músicas interpretadas pelo cantor e compositor Toquinho que também narra fábulas escritas por Monteiro Lobato.
 
 Todo material pode ser encontrado no [site do Conta pra Mim](http://alfabetizacao.mec.gov.br/contapramim#materiais).
@@ -45,9 +44,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
- 
-
- 
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Empresas de menor porte correspondem a 30% do PIB.
 
 Os pequenos negócios geram renda em torno de R$ 420 bilhões por ano, o equivalente a cerca de um terço do Produto Interno Bruto (PIB, soma dos bens e serviços produzidos) brasileiro. A estimativa consta do Atlas dos Pequenos Negócios, lançado pelo Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae), que nesta terça-feira (5) completa 50 anos.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

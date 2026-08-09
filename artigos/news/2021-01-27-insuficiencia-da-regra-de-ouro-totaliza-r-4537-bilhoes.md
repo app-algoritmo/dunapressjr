@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Congresso precisará aprovar crédito suplementar.
 
 O valor do crédito que o governo deverá pedir ao Congresso Nacional para bancar o pagamento de aposentadorias, benefícios sociais e pagamento de servidores públicos sem descumprir a regra de ouro deverá ficar em R$ 453,7 bilhões. A estimativa foi divulgada nesta quarta-feira (27) pelo Tesouro Nacional, na apresentação do Plano Anual de Financiamento (PAF) de 2021.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

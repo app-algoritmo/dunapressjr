@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Com proposta, Estado de Emergência pode ser decretado até fim do ano.
 
 O Senado aprovou nesta quinta-feira (30), em dois turnos, a proposta de emenda à Constituição (PEC) 1, que traz um pacote de medidas para diminuir os impactos gerados pela alta dos combustíveis e aumentar o valor de benefícios sociais. Após vários arranjos e negociações, uma PEC com propostas do governo para compensar os estados e o Distrito Federal pela redução do ICMS sobre o diesel se transformou em uma proposta para ampliar o valor do Auxílio Brasil, programa assistencial que substituiu o Bolsa Família, dentre outras medidas.
@@ -58,8 +57,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -42,10 +42,9 @@ Outro projeto com uma causa ambiental e que visa impactar a sociedade por meio d
 Site: **[**https://pepefiamoncini.com.br/****
 **](https://click.presskit.com.br/url/10001266574/6361388b6fc)**Instagram: **[**https://www.instagram.com/pepefiamoncini/****
 **](https://click.presskit.com.br/url/1000127218f/6361388b6fc)**Youtube - [https://www.youtube.com/@pepepepao/featured
-](https://click.presskit.com.br/url/10001284f29/6361388b6fc)**[
-](https://click.presskit.com.br/url/10001298d60/6361388b6fc)***ZDL***
+](https://click.presskit.com.br/url/10001284f29/6361388b6fc)*****ZDL***
 ***Doro Jr. - MTb 13209 - ***[***dorojr@zdl.com.br***](https://click.presskit.com.br/url/1000130b433/6361388b6fc)*** - F: 11 984579723***
 ***Rafael De Marco - Mtb.: 27556 - ***[***rafael@zdl.com.br***](https://click.presskit.com.br/url/10001316895/6361388b6fc)*** - Cel: 11 976022986 / WhatsApp: 19 997912108******
-Site: [www.zdl.com.br](https://click.presskit.com.br/url/1000132073d/6361388b6fc) 
-Facebook: [www.facebook.com/ZDLSports](https://click.presskit.com.br/url/100013311bc/6361388b6fc) 
+Site: [www.zdl.com.br](https://click.presskit.com.br/url/1000132073d/6361388b6fc)
+Facebook: [www.facebook.com/ZDLSports](https://click.presskit.com.br/url/100013311bc/6361388b6fc)
 Instagram: [www.instagram.com/zdlsports](https://click.presskit.com.br/url/1000134122a/6361388b6fc)***

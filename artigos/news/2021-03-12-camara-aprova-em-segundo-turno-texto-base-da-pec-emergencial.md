@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## Deputados analisam destaques ao texto.
 
-A Câmara dos Deputados aprovou nesta quinta-feira (11), em segundo turno, por 366 votos a favor, 127 contra e três abstenções, o texto base da [**Proposta de Emenda à Constituição (PEC) 186/19**](https://legis.senado.leg.br/sdleg-getter/documento?dm=8035573&ts=1615468588381&disposition=inline), a PEC Emergencial. Agora os parlamentares analisam destaques que podem retirar trechos da proposta. 
+A Câmara dos Deputados aprovou nesta quinta-feira (11), em segundo turno, por 366 votos a favor, 127 contra e três abstenções, o texto base da [**Proposta de Emenda à Constituição (PEC) 186/19**](https://legis.senado.leg.br/sdleg-getter/documento?dm=8035573&ts=1615468588381&disposition=inline), a PEC Emergencial. Agora os parlamentares analisam destaques que podem retirar trechos da proposta.
 
 A PEC cria mecanismos de contenção fiscal, controle de despesas com pessoal e redução de incentivos tributários, além de liberar R$ 44 bilhões, fora do teto de gastos, para o pagamento do auxílio emergencial às pessoas afetadas pela pandemia da covid-19. No entanto, a proposta não detalha os valores, duração ou condições para o novo auxílio emergencial. Todas essas definições deverão constar de outro texto.
 
-[**O primeiro turno da proposta foi aprovado na madrugada desta quinta-feira**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-03/camara-dos-deputados-conclui-votacao-em-1o-turno-da-pec-emergencial), após sucessivas tentativas da oposição em obstruir as votações e adiar a apreciação da proposta. 
+[**O primeiro turno da proposta foi aprovado na madrugada desta quinta-feira**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-03/camara-dos-deputados-conclui-votacao-em-1o-turno-da-pec-emergencial), após sucessivas tentativas da oposição em obstruir as votações e adiar a apreciação da proposta.
 
 ## Acordo
 
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

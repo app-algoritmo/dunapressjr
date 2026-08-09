@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Para evitar a propagação da Covid-19 serão adotadas novas medidas de segurança.
 
 A partir de segunda-feira (10), o Restaurante do Servidor será reaberto aos seus usuários. Nesse primeiro momento de reabertura gradual, o local só funcionará no horário de almoço, das 11h às 15h, e com apenas 30% da sua capacidade total, o que significa 40 servidores almoçando por vez.
@@ -18,4 +17,4 @@ O sistema de biometria será desativado temporariamente, portanto os servidores 
 
 Fonte: paraiba.pb.gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A pesquisadora da Universidade Federal de Viçosa (UFV), Mariana Grancieri, foi a vencedora do Prêmio CAPES de Tese 2021 na área de Nutrição. Seu  trabalho trata dos benefícios produzidos pelas  proteínas da chia, um tipo de semente, sobre a saúde humana. Elas provocam alterações metabólicas significativas que contribuem diretamente para evitar, sobretudo, doenças cardiovasculares.
 
 Em testes feitos em laboratório, simulando a digestão da planta, a pesquisadora observou que essas proteínas produziram efeitos anti-inflamatórios bem como reduziram os níveis de gordura e obesidade. Orientada e coorientada pelas professoras Hércia Stampini Martino e Neusa Maria Brunoro Costa, Grancieri afirma: “constatamos que as proteínas da chia tem imenso potencial para reduzir, de maneira geral, os marcadores das doenças cardiovasculares”.
@@ -29,7 +28,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

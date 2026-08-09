@@ -8,14 +8,13 @@ categories:
 - News
 ---
 
-
 As forças de Segurança Pública de Santa Catarina estão atuando em conjunto e mobilizadas em uma grande operação na investigação e buscas dos criminosos que assaltaram uma agência bancaria em Criciúma na madrugada desta terça-feira, 1º. Em coletiva de imprensa no município do Sul de Santa Catarina, o governador Carlos Moisés ressaltou que o estado tem um histórico bem-sucedido de resolução deste tipo de crime, com um trabalho de excelência das polícias.
 
 “Não estamos medindo esforços para uma resposta rápida a este triste episódio. O Governo do Estado segue empenhado na busca dos criminosos e para que ações como essas não se repitam em Santa Catarina, reconhecida pelos bons índices na Segurança Pública. Neste ano, diminuímos em 54% esse tipo de ação violenta contra as instituições financeiras, em relação a 2019”, enfatizou Carlos Moisés.
 
 O governador destacou ainda o apoio do Governo Federal. O ministro da Justiça, André Mendonça, e o secretário Nacional de Segurança Pública, Coronel Carlos Paim, entraram em contato com Carlos Moisés nesta manhã colocando as estruturas à disposição. “Todo o Brasil tem seu olhar voltado pra Santa Catarina, porque nossos números não combinam com o episódio dessa madrugada”, salientou o chefe do Executivo.
 
-**[>> Confira a coletiva de imprensa aqui](https://www.facebook.com/watch/live/?v=231764341708932&ref=watch_permalink)**
+**[>> Confira a coletiva de imprensa aqui](https://www.facebook.com/watch/live/?v=231764341708932)**
 
 ## Entenda a ação
 
@@ -26,8 +25,6 @@ Por volta das 23h50 do dia 30 de novembro, criminosos com armas pesadas, muniç�
 Até o momento, foram presas quatro pessoas que fizeram o recolhimento de parte das cédulas de papel que estavam jogadas no chão em razão da explosão. Com eles, foram localizados cerca R$ 810 mil. Conforme a Polícia Militar, 10 veículos utilizados na ação foram encontrados na localidade de Picadão, no município de Nova Veneza, nesta manhã. Também foi apreendido material explosivo estimado em 230 quilos, do tipo Melaton.
 
 **[>> Confira como foi a ação](https://www.sc.gov.br/images/CRONOGROMA_DE_FATOS.pdf)**
-
-[](https://www.sc.gov.br/noticias/fotos/setoriais/coletiva-de-imprensa-em-criciuma-50916)
 
 ## Investigação
 
@@ -53,7 +50,5 @@ SEU APOIO VOLUNTARIO É MUITO IMPORTANTE!
 Sua assinatura não somente ajudará no fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

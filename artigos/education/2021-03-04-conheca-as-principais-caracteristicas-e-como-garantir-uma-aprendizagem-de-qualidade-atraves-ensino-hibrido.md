@@ -8,8 +8,7 @@ categories:
 - Education
 ---
 
-
-Transmissões ao vivo, ensino remoto ou ensino presencial são recursos e modos de aprendizagem que passaram a fazer parte da vida dos alunos e também dos pais, em 2020. Agora, o termo que mais se ouve é ensino híbrido. Esse é o caminho que vem sendo trilhado pelas escolas para dar conta do desafio do retorno presencial em plena pandemia. O modelo híbrido não é uma alternativa nova, já existe há tempos, mas ganhou força diante do atual cenário. Como o próprio nome sugere, trata-se de uma proposta que mescla diferentes formatos de aprendizagem, como os mais tradicionais - leituras de texto e aulas expositivas, alguns mais inovadores – discussões coletivas e pesquisas práticas – e ainda modelos que inserem recursos digitais junto ao ensino offline. 
+Transmissões ao vivo, ensino remoto ou ensino presencial são recursos e modos de aprendizagem que passaram a fazer parte da vida dos alunos e também dos pais, em 2020. Agora, o termo que mais se ouve é ensino híbrido. Esse é o caminho que vem sendo trilhado pelas escolas para dar conta do desafio do retorno presencial em plena pandemia. O modelo híbrido não é uma alternativa nova, já existe há tempos, mas ganhou força diante do atual cenário. Como o próprio nome sugere, trata-se de uma proposta que mescla diferentes formatos de aprendizagem, como os mais tradicionais - leituras de texto e aulas expositivas, alguns mais inovadores – discussões coletivas e pesquisas práticas – e ainda modelos que inserem recursos digitais junto ao ensino offline.
 
 Entender todos esses conceitos e quais garantias isso tudo traz para o processo de aprendizagem pode ser um pouco complicado. Para ajudar as pessoas a entenderem melhor como funciona o ensino híbrido, o coordenador pedagógico da Conquista Solução Educacional, Robson Ghedini, esclarece as principais dúvidas com perguntas e respostas sobre o tema.
 
@@ -23,7 +22,7 @@ Segundo Ghedini, o professor deve ser um mediador que se utiliza de metodologias
 
 **3) Mesclar o ensino presencial com o remoto é praticar o ensino híbrido?**
 
-De acordo com Ghedini, para ser considerado ensino híbrido, é preciso que o trabalho realizado no presencial e no remoto dialoguem, não basta apenas aplicar as duas modalidades sem uma coordenação entre elas. "É preciso ter um planejamento estratégico e garantir o cumprimento de características tais como as já mencionadas, em que o processo de  aprendizagem do aluno se divide em uma parte com ensino on-line, em que o estudante controla o tempo, lugar, e ritmo  de estudo e outra parte do aprendizado se dá de forma presencial, física e sob a mediação de um professor. Neste momento de pandemia, o que será mais comum é essa mesclagem de atividades em sala e em casa. Quando a situação se normalizar, as escolas e professores já terão condições de trabalhar o ensino híbrido de todas as formas e possibilidades que ele permite", esclarece. 
+De acordo com Ghedini, para ser considerado ensino híbrido, é preciso que o trabalho realizado no presencial e no remoto dialoguem, não basta apenas aplicar as duas modalidades sem uma coordenação entre elas. "É preciso ter um planejamento estratégico e garantir o cumprimento de características tais como as já mencionadas, em que o processo de  aprendizagem do aluno se divide em uma parte com ensino on-line, em que o estudante controla o tempo, lugar, e ritmo  de estudo e outra parte do aprendizado se dá de forma presencial, física e sob a mediação de um professor. Neste momento de pandemia, o que será mais comum é essa mesclagem de atividades em sala e em casa. Quando a situação se normalizar, as escolas e professores já terão condições de trabalhar o ensino híbrido de todas as formas e possibilidades que ele permite", esclarece.
 
 **4) Transmitir as aulas que estão sendo dadas em sala de aula para os alunos que estão em casa é praticar o ensino híbrido?**
 
@@ -47,7 +46,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

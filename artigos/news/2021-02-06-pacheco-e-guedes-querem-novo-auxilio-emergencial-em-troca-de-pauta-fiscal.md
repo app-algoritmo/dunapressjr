@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O presidente do Senado e o ministro da Economia se encontraram para definir a pauta: novo auxílio depende da aprovação de propostas de emenda à Constituição apresentadas pelo governo em 2019.
 
 O presidente do Senado, Rodrigo Pacheco, se reuniu na noite desta quinta-feira (4) com o ministro da Economia, Paulo Guedes, para estabelecer os termos da parceria entre os poderes Legislativo e Executivo na pauta econômica. Pacheco disse que o Congresso dará andamento a uma agenda de reformas fiscais, e, em troca, quer a dedicação do ministério na elaboração de um novo programa de renda emergencial.
@@ -28,7 +27,7 @@ Para o ministro Paulo Guedes, essas medidas farão com que seja possível discut
 
 ## **Reforma tributária**
 
-O saldo da reunião, segundo ambos, foi positivo e demonstrou que o governo e o Congresso estão “em harmonia” quanto à pauta econômica. Pacheco também mencionou otimismo com [o calendário previsto para a reforma tributária](http://www12.senado.leg.br/noticias/materias/2021/02/04/reforma-tributaria-sera-aprovada-ate-outubro-preve-rodrigo-pacheco). 
+O saldo da reunião, segundo ambos, foi positivo e demonstrou que o governo e o Congresso estão “em harmonia” quanto à pauta econômica. Pacheco também mencionou otimismo com [o calendário previsto para a reforma tributária](http://www12.senado.leg.br/noticias/materias/2021/02/04/reforma-tributaria-sera-aprovada-ate-outubro-preve-rodrigo-pacheco).
 
 Mais cedo, Guedes havia se reunido também com o presidente da Câmara dos Deputados, Arthur Lira. Na saída do encontro, Lira disse que o projeto da independência do Banco Central ([PLP 19/2019](http://www25.senado.leg.br/web/atividade/materias/-/materia/135147)), aprovado pelo Senado no ano passado, será pautado na Câmara na próxima semana.
 
@@ -38,8 +37,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

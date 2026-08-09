@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 São Paulo - A Polícia Federal deflagrou nesta terça-feira (2/6) a segunda fase da Operação ATAQUE FURTIVO, que tem por objetivo desarticular quadrilhas especializadas em roubos a agências da Caixa Econômica Federal e dar cumprimento a quatro mandados judiciais, sendo um de prisão temporária e três de busca e apreensão, expedidos pela Vara Federal de São Bernardo do Campo e pela 7ª Vara Federal Criminal de São Paulo.
 
 As investigações iniciaram há cerca de quatro meses, a partir de roubos às agências Piraporinha, em Diadema/SP, e Guaianases, na Zona Leste de São Paulo, que resultaram em prejuízos de R$ 1,2 milhão à União.
@@ -20,5 +19,3 @@ A denominação ATAQUE FURTIVO faz referência a características da investigaç
 
 Comunicação Social
 Superintendência Regional da Polícia Federal em São Paulo
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

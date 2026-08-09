@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Pagamento é para beneficiários considerados elegíveis.
 
 O Ministério da Cidadania publicou hoje (3) no *Diário Oficial da União* portaria com calendário de pagamento do auxílio emergencial para beneficiários que tenham feito contestação ao resultado do cadastro e foram considerados elegíveis.
@@ -26,4 +25,4 @@ A transferência será feita automaticamente para a conta indicada no momento d
 
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Financiamento abrange motos, bicicletas, patinetes e scooters.
 
 Os interessados em comprar meios de transporte que gastem pouco ou nenhum combustível podem contar com uma linha de crédito. O Banco do Brasil (BB) lançou nesta terça-feira (16) a linha BB Crédito Mobilidade, que financiará itens como bicicletas, patinetes, scooters elétricas ou mecânicas e motos abaixo de 125 cilindradas em até cinco anos.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

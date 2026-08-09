@@ -8,7 +8,6 @@ categories:
 - Education
 ---
 
-
 -Lançado em dezembro de 2019, o programa **Conta pra Mim**, da Secretaria de Alfabetização, é sem dúvidas um passo a frente. A leitura traz conhecimento, liberdade, paz, igualdade e direitos dos povos.
 
 O ministério da Educação ([MEC](http://agenciabrasil.ebc.com.br/tags/mec)) lançou o programa “Conta pra Mim”, que estimula a leitura de livros infantis no ambiente familiar. Alunos da rede pública que cursam o 1º e o 2º ano do ensino fundamental são o público-alvo da iniciativa. O programa faz parte da Política Nacional de Alfabetização e, além do estímulo da leitura diária, criará “cantinhos de leitura” para narração de histórias, atividades lúdicas e estímulo à atividade intelectual em creches, pré-escolas, museus e bibliotecas.
@@ -66,5 +65,3 @@ Somente com o trabalho colaborativo de famílias, professores, escolas, redes de
 Fonte: Com Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

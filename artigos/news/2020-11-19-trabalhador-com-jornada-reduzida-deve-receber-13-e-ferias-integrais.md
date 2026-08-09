@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em caso de contrato suspenso, valor é proporcional a tempo de serviço.
 
 Trabalhadores com jornada de trabalho reduzida devem receber férias e 13º salários com base na remuneração integral. No caso dos contratos suspensos, o pagamento será proporcional, considerando os meses em que houve 15 dias ou mais de trabalho.
@@ -29,5 +28,3 @@ Entretanto, diz a secretaria, por meio de acordo coletivo ou individual, ou deci
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

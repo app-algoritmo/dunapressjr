@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Diferentemente da Operação Pantanal, que visa combater as queimadas que atingem o bioma, a Operação Verde Brasil 2 tem como principal finalidade realizar ações preventivas e repressivas contra delitos ambientais, direcionadas ao desmatamento ilegal e a focos de incêndio, na Amazônia Legal.
 
 **Operação Pantanal**
@@ -41,5 +40,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

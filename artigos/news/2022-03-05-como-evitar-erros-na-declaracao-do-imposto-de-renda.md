@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Especialista aconselha boa organização de documentos e transparência.
 
 Seja por falta de atenção, por erro ou por falta de documentos, uma das obrigações mais tradicionais do brasileiro pode acabar em dor de cabeça. Em vez de receber restituição, o contribuinte pode ser obrigado a refazer a Declaração do Imposto de Renda Pessoa Física e a prestar contas adicionais ao Fisco. Nos piores casos, a Receita Federal pode cobrar uma multa de até 75% do imposto devido.
@@ -32,21 +31,17 @@ Por fim, o advogado aconselha o contribuinte a acompanhar o processamento da dec
 
 ## **Confira as principais orientações para evitar erros e omissões e cair na malha fina.**
 
--   Organizar documentos ao longo do ano ou pelo menos algumas semanas antes de enviar a declaração
--   Ser transparente com a Receita Federal e informar todos os rendimentos recebidos no ano anterior, assim como comprovar todos os gastos que geram dedução
--   Revisar a declaração antes do envio para evitar erros de preenchimento
--   Identificar operações que não ocorrem com frequência, para evitar omissão de dados. Entre essas operações, estão compra e venda de bens acima de R$ 5 mil, que podem gerar ganhos de capital
--   Evitar a inclusão de dependentes em duas declarações
--   Incluir os rendimentos próprios dos dependentes, como filho que recebe pensão de ex-cônjuge
--   Evitar inclusão de despesas médicas indedutíveis ou sem comprovação
--   Acompanhar o processamento da declaração após a entrega e retificar dados inconsistentes ou omitidos o mais rápido possível
+- Organizar documentos ao longo do ano ou pelo menos algumas semanas antes de enviar a declaração
+- Ser transparente com a Receita Federal e informar todos os rendimentos recebidos no ano anterior, assim como comprovar todos os gastos que geram dedução
+- Revisar a declaração antes do envio para evitar erros de preenchimento
+- Identificar operações que não ocorrem com frequência, para evitar omissão de dados. Entre essas operações, estão compra e venda de bens acima de R$ 5 mil, que podem gerar ganhos de capital
+- Evitar a inclusão de dependentes em duas declarações
+- Incluir os rendimentos próprios dos dependentes, como filho que recebe pensão de ex-cônjuge
+- Evitar inclusão de despesas médicas indedutíveis ou sem comprovação
+- Acompanhar o processamento da declaração após a entrega e retificar dados inconsistentes ou omitidos o mais rápido possível
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

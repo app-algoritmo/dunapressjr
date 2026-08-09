@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Entre os produtos que serão exportados estão castanhas e material genético avícola.
 
 O Brasil alcançou a marca de 60 mercados externos abertos para produtos agropecuários desde janeiro de 2019. O mais recente é a exportação de lácteos para a Tailândia, conforme anunciou nesta sexta-feira (22) a ministra Tereza Cristina (Agricultura, Pecuária e Abastecimento) durante webinar sobre oportunidades e perspectivas para o setor agropecuário durante a pandemia do coronavírus, promovido pelo Instituto de Engenharia.
@@ -31,8 +30,6 @@ Após a pandemia do novo coronavírus, a ministra prevê que os países deverão
 Outro ponto a ser superado, conforme a ministra, é a logística de transporte, sendo necessário buscar vias para tornar o escoamento da produção agrícola mais barata e efetiva.
 
 Fonte: MAPA / Imagem em destaque: gov.br
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

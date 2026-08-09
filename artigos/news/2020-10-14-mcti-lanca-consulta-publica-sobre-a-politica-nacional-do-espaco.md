@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Ciência, Tecnologia e Inovações (MCTI) lançou na sexta-feira (9) consulta pública sobre a Política Nacional do Espaço (PNE), para reunir contribuições da sociedade para o estabelecimento de diretrizes para o programa espacial brasileiro. O lançamento da consulta pública foi realizado na cerimônia de posse do novo diretor do Instituto Nacional de Pesquisas Espaciais Inpe, unidade de pesquisa vinculada ao MCTI, em São José dos Campos (SP).
 
 Ao apresentar a iniciativa, o secretário de Empreendedorismo e Inovação, Paulo Alvim, destacou a importância do lançamento no Mês Nacional da Ciência e Tecnologia o trabalho colaborativo no desenvolvimento da consulta pública.
@@ -29,5 +28,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

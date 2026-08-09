@@ -7,7 +7,6 @@ categories:
 - Opinion
 ---
 
-
 O Brasil talvez possa ser caracterizado como um exemplo de país que o sistema é uma balbúrdia. Começa pelas leis, política, igrejas, grandes bancos, empresas que possuem monopólios ou formam oligarquias. Benefícios gigantescos para poucos, favorecimentos “legalizados” para alguns e uma verdadeira anarquia em níveis jurídicos, sociais e econômicos.
 
 A lavagem cerebral causada pelas teorias nefastas levadas ao pé da letra por Lenin, Stalin e outros genocidas, como marxismo, gramscismo, etc., leva nosso povo a acreditar que governar para reduzir um estado, enxugando a máquina pública é uma afronta ao que está estabelecido. Então, o Brasil se desenvolveu no último século com dezenas de amarrações jurídicas e culturais que tornam quase impossível tornar o estado mais dinâmico, mais econômico para o bolso dos contribuintes e eficaz.
@@ -41,8 +40,6 @@ Imagem em destaque: pp
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.**
 
 **Clique aqui no banner abaixo para assinar.**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

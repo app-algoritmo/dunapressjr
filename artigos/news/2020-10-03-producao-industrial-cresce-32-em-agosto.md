@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dados do IBGE, divulgados nesta sexta-feira (02), apontam que é a quarta alta seguida.
 
 Em agosto, a produção industrial brasileira cresceu 3,2% em relação a julho. É a quarta alta consecutiva, segundo dados da Pesquisa Industrial Mensal, divulgada nesta sexta-feira (2) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -27,5 +26,3 @@ Mesmo com o crescimento no setor, o país ainda não eliminou totalmente as perd
 Fonte: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

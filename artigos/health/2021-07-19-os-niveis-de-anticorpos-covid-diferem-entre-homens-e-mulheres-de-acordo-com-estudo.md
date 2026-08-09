@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 ## A idade também é, de acordo com este estudo, um fator importante na resposta imunológica, que pode levar a um tratamento direcionado com base no sexo biológico.
 
 Um novo estudo em Israel descobriu que os níveis de anticorpos contra COVID-19 variam com base na idade e sexo biológico. homens e mulheres desenvolvem diferentes níveis de proteína para combater o vírus em diferentes estágios de suas vidas, de acordo com um comunicado da Universidade de Tel Aviv na terça-feira.
@@ -65,7 +64,3 @@ Fonte: https://fr.timesofisrael.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No estudo, cerca de 58,6% dos cavalos no centro de Israel foram considerados positivos com ECoV, enquanto 41 cavalos (12,3%) também apresentaram anticorpos anti-ECoV.
 
 A versão equina do coronavírus (ECoV) está se tornando uma ameaça crescente para cavalos em Israel , um novo estudo realizado por pesquisadores israelenses descobriu, com base em uma amostra de soroprevalência, a quantidade de patógeno em uma população, medida no soro do sangue.
@@ -31,7 +30,3 @@ Fonte: https://www.jpost.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

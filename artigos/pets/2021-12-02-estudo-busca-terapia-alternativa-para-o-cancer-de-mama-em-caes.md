@@ -7,10 +7,9 @@ categories:
 - Pets
 ---
 
-
 Pedro Luiz Porfirio Xavier foi o vencedor do [Prêmio CAPES de Tese](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) de Medicina Veterinária 2021 com um estudo sobre o câncer de mama em cães. Biólogo graduado na Pontifícia Universidade Católica de Campinas, o pesquisador fez seu doutorado no programa de Biociência Animal da Faculdade de Zootecnia e Engenharia de Alimentos da Universidade de São Paulo (USP). Sua motivação foi a relação cada vez mais intensa entre animais domésticos, como cães e gatos, e os seres humanos.
 
-“Cães e gatos, principalmente, já são membros integrantes, de certa forma, das famílias humanas. Por isso, acreditamos que é papel da ciência tentar compreender os processos que desencadeiam as doenças nestes animais e como podemos melhorar seus prognósticos”, explica o pesquisador. Xavier cursa, atualmente, um pós-doutorado no Laboratório de Oncologia Comparada e Translacional, também na USP.        
+“Cães e gatos, principalmente, já são membros integrantes, de certa forma, das famílias humanas. Por isso, acreditamos que é papel da ciência tentar compreender os processos que desencadeiam as doenças nestes animais e como podemos melhorar seus prognósticos”, explica o pesquisador. Xavier cursa, atualmente, um pós-doutorado no Laboratório de Oncologia Comparada e Translacional, também na USP.
 
 De acordo com o cientista, o câncer é uma das principais causas de morte em cães no mundo e as neoplasias mamárias representam mais de 50% dos tumores diagnosticados em fêmeas. Além disso, a doença apresenta uma série de similaridades clínicas e moleculares com o câncer de mama em mulheres. Isso leva a pesquisa laboratorial a construir modelos para o estudo da oncologia comparada.
 
@@ -35,7 +34,3 @@ Fonte: https://www.gov.br/capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ### Pedido deve ser feito às Superintendências Regionais do Trabalho.
 
 O Ministério do Trabalho e Previdência começou a receber, esta semana, os pedidos de recursos administrativos de trabalhadores que não foram habilitados para receber o abono salarial do PIS/Pasep, ano-base 2020, mas entendem que têm direito ao benefício.
 
-Os pagamentos do abono salarial começaram a ser feitos em fevereiro e os beneficiários podem sacar o dinheiro até o dia 29 de dezembro. Cerca de 23 milhões de trabalhadores foram habilitados para receber o recurso este ano.  
+Os pagamentos do abono salarial começaram a ser feitos em fevereiro e os beneficiários podem sacar o dinheiro até o dia 29 de dezembro. Cerca de 23 milhões de trabalhadores foram habilitados para receber o recurso este ano.
 
 Os trabalhadores podem questionar o não pagamento por meio das Superintendências Regionais do Trabalho do ministério, por meio do endereço eletrônico trabalho.uf@economia.gov.br (colocando nos dígitos UF as letras da sigla do estado de domicílio, por ex.: trabalho.sp@economia.gov.br). O prazo de análise do recurso é de 45 dias.
 
@@ -28,7 +27,7 @@ Já o Banco do Brasil é o agente responsável pelo pagamento do [**abono do Pas
 
 ### Quem tem direito
 
-Tem direito ao benefício o trabalhador inscrito no PIS/Pasep há, pelo menos, cinco anos, e que tenha trabalhado formalmente por, no mínimo, 30 dias no ano-base considerado para a apuração, com remuneração mensal média de até dois salários mínimos. Também é necessário que os dados tenham sido informados corretamente pelo empregador na Relação Anual de Informações Sociais (Rais). 
+Tem direito ao benefício o trabalhador inscrito no PIS/Pasep há, pelo menos, cinco anos, e que tenha trabalhado formalmente por, no mínimo, 30 dias no ano-base considerado para a apuração, com remuneração mensal média de até dois salários mínimos. Também é necessário que os dados tenham sido informados corretamente pelo empregador na Relação Anual de Informações Sociais (Rais).
 
 Os trabalhadores também podem checar se têm direito ao saque pelo site do governo federal ou da [**Carteira de Trabalho Digital**](https://www.gov.br/pt-br/temas/carteira-de-trabalho-digital). A central Alô Trabalhador, telefone 158, também está disponível para atendimento.
 
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

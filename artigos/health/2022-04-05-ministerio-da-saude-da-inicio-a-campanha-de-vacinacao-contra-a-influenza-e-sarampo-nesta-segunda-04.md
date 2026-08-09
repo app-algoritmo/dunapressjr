@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 Com um público-alvo composto por 76,5 milhões de brasileiros, o Ministério da Saúde iniciou nesta segunda-feira (4) a Campanha Nacional de Vacinação contra a Influenza e Sarampo. Com o dia “D” marcado para 30 de abril, a vacinação acontece em duas etapas e os primeiros a serem vacinados serão os idosos acima de 60 anos e trabalhadores de saúde.
 
 A primeira etapa acontece entre os dias 4 de abril e 2 de maio, quando os mais de 45 mil pontos de vacinação espalhados por todo o Brasil receberão o primeiro público-alvo da Campanha. Vale destacar que os trabalhadores da saúde devem receber uma dose de vacina contra a Influenza e, também, atualizar a caderneta caso não tenham tomado o imunizante contra o Sarampo.
@@ -68,7 +67,3 @@ Fonte: https://www.gov.br/saude
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

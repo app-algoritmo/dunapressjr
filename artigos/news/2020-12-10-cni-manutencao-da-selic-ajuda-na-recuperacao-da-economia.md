@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Entidade defende manutenção do teto e reformas para 2021.
 
 A manutenção da taxa Selic – índice que define os juros básicos da economia – em 2% ao ano representa uma decisão acertada que ajuda na recuperação da economia. A avaliação é da Confederação Nacional da Indústria (CNI), que defendeu a manutenção dos juros no menor nível da história no início de 2021.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

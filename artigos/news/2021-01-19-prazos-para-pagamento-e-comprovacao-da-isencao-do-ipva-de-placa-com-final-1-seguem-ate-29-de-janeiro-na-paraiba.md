@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## A primeira é a cota única com desconto de 10% à vista.
 
 Os proprietários de veículos, com final de placa 1 no Estado da Paraíba, deverão efetuar o pagamento do Imposto Sobre a Propriedade de Veículos Automotores (IPVA) até o dia 29 de janeiro para quem vai optar pela cota única, com desconto de 10% à vista. Essa é também a data limite para a entrega da comprovação dos documentos dos que solicitaram a isenção do tributo da placa final 1, no ano passado. Eles precisarão fazer o envio da documentação, via e-mail, para o endereço [gerencia.itcd.ipva@sefaz.pb.gov.br](mailto:gerencia.itcd.ipva@sefaz.pb.gov.br) 
@@ -142,8 +141,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

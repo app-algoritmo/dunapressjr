@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Chanceler brasileiro participou da abertura de curso sobre agronegócio.
 
 O ministro das Relações Exteriores, Carlos França, disse nesta terça-feira (9) que o governo quer recuperar e aumentar o número de ações presenciais e híbridas para promoção do agronegócio brasileiro no exterior.
@@ -32,14 +31,10 @@ De janeiro a julho deste ano, segundo o ministro, as exportações da agropecuá
 
 O objetivo do curso é apresentar uma visão ampla dos principais desafios que envolvem o agronegócio brasileiro em um contexto de transformações e novas exigências globais. Foram selecionados 45 participantes: 22 do Itamaraty, 19 do Mapa, 2 do Ministério da Economia e 2 da Apex Brasil.
 
-Entre os desafios abordados, o ministro Carlos França destacou a dinâmica de inserção internacional do agronegócio, as “barreiras ilegítimas” ao comércio sob a forma de restrições técnicas, as estratégias de agregação de valor nas cadeias do agronegócio, a identificação das grandes macrorregiões do agro mundial, o tratamento de questões sanitárias, a sustentabilidade do agronegócio brasileiro, os riscos que existem de imagem e reputação e, por fim, a urgência de uma boa comunicação do agro no exterior. 
+Entre os desafios abordados, o ministro Carlos França destacou a dinâmica de inserção internacional do agronegócio, as “barreiras ilegítimas” ao comércio sob a forma de restrições técnicas, as estratégias de agregação de valor nas cadeias do agronegócio, a identificação das grandes macrorregiões do agro mundial, o tratamento de questões sanitárias, a sustentabilidade do agronegócio brasileiro, os riscos que existem de imagem e reputação e, por fim, a urgência de uma boa comunicação do agro no exterior.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

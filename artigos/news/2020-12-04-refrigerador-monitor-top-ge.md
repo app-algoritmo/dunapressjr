@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Refrigerador Monitor Top GE**.**
 
 A existência de depósitos de gelo (Casa de gelo, porões revestidos de madeira e palha, etc) são registrados desde a antiguidade. O gelo era coletado no inverno e armazenado em depósitos ou enterrado em poços profundos para ser usado no verão, mas devido ao mau armazenamento e isolamento havia uma grande taxa de desperdício.
@@ -32,7 +31,7 @@ John Gorrie (1802 – 1855), médico americano, passou sua vida tentando melhora
 
 Na década de 1870 as primeiras industrias a introduzir refrigeração em larga escala foram as de fabricação de bebidas e na década seguinte a de produção de carne.
 
-Os frigoríficos industriais eram muito grandes para o uso doméstico, nos primeiros que chegaram aos lares, a câmara frigorífica ficava no porão e a geladeira na cozinha.  
+Os frigoríficos industriais eram muito grandes para o uso doméstico, nos primeiros que chegaram aos lares, a câmara frigorífica ficava no porão e a geladeira na cozinha.
 
 O primeiro refrigerador doméstico aparentemente foi produzido em 1913 por Fred W. Wolf Junior em Chicago, chamado Domelre (Domestic Eletric Refrigerator) mas não foi um sucesso comercial.
 
@@ -53,7 +52,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
 
 Obrigado pelo apoio!

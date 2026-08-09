@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Prazo de entrega começa em 1º de março e vai até 30 de abril.
 
 Os contribuintes podem baixar o programa de preenchimento e de entrega da declaração do Imposto de Renda Pessoa Física 2021 (ano-base 2020). O programa para computador estará disponível na [**página da Receita Federal**](http://www.receita.economia.gov.br/) na internet.
@@ -36,8 +35,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

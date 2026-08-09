@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Previsão para a taxa básica de juros ficou estável: 11,75% ao ano.
 
-O mercado financeiro aumentou mais uma vez a previsão de inflação para este ano. Segundo projeção do Boletim Focus, divulgado hoje (7), em Brasília,  pelo Banco Central, o Índice de Preços ao Consumidor Amplo (IPCA) - a inflação oficial do país - deve fechar 2022 em 5,44%. É a quarta vez que se projeta alta da inflação para 2022. Há uma semana, a estimativa do mercado era de que a inflação terminasse o ano em 5,38%. Há quatro semanas a previsão era de 5,03%.
+O mercado financeiro aumentou mais uma vez a previsão de inflação para este ano. Segundo projeção do Boletim Focus, divulgado hoje (7), em Brasília, pelo Banco Central, o Índice de Preços ao Consumidor Amplo (IPCA) - a inflação oficial do país - deve fechar 2022 em 5,44%. É a quarta vez que se projeta alta da inflação para 2022. Há uma semana, a estimativa do mercado era de que a inflação terminasse o ano em 5,38%. Há quatro semanas a previsão era de 5,03%.
 
 Para 2023, analistas mantiveram a expectativa da semana passada em relação ao IPCA. A projeção desta semana aponta uma inflação de 3,50%. Há duas semanas, o cálculo era de 3,40% no próximo ano. Em 2024, a projeção é a mesma das últimas semanas: inflação de 3%.
 
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

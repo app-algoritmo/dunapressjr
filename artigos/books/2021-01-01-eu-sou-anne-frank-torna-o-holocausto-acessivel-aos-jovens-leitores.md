@@ -7,7 +7,6 @@ categories:
 - Books
 ---
 
-
 O autor Brad Meltzer diz que escreveu a introdução delicada e cheia de esperança dos horrores do genocídio com seus próprios filhos em mente, como parte da série de livros 'Ordinary People Change the World'.
 
 “Eu sou Anne Frank” foi escrita por Brad Meltzer e ilustrada por Chris Eliopoulos para a série “Ordinary People Change the World”. As parcelas anteriores da série mais vendida também escrita por Meltzer e Eliopoulos incluem livros sobre Amelia Earhart, Walt Disney e Gandhi.
@@ -62,7 +61,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

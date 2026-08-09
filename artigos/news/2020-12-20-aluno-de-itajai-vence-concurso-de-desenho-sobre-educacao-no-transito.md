@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O estudante David Conrado, de 5 anos, venceu o concurso “Não atropele uma vida”, promovido pelo grupo Arteris. A premiação ocorreu nesta terça-feira (15) na Secretaria de Educação de Itajaí. Aluno do Jardim 2 do Centro de Educação Infantil (CEI) Heluiz Antonio Moraes Gonzaga, David foi premiado na categoria Educação Infantil e 1º ano. Ele recebeu um notebook e sua unidade escolar uma caixa de som.
 
 O objetivo do concurso é estimular a criatividade e a visão dos estudantes sobre o tema, além de fazer com que eles expressem o ideal de um trânsito pautado na plenitude da cidadania. Alunos de mais de 30 unidades escolares da região participaram da iniciativa.
@@ -32,5 +31,3 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)

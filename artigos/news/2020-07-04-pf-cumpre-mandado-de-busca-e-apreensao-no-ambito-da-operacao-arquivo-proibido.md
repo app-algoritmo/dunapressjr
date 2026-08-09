@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Fortaleza/CE – A Polícia Federal deflagrou, na manhã desta sexta-feira (3/7), mais uma fase da Operação Arquivo Proibido, com o objetivo de combater a posse e/ou divulgação de imagens e/ou vídeos de pornografia infantojuvenil pela internet.
 
 Na capital cearense, policias federais cumpriram um mandado de busca e apreensão, expedido pela Justiça Federal do Ceará. Não houve prisão em flagrante. No local da busca foram apreendidas mídias, HD´s e telefone celular que serão analisados pelo Setor Técnico Cientifico da PF. A ação de hoje pode resultar em novas diligências, após análise do material apreendido.
@@ -20,4 +19,4 @@ Neste ano, até o momento, a Polícia Federal no Ceará cumpriu 14 mandados de b
 
 Comunicação Social da Polícia Federal no Ceará
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

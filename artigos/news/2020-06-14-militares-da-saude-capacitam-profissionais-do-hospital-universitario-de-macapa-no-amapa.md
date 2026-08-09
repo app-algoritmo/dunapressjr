@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-No contexto da Operação Covid-19, militares da área de saúde das Forças Armadas capacitam médicos do Hospital Universitário, no Amapá, em procedimentos técnicos, durante a realização de ultrassonografia à beira do leito dos pacientes. Os treinamentos também incluem programa de instruções para profissionais de enfermagem sobre paramentação, desparamentação, registro em enfermagem, diluições e outros tópicos importantes no contato com o paciente internado, tanto em leito de enfermaria, quanto no Centro de Tratamento e Terapia Intensiva (CTI). 
+No contexto da Operação Covid-19, militares da área de saúde das Forças Armadas capacitam médicos do Hospital Universitário, no Amapá, em procedimentos técnicos, durante a realização de ultrassonografia à beira do leito dos pacientes. Os treinamentos também incluem programa de instruções para profissionais de enfermagem sobre paramentação, desparamentação, registro em enfermagem, diluições e outros tópicos importantes no contato com o paciente internado, tanto em leito de enfermaria, quanto no Centro de Tratamento e Terapia Intensiva (CTI).
 
 A iniciativa partiu dos militares envolvidos na missão Covid-19, após observarem as necessidades dos profissionais do hospital, que demonstraram interesse na atividade. Os treinamentos durarão até o retorno da equipe de militares da saúde para o seu local de origem. A frequência dessa capacitação é de duas a três turmas diárias, conforme a demanda e observando as regras de segurança e distanciamento social.
 
@@ -23,5 +22,3 @@ O Comando Conjunto Oeste descontaminou, por meio do Grupamento Operativo de Defe
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

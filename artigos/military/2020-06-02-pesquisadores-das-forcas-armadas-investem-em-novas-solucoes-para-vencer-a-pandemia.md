@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 Em tempos de pandemia, são muitos os esforços no combate à Covid-19. Militares pesquisadores e cientistas das Forças Armadas Brasileiras trabalham arduamente na busca de soluções que possam contribuir para enfrentar a doença que assombra o mundo. A partir desta segunda-feira (1º), o leitor acompanha série de três matérias sobre inciativas da Marinha, do Exército e da Aeronáutica na área técnico-científica, que fazem toda a diferença no cenário nacional.
 
 A primeira destacada será a Marinha. Para prover dispositivos que contribuam para a reabilitação do maior número possível de infectados com a Covid-19, a Força Naval uniu forças com a Universidade de São Paulo (USP).
@@ -50,5 +49,3 @@ Firme no propósito de contribuir para o desenvolvimento tecnológico e de busca
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

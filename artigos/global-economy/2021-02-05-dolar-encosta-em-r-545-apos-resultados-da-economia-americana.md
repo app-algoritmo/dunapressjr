@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa de valores cai depois de três dias seguidos de alta.
 
 A divulgação de dados que mostram a recuperação da economia norte-americana impulsionou o dólar. Em alta pelo segundo dia seguido, a moeda aproximou-se de R$ 5,45, depois de cair pela manhã. A bolsa de valores interrompeu uma sequência de três altas seguidas e fechou em queda.
@@ -24,8 +23,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

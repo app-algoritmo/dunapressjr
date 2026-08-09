@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dívida bruta atinge 90% do PIB, o maior percentual da história.
 
 As contas públicas registraram saldo negativo em fevereiro deste ano. O setor público consolidado, formado por União, estados e municípios, apresentou déficit primário de R$ 11,770 bilhões no mês passado. Os dados foram divulgados hoje (31) pelo Banco Central (BC). O resultado ficou abaixo do de fevereiro de 2020, antes da pandemia de covid-19, quando o déficit primário foi de R$ 20,901 bilhões.
@@ -54,10 +53,6 @@ De acordo com Fernando Rocha, no caso da dívida bruta, não há impacto das res
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

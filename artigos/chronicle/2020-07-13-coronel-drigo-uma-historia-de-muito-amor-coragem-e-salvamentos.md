@@ -7,7 +7,6 @@ categories:
 - Chronicle
 ---
 
-
 **História que nasce de São Caetano do Sul para o mundo**
 
 Aos 16 de novembro de 1972, no Hospital Nossa Senhora de Fátima - Beneficência Portuguesa de São Caetano, nascia Eduardo Drigo da Silva, que passaria a ser mais conhecido como Coronel Drigo. Esta é sua história.
@@ -286,8 +285,6 @@ Este relato é parte integrante da obra de DAN BERG, baseada na compilação de 
 
 Convite para preleção ou indicar alguém para o rol de heróis, em meio a pandemia: danberg1000@gmail.com
 
-[](https://dunapress.org/subscription-plan/?ref=danberg1000)
-
 Quando começamos o **Press Periódico** para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! **Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!**
 
-https://dunapress.org/subscription-plan/?ref=barrosprojectmanager
+https://dunapress.org/subscription-plan/

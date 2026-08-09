@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A lista de riscos que o cigarro oferece a saúde parece não ter fim. Além disso, ele tem um cheiro marcante e uma fumaça que incomoda, mas mesmo assim ainda existe muita gente que começa ou continua a fumar: de acordo com a pesquisa Vigilância de Fatores de Risco e Proteção para Doenças Crônicas por Inquérito Telefônico (Vigitel) de 2018, 9,3% dos brasileiros com 18 anos ou mais são fumantes. Além da dependência química, o que ainda mantém tantos cigarros acesos?
 
 Antes de qualquer coisa, é preciso entender como o cigarro age no corpo humano. Segundo o Instituto Nacional do Câncer José Alencar Gomes da Silva (INCA), a nicotina inalada na fumaça do cigarro chega ao cérebro em um curto período de tempo – aproximadamente 10 segundos – onde alimenta os receptores das células cerebrais capazes de reconhecê-la.
@@ -20,7 +19,7 @@ Segundo Beatriz Ávila, psicóloga residente no Programa de Residência Multipro
 
 A maioria dos fumantes acendem o primeiro cigarro por curiosidade e de forma recreativa. O cigarro está muito associado aos lugares e situações que as pessoas buscam para se divertir. Nesse aspecto, a influência dos amigos, ídolos e pessoas próximas exercem um grande poder.
 
-É importante destacar também que o preço baixo e o fácil acesso favorecem esse processo de descoberta do tabaco. E, apesar da publicidade ser proibida no Brasil, a indústria ainda possui estratégias indiretas para atrair novos consumidores.   
+É importante destacar também que o preço baixo e o fácil acesso favorecem esse processo de descoberta do tabaco. E, apesar da publicidade ser proibida no Brasil, a indústria ainda possui estratégias indiretas para atrair novos consumidores.
 
 Essa busca por novidades, motivada pela curiosidade, é uma característica ainda mais predominante entre os adolescentes. Não é difícil encontrar fumantes que conheceram o cigarro antes dos vinte anos. Essa é justamente a fase da vida em que o jovem está construindo sua identidade, buscando pertencimento e, claro, vivendo um processo de descobertas.
 
@@ -40,7 +39,7 @@ Nesse contexto, o tabagismo funciona como “auto-medicação” e contribui par
 
 É possível perceber que o cigarro surge em distintas situações, boas e ruins, e o fumante cria um vínculo com ele, passando a enxergá-lo como algo familiar e confortável. Essas atribuições podem variar de acordo com o contexto, experiência e história de vida de cada pessoa.
 
-No fim das contas, o prazer de fumar vai sendo relacionado a situações do dia a dia e o fumante passa a fazer associações. É muito comum acender um cigarro em uma mesa de bar ou ao beber um café, por exemplo. **O hábito de fumar é uma associação entre a dependência física e o comportamento do fumante, sendo possível até observar situações que se tornam gatilhos**. 
+No fim das contas, o prazer de fumar vai sendo relacionado a situações do dia a dia e o fumante passa a fazer associações. É muito comum acender um cigarro em uma mesa de bar ou ao beber um café, por exemplo. **O hábito de fumar é uma associação entre a dependência física e o comportamento do fumante, sendo possível até observar situações que se tornam gatilhos**.
 
 Dentre as motivações psicológicas, Beatriz destaca que, apesar de não ser uma regra geral, são comuns a percepção de isolamento social, sentimentos constantes de tristeza, desânimo e experiências estressantes frequentes, assim como a ansiedade e a impulsividade. O cigarro torna-se a válvula de escape para a vivência de situações desagradáveis, tornando-as mais toleráveis.
 
@@ -76,7 +75,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

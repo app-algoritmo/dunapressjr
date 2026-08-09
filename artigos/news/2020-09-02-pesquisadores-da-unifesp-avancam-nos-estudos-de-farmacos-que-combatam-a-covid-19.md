@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Enquanto pesquisadores da Universidade Federal de São Paulo (Unifesp) avançam na fase III do estudo clínico da vacina de Oxford, numa parceria com a universidade do Reino Unido, outras linhas de produção científica se debruçam sobre novos fármacos para o combate e tratamento dos pacientes que desenvolvem a Covid-19. Atualmente, dois grandes grupos de estudos estão sendo desenvolvidos. Um trata de fármacos já conhecidos e que podem ser reposicionados. O outro aborda novas drogas com estratégias antivirais.
 
 “Claro que o mundo todo aguarda ansiosamente os resultados positivos que mostrem a segurança e eficácia de uma vacina que proteja a população contra o novo coronavírus. Mas, enquanto os estudos acerca dessa proteção caminham, nossos pesquisadores devem seguir por outros caminhos que encontrem tratamento eficaz aos convalescidos. A universidade tem como missão essa contribuição científica de modo a dar respostas para a sociedade e nossos pesquisadores, altamente qualificados, estão focados nessa finalidade”, destaca a reitora da Unifesp, Soraya Smaili.
@@ -37,5 +36,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em cumprimento as novas medidas de isolamento social.
 
 O cumprimento das novas medidas de isolamento social mais rígidas implantadas pelos decretos estadual (40.289∕2020) e municipal (9.496/2020) será intensificado a partir desta quinta-feira (4). Desde a última segunda-feira (1°), a Prefeitura Municipal de João Pessoa (PMJP), o Governo do Estado e outras sete cidades da Região Metropolitana criaram barreiras sanitárias e de fiscalização para reduzir o fluxo de veículos circulando nos municípios com o objetivo de diminuir a disseminação da Covid-19. Até então, as barreiras para veículos tinham caráter educativo, primando pela proporcionalidade e razoabilidade nas abordagens.
@@ -29,5 +28,3 @@ Fonte: joaopessoa.pb.gov.br
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

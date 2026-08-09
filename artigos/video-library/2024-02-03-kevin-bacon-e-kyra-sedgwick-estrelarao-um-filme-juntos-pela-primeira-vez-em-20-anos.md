@@ -11,7 +11,7 @@ categories:
 
 A dupla de marido e mulher Kevin Bacon e Kyra Sedgwick conseguiram papéis juntos em um filme pela primeira vez em duas décadas, com o criador de *The King of Queens, *Michael J. Weithorn, escrevendo e dirigindo *Connescência .*
 
-A fotografia principal começou esta semana no filme da Fibonacci Films de Victoria Hill e Greg Clark , com Bacon e Sedgwick interpretando os papéis principais, acompanhados pela estrela *do White Lotus,* Brittany O'Grady, e pelo ator indicado ao Oscar *The Fabelmans,* Judd Hirsch.[](https://deadline.com/tag/fibonacci-films/)
+A fotografia principal começou esta semana no filme da Fibonacci Films de Victoria Hill e Greg Clark , com Bacon e Sedgwick interpretando os papéis principais, acompanhados pela estrela *do White Lotus,* Brittany O'Grady, e pelo ator indicado ao Oscar *The Fabelmans,* Judd Hirsch.
 
 Bacon interpreta Stan Olszewski, um guarda de segurança esperto, engraçado, mas cronicamente insatisfatório, que desmancha uma tentativa de assalto na casa de Cynthia Rand (Sedgwick), uma urologista de sucesso casada com o brilhante ex-promotor de Watergate Warren Rand (Judd Hirsch). A partir deste encontro casual cresce uma amizade carregada e dinâmica – primeiro como sessões de texto nocturnas cheias de humor e revelações íntimas, crescendo em algo que abala os alicerces das suas vidas.
 

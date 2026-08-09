@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Programas de incentivo à geração de emprego serão arquivados.
 
 O Senado Federal rejeitou na noite desta quarta-feira(1º) o texto da medida provisória (MP) 1.045/2021, que flexibilizava as regras trabalhistas para jovens. O placar da votação foi de 47 votos contra e 27 a favor.
@@ -20,10 +19,6 @@ Com as modificações na Câmara, o projeto passou a instituir três novos progr
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

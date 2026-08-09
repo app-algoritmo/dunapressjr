@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 - *Existe leite fraco?*** MITO. **Não existe leite fraco. Até uma mãe com desnutrição leve ou moderada é capaz de produzir um bom leite. Todos têm a mesma constituição. O que acontece é que o leite materno é mais ralo que o leite de vaca. Mas, lembre-se: o leite de vaca foi feito para o bezerro! Cada espécie se alimenta com o leite produzido pela sua mãe. O leite materno tem todas as substâncias na quantidade certa de que o bebê precisa para crescer e se desenvolver sadio. O leite do início da mamada é mais “ralo”, pois contém mais água, menos gordura e grande quantidade de fatores de defesa. Contém também mais vitaminas e sais minerais. O leite do fim da mamada é mais grosso, visto que tem mais gordura e engorda o bebê. O bebê precisa do leite do começo e do fim da mamada.
 - *Só o meu leite não sustenta e o bebê chora com fome.***  MITO. **Nem sempre que o bebê chora é porque está com fome. Ele pode estar com cólica, frio ou calor, molhado, ou simplesmente querendo carinho (colo). Lembre-se de que o choro é a única forma de o bebê se comunicar nos primeiros meses de vida. O importante é que ele esteja crescendo bem, o que pode ser verificado pelos gráficos na Caderneta da Criança, e urinando mais do que seis vezes a cada 24 horas.
 - *Criança que nasceu prematura (antes do tempo) ou com baixo peso (menos de 2 quilos e meio) não deve mamar no peito*.** MITO. **Estes bebês podem ter dificuldades de sugar no início, mas são os que mais precisam da proteção do leite materno. Conforme eles crescem, sugam com maior facilidade. Se o bebê tiver dificuldade de sugar, retire o leite, coloque-o em um recipiente limpo e ofereça com colher ou na xícara de café/copinho.
@@ -40,7 +39,3 @@ Fonte: https://www.gov.br/saude
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

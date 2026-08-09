@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 De acordo com a Sociedade Brasileira de Nefrologia (SBN), entidade que promove a campanha no País, uma em cada 10 pessoas em todo o mundo tem alguma doença renal que, se não diagnosticada e tratada de forma correta, pode ser mortal. “Vale ressaltar que doença renal crônica não tem cura! O paciente diagnosticado com a doença deve seguir o tratamento ao longo da sua vida, seja com a diálise ou o transplante renal”, enfatiza o médico nefrologista e Presidente da Pró-Rim, Dr. Marcos A. Vieira.
 
 Atualmente, mais de 140 mil pessoas no Brasil dependem da diálise para manter sua vida. Entre estes pacientes renais crônicos, a maioria são diabéticos e hipertensos, doenças popularmente conhecidas como fatores de risco para o desenvolvimento da doença renal. “É importante que o acompanhamento de doenças como diabetes e hipertensão arterial visem também a prevenção do comprometimento dos rins, evitando consequências mais graves para o organismo”, comenta o nefrologista.
@@ -61,7 +60,7 @@ Insuficiência renal é a condição na qual os rins perdem a capacidade de efet
 
 – insuficiência cardíaca grave;
 
-– glomerulonefrite aguda (inflamação nos glomérulos – unidades filtrantes do rim). 
+– glomerulonefrite aguda (inflamação nos glomérulos – unidades filtrantes do rim).
 
 A doença renal crônica está associada a duas doenças de alta incidência na população brasileira: hipertensão arterial e diabetes.
 
@@ -134,7 +133,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

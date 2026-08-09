@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Também houve queda no Nordeste, já nas regiões Centro-Oeste e Sul os números continuam em crescimento.
 
 A região Norte do país começa a apresentar queda sustentável no número de casos e mortes pela Covid-19. A região foi a primeira do país a registrar aumento de casos no início da pandemia. Os dados estão publicados na nova edição do Boletim Epidemiológico sobre a Covid-19 no Brasil, apresentado, nesta quarta-feira (15), em coletiva de imprensa, em Brasília (DF). Entre a Semana Epidemiológica 27, com dados até 4 de julho, e a Semana Epidemiológica 28, até 11 de julho, houve redução de 9% no número de casos novos de Covid-19. A média diária registrada foi de 4.575 casos novos. Nos estados, as reduções foram de 23% no Amapá, 6% no Pará, 4% em Rondônia e 46% em Roraima.
@@ -36,6 +35,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

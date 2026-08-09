@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## País exportou US$ 7,66 bilhões a mais do que importou.
 
 Beneficiada pela safra de diversos grãos e pela valorização de minérios, a balança comercial registrou o melhor saldo da história para meses de agosto, desde o início da série histórica, em 1989. No mês passado, o país exportou US$ 7,665 bilhões a mais do que importou.
@@ -38,10 +37,6 @@ Outras mudanças foram a inclusão, nas importações, da energia elétrica prod
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

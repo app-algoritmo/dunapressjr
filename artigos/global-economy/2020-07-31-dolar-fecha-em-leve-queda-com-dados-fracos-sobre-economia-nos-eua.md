@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 **Bolsa caiu 0,56% um dia após fechar no maior nível desde março**.
 
 O dólar fechou em leve queda nesta quinta-feira (30) em reação à contração histórica da economia dos Estados Unidos no segundo trimestre. O dólar comercial encerrou o dia vendido a R$ 5,159, com recuo de R$ 0,013 (-0,26%).
@@ -26,4 +25,4 @@ As negociações foram dominadas pela realização de lucros, quando investidore
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## BC norte-americano decidiu manter juros próximos de zero até 2023.
 
 O mercado financeiro teve um dia de otimismo. O dólar reverteu a alta e a bolsa de valores passou a disparar após o anúncio de que o Federal Reserve (Fed, Banco Central dos Estados Unidos) pretende manter os juros norte-americanos próximos de zero até 2023.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

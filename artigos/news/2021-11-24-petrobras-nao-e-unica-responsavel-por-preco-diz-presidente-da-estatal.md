@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Silva e Luna prestaram esclarecimentos no Senado sobre reajustes.
 
 O presidente da Petrobras, Joaquim Silva e Luna, disse, nesta terça-feira (23), que a Petrobras não tem o monopólio no setor de combustíveis no Brasil desde 1997 e que, por isso, não é correto responsabilizar unicamente a estatal pelo aumento dos preços.
@@ -38,10 +37,6 @@ Ainda na visão de Silva e Luna, no momento em que a estatal tenta vender parte 
 
 Fonte: Agência Brasil – Imagem: Marcelo Camargo/Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

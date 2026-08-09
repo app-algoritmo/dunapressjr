@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medida já está em vigor e terá impacto em 4 mil categorias de itens.
 
 Publicado em 29 de julho, o decreto que **[reduz o Imposto sobre Produtos Industrializados (IPI)](https://dunapress.org/2022/07/31/governo-reduz-ipi-de-produtos-fabricados-no-brasil/)** - tributação que incide em toda produção de bens de consumo nacional - já está em vigor e reduzirá, na prática, o preço de cerca de 4 mil categorias de itens oferecidos no mercado brasileiro.
@@ -18,7 +17,7 @@ A medida deve estimular o consumo mesmo com o recente **[aumento da taxa Selic](
 
 “Esse decreto busca uma proposta de baixar os impostos em todos os produtos do país e, por outro lado, proteger a Zona Franca de Manaus”, complementou Ywata.
 
-A Zona Franca de Manaus é um pólo industrial localizado na Região Norte do país que visa levar uma gama de linhas de produção e empregos para uma área pouco populada. Lá, são produzidos eletrodomésticos, *smartphones*, equipamentos de informática e veículos automotivos, entre outros. 
+A Zona Franca de Manaus é um pólo industrial localizado na Região Norte do país que visa levar uma gama de linhas de produção e empregos para uma área pouco populada. Lá, são produzidos eletrodomésticos, *smartphones*, equipamentos de informática e veículos automotivos, entre outros.
 
 De acordo com o decreto, a redução de IPI para veículos passou de 18% para 24,75%.
 
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

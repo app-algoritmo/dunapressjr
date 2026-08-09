@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Integrante da **[Lista de Procurados Nacional do Ministério da Justiça e Segurança Pública](https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/operacoes-integradas/procurados)** (MJSP), **[Fabio Costa](https://www.novo.justica.gov.br/procurados/paginas/fabio_costa.pdf)**, também conhecido como Pingo e Japonês, foi preso na noite deste domingo (11) na cidade de Salto Del Guairá, na fronteira do Paraguai com o Mato Grosso do Sul. Fabio foi preso por autoridades paraguaias com o apoio da Coordenação Geral de Combate ao Crime Organizado da Secretaria de Operações Integradas (Seopi), Agência Brasileira de Inteligência (Abin) e Polícia Federal.
 
 Japonês atuava na região centro-oeste do Brasil e países do Mercosul e era procurado por crimes contra a vida, contrabando e descaminho, organização criminosa e lavagem de dinheiro.
@@ -26,5 +25,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

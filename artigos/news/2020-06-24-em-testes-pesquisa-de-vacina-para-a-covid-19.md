@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estudo realiza testes para detecção de anticorpos contra SARS-CoV-2, causador da COVID-19.
 
 Desde o início da pandemia de COVID-19, muitas instituições têm voltado suas pesquisas para conhecer a doença e desenvolver vacinas e formas de amenizar seus efeitos. Assim tem acontecido com o Centro de Tecnologia e Vacinas ([CTVacinas](http://www.ctvacinas.ufmg.br/)) da Universidade Federal de Minas Gerais (UFMG), que desenvolve kits de diagnóstico para doenças virais e, desde março, trabalha no reconhecimento sorológico e molecular do novo coronavírus.
@@ -24,7 +23,7 @@ Fonte: gov.br/mec - Capes / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

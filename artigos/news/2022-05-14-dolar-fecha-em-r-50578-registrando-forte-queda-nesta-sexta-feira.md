@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Bolsa voltou a registrar ganho semanal.
 
 O dólar fechou em forte queda nesta sexta-feira (13). O dólar à vista caiu 1,65% nesta sexta-feira (13), fechando a R$ 5,0578, após variar entre R$ 5,1503 (+0,15%) e R$ 5,0462 (-1,87%). O patamar de fechamento é o menor desde o dia 5 ( R$ 5,0166).
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

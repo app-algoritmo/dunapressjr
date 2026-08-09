@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Operação Bálsamo de Gileade investiga aquisição de medicamentos a partir de fraudes em procedimentos licitatórios e emissão de notas fiscais.
 
 A Controladoria-Geral da União (CGU) participou, nesta quarta-feira (7/10), da Operação Bálsamo de Gileade. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é apurar irregularidades na compra de medicamentos, englobando nove municípios tocantinenses investigados, localizados ao Norte do Estado, na região do Bico do Papagaio.
@@ -31,5 +30,3 @@ Os investigados podem responder pelos crimes de lavagem de dinheiro, crimes prev
 Fonte: Controladoria-Geral da União
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

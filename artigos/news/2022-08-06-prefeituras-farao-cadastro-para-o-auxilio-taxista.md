@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Parcelas serão pagas a partir de 16 de agosto.
 
 Teve início nesta sexta-feira (5) e vai até 15 de agosto o novo prazo para que as prefeituras cadastrem taxistas que poderão receber o benefício emergencial concedido a motoristas de táxi, o Bem-Taxista. Ele será pago até dezembro próximo como ajuda para compensar a elevação do preço de combustíveis e derivados.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Estudo foi publicado nesta segunda-feira (30), com estimativas de alta para PIB, investimentos, salário real, exportações e importações totais, além de queda de preços ao consumidor.
 
 A Secretaria de Comércio Exterior (Secex) do Ministério da Economia divulgou nesta segunda-feira (30) o estudo de impacto para o acordo de livre comércio em negociação com a Coreia do Sul. As negociações Mercosul – Coreia do Sul foram lançadas em maio de 2018 em Seul, na Coreia do Sul. Nesta semana, de 30 de agosto a 3 de setembro, ocorre a 7ª rodada negociadora, em que oito grupos técnicos se reúnem virtualmente para avançar na negociação comercial. As negociações envolvem compromissos de redução tarifária, maior integração entre os países via redução de barreiras não-tarifárias e compromissos regulatórios no comércio de serviços, em investimentos, propriedade intelectual e compras governamentais.
@@ -31,10 +30,6 @@ O trabalho está disponível na página de [Publicações da Secex](https://www.
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

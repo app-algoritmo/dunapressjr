@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Iniciativas arrecadam materiais recicláveis e doam resultado a instituições sociais.
 
 Um país que utiliza recursos naturais de forma desordenada e, na outra ponta, joga no lixo a oportunidade de reciclar os resíduos que produz: todos os anos, o Brasil gera 80 milhões de toneladas de lixo. E, embora 90% desse total sejam passíveis de reciclagem, apenas 4% são reutilizados. Além de uma conta ambiental incalculável, todo esse lixo poderia estar se transformando em ativos de uma economia circular e solidária, se fosse corretamente aproveitado.
@@ -30,7 +29,7 @@ Até mesmo o lixo orgânico pode ter um papel interessante na hora de arrecadar 
 
 -   **Lacres que viram cadeiras de rodas**
 
-Não é de hoje que os lacres de latinhas de cerveja e refrigerante chamam a atenção. Além de serem utilizados para artesanato, esses pequenos pedaços de metal são preciosos para quem precisa de cadeiras de rodas para se locomover. O [Lacre do Bem](https://www.lacredobem.org.br/), de Minas Gerais, é uma das instituições que recebem esse tipo de material. No Paraná, o Rotary Internacional também recolhe doações de lacres com o mesmo objetivo. Vendido para empresas de reciclagem, ele se transforma em fundos que são destinados à compra de cadeiras de rodas. Essas, por sua vez, são doadas para pessoas com deficiência física ou instituições de filantropia. Quem quiser contribuir com o projeto do Rotary no Paraná, pode entrar em contato com Luiza Tigrinho pelo telefone (41) 98804-6094. 
+Não é de hoje que os lacres de latinhas de cerveja e refrigerante chamam a atenção. Além de serem utilizados para artesanato, esses pequenos pedaços de metal são preciosos para quem precisa de cadeiras de rodas para se locomover. O [Lacre do Bem](https://www.lacredobem.org.br/), de Minas Gerais, é uma das instituições que recebem esse tipo de material. No Paraná, o Rotary Internacional também recolhe doações de lacres com o mesmo objetivo. Vendido para empresas de reciclagem, ele se transforma em fundos que são destinados à compra de cadeiras de rodas. Essas, por sua vez, são doadas para pessoas com deficiência física ou instituições de filantropia. Quem quiser contribuir com o projeto do Rotary no Paraná, pode entrar em contato com Luiza Tigrinho pelo telefone (41) 98804-6094.
 
 De acordo com a assessora de Tecnologia e Inovação do Centro de Inovação Pedagógica, Pesquisa e Desenvolvimento (CIPP) do Colégio Positivo, Micheline Castelli de Souza, práticas envolvendo esse tipo de iniciativa precisam ser incluídas no cotidiano dos estudantes. “Trabalhar essa forma de pensar com os alunos da educação básica é garantir um futuro verde, fortalecer a competitividade, proteger o meio ambiente e dar novos direitos aos consumidores”, ressalta.
 
@@ -47,7 +46,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

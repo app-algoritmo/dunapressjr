@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Valor Bruto da Produção Agropecuária (VBP) de 2020 alcançou a cifra de R$ 871,3 bilhões, tornando-se o maior da série histórica dos últimos 32 anos. O crescimento real foi de 17%. O segundo melhor resultado ocorreu em 2015, com R$ 759,6 bilhões. Os dados já incluem as estatísticas de dezembro do ano passado.
 
 As lavouras tiveram faturamento de R$ 580,5 bilhões, alta de 22,2%, e a pecuária, R$ 290,8 bilhões, incremento de 7,9%.
@@ -44,7 +43,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

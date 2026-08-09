@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Taxa ficou abaixo da registrada no mês anterior.
 
 O Índice Geral de Preços – Mercado (IGP-M), usado no reajuste dos contratos de aluguel, registrou inflação de 0,52% em maio deste ano. A taxa ficou abaixo das observadas no mês anterior (1,41%) e em maio de 2021 (4,10%).
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Benjamin Heidelberger foi forçado a vender para Wilhelm Edelmann devido às leis de Nuremberg; O neto de Edelmann encontrou a neta israelense de 83 anos de Heidelberger para pedir desculpas.
 
 Um alemão que descobriu que a loja de seu avô foi comprada de um judeu que foi forçado pelas leis nazistas a vendê-la, recentemente fez contato com a neta israelense do proprietário original para se desculpar e ouvir a história da família.
@@ -69,7 +68,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

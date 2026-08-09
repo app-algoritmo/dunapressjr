@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Indicador está em 8,9%, acima do patamar pré-pandemia de covid-19.
 
 O volume de serviços no país registrou crescimento de 1,1% em julho, na comparação com o resultado de junho deste ano. Essa é a terceira alta consecutiva do indicador, que hoje está 8,9% acima do patamar de fevereiro de 2020, ou seja, do período pré-pandemia de covid-19.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

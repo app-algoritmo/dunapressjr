@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É o melhor resultado para o mês de agosto desde o início da série histórica.
 
 Em agosto, a balança comercial brasileira registrou um superávit de US$ 6,6 bilhões. Isso significa dizer que, no período, o país exportou mais do que importou. As exportações, no mês passado, somaram US$ 17,7 bilhões; e as importações, US$ 11,1 bilhões. Os dados foram divulgados nesta terça-feira (1) pela Secretaria de Comércio Exterior do Ministério da Economia.
@@ -30,10 +29,8 @@ Segundo o secretário, em agosto, as exportações brasileiras para a Ásia tive
 
 ## **Previsão saldo 2020**
 
-A expectativa do Ministério da Economia para 2020 do saldo da balança comercial brasileira é de US$ 55,4 bilhões. “Isso significa um aumento de 15,2% em relação ao saldo de 2019”, disse Brandão. Esse resultado, segundo ele, deve ser revisto em setembro. "Faltam quatro meses para fechar o ano; e esses quatro meses vão pesar menos no resultado total do ano. Então, é possível que os resultados das quedas, tanto de exportação quanto de importação, sejam menores do que estamos projetando", finalizou. 
+A expectativa do Ministério da Economia para 2020 do saldo da balança comercial brasileira é de US$ 55,4 bilhões. “Isso significa um aumento de 15,2% em relação ao saldo de 2019”, disse Brandão. Esse resultado, segundo ele, deve ser revisto em setembro. "Faltam quatro meses para fechar o ano; e esses quatro meses vão pesar menos no resultado total do ano. Então, é possível que os resultados das quedas, tanto de exportação quanto de importação, sejam menores do que estamos projetando", finalizou.
 
 Fonte: gov.br – Imagem de destaque: Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

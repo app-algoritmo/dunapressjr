@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### São Paulo foi a única cidade com queda na variação média do aluguel.
 
 O Índice de Variação de Aluguéis Residenciais (Ivar), calculado pela Fundação Getulio Vargas (FGV), registrou alta de 0,59% em maio deste ano. A taxa é inferior ao 0,82% observado no mês anterior.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

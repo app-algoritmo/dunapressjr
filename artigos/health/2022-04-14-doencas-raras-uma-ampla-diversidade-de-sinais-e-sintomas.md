@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Doenças raras são definidas pelo número reduzido de pessoas afetadas: 65 indivíduos a cada 100.000. Segundo a Organização Mundial da Saúde (OMS), elas são caracterizadas por uma ampla diversidade de sinais e sintomas, que variam de enfermidade para enfermidade, assim como de pessoa para pessoa afetada pela mesma condição.
 
 No Brasil, o Ministério da Saúde, por meio da **[Portaria nº 199/2014](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2014/prt0199_30_01_2014_rep.html)**, instituiu a Política Nacional de Atenção Integral às Pessoas com Doenças Raras, aprovou as Diretrizes para Atenção Integral às Pessoas com Doenças Raras no âmbito do Sistema Único de Saúde (SUS) e instituiu incentivos financeiros de custeio.
@@ -25,7 +24,6 @@ IV – ampliar o acesso universal e regulado das pessoas com doenças raras na R
 V – garantir às pessoas com doenças raras, em tempo oportuno, acesso aos meios diagnósticos e terapêuticos disponíveis, conforme suas necessidades; e
 VI – qualificar a atenção às pessoas com doenças raras.
 
-**
 Panorama**:
 
 – Existem de seis mil a oito mil tipos de doenças raras em que 30% dos pacientes morrem antes dos cinco anos de idade; 75% delas afetam crianças e 80% têm origem genética. Algumas dessas doenças se manifestam a partir de infecções bacterianas ou virais, causas alérgicas e ambientais ou são degenerativas e proliferativas;
@@ -105,6 +103,4 @@ Fonte: https://bvsms.saude.gov.br
 
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio! Gratuitamente, clique e comece já
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!

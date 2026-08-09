@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Câmara dos Deputados aprovou nesta quarta-feira (1º) a Medida Provisória 1100/22, que reformula a tributação de PIS e Cofins sobre álcool combustível vendido por cooperativas diretamente ao setor varejista. A MP será enviada ao Senado.
 
 A medida foi aprovada com o parecer favorável do relator, deputado [Vinicius Carvalho (Republicanos-SP)](https://www.camara.leg.br/deputados/141555), que recomendou a votação do texto original sem mudanças. “Ações efetivas devem ser tomadas por esta Casa e, em momento oportuno, a população sentirá os efeitos de nossa atuação”, afirmou.
@@ -43,5 +42,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

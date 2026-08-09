@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Em janeiro de 2020, a Organização Mundial da Saúde (OMS) declarou o surgimento de uma nova doença provocada por um vírus do tipo coronavírus - a Covid-19. Foi considerada uma emergência de saúde pública de interesse internacional, com alto risco de se espalhar para outros países ao redor do mundo. Em março de 2020, a OMS avaliou que a Covid-19 caracterizava-se como uma pandemia.
 
 A agenda de saúde frente à pandemia engloba uma gama enorme de áreas que devem ser cobertas, mas é preciso chamar a atenção da comunidade médica e, também, da população para o risco de uma epidemia paralela, que já dá indícios preocupantes: o aumento do sofrimento psicológico, dos sintomas psíquicos e dos transtornos mentais. Embora o impacto da disseminação do coronavírus para as doenças psíquicas ainda esteja sendo mensurado, as implicações para a saúde mental em situações como a que estamos vivendo já foram relatadas na literatura científica.
@@ -68,7 +67,7 @@ Não discrimine alguém que esteja doente. Ajude-o com orientações para a prev
 
 Não procure países ou etnias responsáveis pela pandemia. Discriminar pessoas por sua nacionalidade é xenofobia e produz sofrimento psíquico.
 
-Proteja suas crianças, sem fomentar nelas o medo ou o pânico. Ensine de forma lúdica e simples como elas podem se proteger 
+Proteja suas crianças, sem fomentar nelas o medo ou o pânico. Ensine de forma lúdica e simples como elas podem se proteger
 
 Proteja seus idosos, informando-os sobre os cuidados necessários diante da pandemia. Acolha os medos e auxilie com as dúvidas que possam surgir.
 
@@ -85,7 +84,6 @@ Faça atividades relaxantes como meditar, escutar música, assistir filmes, ler 
 Organize armários, separe roupas e objetos para doação; faça pequenos reparos em casa; arrume fotos, limpe caixas de e-mails, organize arquivos do celular.
 
 Cultive os laços afetivos: aproveite a convivência familiar; mantenha contato com amigos por mensagens, ligações ou vídeos. Telefone para alguém com quem não conversa há muito tempo.
- 
 
 Busque formas de ajudar a sua comunidade, incluindo familiares, vizinhos, trabalhadores. A solidariedade e a cooperação auxiliam os dois lados e aumentam a satisfação e os vínculos sociais.
 
@@ -117,7 +115,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

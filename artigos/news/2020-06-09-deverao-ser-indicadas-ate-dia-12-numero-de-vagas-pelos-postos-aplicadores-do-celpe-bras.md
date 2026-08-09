@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Único exame brasileiro para certificar proficiência em língua portuguesa aceito pelo governo é viabilizado pelo Inep.
 
 Os coordenadores dos postos de aplicação para obtenção do Certificado de Proficiência em Língua Portuguesa para Estrangeiros (Celpe-Bras) têm até sexta-feira, 12 de junho, para formalizar a adesão, atualizar os dados e informar o número total de vagas disponibilizadas. As informações devem ser encaminhadas ao Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) pelo sistema do certificado.
@@ -30,8 +29,6 @@ A instituição que solicitar o credenciamento como posto aplicador deve, além 
 No ano passado, o Inep realizou duas aplicações para 8.173 participantes. Ao todo, foram emitidos 7.966 certificados. As provas foram aplicadas em 38 países da África, América, Ásia e Europa e em 20 unidades da Federação. Os postos aplicadores são instituições de educação superior, missões consulares, centros e institutos culturais, entre outras instituições interessadas na promoção e na difusão da língua portuguesa.
 
 Fonte: gov.br/mec / Imagem em destaque: dce/mec
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

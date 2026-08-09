@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-A partir de agora, o desenvolvimento da cadeia produtiva do nióbio passa a contar com incentivos federais. Para isso, o Ministério da Ciência, Tecnologia e Inovações (MCTI) criou o Programa InovaNióbio, com foco no uso e aplicações do nióbio em óxidos, metais, ligas em materiais e produtos de alta tecnologia. Com isso, o Governo Federal pretende promover a inovação na indústria brasileira, dinamizar a economia, especializar os mercados e assegurar a autonomia tecnológica do país em setores de alta tecnologia. 
+A partir de agora, o desenvolvimento da cadeia produtiva do nióbio passa a contar com incentivos federais. Para isso, o Ministério da Ciência, Tecnologia e Inovações (MCTI) criou o Programa InovaNióbio, com foco no uso e aplicações do nióbio em óxidos, metais, ligas em materiais e produtos de alta tecnologia. Com isso, o Governo Federal pretende promover a inovação na indústria brasileira, dinamizar a economia, especializar os mercados e assegurar a autonomia tecnológica do país em setores de alta tecnologia.
 
 A [portaria](http://link:%20https//www.in.gov.br/en/web/dou/-/portaria-mcti-n-6.022-de-21-de-junho-de-2022-410029712) que cria o Programa InovaNióbio foi publicada na edição do Diário Oficial da União desta sexta-feira (24/06).
 
@@ -33,7 +32,3 @@ Fonte:  https://www.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -8,7 +8,6 @@ categories:
 - Food
 ---
 
-
 ## Pesquisa para verificar e descrever a microbiota intestinal de bebês prematuros (com menos de 32 semanas de gestação) em relação ao tipo de alimento utilizada no pós-parto: leite materno ou fórmula infantil.
 
 Você sabia que existem milhares de seres [microscópicos](https://canalciencia.ibict.br/ciencia-em-sintese1/ciencias-da-saude/348-leite-materno-ou-formula-infantil-sera-que-isso-influencia-na-composicao-dos-microorganismos-intestinais-de-bebes-prematuros#) que vivem e trabalham junto com as células do nosso corpo, influenciando a qualidade da nossa saúde? O conjunto desses seres é chamado de microbiota e, quando habitam o intestino, formam a chamada microbiota intestinal, que tem função importante para o metabolismo, desenvolvimento e comportamento do organismo. Em bebês, a composição dessa microbiota intestinal depende de vários fatores, como por exemplo: tempo de gestação, tipo do parto, idade do bebê, se já tomou antibióticos, ambiente em que vive, e amamentação.
@@ -46,7 +45,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

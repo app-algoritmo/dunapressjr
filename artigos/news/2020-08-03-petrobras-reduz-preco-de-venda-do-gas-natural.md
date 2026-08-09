@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Redução reafirma compromisso para novo mercado de gás natural.
 
 Os preços de venda de gás natural para as distribuidoras estão menores desde sábado (1º). A queda foi decidida pela Petrobras, para reafirmar os compromissos definidos para o novo mercado de gás natural do país. A companhia informou, hoje (3), que os contratos iniciados em janeiro de 2020 terão uma redução acumulada média de 48% em dólar por milhão de BTU (US$/MMBtu), se comparado a dezembro de 2019. O percentual considera ainda a cotação do dólar na data contratual de atualização do preço.
@@ -22,4 +21,4 @@ Conforme a estatal, o preço final do gás natural ao consumidor não é determi
 
 Fonte: Agência Brasil – Imagem de destaque: Fernando Frazão/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

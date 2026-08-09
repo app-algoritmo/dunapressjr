@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Errata ao Relatório do questionário de acompanhamento farmacoterapêutico aplicado na população de Itajaí referente a COVID-19 – Camphoraofficinallis 1M como medicamento profilático para COVID -19.
 
 O Secretário Municipal de Saúde do Município de Itajaí, Emerson Roberto Duarte, em atenção à Recomendação n. 0006/2020/09PJ/ITJ, emitida no Inquérito Civil n. 06.2020.00003166-7, publica a presente errata ao Relatório do questionário de acompanhamento farmacoterapêutico aplicado na população de Itajaí referente a COVID-19 – Camphoraofficinallis 1M como medicamento profilático para COVID -19, para fazer constar no site do Município, com as seguintes correções:
@@ -43,7 +42,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

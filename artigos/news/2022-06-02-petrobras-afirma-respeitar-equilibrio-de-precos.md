@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em debate sobre a política de preços do mercado de combustíveis, a Petrobras reforçou que mantém equilíbrio com os preços praticados no mercado internacional e que não repassa oscilações do câmbio ao consumidor. A companhia foi ouvida nesta quarta-feira (01) pela Comissão de Finanças e Tributação da Câmara dos Deputados.
 
 “Hoje, a gente tem um posicionamento de buscar esse equilíbrio, acompanhando essas variações tanto para cima quanto para baixo, mas evitando o repasse da volatilidade internacional, ainda mais com o efeito da taxa de câmbio”, informou o gerente de Previsão de Preços, Mercado e Vendas da estatal, Diogo Gonçalves Bezerra. Ele acrescentou que a petroleira gerou, em 2021, R$ 27 bilhões de dividendos para a União e R$ 203 bilhões em tributos para os três entes federativos.
@@ -51,5 +50,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

@@ -7,8 +7,7 @@ categories:
 - Video library
 ---
 
-
-Em um mundo interconectado e globalizado, determinadas situações que ocorrem dentro de um país acabam afetando não apenas a própria política doméstica, mas todo o sistema global. Por conta disso, as relações internacionais e a geopolítica são áreas muito dinâmicas, que mudam constantemente a partir de pronunciamentos políticos, oscilações econômicas e ações individuais das nações mais ou menos poderosas. 
+Em um mundo interconectado e globalizado, determinadas situações que ocorrem dentro de um país acabam afetando não apenas a própria política doméstica, mas todo o sistema global. Por conta disso, as relações internacionais e a geopolítica são áreas muito dinâmicas, que mudam constantemente a partir de pronunciamentos políticos, oscilações econômicas e ações individuais das nações mais ou menos poderosas.
 
 Uma das formas mais fáceis e divertidas de entender mais sobre relações internacionais e geopolítica é por meio do cinema, com obras audiovisuais que abordam o tema contando histórias reais e fictícias que têm esses movimentos políticos como pano de fundo. O coordenador do curso de Comércio Exterior e professor de Relações Internacionais da Universidade Positivo (UP), João Alfredo Lopes Nyegray, indica cinco filmes para entender melhor essas relações pelo mundo.
 
@@ -65,7 +64,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

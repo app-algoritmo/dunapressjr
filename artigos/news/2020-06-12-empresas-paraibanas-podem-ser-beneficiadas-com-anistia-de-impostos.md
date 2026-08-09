@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A iniciativa vai beneficiar especialmente os pequenos negócios.
 
 O presidente da Assembleia Legislativa da Paraíba (ALPB), Adriano Galdino, promulgou, nesta quinta-feira (11), a Lei 11.707/2020, que oferece benefícios para as empresas paraibanas com a concessão de anistia dos créditos tributários. A iniciativa vai beneficiar especialmente os pequenos negócios, que tiveram seus ganhos comprometidos consideravelmente desde o início da pandemia do coronavírus (Covid-19).
@@ -25,10 +24,6 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique aqui no banner abaixo para assinar
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

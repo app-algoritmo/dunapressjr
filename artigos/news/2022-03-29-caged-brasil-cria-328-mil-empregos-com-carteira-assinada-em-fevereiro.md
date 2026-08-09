@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Trata-se do segundo melhor resultado para o mês desde 2010.
 
 O Brasil fechou o mês de fevereiro de 2022 com a criação de 328.507 empregos formais, segundo balanço do Cadastro Geral de Empregados e Desempregados (Novo Caged), apresentado nesta terça-feira (29) pelo Ministério do Trabalho e Previdência.
@@ -52,8 +51,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

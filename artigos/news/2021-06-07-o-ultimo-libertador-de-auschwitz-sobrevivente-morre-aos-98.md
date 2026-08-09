@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## David Dushman, o último soldado sobrevivente que participou da libertação de Auschwitz, morreu aos 98 anos.
 
 David Dushman, o último soldado sobrevivente que participou da libertação do campo de extermínio nazista de Auschwitz em 1945, morreu aos 98 anos, informou a *AFP* no domingo.
@@ -37,7 +36,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

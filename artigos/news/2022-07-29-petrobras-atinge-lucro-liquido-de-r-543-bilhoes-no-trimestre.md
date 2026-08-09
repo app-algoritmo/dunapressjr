@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Resultado foi creditado à forte geração de caixa da estatal.
 
 A Petrobras atingiu lucro líquido de R$ 54,3 bilhões no segundo trimestre deste ano. O resultado foi anunciado nesta quinta-feira (28), creditado à forte geração de caixa, refletindo o desempenho operacional e o aumento do preço de mercado do petróleo.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

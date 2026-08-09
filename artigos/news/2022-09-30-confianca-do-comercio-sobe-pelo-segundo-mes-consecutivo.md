@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### É o maior nível desde janeiro de 2019.
 
 O Índice de Confiança do Comércio (Icom) subiu 2,4 pontos em setembro, passando de 99,4 pontos para 101,8 pontos, o maior nível desde janeiro de 2019 (102,3 pontos). Em médias móveis trimestrais, o indicador subiu 1,3 ponto, no sétimo resultado positivo consecutivo.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

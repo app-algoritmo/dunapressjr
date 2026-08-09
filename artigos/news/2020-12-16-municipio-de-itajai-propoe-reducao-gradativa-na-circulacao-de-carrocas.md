@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí pretende reduzir de forma gradativa a circulação de carroças na zona urbana da cidade. O Projeto de Lei Ordinária nº 259/2019, que tramitará na Câmara de Vereadores a partir desta semana, estabelece um prazo de dois anos para a proibição em definitivo de veículos de tração animal. De autoria da vereadora Renato Narcizo (SD), a proposta, que busca coibir maus-tratos a animais, também prevê a capacitação profissional para carroceiros e coletores de materiais recicláveis.
 
 Durante o período de redução gradativa no número de veículos com tração animal, carroças, charretes, entre outros, o Município de Itajaí realizará um cadastramento social desses condutores, como os catadores de materiais recicláveis. A intenção é que eles possam ser inseridos em ações sociais que possibilitem a transposição dessa atividade econômica por meio de cooperativas e para o uso de veículos de tração mecânica para a coleta.
@@ -44,7 +43,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

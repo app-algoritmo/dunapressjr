@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Cinco estabelecimentos foram autuados pelas forças de segurança do Município de Itajaí por descumprir as medidas sanitárias contra o coronavírus. Um dos locais também foi interditado por tempo indeterminado. Ao todo, 35 comércios foram vistoriados de quinta-feira (10) a domingo (13) pela Vigilância Sanitária, Guarda Armada e as Polícias Civil e Militar.
 
 Na quinta-feira (10), a fiscalização autuou um bar no bairro Dom Bosco. Já na sexta (11) um hotel no Centro e um estabelecimento na Praia Brava receberam infrações. No sábado (12), outro bar no Centro foi autuado e um comércio na Barra do Rio recebeu infração e foi interditado por tempo indeterminado. Os estabelecimentos têm prazo de 15 dias para apresentar defesa, que será avaliada pela Vigilância e poderá gerar multa.
@@ -30,7 +29,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

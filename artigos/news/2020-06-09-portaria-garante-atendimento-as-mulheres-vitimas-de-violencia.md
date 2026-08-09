@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Objetivo é assegurar a continuidade do serviço de acolhimento, considerado essencial, e a segurança dos trabalhadores da rede socioassistencial.
 
 Diante do aumento do número de casos de agressão contra mulheres durante o período de isolamento social motivado pela pandemia de Covid-19, o Governo Federal publicou nesta terça-feira (02.06) uma portaria com orientações para o atendimento de vítimas pelo Sistema Único de Assistência Social (SUAS). O objetivo é garantir a proteção das mulheres em situação de violência doméstica e familiar, permitir a continuidade do serviço de atendimento, considerado essencial, e a segurança das equipes da rede socioassistencial.
@@ -47,5 +46,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

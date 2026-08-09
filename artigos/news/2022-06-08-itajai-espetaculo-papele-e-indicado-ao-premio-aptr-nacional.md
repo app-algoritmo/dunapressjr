@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 O espetáculo para crianças *“PaPeLê – uma aventura de Papel”*, da Téspis Cia. de Teatro, foi um dos indicados, de todo o Brasil, para o prêmio de melhor espetáculo infanto-juvenil da temporada 2021. A indicação foi para o 16º Prêmio APTR – Nacional, uma das mais importantes premiações do setor teatral do país.
 
 A comissão julgadora é composta por significativos nomes ligados à cena teatral e à cultura carioca, tais como Beatriz Radunsky, Carmem Luz, Daniel Schenker, Lionel Fischer, Macksen Luiz, Maria Siman, Tânia Brandão e Wagner Corrêa de Araújo. Também conta com o incentivo do produtor cultural Eduardo Barata à frente da iniciativa há mais de uma década e meia.
 
 A cerimônia de premiação será realizada no formato presencial, no dia 06 de junho, a partir das 20h, no Teatro Claro Rio. O evento contará com transmissão ao vivo pelo canal do youtube da APTR: [youtube.com/c/APTRcanal](http://youtube.com/c/APTRcanal).
 
-Para Max Reinert, diretor do espetáculo, a indicação reflete a trajetória que o trabalho vem construindo. “É fruto de muito investimento, de suor e estudo sobre o trabalho realizado para crianças, sempre com muita responsabilidade. Viva o teatro feito para crianças no Brasil!”, ressalta. 
+Para Max Reinert, diretor do espetáculo, a indicação reflete a trajetória que o trabalho vem construindo. “É fruto de muito investimento, de suor e estudo sobre o trabalho realizado para crianças, sempre com muita responsabilidade. Viva o teatro feito para crianças no Brasil!”, ressalta.
 
 **Sobre o espetáculo**
 
@@ -42,8 +41,6 @@ Fonte: https://itajai.sc.gov.br
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
 
-Gratuitamente, clique e comece já!
-
 Fonte: https://itajai.sc.gov.br
 
 **Ver também:**
@@ -55,7 +52,3 @@ Fonte: https://itajai.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

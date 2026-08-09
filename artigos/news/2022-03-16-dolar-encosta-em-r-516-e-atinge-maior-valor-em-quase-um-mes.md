@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Queda das commodities e expectativa com Fed afetaram negociações.
 
 O dólar atingiu o maior valor em quase um mês e a bolsa fechou no menor nível desde o fim de janeiro em meio às preocupações com as reuniões dos bancos centrais dos Estados Unidos e do Brasil nesta quarta-feira (16). A queda no preço das *commodities *(bens primários com cotação internacional) também agravou a instabilidade no mercado financeiro de países emergentes.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### No acumulado do ano, o saldo é de 770 mil vagas.
 
 Em abril, o Brasil criou 196.966 novos empregos formais. O saldo é resultante de um total de 1.854.557 admissões e de 1.657.591 desligamentos. Com isso, os trabalhadores celetistas no país estavam, naquele mês, em 41.448.948 vínculos, o que, segundo dados do balanço do Cadastro Geral de Empregados e Desempregados (Novo Caged) divulgados nesta segunda-feira (6), representa uma alta de 0,48% na comparação com o mês anterior.
@@ -64,8 +63,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

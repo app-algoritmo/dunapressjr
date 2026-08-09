@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Objetivo é assegurar auxílio emergencial para atender os Estados do Espírito Santo, Minas Gerais e Rio de Janeiro.
 
 Presidente da República, Jair Bolsonaro, sancionou o Projeto de Lei do Congresso Nacional nº 14/2020, proveniente da Medida Provisória nº 920/2020, que abriu crédito extraordinário, no valor de R$892 milhões, em favor do Ministério do Desenvolvimento Regional.
@@ -19,8 +18,6 @@ Fonte: Gov BR
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique aqui no banner abaixo para assinar
-
-[](https://dunapress.org/subscription-plan/?aff=Thami)
 
 Experimente por 7 Dias Gratuitos
 

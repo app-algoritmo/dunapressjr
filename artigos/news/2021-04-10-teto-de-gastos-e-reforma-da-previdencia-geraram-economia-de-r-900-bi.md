@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Com juros menores, valor deixou de ser incorporado à dívida pública.
 
 A dívida pública líquida deixou de crescer R$ 900 bilhões desde o fim de 2016 com o teto federal de gastos e com a reforma da Previdência. A estimativa consta de relatório divulgado pela Secretaria de Política Econômica (SPE) do Ministério da Economia.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

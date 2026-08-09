@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Em Ipanguaçu (RN), Presidente Jair Bolsonaro também participa da perfuração de poço que leva água aos moradores da região. Visita do Presidente Jair Bolsonaro marcou a perfuração de um dos 138 poços que levarão água aos moradores da região de Ipanguaçu (RN).
 
 Cinco poços, no município de Ipanguaçu, no Rio Grande do Norte, vão garantir a oferta de água a centenas de famílias, para a agricultura e também para a criação de animais em comunidades rurais. A perfuração de um deles, na Comunidade Angélica, ocorreu nesta sexta-feira (21), com a visita do Presidente Jair Bolsonaro, ministros e demais autoridades.
@@ -40,5 +39,3 @@ Durante a cerimônia, foi assinado um acordo de cooperação técnica entre o mi
 O Rio Grande do Norte concentra 43,2% da produção total de camarão no país, de acordo com dados do Instituto Brasileiro de Geografia e Estatística (IBGE). Esse volume dá ao estado o título de maior produtor de camarão do Brasil.
 
 Fonte Gov.br
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Para CNI e Firjan, novos aumentos ameaçariam recuperação econômica.
 
 A decisão do Banco Central (BC) de[** interromper as elevações da taxa Selic**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-09/copom-mantem-juros-basicos-da-economia-em-1375-ao-ano) (juros básicos da economia) foi bem recebida pelo setor produtivo. Em nota, a Confederação Nacional da Indústria (CNI) considerou “acertada” a atitude do Comitê de Política Monetária (Copom).
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

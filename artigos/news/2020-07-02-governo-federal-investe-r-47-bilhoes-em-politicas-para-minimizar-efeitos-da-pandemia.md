@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Já passa de 200 mil o número de doações para povos e comunidades tradicionais durante a pandemia do novo Coronavírus. A distribuição dos produtos ocorre por meio de uma parceria entre o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH), a Companhia Nacional de Abastecimento (Conab), a Fundação Nacional do Índio (Funai) e a Secretaria Especial de Saúde Indígena (Sesai).
 
 A medida, de caráter emergencial, busca amenizar os efeitos da pandemia nas populações em situação de vulnerabilidade social. Além disso, a ação evita que famílias saiam de suas casas para buscar comida em outros locais.
@@ -29,4 +28,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Ibovespa e Wall Street foram afetadas; dólar fechou em alta de 0,78%.
 
 Notícias sobre um possível calote da gigante do mercado de incorporações e construção civil chinesa Evergrande - que atualmente possui a maior dívida de ativos do mundo, mais de US$ 300 bilhões - balançaram nesta segunda-feira (20) os mercados mundiais e geraram uma fuga ainda maior de capital da empresa.
@@ -24,10 +23,6 @@ Impulsionado pelo temor de uma crise generalizada, o dólar apresentou alta de 0
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Chamada pública recebeu 73 propostas**.
 
 O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) anunciou nesta segunda-feira (3) o resultado preliminar da seleção de fundos de crédito voltados a micro, pequenas e médias empresas, além de empreendedores individuais. Foram pré-selecionados 12 fundos gestores ou originadores de crédito que oferecerão crédito não bancário a essas empresas por meio de suas plataformas.
@@ -48,4 +47,4 @@ BSA FIC FIDC, FIC-FIDC BNDESPar XP, FIDC BizCapital Finpass PME, Fundo de Invest
 
 Fonte: Agência Brasil – Imagem de destaque: Miguel Ângelo/CNI/Direitos Reservados
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

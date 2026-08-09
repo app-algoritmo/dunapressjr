@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa de valores fecha em queda de 0,96%.
 
 Influenciado por fatores domésticos e externos, o mercado financeiro teve um dia de turbulências nesta quinta-feira (18). O dólar aproximou-se de R$ 5,45, e a bolsa de valores voltou a ficar abaixo de 120 mil pontos, um dia após ter fechado no maior nível em quase um mês.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

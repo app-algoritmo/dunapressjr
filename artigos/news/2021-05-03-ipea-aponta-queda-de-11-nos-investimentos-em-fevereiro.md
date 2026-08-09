@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Consumo aparente de máquinas e equipamentos caiu 2,9%
 
 O Indicador Ipea de Formação Bruta de Capital Fixo (FBCF) aponta uma retração de 1,1% na comparação entre fevereiro e janeiro, na série com ajuste sazonal. Ainda assim, o trimestre móvel terminado em fevereiro registrou alta de 22,4%. Na comparação com o ano anterior, os investimentos atingiram um patamar 7,8% superior ao verificado em fevereiro de 2020. O resultado foi divulgado hoje (3) pelo Instituto de Pesquisa Econômica Aplicada (Ipea).
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

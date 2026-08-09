@@ -7,7 +7,6 @@ categories:
 - Features
 ---
 
-
 Quando se separaram em 1939, duas meninas judias de Berlim prometeram manter contato. Uma família fugiu para o Chile, enquanto a outra seguiu para os Estados Unidos via Xangai.
 
 Oitenta e dois anos depois que as meninas de nove anos se despediram em um pátio de escola alemão, Ana María Wahrenberg e Betty Grebenschikoff se conectaram novamente no Zoom. O encontro inesperado foi facilitado pelo indexador de testemunhos do Holocausto, Ita Gordon, cuja nítida memória ligava as mulheres.
@@ -83,7 +82,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

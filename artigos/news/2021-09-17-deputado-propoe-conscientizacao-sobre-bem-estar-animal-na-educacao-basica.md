@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A inclusão como tema transversal na grade curricular da educação básica se reverterá em inúmeros benefícios de ordem social e econômica."
 
 O deputado federal Fred Costa (Patriota-MG) protocolou no dia 08/09, um projeto de lei em que propõe a inclusão da conscientização sobre bem-estar animal entre os temas transversais obrigatórias da educação infantil, ensino fundamental e médio.
@@ -47,7 +46,3 @@ Fonte: [https://vegazeta.com.br](https://vegazeta.com.br)
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

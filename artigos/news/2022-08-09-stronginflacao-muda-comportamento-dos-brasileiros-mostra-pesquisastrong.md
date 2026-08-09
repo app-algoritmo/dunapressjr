@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Uma em cada quatro pessoas não paga todas as contas no mês.
 
 Com o orçamento apertado, um em cada quatro habitantes no país não consegue pagar todas as contas no fim do mês. A constatação é de pesquisa da Confederação Nacional da Indústria (CNI), em parceria com o Instituto FSB Pesquisa, que aponta redução nos gastos com lazer, roupas e viagens.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

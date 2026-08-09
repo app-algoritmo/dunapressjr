@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Os contratos de arrendamento de dois terminais de celulose, no Porto de Santos, em São Paulo, leiloados em agosto deste ano e vencidos pelo consórcio Eldorado Brasil Celulose e Bracell Celulose, foram assinados nesta segunda-feira (16).
 
 Segundo o Ministério da Infraestrutura, as duas empresas administrarão as áreas dos terminais STS14 e STS14A por um período de 25 anos. O grupo Eldorado Brasil Celulose arrematou o terminal STS14 com o lance de R$ 250 milhões. Já o terminal STS14A, foi arrematado pelo grupo Bracell Celulose por R$ 255 milhões. Um total arrecadado de R$ 505 milhões.
@@ -41,5 +40,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

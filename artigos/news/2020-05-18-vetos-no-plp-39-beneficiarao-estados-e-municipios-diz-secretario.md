@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Votado na Câmara e Senado, projeto prevê auxílio de R$ 125 bilhões.
 
 O secretário especial da Fazenda, Waldery Rodrigues Júnior, disse que os estados e municípios serão mais favorecidos do que a União com os vetos presidenciais a dois parágrafos de artigos no [Projeto de Lei Complementar (PLP) nº 39/2020](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2251392), que institui o Programa Federativo de Enfrentamento ao Coronavírus, para socorro financeiro aos entres federativos.
@@ -51,5 +50,3 @@ AJUDE-NOS A LEVAR O JORNALISMO INDEPENDENTE A TODAS AS PARTES!
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O desenvolvimento de um sistema confiável de avaliação de impacto radiológico (contaminação ambiental e humana por material radioativo) para situações de emergência, como acidentes e liberações para o meio ambiente em usinas nucleares, é tema de uma pesquisa do Departamento de Proteção Radiológica Ambiental do Instituto de Radioproteção e Dosimetria, realizada com apoio da Universidade do Estado do Rio de Janeiro.
 
 Neste trabalho foi desenvolvido um sistema para avaliação de dose para a população em decorrência de acidentes nucleares ou radiológicos, como uma ferramenta para o processo de tomada de decisão.
@@ -50,7 +49,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Pesquisa da Universidade Federal do Rio Grande do Norte extrai quitosana dos fungos do solo, elemento que age contra radicais livres.
 
 Para simplificar, agilizar e baratear o processo de extração da quitosana, um produto natural que ajuda a combater os radicais livres no organismo humano, Weslley de Souza Paiva pesquisa no Departamento de Bioquímica da Universidade Federal do Rio Grande do Norte (UFRN) os fungos existentes no solo da Caatinga brasileira. A pesquisa, financiada pela bolsa CAPES Demanda Social, inova o processo de produção e reduz o impacto no meio ambiente.
@@ -34,7 +33,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

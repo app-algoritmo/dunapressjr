@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Entidade estima expansão de 5,2% da indústria de transformação em 2021.
 
-A Confederação Nacional da Indústria (CNI) projeta  crescimento de 1,2% para a economia brasileira em 2022, a partir da “superação parcial de problemas conjunturais, como inflação, emprego e normalização das cadeias globais de valor a partir do segundo semestre do ano”. A previsão está no documento Economia Brasileira: 2021-2022, divulgado nesta quarta-feira (15), em Brasília.
+A Confederação Nacional da Indústria (CNI) projeta crescimento de 1,2% para a economia brasileira em 2022, a partir da “superação parcial de problemas conjunturais, como inflação, emprego e normalização das cadeias globais de valor a partir do segundo semestre do ano”. A previsão está no documento Economia Brasileira: 2021-2022, divulgado nesta quarta-feira (15), em Brasília.
 
 Para a entidade, a atividade econômica também deve se beneficiar da normalização da demanda por serviços prestados às famílias, o que ainda está abaixo do nível pré-pandemia, e também alguns setores industriais demandados ainda em 2021, principalmente aqueles ligados a investimentos, como a cadeia da construção civil e de bens de capital.
 
@@ -54,10 +53,6 @@ O documento Economia Brasileira: 2021-2022 está disponível na[** página da CN
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

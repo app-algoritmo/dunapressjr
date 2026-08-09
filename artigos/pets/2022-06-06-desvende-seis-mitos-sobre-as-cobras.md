@@ -7,8 +7,7 @@ categories:
 - Pets
 ---
 
-
-Desde pequenos, ouvimos diversas histórias sobre serpentes e mal sabemos os benefícios que elas trazem ao mundo. O veneno da jararaca, por exemplo, foi usado em um componente como modelo para a fabricação de um remédio muito usado para controlar pressão alta, e há pesquisas que indicam que na peçonha da cascavel pode estar um possível medicamento contra o câncer. Sem contar o quanto as serpentes são imprescindíveis para a manutenção do equilíbrio ambiental no planeta. Então por que tanta gente diz que não gosta de cobras? Muitas histórias foram espalhadas como verdade e colocam esses animais como inimigos do ser humano ou agressivos. Mas isso não é verdade. Conheça a seguir alguns mitos e verdades sobre as serpentes e saiba mais sobre esse animal tão importante para o mundo e para o homem. 
+Desde pequenos, ouvimos diversas histórias sobre serpentes e mal sabemos os benefícios que elas trazem ao mundo. O veneno da jararaca, por exemplo, foi usado em um componente como modelo para a fabricação de um remédio muito usado para controlar pressão alta, e há pesquisas que indicam que na peçonha da cascavel pode estar um possível medicamento contra o câncer. Sem contar o quanto as serpentes são imprescindíveis para a manutenção do equilíbrio ambiental no planeta. Então por que tanta gente diz que não gosta de cobras? Muitas histórias foram espalhadas como verdade e colocam esses animais como inimigos do ser humano ou agressivos. Mas isso não é verdade. Conheça a seguir alguns mitos e verdades sobre as serpentes e saiba mais sobre esse animal tão importante para o mundo e para o homem.
 
 **É possível diferenciar uma serpente peçonhenta de uma não peçonhenta?**
 
@@ -47,7 +46,3 @@ Fonte: https://butantan.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

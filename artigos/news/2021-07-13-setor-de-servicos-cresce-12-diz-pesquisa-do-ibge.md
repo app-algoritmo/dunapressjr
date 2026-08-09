@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Maior alta ocorreu nos serviços prestados às famílias: 17,9%.
 
-O volume de serviços cresceu 1,2% em maio. Com o resultado, pela segunda vez este ano, ele superou o nível em que se encontrava antes da pandemia de covid-19: 0,2%. Após dois meses seguidos de resultados positivos, o setor acumula alta de 2,5%, mas ainda insuficiente para recuperar as perdas de 3,4% em março. 
+O volume de serviços cresceu 1,2% em maio. Com o resultado, pela segunda vez este ano, ele superou o nível em que se encontrava antes da pandemia de covid-19: 0,2%. Após dois meses seguidos de resultados positivos, o setor acumula alta de 2,5%, mas ainda insuficiente para recuperar as perdas de 3,4% em março.
 
 Embora apresente sinais de aquecimento na maior parte dos seus segmentos de atividades, ainda está 11,3% abaixo do recorde histórico de novembro de 2014. No ano, o setor acumula alta de 7,3% e, nos últimos 12 meses, queda de 2,2%. Os números fazem parte da Pesquisa Mensal de Serviços (PMS), divulgada hoje (13), no Rio de Janeiro, pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
 
@@ -18,7 +17,7 @@ A primeira vez que o segmento voltou ao patamar antes da pandemia foi em feverei
 
 O gerente da pesquisa, Rodrigo Lobo, informou que o setor vinha mostrando boa recuperação, mas em março, com um novo agravamento do número de casos de covid-19, governadores e prefeitos de diversos estados e cidades voltaram a adotar medidas mais restritivas, afetando o funcionamento das empresas de serviços. “Em abril e maio essas medidas começam a ser relaxadas e o setor volta a crescer”, explicou.
 
-Três das cinco atividades analisadas pela pesquisa tiveram crescimento em maio. Um dos destaques foi o segmento de transportes, serviços auxiliares aos transportes e correio, com alta de 3,7%. 
+Três das cinco atividades analisadas pela pesquisa tiveram crescimento em maio. Um dos destaques foi o segmento de transportes, serviços auxiliares aos transportes e correio, com alta de 3,7%.
 
 Para Rodrigo Lobo, o crescimento nos transportes tem muito a ver com a queda no preço das passagens aéreas, além do aumento da demanda por esse serviço. O transporte aéreo cresceu 60,7% em maio. “Além disso, o segmento de armazenagem, serviços auxiliares aos transportes e correios (3,6%), que também compõem a atividade, continua em ascensão, tendo atingido em maio seu patamar mais alto na série histórica da pesquisa. Contribuem para esse resultado as empresas de logística, as administradoras de aeroportos e as concessionárias de rodovias”, observou.
 
@@ -38,7 +37,7 @@ Ainda segundo o gerente da pesquisa, esse avanço recente recupera boa parte da 
 
 ## Regiões
 
-Entre as unidades da federação, quase todas, ou seja, 23 de 27, tiveram expansão no volume de serviços em maio de 2021 em relação a abril. O impacto mais importante nos locais que registraram taxas positivas em maio foi em São Paulo, com alta de 2,5%. Essa é a localidade que tem maior peso no índice geral (45 pontos percentuais). 
+Entre as unidades da federação, quase todas, ou seja, 23 de 27, tiveram expansão no volume de serviços em maio de 2021 em relação a abril. O impacto mais importante nos locais que registraram taxas positivas em maio foi em São Paulo, com alta de 2,5%. Essa é a localidade que tem maior peso no índice geral (45 pontos percentuais).
 
 Bahia (8,6%), Minas Gerais (2,1%) e Distrito Federal (3,7%) também foram destaques positivos. Em queda, Tocantins (-2,9%), Mato Grosso (-0,4%), Piauí (-1,9%) e Rondônia (-0,8%) apontaram as únicas retrações em termos regionais.
 
@@ -54,10 +53,6 @@ Conforme o IBGE, o estudo produz indicadores que permitem acompanhar o comportam
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É necessário login prata ou ouro no Portal Gov.br para fazer retirada.
 
 A partir de hoje (14), as pessoas nascidas entre 1968 e 1983 ou empresas abertas nesse período poderão pedir o saque de recursos esquecidos em instituições financeiras. O processo deve ser feito no *site* [**Valores a Receber**](http://valoresareceber.bcb.gov.br/), criado pelo Banco Central (BC) para consulta e agendamento da retirada de saldos residuais.
@@ -59,8 +58,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

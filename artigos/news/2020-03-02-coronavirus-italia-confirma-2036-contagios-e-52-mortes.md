@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 **O governo da Itália aprovou um decreto-lei de emergência com medidas para impedir a propagação do coronavírus**
 
-[](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)Mapa Johns Hopkins CSSE
+Mapa Johns Hopkins CSSE
 
 [Decreto del presidente del consiglio dei ministri 01 marzo 2020](http://www.trovanorme.salute.gov.it/norme/dettaglioAtto?id=73461&completo=true)
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Empreendimento em Campo Alegre de Lourdes recebeu R$ 90 milhões de investimentos; mais de 40 mil pessoas serão beneficiadas com água tratada e regular.
 
 O presidente Jair Bolsonaro e o ministro do Desenvolvimento Regional, Rogério Marinho, inauguraram, nesta quinta-feira (30), o Sistema Integrado de Abastecimento de Água (Siaa) no município baiano de Campo Alegre de Lourdes. O empreendimento hídrico recebeu R$ 90 milhões de investimentos federais, por meio da Companhia de Desenvolvimento Regional dos Vales do São Francisco e do Parnaíba (Codevasf). Mais de 40 mil pessoas serão beneficiadas com água tratada e regular.
@@ -24,4 +23,4 @@ A obra, que possui 477 quilômetros de adutoras e redes de distribuição, é co
 
 Fonte: gov.br – Imagem de destaque: Alan Santos /PR
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

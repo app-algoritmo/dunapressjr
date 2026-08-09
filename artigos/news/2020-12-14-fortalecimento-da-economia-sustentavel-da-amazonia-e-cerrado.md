@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Desenvolver a economia sustentável da Amazônia e do Cerrado. É o que prevê uma parceria entre o Ministério da Agricultura, Pecuária e Abastecimento (Mapa) e a Empresa Brasileira de Pesquisa Agropecuária (Embrapa). O projeto contará com recursos federais de R$ 2 milhões para promover a estruturação, o fortalecimento e o aprimoramento de 11 cadeias produtivas do Brasil, como a do açaí, cupuaçu, castanha-do-Brasil, piaçava, mandioca, mel de abelhas nativas e baunilhas.
 
 A ideia, como explicou o secretário de Agricultura Familiar e Cooperativismo do Mapa, Fernando Schwanke, é levar tecnologias inovadoras desenvolvidas pela Embrapa. “Através desses R$ 2 milhões que nós estamos repassando, a Embrapa vai poder atuar e transferir essa tecnologia efetivamente aos extrativistas, aos ribeirinhos e aos agricultores familiares.”
@@ -34,7 +33,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

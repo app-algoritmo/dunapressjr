@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Advocacia-Geral da União (AGU) conseguiu efetivar o bloqueio de R$ 319 mil da conta de um ex-segurado do Instituto Nacional do Seguro Social (INSS) que se beneficiou indevidamente e conscientemente de um esquema fraudulento de concessão de benefícios. O bloqueio foi possível após a AGU conseguir incluir o ex-segurado no polo passivo de uma ação civil pública por ato de improbidade administrativa. Outros R$ 8,5 milhões também foram bloqueados de quatro ex-servidores da autarquia pela concessão ilegal dos benefícios. No entanto, após determinação da Justiça para o bloqueio dos valores, apenas cerca de R$ 3 mil tinham sido encontrados nas contas dos réus.
 
 A decretação de indisponibilidade dos bens dos acusados pelo juízo da 4ª Vara Federal de Niterói, no Rio de Janeiro, atendeu a um pedido feito pela Equipe de Trabalho Remoto em ações de improbidade administrativa (ETR-Probidade) da Procuradoria-Geral Federal (PGF). A ação é baseada nas apurações internas feitas pelo INSS decorrentes da Operação “Anos Dourados”, realizada em conjunto com a Polícia Federal, que identificou um esquema de concessão fraudulenta de benefícios em diversas agências do município fluminense.
@@ -27,7 +26,7 @@ Segundo Paulo Brandão, a inclusão de beneficiários das fraudes nas ações de
 
 A ETR-Probidade integra a Coordenação Geral de Cobrança e Recuperação de Créditos (CGCOB) da Procuradoria-Geral Federal (PGF), órgão da Advocacia Geral da União (AGU).
 
-Fonte gov.br 
+Fonte gov.br
 
 Ajude-nos a levar o jornalismo independente a todas as partes!
 
@@ -36,5 +35,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

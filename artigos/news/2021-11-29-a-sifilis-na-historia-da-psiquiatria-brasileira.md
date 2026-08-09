@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 As consequências nervosas da sífilis são conhecidas desde a primeira metade do século XIX. Mas foi no final desse período que a doença passou a ser considerada uma das causas de certas enfermidades mentais, entre elas, a paralisia geral progressiva, ou PGP. A PGP foi descrita em 1822, pelo alienista francês Antoine Laurent Jessé Bayle (1799-1858), e mobilizou o interesse de muitos psiquiatras durante os séculos XIX e XX. Suas principais causas eram a sífilis, o alcoolismo e os excessos de trabalho intelectual e físico.
 
 As doenças são fenômenos biológicos e sociais e é importante ter em mente que elementos científicos, políticos, sociais e culturais influenciam a produção do conhecimento sobre elas. A PGP ganhou ainda mais relevância para a psiquiatria quando sua origem sifilítica foi descoberta, o que ocorreu nos  primeiros anos do século XX. Nesse momento, intelectuais brasileiros, incluindo médicos, buscavam soluções  que tornassem o Brasil uma nação moderna, civilizada e  saudável. A partir desta perspectiva, a Dra. Giulia Engel Accorsi, aluna egressa do Programa de Pós-Graduação em História das Ciências e da Saúde da Casa de Oswaldo Cruz (COC/Fiocruz), buscou  entender, em sua pesquisa doutoral, como a construção dos saberes sobre a PGP foi inspirada nesses anseios da elite brasileira e articulada às visões da medicina sobre as pessoas negras, as mulheres e as classes pobres.
@@ -43,7 +42,3 @@ Fonte: https://canalciencia.ibict.br/ciencia-em-sintese
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

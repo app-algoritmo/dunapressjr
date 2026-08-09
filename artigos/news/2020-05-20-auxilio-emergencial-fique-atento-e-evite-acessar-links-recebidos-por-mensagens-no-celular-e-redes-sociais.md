@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Cidadãos devem utilizar exclusivamente os canais oficiais da Caixa ou do Governo para buscar informações e acesso aos serviços.
 
 A Caixa utiliza diversos recursos para proteger as contas e operações financeiras e assegurar que as transações dos clientes sejam feitas com segurança. Mas apesar dos dispositivos de segurança nas plataformas digitais do banco, o cliente deve estar sempre atento a qualquer atividade e situação não usual, e principalmente não clicar em links recebidos por SMS, WhatsApp ou redes sociais para acesso a contas e valores a receber, desconfiando de informações sensacionalistas e de “oportunidades imperdíveis”.
@@ -26,7 +25,6 @@ Especificamente para o benefício Auxílio Emergencial, é muito importante que 
 
 ### Dicas de segurança
 
-**
 Links para páginas falsas**
 
 O fraudador encaminha e-mail, SMS ou mensagem pelas redes sociais, se passando por um amigo ou uma empresa conhecida e contendo dados do próprio cliente, para induzi-lo a clicar em um link que o direciona para páginas falsas, criadas com intuito de capturar senhas e dados confidenciais. O link também pode levar à instalação de programas espiões, que podem ficar ocultos no celular ou computador, coletando informações de navegação e dados do usuário.
@@ -62,5 +60,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

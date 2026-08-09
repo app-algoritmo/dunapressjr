@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí informa que a partir desta quarta-feira (16) o sistema de cobrança do estacionamento rotativo Zona Azul está encerrado. O contrato com a empresa que opera o serviço na cidade terminou na terça-feira (15) e não será prorrogado. Um novo processo de licitação, que vai contemplar melhorias e novas facilidades ao serviço, será lançado nas próximas semanas.
 
 Mesmo após o término do atual contrato, a Estapar, que era a concessionária do serviço, vai manter seu escritório de atendimento ao cidadão, que fica na rua João Bauer, 440, no Centro de Itajaí. Nesta quarta-feira, os parquímetros foram desativados pela operadora, que também deve fixar nos equipamentos informações aos usuários sobre o encerramento do serviço e os canais de contato com a empresa.
@@ -43,5 +42,3 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## **Período para adesão vai dos dias 1º a 10 do mesmo mês**
 
 As mantenedoras de instituições de educação superior que querem participar pela primeira vez do Programa Universidade para Todos (Prouni) na edição referente ao segundo semestre de 2020 deverão manifestar interesse de 1º a 5 de junho. O procedimento deve ser realizado pelo [Sistema Informatizado do Prouni (SisProuni)](http://prouni.mec.gov.br/prouni2006/login/).
@@ -25,8 +24,6 @@ Todos os procedimentos são feitos pelo SisProuni. Os prazos ficam abertos até 
 **O programa –** O Prouni é o programa do Ministério da Educação (MEC) que oferece bolsas integrais (100%) e parciais (50%) em instituições privadas de educação superior.
 
 Fonte: portal.mec.gov.br / Imagem em destaque: QB
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

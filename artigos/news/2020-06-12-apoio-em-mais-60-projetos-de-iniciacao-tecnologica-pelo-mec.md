@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Cada projeto selecionado receberá cerca de R$ 123 mil.
 
 O mundo da tecnologia e da inovação vai abrir as portas para 9,6 mil estudantes da rede pública. Eles serão atendidos pelo edital de iniciação tecnológica com foco na Economia 4.0, que vai apoiar 60 projetos da Rede Federal de Educação Profissional e Tecnológica de todas as unidades da federação. O [edital ](https://www.ifes.edu.br/images/stories/-publicacoes/chamadas-publicas/2020/03-2020/Chamada-publica-03-2020-iniciacao-tecnologica.pdf)foi publicado nesta quarta-feira, 10 de junho.
@@ -25,8 +24,6 @@ As instituições da Rede Federal de Educação Profissional e Tecnológica pode
 **Novos Caminhos –** O programa Novos Caminhos abre novas oportunidades e novos cursos com foco nas demandas do mercado e nas profissões do futuro. O objetivo da iniciativa, lançada pelo MEC em outubro de 2019, é potencializar a educação profissional e tecnológica com incremento de 80% nas matrículas — subindo de 1,9 milhão para 3,4 milhões — até 2023.
 
 Fonte: gov.br/mec / Imagem em destaque: portalmec
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

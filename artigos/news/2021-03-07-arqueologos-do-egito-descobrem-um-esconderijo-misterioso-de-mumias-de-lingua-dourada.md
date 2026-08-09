@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Arqueólogos no Egito encontraram um esconderijo de misteriosas múmias com língua de ouro em tumbas escavadas na rocha perto da cidade de Alexandria, no norte do país.
 
 Os 16 enterros datam de cerca de 2.000 anos, nas eras grega e romana. Eles foram descobertos por uma equipe egípcia-dominicana perto do antigo templo Taposiris Magna.
@@ -39,7 +38,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

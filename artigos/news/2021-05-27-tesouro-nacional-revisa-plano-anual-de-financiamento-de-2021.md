@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Cenário favorável permitiu reduzir limite máximo da Dívida Pública Federal para R$ 5,8 trilhões.
 
 O Tesouro Nacional apresentou nesta quarta-feira (26/5) a [revisão do Plano Anual de Financiamento (PAF 2021).](https://sisweb.tesouro.gov.br/apex/f?p=2501:9::::9:P9_ID_PUBLICACAO_ANEXO:13188) Os novos limites do estoque da Dívida Pública Federal (DPF) ficaram estabelecidos entre R$ 5,5 trilhões (mínimo) e R$ 5,8 trilhões (máximo) para este ano – abaixo, portanto, da [versão anterior](https://sisweb.tesouro.gov.br/apex/f?p=2501:9::::9:P9_ID_PUBLICACAO:37048), divulgada no final de janeiro. No PAF original, os limites da DPF estavam fixados entre R$ 5,6 trilhões e R$ 5,9 trilhões. Os dados foram divulgados durante entrevista coletiva virtual com equipe da Secretaria do Tesouro Nacional. Os novos limites demonstram um cenário mais otimista para os indicadores da DPF ao final deste ano, em comparação com o que se esperava quando da divulgação da primeira versão do PAF, em janeiro de 2021.
@@ -32,8 +31,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

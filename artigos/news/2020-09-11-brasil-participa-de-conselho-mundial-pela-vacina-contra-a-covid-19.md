@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Ministro Eduardo Pazuello afirmou que o País estará ao lado de iniciativas que promovam o acesso justo a diagnósticos, tratamentos e vacinas. Objetivo da iniciativa é acelerar o fim da crise, apoiando o desenvolvimento e a distribuição de testes, tratamentos e vacinas. 
+Ministro Eduardo Pazuello afirmou que o País estará ao lado de iniciativas que promovam o acesso justo a diagnósticos, tratamentos e vacinas. Objetivo da iniciativa é acelerar o fim da crise, apoiando o desenvolvimento e a distribuição de testes, tratamentos e vacinas.
 
 O ministro interino da Saúde, Eduardo Pazuello, participou nesta quinta-feira (10) da inauguração do conselho da iniciativa *Access to Covid-19 Tools (ACT) Accelerator*, uma coalizão global lançada pela Organização Mundial da Saúde (OMS), em conjunto com a Comissão Europeia, e integrada por governos de 28 países, para acelerar o fim da crise causada pelo novo coronavírus. O encontro foi por meio de videoconferência.
 
@@ -39,5 +38,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

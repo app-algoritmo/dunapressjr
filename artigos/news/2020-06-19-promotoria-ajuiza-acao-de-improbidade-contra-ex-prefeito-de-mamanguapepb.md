@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A ação foi ajuizada pela promotora Carmem Eleonora Perazzo.
 
 O Ministério Público da Paraíba ajuizou uma ação civil pública por ato de improbidade administrativa contra o ex-prefeito de Mamanguape, Eduardo Carneiro de Brito, e Hugo Diego Cavalcante do Nascimento, por fraude licitatória, e sucessivas prorrogações do contrato cometidas pelo ex-gestor em favor do segundo, além da falsificação de documentos para burlar a investigação do MP. A ação foi ajuizada pela promotora do Patrimônio Público de Mamanguape, Carmem Eleonora Perazzo.
@@ -32,4 +31,4 @@ Também a condenação pelo cometimento de doloso ato de improbidade que violou 
 
 Fonte: Ministério Público da Paraíba
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

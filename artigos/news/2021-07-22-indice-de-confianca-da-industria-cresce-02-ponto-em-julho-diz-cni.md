@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É o terceiro aumento consecutivo do indicador.
 
 O Índice de Confiança do Empresário Industrial (Icei) cresceu 0,2 ponto em julho deste ano, em comparação com o apurado em junho, informou nesta quarta-feira (21) a Confederação Nacional da Indústria (CNI). Com isso, o índice ficou em 62 pontos. Este é o terceiro aumento consecutivo no indicador, que acumula crescimento de 8,3 pontos no período.
@@ -24,10 +23,6 @@ Já o Índice de Expectativas ficou no patamar de 65,2 ponto, acumulando um pequ
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

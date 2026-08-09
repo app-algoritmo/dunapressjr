@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 A organização Arolsen publica 850.000 documentos coletados após o final da Segunda Guerra Mundial na zona da Alemanha ocupada pelos EUA, contendo informações "imensas".
 
 BERLIM - O Centro Internacional de Perseguição nazista da Alemanha enviou cerca de 850.000 documentos com informações sobre dez milhões de pessoas coletadas após o final da Segunda Guerra Mundial na zona ocupada americana da Alemanha.
@@ -30,7 +29,7 @@ Os documentos online disponibilizarão "uma imensa quantidade de informações s
 
 O Arquivo Arolsen disse que em breve publicará uma lista adicional de documentos retirados da Zona Britânica.
 
-Fonte The Time Of Israel 
+Fonte The Time Of Israel
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor.**
 
@@ -38,6 +37,6 @@ Fonte The Time Of Israel
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

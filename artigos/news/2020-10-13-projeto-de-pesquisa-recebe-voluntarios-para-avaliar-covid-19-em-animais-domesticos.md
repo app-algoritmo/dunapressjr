@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Aprovado na chamada pública de parceria entre o Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), Ministério da Ciência, Tecnologia e Inovações (MCTI) e Ministério da Saúde, um estudo da Universidade Federal do Paraná (UFPR) vai avaliar a presença da Covid-19 em animais domésticos e analisar o risco de transmissão da doença pelos pets. O estudo precisa de voluntários – animais cujos donos testaram positivo para o coronavírus, em cinco capitais do país: Belo Horizonte (MG), Campo Grande (MS), Curitiba (PR), Recife (PE) e São Paulo (SP). Os interessados devem entrar em contato pelo e-mail [covid19@ufpr.br](mailto:covid19@ufpr.br).
 
 Serão incluídos na pesquisa animais de companhia cujo dono esteja em isolamento domiciliar, com diagnóstico laboratorial confirmado para SARS-CoV-2 por RT-PCR ou resposta imunológica apenas por IgM (caracterizando doença ativa), até sete dias da data do diagnóstico. A participação é gratuita.
@@ -29,5 +28,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

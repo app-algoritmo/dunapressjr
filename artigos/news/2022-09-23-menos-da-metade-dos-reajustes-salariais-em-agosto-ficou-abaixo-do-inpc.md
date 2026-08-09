@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Piso médio foi de R$ 1.390, 14,7% acima do salário mínimo.
 
 Menos da metade (43,4%) dos reajustes salariais negociados em agosto ficou abaixo do Índice Nacional de Preços ao Consumidor (INPC), e 30,2% dos reajustes ficaram acima. Pelo terceiro mês consecutivo, o reajuste mediano empatou com o INPC acumulado de 10,1%. O piso mediano, por sua vez, ficou em R$ 1.390, valor 14,7% acima do salário mínimo.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

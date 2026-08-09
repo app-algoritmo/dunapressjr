@@ -7,14 +7,13 @@ categories:
 - Health
 ---
 
-
 A doença causada pelo novo coronavírus (COVID-19) é preocupante e pode levar algumas das pessoas infectadas a internação em estado grave e até mesmo a morte.
 
- Para reduzir o avanço da doença nos pulmões, o uso de heparina (substância anticoagulante natural do sangue) em pacientes diagnosticados com sintomas graves da COVID-19 foi recomendado por consenso entre alguns especialistas para diminuir o risco da coagulação disseminada do sangue intravascular, o que pode causar tromboembolismo venoso. 
+ Para reduzir o avanço da doença nos pulmões, o uso de heparina (substância anticoagulante natural do sangue) em pacientes diagnosticados com sintomas graves da COVID-19 foi recomendado por consenso entre alguns especialistas para diminuir o risco da coagulação disseminada do sangue intravascular, o que pode causar tromboembolismo venoso.
 
 Ou seja, a formação de coágulos - sangue aglomerado em forma sólida - dentro da veia, e que acabam atingindo os pulmões, bloqueando o suprimento de sangue, dificultando a respiração, e produzindo até morte súbita ou danos ao coração.
 
-No entanto a eficácia e a utilização da heparina como anticoagulante no tratamento da COVID-19 precisam ser validadas. Foi pensando nisso que a equipe de cientistas da Universidade de Ciência e Tecnologia de Wuhan, na China, epicentro desta pandemia global, analisou o histórico dos casos de coagulação, medicamentos utilizados e resultados obtidos em pacientes diagnosticados com COVID-19 grave no hospital local de Tongji. 
+No entanto a eficácia e a utilização da heparina como anticoagulante no tratamento da COVID-19 precisam ser validadas. Foi pensando nisso que a equipe de cientistas da Universidade de Ciência e Tecnologia de Wuhan, na China, epicentro desta pandemia global, analisou o histórico dos casos de coagulação, medicamentos utilizados e resultados obtidos em pacientes diagnosticados com COVID-19 grave no hospital local de Tongji.
 
 As mortalidades ocorridas em 28 dias entre pacientes usuários e não usuários de heparina foram comparadas, inclusive em relação aos diferentes riscos individuais de coagulopatias, isto é, de distúrbios decorrentes da coagulação sanguínea.
 
@@ -34,6 +33,6 @@ Fonte canalciencia.ibict.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

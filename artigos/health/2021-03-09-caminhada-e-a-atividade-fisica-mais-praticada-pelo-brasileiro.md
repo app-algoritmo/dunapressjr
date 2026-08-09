@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Todos sabem que a prática de atividade física, seja na infância ou na velhice, faz bem para saúde, para corpo e para alma. Quem tem o hábito de se exercitar, sente no dia-a-dia os benefícios e a falta que faz quando, por algum motivo, não consegue ter um tempo para os exercícios.
 
 Entre os brasileiros, a prática mais comum é a velha e boa caminhada, segundo a Pesquisa de Vigilância de Fatores de Risco e Proteção para Doenças Crônicas por Inquérito Telefônico (Vigitel), feita pelo Ministério da Saúde. A pesquisa aponta que 36,2% da população com mais de 18 anos caminha pelo menos 150 minutos por semana em seu tempo livre.
@@ -46,7 +45,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

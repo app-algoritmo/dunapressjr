@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Formação é coordenada pela Escola de Enfermagem; especialistas também atendem demandas específicas por meio de teleconsultoria.
 
 O curso de manejo clínico de pacientes infectados com covid-19, ofertado gratuitamente pela Escola de Enfermagem da UFMG, segue com [inscrições abertas, em fluxo contínuo](https://www.uticovid19ufmg.com.br/curso).
@@ -28,7 +27,7 @@ Fonte: gov.br / Imagem em destaque: Uol
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

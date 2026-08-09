@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Abras descarta ações para reduzir movimento de pessoas nas lojas.
 
 O consumo de produtos do setor supermercadista nos lares brasileiros cresceu 1,97% em novembro de 2021, na comparação com outubro. Na comparação com novembro de 2020, houve alta de 4,43% e, no acumulado de janeiro a novembro, de 2,88%. Os dados foram divulgados nesta quinta-feira (13) pela Associação Brasileira de Supermercados (Abras).
@@ -32,10 +31,6 @@ Entre as localidades que registraram maior queda no preço dos produtos da cesta
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

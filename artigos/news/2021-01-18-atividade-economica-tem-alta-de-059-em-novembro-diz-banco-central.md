@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## IBC-Br ajuda o BC a tomar decisões sobre a taxa básica de juros.
 
 A atividade econômica brasileira registrou alta em novembro do ano passado, de acordo com dados divulgados hoje (18) pelo Banco Central (BC). É o sétimo mês consecutivo de crescimento, após as quedas de março e abril, devido às medidas de isolamento social necessárias para o enfrentamento da pandemia de covid-19.
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

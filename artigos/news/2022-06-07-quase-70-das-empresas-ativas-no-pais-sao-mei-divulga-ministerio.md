@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Abertura de empresas no país caiu 3,2% de janeiro a abril.
 
 Quase 70% das empresas em atividade no Brasil são formadas por microempreendedores individuais (MEI), divulgou nesta segunda-feira (6) a Secretaria Especial de Produtividade e Competitividade do Ministério da Economia. Segundo o boletim Mapa de Empresas, existem 13.489.017 MEI no país, de um total de 19.373.257 empresas ativas.
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

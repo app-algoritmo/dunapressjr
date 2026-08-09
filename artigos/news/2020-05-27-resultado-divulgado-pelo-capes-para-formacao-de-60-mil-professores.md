@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **500 projetos foram selecionados para participar dos programas Pibid e Residência Pedagógica.**
 
 Já está disponível para consulta a seleção realizada pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) para os programas: Residência Pedagógica e Programa Institucional de Bolsas de Iniciação à Docência (Pibid). Cada programa oferece 30.096 bolsas que beneficiarão mais de 60 mil alunos de licenciatura. Concorreram 564 propostas de 302 instituições de ensino superior.
@@ -27,8 +26,6 @@ As secretarias de educação dos municípios, que foram indicadas pelas institui
 Confira a lista com o resultado final do[ Pibid](http://capes.gov.br/images/novo_portal/editais/resultados/22052020_Edital2_PIBID_resultado_final.pdf) e do [Residência Pedagógica](http://capes.gov.br/images/novo_portal/editais/resultados/22052020_Edital_1.2020RP_resultado_final_.pdf).
 
 Fonte: portal.mec.gov.br / Imagem em destaque: IBE
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

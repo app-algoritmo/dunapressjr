@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Educação (MEC) informa que a Medida Provisória nº 979, publicada nesta quarta-feira, 10 de junho, no Diário Oficial da União (DOU), é constitucional e não fere a autonomia de universidades e institutos federais.
 
 A proposta do governo federal é suspender eleições para os cargos de reitores e vice-reitores que ficarem vagos com o término de mandato, em razão do estado de calamidade pública em saúde devido à pandemia do novo coronavírus.
@@ -22,8 +21,6 @@ Cabe acrescentar que as eleições para o comando de instituições públicas da
 Essa proposta do governo federal previa eleições democráticas, com a participação de toda a comunidade acadêmica – professores, técnicos e alunos. Hoje, com a legislação vigente, a escolha fica restrita ao colegiado de cada instituição.
 
 Fonte: gov.br/mec / Imagem em destaque: gov.br
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

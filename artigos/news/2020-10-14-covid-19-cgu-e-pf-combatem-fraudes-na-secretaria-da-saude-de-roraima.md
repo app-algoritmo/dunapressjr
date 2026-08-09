@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Operação Desvid-19 investiga desvio de recursos, da ordem de, aproximadamente, R$ 20 milhões, que deveriam ser utilizados no combate à pandemia.
 
 A Controladoria Geral da União (CGU) participa, nesta quarta-feira (14/10), em Roraima, da Operação Desvid-19. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é desarticular possível esquema criminoso voltado ao desvio de recursos públicos por meio do direcionamento de licitações. As contratações suspeitas de irregularidades, realizadas no âmbito da Secretaria de Estado da Saúde (SESAU/RR), envolveriam aproximadamente R$ 20 milhões que deveriam ser utilizados no combate ao Covid-19.
@@ -27,5 +26,3 @@ A Operação Desvid-19 consiste no cumprimento de 7 mandados de busca e apreens�
 Fonte: Controladoria Geral da União
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

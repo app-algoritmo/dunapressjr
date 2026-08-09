@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 A comunidade científica respondeu de forma rápida à crise gerada pela Covid-19. Na segunda parte da série sobre tecnologias de combate ao novo coronavírus, o leitor acompanha o empenho do Exército Brasileiro na atual conjuntura. A Força Terrestre conta com o Departamento de Ciência e Tecnologia (DCT). O órgão é responsável pelo planejamento, organização, direção e controle das atividades científicas, tecnológicas e desenvolve uma série de atividades de assessoramento científico e tecnológico para atender às necessidades da Força, de órgãos governamentais e da sociedade em geral.
 
 Entre as principais ações, destaca-se a pesquisa de fármacos com potencial para neutralizar o vírus SARS-CoV-2, conduzida pelo Laboratório de Modelagem Molecular Aplicada à Defesa Química e Biológica do Instituto Militar de Engenharia (IME). A iniciativa conta com parceria do Laboratório de Síntese Orgânica do Instituto de Defesa Química, Biológica, Radiológica e Nuclear do Exército (IDQBRN).
@@ -18,7 +17,6 @@ Em um universo de cerca de 22 mil moléculas, as pesquisas apontaram a viabilida
 
 Atualmente, o projeto de pesquisa encontra-se na fase de verificação da aquisição das moléculas propostas que estiverem disponíveis comercialmente e da síntese daquelas selecionadas. Além disso, estão sendo viabilizadas parcerias com o Instituto de Biologia do Exército (IBEx) e com a Fundação Osvaldo Cruz (FioCruz) para a realização dos estudos in vitro e in vivo, indispensáveis para confirmação do valor farmacêutico dessas moléculas contra a Covid-19.
 
-**
 Grupo de estudos**
 
 Ainda na busca de soluções urgentes na área de ciência e tecnologia para minimizar os danos causados pelo novo coronavírus, o Instituto Militar de Engenharia (IME) constituiu grupo de trabalho denominado COVID-19 Assessoramento Científico IME. Os especialistas utilizam ferramentas de pesquisa científica e de engenharia para identificar alternativas que apoiem a sociedade na mitigação da pandemia.
@@ -31,7 +29,6 @@ Já foram fabricadas 618 máscaras para distribuição em diversas instituiçõe
 
 A continuidade do projeto recebe apoio da Associação de Ex-Alunos do IME, Alumni IME. Eles organizaram ação colaborativa para assegurar os recursos necessários para a aquisição de insumos. O empenho do grupo traduz a importância da solidariedade e da generosidade em ambiente técnico-científico. No intuito de prestarem algum tipo de contribuição diante da pandemia instaurada, além de somarem, dividem conhecimento.
 
-**
 Evolução espacial**
 
 Entre diversas pesquisas realizadas, foi disponibilizado, on line, painel de estatísticas da pandemia da Covid-19, que mede a sua evolução quantitativa. A iniciativa oferece sistema para o acompanhamento da evolução espacial da doença no Brasil. É constituído por mapa de calor, com dados apresentados por cores, que identificam os locais com maior incidência de contaminação pelo vírus.
@@ -46,5 +43,3 @@ A DSG constrói mapas temáticos digitais e impressos com os resultados das base
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Agricultura, Pecuária e Abastecimento (Mapa) apresenta nesta quarta-feira (17) o Plano Safra 2020/2021. O lançamento será às 16h30, em cerimônia no Palácio do Planalto, com a presença da ministra Tereza Cristina.
 
 O evento será transmitido pela TV Brasil e pelas redes sociais do Mapa e da EBC.
@@ -21,5 +20,3 @@ Local: Palácio do Planalto
 Fonte: gov.br/agricultura / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

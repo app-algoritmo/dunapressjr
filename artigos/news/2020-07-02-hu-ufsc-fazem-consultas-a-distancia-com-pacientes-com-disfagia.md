@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É realizado monitoramento dos sinais e sintomas da deglutição e das alterações vocais, orientações de cuidados com a voz e de segurança da deglutição.
 
 O teleatendimento foi a saída encontrada pelos profissionais de Fonoaudiologia para atender alguns pacientes do Hospital Universitário Professor Polydoro Ernani de São Thiago, vinculado à Universidade Federal de Santa Catarina e à Rede Ebserh (HU-UFSC/Ebserh), que são encaminhados para o Ambulatório de Disfagia e Voz, por causa das dificuldades impostas pela pandemia de Covid-19. As teleconsultas são realizadas com autorização do paciente, em uma sala do Bloco Didático, duas vezes por semana.
@@ -34,7 +33,7 @@ Fonte: gov.br / Imagem em destaque: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Saldo remanescente das dívidas é de aproximadamente R$ 160 bilhões.
 
 O Banco de Desenvolvimento Econômico e Social (BNDES) vai antecipar a liquidação de dívidas com o Tesouro Nacional com o pagamento de R$ 38 bilhões. De acordo com o banco, a liberação ocorrerá nas próximas semanas, assim que sejam realizados os trâmites legais necessários.
@@ -16,7 +15,7 @@ A aprovação, por parte da instituição para a antecipação, segue a sequênc
 
 O BNDES informou que o saldo remanescente das dívidas, sem contar com esse pagamento, entre a instituição e o Tesouro é de aproximadamente R$ 160 bilhões, além do instrumento especial de capital próprio (IECP) no total de R$ 36 bilhões.
 
-O banco revelou que no dia 28 de janeiro deste ano recebeu um ofício do Tribunal de Contas da União (TCU) sobre o acórdão referente ao processo que declarou a irregularidade dos empréstimos concedidos a instituições financeiras controladas, inclusive o BNDES, firmados mediante a emissão direta de títulos públicos. 
+O banco revelou que no dia 28 de janeiro deste ano recebeu um ofício do Tribunal de Contas da União (TCU) sobre o acórdão referente ao processo que declarou a irregularidade dos empréstimos concedidos a instituições financeiras controladas, inclusive o BNDES, firmados mediante a emissão direta de títulos públicos.
 
 De acordo com o ofício, o Ministério da Economia tem prazo de 60 dias para, em conjunto com as instituições financeiras federais, submeter àquele tribunal um cronograma detalhado de devolução dos valores à União.
 
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

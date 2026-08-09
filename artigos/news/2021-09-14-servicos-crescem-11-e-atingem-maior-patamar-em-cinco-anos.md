@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Essa foi a quarta taxa de crescimento consecutiva do indicador.
 
 O volume de serviços no país teve alta de 1,1% em julho deste ano, na comparação com o mês anterior. Essa foi a quarta taxa de crescimento consecutiva do indicador, que acumula ganhos de 5,8% nos últimos quatro meses. Com o resultado, o setor atingiu o maior patamar desde março de 2016.
@@ -28,10 +27,6 @@ Por outro lado, três atividades tiveram queda em seu volume: serviços de infor
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

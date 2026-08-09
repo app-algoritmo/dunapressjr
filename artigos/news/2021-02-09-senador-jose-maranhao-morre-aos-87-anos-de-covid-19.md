@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## José Maranhão era o senador mais velho da atual legislatura.
 
 O senador José Maranhão (MDB-PB), de 87 anos, morreu nesta segunda-feira (8) em São Paulo em decorrência de complicações da covid-19. Nesta segunda, o presidente do Senado, Rodrigo Pacheco (DEM-MG), decretou luto oficial de 24 horas pela morte do senador paraibano.
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

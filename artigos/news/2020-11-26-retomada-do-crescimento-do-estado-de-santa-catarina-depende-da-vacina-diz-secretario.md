@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O secretário de Estado da Fazenda, Paulo Eli, revelou nesta quarta-feira (25), na Assembleia Legislativa, que Santa Catarina trabalha com vários cenários de retomada do crescimento econômico no pós-pandemia de Covid-19. De acordo com o secretário, vai tudo depender da disponibilização da vacina contra a doença. “Se a vacina vier rápido, a recuperação vai ser forte. Se demorar um pouco mais, vai atrapalhar a recuperação econômica do mundo, o que afeta Santa Catarina também.”
 
 Paulo Eli esteve na Alesc atendendo à convocação da Comissão de Finanças e Tributação (CFT) para falar das previsões de receita e despesas para 2021. A Secretaria da Fazenda estima uma receita de R$ 30,49 bilhões, um incremento de 5,5% com relação a 2020. A previsão anterior, feita em julho, levava em conta a situação da época, que se mostrava, segundo o secretário, pior do que a atual, que demonstra uma recuperação econômica.
@@ -33,9 +32,9 @@ PL 255/2020, do deputado Volnei Weber (MDB), que dispõe sobre a suspensão do p
 
 PL 329/2020, de autoria do governo do Estado, que autoriza, em caráter excepcional, a prorrogação da validade dos editais de 2020 para contratação de professores temporários (ACTs) na rede pública estadual de forma que esses professores possam atuar até o fim do ano letivo de 2021.
 
-Créditos: Marcelo Santos 
+Créditos: Marcelo Santos
 
-Foto: Bruno Collaço 
+Foto: Bruno Collaço
 
 Fonte: alesc.sc.gov.br
 
@@ -44,4 +43,4 @@ Sua assinatura não somente ajudará no fornecerá notícias precisas, mas tamb�
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi) Obrigado pelo apoio!
+ Obrigado pelo apoio!

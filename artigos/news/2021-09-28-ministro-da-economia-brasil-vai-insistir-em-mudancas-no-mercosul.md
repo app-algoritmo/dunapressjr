@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Guedes participou de evento da Câmara Internacional de Comércio.
 
 O ministro da Economia, Paulo Guedes, disse nesta segunda-feira (27) que o Brasil vai continuar tentando fazer mudanças no Mercosul. Segundo ele, o governo brasileiro busca “modernizar” o bloco econômico, mas tem encontrado resistência da Argentina. O bloco é formado por Brasil, Argentina, Uruguai e Paraguai.
@@ -26,10 +25,6 @@ O ministro ressaltou ainda que, nos últimos dois anos e meio, foram feitas priv
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

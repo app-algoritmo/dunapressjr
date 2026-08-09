@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Bolsonaro esteve em Santa Catarina na manhã desta sábado (4). Ao desembarcar no aeroporto de Florianópolis, seguiu de helicóptero para sobrevoar uma das regiões mais atingidas pelo "ciclone bomba".
 
-Após o retorno do sobrevoo, o presidente Bolsonaro fez uma reunião com autoridades catarinenses, onde manifestou apoio para auxiliar no trabalho de reconstrução das áreas atingidas. "Estamos à disposição para o que for possível, para minorar o sofrimento daqueles que foram atingidos", esclareceu. 
+Após o retorno do sobrevoo, o presidente Bolsonaro fez uma reunião com autoridades catarinenses, onde manifestou apoio para auxiliar no trabalho de reconstrução das áreas atingidas. "Estamos à disposição para o que for possível, para minorar o sofrimento daqueles que foram atingidos", esclareceu.
 
 https://www.youtube.com/embed/cF-siqlKbzA
 
@@ -30,4 +29,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

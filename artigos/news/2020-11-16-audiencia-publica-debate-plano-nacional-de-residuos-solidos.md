@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Plano Nacional de Resíduos Sólidos, conhecido como Planares, foi tema de audiência pública nesta sexta-feira (13). Previsto em lei, propõe metas para a melhoria da gestão de resíduos sólidos no Brasil, fornecendo diretrizes a serem seguidas e alcançadas com a responsabilidade compartilhada. É uma ferramenta fundamental para operacionalizar os direcionamentos da Política Nacional de Resíduos Sólidos (PNRS), lançada há 10 anos por meio de lei.
 
 Ao todo, já foram promovidas em todo o país seis audiências públicas sobre o Plano Nacional de Resíduos Sólidos. “Estivemos em todas as regiões do país. Na região Norte, contamos com 205 participantes, na região Centro-Oeste, com 178. Na região Sul, com 160, no Sudeste, com 236 e no Nordeste, com 159 participantes. Quase mil participantes nas cinco audiências que precederam essa. E, no momento, mais de 5,2 mil visualizações no You Tube, mostrando que cumprimos efetivamente todos os preceitos legais da participação cidadã na construção desse importante instrumento proposto pelo Governo Federal”, explica o secretário de Qualidade Ambiental do Ministério do Meio Ambiente, André França, ao abrir a audiência desta sexta-feira.
@@ -55,5 +54,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

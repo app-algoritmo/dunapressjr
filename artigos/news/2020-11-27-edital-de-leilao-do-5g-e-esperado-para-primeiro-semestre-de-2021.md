@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O presidente da Agência Nacional de Telecomunicações (Anatel), Leonardo Euler, afirmou que o leilão do 5G será o maior já feito para uma radiofrequência na história do Brasil. "O país ainda tem lacunas de infraestrutura de telecomunicações, seja na parte de acesso, seja na parte de transporte, e esse leilão é uma oportunidade singular de nós preenchermos essas lacunas”, ressalta. “O conselheiro Carlos Baigorri, evidentemente, tem o seu tempo de relatoria, nós envidamos esforços liderados pelo próprio ministro das Comunicações para realizar esse leilão ainda no primeiro semestre do ano que vem, evidentemente que isso é desafiador, porém factível", acredita Euler.
 
 "Eu queria que vocês soubessem que está muito bem adiantado, nós já estamos com relator escolhido, já fizemos todo o dever de casa por parte do ministério, da Anatel e do Governo. Agora, nós teremos os prazos que terão que ser cumprimos tanto na Anatel como no TCU", afirma o ministro das Comunicações, Fábio Faria
@@ -26,7 +25,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

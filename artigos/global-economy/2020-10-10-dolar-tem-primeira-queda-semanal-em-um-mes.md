@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa caiu nesta sexta, mas fechou semana em alta.
 
 Num dia de alívio no mercado financeiro, o dólar teve queda expressiva nesta sexta-feira (9) e voltou a ficar próximo de R$ 5,50. O dólar comercial encerrou o dia vendido a R$ 5,527, com recuo de R$ 0,063 (-1,13%).
@@ -25,5 +24,3 @@ As negociações foram influenciadas por fatores externos. Investidores continua
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

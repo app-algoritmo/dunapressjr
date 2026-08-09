@@ -7,8 +7,7 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
-Reconhecida como a Capital Nacional da Dança, Joinville abriga a única sede da Escola do Teatro Bolshoi fora da Rússia, e realiza o maior festival de dança do mundo, evento de repercussão internacional, que reúne grupos de várias nacionalidades. 
+Reconhecida como a Capital Nacional da Dança, Joinville abriga a única sede da Escola do Teatro Bolshoi fora da Rússia, e realiza o maior festival de dança do mundo, evento de repercussão internacional, que reúne grupos de várias nacionalidades.
 
 Entre os atrativos há espaços como o Museu Nacional da Imigração e Colonização, o Mirante de Joinville, o Museu de Arte de Joinville e a Estação da Memória. Se a opção for o Turismo Rural, quatro roteiros podem ser percorridos de carro ou de bike: Estrada Bonita, Estrada Dona Francisca, o Vale do Quiriri e a rota do Piraí. Em sua área náutica, Joinville é banhada pela Baía da Babitonga, onde é possível fazer passeios de barco e visitar comunidades de pescadores artesanais.
 
@@ -40,7 +39,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

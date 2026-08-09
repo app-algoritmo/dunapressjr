@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Em outubro, leilão arrecadou R$ 37 milhões em bônus.
 
 A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) assinou nesta segunda-feira (28) os contratos referentes aos cinco blocos exploratórios [**arrematados na 17ª Rodada**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-10/cinco-blocos-sao-arrematados-na-17a-rodada-de-licitacoes-da-anp) de Licitações, realizada em 7 de outubro do ano passado. Os blocos estão situados na Bacia de Santos e somam área de 3.425,50 quilômetros quadrados.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

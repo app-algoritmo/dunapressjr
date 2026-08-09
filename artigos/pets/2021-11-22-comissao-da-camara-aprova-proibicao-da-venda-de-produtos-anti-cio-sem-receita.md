@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 Comissão de Desenvolvimento Econômico, Indústria, Comércio e Serviços da Câmara aprovou o PL 4583/2020, do deputado Célio Studart (PV-CE), que visa proibir a comercialização e uso de produtos “anti-cio” sem receita.
 
 A proposta foi aprovada pela comissão depois de receber parecer favorável do deputado e relator Glaustin da Fokus (PSC-GO), que reconheceu o uso indiscriminado desses produtos como um risco para a saúde dos animais.
@@ -39,7 +38,3 @@ Fonte: [https://vegazeta.com.br](https://vegazeta.com.br)
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O motivo foi o isolamento social imposto pela pandemia de covid-19.
 
 A população ocupada entre 30 de agosto a 5 de setembro foi estimada em 82,3 milhões, desse total, 4,2% ou cerca de 3,4 milhões estavam afastados do trabalho devido ao distanciamento social. No período anterior tinha sido 4,4% ou 3,6 milhões de pessoas e bem abaixo da primeira semana da pesquisa, de 3 a 9 de maio quando era 19,8%, quando eram 16,6 milhões. Os dados fazem parte da Pnad Covid19 semanal foram divulgados hoje (25) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -53,5 +52,3 @@ O atendimento em hospital público, particular ou ligado às forças armadas na 
 Imagem de destaque: Tomaz Silva/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

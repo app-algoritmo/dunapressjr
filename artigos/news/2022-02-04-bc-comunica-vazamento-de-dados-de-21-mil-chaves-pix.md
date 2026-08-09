@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Foram vazados dados cadastrais da Logbank Pagamentos.
 
 Um total de 2.112 clientes da Logbank Soluções em Pagamentos tiveram dados das chaves Pix vazadas, informou nesta quinta-feira (3) o Banco Central (BC). Esse foi o terceiro vazamento de dados desde o lançamento do sistema instantâneo de pagamentos, em novembro de 2020.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

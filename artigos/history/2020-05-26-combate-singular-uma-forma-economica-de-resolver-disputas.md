@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 “*Para onde ides? Que discórdia é esta que surgiu?*
 
 *Oh! Reprimi a fúria! Já o pacto está firmado, e as condições*
@@ -59,5 +58,3 @@ Referência Bibliográfica:
 Imagem:
 
 - Peter Paul Rubens - Achilles slays Hector
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

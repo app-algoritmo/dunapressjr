@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O resultado do Levantamento de Índice Rápido para o Aedes aegypti (LIRAa), realizado durante o mês de novembro deste ano, revela que os pequenos recipientes (38,1%), como pratinhos de plantas, são os principais potenciais criadouros do mosquito em Santa Catarina. Em seguida, aparecem o lixo e a sucata (25,7%). No total, foram inspecionados 88.755 depósitos no estado. Os dados completos do LIRAa foram divulgados nesta quinta-feira, 3, pela Diretoria de Vigilância Epidemiológica de Santa Catarina.
 
 Conforme está definido na Estratégia Operacional do Estado de Santa Catarina, os municípios considerados infestados pelo mosquito Aedes aegypti devem realizar o LIRAa duas vezes ao ano. Ao todo, 103 municípios catarinenses realizaram o último levantamento.
@@ -43,7 +42,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

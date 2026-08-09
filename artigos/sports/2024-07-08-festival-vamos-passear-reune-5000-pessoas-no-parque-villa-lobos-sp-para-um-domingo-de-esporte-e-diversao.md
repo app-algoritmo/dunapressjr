@@ -8,12 +8,11 @@ categories:
 - Sports
 ---
 
-
 ## O evento contou com participantes de todas as idades, famílias inteiras, casais e amigos, que estiveram no Passeio de Bike, na Caminhada e na Corrida Kids, assim como em diversas atrações gratuitas. A etapa seguinte será em Brasília (DF), a penúltima de 2024, no próximo domingo (14)
 
 A manhã começou nublada e fria. E terminou com sol e calor. Em comum, nos dois momentos, a animação das 5.000 pessoas que estiveram no Parque Villa-Lobos para a etapa de São Paulo (SP) do Festival Vamos Passear. Um domingo (7) de diversão e lazer para crianças, jovens, adultos e idosos, voltado para a saúde, esporte e bem-estar. Famílias inteiras, casais, amigos, participantes com seus pets, todos fizeram a festa na arena montada para o evento, vindos de várias regiões da capital paulista e da Grande São Paulo.
 
-As camisetas amarelas do Festival Vamos Passear foram tomando conta do parque, com as pessoas chegando para participar do Passeio de Bike, da Caminhada e da Corrida Kids. O Villa-Lobos recebeu, também, quem foi se divertir nas atividades gratuitas montadas para o evento. 
+As camisetas amarelas do Festival Vamos Passear foram tomando conta do parque, com as pessoas chegando para participar do Passeio de Bike, da Caminhada e da Corrida Kids. O Villa-Lobos recebeu, também, quem foi se divertir nas atividades gratuitas montadas para o evento.
 
 Organizado pelo Instituto BR Brasil, o Festival Vamos Passear está sendo realizado desde maio e até este mês de julho, com sete etapas em diversas cidades do País. A próxima, a penúltima de 2024, será no domingo (14), em Brasília (DF).
 
@@ -37,9 +36,9 @@ Samuel, 4 anos, filho de Valdemir da Silva e Daiana Lemes, e Sofia, de 7 anos, a
 
 O Espaço Kids também fez sucesso, com atividades lúdicas infantis, e o Espaço Saúde, que  disponibilizou serviço de massagem e relaxamento, bem como avaliação física. Já o Espaço Mecânica ofereceu serviços básicos gratuitos para bicicletas, patins e skate, como calibragem de pneus e aplicação de óleo/graxa. E o palco principal animou a todos com aulas de dança, yoga e funcional.
 
-**Rio, Salvador, Recife, Belém e São Paulo já receberam o evento -** O Rio de Janeiro abriu o Festival Vamos Passear no dia 26 de maio, na Orla da Praia de Copacabana, em frente à Praça do Lido, com 4.000 participantes. No dia 9 de junho foi a vez de Salvador (BA), na Praça de Piatã, com 3.500 pessoas na segunda etapa. E, no dia 16, o evento chegou no Recife (PE), reunindo também 3.500 inscritos. Já no dia 23 a etapa foi em Belém (PA), com 1.500 participantes. E, neste domingo, São Paulo, com 5.000 pessoas. 
+**Rio, Salvador, Recife, Belém e São Paulo já receberam o evento -** O Rio de Janeiro abriu o Festival Vamos Passear no dia 26 de maio, na Orla da Praia de Copacabana, em frente à Praça do Lido, com 4.000 participantes. No dia 9 de junho foi a vez de Salvador (BA), na Praça de Piatã, com 3.500 pessoas na segunda etapa. E, no dia 16, o evento chegou no Recife (PE), reunindo também 3.500 inscritos. Já no dia 23 a etapa foi em Belém (PA), com 1.500 participantes. E, neste domingo, São Paulo, com 5.000 pessoas.
 
-Depois do Rio, Salvador, Recife, Belém e São Paulo, Brasília (DF) e Belo Horizonte (MG) receberão o Festival Vamos Passear neste mês de julho. 
+Depois do Rio, Salvador, Recife, Belém e São Paulo, Brasília (DF) e Belo Horizonte (MG) receberão o Festival Vamos Passear neste mês de julho.
 
 Ações de conscientização do meio ambiente e sustentabilidade são realizadas ao longo da programação em todas as etapas. O evento é inclusivo para pessoas com deficiência intelectual ou cognitiva e pessoas com mobilidade reduzida. Além disso, oferece estrutura de acessibilidade, como rampas e banheiros químicos equipados.
 
@@ -55,12 +54,9 @@ Ações de conscientização do meio ambiente e sustentabilidade são realizadas
 28/07 - Belo Horizonte (MG) - Parque Municipal Juscelino Kubitschek.
 
 O Festival Vamos Passear é apresentado pela Brasilprev, por meio do Governo Federal/Ministério do Esporte, via Lei de Incentivo ao Esporte, com organização do Instituto BR Brasil.
-*
-****Mais informações:****
-**Site: ****[www.vamospassearbr.com](https://click.presskit.com.br/url/1024635e18a/6361388b6fc)******[www.ticketsports.com.br](https://click.presskit.com.br/url/10246369115/6361388b6fc)****[
-](https://click.presskit.com.br/url/1024637d850/6361388b6fc)***         Instagram: ****[www.instagram.com/vamospassearbr/](https://click.presskit.com.br/url/1024638ebc2/6361388b6fc)***[
 
-](https://click.presskit.com.br/url/1024639f0c8/6361388b6fc)***ZDL***
+****Mais informações:****
+**Site: ****[www.vamospassearbr.com](https://click.presskit.com.br/url/1024635e18a/6361388b6fc)******[www.ticketsports.com.br](https://click.presskit.com.br/url/10246369115/6361388b6fc)*******         Instagram: ****[www.instagram.com/vamospassearbr/](https://click.presskit.com.br/url/1024638ebc2/6361388b6fc)******ZDL***
 **Doro Jr. - MTb 13209 - *****[dorojr@zdl.com.br](https://click.presskit.com.br/url/10246404167/6361388b6fc)**** - 11 984579723***
 **Deborah Mamone - MTb 15148  - *****[deborah@zdl.com.br](https://click.presskit.com.br/url/1024641f5b4/6361388b6fc)**** ***
 **[Site: ](https://click.presskit.com.br/url/1024642289d/6361388b6fc)[www.zdl.com.br

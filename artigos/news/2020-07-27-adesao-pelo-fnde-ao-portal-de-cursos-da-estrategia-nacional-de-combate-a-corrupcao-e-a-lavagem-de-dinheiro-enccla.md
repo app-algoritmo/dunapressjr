@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-O presidente do Fundo Nacional de Desenvolvimento da Educação (FNDE), Marcelo Ponte, assinou, nesta quarta-feira, 22 de junho, o Termo de Adesão que autoriza a divulgação de capacitações virtuais e gratuitas da autarquia no portal de cursos da Estratégia Nacional de Combate à Corrupção e à Lavagem de Dinheiro (ENCCLA). A plataforma é hospedada no site do Instituto Rui Barbosa (IRB) e disponibiliza cursos, treinamentos e capacitações para observadores públicos, conselheiros de políticas públicas e servidores da administração pública. 
+O presidente do Fundo Nacional de Desenvolvimento da Educação (FNDE), Marcelo Ponte, assinou, nesta quarta-feira, 22 de junho, o Termo de Adesão que autoriza a divulgação de capacitações virtuais e gratuitas da autarquia no portal de cursos da Estratégia Nacional de Combate à Corrupção e à Lavagem de Dinheiro (ENCCLA). A plataforma é hospedada no site do Instituto Rui Barbosa (IRB) e disponibiliza cursos, treinamentos e capacitações para observadores públicos, conselheiros de políticas públicas e servidores da administração pública.
 
 De acordo com Ponte, a parceria vem ao encontro das ações do Programa de Integridade do FNDE, que tem como principais objetivos identificar e monitorar áreas de risco, detectar possíveis fraudes e práticas antiéticas, e prevenir desvios de conduta. “O FNDE considera primordial contribuir com a ENCCLA em todas as ações que estiverem ao nosso alcance e, especificamente com o Termo de Adesão, dar apoio por meio das nossas iniciativas de educação corporativa e atividades voltadas ao controle social, medidas tão fomentadas na autarquia”, afirma o presidente
 
@@ -23,7 +22,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

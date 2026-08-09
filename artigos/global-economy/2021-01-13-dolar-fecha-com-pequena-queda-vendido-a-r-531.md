@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa caiu 1,44% em dia de ajustes.
 
 Num dia de volatilidade no mercado financeiro, o dólar fechou com pequena queda, mas manteve-se acima de R$ 5,30. A bolsa de valores, que tinha registrado forte alta na terça-feira (12), voltou a cair hoje num dia de ajustes de expectativas.
@@ -20,7 +19,7 @@ No mercado de ações, o índice Ibovespa, da B3, devolveu parte dos ganhos dest
 
 Em todo o planeta, o mercado financeiro está sendo beneficiado pelas expectativas em torno de um novo pacote de estímulos para a economia dos Estados Unidos. A aprovação de novas injeções de dólares na economia global reduz as pressões sobre a moeda, beneficiando países emergentes, como o Brasil.
 
-Fonte: Agência Brasil - Imagem de destaque: Marcello Casal Jr./Agência Brasil 
+Fonte: Agência Brasil - Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

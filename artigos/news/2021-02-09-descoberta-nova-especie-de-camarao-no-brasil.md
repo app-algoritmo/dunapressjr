@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Um grupo de pesquisadores da Universidade Federal de Pernambuco (UFPE), em parceria com cientistas da Universidade Federal do Rio Grande do Sul (UFRGS), encontrou uma nova espécie de camarão nos corais de praias do litoral de Pernambuco. Com a participação de bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES),  a descoberta foi publicada na revista científica *Journal of Crustacean* *Biology*, da Universidade de Oxford, no Reino Unido.
 
 O trabalho de identificação da nova espécie surgiu a partir da pesquisa de pós-doutorado de [Gabriel Lucas Bochini](https://ufpe.us13.list-manage.com/track/click?u=835cf1a19983f98a33057f6e1&id=7b907c1655&e=123632b5b0), com a colaboração de [Andressa Cunha](https://ufpe.us13.list-manage.com/track/click?u=835cf1a19983f98a33057f6e1&id=120fd8931f&e=123632b5b0) e [Alexandre Almeida](https://ufpe.us13.list-manage.com/track/click?u=835cf1a19983f98a33057f6e1&id=dc028388b3&e=123632b5b0), ambos da UFPE, e [Mariana Terossi](https://ufpe.us13.list-manage.com/track/click?u=835cf1a19983f98a33057f6e1&id=8fdb06a804&e=123632b5b0), da UFRGS. Durante a pesquisa, a equipe encontrou a nova espécie em armadilhas espalhadas no mar, nas áreas de Suape e da Praia dos Carneiros. O camarão mede cerca de 1cm e é diferente dos demais, com características bastante peculiares, como, por exemplo, a pele extremamente colorida. Isto o difere das espécies mais comuns, que são normalmente acinzentadas ou rosadas.
@@ -40,7 +39,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

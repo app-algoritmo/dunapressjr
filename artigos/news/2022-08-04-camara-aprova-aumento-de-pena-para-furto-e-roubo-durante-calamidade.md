@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Se envolver bem da área de saúde, pena pode subir mais de um terço.
 
 A Câmara dos Deputados aprovou nesta quarta-feira (3), por 408 votos a 9, projeto que aumenta penas para os crimes de furto ou roubo cometidos em casos de incêndio, naufrágio, inundação ou desastre, incluindo qualquer estado de calamidade pública, epidemia ou pandemia declarado pelas autoridades. A proposta segue para o Senado.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

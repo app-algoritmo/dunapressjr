@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Seis novas operadoras entrarão no mercado de telefonia móvel.
 
 O leilão do 5G, para selecionar as operadoras de serviços de conectividade utilizando a quinta geração da telefonia móvel, arrecadou R$ 47,2 bilhões. O valor ficou abaixo dos [**R$ 50 bilhões **](https://agenciabrasil.ebc.com.br/politica/noticia/2021-11/arrecadacao-de-leilao-do-5g-deve-ultrapassar-r-50-bi-diz-ministro)previsto inicialmente pelo governo, pois nem todos os lotes foram arrematados. A informação foi divulgada nesta sexta-feira (5) pela Agência Nacional de Telecomunicações (Anatel) após o encerramento da análise das propostas.
@@ -42,10 +41,6 @@ Ao conectar objetos do cotidiano – como eletrodomésticos, *smartphones*, roup
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

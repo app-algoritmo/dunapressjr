@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ministro Marcos Pontes destacou as iniciativas tomadas pelo Governo Federal diante do cenário desafiador provocado pela Covid-19.
 
 A Agenda Digital para América Latina e Caribe até 2022 (eLAC 2022) foi aprovada durante a VII Conferência Ministerial sobre a Sociedade da Informação da América Latina e Caribe. No encontro virtual, o ministro de Ciência, Tecnologia e Inovações, Marcos Pontes, reforçou o interesse do Brasil em continuar como membro da mesa diretiva da eLAC nos próximos anos.
@@ -32,7 +31,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

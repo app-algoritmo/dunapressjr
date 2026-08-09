@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Registro da ocorrência de violência doméstica poderá ser realizado on-line ou por de número de telefone de emergência. 
+Registro da ocorrência de violência doméstica poderá ser realizado on-line ou por de número de telefone de emergência.
 
 O combate à violência doméstica e familiar contra as mulheres, crianças, adolescentes, pessoas idosas e com deficiência durante a pandemia foi fortalecido pela [Lei nº 14.022/20](http://www.in.gov.br/en/web/dou/-/lei-n-14.022-de-7-de-julho-de-2020-265632900). O texto foi sancionado pelo presidente Jair Bolsonaro e publicado no Diário Oficial da União desta quarta-feira (8).
 
@@ -40,7 +39,7 @@ De acordo com a lei sancionada pelo presidente Jair Bolsonaro, durante o estado 
 
 **Campanha**
 
-Em maio, em meio à pandemia do novo coronavírus, o Ministério da Mulher, Família e Direitos Humanos lançou a Campanha de Conscientização e Enfrentamento à Violência Doméstica para incentivar denúncias contra os agressores. O mote é “Denuncie a violência doméstica. Para algumas famílias, o isolamento está sendo ainda mais difícil”. 
+Em maio, em meio à pandemia do novo coronavírus, o Ministério da Mulher, Família e Direitos Humanos lançou a Campanha de Conscientização e Enfrentamento à Violência Doméstica para incentivar denúncias contra os agressores. O mote é “Denuncie a violência doméstica. Para algumas famílias, o isolamento está sendo ainda mais difícil”.
 
 https://www.youtube.com/embed/R6jA2vxGOU4
 
@@ -56,6 +55,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

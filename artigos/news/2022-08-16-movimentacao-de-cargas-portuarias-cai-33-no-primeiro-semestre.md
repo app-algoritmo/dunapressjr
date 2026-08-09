@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Movimentação nos portos foi de 581,3 milhões de toneladas no período.
 
 A movimentação de cargas no setor portuário apresentou um recuo de 3,3% no primeiro semestre de 2022 em relação ao mesmo período do ano passado, informou nesta segunda-feira (15) a Agência Nacional de Transportes Aquaviários (Antaq). Segundo a agência, os portos organizados, terminais autorizados e arrendados movimentaram 581,3 milhões de toneladas no período.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

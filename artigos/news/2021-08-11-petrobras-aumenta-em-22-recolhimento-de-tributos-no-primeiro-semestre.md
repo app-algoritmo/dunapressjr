@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Empresa figura entre os maiores pagadores de impostos no Brasil.
 
 A Petrobras aumentou em 22,5% o recolhimento de tributos e participações governamentais aos cofres públicos no primeiro semestre deste ano, comparado ao mesmo período de 2020. Foram recolhidos R$ 76,7 bilhões, contra R$ 62,6 bilhões no ano anterior. A informação foi divulgada pela estatal, nesta terça-feira (10), em nota.
@@ -26,10 +25,6 @@ No que se refere aos tributos estaduais, o relatório fiscal, divulgado esta sem
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

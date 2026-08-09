@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O segmento de bares, restaurantes, lanchonetes e similares, no Estado da Paraíba, recebeu a primeira isenção de três recolhimentos do ICMS, neste mês de abril, referente à apuração do mês de março, enquanto as demais empresas do Simples Nacional tiveram a primeira prorrogação, neste mês de abril, também de um total de três. O vencimento seria no último dia 20 de abril.
 
 Essas foram algumas das medidas econômicas, anunciadas no último mês de março pelo governador João Azevêdo, para beneficiar o universo de 93% das empresas do Estado em diversos segmentos, como forma de mitigar os efeitos da pandemia no segmento econômico do Estado.
@@ -30,5 +29,3 @@ A coordenação do Simples Nacional da Sefaz-PB lembra às empresas que apenas o
 Fonte: Sefaz-PB
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

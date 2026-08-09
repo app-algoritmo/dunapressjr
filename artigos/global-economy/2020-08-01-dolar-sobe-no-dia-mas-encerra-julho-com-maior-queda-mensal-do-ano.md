@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa fechou mês com alta acumulada de 8,27%.
 
 Num dia de pessimismo no mercado, o dólar voltou a ser cotado acima de R$ 5,20. Apesar da alta nesta sexta-feira(31), a moeda norte-americana teve, em julho, a maior queda mensal em 2020.
@@ -30,4 +29,4 @@ A bolsa foi influenciada pela realização de lucros, quando os investidores ven
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

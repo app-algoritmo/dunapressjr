@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 “Trata-se de uma determinação do Presidente Jair Bolsonaro. Uma conquista para a INB e também para o país. Representa um fator importante para a geração de empregos e recursos para a região sudoeste da Bahia”, enfatiza o ministro Bento Albuquerque.
 
 Segundo o Ministério de Minas e Energia, numa primeira etapa, a nova unidade tem capacidade para produzir 260 toneladas de concentrado de urânio por ano. Mas a expectativa é que, até 2025, esteja produzindo 1.400 toneladas de concentrado de urânio; e, até 2030, 2.400 toneladas anualmente, pois existe o planejamento de entrada de outra mina em operação, em Santa Quitéria, no Ceará.
@@ -54,7 +53,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

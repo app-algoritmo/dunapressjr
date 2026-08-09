@@ -9,7 +9,7 @@ categories:
 
 ## A contribuição árabe para o desenvolvimento da Astronomia.
 
-Ao mesmo tempo que no Ocidente a ciência atingia o seu ponto decrépito, os Árabes, povo sem ciência, entravam repentinamente no cenário geopolítico do Médio Oriente. Em poucos decênios, este povo desconhecido, destrói os grandes impérios que dominam a região e difunde até às fronteiras da Índia uma nova religião. 
+Ao mesmo tempo que no Ocidente a ciência atingia o seu ponto decrépito, os Árabes, povo sem ciência, entravam repentinamente no cenário geopolítico do Médio Oriente. Em poucos decênios, este povo desconhecido, destrói os grandes impérios que dominam a região e difunde até às fronteiras da Índia uma nova religião.
 
 ## Os gregos e como o conhecimento chegou aos Árabes
 
@@ -28,5 +28,3 @@ Foi, portanto, já no fim da Idade Média, por volta do século X, que o Ocident
 https://www.youtube.com/watch?v=UfPCiJ5IPOU
 
 Fonte: Olhar Digital
-
-[](https://4.bp.blogspot.com/_PtPNUMoshEs/S-NjMYFVrRI/AAAAAAAAD-c/72VMwZ3KmV4/s1600/untitled.bmp)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 No mês em que o Estatuto da Criança e do Adolescente (ECA) completará 30 anos, será lançado um curso de capacitação online para a formação de conselheiros tutelares e demais interessados em atuar com ações de promoção e proteção de direitos ligadas ao tema. O lançamento da plataforma vai ocorrer até o fim de julho.
 
 "Estamos preparando esse curso EaD para os conselheiros tutelares, para o pós-pandemia. Precisamos abordar como essas crianças vão chegar à escola e ter um olhar especial para os sinais que elas vão emitir", disse a titular do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH), ministra Damares Alves.
@@ -32,6 +31,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

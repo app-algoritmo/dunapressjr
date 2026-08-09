@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### App Compras.gov.br acumula 150 mil downloads.
 
 Os empreendedores de todo o país já podem participar, por meio do celular ou do tablet, de compras do governo federal que não exigem licitação. O aplicativo Compras.gov.br permite que todo o processo de compra na modalidade dispensa de licitação ocorra 100% de forma digital em dispositivos móveis.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

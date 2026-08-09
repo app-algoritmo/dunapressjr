@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Samuel da Silva Miranda é ex-bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Em seu mestrado em *Design* pela Universidade Federal do Maranhão (UFMA) estudou o processo de confecção de cerâmicas usado por um grupo tradicional de artesãs, com cinzas de taquipé em argila vermelha.
 
 **Fale sobre seu projeto e as descobertas feitas durante a pesquisa.**
@@ -61,7 +60,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

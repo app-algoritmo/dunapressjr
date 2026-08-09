@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Projeto prevê maior participação da iniciativa privada.
 
 O Senado aprovou nesta quarta-feira (24) o Projeto de Lei (PL) 4.162/19, que trata do novo marco do saneamento. O projeto já havia passado pela Câmara, após muita discussão. Agora segue para sanção presidencial. O projeto viabiliza a injeção de mais investimentos privados no serviço de saneamento. Hoje, em 94% das cidades brasileiras, o serviço de saneamento é prestado por empresas estatais. As empresas privadas administram o serviço em apenas 6% das cidades.
@@ -44,4 +43,4 @@ Para a entidade, o aumento da concorrência trazido pela nova lei poderá dar um
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

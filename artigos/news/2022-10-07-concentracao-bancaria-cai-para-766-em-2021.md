@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### BC projeta expansão de 14,2% no saldo total de crédito em 2022.
 
 A concentração bancária caiu no ano passado, de acordo com o [**Relatório de Economia Bancária de 2021**](https://www.bcb.gov.br/publicacoes/relatorioeconomiabancaria), divulgado nesta quinta-feira (6) pelo Banco Central (BC). No ano passado, os cinco maiores bancos do país - Caixa Econômica Federal, Banco do Brasil, Bradesco, Itaú e Santander – detinham 76,6% dos ativos totais do segmento bancário comercial. No final de 2020, esse percentual era 77,6%.
@@ -54,8 +53,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

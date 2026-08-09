@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Cuiabá foi a capital com maior valor para botijão de 13 quilos.
 
 A Agência Nacional do Petróleo, Gás Natural e Biocombustível (ANP) divulgou nesta terça-feira (7) a média semestral nacional do Gás Liquefeito de Petróleo (GLP), o gás de cozinha. O valor do botijão de 13 quilogramas (kg) ficou em R$ 95,63, entre junho e novembro deste ano.
@@ -24,10 +23,6 @@ A coleta de preços foi feita entre 28 de novembro e 4 de dezembro.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

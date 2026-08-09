@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Cerca de 300 mil inscritos ainda precisam garantir a participação no exame.
 
 O prazo para pagamento da taxa de inscrição do Exame Nacional do Ensino Médio (Enem) 2020 acaba nesta quarta-feira, 10 de junho. O procedimento precisa ser realizado pelos participantes que se inscreveram e não se enquadram nos perfis isentos.
@@ -21,8 +20,6 @@ De acordo com o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio T
 **Canais de informação –** As informações do Enem 2020 podem ser acompanhadas nos portais do Inep e do MEC, assim como nas redes sociais oficiais dos dois órgãos do governo federal. Dúvidas relativas ao processo de inscrição podem ser sanadas pelo Fale Conosco do Inep, por meio do autoatendimento on-line ou do 0800 616161 (somente chamadas de telefone fixo).
 
 Fonte: gov.br/mec / Imagem em destaque:
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

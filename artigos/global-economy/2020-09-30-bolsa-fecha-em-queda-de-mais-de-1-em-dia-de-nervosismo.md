@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Dólar alcançou R$ 5,68, mas fechou perto da estabilidade.
 
 Em mais um dia de nervosismo no mercado financeiro, a bolsa de valores fechou em queda de 1%. O índice Ibovespa, da B3 (a bolsa de valores brasileira), encerrou esta terça-feira (29) aos 93.580 pontos, com recuo de 1,15%.
@@ -23,5 +22,3 @@ Na avaliação do secretário do Tesouro, a solução para superar o impasse em 
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Paulo Whitaker/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

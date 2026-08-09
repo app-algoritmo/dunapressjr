@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Indicador subiu 4,7 pontos de maio para junho.
 
 O Índice de Confiança do Consumidor, medido pela Fundação Getulio Vargas (FGV), subiu 4,7 pontos de maio para junho deste ano. Com a alta, o indicador atingiu 80,9 pontos, em uma escala de zero a 200 pontos, o maior valor desde novembro de 2020 (81,7 pontos).
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

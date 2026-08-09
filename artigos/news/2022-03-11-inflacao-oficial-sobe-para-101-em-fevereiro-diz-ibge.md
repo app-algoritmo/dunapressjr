@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É a maior taxa para o mês desde 2015.
 
 O Índice Nacional de Preços ao Consumidor Amplo (IPCA), que mede a inflação oficial, registrou alta de preços de 1,01% em fevereiro deste ano. A taxa é superior às observadas em janeiro deste ano (0,54%) e em fevereiro do ano passado (0,86%). Essa é a maior taxa para um mês de fevereiro desde 2015 (1,25%).
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

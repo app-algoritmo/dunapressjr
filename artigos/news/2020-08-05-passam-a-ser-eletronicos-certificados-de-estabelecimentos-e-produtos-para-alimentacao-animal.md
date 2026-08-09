@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Os certificados tratam do registro de estabelecimentos e produtos e cadastro desses produtos. A emissão eletrônica reduz o trâmite processual e traz mais segurança.
 
 Os certificados de registro de estabelecimentos e de produtos e de cadastro de produtos destinados à alimentação animal passaram a ser eletrônicos, reduzindo significativamente o trâmite processual e trazendo mais segurança e facilidade para os usuários.
@@ -23,7 +22,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

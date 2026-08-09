@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Projeção é que 2020 seja encerrado com corte de 39 mil vagas.
 
 A produção têxtil caiu 9%, ao longo dos 12 meses até outubro, de acordo com balanço divulgado nesta quinta-feira (17), pela Associação Brasileira da Indústria Têxtil e de Confecção (Abit). Entre janeiro a outubro, a queda foi de 11,4%, na comparação com 2019.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

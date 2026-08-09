@@ -8,7 +8,6 @@ categories:
 - Sports
 ---
 
-
 **Dezembro, 2021 -** A levantadora Kenya voltou ao time do Osasco São Cristóvão Saúde após conquistar o título pan-americano sub23 com a seleção brasileira. E voltou em grande estilo. A jovem atleta de 21 anos substituiu Fabíola, poupada, e foi o destaque da vitória sobre o Country Club Valinhos por 3 sets a 1, na noite desta sexta-feira (10), no ginásio José Liberatti. Além de distribuir bem as jogadas, marcou 11 pontos e ganhou o troféu VivaVôlei. A equipe osasquense teve uma novidade em quadra. A ponteira Joycinha entrou em quadra para sua estreia e ficou à disposição do técnico Luizomar.
 
 Kenya igualou a pontuação de Fabiana e só ficou atrás de Carla, com 12, e Tifanny, a maior pontuadora da partida, com 24 acertos. "Fiquei surpresa com essa pontuação, mas é reflexo de todo um trabalho em equipe. Procuro aproveitar todas as oportunidades em Osasco, tanto no treino como nos jogos, especialmente por estar ao lado da Fabíola, que me ajuda e ensina muito, Ela é a melhor", comentou a levantadora, após a vitória com parciais de 25/19, 18/25, 25/15 e 25/16, em 1h40min. Com o resultado, Osasco mantém o terceiro lugar na Superliga Banco do Brasil.
@@ -39,7 +38,7 @@ FASE DE CLASSIFICAÇÃO - PRIMEIRO TURNO
 20/12 – 17h – Unilife Maringá X **OSASCO SÃO CRISTÓVÃO SAÚDE** – Chico Neto (Canal Vôlei Brasil)
 10/01/22 – 19h -  **OSASCO SÃO CRISTÓVÃO SAÚDE** X Itambé Minas  – José Liberatti (SporTV)
 
-Fonte:** Release enviado por zdl** 
+Fonte:** Release enviado por zdl**
 
 **Ver também:**
 
@@ -50,7 +49,3 @@ Fonte:** Release enviado por zdl**
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

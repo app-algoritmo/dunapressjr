@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 ## Experiência da autarquia pode auxiliar na reestruturação do sistema de compras do ministério.
 
-Integrantes do Ministério da Justiça e Segurança Pública (MJSP) estiveram na sede do Fundo Nacional de Desenvolvimento da Educação (FNDE), na última segunda-feira, 27, para participar de um Benchmarking e conhecer melhor o processo de compras governamentais da autarquia. A Secretaria de Gestão e Ensino (Segen) do ministério, responsável por gerir os recursos federais de segurança pública, quer aproveitar a experiência da Diretoria de Administração do FNDE para reestruturar seu sistema de compras estratégicas. 
+Integrantes do Ministério da Justiça e Segurança Pública (MJSP) estiveram na sede do Fundo Nacional de Desenvolvimento da Educação (FNDE), na última segunda-feira, 27, para participar de um Benchmarking e conhecer melhor o processo de compras governamentais da autarquia. A Secretaria de Gestão e Ensino (Segen) do ministério, responsável por gerir os recursos federais de segurança pública, quer aproveitar a experiência da Diretoria de Administração do FNDE para reestruturar seu sistema de compras estratégicas.
 
 Adotado pelo FNDE, o Registro de Preço Nacional (RPN) é um modelo de compra governamental compartilhada por meio do qual a autarquia presta assistência técnica a estados, DF e municípios. Para tanto, realiza uma licitação centralizada, na modalidade pregão eletrônico, e registra preços e fornecedores de diversos produtos, como ônibus escolar, mobiliário escolar e infantil, material escolar, ventilador escolar, entre outros.
 
@@ -29,7 +28,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

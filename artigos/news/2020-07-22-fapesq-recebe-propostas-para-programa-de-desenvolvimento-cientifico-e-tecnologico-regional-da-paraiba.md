@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 O Programa visa à atração e fixação de doutores no Estado da Paraíba.
 
-A Fundação de Apoio à Pesquisa da Paraíba (Fapesq), em parceria com o Ministério da Ciência, Tecnologia e Inovações (MCTI), o Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e a Secretaria da Educação e da Ciência e da Tecnologia (SEECT), está recebendo propostas no âmbito do Programa de Desenvolvimento Científico e Tecnológico Regional no Estado da Paraíba (Programa PDCTR-PB). 
+A Fundação de Apoio à Pesquisa da Paraíba (Fapesq), em parceria com o Ministério da Ciência, Tecnologia e Inovações (MCTI), o Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e a Secretaria da Educação e da Ciência e da Tecnologia (SEECT), está recebendo propostas no âmbito do Programa de Desenvolvimento Científico e Tecnológico Regional no Estado da Paraíba (Programa PDCTR-PB).
 
 Este Programa visa à atração e fixação de doutores no Estado da Paraíba, por meio da implementação de bolsas de Pesquisa no âmbito do PDCTR; Estimular a fixação de recursos humanos com experiência em ciência, tecnologia e inovação e/ou reconhecida competência profissional em instituições ou empresas, públicas ou privadas, de ensino superior e/ou pesquisa em CT&I no Estado da Paraíba, que atuem em investigação científica, tecnológica ou inovação, atuando em duas vertentes:
 
@@ -19,9 +18,9 @@ Este Programa visa à atração e fixação de doutores no Estado da Paraíba, p
 
 - Interiorização: caracterizada pela atração de doutores para microrregiões reconhecidas pelo CNPq como de baixo desenvolvimento científico e tecnológico, (fora das áreas metropolitanas) e que permite a concessão da bolsa a doutor formado ou radicado no próprio estado.
 
- De acordo com o edital, as propostas poderão ser apresentadas em duas categorias: 
+ De acordo com o edital, as propostas poderão ser apresentadas em duas categorias:
 
-- Com Apoio Financeiro - O candidato selecionado fará jus ao financiamento do projeto pela Fapesq no valor máximo de até R$ 20 mil, a ser desenvolvido durante a vigência de seu projeto. Destes recursos até 50% poderão ser aplicados em capital. 
+- Com Apoio Financeiro - O candidato selecionado fará jus ao financiamento do projeto pela Fapesq no valor máximo de até R$ 20 mil, a ser desenvolvido durante a vigência de seu projeto. Destes recursos até 50% poderão ser aplicados em capital.
 
 - Sem Apoio Financeiro - Nesta categoria poderão participar candidatos(as) que já foram Bolsistas da Chamada Fapesq/CNPq–DCR (Edição 2013), que, em decorrência de encerramento do respectivo Acordo de Cooperação, Processo SEICNPq nº 01300.680003/2012-43, foram impossibilitados de finalizar seus projetos em andamento e de completarem os 36 (trinta e seis) meses de bolsa. Nesta modalidade não será financiado o valor de R$ 20 mil, disponibilizado pela Fapesq, haja vista já terem recebido este valor na chamada passada.
 
@@ -35,4 +34,4 @@ O edital prevê rodadas de submissão de propostas (2020, 2021, 2022). Primeira 
 
 Fonte: paraiba.pb.gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

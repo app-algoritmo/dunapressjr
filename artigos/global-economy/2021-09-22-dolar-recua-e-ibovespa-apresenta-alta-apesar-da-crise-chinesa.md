@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Moeda fechou o dia cotada a R$ 5,28; Ibovespa fechou em 110 mil pontos.
 
 Apesar da ameaça de impacto global após o [**anúncio de calote da gigante chinesa **](http://agenciabrasil.ebc.com.br/economia/noticia/2021-09/crise-da-empresa-chinesa-evergrande-faz-bolsas-do-mundo-despencarem)do mercado imobiliário e de aquisições Evergrande na segunda-feira (20), o dólar fechou em queda nesta terça-feira (21), em um movimento causado principalmente pela perspectiva de [**resolução para os precatórios**](https://agenciabrasil.ebc.com.br/politica/noticia/2021-09/comissao-especial-da-pec-dos-precatorios-sera-instalada-hoje-na-camara).
@@ -24,10 +23,6 @@ Sobre o caso da empresa chinesa, nenhuma medida prática foi aplicada ainda. O p
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

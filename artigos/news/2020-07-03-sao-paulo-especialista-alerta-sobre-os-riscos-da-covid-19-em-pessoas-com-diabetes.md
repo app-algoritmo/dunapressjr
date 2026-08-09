@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Covid 19 é causada pelo vírus SARS-CoV-2 e pode provocar infecções que muitas vezes não apresentam sintomas, mas também pode ocasionar quadros respiratórios graves. Pessoas com problemas respiratórios e/ou infecciosos entram no grupo risco, como também os diabéticos.
 
 O endocrinologista Lucas Palmiro concedeu entrevista à Rede Alesp. Ele é formado pela Escola Paulista de Medicina da Universidade Federal de São Paulo e se especializou em diabetes.
@@ -29,7 +28,7 @@ Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com inf
 
 Clique no link abaixo para assinar
 
-### [https://dunapress.org/subscription-plan/?aff=Vitor](https://dunapress.org/subscription-plan/?aff=Vitor)
+### [https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)
 
 Experimente por 7 Dias Gratuitos – Nossos Valores de Assinatura
 

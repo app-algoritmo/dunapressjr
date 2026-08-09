@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Evento acontece de forma presencial no São Paulo Expo.
 
 Começou nesta sexta-feira (7) e se estende até o dia 11 deste mês a edição de 2022 da Feira do Empreendedor do Sebrae-SP, com o tema Empreender sem limites, trazendo uma série de novidades que abrangem desde quem está pensando em empreender até a pessoa que já tem um negócio e está em busca de expansão ou de colocar a empresa no rumo certo. A programação inclui palestras, oficinas, espaços temáticos e 600 expositores. O evento acontece de forma presencial no São Paulo Expo e na plataforma digital Sebrae Experience, com inscrições gratuitas que podem ser feitas pelo [***site***](http://feiradoempreendedor22.com.br/).
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-## Altera o Código de Trânsito Brasileiro e dispõe sobre a proibição do uso de veículos de tração animal em área urbana e a sua substituição por veículo de propulsão humana. 
+## Altera o Código de Trânsito Brasileiro e dispõe sobre a proibição do uso de veículos de tração animal em área urbana e a sua substituição por veículo de propulsão humana.
 
 No PL 270/2019, que foi apensado ao PL 6357/2013, do deputado Giovani Cherini (PL-RS), Studart defende a substituição da tração animal por veículo de propulsão humana ou tração elétrica.
 
@@ -25,7 +24,7 @@ Autor de um projeto de lei que visa a proibição do uso de veículos de traçã
 
 Célio Studart classificou a resposta como surreal, considerando o elevado número de maus-tratos sofridos por animais utilizados para puxar carroça ou charrete no país.
 
-Créditos: 
+Créditos:
 
 [David Arioch](https://vegazeta.com.br/author/vegazeta_wp/)[ http://davidarioch.com](http://davidarioch.com/)
 
@@ -42,7 +41,3 @@ Fonte: https://vegazeta.com.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

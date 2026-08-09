@@ -8,8 +8,7 @@ categories:
 - Health
 ---
 
-
-Vacinar-se é um ato necessário para a proteção individual e coletiva. Por meio dele, algumas doenças já foram erradicadas, como a varíola e a poliomielite. E, apesar de nenhuma vacina ser 100% eficaz, hoje a imunização é essencial para prevenir óbitos, casos graves da Covid-19 e para conter a pandemia. 
+Vacinar-se é um ato necessário para a proteção individual e coletiva. Por meio dele, algumas doenças já foram erradicadas, como a varíola e a poliomielite. E, apesar de nenhuma vacina ser 100% eficaz, hoje a imunização é essencial para prevenir óbitos, casos graves da Covid-19 e para conter a pandemia.
 
 Quatro vacinas contra a doença já receberam autorização da Agência Nacional de Vigilância Sanitária (Anvisa) para uso no Brasil: CoronaVac, vacina do Butantan produzida em parceria com a biofarmacêutica chinesa Sinovac, e os imunizantes das empresas AstraZeneca, Pfizer e Janssen; mas somente as três primeiras estão sendo utilizadas no Programa Nacional de Imunizações (PNI), do Ministério da Saúde, até o momento. Um levantamento de um consórcio de veículos de imprensa junto às secretarias da saúde mostra que até o dia 23/5 haviam sido aplicadas 62,6 milhões de doses nos brasileiros, sendo que a CoronaVac responde por 47,2 milhões delas.
 
@@ -23,7 +22,7 @@ A vacina do Butantan utiliza a tecnologia de vírus inativado (morto), uma técn
 
 **AstraZeneca**
 
-Foi desenvolvida pela farmacêutica AstraZeneca em parceria com a universidade de Oxford. No Brasil, é produzida pela Fundação Oswaldo Cruz (Fiocruz). A tecnologia empregada é o uso do chamado vetor viral. O adenovírus, que infecta chimpanzés, é manipulado geneticamente para que seja inserido o gene da proteína “Spike” (proteína “S”) do Sars-CoV-2. 
+Foi desenvolvida pela farmacêutica AstraZeneca em parceria com a universidade de Oxford. No Brasil, é produzida pela Fundação Oswaldo Cruz (Fiocruz). A tecnologia empregada é o uso do chamado vetor viral. O adenovírus, que infecta chimpanzés, é manipulado geneticamente para que seja inserido o gene da proteína “Spike” (proteína “S”) do Sars-CoV-2.
 
 **Pfizer**
 
@@ -31,7 +30,7 @@ O imunizante da farmacêutica Pfizer em parceria com o laboratório BioNTech se 
 
 **Janssen**
 
-Do grupo Johnson & Johnson, a vacina do laboratório Janssen é aplicada em apenas uma dose, mas ainda não está disponível no Brasil. Assim como o imunizante da Astrazeneca, também se utiliza da tecnologia de vetor viral, baseado em um tipo específico de adenovírus que foi geneticamente modificado para não se replicar em humanos. 
+Do grupo Johnson & Johnson, a vacina do laboratório Janssen é aplicada em apenas uma dose, mas ainda não está disponível no Brasil. Assim como o imunizante da Astrazeneca, também se utiliza da tecnologia de vetor viral, baseado em um tipo específico de adenovírus que foi geneticamente modificado para não se replicar em humanos.
 
 Fonte: https://butantan.gov.br
 
@@ -42,7 +41,3 @@ Fonte: https://butantan.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

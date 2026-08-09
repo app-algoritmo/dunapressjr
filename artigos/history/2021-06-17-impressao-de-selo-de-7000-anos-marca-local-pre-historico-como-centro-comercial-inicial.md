@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 ## Uma pequena gota de argila com duas marcas antigas, descoberta em Tel Tsaf - junto com outras evidências - leva os pesquisadores a deduzirem uma complexa troca mercantil milenar.
 
 A antiga vila de Tel Tsaf no vale de Beit She'an pode ter sido uma meca comercial pré-histórica, de acordo com um artigo recente publicado na revista Levant.
@@ -74,7 +73,3 @@ Fonte: timesofisrael.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

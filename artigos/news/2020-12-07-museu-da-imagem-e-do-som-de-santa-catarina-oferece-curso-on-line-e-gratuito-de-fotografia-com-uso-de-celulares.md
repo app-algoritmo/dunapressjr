@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Museu da Imagem e do Som (MIS/SC) oferecerá nos dias 10 e 11 de dezembro um curso gratuito sobre fotografia básica com o uso de celulares. As aulas, no formato de palestra, serão realizadas das 8h30 às 10h30, pela plataforma de teleconferência Zoom.
 
 A atividade é dirigida a alunos sem nenhuma experiência em fotografia e terá como ministrante Sérgio Sakakibara. Os alunos aprenderão noções de luz e cor, controles básicos em dispositivos automáticos, aplicativos e softwares, descarga no computador, pequenos ajustes na imagem, armazenamento, compartilhamento e impressão.
@@ -36,7 +35,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

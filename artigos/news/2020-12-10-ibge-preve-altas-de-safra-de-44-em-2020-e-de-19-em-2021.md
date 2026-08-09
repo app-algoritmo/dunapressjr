@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estimativa é do Levantamento Sistemático da Produção Agrícola.
 
 A safra de grãos, cereais, leguminosas e oleaginosas brasileira deve fechar 2020 em 252 milhões de toneladas, ou seja, 4,4% superior à registrada em 2019. Para 2021, a previsão é que a produção de grãos no país chegue a 256,8 milhões de toneladas, 1,9% a mais do que o projetado para este ano.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

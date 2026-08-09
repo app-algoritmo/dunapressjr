@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Poder Executivo encaminhou na segunda-feira (7) à Assembleia Legislativa projeto de lei (PL) que altera pontos de nove leis de natureza tributária. Trata-se do [PL 364/2020](http://www.alesc.sc.gov.br/legislativo/tramitacao-de-materia/PL./0364.4/2020), que já está sob análise da Comissão de Finanças e Tributação, sob a relatoria do deputado Milton Hobus (PSD).
 
 As leis que serão modificadas tratam de normas da legislação tributária estadual, infrações e punições de natureza tributária, taxas estaduais, ICMS, fiscalização e coibição de comércio irregular de combustíveis, e benefícios fiscais. A maior parte dos 41 artigos do PL diz respeito justamente à regulamentação ou ao aprimoramento de benefícios de ICMS concedidos por Santa Catarina.
@@ -33,7 +32,7 @@ A proposta inclui também medidas para endurecer o comércio irregular de combus
 **Tramitação**
 Antes de ser votado em plenário, o PL 364/2020 será apreciado apenas pelo Comissão de Finanças e Tributação, onde já recebeu uma emenda, de autoria do deputado Bruno Souza (Novo), a qual pede a exclusão do artigo 4º, que trata dos juros de mora de, no mínimo, 1% ao mês. O projeto tramita em regime ordinário (normal).
 
-Créditos: Marcelo Espinoza/AGÊNCIA AL. 
+Créditos: Marcelo Espinoza/AGÊNCIA AL.
 
 Foto: Thiago Andrade/ImetroSC.
 
@@ -47,7 +46,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Taxas para empresas cresceram no mês, diz BC.
 
 As famílias pagaram juros menores no cheque especial e no crédito não consignado em julho, de acordo com dados divulgados nesta sexta-feira (27) pelo Banco Central (BC). A taxa de juros do cheque especial para pessoas físicas caiu 2,1 pontos percentuais no mês e chegou a 123,5% ao ano.
@@ -48,10 +47,6 @@ A variação mensal refletiu crescimentos de 1,1% nos empréstimos e financiamen
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

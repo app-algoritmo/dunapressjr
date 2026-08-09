@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Relator torna obrigatória as emendas de relator-geral.
 
 A Comissão Mista de Orçamento (CMO) aprovou nesta quarta-feira (29) o relatório final do projeto da Lei de Diretrizes Orçamentárias (LDO) para 2023. A proposta segue para análise do Congresso Nacional.
@@ -26,7 +25,7 @@ O texto do senador Marcos do Val incluiu dispositivos para aumentar o controle p
 
 ### Teto de gastos
 
-O texto aprovado permite que o Congresso Nacional utilize a projeção mais atualizada para o Índice Nacional de Preços ao Consumidor Amplo (IPCA) 2022, com o objetivo de corrigir o cálculo do teto de gastos da União para 2023, que no projeto da LDO é estimado em R$ 1,711 trilhão. 
+O texto aprovado permite que o Congresso Nacional utilize a projeção mais atualizada para o Índice Nacional de Preços ao Consumidor Amplo (IPCA) 2022, com o objetivo de corrigir o cálculo do teto de gastos da União para 2023, que no projeto da LDO é estimado em R$ 1,711 trilhão.
 
 Dessa maneira, não será mais necessário utilizar a projeção que deve ser informada pelo Ministério da Economia em 22 de novembro. A mudança também pode levar a um ajuste na meta de resultado primário, estimada em um déficit de R$ 65,9 bilhões.
 
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

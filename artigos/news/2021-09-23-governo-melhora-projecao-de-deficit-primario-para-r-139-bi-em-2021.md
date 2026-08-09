@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Aumento da arrecadação provocou revisão da estimativa.
 
 O aumento da arrecadação decorrente da recuperação econômica e a elevação de receitas extras fizeram a equipe econômica melhorar a projeção de déficit primário neste ano. Segundo o Relatório Bimestral de Avaliação de Receitas e Despesas, divulgado nesta quarta-feira (22), a estimativa de resultado negativo em 2021 passou de R$ 155,4 bilhões em julho (1,8% do Produto Interno Bruto, PIB) para R$ 139,4 bilhões (1,6% do PIB).
@@ -34,10 +33,6 @@ O relatório também prevê que a Dívida Bruta do Governo Geral (DBGG), princip
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

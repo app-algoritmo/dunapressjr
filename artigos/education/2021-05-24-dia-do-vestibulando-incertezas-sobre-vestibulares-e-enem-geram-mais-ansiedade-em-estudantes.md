@@ -8,7 +8,6 @@ categories:
 - Education
 ---
 
-
 Antes da pandemia, o número de estudantes prestando vestibular e fazendo provas para tentar um acesso ao Ensino Superior era de mais de 6 milhões em todo o Brasil. Em 2021, esses milhões de jovens, além de lidar com a expectativa de provas concorridas, ainda sofrem com a incerteza de um cenário bastante indefinido. A pandemia afetou em cheio estudantes que estão na reta final de uma trajetória e não sabem como ou quando ela vai terminar. Alguns vestibulares de universidades federais previstos para acontecer em 2020 ainda não aconteceram. O MEC ainda não confirmou quando será realizada a edição 2021 do Enem. Tantas indefinições acabam gerando ansiedade e, às vezes, desestimulando quem precisa, mais do que nunca, manter o foco e se preparar para quando a hora chegar.
 
 De acordo com o coordenador editorial do Sistema Positivo de Ensino, Norton Nicolazzi Junior, o fundamental agora é o estudante não desanimar e aguardar com tranquilidade enquanto se prepara de forma adequada. "Equilíbrio deve ser a palavra chave para este período. É preciso não perder o foco. O estudante bem sucedido nos próximos vestibulares e provas será aquele que fez o que tinha que ser feito. Em vez de ficar pensando se haverá prova ou quando ela será realizada, o que só gera ansiedade, não parou de estudar e se preparar", afirma Nicolazzi.
@@ -28,7 +27,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

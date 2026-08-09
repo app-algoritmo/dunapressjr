@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em dezembro, índice apresentou alta de 0,33%.
 
 O Índice de Atividade Econômica (IBC-Br) apresentou alta de 0,33% em dezembro de 2021, de acordo com dados divulgados hoje (11) pelo Banco Central (BC). O BC informou que, na comparação com dezembro de 2020, o índice apresentou alta de 1,30%, considerando os dados dessazonalizados (ajustados para o período). A taxa chegou a 139,73 pontos. No acumulado do ano, o IBC-Br ficou em 4,5%.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Corrente de comércio sobe 25% e chega a US$167,98 bilhões, com US$ 95,51 bilhões em exportações e US$ 72,47 bilhões em importações.
 
 O superávit da balança comercial continua em ritmo de alta e atinge US$ 23,04 bilhões no acumulado do ano, até a segunda semana de maio, com crescimento de 63,5% pela média diária, na comparação com o período de janeiro a maio de 2020. A corrente de comércio (soma das exportações e importações) atinge US$167,98 bilhões no período, com crescimento de 25%.
@@ -44,8 +43,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

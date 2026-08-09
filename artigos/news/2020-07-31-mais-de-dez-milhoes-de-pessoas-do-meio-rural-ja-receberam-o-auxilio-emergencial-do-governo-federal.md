@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Número representa cerca de 15,6% dos mais de 65 milhões de brasileiros diretamente beneficiados pelo programa.
 
 Cumprindo a determinação do presidente Jair Bolsonaro de que “nenhum brasileiro fica para trás”, o Auxílio Emergencial, que já foi pago a mais de 65 milhões de brasileiros, chegou a 10,3 milhões de pessoas do meio rural diretamente.
@@ -17,7 +16,7 @@ Para o ministro da Cidadania, Onyx Lorenzoni, o número mostra a abrangência do
 
 Dentre os que declararam especificamente as atividades profissionais de Agricultura/Pecuária e Extrativismo/Pesca no preenchimento do Auxílio Emergencial, o número chega a 2.913.946 pessoas trabalhando diretamente em atividades rurais e que estão recebendo o benefício.
 
-Além disso, o ministro lembra que o governo, por meio do Ministério da Agricultura, por exemplo, tem atuado para atenuar os impactos para o setor e já se prepara para a retomada pós pandemia. “Em conjunto com os ministérios da Saúde e da Economia, o Mapa elaborou protocolos para minimizar os contágios em frigoríficos, feiras livres, sacolões, comércio varejista e, também, na produção de alimentos”, afirmou Onyx. 
+Além disso, o ministro lembra que o governo, por meio do Ministério da Agricultura, por exemplo, tem atuado para atenuar os impactos para o setor e já se prepara para a retomada pós pandemia. “Em conjunto com os ministérios da Saúde e da Economia, o Mapa elaborou protocolos para minimizar os contágios em frigoríficos, feiras livres, sacolões, comércio varejista e, também, na produção de alimentos”, afirmou Onyx.
 
 “O objetivo é garantir o fluxo do abastecimento desde o campo até a chegada dos produtos à mesa dos brasileiros, com segurança para consumidores e trabalhadores”, acrescentou. “O que reforça o reconhecimento, por parte do Governo Federal, desse público tão importante para o país”, completou.
 
@@ -27,7 +26,7 @@ Imagem: Sergio Amaral/Ministério da Cidadania
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

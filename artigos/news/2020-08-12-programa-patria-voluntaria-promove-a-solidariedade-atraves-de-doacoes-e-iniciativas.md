@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Instituições sem fins lucrativos podem receber recursos para ações de combate à Covid-19. Para concorrer aos recursos, a inscrição deve ser feita até o dia 19 de agosto.
 
 nstituições sem fins lucrativos que oferecem atendimento a crianças, adolescentes, idosos e à população com deficiência e em situação de rua podem se inscrever e receber recursos para ações de combate à pandemia até 19 de agosto. Também serão contempladas instituições que atendam povos e comunidades tradicionais e mulheres em situação de vulnerabilidade.
@@ -40,6 +39,6 @@ Fonte Gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)****

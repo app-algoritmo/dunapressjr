@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Podem se candidatar jovens de 14 a 22 anos de idade.
 
 A partir de segunda-feira (18), jovens entre 14 e 22 anos de idade podem se candidatar a uma das 734 vagas abertas para o Programa Petrobras Jovem Aprendiz. As oportunidades são para receber aulas de capacitação e desenvolver prática profissional no Serviço Nacional de Aprendizagem Industrial (Senai), além de fazer visitas técnicas às instalações da Petrobras.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Dados foram divulgados pela CNC.
 
 O Índice de Confiança do Empresário do Comércio (Icec) registrou alta de 1,5% em julho deste ano, na comparação com o mês anterior. Essa foi a quarta alta consecutiva do indicador, que chegou a 123,1 pontos em uma escala de 0 a 200 pontos, segundo pesquisa publicada nesta quarta-feira (27) pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC).
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

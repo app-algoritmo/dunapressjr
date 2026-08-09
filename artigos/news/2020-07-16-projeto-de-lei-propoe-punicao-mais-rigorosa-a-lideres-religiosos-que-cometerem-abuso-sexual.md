@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Em primeiro lugar, queremos o aumento da pena quando o crime for cometido por um líder religioso. Também tem a questão da prescrição, que é preciso subir de 70 para 80 anos". Disse a  ministra Damares Alves.
 
 A proposta de endurecimento da punição contra quem pratica abusos sexuais foi defendida pela titular do Ministério da Mulher, da Família e dos Direitos Humanos, ministra Damares Alves, nesta segunda-feira (13), durante cerimônia alusiva aos 30 anos do Estatuto da Criança e do Adolescente (ECA), no Palácio do Planalto, em Brasília (DF).
@@ -43,6 +42,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

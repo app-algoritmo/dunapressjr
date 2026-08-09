@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 Existem algumas etapas que envolvem o processo de parar de fumar, sendo uma delas a busca de apoio entre os familiares e amigos. Conforme explica Beatriz Ávila, psicóloga residente no Programa de Residência Multiprofissional em Saúde do Adulto e do Idoso do Hospital Universitário de Aracaju (SE), vinculado à Rede Empresa Brasileira de Serviços Hospitalares (EBSERH), largar o cigarro trata-sede uma decisão que gera impacto e exige mudanças de comportamentos muito pessoais e rotineiros por parte de quem toma essa atitude.
 
 Neste contexto, segundo Beatriz, é frequente a identificação de situações e pessoas que podem estar associadas ao hábito, já que uma das variáveis que o reforçam é a associação entre o prazer que o cigarro traz e determinadas situações da rotina.
@@ -19,7 +18,7 @@ Diante disso, o suporte social pode ser importante tanto para ajudar o ex-fumant
 
 É aí que entra a questão da empatia. Segundo a psicóloga, é muito importante colocar-se no lugar do outro, mostrar-se compreensivo e, acima de tudo, respeitar a decisão e motivação da pessoa.
 
-Nesse sentido, é válido observar as estratégias que funcionam melhor para o ex-fumante e tentar reforçá-las. Parar de frequentar lugares que provoquem gatilhos a pedido da pessoa que está em tratamento é um exemplo de tática que vale ser reforçada. 
+Nesse sentido, é válido observar as estratégias que funcionam melhor para o ex-fumante e tentar reforçá-las. Parar de frequentar lugares que provoquem gatilhos a pedido da pessoa que está em tratamento é um exemplo de tática que vale ser reforçada.
 
 “Muitas pessoas podem criticar, invalidar e prejudicar as medidas que a pessoa tem tomado para se afastar do cigarro, tornando importante a necessidade de ter por perto pessoas otimistas”, lembra Beatriz.
 
@@ -33,7 +32,7 @@ Em segundo lugar, o pedido para abandonar o vício feito por algum amigo ou fami
 
 ## **O que NÃO fazer com alguém que está tentando parar de fumar?**
 
-Nesse momento de abstinência, as chances de recaída são grandes e as dúvidas sobre continuar o tratamento também. Portanto, é importante evitar críticas ou tentar diminuir o esforço feito pelo ex-fumante. 
+Nesse momento de abstinência, as chances de recaída são grandes e as dúvidas sobre continuar o tratamento também. Portanto, é importante evitar críticas ou tentar diminuir o esforço feito pelo ex-fumante.
 
 “Qualquer comportamento que invalide ou questione a decisão do indivíduo pode ser visto como desestimulante. Por exemplo, questionar a necessidade de parar de fumar, questionar os benefícios e as motivações da pessoa”, afirma Beatriz.
 
@@ -63,7 +62,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Atraso resultará em multa para quem é obrigado a declarar.
 
 [**O prazo para a entrega da declaração do Imposto de Renda da Pessoa Física (IRPF) 2022 (ano-base 2021) se encerrará nesta terça-feira (31)**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-04/prazo-para-entrega-da-declaracao-do-ir-e-prorrogado-para-31-de-maio). De acordo com o último balanço da Receita Federal, divulgado no dia 27, até então 28.880.296 declarações já haviam sido entregues. A expectativa é de que este número chegue a 34,1 milhões até o fim do prazo.
@@ -35,8 +34,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

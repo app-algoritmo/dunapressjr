@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Crescimento é 47,6% em comparação com o mesmo período de 2020.
 
 O Banco do Brasil (BB) registrou lucro líquido ajustado de R$ 5,1 bilhões no terceiro trimestre deste ano, um aumento de 47,6% em comparação com o mesmo período de 2020 e de 2% em relação ao segundo trimestre de 2021. No acumulado do ano, o valor chega a R$ 15,1 bilhões, crescimento de 48,1%. O retorno sobre o patrimônio líquido ajustado (RSPL) encerrou o trimestre em 14,3% e, na visão acumulada, em 15%.
@@ -26,7 +25,7 @@ Essa carteira cresceu 9,7% na comparação com junho, com destaque para o custei
 
 A carteira pessoa física ampliada cresceu 5,7% em relação a junho e 14,2% frente a setembro de 20, destacando-se a performance positiva nas linhas de crédito consignado (16,4%), alcançando R$ 104,6 bilhões, empréstimo pessoal (40,1%) e cartão de crédito (41,3%) na comparação anual. “Resultado da estratégia de alteração do mix para linhas mais rentáveis”, disse o BB.
 
-Na pessoa jurídica houve crescimento de 4,3% comparado a junho. Destaque para o crescimento da carteira micro, pequenas e médias empresas (10%), influenciada pelos desembolsos de R$ 8,1 bilhões nas linhas do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe). 
+Na pessoa jurídica houve crescimento de 4,3% comparado a junho. Destaque para o crescimento da carteira micro, pequenas e médias empresas (10%), influenciada pelos desembolsos de R$ 8,1 bilhões nas linhas do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe).
 
 Segundo o banco, a carteira de grandes empresas foi impactada por liquidações e o direcionamento para alternativas no mercado de capitais, com crescimento nas operações com empresas com faturamento entre R$ 200 milhões e R$ 800 milhões, “contribuindo positivamente para o mix da carteira”.
 
@@ -36,7 +35,7 @@ Em setembro de 2021, a carteira de negócios sustentáveis atingiu um saldo de R
 
 ## Receitas e despesas
 
-As receitas de prestação de serviços totalizaram R$ 7,4 bilhões no trimestre de julho a setembro, crescimento de 2,2% em relação ao mesmo período de 2020 e de 3,2% na comparação com o trimestre anterior. 
+As receitas de prestação de serviços totalizaram R$ 7,4 bilhões no trimestre de julho a setembro, crescimento de 2,2% em relação ao mesmo período de 2020 e de 3,2% na comparação com o trimestre anterior.
 
 De acordo com o Banco do Brasil, o crescimento em relação ao trimestre anterior foi influenciado, principalmente, pelo desempenho positivo anual nas linhas de seguros, previdência e capitalização (6%), de consórcios (11,7%) e de administração de fundos (9,9%). No acumulado de nove meses, o crescimento foi de 1%, dentro do intervalo das projeções corporativas.
 
@@ -46,10 +45,6 @@ As despesas administrativas somaram R$ 7,9 bilhões no terceiro trimestre, acré
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

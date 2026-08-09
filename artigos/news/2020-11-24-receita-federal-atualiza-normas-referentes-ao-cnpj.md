@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Objetivo das alterações é simplificar os serviços prestados e o cumprimento das obrigações tributárias.
 
 A Receita Federal publicou no Diário Oficial da União a [Instrução Normativa RFB nº 1.991/2020](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=113873), que atualiza as normas referentes ao Cadastro Nacional da Pessoa Jurídica (CNPJ). A maioria das alterações decorrem de alterações legais ocorridas em 2019 e 2020, que buscaram a desburocratização e a simplificação do cumprimento das obrigações tributárias por parte dos contribuintes.
@@ -21,5 +20,3 @@ Fonte: Receita Federal
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

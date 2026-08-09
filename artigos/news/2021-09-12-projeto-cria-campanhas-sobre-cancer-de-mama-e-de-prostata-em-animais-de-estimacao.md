@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Projeto de Lei 1881/21 cria as campanhas “Outubro Rosa Pet” e “Novembro Azul Pet” para conscientizar a população sobre a importância de submeter animais de estimação a exames regulares para o diagnóstico precoce do câncer de mama e de doenças na próstata decorrentes da castração. O texto tramita na Câmara dos Deputados.
 
 De acordo com a proposta, as atividades de conscientização poderão ser realizadas em parceria com a sociedade civil ou integrar as atividades de conscientização das campanhas Outubro Rosa (câncer de mama) e Novembro Azul (câncer de próstata) já realizadas pelo poder público.
@@ -43,7 +42,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

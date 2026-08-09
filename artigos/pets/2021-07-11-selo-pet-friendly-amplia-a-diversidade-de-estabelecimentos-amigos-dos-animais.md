@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 A aceitação do selo Pet Friendly já se expandiu por mais de mil estabelecimentos fluminenses. A diversidade de lugares que se declaram amigos dos animais vai do setor hoteleiro até loja de artigos de balé. Quem aderiu recentemente foi a bailarina Ana Botafogo que incluiu uma linha exclusiva específica para pets.
 
 Segundo o secretário de Estado de Agricultura, Marcelo Queiroz, idealizador do selo e responsável pelas políticas públicas de proteção e bem-estar animal, o Pet Friendly cumpre um papel importante para a economia fluminense.
@@ -29,7 +28,3 @@ Para obter mais informações sobre como conseguir o selo, basta entrar no site 
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

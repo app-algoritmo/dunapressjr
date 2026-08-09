@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Foi deflagrada nesta segunda-feira (23) a Operação Enterprise, que atingiu uma organização de tráfico de entorpecentes de alcance internacional, além de diversos outros crimes como lavagem de dinheiro e remessa ilegal de divisas para o exterior. A quadrilha, com ramificações em vários estados, tinha uma das principais bases logísticas no litoral do Paraná, com forte atuação pelo Porto de Paranaguá.
 
 Foram cumpridos 151 mandados de busca e apreensão em 10 estados (BA, MG, MS, MT, PA, PE, PR, RN, SC e SP) e quatro no exterior (Espanha, Colômbia, Portugal e Emirados Árabes Unidos). Também foram cumpridos 65 mandados de prisão, sendo que 29 pessoas haviam sido presas até o fim da manhã, principalmente no litoral do Paraná e em Curitiba e região metropolitana. Além disso, foram concedidos 37 pedidos de arresto (mandados de apreensão) de aeronaves.
@@ -28,7 +27,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

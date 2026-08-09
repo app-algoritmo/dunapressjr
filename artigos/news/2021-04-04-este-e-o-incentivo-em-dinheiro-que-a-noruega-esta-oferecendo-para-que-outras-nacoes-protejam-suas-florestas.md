@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 -Para desacelerar o desmatamento, a Noruega oferecerá às nações US$10 por tonelada de dióxido de carbono armazenado pelas florestas. Para se qualificar para o bônus, as nações precisam adotar um sistema rigoroso de contabilidade e monitoramento das florestas - muito mais rígido do que as medidas atuais. Ainda existem obstáculos significativos a superar, no entanto, nem todos estão convencidos dos benefícios.
 
 A Noruega está dobrando o preço que garante às nações em desenvolvimento para manter suas florestas tropicais em pé, em um passo para reduzir perdas catastróficas e encorajar grandes empresas a investirem muito mais na natureza para combater as mudanças climáticas.
@@ -41,7 +40,7 @@ De um lado do dilema do ovo e da galinha, os países em desenvolvimento descobri
 
 Por outro lado, as nações doadoras e as empresas têm medo de pagar para proteger as florestas quando seus investimentos podem literalmente virar fumaça. Por exemplo, segundo os informes de [estatísticas do Instituto Nacional de Pesquisas Espaciais (INPE](http://www.inpe.br/noticias/noticia.php?Cod_Noticia=5294)), o desmatamento aumentou no Brasil.
 
-[](http://www.inpe.br/noticias/noticia.php?Cod_Noticia=5294)Taxa anual de desmatamento desde 1988 na Amazônia Legal. Em azul a estimativa para 2019. Imagem: ©PRODES
+Taxa anual de desmatamento desde 1988 na Amazônia Legal. Em azul a estimativa para 2019. Imagem: ©PRODES
 
 Para se qualificar para o preço mínimo de US$10, Pharo disse que os governos de florestas tropicais terão que adotar um sistema rigoroso de contabilidade e monitoramento de florestas, conhecido como [ART TREES](https://www.artredd.org/) , elaborado em fevereiro.
 

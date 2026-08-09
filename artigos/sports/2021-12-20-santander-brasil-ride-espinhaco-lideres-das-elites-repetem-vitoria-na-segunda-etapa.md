@@ -8,7 +8,6 @@ categories:
 - Sports
 ---
 
-
 ## Duplas formadas por Sherman Trezza/Lukas Kaufmann e Paula Gallan/Isabella Lacerda ganharam a segunda de cinco etapas da competição em Conceição do Mato Dentro (MG).
 
 A segunda etapa da Santander Brasil Ride Espinhaço, realizada nesta quarta-feira (15), em Conceição do Mato Dentro (MG), com passagem pelo histórico povoado de Córregos, fundado no início do século XVIII, teve a repetição dos vencedores do prólogo nas elites masculina e feminina. Sherman Trezza e Lukas Kaufmann completaram os 50,6 km e 1.760 m de altimetria em 2h12min58, e Paula Gallan e Isabella Lacerda cruzaram o pórtico de chegada em 2h53min47. As duas duplas mantiveram as camisetas de líderes de suas categorias.
@@ -23,7 +22,7 @@ Agora, Sherman e Lukas tem a camiseta amarela com o tempo acumulado 2h56min28, c
 
 "Foi uma etapa dura, porque a chuva e o barro deixaram tudo mais pesado. O ponto alto foi a descida da trilha no final, muito bem feita. Foi o mountain bike raiz mesmo. Um dia bem legal, que com certeza agradou a todos", comentou Ricardo Pscheidt. "Etapa foi rápida e agitada no início. Tivemos uma primeira subida e na descida estava bem liso, ou seja, o pelotão se quebrou e em seguida reconectou-se. Daí para frente, ritmo alto, sempre com cuidado em termos físicos e de equipamento. Lama, barro, mas terminamos bem e seguimos em segundo lugar no geral", contou Leandro Donizete.
 
-**Elite feminina** - Entre as mulheres, o enredo foi parecido. Paula Gallan e Isabella Lacerda não foram incomodadas por suas adversárias e lideraram na passagem do km 26. Ao final do dia, cruzaram a linha de chegada em 2h53min47, para ganhar outra etapa, com lugar de Marcella Toldi e Fabiana Brandao outra vez na segunda colocação, em 2h54min17. Letícia Cândido e a alemã Naima Diesner fecharam o top 3, em 3h01min51, repetindo o pódio do primeiro dia na elite feminina. 
+**Elite feminina** - Entre as mulheres, o enredo foi parecido. Paula Gallan e Isabella Lacerda não foram incomodadas por suas adversárias e lideraram na passagem do km 26. Ao final do dia, cruzaram a linha de chegada em 2h53min47, para ganhar outra etapa, com lugar de Marcella Toldi e Fabiana Brandao outra vez na segunda colocação, em 2h54min17. Letícia Cândido e a alemã Naima Diesner fecharam o top 3, em 3h01min51, repetindo o pódio do primeiro dia na elite feminina.
 
 "Etapa dura. Muita lama, ou seja, deixando o terreno pesado. A prova exigiu muita força, por isso estamos bem felizes com a vitória. Entregamos tudo que podíamos", resumiu Isabella. "Estamos respeitando uma a outra, com a sintonia boa. Isso que é importante em uma prova como a Santander Brasil Ride. A Paula é bem forte e estou feliz de estar com ela. Vamos dar o nosso melhor para segurarmos esta camiseta de líder até o sábado (18), último dia de competição", avaliou Isabella.
 
@@ -36,7 +35,7 @@ Agora, Sherman e Lukas tem a camiseta amarela com o tempo acumulado 2h56min28, c
 **Bruske e Ribeiro lideram na e-bike** - Assim como ocorreu nas elites masculina e feminina, na disputa das e-bikes Erick Bruske e Isabella Ribeiro também repetiram o triunfo da primeira etapa. "Etapa estratégica, por conta da administração de bateria. Pegamos bastante lama e nos separamos bem dos atletas que não tinham bikes elétricas. Abri vantagem logo no início, que era o que eu gostaria de fazer. Por conta das condições climáticas, cuidar do equipamento era a principal preocupação. Tínhamos que nos adaptar bem na pilotagem e o mais difícil ficou para o final, onde consegui abrir a maior vantagem na liderança", contou Bruske.
 
 **Top 5 das elites no dia:**
-**
+
 Masculina**
 1-Sherman Trezza/Lukas Kaufmann - 2h12min58
 2-Ricardo Pscheidt/Leandro Donizete - 2h20min26
@@ -55,7 +54,7 @@ Masculina**
 
 **Masculina**
 1-Sherman Trezza/Lukas Kaufmann - 2h56min29
-2-Ricardo Pscheidt/Leandro Donizete - 3h05min55 
+2-Ricardo Pscheidt/Leandro Donizete - 3h05min55
 3-Carlos Henrique Paixão/Marcus Slva - 3h09min55
 4-João Paulo Firmino/Diogo Malagon - 3h13min50
 5- David Rosa (POR)/Vitor Bento - 3h14min09
@@ -71,7 +70,7 @@ Masculina**
 
 **Maior premiação do ciclismo nacional - **A Santander Brasil Ride Espinhaço já chega ao calendário elevando a outro patamar o ciclismo nacional. Com mais de 140 mil reais de prêmios em dinheiro, o evento ofertará a maior premiação do Brasil na história deste esporte, que é um dos que mais cresce no País e no mundo. Seguindo os padrões do circuito da Santander Brasil Ride, mulheres e homens terão premiação igual na prova. E para o ciclista amador (não federado) que fizer a melhor volta na etapa do XCO, um capacete de Henrique Avancini será ofertado como prêmio extra.
 
-**Encerramento com chave de ouro** - Disputa marcada para o sábado (18), a Maratona do Cipó será responsável por encerrar com chave de ouro a ultramaratona, com um percurso de 53,6 km e 1.720 m de altimetria acumulada na sua prova principal. Quem optar por um desafio menos intenso, pode se inscrever na categoria tour, com 16,5 km de extensão e 470 m de desnível altimétrico. 
+**Encerramento com chave de ouro** - Disputa marcada para o sábado (18), a Maratona do Cipó será responsável por encerrar com chave de ouro a ultramaratona, com um percurso de 53,6 km e 1.720 m de altimetria acumulada na sua prova principal. Quem optar por um desafio menos intenso, pode se inscrever na categoria tour, com 16,5 km de extensão e 470 m de desnível altimétrico.
 
 ***Mais informações da Santander Brasil Ride:***
 ***Site: [www.brasilride.com.br](https://click.presskit.com.br/url/845254ec19/6361388b6fc)***
@@ -89,7 +88,3 @@ Fonte: ***ZDL Sports***
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

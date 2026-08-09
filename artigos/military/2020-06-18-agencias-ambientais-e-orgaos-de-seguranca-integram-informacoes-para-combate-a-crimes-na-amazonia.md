@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 A Operação Verde Brasil 2 recebe importante apoio de equipe de 11 agências ambientais e órgãos de segurança pública. Esses profissionais fazem a integração de dados e informações visando otimizar o trabalho das equipes de campo, durante a operação de Garantia da Lei e da Ordem (GLO) para combate a crimes ambientais na Amazônia.
 
 O trabalho multidisciplinar, realizado a partir do Centro Gestor e Operacional do Sistema de Proteção da Amazônia (Censipam), é baseado na análise detalhada de diversas informações já disponíveis em cada órgão. Com a reunião desses dados, o grupo elabora relatórios para direcionamento das ações das Forças Armadas e equipes de fiscalização.
@@ -27,5 +26,3 @@ Além de servidores do Censipam, a equipe conta com representantes da Abin, da A
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

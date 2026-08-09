@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) lançou, uma cartilha sobre as consequências do trabalho infantil na saúde.
 
 O material pretende chamar a atenção especialmente para o risco de acidentes que as crianças e adolescentes estão expostos. O guia vai informar e mobilizar toda a sociedade para a importância da erradicação do trabalho infantil.
@@ -24,4 +23,4 @@ Fonte gov.br
 
 Imagem destacada Pixabay
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

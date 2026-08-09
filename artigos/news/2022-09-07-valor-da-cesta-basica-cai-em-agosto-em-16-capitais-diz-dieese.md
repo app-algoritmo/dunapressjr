@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### São Paulo registrou o valor mais alto; Aracaju, o mais baixo.
 
 O valor da cesta básica caiu em agosto em 16 das 17 capitais analisadas pela Pesquisa Nacional da Cesta Básica de Alimentos, calculada mensalmente pelo Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese). Belém foi a única capital onde o preço da cesta subiu (0,27%).
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Previsão para crescimento da economia caiu para 4,93% em 2021.
 
 A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA), considerada a inflação oficial do país, subiu de 9,17% para 9,33% neste ano. É a 31ª elevação consecutiva da projeção. A estimativa está no Boletim Focus de nesta segunda-feira (8), pesquisa divulgada semanalmente pelo Banco Central (BC) com a expectativa das instituições para os principais indicadores econômicos.
@@ -40,10 +39,6 @@ A expectativa para a cotação do dólar se manteve em R$ 5,50 para o final dest
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

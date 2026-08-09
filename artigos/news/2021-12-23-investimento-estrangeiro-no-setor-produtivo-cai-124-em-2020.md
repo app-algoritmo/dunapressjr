@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dados são no Relatório de Investimento Direto divulgado pelo BC.
 
 Em meio à pandemia de covid-19, o estoque dos investimentos estrangeiros no setor produtivo do Brasil caiu 12,4% ou R$ 108,5 bilhões em 2020. Os dados estão no [**Relatório de Investimento Direto**](https://www.bcb.gov.br/publicacoes/relatorioid/RelatorioID2020) divulgado nesta quarta-feira (22) pelo Banco Central (BC).
@@ -26,10 +25,6 @@ As informações do Relatório de Investimento Direto foram coletadas pela pesqu
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

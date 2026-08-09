@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Valor liberado contempla empreendimentos em Alagoas, Goiás, Maranhão, Mato Grosso, Piauí, Rio de Janeiro e São Paulo.
 
 O Ministério do Desenvolvimento Regional (MDR) liberou mais de R$ 3,3 milhões para a continuidade de obras de saneamento básico em sete estados brasileiros. Os empreendimentos estão localizados em Alagoas, Goiás, Maranhão, Mato Grosso, Piauí, Rio de Janeiro e São Paulo. Foram contempladas iniciativas de abastecimento de água, esgotamento sanitário e de saneamento integrado.
@@ -48,5 +47,3 @@ Atualmente, a carteira de obras e projetos da pasta no setor – contratos ativo
 Fonte: gov.br – Imagem de destaque: Arquivo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

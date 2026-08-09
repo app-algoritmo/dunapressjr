@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A campanha de doação de brinquedos e livros infantis “Vem Brincar Comigo 2020”, realizada no Ministério da Defesa (MD), com participação das Forças Armadas e do Hospital das Forças Armadas (HFA), encerrou, nesta quinta-feira (1º), com sucesso. O Vem Brincar Comigo 2020 é parceiro da campanha, que é coordenada pelo Governo do Distrito Federal (GDF) e visa atender crianças carentes.
 
 A presidente do Conselho do Pátria Voluntária, a Primeira-Dama da República, Michele Bolsonaro, acompanhada pela Primeira-Dama do Distrito Federal, Mayara Rocha, esteve presente no recolhimento de doações.
@@ -28,5 +27,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

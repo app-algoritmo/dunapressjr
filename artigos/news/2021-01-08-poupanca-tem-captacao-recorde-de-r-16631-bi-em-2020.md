@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Apenas em dezembro, depósitos superaram saques em R$ 20,6 bi.
 
 ## Apenas em dezembro, depósitos superaram saques em R$ 20,6 bi.
@@ -44,8 +43,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

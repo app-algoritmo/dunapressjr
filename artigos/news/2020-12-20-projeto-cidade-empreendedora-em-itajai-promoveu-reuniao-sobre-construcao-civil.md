@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Projeto Cidade Empreendedora promoveu ações de desenvolvimento com foco na construção civil. O Cidade Empreendedora é uma iniciativa da Secretaria de Desenvolvimento Econômico juntamente ao Sebrae Santa Catarina.
 
 A reunião, realizada na semana passada, tratou de assuntos como ações envolvendo as principais demandas e dores do setor da construção civil. Dentre essas demandas, o foco ficou na implementação de um plano comunicação do setor com a cidade em si, com o objetivo de conscientizar o visitante e o cidadão de Itajaí da importância econômica do setor e da cadeia civil para a constituição da ciadade.
@@ -28,8 +27,6 @@ Através do link abaixo você obtém 25% de desconto, também contribuirá com a
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
 Obrigado pelo apoio!
 
 Créditos: Marcos Porto/Secom Itajaí
@@ -44,7 +41,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

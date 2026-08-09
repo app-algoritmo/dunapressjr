@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Evidências raras de quando e como Jerusalém foi reassentada após o exílio babilônico de 586 AEC foram descobertas em uma escavação na Cidade de Davi, fora das muralhas da Cidade Velha.
 
 As duas recentes descobertas em uma escavação em andamento no estacionamento de Givati ​​- uma impressão de selo "oficial" de argila e um estranho selo de fragmento de cerâmica DIY com escrita falsa - ajudam a iluminar o enigma que é a história de Jerusalém do século 6 aC. Existem apenas 10 outros artefatos semelhantes descobertos em Israel que datam do período persa (cerca de 536 aC-333 aC).
@@ -82,7 +81,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

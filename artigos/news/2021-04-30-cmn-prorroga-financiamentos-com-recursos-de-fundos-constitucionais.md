@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Adiamento pretende aliviar prejuízos com pandemia.
 
 Os empreendedores que contraíram financiamentos especiais dos Fundos Constitucionais do Norte (FNO), do Nordeste (FNE) e do Centro-Oeste (FCO) no ano passado tiveram o vencimento das parcelas prorrogado até o fim do ano. A medida foi aprovada nesta quinta-feira (29) pelo Conselho Monetário Nacional (CMN), como medida de socorro por causa do agravamento da pandemia de covid-19.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

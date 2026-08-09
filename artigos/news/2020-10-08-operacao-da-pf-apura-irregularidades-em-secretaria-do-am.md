@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Investigações apontam fraudes na compra de respiradores.
 
 O vice-governador do Amazonas, Carlos Almeida (PTB), é um dos alvos nesta quinta-feira (8) da segunda a fase da Operação Sangria, que investiga desvios em recursos da Saúde no estado. A operação da Polícia Federal, com apoio da Controladoria-Geral da União foi autorizada pelo Superior Tribunal de Justiça (STJ) a pedido da Procuradoria-Geral da República (PGR).
@@ -23,5 +22,3 @@ Além de prisão e buscas, as medidas cautelares incluem o sequestro de bens e v
 Fonte: Agência Brasil – Imagem de destaque: Arquivo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

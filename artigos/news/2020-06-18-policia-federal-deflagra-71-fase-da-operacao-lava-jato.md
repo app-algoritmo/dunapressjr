@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Curitiba/PR** - A Polícia Federal deflagrou, nesta manhã (18/06), a **OPERAÇÃO SEM LIMITES II** - 71ª fase da Operação Lava Jato que mira área de Trading - compra e venda de petróleo, óleos combustíveis e derivados - de empresa estatal do ramo da exploração, produção, refino, comercialização e transporte de petróleo e derivados.
 
 Cerca de 40 policiais federais cumprem 14 ordens judiciais, sendo 12 mandados de busca e apreensão e 2 ofícios para obtenção de dados telemáticos. Também foram expedidas ordens para bloqueio de valores até o limite dos prejuízos identificados até o momento - cerca de R$ 17 milhões.
@@ -29,5 +28,3 @@ Em razão das restrições impostas pela pandemia da COVID-19 não haverá colet
  
 
 ***Comunicação Social da Polícia Federal em Curitiba-PR***
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

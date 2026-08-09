@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa sobe 2,1% e fecha no maior nível desde fim de abril.
 
 Num dia marcado por avanços nas negociações para o veto ao reajuste de servidores estaduais e municipais e por declarações do presidente do Banco Central (BC), o dólar caiu para a menor cotação em 17 dias. A bolsa de valores fechou no nível mais alto em quase um mês.
@@ -35,5 +34,3 @@ Há várias semanas, mercados financeiros em todo o planeta atravessam um perío
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

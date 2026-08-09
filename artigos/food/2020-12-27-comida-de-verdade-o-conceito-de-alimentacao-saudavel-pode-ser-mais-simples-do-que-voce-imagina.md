@@ -8,7 +8,6 @@ categories:
 - Food
 ---
 
-
 Já parou para pensar no conceito de alimentação saudável? Muita gente pode acabar associando o termo a alimentos “especiais”, mais caros, raros e pouco acessíveis. Mas a resposta para essa pergunta pode ser bem mais simples do que você imagina.
 
 Estamos falando da comida de verdade. Um conceito já bem conhecido por quem acompanha o [Guia Alimentar para a População Brasileira](https://bvsms.saude.gov.br/bvs/publicacoes/guia_alimentar_populacao_brasileira_2ed.pdf), elaborado pelo Ministério da Saúde. De acordo com a publicação, a regra de ouro para comer de forma saudável é basear a alimentação em alimentos *in natura* ou minimamente processados.
@@ -29,7 +28,7 @@ A nutricionista reforça ainda que quanto mais o nosso organismo estiver sadio, 
 
 Outro ponto importante a ser destacado é o papel que a alimentação exerce no contexto social. Muito mais que um ato de saciar a fome, fazer a refeição é também um momento de compartilhamento. Principalmente no contexto da pandemia, sentar-se à mesa na companhia de outras pessoas pode ser um instante de lazer, de socialização, de cumplicidade.
 
-“É importante a gente olhar a alimentação como um fator que vai além do que ela nos proporciona em questão de nutrientes que fazem bem a saúde, mas também como um elemento agregador e de diversificação das formas como as pessoas se relacionam dentro de casa”, encerra Elisabetta.  
+“É importante a gente olhar a alimentação como um fator que vai além do que ela nos proporciona em questão de nutrientes que fazem bem a saúde, mas também como um elemento agregador e de diversificação das formas como as pessoas se relacionam dentro de casa”, encerra Elisabetta.
 
 ## **Onde encontrar a comida de verdade durante a pandemia?**
 
@@ -54,7 +53,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

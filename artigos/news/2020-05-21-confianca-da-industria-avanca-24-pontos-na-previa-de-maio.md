@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Indicador chega a 60,6 pontos em uma escala de zero a 200.
 
 A prévia de maio do Índice de Confiança da Indústria cresceu 2,4 pontos em relação ao número consolidado de abril, quando houve forte retração devido à pandemia do novo coronavírus (covid-19). Com isso, o indicador chega a 60,6 pontos em uma escala de zero a 200.
@@ -21,5 +20,3 @@ O resultado preliminar de maio indica recuperação de 3,7 pontos percentuais do
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Nancho Doce/direitos reservados
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

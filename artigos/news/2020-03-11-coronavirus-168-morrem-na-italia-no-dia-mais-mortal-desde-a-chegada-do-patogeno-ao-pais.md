@@ -8,12 +8,11 @@ categories:
 - News
 ---
 
-
 A Itália registrou seu dia mais mortal da crise do coronavírus, apesar de fechar o país inteiro, enquanto que  Nova York implanta a Guarda Nacional para conter a doença.
 
 O país mais atingido na Europa registra o maior número de mortos pelo vírus Covid-19, que aumentou terça-feira em um terço para 631, com 10.149 infectados e com a crescente epidemia afetando eventos esportivos, culturais e políticos globais.
 
-[](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)Itália Johns Hopkins map 10.03.20
+Itália Johns Hopkins map 10.03.20
 
 Enquanto as autoridades da China, onde o surto começou, declararam que ele “basicamente coibiu”, os casos estão se multiplicando em todo o mundo, provocando pânico na compra de lojas e oscilações violentas nos mercados financeiros.
 

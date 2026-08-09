@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Tabela foi elaborada em 2018, após a greve dos caminhoneiros.
 
 Foi publicada nesta terça-feira (17) no *Diário Oficial da União (DOU)* a [**Medida Provisória (MP) 1117/2022**](https://www.in.gov.br/en/web/dou/-/medida-provisoria-n-1.117-de-16-de-maio-de-2022-400309305) que altera uma regra para a elaboração da tabela de preço do piso mínimo de frete rodoviário de carga. A MP reduz de 10% para 5% o percentual de variação no preço do diesel para a correção dos valores da tabela. [**A medida ocorre após o anúncio**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-05/petrobras-aumenta-em-887-preco-do-diesel) de mais uma alta no preço do óleo diesel na semana passada.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

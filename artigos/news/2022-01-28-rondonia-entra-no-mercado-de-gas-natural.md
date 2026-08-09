@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro participa de solenidade da abertura do mercado.
 
 O ministro de Minas e Energia, Bento Albuquerque, disse nesta quinta-feira (27) que a abertura do mercado de gás natural em Rondônia vai potencializar a exploração de gás na bacia dos rios Solimões e Amazonas, na Região Amazônica. A afirmação foi feita na solenidade do anúncio da abertura desse mercado no estado.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

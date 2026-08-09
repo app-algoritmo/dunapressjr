@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Exportações e importações do setor também cresceram, diz Abimaq.
 
 A receita líquida do setor de indústria de máquinas e equipamentos no país aumentou 21,6% em 2021, na comparação com o ano anterior, revela balanço da Associação Brasileira da Indústria de Máquinas e Equipamentos (Abimaq). A média mensal de receita em 2021 ficou em R$ 18,5 bilhões e o total anual, em R$ 222,4 bilhões.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

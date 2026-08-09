@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa caiu 1,19% em dia de pessimismo no exterior.
 
 Num dia marcado pelo pessimismo nos mercados internacionais e pela divulgação do exame que apontou a **[infecção por covid-19 no presidente Jair Bolsonaro](https://dunapress.org/2020/07/07/presidente-jair-bolsonaro-testa-positivo-para-covid-19/)**, o dólar subiu e a bolsa de valores, que nesta segunda-feira (6) tinha fechado no maior nível em quatro meses, caiu. O dólar comercial fechou esta terça-feira (7) vendido a R$ 5,386, com alta de R$ 0,034 (+0,63%).
@@ -28,4 +27,4 @@ Há várias semanas, mercados financeiros em todo o planeta atravessam um perío
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Israel teme que o Hezbollah do Líbano e os militantes do Hamas em Gaza possam usar imagens comerciais de satélite para planejar ataques com foguetes em importantes infraestruturas civis e militares.
 
 Uma autoridade israelense sinalizou um possível risco à segurança na segunda-feira, após uma medida dos EUA para permitir que fornecedores americanos vendam imagens de satélite mais claras de Israel e dos territórios palestinos.
@@ -43,6 +42,6 @@ Fonte The Jeruralem Post
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

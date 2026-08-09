@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dia 21 de julho é a data-limite para pedido de reconsideração à primeira análise das propostas de cursos novos. Já os recursos podem ser apresentados até o dia 22 deste mês.
 
 Termina na próxima semana o prazo para que as instituições de ensino superior (IES) possam contestar os resultados da Análise das Propostas de Cursos Novos ([APCN](http://www.capes.gov.br/avaliacao/entrada-no-snpg-propostas/resultados)), referentes ao ano de 2019, deliberadas na 196ª reunião do Conselho Técnico-Científico da Educação Superior ([CTC-ES](http://www.capes.gov.br/conselho-tecnico-cientifico-da-educacao-superior)).
@@ -23,7 +22,7 @@ Fonte: gov.br / Imagem em destaque: Capes
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

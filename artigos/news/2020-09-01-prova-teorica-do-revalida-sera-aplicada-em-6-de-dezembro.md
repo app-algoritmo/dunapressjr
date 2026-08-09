@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Exame, que não é aplicado desde 2017, avalia conhecimentos, habilidades e competências de quem fez Medicina no exterior e quer exercer a profissional no Brasil.
 
 O ministro da Educação, Milton Ribeiro, anunciou hoje (1º) que a prova teórica do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira (Revalida) será em 6 de dezembro. A avaliação é requisito indispensável para validar diplomas de médicos formados no exterior que querem atuar no Brasil.
@@ -36,5 +35,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

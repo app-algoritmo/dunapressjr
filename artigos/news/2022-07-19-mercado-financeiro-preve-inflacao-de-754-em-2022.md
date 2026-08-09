@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Expectativa é de que, em 2023, taxa caia para 5,2%.
 
 O mercado financeiro reduziu, pela terceira semana consecutiva, a expectativa para os índices inflacionários projetados para 2022. De acordo com o Boletim Focus, divulgado nesta segunda-feira (18), em Brasília, pelo Banco Central, o ano deve fechar com o Índice de Preços ao Consumidor Amplo (IPCA) em 7,54%. O IPCA é a inflação oficial do país. Na semana passada, a previsão era de uma inflação de 7,67%; e há quatro semanas, as projeções estavam em 8,27%.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

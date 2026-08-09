@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A logística reversa é um tipo de sistema específico que se concentra exclusivamente na locomoção e gerência do fluxo reverso de mercadorias e insumos após a venda. Com toda tecnologia à disposição, a logística reversa ainda é vista como um dos grandes desafios para o comércio eletrônico brasileiro.  As técnicas usadas são praticamente semelhantes nos mais diversos setores, porém, dentro do comércio virtual, uma operação de logística reversa eficiente pode determinar o sucesso ou não de qualquer empresa que trabalha nessa área.  A logística reversa vem se tornando o assunto mais popular na literatura de gestão de redes de suprimentos, transformando-se em objeto de pesquisa para vários autores. Apesar de apresentar um crescimento significativo, a logística reversa do comércio eletrônico (LReC) é ainda um tema pouco explorado, fato incoerente se comparado à importância crescente desse segmento na economia, mesmo tendo registrado um crescimento da ordem de 30% nos últimos anos. Uma das explicações apresentadas pela reduzida existência da pesquisa nessa área é a falta de troca de informações, difusão de conhecimento e quase ausência de participação da comunidade acadêmica no setor.
 
 A logística reversa do comércio eletrônico é vista como um processo mais difícil do que a do varejo tradicional, podendo representar até 6% da receita de um varejista e até 4% do custo logístico de um fabricante. A pesquisa teve como referência os Estados Unidos, onde a taxa de retorno do mercado eletrônico é estimada em 37% das vendas e o valor de revenda oscila entre 10% e 20 % do custo médio da venda. No Brasil, esses números ainda não são conhecidos, bem como os motivos da devolução dos produtos, a taxa de recuperação e o padrão de revenda. Esse estudo contribuiu para revelar alguns desses aspectos.
@@ -41,7 +40,3 @@ Fonte: https://canalciencia.ibict.br/ciencia-em-sintese
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

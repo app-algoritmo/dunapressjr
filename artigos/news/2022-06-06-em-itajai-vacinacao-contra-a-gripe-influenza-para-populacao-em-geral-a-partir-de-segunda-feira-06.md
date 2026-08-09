@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí abrirá a vacinação contra a gripe influenza para toda a população, com seis meses de idade ou mais, a partir de segunda-feira (06). A imunização será ofertada nas 30 unidades básicas de saúde da cidade, conforme horário de atendimento de cada uma. Para se vacinar, é necessário apresentar um documento de identificação com foto e a caderneta de vacinação.
 
 Mais de 19,5 mil pessoas foram imunizadas contra a influenza nas unidades de saúde de Itajaí neste ano. Deste total, 43,6% eram idosos, 31,6% eram crianças e 30,6% eram gestantes e trabalhadores da saúde, representando os grupos com maior procura pela vacina.
@@ -36,7 +35,3 @@ Fonte: https://itajai.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

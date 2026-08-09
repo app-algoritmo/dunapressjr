@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 Os grandes banquetes são as principais tradições das festas de Natal e Ano Novo. As ceias são ótimas oportunidades para reunir familiares e amigos em volta de uma mesa repleta de pratos deliciosos aguardados durante todo o ano. Porém, para garantir que as confraternizações não acabem com uma visita ao hospital é importante ter atenção redobrada com a conservação e manipulação dos alimentos para evitar as chamadas doenças transmitidas por alimentos.
 
 A analista do Departamento de Vigilância das Doenças Transmissíveis do Ministério da Saúde, Juliene Borges, monitora o perfil das doenças transmitidas por alimentos no país e esclarece que, em geral, as doenças não são graves, mas é preciso atenção. “As doenças transmitidas por alimentos geralmente envolvem sintomas no trato intestinal por um período limitado e normalmente os sintomas desaparecem em pouco tempo. Mas, é importante entender que algumas bactérias, por exemplo, podem atingir outros órgãos, o que é muito perigoso”, esclarece.
@@ -55,7 +54,3 @@ Fonte: http://www.blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

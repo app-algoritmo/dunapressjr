@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 [Juliana Nogueira](http://lattes.cnpq.br/2519437991952204) é bióloga formada pela Universidade do Estado do Rio de Janeiro (Uerj), mesma instituição em que cursou mestrado em Ecologia e Evolução com bolsa da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e [desvendou a origem dos nutrientes da Floresta Amazônica](https://www.nature.com/articles/s43247-020-00071-w). A pesquisadora também foi bolsista da Fundação no doutorado, em Geociências (Geoquímica Ambiental) pela Universidade Federal Fluminense (UFF), com período sanduíche no Instituto Francês de Pesquisa para o Desenvolvimento.
 
 **Fale um pouco sobre sua trajetória.**
@@ -59,7 +58,3 @@ Fonte: Capes
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

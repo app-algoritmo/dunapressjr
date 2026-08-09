@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Objetivo é dar maior visibilidade ao cenário de oportunidades de investimento verde no agronegócio brasileiro.
 
 Os sucessivos aumentos de produção e produtividade, obtidos a partir da utilização de modernas tecnologias e práticas sustentáveis no campo, contribuem para impulsionar o mercado de títulos verdes no Brasil. A avaliação consta do Plano de Investimento para Agricultura Sustentável lançado nesta terça-feira (23) pelo Ministério da Agricultura, Pecuária e Abastecimento (Mapa) e a Climate Bonds Initiative (CBI), durante o webinar “Destravando o Potencial de Investimento Verdes para Agricultura no Brasil”.
@@ -26,7 +25,7 @@ No webinar, o ministro da Infraestrutura, Tarcísio Gomes de Freitas, destacou q
 
 Já o presidente do Banco Central, Roberto Campos Neto, apontou que a governança sustentável passou a ser tema na agenda de todos os Bancos Centrais do mundo. Segundo Campos Neto, o Brasil tem um grande potencial nas finanças  verdes, que precisa ser desenvolvida. Ele citou, por exemplo, que somente 20% das emissões de** **carbono do país são precificadas. “As políticas de governança influenciam nos investimentos. Nós podemos e devemos participar mais deste mercado”.
 
-Para a presidente do Banco UBS no Brasil, Sylvia Coutinho, o Brasil dispõe de todas as condições para se tornar o líder mundial em investimentos verdes, destacando a Lei 13.986, que torna os títulos de crédito do agronegócio mais simples, menos burocráticos e flexíveis para o mercado financeiro verde.  A executiva mencionou que uma pesquisa com 3 mil investidores de 85 países revelou que os investidores brasileiros lideram ranking como os mais estão atentos ao tema ao destinar recursos para empreendimentos. “O Brasil tem os maiores ativos ambientais do planeta e o mais competitivo agronegócio do planeta”.  
+Para a presidente do Banco UBS no Brasil, Sylvia Coutinho, o Brasil dispõe de todas as condições para se tornar o líder mundial em investimentos verdes, destacando a Lei 13.986, que torna os títulos de crédito do agronegócio mais simples, menos burocráticos e flexíveis para o mercado financeiro verde.  A executiva mencionou que uma pesquisa com 3 mil investidores de 85 países revelou que os investidores brasileiros lideram ranking como os mais estão atentos ao tema ao destinar recursos para empreendimentos. “O Brasil tem os maiores ativos ambientais do planeta e o mais competitivo agronegócio do planeta”.
 
 De acordo com o diretor de investimentos do PGGM (fundo de pensão da Europa), Jeroen Verleum, o país necessita capacitar os investidores para ampliar a aplicação de recursos nas finanças verdes.
 
@@ -66,7 +65,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

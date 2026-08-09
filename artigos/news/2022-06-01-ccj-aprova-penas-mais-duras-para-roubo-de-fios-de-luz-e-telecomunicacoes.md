@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Comissão de Constituição e Justiça e de Cidadania (CCJ) da Câmara dos Deputados aprovou projeto de lei que estabelece penas mais duras para o roubo ou furto de fios de telecomunicações e energia elétrica. A proposta ainda deve ser analisada pelo Plenário.
 
 Segundo as regras aprovadas pela comissão, o furto de fios e cabos será considerado qualificado, com pena de reclusão de 3 a 8 anos. Já a pena de roubo, de 4 a 10 anos de reclusão, será aumentada de 1/3 até a metade.
@@ -48,7 +47,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

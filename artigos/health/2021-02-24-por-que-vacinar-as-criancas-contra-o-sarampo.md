@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Sarampo é um vírus altamente contagioso e a infecção causada por ele pode ter sérias consequências para a saúde, sobretudo das crianças menores de um ano, podendo levar à morte. Mas, a boa notícia é que, mesmo sendo uma doença grave, é possível combatê-la com a vacina.
 
 A vacinação é uma das medidas mais importantes de prevenção contra doenças, a forma mais eficaz de proteger crianças, adolescentes e adultos. Quando a pessoa é vacinada, seu corpo detecta a substância e produz uma defesa, os anticorpos, e são esses anticorpos que permanecem no organismo e evitam que a doença ocorra no futuro.
@@ -44,7 +43,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

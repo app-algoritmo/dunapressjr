@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estatal diz que teve pedidos de gasolina e diesel muito acima da média.
 
 A Petrobras informou, nesta terça-feira (19), que recebeu para o mês de novembro pedidos de fornecimento de diesel e gasolina muito acima dos meses anteriores e de sua capacidade de produção. O comunicado da empresa foi publicado após texto divulgado pela Associação das Distribuidoras de Combustíveis (Brasilcom), dizendo que o setor comercial da estatal informou "uma série de cortes unilaterais" nos pedidos feitos para compra de gasolina e óleo diesel para novembro.
@@ -30,10 +29,6 @@ A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), emitiu 
 
 Fonte: Agência Brasil – Imagem: Marcello Casal Jr./Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

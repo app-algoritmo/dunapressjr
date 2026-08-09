@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Essa doença acontece porque a parte branca dos olhos, que é revestida por uma membrana transparente chamada conjuntiva, pode inflamar e assim causar a conjuntivite. Além disso, a conjuntivite também pode ocorrer com a inflamação do interior das pálpebras.
 
 Uma das causas mais comum da doença é o pólen espalhado no ar, sendo classificada como conjuntivite primaveril, ou febre do feno. A conjuntivite também pode ser causada por reações alérgicas a fumaça, cloro de piscinas, produtos de limpeza ou de maquiagem, poluição e etc.
@@ -53,7 +52,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

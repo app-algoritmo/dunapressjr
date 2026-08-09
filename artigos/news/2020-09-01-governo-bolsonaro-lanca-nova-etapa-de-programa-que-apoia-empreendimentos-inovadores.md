@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Programa Centelha é uma iniciativa do Ministério da Ciência, Tecnologia e Inovações (MCTI) e parceiros. MCTI divulgou dois editais do Programa Centelha nesta segunda-feira (31).
 
 Para incentivar a inovação no país, foi lançado, nesta segunda-feira (31), a segunda edição do Programa Nacional de Apoio à Geração de Empreendimentos Inovadores - Programa Centelha. A iniciativa é do Ministério da Ciência, Tecnologia e Inovações (MCTI) e parceiros.
@@ -47,5 +46,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

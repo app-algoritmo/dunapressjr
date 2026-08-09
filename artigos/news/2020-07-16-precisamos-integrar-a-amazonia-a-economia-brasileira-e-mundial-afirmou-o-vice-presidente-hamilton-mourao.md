@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O vice-presidente da República, Hamilton Mourão, comandou, nesta quarta-feira (15), a 2ª Reunião do Conselho Nacional da Amazônia Legal. Mourão afirmou que é preciso atacar as causas do desmatamento ilegal na Amazônia e levar a região o desenvolvimento econômico sustentável.
 
 “Precisamos atacar as causas do desmatamento ilegal de modo a permitir que a liberdade econômica possa prosperar em território amazônico no marco do Estado de Direito e em conformidade com a legislação ambiental brasileira”, disse Mourão, que é o coordenador do conselho, ao discursar na abertura da reunião.
@@ -31,7 +30,7 @@ Segundo Mourão, é preciso mostrar à comunidade internacional que o governo te
 
 ### Conselho Nacional da Amazônia
 
-Criado há cinco meses, o conselho tem como objetivo integrar e coordenar as ações governamentais para Amazônia Legal. Entre as principais atribuições estão: coordenar e integrar as ações governamentais relacionadas à Amazônia Legal, propor políticas e iniciativas relacionadas à preservação, à proteção e ao desenvolvimento sustentável, de forma a contribuir para o fortalecimento das políticas de Estado e assegurar a ação transversal e coordenada da União, dos Estados, dos Municípios, da sociedade civil e do setor privado. 
+Criado há cinco meses, o conselho tem como objetivo integrar e coordenar as ações governamentais para Amazônia Legal. Entre as principais atribuições estão: coordenar e integrar as ações governamentais relacionadas à Amazônia Legal, propor políticas e iniciativas relacionadas à preservação, à proteção e ao desenvolvimento sustentável, de forma a contribuir para o fortalecimento das políticas de Estado e assegurar a ação transversal e coordenada da União, dos Estados, dos Municípios, da sociedade civil e do setor privado.
 
 “Trata-se do resgate de uma visão de longo alcance para superação dos desafios da Amazônia, tem como prioridade imediata o combate ao desmatamento ilegal e às queimadas”, explicou Mourão.
 
@@ -43,6 +42,6 @@ Confira [aqui](https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Reembolso continuará a ser feito entre maio e setembro.
 
 **[A decisão da Receita Federal de adiar em um mês ](https://dunapress.org/2021/04/12/receita-adia-o-prazo-de-entrega-da-declaracao-de-imposto-de-renda/)**o prazo de entrega da declaração do Imposto de Renda Pessoa Física (IRPF) não alterou o calendário de restituições. O contribuinte continuará a receber o reembolso em cinco lotes mensais, de 31 de maio a 30 de setembro.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

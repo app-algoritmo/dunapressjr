@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Ministro Jorge Oliveira participou da cerimônia ao lado do presidente Bolsonaro e do ministro André Mendonça.
 
 Nesta quinta-feira (25), o ministro da Secretaria-Geral, Jorge Oliveira, participou da cerimônia de inauguração da Galeria de Heróis do Programa VIGIA, realizada pelo presidente Jair Bolsonaro e pelo ministro da Justiça e Segurança Pública, André Mendonça.
@@ -25,7 +24,7 @@ Imagem: Marcos Corrêa/PR
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

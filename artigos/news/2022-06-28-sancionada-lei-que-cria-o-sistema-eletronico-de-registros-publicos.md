@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O Serp moderniza os serviços de cartórios de registros públicos e traz impactos na redução da burocracia e na melhoria do ambiente de negócios do país.
 
 O presidente da República sancionou nesta segunda-feira (27) a Lei que implementa o Sistema Eletrônico de Registros Públicos (Serp) e moderniza o serviço cartorial no país. A aprovação possibilita que os cidadãos acessem registros públicos pela internet com maior agilidade.
@@ -34,8 +33,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

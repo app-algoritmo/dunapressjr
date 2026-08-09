@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Justiça e Segurança Pública superou a meta de 100 leilões de bens apreendidos de criminosos em 2020. Até o fim de novembro, um mês antes do planejado, 107 leilões foram promovidos pela Secretaria Nacional de Políticas sobre Drogas (Senad). O total é 907% superior ao número de hastes públicas abertas em 2019, quando foram feitos 11 leilões.
 
 Segundo o secretário Nacional de Políticas sobre Drogas, Luiz Roberto Beggiora, para viabilizar esse avanço histórico, foram contratados leiloeiros em todo o Brasil a custo zero para a União. “O recorde é resultado do trabalho integrado e parcerias estratégicas, que contribuíram para a arrecadação de mais de R$ 125 milhões este ano”, afirma o secretário.
@@ -37,7 +36,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

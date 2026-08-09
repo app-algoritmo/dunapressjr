@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Foram destacados cerca de 100 agentes de segurança para impedir que novos ataques aconteçam.
 
 O Ministério da Justiça autorizou o envio de agentes da Força Nacional para acompanhar os trabalhos dos servidores do Instituto Nacional de Colonização e Reforma Agrária (Incra) no processo de titulação nos projetos de assentamentos da Reforma Agrária localizados nos municípios de Mucuri e Prado, no extremo Sul da Bahia.
@@ -25,5 +24,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

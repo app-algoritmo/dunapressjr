@@ -7,20 +7,19 @@ categories:
 - News
 ---
 
-
 ## Pandemia provocou a alta do desemprego no mercado de trabalho.
 
-A taxa média de desemprego no país atingiu 13,5% em 2020, enquanto em 2019 foi de 11,9%. Os efeitos da pandemia da covid-19 sobre o mercado de trabalho provocaram alta recorde de desemprego em 20 estados. Ficaram de fora da lista Pará, Amapá, Tocantins, Piauí, Pernambuco, Espírito Santo e Santa Catarina. 
+A taxa média de desemprego no país atingiu 13,5% em 2020, enquanto em 2019 foi de 11,9%. Os efeitos da pandemia da covid-19 sobre o mercado de trabalho provocaram alta recorde de desemprego em 20 estados. Ficaram de fora da lista Pará, Amapá, Tocantins, Piauí, Pernambuco, Espírito Santo e Santa Catarina.
 
-As taxas mais elevadas de desemprego foram registradas no Nordeste e as menores no Sul do país. A Bahia, com 19,8%, teve a maior taxa de desocupação em 2020, seguida de Alagoas (18,6%), Sergipe (18,4%) e Rio de Janeiro (17,4%). Já Santa Catarina (6,1%), Rio Grande do Sul (9,1%) e Paraná (9,4%) tiveram as mais baixas. 
+As taxas mais elevadas de desemprego foram registradas no Nordeste e as menores no Sul do país. A Bahia, com 19,8%, teve a maior taxa de desocupação em 2020, seguida de Alagoas (18,6%), Sergipe (18,4%) e Rio de Janeiro (17,4%). Já Santa Catarina (6,1%), Rio Grande do Sul (9,1%) e Paraná (9,4%) tiveram as mais baixas.
 
-Os dados fazem parte da Pesquisa Nacional por Amostra de Domicílios Contínua (Pnad Contínua), divulgada hoje (10) pelo Instituto Brasileiro de Geografia e Estatística (IBGE), que aponta que o percentual de 2020 é o maior da série histórica iniciada em 2012. 
+Os dados fazem parte da Pesquisa Nacional por Amostra de Domicílios Contínua (Pnad Contínua), divulgada hoje (10) pelo Instituto Brasileiro de Geografia e Estatística (IBGE), que aponta que o percentual de 2020 é o maior da série histórica iniciada em 2012.
 
 ## Ocupação
 
 Segundo o IBGE, no intervalo de um ano, a população ocupada no país teve menos 7,3 milhões de pessoas, o que resultou no menor número da série histórica de médias anuais, de 86,1 milhões. Conforme a pesquisa, pela primeira vez, menos da metade da população em idade para trabalhar estava ocupada no país. Em 2020, o nível de ocupação ficou em 49,4%.
 
-O nível de ocupação ficou abaixo de 50% no ano passado em 15 estados, sendo todos no Nordeste. Em Alagoas, apenas 35,9% das pessoas em idade para trabalhar estavam ocupadas. No Sudeste, no Rio de Janeiro apenas 45,4% tinham um trabalho. O estado com maior nível de ocupação no ano passado foi Mato Grosso, com uma taxa de 58,7%. 
+O nível de ocupação ficou abaixo de 50% no ano passado em 15 estados, sendo todos no Nordeste. Em Alagoas, apenas 35,9% das pessoas em idade para trabalhar estavam ocupadas. No Sudeste, no Rio de Janeiro apenas 45,4% tinham um trabalho. O estado com maior nível de ocupação no ano passado foi Mato Grosso, com uma taxa de 58,7%.
 
 A Pnad Contínua mostrou também que a queda da ocupação foi espalhada entre todos os trabalhadores.
 
@@ -34,7 +33,7 @@ A analista da pesquisa Adriana Beringuy, destacou que os informais foram os prim
 
 ## Quarto trimestre
 
-No último trimestre de 2020, a taxa de desocupação recuou para 13,9%, depois de atingir 14,6% no terceiro trimestre, o maior patamar já registrado na comparação trimestral. 
+No último trimestre de 2020, a taxa de desocupação recuou para 13,9%, depois de atingir 14,6% no terceiro trimestre, o maior patamar já registrado na comparação trimestral.
 
 Conforme a Pnad Contínua, a queda foi registrada em apenas em cinco estados. Os demais ficaram estáveis. Bahia e Alagoas, ambos com 20%, tiveram as maiores taxas. Na sequência ficou o Rio de Janeiro, com 19,4%. As menores taxas foram notadas em Santa Catarina (5,3%), no Rio Grande do Sul (8,4%) e em Mato Grosso do Sul (9,3%).
 
@@ -48,7 +47,7 @@ A taxa de desocupação para as pessoas com ensino médio incompleto (23,7%) foi
 
 ## Subutilização
 
-A Bahia (33,3%), Piauí (33,3%) e Sergipe (32,2%) foram os estados que registraram as maiores taxas compostas de subutilização da força de trabalho, que é o percentual de pessoas desocupadas, subocupadas por insuficiência de horas trabalhadas e na força de trabalho potencial em relação à força de trabalho ampliada. 
+A Bahia (33,3%), Piauí (33,3%) e Sergipe (32,2%) foram os estados que registraram as maiores taxas compostas de subutilização da força de trabalho, que é o percentual de pessoas desocupadas, subocupadas por insuficiência de horas trabalhadas e na força de trabalho potencial em relação à força de trabalho ampliada.
 
 De acordo com a pesquisa, 13 unidades da federação ficaram abaixo da média nacional, de 20,7%. A menor foi em Santa Catarina (7,5%), seguida do Rio Grande do Sul, Mato Grosso do Sul e Mato Grosso, os três com 14,1%.
 
@@ -58,8 +57,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

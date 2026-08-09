@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dinheiro sairá do superávit financeiro em operação autorizada pela Emenda Constitucional 109, oriunda da PEC Emergencial.
 
 A Secretaria de Orçamento Federal (SOF) publicou portaria para alocar R$ 140,9 bilhões oriundos do superávit financeiro do Tesouro Nacional na quitação do serviço (juros) da dívida pública. A operação, que poderá reduzir a emissão de novos títulos, decorre da [recém-promulgada](https://www.camara.leg.br/noticias/736147-CONGRESSO-PROMULGA-EMENDA-CONSTITUCIONAL-QUE-GARANTE-VOLTA-DO-AUXILIO-EMERGENCIAL) Emenda Constitucional 109.
@@ -20,10 +19,6 @@ Líderes de oposição na Câmara e no Senado criticaram o fato de a EC 109 perm
 
 Fonte: Agência Câmara de Notícias
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

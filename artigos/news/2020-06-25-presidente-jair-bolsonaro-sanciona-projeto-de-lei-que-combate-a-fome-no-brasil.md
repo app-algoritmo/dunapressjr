@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Objetivo é evitar desperdício de alimentos e dispor sobre doação para grupos vulneráveis.
 
 O Projeto de Lei de nº 1.194/2020, que dispõe sobre o combate ao desperdício de alimentos e a doação de excedentes de alimentos para o consumo humano foi sancionado pelo Presidente da República, Jair Bolsonaro.
@@ -20,7 +19,7 @@ O objetivo da proposta é consolidar a legislação, com vistas ao combate à fo
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

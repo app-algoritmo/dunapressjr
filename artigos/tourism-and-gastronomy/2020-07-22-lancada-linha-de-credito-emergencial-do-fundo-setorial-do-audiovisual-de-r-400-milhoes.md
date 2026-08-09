@@ -8,10 +8,9 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Recursos executados por BNDES e BRDE serão destinados à manutenção de empregos e à preservação das atividades da cadeia produtiva do setor.
 
-De forma a apoiar o setor audiovisual, mitigando os impactos da COVID-19, foi lançada nesta segunda-feira, 20 de julho, a linha de crédito emergencial do Fundo Setorial do Audiovisual (FSA), no valor de R$ 400 milhões. Os recursos serão destinados à manutenção dos empregos e à preservação de atividades da cadeia produtiva do setor. A iniciativa foi proposta pela Agência Nacional do Cinema (ANCINE), aprovada pelo Comitê Gestor do FSA e será executada pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES) e pelo Banco Regional de Desenvolvimento do Extremo Sul (BRDE). 
+De forma a apoiar o setor audiovisual, mitigando os impactos da COVID-19, foi lançada nesta segunda-feira, 20 de julho, a linha de crédito emergencial do Fundo Setorial do Audiovisual (FSA), no valor de R$ 400 milhões. Os recursos serão destinados à manutenção dos empregos e à preservação de atividades da cadeia produtiva do setor. A iniciativa foi proposta pela Agência Nacional do Cinema (ANCINE), aprovada pelo Comitê Gestor do FSA e será executada pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES) e pelo Banco Regional de Desenvolvimento do Extremo Sul (BRDE).
 
 A linha emergencial foi aprovada na primeira reunião do Comitê presidida pelo Ministro do Turismo, Marcelo Álvaro Antônio. “O setor audiovisual é estratégico para a economia, gerador de renda e de empregos, e por isso, deve ter toda a atenção do governo nesse momento. Esse auxílio chega para garantir que postos de trabalho sejam mantidos e que as atividades do setor possam, em breve, voltar com o vigor de sempre”, disse o Ministro.
 
@@ -51,7 +50,7 @@ Imagem: Clara Angeleas/Secretaria Especial da Cultura
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

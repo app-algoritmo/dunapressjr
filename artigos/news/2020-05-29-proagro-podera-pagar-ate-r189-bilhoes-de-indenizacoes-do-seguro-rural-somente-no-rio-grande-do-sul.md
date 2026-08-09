@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-O Programa de Garantia da Atividade Rural (Proagro) e as companhias de seguros podem desembolsar até R$ 1,89 bilhão em pagamento de indenizações aos produtores rurais no Rio Grande do Sul devido à seca na safra 2019/20, que trouxe perda de produtividade, principalmente nas culturas de milho e soja. A informação faz parte de um levantamento do Departamento de Gestão de Riscos da Secretaria de Política Agrícola do Ministério da Agricultura, Pecuária e Abastecimento, com dados do Programa de Seguro Rural (PSR) e do Banco Central.  
+O Programa de Garantia da Atividade Rural (Proagro) e as companhias de seguros podem desembolsar até R$ 1,89 bilhão em pagamento de indenizações aos produtores rurais no Rio Grande do Sul devido à seca na safra 2019/20, que trouxe perda de produtividade, principalmente nas culturas de milho e soja. A informação faz parte de um levantamento do Departamento de Gestão de Riscos da Secretaria de Política Agrícola do Ministério da Agricultura, Pecuária e Abastecimento, com dados do Programa de Seguro Rural (PSR) e do Banco Central.
 
 O Banco Central,administrador do Proagro, estimou as indenizações em R$ 906 milhões. Muitas análises estão em curso nas instituições financeiras, mas R$ 455 milhões já estarão pagos até fim de maio.
 
@@ -55,17 +54,17 @@ O Programa de Seguro Rural (PSR) tem como objetivo auxiliar financeiramente o pr
 
 A relação de produtores beneficiados até o mês de abril [está disponível no site do Ministério da Agricultura](https://www.gov.br/riscos-seguro/seguro-rural/produtores-beneficiados). No link, é possível selecionar o estado onde está localizada a propriedade rural e buscar o nome do segurado. Em junho será divulgada nova lista de beneficiários do PSR.
 
-Mais informações sobre o seguro rural estão no [Guia dos Seguros Rurais](https://www.gov.br/riscos-seguro/seguro-rural/publicacoes-seguro-rural/guia-dos-seguros-rurais). 
+Mais informações sobre o seguro rural estão no [Guia dos Seguros Rurais](https://www.gov.br/riscos-seguro/seguro-rural/publicacoes-seguro-rural/guia-dos-seguros-rurais).
 
 **Como participar**
 
-Para ter acesso ao programa, o produtor deve formalizar uma proposta de seguro rural, por intermédio de uma corretora de seguros ou instituição financeira, em uma das seguradoras habilitadas no programa (atualmente são 14 empresas). A subvenção ao prêmio varia entre 20% e 40%, dependendo da modalidade e tipo de seguro rural contratado. 
+Para ter acesso ao programa, o produtor deve formalizar uma proposta de seguro rural, por intermédio de uma corretora de seguros ou instituição financeira, em uma das seguradoras habilitadas no programa (atualmente são 14 empresas). A subvenção ao prêmio varia entre 20% e 40%, dependendo da modalidade e tipo de seguro rural contratado.
 
 https://www.youtube.com/embed/Y9Egch-3xaY
 
-Em seguida, a seguradora envia, via sistema, a proposta ao Mapa para validação. A proposta pode ser aprovada ou reprovada, a depender de alguns critérios, tais como: limite financeiro disponível para o segurado - para cada CPF/CNPJ é limitado o valor de R$ 48 mil por ano na modalidade agrícola e R$ 24 mil nas demais modalidades (aquícola, florestas e pecuária); limite financeiro disponível para a cultura/atividade indicada na proposta - para cada grupo de culturas existe um valor limitado por ano, por exemplo, R$ 100 milhões para grãos de inverno, R$ 200 milhões para grãos de verão, R$ 50 milhões para frutas, R$ 5 milhões para pecuária, etc e regularidade no Cadin: o CPF/CNPJ não pode estar inadimplente com a União. 
+Em seguida, a seguradora envia, via sistema, a proposta ao Mapa para validação. A proposta pode ser aprovada ou reprovada, a depender de alguns critérios, tais como: limite financeiro disponível para o segurado - para cada CPF/CNPJ é limitado o valor de R$ 48 mil por ano na modalidade agrícola e R$ 24 mil nas demais modalidades (aquícola, florestas e pecuária); limite financeiro disponível para a cultura/atividade indicada na proposta - para cada grupo de culturas existe um valor limitado por ano, por exemplo, R$ 100 milhões para grãos de inverno, R$ 200 milhões para grãos de verão, R$ 50 milhões para frutas, R$ 5 milhões para pecuária, etc e regularidade no Cadin: o CPF/CNPJ não pode estar inadimplente com a União.
 
-Caso a proposta seja aprovada, está garantida a subvenção federal. Caso contrário, a seguradora fica sabendo de imediato (via sistema) que a proposta foi reprovada e tem a obrigação de informar para a corretora de seguros ou instituição financeira essa situação. 
+Caso a proposta seja aprovada, está garantida a subvenção federal. Caso contrário, a seguradora fica sabendo de imediato (via sistema) que a proposta foi reprovada e tem a obrigação de informar para a corretora de seguros ou instituição financeira essa situação.
 
 Uma vez aprovada a proposta, a seguradora emite a apólice do segurado e o Mapa transfere o respectivo valor da subvenção federal para a seguradora, de acordo com o prazo contratual estabelecido entre as partes (Mapa e empresa). Como exemplo: Valor da apólice: R$ 10 mil - Valor pago pelo produtor: R$ 6 mil - Valor pago pelo Governo Federal (subvenção): R$ 4 mil.
 
@@ -92,8 +91,6 @@ Uma vez aprovada a proposta, a seguradora emite a apólice do segurado e o Mapa 
 **R$ 906 MILHÕES **estão estimados em indenizações no Proagro**, **que depende de análises em curso. Em torno de R$ 395 milhões já pagos e R$ 60 milhões a pagar até final de maio.
 
 Fonte: MAPA / Imagem em destaque: gov.br
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

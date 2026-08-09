@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Saúde aprovou nesta sexta-feira (1º) a incorporação do primeiro medicamento para o tratamento da Covid-19 no Sistema Único de Saúde (SUS). A decisão foi publicada por meio da Portaria nº 34/2022 assinada pela Secretaria de Ciência e Tecnologia e Insumos Estratégicos (SCTIE) no Diário Oficial da União. O medicamento baricitinibe será disponibilizado para tratamento de pacientes adultos hospitalizados que necessitam de oxigênio por máscara ou cateter nasal.
 
 O baricitinibe já tem registro no Brasil para o tratamento de artrite reumatoide ativa moderada a grave e dermatite atópica moderada a grave.
@@ -30,7 +29,3 @@ Fonte: https://www.gov.br/saude
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

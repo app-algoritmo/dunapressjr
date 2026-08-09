@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 **Bolsa de valores subiu 1,29% e voltou a superar 104 mil pontos**.
 
 A redução dos juros básicos para o menor nível da história e divulgação de dados de emprego no Brasil e nos Estados Unidos fizeram o dólar fechar no maior valor em 20 dias. O dólar comercial encerrou esta quinta-feira (6) vendido a R$ 5,343, com alta de R$ 0,049 (+0,93%). A cotação está no maior valor desde 17 de julho, quando tinha fechado em R$ 5,382.
@@ -26,4 +25,4 @@ O Ministério da Economia também divulgou as estatísticas de seguro-desemprego
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

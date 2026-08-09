@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Valor mínimo para cada família é R$ 400.
 
 A Caixa Econômica Federal paga hoje (16) a parcela de fevereiro do Auxílio Brasil aos beneficiários com Número de Inscrição Social (NIS) de final 3. O valor mínimo do benefício é R$ 400. As datas seguirão modelo do Bolsa Família, que pagava beneficiários nos dez últimos dias úteis do mês.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

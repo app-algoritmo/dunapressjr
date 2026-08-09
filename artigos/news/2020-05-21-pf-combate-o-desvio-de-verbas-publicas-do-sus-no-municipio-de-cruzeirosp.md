@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Cruzeiro/SP – A Polícia Federal, em conjunto com a Controladoria Geral da União, deflagrou nesta quinta-feira (21/5) a Operação MEDCRUZ, voltada ao combate do desvio de verbas públicas do Sistema Único de Saúde (SUS) destinadas à Prefeitura do Município de Cruzeiro/SP.
 
 A operação consiste no cumprimento de 15 mandados de busca e apreensão expedidos pela 1ª Vara Federal de Guaratinguetá/SP. As ações policiais ocorrem nas cidades de Cruzeiro/SP, Piquete/SP, Taubaté/SP, Poá/SP, Mogi das Cruzes/SP, Suzano/SP e Resende/RJ. Ao todo, estão sendo mobilizados 62 policiais federais e 5 auditores da CGU. Além dos mandados de busca e apreensão expedidos, a Justiça Federal decretou ainda o afastamento cautelar da função pública exercida por investigados e o sequestro dos bens dos envolvidos.
@@ -23,5 +22,3 @@ O prejuízo estimado, até o ano de 2018, é de mais de R$ 3,5 milhões. Todavia
 Os investigados responderão, na medida de suas responsabilidades, pelos crimes de fraude a licitações, falsidade documental, peculato, corrupção passiva, lavagem de dinheiro e organização criminosa, cujas penas cominadas podem chegar a 49 anos de prisão.
 
 Comunicação Social da Polícia Federal em Cruzeiro
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dados mostram um aumento de 13,4% nas matrículas, em relação a 2018; cursos de qualificação profissional tiveram maior expansão: de 135 mil para 184 mil matriculados.
 
 Ao longo de 2019, a Rede Federal de Educação Profissional, Científica e Tecnológica (conjunto de instituições, como institutos federais e escolas técnicas ligadas às universidades federais), vinculada ao Ministério da Educação, atendeu a um total de 1.023.303 estudantes, o que representa uma expansão de 13,4% em relação ao ano anterior. Esses são alguns dados disponibilizados na [Plataforma Nilo Peçanha](http://plataformanilopecanha.mec.gov.br/) ([PNP](http://plataformanilopecanha.mec.gov.br/)), um ambiente virtual em que constam as estatísticas oficiais da Rede Federal. A ferramenta disponibiliza levantamentos que são feitos anualmente e recebem o mesmo nome da plataforma (PNP). Estão disponíveis: a PNP 2018 (ano-base 2017), a PNP 2019 (ano-base 2018) e, neste mês, foi publicada a PNP 2020 (ano-base 2019).
@@ -32,7 +31,7 @@ Fonte: gov.br / Imagem em destaque: portalmec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

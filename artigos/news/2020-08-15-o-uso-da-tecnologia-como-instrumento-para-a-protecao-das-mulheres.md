@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A pandemia de Covid-19 provocou uma verdadeira revolução digital em diversos setores da sociedade. Para adaptar-se à nova realidade, o Governo Federal lançou diversos recursos on-line para o enfrentamento à violência contra a mulher. As afirmações são da secretária nacional de Políticas para as Mulheres, Cristiane Britto, que participou, nesta sexta-feira (14), de webinário sobre os 14 anos da Lei Maria da Penha.
 
 As iniciativas do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) foram apresentadas pela gestora no evento que teve como tema "Olhar para o futuro: Políticas inovadoras, boas práticas de prevenção e resposta, e as ferramentas digitais".
@@ -46,6 +45,6 @@ Fonte Gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)****

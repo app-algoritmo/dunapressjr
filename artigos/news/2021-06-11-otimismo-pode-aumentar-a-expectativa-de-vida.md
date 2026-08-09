@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Pesquisadores da Universidade Hebraica acompanharam 1.200 residentes de Jerusalém por 30 anos, medindo sua visão positiva da vida.
 
 Pesquisadores da Universidade Hebraica de Jerusalém dizem que permanecer otimista e olhar positivamente para a existência pode ter um efeito sobre a expectativa de vida em um novo estudo que está sendo feito a longo prazo.
@@ -37,7 +36,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

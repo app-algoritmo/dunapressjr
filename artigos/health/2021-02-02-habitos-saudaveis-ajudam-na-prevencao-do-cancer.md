@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Dia 02 de fevereiro marca o Dia Mundial do Câncer, uma doença que não é única e sim um conjunto de doenças que podem acometer diversas partes do corpo. “O câncer tem como causa uma variedade de fatores, que nós chamamos fatores de risco, cuja maioria se relaciona com o ambiente externo ou com aquilo que nós colocamos no nosso organismo”, explicou Inez Gadelha, Chefe de Gabinete da Secretaria de Atenção Especializada do Ministério da Saúde.
 
 A data é relevante para a conscientização em todo o mundo. Segundo informações do Instituto Nacional do Câncer (Inca), a epidemia global de câncer tende a aumentar nos próximos anos. Atualmente, 7,6 milhões de pessoas no planeta morrem em decorrência da doença a cada ano. Dessas, 4 milhões têm entre 30 e 69 anos.
@@ -26,7 +25,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

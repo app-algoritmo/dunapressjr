@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Gasolina e o gás de cozinha tiveram seus preços mantidos.
 
 A Petrobras anunciou nesta segunda-feira (9) um reajuste de 8,87% no preço do diesel para as distribuidoras. De acordo com a empresa, o preço do litro do combustível no atacado passará de R$ 4,51 para R$ 4,91, um aumento de R$ 0,40 a partir desta terça-feira (10).
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

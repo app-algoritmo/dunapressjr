@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa subiu 0,87%, impulsionada por alívio externo.
 
 Num dia de tensão e de volatilidade no mercado financeiro, o dólar desacelerou ao longo da tarde e fechou próximo de R$ 5,20, após rondar os R$ 5,30 durante a sessão. A bolsa de valores iniciou o dia em forte queda e recuperou-se durante o dia, influenciada pela valorização das commodities (bens primários com cotação internacional) e pelo alívio no mercado externo.
@@ -22,10 +21,6 @@ No caso da bolsa, a divulgação dos lucros dos bancos no segundo trimestre ajud
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

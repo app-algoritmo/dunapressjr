@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A declaração foi feita durante palestra do Council of the Americas.
 
 O presidente do Banco Central, Roberto Campos Neto, disse nesta quarta-feira (19) que ruídos no cenário político têm levado o mercado a aumentar as projeções de inflação do Brasil. “Há muito ruído na parte do funcionamento institucional do Brasil, a briga entre Poderes”, destacou em palestra virtual do Council of the Americas.
@@ -30,10 +29,6 @@ Para o presidente do BC, o descontrole nos preços, inclusive, é um dos fatores
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

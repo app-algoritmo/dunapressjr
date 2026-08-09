@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Programa criado pelo ME estabeleceu comitês temáticos e um índice para monitorá-los, fazendo com que decisões sejam tomadas de forma mais rápida, com melhores resultados.
 
 O Programa de Integração, Governança e Estratégia do Ministério da Economia ([Integra](https://www.gov.br/economia/pt-br/acesso-a-informacao/acoes-e-programas/integra/governanca)), criado em 2019, promoveu significativa melhoria do processo decisório e de gestão estratégica. O modelo de governança então adotado se mostrou inovador na Administração Pública, com reflexo numa gestão mais eficiente, orientada para a promoção do crescimento e do emprego.
@@ -28,8 +27,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!

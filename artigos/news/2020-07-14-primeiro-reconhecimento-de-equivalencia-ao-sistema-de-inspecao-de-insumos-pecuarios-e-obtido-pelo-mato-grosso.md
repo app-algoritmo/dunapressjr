@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O Sisbi-PEC busca padronizar e harmonizar os procedimentos de inspeção e fiscalização dos insumos utilizados na pecuária brasileira
 
 O serviço de inspeção e fiscalização de insumos pecuários do Instituto de Defesa Agropecuária de Mato Grosso (Indea-MT) é o primeiro no país a obter o reconhecimento de sua equivalência e adesão ao Sistema Brasileiro de Inspeção de Insumos Pecuários (Sisbi-PEC), concedido pelo Ministério da Agricultura, Pecuária e Abastecimento (Mapa). O reconhecimento está na [Portaria nº 116](http://www.in.gov.br/en/web/dou/-/portaria-n-116-de-10-de-julho-de-2020-266356629), publicada no Diário Oficial desta segunda-feira (13).
@@ -25,7 +24,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

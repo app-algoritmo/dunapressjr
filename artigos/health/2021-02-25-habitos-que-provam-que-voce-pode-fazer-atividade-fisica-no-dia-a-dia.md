@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Algumas atividades do nosso dia a dia podem trazer diversos benefícios para o nosso corpo. E não é do gasto calórico que estamos falando, mas da adoção de alguns hábitos que podem te ajudar a ser fisicamente mais ativo. De acordo com a publicação [Saúde Brasil 2015/2016](http://bvsms.saude.gov.br/bvs/publicacoes/saude_brasil_2015_2016_analise_zika.pdf), as doenças crônicas não transmissíveis, hipertensão arterial e diabetes, foram as responsáveis por 74% dos casos de morte, no Brasil, em 2012.
 
 O profissional de Educação Física Ayslan de Araújo, do Hospital Universitário da Universidade Federal de Sergipe e vinculado à Rede Ebserh, reforça que a prática regular, e não esporádica, de alguma atividade física tem um impacto positivo na prevenção dessas doenças. Mas alerta que só isso não faz a diferença na vida das pessoas, é preciso existir uma mudança de outros hábitos.
@@ -20,7 +19,7 @@ Optar pela academia ou praticar algum esporte, por exemplo, tem um impacto maior
 
 A OMS recomenda 150 minutos de atividade moderada ou 75 minutos de atividade intensa, ou ainda uma combinação entre as duas. Além disso, recomenda-se a realização de exercícios de fortalecimento muscular pelo menos 2 vezes por semana. Em relação ao ambiente de trabalho, por exemplo, Ayslan reforça que a ginástica laboral exerce um importante papel na quebra do sedentarismo.
 
-Confira então as 6 tarefas que estão escondidas na sua rotina e que valem como atividade física: 
+Confira então as 6 tarefas que estão escondidas na sua rotina e que valem como atividade física:
 
 ### **Aeróbicas**
 
@@ -66,7 +65,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

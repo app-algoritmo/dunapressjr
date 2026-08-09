@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministério desenvolveu protocolos para a segurança dos trabalhadores dos frigoríficos.
 
 ministra da Agricultura, Pecuária e Abastecimento, Tereza Cristina, destacou nesta terça-feira (26) as ações mais recentes da pasta para combater a pandemia do Coronavirus. A ministra afirmou que o Mapa tem trabalhado desde o primeiro momento para garantir o abastecimento dos cidadãos brasileiros.
@@ -39,8 +38,6 @@ Na coletiva, a ministra destacou que o Brasil já abriu mais de 60 mercados exte
 Tereza Cristina falou sobre o lançamento do Programa Nacional de Bioinsumos, marcado para amanhã (27). “Essa política é vital para o agro continuar no caminho da sustentabilidade, da produção com tecnologia que garante produtividade e proteção ao meio ambiente e com a vantagem de depender menos da importação de fertilizantes”, destacou.
 
 Fonte: MAPA / Imagem em destaque: Anderson Riedel/PR
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

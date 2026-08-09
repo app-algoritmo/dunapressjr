@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bloco é formado por aeroportos do Amazonas, Rondônia, Acre e Roraima; empresa vencedora da licitação pagou ágio de 777% sobre o lance inicial.
 
 No mês em que completou 1.000 dias de gestão, o governo federal – por meio do Ministério de Infraestrutura – assinou contrato para cessão dos sete terminais que compõem o Bloco Norte da 6° Rodada de Concessões de Aeroportos, incluso no Programa de Parcerias de Investimentos (PPI) e no Programa Nacional de Desestatização (PND) por meio do Decreto nº 9.972, de 14/08/2019.
@@ -18,14 +17,10 @@ O Bloco Norte, formado pelos aeroportos de Manaus, Tabatinga e Tefé, no Amazona
 
 De acordo com o ministro Tarcísio, serão investidos R$ 1,5 bilhão pela empresa em pontes de embarque, ampliação de terminal de passageiro, aumento de capacidade, aumento de pátio, táxi e o que mais for necessário para aumentar a conectividade do estado com o resto do país.
 
- A importância do Bloco Norte se traduz na sua vocação econômica voltada ao turismo ecológico, turismo de negócios, táxi aéreo e transporte de cargas para a exportação.  Além disso, a região serve como base de apoio aos municípios vizinhos, contribuindo para a integração regional e nacional.
+ A importância do Bloco Norte se traduz na sua vocação econômica voltada ao turismo ecológico, turismo de negócios, táxi aéreo e transporte de cargas para a exportação. Além disso, a região serve como base de apoio aos municípios vizinhos, contribuindo para a integração regional e nacional.
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

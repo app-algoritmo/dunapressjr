@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 Representantes de dez órgãos federais estão integrando informações e dados visando apoio a equipes de campo que atuam no combate a crimes ambientais na Amazônia Legal durante a Operação Verde Brasil 2.
 
 No trabalho desenvolvido a partir do Centro Gestor e Operacional do Sistema de Proteção da Amazônia (Censipam), os técnicos trabalham em conjunto, reunindo sistemas, bases de dados, imagens de satélites e informações de campo. Por meio dessa análise, que leva em conta a especificidade de cada órgão, são produzidos relatórios que subsidiam os agentes de campo.
@@ -22,5 +21,3 @@ A equipe conta com representantes da Agência Brasileira de Inteligência (Abin)
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

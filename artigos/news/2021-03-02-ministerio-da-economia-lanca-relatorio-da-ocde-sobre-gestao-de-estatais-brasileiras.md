@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Melhoria da transparência por meio da divulgação de relatórios anuais e fortalecimento dos conselhos e da diretoria executiva das empresas são algumas das recomendações.
 
 O Ministério da Economia lançou, nesta terça-feira (2/3), o [relatório da Organização para a Cooperação e Desenvolvimento Econômico (OCDE)](http://www.oecd.org/corporate/SOE-Review-Brazil.pdf)** **sobre a governança das estatais brasileiras. O documento aponta as diretrizes da organização para a governança das empresas e traça recomendações para que o Brasil se aproxime dessas boas práticas. O secretário especial de Desestatização, Desinvestimento e Mercados da pasta, Diogo Mac Cord, participou da abertura do evento.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Qual é a influência dos nossos hábitos à mesa sobre nosso bem-estar durante a pandemia? Duas novas pesquisas da Universidade Federal de Ouro Preto (UFOP) buscam respostas para a pergunta. Uma delas estuda o impacto do estilo de vida dos infectados por COVID-19 na reação do corpo à doença. Outra investiga a relação entre consumo de glúten, isolamento social e alterações no comportamento. Financiadas por bolsas emergenciais do [Programa de Combate a Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias) da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), duas bolsistas de Ciências Biológicas abordam a alimentação de formas bem diferentes.
 
 No doutorado de Ana Beatriz Rezende, o objetivo é relacionar hábitos prévios de pacientes com a evolução da doença no corpo. Para tanto, a mestra em Saúde e Nutrição vai reunir dados sobre o que os doentes comiam. Mas não só isso. Questões sobre uso de medicamentos e mesmo sobre a espiritualidade compõem o levantamento de informação. “Vamos estudar pessoas tratadas em ambulatório, pacientes que passaram por UTI e também os assintomáticos. Assim, teremos uma amostra diversificada”, informa a pesquisadora.
@@ -41,6 +40,6 @@ Imagem destacada Pixabay
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)****

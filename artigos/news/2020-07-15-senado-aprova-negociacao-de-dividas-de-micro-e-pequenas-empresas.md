@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Também foi aprovada a criação de regional do banco do Brics no Brasil.
 
 O Senado aprovou, nesta terça-feira (14), o Projeto de Lei Complementar (PLP)[** 9/2020**](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2237331), que beneficia micro e pequenas empresas. O projeto facilita a renegociação de dívidas dessas empresas com a União nos termos da Lei do Contribuinte Legal ([**Lei 13.988, de 2020**](http://www.in.gov.br/en/web/dou/-/lei-n-13.988-de-14-de-abril-de-2020-252343978)). A matéria já passou pela Câmara e agora vai à sanção presidencial.
@@ -24,4 +23,4 @@ De acordo com o senador, o Brasil foi contemplado com [**US$ 621 milhões em emp
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

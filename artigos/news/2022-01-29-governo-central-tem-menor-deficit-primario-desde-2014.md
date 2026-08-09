@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado negativo nas contas públicas fica em R$ 35,1 bilhões.
 
 O crescimento da arrecadação e a redução de gastos relacionados à pandemia de covid-19 fizeram o déficit primário fechar 2021 no menor nível desde 2014, divulgou nesta sexta-feira (28) o Tesouro Nacional. No ano passado, o Governo Central – Tesouro Nacional, Previdência Social e Banco Central – registrou resultado primário negativo de R$ 35,073 bilhões.
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Na manhã desta quarta-feira (01), o professor de Língua Brasileira de Sinais (Libras) Sérgio Roberto Dias, que desenvolve um trabalho pioneiro de Alfabetização em Libras na Escola Básica Pedro Paulo Rebello, do bairro São Vicente, visitou o Centro de Educação Infantil (CEI) Rosete Palmeira Silva, do bairro Fazenda. O convite partiu da supervisora de Educação Especial, Viviane Linhares Gasperi e da diretora do CEI, Susana Regis Ramos porque a unidade possui um aluno surdo.
 
 “Nossa intenção foi justamente promover a inclusão, fazendo com que os demais alunos aprendam um pouco sobre a comunicação com as mãos. As crianças demonstraram curiosidade para aprender sobre Libras, então pensamos em levar o professor Sérgio para fazer esse intercâmbio da língua de sinais”, destacou a supervisora de educação especial Viviane.
@@ -32,5 +31,3 @@ Fonte: https://itajai.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É o sétimo aumento seguido da projeção divulgada pelo boletim Focus.
 
 O mercado financeiro aumentou pela sétima vez consecutiva a previsão de inflação para 2022. Segundo projeção do boletim Focus, divulgado hoje (2) pelo Banco Central, o Índice de Preços ao Consumidor Amplo (IPCA) deve fechar 2022 em 5,6%. Há uma semana, a projeção do mercado era que a inflação ficasse em 5,56% este ano. Há quatro semanas, a previsão era 5,38%.
@@ -33,8 +32,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

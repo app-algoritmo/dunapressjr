@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em 12 meses, o setor acumula alta de 1,3%.
 
 O volume de vendas do comércio varejista teve alta de 0,8% na passagem de dezembro de 2021 para janeiro deste ano. Na passagem de novembro para dezembro, o setor teve queda de 1,9%. Os dados da Pesquisa Mensal do Comércio (PMC), foram divulgados hoje (10) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

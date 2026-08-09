@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Tribunal de Contas da União (TCU) deu aval para a concessão de mais quatro terminais do Porto Organizado de Itaqui, no Maranhão. Os terminais IQI03, IQI11, IQI12 e IQI13 são responsáveis pela movimentação e armazenagem de granéis líquidos, especialmente combustíveis, além de outras instalações complementares. A previsão é de que sejam investidos R$ 480 milhões nos quatro terminais, e que o edital seja publicado em janeiro.
 
 O terminal IQI03 é um arrendamento de terminal portuário, com uma área de 25.726 m². Parte do projeto é brownfield, ocupada por ativos (tanques e equipamentos). A outra parcela da área é greenfield, com 5.351,33 m², e está prevista no Plano de Expansão do Porto do Itaqui. O arrendamento trará um aumento da capacidade estática do terminal de 7.633 m³, alcançando capacidade de tancagem de 28.039 m³, em 2023.
@@ -29,7 +28,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Nesta segunda-feira (22), o ministro da Justiça e Segurança Pública, André Mendonça, e o ministro da Cidadania, Onyx Lorenzoni, abriram a Semana Nacional de Políticas sobre Drogas com a retomada das reuniões do Conselho Nacional de Políticas sobre Drogas (Conad).
 
 O Conad, órgão superior dentro do Sistema Nacional de Políticas sobre Drogas (SISNAD), acompanha o cumprimento das diretrizes nacionais para a prevenção do uso indevido de entorpecentes, da reinserção social de dependentes químicos, da repressão do tráfico e da manifestação sobre proposições legislativas referentes às drogas.
@@ -31,4 +30,4 @@ A Semana Nacional de Políticas Sobre Drogas vai até o dia 26 de junho. A progr
 
 Fonte: Portal de Imprensa do Ministério da Justiça e Segurança Pública
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A informação foi divulgada hoje pelo Ipea.
 
 A taxa de inflação de famílias com renda muito mais baixa chegou a 98% em setembro deste ano, três vezes superior à observada entre a classe com renda alta (0,29%). A constatação é do Indicador de Inflação por Faixa de Renda do Instituto de Pesquisa Econômica Aplicada (Ipea), divulgado hoje (14).
@@ -27,5 +26,3 @@ No acumulado do ano, enquanto a inflação das famílias mais pobres aponta alta
 Fonte: Agência Brasil – Imagem de destaque: Tânia Rego/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

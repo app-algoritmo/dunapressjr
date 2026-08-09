@@ -7,7 +7,6 @@ categories:
 - Magazine
 ---
 
-
 Os diamantes, aquelas jóias preciosas e brilhantes, são conhecidas como os materiais mais duros da Terra. Eles são uma forma de carbono de alta pressão e são encontrados no fundo do solo. Embora os diamantes sejam comumente considerados duros e estáveis, o carbono a cerca de 160 quilômetros abaixo da chapa africana está sendo levado a níveis mais rasos, onde o diamante se torna instável. As rochas derretidas (magma) trazem o excesso de carbono para a superfície e os terremotos abrem rachaduras que permitem que o carbono seja liberado no ar como dióxido de carbono.
 
 Embora os diamantes sejam comumente considerados duros e estáveis, o carbono a cerca de 160 quilômetros abaixo da chapa africana está sendo levado a níveis mais rasos, onde o diamante se tornará instável. As rochas derretidas (magma) trazem o excesso de carbono para a superfície e os terremotos abrem rachaduras que permitem que o carbono seja liberado no ar como dióxido de carbono.
@@ -28,15 +27,13 @@ Oliva disse que isso fazia sentido porque a borda íngreme do fundo da placa é 
 
 "Pensamos que as falhas e fissuras resultantes agem como condutos através da crosta que concentra os fluxos de CO 2 provenientes de baixo", disse Oliva.
 
-[](https://dunapress.org/subscription-plan/?aff=barrosprojectmanager)
-
 A modelagem dos pesquisadores também sugere que o manto sob a região de estudo pode ser enriquecido em carbono devido à erosão local da litosfera cratônica que pode até conter diamantes. (Um cráton é uma parte antiga e estável da litosfera continental, que consiste nas duas camadas superiores da Terra, a crosta e o manto superior).
 
 "O material erodido pode derreter à medida que se move em direção à litosfera mais fina, e isso seria outro fator no aumento do fluxo de CO2 pela margem do vale do rift", disse Oliva.
 
 Ela acrescentou: "A participação neste projeto foi extremamente gratificante para mim. Nós, como os sismólogos, geodynamicists, geólogos estruturais e geoquímicos todos vieram juntos para entender como fendas CO ajudar a mobilizar 2 que é sequestrado no interior da Terra. Este CO recém-libertado 2 , em última instância influencia o clima da Terra ao longo do tempo geológico, contribuindo temporariamente para o aquecimento global ".
 
-Fonte de pesquisa: [**Tulane University**](http://www.tulane.edu/) 
+Fonte de pesquisa: [**Tulane University**](http://www.tulane.edu/)
 
 **Referência**:
 

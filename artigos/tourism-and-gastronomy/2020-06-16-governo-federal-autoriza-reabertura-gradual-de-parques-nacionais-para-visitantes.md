@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Retomada das atividades deverão observar medidas de proteção, como uso de máscara facial e álcool em gel 70%.
 
 Observando todas as medidas de prevenção contra a Covid-19, o Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) autorizou na última semana a reabertura para visitação de quatro parques nacionais: Aparados da Serra e Serra Geral, no Rio Grande do Sul, o de Brasília e o de Foz do Iguaçu (PR). A retomada das atividades nestes locais deverá respeitar as determinações legais estabelecidas pelos governos estaduais e/ou municipais. Entre as medidas essenciais para a reabertura estão o uso de máscara e a disponibilização de álcool 70%.
@@ -20,11 +19,11 @@ Desde o mês de março, as atividades de visitação nos parques nacionais e dem
 
 **MOVIMENTO** – Por falar em retomada, a Secretaria de Turismo do Distrito Federal e as entidades do setor no DF se uniram para promover a campanha #juntosporbrasilia #juntospeloturismo. O objetivo da ação para garantir uma retomada rápida e robusta do Turismo na capital federal. Além de um vídeo, já veiculado pelas redes sociais, o movimento se reunirá em cinco grupos temáticos de trabalho para buscar soluções de curto, médio e longo prazos para a retomada econômica dos segmentos que formam o setor do Turismo.
 
-Imagem: Zig Koch 
+Imagem: Zig Koch
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?aff=Thami)
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)
 
 Experimente por 7 Dias Gratuitos
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Salvador/BA – A Polícia Federal deflagrou, na manhã desta quarta-feira (10/6), a Operação Ikaro, com o objetivo de desarticular uma organização criminosa estabelecida na Bahia especializada no tráfico internacional de drogas. Como estratégia, o grupo usava o modal aéreo, cujo principal modus operandi era a cooptação de “mulas” para realização do transporte em voos comerciais para a Europa, sendo a droga, geralmente, escondida em bagagens.
 
 Cerca de quarenta policiais federais dão cumprimento a sete mandados de prisão (seis preventivas e uma temporária) e sete mandados de busca e apreensão na capital baiana e um no Estado de Goiás, todos expedidos pela 2ª Vara Federal da Seção Judiciária de Salvador.
@@ -19,5 +18,3 @@ Entre os meses de janeiro e fevereiro deste ano foram realizadas sete prisões e
  Os investigados serão indiciados pelos crimes de organização criminosa e tráfico de drogas.
 
 Comunicação Social da Polícia Federal na Bahia
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Operação Poço Sem Fundo investiga contratações do INCRA e DNOCS para implantação de sistemas simplificados de abastecimento de água no Estado.
 
 A Controladoria-Geral da União (CGU) participou, nesta quarta-feira (25/11), na Paraíba, da Operação Poço Sem Fundo. O trabalho é realizado em parceria com a Polícia Federal (PF) e o Ministério Público Federal (MPF). O objetivo é combater desvio de recursos públicos federais, no âmbito do INCRA/PB e do DNOCS/PB, destinados à perfuração de poços e implantação de sistemas simplificados de abastecimento de água no Estado.
@@ -33,5 +32,3 @@ Fonte: Controladoria-Geral da União
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

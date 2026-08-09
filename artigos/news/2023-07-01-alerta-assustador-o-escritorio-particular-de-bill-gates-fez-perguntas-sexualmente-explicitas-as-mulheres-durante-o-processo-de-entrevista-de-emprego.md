@@ -8,18 +8,13 @@ categories:
 - News
 ---
 
-
 As mulheres que procuram emprego na Gates Ventures, o escritório particular do bilionário Bill Gates, enfrentaram questionamentos sexualmente explícitos durante um processo de triagem intensivo. O assustador bilionário Bill Gates tem uma longa história de perseguir mulheres na Microsoft para casos sexuais, sem mencionar sua amizade com o criminoso sexual condenado Jeffrey Epstein.
 
 (Artigo de Lucas Nolan republicado de [Breitbart.com](https://www.breitbart.com/tech/2023/06/29/creep-alert-private-office-of-bill-gates-asked-women-sexually-explicit-questions-during-job-interview-process/) )
 
 O  *Wall Street Journal  *[relata](https://www.wsj.com/articles/bill-gates-office-sexually-explicit-questions-7dc240f5)  que as mulheres que foram entrevistadas para cargos na Gates Ventures foram submetidas a um extenso processo de triagem que incluía perguntas sexualmente explícitas. A triagem foi conduzida pela Concentric Advisors, uma empresa de segurança. As perguntas feitas às candidatas a empregos investigavam suas histórias sexuais, uso de drogas no passado e outros aspectos da vida privada que poderiam torná-las suscetíveis a chantagem.
 
-[](https://media.breitbart.com/media/2023/05/Jeffrey-Epstein-and-Bill-Gates.jpg)
-
 O assustador fundador da Microsoft, Bill Gates, e seu amigo Jeffrey Epstein (Registro de agressores sexuais do estado de Nova York via AP, Arquivo, Justin Tallis/Pool via AP)
-
-[](https://media.breitbart.com/media/2023/06/gates-Xi.jpg)
 
 Bill Gates, à esquerda, encontra-se com o presidente chinês Xi Jinping em Pequim, sexta-feira, 16 de junho de 2023. (Yin Bogu/Xinhua via AP)
 

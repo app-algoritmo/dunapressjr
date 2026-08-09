@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Para Campos Neto, BC está no caminho certo no combate à inflação.
 
 O futuro das taxas de juros no Brasil dependerá da extensão dos efeitos da guerra entre Rússia e Ucrânia e de eventuais outros choques sobre a inflação, disse nesta quinta-feira (7) o presidente do Banco Central (BC), Roberto Campos Neto. Em evento promovido por uma empresa de investimentos, ele declarou que o conflito no Leste europeu trouxe um desafio adicional para a política monetária.
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Atracado no porto de Breves, no Pará, o barco de três andares e mais de 37 metros de comprimento chama a atenção. A bordo, um serviço precioso para a região: uma agência bancária. São seis guichês de atendimento iguais aos de uma agência convencional da Caixa. Na manhã desta sexta-feira (9), o Presidente Jair Bolsonaro esteve em Breves e visitou a agência-barco Ilha do Marajó.
 
 A Caixa tem duas agências-barco, a Ilha do Marajó e a Chico Mendes, que fazem uma viagem por mês e ficam, em média, dois dias em cada local para atender comunidades ribeirinhas do Pará e do Amazonas. Os serviços oferecidos são os mesmos de uma agência em terra, vão desde a abertura de conta a serviços relacionados a benefícios sociais como Bolsa Família e Fundo de Garantia do Tempo de Serviço (FGTS).
@@ -47,5 +46,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

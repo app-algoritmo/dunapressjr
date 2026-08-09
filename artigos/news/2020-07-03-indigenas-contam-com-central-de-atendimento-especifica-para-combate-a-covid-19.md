@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Fundação Nacional do Índio (Funai) passou a contar com uma Central de Atendimento específica para solicitações dos povos indígenas relacionadas ao combate à covid-19. A intenção é fazer com que as informações cheguem no menor tempo possível aos órgãos competentes, possibilitando o atendimento imediato das demandas.
 
 De acordo com o presidente da Funai, Marcelo Xavier, a nova ferramenta amplia o diálogo com os indígenas e reforça o monitoramento de ações voltadas a essa população. "Identificamos a necessidade de aprimorar o processo de recebimento e tratamento das informações ligadas à covid-19, as quais impactam diariamente na rotina dos indígenas. Ao disponibilizar a Central de Atendimento, buscamos agilizar a resposta às demandas", explica Xavier.
@@ -39,4 +38,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

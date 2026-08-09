@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ### Escassez de contêineres e alta do frete são citados em levantamento.
 
 O medo causado pela covid-19 mudou muitos dos hábitos das pessoas. Entre eles, aumentou o de comprar via internet produtos estrangeiros, que têm como porta de entrada no mercado brasileiro os terminais portuários. Relatório divulgado nesta quinta-feira (28) pela Agência Nacional de Transportes Aquaviários (Antaq) mostrou alguns dos impactos causados pela pandemia no transporte marítimo.
 
-De acordo com a diretora da agência, Flávia Takafashi, no começo da pandemia, a infraestrutura do transporte marítimo brasileiro “não sentiu impacto direto”. Ela, no entanto, acrescenta que, no decorrer do tempo, “foi percebido aumento do valor do frete e falta de contêineres vazios para estufagem e rolagem de cargas nos portos brasileiros”, 
+De acordo com a diretora da agência, Flávia Takafashi, no começo da pandemia, a infraestrutura do transporte marítimo brasileiro “não sentiu impacto direto”. Ela, no entanto, acrescenta que, no decorrer do tempo, “foi percebido aumento do valor do frete e falta de contêineres vazios para estufagem e rolagem de cargas nos portos brasileiros”,
 
 Isso, segundo ela, causou um “efeito cascata para outras cobranças e serviços, como, por exemplo, o aumento de sobre-estadia de contêineres”. O levantamento citou também, entre os impactos observados, congestionamento de terminais e as chamadas omissões de escala – situação em que a empresa proprietária do navio decide desembarcar a mercadoria em um terminal portuário diferente do planejado.
 
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

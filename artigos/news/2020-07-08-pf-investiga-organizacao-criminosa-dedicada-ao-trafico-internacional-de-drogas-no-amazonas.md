@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Manaus/AM - A Polícia Federal (PF)  deflagrou, na manhã desta terça-feira (7/7), a Operação Schelde, para dar prosseguimento à fase ostensiva de Inquérito Policial, por meio do qual são investigados fatos relacionados a possíveis práticas de crimes, como pertencimento a organização criminosa, tráfico internacional de drogas, lavagem de dinheiro e uso de documentos ideologicamente falsos.
 
 A Justiça Federal da Seção Judiciária do Amazonas deferiu parcialmente representação da Polícia Federal e expediu 7 mandados de busca e apreensão, 3 de prisão temporária e 1 de prisão preventiva, os quais são cumpridos nas cidades de Manaus e Tabatinga, Estado do Amazonas, nessa etapa da investigação criminal.
@@ -23,4 +22,4 @@ Ademais, suspeita-se da utilização de nomes falsos por parte de alguns dos ind
 
 Comunicação Social da Polícia Federal no Amazonas
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

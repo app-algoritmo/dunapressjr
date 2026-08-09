@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## As vagas para os cursos de Português e TICs já foram preenchidas. As inscrições vão até sexta-feira (24).
 
 Faltando dois dias para o término das inscrições nos cursos gratuitos de aprimoramento profissional oferecidos pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), ainda restam cerca de 10 mil vagas para o curso de Matemática. As oportunidades para Português e Tecnologias da Informação e Comunicação (TICs) já se esgotaram.
@@ -24,7 +23,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

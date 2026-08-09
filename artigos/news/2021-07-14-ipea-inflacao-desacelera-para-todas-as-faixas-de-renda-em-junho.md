@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Redução de preços continua maior entre famílias de renda alta.
 
-O Indicador de Inflação por Faixa de Renda apontou desaceleração da taxa de inflação para todas as faixas de renda no mês de junho. 
+O Indicador de Inflação por Faixa de Renda apontou desaceleração da taxa de inflação para todas as faixas de renda no mês de junho.
 
 O estudo mostrou que, apesar da redução generalizada na comparação com maio deste ano, a inflação das famílias de renda muito baixa continua maior que a registrada na faixa de renda alta pelo terceiro mês consecutivo, com taxas de 0,62% para as famílias que recebem menos de R$ 1.650,50 e de 0,39% para os domicílios com renda maior de R$ 16.509,66.
 
@@ -36,10 +35,6 @@ Já para as famílias com maior renda, a menor alta inflacionária em 2020 foi c
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Reorganização da ficha de bens e direitos causa dificuldades.
 
 Os contribuintes estão tendo uma surpresa na hora de informar o patrimônio na Declaração do Imposto de Renda Pessoa Física 2022. Sem aviso, a Receita Federal mudou os códigos de identificação neste ano. Números usados durante muitos anos na ficha “Bens e direitos” foram alterados, causando dificuldades na hora do preenchimento.
@@ -27,19 +26,19 @@ As alterações nos códigos não abrangeram apenas a informação do patrimôni
 Foram cinco as principais mudanças na ficha “Bens e direitos”. Primeiramente, os códigos foram divididos em nove grupos, cada um com uma série de itens específicos. O contribuinte agora deverá procurar o grupo a que corresponde o bem e, em seguida, escolher uma das opções que aparecerem.
 
 Os grupos criados pela Receita Federal foram os seguintes:
-•        Grupo 1: bens imóveis;
-•        Grupo 2: bens móveis;
-•        Grupo 3: participação societária (ações e quotas de capital numa empresa);
-•        Grupo 4: aplicações e investimentos;
-•        Grupo 5: créditos;
-•        Grupo 6: depósito à vista e numerário;
-•        Grupo 7: fundos;
-•        Grupo 8: criptoativos;
-•        Grupo 9: outros bens e direitos.
+• Grupo 1: bens imóveis;
+• Grupo 2: bens móveis;
+• Grupo 3: participação societária (ações e quotas de capital numa empresa);
+• Grupo 4: aplicações e investimentos;
+• Grupo 5: créditos;
+• Grupo 6: depósito à vista e numerário;
+• Grupo 7: fundos;
+• Grupo 8: criptoativos;
+• Grupo 9: outros bens e direitos.
 
 A segunda mudança foi o aumento no número de códigos. Segundo a Receita, houve a eliminação de nove códigos pouco utilizados e a criação de 13 códigos para refletir investimentos mais modernos. O código “99 – Outros bens e direitos” está disponível em qualquer um dos grupos, podendo ser escolhido quando o bem não se enquadrar em nenhuma das categorias apresentadas.
 
-A lista completa dos novos códigos pode ser consultada entre as páginas 172 e 175 do documento “Instruções de preenchimento – Ajuda do Programa IRPF 2022”, criado pela Receita Federal. Por causa da operação padrão do órgão, o documento só está disponível dentro do programa gerador da declaração, mas pode ser acessado aqui: 
+A lista completa dos novos códigos pode ser consultada entre as páginas 172 e 175 do documento “Instruções de preenchimento – Ajuda do Programa IRPF 2022”, criado pela Receita Federal. Por causa da operação padrão do órgão, o documento só está disponível dentro do programa gerador da declaração, mas pode ser acessado aqui:
 
  [ajudairpf2022.pdf](https://agenciabrasil.ebc.com.br/sites/default/files/atoms/files/ajudairpf2022_0.pdf)
 
@@ -51,11 +50,11 @@ Neste ano, o contribuinte terá à disposição quatro códigos de criptoativos 
 
 Os códigos para o grupo “08 – Criptoativos” foram divididos da seguinte forma:
 
-•        Código 01: criptoativo bitcoin – BTC;
-•        Código 02: outras criptomoedas, conhecidas como altcoins. Exemplo: Ether (ETH), Ripple (XRP), Bitcoin Cash (BCH) e Litecoin (LTC);
-•        Código 03: criptoativos conhecidos como stablecoins. Exemplo: Tether (USDT), USD Coin (USDC), Brazilian Digital Token (BRZ), Binance USD (BUSD), DAI, True USD (TUSD), Gemini USD (GUSD), Paxos USD (PAX), Paxos Gold (PAXG) e outros;
-•        Código 10: criptoativos conhecidos como Non-Fungible Tokens (NFT);
-•        Código 99: outros criptoativos. Engloba tokens, ativos digitais não considerados criptomoedas
+• Código 01: criptoativo bitcoin – BTC;
+• Código 02: outras criptomoedas, conhecidas como altcoins. Exemplo: Ether (ETH), Ripple (XRP), Bitcoin Cash (BCH) e Litecoin (LTC);
+• Código 03: criptoativos conhecidos como stablecoins. Exemplo: Tether (USDT), USD Coin (USDC), Brazilian Digital Token (BRZ), Binance USD (BUSD), DAI, True USD (TUSD), Gemini USD (GUSD), Paxos USD (PAX), Paxos Gold (PAXG) e outros;
+• Código 10: criptoativos conhecidos como Non-Fungible Tokens (NFT);
+• Código 99: outros criptoativos. Engloba tokens, ativos digitais não considerados criptomoedas
 
 ### Rendimentos
 
@@ -73,8 +72,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

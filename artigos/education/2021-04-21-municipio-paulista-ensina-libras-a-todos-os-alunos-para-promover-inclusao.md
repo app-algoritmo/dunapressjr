@@ -7,16 +7,15 @@ categories:
 - Education
 ---
 
-
 Promover uma inclusão eficaz dos alunos com deficiência é um dos desafios da escola que o Brasil vem construindo ao longo dos últimos anos. Embora muitos avanços tenham vindo na esteira da Lei Brasileira de Inclusão, sancionada em 2015, ainda resta um longo caminho até que esses estudantes estejam realmente integrados ao ensino regular. Passo a passo, esse caminho vai ganhando trilhas importantes. É o caso de Olímpia, município do interior paulista com população estimada em pouco mais de 55 mil pessoas, de acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE).
 
 Em 2017, a Secretaria Municipal de Educação entendeu que apenas matricular crianças surdas em classes regulares não era o bastante para promover a inclusão e integração desses alunos com os colegas e professores. Até aquele ano, os estudantes surdos sinalizantes - ou seja, aqueles que utilizam a Língua Brasileira de Sinais (Libras) para se comunicar - tinham o acompanhamento de intérpretes durante as aulas. Dessa forma, eles podiam compreender os conteúdos que estavam sendo ensinados e também fazer perguntas quando tinham alguma dúvida. Mas como resolver a solidão que essas crianças poderiam sentir fora da classe, naqueles momentos antes do início das aulas ou nos intervalos, quando elas estavam acompanhadas unicamente de seus colegas falantes do Português, que não sabiam se comunicar em Libras?
 
 As reflexões sobre esse problema levaram à criação do projeto Libras na Escola, uma tentativa de ir além das obrigações estabelecidas em lei e integrar, de fato, estudantes surdos e não surdos. Desde então, todos os alunos de turmas regulares que tenham colegas surdos recebem, gratuitamente, aulas de Libras. A coordenadora da Educação Especial Inclusiva, da Secretaria de Educação, Marcela Rúbia Nespolo Aniceto, explica que o objetivo é garantir que haja uma interação e uma comunicação real entre as crianças surdas e as ouvintes, de modo que elas possam desenvolver laços e se tornar parceiras não só dentro da sala de aula, mas em outros espaços fora do ambiente escolar.
 
-Segundo ela, a experiência do Libras na Escola é transformadora para os alunos surdos. “As crianças que compartilham desse processo se sentem valorizadas e se desenvolvem com muito mais segurança e com uma autoestima elevada”, conta. Mas os benefícios são sentidos também entre os demais estudantes e até mesmo a equipe escolar. “É uma troca enriquecedora, que contribui para o desenvolvimento da escola como um todo”, avalia. 
+Segundo ela, a experiência do Libras na Escola é transformadora para os alunos surdos. “As crianças que compartilham desse processo se sentem valorizadas e se desenvolvem com muito mais segurança e com uma autoestima elevada”, conta. Mas os benefícios são sentidos também entre os demais estudantes e até mesmo a equipe escolar. “É uma troca enriquecedora, que contribui para o desenvolvimento da escola como um todo”, avalia.
 
-A inclusão de alunos com deficiência nas escolas de Educação Básica brasileiras tem sido um desafio para as instituições de ensino e os educadores, assim como, em alguns casos, torna-se um drama para as famílias desses estudantes. "Essa integração deve receber a devida atenção no âmbito das políticas públicas, até mesmo na formação dos professores. Dar protagonismo à criança surda passa por entender que Libras é a sua primeira língua. É fundamental que a escola conheça suas crianças, as respeite e promova o respeito às diferenças e Olímpia é exemplo disso", afirma Pedro Lino, supervisor pedagógico da Área Pública da Editora Aprende Brasil, responsável pelo Sistema de Ensino Aprende Brasil, que atende mais de 17 mil escolas em mais de 200 municípios brasileiros. "É preciso entender a inclusão como uma ação de responsabilidade coletiva", destaca. 
+A inclusão de alunos com deficiência nas escolas de Educação Básica brasileiras tem sido um desafio para as instituições de ensino e os educadores, assim como, em alguns casos, torna-se um drama para as famílias desses estudantes. "Essa integração deve receber a devida atenção no âmbito das políticas públicas, até mesmo na formação dos professores. Dar protagonismo à criança surda passa por entender que Libras é a sua primeira língua. É fundamental que a escola conheça suas crianças, as respeite e promova o respeito às diferenças e Olímpia é exemplo disso", afirma Pedro Lino, supervisor pedagógico da Área Pública da Editora Aprende Brasil, responsável pelo Sistema de Ensino Aprende Brasil, que atende mais de 17 mil escolas em mais de 200 municípios brasileiros. "É preciso entender a inclusão como uma ação de responsabilidade coletiva", destaca.
 
 **Inclusão passa por ensino bilíngue**
 
@@ -34,7 +33,3 @@ Fonte: Central Press
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

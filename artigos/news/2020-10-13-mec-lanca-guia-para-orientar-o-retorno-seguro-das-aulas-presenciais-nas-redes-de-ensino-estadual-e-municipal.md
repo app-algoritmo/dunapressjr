@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Volta às aulas de forma segura. Para orientar o retorno presencial às escolas públicas que decidirem abrir as portas, o Ministério da Educação lançou o Guia de Implementação de Protocolos de Retorno das Atividades Presenciais nas Escolas de Educação Básica.
 
 O documento traz orientações para todos da escola, dos gestores até os estudantes e a equipe de limpeza, seguindo normas técnicas de segurança em saúde para evitar a transmissão da Covid-19.
@@ -42,5 +41,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

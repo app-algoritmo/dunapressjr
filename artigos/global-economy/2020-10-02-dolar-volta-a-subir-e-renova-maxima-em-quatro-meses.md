@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa encerra quinta semana seguida no vermelho.
 
 Em mais um dia de tensões no mercado financeiro, com fatores domésticos e internacionais influenciando as negociações, o dólar subiu e voltou a renovar a máxima em quatro meses. A bolsa de valores caiu e fechou a quinta semana seguida no vermelho.
@@ -25,5 +24,3 @@ As bolsas norte-americanas também caíram, com o aumento da incerteza no cenár
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Objetivo é proporcionar conectividade a até 906 mil estudantes em situação de vulnerabilidade social; cerca de 40% dos beneficiados estão na região Nordeste.
 
 O Ministério da Educação (MEC) vai disponibilizar internet a estudantes de baixa renda matriculados em universidades federais e nas instituições da Rede Federal de Educação Profissional e Tecnológica do MEC. A medida foi anunciada em coletiva de imprensa na sede do MEC, em Brasília, e por videoconferência, nesta quarta-feira (1º). Segundo levantamento da pasta junto às 110 instituições federais de ensino, existem cerca de 906 mil estudantes em situação de vulnerabilidade socioeconômica, com renda familiar per capita de até um salário mínimo e meio e grande parte desses alunos não possui acesso à rede de internet com capacidade de conexão para atividades por meio de Tecnologias da Informação e Comunicação (TICs), como videoconferências.
@@ -29,7 +28,7 @@ Fonte: gov.br / Imagem em destaque: melodianews
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

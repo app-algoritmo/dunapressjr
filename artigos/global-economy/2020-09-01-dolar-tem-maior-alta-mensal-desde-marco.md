@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Moeda fechou o dia com alta de 1,20%, cotado a R$ 5,48.
 
 O dólar fechou em alta de mais de 1% ante o real na última sessão de agosto, mês de intensa pressão no câmbio devido a incertezas políticas e fiscais que mantiveram o real como a moeda relevante mais volátil do mundo.
@@ -35,5 +34,3 @@ Investidores aguardam a definição do valor do auxílio emergencial, prevista n
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

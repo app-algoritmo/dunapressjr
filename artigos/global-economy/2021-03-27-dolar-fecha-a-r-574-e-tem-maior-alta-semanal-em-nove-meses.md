@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa sobe 0,91% com ajuda de commodities.
 
 Em um dia de bastante volatilidade no mercado financeiro, o dólar subiu para R$ 5,74 e encerrou esta sexta-feira (26) com a maior alta semanal em nove meses. A bolsa de valores subiu 0,91%, embalada pelo desempenho das* commodities *(bens primários com cotação internacional).
@@ -26,10 +25,6 @@ No cenário internacional, o recrudescimento da pandemia de covid-19 em diversos
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. 
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)  
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

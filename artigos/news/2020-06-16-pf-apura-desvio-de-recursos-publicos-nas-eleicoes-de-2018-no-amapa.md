@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Macapá/AP - A Polícia Federal deflagrou, na manhã desta terça-feira (16/6), a Operação Desviocracia*, para combater associação criminosa responsável por fraudes e desvios de recursos públicos do Fundo Partidário e do Fundo Especial de Financiamento de Campanha (FEFC), denominado Fundo Eleitoral, nas eleições gerais de 2018, no Amapá.
 
 Cerca de 40 policiais federais dão cumprimento a 15 mandados de busca e apreensão nos municípios de Macapá/AP e Mazagão/AP, expedidos pelo juízo da 2ª Zona Eleitoral do Amapá.
@@ -23,5 +22,3 @@ Os investigados poderão responder, na medida de suas responsabilidades, pelos c
 *Desviocracia é uma analogia ao esquema criminoso de desvio de recursos provenientes do fundo eleitoral, uma vez que a justificativa para utilização destes recursos públicos seria o financiamento da democracia, porém a investigação constatou que são desviados para finalidades ilegais.
 
 **Comunicação Social da Polícia Federal no Amapá**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

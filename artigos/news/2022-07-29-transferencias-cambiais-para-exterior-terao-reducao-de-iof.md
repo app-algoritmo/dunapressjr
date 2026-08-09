@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medida adapta legislação a normas da OCDE.
 
 Parte das transferências cambiais para o exterior, que ainda não tinham sido adaptadas às normas da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), terão redução gradual de Imposto sobre Operações Financeiras (IOF) a partir de 2023. Um decreto assinado nesta quinta-feira (28) à noite pelo presidente Jair Bolsonaro incluiu novas modalidades de transferências entre o Brasil e o exterior na lista de operações que passarão a pagar menos imposto.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

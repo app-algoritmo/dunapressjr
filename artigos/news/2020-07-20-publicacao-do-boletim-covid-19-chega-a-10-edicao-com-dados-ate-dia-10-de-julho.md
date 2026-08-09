@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Segundo dados do Boletim nº 10, a arrecadação dos três impostos estaduais entre o dia 1º e 10 de julho registrou estabilidade pela primeira vez.
 
 O ‘Boletim Covid-19’, uma publicação da Secretaria de Estado da Fazenda (SEFAZ-PB), chega à 10ª edição com dados, gráficos e análises dos impactos da pandemia do coronavírus na arrecadação da receita própria (ICMS, IPVA e ITCD) entre o dia 1º e 10 de julho. A edição completa do Boletim está anexada nesta postagem.
@@ -23,4 +22,4 @@ O acesso a todas as edições do ‘Boletim Covid-19’ está disponível no por
 
 Fonte: paraíba.pb.gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

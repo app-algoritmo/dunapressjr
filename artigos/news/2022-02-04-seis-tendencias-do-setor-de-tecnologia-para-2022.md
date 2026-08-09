@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Novas tecnologias surgem e impactam a sociedade numa velocidade impressionante. O progresso foi acelerado pela pandemia, que concretizou tendências de Tecnologia da Informação (TI) que eram esperadas apenas anos à frente. E investimentos em tecnologia digital continuarão sendo prioridade na estratégia de empresas que desejam aproveitar ao máximo as oportunidades de um mercado em reaquecimento. Inteligência artificial avançada, NFT, metaverso, 5G, Internet das Coisas e segurança digital apontam para algumas das principais expectativas do setor de tecnologia para o ano de 2022.
 
 "No mercado de tecnologia, não é fácil prever se uma tecnologia é moda ou tendência de inovação, que pressupõe aceitar alguns riscos. Por isso, ficar atento ao cenário, analisar continuamente os movimentos da tecnologia e tomar decisões com agilidade são competências fundamentais para o sucesso nas escolhas e adoção, isso potencializado pela realidade pandêmica dos últimos quase dois anos. A pandemia foi o assunto mais falado e vivido neste período, com impactos de inovação tecnológica que vieram por causa dela e junto dela”, explica o diretor de Sistemas e Inovação do Instituto das Cidades Inteligentes (ICI), Mauricio Pimentel.
@@ -32,11 +31,11 @@ O mercado das criptomoedas abriu caminho para o surgimento de novos formatos de 
 
 **Metaverso**
 
-O metaverso, que promete eliminar fronteiras entre o mundo físico e o digital, está entre as principais tendências para 2022. Na prática, se trata de uma combinação de vertentes tecnológicas já existentes, fundamentalmente: a interatividade, a realidade virtual e a realidade aumentada. Esse novo ambiente vai ganhar força aos poucos, com diferentes serviços, produtos e possibilidades integradas. Nesse universo, que ainda não é real em sua totalidade, as pessoas podem interagir umas com as outras, trabalhar, estudar e ter uma vida social por meio de seus avatares 3D. 
+O metaverso, que promete eliminar fronteiras entre o mundo físico e o digital, está entre as principais tendências para 2022. Na prática, se trata de uma combinação de vertentes tecnológicas já existentes, fundamentalmente: a interatividade, a realidade virtual e a realidade aumentada. Esse novo ambiente vai ganhar força aos poucos, com diferentes serviços, produtos e possibilidades integradas. Nesse universo, que ainda não é real em sua totalidade, as pessoas podem interagir umas com as outras, trabalhar, estudar e ter uma vida social por meio de seus avatares 3D.
 
 **Segurança digital**
 
-O avanço da tecnologia, porém, também amplia os desafios em segurança cibernética. Com a pandemia aumentando a transformação digital e também o crescimento do número de ataques virtuais que têm como objetivo a invasão dos sistemas de empresas e o vazamento de seus dados, 83% dos líderes de organizações empresariais no Brasil pretendem aumentar seus gastos com cibersegurança em 2022, segundo pesquisa realizada pela PwC Digital Trust Insights 2022. 
+O avanço da tecnologia, porém, também amplia os desafios em segurança cibernética. Com a pandemia aumentando a transformação digital e também o crescimento do número de ataques virtuais que têm como objetivo a invasão dos sistemas de empresas e o vazamento de seus dados, 83% dos líderes de organizações empresariais no Brasil pretendem aumentar seus gastos com cibersegurança em 2022, segundo pesquisa realizada pela PwC Digital Trust Insights 2022.
 
 "Do avanço da inteligência artificial à ampliação da criptografia, neste ano a sociedade vai participar de redes sociais mais preocupadas com privacidade, estará mais conectada com o 5G e vai perceber a necessidade de novas habilidades no trabalho. Projetar o futuro sempre é arriscado, mesmo assim é necessário que os profissionais comecem a se preparar, inclusive os de áreas que não estão diretamente relacionadas à tecnologia", completa Pimentel. 
 
@@ -51,7 +50,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

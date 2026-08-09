@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dados foram divulgados hoje pelo IBGE.
 
 O Produto Interno Bruto (PIB), que é a soma de todos os bens e serviços produzidos no país, teve queda de 9,7% no segundo trimestre deste ano, na comparação com o trimestre anterior.
@@ -41,5 +40,3 @@ A balança de bens e serviços registrou alta de 1,8% nas exportações, enquant
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

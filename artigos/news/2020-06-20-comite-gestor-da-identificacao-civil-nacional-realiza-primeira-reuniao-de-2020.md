@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Identificação Civil Nacional é projeto estruturante e fundamental para a Modernização do Estado Brasileiro.
 
 A 1ª reunião ordinária do Comitê Gestor da Identificação Civil Nacional (CGICN) de 2020 aconteceu nesta quinta-feira (18), na Presidência da República.
@@ -22,7 +21,7 @@ De acordo com o Secretário Especial de Modernização do Estado da Secretaria-G
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Clique aqui e torne-se um assinante de nosso jornal. [Clique](https://dunapress.org/subscription-plan/?aff=Thami) aqui no banner abaixo para assinar
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Clique aqui e torne-se um assinante de nosso jornal. [Clique](https://dunapress.org/subscription-plan/) aqui no banner abaixo para assinar
 
 Experimente por 7 Dias Gratuitos
 

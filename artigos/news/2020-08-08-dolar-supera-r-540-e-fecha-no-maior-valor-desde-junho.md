@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Negociações foram afetadas por turbulências no mercado externo**.
 
 Num dia de pessimismo nos mercados internacionais, o dólar teve uma alta significativa e voltou a superar os R$ 5,40. O dólar comercial encerrou esta sexta-feira (7) vendido a R$ 5,413, com alta de R$ 0,07 (+1,3%). Essa foi a maior cotação desde 30 de junho, quando a moeda norte-americana tinha fechado em R$ 5,44.
@@ -26,4 +25,4 @@ No Brasil, a redução da taxa Selic (juros básicos da economia) [**para 2% ao 
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

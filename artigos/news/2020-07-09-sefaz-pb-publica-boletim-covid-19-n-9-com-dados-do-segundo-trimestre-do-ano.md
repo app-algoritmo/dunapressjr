@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 A arrecadação dos três impostos estaduais (ICMS, IPVA e ITCD) encerrou o mês de junho com decréscimo de 3,73% sobre igual período de 2019.
 
-A Secretaria de Estado da Fazenda (Sefaz-PB) publicou, nesta quarta-feira (8), a edição do ‘Boletim Covid-19 Nº 9’, que aborda os impactos da pandemia na arrecadação da receita própria (ICMS, IPVA e ITCD) e nas transferências do Fundo de Participação dos Estados (FPE). Nesta nova edição, além dos dados, gráficos e análises referentes ao mês de junho, o informativo traz ainda os dados consolidados do impacto do trimestre de abril a junho de 2020. 
+A Secretaria de Estado da Fazenda (Sefaz-PB) publicou, nesta quarta-feira (8), a edição do ‘Boletim Covid-19 Nº 9’, que aborda os impactos da pandemia na arrecadação da receita própria (ICMS, IPVA e ITCD) e nas transferências do Fundo de Participação dos Estados (FPE). Nesta nova edição, além dos dados, gráficos e análises referentes ao mês de junho, o informativo traz ainda os dados consolidados do impacto do trimestre de abril a junho de 2020.
 
 Segundo dados do Boletim nº 9, a arrecadação dos três impostos estaduais (ICMS, IPVA e ITCD) encerrou o mês de junho com decréscimo de 3,73% sobre igual período de 2019. Em valores absolutos, houve perdas de R$ 18,5 milhões. No acumulado do trimestre abril/maio/junho a receita própria dos três impostos apresentou um decréscimo de 15,59% sobre igual período de 2019, com perdas acumuladas de R$ 238,9 milhões. Somente o ICMS concentrou 86,48% dessas perdas (R$ 206,6 milhões)
 
@@ -25,4 +24,4 @@ O acesso a todas as edições do ‘Boletim Covid-19’ está disponível no por
 
 Fonte: paraiba.pb.gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

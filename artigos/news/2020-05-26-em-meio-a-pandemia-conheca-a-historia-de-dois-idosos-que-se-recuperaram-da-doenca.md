@@ -8,16 +8,15 @@ categories:
 - News
 ---
 
-
 ### Maria Madalena Oliveira e Edimilson Batista tiveram a forma mais grave da doença e permaneceram por dias na UTI até a recuperação.
 
-Quando se fala em Covid-19, os idosos, pertencentes ao grupo de risco, trazem grande preocupação para o governo, a sociedade e, especialmente, os familiares. Conheça a história de dois pacientes que contraíram a doença, na forma mais grave, se recuperaram e venceram a batalha contra a Covid-19. 
+Quando se fala em Covid-19, os idosos, pertencentes ao grupo de risco, trazem grande preocupação para o governo, a sociedade e, especialmente, os familiares. Conheça a história de dois pacientes que contraíram a doença, na forma mais grave, se recuperaram e venceram a batalha contra a Covid-19.
 
-A dona de casa, Maria Madalena Oliveira, 61 anos, e o auxiliar de topografia, Edimilson Batista de Souza, 68 anos, desenvolveram a forma mais grave da doença, com sintomas de falta de ar, precisaram ser intubados. Os dois foram internados no Hospital das Clínicas da Universidade Federal de Pernambuco (HC-UFPE). 
+A dona de casa, Maria Madalena Oliveira, 61 anos, e o auxiliar de topografia, Edimilson Batista de Souza, 68 anos, desenvolveram a forma mais grave da doença, com sintomas de falta de ar, precisaram ser intubados. Os dois foram internados no Hospital das Clínicas da Universidade Federal de Pernambuco (HC-UFPE).
 
 Maria deu entrada no HC no último dia 6 de maio, permanecendo por 14 dias na UTI. Já Edimilson, no dia 8, ficando 12 dias na UTI. Felizmente, o tratamento de ambos foi surpreendente: reagiram bem e  se recuperam na Enfermaria de Doenças Infecto Parasitárias/Covid, para receberem a alta hospitalar.
 
-O hospital em que estão é uma das unidades da Empresa Brasileira de Serviços Hospitalares (Ebserh), vinculada ao Ministério da Educação (MEC).  A empresa disponibilizou R$ 274 milhões para ações contra o coronavírus, recursos do Ministério da Educação (MEC) liberados pela Ebserh de acordo com a necessidade e a urgência de cada unidade hospitalar. 
+O hospital em que estão é uma das unidades da Empresa Brasileira de Serviços Hospitalares (Ebserh), vinculada ao Ministério da Educação (MEC).  A empresa disponibilizou R$ 274 milhões para ações contra o coronavírus, recursos do Ministério da Educação (MEC) liberados pela Ebserh de acordo com a necessidade e a urgência de cada unidade hospitalar.
 
 Na saída da UTI montada para receber os pacientes graves portadores de Covid-19 na unidade, os dois receberam, emocionados, na homenagem dos profissionais do hospital, a postos nos corredores, para saudar os pacientes.
 
@@ -48,5 +47,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

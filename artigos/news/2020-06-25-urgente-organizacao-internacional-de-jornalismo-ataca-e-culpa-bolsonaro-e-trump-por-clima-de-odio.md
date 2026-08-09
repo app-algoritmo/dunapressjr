@@ -8,28 +8,27 @@ categories:
 - News
 ---
 
-
 ## RFS é a raiz do problema e da disseminação da desinformação contra os PRs Bolsonaro e Trump.
 
 Sediada em Paris, **a Repórteres Sem Fronteiras (RSF)** é uma ONG **"independente"** :-), com status consultivo junto às Nações Unidas, UNESCO, Conselho da Europa e Organização Internacional da Francofonia (OIF). Suas seções estrangeiras, seus escritórios em dez cidades, incluindo Bruxelas, Washington, Berlim, Tunis, Rio de Janeiro e Estocolmo, e sua rede de correspondentes em 130 países dão à RSF a capacidade de mobilizar apoio, desafiar governos e exercer influência tanto na ministérios e distritos onde são elaborados os padrões e legislação de mídia e Internet.
 
-Segundo esta organização, Bolsonaro e Donald Trump são os responsáveis pela crise democrática em seus países e dizem: 
+Segundo esta organização, Bolsonaro e Donald Trump são os responsáveis pela crise democrática em seus países e dizem:
 
 Que nas duas edições anteriores do Índice Mundial da Liberdade de Imprensa refletiram uma crise causada por hostilidade crescente e até ódio contra jornalistas, e essa crise agora piorou. Isso resultou em atos mais graves e frequentes de violência física e, portanto, em um nível sem precedentes de medo em alguns países. Políticos importantes e pessoas próximas a eles continuam a fomentar abertamente o ódio contra jornalistas. Os presidentes democraticamente eleitos de dois países, Donald Trump nos Estados Unidos (3 a 45) e Jair Bolsonaro no Brasil (2 a 107), continuam denegrindo a mídia e incentivando o ódio contra jornalistas em seus respectivos países. O “gabinete do ódio” em torno do líder brasileiro orquestra ataques online em larga escala contra jornalistas que expõem segredos do governo.
 
 Em seu informe 2020, segundo a organização: Clima de ódio e suspeita alimentado por Bolsonaro.
 
-[](https://rsf.org/en/brazil)Fake News . Clima de ódio e suspeita alimentado por Bolsonaro
+Fake News . Clima de ódio e suspeita alimentado por Bolsonaro
 
-A adesão do presidente Jair Bolsonaro em 2019 foi a principal razão da queda do índice no país nos últimos dois anos. É provável que a queda continue enquanto o presidente Bolsonaro, incentivado por seus associados e membros do governo, insulta e zomba rotineiramente de alguns dos principais jornalistas e organizações de notícias do país, mantendo um clima de ódio e suspeita em relação aos que trabalham com notícias e informações. Diante da ameaça do vírus - o Brasil é o país mais seriamente afetado da América Latina - o presidente Bolsonaro intensificou seus ataques à mídia       
+A adesão do presidente Jair Bolsonaro em 2019 foi a principal razão da queda do índice no país nos últimos dois anos. É provável que a queda continue enquanto o presidente Bolsonaro, incentivado por seus associados e membros do governo, insulta e zomba rotineiramente de alguns dos principais jornalistas e organizações de notícias do país, mantendo um clima de ódio e suspeita em relação aos que trabalham com notícias e informações. Diante da ameaça do vírus - o Brasil é o país mais seriamente afetado da América Latina - o presidente Bolsonaro intensificou seus ataques à mídia
 
-"A população logo perceberá que foi enganada pela mídia", disse ele em entrevista ao canal de televisão TV Record em 22 de março. Dois dias depois, depois de descrever o Covid-19 como uma "pequena gripe", ele acusou as organizações de mídia de causar histeria. No dia 28 de março, o ministro da Saúde, Luiz Enrique Mandetta, seguiu o exemplo, descrevendo a mídia em uma entrevista como “sórdida” e “tóxica” e instou os brasileiros a “desligar a TV por um tempo”. 
+"A população logo perceberá que foi enganada pela mídia", disse ele em entrevista ao canal de televisão TV Record em 22 de março. Dois dias depois, depois de descrever o Covid-19 como uma "pequena gripe", ele acusou as organizações de mídia de causar histeria. No dia 28 de março, o ministro da Saúde, Luiz Enrique Mandetta, seguiu o exemplo, descrevendo a mídia em uma entrevista como “sórdida” e “tóxica” e instou os brasileiros a “desligar a TV por um tempo”.
 
 Sem estranhar a contradição, o presidente Bolsonaro ignorou os regulamentos de quarentena do próprio governo e as recomendações da Organização Mundial da Saúde e foi censurado por sua atitude irresponsável pelas plataformas do Twitter e Instagram, algo que raramente acontece com um chefe de Estado.
 
 ## Clique na imagem para texto original contra Bolsonaro.
 
-[](https://rsf.org/en/news/brazil-brazilian-media-stop-going-dangerous-presidential-press-conferences)Brasil: mídia brasileira deixa de ir a coletivas de imprensa presidenciais “perigosas”
+Brasil: mídia brasileira deixa de ir a coletivas de imprensa presidenciais “perigosas”
 
 O Repórteres Sem Fronteiras (RSF) condenam a crescente agressividade dos apoiadores do presidente Jair Bolsonaro em relação a jornalistas que participam de suas coletivas de imprensa, o que levou muitos meios de comunicação a anunciar que deixarão de ir por enquanto. As autoridades devem acabar com essas ameaças inéditas e inaceitáveis ​​à mídia, disse a RSF.
 
@@ -53,7 +52,7 @@ Isso foi explicado no [primeiro de uma série](https://rsf.org/en/news/brazil-qu
 
 O Brasil ocupa a 107ª posição entre 180 países e territórios no [Índice Mundial da Liberdade de Imprensa 2020](https://rsf.org/en/ranking) da RSF .
 
-A pergunta que fica a esta organização: como se defender das mentiras da extrema imprensa brasileira? 
+A pergunta que fica a esta organização: como se defender das mentiras da extrema imprensa brasileira?
 
 Press Periódico - Paulo Fernando de Barros.
 

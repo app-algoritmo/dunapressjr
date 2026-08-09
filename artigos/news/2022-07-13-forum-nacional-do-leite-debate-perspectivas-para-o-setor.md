@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Primeira edição do evento termina nesta quarta-feira em Brasília.
 
 As perspectivas para o setor leiteiro estão sendo discutidas em Brasília por produtores, representantes da agroindústria e autoridades da área na primeira edição do Fórum Nacional do Leite. Organizada pela Associação Brasileira de Produtores de Leite (Abraleite) em parceria com o Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae) e com apoio do Banco do Brasil, o evento termina nesta quarta-feira (13).
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

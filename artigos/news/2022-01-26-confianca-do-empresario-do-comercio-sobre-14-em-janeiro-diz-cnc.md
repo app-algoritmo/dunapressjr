@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Indicador alcançou maior nível desde o início da pandemia de covid-19.
 
 O otimismo dos comerciantes se manteve em alta pela segunda vez consecutiva. O Índice de Confiança do Empresário do Comércio (Icec) subiu 1,4% em janeiro e atingiu 121,1 pontos, em uma escala que vai de zero a 200.
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

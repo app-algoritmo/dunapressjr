@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Objetivo é garantir equipamentos e materiais médicos e hospitalares para tratamento da população brasileira durante a pandemia.
 
 A Lei 13.993, de 23 de abril de 2020, proibiu a exportação de produtos médicos, hospitalares e de higiene essenciais ao combate à epidemia da Covid-19 no Brasil, enquanto perdurar a Emergência em Saúde Pública de Importância Nacional. Objetivo é garantir fornecimento de equipamentos e materiais médicos e hospitalares, tais como luva látex, luva nitrílica, avental impermeável, óculos de proteção, gorro, máscara cirúrgica, protetor facial, ventilador pulmonar mecânico e circuitos, camas hospitalares, monitores multiparâmetro, dentre outros, para tratamento médico da população brasileira.
@@ -21,7 +20,7 @@ O [Decreto 10.407/20](http://www.in.gov.br/en/web/dou/-/decreto-n-10.407-de-29-d
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

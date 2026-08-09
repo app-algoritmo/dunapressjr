@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Nova taxa será anunciada amanhã (17) após 2ª parte da reunião.
 
 O Comitê de Política Monetária (Copom) do Banco Central (BC) inicia hoje (16), em Brasília, a quarta reunião de 2020 para definir a taxa básica de juros, a Selic, atualmente em 3% ao ano. Amanhã (17), após a segunda parte da reunião, será anunciada a taxa ao final do dia.
@@ -39,5 +38,3 @@ As instituições financeiras consultadas pelo BC projetam inflação menor que 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal**.
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

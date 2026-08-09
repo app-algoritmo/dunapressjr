@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 “A preocupação é não paralisar a obras já iniciadas”, disse Rogério Marinho, ministro do Desenvolvimento Regional. Empreendimento beneficia em torno de 1,2 mil pessoas.
 
 Trezentas famílias de baixa renda de Osasco (SP) receberam, nesta terça-feira (16), apartamento de programa habitacional do Governo Federal. A entrega foi feita pelo ministro do Desenvolvimento Regional, Rogério Marinho. Cerca de 1,2 mil pessoas foram beneficiadas com as unidades residenciais. “Nosso programa habitacional, sem dúvida, é essencial para tentarmos diminuir o déficit habitacional que existe no país”, disse o ministro Rogério Marinho.
@@ -26,4 +25,4 @@ As famílias receberam um apartamento de 49,5 metros quadrados com dois quartos,
 
 Fonte gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=joiceferreiradunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

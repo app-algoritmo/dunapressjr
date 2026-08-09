@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-Recursos podem ser utilizados para aquisição de Equipamentos de Proteção Individual (EPIs), compra de alimentos e promoção de ações socioassistenciais. 
+Recursos podem ser utilizados para aquisição de Equipamentos de Proteção Individual (EPIs), compra de alimentos e promoção de ações socioassistenciais.
 
 O Governo Federal já repassou aos municípios brasileiros cerca de R$ 1 bilhão em recursos extraordinários para fortalecer a rede socioassistencial no país durante o período de emergência em saúde pública causada pela Covid-19. Esses recursos, previstos em [portaria](https://www.in.gov.br/en/web/dou/-/portaria-n-369-de-29-de-abril-de-2020-254678622) publicada em abril deste ano, podem ser utilizados, por exemplo, para adquirir Equipamentos de Proteção Individual (EPIs), como máscaras faciais e álcool 70%, aos trabalhadores do Sistema Único de Assistência Social (SUAS) no atendimento à população.
 
@@ -34,5 +33,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

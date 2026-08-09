@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 A Kristallnacht evoca imagens de vitrines destruídas e sinagogas incendiadas. Em contraste, uma coleção de depoimentos inéditos transmite o impacto pessoal do pogrom nazista sobre os judeus que fugiram da Alemanha em seu rastro.
 
 Durante a [Kristallnacht](https://www.ushmm.org/information/exhibitions/online-exhibitions/special-focus/kristallnacht) , cerca de 40.000 homens judeus na Alemanha, Áustria e Sudetenland foram presos e encarcerados em campos de concentração. A maioria deles foi libertada e forçada a emigrar, mas [centenas foram assassinados](https://books.google.com/books?id=g_-fhCHrxiQC&pg=PT37&lpg=PT37&dq=2,500+jews+died+in+concentration+camps+after+kristallnacht&source=bl&ots=5d8IrVrINy&sig=ACfU3U0qv2X-sAXL6nEreNbxAHxvGEnGVA&hl=en&sa=X&ved=2ahUKEwjems-yuOvzAhVMTDABHQOkChY4ChDoAXoECA4QAw#v=onepage&q=2%2C500%20jews%20died%20in%20concentration%20camps%20after%20kristallnacht&f=false) ou cometeram suicídio em Buchenwald, Dachau ou Sachsenhausen.
@@ -81,6 +80,4 @@ Fonte: [https://fr.timesofisrael.com](https://fr.timesofisrael.com)
 
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio! Gratuitamente, clique e comece já.
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!

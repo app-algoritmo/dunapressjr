@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A ação é de autoria da promotora de Justiça de Mamanguape, Carmem Perazzo.
 
 O Ministério Público da Paraíba (MPPB) ajuizou uma ação civil pública contra o Município de Cuité de Mamanguape, requerendo que seja julgado procedente a inconstitucionalidade de leis municipais que estão sendo usadas para permitir o ingresso de pessoas no serviço público, em desacordo com as normas constitucionais. Também requer concessão de liminar para regularizar a situação, com a exoneração de todos os comissionados que não estejam exercendo cargos exclusivos de chefia, direção e assessoramento, sob pena de multa diária de R$ 10 mil por cada dia de descumprimento.
@@ -30,4 +29,4 @@ Também requer que o Município seja obrigado a especificar as atribuições dos
 
 Fonte: Ministério Público da Paraíba
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

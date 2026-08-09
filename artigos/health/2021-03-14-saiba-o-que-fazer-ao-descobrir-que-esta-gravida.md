@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Estou grávida! Para algumas mulheres, essa descoberta é uma alegria; para outras, um susto. São vivências intensas e por vezes sentimentos contraditórios, momentos de dúvidas, de ansiedade, especialmente se você for adolescente. Você pode estar sonhando com esse momento há muito tempo ou talvez tenha sido surpreendida por uma gravidez inesperada. Mas o que fazer quando uma gravidez é descoberta?
 
 Bom, para começar, é preciso iniciar o mais breve possível o pré-natal em uma unidade de saúde. É importante fazer o pré-natal logo cedo para mulher ser avaliada, receber as orientações, para saber importância de se manter saudável, quais vacinas são necessárias tomar e também receber orientações psicológicas. explica a Gerlivia Maia Angelim, técnica da coordenação da Saúde da Mulher do Ministério da Saúde.
@@ -60,7 +59,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Muitas pessoas cuidam da saúde do corpo, mas esquecem uma importante parte dele: a boca. Escovação correta, uso do fio-dental e visitas periódicas ao dentista são ações simples que evitam patologias como a cárie e a doença periodontal. E o Dia Nacional da Saúde Bucal, lembrado no dia 25 de outubro, objetiva alertar as pessoas sobre estes problemas.
 
 Entre todas as doenças que afetam pessoas, a cárie é uma das mais prevalentes no Brasil e no mundo. A lesão de cárie, que pode se apresentar de diversas formas, ocorre, geralmente, por falta de escovação adequada e consumo de açúcares. Nicole Aimée, consultora da Coordenação de Saúde Bucal do Ministério da Saúde, cita também as lesões não cariosas, provocadas por hábitos não saudáveis.
@@ -43,7 +42,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

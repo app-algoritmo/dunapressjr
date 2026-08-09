@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Segundo dados da Organização Mundial da Saúde (OMS), pacientes com condições crônicas pré-existentes, como diabetes e hipertensão, apresentaram versões mais graves da doença causada pelo novo Coronavírus, a COVID-19. Isso significa dizer que a infecção se desenvolveu rapidamente para a síndrome do desconforto respiratório agudo, insuficiência respiratória aguda e outras complicações.
 
 Sabendo que a obesidade anda de mãos dadas com essas doenças crônicas, a preocupação para que ocorra o controle adequado da pressão arterial e dos níveis glicêmicos tende ser ainda maior, além dos cuidados individuais e coletivos como medidas de proteção para assim evitar a COVID-19 e suas complicações.
@@ -34,7 +33,7 @@ Mas além dessa dupla imbatível, as pessoas que já convivem com as doenças cr
 
 Assim como ocorre com os idosos, os pacientes crônicos devem evitar sair de casa. Se o serviço de saúde dispuser de canais de comunicação à distância, como telefone, mensagem, e-mail, as pessoas com fator de risco devem ser as primeiras a se beneficiar dessas ferramentas e evitar ir à unidade de saúde desnecessariamente.
 
-Neste sentido, vale lembrar que a telemedicina foi aprovada para o período de emergência em saúde pública decorrente de COVID-19 pela [Portaria nº 467](https://bit.ly/39qcCbf), de 20 de março de 2020, e é um importante recurso para a manutenção da atenção a doentes crônicos. O mesmo vale para a tele-enfermagem, autorizada por meio da [Resolução COFEN nº 0634/2020](https://bit.ly/3dO4fdg)).
+Neste sentido, vale lembrar que a telemedicina foi aprovada para o período de emergência em saúde pública decorrente de COVID-19 pela Portaria nº 467, de 20 de março de 2020, e é um importante recurso para a manutenção da atenção a doentes crônicos. O mesmo vale para a tele-enfermagem, autorizada por meio da Resolução COFEN nº 0634/2020).
 
 Imagem destacada: Pixabay
 
@@ -48,7 +47,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

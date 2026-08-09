@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Foram submetidas 1.420 teses para avaliação.
 
 O 15º Prêmio Capes de Tese bateu recorde de inscrições. A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) registrou 1.420 teses submetidas para avaliação neste ano, ante as 1.142 de 2019 e as 228 da primeira edição, em 2006.
@@ -33,8 +32,6 @@ Por região, o Sudeste teve 29 agraciados, seguido pelo Sul (11), Nordeste (4), 
 Em relação às premiações entregues às Instituições de Ensino Superior (IES), destacaram-se as Universidades estaduais de São Paulo (USP), com cinco teses premiadas, e Campinas (Unicamp), com quatro, além das federais de Santa Catarina (UFSC) e do Rio Grande do Sul (UFRGS), também com quatro pesquisas premiadas, cada uma.
 
 Fonte: gov.br/mec / Imagem em destaque: capes.gov.br
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

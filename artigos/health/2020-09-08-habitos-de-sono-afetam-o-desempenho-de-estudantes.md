@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 O desempenho acadêmico de universitários, como os estudantes de medicina, é essencial para uma boa qualificação profissional. Isto leva esses alunos, que têm densa carga curricular, a complementar o curso em atividades extracurriculares, como estágios, pesquisas e plantões.
 
 Entre os fatores que influenciam o desempenho, destacam-se os hábitos relativos ao sono, como sua duração e regularidade.
@@ -75,5 +74,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

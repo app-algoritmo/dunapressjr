@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O câncer de mama pode vir a ser detectado pelo sangue, em um processo denominado biópsia líquida. Uma bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) trabalha com a mesma linha de pesquisa desde 2012 para concretizar o uso da tecnologia em hospitais, possibilitando diagnósticos mais rápidos e em um processo menos invasivo.
 
 No lugar do tradicional método, coleta-se um tubo de sangue das pacientes. O material passa por uma centrífuga, que separa as suas partes, e um citômetro de fluxo, que as conta e classifica. Nisso, é possível identificar a presença ou ausência de células tumorais, bem como diferenciar o câncer de mama de um tumor benigno.
@@ -44,7 +43,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

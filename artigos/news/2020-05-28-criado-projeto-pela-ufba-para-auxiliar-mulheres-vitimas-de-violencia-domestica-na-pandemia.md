@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## **Bolsistas da Capes dão orientações para melhorar a saúde física e mental das mulheres atendidas.**
 
 A pandemia do novo coronavírus levou profissionais de diversas áreas a desempenhar suas atividades de forma diferente. Na Universidade Federal da Bahia (UFBA), o Programa de Pós-Graduação em Enfermagem e Saúde capacita monitores para desenvolverem um trabalho de acolhimento e acompanhamento de mulheres vítimas de violência doméstica por telefone. A iniciativa, denominada Projeto Vid@ na Covid, é realizada em parceria com a Polícia Militar do estado.
@@ -26,8 +25,6 @@ A ação conta com a parceria das Universidades do Estado da Bahia (Uneb) e a Fe
 A doutoranda, Luana Campos, considera a integração um ponto fundamental. Ela conta que as mulheres “inicialmente se sentem um pouco resistentes às ligações”, mas que “no andar do trabalho elas se sentem acolhidas e mais seguras”.
 
 Fonte: portalmec.gov.br / Imagem em destaque: Acegis
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

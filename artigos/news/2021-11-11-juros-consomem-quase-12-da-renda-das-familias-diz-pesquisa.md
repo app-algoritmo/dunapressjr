@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Empresas usam R$ 90,2 bilhões para quitar juros em 2021.
 
 Cerca de 6% do Produto Interno Bruto (PIB) semestral e 11,79% da renda das famílias ficaram comprometidos com pagamento de juros no primeiro semestre de 2021, aponta estudo da Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo (FecomercioSP). Foram R$ 233,5 bilhões no período. Em termos comparativos, o montante é equivalente a 73% do recurso injetado via auxílio emergencial no ano passado.
@@ -26,14 +25,10 @@ A FecomercioSP aponta, também, que a inadimplência entre as famílias está co
 
 Em relação ao crédito neste ano, considerando o período analisado, “tanto as concessões quanto o saldo das operações de crédito para pessoa jurídica avançaram, no comparativo anual, 1,2% e 5,1%, respectivamente”, aponta em nota a federação.
 
-Para ela, “o crédito no Brasil impõe um custo elevado tanto para os lares como para as empresas, retirando da sociedade quase 8% do PIB semestral, a título de pagamento de juros”. A entidade acredita que o desequilíbrio nas contas públicas é o principal fator que explica os juros elevados. 
+Para ela, “o crédito no Brasil impõe um custo elevado tanto para os lares como para as empresas, retirando da sociedade quase 8% do PIB semestral, a título de pagamento de juros”. A entidade acredita que o desequilíbrio nas contas públicas é o principal fator que explica os juros elevados.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

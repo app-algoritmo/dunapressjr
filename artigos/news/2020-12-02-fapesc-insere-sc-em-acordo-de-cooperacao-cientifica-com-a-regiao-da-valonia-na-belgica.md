@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O desenvolvimento de pesquisas mais amplas e novas tecnologias depende de parcerias e acordos para troca de conhecimento e busca de investimentos. Para ajudar a comunidade científica catarinense, o presidente da Fundação de Amparo à Pesquisa e Inovação de Santa Catarina (Fapesc), Fábio Zabot Holthausen, e o diretor de Ciência, Tecnologia e Inovação, Amauri Bogo, apresentaram os destaques econômicos catarinenses em reunião com novos parceiros de cooperação da Wallonie-Bruxelles Internacional da Bélgica.
 
 O encontro virtual também foi acompanhado por presidentes de outras fundações de amparo à pesquisa do Brasil. O acordo é liderado pelo Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (Confap).
@@ -59,7 +58,5 @@ SEU APOIO VOLUNTARIO É MUITO IMPORTANTE!
 Sua assinatura não somente ajudará no fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

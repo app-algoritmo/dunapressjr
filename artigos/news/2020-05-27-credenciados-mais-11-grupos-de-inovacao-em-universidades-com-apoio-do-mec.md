@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## **Novas unidades Embrapii receberão R$ 30 milhões para desenvolver projetos de inovação com a indústria.**
 
 Com o apoio do Ministério da Educação (MEC), 11 novos grupos de pesquisa de universidades federais foram selecionados e serão credenciados pela Empresa Brasileira de Pesquisa e Inovação Industrial (Embrapii). Os grupos de pesquisadores das instituições terão disponíveis cerca de R$ 30 milhões para investir em projetos de pesquisa, desenvolvimento e inovação (PD&I) para atender demandas do setor industrial.
@@ -72,11 +71,9 @@ A nova unidade Embrapii envolve pesquisadores do Instituto de Computação da UF
 
 **Unidade Embrapii em Tecnologias e Sistemas Veiculares da Universidade Federal de Pernambuco (UFPE)**
 
-A nova unidade Embrapii é formada por pesquisadores do Centro de Informática (CIn) da UFPE, importante centro do Brasil e da América Latina. Está credenciada para desenvolver PD&I na área de Tecnologias e Sistemas Veiculares, atuando com soluções de software e hardware em sistemas automotivos e toda sua cadeia de valor. 
+A nova unidade Embrapii é formada por pesquisadores do Centro de Informática (CIn) da UFPE, importante centro do Brasil e da América Latina. Está credenciada para desenvolver PD&I na área de Tecnologias e Sistemas Veiculares, atuando com soluções de software e hardware em sistemas automotivos e toda sua cadeia de valor.
 
 Fonte: portal.mec.gov.br / Imagem em destaque: Istoedinheiro.com.br
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

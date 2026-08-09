@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Foram liberados R$ 4,52 bilhões que estavam contingenciados.
 
 A diminuição de diversas estimativas de gastos obrigatórios criou espaço no teto federal de gastos e fez o governo desbloquear todo o Orçamento de 2021. Segundo o Relatório Bimestral de Avaliação de Receitas e Despesas, divulgado nesta quinta-feira (22) pelo Ministério da Economia, a equipe econômica liberou os R$ 4,522 bilhões que estavam contingenciados desde a sanção do Orçamento, em abril.
@@ -44,10 +43,6 @@ Com o relatório divulgado hoje, os cerca de R$ 4,5 bilhões que ainda estavam b
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Recursos são destinados ao pagamento de despesas com pessoal ativo e inativo, militares e civis, do governo federal.
 
 O governo federal publicou nesta sexta-feira (6) a [Portaria nº 9.295](https://in.gov.br/web/dou/-/portaria-seto/me-n-9.295-de-4-de-agosto-de-2021-336646051) da Secretaria Especial do Tesouro e Orçamento que abre crédito suplementar à Lei Orçamentária Anual (LOA) de 2021 em favor de diversos órgãos. As alterações no orçamento somam cerca de R$ 549 milhões, destinados majoritariamente ao pagamento de despesas com pessoal ativo e inativo, militares e civis, do governo federal.
@@ -18,10 +17,6 @@ As modificações decorrentes da abertura do crédito não geram prejuízo ao cu
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

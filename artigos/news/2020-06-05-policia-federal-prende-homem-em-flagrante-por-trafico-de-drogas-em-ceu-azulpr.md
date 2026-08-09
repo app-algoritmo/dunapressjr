@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Foz do Iguaçu/PR - Na quinta-feira (4/6), policiais federais prenderam um indivíduo por tráfico de drogas. O flagrante ocorreu no posto da PRF em Céu Azul/PR.
 
 Durante a operação, foi abordado um veículo com placas de Ariquemes/RO, conduzido por motorista de aplicativo, que transportava um passageiro e tinha como destino a cidade de Cascavel/PR.
@@ -21,5 +20,3 @@ O indivíduo, que possui antecedentes criminais, disse que entregaria o entorpec
 Diante dos fatos, o homem, de 38 anos, e o entorpecente foram levados à Delegacia de Polícia Civil de Matelândia para a lavratura do auto de prisão em flagrante.
 
 Comunicação Social da Polícia Federal em Foz do Iguaçu
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

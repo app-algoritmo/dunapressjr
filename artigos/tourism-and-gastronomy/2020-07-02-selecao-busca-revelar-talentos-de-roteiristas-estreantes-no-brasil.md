@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Concurso da Organização dos Estados Ibero-americanos, em parceria com a Secretaria do Audiovisual, vai premiar obras inéditas e qualificar seus autores.
 
 Roteiristas estreantes de todo o país terão a chance de conquistar visibilidade e se qualificar para atuar no mercado audiovisual. A Organização dos Estados Ibero-americanos (OEI) lançou nesta quarta-feira (01.07) o edital do Concurso Novos Roteiros Originais - Edição Brasil, que vai premiar um total de 45 histórias de filmes de longa e curta metragem e séries que ainda não tenham sido filmados ou exibidos profissionalmente. (Acesse [aqui](https://www.oei.org.br/novos-roteiros/edital.pdf) o edital)
@@ -26,7 +25,7 @@ Imagem: Projeto Cinemaneiro
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

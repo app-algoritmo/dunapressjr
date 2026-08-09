@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice acumula taxa de 6,11% em 12 meses.
 
 O Índice de Preços ao Consumidor Semanal (IPC-S) registrou inflação de 1% em março deste ano, acima do 0,54% de fevereiro. Com o resultado, divulgado hoje (5) pela Fundação Getulio Vargas (FGV), o IPC-S acumula taxa de 6,11% em 12 meses.
@@ -22,10 +21,6 @@ O grupo educação, leitura e recreação foi o único a registrar deflação (q
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

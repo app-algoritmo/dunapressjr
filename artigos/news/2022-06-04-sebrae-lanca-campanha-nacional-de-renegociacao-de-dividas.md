@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Estimativa é beneficiar cerca de 14 mil empresas.
 
 O Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae) lançou nesta sexta-feira (3) campanha para apoiar os pequenos negócios que tenham empréstimos com parcelas em atraso. Podem aderir também aquelas que estiverem com garantia do Fundo de Aval do Sebrae (Fampe). A proposta é oferecer melhores condições aos micro e pequenos negócios para renegociar dívidas e voltar à normalidade dos fluxos de pagamento.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

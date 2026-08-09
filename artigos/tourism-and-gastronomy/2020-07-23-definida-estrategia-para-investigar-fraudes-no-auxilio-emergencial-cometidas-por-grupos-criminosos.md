@@ -8,7 +8,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Governo Federal, órgãos de controle, Ministério Público e Polícia Federal criam novos instrumentos de combate a irregularidades no pagamento do benefício.
 
 O Ministério da Cidadania vai contribuir em uma nova estratégia de combate a fraudes no Auxílio Emergencial de forma integrada com o Ministério Público Federal (MPF), a Polícia Federal (PF) e a Caixa Econômica Federal. O foco principal será na atuação de grupos criminosos. Renda, patrimônio pessoal e participação em empresas, além de indicadores de irregularidades sistêmicas, serão considerados na análise.
@@ -47,7 +46,7 @@ Imagem: Marcelo Camargo
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

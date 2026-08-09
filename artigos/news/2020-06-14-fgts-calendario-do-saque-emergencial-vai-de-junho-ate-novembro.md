@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 No país, 60 milhões de pessoas receberão até R$ 1.045.
 
 O pagamento do saque emergencial do Fundo de Garantia do Tempo de Serviço (FGTS) começará no fim de junho e irá até o meio de novembro. As datas serão organizadas de acordo com o mês de nascimento dos beneficiados. De acordo com a estimativa da Caixa, 60 milhões de pessoas receberão, cada uma, R$ 1.045 em todo o país.
@@ -49,8 +48,6 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique no banner abaixo para assinar
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

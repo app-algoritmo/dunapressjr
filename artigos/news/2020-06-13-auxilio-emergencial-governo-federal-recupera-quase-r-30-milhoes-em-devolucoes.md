@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Total reúne recursos devolvidos por 39.517 pessoas que receberam o benefício, mas não se enquadravam nos critérios da lei. Saiba como devolver e denunciar irregularidades.
 
 O Governo Federal recuperou, até esta sexta-feira (12.06), R$ 29,65 milhões do Auxílio Emergencial pagos a pessoas fora dos critérios para recebimento do benefício. Por meio do site **[devolucaoauxilioemergencial.cidadania.gov.br](https://devolucaoauxilioemergencial.cidadania.gov.br/)**, 39.517 pessoas que não se enquadravam nos critérios da lei emitiram Guias de Recolhimento da União (GRU) para devolver valores. Desse total, 23.643 foram militares, que somaram R$ 15,2 milhões em devoluções.
@@ -35,8 +34,6 @@ Fonte: Gov BR
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique aqui no banner abaixo para assinar
-
-[](https://dunapress.org/subscription-plan/?aff=Thami)
 
 Experimente por 7 Dias Gratuitos
 

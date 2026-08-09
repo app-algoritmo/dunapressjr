@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Ibovespa subiu 0,81% e recuperou os 110 mil pontos.
 
 Em um dia de instabilidade global no mercado financeiro, a moeda norte-americano aproximou-se de R$ 5,25 e fechou no maior valor em quase um mês. O dólar comercial encerrou esta quinta-feira (1º) vendido a R$ 5,238, com alta de R$ 0,037, ou seja, uma alta de 0,71%.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

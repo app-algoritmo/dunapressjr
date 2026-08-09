@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 ′′Se eu morrer antes do meu cachorro, queria pedir permissão para poder voltar e poder me despedir, para que o meu cãozinho saiba que Deus me chamou e que eu não o abandonei.
 
 Quero que ele fique nas melhores mãos e lhe diga que estarei esperando.
@@ -19,7 +18,7 @@ Se eu morrer primeiro, me dê permissão para lhe dizer
 quanto eu quero.
 
 E quando finalmente voltarmos a ficar juntos,
-será para sempre." 
+será para sempre."
 
 (Anônimo)
 
@@ -32,5 +31,3 @@ será para sempre."
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

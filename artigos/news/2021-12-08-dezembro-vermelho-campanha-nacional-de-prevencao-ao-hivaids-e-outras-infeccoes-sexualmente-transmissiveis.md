@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Campanha Dezembro Vermelho foi instituída no Brasil pela [**Lei nº 13.504/2017**](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13504.htm) como forma de gerar mobilização nacional na luta contra o vírus HIV, a Aids e outras ISTs (Infecções Sexualmente Transmissíveis).
 
 A ação objetiva, ainda, chamar a atenção para a prevenção, a assistência e a proteção dos direitos das pessoas infectadas com o HIV.
@@ -72,7 +71,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

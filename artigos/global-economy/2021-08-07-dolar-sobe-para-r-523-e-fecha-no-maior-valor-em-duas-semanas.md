@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa recupera-se de quedas recentes e fecha semana com ganhos.
 
 Influenciado pela recuperação do emprego nos Estados Unidos, o dólar subiu nesta sexta-feira (6) e fechou no maior valor em duas semanas. A bolsa de valores recuperou-se das quedas recentes e teve o primeiro ganho semanal acumulado após duas semanas de queda.
@@ -24,17 +23,13 @@ A divulgação de que a economia dos Estados Unidos criou 943 mil vagas fora do 
 
 Juros mais altos em países avançados estimulam a fuga de capitais de países emergentes, como o Brasil. No mercado doméstico, as tensões políticas e as dúvidas sobre um fundo que financiaria o novo Bolsa Família com despesas fora do teto de gastos também influenciaram as negociações.
 
-## 
+##
 Saiba mais na [**TV Brasil**](https://www.youtube.com/user/tvbrasil/videos): 
 
 https://youtu.be/PUZ5jvcVYH4
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

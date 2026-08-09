@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Foz do Iguaçu/PR – A Polícia Federal deflagrou nesta segunda-feira (22/6) a Operação Fratis, com o objetivo de desarticular associação criminosa voltada ao tráfico interestadual de drogas. 
+Foz do Iguaçu/PR – A Polícia Federal deflagrou nesta segunda-feira (22/6) a Operação Fratis, com o objetivo de desarticular associação criminosa voltada ao tráfico interestadual de drogas.
 
 A deflagração contou com a participação de 16 policiais federais que deram cumprimento em Foz do Iguaçu/PR a quatro mandados de busca e apreensão, expedidos pela Justiça Estadual do Paraná, em endereços relacionados aos investigados e dois mandados de prisão preventiva, expedidos pela Justiça Estadual de Minas Gerais. Além da execução das prisões, foram apreendidos diversos aparelhos celulares, dinheiro e um caminhão.
 
@@ -23,5 +22,3 @@ Todos integrantes do grupo investigados na operação de hoje já possuíam pass
 Ao final da investigação ficou constatado que, mesmo já tendo sido presos em outras ocasiões, permaneceram associados e cometendo novos crimes, razão pela qual serão indiciados, na medida da sua culpabilidade, pelos crimes de associação criminosa e tráfico de drogas e responderão na Justiça por seus crimes.
 
 Comunicação Social da Polícia Federal em Foz do Iguaçu
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

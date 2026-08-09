@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Inflação deve chegar a 5% ao final de 2021.
 
 O Banco Central (BC) reduziu a projeção para o crescimento da economia este ano. A estimativa para a expansão do Produto Interno Bruto (PIB) – a soma de todos os bens e serviços produzidos no país – passou de 3,8% para 3,6%. A projeção consta do [**Relatório de Inflação**](https://www.bcb.gov.br/publicacoes/ri), publicação trimestral do BC, divulgado hoje (25), e, segundo o órgão, “depende da continuidade do processo de reformas e ajustes necessários na economia brasileira, condição essencial para permitir a recuperação sustentável da economia”.
@@ -40,10 +39,6 @@ Esse é o principal instrumento usado pelo Banco Central para alcançar a meta d
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. 
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
-Obrigado pelo apoio!    
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

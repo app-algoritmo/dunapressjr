@@ -7,7 +7,6 @@ categories:
 - Policy
 ---
 
-
 ## Estudo da Consultoria Legislativa da Câmara dos Deputados mostra quais autoridades têm prerrogativa de foro, em que tribunais cada uma delas é julgada hoje por crimes comuns e qual proposta de mudança está em discussão.
 
 # Foro por prerrogativa de função
@@ -46,7 +45,7 @@ Em comparação com outros países, Brasil tem maior número de autoridades com 
 
 Além dos citados  no quadro, AINDA possuem Foro Privilegiado:
 
-Brasil: 
+Brasil:
 
 Membros de:
 - STF, STJ
@@ -60,12 +59,12 @@ Membros de:
 - Embaixadores
 - Integrantes de órgãos estaduais e municipais de mesma natureza.
 
-Áustria: 
+Áustria:
 
 - Governadores
 - Integrantes da prefeitura da capital, Viena.
 
-Espanha: 
+Espanha:
 
 - Presidente e integrantes de tribunais superiores
 - Fiscal Geral do Estado e dos tribunais superiores
@@ -78,12 +77,12 @@ Estados Unidos:
 - Embaixadores e cônsules
 - Qualquer autoridade quando a outra parte for um Estado.
 
-Noruega: 
+Noruega:
 
 - Integrantes do Conselho de Estado
 - da Corte Suprema
 
-Portugal: 
+Portugal:
 
 - Juízes do Supremo Tribunal de Justiça
 - Ministério Público.
@@ -101,7 +100,3 @@ Fonte: https://www.camara.leg.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

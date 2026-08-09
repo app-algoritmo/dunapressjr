@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado acumulado em três trimestres já é recorde mesmo para 12 meses; estimativas da Secex apontam para saldo positivo de US$ 70,9 bilhões em 2021.
 
 A balança comercial brasileira alcançou superávit recorde de US$ 56,4 bilhões nos nove primeiros meses de 2021, com crescimento de 38,3%, pela média diária, em relação mesmo período do ano passado. Os dados divulgados nesta sexta-feira (1º/10) pela Secretaria de Comércio Exterior (Secex) do Ministério da Economia mostram que as exportações até setembro subiram 36,9%, atingindo US$ 213,9 bilhões, enquanto as importações somaram US$ 156,8 bilhões, em alta de 36,4%. A soma de exportações e importações resultou em uma corrente de comércio de US$ 370,01 bilhões, em crescimento de 36,7%.
@@ -54,10 +53,6 @@ A soma das exportações e importações, segundo a Secex, também vai gerar um 
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

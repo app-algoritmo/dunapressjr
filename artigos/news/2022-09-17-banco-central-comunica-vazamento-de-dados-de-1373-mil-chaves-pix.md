@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Foram vazados dados cadastrais da Abastece Aí; caso será investigado.
 
 Cerca de 137,3 mil chaves Pix de clientes da Abastece Ai Clube Automobilista Payment Ltda. (Abastece Aí) tiveram dados vazados, informou nesta sexta-feira (16) o Banco Central (BC). Esse foi o quarto vazamento de dados desde o lançamento do sistema instantâneo de pagamentos, em novembro de 2020.
@@ -24,7 +23,7 @@ A exposição de dados não significa necessariamente que todas as informações
 
 ### Posicionamento
 
-Em nota enviada à **Agência Brasil**, a Abastece-aí comunicou que "em razão do incidente de segurança, do qual foi vítima, já bloqueou as atividades suspeitas".  A empresa ressaltou que não foram expostas senhas, informações de movimentações, saldos financeiros ou quaisquer outras informações sob sigilo bancário. "Potenciais informações indevidamente acessadas do Pix são dados cadastrais, não permitindo movimentação de recursos, nem acesso às contas ou a outras informações financeiras. A empresa reforça que todas as medidas cabíveis a essa investigação já estão sendo tomadas", diz a nota.
+Em nota enviada à **Agência Brasil**, a Abastece-aí comunicou que "em razão do incidente de segurança, do qual foi vítima, já bloqueou as atividades suspeitas". A empresa ressaltou que não foram expostas senhas, informações de movimentações, saldos financeiros ou quaisquer outras informações sob sigilo bancário. "Potenciais informações indevidamente acessadas do Pix são dados cadastrais, não permitindo movimentação de recursos, nem acesso às contas ou a outras informações financeiras. A empresa reforça que todas as medidas cabíveis a essa investigação já estão sendo tomadas", diz a nota.
 
 ### Histórico
 
@@ -38,6 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

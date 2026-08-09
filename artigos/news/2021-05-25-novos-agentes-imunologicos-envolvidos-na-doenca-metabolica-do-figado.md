@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Os tratamentos futuros podem envolver a manipulação de um subtipo de célula imunológica.
 
 Nossos fígados trabalham duro para realizar uma ampla gama de atividades: ajudando-nos a digerir os alimentos, mantendo a temperatura corporal e servindo como um importante ponto de verificação do sistema imunológico para tudo o que comemos. É dentro do fígado que a rede única, rica e complexa de células e vias imunológicas é configurada para decidir o que é uma partícula alimentar inofensiva e o que é um patógeno perigoso que deve ser neutralizado e removido. O fígado é, portanto, muito sensível aos alimentos que consumimos e, às vezes, uma dieta inadequada pode induzir a uma séria desregulação das atividades imunológicas dentro dele.
@@ -51,7 +50,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

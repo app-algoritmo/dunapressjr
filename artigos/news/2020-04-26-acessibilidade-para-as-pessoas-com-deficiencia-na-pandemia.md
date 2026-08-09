@@ -7,26 +7,25 @@ categories:
 - News
 ---
 
-
 O foco da SNDPD no período é garantir o acesso a informação às mais de 45 milhões de pessoas com deficiência no Brasil. Por isso, preparou várias cartilhas, inclusive em formato HTML, para que os diversos grupos de pessoas com deficiência esteja munido do conhecimento mínimo necessário para a prevenção ao coronavírus. 
 
-[Clique aqui e conheça o material informativo sobre os cuidados que devem ser tomados pelas pessoas com deficiência e doenças raras durante a pandemia do novo coronavírus (Covid-19).](https://sway.office.com/tDuFxzFRhn1s8GGi?ref=Link)
+[Clique aqui e conheça o material informativo sobre os cuidados que devem ser tomados pelas pessoas com deficiência e doenças raras durante a pandemia do novo coronavírus (Covid-19).](https://sway.office.com/tDuFxzFRhn1s8GGi)
 
 "A comunicação é algo primordial para nossa existência. Vemos que os canais abertos, por exemplo, não garantem acessibilidade, mas a informação precisa chegar a todos. São cartilhas diferentes umas das outras, que contêm orientações para cada grupo de pessoa com deficiência, pois elas têm necessidades específicas e diferentes tipos de proteção", explicou Priscilla. 
 
-[Conheça a cartilha - Perguntas e respostas voltadas para as pessoas com doenças raras a respeito do novo coronavírus (Covid-19)](https://sway.office.com/TsIUGNeDgKS2gy0i?ref=Link)
+[Conheça a cartilha - Perguntas e respostas voltadas para as pessoas com doenças raras a respeito do novo coronavírus (Covid-19)](https://sway.office.com/TsIUGNeDgKS2gy0i)
 
 Na ocasião, a secretária comentou a participação da equipe em reunião da Organização das Nações Unidas (ONU), na qual líderes e gestores de países sul-americanos trocaram experiências, boas práticas e soluções para o enfrentamento à pandemia.
 
 A SNDPD apresentou as cartilhas, que serão utilizadas como modelo para outras nações. "Estamos muito orgulhosos. Esse material tem ajudado muitas pessoas", comemorou. 
 
-[Saiba mais sobre a cartilha acessível Direitos Humanos dos brasileiros no exterior no contexto da Covid-19](https://sway.office.com/xmFK9mACBV0BcQob?ref=Link)
+[Saiba mais sobre a cartilha acessível Direitos Humanos dos brasileiros no exterior no contexto da Covid-19](https://sway.office.com/xmFK9mACBV0BcQob)
 
 De acordo com a gestora, outra publicação como essas, voltada para crianças com deficiência, já está sendo elaborada em parceria com outros ministérios e com o Conselho Nacional dos Direitos da Pessoa com Deficiência (CONADE), em articulação com conselhos estaduais e municipais.
 
 Ela aproveitou para destacar a importância dos conselhos na articulação de políticas públicas e de instituições da sociedade civil que cuidam de pessoas com deficiência. "Infelizmente, são pouquíssimos os conselhos de pessoas com deficiência existentes. Eles são muito importantes para levantamento de dados, proteção e elaboração de políticas públicas efetivas". 
 
-[Conheça a cartilha com as recomendações a profissionais que atendem pessoas com deficiência e raros](https://sway.office.com/j2akoXNcMGj7Q2cn?ref=Link). 
+[Conheça a cartilha com as recomendações a profissionais que atendem pessoas com deficiência e raros](https://sway.office.com/j2akoXNcMGj7Q2cn). 
 
 Para o cadastro de instituições, a Pasta criou um [formulário](https://docs.google.com/forms/d/e/1FAIpQLSetq-6qFtmXcv-gVWGIPAb6uavOzMQCPaRYiQ1yWFksXJn-9w/viewform), com o objetivo de garantir apoio em diversas frentes, como educação, saúde e assistência social.
 

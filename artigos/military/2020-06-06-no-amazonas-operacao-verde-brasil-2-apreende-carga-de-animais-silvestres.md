@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 A Operação Verde Brasil 2 apreendeu uma carga contendo 64 animais silvestres no Estado do Amazonas. O Comando Conjunto Príncipe da Beira, que coordena as ações também no Acre e em Rondônia, ainda realizou entre quinta-feira (04) e sábado (06) a apreensão de embarcações, armamento e munição ao revistar veículos, embarcações e aeronaves. Ao todo, mais de R$ 4 milhões foram aplicados em multas e termos de infração.
 
 Também na quinta-feira, o Príncipe da Beira estabeleceu postos de bloqueio e controle de estradas e desenvolveu ações de inspeção naval, fiscalização de madeireiras e patrulha motorizada, terrestre, fluvial e aeromóvel. Além de militares da Marinha, do Exército e da Força Aérea Brasileira (FAB), as atividades contataram com agentes de instituições federais e estaduais.
@@ -24,5 +23,3 @@ Mais de 13,8 mil metros cúbicos de madeira ilegal também foram confiscados. At
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

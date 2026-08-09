@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Decisão de elevar a Selic pela terceira vez era esperada pelo mercado.
 
 O Banco Central (BC) subiu os juros básicos da economia em 0,75 ponto percentual, pela terceira vez consecutiva. A decisão, anunciada nesta quarta-feira (16) pelo Comitê de Política Monetária (Copom), elevou a taxa Selic de 3,5% para 4,25% ao ano. A elevação foi deliberada de forma unânime pelos integrantes do colegiado, que é formado por diretores do BC, e era esperada pelos analistas financeiros.
@@ -18,7 +17,7 @@ No comunicado, o Copom destacou que a pressão inflacionária revela-se maior qu
 
 Com a decisão desta quarta-feira (16), a Selic continua em um ciclo de alta, depois de passar seis anos sem ser elevada. De julho de 2015 a outubro de 2016, a taxa permaneceu em 14,25% ao ano. Depois disso, o Copom voltou a reduzir os juros básicos da economia até que a taxa chegou a 6,5% ao ano, em março de 2018.
 
-Em julho de 2019, a Selic voltou a ser reduzida até alcançar 2% ao ano em agosto de 2020, influenciada pela contração econômica gerada pela pandemia de covid-19. Esse era o menor nível da série histórica iniciada em 1986. Porém, a taxa começou a subir novamente em março deste ano, passando para 2,75%. Depois, em maio, [**subiu de novo, para 3,5%**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-05/copom-eleva-juros-basicos-da-economia-para-35-ao-ano).  
+Em julho de 2019, a Selic voltou a ser reduzida até alcançar 2% ao ano em agosto de 2020, influenciada pela contração econômica gerada pela pandemia de covid-19. Esse era o menor nível da série histórica iniciada em 1986. Porém, a taxa começou a subir novamente em março deste ano, passando para 2,75%. Depois, em maio, [**subiu de novo, para 3,5%**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-05/copom-eleva-juros-basicos-da-economia-para-35-ao-ano).
 
 ## Inflação
 
@@ -34,7 +33,7 @@ Já a projeção do mercado prevê uma inflação ainda maior, acima até do tet
 
 A elevação da taxa Selic ajuda a controlar a inflação. Isso porque juros maiores encarecem o crédito e desestimulam a produção e o consumo. Por outro lado, taxas mais altas dificultam a recuperação da economia.
 
-No último Relatório de Inflação, o Banco Central projetava crescimento de 3,6% para a economia em 2021, decorrente da segunda onda da pandemia de covid-19. No Boletim Macrofiscal de Maio, divulgado no mês passado pelo Ministério da Economia, a [**previsão de crescimento**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-05/projecao-de-crescimento-do-pib-passa-de-32-para-35) do Produto Interno Bruto (PIB, soma dos bens e serviços produzidos no país) para 2021 foi de 3,5%. 
+No último Relatório de Inflação, o Banco Central projetava crescimento de 3,6% para a economia em 2021, decorrente da segunda onda da pandemia de covid-19. No Boletim Macrofiscal de Maio, divulgado no mês passado pelo Ministério da Economia, a [**previsão de crescimento**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-05/projecao-de-crescimento-do-pib-passa-de-32-para-35) do Produto Interno Bruto (PIB, soma dos bens e serviços produzidos no país) para 2021 foi de 3,5%.
 
 O mercado projeta crescimento maior. Segundo a última edição do boletim Focus, os analistas econômicos preveem expansão de 4,85% do PIB este ano.
 
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

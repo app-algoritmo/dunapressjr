@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## **Instituto Federal do Sertão Pernambucano doará produção para profissionais de saúde da região.**
 
 Produzir máscaras de proteção contra o coronavírus e, ao mesmo tempo, oferecer capacitação profissional a comunidades do sertão pernambucano. Esse é o objetivo do projeto “Respire com segurança, respire vida no Sertão”, orientado pelo professor Jeziel da Cruz, do Instituto Federal do Sertão Pernambucano.
@@ -22,8 +21,6 @@ O projeto deverá atender também aos Assentamentos Água Viva I e II, situados 
 A iniciativa foi aprovada no edital de custeio de Projetos de Pesquisa, Extensão e Inovação lançado no mês de abril pelo Instituto Federal do Sertão Pernambucano, para contribuir no enfrentamento da emergência de saúde pública decorrente do novo coronavírus. Ao todo, doze projetos foram aprovados, com vigência até outubro.
 
 Fonte: portal.mec.gov.br / Imagem em destaque: ifsertao
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

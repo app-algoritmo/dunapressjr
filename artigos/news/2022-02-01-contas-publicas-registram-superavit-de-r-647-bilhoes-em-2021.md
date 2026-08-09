@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dados são do relatório das Estatísticas Fiscais do Banco Central.
 
 As contas públicas registraram saldo positivo em 2021, segundo dados divulgados nesta segunda-feira (31), em Brasília, pelo Banco Central (BC). No ano passado, o setor público consolidado, formado por União, estados e municípios, apresentou superávit primário de R$ 64,7 bilhões, ante déficit de R$ 703 bilhões em 2020. O resultado, o primeiro positivo das contas públicas desde 2013, representa 0,75% do Produto Interno Bruto (PIB) frente aos 9,41% de impacto registrados em 2020.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

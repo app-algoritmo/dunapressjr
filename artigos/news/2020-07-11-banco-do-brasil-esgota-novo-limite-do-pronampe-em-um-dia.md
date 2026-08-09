@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Instituição financeira emprestou quase R$ 5 bilhões.
 
 Poucas horas depois de ter o orçamento ampliado, o Banco do Brasil emprestou integralmente os R$ 4,98 bilhões das linhas de crédito do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe), que ajuda micro e pequenas empresas afetadas pela pandemia do novo coronavírus. Ontem (9) à noite, o Ministério da Economia tinha elevado em R$ 1,24 bilhão o teto que a instituição pode emprestar.
@@ -24,4 +23,4 @@ A ampliação dos limites do Pronampe para o BB saiu um dia depois de o Ministé
 
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

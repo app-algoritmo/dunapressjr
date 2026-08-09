@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Uma boa notícia: o Brasil ultrapassou a marca de 100.459 pessoas recuperadas da Covid-19. O número representa 39,5% do total de casos confirmados até o momento: 254.220 pessoas, segundo dados do Ministério da Saúde, desta segunda-feira (18). Outras 136.969 pessoas estão sendo acompanhadas (53,9%) por profissionais que monitoram a evolução da doença. As informações foram atualizadas até às 19h e repassadas pelas secretarias estaduais de Saúde de todo o Brasil.
 
 Desde o dia 26 de fevereiro, quando o primeiro caso foi confirmado no País, o governo adotou uma série de medidas, junto a estados e municípios, para garantir a estrutura necessária ao atendimento dos pacientes com a doença. Desde então, o Ministério da Saúde não tem medido esforços para adquirir e distribuir Equipamentos de Proteção Individual (EPIs), recursos humanos e financeiros, respiradores e insumos. Entre abril e maio, também foram habilitados mais de três mil leitos de UTI voltados exclusivamente para o atendimento de pacientes graves ou gravíssimos do coronavírus.
@@ -29,5 +28,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

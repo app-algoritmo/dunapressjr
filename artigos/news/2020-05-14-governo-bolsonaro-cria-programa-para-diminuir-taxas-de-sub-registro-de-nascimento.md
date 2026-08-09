@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Com o objetivo de diminuir a taxa de sub-registro de nascimento, o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) vai doar equipamentos para a implantação de Unidades Interligadas para Registro Civil de Nascimento nos estabelecimentos de saúde em que se realizam partos. A ação faz parte do Programa de Fomento à Implantação de Unidades Interligadas de Registro Civil, publicada no Diário Oficial da União na última segunda-feira (11). 
 
 A [Portaria 1.242](http://www.in.gov.br/web/dou/-/portaria-n-1.242-de-8-de-maio-de-2020-256097318) define uma Unidade Interligada (UI) como “o posto para remessa, recepção de dados e impressão de certidão de nascimento que funciona em estabelecimentos de saúde que realizam partos e que está conectado pela rede mundial de computadores às serventias de registro civil das pessoas naturais”.
@@ -35,5 +34,3 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
 ASSINE O PRESS PERIÓDICO
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

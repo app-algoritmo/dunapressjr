@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## O estudo identificou a celulose microfibrilada como antioxidante, antibacteriano e sua possibilidade de uso na cura de queimaduras.
 
 Gabriel Goetten de Lima é físico, mestre em Engenharia Mecânica pela Universidade Federal do Paraná (UFPR) e doutor em Engenharia de Polímeros pelo *Athlone Institute of Technology* (AIT) da Irlanda. Atualmente, é bolsista de pós-doutorado da CAPES e teve um artigo, *Materials in Medicine,* publicado no *Journal of Materials Science*, um destacado periódico internacional.
@@ -51,7 +50,3 @@ Fonte: https://www.gov.br/capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

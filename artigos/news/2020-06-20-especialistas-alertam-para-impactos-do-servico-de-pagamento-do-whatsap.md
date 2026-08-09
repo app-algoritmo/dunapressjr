@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O novo serviço pode facilitar atividades como compras online.
 
 O Whatsapp anunciou que passará a permitir transações financeiras entre os usuários, utilizando a plataforma de finança digital da empresa controladora do app, o serviço **[Facebook pay](https://dunapress.org/2020/06/15/recurso-de-pagamentos-no-whatsapp-chega-ao-brasil/)**. O serviço, com grande potencial de se tornar popular em um país com mais de 130 milhões de usuários do app, traz impactos e cuidados, segundo especialistas e pesquisadores ouvidos pela **Agência Brasil**.
@@ -32,4 +31,4 @@ Em termos de segurança, o Whatsapp tem se tornado foco de golpes que clonam o a
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

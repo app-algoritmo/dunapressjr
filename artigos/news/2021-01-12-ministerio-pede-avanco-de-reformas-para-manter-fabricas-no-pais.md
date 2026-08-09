@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Segundo governo, decisão da Ford destoa do resto da indústria.
 
 A melhoria do ambiente de negócios e o avanço das reformas estruturais são necessários para reduzir o custo de manter empresas no país, informou nesta segunda-feira (11) o Ministério da Economia. Em nota, a pasta lamentou a decisão da montadora [**Ford de encerrar a produção**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-01/ford-encerra-sua-producao-no-brasil) no Brasil e destacou que a saída do país contrasta com a recuperação na indústria nos últimos meses.
@@ -34,8 +33,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

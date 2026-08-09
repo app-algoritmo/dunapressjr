@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No quarto trimestre do ano passado a taxa ficou em 1,84%.
 
 Estudo do Instituto de Pesquisa Econômica Aplicada (Ipea) mostra que os afastamentos do mercado de trabalho têm recuado desde o primeiro trimestre de 2021. Segundo o levantamento, no quarto trimestre do ano passado, essa taxa ficou em 1,84%, abaixo das observadas no terceiro trimestre (1,99%), segundo trimestre (2,27%) e do primeiro trimestre de 2021 (3,31%).
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

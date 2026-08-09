@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Pandemia do novo coronavírus contribuiu para aumento dos gastos.
 
 Em meio à pandemia de covid-19, as contas públicas fecharam abril com déficit de R$ 94,303 bilhões, o maior saldo negativo da série histórica do Banco Central (BC), iniciada em dezembro de 2001. Os dados do setor público consolidado, formado por União, estados e municípios, foram divulgados hoje (29) pelo BC.
@@ -47,5 +46,3 @@ Fonte: Agência Brasil – Imagem de destaque: Arquivo/Agência Brasil
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

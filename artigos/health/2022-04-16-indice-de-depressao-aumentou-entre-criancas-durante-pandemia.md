@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Quase dois anos de aulas híbridas ou 100% on-line, incertezas, medos e perdas. A saúde mental da maior parte das pessoas foi afetada, em maior ou menor grau, pela pandemia de covid-19. Entre as crianças não foi diferente. De acordo com um levantamento da Universidade de Calgary, no Canadá, publicado no JAMA Pediatrics, uma em cada quatro crianças está sofrendo de depressão devido à pandemia. Os pesquisadores analisaram 29 estudos feitos com crianças e adolescentes de vários países.
 
 Combater esse problema é uma missão complexa, que passa por uma escuta qualificada não apenas dos familiares, mas também dos profissionais que convivem com essas crianças no ambiente escolar. Para a consultora pedagógica do Aprende Brasil, Sandra Hoffmann, uma das formas de ajudar a evitar a depressão infantil é trabalhar a inteligência emocional desde os primeiros anos da vida escolar, ainda na Educação Infantil. “É fundamental que as crianças aprendam a lidar com as emoções e sentimentos. Quanto mais cedo começar esse trabalho, mais seguras elas se sentirão ao longo da vida, exercitando valores como o respeito, a empatia e a autoconfiança”, afirma Sandra.
@@ -37,7 +36,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

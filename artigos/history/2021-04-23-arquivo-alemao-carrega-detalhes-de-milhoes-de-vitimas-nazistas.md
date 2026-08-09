@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 O Centro Internacional de Perseguição nazista da Alemanha carregou cerca de 850.000 documentos com informações sobre dez milhões de pessoas coletadas após o fim da Segunda Guerra Mundial na zona ocupada americana da Alemanha.
 
 O arquivo baseado em Bad Arolsen disse em um comunicado na terça-feira que os documentos contêm informações sobre as vítimas da perseguição nazista que foram coletadas no inverno de 1945/46 na Alemanha com base em ordens das quatro potências ocupantes - os EUA, Grã-Bretanha, França e o União Soviética.
@@ -32,5 +31,3 @@ Fonte: https://www.timesofisrael.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

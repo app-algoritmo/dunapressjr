@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
+Até o fim de outubro, cerca de 49 mil escolas da educação básica devem receber o total de R$ 145 milhões de reais para implantar, melhorar ou ampliar o serviço de conectividade nas unidades de ensino, beneficiando 14 milhões de alunos de todos os estados brasileiros, em mais de 4.600 municípios, por meio do **Programa de Inovação Educação Conectada**.
 
-Até o fim de outubro, cerca de 49 mil escolas da educação básica devem receber o total de R$ 145 milhões de reais para implantar, melhorar ou ampliar o serviço de conectividade nas unidades de ensino, beneficiando 14 milhões de alunos de todos os estados brasileiros, em mais de 4.600 municípios, por meio do **Programa de Inovação Educação Conectada**. 
+"Nosso objetivo é contribuir para o acesso à internet pelas escolas públicas, dada a necessidade real de utilização de outras estratégias para além da sala de aula neste momento de pandemia", explicou a secretária da Secretaria de Educação Básica (SEB) do Ministério da Educação (MEC), Izabel Lima Pessoa.
 
-"Nosso objetivo é contribuir para o acesso à internet pelas escolas públicas, dada a necessidade real de utilização de outras estratégias para além da sala de aula neste momento de pandemia", explicou a secretária da Secretaria de Educação Básica (SEB) do Ministério da Educação (MEC), Izabel Lima Pessoa. 
-
-Os recursos poderão ser utilizados para contratação de provedor de internet e para a compra de equipamentos como roteador, modem, nobreak etc. "É importante destacar que esses recursos podem ser utilizados tanto na contratação de serviço de acesso à internet, quanto para a melhoria de infraestrutura para distribuição do sinal pelas escolas", explicou a diretora de Articulação e Apoio às Redes de Educação Básica da SEB, Karine Silva dos Santos.   
+Os recursos poderão ser utilizados para contratação de provedor de internet e para a compra de equipamentos como roteador, modem, nobreak etc. "É importante destacar que esses recursos podem ser utilizados tanto na contratação de serviço de acesso à internet, quanto para a melhoria de infraestrutura para distribuição do sinal pelas escolas", explicou a diretora de Articulação e Apoio às Redes de Educação Básica da SEB, Karine Silva dos Santos.
 
 **Escolas rurais**
 
@@ -29,5 +28,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

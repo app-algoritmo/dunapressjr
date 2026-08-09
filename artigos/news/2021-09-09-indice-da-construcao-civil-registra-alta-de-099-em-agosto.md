@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O acumulado de janeiro a agosto registrou 14,61%.
 
 O Índice Nacional da Construção Civil (Sinapi) avançou 0,99% em agosto. O resultado ficou 0,90 ponto percentual (p.p) abaixo da taxa de julho, quando registrou 1,89% e é a menor variação desde agosto de 2020. No acumulado dos últimos 12 meses, a taxa atingiu 22,74%, pouco acima dos 22,60% anotados nos 12 meses imediatamente anteriores. O acumulado de janeiro a agosto ficou em 14,61%. Em agosto de 2020, o índice foi 0,88%. Os dados foram divulgados hoje (9) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -36,10 +35,6 @@ A maior variação mensal entre os estados foi em Santa Catarina, com alta de 3,
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

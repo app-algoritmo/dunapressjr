@@ -7,8 +7,7 @@ categories:
 - Education
 ---
 
-
-A Organização para a Cooperação e Desenvolvimento Econômico (OCDE) vai incluir, a partir de 2025, as competências em línguas estrangeiras como um componente opcional de avaliação de sistemas educacionais no Programa Internacional de Avaliação de Estudantes (em Inglês, Programme for International Student Assessment - PISA). A medida tem como objetivo permitir uma comparação dos níveis de Inglês em escolas de todo o mundo. 
+A Organização para a Cooperação e Desenvolvimento Econômico (OCDE) vai incluir, a partir de 2025, as competências em línguas estrangeiras como um componente opcional de avaliação de sistemas educacionais no Programa Internacional de Avaliação de Estudantes (em Inglês, Programme for International Student Assessment - PISA). A medida tem como objetivo permitir uma comparação dos níveis de Inglês em escolas de todo o mundo.
 
 Atualmente, a avaliação internacional, realizada de três em três anos, mede o nível educacional de jovens de 15 anos por meio de provas de Leitura, Matemática e Ciências. O exame foi concebido para fornecer dados que ajudem os países a melhorar as políticas educacionais internas e os resultados escolares de suas crianças e jovens. "Ao incluir no relatório a avaliação de Língua Inglesa, a OCDE visa permitir aos países o acompanhamento do progresso e a identificação das melhores práticas do ensino e aprendizagem do Inglês", afirma Luiz Fernando Schibelbain, gerente executivo de conteúdo no PES English.
 
@@ -25,7 +24,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

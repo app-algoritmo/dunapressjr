@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Solenidade contou com presença do secretário de Segurança Pública, Guilherme Derrite, e do governador Tarcísio de Freitas.
 
 As Rondas Ostensivas Tobias de Aguiar ([Rota](https://www.instagram.com/rota_bta/)) apresentaram ao público, nesta segunda-feira (16), o novo armamento que está equipando os pelotões do 1º Batalhão de Policiamento de Choque (BPChq). A demonstração foi feita durante as comemorações do aniversário de 53 anos da Rota.
@@ -24,7 +23,7 @@ O 1º Batalhão de Policiamento de Choque recebeu um grande público para celebr
 
 “Desde o início da nossa gestão, dentro dos limites da lei, como tem que ser, foram desenvolvidas ações efetivas de combate ao crime organizado, em especial, da tropa que é a maior especialista no mundo em patrulhamento tático urbano, que é a Rota”, destacou o secretário Guilherme Derrite.
 
-[](https://www.saopaulo.sp.gov.br/wp-content/uploads/2023/10/D00051699.jpg)(Crédito: Wellington Nascimento/SSP)
+(Crédito: Wellington Nascimento/SSP)
 
 Personalidades civis e autoridades foram homenageadas no evento com a entrega de 56 medalhas das Rondas Ostensivas Tobias de Aguiar. Entre elas, estavam o governador Tarcísio de Freitas, o presidente do [Tribunal de Justiça de São Paulo](https://www.tjsp.jus.br/QuemSomos), desembargador Ricardo Anafe, e o presidente da [Assembleia Legislativa de São Paulo](https://www.al.sp.gov.br/institucional/assembleia/), o deputado André do Prado.
 

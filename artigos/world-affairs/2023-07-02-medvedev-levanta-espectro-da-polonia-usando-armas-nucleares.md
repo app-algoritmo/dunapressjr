@@ -7,7 +7,6 @@ categories:
 - World Affairs
 ---
 
-
 ## Anteriormente, o primeiro-ministro polonês Morawiecki anunciou que Varsóvia gostaria de ingressar no programa de compartilhamento nuclear da OTAN em meio às intenções da Rússia de implantar armas nucleares táticas na Bielorrússia.
 
 A potencial implantação de armas nucleares na Polônia pode levar o país a usá-las, disse o vice-presidente do Conselho de Segurança da Rússia, Dmitry Medvedev, à TASS.
@@ -26,4 +25,4 @@ Em 16 de junho, Putin disse que as primeiras ogivas nucleares russas já haviam 
 
 Em 23 de junho, o líder bielorrusso Alexander Lukashenko disse que sua república já havia recebido uma parte substancial das ogivas planejadas para serem entregues.
 
-Fonte: [TASS](https://tass.com/politics/1641467) [](https://tass.com/politics/1641469)
+Fonte: [TASS](https://tass.com/politics/1641467)

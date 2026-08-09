@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Contribuintes com dívidas ativas com o município podem participar da 15ª Semana Nacional da Conciliação, organizada em Itajaí pelo Centro Judiciário de Solução de Conflitos e Cidadania (Cejusc) Fazendário. As negociações serão realizadas de 30 de novembro a 04 de dezembro.
 
 Dívidas de IPTU, taxas de localização e funcionamento, ISS e multas, entre outros, poderão ser negociadas por meio de sessões virtuais com os conciliadores. Os interessados deverão entrar em contato com o Cejusc Fazendário pelos números (também WhatsApp) (47) 98805-3601, (47) 3349-8717 e (47) 3348-4099. A conciliação poderá ocorrer durante o contato ou ser agendada para outro momento através de uma sessão virtual.
@@ -25,7 +24,5 @@ SEU APOIO VOLUNTARIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

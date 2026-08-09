@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Conjunto de resoluções inclui alterações definitivas da Tarifa Externa Comum e reduções temporárias, para garantir o pleno abastecimento de mercadorias.
 
 O Comitê-Executivo de Gestão (Gecex), núcleo colegiado da Câmara de Comércio Exterior (Camex) do Ministério da Economia, aprovou a redução das tarifas de importação de mais 25 produtos. As alterações do Imposto de Importação abrangem itens listados em quatro resoluções publicadas nesta terça-feira (23/2) no Diário Oficial da União.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Novembro Azul, a campanha responsável pela conscientização sobre o câncer de próstata, surgiu no ano de 1999 na Austrália, com um grupo de amigos que decidiram deixar o bigode crescer, a fim de chamar atenção para a saúde masculina. O grupo realizava ações e o que arrecadava, era doado às instituições de caridade.
 
 Com o sucesso do movimento, em 2004 foi criada a Movember Foundation Charity, sendo Movember a junção de Moustache (bigode) com November (novembro). Na campanha é também pregado o No Shave November, que em tradução literal significa Novembro Sem Barbear, motivo pelo qual o bigode na cor azul ficou conhecido como símbolo.
@@ -36,7 +35,6 @@ Medidas preventivas, segundo o Instituto Nacional de Câncer (INCA), incluem: di
 
 Nesse sentido, outros hábitos saudáveis também são recomendados, como fazer no mínimo 30 minutos diários de atividade física, manter o peso adequado à altura, identificar e tratar corretamente hipertensão, diabetes e problemas de colesterol, diminuir o consumo de álcool e não fumar.
 
-**
 Confira os m****ateriais de apoio produzidos pelo INCA**:
 
 **[Cartilha Câncer de próstata: vamos falar sobre isso?](https://www.inca.gov.br/publicacoes/cartilhas/cancer-de-prostata-vamos-falar-sobre-isso)**
@@ -63,5 +61,3 @@ Fonte: https://bvsms.saude.gov.br/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

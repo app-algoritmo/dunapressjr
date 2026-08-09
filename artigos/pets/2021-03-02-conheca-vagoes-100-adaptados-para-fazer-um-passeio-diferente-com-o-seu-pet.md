@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 Já não é novidade que ninguém mais aguenta ficar confinado dentro de casa e não vê a hora que a pandemia acabe para poder sair, passear, turistar. Acontece que alguns passeios já estão liberados e seguindo todos os protocolos de higiene e segurança recomendados para o período. É o caso de alguns trens turísticos, que funcionam com lotação de 50% da capacidade, para manter maior distanciamento entre os ocupantes, além de desinfecção diária, exigência do uso de máscaras durante toda a viagem e disponibilização de álcool em gel nos vagões. 
 
 Linha do trem no Paraná fica na maior área contínua de mata atlântica preservada no país e oferece vagão pet friendly
@@ -18,11 +17,11 @@ A Serra Verde Express (@serraverde_oficial), concessionária de trens turístico
 Trem que opera no Paraná conta com o vagão “Bove” com ambiente pet friendly
 *Créditos: Serra Verde Express*Vagão . Foto: Brunno Covello.
 
-O trem que opera no Paraná conta com o vagão “Bove” com ambiente *pet friendly*. A linha fica na maior área contínua de mata atlântica preservada no país e oferece durante o passeio em trem turístico, apreciar a natureza com paisagens revigorantes. A outra opção de vagão pet oferecido pela empresa é no Trem Republicano, que percorre o roteiro histórico entre as cidades de Itu e Salto, no estado de São Paulo, fazendo referência à Convenção de Itu, primeira convenção republicana do Brasil, datada de 1873. 
+O trem que opera no Paraná conta com o vagão “Bove” com ambiente *pet friendly*. A linha fica na maior área contínua de mata atlântica preservada no país e oferece durante o passeio em trem turístico, apreciar a natureza com paisagens revigorantes. A outra opção de vagão pet oferecido pela empresa é no Trem Republicano, que percorre o roteiro histórico entre as cidades de Itu e Salto, no estado de São Paulo, fazendo referência à Convenção de Itu, primeira convenção republicana do Brasil, datada de 1873.
 
 **Estrutura dos vagões pet friendly**
 
-Com o objetivo de proporcionar a melhor experiência para o tutor e seu pet, a estrutura dos vagões foi 100% adaptada. Com projeto da arquiteta Lucille Amaral, os vagões possuem poltronas exclusivas para os bichinhos, com assentos feitos de tecido impermeável e cinto de segurança. 
+Com o objetivo de proporcionar a melhor experiência para o tutor e seu pet, a estrutura dos vagões foi 100% adaptada. Com projeto da arquiteta Lucille Amaral, os vagões possuem poltronas exclusivas para os bichinhos, com assentos feitos de tecido impermeável e cinto de segurança.
 
 Com ambientes 100% adaptados, os vagões possuem poltronas exclusivas para os pets, assentos feitos de tecido impermeável e cinto de segurança
 *Créditos: Serra Verde Express*. Foto: Brunno Covello
@@ -52,7 +51,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

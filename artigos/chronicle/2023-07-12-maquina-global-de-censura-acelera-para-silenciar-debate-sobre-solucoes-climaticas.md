@@ -7,7 +7,6 @@ categories:
 - Chronicle
 ---
 
-
 *A censura é um fenômeno global porque a guerra da tecnocracia contra a humanidade é global. Quaisquer narrativas que se oponham aos planos dos tecnocratas serão impiedosamente atacadas. Desentendimentos científicos, críticas ao governo ridículo e medidas de alerta ecológico, e até mesmo discussões casuais são propositalmente suprimidas. *
 
 A política de “desinformação climática” nas mídias sociais visa um amplo espectro de pessoas à direita e à esquerda que contestam as narrativas oficiais sobre as “soluções” climáticas favorecidas pelo governo e seus poderosos patrocinadores empresariais.
@@ -36,7 +35,7 @@ Isso inclui muitas pessoas que não se enquadram no campo dos negadores. As gran
 
 ## Da censura da “negação” à censura do debate sobre as “soluções”
 
-"Agora não se trata tanto de negar o problema", disse a primeira conselheira nacional do clima do presidente Biden, Gina McCarthy, no ano passado em entrevista ao Axios para seu evento virtual, The Infodemic Age. 
+"Agora não se trata tanto de negar o problema", disse a primeira conselheira nacional do clima do presidente Biden, Gina McCarthy, no ano passado em entrevista ao Axios para seu evento virtual, The Infodemic Age.
 
 “O que eles [os fornecedores de suposta desinformação] estão realmente mirando é nossa incapacidade de acelerar as respostas climáticas. As tecnologias de que precisamos estão avançando. Isso é tão perigoso quanto a negação porque devemos agir rapidamente.
 
@@ -50,7 +49,7 @@ Juntos, eles mudaram seu foco de censurar a “negação” do clima para censur
 
 Por exemplo , no site climático da ONU , que o YouTube anexou à entrevista de Peterson-Kennedy, a nota “Comunidade” afirma: “Estamos enfrentando um grande desafio, mas já conhecemos muitas soluções”.
 
-O fato é que muitas pessoas de diferentes quadrantes têm problemas com o “consenso” dominante sobre energia limpa e outras “soluções” climáticas elogiadas. 
+O fato é que muitas pessoas de diferentes quadrantes têm problemas com o “consenso” dominante sobre energia limpa e outras “soluções” climáticas elogiadas.
 
 Há muita controvérsia sobre se essas "soluções" realmente funcionam - e quem se beneficia delas e quem arca com os custos
 
@@ -76,19 +75,19 @@ Os relatórios da mídia usaram um pincel largo para difamar as partes interessa
 
 Embora algumas organizações locais pareçam ter aceitado fundos da indústria de combustíveis fósseis, o amplo movimento popular para proteger o ambiente costeiro do desenvolvimento industrial não pode ser caracterizado como um produto do 'dinheiro sujo' da indústria de petróleo e gás.
 
-O presidente-executivo de uma empresa de energia eólica offshore, a Atlantic Shores, em artigo de opinião , acusou grupos contrários aos seus projetos de espalhar “desinformação” sobre “a solução mais viável que temos” para as mudanças climáticas. 
+O presidente-executivo de uma empresa de energia eólica offshore, a Atlantic Shores, em artigo de opinião , acusou grupos contrários aos seus projetos de espalhar “desinformação” sobre “a solução mais viável que temos” para as mudanças climáticas.
 
 Ele se absteve de acusar seus oponentes de serem financiados por combustíveis fósseis, considerados "dinheiro negro". A Atlantic Shores [é 50% de propriedade da gigante petrolífera Shell](https://www.shell.com/media/news-and-media-releases/2022/shell-joint-venture-atlantic-shores-wins-acreage-in-new-york-bight.html) .
 
 - **"Profetas do Juízo Final" e ambientalistas que defendem mudanças sistêmicas**
 
-Um subgrupo de ativistas climáticos acredita que nenhuma "solução" oficialmente reconhecida é capaz de deter a mudança climática ou acabar com a degradação ambiental. 
+Um subgrupo de ativistas climáticos acredita que nenhuma "solução" oficialmente reconhecida é capaz de deter a mudança climática ou acabar com a degradação ambiental.
 
-Essas pessoas são chamadas pejorativamente de "doomers" (alguns deles preferem o termo irônico "doomsters").Nos últimos anos, a imprensa, os cientistas climáticos e os principais ativistas climáticos atacaram os "condenados" com tanto vigor quanto os "negadores". 
+Essas pessoas são chamadas pejorativamente de "doomers" (alguns deles preferem o termo irônico "doomsters").Nos últimos anos, a imprensa, os cientistas climáticos e os principais ativistas climáticos atacaram os "condenados" com tanto vigor quanto os "negadores".
 
 Uma manchete típica do Washington Post diz: [“Por que os 'condenadores' do clima estão substituindo os 'negadores' do clima". ](https://www.washingtonpost.com/climate-environment/2023/03/24/climate-doomers-ipcc-un-report/)
 
-"Em 2020, o grupo Positive Deep Adaptation do Facebook [recebeu um aviso](https://iflas.blogspot.com/2020/02/fact-checking-climate-crisis-franzen-vs.html) sobre um artigo que compartilhou, escrito pelo premiado escritor Jonathan Franzen no The New Yorker: " [E se parássemos de nos enganar](https://www.amazon.com/What-If-We-Stopped-Pretending/dp/0008434042/ref=sr_1_1) ? O apocalipse climático está chegando. 
+"Em 2020, o grupo Positive Deep Adaptation do Facebook [recebeu um aviso](https://iflas.blogspot.com/2020/02/fact-checking-climate-crisis-franzen-vs.html) sobre um artigo que compartilhou, escrito pelo premiado escritor Jonathan Franzen no The New Yorker: " [E se parássemos de nos enganar](https://www.amazon.com/What-If-We-Stopped-Pretending/dp/0008434042/ref=sr_1_1) ? O apocalipse climático está chegando.
 
 Para nos prepararmos para isso, temos que admitir que não podemos evitá-lo. "O alerta do Facebook foi baseado em uma "verificação de fatos" do site [Climate Feedback](https://climatefeedback.org/claimreview/2c-not-known-point-of-no-return-as-jonathan-franzen-claims-new-yorker/) .
 
@@ -98,7 +97,7 @@ Na entrevista, Bendell discutiu sua visão de que as atuais políticas climátic
 
 O Facebook ocultou a postagem com a mensagem: "Ninguém pode ver sua postagem. Temos esses padrões porque queremos que todos se sintam seguros".
 
-"Da mesma forma, em maio, o TikTok derrubou um vídeo da [jornalista de "corrupção climática" Rachel Donald](https://twitter.com/DeBeaudoir/status/1655869477932740610?s=20) , chamando-o de "desinformação". No vídeo, Donald, que escreve o boletim climático [Planet Critical](https://www.planetcritical.com/) , disse: "É a economia. É a economia que está impulsionando a crise climática. É a forma como nos organizamos. 
+"Da mesma forma, em maio, o TikTok derrubou um vídeo da [jornalista de "corrupção climática" Rachel Donald](https://twitter.com/DeBeaudoir/status/1655869477932740610?s=20) , chamando-o de "desinformação". No vídeo, Donald, que escreve o boletim climático [Planet Critical](https://www.planetcritical.com/) , disse: "É a economia. É a economia que está impulsionando a crise climática. É a forma como nos organizamos.
 
 É sobre exploração e extrativismo e todas essas coisas."O TikTok não deu um motivo específico para chamar o vídeo de "desinformação". Mas a mensagem do vídeo - "A economia está alimentando a crise climática" - está em desacordo com as narrativas do governo dos EUA sobre o crescimento "verde".
 
@@ -110,23 +109,23 @@ Quando se trata de alimentos e agricultura, o movimento climático é dominado p
 
 Uma proporção menor de ambientalistas acredita que precisamos de [pequenas fazendas](https://www.resilience.org/stories/2023-04-20/saying-no-to-a-farm-free-future/) que usem [métodos regenerativos e agroecológicos](https://childrenshealthdefense.org/defender/farming-soil-ecosystem-regenerative-agriculture-cola/) , ao invés de [tecnologias alimentares industriais](https://childrenshealthdefense.org/defender_category/big-food/) . Este grupo, e o movimento camponês populista do qual fazem parte, têm sido alvo de censores de “desinformação climática”.
 
-[Os protestos dos agricultores holandeses](https://childrenshealthdefense.org/defender/dutch-farmers-protest-climate-policies-global-hunger-crisis/) alimentaram a oposição global às onerosas políticas ambientais que podem resultar na desapropriação de milhares de agricultores. 
+[Os protestos dos agricultores holandeses](https://childrenshealthdefense.org/defender/dutch-farmers-protest-climate-policies-global-hunger-crisis/) alimentaram a oposição global às onerosas políticas ambientais que podem resultar na desapropriação de milhares de agricultores.
 
 Os agricultores holandeses receberam o apoio de alguns proeminentes ativistas ambientais, como o [Dr. Vandana Shiva](https://childrenshealthdefense.org/defender/vandana-shiva-dutch-farmer-citizen-movement-rb/) , que acredita na abordagem do pequeno produtor.
 
 Mas a mídia popular, ambientalistas famosos como [George Monbiot](https://www.youtube.com/watch?v=xxtxl82zhms) e organizações de verificação de fatos retratam os protestos dos fazendeiros holandeses como um movimento de “ [extrema direita](https://www.nbcnews.com/news/world/dutch-farmers-emissions-global-right-wing-culture-war-rcna60269) ” que espalha teorias da conspiração e [desinformação .](https://atlanticsentinel.com/2022/08/more-misinformation-about-the-dutch-farm-crisis/)[Pequenos proprietários](https://twitter.com/1GarethWynJones/status/1663499928864272384) de todo o mundo que negam que seu gado alimentado com capim é uma das principais causas das mudanças climáticas foram censurados pelo Facebook.
 
-Em um exemplo, os fazendeiros postaram memes declarando que "vacas não são o problema", em contraste com o estilo de vida de jatos particulares de elites bilionárias como Bill Gates. 
+Em um exemplo, os fazendeiros postaram memes declarando que "vacas não são o problema", em contraste com o estilo de vida de jatos particulares de elites bilionárias como Bill Gates.
 
 O Facebook anexou uma "verificação de fatos" a esses memes: "[Desmistificado: Sim, as vacas são um 'problema](https://www.thejournal.ie/debunked-cows-problem-emissions-5842492-Aug2022/) ' quando se trata de reduzir as emissões de gases de efeito estufa".
 
 Este exemplo ilustra como o processo de “verificação de fatos” é um debate político subjetivo – vacas ou jatos particulares são “o problema”? - Beneficia as elites que financiam as organizações de "verificação de fatos".
 
-Os "verificadores de fatos" dão crédito às "soluções" ecomodernistas promovidas por bilionários como Gates, que [financia várias das maiores organizações](https://www.racket.news/p/report-on-the-censorship-industrial-74b) do complexo industrial de censura. 
+Os "verificadores de fatos" dão crédito às "soluções" ecomodernistas promovidas por bilionários como Gates, que [financia várias das maiores organizações](https://www.racket.news/p/report-on-the-censorship-industrial-74b) do complexo industrial de censura.
 
 Substituir o gado por carne sintética e alimentos "à base de plantas" modificados - negócios nos quais Gates está investindo - estão sendo tratados como "soluções" promissoras.
 
-[](https://www.racket.news/p/report-on-the-censorship-industrial-74b)[](https://www.technologyreview.com/2021/02/14/1018296/bill-gates-climate-change-beef-trees-microsoft/)[](https://www.forbes.com/sites/oliviergarret/2020/09/10/why-bill-gates-is-betting-millions-on-synthetic-biology/?sh=71db137365c6)As contrapropostas populistas – acabar com os jatos particulares ou fornecer fundos para que pequenos agricultores mudem para métodos mais ecológicos – não são levadas a sério pelos “verificadores de fatos”.
+As contrapropostas populistas – acabar com os jatos particulares ou fornecer fundos para que pequenos agricultores mudem para métodos mais ecológicos – não são levadas a sério pelos “verificadores de fatos”.
 
 E isso apesar do fato de haver um argumento convincente de que os pequenos agricultores estão em melhor posição do que os grandes produtores industriais para [alimentar o mundo](https://www.etcgroup.org/files/files/31-01-2022_small-scale_farmers_and_peasants_still_feed_the_world.pdf) com métodos agroecológicos regenerativos .
 
@@ -140,7 +139,7 @@ Conforme [observado por Shiva](https://childrenshealthdefense.org/defender/vanda
 
 O poder de censura, originalmente justificado como necessário para silenciar aqueles que “negam” a existência das mudanças climáticas, está sendo cada vez mais usado para silenciar aqueles que discordam das “soluções” oficiais para o clima.
 
-Enquanto as diferenças de opinião forem rotuladas como "desinformação", o debate democrático é impossível. Debates políticos são inerentemente subjetivos até certo ponto. 
+Enquanto as diferenças de opinião forem rotuladas como "desinformação", o debate democrático é impossível. Debates políticos são inerentemente subjetivos até certo ponto.
 
 Devemos tentar substituir o petróleo e o gás por energia limpa em toda a economia? O "crescimento verde" é possível? Como podemos garantir que as liberdades civis sejam respeitadas na política climática? O futuro da nutrição está nas grandes empresas industriais ou nas pequenas empresas familiares? Qual problema tem maior prioridade - vacas alimentadas com capim ou jatos particulares?
 
@@ -148,7 +147,7 @@ Essas perguntas são sobre pesar prós e contras, definir prioridades e tomar de
 
 No entanto, os “verificadores de fatos” das mídias sociais se intrometem nesses debates subjetivos sob o disfarce de objetividade, a fim de direcionar a discussão para as “soluções” favorecidas pelas grandes corporações e bilionários que as financiam.
 
-Para cada “solução” crítica do clima, o complexo industrial da censura emite “verificações de fatos” tendenciosas em favor de seus financiadores. 
+Para cada “solução” crítica do clima, o complexo industrial da censura emite “verificações de fatos” tendenciosas em favor de seus financiadores.
 
 Alegações tendenciosas também são frequentemente encontradas do outro lado desses debates.A única maneira de resolver essas reivindicações conflitantes é por meio de um processo democrático aberto.
 

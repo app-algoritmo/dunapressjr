@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Expectativa é de geração de 500 mil empregos no período.
 
 Levantamento divulgado nesta quarta-feira (3) pela Associação Brasileira das Empresas de Serviços de Petróleo (ABESPetro) indica que os investimentos da indústria de petróleo e gás no Brasil alcançarão em torno de US$ 24 bilhões por ano, ou o equivalente a R$ 102 bilhões/ano, até 2025. O secretário-executivo da associação, Thelmo Ghiorzi, explicou que esse valor é baseado nos investimentos que o Brasil vai fazer nos próximos anos e dos quais o pré-sal corresponde a 62% hoje. “Vai chegar, em 2030, a 70%”, estimou. Os projetos já aprovados totalizam investimentos de US$ 156 bilhões até 2030.
@@ -66,8 +65,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

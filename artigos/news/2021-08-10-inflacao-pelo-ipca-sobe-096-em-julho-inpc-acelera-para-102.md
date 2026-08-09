@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## Acumulado do IPCA nos últimos 12 meses é de 8,99%.
 
 A inflação medida pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA), que mede o reajuste nos preços para as famílias com renda entre um e 40 salários mínimos, subiu 0,96% em julho, o maior resultado para o mês desde 2002, quando a alta foi de 1,19%. Os dados foram divulgados hoje (10), no Rio de Janeiro, pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
 
-No ano, o indicador acumula alta de 4,76% e, em 12 meses,  8,99%, ficando acima do registrado nos 12 meses imediatamente anteriores (8,35%). É a maior taxa desde maio de 2016, quando o IPCA ficou em 9,32% em 12 meses. Em julho do ano passado, a taxa mensal foi de 0,36% e, em junho de 2021, de 0,53%.
+No ano, o indicador acumula alta de 4,76% e, em 12 meses, 8,99%, ficando acima do registrado nos 12 meses imediatamente anteriores (8,35%). É a maior taxa desde maio de 2016, quando o IPCA ficou em 9,32% em 12 meses. Em julho do ano passado, a taxa mensal foi de 0,36% e, em junho de 2021, de 0,53%.
 
-Segundo o IBGE, oito dos nove grupos pesquisados apresentaram alta no mês, com o maior impacto vindo do aumento de 3,10% na habitação, grupo pressionado pela alta de 7,88% na energia elétrica. 
+Segundo o IBGE, oito dos nove grupos pesquisados apresentaram alta no mês, com o maior impacto vindo do aumento de 3,10% na habitação, grupo pressionado pela alta de 7,88% na energia elétrica.
 
 Por região, o reajuste tarifário da energia elétrica foi de 11,38% em São Paulo, 8,97% em Curitiba e 9,08% em uma das concessionárias de Porto Alegre. Em 12 meses, a energia elétrica acumula reajuste de 20,09%.
 
@@ -46,10 +45,6 @@ O acumulado de 12 anos no INPC vem numa curva crescente desde julho de 2020, qua
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

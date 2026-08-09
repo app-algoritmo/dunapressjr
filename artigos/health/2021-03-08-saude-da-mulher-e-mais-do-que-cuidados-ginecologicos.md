@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Tradicionalmente, nos sistemas de saúde por todo o mundo, a prioridade tem sido o cuidado da mulher no campo da saúde reprodutiva, com foco na atenção ao pré-natal e parto. É importante destacar que os serviços de saúde também ofertam ações relacionadas à promoção da saúde, a prevenção de agravos e doenças (cânceres de colo do útero e de mama, por exemplo), realização de vacinas, acompanhamento odontológico e nutricional, dentre outros.
 
 “Há várias doenças que afligem o universo feminino que são prevenidas por meio das vacinas. Mais recentemente, podemos falar da vacina do HPV, que é uma vacina muito segura e que tem reduzido drasticamente assistência de câncer de colo do útero, entre outros tumores, mas principalmente do colo uterino”, comentou a médica ginecologista, Raquel Autran, que é responsável pela divisão de gestão do cuidado da Maternidade Escola Assis Chateubriand, em Fortaleza, no Ceará, e que também é vinculada à Empresa Brasileira de Serviços Hospitalares.
@@ -30,7 +29,7 @@ E manter hábitos saudáveis é a melhor forma de prevenir doenças. Uma aliment
 
 O planejamento reprodutivo é um direito das mulheres para que elas possam optar quando e se querem ter filhos. “Quando a mulher quer engravidar o que a gente precisa principalmente é afastar as doenças infecciosas. Essa mulher ao chegar ao consultório ela fala do seu histórico, faz exames físicos e checagens de prevenção de doenças, como diabetes gestacional, doenças da tireoide, tudo isso identificado precocemente garante uma gravidez mais segura”, comentou Raquel.
 
-É importante que a mulher tenha uma consulta antes dela iniciar um método contraceptivo. “Na consulta ela vai poder dizer o que ela quer para saber quais são os métodos mais eficazes. Vai avaliar doenças que ela possa ter, ou até mesmo na família, que possa contraindicar algum do tipo de método. O profissional de saúde poderá dar as opções para que ela possa escolher”, destacou Raquel. 
+É importante que a mulher tenha uma consulta antes dela iniciar um método contraceptivo. “Na consulta ela vai poder dizer o que ela quer para saber quais são os métodos mais eficazes. Vai avaliar doenças que ela possa ter, ou até mesmo na família, que possa contraindicar algum do tipo de método. O profissional de saúde poderá dar as opções para que ela possa escolher”, destacou Raquel.
 
 ## Métodos contraceptivos
 
@@ -63,7 +62,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -8,7 +8,6 @@ categories:
 - Technology
 ---
 
-
 As Forças de Defesa de Israel (IDF) começaram a usar inteligência artificial para selecionar alvos de ataques aéreos e organizar a logística de guerra em meio a tensões crescentes nos territórios ocupados e com o arquirrival Irã.
 
 Embora os militares tenham se recusado a comentar sobre operações específicas, as autoridades dizem que agora usam um sistema de recomendação de IA que pode processar "enormes quantidades de dados" para selecionar alvos, de acordo com a Bloomberg. Os ataques subsequentes podem ser montados rapidamente usando outro modelo de IA chamado Fire Factory, que usa dados de cálculo de carga de munição aprovados pelos militares para priorizar e atribuir milhares de alvos a aeronaves e drones.
@@ -27,4 +26,4 @@ Ferramentas baseadas em inteligência artificial, como Fire Factory, são mais a
 
 O sistema, enfatizaram as autoridades, foi projetado para "guerra total". O IDF há muito usa inteligência artificial, mas nos últimos anos expandiu esses sistemas em várias unidades, posicionando-se com sucesso como líder mundial em tecnologia de armas autônomas.
 
-[Fonte: ](https://www.national.ro/tehnologie/inteligenta-artificiala-in-operatiuni-militare-mortale-sistemul-israelului-pregatit-pentru-un-razboi-total-798654.html)[](https://www.national.ro/tehnologie/inteligenta-artificiala-in-operatiuni-militare-mortale-sistemul-israelului-pregatit-pentru-un-razboi-total-798654.html)[National](https://www.national.ro/tehnologie/inteligenta-artificiala-in-operatiuni-militare-mortale-sistemul-israelului-pregatit-pentru-un-razboi-total-798654.html)
+[Fonte: ](https://www.national.ro/tehnologie/inteligenta-artificiala-in-operatiuni-militare-mortale-sistemul-israelului-pregatit-pentru-un-razboi-total-798654.html)[National](https://www.national.ro/tehnologie/inteligenta-artificiala-in-operatiuni-militare-mortale-sistemul-israelului-pregatit-pentru-un-razboi-total-798654.html)

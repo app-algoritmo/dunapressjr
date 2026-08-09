@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Projeto volta para a Câmara para análise de financiamento.
 
 O Senado aprovou nesta terça-feira (19) a criação do Programa Gás para os Brasileiros, o chamado auxílio gás. O programa vai auxiliar famílias de baixa renda na compra do gás de cozinha. O projeto de lei (PL) prevê que cada família receba bimestralmente o equivalente a 40% do preço do botijão de gás. O projeto retorna à Câmara.
@@ -30,10 +29,6 @@ O PL retorna para nova apreciação dos deputados porque Castro alterou a forma 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

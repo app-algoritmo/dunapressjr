@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Queda teve influência da redução nos combustíveis e energia elétrica.
 
 O Índice Nacional de Preços ao Consumidor Amplo (IPCA – a inflação oficial do país) registrou queda de 0,36% em agosto, após recuo de 0,68% em julho, quando a taxa foi a menor desde o início da pesquisa, em janeiro de 1980. Com isso, a inflação acumula alta de 4,39% no ano e de 8,73% em 12 meses. Os dados foram divulgados nesta sexta-feira (9), no Rio de Janeiro, pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

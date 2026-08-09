@@ -8,7 +8,6 @@ categories:
 - Policy
 ---
 
-
 ## Jonas Gahr Støre do Partido dos Trabalhadores assume governo
 
 ## A Noruega foi às urnas nas eleições parlamentares realizada entre os dias 10 de Agosto e 13 de Setembro para eleger seu Primeiro Ministro.
@@ -17,11 +16,9 @@ O que são as eleições parlamentares? Com que frequência elas ocorrem? Quem
 
 O partido dos trabalhadores ([Arbeiderpartiets](https://www.arbeiderpartiet.no)) vence as [eleições parlamentares na Noruega 2021](https://valgresultat.no/?type=st&year=2021) após obter maioria dos votos em uma eleição considerada uma das mais disputadas em sua história. Erna Solberg do Partido (Høyre) "Direita" governou por 8 anos e declara estar muito feliz por ter realizado um bom trabalho para o país.
 
-[](https://valgresultat.no/?type=st&year=2021)
-
 ## Vídeo discurso da vitória,[ clique aqui](https://tv.nrk.no/se?v=NNFA89000121&t=237s) ou na imagem para assistir
 
-[](https://tv.nrk.no/se?v=NNFA89000121&t=237s)Discurso da vitória - ©Captura de tela NRK TV
+Discurso da vitória - ©Captura de tela NRK TV
 
 ## Leia também:
 

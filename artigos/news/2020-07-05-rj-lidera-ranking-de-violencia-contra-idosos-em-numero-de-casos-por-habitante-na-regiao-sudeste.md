@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Rio de Janeiro (RJ) está no topo do ranking das denúncias de violações cometidas contra idosos em número de casos por habitantes na região Sudeste. De acordo com o levantamento mais recente do Disque 100 (Disque Direitos Humanos), só no ano passado, ocorreram 35,1casos a cada 100 mil habitantes. Os dados foram divulgados pelo Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH), nesta quinta-feira (25).
 
 Ao todo, foram registradas mais de 6 mil denúncias envolvendo idosos na unidade da unidade da federação, com população estimada em 17,2 milhões de habitantes pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -35,7 +34,7 @@ Entre as ações desenvolvidas pela SNDPI, o gestor cita o Programa Viver - Enve
 
 **Canais de atendimento**
 
-Implementados pelo MMFDH, o Disque 100, o [app Direitos Humanos Brasil](https://www.gov.br/mdh/pt-br/apps) e o site da [Ouvidoria Nacional dos Direitos Humanos (ONDH)](https://ouvidoria.mdh.gov.br/) são gratuitos e funcionam 24 horas por dia, inclusive em feriados e nos finais de semana. 
+Implementados pelo MMFDH, o Disque 100, o [app Direitos Humanos Brasil](https://www.gov.br/mdh/pt-br/apps) e o site da [Ouvidoria Nacional dos Direitos Humanos (ONDH)](https://ouvidoria.mdh.gov.br/) são gratuitos e funcionam 24 horas por dia, inclusive em feriados e nos finais de semana.
 
 Os canais funcionam como "pronto-socorro” dos direitos humanos, pois atendem também graves situações de violações que acabaram de ocorrer ou que ainda estão em curso. Por meio deles, a vítima ou testemunha de qualquer violação pode acionar os órgãos competentes para que os autores sejam pegos em flagrante.
 
@@ -49,6 +48,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

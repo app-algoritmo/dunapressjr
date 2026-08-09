@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Santos e Campinas também já adotaram a NFS-e Nacional e terão acesso à Plataforma de Administração Tributária Digital.
 
 O município de São Paulo assinou acordo com a Receita Federal do Brasil (RFB) para formalizar a adesão ao Sistema Nacional da Nota Fiscal de Serviço eletrônica (NFS-e Nacional). Com o acordo, a capital paulista terá acesso à Plataforma de Administração Tributária Digital, que oferece uma cesta de produtos tecnológicos de administração tributária.
@@ -39,8 +38,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

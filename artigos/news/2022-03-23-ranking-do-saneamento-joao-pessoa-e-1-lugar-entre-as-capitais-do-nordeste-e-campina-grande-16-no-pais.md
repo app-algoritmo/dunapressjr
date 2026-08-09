@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### João Pessoa e Campina Grande também se destacam no indicador de perdas na distribuição de água captada.****
 
 Estudo do Instituto Trata Brasil divulgado nesta terça-feira (22) para celebrar o Dia Mundial da Água mostra que a cidade de João Pessoa é a capital do Nordeste mais bem posicionada no Ranking do Saneamento 2022.
@@ -19,7 +18,7 @@ Para compor o ranking, o Instituto Trata Brasil considera várias informações 
 
 O estudo divulgado mostra que os serviços prestados pela Companhia de Água e Esgotos da Paraíba (Cagepa) garantem a João Pessoa e Campina Grande 100% de cobertura na área urbana no quesito distribuição de água tratada. Em termos de cobertura urbana de rede esgotamento sanitário, a capital paraibana atinge o índice de 79,81%, enquanto Campina Grande, 96,49%.
 
-João Pessoa e Campina Grande também se destacam no indicador de perdas na distribuição de água captada, ficando ambas bem abaixo na média nacional, que é de cerca de 40%. Na Capital, o índice é 30,71%, enquanto em Campina Grande a marca chega a 28,33%. 
+João Pessoa e Campina Grande também se destacam no indicador de perdas na distribuição de água captada, ficando ambas bem abaixo na média nacional, que é de cerca de 40%. Na Capital, o índice é 30,71%, enquanto em Campina Grande a marca chega a 28,33%.
 
 “Esses números mostram que aqui na Paraíba estamos no caminho certo, trilhando de forma planejada a universalização dos serviços de água e esgotos em todas as regiões do Estado”, destacou o presidente da Cagepa, Marcus Vinícius Neves, nesta terça-feira, durante visita técnica à obra do ramal Curimataú do sistema adutor TransParaíba, ao lado do governador João Azevêdo, no município de Boqueirão.
 
@@ -229,8 +228,4 @@ Fonte: paraiba.pb.gov.br
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

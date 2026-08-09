@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 -Pesquisa divulgada esta semana mostra que a situação de insegurança alimentar atinge mais de 59% dos domicílios no Brasil. O Banco de Alimentos da Nova Ceasa atua de forma constante e consistente para minimizar essa realidade com a distribuição de comida para famílias no Piauí.
 
 No primeiro ano da pandemia, o Banco de Alimentos da maior Central de Abastecimento no Piauí distribuiu 250 mil quilos de frutas, verduras, legumes e cereais para famílias carentes do estado. Desde a criação do Banco em 2018, 550 toneladas de alimentos foram arrecadadas entre os comerciantes que vendem seus produtos na Central, interrompendo um ciclo de fome e desnutrição agravado pela pandemia. A iniciativa torna-se ainda mais relevante com a divulgação da pesquisa que aponta que a situação de insegurança alimentar atinge mais de 59% dos domicílios no país: cerca de 125,6 milhões de brasileiros comeram menos em 2020. Ainda segundo o levantamento da Universidade Livre de Berlim, na Alemanha, em parceria com a Universidade Federal de Minas Gerais e a Universidade de Brasília, a fome chegou a 15% das famílias.
@@ -31,5 +30,3 @@ Fonte: Assessoria de Comunicação da Superintendência de Parcerias e Concessõ
 @[ppppiaui](https://www.instagram.com/ppppiaui/) - Facebook: [PPP Piauí](https://www.facebook.com/PPPPiaui/) - LinkedIn: [PPP Piauí](http://linkedin.com/in/ppp-piau%C3%AD-0a31271b3) - Twitter: @[SuparcPI](http://twitter.com/SuparcPI)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

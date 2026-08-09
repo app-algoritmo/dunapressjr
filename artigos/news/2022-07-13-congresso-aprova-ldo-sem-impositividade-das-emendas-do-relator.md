@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Salário mínimo previsto para 2023 é de R$ 1.294.
 
 A sessão do Congresso Nacional nesta terça-feira (12) terminou com a aprovação da Lei de Diretrizes Orçamentárias (LDO) de 2023, além da aprovação de Projetos de Lei do Congresso (PLN) referentes a créditos suplementares. A LDO determina as metas e prioridades para os gastos públicos e oferece os parâmetros para elaboração do projeto de lei orçamentária do ano que vem. Sua votação era necessária até o dia 17 de julho, para possibilitar que os parlamentares entrassem em recesso no dia 18 em caráter oficial.
@@ -54,8 +53,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

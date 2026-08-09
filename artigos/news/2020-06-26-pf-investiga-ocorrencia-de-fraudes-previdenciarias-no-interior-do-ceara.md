@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Juazeiro do Norte/CE - A Polícia Federal deflagrou nesta quinta-feira, 25/6, a Operação Fantasmas, com o objetivo de investigar a ocorrência de fraudes previdenciárias.
 
 Estão sendo cumpridos quatro mandados de busca e apreensão (MBA) e um mandado de prisão preventivo (MPP), expedidos pela 25a Vara Federal Justiça Federal de Iguatu, sendo um MBA, na cidade de Tauá-CE, e os outros três MBA e um MPP, na cidade de Catarina-CE .
@@ -20,4 +19,4 @@ Todas As buscas foram acompanhadas por representantes da OAB.
 
 Comunicação Social da Polícia Federal em Juazeiro do Norte
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

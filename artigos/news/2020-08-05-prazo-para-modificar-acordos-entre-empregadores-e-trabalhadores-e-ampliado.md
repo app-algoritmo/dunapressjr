@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 As duas partes serão notificados pelo governo das decisões proferidas sobre os acordos enviados em até 15 dias.
 
 O prazo para que empregadores informem ao Ministério da Economia modificação de acordos do Benefício Emergencial de Manutenção do Emprego e da Renda (BEm) realizados com os trabalhadores aumentou de dois para cinco dias, segundo a [Portaria nº 18.560](https://www.in.gov.br/en/web/dou/-/portaria-n-18.560-de-4-de-agosto-de-2020-270473297) publicada no Diário Oficial da União (DOU) desta quarta-feira (5).
@@ -24,4 +23,4 @@ O programa foi instituído pela Medida Provisória 936 que foi substituída pela
 
 Fonte: gov.br – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

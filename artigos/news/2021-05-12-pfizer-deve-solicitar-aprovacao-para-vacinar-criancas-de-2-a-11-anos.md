@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A Pfizer, que está trabalhando em uma vacina com vida útil mais longa no refrigerador, vai solicitar a aprovação para vacinar crianças mais novas neste outono, disse o CEO Bourla.
 
 O CEO da Pfizer, Albert Bourla, disse que sua empresa pretende solicitar a aprovação da Food and Drug Administration (FDA) dos EUA para vacinar crianças de dois a 11 anos contra o COVID-19 já em setembro.
@@ -29,7 +28,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

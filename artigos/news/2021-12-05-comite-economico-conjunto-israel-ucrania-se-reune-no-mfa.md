@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Yael Ravia-Zadok, Divisão de Assuntos Econômicos do vice-diretor-geral: A reunião permitiu que os dois governos avançassem em questões de interesse comum e iniciassem processos para atualizar o comércio e a cooperação.
 
-A 12ª reunião do Comitê Econômico Misto Israel-Ucrânia para a promoção da relação bilateral e do comércio entre os dois países aconteceu ontem (terça-feira, 30 de novembro de 2021) no Ministério das Relações Exteriores em Jerusalém. 
+A 12ª reunião do Comitê Econômico Misto Israel-Ucrânia para a promoção da relação bilateral e do comércio entre os dois países aconteceu ontem (terça-feira, 30 de novembro de 2021) no Ministério das Relações Exteriores em Jerusalém.
 
 O Comitê foi presidido pelo Ministro da Habitação e Construção e pelo Ministro dos Assuntos de Jerusalém, Ze'ev Elkin, e pelo Ministro da Defesa da Ucrânia, Alexey Reznikov.
 
@@ -35,7 +34,3 @@ Fonte: https://www.gov.il
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

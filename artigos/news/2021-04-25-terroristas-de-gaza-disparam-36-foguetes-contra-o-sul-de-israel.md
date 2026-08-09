@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A sirene soou no kibutz Kissufim, perto da fronteira com Gaza. Trinta e seis foguetes disparados, seis deles interceptados pelo Iron Dome.
 
 Trinta e seis foguetes foram disparados de Gaza em direção ao sul de Israel na noite de sexta-feira. Os soldados das FDI que comandavam o sistema de defesa antimísseis Iron Dome interceptaram seis foguetes direcionados a áreas povoadas.
@@ -41,5 +40,3 @@ Fonte: https://www.israelnationalnews.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

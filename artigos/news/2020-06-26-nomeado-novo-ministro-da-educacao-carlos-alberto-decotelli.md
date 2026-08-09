@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Novo ministro é formado em Ciências Econômicas; tem doutorado, pós-doutorado, mestrado e MBA em Administração e foi presidente do FNDE em 2019.
 
 Carlos Alberto Decotelli da Silva é o novo ministro da Educação. A nomeação foi publicada em [Edição Extra do Diário Oficial da União nesta quinta-feira (25)](http://www.in.gov.br/web/dou/-/decreto-de-25-de-junho-de-2020-263472722). Com experiência na pasta, chegou a ser presidente do Fundo Nacional de Desenvolvimento da Educação (FNDE), em 2019. Antes de ocupar o atual cargo, era professor da Pós-Graduação em Economia e Finanças da Fundação Getúlio Vargas (FGV).
@@ -25,7 +24,7 @@ Fonte: gov.br / Imagem em destaque: MEC
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

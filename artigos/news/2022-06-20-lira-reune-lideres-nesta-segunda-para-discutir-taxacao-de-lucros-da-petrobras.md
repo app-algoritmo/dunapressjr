@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O presidente da Câmara dos Deputados, [Arthur Lira (PP-AL)](https://www.camara.leg.br/deputados/160541), vai reunir os líderes partidários nesta segunda-feira (20) para analisar proposta de taxação dos lucros da Petrobras e mudanças na política de preços praticada pela estatal. Em entrevista à *Globonews *nesta sexta-feira (17), ele fez duras críticas ao novo aumento anunciado ontem pela empresa: 5,18% na gasolina e 14,26% no diesel.
 
 Lira também defendeu a renúncia do presidente da Petrobras, José Mauro Ferreira Coelho. "Estamos perplexos. Claramente esse anúncio é uma retaliação pela sua demissão. Está fazendo mal ao Brasil e à economia brasileira", disse Lira. O governo anunciou a demissão de Coelho no fim de maio, mas a substituição depende de nova assembleia de acionistas da empresa.
@@ -31,7 +30,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

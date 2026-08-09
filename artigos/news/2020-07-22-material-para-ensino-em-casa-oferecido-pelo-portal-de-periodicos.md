@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Editora Royal Society Publishing oferece ferramentas de pesquisa para acesso gratuito por professores e famílias de estudantes.
 
 Para facilitar o ensino e o aprendizado a distância e compartilhar conteúdo entre professores, pais e responsáveis, a *Royal Society Publishing*, uma das editoras integrantes do [Portal de Periódicos](https://www-periodicos-capes-gov-br.ez1.periodicos.capes.gov.br/index.php) da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), oferece atividades, recursos e vídeos para professores de diversos níveis acadêmicos durante a pandemia. A iniciativa é voltada principalmente para a educação básica e, ao contrário da maior parte do portal, o acesso é gratuito, com ferramentas disponíveis por tempo indeterminado.
@@ -27,7 +26,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

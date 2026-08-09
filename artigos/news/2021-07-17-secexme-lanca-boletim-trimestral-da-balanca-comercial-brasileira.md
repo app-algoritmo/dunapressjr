@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Publicação visa qualificar o debate sobre os recentes resultados e tendências da área.
 
 A Secretaria de Comércio Exterior (Secex) lançou a primeira edição do [Boletim Trimestral da Balança Comercial Brasileira](https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/publicacoes-secex/boletins-de-comercio-exterior/arquivos/boletim-de-comercio-exterior_2trim21.pdf), nesta sexta-feira (16/7). A nova publicação – que terá periodicidade trimestral – contextualiza o panorama do comércio mundial, detalha as características e a dinâmica do comércio exterior brasileiro e apresenta as estimativas da Secretaria para os resultados da Balança Comercial em 2021.
@@ -30,10 +29,6 @@ Acesse as estatísticas de Comércio Exterior: [Comex Stat](http://comexstat.mdi
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

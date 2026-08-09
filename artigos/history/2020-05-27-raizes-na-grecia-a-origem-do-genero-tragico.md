@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 O teatro Grego fez tão parte do povo heleno quanto sua famosa filosofia. As obras do poeta Homero, por exemplo, é a essência de toda cultura ocidental até os tempos atuais. Fora no século V a.C. que surgira o gênero trágico que ainda hoje é um dos mais procurados por nós espectadores. Para o público atual, o trágico remete a tristeza, infortune-o ou a qualquer tipo de acontecimento danoso aos personagens. Mas enquanto ao Grego daquela época, o que seria o gênero trágico?
 
 ## **Suas raízes.**
@@ -58,7 +57,7 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-*https://dunapress.org/subscription-plan/?ref=Vitor*
+*https://dunapress.org/subscription-plan/
 
 ## **Referencias:**
 

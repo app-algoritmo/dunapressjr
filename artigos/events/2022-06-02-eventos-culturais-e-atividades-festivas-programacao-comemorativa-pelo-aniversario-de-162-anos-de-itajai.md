@@ -8,7 +8,6 @@ categories:
 - Events
 ---
 
-
 Iniciam nesta quinta-feira (02) os eventos e atividades comemorativas pelos 162 anos de emancipação de Itajaí. O aniversário da cidade é no dia 15 de junho, mas a programação promovida pelo Município se estenderá até 02 de julho. As atrações contemplam pessoas de todas as idades e ocorrerão em diversos pontos da cidade.
 
 Haverá o tradicional bolo de aniversário em cinco localidades, exibição de um documentário sobre a história de Itajaí, campeonatos e ações esportivas, lançamentos e inaugurações. Também integra as comemorações o Concerto de Aniversário, que ocorrerá na Praça da Igreja Matriz nos dias 17 e 18 de junho, com orquestra e corais locais, além da Noite dos Candelabros na Igreja Imaculada Conceição e de outros concertos comemorativos no Teatro Municipal.
@@ -155,7 +154,3 @@ Fonte: https://itajai.sc.gov.br/noticias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

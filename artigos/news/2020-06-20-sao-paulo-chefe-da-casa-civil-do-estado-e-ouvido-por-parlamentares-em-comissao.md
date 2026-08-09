@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Nesta sexta-feira (19/6), a reunião da Comissão de Administração Pública e Relações do Trabalho (CAPRT) recebeu, em ambiente virtual, o secretário-chefe da Casa Civil do Estado, Antônio Carlos Rizeque Malufe, a fim de esclarecer questões demandadas por parlamentares. O deputado Marcio da Farmácia (PODE) presidiu a oitiva.
 
 No encontro, a deputada Professora Bebel (PT) demonstrou preocupação com uma possível volta às aulas presenciais e reivindicou melhores condições para professores temporários que estão sem trabalhar. Em resposta, Malufe afirmou que a Secretaria da Educação vai apresentar um planejamento para o retorno com base nos parâmetros estabelecidos no Plano São Paulo. "Os protocolos vão respeitar basicamente a nossa situação e a evolução da pandemia e estarão dentro daquilo que o governador tem repetido: nada é definitivo".
@@ -32,7 +31,7 @@ Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com inf
 
 Clique no link abaixo para assinar
 
-### [https://dunapress.org/subscription-plan/?aff=Vitor](https://dunapress.org/subscription-plan/?aff=Vitor)
+### [https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)
 
 Experimente por 7 Dias Gratuitos – Nossos Valores de Assinatura
 

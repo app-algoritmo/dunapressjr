@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 O Brasil possui cerca de 55 milhões de cães e 24 milhões de gatos, o que corresponde a mais de 56% do total de animais de estimação do país. E esses números tendem a crescer e chegar a 100 milhões de animais até 2030. O problema está no descontrole populacional que pode levar ao abandono, maus-tratos, disseminação de doenças e impactos ao meio ambiente.
 
 Para contornar essa situação, o Ministério do Meio Ambiente (MMA) realizou nesta terça-feira (14), em Brasília, o I Seminário Nacional de Proteção e Bem-estar de Cães e Gatos – Ações e Perspectivas. Organizado pela Secretaria de Biodiversidade (SBio), por meio da Coordenação-Geral Nacional de Proteção e Defesa Animal (CGPRO), o evento discutiu iniciativas dos governos federal, estaduais e municipais, Poder Legislativo e entidades da sociedade civil e do setor privado relativas aos cuidados com esses animais.
 
-Na abertura, a secretária de Biodiversidade, Beatriz Milliet, destacou que o MMA está investindo na pauta de proteção e defesa de cães e gatos e quer ampliar as medidas em conjunto com a sociedade. "Não há modo melhor de se construir políticas públicas do que ouvindo. Ouvindo quem está na ponta, ouvindo quem já faz, ouvindo os diversos setores e segmentos da sociedade civil, outros entes governamentais", ressaltou a secretária. 
+Na abertura, a secretária de Biodiversidade, Beatriz Milliet, destacou que o MMA está investindo na pauta de proteção e defesa de cães e gatos e quer ampliar as medidas em conjunto com a sociedade. "Não há modo melhor de se construir políticas públicas do que ouvindo. Ouvindo quem está na ponta, ouvindo quem já faz, ouvindo os diversos setores e segmentos da sociedade civil, outros entes governamentais", ressaltou a secretária.
 
 O fortalecimento de medidas para proteger animais domésticos no MMA culminou na criação da CGPRO, em 2020. O objetivo da coordenação é definir diretrizes, prioridades, programas e projetos para o aprimoramento das ações em defesa dos cães e gatos no país, em parceria com os estados e municípios, além das organizações não-governamentais e da iniciativa privada.
 
@@ -45,5 +44,3 @@ Fonte: https://www.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

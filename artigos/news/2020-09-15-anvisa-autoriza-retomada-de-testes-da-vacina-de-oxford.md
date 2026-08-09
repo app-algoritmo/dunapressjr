@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-No Brasil, o Centro de Referência para Imunobiológicos Especiais da Universidade Federal de São Paulo está à frente dos testes. No Brasil, o Centro de Referência para Imunobiológicos Especiais da Universidade Federal de São Paulo está à frente dos testes. 
+No Brasil, o Centro de Referência para Imunobiológicos Especiais da Universidade Federal de São Paulo está à frente dos testes. No Brasil, o Centro de Referência para Imunobiológicos Especiais da Universidade Federal de São Paulo está à frente dos testes.
 
 Os estudos clínicos com a vacina de Oxford, do Reino Unido, já podem ser retomados no Brasil. A decisão da Agência Nacional de Vigilância Sanitária (Anvisa) garante segurança aos voluntários que queiram participar do experimento. Os testes haviam sido suspensos após a notícia de que uma voluntária, no exterior, teria tido reação ao produto, o que foi descartado.
 
@@ -38,5 +37,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

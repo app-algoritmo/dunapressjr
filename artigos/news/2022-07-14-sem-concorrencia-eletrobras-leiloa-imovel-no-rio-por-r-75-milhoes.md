@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ### Leilão foi na B3, bolsa de valores de São Paulo.
 
-Um imóvel no bairro de Botafogo, no Rio de Janeiro, de propriedade da Furnas Centrais Elétricas (Eletrobras Furnas), foi leiloado nesta quarta-feira (13) na B3, bolsa de valores, em São Paulo. Com uma área de mais de 9 mil m², o local faz parte do antigo edifício sede de Furnas e foi arrematado pela incorporadora Cyrela por R$ 75.400.014. Não houve concorrência, nem ágio. 
+Um imóvel no bairro de Botafogo, no Rio de Janeiro, de propriedade da Furnas Centrais Elétricas (Eletrobras Furnas), foi leiloado nesta quarta-feira (13) na B3, bolsa de valores, em São Paulo. Com uma área de mais de 9 mil m², o local faz parte do antigo edifício sede de Furnas e foi arrematado pela incorporadora Cyrela por R$ 75.400.014. Não houve concorrência, nem ágio.
 
 O lote comprado é constituído pelo terreno do estacionamento e os prédios que abrigaram o Centro de Operação do Sistema Furnas, gráfica e centro de treinamento. Durante a sessão, também estava disponível para compra um galpão na rua Real Grandeza, com área de 1,5 mil m² e preço mínimo de venda de R$ 10,2 milhões, mas não houve interessados.
 
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

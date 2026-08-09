@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O índice subiu 67,6 pontos, diz CNC.
 
 A Intenção de Consumo das Famílias, medida pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), aumentou 1,3% em setembro, após cinco quedas consecutivas, e subiu a 67,6 pontos.
@@ -31,5 +30,3 @@ Com relação à perspectiva de consumo, houve leve retração mensal (-0,1%), o
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

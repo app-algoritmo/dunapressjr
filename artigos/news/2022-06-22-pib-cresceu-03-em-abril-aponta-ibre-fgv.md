@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Dados são do Ibre-FGV.
 
 O Monitor do PIB-FGV aponta crescimento de 0,3% na atividade econômica em abril na comparação com o mês anterior, considerando-se dados com ajuste sazonal. Na comparação interanual, a economia cresceu 3,6% em abril e 2,8% no trimestre móvel terminado em abril.
@@ -28,11 +27,11 @@ O consumo das famílias cresceu 4,8% no trimestre móvel findo em abril em compa
 
 A Formação Bruta de Capital Fixo (FBCF), que são os investimentos, teve retração de 5,2% no trimestre móvel terminado em abril em comparação ao mesmo trimestre do ano anterior. Esse resultado negativo foi influenciado pela elevada queda no componente de máquinas e equipamentos (10,7%). Esse componente apresenta taxas negativas desde o início de 2022.
 
-### Exportação 
+### Exportação
 
 Segundo o Ipea, a exportação de bens e serviços apresentou crescimento de 1,5% no trimestre móvel findo em abril em comparação ao mesmo período do ano passado. A exportação de bens intermediários, de bens de consumo e de produtos agropecuários reduziu muito sua contribuição nas exportações, o que explica o menor crescimento das exportações de bens.
 
-### Importação 
+### Importação
 
 A importação de bens e serviços apresentou retração de 8,2% no trimestre móvel findo em abril em comparação ao mesmo período do ano passado. Essa queda foi influenciada principalmente pelo desempenho negativo na importação de bens intermediários (14,5%).
 
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

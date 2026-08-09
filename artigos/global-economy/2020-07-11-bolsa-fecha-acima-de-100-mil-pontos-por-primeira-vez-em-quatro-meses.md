@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Dólar oscilou bastante, mas fechou em queda.
 
 Pela primeira vez em quatro meses, a bolsa de valores fechou acima dos 100 mil pontos. O índice Ibovespa, da B3 (a bolsa de valores brasileira), subiu 0,88% e fechou esta sexta-feira (10) aos 100.031 pontos.
@@ -22,4 +21,4 @@ No Brasil, a divulgação da inflação oficial em junho ajudou a segurar o dól
 
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Amanda Perobelli/Direitos Reservados
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

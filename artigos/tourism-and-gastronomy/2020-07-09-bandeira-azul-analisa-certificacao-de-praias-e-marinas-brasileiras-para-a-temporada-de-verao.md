@@ -8,7 +8,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Para garantir o título ecológico internacional, candidatos devem atender a 34 requisitos. Parecer final será divulgado em outubro.
 
 A temporada de verão de 2020/2021 no Brasil deve contar com 24 atrativos naturais certificados pelo Programa Bandeira Azul, uma espécie de selo ecológico. O título de 18 praias e seis marinas brasileiras foi pré-aprovado pelo programa e a lista oficial deve ser divulgada em outubro, após reunião do júri internacional, do qual o Ministério do Turismo faz parte. Este ano, cinco novas praias poderão receber o selo: três localizadas em Santa Catarina, uma na Bahia e uma no Rio de Janeiro. As outras 13 praias e seis marinas concorrem para a manutenção do título.
@@ -21,7 +20,7 @@ Além do MTur, também fazem parte do júri do Programa no Brasil os ministério
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

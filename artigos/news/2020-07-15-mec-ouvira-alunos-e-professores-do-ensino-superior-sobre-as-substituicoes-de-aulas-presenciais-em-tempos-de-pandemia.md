@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## A iniciativa faz parte do monitoramento sobre a substituição de aulas presenciais por aulas remotas durante a pandemia de Covid-19, estabelecida pela Portaria nº 544, de 16 de junho de 2020.
 
 Nesta semana, alunos e professores de todas as instituições de ensino superior das redes pública e privada que estavam matriculados ou lecionaram no primeiro semestre deste ano, em cursos presenciais, terão acesso a um questionário para contar suas experiências com as aulas nesta época de restrições e isolamento social, diante da circulação do novo coronavírus.
@@ -17,7 +16,7 @@ A iniciativa é um desdobramento da publicação da [Portaria nº 544, de 16 de 
 
 **Questionários**
 
-O Ministério da Educação (MEC) trabalha em parceria com a organização social CGEE (Centro de Gestão e Estudos Estratégicos) para a elaboração da pesquisa, o cruzamento de dados e a consolidação das respostas. Foi criado um formulário específico para cada grupo: um para as instituições de ensino (para checar a adesão às aulas remotas e dados sobre evasão escolar, por exemplo), um para os professores e um terceiro para os alunos – esses dois últimos têm perguntas a respeito da suspensão das aulas e da oferta de ferramentas adequadas para as aulas em meios digitais. **Os questionários vão estar disponíveis a partir das 14h desta quarta-feira (15).** Se você é **professor** do ensino superior, [poderá acessar e responder ao questionário aqui](https://isurvey.cgee.org.br/mec/portaria343professor/). Ou se você é **aluno** de qualquer instituição do ensino superior, [poderá clicar aqui para acessar e responder ao questionário](https://isurvey.cgee.org.br/mec/portaria343aluno/). De toda a forma, alunos e professores também devem receber o questionário por meio do e-mail cadastrado junto à instituição de ensino, a partir desta quarta-feira (15). 
+O Ministério da Educação (MEC) trabalha em parceria com a organização social CGEE (Centro de Gestão e Estudos Estratégicos) para a elaboração da pesquisa, o cruzamento de dados e a consolidação das respostas. Foi criado um formulário específico para cada grupo: um para as instituições de ensino (para checar a adesão às aulas remotas e dados sobre evasão escolar, por exemplo), um para os professores e um terceiro para os alunos – esses dois últimos têm perguntas a respeito da suspensão das aulas e da oferta de ferramentas adequadas para as aulas em meios digitais. **Os questionários vão estar disponíveis a partir das 14h desta quarta-feira (15).** Se você é **professor** do ensino superior, [poderá acessar e responder ao questionário aqui](https://isurvey.cgee.org.br/mec/portaria343professor/). Ou se você é **aluno** de qualquer instituição do ensino superior, [poderá clicar aqui para acessar e responder ao questionário](https://isurvey.cgee.org.br/mec/portaria343aluno/). De toda a forma, alunos e professores também devem receber o questionário por meio do e-mail cadastrado junto à instituição de ensino, a partir desta quarta-feira (15).
 
 **Prazos**
 
@@ -27,7 +26,7 @@ Fonte: gov.br / Imagem em destaque: us
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

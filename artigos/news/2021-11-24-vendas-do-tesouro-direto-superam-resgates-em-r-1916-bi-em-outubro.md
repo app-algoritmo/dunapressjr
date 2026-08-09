@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estoque Tesouro Direto atingiu R$ 74,52 bilhões.
 
 As vendas de títulos do Tesouro Direto superaram os resgates em R$ 1,916 bilhão em outubro deste ano. Segundo dados do Tesouro Nacional divulgados nesta terça-feira (23), em Brasília, as vendas do programa atingiram R$ 3,506 bilhões no mês passado. Já os resgates totalizaram R$ 1,590 bilhão, todos relativos a recompras de títulos públicos. Não houve resgates por vencimento, quando o prazo do título acaba e o governo precisa reembolsar o investidor com juros.
@@ -32,14 +31,10 @@ O Tesouro Direto foi criado em janeiro de 2002 para popularizar esse tipo de apl
 
 Mais informações podem ser obtidas no *site *do [**Tesouro Direto**](http://tesourodireto.com.br/).
 
-A venda de títulos é uma das formas que o governo tem de captar recursos para pagar dívidas e honrar compromissos. Em troca, o Tesouro Nacional se compromete a devolver o valor com um adicional que pode variar de acordo com a Selic, os índices de inflação, o câmbio ou uma taxa definida antecipadamente no caso dos papéis prefixados. 
+A venda de títulos é uma das formas que o governo tem de captar recursos para pagar dívidas e honrar compromissos. Em troca, o Tesouro Nacional se compromete a devolver o valor com um adicional que pode variar de acordo com a Selic, os índices de inflação, o câmbio ou uma taxa definida antecipadamente no caso dos papéis prefixados.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

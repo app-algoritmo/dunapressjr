@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Segundo pesquisa da Febraban (Federação Brasileira dos Bancos), os canais digitais tiveram um aumento de 90% de contas abertas em 2019, em relação ao ano anterior. Com a pandemia, o isolamento social e o surgimento de múltiplas fintechs, o número de contas digitais no Brasil chegou a 82 milhões em julho de 2021. Isso demonstra que o consumidor deseja mais agilidade na hora de pagar as contas, fazer transferências e compras on-line, quer atendimentos personalizados e menos custos na hora de utilizar esses serviços.
 
 Com isso, as fintechs têm percebido que no continente há grandes oportunidades para os serviços financeiros de todos os tipos, muitas vezes inexplorados. Mas por que na América Latina? Um fator determinante é a população volumosa que vivem nos países que compõem o continente, mais de 952 milhões de pessoas em 35 países.
@@ -24,7 +23,6 @@ Para evitar cair em golpes durante a pandemia, Ferreira indica algumas medidas.
 - **Nunca entregue seu cartão** a outra pessoa. Os bancos nunca enviam funcionários para recolher cartões. Nem mesmo envie pelos Correios ou outras formas.
 - **Gere um cartão virtual para compras na internet. Trata-se de um mecanismo para garantir maior segurança nas operações on-line, pois o cartão virtual é válido por um período de tempo ou para uma única operação.**
 - **Também existe cartão virtual para compras recorrentes, sendo assim, aquele cartão fica associado a uma loja e a um valor mensal, ou seja, qualquer transação diferente desse valor ou em outra loja, é negada automaticamente.**
-- 
 
 Fonte: Central Press
 
@@ -37,7 +35,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Dólar fecha a R$ 5,37, com estabilidade após dia volátil.
 
 Por mais um dia, o mercado financeiro viveu um dia de tensões em meio à ameaça de recessão global. A bolsa caiu para o menor nível em dois meses. O dólar alternou altas e baixas, mas fechou estável após duas fortes altas seguidas.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

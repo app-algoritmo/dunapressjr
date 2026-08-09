@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Com a decisão, o estado poderá ter acesso a recursos da União para ações de socorro e apoio à população. As Forças Armadas atuam, desde o dia 25 de julho, no combate a incêndio no Pantanal no Mato Grosso do Sul.
 
 O Governo Federal reconheceu a situação de emergência no Mato Grosso do Sul por conta dos incêndios florestais. A decisão foi publicada, nesta segunda-feira (14), em [edição extra](https://www.in.gov.br/web/dou/-/portaria-n-2.429-de-14-de-setembro-de-2020-277265232)), do Diário Oficial da União.
@@ -33,5 +32,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

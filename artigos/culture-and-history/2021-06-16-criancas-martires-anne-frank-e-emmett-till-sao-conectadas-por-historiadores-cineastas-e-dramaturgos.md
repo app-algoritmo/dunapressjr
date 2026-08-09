@@ -8,7 +8,6 @@ categories:
 - Culture and History
 ---
 
-
 O pai de Anne Frank compartilhou seu diário com o mundo para “fazer algo” com o legado de sua filha. Dez anos depois, nos Estados Unidos, Mamie Till exigiu que o cadáver mutilado de seu filho Emmett fosse exposto por um motivo semelhante.
 
 Em 1955, após cometer o “crime” de assobiar na direção de uma mulher branca, Till, de 14 anos, foi sequestrado da casa de seu tio perto de Money, no Mississippi. Ele foi submetido a extensas torturas, foi baleado e jogado no rio. Três dias depois, seu cadáver foi descoberto, sobrecarregado por um ventilador de descaroçamento de 75 libras preso a ele com arame farpado.
@@ -55,7 +54,7 @@ Na peça, 100 dias após o linchamento de Till, Till ouve Rosa Parks pensando ne
 
 “As coisas sobre as quais Anne escreveu foram coisas sobre as quais escrevi em meu diário”, disse Cohen, autor de duas memórias . “Ela morava em um sótão e tinha medo de que os nazistas a encontrassem e à sua família. Eu morava em um gueto e temia o patrulhamento policial, embora nunca tivesse feito nada de errado ”, disse Cohen, cuja peça foi encenada mais recentemente em Canton, Ohio.
 
-“A história de todos deve ser lembrada e os negros devem esquecê-la quando todas as outras histórias forem contadas”, disse Cohen, que foi despedido[ ](https://en.wikipedia.org/wiki/Janet_Langhart#cite_note-31)de um show do “Entertainment Tonight” por perguntar a Arnold Schwarzenegger sobre a origem nazista de seu pai.
+“A história de todos deve ser lembrada e os negros devem esquecê-la quando todas as outras histórias forem contadas”, disse Cohen, que foi despedidode um show do “Entertainment Tonight” por perguntar a Arnold Schwarzenegger sobre a origem nazista de seu pai.
 
 Durante os últimos anos, ativistas no Mississippi trabalharam para homenagear Till marcando locais associados ao seu assassinato. Não muito diferente da Casa de Anne Frank em Amsterdã, o tribunal onde os assassinos de Till foram absolvidos foi restaurado à sua aparência de 1955 para os visitantes .
 
@@ -71,8 +70,6 @@ Fonte: timesofisrael.com
 
 - [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
--  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
+- [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio! Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!

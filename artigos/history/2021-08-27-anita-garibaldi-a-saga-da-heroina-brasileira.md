@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 O Brasil, o Uruguai e a Itália comemoram neste mês de agosto o bicentenário de nascimento de Ana Maria de Jesus Ribeiro, que ficou internacionalmente conhecida como Anita Garibaldi, a maior heroína brasileira e “Mãe da Itália”, por ter participado de diversas batalhas ao lado do marido Giuseppe Garibaldi. Para celebrar a data, uma série de eventos nos países que têm relação com a trajetória histórica de Anita Garibaldi, a heroína dos dois mundos, estão sendo desenvolvidos por meio do projeto internacional “Uma rosa para Anita em seu bicentenário”.
 
 A iniciativa, que tem como objetivo divulgar e promover a imagem, a saga e os fatos protagonizados por ela, decorre de um convênio internacional celebrado entre o Museu Renzi, de Borghi (Itália), que é representado por Andrea Antonioli e Gianpaulo Grilli, e o Instituto Cultural Anita Garibaldi (CulturAnita) de Laguna (Brasil), representado por Leo Felipe Nunes e pelo historiador Adilcio Cadorin, sob a coordenação do governo do Estado de Santa Catarina. O projeto prevê a realização de eventos em todas as cidades catarinenses, gaúchas, uruguaias, italianas e de San Marino, comemorando a memória da personagem histórica nascida em Laguna em 30 de agosto de 1821.
@@ -93,7 +92,3 @@ Fonte: http://agenciaal.alesc.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

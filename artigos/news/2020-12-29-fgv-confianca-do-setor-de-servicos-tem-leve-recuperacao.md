@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Efeitos da pandemia se refletem na economia.
 
 Após dois meses seguidos de queda, o Índice de Confiança de Serviços (ICS), divulgado hoje (29) pelo Instituto Brasileiro de Economia, da Fundação Getulio Vargas (FGV Ibre), subiu 0,8 ponto em dezembro e fechou o ano em 86,2 pontos, dez pontos abaixo do registrado em dezembro de 2019. Na média móvel trimestral, o índice caiu 0,5 ponto.
@@ -20,7 +19,7 @@ A pandemia de covid-19 teve forte influência nos indicadores de serviços, com 
 
 ## Dois horizontes temporais
 
-Entre os componentes do ICS, seis dos 13 segmentos pesquisados tiveram alta nos dois horizontes temporais na passagem de novembro para dezembro. 
+Entre os componentes do ICS, seis dos 13 segmentos pesquisados tiveram alta nos dois horizontes temporais na passagem de novembro para dezembro.
 
 O Nível de Utilização da Capacidade Instalada (Nuci) do setor de serviços caiu 0,6 ponto percentual e ficou em 82,5% em dezembro. Na comparação anual, o indicador fecha 2020 acima do registrado em dezembro de 2019 (81,9%).
 
@@ -36,8 +35,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

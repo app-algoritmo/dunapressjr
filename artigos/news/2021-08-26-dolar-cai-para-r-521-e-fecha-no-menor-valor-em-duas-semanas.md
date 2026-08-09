@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa de valores tem segundo dia seguido de ganhos.
 
 Em mais um dia de alívio no mercado doméstico e externo, o dólar aproximou-se de R$ 5,20 caiu para o menor valor em duas semanas. A bolsa de valores teve o segundo dia consecutivo de ganhos, recuperando-se parcialmente das perdas dos últimos dias.
@@ -28,10 +27,6 @@ Paralelamente, o mercado reagiu à [**arrecadação recorde**](https://agenciabr
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 O estudo de propostas para alinhar o ensino de Defesa Cibernética nas Forças Armadas foi tema de videoconferência em 28 de maio. A reunião contou com a participação do Gerente da Divisão de Ensino, Comandante Anderson da Costa Medeiros, de representantes dos Estados-Maiores da Armada, do Exército e da Aeronáutica, do Departamento e das Diretorias de Ensino das Forças Armadas, além de seus setores de Ciência e Tecnologia.
 
 A discussão foi agendada após o recebimento de proposta apresentada pelo Exército Brasileiro. Na ocasião, o Comandante da Escola Nacional de Defesa Cibernética, Coronel Paulo Sérgio Reis Filho, conduziu apresentação detalhando os avanços alcançados nesse tema e identificando os efeitos desejados comuns entre as três Forças.
@@ -20,5 +19,3 @@ O Ministério da Defesa atribui grande importância ao tema, pois o Setor Cibern
 
 **Assessoria de Comunicação Social (Ascom)
 Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

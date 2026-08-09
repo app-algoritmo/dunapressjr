@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Expectativa é de produção de 260 toneladas de concentrado por ano.
 
 O governo federal retomou nesta terça-feira (1º) a produção de urânio na Unidade da Indústrias Nucleares do Brasil (INB), em Caetité, na Bahia. Na solenidade que marcou a retomada, uma detonação simbolizou o início da lavra a céu aberto em uma nova área, a Mina do Engenho.
@@ -31,8 +30,6 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/YFYyl67Ra7)
 
 Obrigado pelo apoio!
 

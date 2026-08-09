@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### IGP-M acumula alta de 6,98% no ano e de 14,66% em 12 meses.
 
 O Índice Geral de Preços – Mercado (IGP-M), que mede a inflação do aluguel, subiu 1,41% em abril, ante 1,74% no mês anterior. Com o resultado, o índice acumula alta de 6,98% no ano e de 14,66% em 12 meses. Em abril de 2021, o índice havia subido 1,51% e acumulava alta de 32,02% em 12 meses.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

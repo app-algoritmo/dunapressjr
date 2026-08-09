@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Assim como milhares de pequenos produtores rurais que contribuem para o sucesso do agronegócio catarinense, a família Bortese convive há meses com os efeitos devastadores causados pela estiagem em Santa Catarina. Com a produção dedicada à bovinocultura de leite e avicultura de corte, estimam que a provisão de ração animal não dure mais que 40 dias. Para piorar, a alta demanda pelos insumos esgotou a oferta no mercado, não antes das pastagens, que fatalmente sucumbiram à pior crise hídrica dos últimos 15 anos no Estado.
 
 A grave situação que atinge principalmente o Oeste catarinense foi constatada in loco pela governadora Daniela Reinehr que, durante sua passagem por Chapecó, reservou um tempo para visitar o sítio dos Bortese. Natural do município de Maravilha e produtora rural, a chefe do Executivo catarinense conhece com propriedade as dificuldades enfrentadas. Por isso, além dos R$ 76,6 milhões destinados pelo Governo até aqui, em apoio aos atingidos, a governadora mobilizou sua equipe, reforçou as ações do Estado e ampliou o diálogo com os Poderes, setores produtivos e população.
@@ -49,7 +48,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

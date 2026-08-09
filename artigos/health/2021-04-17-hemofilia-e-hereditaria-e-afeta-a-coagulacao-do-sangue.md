@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A hemofilia é um distúrbio genético e hereditário que compromete a capacidade do corpo em formar coágulos, tão necessários para interromper as hemorragias. Isso acontece quando há ausência de proteínas, substâncias que, dentre inúmeras funções, ajudam na coagulação.
 
 Quando uma pessoa corta alguma parte do corpo e começa a sangrar, são as proteínas que entram em ação para estancar o sangramento. Esse processo é chamado de coagulação. As pessoas portadoras de hemofilia, não possuem essas proteínas e sangram mais.
@@ -39,7 +38,7 @@ Também é preciso ficar atendo ao sangramento muscular e/ou articular, em menin
 
 O Sistema Único de Saúde (SUS) oferece uma linha de cuidados de qualidade para tratar a hemofilia e prevenir suas complicações, que vai desde o diagnóstico correto e o atendimento aos pacientes e familiares por equipes multidisciplinares. Tudo orientado por protocolos específicos.
 
- Fonte: blog.saude.gov.br 
+ Fonte: blog.saude.gov.br
 
 **Ver também:**
 
@@ -47,7 +46,3 @@ O Sistema Único de Saúde (SUS) oferece uma linha de cuidados de qualidade para
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 E o mais importante como fazer estas metas darem certo.
 
 Todo mundo já sabe que para algo dar certo primeiramente é preciso elaborar um plano, uma meta. Vivemos em tempos frenéticos, ao longo do dia temos muitas obrigações, e não é fácil, conciliar esta correria do dia a dia com metas de estudos.
@@ -32,9 +31,6 @@ Perguntas respondidas?! Então vamos para a segunda etapa: Estabelecer um cronog
 
 No mercado existe a venda, agendas e planers, eles são ótimos e facilitam muito, na organização diária. Utilize deste matérias para organizar uma rotina, estabelecendo horários, deste a hora que você acorda, até a hora de ir dormir. Uma rotina organizada, possui muitas possibilidades de dar certo.
 
-- 
-- 
-
 Separe um tempo também para praticar alguma atividade física, 30 minutos por dia, já são o suficiente, que podem ser um passeio com seu cachorro, ou ate mesmo a ida a padaria. Tenha uma vida saudável, durma e descanse bem. Não esqueça que você é humano e tem limites, portanto não se exceda. Cuide de sua saúde e aparência.
 
 Mesmo que você não seja uma pessoa de fé, separe alguns minutos, do dia para fazer uma auto reflexão, e busque meditar no que pode melhorar como pessoa.
@@ -49,18 +45,15 @@ Você pode utilizar como matérias de estudo, livros, artigos, vídeos ou aposti
 
 Isso ajuda muito na memorização, mas também facilita o trabalho, quando você precisar utilizar o material. Anote página, título do livro ou artigo, autor, nome do canal do vídeo e ate os minutos onde o assunto foi abordado. Separe os assuntos e temas, por cor, com ajuda de canetas esferográficas, e anote no seu caderno.
 
-- 
-- 
-
 Pode parecer estranho a recomendação de uso de cadernos, e canetas, em plena época de tanta facilidade tecnológica a nossa disposição, mas pode ter certeza que a utilização destes métodos, que podem parecer arcaico, para muitos, trazem grandes resultados, pois vai lhe tirar da zona de conforto, fazendo o seu celebro trabalhar de maneira, que não está habituado, isso ajuda no raciocínio e na assimilação dos conteúdos.
 
 Uma coisa que eu também recomendo e uso de marcadores de páginas, os famosos Post-it, para os assuntos mais relevantes.
 
-Se o material impresso utilizado pertence a você, então você pode utilizar de lápis de cor com cores correspondentes aos Post-its utilizados, para grifar as frases ou parágrafos dos textos que achar importante, com auxilio de régua. 
+Se o material impresso utilizado pertence a você, então você pode utilizar de lápis de cor com cores correspondentes aos Post-its utilizados, para grifar as frases ou parágrafos dos textos que achar importante, com auxilio de régua.
 
 Nunca utilize marcadores textos, ou canetas esferográficas, para grifar, pois além de deixar um aspecto feio, geralmente as marcações vazão para o outro lado da página.
 
-Separe um lugar para estudar, com luz adequada, confortável,  silencioso, mas se você tem vizinhos barulhentos, coloque um fundo musical, eu recomendo os instrumentais. Se poder leve o material, para ler nos intervalos, do trabalho, ou dentro do ônibus, metro, etc. Leve também lápis e Post-it, e quando chegar em casa passe as anotações para o caderno. 
+Separe um lugar para estudar, com luz adequada, confortável,  silencioso, mas se você tem vizinhos barulhentos, coloque um fundo musical, eu recomendo os instrumentais. Se poder leve o material, para ler nos intervalos, do trabalho, ou dentro do ônibus, metro, etc. Leve também lápis e Post-it, e quando chegar em casa passe as anotações para o caderno.
 
 Organize a sua semana, mas separe os fins de semana para relaxar, descansar, organizar a semana seguinte. Não esqueça: organização é tudo.
 
@@ -82,7 +75,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

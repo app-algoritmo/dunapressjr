@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Essa é a maior taxa do indicador para o acumulado de janeiro a dezembro dos últimos nove anos.
 
 O setor de serviços do país cresceu 9,1% em 2021, na comparação com o ano anterior. Essa é a maior taxa do indicador para o acumulado de janeiro a dezembro dos últimos nove anos. Os dados são da Pesquisa Mensal de Serviços, divulgada pelo Instituto Brasileiro de Geografia e Estatísticas (IBGE). A maior taxa havia sido anteriormente em 2013, primeiro ano da série histórica do indicador do IBGE por unidade da federação.
@@ -28,8 +27,4 @@ Fonte: Sefaz - PB
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

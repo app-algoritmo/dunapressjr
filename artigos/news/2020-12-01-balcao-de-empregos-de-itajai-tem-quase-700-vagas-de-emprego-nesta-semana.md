@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Balcão de Empregos do Município de Itajaí está com vagas de trabalho em diferentes bairros da cidade. São 693 novas oportunidades de emprego disponíveis nesta segunda-feira (30). As vagas são para diversas áreas, desde motorista até nutricionista.
 
 Os serviços presenciais do Balcão de Empregos foram retomados, no Centro de Serviços Integrados (CSI). As vagas também estão disponíveis pelo aplicativo Conecta.í e no site** [empregos.itajai.sc.gov.br](https://intranet2.itajai.sc.gov.br/balcao-empregos/externo)**. Após a consulta, o usuário pode enviar um e-mail ao Balcão para solicitar o encaminhamento à vaga. Nos atendimentos presenciais, são respeitadas as regras do protocolo sanitário e os encaminhamentos são realizados na rua Antônio Caetano, 105, bairro Fazenda.
@@ -48,7 +47,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

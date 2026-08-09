@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Cento e dois professores atuantes em escolas públicas da educação básica participarão de curso de aperfeiçoamento no país norte-americano.
 
 Está disponível o resultado preliminar do [edital nº 31/2019](https://www.capes.gov.br/images/novo_portal/editais/editais/24032020_EDITAL_31_2019_-_CICAN_altera%C3%A7%C3%A3o.pdf), do [Programa de Desenvolvimento Profissional de Professores da Educação Básica no Canadá](https://www.capes.gov.br/educacao-basica/cooperacao-internacional/programa-de-desenvolvimento-de-profissionais-da-educacao-basica-no-canada). A [lista com os nomes pré-selecionados](https://www.capes.gov.br/images/novo_portal/editais/resultados/03082020_Edital_1259155_Edital_31.2019_resultado_preliminar.pdf) para capacitação no país norte-americano foi publicada na edição desta segunda-feira, 3, do Diário Oficial da União. A iniciativa é promovida pelo *Colleges and Institutes Canada* (CICan) em parceria com a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).
@@ -31,7 +30,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

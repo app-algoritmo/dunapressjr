@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Trabalho avaliou adoção de regimes aduaneiros especiais pelos países do G20, indicando a desoneração tributária de serviços usados para a produção e comercialização de bens exportados.
 
 A Secretaria de Comércio Exterior do Ministério da Economia (Secex/ME) colocou à disposição, para consulta do público externo, [estudo de *benchmarking* internacional](http://siscomex.gov.br/wp-content/uploads/2021/05/IND_SER.pdf) que visa verificar a prática de inserção de serviços em regimes aduaneiros especiais de processamento para exportação. O trabalho foi realizado no âmbito do Acordo de Cooperação Técnica entre o Ministério da Economia e o Programa das Nações Unidas para o Desenvolvimento (Pnud), tendo como escopo os países do G20 – Bloco formado pelas maiores economias do mundo.
@@ -27,8 +26,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

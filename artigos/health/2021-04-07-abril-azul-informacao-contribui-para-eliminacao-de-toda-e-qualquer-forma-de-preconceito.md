@@ -8,12 +8,11 @@ categories:
 - Health
 ---
 
-
 ## **Sete livros que falam sobre autismo e ajudam a praticar a inclusão**.
 
 Com o objetivo de difundir informações sobre o Transtorno do Espectro Autista (TEA) e, assim, reduzir a discriminação e o preconceito, abril é marcado como o mês de conscientização do Autismo. Este ano, para o Abril Azul, uma campanha nacional traz o tema “Respeito para todo o espectro”. A Organização Mundial da Saúde (OMS) prevê que haja 70 milhões de pessoas com autismo em todo o mundo, sendo 2 milhões somente no Brasil. Estima-se ainda que uma em cada 88 crianças apresente traços de autismo, com prevalência quatro vezes maior em meninos.
 
-Segundo a supervisora do Serviço de Psicologia Escolar do Colégio Positivo, Maísa Pannuti, o Transtorno do Espectro Autista (TEA) não é uma doença, mas um transtorno do desenvolvimento. "Não existem exames clínicos que atestem o TEA. O diagnóstico deve ser clínico e multidisciplinar, a partir de critérios como déficits persistentes na comunicação e na interação social, assim como padrões restritos e repetitivos de comportamento, interesses ou atividades", explica a psicóloga. 
+Segundo a supervisora do Serviço de Psicologia Escolar do Colégio Positivo, Maísa Pannuti, o Transtorno do Espectro Autista (TEA) não é uma doença, mas um transtorno do desenvolvimento. "Não existem exames clínicos que atestem o TEA. O diagnóstico deve ser clínico e multidisciplinar, a partir de critérios como déficits persistentes na comunicação e na interação social, assim como padrões restritos e repetitivos de comportamento, interesses ou atividades", explica a psicóloga.
 
 Maísa ainda destaca: "apesar de haver alguns traços característicos do autismo, cada pessoa é única, com sua personalidade, genética, história de vida e contexto familiar. Assim, não se pode rotular um indivíduo com TEA, o que reduziria a pessoa ao transtorno em si, desconsiderando sua subjetividade". Por outro lado, conhecer alguns comportamentos relativamente comuns em pessoas com autismo pode ajudar na redução do estigma e do preconceito, favorecendo a inclusão desses indivíduos de forma plena. "Conhecer esses padrões não tem como objetivo rotular, mas sim garantir que a informação seja um veículo de eliminação de toda e qualquer forma de preconceito", ressalta Maísa.
 
@@ -61,8 +60,4 @@ Fonte:  Central Press
 - [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
-
- [Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT) 
-
-[https://dunapress.org/joice-maria-ferreira-pix-autorizado/](https://dunapress.org/joice-maria-ferreira-pix-autorizado/)
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!

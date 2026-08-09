@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Texto estabelece o repasse de R$ 3 bilhões pela União ao segmento e garante o pagamento de auxílio emergencial de R$ 600 a trabalhadores da área.
 
 A edição do Diário Oficial da União desta terça-feira (30.06) traz a publicação da [Lei nº 14.017/2020](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=30/06/2020&jornal=515&pagina=1), que define ações emergenciais destinadas ao setor cultural durante o estado de calamidade em função da Covid-19. (Acesse [aqui](http://www.in.gov.br/en/web/dou/-/lei-n-14.017-de-29-de-junho-de-2020-264166628)) Sancionado pelo presidente Jair Bolsonaro, o texto prevê o repasse de R$ 3 bilhões a estados, municípios e ao Distrito Federal para medidas de apoio ao ramo, como o pagamento de três parcelas de um auxílio emergencial de R$ 600 mensais a trabalhadores da área.
@@ -30,7 +29,7 @@ Imagem: Bruna Brandão
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

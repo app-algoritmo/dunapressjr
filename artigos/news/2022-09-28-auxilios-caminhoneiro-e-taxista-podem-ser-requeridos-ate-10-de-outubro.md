@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Profissionais devem ter CNH e CPF válidos.
 
 Motoristas de carga autônomos e motoristas de táxi têm até o dia 10 de outubro para solicitar os auxílios Caminhoneiro e Taxista. De acordo com o secretário de Previdência do Ministério do Trabalho e Previdência, André Veras, no último sábado (24) foram pagos 341 mil benefícios a transportadores autônomos de carga e 297 mil a taxistas, totalizando aportes de R$ 1 bilhão e R$ 877 milhões, respectivamente.
@@ -20,7 +19,7 @@ Quem tem direito
 
 Têm direito ao Auxílio Caminhoneiro transportadores de carga autônomos cadastrados no Registro Nacional de Transportadores Rodoviários de Cargas (RNTR-C) da ANTT. Os profissionais deverão estar com a Carteira Nacional de Habilitação (CNH) e o CPF válidos, entre outras exigências.
 
-Têm direito ao Auxílio Taxista motoristas de táxi registrados nas prefeituras. Não é necessária qualquer ação por parte dos taxistas. Em caso de dúvidas, o motorista deve entrar em contato com a prefeitura para verificar o cadastro. A prestação das informações cabe inteiramente às prefeituras ou ao governo do Distrito Federal. 
+Têm direito ao Auxílio Taxista motoristas de táxi registrados nas prefeituras. Não é necessária qualquer ação por parte dos taxistas. Em caso de dúvidas, o motorista deve entrar em contato com a prefeitura para verificar o cadastro. A prestação das informações cabe inteiramente às prefeituras ou ao governo do Distrito Federal.
 
 Calendário do Auxílio Caminhoneiro 2022
 
@@ -34,8 +33,4 @@ Fonte: Caixa Econômica Federal/Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

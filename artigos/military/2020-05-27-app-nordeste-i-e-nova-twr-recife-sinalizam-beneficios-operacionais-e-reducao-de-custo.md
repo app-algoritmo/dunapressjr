@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 A utilização racional e otimizada do espaço aéreo, com a adoção de novos conceitos para a navegação aérea, utilizando soluções de alta tecnologia na coordenação eficiente, eficaz e segura da crescente demanda de tráfego aéreo, são princípios do Programa Sirius Brasil, desenvolvido pelo Departamento de Controle do Espaço Aéreo (DECEA).
 
 Assim, o Programa Sirius tem por finalidade a adoção de soluções para a evolução permanente do ATM (*Air Traffic Management*), ou seja, a garantia da harmonia entre a capacidade do Sistema de Controle do Espaço Aéreo Brasileiro (SISCEAB) e as demandas crescentes dos voos.
@@ -34,5 +33,3 @@ O edital de licitação, lançado em dezembro passado, pela Comissão de Implant
 O início das obras está previsto para o primeiro semestre deste ano, a depender das restrições impostas pela crise de saúde mundial do Coronavírus (COVID-19). A estimativa do cronograma de infraestrutura é de três anos, com conclusão em abril de 2023. Já a instalação e integração da primeira fase dos sistemas operacionais de controle de tráfego aéreo em abril de 2024, com transferência da TWR Recife e dos APP Recife e Maceió.
 
 Fonte: Portal de Imprensa da Força Aérea Brasileira
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

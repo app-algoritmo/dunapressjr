@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Matéria foi arquivada por não atingir número suficiente de votos.
 
 O plenário da Câmara dos Deputados rejeitou, por 229 votos favoráveis, 218 contrários e uma abstenção, a Proposta de Emenda à Constituição (PEC) 135/19, que torna obrigatório o voto impresso. Para que fosse aprovada, a PEC precisava de, no mínimo, 308 votos em dois turnos de votação. A matéria será arquivada.
@@ -16,7 +15,7 @@ O plenário da Câmara dos Deputados rejeitou, por 229 votos favoráveis, 218 co
 
 ## Discussão
 
-Todos os partidos de oposição votaram contra a proposta. Segundo o deputado Alessandro Molon (PSB-RJ), líder da oposição, os parlamentares contrários à proposta evitaram se manifestar durante a votação para acelerar o tempo de análise da proposta. “Foi correto que rechaçássemos essa proposta porque seria um grave retrocesso no país. Não houve um caso de fraude comprovada nos 25 anos de uso da urna eletrônica no país”, disse.  
+Todos os partidos de oposição votaram contra a proposta. Segundo o deputado Alessandro Molon (PSB-RJ), líder da oposição, os parlamentares contrários à proposta evitaram se manifestar durante a votação para acelerar o tempo de análise da proposta. “Foi correto que rechaçássemos essa proposta porque seria um grave retrocesso no país. Não houve um caso de fraude comprovada nos 25 anos de uso da urna eletrônica no país”, disse.
 
 O deputado Carlos Sampaio, vice-líder do PSDB (SP), citou que, em 2014, a sigla solicitou ao Tribunal Superior Eleitoral (TSE) uma auditoria nas urnas após a vitória de Dilma Rousseff, do PT, sobre o candidato do PSDB, Aécio Neves. Segundo o parlamentar, novas resoluções da Corte Eleitoral em 2019 deram mais transparência ao processo de votação.
 
@@ -40,10 +39,6 @@ Ao recomendar a rejeição da proposta, o deputado Raul Henry (MDB-PE) afirmou q
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

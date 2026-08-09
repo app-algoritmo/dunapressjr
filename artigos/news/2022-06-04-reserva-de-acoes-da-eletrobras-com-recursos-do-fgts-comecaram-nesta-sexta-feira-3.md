@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Até 8 de junho, trabalhador poderá pedir compra de papéis da estatal.
 
 A partir desta sexta-feira (3) até as 12h da próxima quarta-feira (8), os trabalhadores com carteira assinada poderão manifestar o interesse em comprar ações da Eletrobras com recursos do Fundo de Garantia do Tempo de Serviço (FGTS). Começa o prazo para reservar ações da companhia estatal, que passa por um processo de privatização.
@@ -43,8 +42,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

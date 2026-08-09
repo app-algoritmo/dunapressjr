@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Reduções variam de 2,89% a 3,68%.
 
 Os transportadores de carga pagarão menos pelo frete rodoviário. A Agência Nacional de Transportes Terrestres (ANTT) publicou no *Diário Oficial da União (DOU)* a [**nova tabela de preços mínimos**](https://www.in.gov.br/web/dou/-/portaria-suroc-n-219-de-3-de-outubro-de-2022-433722439) dos fretes rodoviários, que considera a queda recente no diesel.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

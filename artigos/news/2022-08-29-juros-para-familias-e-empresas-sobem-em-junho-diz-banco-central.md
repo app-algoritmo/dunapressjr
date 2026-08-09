@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Endividamento das famílias bate recorde de 52,8% em maio.
 
 As famílias e as empresas pagaram taxas de juros mais altas em junho deste ano, segundo as Estatísticas Monetárias e de Crédito divulgadas nesta segunda-feira (29) pelo Banco Central (BC). A taxa média de juros para pessoas físicas no crédito livre chegou a 51,5% ao ano, com aumento de 1,1 ponto percentual em relação a maio e de 11,7 pontos percentuais em 12 meses.
@@ -50,8 +49,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

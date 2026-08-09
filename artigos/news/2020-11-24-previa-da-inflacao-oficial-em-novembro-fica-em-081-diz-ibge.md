@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice ficou abaixo da taxa de outubro.
 
 A prévia da inflação oficial do país teve alta de 0,81% em novembro. O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), divulgado hoje (24) pelo Instituto Brasileiro de Geografia e Estatística (IBGE) é 0,13 ponto percentual (p.p.) abaixo da taxa de outubro, de 0,94%.
@@ -53,5 +52,3 @@ Fonte: Agência Brasil – Imagem de destaque: Tânia Rêgo/Agência Brasil
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

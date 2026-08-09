@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Na comparação com maio de 2021, houve alta de 9,2%.
 
 O volume de serviços cresceu no país 0,9% na passagem de abril para maio deste ano. A alta veio depois de uma queda de 0,1%. Com o resultado de maio, o setor de serviços está 8,4% acima do patamar de fevereiro de 2020, ou seja, do período pré-pandemia.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

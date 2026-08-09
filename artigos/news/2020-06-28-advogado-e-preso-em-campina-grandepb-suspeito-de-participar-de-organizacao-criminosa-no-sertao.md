@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 De acordo com as investigações além de atuar na advocacia da organização criminosa, o advogado era o mentor intelectual da organização.
 
 A Polícia Civil da Paraíba, através do trabalho investigativo da Delegacia de Crimes Contra o Patrimônio (Roubos e Furtos) de Campina Grande – DRF/CG, em ação conjunta com a Força Tarefa enviada para apurar crimes ocorridos em Catolé do Rocha, prendeu na tarde deste sábado (27), em Campina Grande, um advogado que teria ligação com organizações criminosas responsáveis por ataque a bancos e homicídios no Sertão do Estado.
@@ -31,4 +30,4 @@ As investigações continuam e a Polícia Civil deverá conceder uma entrevista 
 
 Fonte: Assessoria de Comunicação da Polícia Civil da Paraíba
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

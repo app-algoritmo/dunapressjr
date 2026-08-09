@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## **Essa foi a primeira vez em cinco meses que houve criação de empregos**.
 
 Depois de vários meses extinguindo postos de trabalho por causa da pandemia do novo coronavírus, o país voltou a criar empregos formais em julho. Segundo dados divulgados pelo Cadastro Geral de Empregados e Desempregados (Caged), da Secretaria de Trabalho do Ministério da Economia, 131.010 postos de trabalho com carteira assinada foram abertos no último mês. O indicador mede a diferença entre contratações e demissões.
@@ -39,5 +38,3 @@ Todas as regiões brasileiras criaram empregos com carteira assinada em julho. O
 Na divisão por unidades da Federação, 24 unidades criaram e três extinguiram empregos com carteira assinada. As maiores variações positivas ocorreram em São Paulo, com a abertura de 22.967 postos; Minas Gerais, 15.843 postos, e Santa Catarina, 10.044 postos. Os três estados que fecharam postos de trabalho foram Rio de Janeiro, -6.658 postos; Sergipe, -808 postos, e Amapá, -142 postos.
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

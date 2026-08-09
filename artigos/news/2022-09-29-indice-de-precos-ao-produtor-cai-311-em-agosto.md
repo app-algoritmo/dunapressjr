@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### É o que revela pesquisa do IBGE.
 
 Os preços no setor industrial registraram, em agosto, queda de 3,11% em relação a julho. É a maior variação negativa desde o início da série histórica em 2014. Na passagem de junho para julho, a variação havia sido de 1,13%. Nos últimos 12 meses, o índice marcou 12,16%. Em julho, o acumulado foi de 17,94%. No ano, o indicador chegou a 7,91%. Os resultados do Índice de Preços ao Produtor (IPP) de agosto foram divulgados nesta quarta-feira (28), no Rio de Janeiro, pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

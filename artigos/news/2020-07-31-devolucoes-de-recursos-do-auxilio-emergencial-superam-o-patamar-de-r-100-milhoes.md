@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Iniciativa do Governo Federal segue com mais de 99,5% de efetividade na destinação dos recursos.
 
 O Governo Federal já recuperou mais de R$ 100 milhões pagos a pessoas que não se enquadravam nos critérios para recebimento do Auxílio Emergencial. Por meio do site [devolucaoauxilioemergencial.cidadania.gov.br](https://devolucaoauxilioemergencial.cidadania.gov.br/), 107.707 pessoas emitiram Guias de Recolhimento da União (GRU) para devolver os pagamentos indevidos. São 81,7 mil devoluções registradas por civis e outras 25,9 mil por militares.
@@ -42,7 +41,7 @@ Uma parceria entre o Ministério da Cidadania e a Dataprev lançou ainda um **[
 
 Imagem: Marcelo Camargo/Agência Brasil
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Passivo passou de R$ 7,684 tri para R$ 8,579 tri, alta de 11,6%.
 
-Os passivos da União cresceram mais do que os ativos no ano passado. O ativo da União – a soma do que o país possui em caixa, créditos a longo prazo, investimentos, imobilizado e intangível, entre outros itens – aumentou 6,2% entre 2018 e 2019, passando de R$ 5,268 trilhões para R$ 5,597 trilhões. 
+Os passivos da União cresceram mais do que os ativos no ano passado. O ativo da União – a soma do que o país possui em caixa, créditos a longo prazo, investimentos, imobilizado e intangível, entre outros itens – aumentou 6,2% entre 2018 e 2019, passando de R$ 5,268 trilhões para R$ 5,597 trilhões.
 
 Já o passivo da União, ou seja, o conjunto de obrigações, empréstimos e financiamentos a pagar e provisões, passou de R$ 7,684 trilhões para R$ 8,579 trilhões, aumento de 11,6% entre 2018 e 2019.
 
@@ -18,7 +17,7 @@ Com isso, o patrimônio líquido negativo da União – ou o quanto o passivo su
 
 **Ativos e passivos**
 
-Em 2019, os fluxos de caixa líquidos das atividades de financiamento apresentaram um superávit de R$ 268,9 bilhões. Isso significa que a União captou mais novos financiamentos do que amortizou os antigos, aumentando sua dívida. 
+Em 2019, os fluxos de caixa líquidos das atividades de financiamento apresentaram um superávit de R$ 268,9 bilhões. Isso significa que a União captou mais novos financiamentos do que amortizou os antigos, aumentando sua dívida.
 
 O Banco Nacional do Desenvolvimento Econômico e Social (BNDES) antecipou a liquidação de R$ 100 bilhões em empréstimos, e o país desinvestiu mais do que investiu no ano passado.
 
@@ -30,11 +29,11 @@ Segundo o Tesouro, o passivo, por sua vez, sentiu o impacto de um aperfeiçoamen
 
 **Receitas e despesas**
 
-A Receita Corrente Líquida da União vem crescendo ao longo dos anos, em termos nominais, e atingiu R$ 906 bilhões em 2019, ou 12,5% do Produto Interno Bruto (PIB), maior percentual desde 2012. O PIB é a soma de todas as riquezas produzidas pelo país. 
+A Receita Corrente Líquida da União vem crescendo ao longo dos anos, em termos nominais, e atingiu R$ 906 bilhões em 2019, ou 12,5% do Produto Interno Bruto (PIB), maior percentual desde 2012. O PIB é a soma de todas as riquezas produzidas pelo país.
 
 A despesa total com pessoal, por outro lado, ainda que tenha crescido em termos nominais em 2019, caiu para 31,6% do PIB, ficando bem abaixo do limite de 50%.
 
-O relatório também traz dados dos gastos com Seguridade Social, Saúde e Educação. No capítulo dedicado à Previdência Social, destaca-se o resultado deficitário de R$ 213 bilhões do Regime Geral da Previdência Social (RGPS) no ano passado, ou 2,94% do PIB. 
+O relatório também traz dados dos gastos com Seguridade Social, Saúde e Educação. No capítulo dedicado à Previdência Social, destaca-se o resultado deficitário de R$ 213 bilhões do Regime Geral da Previdência Social (RGPS) no ano passado, ou 2,94% do PIB.
 
 Desde 2011, quando estava em 0,84% do PIB, esse percentual vem aumentando continuamente, e a projeção é que atinja 7,65% do PIB em 2060, mesmo após a aprovação da reforma da Previdência, informou o Tesouro.
 
@@ -54,4 +53,4 @@ Instituída pelo Artigo 167 da Constituição de 1988, a regra de ouro determina
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

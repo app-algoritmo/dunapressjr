@@ -8,8 +8,7 @@ categories:
 - Covid-19
 ---
 
-
-Reportado no final de 2022 pelo [](https://www.trialsitenews.com/a/bivalent-mrna-vaccines-high-rate-of-adverse-events-observational-study-at-university-hospital-wuerzburg-in-germany-4c4afad6)Trialsite sobre um estudo realizado no Hospital Universitário de Würzburg, observando eventos adversos em pacientes que receberam a segunda dose de reforço da vacina Covid da Pfizer. 
+Reportado no final de 2022 pelo Trialsite sobre um estudo realizado no Hospital Universitário de Würzburg, observando eventos adversos em pacientes que receberam a segunda dose de reforço da vacina Covid da Pfizer. 
 
 O estudo inscreveu 76 profissionais de saúde que receberam a quarta dose da vacina Covid-19 entre 13 de agosto de 2021 e 14 de outubro de 2022, com a vacina monovalente original BNT162b2mRNA (48,7%, 37/76) ou a bivalente BNT162b2mRNA-Original/ Vacina Omicron BA.4-5 (51,3%, 39/76). 
 

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Um alerta para a importância de prevenir e de diagnosticar precocemente o câncer de mama. Essa é a mensagem da Campanha do Outubro Rosa 2020, lançada nesta quarta-feira (7), pelo Ministério da Saúde. Neste ano, o slogan é “Cuidado com as mamas, carinho com seu corpo”.
 
 A campanha chama a atenção das mulheres para importância da prevenção, da detecção precoce da doença, de fazer o autoexame e procurar atendimento médico quando aparecer um possível sintoma do câncer de mama.
@@ -25,7 +24,7 @@ A cerimônia de lançamento da campanha teve também a presença da primeira-dam
 
 ### Tratamento no SUS
 
-Mesmo com a Covid-19, o Sistema Único de Saúde (SUS) continuou com o atendimento e a oferta de tratamento às pacientes com câncer de mama. O SUS oferece cirurgias como mastectomias, cirurgias conservadoras e reconstrução mamária, além de radioterapia e quimioterapia. 
+Mesmo com a Covid-19, o Sistema Único de Saúde (SUS) continuou com o atendimento e a oferta de tratamento às pacientes com câncer de mama. O SUS oferece cirurgias como mastectomias, cirurgias conservadoras e reconstrução mamária, além de radioterapia e quimioterapia.
 
 O Ministério da Saúde também conta com o Plano de Expansão da Radioterapia no Sistema Único de Saúde (PERSUS) que já implantou 24 aceleradores lineares, com um investimento de R$ 700 milhões. O objetivo do plano é ampliar e criar novos serviços de radioterapia em hospitais.
 
@@ -36,5 +35,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

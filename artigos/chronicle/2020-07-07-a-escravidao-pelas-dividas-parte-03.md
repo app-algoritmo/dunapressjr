@@ -7,7 +7,6 @@ categories:
 - Chronicle
 ---
 
-
 Como já tentamos demonstrar, portanto, via links ao final, em ambos os artigos, o endividamento deve parar. Criar prosperidade financeira deve ser feita com recursos próprios na esmagadora maioria das vezes. Como também, devemos sopesar a capacidade de endividamento saudável e criar o crescimento econômico próprio ou de seu negócio passo a passo, utilizando recursos já ganhos e poupados.
 
 Não estar preso ou vinculado a dívidas penosas, tanto em quantidade paga mensalmente, como em anos de pagamentos, é uma liberdade sem igual na forma econômica que somos ensinados e vivemos no mundo de hoje.
@@ -20,17 +19,17 @@ A história propriamente já demonstrou, bem como pesquisas em diversas áreas, 
 
 Nos hospitais as filas de atendimentos, doenças mais graves, uma grande maioria vive com muito pouco de recursos, ou ainda, estão sofrendo com dívidas financeiras.
 
-Assim, há estudos, que em todas estas situações, estima-se que a média destes problemas são ocasionados em função das dívidas, falta de ganho suficiente para ser solvente e poder crescer financeiramente. As próprias depressões econômicas acontecidas ao longo dos últimos séculos ou mesmo décadas demonstraram um aumento assombroso de suicídios, pois como na crise de 1929, milhares de famílias foram arruinadas pelos suicídios de pessoas que perderam tudo, casa, carro, propriedades rurais, trabalho, carreira, etc. 
+Assim, há estudos, que em todas estas situações, estima-se que a média destes problemas são ocasionados em função das dívidas, falta de ganho suficiente para ser solvente e poder crescer financeiramente. As próprias depressões econômicas acontecidas ao longo dos últimos séculos ou mesmo décadas demonstraram um aumento assombroso de suicídios, pois como na crise de 1929, milhares de famílias foram arruinadas pelos suicídios de pessoas que perderam tudo, casa, carro, propriedades rurais, trabalho, carreira, etc.
 
 Hoje, mesmo números levantam que a maioria dos casos de suicídio, ou pelo menos mais de 50% está ligado ao insucesso financeiro, pessoas endividadas ou que mal conseguem sobreviver com o mínimo para a existência digna, alimentação, vestuário, moradia.
 
-Há casos e situações que demonstram isto de várias formas. As pessoas são corruptas por dinheiro, traem o que é ser correto e bom para todos, para benefício próprio, ocasionando mal financeiro para outros em consequência, contribuindo para danos catastróficos para muitos sendo corrupto. De igual forma as pessoas matam por dinheiro, assaltando, encomendando assassinatos, entre outras formas. Também, se prostituem por dinheiro, se colocando como objeto para ganhar algum dinheiro. 
+Há casos e situações que demonstram isto de várias formas. As pessoas são corruptas por dinheiro, traem o que é ser correto e bom para todos, para benefício próprio, ocasionando mal financeiro para outros em consequência, contribuindo para danos catastróficos para muitos sendo corrupto. De igual forma as pessoas matam por dinheiro, assaltando, encomendando assassinatos, entre outras formas. Também, se prostituem por dinheiro, se colocando como objeto para ganhar algum dinheiro.
 
 As famílias não prosperam e não vivem felizes e tranquilas quando há falta de dinheiro ou o mínimo para sobreviver, de modo que em todos os casos e outros que entram neste tema a falta de dinheiro desencadeia medo, raiva, insegurança, ansiedade demasiada, todas situações estressantes e que só nos prejudicam. Este parágrafo por si só resume muito bem a importância deste tema e de ser trabalhado nas famílias e nas escolas desde a mais tenra idade.
 
 Há relatos de pessoas que venderam órgãos, como o rim, para poder comprar celular e computador de última geração em países fechados econômica e politicamente, corruptos ao extremo, etc.
 
-O que nos resta claro é que quem não paga seus débitos em sentido financeiro, também, não é uma pessoa livre. Não pagar suas dívidas gera um débito de energia, além de tão somente em dinheiro papel e isto irá andar negativamente com você até que “pague” a conta. 
+O que nos resta claro é que quem não paga seus débitos em sentido financeiro, também, não é uma pessoa livre. Não pagar suas dívidas gera um débito de energia, além de tão somente em dinheiro papel e isto irá andar negativamente com você até que “pague” a conta.
 
 O alto grau de consumismo que estamos imersos está levando a maioria esmagadora das pessoas ao endividamento, a exemplo de nosso próprio país, que mostra que o crescimento das dívidas das pessoas é exponencial, nas últimas três décadas principalmente.
 
@@ -55,7 +54,7 @@ Fonte da imagem: voyager1.net
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

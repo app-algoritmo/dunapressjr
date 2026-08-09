@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 ## Depois de fugir da Alemanha nazista, Lise Meitner usou cartas para orientar seus colegas em Berlim para descobrir a fissão nuclear, mas ela não foi creditada quando as descobertas foram publicadas.
 
 O processo físico pelo qual átomos muito grandes como o urânio se dividem em pares de átomos menores - é o que torna as bombas nucleares e as usinas nucleares possíveis. Mas por muitos anos, os físicos acreditaram que era energeticamente impossível que átomos tão grandes quanto o urânio (massa atômica = 235 ou 238) fossem divididos em dois.
@@ -62,5 +61,3 @@ Fonte: https://www.timesofisrael.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

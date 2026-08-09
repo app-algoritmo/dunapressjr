@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Secretaria Nacional de Justiça do Ministério da Justiça e Segurança Pública (Senajus/MJSP) participa de evento anual do Alto Comissariado das Nações Unidas para os Refugiados (Acnur). O encontro, que vai até o dia 09 de outubro, debate políticas de fortalecimento e cooperação internacional de refugiados e as dificuldades enfrentadas diante da crise da pandemia do novo coronavírus. A reunião ocorre de forma virtual, por conta das medidas de isolamento social recomendadas pelos organismos internacionais.
 
 O evento aborda as ações trabalhadas em 2020, além dos temas destinados ao próximo ano. O encontro conta com discussões mundiais sobre a proteção de refugiados e a contribuição dos países anfitriões. Na reunião virtual, foram apreciados relatórios trabalhados pela Comissão Executiva do Acnur, além da aprovação do orçamento para 2021.
@@ -26,5 +25,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

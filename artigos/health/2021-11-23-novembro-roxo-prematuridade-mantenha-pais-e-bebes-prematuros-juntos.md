@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Mantenha pais e bebês prematuros juntos, ou seja, permitir que a mãe tenha condições de ficar internada para acompanhar o filho prematuro o tempo todo e que o pai também tenha livre acesso.
 
 Novembro é considerado o mês internacional de sensibilização para a prematuridade, sendo reconhecido mundialmente como “Novembro Roxo” – a cor simboliza a sensibilidade e a individualidade, características que são muito peculiares aos bebês prematuros.
@@ -79,7 +78,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

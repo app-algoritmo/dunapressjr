@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A técnica em enfermagem, Maria Olinda Alves Stoco, perdeu a conta de quantos pacientes já atendeu em duas décadas como profissional da linha de frente do sistema de saúde. Hoje, com 51 anos, ela dedicou quase metade de sua vida a salvar a dos outros, sem nunca esquecer o porquê de ter escolhido essa profissão, a qual chama de “chamado divino”. Com uma dedicação ininterrupta de 23 anos, a profissional faz parte do quadro de funcionários do Hospital Universitário Cajuru (HUC), instituição com atendimento 100% Sistema Único de Saúde (SUS), em Curitiba (PR), que completa 63 anos no próximo dia 30 de agosto.
 
 “Assim que terminei o curso de enfermagem, em 1998, o Hospital me acolheu de uma forma muito fraterna. Desde então, o hospital tem sido a minha segunda casa, onde fiz amizades, aprendi e continuo aprendendo muito a cada dia, mesmo após tantos anos. Por ser um ambiente universitário, a troca de conhecimento e experiências é muito grande. Olhando para trás, vejo que evoluí consideravelmente, como pessoa e profissional, desde a primeira vez que entrei por aquelas portas”, relembra.
@@ -32,7 +31,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

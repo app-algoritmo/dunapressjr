@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Guedes rebate críticas de que inflação ajudou contas públicas.
 
 A melhora nas contas públicas em 2021 deveu-se ao controle de gastos implementado pelo teto federal de gastos, disse nesta sexta-feira (28) o ministro da Economia, Paulo Guedes. Ele classificou de “extraordinário” o resultado primário do Governo Central (Tesouro Nacional, Previdência Social e Banco Central) no ano passado, que apontou o menor déficit fiscal desde 2014.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

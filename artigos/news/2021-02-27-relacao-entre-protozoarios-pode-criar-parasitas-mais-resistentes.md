@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Um dos trabalhos selecionados no [Prêmio CAPES de Tese 2020](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) mostra que a recombinação entre protozoários – seres vivos compostos por uma única célula com um núcleo – pode gerar parasitas com maior resistência a remédios. Paulo Gonzalez Hofstatter, doutor em Zoologia pela Universidade de São Paulo (USP) é o autor da tese premiada na área de Biodiversidade e um dos 49 vencedores do concurso promovido pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).
 
 Ameba Cyclopyxis lobostoma, com carapaça (tecameba), sequenciada na pesquisa (Foto: Alfredo L. Porfírio Sousa/LEP) 
@@ -50,7 +49,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

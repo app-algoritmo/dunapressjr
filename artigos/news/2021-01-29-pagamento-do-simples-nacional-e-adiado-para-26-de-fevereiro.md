@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Comitê Gestor do Simples Nacional (CGSN) decidiu prorrogar excepcionalmente o prazo para o pagamento dos tributos apurados pelo Simples Nacional relativos ao período de apuração janeiro de 2021.
 
 Em reunião ocorrida nos dias 27 e 28 de janeiro de 2021, os membros do Comitê Gestor do Simples Nacional (CGSN) decidiram por prorrogar excepcionalmente o prazo para o pagamento dos tributos apurados pelo Simples Nacional relativos ao período de apuração janeiro de 2021. A data de vencimento, que originalmente seria 20 de fevereiro de 2021 passa a ser 26 de fevereiro de 2021, conforme Resolução do Comitê Gestor nº 157, de 28 de janeiro de 2021.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

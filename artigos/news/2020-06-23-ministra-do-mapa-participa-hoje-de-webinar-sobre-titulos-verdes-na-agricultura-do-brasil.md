@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A ministra Tereza Cristina (Agricultura, Pecuária e Abastecimento) participa nesta terça-feira (23) do webinar “Destravando o Potencial de Investimento Verdes para Agricultura no Brasil”, promovido pela Climate Bonds Initiative (CBI).
 
 Durante o evento, será feito o lançamento virtual do Plano de Investimento para a Agricultura Sustentável, que objetiva estimular o desenvolvimento de um mercado de títulos verdes (*green bonds*) para o setor agropecuário e a adoção de práticas de tecnologias sustentáveis no Brasil.
@@ -29,13 +28,11 @@ Horário: 10h
 
 Formato: webinar
 
-Link:https://bit.ly/youtube-mapa
+Link:
 
 Fonte: gov.br/mec / Imagem em destaque: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 - U$ 1,00 mensal
 

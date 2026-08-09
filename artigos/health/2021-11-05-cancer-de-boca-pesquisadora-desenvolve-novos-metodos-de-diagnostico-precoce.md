@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Bacharel em Ciências Biológicas, Paola Fernandes Pansini é mestre em Biotecnologia pela Universidade Federal do Espírito Santo (UFES) e doutora em Biotecnologia pelo Programa de Pós-graduação em Biotecnologia da Rede Nordeste de Biotecnologia (Renorbio) – Universidade Federal do Espírito Santo. Em sua trajetória acadêmica, ela desenvolveu projetos para aplicação de marcadores moleculares em câncer de cabeça e pescoço, para a detecção precoce da doença. Recentemente, a ex-bolsista da CAPES publicou artigo no Periódico Internacional *Head and Neck Pathology*, onde fala sobre o carcinoma epidermóide oral, variedade de câncer de boca mais comum em pessoas com mais de 60 anos e do sexo masculino.
 
 **Por que estudar o câncer de boca?**
@@ -20,7 +19,7 @@ O câncer de boca é uma doença de causa multifatorial. Diversos fatores têm s
 Na prática clínica, prever se uma lesão pré-câncer irá se tornar um câncer ainda é uma decisão complexa. A utilização desses marcadores pode servir como método auxiliar para facilitar a decisão clínica.
 
 **Qual o foco do artigo publicado na *****Head and Neck Pathology?***
-O artigo refere-se ao estudo multicêntrico realizado em colaboração com o laboratório de Patologia Molecular da UFES, liderado pela professora Sandra Ventorim von Zeidler, com equipes de cirurgia de cabeça e pescoço do Hospital Santa Rita de Cássia, Associação Feminina de Educação e Combate ao Câncer (AFECC), Hospital Universitário Antônio Cassiano de Moraes (HUCAM), no Brasil, e a *University of Birmingham* no Reino Unido. Nele foram investigados a aplicação de oito biomarcadores moleculares para aplicação na prática clínica. A proteína survivina destacou-se como promissora para a detecção precoce do câncer, auxiliando na identificação de lesões que possuem elevado risco de progressão para o câncer de boca. Portanto, trata-se de um estudo que visou compreender a expressão diferencial destas diferentes proteínas e a correlação com o desenvolvimento tumoral.  
+O artigo refere-se ao estudo multicêntrico realizado em colaboração com o laboratório de Patologia Molecular da UFES, liderado pela professora Sandra Ventorim von Zeidler, com equipes de cirurgia de cabeça e pescoço do Hospital Santa Rita de Cássia, Associação Feminina de Educação e Combate ao Câncer (AFECC), Hospital Universitário Antônio Cassiano de Moraes (HUCAM), no Brasil, e a *University of Birmingham* no Reino Unido. Nele foram investigados a aplicação de oito biomarcadores moleculares para aplicação na prática clínica. A proteína survivina destacou-se como promissora para a detecção precoce do câncer, auxiliando na identificação de lesões que possuem elevado risco de progressão para o câncer de boca. Portanto, trata-se de um estudo que visou compreender a expressão diferencial destas diferentes proteínas e a correlação com o desenvolvimento tumoral.
 
 **O que as pessoas devem fazer para ter maior chance de cura?**
 Devem fazer acompanhamento regular nas consultas médicas, principalmente com o cirurgião dentista, e buscar realizar uma consulta com especialista em caso do aparecimento de lesões que não desaparecem em até 15 dias. A autoavaliação é um grande diferencial na identificação de qualquer alteração, devendo sempre recorrer-se a uma ajuda médica em caso de suspeitas.
@@ -45,7 +44,3 @@ Fonte: https://www.gov.br/capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

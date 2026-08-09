@@ -7,9 +7,6 @@ categories:
 - News
 ---
 
-
-[](https://uncutnews.ch/kontakt/#newsletter)
-
 **O High Frequency Active Auroral Research Program (HAARP) começou em 1993, quando a Força Aérea dos EUA começou a construir uma instalação no Alasca. O projeto é financiado conjuntamente pela Força Aérea dos EUA, Marinha e Universidade do Alasca. Agência de Projetos de Pesquisa Avançada de Defesa (“DARPA”).**
 
 **Logo após a inauguração da instalação no Alasca, fenômenos estranhos começaram a ser relatados ao público - não apenas na região, mas em todo o mundo. Ativistas questionaram as atividades do HAARP e questionaram abertamente o que a organização estava realmente fazendo. Embora o governo dos EUA continue negando qualquer conexão com mudanças climáticas, frequência de terremotos e chemtrails no céu, ele tem feito esforços concentrados para acabar com as suspeitas sobre a natureza de suas operações.**

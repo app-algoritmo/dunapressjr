@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### A cesta chegou a R$ 1.226,12, maior que o valor do salário mínimo.
 
 O preço médio da cesta básica na capital paulista superou o valor do salário mínimo no mês de maio, segundo levantamento feito pelo Núcleo de Inteligência e Pesquisas do Procon-SP, em convênio com o Departamento Intersindical de Estatísticas e Estudos Socioeconômicos (Dieese).
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

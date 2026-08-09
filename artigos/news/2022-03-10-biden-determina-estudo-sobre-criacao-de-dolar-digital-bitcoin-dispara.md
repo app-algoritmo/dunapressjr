@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Instituições financeiras avaliam viabilidade de moeda digital oficial.
 
 O presidente dos Estados Unidos, Joe Biden, assinou uma ordem executiva nesta quarta-feira (9) para que o governo norte-americano avalie os riscos e benefícios da criação de um dólar digital pelo Banco Central, bem como outras questões envolvendo criptomoedas, anunciou a Casa Branca.
@@ -20,7 +19,7 @@ O pedido de Biden exigirá que o Departamento do Tesouro, o Departamento de Com�
 
 A ampla supervisão do mercado de criptomoedas, que ultrapassou 3 trilhões de dólares em novembro, é essencial para garantir a segurança nacional dos EUA, a estabilidade financeira e a competitividade do país, além de evitar a crescente ameaça de crimes digitais, disseram autoridades do governo norte-americano.
 
-Uma das principais medidas da ordem de Biden orienta o governo a avaliar a infraestrutura tecnológica necessária para uma possível emissão de moeda digital pelo Banco Central dos Estados Unidos (CBDC), que seria uma versão eletrônica das notas de dólar. A ordem também incentiva o Federal Reserve a continuar os esforços de pesquisa e desenvolvimento. Os fundos negociados em bolsa (ETFs) que rastreiam futuros de bitcoin e que ganharam aprovação regulatória no final do ano passado também saltaram. 
+Uma das principais medidas da ordem de Biden orienta o governo a avaliar a infraestrutura tecnológica necessária para uma possível emissão de moeda digital pelo Banco Central dos Estados Unidos (CBDC), que seria uma versão eletrônica das notas de dólar. A ordem também incentiva o Federal Reserve a continuar os esforços de pesquisa e desenvolvimento. Os fundos negociados em bolsa (ETFs) que rastreiam futuros de bitcoin e que ganharam aprovação regulatória no final do ano passado também saltaram.
 
 ProShares Bitcoin Strategy ETF e Valkyrie Bitcoin Strategy ETF subiam 10,1% e 10,2%, respectivamente.
 
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

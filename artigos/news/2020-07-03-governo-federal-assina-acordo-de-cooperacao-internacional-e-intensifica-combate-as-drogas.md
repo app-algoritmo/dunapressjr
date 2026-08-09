@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## A iniciativa tem a finalidade de promover ações que incentivem a redução da demanda por entorpecentes.
 
 O Ministério da Cidadania deu mais um importante passo na luta contra as drogas, um dos pilares do governo do presidente Jair Bolsonaro. Nesta quinta-feira (2), o secretário especial do Desenvolvimento Social, Sergio Queiroz, assinou um Acordo de Cooperação Internacional com a Comissão Interamericana para o Controle do Abuso de Drogas da Organização dos Estados Americanos (CICAD/OEA). A ação visa fortalecer as políticas de prevenção ao uso de álcool e outras drogas, o tratamento e a reinserção social do dependente químico e seus familiares. Outro objetivo é desenvolver projetos e programas para melhorar a qualidade das iniciativas para as pessoas com problemas de dependência química no Brasil.
@@ -21,7 +20,7 @@ Quirino Cordeiro, secretário nacional de Cuidados e Prevenção às Drogas do M
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O vice-presidente da República, Hamilton Mourão afirmou, nesta quarta-feira (21), que é papel do Governo Federal atuar como facilitador para o desenvolvimento sustentável da Amazônia. Mourão, que é também presidente do Conselho Nacional da Amazônia Legal, participou de evento virtual da Semana BNDES Verde.
 
 “É responsabilidade do nosso Governo atuar como um grande indutor e como grande facilitador para que a gente faça esse casamento entre o investidor, o ente privado, e essa nossa ampla riqueza caracterizada pela biodiversidade da Amazônia. Que com isso vai permitir que haja preservação ambiental e, ao mesmo tempo, a questão social, a questão daquela população ter acesso a uma melhor qualidade de vida”, disse o vice-presidente durante o webinar com o tema Desenvolvimento Sustentável da Amazônia.
@@ -44,5 +43,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor.
 
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

@@ -7,18 +7,17 @@ categories:
 - News
 ---
 
-
 ## Proposta da Câmara institui Mercado Brasileiro de Redução de Emissões.
 
 A economia de baixo carbono, destinada a conter as emissões de gases de efeito estufa, tem ganhado cada vez mais espaço pelo mundo. Para precificar o mercado, países têm criado o chamado mercado de carbono, um mecanismo que permite a venda de créditos por nações que limitam as emissões desses gases para nações com maiores dificuldades de cumprir as metas de redução.
 
 A precificação do mercado de carbono tem potencial de direcionar a demanda dos consumidores e investidores para produtos que emitem menos gases de efeito estufa e estimular investimentos em projetos e tecnologias mais limpas.
 
-O instrumento que viabiliza esse mercado é a compra e venda de créditos excedentes de redução de emissões.  Assim, países que limitaram as emissões além da meta podem vender esse excesso para outras nações que estão emitindo acima do esperado. 
+O instrumento que viabiliza esse mercado é a compra e venda de créditos excedentes de redução de emissões. Assim, países que limitaram as emissões além da meta podem vender esse excesso para outras nações que estão emitindo acima do esperado.
 
 ## Legislativo
 
-O tema tem sido discutido na Câmara dos Deputados com o [**PL 528/2021**](https://www.camara.leg.br/propostas-legislativas/2270639), que institui o Mercado Brasileiro de Redução de Emissões (MBRE). A proposta quer assegurar a diminuição da emissão de gases do efeito estufa, freando o aquecimento global. 
+O tema tem sido discutido na Câmara dos Deputados com o [**PL 528/2021**](https://www.camara.leg.br/propostas-legislativas/2270639), que institui o Mercado Brasileiro de Redução de Emissões (MBRE). A proposta quer assegurar a diminuição da emissão de gases do efeito estufa, freando o aquecimento global.
 
 Segundo o relator deputado Bosco Saraiva (Solidariedade-AM), essa regulamentação deverá evitar burocracias desnecessárias para um mercado em expansão. A medida deve ainda evitar custos de transação excessiva:
 
@@ -28,11 +27,11 @@ Na avaliação de Bosco Saraiva, a proposta de precificação “tem potencial d
 
 ## Acordo de Paris
 
-A proposta do mercado de carbono começou a ser delineada com o Protocolo de Quioto, assinado em 1997. Mas apenas com a aprovação do Acordo de Paris, em 2015, foi estabelecido um mecanismo para assegurar que o crescimento da temperatura global média seja abaixo de 2 graus Celsius (⁰C), na comparação com níveis pré-industriais, cabendo a cada país signatário estabelecer e determinar quais serão suas Contribuições Nacionais Determinadas (NDC). 
+A proposta do mercado de carbono começou a ser delineada com o Protocolo de Quioto, assinado em 1997. Mas apenas com a aprovação do Acordo de Paris, em 2015, foi estabelecido um mecanismo para assegurar que o crescimento da temperatura global média seja abaixo de 2 graus Celsius (⁰C), na comparação com níveis pré-industriais, cabendo a cada país signatário estabelecer e determinar quais serão suas Contribuições Nacionais Determinadas (NDC).
 
 Atualmente, o Brasil já dispõe de normas legais que preveem a existência dos ativos de carbono. Entre eles estão a Convenção Quadro Sobre Mudança Climática das Nações Unidas; o Protocolo de Quioto; a Política Nacional sobre Mudança do Clima (PNMC) e o Código Florestal.
 
-Entretanto, apesar da existência de normas legais que determinam a existência dos ativos de carbono na legislação brasileira, ainda não há legislação específica para tratar sobre as transações com os ativos de carbono.  
+Entretanto, apesar da existência de normas legais que determinam a existência dos ativos de carbono na legislação brasileira, ainda não há legislação específica para tratar sobre as transações com os ativos de carbono.
 
 Segundo o autor do PL 528/2021, deputado Marcelo Ramos (PL-AM), os governos arrecadaram mais de US$ 45 bilhões em precificação de carbono em 2019. Dados do Banco Mundial mostram que as iniciativas de precificação de carbono cobrem cerca de 21,5% das emissões mundiais de gases de efeito estufa, com 64 iniciativas implementadas ou em estudo.
 
@@ -54,10 +53,6 @@ O estudo mostra que, nos países analisados, o sucesso na implementação de pro
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

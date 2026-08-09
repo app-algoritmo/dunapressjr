@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Estimativas da Organização Mundial da Saúde (OMS) indicam que em torno de 71% das 57 milhões de mortes ocorridas globalmente foram ocasionadas pelas DCNT, doenças crônicas não transmissíveis, em 2016. No Brasil, essas doenças são igualmente relevantes, sendo responsáveis, no mesmo ano, por 74% do total de mortes.
 
 Um pequeno conjunto de fatores de risco responde pela grande maioria das mortes por DCNT, são eles:
@@ -42,7 +41,3 @@ Fonte: https://www.gov.br/saude
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

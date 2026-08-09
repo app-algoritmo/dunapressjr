@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### No primeiro semestre foram bloqueados R$ 1,7 bilhão.
 
 O Ministério da Economia anunciou nesta sexta-feira (20) o contingenciamento adicional de R$ 8,2 bilhões no Orçamento para cumprir o teto de gastos. O novo bloqueio será somado ao [**contingenciamento de R$ 1,7 bilhão do primeiro semestre**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-03/governo-bloqueia-r-172-bilhao-do-orcamento-de-2022).
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

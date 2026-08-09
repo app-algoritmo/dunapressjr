@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Saúde adquiriu quase 55 mil medicamentos anestésicos e sedativos do país vizinho.
 
 O Ministério da Saúde comprou de empresas uruguaias um total de 54.867 unidades de medicamentos usados no auxílio da intubação de pacientes em UTI, que se encontram em estado grave ou gravíssimo devido à pandemia do novo coronavírus (Covid-19). A compra foi feita na última sexta-feira (18) e entregue pelos militares das Forças Armadas às secretarias de Saúde do Rio Grande do Sul e Santa Catarina, que estavam com os estoques de medicamentos baixos. 
@@ -28,6 +27,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

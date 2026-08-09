@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 ## Pesquisadores da Universidade Hebraica desenvolvem chips biônicos para criar drogas de combate ao câncer sem testes em animais.
 
 Uma equipe de pesquisadores liderada pelo professor Yaakov Nahmias, diretor do Grass Center for Bioengineering da Universidade Hebraica de Jerusalém e fundador da Tissue Dynamic, apresentou uma nova abordagem tecnológica com potencial para desenvolver rapidamente novos medicamentos sem a necessidade de experimentos com animais.
@@ -33,7 +32,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

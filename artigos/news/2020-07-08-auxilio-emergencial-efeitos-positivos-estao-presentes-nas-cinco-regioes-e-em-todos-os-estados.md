@@ -8,12 +8,11 @@ categories:
 - News
 ---
 
-
 ## Com mais de 65 milhões de beneficiários diretos, programa do Governo Federal já repassou R$ 121 bilhões, com destaque para o Nordeste, que acumula R$ 41,8 bilhões.
 
 Além de [**chegar de** **forma direta a um em cada dois brasileiros**](https://www.gov.br/cidadania/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/auxilio-emergencial-do-governo-brasileiro-alcanca-mais-da-metade-da-populacao), o Auxílio Emergencial do Governo Federal mostra-se presente de forma expressiva nas regiões em que o Produto Interno Bruto, um dos indicadores mais expressivos de crescimento econômico, é mais baixo. O Nordeste, que respondia por 14,5% do PIB nacional em 2017 (segundo o IBGE) e reunia 27,2% da população do país em 2019, recebeu 34,6% dos recursos repassados até agora, num total de R$ 41,8 bilhões, segundo informações consolidadas pela Caixa Econômica Federal em 6 de julho de 2020. O destaque na região é a Bahia, que concentra R$ 11 bilhões em pagamentos, quase 10% do valor total. O estado respondia em 2017 por 4,1% do PIB nacional e por 7,1% da população.
 
-Já na Região Norte, com 5,6% do PIB e 8,7% da população, o Auxílio Emergencial totaliza R$ 13 bilhões, ou mais de 10% do valor total pago até agora. Estado mais populoso da região, o Pará, com 5,2% do PIB nacional e 4,1% da população, recebeu R$ 6,3 bilhões em pagamentos (5,2% do total). "Essa sempre foi a prioridade do governo do presidente Jair Bolsonaro. É essencial que os recursos do Auxílio Emergencial cheguem às regiões, municípios e pessoas que de fato necessitam desse suporte econômico e social durante a pandemia", afirmou o ministro da Cidadania, Onyx Lorenzoni. "Como enfatizamos desde o início desse processo, nossa abordagem é pautada pela segurança dos dados e agilidade na prestação do serviço." 
+Já na Região Norte, com 5,6% do PIB e 8,7% da população, o Auxílio Emergencial totaliza R$ 13 bilhões, ou mais de 10% do valor total pago até agora. Estado mais populoso da região, o Pará, com 5,2% do PIB nacional e 4,1% da população, recebeu R$ 6,3 bilhões em pagamentos (5,2% do total). "Essa sempre foi a prioridade do governo do presidente Jair Bolsonaro. É essencial que os recursos do Auxílio Emergencial cheguem às regiões, municípios e pessoas que de fato necessitam desse suporte econômico e social durante a pandemia", afirmou o ministro da Cidadania, Onyx Lorenzoni. "Como enfatizamos desde o início desse processo, nossa abordagem é pautada pela segurança dos dados e agilidade na prestação do serviço."
 
 Região que congrega mais da metade do PIB nacional e 42%,1 da população, o Sudeste recebeu 36,9% dos repasses, num total de R$ 44,7 bilhões. Nas outras regiões, o Sul do país, com 17% do PIB e 14,3% da população, acumula 10,5% dos recursos, ou R$ 12,7 bilhões, e o Centro-Oeste recebeu R$ 8,9 bilhões, 7,3% do valor total pago. 
 
@@ -41,7 +40,7 @@ Imagem: Rafael Carvalho
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/?aff=Thami)e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui ](https://dunapress.org/subscription-plan/)e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

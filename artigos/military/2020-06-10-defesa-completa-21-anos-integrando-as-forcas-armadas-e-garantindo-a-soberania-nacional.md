@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 Neste dia em que completa 21 anos de existência, o Ministério da Defesa encontra-se no epicentro de duas grandes operações que atuam diretamente na defesa do País e no fortalecimento da soberania nacional: Covid-19 e Verde Brasil 2. A tradicional cerimônia em comemoração ao aniversário não será realizada, mas, diante de todos os resultados alcançados, nas mais diversas frentes, em prol de toda a Nação, fica latente a certeza do rumo certo e do dever cumprido.
 
 **Missão da Pasta é dar condições às Forças Armadas de manter a sua capacidade operativa**
@@ -43,5 +42,3 @@ O Programa trabalha com crianças e jovens em situação de vulnerabilidade soci
 
 **Assessoria de Comunicação Social (Ascom)
 Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

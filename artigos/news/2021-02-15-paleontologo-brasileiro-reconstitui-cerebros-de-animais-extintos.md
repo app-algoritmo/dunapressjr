@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 José Darival Ferreira é pernambucano, mas vive em São João do Polesine, no Rio Grande do Sul, onde cursa seu doutorado na Universidade Federal de Santa Maria (UFSM) com bolsa da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Em seu trabalho, ele reconstitui cérebros de animais extintos, como o de um dinossauro que viveu há 233 milhões de anos.
 
 **Fale um pouco sobre a sua formação.**
@@ -35,7 +34,7 @@ A CAPES se fez presente em toda a minha pós-graduação. Fui bolsista no mestra
 
 Eu não chegaria onde cheguei se não fosse pelo auxílio e segurança financeira que as bolsas da CAPES me deram. Graças a elas, eu consegui sair de Pernambuco e estudar a mais de 3 mil quilômetros de minha terra natal. Os trabalhos que produzi nessa trajetória ultrapassaram as fronteiras do País e pesquisadores de todo o mundo podem utilizar esses estudos como referências.
 
-Para conhecer o trabalho de José Darival Ferreira, visite: 
+Para conhecer o trabalho de José Darival Ferreira, visite:
 
 - [*Small within the largest: brain size and anatomy of the extinct Neoepiblema acreensis, a giant rodent from the Neotropics*](https://royalsocietypublishing.org/doi/10.1098/rsbl.2019.0914), publicado na *Biology Letters*;
 - [*Virtual brain endocast of Antifer (Mammalia: Cervidae), an extinct large cervid from South America*](https://www.researchgate.net/publication/343774417_Virtual_brain_endocast_of_Antifer_Mammalia_Cervidae_an_extinct_large_cervid_from_South_America), publicado na *Journal of Morphology;*
@@ -64,7 +63,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

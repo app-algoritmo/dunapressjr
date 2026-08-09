@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A taxa é inferior à observada em fevereiro deste ano (2,71%).
 
 O Índice Geral de Preços – Disponibilidade Interna (IGP-DI), indicador nacional calculado pela Fundação Getulio Vargas (FGV), registrou inflação de 2,17% em março deste ano. A taxa é inferior à observada em fevereiro deste ano (2,71%), mas superior à apurada em março de 2020 (1,64%).
@@ -20,10 +19,6 @@ Por outro lado, o Índice de Preços ao Consumidor, que mede o varejo, subiu de 
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. 
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

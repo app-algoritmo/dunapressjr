@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Volume de 180,6 milhões de toneladas supera em 2,5% o anterior.
 
 A capacidade disponível de armazenagem agrícola no Brasil atingiu 180,6 milhões de toneladas no primeiro semestre deste ano, volume 2,5% superior ao do período anterior. O número de estabelecimentos de armazenamento cresceu 2,5% em relação ao segundo semestre de 2020, e o maior número deles está no Rio Grande do Sul (2.112), seguido por Mato Grosso (1.363) e Paraná (1.334).
@@ -42,10 +41,6 @@ As regiões Sul, Nordeste e Norte tiveram alta de 5,7%, 3,8% e 1,7%, respectivam
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

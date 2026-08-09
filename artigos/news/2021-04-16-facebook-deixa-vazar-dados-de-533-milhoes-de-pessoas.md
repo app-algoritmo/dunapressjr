@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Os dados expostos incluem informações pessoais de mais de 533 milhões de usuários do Facebook de 106 países, incluindo mais de 32 milhões de postagens em usuários nos Estados Unidos, 11 milhões em usuários no Reino Unido e 6 milhões em usuários na Índia. Inclui números de telefone, IDs do Facebook, nomes completos, locais, datas de nascimento, arquivos biológicos e - em alguns casos - endereços de e-mail.
 
 Insider revisou uma seleção dos dados vazados e verificou vários registros comparando os números de telefone de usuários conhecidos do Facebook com os IDs listados no conjunto de dados. Também verificamos os registros testando endereços de e-mail do conjunto de dados no recurso de redefinição de senha do Facebook, que pode ser usado para revelar parcialmente o número de telefone do usuário.
@@ -28,8 +27,6 @@ This means that if you have a Facebook account, it is extremely likely the phone
 
 I have yet to see Facebook acknowledging this absolute negligence of your data. [https://t.co/ysGCPZm5U3](https://t.co/ysGCPZm5U3) [pic.twitter.com/nM0Fu4GDY8](https://t.co/nM0Fu4GDY8)
 
-&mdash; Alon Gal (Under the Breach) (@UnderTheBreach) [April 3, 2021](https://twitter.com/UnderTheBreach/status/1378314424239460352?ref_src=twsrc%5Etfw) 
+&mdash; Alon Gal (Under the Breach) (@UnderTheBreach) [April 3, 2021](https://twitter.com/UnderTheBreach/status/1378314424239460352?ref_src=twsrc%5Etfw)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Segmento foi o mais afetado pela pandemia, afirma economista.
 
 A notícia de que a taxa extra aplicada às contas de luz ficará na cor verde até o fim do ano, sem cobrança adicional para os consumidores favorecerá os pequenos negócios, disse nesta segunda-feira (18) a analista do Serviço de Apoio às Micro e Pequenas Empresas do Estado do Rio de Janeiro (Sebrae Rio), Aline Barreto. A informação sobre a permanência da bandeira verde foi divulgada pelo Operador Nacional do Sistema Elétrico (ONS) na semana passada.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

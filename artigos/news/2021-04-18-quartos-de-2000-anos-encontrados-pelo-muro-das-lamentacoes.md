@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Um sistema subterrâneo singular de dois milênios de três quartos foi descoberto perto do Muro das Lamentações. O complexo de três cômodos - meticulosamente esculpido à mão na rocha antes da queda de Jerusalém em 70 EC - é a primeira evidência da vida cotidiana que se tornou subterrânea na cidade antiga.
 
 “Este é um achado único. Esta é a primeira vez que um sistema subterrâneo foi descoberto adjacente ao Muro das Lamentações ”, disseram os co-diretores da Autoridade de Antiguidade de Israel, Dr. Barak Monnickendam-Givon e Tehila Sadiel, em um comunicado à imprensa.
@@ -42,7 +41,7 @@ Enquanto os arqueólogos continuam a ponderar sobre o uso do complexo, eles tamb
 
 A co-diretora de escavação Tehila Saldiel mostra duas lanternas a óleo, alguns dos artefatos das escavações sob Beit Straus na Cidade Velha de Jerusalém, perto do Muro das Lamentações, maio de 2020. (Shai HaLevi / Autoridade de Antiguidades de Israel)
 
-Fonte: 
+Fonte:
 
 **Ver também:**
 
@@ -50,7 +49,3 @@ Fonte:
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

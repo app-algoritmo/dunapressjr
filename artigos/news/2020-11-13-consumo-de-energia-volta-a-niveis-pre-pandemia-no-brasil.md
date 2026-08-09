@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Eletrobras teve lucro líquido de R$ 96 milhões no terceiro trimestre.
 
 O consumo de energia no país voltou aos níveis pré-pandemia, principalmente impulsionado pelos setores da indústria voltados à exportação. O dado faz parte dos resultados da Eletrobras, referentes ao terceiro trimestre do ano, que apontam lucro líquido de R$ 96 milhões, inferior aos R$ 716 milhões do mesmo período do ano passado.
@@ -33,5 +32,3 @@ O relatório fiscal da Eletrobras pode ser acessado na [**página da empresa**](
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

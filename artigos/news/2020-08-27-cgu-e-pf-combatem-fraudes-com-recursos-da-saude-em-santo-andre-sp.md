@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Operação Protocletos investiga irregularidades em contratação pela Prefeitura para fornecimento de fraldas descartáveis ao Hospital de Campanha.
 
 A Controladoria-Geral da União (CGU) colaborou com informações de inteligência para a Operação Protocletos, deflagrada nesta quinta-feira (27) pela Polícia Federal (PF). O objetivo é combater supostas irregularidades na contratação, pela Prefeitura de Santo André (SP), para fornecimento de 689 mil fraldas descartáveis, custeadas com recursos federais, para atender a demanda de pacientes infectados com o novo coronavírus.
@@ -29,5 +28,3 @@ A Operação Protocletos consiste no cumprimento de três mandados de busca e ap
 Fonte: Controladoria-Geral da União
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

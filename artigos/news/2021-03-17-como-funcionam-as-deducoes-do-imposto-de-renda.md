@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Valor deduzido reduz imposto ou aumenta restituição.
 
 As notas fiscais e os recibos armazenados ao longo de um ano inteiro são de grande valia na hora de preencher a declaração do Imposto de Renda Pessoa Física. Por meio das comprovações de gastos, o contribuinte pode deduzir despesas e pagar menos imposto ou aumentar o valor da restituição.
@@ -46,8 +45,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

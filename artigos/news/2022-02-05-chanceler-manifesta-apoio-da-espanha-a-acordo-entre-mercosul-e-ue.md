@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Albares destacou importância de reforçar entre países do bloco
 
-O ministro de Assuntos Exteriores e Cooperação da Espanha, José Manuel Albares, reiterou o apoio do governo do premiê espanhol Pedro Sánchez à ratificação do acordo de livre comércio entre a União Europeia e o Mercosul. Em maio de 2021, a antecessora de Albares no cargo, Arancha Gonzáles Laya, também tinha dito que a [**ratificação do acordo era uma prioridade para o governo espanhol**](https://agenciabrasil.ebc.com.br/internacional/noticia/2021-05/acordo-entre-o-mercosul-e-ue-e-prioridade-diz-ministra-espanhola). 
+O ministro de Assuntos Exteriores e Cooperação da Espanha, José Manuel Albares, reiterou o apoio do governo do premiê espanhol Pedro Sánchez à ratificação do acordo de livre comércio entre a União Europeia e o Mercosul. Em maio de 2021, a antecessora de Albares no cargo, Arancha Gonzáles Laya, também tinha dito que a [**ratificação do acordo era uma prioridade para o governo espanhol**](https://agenciabrasil.ebc.com.br/internacional/noticia/2021-05/acordo-entre-o-mercosul-e-ue-e-prioridade-diz-ministra-espanhola).
 
 Ao receber o chanceler brasileiro, Carlos França, em Madri, Albares destacou a importância do multilateralismo e de reforçar os laços entre os países que integram os dois blocos. Em um comunicado oficial divulgado logo após o encontro, na quinta-feira (3), o ministério espanhol afirma que a conclusão do acordo “aproximará duas regiões que já compartilham valores e interesses [comuns], fomentando o crescimento econômico e social dos dois lados do Atlântico”.
 
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Diretor-geral do órgão citou volume dos reservatórios.
 
 Cinco dias após o presidente Jair Bolsonaro anunciar o [**fim de bandeira de escassez hídrica**](https://agenciabrasil.ebc.com.br/politica/noticia/2022-04/governo-anuncia-fim-da-tarifa-extra-para-consumidores-de-energia) na conta de luz e a entrada em vigor da bandeira verde a partir de 16 de abril, o Operador Nacional do Sistema Elétrico (ONS) informou que ela deve vir pra ficar. Novas mudanças não são esperadas até o fim de ano. Isso significa que provavelmente as tarifas não voltarão a sofrer acréscimos em 2022.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

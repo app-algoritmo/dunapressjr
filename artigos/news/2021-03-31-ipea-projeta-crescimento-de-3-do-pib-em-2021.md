@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para 2022, a projeção é de crescimento de 2,8% do PIB.
 
 O Instituto de Pesquisa Econômica Aplicada (Ipea) divulgou nesta terça-feira (30) que projeta crescimento de 3% do Produto Interno Bruto (PIB, soma de bens e serviços produzidos no país) em 2021, com queda estimada de 0,5% no primeiro trimestre do ano, na comparação com ajuste sazonal.
@@ -24,10 +23,6 @@ O instituto espera que a atual trajetória de alta dos preços internacionais da
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
-Obrigado pelo apoio!   
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

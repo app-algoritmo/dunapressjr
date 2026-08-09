@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A tuberculose é uma doença infectocontagiosa que afeta principalmente os pulmões, mas também pode acometer órgãos como ossos, rins e meninges (membranas que envolvem o cérebro). A forma pulmonar, além de ser mais frequente, é a principal responsável pela manutenção da cadeia de transmissão da doença.
 
 No Brasil, são notificados aproximadamente 70 mil casos novos e ocorrem cerca de 4,5 mil mortes em decorrência da tuberculose, anualmente.
@@ -69,7 +68,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

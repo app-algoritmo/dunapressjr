@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Em 2007, a autora Judy Batalion descobriu nas prateleiras da Biblioteca Britânica de Londres um livro intitulado *Freuen in di Ghettos* . Publicado em 1946 em Nova York, era uma coleção de histórias (em iídiche) contando as histórias de jovens judias que desafiaram os nazistas participando de vários atos de resistência.
 
 Alguns chefiaram células de resistência armada nos guetos ou lutaram ao lado de grupos guerrilheiros. Outros foram traficantes - armas, coleta de inteligência, documentos de identidade falsos - que eles transferiram de um gueto para outro. Outros ainda haviam trabalhado em escritórios nazistas, roubando informações diretamente. E alguns até tiveram que assassinar oficiais nazistas à queima-roupa.
@@ -22,7 +21,6 @@ Batalion, 43, conseguiu uma bolsa para traduzir *Freuen* . Ela sabia iídiche - 
 
 “Achei que levaria seis meses, mas demorou anos. A tradução foi muito complicada. Tive que pesquisar enquanto avançava, porque não havia contexto apresentado no livro. Tive que verificar lugares, eventos, nomes e assim por diante ”, Batalion disse ao The *Times of Israel* em uma entrevista de sua casa em Nova York.
 
-- 
 - "The Light of Days: The Untold Story of Women Resistance Fighters in Hitler's Ghettos", escrito por Judy Batalion (Crédito: William Morrow)
 
 As histórias dessas mulheres “ficaram muito tempo comigo”, diz ela.
@@ -100,7 +98,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

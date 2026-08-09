@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Apesar da alta, índice repõe apenas 21,7% das perdas dos últimos meses.
 
 O Índice de Confiança de Serviços, da Fundação Getulio Vargas (FGV), teve alta de 9,4 pontos na passagem de abril para maio. A alta veio depois de o indicador atingir o mínimo histórico em abril: 51,1. Com isso, o índice chegou a 60,5 pontos, em uma escala de zero a 200 pontos. Os números foram divulgados, hoje (28), no Rio de Janeiro.
@@ -21,5 +20,3 @@ O Nível de Utilização da Capacidade Instalada (Nuci) do setor de serviços ca
 Fonte: Agência Brasil – Imagem em destaque: Marcello Casal Jr./Agência Brasil
 
 ===================================== Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

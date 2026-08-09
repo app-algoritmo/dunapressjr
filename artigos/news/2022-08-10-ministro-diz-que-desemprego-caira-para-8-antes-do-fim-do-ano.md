@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Paulo Guedes pediu abertura de mercado europeu a produtos brasileiros.
 
 Atualmente em 9,3%, a taxa de desemprego pode cair para 8% antes do fim do ano com a recuperação econômica, disse nesta terça-feira (9) o ministro da Economia, Paulo Guedes. Ele participou, nesta noite, da abertura do congresso da Associação Brasileira de Bares e Restaurantes (Abrasel), em Brasília
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

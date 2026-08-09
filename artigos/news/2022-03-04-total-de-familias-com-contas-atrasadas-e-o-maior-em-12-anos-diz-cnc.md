@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alcançando 27% dos lares, inadimplência cresceu, em fevereiro, 0,6 pp.
 
 O percentual de famílias com dívidas e/ou contas em atraso apresentou, em fevereiro, o maior patamar desde março de 2010, segundo a Pesquisa Nacional de Endividamento e Inadimplência do Consumidor (Peic), divulgada nesta quinta-feira (3), no Rio de Janeiro, pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC).
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Os moradores de Itajaí que ficaram com sequelas respiratórias, motoras ou emocionais em função da COVID-19 poderão fazer tratamento no novo Centro de Reabilitação Pós-COVID a partir de segunda-feira (14). O Município está finalizando a montagem da unidade após identificar uma demanda por reabilitação entre pacientes e servidores que foram infectados pelo coronavírus. A intenção é reduzir e tratar os impactos da doença, melhorando a qualidade de vida da população.
 
 O novo centro contará com uma equipe multiprofissional com cerca de 10 pessoas e ficará localizado no bairro Dom Bosco, na antiga unidade de saúde ao lado do Parque Dom Bosco. O local foi reformado e terá uma equipe composta por fisioterapeutas, terapeutas ocupacionais, fonoaudiólogos, educadores físicos, nutricionistas e psicólogos.
@@ -30,7 +29,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

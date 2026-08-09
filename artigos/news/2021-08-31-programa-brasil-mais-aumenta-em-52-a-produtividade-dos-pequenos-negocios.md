@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultados do primeiro ciclo da iniciativa mostraram que, em média, os pequenos negócios também tiveram um incremento em 18% no faturamento.
 
 A partir do acompanhamento de quase 5 mil empresas que introduziram inovação e melhorias no processo de gestão, verificou-se que, em média, esses pequenos negócios tiveram um aumento de 52% de produtividade e um incremento de 18% no faturamento. Esses foram alguns dos resultados apresentados por empresas que fizeram parte do primeiro ciclo de atividades do Programa Brasil Mais – iniciativa da Secretaria Especial de Produtividade e Competitividade do Ministério da Economia (Sepec/ME), em parceria com o Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae), o Serviço Nacional de Aprendizagem Industrial (Senai) e a Agência Brasileira de Desenvolvimento Industrial (ABDI).
@@ -42,10 +41,6 @@ A meta é contemplar 105 mil empresas em dois anos, sendo que o ciclo de atendim
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

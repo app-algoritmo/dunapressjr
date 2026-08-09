@@ -7,10 +7,9 @@ categories:
 - Health
 ---
 
-
 ## Estudo aponta danos ao cérebro e ao intestino; por outro lado, identifica efeito antidepressivo e redução da ansiedade.
 
-Pesquisa da Universidade Federal da Paraíba (UFPB) financiada pela CAPES identificou possíveis riscos do jejum intermitente. Os experimentos demonstraram que o ato de intercalar longos períodos de jejum com de alimentação pode causar danos a células cerebrais e intestinais. Por outro lado, constatou-se efeito antidepressivo e redução de ansiedade.  
+Pesquisa da Universidade Federal da Paraíba (UFPB) financiada pela CAPES identificou possíveis riscos do jejum intermitente. Os experimentos demonstraram que o ato de intercalar longos períodos de jejum com de alimentação pode causar danos a células cerebrais e intestinais. Por outro lado, constatou-se efeito antidepressivo e redução de ansiedade.
 
 Jailane Aquino, Professora do Departamento de Nutrição da UFPB, idealizou e coordena o projeto que investiga potenciais benefícios e malefícios da prática. “Muitas pessoas estão fazendo o jejum sem acompanhamento e os resultados são controversos”, explicou.
 
@@ -36,7 +35,3 @@ Fonte:
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Entre as lembranças afetivas que guardamos da infância, sem dúvidas, uma das principais e mais recorrentes é a de comer alguma fruta diretamente do “pé” na casa da avó, no pomar do vizinho ou no sítio, não é? Saborear uma fruta que foi cultivada livre de agrotóxicos e que faz parte do ambiente de casa, além de trazer diversas recordações, colabora na qualidade de vida, na saúde e no bem-estar.
 
 Se antes, ter uma árvore frutífera em casa era algo complicado porque demandava um espaço ou local maior, agora a realidade mudou. O isolamento causado pela covid-19 fez com que as pessoas passassem mais tempo em casa e, com isso, percebessem a necessidade do contato com o verde, não apenas como decoração, mas, principalmente, no sentido sensorial.
@@ -33,7 +32,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

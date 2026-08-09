@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Projeção não considera eventual nova onda de casos de covid-19.
 
 Apesar do aumento das importações nos últimos meses, o Ministério da Economia projeta que a balança comercial – diferença entre exportações e importações – continuará a crescer e encerrará 2022 com superávit de US$ 79,4 bilhões. A estimativa é 30,1% maior que o [**superávit recorde de US$ 61,01 bilhões registrado no ano passado**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-01/superavit-da-balanca-comercial-bate-recorde-em-2021).
@@ -30,10 +29,6 @@ Segundo o Ministério da Economia, dois fatores explicam a alta das importaçõe
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

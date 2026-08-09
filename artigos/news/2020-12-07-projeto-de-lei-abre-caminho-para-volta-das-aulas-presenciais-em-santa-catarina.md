@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Um debate acalorado marcou a votação, pelo plenário da Assembleia Legislativa, nesta quarta-feira (2), de uma subemenda ao projeto de lei (PL) 182/2020 que, na prática, autoriza o retorno das aulas presenciais em todos os níveis de ensino em Santa Catarina. Após um intenso debate – que começou contrapondo o autor da subemenda, deputado Bruno Souza (Novo), e a deputada Luciane Carminatti (PT), e teve a participação de mais 12 parlamentares – o PL foi aprovado por maioria dos votos. Votaram contra os deputados Fabiano da Luz, Luciane Carminatti, Neodi Saretta e Padre Pedro Baldissera, todos do PT.
 
 O projeto, de autoria do deputado Coronel Mocellin (PSL), relaciona os serviços considerados essenciais no Estado, sendo assim, autorizados a funcionar observando as restrições sanitárias para controle da pandemia de Covid-19. A subemenda apresentada por Bruno Souza incluiu a educação, abrindo caminho para a retomada das aulas presenciais.
@@ -64,7 +63,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

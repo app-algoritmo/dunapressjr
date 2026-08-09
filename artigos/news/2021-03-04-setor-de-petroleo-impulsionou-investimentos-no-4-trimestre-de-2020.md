@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado foi impulsionado pela importação de plataformas.
 
 Levantamento realizado pelo Instituto de Pesquisa Econômica Aplicada (Ipea) revelou uma alta de 13,5% em investimentos na economia brasileira no quarto trimestre de 2020, em relação ao terceiro trimestre. Esse foi também o percentual obtido na comparação com o mesmo período do ano anterior, isto é, o quarto trimestre de 2019. O resultado, segundo o Ipea, foi impulsionado pela importação de plataformas de petróleo em dezembro.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

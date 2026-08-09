@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Governo Federal zerou a alíquota do imposto de importação de alimentos como medida para auxiliar o combate à inflação. Também reduziu alíquotas de dois insumos para a produção agrícola e de vergalhões de aço. A decisão foi divulgada nesta quarta-feira (11/05) em reunião do Comitê-Executivo de Gestão da Câmara de Comércio Exterior (Gecex/Camex). As reduções entram em vigor na quinta-feira (12/05) e valem até o dia 31 de dezembro de 2022.
 
 A redução foi feita via inclusão na Lista de Exceções à Tarifa Externa Comum do Mercosul (Letec). Foram zeradas as alíquotas de carnes congeladas de bovinos desossadas, pedaços e miudezas de frango congelados, farinha de trigo, outros trigos e mistura de trigo com centeio, milho em grão, bolachas e biscoitos e outros produtos de padaria e pastelaria. Ao cortar o imposto de importação, o Governo barateia a compra de produtos fabricados no exterior. Em março, o Gecex já havia zerado as alíquotas de seis alimentos.
@@ -38,7 +37,3 @@ Fonte:   https://www.gov.br/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

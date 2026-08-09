@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Parecer também prevê nova repatriação de recursos do exterior.
 
 Apresentado nesta terça-feira (3) na Câmara pelo relator da reforma do Imposto de Renda, deputado Celso Sabino (PSDB-BA), o parecer substitutivo introduz um gatilho para a queda do Imposto de Renda Pessoa Jurídica (IRPJ). Pelo novo texto, a alíquota só cairá em 2022 e 2023 se a arrecadação federal bater o valor de anos anteriores corrigido pela inflação.
@@ -54,10 +53,6 @@ Em relação à CFEM, a alíquota subiria dos atuais 4% para 5,5%. Em troca, a p
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

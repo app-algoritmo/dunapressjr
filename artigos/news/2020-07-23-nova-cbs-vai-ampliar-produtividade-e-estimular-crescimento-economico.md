@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A nova CBS é uma nova forma de tributar o consumo.
 
 As medidas previstas na primeira etapa da Reforma Tributária apresentada pelo governo federal ao Congresso Nacional foram explicadas na tarde desta terça-feira (21/7) pelo secretário especial da Receita Federal do Brasil, José Barroso Tostes Neto, e pela assessora especial do ministro da Economia, Vanessa Rahal Canado.
@@ -50,4 +49,4 @@ Veja a apresentação na íntegra:
 
 Fonte: Receita Federal - Imagem de destaque: Pedro França/Agência Senado
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

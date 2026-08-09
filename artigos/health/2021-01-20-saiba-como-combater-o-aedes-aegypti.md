@@ -7,10 +7,9 @@ categories:
 - Health
 ---
 
-
 O *Aedes aegypti* é o nome científico de um mosquito ou pernilongo que transmite a dengue, febre amarela urbana, além da zika e da chikungunya, doenças chamadas de arboviroses. Possui uma característica que o diferencia dos demais mosquitos, que é a presença de listras brancas no tronco, cabeça e pernas.
 
-O *Aedes aegypti *não é um mosquito nativo. Originário da África, já foi eliminado do Brasil na história do controle da dengue em 1955, retornando em 1976 por falhas de cobertura de ações do controle. Provavelmente teve sua reintrodução por meio de fronteiras e portos e alcança altas infestações em domicílios localizados em regiões com altas temperaturas e umidades, principalmente na época chuvosa e quente (verão), típica de países tropicais como o Brasil. 
+O *Aedes aegypti *não é um mosquito nativo. Originário da África, já foi eliminado do Brasil na história do controle da dengue em 1955, retornando em 1976 por falhas de cobertura de ações do controle. Provavelmente teve sua reintrodução por meio de fronteiras e portos e alcança altas infestações em domicílios localizados em regiões com altas temperaturas e umidades, principalmente na época chuvosa e quente (verão), típica de países tropicais como o Brasil.
 
 O período do verão é o mais propício à proliferação do mosquito *Aedes aegypti*, por causa das chuvas, e consequentemente é a época de maior risco de infecção por essas doenças. No entanto, a recomendação é não descuidar nenhum dia do ano e manter todas as posturas possíveis em ação para prevenir focos em qualquer época do ano.
 
@@ -69,7 +68,7 @@ As principais doenças transmitidas pelo *Aedes aegypti* são:
 - **Febre Amarela:** febre alta, mal estar, dores musculares, dor de cabeça e calafrios.
 - **Dengue: **febre alta súbita, dor de cabeça e dor no corpo e articulações, náuseas e vômitos, também podem haver manchas vermelhas no corpo e coceira.
 - **Zika:** recente no Brasil e que tem provocado muita preocupação, principalmente nas gestantes, pelo fato de estar sendo associada às ocorrências de microcefalia em recém-nascidos. Sintomas: febre não muito alta, dor de cabeça, dor nas articulações, manchas vermelhas no corpo com coceira, vermelhidão nos olhos e cansaço, em algumas pessoas pode não ter nenhum sintoma.
-- **Chikungunya:** doença que ocorre junto com a dengue e cujos sintomas se confundem: febre alta súbita, dor de cabeça constante, manchas vermelhas no corpo com coceira intensa e dor forte nas articulações com inchaço. 
+- **Chikungunya:** doença que ocorre junto com a dengue e cujos sintomas se confundem: febre alta súbita, dor de cabeça constante, manchas vermelhas no corpo com coceira intensa e dor forte nas articulações com inchaço.
 
 O *Aedes aegypti* tem hábitos diurnos, no interior da residência ele pode ser encontrado, preferencialmente, em locais sombreados e escuros, como por exemplo, atrás da geladeira, atrás das cortinas, atrás do guarda-roupa. O *Aedes *pode se alimentar de sangue humano durante o dia inteiro. O cidadão deve arejar a casa, abrir as janelas, ventilar o ambiente, pois o inseto tem fotofobia - aversão à luz -. Assim, recomenda-se manter a casa diariamente arejada e clareada. Mas, atenção: se existir algum espécime do vetor dentro de casa, em que o morador passe o dia inteiro fora e inexistir fonte de alimentação, pode ocorrer do *Aedes aegypti* picar no período da noite. Ele é um mosquito inteiramente adaptado e adaptável ao meio urbano. Comumente, ele pica durante o dia, mas dependendo da necessidade e do ambiente, ele pode picar a noite também.
 
@@ -85,8 +84,6 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!
 

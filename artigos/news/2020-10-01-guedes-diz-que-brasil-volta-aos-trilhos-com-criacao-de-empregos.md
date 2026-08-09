@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Suspensão de jornada poderá ser prorrogada por mais dois meses.
 
 A criação de empregos formais no melhor nível para meses de agosto desde 2010 representa um sinal de que a economia brasileira está “voltando para os trilhos” depois da pior fase da pandemia de covid-19, disse nesta quarta-feira (30) o ministro da Economia, Paulo Guedes.
@@ -35,5 +34,3 @@ Inicialmente, o programa de suspensão de contratos duraria dois meses, e a susp
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

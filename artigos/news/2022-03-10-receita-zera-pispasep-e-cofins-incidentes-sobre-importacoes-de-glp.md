@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medida é adotada em meio à disparada no preço do petróleo.
 
  A Receita Federal publicou nesta quarta-feira (9) instrução normativa zerando alíquotas do PIS/Pasep e da Cofins sobre o botijão de gás de cozinha de 13 quilos (kg) de uso doméstico. A [**medida**](https://www.in.gov.br/en/web/dou/-/instrucao-normativa-rfb-n-2.069-de-7-de-marco-de-2022-384543247) incide sobre a importação e a receita de comercialização do produto.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Resultantes de discussões com o Ministério da Economia, o Conselho Nacional de Política Energética (CNPE) aprovou medidas para a promoção da concorrência.
 
 Foi publicada no último dia 3 de maio a [Resolução CNPE nº 3/2022](https://www.gov.br/mme/pt-br/assuntos/conselhos-e-comites/cnpe/resolucoes-do-cnpe/2022/ResoluoCNPE_3_2022.pdf), que atualiza as diretrizes da abertura de mercado e estabelece medidas de incentivo à concorrência na indústria de gás natural. O normativo – que representa um importante passo para a existência de competição efetiva no setor de gás natural – incorpora contribuições da Secretaria de Acompanhamento Econômico, Advocacia da Concorrência e Competitividade (Seae), ligada à Secretaria Especial de Produtividade e Competitividade do Ministério da Economia (Sepec/ME).
@@ -24,8 +23,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

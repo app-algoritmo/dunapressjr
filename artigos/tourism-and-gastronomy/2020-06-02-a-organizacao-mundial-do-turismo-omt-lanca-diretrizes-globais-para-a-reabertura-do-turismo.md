@@ -8,7 +8,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 Ministério do Turismo debateu iniciativa na 5ª Reunião do Comitê Global de Crise da Organização Mundial do Turismo, realizada por videoconferência.
 
 A Organização Mundial do Turismo (OMT) divulgou,  quinta-feira (28.05), um conjunto de diretrizes para ajudar o setor a retomar suas atividades de maneira segura e sustentável. O guia foi produzido em consulta com o Comitê Global de Crise do Turismo e tem como objetivo apoiar os governos e o setor privado a se recuperarem da crise, além de restaurar a confiança dos viajantes por meio de protocolos de segurança. O secretário executivo adjunto do Ministério do Turismo, Higino Brito Vieira, e o assessor internacional, Antonio Ricarte, participaram de encontro do Comitê Global de Crise da OMT, que resultou na aprovação de diretrizes globais para o relançamento do turismo.
@@ -30,8 +29,6 @@ O selo integra o Plano de Retomada do Turismo Brasileiro, coordenado pelo MTur, 
 Fonte gov.br
 
 Ajude-nos a levar o jornalismo independente a todas as partes!
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)
 
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 

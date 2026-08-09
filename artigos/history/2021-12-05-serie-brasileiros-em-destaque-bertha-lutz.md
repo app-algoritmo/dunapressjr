@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Profissão: Bióloga.
 
 Área do Conhecimento: [Ciências Biológicas](https://canalciencia.ibict.br/ciencia-brasileira-3/notaveis/navegar-por/area-do-conhecimento?value=Ci%C3%AAncias%20Biol%C3%B3gicas).
@@ -16,13 +15,13 @@ Biografia: Bertha Lutz nasceu na cidade de São Paulo, em 2 de agosto de 1894, f
 
 Aos 24 anos, tomou-se militante da luta pela cidadania da mulher e em 1919, fundou a Liga para a Emancipação Intelectual da Mulher, a qual foi  substituída em 1922, pela Federação Brasileira para o Progresso Feminino, também fundada por ela, cujo objetivo era dar início à luta pelo direito ao voto das mulheres. Sob a presidência de Bertha Lutz entre 1922-1942, essa organização teve por objetivo congregar as diversas associações estaduais e nacionais. Em 1931, ao lado de outras ativistas, ela redigiu e entregou ao presidente Getúlio Vargas (1882-1954), documento sobre os direitos das mulheres. Em 1933, Bertha fundou a União Profissional Feminina e a União das Funcionárias Públicas, e também, bacharelou-se pela Faculdade de Direito do Rio de Janeiro.
 
-Posteriormente, no ano seguinte, concorreu à Câmara dos Deputados, mas conseguiu apenas a suplência do Partido Autonomista, que era ligado ao movimento feminista. Dois anos depois, em decorrência da morte do Deputado titular Cândido Pessoa, obteve o mandato como suplente devido à vacância do cargo. Com isso, tornou-se a segunda deputada federal do Brasil. Em seu mandato, lutou pela mudança da legislação referente ao trabalho de mulheres e menores de idade, propôs igualdade salarial, isenção do serviço militar feminino, licença maternidade, diminuição da carga horária de trabalho e elaborou projetos para o combate à lepra e à malária no Rio de Janeiro. Permaneceu no parlamento até novembro de 1937.  
+Posteriormente, no ano seguinte, concorreu à Câmara dos Deputados, mas conseguiu apenas a suplência do Partido Autonomista, que era ligado ao movimento feminista. Dois anos depois, em decorrência da morte do Deputado titular Cândido Pessoa, obteve o mandato como suplente devido à vacância do cargo. Com isso, tornou-se a segunda deputada federal do Brasil. Em seu mandato, lutou pela mudança da legislação referente ao trabalho de mulheres e menores de idade, propôs igualdade salarial, isenção do serviço militar feminino, licença maternidade, diminuição da carga horária de trabalho e elaborou projetos para o combate à lepra e à malária no Rio de Janeiro. Permaneceu no parlamento até novembro de 1937.
 
 No final do ano 1937, assumiu interinamente a chefia do setor de botânica do Museu Nacional, sendo autorizada a zelar pelas coleções científicas de seu pai, que versavam sobre a lepra e os anfíbios, bem como a realizar expedições para complementar os estudos sobre os anuros. Posteriormente, com a morte de seu pai, Bertha reuniu e publicou todos os textos dele, preservou suas coleções biológicas e acervo pessoal, que incluía numerosas cartas e documentos. Foi aposentada compulsoriamente pelo Museu Nacional em 1964, mas continuou trabalhando até ser agraciada com o título de professora emérita da Universidade Federal do Rio de Janeiro. Em 16 de setembro de 1976, Bertha Lutz faleceu no Rio de Janeiro.
 
-Durante sua vida, Bertha Lutz participou de muitas conferências, foi membro de diversas associações e contribuiu tanto para ciência como para o movimento de igualdade de gênero do país. Um dos destaques nos estudos como bióloga, foi a descoberta da espécie de sapos Paratelmatobius lutzii, chamado de “Lutz’s rapids frog”. 
+Durante sua vida, Bertha Lutz participou de muitas conferências, foi membro de diversas associações e contribuiu tanto para ciência como para o movimento de igualdade de gênero do país. Um dos destaques nos estudos como bióloga, foi a descoberta da espécie de sapos Paratelmatobius lutzii, chamado de “Lutz’s rapids frog”.
 
-Na política, tornou-se uma das quatro mulheres escolhidas entre 850 para participar da redação da Carta das Nações Unidas. Com o impacto de contribuições, a Câmara dos Deputados disponibiliza na internet os documentos da deputada Bertha Lutz, reconhecidos pela Unesco, como Memória do Mundo e, em 2020, publicou-se o livro  biográfico sobre Bertha Lutz. 
+Na política, tornou-se uma das quatro mulheres escolhidas entre 850 para participar da redação da Carta das Nações Unidas. Com o impacto de contribuições, a Câmara dos Deputados disponibiliza na internet os documentos da deputada Bertha Lutz, reconhecidos pela Unesco, como Memória do Mundo e, em 2020, publicou-se o livro  biográfico sobre Bertha Lutz.
 
 Em 2021, a HBO lança o documentário sobre a vida de Bertha Lutz, denominado “ Bertha Lutz — A mulher na carta da ONU”, com o objetivo de retratar o importante papel da bióloga e feminista brasileira, e ao mesmo tempo, assegurar que as questões de gênero sejam contempladas nas bases da Organização das Nações Unidas (ONU).
 
@@ -34,19 +33,19 @@ Prêmios e condecorações:
 
 1931 - Recebeu o prêmio da Carnegie Foundation for International Peace para estudar “O papel educativo dos museus americanos”.
 
-1944 - Foi designada delegada plenipotenciária , com categoria de embaixadora, à Conferência de São Francisco que criou as Nações Unidas. 
+1944 - Foi designada delegada plenipotenciária , com categoria de embaixadora, à Conferência de São Francisco que criou as Nações Unidas.
 
 1945 - Recebeu o título de doutor Honoris Causa do Mills College da Califórnia.
 
 1951 - Recebeu a láurea Mulher das Américas da União de Mulheres Americanas, em Nova York.
 
-1954 - Foi designada delegada brasileira na X Conferência Interamericana de Mulheres. 
+1954 - Foi designada delegada brasileira na X Conferência Interamericana de Mulheres.
 
 1954 - Foi designada delegada titular do governo do Brasil na Comissão Interamericana de Mulheres da Organização dos Estados Americanos (OEA).
 
-1965 - Recebeu do governo do Estado de São Paulo a Medalha Adolpho Lutz por sua contribuição para o enriquecimento do Instituto Adolpho Lutz e o progresso da ciência. 
+1965 - Recebeu do governo do Estado de São Paulo a Medalha Adolpho Lutz por sua contribuição para o enriquecimento do Instituto Adolpho Lutz e o progresso da ciência.
 
-1968 - Recebeu o título de cidadã honorária do Texas. 
+1968 - Recebeu o título de cidadã honorária do Texas.
 
 1968 - Foi eleita membro correspondente da Senckenbergische Naturferschende Gesellschaft e do natur Museum Senckenberg, em Frankfurt, Alemanha. 
 
@@ -58,7 +57,7 @@ LÔBO, Yolanda. Bertha Lutz / Yolanda Lôbo. – Recife: Fundação Joaquim Nabu
 
 MAIA, Otávio Borges. Vox: arte, cultura e ciência no Brasil / Otávio Borges Maia, ilustrado por Kleber Soares de Sales - Brasília: Ibict, 2017. 132 p. ISBN: 978-85-7013-129-4 e eISBN: 978-85-7013-130-0
 
-MARQUES, Teresa Cristina de Novaes. Bertha Lutz [recurso eletrônico] / Teresa Cristina de Novaes Marques.– 2. ed.– Brasília : Câmara dos Deputados, Edições Câmara, 2020.  ISBN 978-85-402-0783-7. 
+MARQUES, Teresa Cristina de Novaes. Bertha Lutz [recurso eletrônico] / Teresa Cristina de Novaes Marques.– 2. ed.– Brasília : Câmara dos Deputados, Edições Câmara, 2020.  ISBN 978-85-402-0783-7.
 
 Professora Emérita da Universidade Federal do Rio de Janeiro, em agosto de 1965 - Bertha Lutz – Museu Virtual. Disponível em: < [http://lhs.unb.br/bertha/?p=281>.](http://lhs.unb.br/bertha/?p=281%3E.) Acesso em 30 de maio de 2021.Obras
 
@@ -275,7 +274,3 @@ Entrevista : [Vídeo - História de Bertha Lutz](https://canalciencia.ibict.br/c
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

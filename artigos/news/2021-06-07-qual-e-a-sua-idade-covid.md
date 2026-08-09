@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## As comorbidades que podem apenas inclinar a balança.
 
 Qual é a sua “idade Covid”? Como muitas pessoas ao redor do mundo se resignam com a noção de que o coronavírus pode estar aqui para ficar e se juntará a gripes e resfriados como hóspedes regulares da estação, a questão de minimizar os fatores de risco se torna ainda maior. Afinal, já temos uma vacina contra a gripe, mas cerca de meio milhão de pessoas ainda morrem por causa dela todos os anos. Por que devemos esperar melhor de uma vacina contra o coronavírus?
@@ -35,7 +34,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,8 +7,7 @@ categories:
 - Health
 ---
 
-
-Escovação correta, uso do fio-dental e visita ao dentista nesse período são ações simples que evitam doenças, como a cárie e a doença periodontal. De acordo com Nicole Aimée, consultora da Coordenação de Saúde Bucal do Ministério da Saúde as alterações hormonais comuns à gestação, como aumento dos hormônios estrogênio e progesterona, podem agravar as condições de doenças periodontais, como sangramento na gengiva. 
+Escovação correta, uso do fio-dental e visita ao dentista nesse período são ações simples que evitam doenças, como a cárie e a doença periodontal. De acordo com Nicole Aimée, consultora da Coordenação de Saúde Bucal do Ministério da Saúde as alterações hormonais comuns à gestação, como aumento dos hormônios estrogênio e progesterona, podem agravar as condições de doenças periodontais, como sangramento na gengiva.
 
 “Esta inflamação faz com que a gengiva apresente alteração na sua cor, aumento do seu volume e sensibilidade ao toque. A gestante não precisa ficar assustada, apenas adotar as medidas para melhora da condição gengival e, caso necessário, fazer uma profilaxia (limpeza profissional) da gengiva e dos dentes”, orienta a consultora.
 
@@ -48,7 +47,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

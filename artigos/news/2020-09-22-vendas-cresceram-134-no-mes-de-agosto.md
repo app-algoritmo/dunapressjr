@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado é evidenciado no Boletim da Receita Federal - Nota Fiscal Eletrônica.
 
 A média diária de vendas no Brasil no mês de agosto atingiu o valor de R$ 26,8 bilhões, o maior patamar entre os meses do ano de 2020. O resultado é 4,4% maior que o de julho de 2020 e 13,4% superior ao de agosto de 2019.
@@ -30,8 +29,6 @@ O comércio eletrônico também alcançou no mês de agosto o melhor resultado d
 
 [Boletim4edio1SETEMBRO2020V7a](https://dunapress.org/wp-content/uploads/2020/09/Boletim4edio1SETEMBRO2020V7a.pdf)[Baixar](https://dunapress.org/wp-content/uploads/2020/09/Boletim4edio1SETEMBRO2020V7a.pdf)
 
-Fonte: Receita Federal - Imagem de destaque: Valter Campanato/Agência Brasil 
+Fonte: Receita Federal - Imagem de destaque: Valter Campanato/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

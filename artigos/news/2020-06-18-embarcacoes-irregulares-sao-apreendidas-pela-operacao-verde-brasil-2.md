@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ao atuar na malha fluvial da região da Amazônia Legal, militares envolvidos na Operação Verde Brasil 2 cumpriram, nesta terça-feira (16), as ações de inspeção e patrulha navais com o uso de embarcações da Marinha do Brasil. Na área de atuação do Comando Conjunto Príncipe da Beira, no Acre, no Amazonas e em Rondônia, foram apreendidas três embarcações irregulares, enquanto outra foi retida no Pará, pelo Comando Conjunto Marechal Soares de Andrea.
 
 Além das ações nas águas, o Príncipe da Beira também realizou ações fiscalizatórias, patrulha motorizada e aeromóvel, reconhecimento e apoio de segurança aos agentes federais da Polícia Federal e estaduais da Polícia Militar, do Instituto de Proteção Ambiental do Amazonas (IPAAM) e da Secretaria de Desenvolvimento Ambiental. Foram revistados veículos, embarcações e aeronaves, sendo aplicados mais de R$ 88 mil em multas e apreendidos cerca de 120 metros cúbicos de madeira extraída ilegalmente.
@@ -19,5 +18,3 @@ Desde a deflagração da Operação Verde Brasil 2, em 11 de maio, militares e a
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

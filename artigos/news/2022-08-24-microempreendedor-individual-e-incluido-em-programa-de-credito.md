@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Peac-FGI deverá garantir R$ 21 bi em empréstimos até o fim de 2023.
 
 A partir desta semana, os donos de pequenos negócios podem pegar empréstimos do Programa Emergencial de Acesso a Crédito (Peac), com garantias do Fundo Garantidor de Investimentos (FGI). Está aberta a nova rodada do programa, que desta vez incluirá microempreendedores individuais (MEI).
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

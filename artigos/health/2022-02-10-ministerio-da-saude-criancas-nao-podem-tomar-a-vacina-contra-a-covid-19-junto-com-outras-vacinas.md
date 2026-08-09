@@ -8,7 +8,6 @@ categories:
 - Health
 ---
 
-
 No início de 2022, o Ministério da Saúde anunciou a inclusão de crianças da faixa etária de 5 a 11 anos no Plano Nacional de Operacionalização da Vacinação contra a Covid-19 (PNO). Estima-se que esse público seja de 20 milhões de crianças.
 
 Mesmo que o número em crianças contaminadas seja menor, existem casos de crianças que adquiriram a forma grave da doença e de morte. Além de proteger a saúde das crianças, a vacinação em massa ajuda a parar a circulação do vírus, pois quanto maior o número de pessoas vacinadas, mais barreiras contra a circulação viral teremos. É, também, uma proteção indireta para familiares considerados como grupo de risco.
@@ -46,7 +45,3 @@ Fonte: https://bvsms.saude.gov.br/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

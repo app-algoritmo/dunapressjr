@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O material é apresentado em vários formatos.
 
 O Banco Central e a Federação Brasileira de Bancos (Febraban) [**lançaram nesta quarta-feira (3) uma plataforma**](http://plataforma.meubolsoemdia.com.br/) para ajudar as pessoas a melhor planejar suas finanças. Segundo seus desenvolvedores, a plataforma de educação financeira faz uso de inteligência artificial para apresentar “recomendações personalizadas” a cada perfil ou necessidade financeira.
@@ -38,10 +37,6 @@ Segundo ele, a filosofia que está por trás da plataforma, de controle de gasto
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

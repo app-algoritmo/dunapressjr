@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## A medida foi disciplinada por meio da Portaria nº 022/2022, estabelecendo a obrigatoriedade desse monitoramento em todo o Estado.
 
 Considerando a necessidade de aprimorar os procedimentos nas aulas de habilitação de condutores de ciclomotores junto às autoescolas, o Departamento Estadual de Trânsito da Paraíba (Detran-PB) implantou o monitoramento eletrônico nos cursos práticos de direção veicular em motocicletas, com a finalidade de garantir um trânsito mais seguro e de atender à deliberação do Conselho Nacional de Trânsito (Contran).
@@ -25,8 +24,4 @@ Fonte: Detran-PB
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

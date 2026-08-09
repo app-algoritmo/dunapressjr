@@ -8,7 +8,6 @@ categories:
 - Video library
 ---
 
-
 O novo filme de Gal Gadot estreia com US $ 16,7 milhões no fim de semana do Natal, apesar de estrear simultaneamente no serviço de streaming.
 
 Apesar de estrear simultaneamente pelo serviço de streaming, "Mulher Maravilha 1984" conseguiu a melhor estreia de bilheteria da pandemia, com US $ 16,7 milhões no fim de semana de Natal, segundo estimativas do estúdio no domingo.
@@ -53,7 +52,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

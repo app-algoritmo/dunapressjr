@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Justiça e Segurança Pública (MJSP) realizou, nos últimos sete meses, 28 leilões, e ultrapassou a arrecadação de R$10 milhões com a venda de carros, motocicletas, caminhões, celulares e itens diversos. Todos esses bens são apreendidos do tráfico de drogas por meio de operações policiais. Desse montante, 10% foi arrecadado durante o leilão de São Paulo, realizado terça-feira (27).
 
 Os recursos vão contribuir para financiar projetos no combate ao tráfico de drogas. No início deste ano, R$ 13 milhões foram destinados para a compra de equipamentos de radiocomunicação. As torres foram instaladas na fronteira entre o Brasil e o Paraguai e estão sendo utilizadas por agentes de segurança que atuam no Programa Nacional de Segurança nas Fronteiras e Divisas - o VIGIA.
@@ -22,5 +21,3 @@ Segundo o Ministro da Justiça e Segurança Pública, André Mendonça, até o f
 Legislação - Sancionada em outubro de 2019, a Lei 13.886, contribuiu para os avanços alcançados pela Secretaria Nacional de Políticas sobre Drogas (Senad/MJSP) pois autoriza a venda do patrimônio apreendido a partir de 50% do seu valor avaliado e a isenção de eventuais encargos anteriores à compra. A nova legislação também prevê a destinação de até 40% do recurso para o estado que apreendeu o bem.
 
 Fonte: Portal de Imprensa do Ministério da Justiça e Segurança Pública
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

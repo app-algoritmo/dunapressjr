@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Secretaria de Estado da Saúde (SES) registrou, neste domingo (21), 818 casos de Covid-19. Entre os confirmados hoje, 53 (6,47%) são casos de pacientes hospitalizados e 765 (93,52%) são leves. Agora, a Paraíba totaliza 246.382 casos confirmados da doença, que estão distribuídos por todos os 223 municípios. Até o momento, 715.743 testes para diagnóstico da Covid-19 já foram realizados.
 
 Também foram confirmados 31 novos óbitos desde a última atualização, sendo 28 deles nas últimas 24h. Os óbitos ocorreram entre os dias 14 e 20 de março de 2021, sendo 03 deles em hospitais privados e os demais em hospitais públicos. Com isso, o estado totaliza 5.243 mortes. O boletim registra ainda um total de 175.879 pacientes recuperados da doença.
@@ -34,10 +33,6 @@ Os dados epidemiológicos com informações sobre todos os municípios e ocupaç
 
 Fonte: paraiba.pb.gov.br – Imagem de destaque: Reuters
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.   
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)  
-
- Obrigado pelo apoio!  
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+ Obrigado pelo apoio!

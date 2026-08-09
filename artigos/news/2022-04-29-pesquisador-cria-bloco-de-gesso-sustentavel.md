@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Desde a graduação, Victor Valério Landim, engenheiro civil, tinha um sonho: criar uma solução ambientalmente correta para o setor da construção civil. Durante seu mestrado em Engenharia de Materiais, na Universidade Federal da Paraíba (UFPB), o bolsista da CAPES alcançou sua meta com os blocos de gesso sustentáveis. O novo produto, feito a partir de resíduos de pedras ornamentais, tem potencial para substituir os tradicionais blocos de vedação utilizados na construção de edificações.
 
 **Fale um pouco sobre o seu trabalho.**
@@ -17,7 +16,7 @@ A minha pesquisa desenvolveu blocos de gesso para vedação vertical produzidos 
 Desenvolver um novo produto ecologicamente correto, difundir o seu uso na construção civil. Avaliamos a influência da substituição parcial da gipsita, também chamada pedra de gesso, por resíduos de pedras ornamentais na produção de blocos de gesso sustentáveis.
 
 **Como são produzidos os blocos de gesso sustentáveis?**
-Para produção dos blocos diminuímos a proporção de gesso, material não renovável, e adicionamos um resíduo que é gerado durante o processo de beneficiamento - corte e serragem - das rochas ornamentais. O volume de resíduo gerado neste processo é bastante significativo, levando-se em consideração que o Brasil é um dos maiores exportadores de rochas ornamentais no mundo, e o plano de gerenciamento destes resíduos, infelizmente, não é eficaz, sendo, portanto, na maioria das vezes, descartado de maneira inadequada na natureza. 
+Para produção dos blocos diminuímos a proporção de gesso, material não renovável, e adicionamos um resíduo que é gerado durante o processo de beneficiamento - corte e serragem - das rochas ornamentais. O volume de resíduo gerado neste processo é bastante significativo, levando-se em consideração que o Brasil é um dos maiores exportadores de rochas ornamentais no mundo, e o plano de gerenciamento destes resíduos, infelizmente, não é eficaz, sendo, portanto, na maioria das vezes, descartado de maneira inadequada na natureza.
 
 **O que eles possuem de diferente aos produtos feitos à base de resíduos para a construção civil?**
 São blocos que promovem a diminuição do volume de gesso, recurso não renovável utilizado no processo de fabricação, reduzindo, assim, o processo de extração. Além disso, promovemos a reinserção de um resíduo que seria descartado inadequadamente no ciclo produtivo, diminuindo, portanto, os impactos ambientais advindos deste processo.
@@ -48,7 +47,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

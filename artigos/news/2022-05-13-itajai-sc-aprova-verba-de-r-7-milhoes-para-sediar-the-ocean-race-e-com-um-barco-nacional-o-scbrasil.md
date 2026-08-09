@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 **Maio, 2022 -** Com menos de sete meses para receber pela quarta vez a única parada da América do Sul e segunda no Continente Americano da The Ocean Race, o Legislativo Municipal da cidade catarinense de Itajaí aprovou a abertura de crédito adicional suplementar de R$ 7 milhões para a realização do evento. Com 13 votos favoráveis pelos vereadores, foi autorizado em primeira discussão o Projeto de Lei Ordinária nº 39/2022 para atender às despesas da Secretaria Municipal de Turismo e Eventos.
 
-O projeto passará por uma segunda discussão e, se aprovado, encaminhado ao Executivo Municipal para sanção do prefeito Volnei Morastoni. O recurso estará sendo utilizado para o pagamento da taxa para sediar a The Ocean Race. O aumento da dotação para apoio à realização de eventos turísticos será repassado pelo Governo do Estado de Santa Catarina. 
+O projeto passará por uma segunda discussão e, se aprovado, encaminhado ao Executivo Municipal para sanção do prefeito Volnei Morastoni. O recurso estará sendo utilizado para o pagamento da taxa para sediar a The Ocean Race. O aumento da dotação para apoio à realização de eventos turísticos será repassado pelo Governo do Estado de Santa Catarina.
 
 Itajaí é a única parada da Copa do Mundo das Velas na América do Sul e, para essa edição 2022-23, o Brasil volta a participar com um barco nacional, o SCBrasil Esporte Náutico, projeto que está sendo apoiado pelo presidente do Legislativo Municipal de Itajaí, vereador Marcelo Werner.
 
@@ -19,7 +18,7 @@ Itajaí é a única parada da Copa do Mundo das Velas na América do Sul e, para
 
 **Sobre o VelaShow -** Para os apaixonados pelo mundo da vela – sejam velejadores, empresários ou entusiastas de esportes impulsionados pelo vento - visitar uma feira de negócios exclusiva é a maneira ideal de conhecer novidades e encontrar profissionais e representantes, tanto de empresas novas quanto tradicionais do mercado. O ambiente do VelaShow está sendo construído para facilitar conversas e trocas de ideias com empreendedores experientes e inovadores que, durante os três dias de evento, exibirão, com exclusividade, seus lançamentos em produtos e serviços.
 
-A Cardoso Almeida realiza eventos nacionais e internacionais há mais de 15 anos, como a ExpoElevador – a maior feira de negócios do setor da indústria de elevadores e escadas rolantes na América Latina -, a FeiMóbili – Feira Nacional da Indústria Moveleira -, a Lift Road Show – Feira Itinerante do Setor de Elevadores - e a ExpoPredialTec, feira voltada para o segmento de automação residencial e predial. Os eventos da Cardoso Almeida têm apoio de renomadas instituições nacionais e internacionais. A empresa percebeu a lacuna existente no setor de vela, optando por abraçar mais este desafio. 
+A Cardoso Almeida realiza eventos nacionais e internacionais há mais de 15 anos, como a ExpoElevador – a maior feira de negócios do setor da indústria de elevadores e escadas rolantes na América Latina -, a FeiMóbili – Feira Nacional da Indústria Moveleira -, a Lift Road Show – Feira Itinerante do Setor de Elevadores - e a ExpoPredialTec, feira voltada para o segmento de automação residencial e predial. Os eventos da Cardoso Almeida têm apoio de renomadas instituições nacionais e internacionais. A empresa percebeu a lacuna existente no setor de vela, optando por abraçar mais este desafio.
 
 Para saber mais, acesse o site: [www.velashow.com](https://click.presskit.com.br/url/868443cbb6/6361388b6fc).
 
@@ -38,7 +37,3 @@ Fonte: ZDL Sports
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

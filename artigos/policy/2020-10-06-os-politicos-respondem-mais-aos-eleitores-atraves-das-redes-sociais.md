@@ -7,7 +7,6 @@ categories:
 - Policy
 ---
 
-
 Qual é a essência de um governo democrático? Algumas características são básicas para entendermos não só a existência ou não de uma democracia, mas a qualidade da representação sendo praticada. Entre os critérios básicos estão garantias constitucionas como o direito de votar e ser votado para cargos políticos e o direito de contestação pública aos representantes eleitos. Junto a estes critérios básicos, está a necessidade dos representantes, na medida do possível, escutarem os cidadãos e atenderem suas demandas. Neste ponto, a relação entre cidadãos e representantes é importante. A popularização da internet trouxe novas ferramentas que permitem, pelo menos em teoria, maior interação entre políticos e eleitores, possibilitando novas formas de transparência e participação do povo nos processos de decisões governamentais.
 
 Se, no passado, o contato com representantes do governo era feito por telefonemas ou cartas enviadas por correio, hoje em dia grande parte dessa interação é realizada por e-mails. Mais recentemente, com o uso cada vez maior de redes sociais pela população, aumentou também o número de políticos com perfis nessas plataformas, representando uma nova forma de contato direto entre eles e seus eleitores. O pesquisador Márcio Carlomagno e seus colaboradores, da Universidade Federal do Paraná, buscaram entender melhor a interação entre políticos e cidadãos, realizando um experimento com deputados federais. O principal objetivo foi analisar quais fatores poderiam motivar a resposta dos deputados a questões enviadas pelo público.
@@ -43,5 +42,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

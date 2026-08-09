@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em tempos tão difíceis, é essencial voltarmos aos princípios:
 
 1º. A democracia pressupõe, acima de tudo, que todo poder emana do povo. Por isso, todas as instituições devem respeitá-lo. Devemos respeitar a vontade das urnas e o voto popular. Devemos agir por este povo, compreendê-lo e ver sua crítica e manifestação com humildade. Na democracia, a voz popular é soberana.
@@ -20,5 +19,3 @@ André Mendonça
 Ministro da Justiça e Segurança Pública
 
 Fonte: Portal de Imprensa do Ministério da Justiça e Segurança Pública
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa cai para menor nível desde novembro do ano passado.
 
 O dólar encostou em R$ 5,70 e a bolsa de valores caiu para o menor nível desde novembro do ano passado no dia seguinte à declaração do ministro da Economia, Paulo Guedes, de que o governo pretende pedir mudanças no [**teto de gastos**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-10/auxilio-brasil-guedes-afirma-que-governo-usara-r-30-bi-fora-teto) para financiar parcialmente o Auxílio Brasil. O Tesouro Direto chegou a interromper as negociações por diversas vezes, e a atuação do Banco Central (BC) não conseguiu segurar a moeda norte-americana.
@@ -20,14 +19,10 @@ Além das negociações em torno do futuro do teto de gastos, que afetaram açõ
 
 A instabilidade também afetou o mercado de títulos públicos. Por três vezes ao longo do dia, as negociações do Tesouro Direto, programa que vende títulos públicos a pessoas físicas, foi interrompida. O Tesouro Nacional não quis aceitar os juros pedidos pelos investidores e paralisou a venda de papéis prefixados (com juros definidos antecipadamente) e corrigidos pela inflação.
 
-A renúncia do secretário especial de Tesouro e Orçamento, Bruno Funchal, e do secretário do Tesouro Nacional, Jeferson Bittencourt, ainda não repercutiu no mercado. Os dois anunciaram o pedido de [**exoneração**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-10/secretarios-do-ministerio-da-economia-pedem-exoneracao) após o fechamento das negociações. 
+A renúncia do secretário especial de Tesouro e Orçamento, Bruno Funchal, e do secretário do Tesouro Nacional, Jeferson Bittencourt, ainda não repercutiu no mercado. Os dois anunciaram o pedido de [**exoneração**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-10/secretarios-do-ministerio-da-economia-pedem-exoneracao) após o fechamento das negociações.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

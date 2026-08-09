@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## “A Libertadora - Uma constituição para o Brasil” traz o texto integral da nova Constituição com comentários dos autores, e será lançada com palestra e noite de autógrafos em São Paulo.
 
 Coordenada pelo deputado federal e descendente da família imperial, Luiz Philippe
@@ -58,7 +57,3 @@ Mais informações: Vera Amatti (11) 98271-1997 (Whatsapp)
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Candace Owens, comentarista conservadora e ativista político, lançou uma campanha na plataforma GoFundMe em apoio a Michael Dykes, proprietário de um bar em Birmingham que provocou uma controvérsia nas mídias sociais ao rebater os protestos de George Floyd.
 
 Vídeo censurado no youtube
@@ -25,7 +24,7 @@ No entanto, em um e-mail para AL.com, um porta-voz do GoFundMe disse: “O GoFun
 After raising $205,000 in a few hours [@gofundme](https://twitter.com/gofundme?ref_src=twsrc%5Etfw) decided to halt my campaign for the Parkside Cafe in Alabama. At their discretion, they deemed that funds raised for a conservative business constitutes “intolerance”
 They WILL however give the funds raised thus far to the cafe... [pic.twitter.com/Mfw88iDKRi](https://t.co/Mfw88iDKRi)
 
-— Candace Owens (@RealCandaceO) [June 7, 2020](https://twitter.com/RealCandaceO/status/1269611223135465475?ref_src=twsrc%5Etfw) 
+— Candace Owens (@RealCandaceO) [June 7, 2020](https://twitter.com/RealCandaceO/status/1269611223135465475?ref_src=twsrc%5Etfw)
 
 Dykes, um dos proprietários do [Parkside Cafe](https://www.facebook.com/ParksideCafe/) em Avondale, fez seus comentários sobre os protestos na sexta-feira em uma mensagem de texto para dois outros gerentes que foram distribuídos aos funcionários.
 
@@ -39,4 +38,4 @@ https://dunapress.org/2020/06/13/verificacao-de-antecedentes-investigando-o-regi
 
 https://dunapress.org/2020/06/07/especial-black-bok-antifas-dossie-114v3-11-monitoracao-das-agencias-de-inteligencia/
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?aff=barrosprojectmanager)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)**

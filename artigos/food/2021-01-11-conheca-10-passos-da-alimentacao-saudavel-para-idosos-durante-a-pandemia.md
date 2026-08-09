@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 Em qualquer época e para qualquer pessoa, a alimentação adequada e saudável é importante para a manutenção e recuperação da saúde. Mas durante uma pandemia, quando seu organismo precisa de uma dose extra de cuidado, o foco na alimentação deve ser redobrado. Principalmente para os idosos, que aparecem como o principal grupo de risco e necessitam de atenção especial.
 
 Para quem está cuidando de algum idoso, é importante observar se ele apresenta perda ou ganho excessivo de peso (em curto prazo), se tem algum comprometimento sensorial, como diminuição do paladar e saúde bucal ruim, problemas de mastigação e dificuldades de deglutição, ou alguma doença crônica que precise de cuidados especiais na alimentação.
@@ -88,8 +87,6 @@ Biscoitos recheados, guloseimas, salgadinhos, refrigerantes, sucos industrializa
 
 São a partir dos rótulos que os consumidores podem se informar em relação à composição dos alimentos. É por meio deles que descobrimos se um alimento tem excesso de gordura, açúcar e sódio. Leia sempre a lista de ingredientes para identificar os ultraprocessados, que devem ter seu consumo evitado.
 
-[](http://portal.anvisa.gov.br/coronavirus/noticias/-/asset_publisher/3WSYdp5mIC2e/content/o-novo-coronavirus-pode-ser-transmitido-por-alimentos-/219201?inheritRedirect=false&redirect=http%253A%252F%252Fportal.anvisa.gov.br%252Fcoronavirus%252Fnoticias%253Fp_p_id%253D101_INSTANCE_3WSYdp5mIC2e%2526p_p_lifecycle%253D0%2526p_p_state%253Dnormal%2526p_p_mode%253Dview%2526p_p_col_id%253Dcolumn-2%2526p_p_col_count%253D1.)
-
 Imagem destacada: Pixabay
 
 Fonte: saudebrasil.saude.gov.br
@@ -102,7 +99,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

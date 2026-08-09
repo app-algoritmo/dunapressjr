@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## A partir de agora, as agências reguladoras têm até 31 de março para finalizarem as análises e declararem os contratos de prestação de serviço regulares ou irregulares.
 
 A adesão dos prestadores de serviços públicos de abastecimento de água potável e de esgotamento sanitário à regionalização dos serviços de saneamento básico superou as expectativas do Ministério do Desenvolvimento Regional (MDR). Dos 22 estados habilitados, 15 conseguiram entregar, dentro do prazo estipulado, 31 de dezembro de 2021, a documentação que comprova a capacidade econômico-financeira de realizar investimentos no setor para cumprir as metas de universalização estipuladas pelo novo Marco Legal do Saneamento: 99% da população brasileira com acesso à água potável e 90% a tratamento e coleta de esgoto até 2033.
@@ -31,10 +30,6 @@ A meta do Governo Federal é alcançar a universalização dos serviços de sane
 
 *Com informações do [Ministério do Desenvolvimento Regional](http://https/www.gov.br/mdr/pt-br)*
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Programa está disponível na App Store ou Google Play.
 
 A Receita Federal lançou um aplicativo que promete reunir diferentes serviços de acesso à informação em um só local. Segundo o órgão, o programa que está disponível para celulares e *tablets*, vai simplificar o acesso a vários serviços e informações já oferecidas pela Receita. O aplicativo está disponível na *[**App Store**](https://apps.apple.com/br/app/receita-federal/id1558883724)* ou *[**Google Play**](https://play.google.com/store/apps/details?id=br.gov.economia.receita.rfb&hl=en&gl=BR).*
@@ -26,10 +25,6 @@ A Receita informou ainda que para ter acesso às funcionalidades do novo aplicat
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

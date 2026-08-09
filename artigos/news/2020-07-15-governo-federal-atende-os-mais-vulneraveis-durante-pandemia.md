@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Benefício está concentrado nos 30% mais pobres da população e representou 93% do rendimento dessas famílias.
 
 O auxílio emergencial pago pelo Governo Federal à parcela da população que mais sofre com os efeitos econômicos da pandemia do novo coronavírus chegou a mais da metade dos lares das regiões Norte e Nordeste. É o que mostra a Pesquisa Nacional por Amostra de Domicílios (Pnad) Covid-19, realizada pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -36,6 +35,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

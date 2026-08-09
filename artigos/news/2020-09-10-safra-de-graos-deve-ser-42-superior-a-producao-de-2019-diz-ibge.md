@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A área colhida deve chegar a 65,2 milhões de hectares.
 
 A safra de cereais, leguminosas e oleaginosas este ano deverá ser recorde, estimada em 251,7 milhões de toneladas, ou seja, 4,2% superior à registrada no ano passado, de 241,5 milhões de toneladas. A estimativa é do Levantamento Sistemático da Produção Agrícola realizado em agosto, e que ainda aumentou em 0,5% a projeção da pesquisa de julho.
@@ -25,5 +24,3 @@ Por outro lado, devem apresentar queda a banana, de 5,1%; a batata-inglesa, de  
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Paulo Whitaker/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Número representa mais da metade do total de casos registrados no País.
 
 O Ministério da Saúde registrou, nessa segunda-feira (6), o total de 927.292 pessoas curadas do coronavírus em todo o País. O número é superior à quantidade de casos ativos (630.505), que são pacientes em acompanhamento médico. O registro de pessoas curadas já representa mais da metade do total de casos acumulados (57,1%). As informações estão atualizadas até às 18h30 e foram enviadas pelas Secretarias Estaduais e Municipais de Saúde.
@@ -28,4 +27,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)[**Divulgue sua Empresa, Serviços ou produtos** **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)[**Divulgue sua Empresa, Serviços ou produtos** **clicando aqui.**](https://dunapress.org/)

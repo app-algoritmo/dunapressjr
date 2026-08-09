@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## As doses devem ser entregues de outubro de 2021 a abril de 2022.
 
 Os Estados Unidos vão comprar mais 200 milhões de doses da vacina COVID-19 da Pfizer e BioNTech e tem a opção de comprar doses adicionais para lidar com variantes do vírus, as empresas anunciaram sexta-feira, de acordo com a *AFP* .
@@ -33,7 +32,3 @@ Fonte: https://www.israelnationalnews.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

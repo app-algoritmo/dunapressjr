@@ -7,7 +7,6 @@ categories:
 - Policy
 ---
 
-
 O atual governo liderado pela PM [Erna Solberg](https://no.wikipedia.org/wiki/Erna_Solberg) do partido de direita conservador "[Høyre](https://no.wikipedia.org/wiki/H%C3%B8yre)"  perdeu a maioria parlamentar após o partido liberal critão "[Fremskrittspartiet (Frp)](https://no.wikipedia.org/wiki/Fremskrittspartiet)" liderado por [Siv Jensen](https://no.wikipedia.org/wiki/Siv_Jensen), romper a coalisão com o governo de Erna Solberg e retirar literalmente todos os seus ministros do gabinete do executivo.
 
 A saída de Siv Jensen aconteceu depois da decisão, anunciada na segunda semana de janeiro, que uma mulher norueguesa e os seus dois filhos receberiam apoio para regressar desde Síria para Noruega, para que uma das crianças pudesse receber tratamento médico. A mulher tem agora 29 anos com um filho de 5 anos e uma filha de 3.
@@ -36,7 +35,7 @@ A Constituição do Reino da Noruega não permite eleições antecipadas (as pr�
 
 Posições dos partidos nas eleições parlamentares de 2017
 
-[](https://www.stortinget.no/no/Stortinget-og-demokratiet/stortinget-undervisning/videregaende-skole/politiske-partier/)Posições dos partidos nas eleições parlamentares de 2017. Ilustração: The Storting
+Posições dos partidos nas eleições parlamentares de 2017. Ilustração: The Storting
 
 Imagem de capa -  Siv Jensen e Erna Solberg  - Créditos - Dagsavisen
 
@@ -44,11 +43,11 @@ Em entrevista ao canal Euronews em português, A PM Erna Solberg** informa que "
 
 Gratulerer Portugal! Gratulerer Eder!
 
-&mdash; Erna Solberg (@erna_solberg) [July 10, 2016](https://twitter.com/erna_solberg/status/752255026635083780?ref_src=twsrc%5Etfw) 
+&mdash; Erna Solberg (@erna_solberg) [July 10, 2016](https://twitter.com/erna_solberg/status/752255026635083780?ref_src=twsrc%5Etfw)
 
 Entrevista
 
-[](https://pt.euronews.com/embed/349955)Erna Solberg - Entrevista em Euronews
+Erna Solberg - Entrevista em Euronews
 
 Constituição em português - disponível em ebook ou impresso
 

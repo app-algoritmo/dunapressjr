@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Vencimento de títulos corrigidos pela inflação justifica queda.
 
 O alto volume de vencimentos fez a Dívida Pública Federal (DPF) cair em agosto. Segundo números divulgados nesta quarta-feira (28) pelo Tesouro Nacional, a DPF passou de R$ 5,804 trilhões em julho para R$ 5,781 trilhões no mês passado, baixa de 0,4%.
@@ -52,8 +51,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

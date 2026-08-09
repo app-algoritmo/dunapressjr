@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Números não foram divulgados por causa de greve de servidores.
 
 A operação padrão e a greve no funcionalismo público federal afetaram a divulgação do projeto da Lei de Diretrizes Orçamentárias (LDO) de 2023. O texto, com cerca de 900 páginas, foi protocolado no Congresso Nacional pouco antes das 19h desta quinta-feira (14), data limite da apresentação do projeto, mas o teor e os números ainda não são conhecidos.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

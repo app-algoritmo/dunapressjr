@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa reverteu alta e encerrou com recuo de 0,45%.
 
 Num dia de volatilidade no mercado financeiro, o dólar zerou a queda acumulada até o início da tarde e terminou com leve baixa. A bolsa de valores chegou a superar os 120 mil pontos em boa parte da sessão, mas reverteu os ganhos e fechou com perdas.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

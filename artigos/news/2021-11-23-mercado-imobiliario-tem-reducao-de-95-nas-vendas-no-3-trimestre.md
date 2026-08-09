@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Aumento no custo dos insumos impactou os negócios.
 
 O aumento no custo dos insumos da construção civil e a queda no poder de compra das famílias impactaram os números do mercado imobiliário no país e as vendas de imóveis novos tiveram queda de 9,5% no terceiro trimestre deste ano, frente ao mesmo período do ano passado. Em relação ao segundo trimestre de 2021, a queda foi de 11,2%.
@@ -50,14 +49,10 @@ Antes da pandemia de covid-19, a intenção de compra estava em 43% e chegou a c
 
 Entre os fatores que podem afetar a decisão de compra, o aumento inflação foi apontado por 45% dos entrevistados, seguido pelo cenário político complicado (31%) e a preocupação com o desemprego (24%). O aumento das taxas de juros, o baixo crescimento econômico do país e a pandemia de covid-19 também foram razões citadas pelas 1,2 mil pessoas entrevistadas.
 
-A pesquisa é co-realizada pelo Serviço Nacional de Aprendizagem Industrial (Senai), em parceria com a Brain Inteligência Estratégica. 
+A pesquisa é co-realizada pelo Serviço Nacional de Aprendizagem Industrial (Senai), em parceria com a Brain Inteligência Estratégica.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

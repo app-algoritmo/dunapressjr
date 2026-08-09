@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Cientistas israelenses afirmam que conseguiram reverter com sucesso o processo de envelhecimento biológico usando apenas oxigênio.
 
 Pesquisa recente conduzida pelo Prof. Shai Efrati da Universidade de Tel Aviv, junto com uma equipe do Shamir Medical Center, descobriu que quando adultos saudáveis com mais de 64 anos eram colocados em uma câmara pressurizada e recebiam oxigênio puro por 90 minutos por dia, cinco dias por semana durante três meses, não apenas o processo de envelhecimento foi atrasado - ele foi, na verdade, revertido.
@@ -32,7 +31,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

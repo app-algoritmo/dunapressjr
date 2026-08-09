@@ -12,7 +12,7 @@ categories:
 
 Luisa Stefani, número 16 do mundo, e sua parceira Demi Schuurs, da Holanda, embalaram de vez e, nesta quinta-feira (15), classificaram-se para a fase semifinal do WTA 1000 de Doha, no Qatar, torneio com premiação de US$ 3,2 milhões (cerca de R$ 16 milhões). Luisa e Schuurs passaram pelas campeãs do Australian Open e dupla cabeça de chave 1 do torneio formada pela taiwanesa Su Hsieh e a belga Elise Mertens por 6/1 6/3.
 
-Hsieh e Mertens haviam batido Luisa e Schuurs pelas quartas de final do Aberto da Austrália em janeiro: "Ótima vitória, muito feliz com a maneira com a qual jogamos e encaramos a partida. Fomos sólidas e fizemos elas jogarem mal. Ótima execução e melhoria das coisas que treinamos e aprendemos com o jogo que havíamos perdido na Austrália. Bom ter uma oportunidade tão rápida de poder jogar de novo contra o mesmo time, pra mim uma das melhores duplas do ano, se não a melhor. Ótima vitória e agora mais um bom jogo contra as tchecas. Já enfrentamos as duas de forma separada. Vamos usar a confiança da vitória de hoje para continuar melhorando e aperfeiçoando", analisou Luisa,  que é patrocinada pelo Banco BRB, pela Fila, Parmalat Whey Fit e que conta com os apoios da Engie CBT, Liga Tênis 10, Bolsa Atleta, Head, JFL Living e Rede Tênis Brasil. 
+Hsieh e Mertens haviam batido Luisa e Schuurs pelas quartas de final do Aberto da Austrália em janeiro: "Ótima vitória, muito feliz com a maneira com a qual jogamos e encaramos a partida. Fomos sólidas e fizemos elas jogarem mal. Ótima execução e melhoria das coisas que treinamos e aprendemos com o jogo que havíamos perdido na Austrália. Bom ter uma oportunidade tão rápida de poder jogar de novo contra o mesmo time, pra mim uma das melhores duplas do ano, se não a melhor. Ótima vitória e agora mais um bom jogo contra as tchecas. Já enfrentamos as duas de forma separada. Vamos usar a confiança da vitória de hoje para continuar melhorando e aperfeiçoando", analisou Luisa,  que é patrocinada pelo Banco BRB, pela Fila, Parmalat Whey Fit e que conta com os apoios da Engie CBT, Liga Tênis 10, Bolsa Atleta, Head, JFL Living e Rede Tênis Brasil.
 
 Nesta sexta-feira (16), abrindo a programação da quadra central, a partir das 9h,  Luisa e Demi encaram a dupla das tchecas Marketa Vondrousova e Marie Bouzkova por vaga na decisão.
 
@@ -25,13 +25,12 @@ Durante a semifinal do Us Open 2021, Luisa sofreu uma grave lesão no joelho, pa
 ***Mais informações:
 ******Instagram: [https://www.instagram.com/luisastefani/
 ](https://click.presskit.com.br/url/99766566a3/6361388b6fc)******Fanpage: [https://www.facebook.com/LuisaStefani.Tennis
-](https://click.presskit.com.br/url/9976664a6f/6361388b6fc)******Marketing/Comercial-Dani Schnaider: +55 19 991072217 - [dani@agenciadeatletas.com.br](https://click.presskit.com.br/url/997667708a/6361388b6fc) 
+](https://click.presskit.com.br/url/9976664a6f/6361388b6fc)******Marketing/Comercial-Dani Schnaider: +55 19 991072217 - [dani@agenciadeatletas.com.br](https://click.presskit.com.br/url/997667708a/6361388b6fc)
 ******Gallas Press-Fabrizio Gallas - +55 21 99023-0660 - [fabrizio@gallaspress.com.br
 ](https://click.presskit.com.br/url/997668589c/6361388b6fc)******Facebook: [https://www.facebook.com/gallaspress
 ](https://click.presskit.com.br/url/9976696da5/6361388b6fc)******Instagram: [https://www.instagram.com/fabriziogallas/](https://click.presskit.com.br/url/9976701c70/6361388b6fc)***
 
-***[
-](https://click.presskit.com.br/url/9976701c70/6361388b6fc)******ZDL
+*********ZDL
 ******Doro Jr. - MTb 13209 - 11 984579723 - [dorojr@zdl.com.br
 ](https://click.presskit.com.br/url/997671ce51/6361388b6fc)******Deborah Mamone - MTb 15148 - [deborah@zdl.com.br
 ](https://click.presskit.com.br/url/997672a7b6/6361388b6fc)******Site: [www.zdl.com.br

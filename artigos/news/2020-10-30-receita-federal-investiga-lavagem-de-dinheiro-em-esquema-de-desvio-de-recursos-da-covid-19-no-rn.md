@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Receita Federal (RFB), a Polícia Federal, a Controladoria Geral da União e o Ministério Público Federal deflagraram hoje (30) a Operação Vale Tudo, com o objetivo de combater organização criminosa suspeita de desvio de recursos públicos destinados prioritariamente ao combate à pandemia de Covid-19.
 
 Com a Operação Vale Tudo os órgãos envolvidos apuram os indícios encontrados durante as investigações de práticas de diversos crimes, tais como: crime eleitoral, **sonegação fiscal**, fraude à licitação, formação de quadrilha e **lavagem de dinheiro**.
@@ -28,5 +27,3 @@ O nome da operação, VALE TUDO, decorre do uso de “vales” para pagamento da
 Fonte: Receita Federal
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

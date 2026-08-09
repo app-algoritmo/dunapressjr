@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ### Panorama da Pequena Indústria foi divulgado nesta segunda-feira pela CNI.
 
 As micro e pequenas empresas brasileiras apresentaram bom desempenho no segundo trimestre de 2022, mas estão preocupadas com a falta ou com o alto custo dos insumos usados como matéria-prima, segundo levantamento divulgado nesta segunda-feira (1º) pela Confederação Nacional da Indústria (CNI).
 
-Segundo o Panorama da Pequena Indústria, há nas empresas de menor porte uma percepção de melhora da situação financeira, na comparação com o mesmo trimestre de anos anteriores. 
+Segundo o Panorama da Pequena Indústria, há nas empresas de menor porte uma percepção de melhora da situação financeira, na comparação com o mesmo trimestre de anos anteriores.
 
 “Os empresários seguem otimistas e as perspectivas para a pequena indústria seguem em patamar positivo”, indica o documento da CNI ao informar que o “desempenho médio do trimestre” em 2022, para a pequena indústria, ficou em 47,4 pontos.
 
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

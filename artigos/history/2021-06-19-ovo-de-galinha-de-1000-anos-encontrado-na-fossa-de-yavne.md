@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 ## Os arqueólogos descobrem um ovo quase totalmente intacto, mas quase vazio, e três bonecos de osso do período islâmico raros na escavação de um assentamento que data do período bizantino.
 
 Arqueólogos descobriram um ovo de galinha de mil anos extremamente raro, quase totalmente intacto, durante escavações recentes na cidade central de Yavne, anunciou a Autoridade de Antiguidades de Israel.
@@ -35,7 +34,3 @@ Fonte: timesofisrael.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

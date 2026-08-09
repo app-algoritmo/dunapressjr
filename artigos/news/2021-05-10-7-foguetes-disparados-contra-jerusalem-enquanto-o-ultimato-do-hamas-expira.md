@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O Knesset, a Cidade Velha, foi evacuado enquanto o Hamas cumpria as ameaças. Sirenes de alerta vermelho também ouvidas no sul.
 
 Sete foguetes foram disparados contra Jerusalém pouco depois das 18h de segunda-feira à noite, bem no momento em que o ultimato emitido pela organização terrorista Hamas expirou. Um dos foguetes foi interceptado pelo sistema Iron Dome.
@@ -39,7 +38,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

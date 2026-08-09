@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Resolução foi publicada na edição de hoje do Diário Oficial.
 
 A Câmara do Comércio Exterior (Camex) reduziu a zero a alíquota do Imposto de Importação (IPI) sobre bens de informática e telecomunicações. A resolução foi publicada na edição de hoje (21) do [Diário Oficial da União](http://www.in.gov.br/en/web/dou/-/resolucao-n-48-de-19-de-maio-de-2020-257818700).
@@ -21,5 +20,3 @@ Fonte: Agência Brasil - Imagem de destaque: Nacho Doce/Reuters/Direitos Reserva
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.
 
 Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

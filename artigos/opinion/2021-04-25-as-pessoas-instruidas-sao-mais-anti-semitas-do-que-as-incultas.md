@@ -7,10 +7,9 @@ categories:
 - Opinion
 ---
 
-
 ***Por Abraham Cooper***.
 
-Por décadas, fomos ensinados a acreditar que o ódio está ligado ao primitivismo - endêmico, pensamos, a operários, escavadores de valas e gente do campo. A tolerância era um subproduto do pensamento mais profundo e refinado e do noblesse oblige. 
+Por décadas, fomos ensinados a acreditar que o ódio está ligado ao primitivismo - endêmico, pensamos, a operários, escavadores de valas e gente do campo. A tolerância era um subproduto do pensamento mais profundo e refinado e do noblesse oblige.
 
 A educação era o caminho mais curto para uma base moral superior.
 
@@ -52,5 +51,3 @@ Fonte: https://www.jpost.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

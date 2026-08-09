@@ -7,7 +7,6 @@ categories:
 - Books
 ---
 
-
 Muito além dos livros exigidos nos vestibulares e no Exame Nacional do Ensino Médio (Enem), algumas obras são fundamentais para adquirir conhecimento que vai ser muito útil durante a vida acadêmica. Por isso, professores do Colégio Positivo selecionaram livros indispensáveis para todas as áreas do conhecimento. São obras que todos deveriam ler antes de entrar na universidade.
 
 - **"O Discurso do Método", de René Descartes (1637)**
@@ -93,7 +92,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

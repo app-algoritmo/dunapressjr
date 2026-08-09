@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Maior expansão foi em São Paulo: 8,4%.
 
 A produção industrial cresceu em nove dos 15 locais pesquisados pelo Instituto Brasileiro de Geografia e Estatística (IBGE), na passagem de fevereiro para março deste ano. A maior alta foi observada em São Paulo (8,4%), segundo a Pesquisa Industrial Mensal (PIM) Regional, divulgada nesta terça-feira (10), no Rio de Janeiro.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

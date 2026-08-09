@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 -Muitas pessoas acreditam sinceramente que todas as vacinas são seguras, as reações adversas são raras e não existem estudos científicos revisados ​​por pares mostrando que as vacinas podem causar danos.
 
 O livro ***Miller Review of Critical Vaccine Studies*** fornece o outro lado da história que não é comumente contada. Ele contém resumos de 400 artigos científicos importantes para ajudar pais e pesquisadores a melhorar sua compreensão das vacinas.
@@ -22,7 +21,7 @@ O livro ***Miller Review of Critical Vaccine Studies*** fornece o outro lado d
 
 *"A Revisão de Miller de Estudos Críticos de Vacinas* é o acúmulo mais abrangente e coerente de pesquisas revisadas por pares sobre questões de vacinas e imunidade natural que eu já encontrei. Uma leitura obrigatória para pais, professores, médicos e outros profissionais de saúde". Dr. Tyson Perez, quiroprático pediátrico
 
-[](https://www.amazon.com.br/Millers-Review-Critical-Vaccine-Studies/dp/188121740X)Clique para comprar
+Clique para comprar
 
 ## Ver também
 

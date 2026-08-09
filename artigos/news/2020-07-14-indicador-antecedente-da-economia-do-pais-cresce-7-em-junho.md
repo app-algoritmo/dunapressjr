@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Segundo a FGV, índice chegou a 107,2 pontos.
 
 O Indicador Antecedente Composto da Economia Brasileira (IACE), divulgado pela Fundação Getulio Vargas (FGV), cresceu 7% em junho deste ano e chegou a 107,2 pontos. O indicador busca antecipar tendências da economia e é composto por sete índices que medem a atividades econômica do país, dos quais sete apresentaram alta no mês.
@@ -20,4 +19,4 @@ Já o Índice Coincidente Composto da Economia Brasileira, que mede as condiçõ
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

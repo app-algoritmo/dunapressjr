@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 -A Ponte 9340 foi inaugurada em 1967 e foi a terceira ponte mais movimentada do estado de Minnesota, transportando 140.000 veículos por dia.
 
 Quarenta anos depois, a ponte desabou durante a hora do rush noturno sem aviso prévio. Treze pessoas morreram. Uma investigação do National Transportation Safety Board determinou que o colapso foi resultado de um erro matemático cometido pelos engenheiros que projetaram a ponte.
@@ -55,5 +54,3 @@ https://dunapress.org/2021/04/17/aos-48-anos-ela-concluiu-matematica-do-fundamen
 https://dunapress.org/2020/01/16/mariana-bigolin-groff-medalha-de-ouro-na-olimpiada-de-matematica-na-europa/
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Segundo o boletim Focus, estimativa passou de 0,36% para 0,28%.
 
 O mercado financeiro diminuiu mais uma vez a previsão para o crescimento da economia brasileira neste ano. As projeções constam do segundo boletim Focus de 2022, que aponta um crescimento do Produto Interno Bruto (PIB) de 0,28%, ante os [**0,36% projetado na primeira**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-01/mercado-financeiro-preve-que-economia-vai-crescer-036-em-2022) semana do ano.
@@ -34,10 +33,6 @@ A expectativa do mercado para a cotação do dólar em 2022 também se manteve i
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

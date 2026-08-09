@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa subiu 0,83% e teve segunda alta seguida.
 
 Num dia de intervenções do Banco Central (BC), o dólar caiu pela primeira vez após cinco altas seguidas, voltando a ficar abaixo de R$ 5,70. Beneficiada pela valorização das *commodities* (bens primários com cotação internacional), a bolsa de valores subiu pelo segundo dia consecutivo.
@@ -20,10 +19,6 @@ No mercado de ações, a bolsa subiu, impulsionada pelas *commodities*. O índic
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

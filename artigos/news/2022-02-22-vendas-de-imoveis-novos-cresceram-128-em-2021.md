@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dados são do estudo Indicadores Imobiliários Nacionais no 4º semestre.
 
 O mercado imobiliário brasileiro registrou saldo positivo no ano passado, apesar de problemas como o aumento dos preços e da inflação. O número de vendas de novos imóveis cresceu 12,8% em comparação com 2020. Os lançamentos de imóveis registraram aumento de 25,9% e a oferta final (imóveis não vendidos) fechou o período com 3,8% de crescimento.
@@ -32,7 +31,7 @@ Segundo Marcos Kahtalian, sócio da Brain Inteligência Estratégica, 62% dos br
 
 ## Casa Verde e Amarela
 
-No programa habitacional do governo Federal, o Casa Verde e Amarela (CVA), as vendas aumentaram 3,4% em 2021 em relação ao ano anterior. Para o presidente da CBIC, o mercado deve ser afetado positivamente pela nova curva de subsídios que entrará em vigor entre março e abril deste ano. A expectativa da é que a melhora nas vendas pode fazer com que os números dos indicadores fiquem próximos aos do ano passado. 
+No programa habitacional do governo Federal, o Casa Verde e Amarela (CVA), as vendas aumentaram 3,4% em 2021 em relação ao ano anterior. Para o presidente da CBIC, o mercado deve ser afetado positivamente pela nova curva de subsídios que entrará em vigor entre março e abril deste ano. A expectativa da é que a melhora nas vendas pode fazer com que os números dos indicadores fiquem próximos aos do ano passado.
 
 De acordo com o Ministério do Desenvolvimento Regional, com o aumento do preço dos insumos de construção, os valores dos imóveis se desenquadraram do programa Casa Verde e Amarela. Foram alteradas, então, a curva de subsídios, que varia com a renda, composição familiar ou localização da família. "O que fizemos foi aumentar o valor desse subsídio para mais famílias, especialmente as que recebem até R$ 2 mil. Isso diminui o risco dos agentes financeiros e melhora a condição de compra das famílias que são foco principal do programa", afirmou, em [**entrevista ao portal do ministério**](https://www.gov.br/mdr/pt-br/noticias/201ce-preciso-atacar-o-deficit-habitacional-em-todos-os-seus-componentes201d-destaca-secretario-nacional-de-habitacao), o secretário nacional de Habitação, Alfredo dos Santos.
 
@@ -58,8 +57,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Taxa acumula registra queda de 3,6 pontos entre janeiro e fevereiro.
 
 O Índice de Confiança do Empresário Industrial (ICEI) caiu pelo segundo mês consecutivo e registrou 59,5 pontos em fevereiro, em uma escala de 0 a 100. O indicador, que mostra a avaliação dos empresários sobre as condições de seus negócios, foi divulgado hoje (10) pela Confederação Nacional da Indústria (CNI) e acumula queda de 3,6 pontos entre janeiro e fevereiro deste ano.
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

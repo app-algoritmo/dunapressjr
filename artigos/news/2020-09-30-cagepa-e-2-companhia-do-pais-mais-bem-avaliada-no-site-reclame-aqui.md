@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Companhia de Água e Esgotos da Paraíba (Cagepa) é a segunda empresa de saneamento do País e primeira do Nordeste mais bem avaliada no site Reclame Aqui. O levantamento utilizou a avaliação dos clientes referentes às companhias de saneamento nos últimos seis meses deste ano. Na categoria, a Paraíba registrou o percentual de 94,2% de respostas às demandas dos consumidores, ficando atrás apenas da Empresa de Saneamento do Mato Grosso do Sul (Sanesul).
 
 Baseado nas avaliações dos consumidores, o Reclame Aqui analisa alguns critérios para a formulação da reputação. São eles: Índice de Resposta (que é a porcentagem de reclamações respondidas, sendo que apenas a primeira resposta é considerada); a Média das Avaliações (média aritmética das notas concedidas pelos reclamantes para avaliar o atendimento recebido); Índice de Solução (porcentagem de reclamações onde os consumidores, ao finalizarem, consideraram que o problema que originou a reclamação foi resolvido; e o Índice de Novos Negócios (porcentagem de consumidores que informaram que voltariam a fazer negócios com a empresa).
@@ -25,5 +24,3 @@ O Reclame Aqui atua como um canal independente de comunicação entre consumidor
 Fonte: paraiba.pb.gov.br – Imagem de destaque: Walla Santos/Click PB
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

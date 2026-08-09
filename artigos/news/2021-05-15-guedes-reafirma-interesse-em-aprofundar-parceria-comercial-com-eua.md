@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro conversou com nova secretária de Comércio norte-americana.
 
 O Brasil mantém o interesse em aprofundar a parceria econômica e comercial com os Estados Unidos, após a mudança de governo, disse nesta sexta-feira (14) o ministro da Economia, Paulo Guedes. Pela manhã, ele conversou com a nova secretária de Comércio norte-americana, Gina Raimondo.
@@ -20,8 +19,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

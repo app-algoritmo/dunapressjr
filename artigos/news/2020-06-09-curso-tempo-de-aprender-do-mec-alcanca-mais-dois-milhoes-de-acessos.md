@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Mais de 3,4 mil municípios já aderiram ao programa do MEC, o que representa quase 62% das cidades brasileiras.
 
 O curso on-line de formação continuada em práticas de alfabetização do Tempo de Aprender do Ministério da Educação (MEC) já registrou mais de dois milhões de acessos. De acordo com a Secretaria de Alfabetização (Sealf), até o momento, 205.115 pessoas já se inscreveram no curso. Mais de 3,4 mil municípios já aderiram ao programa, o que representa quase 62% das cidades brasileiras.
@@ -30,8 +29,6 @@ Para a elaboração das ações, a Sealf organizou intensos debates com acadêmi
 Conheça aqui o programa.
 
 Fonte: gov.br/mec / Imagem em destaque: omunicipio.com.br
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

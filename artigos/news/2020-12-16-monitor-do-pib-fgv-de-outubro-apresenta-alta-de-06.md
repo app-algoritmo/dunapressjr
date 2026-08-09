@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Crescimento reverteu, em parte, queda provocada pela pandemia.
 
 O Monitor do PIB-FGV de outubro registrou alta de 0,6%, na atividade econômica, se comparado ao mês anterior. Já no trimestre móvel, encerrado em outubro, a variação ficou em 6,4%, em relação ao período entre maio e julho.
@@ -48,8 +47,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

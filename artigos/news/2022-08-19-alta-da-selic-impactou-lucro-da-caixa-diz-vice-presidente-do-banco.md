@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Recorde no crédito imobiliário e agrícola compensou redução nos ganhos.
 
 As sucessivas elevações da taxa Selic (juros básicos da economia), atualmente em 13,75% ao ano, foram o principal fator que levou à queda no lucro da Caixa Econômica Federal no segundo semestre, disse nesta quinta-feira (18) o vice-presidente de Finanças e Controladoria do banco, Rafael Morais. Em entrevista exclusiva à **Agência Brasil**, ele disse que os lucros da instituição financeira deverão subir no segundo semestre e que os juros altos não deverão prejudicar o crédito imobiliário, que bateu recorde no segundo trimestre.
@@ -46,8 +45,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

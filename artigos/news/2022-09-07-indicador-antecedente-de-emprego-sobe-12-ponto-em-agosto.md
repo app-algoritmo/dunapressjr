@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Anúncio foi feito pela Fundação Getúlio Vargas.
 
 O Indicador Antecedente de Emprego (IAEmp), calculado pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV Ibre), avançou 1,2 ponto em agosto, passando para 82,3 pontos. É o maior nível desde novembro de 2021, quando ficou em 83 pontos. Em médias móveis trimestrais, o IAEmp cresceu 0,5 ponto chegando a 81,8 pontos. Os números foram divulgados nesta terça-feira (6), no Rio de Janeiro.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

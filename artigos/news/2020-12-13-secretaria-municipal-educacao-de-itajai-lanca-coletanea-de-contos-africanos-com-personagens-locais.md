@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-A Secretaria Municipal de Educação de Itajaí, por meio do Programa da Diversidade Étnico-Racial de Gênero e Combate ao Bullying, lançou nesta segunda-feira (07) uma coletânea de contos africanos com personagens locais. Com 39 páginas, a obra “Contos Africanos Histórias da nossa Itajaí” reúne textos de alunos de 13 unidades municipais. 
+A Secretaria Municipal de Educação de Itajaí, por meio do Programa da Diversidade Étnico-Racial de Gênero e Combate ao Bullying, lançou nesta segunda-feira (07) uma coletânea de contos africanos com personagens locais. Com 39 páginas, a obra “Contos Africanos Histórias da nossa Itajaí” reúne textos de alunos de 13 unidades municipais.
 
 A coletânea traz 17 contos com histórias do povo afrodescendente de Itajaí, suas marcas, origens, ancestralidade, causos e contribuições da sua cultura para o engrandecimento da cidade.
 
@@ -35,7 +34,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

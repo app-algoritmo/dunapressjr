@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Proposta pretende levar água potável a 99% da população.
 
 Está na pauta do plenário do Senado, para ser votado na próxima quarta-feira (22), o Projeto de Lei [(PL) 4.162/19](https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1787462&filename=PL+4162/2019) que trata do novo marco do saneamento. Entre outros pontos, a proposta pretende atrair investimento privado para levar água potável a 99% da população, rede de esgoto a 90% e universalizar o serviço até 2033. Em algumas exceções, o prazo seria até 2040.
@@ -46,4 +45,4 @@ A data não valerá para os municípios que elaboram plano intermunicipal de res
 
 Fonte: Agência Brasil – Imagem de destaque: Arquivo/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

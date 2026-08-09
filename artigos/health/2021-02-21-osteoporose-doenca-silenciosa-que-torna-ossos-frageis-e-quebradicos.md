@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Viver com medo de cair e quebrar um osso a qualquer momento é parte da realidade das pessoas que vivem com a osteoporose. A doença, caracterizada pela diminuição da massa óssea, faz com que os ossos fiquem mais frágeis, aumentando a possibilidade de fraturas.
 
 A osteoporose é a principal causa de fraturas na população acima de 50 anos e afeta especialmente as mulheres na pós-menopausa e idosos. Apesar de ser uma doença muito associada ao envelhecimento, alguns hábitos de vida também podem influenciar na ocorrência da osteoporose, como o sedentarismo, má-alimentação e o consumo de bebidas alcoólicas.
@@ -38,7 +37,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Serão destinados R$ 50 milhões para subvencionar a contratação de apólices de seguro rural em todo o país, R$ 10 milhões para banana, maçã e uva e R$ 40 milhões para soja e milho verão.
 
 O Ministério da Agricultura, Pecuária e Abastecimento (Mapa), publicou nesta segunda-feira (13) a [Resolução 76](http://www.in.gov.br/en/web/dou/-/resolucao-n-76-de-10-de-julho-de-2020-266355259), do Comitê Gestor Interministerial do Seguro Rural, que aprovou a inclusão da cultura da banana no projeto-piloto de subvenção ao prêmio do seguro rural para operações enquadradas no Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf). Além da banana, as culturas de milho 1ª safra, soja, maçã e uva já estavam previstas no âmbito do Programa de Seguro Rural (PSR), no exercício de 2020.
@@ -23,7 +22,7 @@ Neste projeto-piloto, os produtores com operações de crédito rural enquadrado
 
 Para soja e milho verão, no projeto piloto a subvenção é de 55%, e o produtor do Pronaf conta com um seguro de multirrisco (para diversos riscos climáticos), com nível de cobertura mínimo de 70% da produtividade estipulada. Para produtores que não acessam ou não estão enquadrados no Pronaf, a subvenção é de 20% a 30%, dependendo do tipo de seguro e das coberturas.
 
-Para participar do projeto, o produtor rural deverá contratar uma apólice de seguro em uma das 14 seguradoras habilitadas no PSR, ao contratar o crédito rural em sua instituição financeira. Serão disponibilizados recursos de maneira escalonada entre os meses de julho e setembro. 
+Para participar do projeto, o produtor rural deverá contratar uma apólice de seguro em uma das 14 seguradoras habilitadas no PSR, ao contratar o crédito rural em sua instituição financeira. Serão disponibilizados recursos de maneira escalonada entre os meses de julho e setembro.
 
 https://www.youtube.com/embed/sO_I1nRSmXQ **Resumo do projeto-piloto:**
 
@@ -50,15 +49,15 @@ A 2ª Reunião Hemisférica de Ministros e Secretários de Agricultura foi promo
 
 Tereza Cristina disse também que um dos efeitos da atual pandemia deverá ser o aumento das discussões sobre sustentabilidade e sanidade, o que poderá trazer mais rigor quanto a padrões técnicos, sanitários e fitossanitários, além de aumentar as exigências de certificação, rastreabilidade, rotulagem, embalagens dos produtos e requisitos privados.
 
-“Assim, devemos ter muito cuidado com práticas adotadas por alguns países, talvez até bem-intencionadas, mas com amplos efeitos nocivos.  À medida que alguns países abandonam os princípios baseados em ciência na regulação da produção e do comércio de alimentos, não apenas o comércio justo é penalizado, mas também é prejudicado todo o ecossistema de inovação que nos permitiria alimentar mais pessoas com o emprego de menos recursos”, destacou a ministra brasileira. 
+“Assim, devemos ter muito cuidado com práticas adotadas por alguns países, talvez até bem-intencionadas, mas com amplos efeitos nocivos.  À medida que alguns países abandonam os princípios baseados em ciência na regulação da produção e do comércio de alimentos, não apenas o comércio justo é penalizado, mas também é prejudicado todo o ecossistema de inovação que nos permitiria alimentar mais pessoas com o emprego de menos recursos”, destacou a ministra brasileira.
 
-O secretário de Agricultura dos Estados Unidos, Sonny Perdue, manifestou preocupação com medidas impostas por alguns países que restringem importações, como a exigência de testes de Covid nos portos de entrada e “outras medidas que não concordam com a ciência conhecida sobre o assunto”. 
+O secretário de Agricultura dos Estados Unidos, Sonny Perdue, manifestou preocupação com medidas impostas por alguns países que restringem importações, como a exigência de testes de Covid nos portos de entrada e “outras medidas que não concordam com a ciência conhecida sobre o assunto”.
 
-“Estamos preocupados com políticas impostas no mundo inteiro que poderiam ser negativas para o comércio. Todas as medidas devem ser embasadas na ciência, tanto agora quanto após a pandemia. As pessoas não podem contrair Covid-19 a partir das embalagens dos alimentos ou dos próprios alimentos, já que a ciência não indica que isso é possível”, destacou.   
+“Estamos preocupados com políticas impostas no mundo inteiro que poderiam ser negativas para o comércio. Todas as medidas devem ser embasadas na ciência, tanto agora quanto após a pandemia. As pessoas não podem contrair Covid-19 a partir das embalagens dos alimentos ou dos próprios alimentos, já que a ciência não indica que isso é possível”, destacou.
 
-Perdue também destacou as medidas tomadas pelos EUA para garantir o fluxo comercial apesar da pandemia. “Nossos agricultores estão fazendo grandes esforços para manter suas operações e a oferta de alimentos saudáveis. Fomos muito afetados no início da pandemia com o fechamento dos restaurantes, hotéis, foi necessário redirecionar a produção”, disse.   
+Perdue também destacou as medidas tomadas pelos EUA para garantir o fluxo comercial apesar da pandemia. “Nossos agricultores estão fazendo grandes esforços para manter suas operações e a oferta de alimentos saudáveis. Fomos muito afetados no início da pandemia com o fechamento dos restaurantes, hotéis, foi necessário redirecionar a produção”, disse.
 
-A ministra de agricultura do Canadá, Marie Claude Bibeau, disse que o comércio aberto e transparente é chave para manter uma cadeia de abastecimento estável. “Acreditamos que devem ser evitados os constrangimentos desnecessários, bem como aumento de taxas, impostos e outras barreiras. Isso poderia aumentar o preço dos alimentos, causando escassez e desperdício dos alimentos, com consequências muito negativas para os agricultores”, ressaltou. 
+A ministra de agricultura do Canadá, Marie Claude Bibeau, disse que o comércio aberto e transparente é chave para manter uma cadeia de abastecimento estável. “Acreditamos que devem ser evitados os constrangimentos desnecessários, bem como aumento de taxas, impostos e outras barreiras. Isso poderia aumentar o preço dos alimentos, causando escassez e desperdício dos alimentos, com consequências muito negativas para os agricultores”, ressaltou.
 
 **Reunião**
 
@@ -66,7 +65,7 @@ Ao final do encontro, os ministros aprovaram um posicionamento conjunto reafirma
 
 O diretor-geral do IICA, Manuel Otero, parabenizou o Brasil pelo crescimento das exportações, mesmo durante a pandemia. Ele disse que a pandemia aumentou vulnerabilidade de setores de menor renda e pediu a união das Américas para enfrentar a certificação “livre de Covid”, que pode trazer novas barreiras sanitárias.
 
-O objetivo do encontro virtual é manter um diálogo permanente entre os representantes que favoreça o comércio internacional de alimentos e matérias primas agrícolas, a sanidade agropecuária e inocuidade dos alimentos, a continuidade do abastecimento nos mercados nacionais e o apoio necessário através de políticas dirigidas aos pequenos e médios produtores, como motores para a retomada da economia após a pandemia. 
+O objetivo do encontro virtual é manter um diálogo permanente entre os representantes que favoreça o comércio internacional de alimentos e matérias primas agrícolas, a sanidade agropecuária e inocuidade dos alimentos, a continuidade do abastecimento nos mercados nacionais e o apoio necessário através de políticas dirigidas aos pequenos e médios produtores, como motores para a retomada da economia após a pandemia.
 
 Também participaram do encontro os ministros e secretários de Honduras, da Nicarágua, do Equador, do Peru, de São Vicente e Granadinas, da República Dominicana e do Chile.
 
@@ -74,7 +73,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

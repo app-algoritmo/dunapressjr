@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Núcleo do Simples Nacional da Secretaria de Estado da Fazenda (Sefaz) informa que a data limite para que as micro e pequenas empresas paraibanas efetuarem a opção do Simples Nacional/SIMEI será até o dia 29 de janeiro. A solicitação deve ser realizada no Portal do Simples Nacional por meio link [http://www8.receita.fazenda.gov.br/SimplesNacional/](http://www8.receita.fazenda.gov.br/SimplesNacional/) clicando em “Simples Nacional – Serviços”, “Solicitação de Opção pelo Simples Nacional”.
 
  A Sefaz orienta ainda as empresas, que pretendem optar pelo Simples Nacional ou então pelo SIMEI, para que ela façam antes uma consulta prévia por meio do portal da Sefaz-PB [www.sefaz.pb.gov.br](http://www.sefaz.pb.gov.br/)  para saber se há alguma pendência na inscrição estadual e assim evitar indeferimentos no ato da opção do Simples Nacional. O prazo final para a resolução de todas as pendências é até 29 de janeiro de 2021. A partir de 1º de fevereiro de 2021, as empresas não poderão reverter o indeferimento de opção se não tiverem resolvido todas as pendências até o dia 29 de janeiro deste ano.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

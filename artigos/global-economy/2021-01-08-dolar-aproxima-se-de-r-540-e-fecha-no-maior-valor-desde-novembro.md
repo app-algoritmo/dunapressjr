@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa supera os 122 mil pontos e encerra em nível recorde.
 
 Em um dia marcado pela volatilidade, o dólar aproximou-se de R$ 5,40 e atingiu a maior cotação desde o fim de novembro. A bolsa de valores superou os 122 mil pontos e encerrou em nível recorde, influenciada pela expectativa de novos estímulos econômicos nos Estados Unidos.
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

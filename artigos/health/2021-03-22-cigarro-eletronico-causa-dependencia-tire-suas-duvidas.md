@@ -7,10 +7,9 @@ categories:
 - Health
 ---
 
-
 O cigarro eletrônico não é um produto inócuo, tem substâncias cancerígenas e aditivos com sabores, com efeitos tóxicos ainda desconhecidos sobre a saúde, informa o Instituto Nacional de Câncer José Alencar Gomes da Silva (INCA).
 
-Por ser uma novidade e existirem inúmeras formas, gerações, marcas e líquidos, os efeitos de longo prazo na saúde decorrente das inúmeras substâncias presentes no vapor dos Dispositivos Eletrônicos para Fumar (DEF), ou cigarros eletrônicos, ainda não são completamente conhecidos. “O consumo dos cigarros eletrônicos não é recomendado. Qualquer produto derivado do tabaco causa dependência e é prejudicial à saúde”, adverte Andrea Reis, da [Divisão de Controle do Tabagismo](http://www2.inca.gov.br/wps/wcm/connect/acoes_programas/site/home/nobrasil/programa-nacional-controle-tabagismo), do INCA. 
+Por ser uma novidade e existirem inúmeras formas, gerações, marcas e líquidos, os efeitos de longo prazo na saúde decorrente das inúmeras substâncias presentes no vapor dos Dispositivos Eletrônicos para Fumar (DEF), ou cigarros eletrônicos, ainda não são completamente conhecidos. “O consumo dos cigarros eletrônicos não é recomendado. Qualquer produto derivado do tabaco causa dependência e é prejudicial à saúde”, adverte Andrea Reis, da [Divisão de Controle do Tabagismo](http://www2.inca.gov.br/wps/wcm/connect/acoes_programas/site/home/nobrasil/programa-nacional-controle-tabagismo), do INCA.
 
 De acordo com o INCA, a forma como o produto vem sendo divulgado em diferentes países é problemática, pois leva as pessoas a acreditaram que é um produto menos nocivo do que os cigarros convencionais. “As mesmas técnicas de marketing e publicidade usadas no passado com os cigarros tradicionais, passando a imagem de que não há riscos, acabam estimulando o consumo deste produto por crianças e jovens”, alerta Andrea.
 
@@ -22,7 +21,7 @@ O cigarro eletrônico é um dispositivo eletrônico utilizado para fumar, alimen
 
 ### **Cigarro eletrônico é permitido no Brasil?**
 
-Não. Como medida de precaução e proteção à saúde de nossa população, a Agência Nacional de Vigilância Sanitária (Anvisa) proíbe a comercialização, importação e propaganda de quaisquer Dispositivos Eletrônicos para Fumar (DEF).  
+Não. Como medida de precaução e proteção à saúde de nossa população, a Agência Nacional de Vigilância Sanitária (Anvisa) proíbe a comercialização, importação e propaganda de quaisquer Dispositivos Eletrônicos para Fumar (DEF).
 
 ### **Qual é o perigo dos cigarros eletrônicos?**
 
@@ -52,7 +51,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

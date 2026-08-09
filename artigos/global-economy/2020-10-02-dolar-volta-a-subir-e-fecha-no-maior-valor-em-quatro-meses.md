@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa sobe quase 1%, com ajuda de ações da Petrobras.
 
 Em mais um dia de volatilidade no mercado financeiro, o dólar voltou a subir e a fechar no valor mais alto em quatro meses. O dólar comercial encerrou esta quinta-feira (1º) vendido a R$ 5,653, com alta de R$ 0,038 (+0,68%).
@@ -27,5 +26,3 @@ Nesta quinta-feira, por 6 votos a 4, o Supremo Tribunal Federal (STF) deu aval p
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

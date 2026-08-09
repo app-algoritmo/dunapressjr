@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## IIE-Br está, no entanto, 7 pontos acima do nível de fevereiro de 2020.
 
 O Indicador de Incerteza da Economia (IIE-Br) da Fundação Getulio Vargas (FGV) ficou praticamente estável em janeiro ao variar -0,2 ponto, para 122,1 pontos. Apesar de chegar ao quarto mês seguido sem altas, o indicador ainda se encontra 7 pontos acima do nível de fevereiro de 2020 (115,1 pts), último mês antes da chegada da pandemia de covid-19 ao país.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

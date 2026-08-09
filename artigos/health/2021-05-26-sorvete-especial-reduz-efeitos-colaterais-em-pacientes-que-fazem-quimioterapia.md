@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Pesquisadores do Hospital Universitário da Universidade Federal de Santa Catarina (HU-UFSC), vinculado à Rede Ebserh, desenvolveram um sorvete especialmente para pacientes em tratamento oncológico. O produto ajuda a reduzir os efeitos colaterais da quimioterapia em pacientes com câncer e funciona como um complemento alimentar.
 
 O complemento alimentar foi consumido por provadores sem câncer e por pacientes em tratamento de quimioterapia. A pesquisa foi transformada em artigo científico e publicada no Journal of Culinary Science & Technology. "Por ser gelado, ele ajuda a anestesiar a cavidade bucal, que é uma das consequências do tratamento, que são as mucosites, sapinhos, enfim, que tanto dificultam a ingestão alimentar", disse a professora Raquel Salles, do Departamento de Nutrição da UFSC, uma das nutricionistas responsáveis pela pesquisa.
@@ -35,7 +34,3 @@ Fonte: http://www.blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

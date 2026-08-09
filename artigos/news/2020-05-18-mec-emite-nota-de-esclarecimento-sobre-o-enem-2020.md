@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Sobre os diversos movimentos em face de um possível adiamento das datas de aplicação do Exame Nacional do Ensino Médio (Enem) 2020, em suas versões impressa e digital, o Ministério da Educação (MEC) e o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) esclarecem:
 
 Por meio dos Editais 25 e 27, de 30 de março de 2020, foi lançado o Exame Nacional do Ensino Médio (Enem) constando o cronograma com as datas para a solicitação de isenção e a justificativa pela ausência no Enem 2019, de 06 a 17 de abril de 2020, o período das inscrições entre 11 e 22 de maio de 2020, e a aplicação das provas impressas nos dias 1º e 8 de novembro e as provas digitais nos dias 11 e 18 de outubro de 2020.
@@ -27,8 +26,6 @@ O MEC e o Inep entendem que o Enem é uma das políticas públicas de educação
 Assim, o MEC e o INEP reforçam possuir um diálogo sempre aberto junto às mais diversas entidades e à sociedade em geral, destacando que todas as sugestões e críticas apresentadas são importantes para o aprimoramento de suas atividades e que cada uma delas será avaliada e discutida, sempre buscando o que seja melhor para a educação brasileira.
 
 Fonte: portal.mec.gov.br / Imagem em destaque: csg
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Assine o Press clicando no banner acima e contribua para o intercâmbio Brasil-Noruega, bem como notícias de fontes primárias e confiáveis, como também artigos científicos de todas as áreas. Muito conhecimento para sua VIDA!***
 

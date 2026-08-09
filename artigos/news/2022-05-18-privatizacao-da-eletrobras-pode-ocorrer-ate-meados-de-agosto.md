@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Avaliação foi feita pelo presidente da empresa, Rodrigo Limp.
 
 O presidente da Eletrobras, Rodrigo Limp, disse nesta terça-feira (17) que, em um cenário positivo, a conclusão da operação de privatização da empresa poderá ocorrer até meados de agosto.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Saúde iniciou, nesta segunda-feira (18), a distribuição da vacina contra a Covid-19. No Centro de Logística da pasta, em Guarulhos, o ministro da Saúde, Eduardo Pazuello, se reuniu com governadores e disse que a distribuição será feita de maneira proporcional a cada região brasileira.
 
 O ministro afirmou que a vacinação pode começar ainda nesta segunda-feira (18). "A gente distribui tudo hoje (18), e a vacinação começa hoje ao final do dia", reforçou.
@@ -30,7 +29,7 @@ Segundo a Anvisa, a Fiocruz e o Instituto Butantan devem dar continuidade aos es
 
 ### Região Norte
 
-**Acre** 
+**Acre**
 
 - Pessoas com 60 anos ou mais institucionalizadas: 244
 - População indígena vivendo em terras indígenas: 12.815
@@ -91,7 +90,7 @@ Segundo a Anvisa, a Fiocruz e o Instituto Butantan devem dar continuidade aos es
 - Trabalhadores de saúde: 32.594
 **- Total: 41.796**
 
-**Bahia** 
+**Bahia**
 
 - Pessoas com mais de 60 anos institucionalizadas: 9.788
 - Pessoas com deficiência institucionalizadas: 285
@@ -191,7 +190,7 @@ Segundo a Anvisa, a Fiocruz e o Instituto Butantan devem dar continuidade aos es
 
 ### Região Sudeste
 
-**Espírito Santo** 
+**Espírito Santo**
 
 - Pessoas com mais de 60 anos institucionalizadas: 2.970
 - Pessoas com deficiência institucionalizadas: 210
@@ -259,7 +258,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

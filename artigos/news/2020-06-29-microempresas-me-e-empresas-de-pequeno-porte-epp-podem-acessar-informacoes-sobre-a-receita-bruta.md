@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Através das informações as empresas podem pleitearem acesso ao Pronampe.
 
 A Receita Federal concluiu o envio de comunicado às Microempresas (ME) e Empresas de Pequeno Porte (EPP), com a informação do valor da receita bruta, com base nas declarações desses contribuintes ao fisco, para viabilizar a análise à linha de crédito do Pronampe, junto às instituições financeiras.
@@ -16,7 +15,7 @@ A Receita Federal concluiu o envio de comunicado às Microempresas (ME) e Empres
 Foram encaminhados, inicialmente, comunicados via Domicílio Tributário Eletrônico do Simples Nacional (DTE-SN) para 3,8 milhões de ME e EPP optantes pelo Simples Nacional.
 
 Numa segunda etapa, foi enviado via Caixa postal localizada no e-CAC comunicado para 780 mil ME e EPP não incluídas no Simples Nacional.
-Somente receberam os comunicados as ME e as EPP que declararam, respectivamente, suas receitas nas respectivas declarações. 
+Somente receberam os comunicados as ME e as EPP que declararam, respectivamente, suas receitas nas respectivas declarações.
 
 Caso exista divergência na informação da receita bruta ou não tenha ocorrido a entrega da respectiva declaração, a retificação ou inclusão da informação de receita bruta deverá ser realizada por meio da respectiva declaração.
 
@@ -28,4 +27,4 @@ A Receita Federal está trabalhando para facilitar a adesão das Micro e Pequena
 
 Fonte: Receita Federal – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

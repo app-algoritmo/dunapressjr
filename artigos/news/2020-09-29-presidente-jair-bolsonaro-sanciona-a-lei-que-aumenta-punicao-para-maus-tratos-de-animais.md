@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A legislação abrange animais silvestres, domésticos ou domesticados, nativos ou exóticos e prevê pena de reclusão de dois a cinco anos para prática de abuso e maus tratos. A prática de abuso e maus tratos a animais será punida com pena de reclusão de dois a cinco anos, além de multa e a proibição de guarda.
 
 Com o objetivo de frear os maus-tratos contra animais, o Presidente Jair Bolsonaro sancionou nesta terça-feira (29) a Lei 1.095/2019, que aumenta a punição para quem praticar ato de abuso, maus-tratos, ferir ou mutilar animais. A legislação abrange animais silvestres, domésticos ou domesticados, nativos ou exóticos, incluindo, aí, cães e gatos, que acabam sendo os animais domésticos mais comuns e as principais vítimas desse tipo de crime. A nova lei cria um item específico para esses animais.
@@ -36,5 +35,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

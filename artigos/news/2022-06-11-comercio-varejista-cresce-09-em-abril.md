@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### É a quarta alta consecutiva do indicador.
 
 O volume de vendas do comércio varejista do país cresceu 0,9% de março para abril deste ano. Segundo dados da Pesquisa Mensal do Comércio (PMC), divulgados nesta sexta-feira (10) pelo Instituto Brasileiro de Geografia e Estatística (IBGE), esta é a quarta alta consecutiva do indicador.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

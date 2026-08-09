@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A televisão (TV) é um veículo de comunicação utilizado para o entretenimento e para a educação e representa a fonte de informação sobre o mundo mais acessada pela maioria das pessoas, sendo capaz de transmitir aos mais diversos lugares e culturas dados sobre como as pessoas se comportam, o que vestem, o que pensam, como aparentam ser e o que comem.
 
  Nota-se significativo aumento do tempo gasto com o hábito de assistir à TV. No Brasil, adolescentes passam cerca de cinco horas por dia diante da TV. Sabe-se que uma exposição de apenas 30 segundos a comerciais de alimentos é capaz de influenciar a escolha de crianças por determinados produtos, o que mostra que o papel da TV no estabelecimento de hábitos alimentares deve ser investigado.
@@ -58,7 +57,7 @@ Além disso, ocorreu estagnação ou redução do consumo de leguminosas, verdur
 
  Maus hábitos alimentares, especialmente aqueles que acarretam a obesidade infantil, produzem problemas de saúde imediatos e também em longo prazo, visto que cerca de 60% de crianças obesas já sofrerem de hipertensão, hiperlipidemia (excesso de gordura) e/ou hiperinsulinemia (excesso de insulina, o que pode levar à diabetes).
 
- Assistir à TV é um comportamento sedentário comum em indivíduos de todas as idades, tendo-se demonstrado associações significativamente positivas entre o número de horas dependidas diante da TV e o peso de indivíduos. 
+ Assistir à TV é um comportamento sedentário comum em indivíduos de todas as idades, tendo-se demonstrado associações significativamente positivas entre o número de horas dependidas diante da TV e o peso de indivíduos.
 
 Assim, um comportamento sedentário de assistir à TV, aliado aos dados da análise qualitativa dos alimentos anunciados, indica uma situação preocupante no campo da saúde pública.
 
@@ -95,7 +94,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

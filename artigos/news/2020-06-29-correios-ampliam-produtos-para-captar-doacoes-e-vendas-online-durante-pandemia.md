@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 Uma nova solução dos Correios, para clientes que captam doações de recursos por meio de Mala Direta, está à disposição em tempos de pandemia. O serviço de [Entrega Digital](https://saladeimprensa.correios.com.br/noticias/2020/04/15/novas-solucoes-ampliam-a-comunicacao-digital-dos-clientes/) foi ampliado para que instituições religiosas, ONGs e hospitais, por exemplo, possam mobilizar a captação de recursos financeiros ou materiais, que auxiliam na manutenção dos projetos sociais que realizam esses entes.
 
-Normalmente, essas instituições captam recursos com o envio de correspondências e peças físicas que explicam suas atividades, detalhando sua contribuição para a sociedade. Juntamente com esse material, são enviados boletos para doação de recursos, com o objetivo de manter esses trabalhos. 
+Normalmente, essas instituições captam recursos com o envio de correspondências e peças físicas que explicam suas atividades, detalhando sua contribuição para a sociedade. Juntamente com esse material, são enviados boletos para doação de recursos, com o objetivo de manter esses trabalhos.
 
-Com o Entrega Digital, o captador e o seu doador terão acesso ao “espelho” do boleto enviado, por meio da plataforma digital Minhas Mensagens, no [aplicativo Correios.](https://bit.ly/AppCorreios2) Assim,  clientes que realizam compras no exterior também podem obter informações sobre importações. A funcionalidade permite vincular o CPF à encomenda internacional, antes de sua chegada no Brasil, mediante cadastro no IdCorreios.
+Com o Entrega Digital, o captador e o seu doador terão acesso ao “espelho” do boleto enviado, por meio da plataforma digital Minhas Mensagens, no aplicativo Correios. Assim,  clientes que realizam compras no exterior também podem obter informações sobre importações. A funcionalidade permite vincular o CPF à encomenda internacional, antes de sua chegada no Brasil, mediante cadastro no IdCorreios.
 
-### Serviços online 
+### Serviços online
 
 No contexto da pandemia, muitos comerciantes começaram a recorrer às vendas on-line para manter suas atividades. Atenta a essa tendência, a estatal lançou o [programa AproxiME](http://www2.correios.com.br/hotsites/aproxime/), que oferece um conjunto de soluções para empreendedores que buscam fortalecer e desenvolver seus negócios online.
 
@@ -32,4 +31,4 @@ Fonte gov.br
 
 ** Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.**
 
-** **[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+** **[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

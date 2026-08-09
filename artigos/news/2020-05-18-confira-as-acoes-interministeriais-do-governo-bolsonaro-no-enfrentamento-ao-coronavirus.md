@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Balanço da atuação no CCOP e dos atendimentos diretos a Estados e Municípios durante a crise e também algumas MPs e PLs articulados ou vitórias aí na intermediação de recursos e equipamentos.
 
 • Mais de R$ 5 bilhões de recursos financeiros já distribuídos pelo Fundo Nacional da Saúde para Estados e Municípios.
@@ -69,7 +68,7 @@ Nesse sentido, destacam-se as seguintes iniciativas:
 
 - Atendimentos aos indígenas da Finpat e Mupoiba;
 
-- Ações voltadas para desintrusão da Terra Indígena Apyterewa; 
+- Ações voltadas para desintrusão da Terra Indígena Apyterewa;
 
 - Garimpeiros Serra Pelada - Seleção das entidades representativas para participação em reunião devolutiva;
 
@@ -77,13 +76,13 @@ Nesse sentido, destacam-se as seguintes iniciativas:
 
 - Interlocução com Bancada Federal do Mato Grosso sobre processos de regularização fundiária de propriedades rurais.
 
-Destaca-se também o apoio na construção do projeto de inclusão digital e socioprodutiva de comunidades e povos tradicionais. O projeto será submetido ao Fundo Socioambiental da Caixa Econômica Federal. O projeto terá 3 frentes: inclusão digital, capacitação das comunidades e auxílio à agricultura familiar. 
+Destaca-se também o apoio na construção do projeto de inclusão digital e socioprodutiva de comunidades e povos tradicionais. O projeto será submetido ao Fundo Socioambiental da Caixa Econômica Federal. O projeto terá 3 frentes: inclusão digital, capacitação das comunidades e auxílio à agricultura familiar.
 
-Foram apuradas 49 comunidades a serem beneficiadas. 
+Foram apuradas 49 comunidades a serem beneficiadas.
 
-No que tange ao apoio ao Centro de Coordenação de Operações do Comitê de Crise para Supervisão e Monitoramento dos Impactos da Covid-19 (CCOP), a Seas apresentou ferramentas de gestão de ações ao enfrentamento da COVID-19 desenvolvidas por empresas da Coalizão do Pacto Global, braço do Programa das Nações Unidas para o Desenvolvimento (Pnud). 
+No que tange ao apoio ao Centro de Coordenação de Operações do Comitê de Crise para Supervisão e Monitoramento dos Impactos da Covid-19 (CCOP), a Seas apresentou ferramentas de gestão de ações ao enfrentamento da COVID-19 desenvolvidas por empresas da Coalizão do Pacto Global, braço do Programa das Nações Unidas para o Desenvolvimento (Pnud).
 
-Os órgãos que compõem o CCOP estão avaliando as possibilidades de utilização das ferramentas. 
+Os órgãos que compõem o CCOP estão avaliando as possibilidades de utilização das ferramentas.
 
 A atuação da Seas no Centro de Coordenação de Operações do Comitê de Crise para Supervisão e Monitoramento dos Impactos da Covid-19 (CCOP), permitiu a articulação com o Ministério da Mulher, Família e Direitos Humanos em ações junto aos Povos e Comunidades Tradicionais no âmbito do Plano de Contingência às Populações Vulneráveis, abastecimento de alimentos para populações indígenas junto à Funai, MMFDH, Ministério da Cidadania e Conab e a estruturação de projeto voltado para inclusão digital e inclusão socioprodutiva para PCT no âmbito do Plano de Contingência para atendimento a 49 comunidades, 29.843 famílias em sete Estados da Federação com aplicação de recursos na ordem de R$ 15 milhões.
 
@@ -91,15 +90,15 @@ A atuação da Seas no Centro de Coordenação de Operações do Comitê de Cris
 
 Projeto de Lei n° 1066, de 2020 - Auxílio emergencial, Coronavoucher
 
-Social - Desenvolvimento social e combate à fome. 
+Social - Desenvolvimento social e combate à fome.
 
 Altera a Lei nº 8.742, de 7 de dezembro de 1993, para dispor sobre parâmetros adicionais de caracterização da situação de vulnerabilidade social, para fins de elegibilidade ao Benefício de Prestação Continuada (BPC), e estabelece medidas excepcionais de proteção social a serem adotadas durante o período de enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus.
 
-Emenda Constitucional Nº 106 (Orçamento de guerra - 
+Emenda Constitucional Nº 106 (Orçamento de guerra -
 
 Institui regime extraordinário fiscal, financeiro e de contratações para enfrentamento de calamidade pública nacional decorrente de pandemia.
 
-### Atuação da Secom no CCOP 
+### Atuação da Secom no CCOP
 
 O Comitê de Crise para Supervisão e Monitoramento dos Impactos da Covid-19 foi instituído no dia 16 de março com o objetivo de articular e monitorar as ações interministeriais de enfrentamento ao Coronavírus (Covid-19).
 
@@ -215,7 +214,7 @@ Empenhados até 11 de maio, R$1.482.822.058 (72%).
 
 2) Emendas Individuais COVID - 19 - Remanejamento
 
-Remanejamento de emendas ainda em processo. Órgãos devem encerrar os créditos no SIOP na quarta (13). Ainda haverá prazo para análise da SOF e processo para organização da medida provisória. 
+Remanejamento de emendas ainda em processo. Órgãos devem encerrar os créditos no SIOP na quarta (13). Ainda haverá prazo para análise da SOF e processo para organização da medida provisória.
 
 3) Emendas Individuais Saúde - Execução 2020
 
@@ -234,5 +233,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

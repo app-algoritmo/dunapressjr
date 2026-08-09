@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministério da Cidadania firmou acordo com a estatal para chegar à população ainda mais vulnerável, sem acesso a meios digitais, que não conseguiu solicitar o benefício.
 
 O Ministério da Cidadania e os Correios firmaram uma parceria para atender à população mais vulnerável, sem acesso a meios digitais, que ainda não conseguiu solicitar o Auxílio Emergencial. As mais de seis mil agências da empresa, presente em todos os municípios do país, já estão habilitadas a fazer o cadastramento de quem precisa do benefício. A expectativa é realizar até 27 milhões de atendimentos.
@@ -47,5 +46,3 @@ Existem ainda reforço nos procedimentos de limpeza e cuidados extras de higiene
 **Sexta-feira**: nascidos em outubro, novembro e dezembro.
 
 Fonte: Gov BR
-
-[](https://dunapress.org/subscription-plan/?aff=Thami)

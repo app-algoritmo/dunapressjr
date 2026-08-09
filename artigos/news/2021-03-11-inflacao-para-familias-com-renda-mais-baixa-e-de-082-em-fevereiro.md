@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## INPC acumula 1,09% no ano e 6,22% em 12 meses.
 
 O Índice Nacional de Preços ao Consumidor (INPC), que mede a variação da cesta de compras de famílias com renda de até cinco salários mínimos, registrou inflação de 0,82% no país em fevereiro, percentual maior que o de janeiro (0,27%). É, também, a maior taxa para o mês de fevereiro desde 2016 (0,95%).
@@ -24,8 +23,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

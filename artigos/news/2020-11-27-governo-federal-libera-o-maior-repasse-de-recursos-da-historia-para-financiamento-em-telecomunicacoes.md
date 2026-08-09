@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Ministério das Comunicações comemorou os 20 anos do Fundo para o Desenvolvimento Tecnológico das Telecomunicações (Funttel) com um aumento de 390% em relação à média anual entre 2001 e 2018. O montante de R$ 409 milhões representa o maior repasse de recursos desde a criação do fundo. Os investimentos permitirão o desenvolvimento e a ampliação da utilização de tecnologias de Internet das Coisas em sistemas agrícolas, de transporte, saúde, segurança e soluções para a internet 5G.
 
 O financiamento dos projetos em telecomunicações contará com a parceria do Banco Nacional de Desenvolvimento Econômico e Social (BNDES) e da Financiadora de Estudos e Projetos (Finep). Com o recurso, pequenas e médias empresas terão acesso a créditos para a aquisição de soluções tecnológicas para melhoria dos negócios.
@@ -45,7 +44,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

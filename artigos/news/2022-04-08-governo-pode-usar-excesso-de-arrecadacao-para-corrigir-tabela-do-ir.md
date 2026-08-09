@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Paulo Guedes também promete nova redução em tarifas de importação.
 
 Pelo menos uma parte do excesso de arrecadação decorrente da recuperação da economia poderá ser usado para corrigir da tabela do Imposto de Renda Pessoa Física, disse nesta quinta-feira (7) o ministro da Economia, Paulo Guedes. Em evento promovido pelo banco Bradesco, ele também prometeu uma nova redução do Imposto de Importação.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

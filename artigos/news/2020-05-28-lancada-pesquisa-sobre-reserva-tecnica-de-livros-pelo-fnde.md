@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## **Objetivo é receber opinião das secretarias de educação e escolas sobre entrega dos exemplares.**
 O Fundo Nacional de Desenvolvimento da Educação (FNDE) lançou uma pesquisa para receber informações das redes de ensino sobre o acesso à reserva técnica de livros didáticos. As secretarias de educação e as escolas têm até sexta-feira, 29 de maio, para responder aos questionários, disponíveis no portal eletrônico do FNDE.
 
@@ -22,8 +21,6 @@ No questionário, os gestores poderão informar se desejam que a entrega da rese
 **Entrega em dia –** Todos os 172.571.931 exemplares do PNLD 2020 foram entregues a 123.342 escolas antes do início das aulas.
 
 Fonte: portalmec.gov.br / Imagem em destaque: senado.leg.br
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

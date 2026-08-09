@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Queda nas indústrias de veículos automotores chegou a 59,5%
 
 O percentual de indústrias de transformação que paralisaram suas atividades em abril chegou a 14,4%. O aumento é de 10,2 pontos percentuais em relação a março deste ano e de 11,5 pontos percentuais em relação à média dos meses de abril.
@@ -27,8 +26,6 @@ Fonte: Agência Brasil
 Ajude-nos a levar o jornalismo independente a todas as partes!
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
-Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor. 
+Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
 Assine o Press Periódico
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

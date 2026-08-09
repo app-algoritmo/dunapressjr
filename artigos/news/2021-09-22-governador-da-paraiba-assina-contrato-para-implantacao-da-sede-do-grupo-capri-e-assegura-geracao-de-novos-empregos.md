@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## A nova unidade da Paraíba atenderá os estados de Maranhão, Piauí, Ceará, Rio Grande do Norte, Pernambuco, Alagoas, Sergipe e a própria Paraíba.
 
 O governador João Azevêdo assinou, nesta terça-feira (21), em João Pessoa, o contrato para implantação de uma unidade do Grupo Capri Logística no município de Conde. Com sua matriz localizada em Serra, no Espírito Santo, e filiais nos estados de São Paulo e Santa Catarina, o grupo atua no ramo de importação e distribuição de peças e acessórios para motos e pretende investir, na Paraíba, cerca de R$ 31 milhões, gerar 90 empregos diretos e 110 indiretos, com uma previsão de faturamento de R$ 290 milhões.
@@ -21,7 +20,7 @@ Na ocasião, o governador ressaltou a potencialidade da Paraíba para atração 
 
 Ele também destacou que a capacidade de investimento tem permitido a geração de saldo positivo de empregos. “Apesar do período difícil que enfrentamos com a pandemia, demos andamento às obras e ações que impulsionam o crescimento da Paraíba e geram novas oportunidades para o nosso povo e eu desejo ao Grupo Capri muito sucesso e boas vindas na nossa terra”, comentou.
 
-O diretor presidente da Companhia de Desenvolvimento da Paraíba (Cinep), Rômulo Polari Filho, evidenciou que o ambiente propício para negócios, a solidez fiscal e a qualificação profissional têm assegurado novos investimentos no estado. “A Paraíba se consolida no cenário nacional como um estado extremamente competitivo no que diz respeito à logística quando tratamos do mercado consumidor do Norte e Nordeste e várias empresas sediadas no Sul e Sudeste estão identificando a Paraíba como um lugar estratégico”, observou. 
+O diretor presidente da Companhia de Desenvolvimento da Paraíba (Cinep), Rômulo Polari Filho, evidenciou que o ambiente propício para negócios, a solidez fiscal e a qualificação profissional têm assegurado novos investimentos no estado. “A Paraíba se consolida no cenário nacional como um estado extremamente competitivo no que diz respeito à logística quando tratamos do mercado consumidor do Norte e Nordeste e várias empresas sediadas no Sul e Sudeste estão identificando a Paraíba como um lugar estratégico”, observou.
 
 “O Grupo Capri Logística tem em seu portfólio as empresas Motociclo, especializada na comercialização de motopeças, e a Isapa, especializada na comercialização de autopeças e peças para bicicletas. O Grupo acredita fortemente que a sua presença na Paraíba elevará consideravelmente a qualidade do atendimento e dos serviços prestados aos clientes do Nordeste, reduzindo o tempo de entrega para os clientes desta região. Temos certeza de que a Paraíba nos proporcionará uma vantagem logística em relação aos nossos concorrentes”, comentou Isacco Douek, acionista majoritário do Grupo Motociclo.
 
@@ -33,10 +32,6 @@ O secretário de Estado da Fazenda, Marialvo Laureano, e a gerente tributária d
 
 Fonte: paraiba.pb.gov.br
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

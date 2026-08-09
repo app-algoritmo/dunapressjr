@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 O macaquinho não desgruda da mãe ou é a mãe que não desgruda do macaquinho? Sempre juntos, as macacas Rhesus e seus filhotes que moram no Macacário do Instituto Butantan esbanjam apego e proteção, naquele famoso grude que vemos entre mãe e bebê, e que nos impede de dar uma resposta objetiva para esta pergunta.
 
 Os abraços intermináveis entre eles também são por comodidade: bem próximos das tetas, os filhotes famintos aproveitam para mamar quase o tempo todo e para se aquecerem junto ao ventre, o que melhora a saúde e o vínculo entre os primatas. Neste Dia das Mães, descobrimos o que faz o vínculo entre macacas e filhotes tão curioso. Veja algumas destas características.
@@ -63,7 +62,3 @@ Fonte: https://butantan.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

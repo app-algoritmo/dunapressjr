@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Pesquisadores do IDC Herzliya e da Bar-Ilan University desenvolvem uma nova ferramenta de software para ajudar a tornar a modificação genética mais precisa.
 
 A tecnologia CRISPR permite aos pesquisadores editar genomas, alterando as sequências de DNA e, assim, modificando a função do gene. Suas muitas aplicações potenciais incluem a correção de defeitos genéticos, o tratamento e a prevenção da propagação de doenças e a melhoria das safras.
@@ -57,7 +56,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

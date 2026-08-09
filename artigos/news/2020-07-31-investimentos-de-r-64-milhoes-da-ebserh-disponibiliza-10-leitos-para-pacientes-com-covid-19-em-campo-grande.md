@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Diante do agravamento dos casos de coronavírus foi necessária a ampliação de leitos.
 
 Foi inaugurado nesta segunda-feira, 27, o segundo Centro de Tratamento Intensivo (CTI II) da Ala Covid no Hospital Universitário Maria Aparecida Pedrossian, da Universidade Federal de Mato Grosso do Sul e vinculado à Rede Ebserh (Humap-UFMS/Ebseh). São 10 leitos de terapia intensiva destinados ao atendimento dos pacientes com coronavírus. A iniciativa visa desafogar a atual demanda do Hospital Regional de MS, unidade hospitalar de referência da doença no estado.
@@ -35,7 +34,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 Voltando um pouco na história, lá na época dos nossos ancestrais, é possível perceber como a evolução da humanidade é marcada pelo domínio das técnicas e habilidades culinárias. Com o surgimento do fogo, por exemplo, as preparações se tornaram mais versáteis e ainda ganharam resultados mais saborosos.
 
 Mas ainda investigando o passado, é possível perceber que cozinhar vai muito além da sobrevivência. É uma expressão cultural e uma herança familiar, que geralmente aprendemos dentro de casa e passamos de geração em geração. Ou pelo menos foi assim por algum tempo, já que esse hábito tão rico tem se perdido.
@@ -54,7 +53,7 @@ Se for possível, envolver mais pessoas no preparo também ajuda. Afinal, cozinh
 
 Além de tornar a relação com os alimentos mais pacífica, cozinhar ensina as crianças a consumir os mesmos alimentos que o restante da família. E não precisa esperar que elas estejam super desenvolvidas para ajudar. Outras lições podem ser aprendidas mesmo com pouca idade ou habilidade:
 
-- As primeiras noções de matemática podem surgir na cozinha, como aprender sobre as quantidades e o conceito de cheio, vazio, metade, inteiro. 
+- As primeiras noções de matemática podem surgir na cozinha, como aprender sobre as quantidades e o conceito de cheio, vazio, metade, inteiro.
 
 - A partir dos cheiros, gostos e texturas, as crianças estimulam seus sentidos.
 
@@ -74,7 +73,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

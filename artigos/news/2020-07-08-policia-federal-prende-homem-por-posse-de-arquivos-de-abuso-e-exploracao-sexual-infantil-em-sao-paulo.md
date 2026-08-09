@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 **Campinas/SP** – A Polícia Federal prendeu, na manhã desta terça-feira, 7, na cidade de Várzea Paulista, SP, um homem que mantinha arquivos diversos com cenas de violência sexual contra crianças. As investigações tiveram início após informações oriundas dos órgãos centrais da Polícia Federal e da polícia americana.
 
 O investigado, tentando se ocultar para obter e compartilhar impunemente as imagens ilícitas, utilizava apenas conexões de *lan houses*, espaços e bibliotecas públicas, o que levou a uma perseguição virtual por três anos pela Polícia Federal que, por cruzamento de dados, conseguiu identificá-lo.
@@ -23,4 +22,4 @@ Agora, todo o material apreendido será encaminhado para a realização de exame
 
 Comunicação Social da Polícia Federal em Campinas
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

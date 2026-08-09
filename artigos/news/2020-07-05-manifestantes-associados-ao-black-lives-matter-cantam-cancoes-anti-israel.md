@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 Os manifestantes ligaram o movimento Black Lives Matter à causa palestina durante um protesto pró-palestino em Washington na quarta-feira. Eles cantaram: "Israel, nós conhecemos você, você mata crianças também. "
 
 O protesto foi apresentado por seus organizadores, um grupo de estudantes conhecido como "Harvard Fora da Palestina Ocupada", como um evento de apoio ao Dia da Raiva da Autoridade Palestina e outros grupos para protestar contra O plano anunciado por Israel de anexar 30% da Cisjordânia após 1º de julho.
 
 Nicolas Rowan, autor do *The Washington Examiner* , postou um vídeo da manifestação no Twitter.
 
-Os slogans alternavam entre “Black Lives Matter! "E" vidas palestinas importam! "[](https://twitter.com/NicXTempore/status/1278457182657413120)
+Os slogans alternavam entre “Black Lives Matter! "E" vidas palestinas importam! "
 
 https://twitter.com/NicXTempore/status/1278457182657413120
 
@@ -34,4 +33,4 @@ Fonte The Time Of Israel
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

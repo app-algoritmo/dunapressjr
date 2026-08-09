@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### PIB fechará ano em 2,65%, segundo Boletim Focus.
 
 Pela décima segunda semana consecutiva o mercado financeiro reduziu a previsão para a inflação em 2022. Há uma semana, as projeções eram de que o Índice Nacional de Preços ao Consumidor Amplo (IPCA) fecharia o ano em 6,4%. Segundo o boletim Focus divulgado nesta segunda-feira (19), esse percentual caiu para 6% segundo. Há quatro semanas, a previsão estava em 6,82%.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Com o fim do mês de outubro e a chegada do mês de novembro, a incidência dos principais cânceres que atingem homens e mulheres, o de próstata e o de mama, ganha ainda mais foco por conta das campanhas de conscientização e prevenção da doença. Apesar desse destaque, é importante lembrar que prevenção se faz todos os dias e que o cuidado à saúde deve nos acompanhar durante todos os meses do ano.
 
 Segundo o médico oncologista Eric Rulli, do Hospital Universitário Maria Aparecida Pedrossian, vinculado à rede da Empresa Brasileira de Serviços Hospitalares (EBSERH), os tumores são células que crescem de maneira desordenada, acelerada e sem as características padrões. São chamados de câncer aqueles que são malignos, tendo como diferença em relação aos benignos a capacidade de se espalhar para outras partes do corpo.
@@ -54,7 +53,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

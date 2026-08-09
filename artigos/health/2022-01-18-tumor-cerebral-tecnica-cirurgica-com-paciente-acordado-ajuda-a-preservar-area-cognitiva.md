@@ -8,8 +8,7 @@ categories:
 - Health
 ---
 
-
-“Sempre fui fã de Grey's Anatomy, mas nunca imaginei passar por uma cirurgia acordada. Foi muita adrenalina”. Com bom humor, Camila Rodrigues, 25 anos, relata sua experiência para retirada de um tumor no cérebro, comparando o seu caso com a série norte-americana. O procedimento realizado no Hospital Marcelino Champagnat, em Curitiba (PR), foi o segundo ao qual foi submetida a auxiliar administrativa que diz lembrar apenas de “alguns flashes” do que se passava no centro cirúrgico. 
+“Sempre fui fã de Grey's Anatomy, mas nunca imaginei passar por uma cirurgia acordada. Foi muita adrenalina”. Com bom humor, Camila Rodrigues, 25 anos, relata sua experiência para retirada de um tumor no cérebro, comparando o seu caso com a série norte-americana. O procedimento realizado no Hospital Marcelino Champagnat, em Curitiba (PR), foi o segundo ao qual foi submetida a auxiliar administrativa que diz lembrar apenas de “alguns flashes” do que se passava no centro cirúrgico.
 
 Camila descobriu o tumor no cérebro após uma convulsão, em 2017. Assustada, procurou vários especialistas até descobrir que o tratamento indicado era cirúrgico. “Quando fiquei sabendo que medicação não ajudava no meu caso, foi bem difícil. Passei então pelo procedimento tradicional, e precisei de quatro meses para voltar a falar normalmente. Este ano, durante consulta de acompanhamento, descobri que precisaria de nova cirurgia e foi assustador. Não queria aceitar, mas resolvi encará-la com otimismo para que o tumor não piorasse ainda mais”, conta.
 
@@ -32,7 +31,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

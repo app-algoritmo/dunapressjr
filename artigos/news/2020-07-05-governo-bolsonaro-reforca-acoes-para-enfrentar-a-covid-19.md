@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Governo Federal assumiu o compromisso com a população brasileira para garantir a efetividade de ações de enfrentamento da Covid-19 desde o início da pandemia. Foi instituído o Comitê de Operações de Emergência (COE), que produz, de forma integrada entre as secretarias do Ministério da Saúde e a gestão tripartite, uma série de orientações e protocolos que obedecem a critérios técnicos e embasam a gestão da pasta na tomada de decisões estratégicas.
 
 O Ministério da Saúde já publicou diretrizes com orientações e recomendações relacionadas à prevenção, controle e redução da transmissão da Covid-19. O Brasil, por ser um país continental, não deve ter medidas únicas. As ações devem ser tomadas de acordo com as necessidades de cada região, levando em conta parâmetros como quantidade de leitos ocupados, quantidade de casos e óbitos, quantidade de profissionais, insumos e Equipamentos de Proteção Individual (EPIs), além de avaliar a dinâmica socioeconômica e cultura de cada localidade. O entendimento do Supremo Tribunal Federal (STF), é de que estados e municípios têm autonomia para tomar as decisões que julgarem melhor para as suas respectivas populações.
@@ -32,6 +31,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

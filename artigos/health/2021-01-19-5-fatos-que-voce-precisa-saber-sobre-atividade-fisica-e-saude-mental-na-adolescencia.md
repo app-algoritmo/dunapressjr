@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Não é novidade que a atividade física é uma grande aliada da nossa saúde física e mental. E, sem dúvida alguma, esse é um fato que vale para qualquer faixa etária. Mas quando falamos do aspecto psicológico, no período da adolescência as emoções estão ainda mais à flor da pele.
 
 Levando em consideração as vantagens psicossociais de uma vida ativa para a diminuição do estresse, dos sintomas da ansiedade, da depressão, da Tensão Pré-Menstrual (TPM), a melhora do humor, o aumento da autoestima e da sensação de bem-estar, os jovens têm ainda mais motivos para acreditar que manter o corpo em movimento contribui para a melhoria da saúde.
@@ -16,7 +15,7 @@ Para falar um pouco sobre a importância da atividade física e entender todos o
 
 ## **1 – Um impulso no desenvolvimento**
 
-O nosso corpo foi feito para ficar em movimento, e isso não foi definido pela natureza à toa! Segundo Rodrigo Antunes, é importante destacar que ser ativo fisicamente durante a adolescência melhora o desenvolvimento cognitivo e o desempenho escolar. Além disso, contribui para um melhor desenvolvimento ósseo, muscular e para o controle do peso corporal, diminuindo os riscos de desenvolver obesidade e outras doenças crônicas. 
+O nosso corpo foi feito para ficar em movimento, e isso não foi definido pela natureza à toa! Segundo Rodrigo Antunes, é importante destacar que ser ativo fisicamente durante a adolescência melhora o desenvolvimento cognitivo e o desempenho escolar. Além disso, contribui para um melhor desenvolvimento ósseo, muscular e para o controle do peso corporal, diminuindo os riscos de desenvolver obesidade e outras doenças crônicas.
 
 ## **2 – Plantando agora para colher depois**
 
@@ -24,7 +23,7 @@ Durante as fases iniciais da nossa vida, estamos em um período de constante mud
 
 ## **3 – Descobrindo a identidade por meio da atividade física**
 
-As transformações não param e é justamente na adolescência que começamos a entender melhor quem somos. Diante dessas múltiplas sensações e dessa busca pelo entendimento da própria identidade, Rodrigo lembra que praticar atividade física pode ajudar bastante o adolescente a se conhecer e a lidar com todas as mudanças que ocorrem com o corpo nesse período. 
+As transformações não param e é justamente na adolescência que começamos a entender melhor quem somos. Diante dessas múltiplas sensações e dessa busca pelo entendimento da própria identidade, Rodrigo lembra que praticar atividade física pode ajudar bastante o adolescente a se conhecer e a lidar com todas as mudanças que ocorrem com o corpo nesse período.
 
 ## **4 – Uma oportunidade excelente para fazer amigos**
 
@@ -58,7 +57,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

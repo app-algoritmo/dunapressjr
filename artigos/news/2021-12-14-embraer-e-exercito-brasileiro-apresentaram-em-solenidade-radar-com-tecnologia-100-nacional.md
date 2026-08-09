@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Um dia histórico para o desenvolvimento das tecnologias de defesa do Brasil. Na tarde da última sexta-feira, 10 de dezembro, o Exército Brasileiro e a Empresa Brasileira de Aeronáutica S/A (Embraer) apresentaram, em solenidade realizada na Unidade Embraer de Campinas, o radar Saber M200 Vigilante, tecnologia 100% nacional que eleva a capacidade brasileira de defesa antiaérea.
 
 Com alcance de 200 km, o Saber M200 Vigilante é um radar de vigilância de médio alcance desenvolvido pelo Centro Tecnológico do Exército (CTEx) para atender às necessidades do Projeto Estratégico do Exército “Defesa Antiaérea”. O radar poderá ser empregado na vigilância e no alerta antecipado em Baterias e Grupos de Artilharia Antiaérea ou, ainda, em atividades de controle de tráfego aéreo ou de vigilância de fronteira. Concebida e desenvolvida no Brasil em parceria com a Embraer, a tecnologia é propriedade intelectual do Exército Brasileiro.
@@ -32,7 +31,3 @@ Créditos: https://www.eb.mil.br/web
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

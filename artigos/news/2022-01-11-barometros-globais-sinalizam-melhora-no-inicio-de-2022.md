@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índices foram divulgados nesta segunda-feira (10) pelo Ibra/FGV.
 
 Após caírem na maior parte do segundo semestre de 2021, os Barômetros Econômicos Globais, indicadores que permitem analisar o desenvolvimento econômico mundial, sobem pelo segundo mês consecutivo, informou nesta segunda-feira (10) o Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV). O Barômetro Coincidente se mantém acima da média histórica, enquanto o Barômetro Antecedente retorna à faixa neutra dos 100 pontos.
@@ -40,10 +39,6 @@ Houve alta em dois dos cinco indicadores antecedentes setoriais em janeiro: Ind�
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

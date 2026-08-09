@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Waldery Rodrigues pede que Congresso vote LDO de 2021.
 
 A venda de reservas internacionais para reduzir o endividamento público está no cardápio do governo, mas a decisão cabe ao Banco Central (BC), disse nesta sexta-feira (20) o secretário especial de Fazenda do Ministério da Economia, Waldery Rodrigues. Em entrevista à imprensa, ele lembrou que o procedimento foi executado no ano passado e poderá ser repetido em 2021, caso haja intenção.
@@ -35,5 +34,3 @@ Sobre um possível auxílio da União para o Amapá, afetado por um apagão elé
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

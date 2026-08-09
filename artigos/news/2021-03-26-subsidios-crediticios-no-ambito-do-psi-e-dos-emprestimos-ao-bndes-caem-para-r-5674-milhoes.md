@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Redução no primeiro bimestre deste ano ocorreu pela queda no custo médio das emissões em oferta pública da Dívida Pública Mobiliária Federal interna.
 
 Os subsídios creditícios do Tesouro Nacional no âmbito do Programa de Sustentação do Investimento (PSI) e dos empréstimos ao Banco Nacional de Desenvolvimento Econômico e Social (BNDES) passaram de R$ 742,4 milhões no primeiro bimestre de 2020 para R$ 567,4 milhões no mesmo período de 2021, em valores correntes.
@@ -21,10 +20,6 @@ O Boletim do Tesouro também faz uma projeção dos subsídios, que vão até 20
 
 Fonte: Ministério da Economia
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. 
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
-
-Obrigado pelo apoio!  
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

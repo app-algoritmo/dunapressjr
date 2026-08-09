@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 *Por Jair Messias Bolsonaro*.
 
 "O histórico do meu governo prova que sempre estivemos ao lado da democracia e da Constituição brasileira. Não houve, até agora, nenhuma medida que demonstre qualquer tipo de apreço nosso ao autoritarismo, muito pelo contrário.
@@ -40,6 +39,6 @@ Fonte Fan page Jair Messias Bolsonaro
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

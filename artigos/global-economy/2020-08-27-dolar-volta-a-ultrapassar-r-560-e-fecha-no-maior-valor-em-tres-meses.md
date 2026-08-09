@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Mercado reagiu a adiamento de medidas econômicas.
 
 Num dia de tensões no mercado financeiro, a bolsa caiu e o dólar voltou a ultrapassar os R$ 5,60, fechando no maior nível em três meses. O dólar comercial encerrou esta quarta-feira (26) vendido a R$ 5,612, com alta de R$ 0,084 (+1,52%). A cotação está no valor mais alto desde 20 de maio, quando tinha fechado em R$ 5,69.
@@ -27,5 +26,3 @@ O desempenho do mercado brasileiro contrastou com o exterior. Nos Estados Unidos
 Fonte: Agência Brasil – Imagem de destaque: Arquivo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

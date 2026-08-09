@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Vamos deixar o sedentarismo de lado e colher os bons frutos que a prática regular de atividade física proporciona ao nosso corpo e mente. E não adianta pensar naquela velha desculpa de que é difícil começar, não tem tempo ou que é complicado dar continuidade aos exercícios físicos. Aderir à prática de atividades físicas, por ao menos três vezes por semana, só depende de nós.
 
 Fazer atividade física já é um fator de proteção contra diversas doenças. Movimente-se. “Temos uma tendência de poupar energia. Só que hoje tudo é feito para dar conforto e não precisarmos realizar nada. E, por isso, estamos fadados a adoecer”, alerta o educador físico da Maternidade Escola Januário Cicco, da Universidade Federal do Rio Grande do Norte, da Rede Ebserh, Sávio Camargo.
@@ -56,7 +55,3 @@ Fonte: blog.saude.gov.br
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa caiu para menor nível desde junho em dia de turbulências.
 
 Num dia marcado por temores em relação à economia global, a moeda norte-americana superou a barreira de R$ 5,50 e fechou no maior nível em quase um mês. O dólar comercial encerrou esta quarta-feira (23) vendido a R$ 5,588, com alta de R$ 0,119 (+2,18%). A bolsa de valores fechou no menor nível em três meses.
@@ -23,5 +22,3 @@ A bolsa foi influenciada pelo mercado internacional. Em Wall Street, o índice S
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Nazanin Tabatabee/West Asia News Agency
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

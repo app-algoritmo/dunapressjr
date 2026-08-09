@@ -8,12 +8,11 @@ categories:
 - Food
 ---
 
-
 ## Método que surgiu da necessidade de conservar a carne na Antiguidade continua sendo utilizado nos dias de hoje por seu sabor diferenciado.
 
 Apesar de ser uma técnica milenar, que remonta à época do domínio do fogo pelos homens pré-históricos, a defumação de embutidos segue sendo muito utilizada na indústria e adorada pelos consumidores. Por se tratar de um processo que realça o sabor e contribui para a longa conservação de alimentos de proteína animal, a defumação foi modernizada e passou a ser uma atividade automatizada dentro da cadeia produtiva do setor alimentício.
 
-Porém, mesmo sendo uma tarefa realizada por máquinas e estufas de última geração, algumas empresas ainda prezam pelo processo artesanal, que mantém a qualidade dos produtos e valoriza a experiência do consumidor. 
+Porém, mesmo sendo uma tarefa realizada por máquinas e estufas de última geração, algumas empresas ainda prezam pelo processo artesanal, que mantém a qualidade dos produtos e valoriza a experiência do consumidor.
 
 **Processo**
 
@@ -32,7 +31,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Sistema de autorregulação já puniu quase 900 estabelecimentos.
 
 Em março deste ano, 21 novas medidas administrativas a empresas por irregularidades na oferta de crédito consignado foram aplicadas por meio da Autorregulação para o Consignado. No mesmo mês, 11 correspondentes bancários foram advertidos, nove tiveram atividades suspensas temporariamente e um ficou impedido de atuar definitivamente em nome dos bancos. As informações foram divulgas nesta segunda-feira (16) pela Federação Brasileira de Bancos (Febraban).
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Solicitação deve ser feita no portal do programa.
 
 Termina no dia 31 de janeiro o prazo para que microempresas e empresas de pequeno porte solicitem a inclusão no regime de tributação do Simples Nacional. O Simples tem regras tributárias simplificadas para empresas que se classificam abaixo de uma determinada faixa de faturamento anual. O resultado da inclusão será divulgado em 15 de fevereiro.
@@ -30,10 +29,6 @@ Para empresas já em atividade, a Receita informou que vai realizar processament
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

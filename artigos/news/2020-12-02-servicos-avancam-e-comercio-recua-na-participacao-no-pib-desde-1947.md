@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dados são de estudo da CNC, que comemora 75 anos.
 
 A participação das atividades de serviços no Produto Interno Bruto (PIB) do Brasil passou de 55,7% em 1947 para 74% neste ano. O comércio, porém, não teve o mesmo desempenho, saindo de 16,3% para 13,7%. Os dados fazem parte de um estudo da Divisão Econômica da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) sobre o desempenho dessas atividades desde a criação da entidade, em 1945. O estudo, divulgado hoje (2) para comemorar os 75 anos da entidade, aponta mudança significativa na inserção do setor terciário na economia brasileira.
@@ -41,7 +40,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
 
 Obrigado pelo apoio!

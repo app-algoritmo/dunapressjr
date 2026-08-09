@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Segundo Campos Neto, guerra na Ucrânia pressiona índices de preços.
 
 O Banco Central (BC) está pronto para aumentar os juros mais do que o previsto caso a inflação seja maior ou mais persistente que o esperado, disse o presidente do órgão, Roberto Campos Neto. Em viagem aos Estados Unidos, ele repetiu que o Comitê de Política Monetária (Copom) deve elevar a taxa Selic (juros básicos da economia) para 12,75% ao ano na próxima reunião, em maio, mas deu a entender que ajustes adicionais podem ocorrer.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

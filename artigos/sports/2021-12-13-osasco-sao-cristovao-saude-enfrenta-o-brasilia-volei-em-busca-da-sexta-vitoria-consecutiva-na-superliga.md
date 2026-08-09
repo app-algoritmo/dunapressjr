@@ -8,7 +8,6 @@ categories:
 - Sports
 ---
 
-
 O Osasco São Cristóvão Saúde está na capital federal para enfrentar o Brasília Vôlei nesta terça-feira (14), no ginásio do Sesi Taguatinga, em partida válida pela nona rodada da temporada 2021/22 na Superliga Banco do Brasil. Terceira colocada na competição, a equipe comandada pelo técnico Luizomar vai em busca da sexta vitória consecutiva no primeiro turno da fase de classificação. O Canal Vôlei Brasil transmite o jogo.
 
 Com sete vitórias em oito rodadas, o Osasco São Cristóvão Saúde soma 19 pontos na classificação geral da Superliga. Enquanto as osasquense ocupam a parte de cima da tabela, o Brasília aparece na nona colocação, com nove pontos e uma campanha composta por três vitórias e seis derrotas (o time do Distrito Federal disputou um jogo a mais).
@@ -44,7 +43,3 @@ Fonte: **Release enviado por zdl**
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

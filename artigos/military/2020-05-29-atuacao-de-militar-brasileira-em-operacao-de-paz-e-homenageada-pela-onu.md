@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 Nesta sexta-feira (29), comemora-se o Dia Internacional dos Peacekeepers das Nações Unidas, um justo tributo àqueles que dedicaram parte de suas vidas em prol da paz mundial. Neste ano, em virtude da pandemia do novo coronavírus, não será realizada a tradicional cerimônia que homenageia, de maneira marcante, esses verdadeiros heróis anônimos, conhecidos como “boinas azuis”.
 
 Mas isso não esvazia ou diminui o significado especial dessa data. Em todo o mundo, homens e mulheres que serviram ou que continuam a servir em Missões de Manutenção de Paz da ONU são lembrados com muito respeito e orgulho, pelo trabalho voluntário, corajoso, altruísta e solidário em terras distantes.
@@ -46,5 +45,3 @@ A esses valorosos homens e mulheres, de ontem e de hoje, é que, neste dia 29 de
 
 **Assessoria de Comunicação Social (Ascom)
 Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

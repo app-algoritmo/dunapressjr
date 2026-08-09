@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Assembleia de cotistas do Fundo de Garantia de Operações (FGO) alterou regulamento do Pronampe para flexibilizar o prazo de carência das operações do programa.
 
 Os bancos poderão estender o prazo de carência das operações do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe) de oito para 11 meses. A mudança no texto do regulamento foi aprovada pela Assembleia de Cotistas do Fundo de Garantia de Operações (FGO), realizada na segunda-feira (8/3) por sugestão da Secretaria Especial de Produtividade, Emprego e Competitividade do Ministério da Economia (Sepec/ME). A ata da reunião será publicada ainda nesta terça-feira (9/3) e, na sequência, ocorrerá o envio de comunicado oficial aos bancos.
@@ -22,7 +21,7 @@ Isso significa que as micro e pequenas empresas usaram os recursos obtidos na re
 
 Originalmente, o Pronampe permitiu que o empreendedor tomasse até 30% do seu faturamento anual em empréstimos com as seguintes condições: prazo de pagamento de 36 meses, carência de até oito meses e taxa de juros de, no máximo, Selic + 1,25%.
 
-As instituições financeiras que aderiram ao Programa puderam requerer a garantia do Fundo Garantidor de Operação (FGO), regido pela Lei nº 12.087/2009, em até 100% do valor da operação. 
+As instituições financeiras que aderiram ao Programa puderam requerer a garantia do Fundo Garantidor de Operação (FGO), regido pela Lei nº 12.087/2009, em até 100% do valor da operação.
 
 Fonte: Ministério da Economia
 
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Dia Mundial do Meio Ambiente, celebrado no domingo (05), será marcado por ações nas unidades de ensino da Rede Municipal ao longo desta semana. Escolas, centros de educação infantil e centros de educação em tempo integral desenvolveram projetos e também participam de visitas técnicas, ao Porto de Itajaí e a uma exposição sobre o combate ao lixo no mar.
 
 Na tarde de quinta-feira (02), alunos do Centro de Educação em Tempo Integral (CEDIN) Verde Vale, do bairro Fazenda, visitaram a exposição “Mar Adentro: Pelo Combate ao Lixo no Mar”, no Centro de Educação Ambiental (CEA), na Praia do Atalaia. A exposição, realizada pelo Instituto Itajaí Sustentável (INIS) em parceria com laboratórios da Univali e o Programa de Monitoramento de Praias (PMP), retrata por meio de imagens, objetos e resíduos sólidos a importância da preservação dos mares.
@@ -53,7 +52,3 @@ Fonte: https://itajai.sc.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

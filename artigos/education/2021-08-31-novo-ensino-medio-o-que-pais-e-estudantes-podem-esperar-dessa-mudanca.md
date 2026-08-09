@@ -7,10 +7,9 @@ categories:
 - Education
 ---
 
-
 ## Itinerários Formativos são grande desafio para escolas e vão dar a estudantes a chance de aprofundar conteúdos que fazem mais sentido para a trajetória do aluno.
 
-A flexibilidade curricular proposta com as mudanças do Ensino Médio prevê que as escolas passem a oferecer para os alunos novos caminhos que poderão ser trilhados com mais liberdade e com base no que o próprio estudante entende que faz sentido para a sua trajetória. Esses caminhos são os Itinerários Formativos, uma das grandes novidades dessa reforma, com uma oferta maior de opções em relação ao currículo escolar que o estudante terá ao longo dos três anos finais da Educação Básica.  
+A flexibilidade curricular proposta com as mudanças do Ensino Médio prevê que as escolas passem a oferecer para os alunos novos caminhos que poderão ser trilhados com mais liberdade e com base no que o próprio estudante entende que faz sentido para a sua trajetória. Esses caminhos são os Itinerários Formativos, uma das grandes novidades dessa reforma, com uma oferta maior de opções em relação ao currículo escolar que o estudante terá ao longo dos três anos finais da Educação Básica.
 
 O Novo Ensino Médio traz uma grade curricular dividida em Formação Geral Básica (FGB) e Itinerários Formativos (IFs). Na Formação Geral Básica, os componentes curriculares estão organizados pelas áreas do conhecimento. Essa é a parte fixa do currículo que contempla as habilidades e competências previstas na Base Nacional Comum Curricular (BNCC) e compõe 60% da carga horária, com um máximo de 1.800 horas. Já os Itinerários Formativos são o conjunto de temáticas que poderão ser oferecidas aos estudantes por meio de projetos, oficinas e núcleos de estudo e que vão aprofundar e ampliar os conteúdos da Formação Geral Básica. Eles são compostos de unidades curriculares obrigatórias e eletivas e compõem 40% da carga horária, com mínimo de 1.200 horas. São cinco Itinerários Formativos possíveis: Linguagens e suas Tecnologias, Matemática e suas Tecnologias, Ciências da Natureza e suas Tecnologias, Ciências Humanas e Sociais Aplicadas e Formação Técnica e Profissional. Apesar da liberdade para a elaboração dos currículos dos itinerários, todos devem ser estruturados a partir de quatro eixos estruturantes: Investigação Científica, Mediação e Intervenção Sociocultural, Processos Criativos e Empreendedorismo. As escolas não são obrigadas a oferecer todos os percursos, nem disponibilizar a escolha de aprofundamento logo no primeiro ano.
 
@@ -39,7 +38,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

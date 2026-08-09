@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## “A permissão de dedução de despesas veterinárias na declaração do imposto sobre a renda de pessoas físicas irá estimular a adoção de animais abandonados".
 
 Mais um parlamentar está propondo dedução de gastos veterinários com animais de estimação do Imposto de Renda de Pessoa Física (IRPF).
@@ -30,7 +29,7 @@ Outros projetos de lei que também defendem a dedução são os PLs 3407/2019, d
 
 Já o deputado Capitão Alberto Neto diz o seguinte: “Trata-se de uma medida justa e necessária para melhorar a qualidade de vida dos animais domésticos e reduzir os danos à saúde pública, a propagação de zoonoses e a superpopulação de animais de rua em situação de abandono.”
 
-Créditos: [David Arioch](https://vegazeta.com.br/author/vegazeta_wp/)[ ](http://davidarioch.com/)[http://davidarioch.com](http://davidarioch.com/)Jornalista e especialista em jornalismo cultural, histórico e literário (MTB: 10612/PR).
+Créditos: [David Arioch](https://vegazeta.com.br/author/vegazeta_wp/)[http://davidarioch.com](http://davidarioch.com/)Jornalista e especialista em jornalismo cultural, histórico e literário (MTB: 10612/PR).
 
 Fonte: https://vegazeta.com.br/category/noticias/
 
@@ -43,7 +42,3 @@ Fonte: https://vegazeta.com.br/category/noticias/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

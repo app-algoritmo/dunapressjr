@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro criticou demora na aprovação de reformas.
 
 O fim do auxílio emergencial ajudará no controle da inflação, disse nesta sexta-feira (11) o ministro da Economia, Paulo Guedes. Em audiência pública virtual no Congresso Nacional, o ministro também citou a aprovação do projeto de lei que concede autonomia ao Banco Central (BC) como fator que reduzirá as pressões sobre os índices de preços.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

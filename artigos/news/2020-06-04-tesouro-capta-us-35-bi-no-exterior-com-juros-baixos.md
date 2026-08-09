@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Taxa para papéis de dez anos ficou próxima a nível pré-pandemia.
 
 O Tesouro Nacional captou US$ 3 bilhões de investidores internacionais com as menores taxas de juros em sete anos. O dinheiro veio da emissão, feita nesta quarta-feira (3), de US$ 1,25 bilhão em títulos da dívida externa com vencimento em junho de 2025 e de US$ 2,25 bilhões em títulos da dívida externa com vencimento em junho de 2030.
@@ -43,5 +42,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

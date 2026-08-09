@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Acordo firmado entre o Ministério do Desenvolvimento Regional e a ONG Climate Bond Initiative vai promover o uso de títulos verdes para financiamento de projetos que promovam o desenvolvimento regional. Títulos verdes captam recursos para implementar ou financiar projetos que promovam a sustentabilidade e benefícios ao meio ambiente.
 
 O Ministério do Desenvolvimento Regional (MDR) assinou, nesta terça-feira (1º), um memorando de entendimento com a ONG inglesa *Climate Bond Initiative* (CBI) para qualificar projetos seguindo critérios de sustentabilidade e atrair investidores, tanto na fase de leilões quanto na captação de recursos, com a possibilidade de emissão de títulos verdes para financiamento das ações.
@@ -33,5 +32,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

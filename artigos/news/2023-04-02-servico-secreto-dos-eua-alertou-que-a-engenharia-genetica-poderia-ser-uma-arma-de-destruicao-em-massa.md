@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 ## CRISPR (repetições pandêmicas curtas regularmente interespaçadas agrupadas) é uma família de sequências de DNA, ou material genético, que pode ser removido ou alterado no genoma para tratar doenças como câncer e vírus com uma estrutura de DNA semelhante. 
 
-Isso é comumente conhecido como "edição de genes". [No ano passado, um estudo da Universidade de Tel Aviv (TAU) em Israel](https://www.tau.ac.il/) descobriu que o CRISPR pode causar [danos](https://www.trialsitenews.com/a/tel-aviv-study-says-gene-editing-may-cause-permanent-damage-2592298f) permanentes[](https://www.trialsitenews.com/a/tel-aviv-study-says-gene-editing-may-cause-permanent-damage-2592298f). O estudo da TAU descobriu que a edição do gene CRISPR pode danificar o genoma e potencialmente causar câncer, embora possa ser uma ferramenta eficaz para tratar doenças. O procedimento nem sempre é seguro e, às vezes, o rearranjo de pedaços de DNA compromete a estabilidade do genoma, levando potencialmente ao câncer. No entanto, um ex-funcionário sênior da inteligência dos EUA acredita que o CRISPR também pode ser usado como uma arma de destruição em massa.
+Isso é comumente conhecido como "edição de genes". [No ano passado, um estudo da Universidade de Tel Aviv (TAU) em Israel](https://www.tau.ac.il/) descobriu que o CRISPR pode causar [danos](https://www.trialsitenews.com/a/tel-aviv-study-says-gene-editing-may-cause-permanent-damage-2592298f) permanentes. O estudo da TAU descobriu que a edição do gene CRISPR pode danificar o genoma e potencialmente causar câncer, embora possa ser uma ferramenta eficaz para tratar doenças. O procedimento nem sempre é seguro e, às vezes, o rearranjo de pedaços de DNA compromete a estabilidade do genoma, levando potencialmente ao câncer. No entanto, um ex-funcionário sênior da inteligência dos EUA acredita que o CRISPR também pode ser usado como uma arma de destruição em massa.
 
 **Países com diferentes padrões legais ou éticos**
 

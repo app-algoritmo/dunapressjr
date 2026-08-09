@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Decisão foi tomada pelo Codefat.
 
 Por recomendação da Controladoria-Geral da União, os trabalhadores que deveriam receber o abono salarial de 2020 a partir do segundo semestre só terão acesso ao dinheiro em 2022. O Conselho Deliberativo do Fundo de Amparo ao Trabalhador (Codefat) aprovou resolução que muda o calendário de pagamento do Programa de Integração Social (PIS) e do Programa de Formação do Patrimônio do Servidor Público (Pasep).
@@ -24,10 +23,6 @@ O pagamento do abono salarial ano-base 2019 começou em julho de 2020 e terminou
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.   
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
-Obrigado pelo apoio!  
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

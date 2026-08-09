@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 A missão do Ministério da Defesa teve início bem antes dos 21 anos que, nesta quarta-feira (10), a Pasta completa. Na verdade, acompanha a trajetória de criação das Forças Armadas, começando pela fundação da Marinha e do Exército, em 1822, e no século passado, em 1941, da Força Aérea Brasileira. À frente das Forças de Defesa desde 1999, a Pasta herdou a necessidade de manter a atuação integrada dos militares, destacou o Ministro da Defesa, Fernando Azevedo. Ele falou durante breve cerimônia da Ordem do Mérito da Defesa, na sede da Pasta.
 
 Pelo segundo ano, Azevedo comemora o aniversário do Ministério à sua frente e reforça a importância da Instituição em sua missão. “Como militar, sou testemunha da integração, da evolução da interoperabilidade das Forças”, ressaltou. Diferente de anos anteriores, a comemoração foi restrita às dependências do prédio e com número reduzido de pessoas e marcada apenas pela entrega da medalha.
@@ -24,5 +23,3 @@ Há mais de dois anos atuando como segurança do Ministro da Defesa, o 1º Sarge
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

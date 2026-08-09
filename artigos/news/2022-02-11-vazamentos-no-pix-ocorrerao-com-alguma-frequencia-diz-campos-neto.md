@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dados vazados são pouco sensíveis, diz presidente do Banco Central.
 
 Os vazamentos de dados do Pix, sistema instantâneo de pagamentos do Banco Central (BC), ocorrerão com alguma frequência, afirmou nesta sexta-feira (11) o presidente do órgão, Roberto Campos Neto. Segundo ele, os casos registrados até agora são leves, e a autoridade monetária está atuando para que as ocorrências sejam as mínimas possíveis.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

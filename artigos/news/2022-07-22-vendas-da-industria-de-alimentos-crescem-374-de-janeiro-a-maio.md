@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Produção física de alimentos cresceu 0,87% nos últimos 12 meses.
 
 As vendas reais da indústria de alimentos cresceram 3,74% de janeiro a maio e caíram 1,11% na comparação com maio de 2021. A produção física de alimentos cresceu 0,87% nos últimos 12 meses e caiu 1,17% em maio na comparação com o mesmo período do ano anterior.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

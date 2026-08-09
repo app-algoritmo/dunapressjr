@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Balcão de Empregos do Município de Itajaí disponibilizou 875 vagas para esta semana. As oportunidades são para variadas áreas em diversos bairros da cidade. Dentre as vagas disponíveis é possível encontrar desde Recepcionista até Pizzaiolo.
 
 Os serviços presenciais do Balcão de Empregos foram retomados, no Centro de Serviços Integrados (CSI). As vagas também estão disponíveis pelo aplicativo Conecta.í e no site empregos.itajai.sc.gov.br. Após a consulta, o usuário pode enviar um e-mail ao Balcão para solicitar o encaminhamento à vaga. Os atendimentos presenciais e os encaminhamentos acontecem segunda à sexta, das 13h às 19h, na rua Antônio Caetano, 105, bairro Fazenda. São respeitadas as regras do protocolo sanitário.
@@ -41,7 +40,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

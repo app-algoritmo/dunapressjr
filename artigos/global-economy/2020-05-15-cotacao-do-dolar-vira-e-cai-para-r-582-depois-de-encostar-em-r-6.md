@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Intervenção do BC e mercado externo reverteram alta
 
 Depois de subir e encostar em R$ 6, a cotação do dólar reverteu a tendência de alta e fechou com a primeira queda da semana. O dólar comercial encerrou esta quinta-feira (14) vendido a R$ 5,82, com recuo de R$ 0,081 (-1,37%). A queda decorreu tanto da atuação do Banco Central (BC) como do alívio nos mercados externos.
@@ -41,8 +40,6 @@ Fonte: Agência Brasil
 Ajude-nos a levar o jornalismo independente a todas as partes!
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
-Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor. 
+Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
 Assine o Press Periódico
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

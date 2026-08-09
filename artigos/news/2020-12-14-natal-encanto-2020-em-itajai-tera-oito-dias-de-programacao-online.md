@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em tempos de pandemia, um dos grandes eventos do Município de Itajaí, o Natal EnCanto, neste ano será adaptado para acontecer online. Durante oito dias, transmissões pelas redes sociais da Prefeitura de Itajaí e em painéis de led trarão apresentações do Grande Coro, imagens das projeções mapeadas da Igreja Matriz e mensagens natalinas. Um caminhão com banda de música e Papai Noel também vai percorrer diversos bairros da cidade.
 
 A iniciativa da Fundação Cultural tem por objetivo levar o encanto do Natal para os lares das famílias itajaienses – principalmente neste período que encerra um ano cheio de desafios, como as medidas de isolamento social diante do combate ao coronavírus (COVID-19). O espetáculo será transmitido entre os dias 15 e 22 de dezembro, sempre às 20h30, nas plataformas do Facebook, Instagram e YouTube da Prefeitura de Itajaí.
@@ -45,7 +44,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

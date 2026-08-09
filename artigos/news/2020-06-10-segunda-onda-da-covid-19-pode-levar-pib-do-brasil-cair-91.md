@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Para a OCDE, a recuperação da economia será lenta e parcial.
 
 A economia brasileira deve apresentar queda de 7,4% neste ano, segundo previsão da Organização para a Cooperação e Desenvolvimento Econômico (OCDE). Essa retração pode ser ainda maior, se houver uma segunda onda de contaminação pelo novo coronavírus (covid-19), chegando a 9,1% de queda do Produto Interno Bruto (PIB, soma de todos os bens e serviços produzidos no país).
@@ -27,5 +26,3 @@ Fonte: Agência Brasil – Imagem de destaque: REUTERS/Washington Alves/Direitos
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

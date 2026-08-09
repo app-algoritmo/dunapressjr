@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Corrente de comércio até a segunda semana foi de US$ 16,80 bilhões, com US$ 9,57 bilhões em exportações e US$ 7,23 bilhões em importações; no ano, saldo chega a US$ 46,22 bilhões.
 
 O superávit da balança comercial brasileira subiu 86,3% em setembro, até a segunda semana do mês, atingindo US$ 2,34 bilhões. A corrente de comércio no período aumentou 32,6% e alcançou US$ 16,80 bilhões, refletindo os aumentos de 37,4% das exportações, que atingiram US$ 9,57 bilhões, e de 26,7% das importações, que totalizaram US$ 7,23 bilhões. Os dados divulgados nesta segunda-feira (12/9) pela Secretaria de Comércio Exterior (Secex) do Ministério da Economia apontam as variações pela média diária, em relação ao mês de setembro do ano passado.
@@ -38,8 +37,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Na quarta-feira (3) foi  celebrado o Dia da Conscientização Contra a Obesidade Mórbida Infantil. A obesidade infantil é considerada um problema mundial, e a data traz um alerta sobre os riscos da doença e os cuidados necessários para combatê-la. Além de contribuir para o surgimento de diabetes e hipertensão, a obesidade é fator de risco para o agravamento da Covid-19. É o que alertou o médico Maurício Jamillo, cardiologista pediátrico.
 
 “Muita criança obesa já tem hipertensão, tem alterações cardíacas, tem diabetes, alterações de imunidade secundárias a sua doença e que, se expostos a uma infecção por um vírus como esse, que muda tanto, que nos dá tanta surpresa, com certeza podemos ter alguns desfechos que não são favoráveis na evolução dessas crianças com infecção”, ressaltou.
@@ -37,5 +36,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

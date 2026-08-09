@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 ## Para ver os efeitos estéticos, é necessário o consumo diário adequado de nutrientes essenciais para a produção, manutenção e a proteção dos componentes que fazem parte dos tecidos cutâneo e capilar.
 
 Não é só uma rotina de uso de dermocosméticos e produtos capilares que garante a saúde e a beleza da pele e dos cabelos. De acordo com a nutricionista, Fernanda Seiffer, uma alimentação rica em nutrientes específicos pode ser o grande diferencial para deixar mais saudáveis e bonitos os cabelos, pele e unhas.
@@ -44,7 +43,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

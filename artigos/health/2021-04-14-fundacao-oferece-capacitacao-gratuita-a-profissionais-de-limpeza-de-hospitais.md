@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A Fundação de Asseio e Conservação, Serviços Especializados e Facilities (Facop) liberou acesso gratuito a seu curso a distância de limpeza hospitalar, disponível no site da Universidade Corporativa Facop. Até o fim de abril, os interessados poderão assistir às aulas, que ensinam técnicas adequadas para realizar a limpeza profissional em unidades de saúde.
 
 No início da pandemia de Covid-19 a Facop entendeu que era muito importante tornar essa formação mais acessível ao público em geral. Por isso, o curso esteve com inscrição gratuita em março do ano passado. Agora, com o rápido aumento no número de casos da doença, a instituição volta a oferecer essa formação sem custos para os interessados. Segundo Cassia Almeida, superintendente executiva da Facop, a limpeza hospitalar requer protocolos especiais e a procura por profissionais capacitados aumentou muito de 2020 até agora. “Este é um momento que exige união e solidariedade. Nós acreditamos que, com o curso gratuito, mais profissionais poderão aprimorar seus conhecimentos e terão condições de realizar esse trabalho tão fundamental no enfrentamento à pandemia de forma mais assertiva e segura”, ressalta. Em 2020, a Facop registrou um aumento de 310% nas matrículas para o curso de limpeza hospitalar a distância.
@@ -30,7 +29,3 @@ Fonte: Central Press
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

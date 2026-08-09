@@ -7,7 +7,6 @@ categories:
 - World Affairs
 ---
 
-
 A única maneira de continuarmos a ter alimentos baratos é se tivermos energia barata. Usamos energia para cultivar, colher, produzir e embalar nossos alimentos. E transportar todos esses alimentos da fazenda para a fábrica e depois para as lojas consome muita energia. É claro que não é apenas o nosso abastecimento alimentar que depende de energia barata. Em última análise, todo o nosso modo de vida se baseia no paradigma da energia barata. Se você retirar a energia barata, tudo muda.
 
 É por isso que esta guerra no Médio Oriente poderá ser um ponto de viragem económico tão crucial.
@@ -60,7 +59,7 @@ Em um local de Connecticut, uma refeição combinada Big Mac agora [custa ](http
 
 *No entanto, o McDonald's, que opera 13.513 restaurantes nos EUA e mais de 38 mil no exterior, não revelou quanto o franqueador aumentou os seus preços, que geralmente variam de acordo com o local.*
 
-*[](https://nypost.com/2023/07/19/mcdonalds-branch-slammed-for-charging-18-for-a-big-mac-meal/)Em um local em Darien, Connor, uma refeição combinada do Big Mac, que incluía batatas fritas médias e um refrigerante médio, [custava ](https://nypost.com/2023/07/19/mcdonalds-branch-slammed-for-charging-18-for-a-big-mac-meal/)[até US$ 18](https://nypost.com/2023/07/19/mcdonalds-branch-slammed-for-charging-18-for-a-big-mac-meal/) .*
+*Em um local em Darien, Connor, uma refeição combinada do Big Mac, que incluía batatas fritas médias e um refrigerante médio, [custava ](https://nypost.com/2023/07/19/mcdonalds-branch-slammed-for-charging-18-for-a-big-mac-meal/)[até US$ 18](https://nypost.com/2023/07/19/mcdonalds-branch-slammed-for-charging-18-for-a-big-mac-meal/) .*
 
 *Em uma filial do McDonald's na Times Square, a mesma combinação de Big Mac custa US$ 13,69 para clientes famintos.*
 

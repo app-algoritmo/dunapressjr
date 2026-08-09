@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A produção deste ano deve ser 1,7% superior à de 2020.
 
 A safra brasileira de grãos, cereais e leguminosas deve alcançar o recorde de 258,5 milhões de toneladas em 2021, segundo a estimativa de junho do Levantamento Sistemático da Produção Agrícola (LSPA), divulgada hoje (8) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -40,10 +39,6 @@ Entre as unidades da Federação, o Mato Grosso lidera, com uma participação d
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

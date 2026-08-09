@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Procuradoria de Defesa do Consumidor (Procon) realizou nesta segunda-feira (11) a pesquisa de valores do material escolar para 2021. A pesquisa apontou uma variação de 194,69% entre a soma dos produtos mais baratos e mais caros nas oito papelarias pesquisadas. O material de maior variação é o esquadro plástico de 21 cm, que pode custar de R$0,99 a R$8,69. Em relação ao ano anterior, o kit com os 23 produtos escolares subiu 0,84% nos mais baratos e 2,04% nos mais caros.
 
 Foram consultados os 23 itens básicos solicitados nas relações de materiais escolares: apontador, borracha, dois modelos de cadernos pequenos, caderno de desenho, dois modelos de caderno universitário, massa de modelar, canetas, cola, esquadro, cartolina, lápis de escrever e de cor, alguns modelos de papel, pincel, régua, tesoura e tinta guache. Na soma total dos itens, a faixa mais barata chega a R$ 39,75; a mais cara fica no valor de R$ 117,14.
@@ -35,7 +34,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

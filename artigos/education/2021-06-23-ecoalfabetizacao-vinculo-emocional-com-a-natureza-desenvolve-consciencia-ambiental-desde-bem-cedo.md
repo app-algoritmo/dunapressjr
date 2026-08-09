@@ -8,7 +8,6 @@ categories:
 - Education
 ---
 
-
 Desemparedar a infância e religar as crianças com a natureza são as propostas coerentes com a  “ecoalfabetização”, que tem sido inserida na composição curricular da Educação Infantil de muitas escolas brasileiras. Estudos comprovam que o contato com a natureza previne o estresse e melhora sintomas de depressão, ansiedade e déficit de atenção. Também foi descoberto que os micróbios do solo estimulam o sentimento de felicidade. Os benefícios para a saúde da criança ainda incluem a formação de cidadãos ecologicamente responsáveis e conscientes, se relacionando com outras áreas amplamente desenvolvidas no ambiente escolar.
 
 A coordenadora pedagógica da Educação Infantil do Centro de Inovação Pedagógica, Pesquisa e Desenvolvimento dos colégios do Grupo Positivo (CIPP), Hannyni Mesquita, explica que a ecoalfabetização propõe reorientar o modo como as pessoas vivem, desenvolvendo a consciência ecológica e, para isso, é essencial possibilitar que a criança crie vínculos emocionais com a natureza. A ideia, segundo Hannyni, é mostrar que elas fazem parte dos sistemas naturais. "O objetivo é auxiliar na formação de um cidadão mais responsável e realmente engajado com a sustentabilidade, que colocará em prática seus conhecimentos ecológicos para a transformação social diária e contínua”, afirma.
@@ -30,7 +29,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

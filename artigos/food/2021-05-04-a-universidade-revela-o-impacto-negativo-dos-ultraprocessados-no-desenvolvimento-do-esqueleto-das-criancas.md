@@ -8,7 +8,6 @@ categories:
 - Food
 ---
 
-
 Uma equipe de pesquisadores da Universidade Hebraica de Jerusalém provou as ligações entre os alimentos ultraprocessados ​​e a redução da qualidade óssea, revelando os danos desses alimentos, principalmente para crianças mais novas em seus anos de desenvolvimento.
 
 O estudo, liderado pelo Professor Efrat Monsonego-Ornan e Dra. Janna Zaretsky do Departamento de Bioquímica, Ciência Alimentar e Nutrição da Faculdade de Agricultura da Universidade, foi publicado na revista *Bone Research* e serve como o primeiro estudo abrangente do efeito de produtos alimentares amplamente disponíveis no desenvolvimento de esqueletos.
@@ -34,7 +33,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

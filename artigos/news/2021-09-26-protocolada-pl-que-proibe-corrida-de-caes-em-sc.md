@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Com a assinatura da maioria dos deputados, Projeto poder voltar a ser objeto de apreciação em 2021.
 
 Na luta pela proibição das corridas de cães em Santa Catarina, o deputado Marcius Machado (PL) conseguiu as assinaturas necessárias para a reapresentação do Projeto Lei que proíbe a prática no Estado. O texto já foi protocolado na Diretoria Administrativa e poderá ser votado ainda em 2021.
@@ -37,7 +36,3 @@ Fonte: http://agenciaal.alesc.sc.gov.br/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

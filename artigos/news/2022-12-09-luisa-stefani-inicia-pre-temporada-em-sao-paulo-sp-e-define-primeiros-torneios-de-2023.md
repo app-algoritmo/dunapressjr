@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Luisa Stefani, número 48 do mundo, iniciou esta semana, em São Paulo (SP), sua pré-temporada para o novo ano de 2023, que começará ainda nos últimos dias de 2022. A tenista iniciou os trabalhos de preparação física com o Rede Tênis Brasil e definiu seus primeiros torneios da nova temporada. Ela embarca no próximo dia 22 para Brisbane, na Austrália, onde defende o Brasil na nova United Cup, competição mista de países. O Brasil encara a Itália e a Noruega na fase de grupos a partir do dia 29 de dezembro. Já no dia 9 de janeiro, ela inicia a disputa do WTA 500 de Adelaide e, no dia 16, o Australian Open. Sua parceira será definida nos próximos dias.
 
 "Começo bem motivada essa pré-temporada. O novo ano inicia mais cedo e viajaremos com antecedência para a Austrália para adaptação ao fuso horário e às condições de lá. Muito animada para começar 2023 defendendo as cores do Brasil nesta nova competição", disse Luisa, patrocinada pela Fila, Faros Private XP e XP Investimentos e que conta com os apoios da Liga Tênis 10 e Bolsa Atleta.
@@ -24,13 +23,12 @@ Nos Jogos de Tóquio, conquistou a inédita medalha de bronze olímpica para o B
 ***Mais informações:
 ******Instagram: [https://www.instagram.com/luisastefani/
 ](https://click.presskit.com.br/url/915061b28b/6361388b6fc)Fanpage: [https://www.facebook.com/LuisaStefani.Tennis
-](https://click.presskit.com.br/url/915062fa42/6361388b6fc)Marketing/Comercial: Cecília Kirmayr - +55 11 98433-3553 
+](https://click.presskit.com.br/url/915062fa42/6361388b6fc)Marketing/Comercial: Cecília Kirmayr - +55 11 98433-3553
 Gallas Press-Fabrizio Gallas - +55 21 99023-0660 - [fabrizio@gallaspress.com.br
 ](https://click.presskit.com.br/url/915063e3c4/6361388b6fc)Facebook: [https://www.facebook.com/gallaspress
 ](https://click.presskit.com.br/url/915064f562/6361388b6fc)Instagram: [https://www.instagram.com/fabriziogallas/](https://click.presskit.com.br/url/9150657000/6361388b6fc)***
 
-***[
-](https://click.presskit.com.br/url/9150657000/6361388b6fc)ZDL
+***ZDL
 Doro Jr. - MTb 13209 - 11 984579723 - [dorojr@zdl.com.br
 ](https://click.presskit.com.br/url/915066e9b7/6361388b6fc)Deborah Mamone - MTb 15148 - [deborah@zdl.com.br
 ](https://click.presskit.com.br/url/915067f4e0/6361388b6fc)Site: [www.zdl.com.br

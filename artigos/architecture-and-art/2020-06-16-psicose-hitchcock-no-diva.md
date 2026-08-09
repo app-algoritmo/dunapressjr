@@ -7,7 +7,6 @@ categories:
 - Architecture and Art
 ---
 
-
 Há 60 anos atrás, os espectadores nas salas de cinema eram surpreendidos com a icônica cena onde a protagonista Marion Crane vivida por Janet Leigh, enquanto tomava banho, era surpreendida por uma silhueta sinistra portando uma faca, enquanto a trilha sonora composta por violentos golpes em violino fazia o espectador encolher-se na poltrona, ao passo que a protagonista era esfaqueada e na metalinguagem utilizada na época por Hitchcock, o sangue da mulher escorria pelo ralo do banheiro.
 
 Lançado em 16 de junho de 1960, Psicose foi um filme que marcou sua época e que até hoje é referência ao falar-se nas obras de Alfred Hitchcock. A trama narra a fuga de uma jovem, que após furtar uma soma em dinheiro de seu patrão, abriga-se em um hotel de beira de estrada chamado Bates Motel, onde é atendida pelo prestativo Norman Bates, ao passo que percebe que além de Norman, lá também existe sua rude e controladora mãe. O destino da jovem é selado de forma inesperada, com sua morte na primeira metade do filme. Onde o segundo ato é concentrado na investigação de um detetive particular enviado a mando dos familiares da falecida, e posteriormente pelos próprios familiares, que acabam por descobrir os restos mortais da Srª Bates e que o pacato Norman Bates em um transtorno psicótico que o levava a adquirir a personalidade de sua mãe e cometer atrocidades. O filme revolucionou o gênero de terror para sua época, onde os antagonistas geralmente eram inumanos, como os infames monstros vividos nas décadas anteriores por Béla Lugosi, inovando ao mostrar que os vilões podem também ser humanos, facínoras capazes das mais inimagináveis barbáries.
@@ -35,5 +34,3 @@ Referência Bibliográfica:
 Créditos da Imagem:
 
 Extraída da edição especial comemorativa do filme Psicose, em DVD, lançada em 2015 pela Home Vídeo, na seção Extras.
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

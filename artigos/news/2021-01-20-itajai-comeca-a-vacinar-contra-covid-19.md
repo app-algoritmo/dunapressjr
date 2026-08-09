@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Esperança e alento. Com essas palavras a primeira pessoa a ser vacinada no Município de Itajaí descreveu a chegada da imunização contra COVID-19. Enfermeira da Unidade de Pronto Atendimento (UPA) do Centro Integrado de Saúde (CIS), Jonilda Hugen Souza Vieira, de 47 anos, está na linha de frente de combate à pandemia e recebeu a dose inicial da vacina Coronavac na manhã desta quarta-feira (20), em ato no Centreventos.
 
 “Este é um momento de grande relevância pra história da cidade e da ciência, e estar recebendo a primeira dose da vacina, representando os profissionais de saúde de Itajaí que estão na linha de frente, é emocionante. Durante o atendimento aos pacientes vivenciamos cenas difíceis e muito tristes, que geram sobrecarga de atividade e também emocional. Por isso, a vacina vem trazer alento, esperança e mais segurança para que todos nós possamos dar continuidade ao trabalho”, comentou a servidora pública efetiva há 29 anos.
@@ -38,7 +37,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

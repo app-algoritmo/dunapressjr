@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Novas alíquotas serão aplicadas de 20 de setembro a 31 de dezembro.
 
 O *Diário Oficial da União *(*DOU*) publicou desta sexta-feira (17) um [**decreto assinado**](https://www.in.gov.br/en/web/dou/-/decreto-n-10.797-de-16-de-setembro-de-2021-345435328) pelo presidente Jair Bolsonaro com as novas alíquotas do Imposto sobre Operações Financeiras (IOF), que incide sobre operações de crédito, câmbio e seguro ou relativas a títulos ou valores mobiliários. As novas alíquotas valem para pessoas físicas e jurídicas e serão aplicadas no período de 20 de setembro até 31 de dezembro de 2021.
@@ -26,10 +25,6 @@ A decisão foi tomada em razão da observância das regras fiscais. Apesar de ar
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

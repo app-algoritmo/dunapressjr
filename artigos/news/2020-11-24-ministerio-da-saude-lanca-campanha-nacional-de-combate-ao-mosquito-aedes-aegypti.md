@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Um chamado para que a população participe do combate ao mosquito *Aedes aegypti*, transmissor da dengue, zika e chikungunya, foi feito nesta terça-feira (24) pelo Ministério da Saúde. Foi lançada a campanha nacional “Combater o mosquito é com você, comigo, com todo mundo”.
 
 “Nossa campanha tem como conceito: combater o mosquito é com você. Queremos que você participe desse processo, que você tenha um sentimento de pertencimento a esse processo. É comigo, é conosco Ministério da Saúde, é com toda a população brasileira. Essa é uma responsabilidade compartilhada”, explica o secretário de vigilância em saúde, Arnaldo de Medeiros.
@@ -68,7 +67,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

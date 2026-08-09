@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 De acordo com o Ministério das Relações Exteriores, o número estimado de brasileiros repatriados com apoio das embaixadas e consulados, até o dia 12 de maio, é de 21.818  pessoas, e ainda há cerca de 4.600 brasileiros com passagens aéreas canceladas e/ou desvalidos aguardando repatriação. O Itamaraty tem apoiado brasileiros que estavam no exterior e foram surpreendidos por medidas de restrição do tráfego aéreo em razão da pandemia de coronavírus. 
 
-Confira os as últimas ações do mês de maio: 
+Confira os as últimas ações do mês de maio:
 
 **América Central:** dia 12 de maio, o Itamaraty, por meio das embaixadas em San José e Panamá, embarcou, em voo de repatriação humanitária, 80 brasileiros que se encontravam retidos na Costa Rica e Panamá. Após escala no Panamá, onde embarcaram 55 dos 80 passageiros, o voo seguiu para o Brasil.
 
@@ -28,7 +27,7 @@ O ministro das Relações Exteriores, Ernesto Araújo, explicou que, nos casos d
 
 ###  Auxílio consular
 
-O Ministério das Relações Exteriores organizou em Brasília (DF) o Grupo Consular de Crise (G-Con), que funciona de forma integrada com as embaixadas e consulados. O grupo tem cinco equipes organizadas por área geográfica, formadas por servidores em Brasília e nos postos. 
+O Ministério das Relações Exteriores organizou em Brasília (DF) o Grupo Consular de Crise (G-Con), que funciona de forma integrada com as embaixadas e consulados. O grupo tem cinco equipes organizadas por área geográfica, formadas por servidores em Brasília e nos postos.
 
 O MRE também disponibilizou um [formulário emergencial](https://docs.google.com/forms/d/e/1FAIpQLScNWoyWrm0VumlkvRVFhjcOUbyAmpAs1gaG1oRx0A91ekeVsw/viewform) de auxílio consular para os brasileiros no exterior que estão sendo afetados pela crise do novo coronavírus.O Itamaraty tem enviado alertas por meio dos perfis da embaixada ou consulado de cada região, além de informar pelo portal consular. Lá, é possível encontrar informações sobre medidas de restrição de circulação determinadas pelo governo local, voos de volta ao Brasil, medidas de apoio aos brasileiros e contatos dos agentes consulares.
 
@@ -41,5 +40,3 @@ Fonte gov.br
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação. Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

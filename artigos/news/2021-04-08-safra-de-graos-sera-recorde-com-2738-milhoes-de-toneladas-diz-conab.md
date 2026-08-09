@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Soja e milho respondem pela grande maioria da produção anual.
 
 A produção de grãos no Brasil deve chegar a 273,8 milhões de toneladas na safra 2020/21, de forma a bater, novamente, o recorde com um crescimento de 6,5% em relação à safra anterior, percentual que corresponde a um aumento de 16,8 milhões de toneladas. Os dados foram divulgados hoje (8), em Brasília, pela Companhia Nacional de Abastecimento (Conab), ao anunciar o 7º Levantamento de Grãos Safra.
@@ -56,14 +55,10 @@ Vivendo um cenário positivo no mercado internacional, o algodão em pluma regis
 
 “Para a soja, estima-se a venda para o mercado externo de 85,6 milhões de toneladas (aumento de 3%). Confirmada a previsão, será um recorde da série histórica. O suporte seria dado pela demanda internacional ainda aquecida e pelo alto percentual de comercialização observado para a safra atual”, informou a companhia.
 
-As exportações registradas em março foram 24% maiores do que as do mesmo período do ano passado. “Isso ocorreu em função do atraso da colheita, o que implicou em um ritmo mais lento nas exportações em janeiro e fevereiro, compensado no mês de março”, finalizou a Conab.  
+As exportações registradas em março foram 24% maiores do que as do mesmo período do ano passado. “Isso ocorreu em função do atraso da colheita, o que implicou em um ritmo mais lento nas exportações em janeiro e fevereiro, compensado no mês de março”, finalizou a Conab.
 
 Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

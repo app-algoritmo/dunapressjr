@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Devido às fortes chuvas nos últimos dias, a Defesa Civil de Itajaí está em estado de atenção, monitorando as condições climáticas e as áreas de encosta do Município. Com o solo encharcado, ainda há risco de deslizamentos. Nesta quinta-feira (17), o tempo segue instável em Itajaí, há risco de novos temporais com rajadas de vento e não se descartam ocorrências de alagamentos em áreas ribeirinhas do Rio Itajaí-Mirim.
 
 A Defesa Civil segue monitorando as condições do tempo e orienta que, quando há tempestades com ventos fortes e raios, a população deve buscar um local abrigado, longe de árvores, placas, postes de energia e outros objetos que possam ser arremessados. Em local abrigado, as pessoas devem ficar longe das janelas, além de desligar aparelhos eletrônicos. O órgão pode ser acionado pelos telefones 199 ou (47) 3341-6199; o Corpo de Bombeiros deve ser contatado no número 193.
@@ -33,7 +32,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

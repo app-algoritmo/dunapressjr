@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### A aprovação fortalece a segurança jurídica e a transparência do processo, além de permitir o avanço para as fases de publicação do edital e realização do leilão.
 
 O Plenário do Tribunal de Contas da União (TCU) aprovou, por unanimidade, na tarde desta quarta-feira (21/9), a continuidade do [processo de desestatização da Companhia de Abastecimento de Minas Gerais S.A](https://portal.ppi.gov.br/privatizacao-ceasaminas). (CeasaMinas).
@@ -30,8 +29,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

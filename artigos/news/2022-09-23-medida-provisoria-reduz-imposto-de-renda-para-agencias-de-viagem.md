@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Iniciativa representa desoneração de R$ 1,4 bilhão por ano no setor.
 
 Agências de viagem, operadoras e cruzeiros marítimos terão redução na alíquota do Imposto de Renda Retido na Fonte (IRRF) cobrado sobre as remessas para o exterior. A decisão foi publicada nesta quinta-feira (22), no *Diário Oficial da União*. Segundo a [**Medida Provisória (MP) nº 1.138**](https://in.gov.br/web/dou/-/medida-provisoria-n-1.138-de-21-de-setembro-de-2022-431169410), a medida passa a valer em janeiro de 2023 e reduz os atuais 25% para 6%.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

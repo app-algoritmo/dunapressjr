@@ -7,7 +7,6 @@ categories:
 - Magazine
 ---
 
-
 *Bens imobiliários (bens imóveis) *compreendem terras, edifícios (sentido amplo) e tudo o que nela se encontrar incluindo recursos naturais como minerais e água. São exemplos de bens imobiliários: terras (terrenos), imóvel rural (sítios, mini-fazendas, fazendas), imóvel residencial (habitação anexada, apartamento,* flat*, casa multifamiliar, casa geminada, duplex, modular home, bloco de apartamentos (condomínios, *townhouse*/ *rowhouse*), cooperativas, caravanas residenciais, casas flutuantes), imóvel comercial, imóvel logístico (galpões) e imóvel industrial (armazéns). Quanto aos negócios imobiliários, estes envolvem serviços como: construção, investimentos(fundos), compra, venda e locação (fixa, por temporada, de *self-storage*).
 
 Na Noruega, a economia é muito dinâmica, o que significa que sempre há mercado para compradores e vendedores. Nos últimos dois meses, 2.766 novas casas foram vendidas, 24% mais do que no período anterior de dois meses e 13% mais do que no mesmo período do ano passado. O aumento foi maior no leste da Noruega, no sul da Noruega e no norte da Noruega. No oeste da Noruega, no entanto, houve um leve declínio em relação ao ano passado. Os preços dos imóveis na Noruega não foram tão afetados pela crise financeira como ocorreu em outros países da Europa. Em suma, vendas de casas novas na Noruega estão em alta e terras são vendidas muito rapidamente, assim sendo boatos acerca de uma “bolha imobiliária”, especialmente em Stavanger e em Oslo, não procedem.
@@ -29,5 +28,3 @@ Para saber mais sobre negócios imobiliários na Noruega clique nos sites a segu
 [Samfunnsokonomisk](http://www.samfunnsokonomisk-analyse.no/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/paulo-fernando-de-barros-pix-autorizado/?aff=barrosprojectmanager)

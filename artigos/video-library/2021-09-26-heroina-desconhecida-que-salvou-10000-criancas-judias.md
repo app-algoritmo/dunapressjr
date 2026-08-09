@@ -7,7 +7,6 @@ categories:
 - Video library
 ---
 
-
 ## Um documentário, explora como a heroína desconhecida Truus Wijsmuller resgatou milhares de jovens da Europa durante a Segunda Guerra Mundial, correndo grande risco pessoal.
 
 Muitos nunca teriam ousado ir direto até Adolf Eichmann que, em 1938, foi o responsável por fazer cumprir a política nazista de emigração judaica, e pedir para levar 10.000 crianças para a Inglaterra.
@@ -80,7 +79,3 @@ Fonte: The Time Of Israel
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

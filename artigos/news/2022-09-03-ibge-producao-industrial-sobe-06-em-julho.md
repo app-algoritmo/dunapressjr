@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Patamar continua abaixo do nível pré-pandemia.
 
 A produção industrial brasileira subiu 0,6% em julho, após cair 0,3% em junho deste ano. Com isso, o setor ainda se encontra 0,8% abaixo do patamar pré-pandemia de covid-19, em fevereiro de 2020, e 17,3% abaixo do nível recorde alcançado em maio de 2011. Na comparação anual, a queda foi de 0,5% e a perda acumulada no ano é de 2%. Em 12 meses, a indústria acumula retração de 3%.
@@ -50,8 +49,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

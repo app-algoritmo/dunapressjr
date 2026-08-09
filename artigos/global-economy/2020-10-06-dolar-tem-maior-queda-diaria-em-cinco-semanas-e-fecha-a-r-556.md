@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa subiu mais de 2% em dia de recuperação.
 
 Em um dia de alívio no mercado financeiro, o dólar teve a maior queda diária em cinco semanas. A bolsa de valores recuperou parcialmente as perdas dos últimos dias e fechou em alta superior a 2%.
@@ -25,5 +24,3 @@ A redução das incertezas em torno de um novo pacote de estímulo fiscal nos Es
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Marcos Brindicci/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

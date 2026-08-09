@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 -A corrupção é abuso de poder ou posição em proveito próprio ou enriquecimento e é ilegal em todo o mundo.
 
 A corrupção pode ter consequências devastadoras para uma empresa ou autoridade pública. Nacional e internacionalmente, há um grande foco no combate à corrupção e há um grande número de obrigações legais que devem ser cumpridas. É fundamental ter uma estratégia para garantir que a organização não se torne objeto de corrupção e que todos os requisitos aplicáveis ​​sejam observados.
@@ -42,9 +41,9 @@ ESPECIALISTAS JURÍDICOS EM INVESTIGAÇÃO DE ASSUNTOS COMPLEXOS
 
 Com vasta experiência prática na realização de investigações internas para empresas e autoridades públicas. Se Descobrem os fatos do assunto e as questões legais relevantes, para que a investigação e suas descobertas forneçam uma base sólida para o processo adiante. Durante todo o processo, é importante que seja realizado o trabalho de maneira eficiente, discreta e levando em consideração todos os requisitos legais, como a lei de dados pessoais e a proteção dos direitos civis das pessoas envolvidas.
 
-Com anos de experiência na descoberta de circunstâncias incomuns ou suspeitas com assistência do início ao fim e começam a coletar todos os dados relevantes, depois realizam uma análise estruturada do material e finalmente o traduzem em conhecimentos específicos para o benefício do  cliente. Os especialistas conduzem investigações de grandes e pequenas empresas e colaboraram com a polícia e outras autoridades públicas, quando relevantes e desejadas pelo cliente. Também aconselham se é aconselhável, em uma situação específica para iniciar uma investigação.
+Com anos de experiência na descoberta de circunstâncias incomuns ou suspeitas com assistência do início ao fim e começam a coletar todos os dados relevantes, depois realizam uma análise estruturada do material e finalmente o traduzem em conhecimentos específicos para o benefício do cliente. Os especialistas conduzem investigações de grandes e pequenas empresas e colaboraram com a polícia e outras autoridades públicas, quando relevantes e desejadas pelo cliente. Também aconselham se é aconselhável, em uma situação específica para iniciar uma investigação.
 
-Em conexão com assuntos mais complexos e em larga escala, se usa regularmente as ferramentas de descoberta eletrônica para aumentar a eficiência da investigação, normalmente usando as ferramentas de  relatividade. Essa abordagem reduz o tempo de processamento e aumenta a solidez das conclusões. Também tem experiência em cooperar com outros operadores relevantes, como Contabilidade Forense e Inteligência Corporativa.
+Em conexão com assuntos mais complexos e em larga escala, se usa regularmente as ferramentas de descoberta eletrônica para aumentar a eficiência da investigação, normalmente usando as ferramentas de relatividade. Essa abordagem reduz o tempo de processamento e aumenta a solidez das conclusões. Também tem experiência em cooperar com outros operadores relevantes, como Contabilidade Forense e Inteligência Corporativa.
 
 INVESTIGAÇÕES INCLUEM:
 
@@ -55,7 +54,7 @@ INVESTIGAÇÕES INCLUEM:
 
 LAVAGEM DE DINHEIRO
 
-A lavagem de dinheiro é o uso indevido dos sistemas financeiros para fazer ilegalmente os recursos obtidos parecerem legais. Devido a vários eventos sérios e específicos nos últimos anos, há um grande foco nas regras contra a lavagem de dinheiro, nacional  internacionalmente. As obrigações legais a serem cumpridas pelas empresas afetadas são complicadas e a regulamentação deverá se tornar mais rígida e aumentar ainda mais no futuro. Especialistas nessas regras e a assistência garantiram que sua empresa cumpra todas as regras aplicáveis.
+A lavagem de dinheiro é o uso indevido dos sistemas financeiros para fazer ilegalmente os recursos obtidos parecerem legais. Devido a vários eventos sérios e específicos nos últimos anos, há um grande foco nas regras contra a lavagem de dinheiro, nacional internacionalmente. As obrigações legais a serem cumpridas pelas empresas afetadas são complicadas e a regulamentação deverá se tornar mais rígida e aumentar ainda mais no futuro. Especialistas nessas regras e a assistência garantiram que sua empresa cumpra todas as regras aplicáveis.
 
 Aconselhamentos incluem a realização de investigações internas, análise de riscos, elaboração de programas de prevenção, procedimentos e diretrizes internas etc., que também ajudam a implementar.
 
@@ -69,8 +68,4 @@ POLÍTICAS DE DENUNCIANTES
 
 Aconselhamentos sobre políticas de denunciantes também ajudam na implementação e administração. Garantem que a política de denúncias atenda a todos os requisitos legais e é importante para que as necessidades da empresa sejam atendidas.
 
-### O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!, clique e comece já!
-
-[](https://dunapress.org/edu)
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+### O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!

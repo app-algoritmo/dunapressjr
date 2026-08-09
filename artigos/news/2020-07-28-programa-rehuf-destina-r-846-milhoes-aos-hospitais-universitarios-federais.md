@@ -7,16 +7,15 @@ categories:
 - News
 ---
 
-
 ## Iniciativa é gerida pela Ebserh e financiada pelos ministérios da Educação e da Saúde.
 
 Os hospitais universitários federais poderão contar com um importante reforço financeiro. Por meio do Programa Nacional de Reestruturação dos Hospitais Universitários Federais (Rehuf), que é gerido pela Empresa Brasileira de Serviços Hospitalares (Ebserh), serão disponibilizados R$ 84,6 milhões. Esse ano, já foram descentralizados R$ 155 milhões apenas para os hospitais da Rede Ebserh, além do valor aprovado agora.
 
 O vice-presidente da estatal, Eduardo Vieira, reforça que essa ação vem ao encontro da principal função do programa, de dar condições materiais e institucionais para que os hospitais desempenhem suas atividades, e também está alinhada ao que tem pautado a atuação da Ebserh, no planejamento das ações.
 
- “A liberação desses recursos é essencial para a rotina diária do hospital, com impactos no ensino, na pesquisa e na assistência. O hospital consegue se planejar e atuar com eficiência, o que gera economia de recursos públicos, evita desabastecimento e dá mais tranquilidade para a unidade hospitalar”, reforça o vice-presidente da Ebserh.  
+ “A liberação desses recursos é essencial para a rotina diária do hospital, com impactos no ensino, na pesquisa e na assistência. O hospital consegue se planejar e atuar com eficiência, o que gera economia de recursos públicos, evita desabastecimento e dá mais tranquilidade para a unidade hospitalar”, reforça o vice-presidente da Ebserh.
 
-A iniciativa foi aprovada pelo Comitê Interno de Gestão do Rehuf com previsão de liberação dos valores pelos ministérios da Educação (MEC) e da Saúde (MS), órgãos responsáveis pelo financiamento do programa.  
+A iniciativa foi aprovada pelo Comitê Interno de Gestão do Rehuf com previsão de liberação dos valores pelos ministérios da Educação (MEC) e da Saúde (MS), órgãos responsáveis pelo financiamento do programa.
 
 **Contrato de objetivos**
 
@@ -34,7 +33,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

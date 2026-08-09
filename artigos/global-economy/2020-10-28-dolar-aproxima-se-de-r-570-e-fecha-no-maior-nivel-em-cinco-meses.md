@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Tensões políticas no Brasil e eleições nos EUA tumultuaram mercado.
 
 Num dia marcado por tensões políticas no Congresso brasileiro e pela expectativa com as eleições presidenciais nos Estados Unidos, o dólar aproximou-se de R$ 5,70 e fechou no maior valor em cinco meses. O dólar comercial encerrou esta terça-feira (27) vendido a R$ 5,682, com alta de R$ 0,07 (+1,25%).
@@ -27,5 +26,3 @@ O Ibovespa chegou a operar em alta na primeira meia-hora de negociação, mas ca
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Nova linha de crédito foi estendida até 31 de dezembro.
 
 O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) alcançou nesta sexta-feira (3) na linha de empréstimo para capital de giro o total de R$5 bilhões para micro, pequenas e médias empresas. O valor estava previsto no plano inicial de enfrentamento ao novo coronavírus, apresentado pelo banco de fomento em março, no início da pandemia de covid-19.
@@ -24,4 +23,4 @@ Podem solicitar o financiamento empresas com faturamento de até R$ 300 milhões
 
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Sergio Moraes/Direitos Reservados
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

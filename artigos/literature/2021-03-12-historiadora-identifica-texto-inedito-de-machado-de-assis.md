@@ -7,7 +7,6 @@ categories:
 - Literature
 ---
 
-
 Cristiane Garcia Teixeira é historiadora e responsável por atribuir ao escritor Machado de Assis (1839–1908) a autoria de um perfil biográfico do então imperador Dom Pedro II, publicado em 1859 sem assinatura. A descoberta ([leia artigo escrito pela pesquisadora](http://www.seer.ufu.br/index.php/artcultura/article/view/56972/29752)) é parte do [trabalho de mestrado](https://repositorio.ufsc.br/xmlui/handle/123456789/168041), da pesquisadora, para o qual recebeu bolsa da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Graduada e mestra pela Universidade Federal de Santa Catarina (UFSC), ela é doutoranda da instituição, também com o apoio da CAPES.
 
 **Como começou a estudar Machado de Assis?**
@@ -66,7 +65,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

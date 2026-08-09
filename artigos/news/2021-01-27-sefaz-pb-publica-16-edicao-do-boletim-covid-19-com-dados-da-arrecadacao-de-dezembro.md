@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## A arrecadação dos três impostos estaduais (ICMS, IPVA e ITCD), no mês de dezembro de 2020, registrou mais um crescimento acima de dois dígitos (18,34%).
 
 A Secretaria de Estado da Fazenda (Sefaz-PB) publicou, nesta quarta-feira (27), a 16ª edição do ‘Boletim Covid-19’, que traz dados, gráficos e análises da arrecadação da receita própria (ICMS, IPVA e ITCD) do mês de dezembro e também do acumulado de abril a dezembro de 2020, período de influência da pandemia do novo coronavírus na arrecadação própria do Estado.
@@ -29,8 +28,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

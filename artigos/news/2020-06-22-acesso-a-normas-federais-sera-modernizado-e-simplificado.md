@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## CodeX pretende tornar o Executivo Federal referência nacional e internacional em organização, compilação, integração e disponibilização das normas nacionais.
 
 A Presidência da República instituiu o projeto CodeX (códice, ou livro, em latim) para modernizar a divulgação, a gestão e a curadoria de leis e atos normativos federais através da ciência de dados. Criado pela Portaria nº 48/2020, o CodeX vai aperfeiçoar ferramentas de busca e conexão entre normas para facilitar o acesso a cidadãos, poder público e judiciário. Também vai disponibilizar, em um único local, todas as normas federais atualizadas.
@@ -22,7 +21,7 @@ O ministro Jorge Oliveira ressaltou que a Secretaria-Geral passa por um processo
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

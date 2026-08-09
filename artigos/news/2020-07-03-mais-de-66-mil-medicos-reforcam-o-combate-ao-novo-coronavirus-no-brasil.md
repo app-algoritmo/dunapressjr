@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Profissionais reforçam o atendimento em postos de saúde de vários municípios. Governo Federal está investindo mais de R$ 1,2 bilhão na contratação dos profissionais.
 
 Desde o início da situação de emergência causada pela Covid-19 no Brasil, o Ministério da Saúde já contratou 6.622 profissionais médicos para reforçar o atendimento à população nos postos de saúde de 2.127 municípios e 21 Distritos Sanitários Especiais Indígenas (Dsei). Foram lançados, de forma emergencial, quatro editais para provimento médico, no âmbito do programa Mais Médicos, no qual os municípios oferecem as vagas que necessitam e os médicos escolhem onde querem atuar.
@@ -30,6 +29,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-**[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=joiceferreiradunapress)** 
+**[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

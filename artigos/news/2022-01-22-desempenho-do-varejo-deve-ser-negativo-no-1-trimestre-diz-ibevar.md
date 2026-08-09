@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Projeções do varejo ampliado indicam queda de 2,22%.
 
 O desempenho do varejo nacional deve ser negativo no primeiro semestre deste ano na comparação com o mesmo período do ano passado, de acordo com levantamento feito pelo Instituto Brasileiro de Executivos de Varejo e Consumo (Ibevar), sobre as vendas no período. Segundo dados da pesquisa de intenção de compra, as projeções do varejo ampliado indicam queda de 2,22% para o primeiro trimestre de 2022, em relação ao mesmo período do ano passado. Já em comparação ao trimestre anterior, observa-se baixa de 0,35%.
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

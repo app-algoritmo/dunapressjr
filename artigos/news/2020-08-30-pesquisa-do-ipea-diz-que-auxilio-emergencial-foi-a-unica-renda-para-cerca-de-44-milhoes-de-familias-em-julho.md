@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Estudo mostra que benefício ajudou a elevar a renda média das famílias mais pobres. Criado para minimizar os efeitos do distanciamento social em função da Covid-19, o Auxílio Emergencial foi a única renda para 4,4 milhões de famílias em julho.
 
 Em julho, o Auxílio Emergencial, concedido pelo Governo Federal, foi a única renda para cerca de 4,4 milhões de famílias brasileiras. O benefício, no valor de R$ 600, foi criado para minimizar os efeitos do distanciamento social em função da Covid-19.
@@ -32,5 +31,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

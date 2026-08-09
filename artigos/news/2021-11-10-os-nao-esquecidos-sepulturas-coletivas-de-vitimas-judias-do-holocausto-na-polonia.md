@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 As testemunhas polonesas do crime alemão em Wojslawice viveram por décadas com as memórias de seus vizinhos judeus executados em 1942. Eles se lembravam de um prado que corria sangue, de uma criança que clamava por água debaixo de uma pilha de corpos, braços e pernas que ainda se moviam dias após a execução.
 
 Nos anos que se seguiram, aqueles que viram o crime compartilharam seu conhecimento com seus filhos, alertando-os para ficarem longe do local atrás da igreja ortodoxa onde cerca de 60 judeus, entre eles 20 crianças, foram assassinados naquele dia de outubro.
@@ -74,7 +73,3 @@ Fonte: https://www.timesofisrael.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

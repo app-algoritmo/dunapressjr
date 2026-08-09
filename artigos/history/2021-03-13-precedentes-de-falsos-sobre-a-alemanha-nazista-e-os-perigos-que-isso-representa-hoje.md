@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Após sua fuga do bunker em abril de 1945, Adolf Hitler tornou-se uma espécie de viajante. Ele foi visto em um balé na cidade brasileira de Cassino; em Dublin, disfarçado em roupas femininas; e em um canteiro de obras na cidade costeira argentina de Mar del Plata.
 
 E então houve o avistamento de um homem - “tendo várias características de Hitler”, foi alegado - jantando em um restaurante conversando amigavelmente com os outros convidados. Mas isso era, o historiador britânico Sir Richard Evans drasticamente sugere em seu novo livro, "extremamente improvável de ter sido Hitler, uma vez que Hitler não conversava com outras pessoas na hora das refeições de maneira amigável ou de qualquer outra maneira, mas as submetia a monólogos intermináveis".
@@ -124,7 +123,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

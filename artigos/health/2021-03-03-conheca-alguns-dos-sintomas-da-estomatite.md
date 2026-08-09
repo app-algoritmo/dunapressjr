@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A estomatite é uma doença bem comum em crianças que deixa os pais angustiados. Isso por causa das temidas manchas vermelhas que aparecem na mucosa da boca e, em alguns casos, também na garganta. Essas lesões podem se espalhar rapidamente, causando salivação excessiva, dor ao engolir ou ao comer, febre e mau hálito.
 
 Apesar da doença ser mais comum em crianças, atinge também os adolescentes e adultos que não tiveram contato a herpes simples.
@@ -38,7 +37,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

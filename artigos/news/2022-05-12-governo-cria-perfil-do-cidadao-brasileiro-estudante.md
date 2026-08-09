@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Governo Federal criou a solução de[ Perfil do Estudante do Cidadão Brasileiro Estudante](https://www.gov.br/pt-br/perfil_usuario/estudante), local em que os estudantes da educação básica e superior podem obter informações e serviços por meio da plataforma GOV.BR . Esse perfil concentra diversas informações e serviços voltados para o público estudantil, tornando mais fácil para o usuário navegar na plataforma e encontrar o que deseja.
 
 Em poucos cliques, o estudante consegue obter ou protocolar documentos; realizar ações nos programas do MEC: Enem, Sisu, Prouni, Enade e Fies; efetuar pesquisas por  Universidades, Institutos ou outras entidades educacionais; obter informações sobre programas de assistência social na educação, sobre os serviços de finanças, impostos e gestão pública; consegue também cadastrar currículo; pesquisar sobre os serviços das Forças Armadas e Defesa Civil; tem a opção pelo serviço de busca de vagas de emprego no Sistema Nacional de Emprego (Sine) e agendamento de entrevista com possíveis empregadores; além da biblioteca digital e informações sobre infraestrutura, trânsito e transportes de estudantes.
@@ -33,5 +32,3 @@ Fonte:   https://www.gov.br/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

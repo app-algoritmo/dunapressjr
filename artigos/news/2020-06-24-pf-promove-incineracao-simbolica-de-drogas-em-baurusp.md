@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Bauru/SP - A Polícia Federal promoveu, na manhã desta terça-feira (23/6), uma incineração simbólica de drogas para marcar a 22ª Semana Nacional de Políticas Sobre Drogas, realizada pelo Ministério da Justiça e Segurança Pública, em parceria com o Ministério da Cidadania, com o tema “Unidos Pela Vida”.
 
 Com a presença de representantes de outros órgãos oficiais, foram incinerados em fornalha de indústria da região, representativamente, 21,4 Kg de maconha, 25,5 Kg de Haxixe, 8,5 Kg de Cocaína, 24 microsselos de Drogas Sintéticas e 24 g de sementes de maconha.
@@ -18,4 +17,4 @@ A Semana Nacional de Políticas sobre Drogas é prevista em lei e, anualmente, o
 
 Comunicação Social da Delegacia de Polícia Federal em Bauru
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

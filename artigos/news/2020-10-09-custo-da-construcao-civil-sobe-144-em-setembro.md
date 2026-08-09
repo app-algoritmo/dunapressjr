@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É a maior alta desde julho de 2013, segundo o IBGE.
 
 O Índice Nacional da Construção Civil subiu 1,44 % em setembro, a maior alta desde julho de 2013, ficando 0,56 ponto percentual acima da taxa de agosto. No ano, o índice acumula alta de 4,34% e, nos últimos 12 meses, de 4,89%, resultado bem acima dos 3,78% registrados nos doze meses imediatamente anteriores. Em setembro de 2019, o índice foi 0,37%.
@@ -27,5 +26,3 @@ De acordo com a pesquisa, de janeiro a setembro os acumulados são 6,59% (materi
 Fonte: Agência Brasil – Imagem de destaque: Arquivo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

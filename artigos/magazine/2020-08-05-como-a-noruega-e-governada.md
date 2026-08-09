@@ -7,7 +7,6 @@ categories:
 - Magazine
 ---
 
-
 De acordo com a Constituição, que foi adotada em 1814, a Noruega é uma monarquia na qual o poder é dividido entre três ramos: um ramo **legislativo** que também é responsável pelas apropriações, o Storting; um ramo **executivo**, o governo; e um ramo **judicial**, os tribunais.
 
 ## **Separação de poderes**
@@ -26,7 +25,7 @@ O governo é formado pelo (s) partido (s) que detêm a maioria dos assentos no S
 
 O Gabinete do Primeiro Ministro e os Ministérios servem ao Governo e são chefiados pelo Primeiro Ministro e por vários ministros, respectivamente. O Gabinete do Primeiro Ministro auxilia o Primeiro Ministro na coordenação dos trabalhos do Governo e, portanto, pode ser considerado como um escritório central para todo o Governo. Os ministérios ajudam os ministros a administrar os vários setores da administração do governo.
 
-[](https://www.stortinget.no/no)Parlamento da Noruega - Oslo
+Parlamento da Noruega - Oslo
 
 Fonte: Norway Gov. Imagem de destaque: Parlamento - The Royal House of Norway
 

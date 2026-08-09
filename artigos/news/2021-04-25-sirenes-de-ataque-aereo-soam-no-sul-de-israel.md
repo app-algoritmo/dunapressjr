@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Sirenes de ataque aéreo soam em Sderot e em outras comunidades judaicas na fronteira com Gaza. Mais dois lançamentos falham quando mísseis caem dentro de Gaza.
 
 Sirenes de ataque aéreo soaram em Sderot e em outras comunidades judaicas na fronteira de Gaza pouco antes das 21h. Sábado à noite e novamente em Nirim às 22h28. Sábado à noite.
@@ -20,7 +19,7 @@ Pouco depois das 23h30, os terroristas de Gaza lançaram outro míssil, que caiu
 
 Na sexta-feira, 36 foguetes foram disparados de Gaza em direção ao sul de Israel. Soldados das FDI que comandavam o sistema de defesa antimísseis Iron Dome interceptaram seis foguetes direcionados a áreas povoadas.
 
-O Embaixador de Israel nos Estados Unidos e nas Nações Unidas, Gilad Erdan, respondeu: "Enquanto os terroristas do Hamas continuam a disparar foguetes contra civis inocentes, incluindo crianças, a comunidade internacional deve se unir aos Estados Unidos na condenação inequívoca desses ataques. Meu coração está com todas as famílias em Israel que está sofrendo com fortes disparos de foguetes. 
+O Embaixador de Israel nos Estados Unidos e nas Nações Unidas, Gilad Erdan, respondeu: "Enquanto os terroristas do Hamas continuam a disparar foguetes contra civis inocentes, incluindo crianças, a comunidade internacional deve se unir aos Estados Unidos na condenação inequívoca desses ataques. Meu coração está com todas as famílias em Israel que está sofrendo com fortes disparos de foguetes.
 
 "
 
@@ -32,7 +31,5 @@ Fonte: https://www.israelnationalnews.com
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)
 
 Assine com PIX

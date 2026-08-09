@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Recurso será utilizado para contratação de 200 horas de voo para o combate às chamas, locação de helicópteros e compra de equipamentos para a contenção e extinção do fogo, como mangueiras e abafadores. O repasse se soma a outros R$ 562,8 mil já transferidos pela União.
 
 O Governo Federal liberou R$ 3,8 milhões para ajudar o Mato Grosso do Sul no combate aos incêndios, em especial na região do Pantanal. O anúncio da verba foi feito durante reunião no estado, na terça-feira (15), pelos ministros da Agricultura, Tereza Cristina, e do Desenvolvimento Regional, Rogério Marinho, com o governador Reinaldo Azambuja. O repasse se soma a outros R$ 562,8 mil já transferidos pela União para auxiliar no enfrentamento ao fogo.
@@ -34,5 +33,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

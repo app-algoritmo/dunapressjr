@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Medida está publicada no Diário Oficial da União de hoje (25).
 
 Está publicada na edição desta segunda-feira (25) do [Diário Oficial da União](http://www.in.gov.br/en/web/dou/-/lei-n-14.002-de-22-de-maio-de-2020-258265768) a sanção parcial da lei que cria a nova Embratur. Ao todo, cinco pontos do texto aprovado por deputados e senadores foram vetados, entre eles incentivos fiscais voltados para o setor do turismo. Em sessão conjunta do Congresso Nacional, que ainda não tem data marcada, os parlamentares podem acatar ou derrubar os vetos.
@@ -25,5 +24,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

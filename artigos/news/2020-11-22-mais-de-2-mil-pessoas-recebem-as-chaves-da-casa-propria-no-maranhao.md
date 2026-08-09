@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O sonho da casa própria se tornou realidade para mais de 2,2 mil moradores de Açailândia (MA). Em um evento que contou com a presença do secretário Nacional de Habitação do Ministério do Desenvolvimento Regional (MDR), Alfredo Eduardo dos Santos, os contemplados receberam as chaves de 562 unidades do Residencial Jardim de Aulídia VI e VII, no qual foram investidos cerca de R$ 31 milhões do Governo Federal.
 
 O empreendimento, situado na área de expansão do município maranhense, está a 2,9 quilômetros do centro da cidade e é composto por residências térreas germinadas. As casas, com 48,13 m², têm dois quartos, sala, cozinha, banheiro e área de serviço, com valor individual de R$ 55,1 mil.
@@ -25,5 +24,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

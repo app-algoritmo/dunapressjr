@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-A Secretaria Municipal de Saúde informa que começa na segunda-feira (05) a Campanha Nacional de Vacinação contra a Poliomielite (paralisia infantil) e a Campanha Nacional de Multivacinação para atualização das cadernetas de vacina de crianças e adolescentes de até 15 anos. O Dia D das campanhas será em 17 de outubro (sábado), quando todas as unidades básicas de saúde estarão abertas à população das 8h às 17h. 
+A Secretaria Municipal de Saúde informa que começa na segunda-feira (05) a Campanha Nacional de Vacinação contra a Poliomielite (paralisia infantil) e a Campanha Nacional de Multivacinação para atualização das cadernetas de vacina de crianças e adolescentes de até 15 anos. O Dia D das campanhas será em 17 de outubro (sábado), quando todas as unidades básicas de saúde estarão abertas à população das 8h às 17h.
 
 Até o final da campanha, a meta é imunizar 14.857 mil crianças de um ano a menores de cinco anos contra a poliomielite. Além disso, a Secretaria de Saúde busca incentivar pais e responsáveis para que coloquem em dia as vacinas de crianças e adolescentes até 15 anos. O objetivo é diminuir a incidência, eliminar ou erradicar doenças imunopreveníveis, como BCG, Hepatite B, poliomielite, tétano, coqueluche, meningite, entre outras.
 
@@ -26,5 +25,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

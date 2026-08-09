@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Alta acumula ganhos de 1,6% nos três primeiros meses.
 
 O volume de vendas do comércio varejista do país avançou 1% de fevereiro para março deste ano. Essa é a terceira alta consecutiva do indicador, que acumula ganhos de 1,6% nos três primeiros meses do ano, segundo dados da Pesquisa Mensal do Comércio (PMC), divulgados nesta terça-feira (10) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

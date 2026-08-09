@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Programa Diagnosticar para Cuidar foi criado pelo Ministério da Saúde para a realização de 46 milhões de testes de Covid-19 neste ano, o que vai representar cerca de 22% da população brasileira. Além da ampliação da testagem, o programa pretende avaliar o comportamento do vírus no Brasil, assim como a velocidade da expansão da infecção ao longo do tempo e por região.
 
 Dividido em duas frentes, a ação “Confirma Covid-19” utiliza o teste de biologia molecular, o RT-PCR, em até sete dias do início dos sintomas, ou seja, quando o vírus está agindo no organismo do paciente. Nessa frente, são testadas apenas as pessoas com sintomas da doença, sejam leves, moderados ou graves. A segunda frente é o “Testa Brasil”, que pretende alavancar o uso dos testes rápidos (sorologia) no País para entender a progressão do vírus nacionalmente. Esse teste identifica a resposta do organismo à infecção pela Covid-19, ou seja, o anticorpo. Ele deve ser feito a partir do oitavo dia de início dos sintomas, tempo suficiente para que o organismo desenvolva defesa contra o vírus. Serão testadas as pessoas com sintomas da doença.
@@ -120,5 +119,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

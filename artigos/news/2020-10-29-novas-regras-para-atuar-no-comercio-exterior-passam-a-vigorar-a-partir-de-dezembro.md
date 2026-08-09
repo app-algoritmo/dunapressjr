@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Instrução Normativa regulamenta a habilitação para atuar no comércio exterior prevê menos burocracia.
 
 A Receita Federal publicou na edição de hoje do Diário Oficial da União a [Instrução Normativa RFB nº 1.984/2020](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=113361), que trata da habilitação de declarantes de mercadorias para atuarem no comércio exterior, bem como as regras para credenciamento de responsáveis e representantes nos sistemas informatizados do órgão. Com o intuito de diminuir a burocracia e facilitar o fluxo de mercadorias, a habilitação passa a ser concedida via de regra de forma automática, através do sistema Habilita, localizado no Portal Único do Comércio Exterior.
@@ -21,5 +20,3 @@ A habilitação automática busca agilizar o processo e trazer simplificação p
 Fonte: Receita Federal – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

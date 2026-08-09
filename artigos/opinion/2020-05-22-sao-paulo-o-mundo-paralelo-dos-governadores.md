@@ -7,7 +7,6 @@ categories:
 - Opinion
 ---
 
-
 Nestas últimas semanas, a capital de São Paulo vem passando por uma série de errôneas decisões por parte de seus governadores, tanto vindas do Governador João Doria, quanto do prefeito da cidade, Bruno Covas. O intuito “aparente” de salvaguardar as vidas das pessoas esbarra na irrealidade destas decisões, tendo por fim um efeito que deveria ser de fácil premunição.
 
 Semana passada Bruno Covas utiliza-se do transito para poder controlar uma pandemia, digo isto sem exageros. A ideia a princípio era de criar um rodizio a partir da combinação da numeração do digito final das placas dos carros para com os dias do calendário. Basicamente, se o final de sua placa for par, hoje, dia 22, você poderia ir trabalhar utilizando seu veículo, mas seria diferente se fosse ímpar.
@@ -42,4 +41,4 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-[https://dunapress.org/subscription-plan/?ref=Vitor](https://dunapress.org/subscription-plan/?ref=Vitor)
+[https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)

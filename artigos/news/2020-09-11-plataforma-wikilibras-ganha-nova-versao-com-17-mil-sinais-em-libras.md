@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Nova versão permite mais colaboração dos usuários e criação de sinais automatizada, além de cursos de capacitação. 
+Nova versão permite mais colaboração dos usuários e criação de sinais automatizada, além de cursos de capacitação.
 
 A plataforma Wikilibras ganhou uma nova versão com mais funcionalidades para atender as pessoas com deficiência e garantir a acessibilidade. A Wikilibras soma 17 mil sinais disponíveis em Língua Brasileira de Sinais (Libras) e três milhões de traduções realizadas por mês.
 
@@ -45,5 +44,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A taxa é superior a 1,15% observado em setembro.
 
 O Índice Nacional de Custo da Construção-M (INCC-M), da Fundação Getulio Vargas (FGV), que registra a variação de preços da construção civil nacional, registrou taxa de inflação de 1,69% em outubro deste ano. A taxa é superior a 1,15% observado em setembro.
@@ -19,5 +18,3 @@ Em outubro, os materiais e equipamentos tiveram inflação de 4,12% (acima dos 2
 Fonte: Agência Brasil – Imagem de destaque: Tânia Rêgo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Exportações do setor cresceram 57,5% em relação a janeiro de 2021.
 
 A balança comercial do agronegócio brasileiro apresentou saldo positivo, em janeiro deste ano, de US$ 7,7 bilhões. As exportações do setor cresceram 57,5% em relação ao mesmo mês do ano passado, com resultado em valor de US$ 8,8 bilhões, enquanto as importações caíram para US$ 1,1 bilhão, queda de 15,5% na mesma comparação.
@@ -54,8 +53,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

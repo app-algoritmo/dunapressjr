@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Pesquisadores da Universidade Federal de Uberlândia (UFU), em Minas Gerais, procuram moléculas que impeçam a entrada do coronavírus nas células. A ideia é encontrar propriedades na saliva que bloqueiem o agente causador da COVID-19, diminuindo a transmissibilidade do vírus. O projeto foi selecionado no Programa de Combate a Epidemias da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).
 
 Robinson Sabino, coordenador do projeto, afirma que a pesquisa foi idealizada ao observar as outras linhas adotadas ao redor do mundo, em várias frentes, para o combate à pandemia. “Vimos que havia trabalhos da ciência em busca de vacinas, novos fármacos e melhoras no diagnóstico. O que achamos que estava faltando? Moléculas que pudessem prevenir as pessoas de pegar a doença”, afirma.
@@ -31,7 +30,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

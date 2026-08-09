@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Pesquisadores indicam ainda que maiores níveis de estresse, ansiedade e depressão durante a pandemia são identificados em solteiros.
 
 De acordo com a 46º edição das Estatísticas do Registro Civil do Instituto Brasileiro de Geografia e Estatística (IBGE), o tempo médio de duração dos casamentos no Brasil reduziu de 17,5 anos para 13,8 anos, ou seja, cerca de quatro anos a menos, em dez anos (2009-2019). Quase metade dos casamentos que foram desfeitos em 2019 duraram menos de 10 anos. Na contramão desses números, porém, um estudo publicado no Journal of Marriage and Family (JMF) sugere que pessoas em relacionamentos conjugais parecem ser mais saudáveis, tendem a procurar menos um serviço médico e, nos casos de internamento hospitalar, o tempo de permanência no hospital é menor.
@@ -18,7 +17,7 @@ Uma das hipóteses é de que existe uma seletividade na escolha do parceiro que 
 
 A professora lista quatro fatores que podem justificar que pessoas em um relacionamento conjugal tendem a ser mais saudáveis: o aumento dos recursos materiais, que são somados; menores níveis de estresse; maior adesão a comportamentos seguros e saudáveis e não exposição a riscos; e maior apoio social. "Os cônjuges podem atuar como zeladores domésticos, evitando assim a necessidade de assistência médica formal. Dessa forma, eles podem auxiliar na adesão à medicação, preparando e incentivando o consumo de refeições saudáveis ou garantindo o comparecimento às consultas médicas", exemplifica.
 
-Além disso, a professora explica que a união de casais pode suscitar uma "capacidade sobressalente", que é a habilidade de dedicação de tempo, esforço e recursos de saúde disponíveis para melhorar a saúde, como resultado da divisão do trabalho e responsabilidades dentro de casa. "Aumenta o envolvimento no compartilhamento de recursos e investimentos mútuos. Existem efeitos psicológicos e físicos para a saúde da coabitação conjugal", ressalta. A professora observa, no entanto, que os benefícios do relacionamento conjugal não são percebidos em relações abusivas, já que nesses casos existe uma relação de poder e não de partilha de cuidado. 
+Além disso, a professora explica que a união de casais pode suscitar uma "capacidade sobressalente", que é a habilidade de dedicação de tempo, esforço e recursos de saúde disponíveis para melhorar a saúde, como resultado da divisão do trabalho e responsabilidades dentro de casa. "Aumenta o envolvimento no compartilhamento de recursos e investimentos mútuos. Existem efeitos psicológicos e físicos para a saúde da coabitação conjugal", ressalta. A professora observa, no entanto, que os benefícios do relacionamento conjugal não são percebidos em relações abusivas, já que nesses casos existe uma relação de poder e não de partilha de cuidado.
 
 Segundo a professora, idosos divorciados e viúvos apresentam maior chance de demência e maior chance de prejuízo nos domínios cognitivos; idosos que nunca foram casados têm maior chance de prejuízo na memória e adultos com mais de 40 anos e solteiros, especialmente aqueles que não estão em um relacionamento, tendem a ser menos ativos fisicamente do que pessoas casadas. Outro dado interessante é que as mulheres solteiras experimentaram diminuição da qualidade de vida em relação à saúde e uma recuperação mais lenta no primeiro ano em casos de cirurgia cardíaca. "Além disso, diversas pesquisas em diferentes países do mundo que estão avaliando a saúde mental das pessoas na pandemia da Covid-19 têm evidenciado que indivíduos solteiros estão experimentando maiores níveis de estresse, ansiedade e principalmente depressão durante a pandemia", revela Janete.
 
@@ -30,5 +29,3 @@ Fonte: Central Press
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

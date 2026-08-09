@@ -7,7 +7,6 @@ categories:
 - Policy
 ---
 
-
 Com o fim da janela partidária, na sexta-feira (1º), o PL se tornou a maior bancada da Câmara, com 73 deputados no momento. É mais do que o dobro do que o partido tinha na época da posse, quando contava com 33 deputados.
 
 A janela partidária permite que deputados federais e estaduais mudem de partido sem correr o risco de perder o mandato. Mesmo com o fim do prazo, os números ainda podem mudar, já que filiações registradas no sistema do Tribunal Superior Eleitoral até sexta-feira podem ser comunicadas posteriormente à Secretaria-Geral da Mesa da Câmara dos Deputados.
@@ -48,7 +47,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

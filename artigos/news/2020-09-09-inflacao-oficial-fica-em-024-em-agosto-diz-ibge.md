@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Custo da gasolina, do diesel e etanol influenciou no resultado.
 
 A inflação oficial, medida pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA), ficou em 0,24% em agosto deste ano. O resultado ficou abaixo do 0,36% de julho deste ano, mas é a maior taxa para um mês de agosto desde 2016, quando ficou em 0,44%.
@@ -27,5 +26,3 @@ Por outro lado, apresentaram deflação (queda de preços) os gastos com vestuá
 Fonte: Agência Brasil – Imagem de destaque: José Cruz/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

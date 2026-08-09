@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Sua idade o coloca em um pequeno grupo de pessoas que sobreviveram ao COVID-19 e à pandemia de gripe espanhola há um século.
 
 Um monge etíope pode ser a pessoa mais velha a ter sobrevivido ao coronavírus, derrotando a doença após ser hospitalizado por três semanas.
@@ -26,7 +25,7 @@ Sua idade venerável significa que ele teria vivido a pandemia de gripe espanhol
 
  Acredita-se que entre 5.000 e 10.000 pessoas tenham morrido apenas da gripe em Adis Abeba.Sabe-se agora que várias pessoas sobreviveram às duas pandemias, com um século de diferença. 
 
-Além de Woldemichael e Branyas, está Sylvia Goldsholl, de Nova Jersey, que comemorou seu 108º aniversário em 29 de dezembro de 2019. “Eu sobrevivi a tudo porque estava determinada a sobreviver”, disse Goldsholl ao News 12 New Jersey. 
+Além de Woldemichael e Branyas, está Sylvia Goldsholl, de Nova Jersey, que comemorou seu 108º aniversário em 29 de dezembro de 2019. “Eu sobrevivi a tudo porque estava determinada a sobreviver”, disse Goldsholl ao News 12 New Jersey.
 
 Ada Zanusso, 103, de Lessona na Itália, não apenas viveu os dois eventos, mas também foi infectada e sobreviveu, sofrendo uma febre leve com o COVID-19.
 
@@ -40,6 +39,6 @@ Fonte The Jerusalem Post****
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

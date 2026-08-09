@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-Perseverança. Essa foi a palavra mais buscada no Dicionário Cambridge, um dos mais importantes da língua inglesa no mundo. Procurado mais de 243 mil vezes no site do dicionário em 2021, o termo é definido como "esforço contínuo para fazer ou alcançar algo, mesmo quando isso é difícil ou leva muito tempo”. Em um momento tão complexo da história humana, as buscas por um termo positivo como esse são significativas, do ponto de vista psicológico. 
+Perseverança. Essa foi a palavra mais buscada no Dicionário Cambridge, um dos mais importantes da língua inglesa no mundo. Procurado mais de 243 mil vezes no site do dicionário em 2021, o termo é definido como "esforço contínuo para fazer ou alcançar algo, mesmo quando isso é difícil ou leva muito tempo”. Em um momento tão complexo da história humana, as buscas por um termo positivo como esse são significativas, do ponto de vista psicológico.
 
 Para a mestre em Psicologia e professora do curso de Psicologia da Universidade Positivo, Josy Cristine Martins, “com a necessidade prolongada de isolamento social, as dificuldades econômicas, de trabalho, nas relações pessoais e sociais, não é de se estranhar a grande busca pelo termo perseverança”. Ela explica que essa é uma palavra que se refere à constância, à persistência, ao manter-se firme. “Algo que todos nós, em maior ou menor nível, estamos precisando para conseguirmos lidar com tantas adversidades e perdas”, completa.
 
@@ -36,7 +35,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

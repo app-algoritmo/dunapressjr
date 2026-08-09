@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Operação Virion investiga irregularidades na aquisição de equipamentos para o combate à Covid-19. Prejuízo potencial é da ordem de R$ 12 milhões.
 
 A Controladoria-Geral da União (CGU) participa, nesta quinta-feira (13), em Boa Vista (RR), da Operação Virion. O trabalho é realizado em parceria com a Polícia Federal (PF). O objetivo é investigar suspeitos de integrarem uma organização criminosa, que teria se formado durante a pandemia, para fraudar licitações de produtos e serviços destinados ao enfrentamento da Covid-19 em Roraima.
@@ -34,4 +33,4 @@ A Operação Virion consiste no cumprimento de 36 mandados de busca e apreensão
 
 Fonte: Controladoria-Geral da União
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

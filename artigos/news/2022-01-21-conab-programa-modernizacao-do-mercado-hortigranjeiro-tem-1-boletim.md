@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Ceasas registram queda no preço da batata e alta da cebola.
 
 A Companhia Nacional de Abastecimento (Conab) registrou oferta recorde de batata nas centrais de Abastecimento (Ceasas), no mês de dezembro. De acordo com o 1º Boletim do Programa Brasileiro de Modernização do Mercado Hortigranjeiro (Prohort), divulgado nesta quinta-feira (20) pela companhia, o cenário proporcionou queda de preços em quase todos os mercados atacadistas analisados.
 
-A exceção foi apenas Rio Branco (AC), onde houve alta mensal de 8,11%. Nas demais, as reduções chegaram a 36,86% em Curitiba (PR), 30% no Rio de Janeiro, 27,3% em São Paulo, 22,92% em Belo Horizonte e 15,23% em Campinas (SP), detalha o boletim. Com isso, a batata foi vendida, em média, a R$ 0,77 o quilo no Rio de Janeiro e a R$ 1,48 em Belo Horizonte, estados onde a hortaliça saiu mais barata. Ainda segundo o levantamento, outros mercados também apresentaram cotações mais baixas. É o caso de Brasília (4,21%),  do Recife (4%) e de Fortaleza (3,77%).
+A exceção foi apenas Rio Branco (AC), onde houve alta mensal de 8,11%. Nas demais, as reduções chegaram a 36,86% em Curitiba (PR), 30% no Rio de Janeiro, 27,3% em São Paulo, 22,92% em Belo Horizonte e 15,23% em Campinas (SP), detalha o boletim. Com isso, a batata foi vendida, em média, a R$ 0,77 o quilo no Rio de Janeiro e a R$ 1,48 em Belo Horizonte, estados onde a hortaliça saiu mais barata. Ainda segundo o levantamento, outros mercados também apresentaram cotações mais baixas. É o caso de Brasília (4,21%), do Recife (4%) e de Fortaleza (3,77%).
 
 O Boletim Prohort faz levantamento de dados estatísticos da Conab, tendo por base nove das principais centrais de abastecimento do país. Entre as hortaliças e frutas analisadas estão alface, batata, cebola, cenoura, tomate, banana, laranja, maçã, mamão e melancia.
 
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Delegação iniciou reuniões e visitas técnicas com foco em desenvolvimento nas áreas de mobilidade e logística, semicondutores, energia renovável e infraestrutura, entre outros temas.
 
 O Ministério da Economia iniciou nesta segunda-feira (12) uma missão ao Japão visando ampliar as relações econômicas e comerciais entre os dois países, com expectativa de crescimento do intercâmbio comercial e de novos investimentos. Além de visitas técnicas a plantas industriais, a delegação – chefiada pelo secretário especial de Produtividade e Competitividade, Alexandre Ywata – participará da 14ª Reunião do Comitê Conjunto Brasil-Japão sobre Promoção do Comércio, Investimentos e Cooperação Industrial (Comitê Meti-ME) e da 25ª Reunião Plenária do Conselho Empresarial Brasil-Japão (Cebraj).
@@ -31,8 +30,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Previsão para expansão do PIB caiu para 5,27 em 2021.
 
 A previsão do mercado financeiro para o Índice Nacional de Preços ao Consumidor Amplo (IPCA - a inflação oficial do país) deste ano subiu de 7,05% para 7,11%. É a vigésima elevação consecutiva na projeção. A estimativa está no boletim Focus desta segunda-feira (23), pesquisa divulgada semanalmente pelo Banco Central (BC), com a projeção para os principais indicadores econômicos.
@@ -34,10 +33,6 @@ A expectativa para a cotação do dólar se manteve em R$ 5,10 para o final dest
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

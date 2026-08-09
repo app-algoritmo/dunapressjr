@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Com a chegada da Black Friday nesta sexta-feira, 27, é importante reforçar os cuidados na hora de realizar as compras. O Procon/SC, uma diretoria da Secretaria de Estado do Desenvolvimento Econômico Sustentável (SDE), preparou uma série de dicas para tranquilizar e orientar os consumidores, a fim de evitar fraudes ou que clientes sejam lesados.
 
 A primeira dica é pesquisar bem, para evitar comprar em lojas que elevam os preços antecipadamente para depois oferecer o desconto. Se houver aumento de preços, eles terão que ser justificados pelos estabelecimentos.
@@ -38,7 +37,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

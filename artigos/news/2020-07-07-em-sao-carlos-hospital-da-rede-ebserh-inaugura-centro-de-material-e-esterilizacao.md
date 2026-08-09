@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A construção do CME é fruto de R$ 7,5 milhões investidos pela Empresa Brasileira de Serviços Hospitalares (Ebserh).
 
 São Carlos (SP) – O Hospital Universitário da Universidade Federal de São Carlos, vinculado à Rede Ebserh (HU-UFSCar/Ebserh) inaugurou seu Centro de Material e Esterilização (CME). O novo setor é um importante serviço de apoio dentro da estrutura hospitalar que contribui para o trabalho de todas as equipes do HU e, consequentemente, para a qualidade do atendimento.
@@ -36,7 +35,7 @@ Fonte: gov.br / Imagem em destaque: portalmec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

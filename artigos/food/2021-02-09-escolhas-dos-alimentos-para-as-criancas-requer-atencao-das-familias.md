@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 Com tanta oferta de alimentos embalados em caixas coloridas e com preparo fácil, prático e rápido, o hábito de ingerir produtos saudáveis, in natura ou minimamente processados, está cada vez mais raro. Para a nutricionista da UERJ - Universidade do Estado do Rio de Janeiro, Ines Rugani, uma das medidas para combater a obesidade é incentivar as pessoas a frequentar feiras de frutas e hortaliças dos bairros onde vivem. “A escolha saudável deve ser uma escolha fácil. Cabe à sociedade e ao poder público fazer com que essa escolha seja fácil. Não há possibilidade de combater a obesidade na infância sem interferir nos ambientes”, reforça.
 
 A nutricionista destaca ainda que as crianças imitam o que é feito em casa. Por isso, segundo ela, a conduta alimentar da casa está associada ao peso e ao comportamento das crianças. Rugani acrescenta que os parentes devem ficar atentos ao ambiente onde a criança está inserida e evitar alimentos ultraprocessados (como macarrão instantâneo, salgadinhos de pacote e refrigerantes) e, consequentemente, uma futura obesidade infantil.  “O que entra em casa, como a família se organiza para que a casa tenha menos alimentos ultraprocessados, envolver a criança no processo de preparação do alimento de uma forma mais lúdica, para que ela possa conhecer mais os alimentos in natura, isso tudo pode ajudar a evitar a obesidade”, explica a nutricionista.
@@ -36,7 +35,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

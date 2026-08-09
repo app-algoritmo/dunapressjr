@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Inscrições vão até 26 de junho.
 
-Estudar sem sair de casa. Alunos de graduação e do terceiro ano do ensino médio podem se inscrever em 25 mil vagas de cursos gratuitos, em ambiente virtual, nas áreas de Matemática, Português e Tecnologia da Informação e Comunicação (TIC). As inscrições seguem até 26 de junho, na [plataforma AVAMEC](http://avamec.mec.gov.br/#/instituicao/capes). 
+Estudar sem sair de casa. Alunos de graduação e do terceiro ano do ensino médio podem se inscrever em 25 mil vagas de cursos gratuitos, em ambiente virtual, nas áreas de Matemática, Português e Tecnologia da Informação e Comunicação (TIC). As inscrições seguem até 26 de junho, na [plataforma AVAMEC](http://avamec.mec.gov.br/#/instituicao/capes).
 
 A série de conteúdos tem o objetivo de complementar ou aperfeiçoar a formação do participante. Em Português, o curso aborda conceitos básicos de texto, passando pelos processos e desafios da leitura e da escrita, até chegar a níveis mais avançados de interpretação e de escrita.
 
@@ -23,8 +22,6 @@ Fonte: gov.br/mec / Imagem em destaque: qb
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique aqui no banner abaixo para assinar.
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

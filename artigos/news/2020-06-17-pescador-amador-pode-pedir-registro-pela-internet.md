@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A pesca amadora é a atividade que tem por finalidade o lazer ou esporte.
 
 A partir desta segunda-feira (15), os pescadores amadores podem fazer seu registro on-line, por meio do portal de serviços Gov.BR. A automatização do serviço foi realizada pela Secretaria de Governo Digital, do Ministério da Economia, em parceria com a Secretaria de Aquicultura e Pesca, do Ministério da Agricultura, Pecuária e Abastecimento (Mapa).
@@ -27,5 +26,3 @@ As taxas anuais variam de R$ 20 a R$ 60, dependendo da categoria. Homens acima d
 Fonte: gov.br/agricultura / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

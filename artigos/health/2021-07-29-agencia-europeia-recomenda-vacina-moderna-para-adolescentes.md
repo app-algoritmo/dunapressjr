@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 O Comitê de Medicamentos Humanos da EMA ( [CHMP](https://www.ema.europa.eu/en/glossary/chmp) ) recomendou a concessão de uma extensão da [indicação](https://www.ema.europa.eu/en/glossary/indication) para a vacina [COVID](https://www.ema.europa.eu/en/medicines/human/EPAR/spikevax-previously-covid-19-vaccine-moderna) -19  [Spikevax (anteriormente COVID-19 Vaccine Moderna)](https://www.ema.europa.eu/en/medicines/human/EPAR/spikevax-previously-covid-19-vaccine-moderna)  para incluir o uso em crianças de 12 a 17 anos. A vacina já está autorizada para uso em pessoas com 18 anos ou mais.
 
 O uso da vacina Spikevax em crianças de 12 a 17 anos de idade será o mesmo que em pessoas com 18 anos ou mais. É administrado na forma de duas injecções nos músculos da parte superior do braço, com quatro semanas de intervalo.
@@ -51,7 +50,7 @@ As empresas são obrigadas a fornecer relatórios mensais de segurança, além d
 Essas medidas permitem que os reguladores avaliem rapidamente os dados provenientes de uma variedade de fontes diferentes e tomem as medidas regulatórias adequadas para proteger a saúde pública, se necessário.
 
 **Assessoria de imprensa da EMA,**
-tel. +31 (0) 88 781 8427 
+tel. +31 (0) 88 781 8427
 E-mail:  [press@ema.europa.eu](mailto:press@ema.europa.eu)
 
 **Ver também:**
@@ -63,7 +62,3 @@ E-mail:  [press@ema.europa.eu](mailto:press@ema.europa.eu)
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Considerada uma doença silenciosa por, na maioria das vezes, não manifestar sintomas ou causar mal-estar no paciente, a diabetes esteve entre as cinco principais causas de morte no Brasil em 2018. Por isso, a prevenção, o diagnóstico precoce e o tratamento correto são peças-chave no controle da doença.
 
 O Sistema Único de Saúde (SUS) oferece diagnóstico, acompanhamento e tratamento completo para a diabetes, inclusive com distribuição de insulina quando necessário. O atendimento conduzido pela Atenção Primária à Saúde pode evitar hospitalizações e complicações relacionadas à doença. As equipes de saúde da família fazem acompanhamento multiprofissional.
@@ -62,5 +61,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

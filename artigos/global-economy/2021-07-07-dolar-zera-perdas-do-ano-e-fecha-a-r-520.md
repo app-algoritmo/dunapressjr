@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa cai 1,44% e volta aos 125 mil pontos.
 
 Em um dia de nervosismo no mercado financeiro, o dólar teve forte alta e zerou as perdas do ano, influenciado por fatores domésticos e externos. A bolsa de valores caiu e fechou no menor nível desde o fim de maio.
@@ -20,14 +19,10 @@ No mercado de ações, o dia também foi marcado pela tensão. O índice Ibovesp
 
 Diversos fatores pressionaram o mercado nesta terça-feira. A escalada de casos de covid-19 provocados pela variante delta do novo coronavírus levou pessimismo ao mercado. Paralelamente, os investidores aguardam a divulgação da ata da última reunião do Federal Reserve o Banco Central dos Estados Unidos, prevista para esta quarta-feira (7), para terem um indicativo de quando a autoridade monetária começará a retirar os estímulos para a maior economia do planeta.
 
-Um impasse na Organização dos Países Exportadores de Petróleo (Opep) aumentou o nervosismo no mercado externo. A reunião da Opep foi cancelada por falta de acordo entre os membros em relação ao preço do petróleo. No Brasil, as tensões políticas e a divulgação de que a [**produção industrial caiu**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-07/atividade-industrial-cai-em-maio-mas-esta-acima-de-antes-da-pandemia) em maio  influenciaram as negociações.
+Um impasse na Organização dos Países Exportadores de Petróleo (Opep) aumentou o nervosismo no mercado externo. A reunião da Opep foi cancelada por falta de acordo entre os membros em relação ao preço do petróleo. No Brasil, as tensões políticas e a divulgação de que a [**produção industrial caiu**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-07/atividade-industrial-cai-em-maio-mas-esta-acima-de-antes-da-pandemia) em maio influenciaram as negociações.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

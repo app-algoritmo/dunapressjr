@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Hoje (11/10) é comemorado o Dia Mundial da Obesidade e Dia Nacional de Prevenção da Obesidade. Uma boa alimentação é sinônimo de vida saudável e auxilia na prevenção do surgimento de doenças crônicas e melhor qualidade de vida. A obesidade é um dos fatores de risco para a saúde, sendo importante fator de risco para condições crônicas, incluindo doenças cardiovasculares, diabetes, distúrbios músculo-esqueléticos (osteoartrite) e alguns tipos de câncer).
 
 É necessário ter bons hábitos e se conscientizar sobre os riscos de doenças relacionadas à má alimentação – consumo de alimentos ultraprocessados, como por exemplo, presuntos, salsichas, linguiças, mortadelas, refrigerantes, sucos artificiais, biscoitos recheados e macarrão instantâneo, e baixo consumo de alimentos in natura e minimamente processados.
@@ -39,7 +38,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## A revisão é resultado do gerenciamento de risco promovido pelo Departamento de Sanidade Vegetal e Insumos Agrícolas, que busca eficiência e redução dos impactos burocráticos na importação.
 
 O Ministério da Agricultura, Pecuária e Abastecimento alterou a lista de produtos vegetais passíveis de inspeção pela fiscalização federal no ponto de ingresso na importação. A alteração, publicada no site do [Sistema Integrado de Comércio Exterior](http://www.siscomex.gov.br/importacao/importacao-n-039-2020/) (Siscomex) na última sexta-feira (19), retirou a necessidade de intervenção do Mapa em produtos que estavam enquadrados em uma situação que implicava em inspeção para o ingresso em território nacional.
@@ -25,7 +24,7 @@ Fonte: gov.br / Imagem em destaque: douradosagora.com.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Proposta é do Ministério do Desenvolvimento Regional, gestor do fundo.
 
 Até 2025, mais de R$ 326 bilhões de recursos do Fundo de Garantia do Tempo de Serviço (FGTS) poderão ser usados para a contratação de projetos nas áreas de habitação, saneamento básico e infraestrutura urbana. O Conselho Curador do FGTS aprovou, ontem (18), o orçamento operacional do fundo para 2022 e o plano plurianual de aplicação para o período de 2023 a 2025.
@@ -24,10 +23,6 @@ O MDR também anunciou o lançamento de um novo painel de informações para aco
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

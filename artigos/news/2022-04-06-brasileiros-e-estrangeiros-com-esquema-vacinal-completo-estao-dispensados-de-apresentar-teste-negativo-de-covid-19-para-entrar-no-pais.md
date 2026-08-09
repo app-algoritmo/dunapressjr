@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Brasileiros e estrangeiros que queiram entrar no Brasil estão dispensados de apresentar teste de Covid-19 negativado caso estejam vacinados com as duas doses ou dose única. Além disso, não são mais necessários o preenchimento da Declaração de Saúde do Viajante (DSV) e período de quarentena. As novas normas estão em portaria conjunta assinada pelos Ministérios da Saúde, Casa Civil, Justiça e Segurança Pública e Infraestrutura.
 
 O comprovante do esquema completo de vacinação do viajante deve ser apresentado à empresa responsável pelo transporte de maneira impressa ou eletrônica e deve ser emitido pelo menos 14 dias antes do embarque.
@@ -32,7 +31,3 @@ Fonte: https://www.gov.br/saude
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

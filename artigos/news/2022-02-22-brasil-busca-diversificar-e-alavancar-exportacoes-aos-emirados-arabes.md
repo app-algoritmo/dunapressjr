@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Exportações para os países árabes só perdem para a China e os EUA.
 
 Apesar de ter os países árabes como terceiro maior parceiro comercial, o Brasil tem potencial para explorar novos mercados nesta região, defende Karen Jones, chefe operacional do escritório da Agência Brasileira de Promoção de Exportações e Investimentos (ApexBrasil) em Dubai. A declaração ocorreu durante encontro promovido para a imprensa nesta segunda-feira (21) nos Emirados Árabes Unidos.
@@ -16,7 +15,7 @@ Karen cita alguns exemplos de produtos com alto valor agregado como peças autom
 
 Atualmente, os principais produtos de exportação por parte do Brasil para a península arábica são as carnes, o minério de ferro, os derivados sucroalcooleiros, os cereais e a soja. Os envios para os países árabes só perdem para a China e os Estados Unidos.
 
-Em 2021, o fluxo de comércio entre os dois países totalizou US$ 3,3 bilhões, sendo que o Brasil exportou US$ 2,3 bilhões e importou - especialmente em petróleo e fertilizantes  - US$ 977 milhões. A conta gera um superávit de US$ 1,3 bilhão para o Brasil.
+Em 2021, o fluxo de comércio entre os dois países totalizou US$ 3,3 bilhões, sendo que o Brasil exportou US$ 2,3 bilhões e importou - especialmente em petróleo e fertilizantes - US$ 977 milhões. A conta gera um superávit de US$ 1,3 bilhão para o Brasil.
 
 Um dos aumentos mais expressivos está no setor de ovos in natura e processados, cuja alta chegou a 81,5% em 2021 em relação a 2020. Os Emirados Árabes Unidos lideram entre os principais destinos desse produto, tendo respondido por 6,9 mil toneladas de um total de 11,3 mil toneladas.
 
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

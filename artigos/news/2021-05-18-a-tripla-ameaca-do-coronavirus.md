@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Um novo estudo expõe como o SARS-CoV-2 interfere no hardware da célula para enganar o sistema imunológico.
 
 Acredita-se que os sintomas graves de COVID-19, que geralmente levam à morte, resultem da própria resposta imunológica aguda do paciente, e não do dano infligido diretamente pelo vírus. Imensos esforços de pesquisa são, portanto, investidos em descobrir como o vírus consegue montar uma invasão eficaz enquanto desvia o sistema imunológico do curso.
@@ -47,7 +46,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

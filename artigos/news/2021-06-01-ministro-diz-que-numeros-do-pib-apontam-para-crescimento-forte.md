@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## IBGE informou hoje que o PIB cresceu 1,2% no primeiro trimestre.
 
 O ministro da Economia, Paulo Guedes, disse hoje (1º), em Brasília, que o resultado do Produto Interno Bruto (PIB) no primeiro trimestre de 2021 aponta para um crescimento forte da economia este ano. Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), **[houve crescimento de 1,2%](https://dunapress.org/2021/06/01/pib-tem-alta-de-12-no-primeiro-trimestre-de-2021/)**, na comparação com os últimos três meses do ano passado. O PIB é a soma de todas as riquezas produzidas no país.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

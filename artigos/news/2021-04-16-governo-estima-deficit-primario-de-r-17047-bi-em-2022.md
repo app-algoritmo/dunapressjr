@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Contas federais ficariam negativas até pelo menos 2024.
 
 As contas públicas do Governo Central (Tesouro Nacional, Previdência Social e Banco Central) deverão fechar 2022 com déficit primário de R$ 170,47 bilhões. A meta fiscal consta do Projeto da Lei de Diretrizes Orçamentárias (PLDO) de 2022, enviado nesta quinta-feira (15) ao Congresso Nacional.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

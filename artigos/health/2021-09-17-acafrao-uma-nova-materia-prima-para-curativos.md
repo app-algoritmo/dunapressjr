@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Pesquisa inovadora pode ajudar na cicatrização de pequenos ferimentos.
 
 Paulo Augusto Marques Chagas é graduado em Engenharia Biotecnológica pela Universidade Estadual Paulista Júlio de Mesquita (Unesp) e doutor em Biotecnologia pela Universidade Federal de São Carlos (UFSCar). Desde 2016 trabalha na área de novos materiais e nanotecnologia, especialmente na produção de nanomateriais poliméricos, usados para a liberação controlada de fármacos. Recentemente, apresentou um curativo nanotecnológico de múltipla função, feito à base de curcumina, substância ativa da cúrcuma, ou açafrão.
@@ -41,7 +40,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

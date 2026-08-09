@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Euforia global faz bolsa encostar em 110 mil pontos.
 
 Em um dia de euforia nos mercados globais, a bolsa de valores encostou em 110 mil pontos, e o dólar teve a maior queda em uma semana. A sessão foi marcada por notícias nos Estados Unidos que animaram os investidores em todo o planeta.
@@ -27,5 +26,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

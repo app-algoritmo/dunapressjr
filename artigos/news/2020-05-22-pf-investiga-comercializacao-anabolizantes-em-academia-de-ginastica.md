@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Curitiba/PR - A Polícia Federal cumpriu nesta sexta-feira, 22/5, dois mandados de busca e apreensão em residência e academia de ginástica vinculadas a suspeito de venda ilegal de anabolizantes.
 
 A investigação teve início a partir da retenção de objetos postais no Centro de Encomendas Internacionais dos Correios em Pinhais/PR, que tinham como conteúdo os anabolizantes TESTOSTERONA, NANDROLONA, TREMBOLONA DROSTANOLONA e OXANDROLONA, a fim de investigar conjuntamente a prática do delito previsto no art. 273, §1°-B do Código Penal.
@@ -23,5 +22,3 @@ As suspeitas indicam que o investigado se utiliza de sua academia de ginástica 
 As penas dos crimes praticados podem chegar a reclusão, de 10 a 15 anos, e multa.
 
 Comunicação Social da Polícia Federal em Curitiba/PR
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -8,7 +8,6 @@ categories:
 - Video library
 ---
 
-
 A **Segunda Guerra Mundial** foi um conflito de proporções globais que aconteceu entre 1939 e 1945. Caracterizada como um conflito em estado de guerra total (no qual há mobilização de todos os recursos para a guerra), a Segunda Guerra Mundial fez **Aliados** e **Eixo** enfrentarem-se na Europa, África, Ásia e Oceania. Após seis anos de conflito, mais de 60 milhões de pessoas morreram.
 
 Embora existam estatísticas que sugiram que a guerra provocou mais que 70 milhões de mortos. O conflito teve como estopim a **invasão da Polônia** pelos alemães em 1º de setembro de 1939.
@@ -21,4 +20,4 @@ A Segunda Guerra teve fim oficialmente em 2 de setembro de 1945, quando os japon
 
 https://videopress.com/v/0BgRD8C2?preloadContent=metadata
 
-[Videoteca - Clique para assistir](https://vimeo.com/dunapressjornal)[](http://savefrom.net/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Drm-OYvsGOKY%26list%3DPLkwN2IMd6ErlzYUiBo9Do5Eu_Wk5hMkq6&utm_source=userjs-chrome&utm_medium=extensions&utm_campaign=link_modifier)
+[Videoteca - Clique para assistir](https://vimeo.com/dunapressjornal)

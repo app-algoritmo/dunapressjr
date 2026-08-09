@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Órgão mantém estimativa de crescimento de 0,8% para 2023.
 
 A economia brasileira deverá terminar o ano com crescimento de 2,5%, segundo novas estimativas divulgadas nesta terça-feira (4) pelo Banco Mundial. A projeção anterior estava em 1,5%. Para 2023, o organismo internacional manteve em 0,8% a previsão de crescimento do Produto Interno Bruto (PIB).
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

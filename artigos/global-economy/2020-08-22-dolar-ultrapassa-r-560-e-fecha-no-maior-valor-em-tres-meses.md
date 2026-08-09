@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## **Após dias de oscilações, bolsa encerra semana com estabilidade**.
 
 A manutenção do veto ao reajuste para parte dos servidores públicos não aliviou as pressões no mercado financeiro. O dólar ultrapassou a barreira de R$ 5,60 e fechou no maior nível em três meses. A bolsa de valores oscilou bastante, até fechar perto da estabilidade.
@@ -23,5 +22,3 @@ Apesar de a Câmara dos Deputados ter mantido o congelamento do salário dos ser
 O texto a ser enviado ao Congresso indicará se o governo pretende continuar a cumprir o teto federal de gastos no próximo ano, depois da queda nas receitas e do aumento das despesas provocados pela pandemia do novo coronavírus.
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

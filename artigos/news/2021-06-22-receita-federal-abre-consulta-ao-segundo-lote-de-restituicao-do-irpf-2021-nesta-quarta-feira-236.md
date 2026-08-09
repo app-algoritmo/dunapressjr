@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Serão contemplados 4,2 milhões de contribuintes, entre prioritários e não prioritários; valor total do crédito é de R$ 6 bilhões.
 
 A Receita Federal abrirá para consulta o segundo lote de restituição do Imposto de Renda Pessoa Física (IRPF 2021) a partir das 10 horas desta quarta-feira (23/6. O lote contempla também restituições residuais dos exercícios de 2008 a 2020.
@@ -23,14 +22,10 @@ A Receita oferece também aplicativo para *tablets* e *smartphones *que possibil
 
 O pagamento da restituição é realizado diretamente na conta bancária informada na Declaração de Imposto de Renda. Se, por algum motivo, o crédito não for realizado – por exemplo, a conta informada foi desativada –, os valores ficarão disponíveis para resgate por até um ano no Banco do Brasil. Neste caso, o cidadão poderá reagendar o crédito dos valores de forma simples e rápida pelo [Portal BB](https://www.bb.com.br/irpf), ou ligando para a Central de Relacionamento BB por meio dos telefones 4004-0001 (capitais), 0800-729-0001 (demais localidades) e 0800-729-0088 (telefone especial exclusivo para deficientes auditivos).
 
-Caso o contribuinte não resgate o valor de sua restituição no prazo de um  ano, deverá requerê-lo pelo Portal e-CAC, disponível no site da Receita Federal, acessando o menu Declarações e Demonstrativos > Meu Imposto de Renda >  Solicitar restituição não resgatada na rede bancária.
+Caso o contribuinte não resgate o valor de sua restituição no prazo de um ano, deverá requerê-lo pelo Portal e-CAC, disponível no site da Receita Federal, acessando o menu Declarações e Demonstrativos > Meu Imposto de Renda > Solicitar restituição não resgatada na rede bancária.
 
 Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

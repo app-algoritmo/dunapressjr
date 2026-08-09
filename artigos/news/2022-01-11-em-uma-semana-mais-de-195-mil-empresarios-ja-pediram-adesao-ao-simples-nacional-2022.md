@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Prazo para optar pelo regime tributário diferenciado, simplificado e favorecido vai até 31 de janeiro; resultado será divulgado em 15 de fevereiro.
 
 Desde o dia 3 de janeiro, os empresários de todo o país já podem optar pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte – mais conhecido como Simples Nacional. Até o momento 195.255 empresários fizeram o pedido de adesão. O resultado final será divulgado em 15 de fevereiro de 2022.
@@ -21,10 +20,6 @@ Para empresas em início de atividade, o prazo para a solicitação é de 30 dia
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

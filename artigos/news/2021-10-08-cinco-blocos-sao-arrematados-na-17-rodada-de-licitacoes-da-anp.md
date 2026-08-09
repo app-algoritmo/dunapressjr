@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bônus arrecadado totaliza R$ 37 milhões.
 
 Cinco blocos localizados na Bacia de Santos totalizando uma área de 3.425,50 quilômetros quadrados (km²) foram arrematados nesta quinta-feira (7) na 17ª Rodada de Licitações de blocos para exploração e produção de petróleo e gás natural da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP).
@@ -18,10 +17,6 @@ Foram arrematados dois blocos do setor SS-AP4 e três blocos no setor SS-AUP4. A
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

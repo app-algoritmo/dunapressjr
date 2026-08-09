@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Aplicativo de ensino a distância usado em algumas redes estaduais, visita de deputados a hospital de campanha e parceria com empresa chinesa para testes de vacina contra o coronavírus foram alguns dos assuntos tratados na Tribuna Virtual desta segunda-feira (15/6).
 
 O deputado Carlos Giannazi (PSOL) comentou matéria do site The Intercept a respeito dos aplicativos no Estado de São Paulo para aulas a distância durante a pandemia. "A empresa responsável pelo aplicativo é ligada a políticos bolsonaristas", afirmou Giannazi. "Estou acionando o Ministério Público estadual", informou.
@@ -26,7 +25,7 @@ Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com inf
 
 Clique no link abaixo para assinar
 
-### [https://dunapress.org/subscription-plan/?aff=Vitor](https://dunapress.org/subscription-plan/?aff=Vitor)
+### [https://dunapress.org/subscription-plan/](https://dunapress.org/subscription-plan/)
 
 Experimente por 7 Dias Gratuitos – Nossos Valores de Assinatura
 

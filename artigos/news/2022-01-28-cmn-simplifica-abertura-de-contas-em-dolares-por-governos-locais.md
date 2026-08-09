@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Órgão autorizou fundos para desinstalação de campos de petróleo.
 
 Órgãos e empresas estatais dos estados, do Distrito Federal e dos municípios poderão abrir contas em moeda estrangeira para receberem empréstimos de organismos internacionais, decidiu nesta quinta-feira (27) o Conselho Monetário Nacional (CMN). A resolução entra em vigor imediatamente.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

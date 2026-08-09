@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Este ano, a União já pagou R$ 6,68 bilhões de dívidas.
 
 A União pagou R$ 685,47 milhões em dívidas atrasadas de estados em setembro, segundo o [**Relatório de Garantias Honradas pela União em Operações de Crédito e Recuperação de Contragarantias**](https://www.tesourotransparente.gov.br/publicacoes/relatorio-mensal-de-garantias-honradas-rmgh/2022/9), divulgado nesta sexta-feira (7) pelo Tesouro Nacional.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

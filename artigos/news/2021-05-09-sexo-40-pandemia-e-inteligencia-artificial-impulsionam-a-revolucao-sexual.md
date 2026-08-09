@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O que Alexa, Siri, Google Assistente e pandemia têm a ver com sexo? Tudo. É o que profissionais e pesquisadores de sexualidade humana do mundo todo estão constatando em atendimentos e estudos voltados a entender os efeitos do distanciamento social sobre o comportamento humano. Na visão dos especialistas, assim como o *home office* já era uma tendência que foi acentuada pela necessidade do distanciamento social, a revolução sexual em curso também foi acelerada, consolidando tendências como a busca por formas artificiais de prazer que farão parte do novo normal daqui por diante.
 
 Para dar conta dessa revolução, disparou a produção de artigos e a busca por atendimento especializado em sexologia. “Como tudo em nossa **sociedade da ansiedade** vira sintoma para diagnóstico, a procura pelos consultórios médico-psicológicos ou por aconselhamento em instituições sociais aumentou. A problematização sintomática da libido é inicialmente uma busca de saída rápida e fácil pela via da medicação – em alta em tempos de indústria farmacológica –, mas, em seguida, vem um mal-estar pela consciência dos efeitos colaterais dos remédios, dentre os quais, sempre a diminuição da própria libido”, alerta Ocir de Paula Andreata, pós-doutor e doutor em Teologia, psicólogo especialista em Sexualidade Humana e coordenador da pós-graduação em Sexualidade Humana da Universidade Positivo (UP).
@@ -18,7 +17,7 @@ Na avaliação dele, o que é considerado involução, são formas abusivas e es
 
 **Solteiros X casados**
 
-De acordo com a própria experiência como profissional da área e relatos de colegas e ex-alunos que viram lotar as agendas de atendimento durante a pandemia, o especialista afirma que o sexo parece ter diminuído para os casados e compromissados e que esteja “mais diversificado” para solteiros de livres relacionamentos. “A libido diminuiu e se recolheu em relações estáveis a ponto de levar a separações e aumento da violência doméstica. Por outro lado, em solteiros de todas as idades, especialmente os de meia-idade, aumentou a busca por contatos diversificados de parceiros e novas formas de prazer sexual via redes de comunicação, que deixam as relações mais horizontais, e de aplicativos de contato, que facilitam interações e encontros com finalidade exclusivamente sexual para o prazer”, aponta. 
+De acordo com a própria experiência como profissional da área e relatos de colegas e ex-alunos que viram lotar as agendas de atendimento durante a pandemia, o especialista afirma que o sexo parece ter diminuído para os casados e compromissados e que esteja “mais diversificado” para solteiros de livres relacionamentos. “A libido diminuiu e se recolheu em relações estáveis a ponto de levar a separações e aumento da violência doméstica. Por outro lado, em solteiros de todas as idades, especialmente os de meia-idade, aumentou a busca por contatos diversificados de parceiros e novas formas de prazer sexual via redes de comunicação, que deixam as relações mais horizontais, e de aplicativos de contato, que facilitam interações e encontros com finalidade exclusivamente sexual para o prazer”, aponta.
 
 Tal situação acompanha o que já foi descrito em algumas pesquisas no mundo. Durante o primeiro mês da pandemia, o Instituto Kinsey, junto à Universidade de Indiana, nos EUA, fez uma pesquisa on-line sobre a situação do sexo na pandemia, com 1.559 pessoas adultas. Na pesquisa, quase metade da amostra relatou um declínio na vida sexual, mas um em cada cinco participantes relatou expandir seu repertório sexual incorporando novas atividades. Os acréscimos mais comuns foram conversas eróticas on-line por aplicativos, experimentar novas posições sexuais e compartilhar fantasias eróticas.
 
@@ -39,7 +38,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

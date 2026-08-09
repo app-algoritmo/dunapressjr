@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Mais de 22 mil supervisores trabalharão até 22 de julho.
 
 O Instituto Brasileiro de Geografia e Estatística (IBGE) iniciou nesta segunda-feira (20) a coleta da Pesquisa Urbanística do Entorno dos Domicílios, que mobilizará mais de 22 mil supervisores censitários até 12 de julho. Trata-se do marco de início da operação do Censo 2022. No entanto, ainda não serão feitas entrevistas e os dados serão colhidos apenas por meio de observação.
@@ -36,7 +35,7 @@ Segundo Stenner, no Censo 2010 cerca de metade delas, que possuem maior adensame
 
 ### Operação censitária
 
-O Brasil costuma realizar seu censo demográfico de 10 em 10 anos. Ele é a única pesquisa domiciliar que vai a todos os 5.570 municípios do país. O objetivo é oferecer um retrato da população brasileira e das condições domiciliares. As informações obtidas subsidiam a elaboração de políticas públicas e decisões dos governos relacionadas com a alocação de recursos financeiros. 
+O Brasil costuma realizar seu censo demográfico de 10 em 10 anos. Ele é a única pesquisa domiciliar que vai a todos os 5.570 municípios do país. O objetivo é oferecer um retrato da população brasileira e das condições domiciliares. As informações obtidas subsidiam a elaboração de políticas públicas e decisões dos governos relacionadas com a alocação de recursos financeiros.
 
 A nova edição, que deveria ter ocorrido em 2020, foi adiada duas vezes: primeiro por conta da pandemia de covid-19 e depois por [**dificuldades orçamentárias**](http://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2021-04/censo-demografico-nao-sera-realizado-em-2021).
 
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Belo Horizonte/MG – Nesta segunda-feira, 15/6, a Polícia Federal foi acionada em razão de incêndio ocorrido no Museu da Universidade Federal de Minas Gerais.
 
 Foi designada uma equipe de cinco peritos criminais federais, sendo que dois deles participaram da perícia realizada no incêndio do Museu Nacional.
@@ -19,5 +18,3 @@ Para auxiliar nos trabalhos, estão sendo utilizadas as mesmas técnicas da per�
 Por se tratar de bem da União, a competência é da Polícia Federal, que instaurará um inquérito policial para apurar autoria e materialidade.
 
 Comunicação Social – PF/MG
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

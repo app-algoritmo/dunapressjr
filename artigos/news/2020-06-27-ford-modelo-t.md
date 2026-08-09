@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Dando continuidade a série: “50 máquinas que mudaram o rumo da história”. Vamos falar sobre o Ford Modelo T.**
 
 **O problema das cidades com as carruagens movidas a cavalo e a solução apresentada**
@@ -21,8 +20,6 @@ Devido o banco do motorista ser alto e as rodas traseiras desproporcionais, o Mo
 Acomodava apenas duas pessoas sentadas e tinha só uma marcha, além de uma direção toda diferente.
 
 Com esse modelo estranho que foi dado início a Era dos Automóveis.
-
-[](https://br.pinterest.com/pin/57772807705381227/)
 
 Nas primeiras décadas da indústria automobilística diversos inventores engenheiros jovens e idealistas viram o potencial extraordinário do automóvel, mas seus sonhos estavam além da ciência dos materiais e da tecnologia da época.
 
@@ -52,11 +49,9 @@ Ford foi promovido a engenheiro-chefe em 1893, no seu tempo livre fazia experiê
 
 Em 1896, desenvolveu seu primeiro veículo, o Quadriciclo Ford – mais uma bicicleta motorizada do que um verdadeiro automóvel.
 
-[](https://br.pinterest.com/pin/572449802614301163/)
-
 Em 1899, Ford pediu demissão da Edison Illuminating Company e fundou a Detroit Automobile Company, com o objetivo de conquistar seu espaço no mercado automobilístico em que estava em expansão contratou Childe Harold Wills (1878-1940), que desempenharia um papel fundamental ao projetar futuros modelos Ford.
 
-Mas a Detroit Automobile Company não teve sucesso no mercado, foi sucedida pela Henry Ford Company em 1901 e, em 1902, pela Ford Motor Company. Foi então que Ford percebeu que, em vez de construir veículos de alto desempenho e conversíveis para uns poucos privilegiados, ele deveria desenvolver "um carro para as multidões". 
+Mas a Detroit Automobile Company não teve sucesso no mercado, foi sucedida pela Henry Ford Company em 1901 e, em 1902, pela Ford Motor Company. Foi então que Ford percebeu que, em vez de construir veículos de alto desempenho e conversíveis para uns poucos privilegiados, ele deveria desenvolver "um carro para as multidões".
 
 **O Ford Popular**
 
@@ -68,16 +63,14 @@ No período de 1903 a 1908 Ford e Wills desenvolveram nove projetos, onde cada u
 
 Em 1908, Ford apresentou o Modelo T, que se manteve em produção até o ano de 1927, com 15 milhoes de unidades vendidas em todo o mundo Ford não inventou a produção em série mas aumentou exponencialmente sua escala e aplicou-a de forma mais rigorosa em sua fábrica de Highland Park.
 
-[](https://br.pinterest.com/pin/463237511671792002/)
-
 Em 1914, o tempo de produção do Modelo T já havia sido reduzido de 12 horas e meia para apenas 93 minutos.
 
 **Referências Bibliográficas**
 
-CHALINA, Eric. **50 Máquinas que mudaram o Rumo da História.** Tradução de Fabiano Morais. Rio de Janeiro. Sextante. 2014.  
+CHALINA, Eric. **50 Máquinas que mudaram o Rumo da História.** Tradução de Fabiano Morais. Rio de Janeiro. Sextante. 2014.
 
 [Heny Ford empresário e inventor norte-americano](https://www.ebiografia.com/henry_ford/#:~:text=Henry%20Ford%20(1863%2D1947),30%20de%20julho%20de%201863.). E biografia. Acesso em 24 de jun. de 2020
 
 [Qual foi o primeiro carro a combustão?](https://super.abril.com.br/mundo-estranho/qual-foi-o-primeiro-carro-a-combustao/) Super interessante. Acesso em 23 de jun. de 2020.
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

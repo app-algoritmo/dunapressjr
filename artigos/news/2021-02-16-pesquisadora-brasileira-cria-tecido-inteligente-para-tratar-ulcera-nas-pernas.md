@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 A doutora em Ciências da Saúde e farmacêutica Paula dos Passos Menezes, conquistou o Prêmio CAPES de Tese 2020, na área de Medicina I, com uma novidade para o tratamento uma doença que afeta as pernas: as úlceras venosas. Com o uso da nanotecnologia a pesquisadora desenvolveu um tecido inteligente, à base de algodão e poliamida. A patente do novo material já foi registrada no Instituto Nacional de Propriedade Industrial (INPI).
 
 O trabalho, financiado pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), vinculada ao Ministério da Educação (MEC), foi realizado na Universidade Federal de Sergipe (UFS), onde Paula Menezes é professora-substituta no curso de Farmácia. Primeira sergipana a ganhar o Prêmio CAPES de Tese, a pesquisadora observa que as duas principais vantagens deste tecido nanotecnológico estão no fato de resolverem dois grandes problemas causados pelos tipos tradicionais de tratamento: a baixa adesão e as reações adversas.
 
 Durante os quatro anos de pesquisas e testes em laboratório, a cientista conseguiu produzir um tipo de meia protetiva e curativa para ser usada nas pernas de pacientes que sofram de insuficiência venosa crônica. O tecido, que já possui em sua composição os medicamentos necessários para o tratamento das lesões causadas  pela doença, tem a função de reduzir ou eliminar as dores. O novo material ajudará também na cicatrização das feridas e favorecerá o clareamento da área em torno delas.
 
-No teste-piloto feito pela pesquisadora com pacientes do Hospital Universitário da UFS, foi constatada uma cicatrização muito mais rápida e um processo de recuperação sem irritação ou qualquer efeito nocivo, em seis meses de acompanhamento.  “O tratamento padrão utilizado em pacientes com varizes e úlceras venosas é feito com comprimidos e meias compressivas, sem nenhum fármaco associado. Com este tecido inteligente, que já possui medicamentos embutidos, resolvemos o problema da adesão, além de atuarmos apenas no lugar da ferida, evitando desconfortos e melhorando a qualidade de vida dos pacientes”, finaliza. 
+No teste-piloto feito pela pesquisadora com pacientes do Hospital Universitário da UFS, foi constatada uma cicatrização muito mais rápida e um processo de recuperação sem irritação ou qualquer efeito nocivo, em seis meses de acompanhamento.  “O tratamento padrão utilizado em pacientes com varizes e úlceras venosas é feito com comprimidos e meias compressivas, sem nenhum fármaco associado. Com este tecido inteligente, que já possui medicamentos embutidos, resolvemos o problema da adesão, além de atuarmos apenas no lugar da ferida, evitando desconfortos e melhorando a qualidade de vida dos pacientes”, finaliza.
 
 **Prêmio CAPES de Tese 2020**
 A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) divulgou no dia 1º de outubro o resultado do [Prêmio CAPES de Tese 2020](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1), oferecido às melhores teses de doutorado defendidas em 2019. No total, 49 trabalhos foram premiados e outros 94 receberam menções honrosas.
@@ -40,7 +39,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

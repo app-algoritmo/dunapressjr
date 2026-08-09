@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Para incorporar mais sabor e gastronomia à programação de aniversário de 162 anos de Itajaí, o Município receberá o Santa Catarina BeerFest. O evento reunirá cinco marcas itajaienses de cerveja artesanal e outras cervejarias convidadas, totalizando 50 rótulos para degustação do público. O SC BeerFest, que tem apoio do Município de Itajaí e do Fundo Municipal de Turismo, ocorrerá durante os dias 9 a 12 de junho, no Centreventos, com entrada gratuita.
 
 A gastronomia também será protagonista na programação do Santa Catarina BeerFest. O evento contará com mais de dez food trucks e três sanduíches oficiais: SC Pulled Pork (sobrepaleta suína defumada e desfiada com coleslaw e aioli no pão cervejinha tostado), SC Costela (costela bovina defumada e desfiada, legumes defumados e aioli no pão baguete tostado) e SC Choripán (linguiça premium, vinagrete, chimichurri e queijo no pão francês tostado).
@@ -53,7 +52,3 @@ Fonte: https://itajai.sc.gov.br/noticias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

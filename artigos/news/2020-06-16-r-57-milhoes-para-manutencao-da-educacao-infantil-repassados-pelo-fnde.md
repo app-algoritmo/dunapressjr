@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## 15 municípios serão contemplados com os recursos, autorizados pelo Ministério da Educação.
 
 O Ministério da Educação (MEC) autorizou o Fundo Nacional de Desenvolvimento da Educação (FNDE) a repassar recursos para a manutenção de novas matrículas em novos estabelecimentos de educação infantil construídos com recursos federais. No total, o FNDE vai transferir R$ 5,79 milhões a 15 municípios das cinco regiões brasileiras.
@@ -20,7 +19,7 @@ Foi o que ocorreu com esses 15 municípios, que computaram, no total, 2.480 novo
 
 Fonte: gov.br/mec / Imagem em destaque: portalmec
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando [AQUI](https://dunapress.org/?aff=Leonardo).**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando [AQUI](https://dunapress.org/).**
 
 - U$ 1,00 mensal
 

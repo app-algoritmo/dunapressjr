@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Novos índices entram em vigor na próxima segunda-feira (13).
 
 A Agência Nacional de Energia Elétrica (Aneel) aprovou nesta terça-feira (7) reajuste das tarifas de energia de Rondônia e do Acre. Os novos índices entram em vigor na próxima segunda-feira (13).
@@ -18,10 +17,6 @@ No Acre, também atendida pela Energisa, as 280 mil unidades consumidoras atendi
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

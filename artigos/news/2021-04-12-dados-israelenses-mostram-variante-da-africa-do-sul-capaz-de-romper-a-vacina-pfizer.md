@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A variante sul-africana do coronavírus é notavelmente mais adepta de "romper" a vacina Pfizer-BioNTech do que outras variantes, descobriram cientistas israelenses, em um estudo inédito no mundo real.
 
 Israel usou a vacina Pfizer quase exclusivamente para vacinar milhões de cidadãos, com uma versão da Moderna, baseada em tecnologia de mRNA inovadora semelhante, usada minimamente.
@@ -55,7 +54,3 @@ Fonte: https://www.timesofisrael.com
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

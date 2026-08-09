@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Os testes pelo novo aparelho serão realizados nos pacientes graves que precisam de UTI, quando o diagnóstico rápido é ainda mais importante.
 
 **São Carlos (SP)** – O Hospital Universitário da Universidade Federal de São Carlos, vinculado à Rede Ebserh (HU-UFSCar/Ebserh), recebeu um novo equipamento de diagnóstico molecular. O aparelho permite o diagnóstico preciso e rápido de infecções, incluindo SARS-CoV-2 que causa a Covid-19, e algumas alterações genéticas relacionadas a tipos específicos de câncer. O HU-UFSCar é o único hospital que possui esse equipamento no município e na região que atende. O aparelho foi doado ao hospital por pessoa física, junto com 100 kits para teste do novo Coronavírus.
@@ -31,13 +30,13 @@ Tem atuado na realização de treinamento de funcionários da Rede, promoção d
 
 Também disponibilizou R$ 274 milhões para ações contra o coronavírus, recursos do Ministério da Educação (MEC) liberados pela Ebserh de acordo com a necessidade e urgência de cada unidade hospitalar. A verba está sendo utilizada em adequação da infraestrutura, aquisição e manutenção de equipamentos, compra de medicamentos e outros insumos, além de equipamentos de proteção individual.
 
-Em algumas regiões, as unidades da Rede Ebserh têm atuado como hospitais de referência ao enfrentamento do Covid-19, enquanto que em outras, atuam como retaguarda em atendimentos assistenciais para a população, por meio do Sistema Único de Saúde. 
+Em algumas regiões, as unidades da Rede Ebserh têm atuado como hospitais de referência ao enfrentamento do Covid-19, enquanto que em outras, atuam como retaguarda em atendimentos assistenciais para a população, por meio do Sistema Único de Saúde.
 
 Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## 344,5 milhões de toneladas passaram por terminais.
 
 O setor portuário nacional, que engloba portos públicos e privados, movimentou um bilhão de toneladas de janeiro a outubro de 2021, segundo dados divulgados nesta segunda-feira (13), em Brasília, pela Agência Nacional de Transportes Aquaviários (Antaq). O número representou crescimento de 5,5% em relação a igual período de 2020.
@@ -22,10 +21,6 @@ Entre as navegações, o longo curso, que representa 70,5% de toda a movimentaç
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

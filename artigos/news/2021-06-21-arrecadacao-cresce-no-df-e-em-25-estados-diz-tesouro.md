@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Relatório traz dados orçamentários do primeiro quadrimestre de 2021.
 
 A arrecadação ao longo dos primeiros quatro meses de 2021 (janeiro a abril) subiu em 25 estados e no Distrito Federal, na comparação com o mesmo período do ano passado. Apenas o Espírito Santo não registrou crescimento de receita. Os dados constam no Relatório Resumido de Execução Orçamentária (RREO) com foco nos estados e DF, divulgado nesta segunda-feira (21) pelo Tesouro Nacional.
@@ -16,7 +15,7 @@ Segundo o relatório, as maiores altas de arrecadação do primeiro quadrimestre
 
 Em relação às despesas, também houve crescimento, mas em 21 das unidades da federação. Os maiores crescimentos foram registrados no Maranhão (32%) e Amapá (23%). Nestes dois estados, inclusive, as despesas superaram o crescimento das receitas, que foram 19% e 7%, respectivamente.
 
-O relatório aponta que houve redução ou estabilidade das despesas em 6 estados, na comparação entre o primeiro quadrimestre deste ano e o mesmo período do ano passado. A maior queda na despesa ocorreu no Espírito Santo (-10%), seguido de São Paulo (- 6%), Rio Grande do Sul (- 3%) e Alagoas (-1%).  No Tocantins e no Paraná, as despesas ficaram estáveis (crescimento zero) entre os dois períodos comparados.
+O relatório aponta que houve redução ou estabilidade das despesas em 6 estados, na comparação entre o primeiro quadrimestre deste ano e o mesmo período do ano passado. A maior queda na despesa ocorreu no Espírito Santo (-10%), seguido de São Paulo (- 6%), Rio Grande do Sul (- 3%) e Alagoas (-1%). No Tocantins e no Paraná, as despesas ficaram estáveis (crescimento zero) entre os dois períodos comparados.
 
 A publicação também apresentou o resultado orçamentário dos estados, que corresponde à diferença entre as receitas realizadas e as despesas liquidadas em relação à Receita Corrente Líquida (RCL). No primeiro quadrimestre de 2021, a mediana do resultado orçamentário dos estados ficou em 20%. No mesmo período de 2020, a mediana havia sido de 14% da RCL.
 
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

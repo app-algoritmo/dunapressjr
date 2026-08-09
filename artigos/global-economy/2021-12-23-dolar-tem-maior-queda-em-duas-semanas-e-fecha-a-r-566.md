@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa não segue mercado externo e cai 0,35%.
 
 Notícias de que a variante Ômicron do novo coronavírus[** talvez seja menos letal**](https://agenciabrasil.ebc.com.br/saude/noticia/2021-12/risco-de-internacao-da-omicron-e-menor-que-do-que-delta-diz-estudo) que o inicialmente previsto trouxeram trégua ao mercado financeiro. O dólar teve a maior queda em duas semanas e voltou a ficar abaixo de R$ 5,70. A bolsa de valores, no entanto, não seguiu o mercado internacional e caiu, num dia de poucas negociações.
@@ -24,10 +23,6 @@ No Brasil, os investidores repercutiram a a[**provação do Orçamento Geral da 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

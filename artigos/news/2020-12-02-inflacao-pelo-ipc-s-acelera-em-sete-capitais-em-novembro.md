@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Crescimento médio dos preços foi de 0,94%, diz FGV.
 
 A Fundação Getulio Vargas (FGV) informou hoje (2) que todas as sete capitais pesquisadas registraram aceleração do Índice de Preços ao Consumidor Semanal (IPC-S). A pesquisa encerrou no dia 30 de novembro e o crescimento médio dos preços foi de 0,94%. No levantamento anterior, concluída em 22 de novembro, o índice registrado foi de 0,77%. Já no fechamento de outubro, o percentual ficou em 0,65%.
@@ -23,7 +22,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
 
 Obrigado pelo apoio!

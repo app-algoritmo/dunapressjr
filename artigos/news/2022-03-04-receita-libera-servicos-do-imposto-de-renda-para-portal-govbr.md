@@ -7,28 +7,27 @@ categories:
 - News
 ---
 
-
 ## Contas com selo prata ou ouro terão direito a mais recursos no e-CAC.
 
 A partir desta quinta-feira (3), contribuintes com nível prata ou ouro no [**Portal Gov.br**](https://www.gov.br/pt-br/) ganharam acesso a mais serviços e funcionalidades dentro do [**Centro de Atendimento Virtual da Receita Federal (e-CAC)**](https://cav.receita.fazenda.gov.br/). Eles terão direito a serviços até agora restritos a quem tinha certificado digital, tipo de assinatura eletrônica vendida no mercado.
 
 Os serviços liberados são os seguintes:
 
-•   Preenchimento e retificação da declaração do Imposto de Renda no ambiente e-CAC;
+• Preenchimento e retificação da declaração do Imposto de Renda no ambiente e-CAC;
 
-•   Cópia da declaração e do recibo de entrega;
+• Cópia da declaração e do recibo de entrega;
 
-•   Cópia dos arquivos transmitidos;
+• Cópia dos arquivos transmitidos;
 
-•   Visualização do número do recibo;
+• Visualização do número do recibo;
 
-•   Visualização de pendências de malha fina;
+• Visualização de pendências de malha fina;
 
-•   Entrega de documentos para regularizar a situação no Fisco;
+• Entrega de documentos para regularizar a situação no Fisco;
 
-•   Consulta a débitos do Imposto de Renda Pessoa Física;
+• Consulta a débitos do Imposto de Renda Pessoa Física;
 
-•   Emissão de Documento de Arrecadação Fiscal (Darf)
+• Emissão de Documento de Arrecadação Fiscal (Darf)
 
 A partir de 15 de março, os contribuintes com conta nível prata ou ouro também terão acesso à declaração pré-preenchida do Imposto de Renda no e-CAC. Nessa modalidade, a Receita fornece um formulário com dados apurados em declarações enviadas por empresas, instituições financeiras, imobiliárias e médicos, cabendo ao contribuinte confirmar as informações ou fazer ajustes antes de enviar a declaração do Imposto de Renda.
 
@@ -54,8 +53,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

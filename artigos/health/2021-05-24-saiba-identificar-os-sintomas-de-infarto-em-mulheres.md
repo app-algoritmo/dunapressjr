@@ -7,12 +7,11 @@ categories:
 - Health
 ---
 
-
 Dor forte no peito que irradia para o braço esquerdo é o sintoma mais conhecido do ataque cardíaco. Mas em mulheres, nem sempre essa manifestação aparece quando ocorre um infarto. Na verdade, os sinais podem ser confundidos com outras doenças cotidianas. Por isso, é preciso atenção para reconhecer os indícios de um problema no coração e procurar imediatamente o pronto-socorro.
 
 O cardiologista do Hospital Universitário de Brasília Gustavo Gir explica que é comum as mulheres apresentarem sintomas diferentes e não tradicionais em caso de ataques cardíacos. “Os sintomas podem ser diferentes e não exatamente aparecem como dores no peito. Pode ser uma dor na região do estômago ou uma sensação de muito cansaço sem causa aparente, por exemplo”, esclarece.
 
-Para entender melhor o que pode apontar para um ataque cardíaco, é importante entender os sintomas típicos e atípicos do infarto em mulheres. 
+Para entender melhor o que pode apontar para um ataque cardíaco, é importante entender os sintomas típicos e atípicos do infarto em mulheres.
 
 **Sintomas típicos -** Dor ou desconforto na região peitoral em forma de aperto, podendo irradiar para o braço esquerdo, as costas e o rosto. A dores ocorrem acompanhadas de suor frio, palidez, falta de ar e sensação de desmaio.
 
@@ -56,7 +55,3 @@ Fonte: http://www.blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

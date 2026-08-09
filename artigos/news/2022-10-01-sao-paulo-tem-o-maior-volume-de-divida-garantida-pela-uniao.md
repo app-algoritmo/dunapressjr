@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Saldo total devedor das garantias é de R$ 280,57 bilhões.
 
 O estado de São Paulo é a unidade da federação com maior saldo devedor garantido pela União. Segundo relatório divulgado nesta sexta-feira (30) pelo Tesouro Nacional, o governo paulista tem R$ 37,558 bilhões em operações de crédito garantidas pela União, que podem ser cobertas pelo Tesouro caso o estado não pague os financiamentos.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

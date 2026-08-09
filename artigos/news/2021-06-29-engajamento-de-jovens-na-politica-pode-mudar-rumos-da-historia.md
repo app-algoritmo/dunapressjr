@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Nas últimas eleições, a quantidade de eleitores de 16 e 17 anos que compareceram às urnas foi a menor em 30 anos. Segundo o Tribunal Superior Eleitoral, menos de 5% dos jovens dessa idade votaram nas eleições de 2020 - uma queda de mais de 50% se comparado a 2016. Essa falta de interesse dos adolescentes pela política foi tema de um estudo científico da estudante Ariane Minetto Araújo, do nono ano do Colégio Positivo - Internacional, de Curitiba, apresentado na Feira Brasileira de Ciências e Engenharia (Febrace) da Universidade de São Paulo (USP) - maior evento nacional do setor, que revela jovens cientistas desde 2003.
 
 A pesquisa, realizada com 344 pessoas, mostra que há um padrão de desinformação ou carência de opinião formada, demonstrando uma importante lacuna no processo de politização. O estudo revelou que muitos jovens acreditam que são impotentes, que sua participação, principalmente o voto, não tem influência alguma na realidade sociopolítica de um país, portanto, acabam se distanciando da política. “Muitos também acreditam que as regras/leis que foram feitas para conduzir e limitar as ações políticas foram e são tão manipuladas e ignoradas que eles não acreditam que haja uma forma de acabar com essas infrações”, destaca Ariane. O problema, segundo o estudo, é que essa aversão ou descaso resultam em ausência no cenário político, de modo que a indiferença ou a neutralidade acabam por legitimar todas as decisões tomadas no cenário político.
@@ -45,7 +44,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

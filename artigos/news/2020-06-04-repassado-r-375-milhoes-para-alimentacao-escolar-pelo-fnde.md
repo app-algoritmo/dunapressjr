@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estados e municípios já podem utilizar os recursos da quinta parcela do Pnae no ano.
 
 O Fundo Nacional de Desenvolvimento da Educação (FNDE) repassou mais R$ 375,6 milhões do Programa Nacional de Alimentação Escolar (Pnae). Trata-se da quinta parcela de 2020, referente ao mês de junho, e já está disponível nas contas correntes de municípios, estados e do Distrito Federal. Ao todo, o Fundo vinculado ao Ministério da Educação (MEC) já destinou R$ 1,8 bilhão do programa aos entes federativos neste ano.
@@ -22,7 +21,7 @@ A [orientação do FNDE](http://portal.mec.gov.br/component/content/index.php?op
 
 O FNDE realiza repasses mensais a estados e municípios durante o ano letivo. Os meses contemplados, portanto, vão de fevereiro a novembro, em 10 parcelas.
 
-O objetivo da iniciativa é contribuir para o crescimento e o desenvolvimento biopsicossocial, a aprendizagem, o rendimento escolar e a formação de hábitos alimentares saudáveis dos alunos. 
+O objetivo da iniciativa é contribuir para o crescimento e o desenvolvimento biopsicossocial, a aprendizagem, o rendimento escolar e a formação de hábitos alimentares saudáveis dos alunos.
 
 A legislação do Pnae restringe a aquisição de alguns alimentos ricos em açúcar, sódio e gorduras, assim como limita a quantidade desses nutrientes nas preparações diárias e a oferta de doces ou preparações doces na semana. Em 2020, o governo federal [publicou uma resolução](http://portal.mec.gov.br/component/content/article?id=89721) na qual dá ainda maior ênfase à alimentação saudável no ambiente escolar.
 
@@ -31,8 +30,6 @@ O FNDE busca ampliar as ações direcionadas à comunidade escolar, com objetivo
 O projeto é acompanhado e fiscalizado diretamente pela sociedade, por meio dos Conselhos de Alimentação Escolar (CAE), e também pelo FNDE, pelo Tribunal de Contas da União (TCU), pela Controladoria Geral da União (CGU) e pelo Ministério Público.
 
 Fonte: gov.br/mec / Imagem em destaque: fnde.gov.br
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

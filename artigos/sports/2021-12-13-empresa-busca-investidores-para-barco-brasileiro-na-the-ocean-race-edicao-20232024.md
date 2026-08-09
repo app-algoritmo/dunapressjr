@@ -7,7 +7,6 @@ categories:
 - Sports
 ---
 
-
 "Sim, o Brasil quer e vai estar na maior regata dos mares do mundo: The Ocean Race! Vêm com a gente empresários!".  Esta é a campanha de marketing empresarial visando atrair investidores para o projeto do barco brasileiro inscrito na The Ocean Race 2023/2024, o SCBrasil Team. Para consolidar o projeto, a empresa SCBrasil Esporte Náutico abriu cotas de sociedade e também patrocínios para a segunda participação brasileira na regata volta ao mundo. Ela busca um investimento total para o programa de 10 milhões de euros, aproximadamente 86 milhões de reais. Já para a sociedade, abriu 10% de seu capital para conquistar um sócio investidor – visando a criação de capital de giro para as ações da empresa brasileira.
 
 O barco brasileiro passou a ser um grande case de negócio com visibilidade mundial a partir da saída de duas paradas da regata, Nova Zelândia e China. Com isto, a organização da maior regata do planeta, conhecida também como Copa do Mundo da Vela – com sede em Alicante na Espanha -, remodelou a rota. Os barcos partem para o continente Americano da cidade do Cabo, seguindo para o Brasil, para Itajaí, no norte de Santa Catarina. São 14 milhas praticamente em linha reta – deixando os barcos navegando por um período de quase 40 dias sem parada (nas edições anteriores eles paravam na Nova Zelândia, antes de vir para o Brasil.)
@@ -31,7 +30,3 @@ Fonte: **Release enviado por zdl**
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

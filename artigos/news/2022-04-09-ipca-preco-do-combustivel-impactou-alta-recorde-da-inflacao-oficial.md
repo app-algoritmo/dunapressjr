@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Taxa acumulada em 12 meses é a maior desde 2003.
 
 A inflação oficial acumulada em 12 meses registrou, em março deste ano, taxa de 11,3%. Essa é a maior variação do Índice Nacional de Preços ao Consumidor Amplo (IPCA) desde outubro de 2003, quando havia ficado em 13,98%.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

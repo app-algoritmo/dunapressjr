@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O trabalho analisa a oscilação de neutrinos, as partículas com menor massa já registradas. O estudo trata de fenômenos que envolvem interações em escalas muito pequenas, mas com papel fundamental na evolução do universo. Pedro Simoni Pasquini, graduado, mestre e doutor em Física pela Universidade Estadual de Campinas (Unicamp), é o autor da tese e um dos 49 vencedores da premiação oferecida pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).
 
 Abundante em neutrinos, o sol pode ser estudado pela oscilação dessas partículas elementares (Foto: Arquivo pessoal).
@@ -39,7 +38,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

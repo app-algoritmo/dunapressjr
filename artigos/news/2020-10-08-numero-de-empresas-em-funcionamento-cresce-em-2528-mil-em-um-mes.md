@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Salões de beleza e comércio de vestuário registram maiores retomadas.
 
 A retomada da economia está se refletindo no aumento do número de empresas em funcionamento. Segundo o [**Mapa de Empresas**](https://www.gov.br/governodigital/pt-br/mapa-de-empresas) do Ministério da Economia, em setembro foram abertos 252.840 negócios a mais do que foram fechados.
@@ -27,5 +26,3 @@ Medidas que entraram em vigor com a Lei de Liberdade Econômica, como o registro
 Fonte: Agência Brasil – Imagem de destaque: Fernando Frazão/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

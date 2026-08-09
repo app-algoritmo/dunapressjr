@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Reorganização de estoque regulatório do órgão trará mais simplicidade e segurança jurídica.
 
 A Receita Federal publicou nesta sexta-feira (13) no Diário Oficial da União a [Portaria RFB nº 4.713](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=113684), que revogou cinco portarias publicadas entre 1997 e 2014 relativas a mercadorias apreendidas. Durante um procedimento de revisão das normas referentes às mercadorias apreendidas, verificou-se que as portarias já tinham seus efeitos exauridos pelo decorrer do tempo ou haviam sido revogadas tacitamente por legislação superveniente.
@@ -19,5 +18,3 @@ O projeto insere-se em uma iniciativa maior projetada pelo Governo Federal, que 
 Fonte: Receita Federal – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

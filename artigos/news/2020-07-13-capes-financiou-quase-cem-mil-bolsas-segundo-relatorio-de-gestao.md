@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Disponível para consulta, o documento apresenta dados consolidados sobre financiamento e mostra que a pós-graduação brasileira recebeu mais de R$2 bi em 2019.
 
 Em 2019, a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) concedeu mais de 95 mil bolsas no país. O ano também contou com uma avaliação de meio período dos programas de pós-graduação e o início das ações de internacionalização [CAPES-PrInt](https://www.capes.gov.br/bolsas-e-auxilios-internacionais/capes-print). O diálogo com o exterior também marcou o apoio à formação de professores da educação básica, um dos pilares da agência. Os dados estão detalhados no mais recente [relatório de gestão](http://www.capes.gov.br/acessoainformacao/prestacoes-de-contas-anuais/80-conteudo-estatico/acesso-a-informacao/10406-processos-de-contas-anuais-2019) da CAPES, que já está disponível para consulta.
@@ -35,7 +34,7 @@ Fonte: gov.br / Imagem em destaque: dw
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

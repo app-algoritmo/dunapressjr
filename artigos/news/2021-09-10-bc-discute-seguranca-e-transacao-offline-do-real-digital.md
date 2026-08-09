@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## Tema volta a ser avaliado pela autoridade monetária em evento virtual.
 
 O Banco Central (BC) promoveu mais uma rodada de debates sobre a criação de uma moeda digital oficialmente brasileira, que, a exemplo da moeda em papel, é certificada pela autoridade monetária do país: o real digital.
 
 No encontro desta quinta-feira (9), organizado para debater diretrizes gerais, benefícios e tecnologias a serem adotados para implantação da versão digital da moeda brasileira, falou-se sobre a necessidade de viabilizar transações *offline* com segurança e sobre a importância de incluir no sistema bancário a população sem acesso a ele e com acesso limitado a recursos como *smartphones*, energia elétrica e internet.
 
-O seminário virtual Operações Offline é o terceiro da série O Real Digital. O objetivo do Banco Central é  estabelecer as bases para o eventual desenvolvimento de uma CBDC (Central Bank Digital Currency) que venha a acompanhar o dinamismo da evolução tecnológica da economia brasileira e a aumentar a eficiência do sistema de pagamentos de varejo.
+O seminário virtual Operações Offline é o terceiro da série O Real Digital. O objetivo do Banco Central é estabelecer as bases para o eventual desenvolvimento de uma CBDC (Central Bank Digital Currency) que venha a acompanhar o dinamismo da evolução tecnológica da economia brasileira e a aumentar a eficiência do sistema de pagamentos de varejo.
 
 Dessa forma, o BC pretende contribuir para o surgimento de novos modelos de negócio e de outras inovações baseadas nos avanços tecnológicos, favorecendo a participação do país em outros cenários econômicos e aumentando sua eficiência nas transações transfronteiriças.
 
@@ -30,7 +29,7 @@ No debate desta quinta-feira (09), a diretora de Desenvolvimento de Negócios em
 
 Por isso, acrescentou Tanja, para ter um sistema de CBDC inclusivo, é preciso oferecer carteiras para a população não bancarizada, de forma a funcionar sem conta bancária, de maneira simples, intuitiva e com interface orientada ao usuário. "É importante que esses equipamentos simples tenham funcionalidade *offline*”, disse ela.
 
-Especialista do Setor Financeiro do Grupo de Desenvolvimento de Sistemas de Pagamentos do Banco Mundial, Harish Natarajan foi  além e considerou  “obrigatório” que a moeda seja “usável" em vários contextos e situações, inclusive quando não há eletricidade, nem conectividade telefônica, como no caso de catástrofes.
+Especialista do Setor Financeiro do Grupo de Desenvolvimento de Sistemas de Pagamentos do Banco Mundial, Harish Natarajan foi além e considerou “obrigatório” que a moeda seja “usável" em vários contextos e situações, inclusive quando não há eletricidade, nem conectividade telefônica, como no caso de catástrofes.
 
 Nesse sentido, é fundamental as autoridades estarem sempre atualizadas com as novidades tecnológicas que garantam transações no modo *offline*, de forma a dar o máximo de segurança aos procedimentos. “O momento [atual] é de investigar as tecnologias que existem, o que é possível e quais são as limitações. Este é o momento certo de os brancos centrais investigarem isso”, enfatizou Tanja Hessdörfer.
 
@@ -46,10 +45,6 @@ Tanja Hessdörfer destacou que a chave para aceitação da versão digital do re
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

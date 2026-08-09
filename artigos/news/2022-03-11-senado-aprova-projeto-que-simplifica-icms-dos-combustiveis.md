@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O projeto retorna à Câmara dos Deputados para nova análise.
 
 O Senado aprovou, na tarde desta quinta-feira(10), o [**Projeto de Lei Complementar (PLP) 11/2020**](https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1860070), com o objetivo de reduzir o preço dos combustíveis para os consumidores. O PLP propõe a simplificação do Imposto sobre a Circulação de Mercadorias e Serviços (ICMS) em todo território nacional, instituindo a chamada “monofasia”, ou seja, a cobrança do imposto em apenas uma fase da cadeia produtiva. O projeto, de origem na Câmara dos Deputados, retorna àquela Casa para nova análise.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

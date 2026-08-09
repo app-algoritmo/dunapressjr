@@ -8,7 +8,6 @@ categories:
 - Sports
 ---
 
-
 ## Recordista mundial da maratona e campeão da São Silvestre 1994, o ex-atleta promete esbanjar simpatia durante a prova do dia 14 de julho, em Brasília.
 
 Recordista mundial da maratona, campeão da São Silvestre e um dos grandes nomes da história do atletismo, Ronaldo da Costa será o padrinho da primeira etapa do Circuito de Corridas CAIXA/Brazil Run Series, que retorna às atividades em 2024. Ele participará da entrega dos kits, largada e chegada da prova de Brasília, que será disputada dia 14 de julho.
@@ -23,7 +22,7 @@ O Circuito de Corridas CAIXA – Etapa Brasília terá largada e chegada na Pra�
 
 **Kits - **São duas opções para os corredores. Quem optar pelo Kit Popular investirá R$ 89, enquanto aqueles que preferirem o Kit Caixa vão desembolsar R$ 129. Os preços são válidos para o primeiro lote e não incluem a taxa de serviço.
 
-O Kit Popular dá direito a número de peito, chip de cronometragem e medalha de participação, enquanto o Kit Caixa agrega uma camiseta e uma meia para os corredores. 
+O Kit Popular dá direito a número de peito, chip de cronometragem e medalha de participação, enquanto o Kit Caixa agrega uma camiseta e uma meia para os corredores.
 
 Clientes com cartão de crédito Caixa têm 20% de desconto. Funcionários da Caixa também contarão com condições especiais. Assim como corredores acima de 60 anos, que pagarão R$ 44,50 (Kit Popular) e R$ 64,50 (Kit Caixa).
 
@@ -40,15 +39,14 @@ Clientes com cartão de crédito Caixa têm 20% de desconto. Funcionários da Ca
 08/12 - Vitória - Praça do papa
 
 **Mais informações:
-****site: ****[www.circuitocaixa.com](https://click.presskit.com.br/url/1024268702f/6361388b6fc)[
-](https://click.presskit.com.br/url/10242696215/6361388b6fc)****Instagram: @circuitocaixa
+****site: ****[www.circuitocaixa.com](https://click.presskit.com.br/url/1024268702f/6361388b6fc)****Instagram: @circuitocaixa
 
 *****Assessoria de Imprensa:
-******ZDL         
-******Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](mailto:dorojr@zdl.com.br) - F: 11 984579723         
-******Rafael De Marco - Mtb.: 27556 - [rafael@zdl.com.br](mailto:rafael@zdl.com.br) - Cel: 11 976022986         
+******ZDL
+******Doro Jr. - MTb 13209 - [dorojr@zdl.com.br](mailto:dorojr@zdl.com.br) - F: 11 984579723
+******Rafael De Marco - Mtb.: 27556 - [rafael@zdl.com.br](mailto:rafael@zdl.com.br) - Cel: 11 976022986
 ******WhatsApp: 19 997912108
 
-******Site: ***[***www.zdl.com.br***](https://click.presskit.com.br/url/1024270e5b4/6361388b6fc)***         
-******Facebook: ***[***www.facebook.com/ZDLSports***](https://click.presskit.com.br/url/102427144f4/6361388b6fc)***         
+******Site: ***[***www.zdl.com.br***](https://click.presskit.com.br/url/1024270e5b4/6361388b6fc)***
+******Facebook: ***[***www.facebook.com/ZDLSports***](https://click.presskit.com.br/url/102427144f4/6361388b6fc)***
 ******Instagram: ***[***www.instagram.com/zdlsports***](https://click.presskit.com.br/url/10242721d08/6361388b6fc)

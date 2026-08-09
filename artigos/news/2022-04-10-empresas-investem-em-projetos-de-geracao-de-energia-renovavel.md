@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A alta do custo da produção energética, causada pela crise hídrica, aumentou muito o valor das contas de energia e está levando empresas a implementarem projetos constantes de eficiência energética para diminuir esse custo. Em 2021, o reajuste acumulado do consumo de energia ficou em 7%. Porém, a mudança de bandeira tarifária em função dos custos da produção de energia eleva mais ainda esse porcentual e as projeções para 2022 são de um reajuste de 19%. Para diminuir a carga dessa conta, empresas investem em usinas solares, trocas de equipamentos e no mercado livre de energia.
 
 De acordo com a Agência Internacional de Energia (AIE), a capacidade global de eletricidade renovável deve aumentar mais de 60% entre 2020 e 2026 e a energia solar fotovoltaica pode representar a metade desse crescimento. No Grupo Marista, um dos colégios é 100% auto sustentável em energia, produzida por painéis solares. O projeto iniciou no Colégio Marista Anjo da Guarda, em Curitiba (PR), em abril de 2019 e hoje, os painéis solares abastecem integralmente a unidade, com aproximadamente 10 mil Kw por mês, quantidade que anteriormente vinha diretamente da Copel, concessionária de energia do estado. "A energia solar consegue atender todo o consumo, pois, em dias de bastante sol, a unidade gera até mais energia que o colégio consome e essa produção fica como um crédito junto à Copel para ser utilizado em dias de menor incidência solar", explica o analista técnico responsável pelo setor de eficiência energética do Grupo Marista, Carlos Vitor da Silva.
@@ -35,7 +34,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

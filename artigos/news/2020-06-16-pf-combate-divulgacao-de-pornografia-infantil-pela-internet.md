@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Porto Alegre/RS - A Polícia Federal deflagrou nesta terça-feira (16/6) a quinta fase da Operação Jizô, para reprimir crimes de divulgação de pornografia infantil pela internet e o abuso sexual de crianças e adolescentes. A ação tem o acompanhamento do Centro de Referência em Atendimento Infantil (CRAI), instituição mantida pelo Instituto-Geral de Perícias, pela Secretaria de Segurança Pública e pela Prefeitura de Porto Alegre para atendimento a crianças vítimas de violência.
 
 Na ação, foram cumpridos seis mandados de busca e apreensão nos municípios de Porto Alegre (1), Canoas (3), Cachoeirinha (1) e Viamão (1). Três homens foram presos em flagrante por armazenamento de material com conteúdo pornográfico infantil. Um deles, em Viamão, também foi preso pela produção de imagens com conteúdo pornográfico infantil. Também se identificou, através de entrevista nos locais de busca por profissionais do CRAI, o possível abuso sexual de três menores. Nas buscas, foram apreendidos celulares e computadores que serão periciados no prosseguimento das investigações.
@@ -35,5 +34,3 @@ Preso: Sexo masculino, 34 anos.
 CACHOEIRINHA: não houve apreensão de material. As investigações prosseguem.
 
 Comunicação Social da Polícia Federal no Rio Grande do Sul
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

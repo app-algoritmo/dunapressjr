@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-A Secretaria de Saúde de Itajaí informa que na segunda-feira (28) iniciarão as atividades no novo Centro Terapêutico Especializado em Autismo (CTEA). Os serviços coordenados pelo município serão realizados na rua Cirilo Dutra, 87, bairro São Vicente (antigo Pronto de Atendimento), de segunda a sexta-feira, das 7h às 19h. 
+A Secretaria de Saúde de Itajaí informa que na segunda-feira (28) iniciarão as atividades no novo Centro Terapêutico Especializado em Autismo (CTEA). Os serviços coordenados pelo município serão realizados na rua Cirilo Dutra, 87, bairro São Vicente (antigo Pronto de Atendimento), de segunda a sexta-feira, das 7h às 19h.
 
 Por meio da Diretoria de Atenção à Saúde (DAS), o Centro Terapêutico contará com 16 profissionais para realizar o acolhimento, diagnóstico e terapia de pessoas autistas, sem limite de idade. A equipe multidisciplinar é composta por psicólogos, fisioterapeutas, assistente social, nutricionista, neurologista, médico clínico geral, técnico de enfermagem, pedagoga, terapeutas ocupacionais, atendentes e gerência.
 
@@ -27,5 +26,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

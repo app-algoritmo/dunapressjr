@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Com novos marcos, Brasil teve alta da taxa de investimento e melhora no mercado de crédito.
 
 O avanço da agenda econômica no período 2019-2021, com uma série de reformas pró-mercado já executadas e diversas outras em andamento, fortaleceu o mercado de crédito e o panorama de investimentos no Brasil, com nítida melhoria de indicadores, aponta a nota informativa “[Agenda de reformas microeconômicas para o crescimento sustentado](https://www.gov.br/economia/pt-br/centrais-de-conteudo/publicacoes/notas-informativas/2022/junho/ni-reformas-micro-final-2906-3.pdf)”, da Secretaria de Política Econômica (SPE) do Ministério da Economia. O material, divulgado nesta terça-feira (28), mostra, entre outros pontos, que a participação do investimento no Produto Interno Bruto (PIB) passou de 14,6%, em 2017, para 18,9%, no primeiro trimestre de 2022.
@@ -28,8 +27,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

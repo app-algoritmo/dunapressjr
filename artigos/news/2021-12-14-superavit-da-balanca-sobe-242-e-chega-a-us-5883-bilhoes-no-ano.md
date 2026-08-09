@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Dados da Secex até a segunda semana de dezembro mostram corrente de comércio de US$ 472,42 bilhões, em alta de 36,6%, com US$ 265,63 bilhões em exportações e US$ 206,79 bilhões em importações.
 
-A balança comercial atingiu superávit de US$ 58,83 bilhões no acumulado do ano, até a segunda semana de dezembro, com alta de 24,2% pela média diária, sobre o período de janeiro a dezembro de 2020. Já a corrente de comércio (soma das exportações e importações) chegou a US$ 472,42 bilhões, com crescimento de 36,6%.      
+A balança comercial atingiu superávit de US$ 58,83 bilhões no acumulado do ano, até a segunda semana de dezembro, com alta de 24,2% pela média diária, sobre o período de janeiro a dezembro de 2020. Já a corrente de comércio (soma das exportações e importações) chegou a US$ 472,42 bilhões, com crescimento de 36,6%.
 
 As exportações em 2021 já somam US$ 265,63 bilhões, com aumento de 35,1%, enquanto as importações subiram 38,5% e totalizam US$ 206,79 bilhões. Os dados foram divulgados nesta segunda-feira (13) pela Secretaria de Comércio Exterior (Secex) do Ministério da Economia.       
 
@@ -20,7 +19,7 @@ Apenas na segunda semana de dezembro, as exportações somaram US$ 5,51 bilhões
 
 **[Veja os principais resultados da balança ](https://balanca.economia.gov.br/balanca/pg_principal_bc/principais_resultados.html) **
 
-## **Exportações no mês** 
+## **Exportações no mês**
 
 Nas exportações, comparadas a média diária até a segunda semana deste mês (US$ 1,199 bilhão) com a de dezembro de 2020 (US$ 838,71 milhões), houve crescimento de 43% em razão do aumento nas vendas da Indústria Extrativista (+39,4%), da Indústria de Transformação (+42,6%) e da Agropecuária (+52,9%).  
 
@@ -42,10 +41,6 @@ Por fim, na Indústria Extrativista a alta nas importações se deve, principalm
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

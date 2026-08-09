@@ -8,12 +8,11 @@ categories:
 - News
 ---
 
-
 ## Objetivo é garantir a segurança e a saúde dos trabalhadores, o abastecimento alimentar da população, os empregos e a atividade econômica.
 
 Os Ministérios da Agricultura, Pecuária e Abastecimento (Mapa), da Economia (ME) e da Saúde (MS) definiram em portaria conjunta as medidas destinadas à prevenção, controle e mitigação dos riscos de transmissão da Covid-19 nas atividades desenvolvidas na indústria de abate e processamento de carnes e derivados destinados ao consumo humano e laticínios. O objetivo da norma, que foi elaborada após conversas com o Ministério Público do Trabalho, é garantir a segurança e a saúde dos trabalhadores, o abastecimento alimentar da população, os empregos e a atividade econômica.
 
-As orientações contidas na [Portaria Conjunta Nº 19](http://www.in.gov.br/en/web/dou/-/portaria-conjunta-n-19-de-18-de-junho-de-2020-262407973), publicada nesta sexta-feira (19) no Diário Oficial da União, são de observância obrigatória. A fiscalização ficará a cargo do Ministério da Economia. No mês passado, o governo já havia divulgado[ um manual com recomendações](https://www.gov.br/agricultura/pt-br/assuntos/noticias/governo-determina-medidas-de-prevencao-e-controle-da-Covid-19-em-frigorificos-e-industrias-de-laticinios/ManualORIENTAESGERAISPARAFRIGORFICOSEMRAZODAPANDEMIADACOVID19revisado1.pdf) para frigoríficos em razão da pandemia, que será substituído pelas medidas previstas na portaria. 
+As orientações contidas na [Portaria Conjunta Nº 19](http://www.in.gov.br/en/web/dou/-/portaria-conjunta-n-19-de-18-de-junho-de-2020-262407973), publicada nesta sexta-feira (19) no Diário Oficial da União, são de observância obrigatória. A fiscalização ficará a cargo do Ministério da Economia. No mês passado, o governo já havia divulgado[ um manual com recomendações](https://www.gov.br/agricultura/pt-br/assuntos/noticias/governo-determina-medidas-de-prevencao-e-controle-da-Covid-19-em-frigorificos-e-industrias-de-laticinios/ManualORIENTAESGERAISPARAFRIGORFICOSEMRAZODAPANDEMIADACOVID19revisado1.pdf) para frigoríficos em razão da pandemia, que será substituído pelas medidas previstas na portaria.
 
 “Essa portaria vai harmonizar mais as ações para que os frigoríficos possam, neste momento de pandemia, trabalhar com a segurança de seus funcionários e também para que possam continuar a produção, trabalhando de maneira normal e trazendo os alimentos para abastecer o Brasil e o mundo”, disse a ministra da Agricultura, Tereza Cristina.
 
@@ -33,10 +32,8 @@ Não deverá ser exigida a testagem laboratorial de todos os trabalhadores como 
 
 As empresas devem continuar cumprindo todas as normas de segurança do trabalho já previstas e outras medidas de saúde, higiene e segurança previstas em acordo coletivo. As medidas previstas na portaria poderão ser revistas ou atualizadas a qualquer momento, em razão dos avanços no conhecimento e controle da pandemia.
 
-Apenas nos frigoríficos existem atualmente 3.299 estabelecimentos processadores de carnes e derivados registrados no Serviço de Inspeção Federal (SIF), dos quais, 445 comercializam proteína animal. Nas linhas de inspeção dos frigoríficos trabalham 1.948 pessoas. 
+Apenas nos frigoríficos existem atualmente 3.299 estabelecimentos processadores de carnes e derivados registrados no Serviço de Inspeção Federal (SIF), dos quais, 445 comercializam proteína animal. Nas linhas de inspeção dos frigoríficos trabalham 1.948 pessoas.
 
 Fonte: gov.br/agricultura / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

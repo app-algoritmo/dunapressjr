@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No comparativo anual, a queda foi de 15,1%.
 
 O Índice de Confiança do Empresário do Comércio (Icec), medido pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), cresceu 10,5% em outubro e alcançou 103,1 pontos, voltando ao patamar de otimismo (acima de 100 pontos) após seis meses.
@@ -37,5 +36,3 @@ De acordo com a economista da CNC, todos os componentes da pesquisa parecem segu
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

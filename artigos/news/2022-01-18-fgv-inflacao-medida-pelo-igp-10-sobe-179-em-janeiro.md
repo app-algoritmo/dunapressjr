@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice é referência para tarifa pública e contratos antigos de aluguel.
 
 O Índice Geral de Preços-10 (IGP-10) subiu 1,79% em janeiro deste ano, depois de cair 0,14% em dezembro, de acordo com dados divulgados nesta segunda-feira (17), no Rio de Janeiro, pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV Ibre).
@@ -40,10 +39,6 @@ O último componente do IGP-10, o Índice Nacional de Custo da Construção (INC
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## De acordo com o IBGE, 40,1% da população tinham renda de trabalho.
 
 O auxílio emergencial e o aumento do desemprego, devido à pandemia de covid-19, alterou o perfil do rendimento das famílias, de 2019 para 2020. Nesse período, caiu o rendimento de trabalho e [**aumentou a renda vinda de outras fontes**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-11/pnad-2020-cresce-n%C3%BAmero-de-fam%C3%ADlias-com-renda-de-programas-sociais) (transferências de renda), como o auxílio emergencial. É o que mostra a Pnad Contínua 2020: Rendimento de todas as fontes, divulgada hoje (19) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -56,10 +55,6 @@ Todas as regiões tiveram redução no Gini, entre 2019 e 2020, especialmente no
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí, por meio da Secretaria de Promoção da Cidadania, realizou na noite desta quarta-feira (25) a cerimônia de entrega do Prêmio Simeão 2020, homenagem de valorização do negro na sociedade itajaiense. A premiada desta edição foi a professora Valci Anacleto da Costa. Neste ano, devido às restrições de saúde em decorrência da COVID-19, o evento, realizado no Gabinete do Prefeito, foi restrito à homenageada e seus familiares.
 
 Nascida em 28 de agosto de 1931, a professora Valci Anacleto da Costa lecionou por muitos anos na Escola Básica Avelino Werner, onde também foi secretária, e em colégios estaduais na localidade de Brilhante II e no bairro Santa Lídia, em Navegantes. Também foi professora de catequese, ministra da eucaristia e participou do Coral Unidos de Cristo e Sagrado Coração de Jesus, na Igreja Católica.
@@ -31,7 +30,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

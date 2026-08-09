@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro discutiu gasoduto para o Brasil com chanceler argentino.
 
 A redução em [**10% da Tarifa Externa Comum **](https://agenciabrasil.ebc.com.br/economia/noticia/2021-10/brasil-e-argentina-fecham-acordo-para-cortar-tarifa-do-mercosul-em-10)(TEC) do Mercosul, acertada entre Brasil e Argentina, é importante para dar alívio à inflação, disse nesta sexta-feira (8) o ministro da Economia, Paulo Guedes.
@@ -26,10 +25,6 @@ Segundo Carlos França, a reunião privada com Guedes indica unidade do governo 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

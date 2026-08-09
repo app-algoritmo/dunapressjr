@@ -9,7 +9,6 @@ categories:
 - Magazine
 ---
 
-
 ## **Educação, Reciclagem e a Experiência da Noruega como Modelo de Saneamento Básico Eficiente**.
 
 Rios, mares e lagos que exibem pureza e clareza desempenham um papel vital em diversas áreas, desde a vida diária até a preservação da biodiversidade. Contudo, a negligência no saneamento básico tem repercussões abrangentes, impactando desde a saúde pública até desastres naturais. Este artigo explora a interconexão entre água, gestão de resíduos, saúde e educação, destacando a notável abordagem da Noruega como um exemplo de excelência em saneamento básico.
@@ -37,7 +36,7 @@ Waste IQ - Contenedores sustentáveis ©Berger Komune
 
 As empresas do setor desempenham um papel crucial, não somente na gestão dos resíduos como também contribui na educação em consonância com os programas oferecidos pelo ministério da educação, saúde, turismo e infraestruturas.
 
-## Variadas industrias e diferentes sistemas reciclam 98% dos materiais desperdiçados, sintéticos ou orgânicos. 
+## Variadas industrias e diferentes sistemas reciclam 98% dos materiais desperdiçados, sintéticos ou orgânicos.
 
 Reciclagem, máquinas e equipamentos. O manuseio e o uso das ferramentas de planejamento e sistemas de controle são de gestões empresarias.
 
@@ -49,7 +48,7 @@ LINDUM, uma das empresas modelo em gestão de resíduos
 
 https://dunapress.org/2018/12/13/lindum-a-empresa-norueguesa-modelo-em-gestao-de-residuos/
 
-O mundo olha para a Noruega, países em busca de inovação e tecnologia 
+O mundo olha para a Noruega, países em busca de inovação e tecnologia
 
 https://dunapress.org/2020/02/09/inovacao-e-tecnologia-o-mundo-olha-para-a-noruega/
 
@@ -73,6 +72,4 @@ Para onde vai o lixo?
 
 https://dunapress.org/2018/12/11/para-onde-vai-o-lixo/
 
-## [O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!, clique e comece já!](https://dunapress.org/school/)
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+## [O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!](https://dunapress.org/school/)

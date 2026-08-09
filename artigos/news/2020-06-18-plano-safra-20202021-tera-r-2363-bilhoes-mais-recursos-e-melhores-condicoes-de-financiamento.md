@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Recursos vão garantir a continuidade da produção no campo e o abastecimento de alimentos no país durante e após a pandemia do novo Coronavírus.
 
 O governo federal lançou nesta quarta-feira (17), no Palácio do Planalto, o **[Plano Safra 2020-2021](https://www.gov.br/agricultura/pt-br/plano-safra)**, com R$ 236,3 bilhões para apoiar a produção agropecuária nacional, um aumento de R$ 13,5 bilhões em relação ao plano anterior. Os financiamentos poderão ser contratados de 1º de julho de 2020 a 30 de junho de 2021. A cerimônia ocorreu no Palácio do Planalto, com a presença do presidente Jair Bolsonaro e da ministra Tereza Cristina (Agricultura, Pecuária e Abastecimento). 
@@ -19,9 +18,9 @@ Do total, R$ 179,38 bilhões serão destinados ao custeio e comercialização (5
 
 Os recursos destinados aos investimentos cresceram em média 29%.
 
-Durante o lançamento do Plano Safra, o presidente Jair Bolsonaro destacou que a produção agrícola não parou durante a pandemia, garantindo o alimento para toda a população brasileira. “Todos os países têm como objetivo a segurança alimentar. A cidade pode parar, mas se um dia o campo parar, todos sucumbirão”, disse Bolsonaro. 
+Durante o lançamento do Plano Safra, o presidente Jair Bolsonaro destacou que a produção agrícola não parou durante a pandemia, garantindo o alimento para toda a população brasileira. “Todos os países têm como objetivo a segurança alimentar. A cidade pode parar, mas se um dia o campo parar, todos sucumbirão”, disse Bolsonaro.
 
-A ministra da Agricultura, Tereza Cristina, disse que o Plano Safra continua focado nos pequenos e médios produtores. Segundo ela, o incentivo à produção sustentável também tem destaque na safra 2020/2021, que vem com mais recursos e melhores condições de financiamento, a juros mais baixos. “Semear, plantar, cuidar, esperar florescer e enfim colher os frutos da terra é e sempre será algo essencial e belo. Uma atividade totalmente ligada à natureza só pode ter como caminho a busca da sustentabilidade”, destacou a ministra. 
+A ministra da Agricultura, Tereza Cristina, disse que o Plano Safra continua focado nos pequenos e médios produtores. Segundo ela, o incentivo à produção sustentável também tem destaque na safra 2020/2021, que vem com mais recursos e melhores condições de financiamento, a juros mais baixos. “Semear, plantar, cuidar, esperar florescer e enfim colher os frutos da terra é e sempre será algo essencial e belo. Uma atividade totalmente ligada à natureza só pode ter como caminho a busca da sustentabilidade”, destacou a ministra.
 
 Ela também lembrou que, graças ao trabalho do agro e das áreas de transporte e logística, o Brasil manteve o abastecimento em todo o país e honrou os compromissos com seus parceiros comerciais.  "O esforço do governo Jair Bolsonaro para viabilizar esse Plano Safra é um reconhecimento às conquistas e ao potencial do setor que está pronto para contribuir para a retomada econômica".
 
@@ -33,7 +32,7 @@ O secretário de Política Agrícola do Ministério da Agricultura, Eduardo Samp
 
 Os pequenos produtores rurais terão R$ 33 bilhões para financiamento pelo Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf), com juros de 2,75% e 4% ao ano, para custeio e comercialização.
 
-Para os médios produtores rurais, serão destinados R$ 33,1 bilhões, por meio do Programa Nacional de Apoio ao Médio Produtor Rural (Pronamp), com taxas de juros de 5% ao ano (custeio e comercialização). Para os grandes produtores, a taxa de juros será de 6% ao ano. 
+Para os médios produtores rurais, serão destinados R$ 33,1 bilhões, por meio do Programa Nacional de Apoio ao Médio Produtor Rural (Pronamp), com taxas de juros de 5% ao ano (custeio e comercialização). Para os grandes produtores, a taxa de juros será de 6% ao ano.
 
 **[>> Confira a apresentação dos números do Plano Safra 2020/2021](https://www.gov.br/agricultura/pt-br/assuntos/noticias/com-mais-recursos-e-melhores-condicoes-de-financiamento-plano-safra-2020-2021-tera-236-bilhoes/ApresentacaoPlanoSafra2020212.pdf)**
 
@@ -57,7 +56,7 @@ Outra novidade é o** **Pronaf-Bio, voltado para apoiar as cadeias produtivas da
 
 ### Inovação
 
-No Plano Safra 2020/2021, está disponível financiamento para aquisição de equipamentos de monitoramento climatológico, como estações meteorológicas e *softwares*, e de monitoramento da umidade do solo. Os financiamentos poderão ser feitos pelo Programa de Incentivo à Irrigação e à Produção em Ambiente Protegido (Moderinfra). 
+No Plano Safra 2020/2021, está disponível financiamento para aquisição de equipamentos de monitoramento climatológico, como estações meteorológicas e *softwares*, e de monitoramento da umidade do solo. Os financiamentos poderão ser feitos pelo Programa de Incentivo à Irrigação e à Produção em Ambiente Protegido (Moderinfra).
 
 A pecuária também terá apoio financeiro por meio do Programa de Incentivo à Inovação e Tecnológica na Produção Agropecuária (Inovagro). Os pecuaristas poderão financiar a aquisição de equipamentos e serviços de pecuária de precisão.
 
@@ -80,5 +79,3 @@ Os agricultores familiares e os médios produtores poderão financiar atividades
 Fonte: gov.br/agricultura / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

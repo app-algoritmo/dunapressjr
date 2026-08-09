@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## Colheita esperada é de 271,7 milhões de toneladas, diz a Conab.
 
 A Companhia Nacional de Abastecimento (Conab) prevê um aumento de 5,7% na produção nacional de grãos. Com isso, a colheita esperada é de 271,7 milhões de toneladas, número que apresenta um acréscimo de 14,7 milhões de toneladas, na comparação com o que foi produzido em 2019/20.
 
 A Conab prevê também o crescimento de 4,1% na área plantada. Isso equivale a um acréscimo de 2,7 milhões de hectares, para um total de 68,6 milhões de hectares utilizados para a produção que tem, como destaque, a soja (aumento de 4,2% ou 1,6 milhão de hectares), e o milho segunda safra (aumento 8,8%, ou 1,2 milhão de hectares).
 
-Os dados constam do 8º Levantamento da Safra 2020/2021 de Grãos, divulgado hoje (12) pela Conab. De acordo com a companhia, o resultado se deve à produção recorde da soja e ao  aumento estimado do milho total.
+Os dados constam do 8º Levantamento da Safra 2020/2021 de Grãos, divulgado hoje (12) pela Conab. De acordo com a companhia, o resultado se deve à produção recorde da soja e ao aumento estimado do milho total.
 
 “A situação das culturas de primeira safra, com exceção do milho e arroz, estão no encerramento da colheita. Para as de segunda safra, caso do feijão, predominam os estádios de floração e enchimento de grãos. Já quanto ao milho segunda safra, em face do atraso na semeadura, mas com um percentual significativo de desenvolvimento vegetativo e floração, a cultura dependerá das condições climáticas. Já no caso das culturas de inverno, o plantio se intensifica este mês, mas dependerá do volume das precipitações”, informou a Conab.
 
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

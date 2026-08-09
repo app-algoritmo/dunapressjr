@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Sessenta dias após a deflagração da Operação Covid-19, o Centro de Operações Conjuntas do Ministério da Defesa já soma, em ações de emprego das Forças Armadas, números que superam os de missões históricas, como a participação na Segunda Guerra Mundial e a Missão de Paz no Haiti.
 
 No Haiti, a MINUSTAH, operação liderada pelo Brasil, empregou mais de 37 mil militares brasileiros. Porém, essa missão durou 13 anos, de 2004-2017. Então, proporcionalmente, o número de homens e mulheres empregados na Operação Covid-19 é maior. Da mesma forma, na Segunda Guerra Mundial, durante sete meses, mais de 25 mil soldados integraram a Força Expedicionária Brasileira (FEB) para lutar pela libertação da Itália.
@@ -49,5 +48,3 @@ Os desafios são grandes. As Forças Armadas, com o apoio do povo brasileiro, co
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

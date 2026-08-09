@@ -8,7 +8,6 @@ categories:
 - Education
 ---
 
-
 -Tratada como a "libertação", a proclamação da República, no Brasil e no Ocidente, marcou o início do Estado inchado, do populismo, da manipulação das massas – e também do genocídio.
 
 ## -O dia 15 de novembro não é uma data a se comemorar no Brasil. É data para se lamentar com luto eterno.
@@ -45,7 +44,7 @@ Hans Hermann-Hoppe, o famoso anarco-capitalista, apesar de todos os seus erros e
 
 Os monarcas tratavam o Estado como sua propriedade particular – logo, qualquer perda de dinheiro público era uma perda para seu próprio patrimônio. Os democratas, bem ao contrário da propaganda ideológica, tratam o Estado como um meio para aumentar seu patrimônio particular, podendo torrar o erário sem uma visão de longo prazo – não à toa, a corrupção financeira é a marca da democracia, enquanto monarquias precisavam lidar com problemas administrativos que não invadiam a esfera privada individual.
 
-Os efeitos práticos são nítidos: os países mais prósperos do Ocidente são quase todos monarquias parlamentares, à exceção da Suíça (e a América, ao contrário do que se pensa, não é uma[ ](http://sensoincomum.org/2017/01/21/america-nao-e-uma-democracia/)democracia). É curioso falarem tanto sobre o “atraso” de uma monarquia, de como a nobreza supostamente “exploraria” o povo, e passar férias na Inglaterra, na Espanha, na Dinamarca, na Noruega ou na Holanda, esquecendo-se que são sistemas políticos indizivelmente mais avançados do que o brasileiro.
+Os efeitos práticos são nítidos: os países mais prósperos do Ocidente são quase todos monarquias parlamentares, à exceção da Suíça (e a América, ao contrário do que se pensa, não é umademocracia). É curioso falarem tanto sobre o “atraso” de uma monarquia, de como a nobreza supostamente “exploraria” o povo, e passar férias na Inglaterra, na Espanha, na Dinamarca, na Noruega ou na Holanda, esquecendo-se que são sistemas políticos indizivelmente mais avançados do que o brasileiro.
 
 O imperador brasileiro tinha um poder tão menor do que um político de segundo escalão brasileiro que chega a ser preciso enxergá-lo com microscópio. O Poder Moderador era puramente administrativo, sem mando. Era o poder de ser um articulador entre outros poderes, de ser um exemplo de virtude reconhecida pelo povo quando havia cizânia.
 

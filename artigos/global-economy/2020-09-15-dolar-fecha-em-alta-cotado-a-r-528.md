@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa de valores encerrou a terça-feira em leve queda.
 
 O dólar fechou em leve alta ante o real nesta terça-feira (15), abandonando queda de mais de 1% registrada mais cedo, com operadores adotando postura mais conservadora diante de novo ruído envolvendo a equipe econômica e o presidente Jair Bolsonaro, tendo como pano de fundo constantes receios sobre a trajetória das contas públicas.
@@ -27,5 +26,3 @@ O volume financeiro somava R$ 23,1 bilhões.
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Nazanin Tabatabaee/West Asia News Agency
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

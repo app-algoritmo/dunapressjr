@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A informação foi divulgada hoje pela FGV.
 
 O Monitor do PIB-FGV sinaliza que a atividade econômica retraiu 4% em 2020. O dado foi divulgado hoje (19) pelo Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre/FGV).
@@ -54,7 +53,7 @@ A exportação retraiu 1,9% em 2020, em comparação a 2019. Os segmentos export
 
 ## Importação
 
-A importação apresentou retração de 10,3% em 2020 na comparação com 2019. À exceção da importação de produtos agropecuários, que cresceu 2,3% no período, todos os demais segmentos recuaram em 2020. A importação de serviços foi a principal responsável pela queda na importação com recuo de 28,4%, no ano. 
+A importação apresentou retração de 10,3% em 2020 na comparação com 2019. À exceção da importação de produtos agropecuários, que cresceu 2,3% no período, todos os demais segmentos recuaram em 2020. A importação de serviços foi a principal responsável pela queda na importação com recuo de 28,4%, no ano.
 
 Apesar de apenas dois segmentos da importação terem crescido em dezembro, o total da importação aumentou 10,3% na comparação interanual. Mesmo com as quedas nos demais componentes, o crescimento expressivo dos bens intermediários (39,7%) e dos bens de capital (34,8%) impulsionaram o total importado.
 
@@ -64,8 +63,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

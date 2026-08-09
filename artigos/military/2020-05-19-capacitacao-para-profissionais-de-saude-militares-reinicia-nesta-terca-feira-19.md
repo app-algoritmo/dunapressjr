@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 O segundo treinamento para profissionais de saúde militares que tratam de pacientes com o novo coronavírus inicia nesta terça-feira (19). A capacitação ocorre em unidades de saúde militares de três regiões do País. A iniciativa da Secretaria de Pessoal, Ensino, Saúde e Desportos (SEPESD), do Ministério da Defesa, possibilita que fisioterapeutas, enfermeiros e médicos possam atuar, se necessário, em Unidades de Tratamento Intensivo (UTIs) dos hospitais em que trabalham.
 
 Os treinamentos, que iniciaram em 5 de maio, ocorrem até o fim do mês de maio para diferentes turmas. Com carga horária de 16 horas/aulas, ministradas em dois dias, é oferecido a 40 alunos por vez. No total, são 480 vagas distribuídas em três locais. O treinamento ocorre na capital federal, no Hospital das Forças Armadas, e em outras duas unidades nas regiões Sul e Sudeste.
@@ -29,5 +28,3 @@ O Secretário General Pafiadache ressalta que, em um primeiro momento, o treinam
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

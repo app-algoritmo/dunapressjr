@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Estudos serão realizados por consórcio contratado pelo banco.
 
 O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) irá realizar estudos para avaliar a viabilidade de um novo modelo de concessão ambiental baseado na remuneração para conservação e recuperação de florestas públicas. A ideia é utilizar o Pagamento por Serviços Ambientais (PSA) e o mercado de créditos de carbono para tornar a preservação uma atividade lucrativa, levando investimentos aos territórios e garantindo alternativa de renda para quem protege o meio ambiente na Amazônia e em outros biomas.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

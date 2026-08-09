@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Títulos mais procurados foram os corrigidos pela Selic.
 
 As vendas de títulos públicos a pessoas físicas pela internet somaram R$ 4,01 bilhões em julho, divulgou nesta sexta-feira (26) o Tesouro Nacional. O volume é o segundo maior da história para um mês, perdendo apenas para maio de 2019 (R$ 5,86 bilhões).
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

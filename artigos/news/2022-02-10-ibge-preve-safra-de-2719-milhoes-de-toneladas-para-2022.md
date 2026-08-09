@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Arroz, milho e soja representam 93% da estimativa da produção.
 
 A produção de cereais, leguminosas e oleaginosas estimada para 2022 deve totalizar o recorde de 271,9 milhões de toneladas, 7,4% acima (18,7 milhões de toneladas) da obtida em 2021 (253,2 milhões de toneladas).
@@ -16,7 +15,7 @@ O Levantamento Sistemático da Produção Agrícola divulgado hoje (10), no Rio 
 
 O arroz, o milho e a soja, os três principais produtos deste grupo, somados, representam 93% da estimativa da produção e respondem por 87,8% da área a ser colhida. Frente a 2021, houve acréscimos de 5,8% na área do milho (6,9% na primeira safra e 5,4% na segunda), de 7,2% na do algodão herbáceo e de 3,6% na da soja. Houve declínio de 0,9% na área do arroz e de 1,7% na do trigo.
 
-Espera-se que a produção de soja totalize 131,8 milhões de toneladas, com redução de 4,7% em relação ao terceiro prognóstico, divulgado em janeiro, e de 2,3% na comparação com a produção do ano anterior. 
+Espera-se que a produção de soja totalize 131,8 milhões de toneladas, com redução de 4,7% em relação ao terceiro prognóstico, divulgado em janeiro, e de 2,3% na comparação com a produção do ano anterior.
 
 A produção de milho foi estimada em 109,9 milhões de toneladas, com crescimento de 0,9% frente ao mês anterior e 25,2% em relação a 2021. Já a estimativa de produção do arroz foi de 11 milhões de toneladas, queda de 4,9% frente ao produzido no ano passado.
 
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

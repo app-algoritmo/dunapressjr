@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Depois de dois dias de alta, bolsa de valores registra queda.
 
 Depois de passar boa parte do dia em queda, o dólar reverteu o movimento e fechou próximo da estabilidade. O dólar comercial encerrou esta sexta-feira (22) vendido a R$ 5,574, com leve recuo de R$ 0,009 (-0,15%).
@@ -29,5 +28,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

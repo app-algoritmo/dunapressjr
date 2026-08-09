@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Uma tecnologia da Universidade Federal do Rio Grande do Norte (UFRN) pode reverter a desertificação da Caatinga. Desenvolvida pela professora Gislene Ganade, a técnica consiste em usar mudas de raízes longas apoiadas por tubos e plantá-las em  locais individualmente  hidratados. Dez bolsistas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) fazem parte da equipe.
 
 No projeto, o grupo de pesquisa fez sobreviver a maioria das árvores plantadas em uma área de 3,5 hectares da Floresta Nacional de Açu (RN), mesmo nas piores secas. Em 2015, as Nações Unidas reconheceram a contribuição do projeto com o selo *Dryland Champions*. A pesquisa é o primeiro projeto sul-americano do TreeDivNet, um consórcio internacional que estuda a importância da diversidade vegetal para o plantio de florestas.
@@ -39,7 +38,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

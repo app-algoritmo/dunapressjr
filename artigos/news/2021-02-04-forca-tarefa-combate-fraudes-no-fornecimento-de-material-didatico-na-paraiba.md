@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## 11ª e 12ª fases da Operação Calvário investigam contratação ilícita de empresas e pagamento de vantagens indevidas a empresários e agentes públicos.
 
 A Controladoria-Geral da União (CGU) participou, nesta quinta-feira (04/02), na Paraíba, das 11ª e 12ª fases da Operação Calvário, denominadas de “A Origem”. O trabalho é realizado em parceria com os Grupos de Atuação Especial Contra o Crime Organizado (GAECO) de vários Ministérios Públicos (MPF, MPPB, MPDFT, MPSC e MPSP), o Tribunal de Contas do Estado (TCE/PB), a Receita Estadual e as Polícias Civil (PCPB) e Militar (PMPB). O objetivo é dar continuidade às investigações acerca da contratação fraudulenta de empresas, com recursos federais, para o fornecimento de material didático (livros).
@@ -34,8 +33,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

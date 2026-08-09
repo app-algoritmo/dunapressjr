@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Serviços recuaram 4,5% e a indústria, 3,5%
 
-O Produto Interno Bruto (PIB) do país caiu 4,1% em 2020, totalizando R$ 7,4 trilhões. Essa é a maior queda anual da série iniciada em 1996 e interrompeu o crescimento de três anos seguidos, de 2017 a 2019, quando o PIB (a soma de todas as riquezas produzidas no país) acumulou alta de 4,6%. 
+O Produto Interno Bruto (PIB) do país caiu 4,1% em 2020, totalizando R$ 7,4 trilhões. Essa é a maior queda anual da série iniciada em 1996 e interrompeu o crescimento de três anos seguidos, de 2017 a 2019, quando o PIB (a soma de todas as riquezas produzidas no país) acumulou alta de 4,6%.
 
 O PIB *per capita* alcançou R$ 35.172 no ano passado, recuo recorde de 4,8%. No quarto trimestre, que fechou o resultado de 2020, o PIB cresceu 3,2%. Os dados são do Sistema de Contas Nacionais Trimestrais, divulgado hoje (3), no Rio de Janeiro, pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
 
@@ -42,8 +41,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

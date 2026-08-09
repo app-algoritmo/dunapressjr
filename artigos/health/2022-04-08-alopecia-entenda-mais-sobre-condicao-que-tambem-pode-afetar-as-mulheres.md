@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A alopecia, também conhecida como calvície, é uma condição bastante comum entre os homens e está diretamente relacionada aos hormônios sexuais masculinos, principalmente a testosterona. Entre as mulheres, que também produzem esse hormônio, só que em menor quantidade, os casos são bem menos frequentes e, quando ocorrem, na maioria das vezes, a perda de cabelos é menos drástica. Por isso, episódios mais agressivos entre o público feminino são raros.
 
 Além do fator hormonal, outras possíveis causas para o distúrbio são fatores genéticos e imunológicos. Em alguns casos, a alopecia pode estar associada a enfermidades como tireoidites, diabetes, lúpus, vitiligo, rinites e a outras condições alérgicas.
@@ -65,7 +64,3 @@ Fonte: https://www.gov.br/saude
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

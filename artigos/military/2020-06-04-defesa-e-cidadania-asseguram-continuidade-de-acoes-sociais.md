@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 O Ministro da Defesa, Fernando Azevedo, recebeu para agenda de trabalho, o Ministro da Cidadania, Onix Lorenzoni, na manhã desta quarta-feira (03), na sede da Pasta. Azevedo destacou a importante parceria com o Ministério da Cidadania, que “possibilita ações sociais importantes para a sociedade”.
 
 Durante reunião com assessores, Onix foi informado sobre o andamento da distribuição de kits alimentação às famílias de crianças e jovens atendidas pelo Programa Forças no Esporte (PROFESP) e Programa João do Pulo.
@@ -26,5 +25,3 @@ Outra parceria implementada com o Ministério da Cidadania, é o Programa de Atl
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

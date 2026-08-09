@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Braille é um sistema de leitura através de pontos em relevo que podem ser lidos com os dedos por pessoas cegas ou com baixa visão.
 
 O Braille não é uma língua e, sim, um código pelo qual muitos idiomas – como português, inglês, espanhol, árabe, chinês e dezenas de outros – podem ser escritos e lidos. É usado por milhares de pessoas em todo o mundo em suas línguas nativas e fornece um meio de alfabetização para todos.
@@ -43,7 +42,6 @@ IV – difundam informações sobre a acessibilidade material, à informação e
 V – incentivem a produção de textos em Braille;
 VI – promovam a capacitação de profissionais para atuarem na educação, habilitação e reabilitação da pessoa cega, bem como na editoração de textos em Braille.
 
-**
 Fontes**: https://bvsms.saude.gov.br
 
 [American Foundation for the Blind](https://www.afb.org/blindness-and-low-vision/braille/what-braille)
@@ -60,7 +58,3 @@ Fontes**: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

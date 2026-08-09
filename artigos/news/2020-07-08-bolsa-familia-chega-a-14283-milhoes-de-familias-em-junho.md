@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## Quatro dos cinco meses com maior número de beneficiários na história do programa ocorreram na atual gestão do Governo Federal.
 
 Com o pagamento da terceira parcela do Auxílio Emergencial concluído aos beneficiários do Bolsa Família, o programa fechou junho de 2020 com a marca de 14,283 milhões de famílias atendidas. A maior parte – mais de 13,6 milhões – recebeu o recurso destinado pelo Governo Federal para ajudar as pessoas mais vulneráveis a enfrentar a crise provocada pela pandemia de Covid-19, em um investimento que superou a marca de R$ 15,2 bilhões. Cada família recebeu o valor médio de R$ 1.116,18.
 
 O número total de famílias atendidas foi o segundo maior da história do programa. Segundo informações da Secretaria Nacional de Renda de Cidadania (Senarc) do Ministério da Cidadania, o marco mais expressivo até hoje ocorreu em maio de 2019, com 14,33 milhões de famílias beneficiárias. No mês passado, o Bolsa Família registrou o total de 14,281 milhões, enquanto em abril foram 14,27 milhões. Antes disso, o registro mais alto era de novembro de 2018, com 14,22 milhões de famílias atendidas.
 
-Assim, quatro dos cinco meses com maior número de famílias beneficiadas na história do programa ocorreram na atual gestão do Governo Federal. “Os números são a comprovação oficial de que ninguém fica para trás com o presidente Jair Bolsonaro. Temos um retrato da preocupação verdadeira que o governo tem em atender a população mais vulnerável, de forma ainda mais significativa nesse período de enfrentamento da pandemia”, afirma o ministro da Cidadania, Onyx Lorenzoni. 
+Assim, quatro dos cinco meses com maior número de famílias beneficiadas na história do programa ocorreram na atual gestão do Governo Federal. “Os números são a comprovação oficial de que ninguém fica para trás com o presidente Jair Bolsonaro. Temos um retrato da preocupação verdadeira que o governo tem em atender a população mais vulnerável, de forma ainda mais significativa nesse período de enfrentamento da pandemia”, afirma o ministro da Cidadania, Onyx Lorenzoni.
 
 Em junho, além das 13,6 milhões contempladas com o Auxílio, outras 650 mil famílias permaneceram na folha de pagamento regular do programa, totalizando um valor de R$ 104,3 milhões. A lei determina que o pagamento do benefício seja o financeiramente mais vantajoso para o beneficiário, entre o Bolsa Família e o Auxílio Emergencial.
 
@@ -32,7 +31,7 @@ A garantia da renda mínima aos brasileiros durante a pandemia foi possível gra
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

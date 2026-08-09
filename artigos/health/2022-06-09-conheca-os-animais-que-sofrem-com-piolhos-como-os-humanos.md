@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Os piolhos são parasitas externos que causam uma coceira tremenda na pele, e não atingem só os humanos. Ocorrem também em mamíferos grandes como os búfalos, pequenos como os gatos, aquáticos como a foca, e em aves como as galinhas – uma extensa lista de animais que podem se tornar piolhentos.
 
 Os sintomas e as consequências da infestação por piolhos são semelhantes em humanos e animais. Por isso, em ambos eles precisam ser eliminados pois são vetores de doenças.
@@ -94,8 +93,6 @@ Fonte: https://butantan.gov.br
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
 
-Gratuitamente, clique e comece já!
-
 Fonte: https://butantan.gov.br
 Ver também:
 Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.
@@ -103,5 +100,3 @@ Como estabelecer metas de estudos.
  A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.
 ________________________________________
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
- 
-Gratuitamente, clique e comece já!

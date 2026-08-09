@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Prazo de entrega e regras devem ser anunciados nesta semana.
 
 A partir de março, o contribuinte terá de cumprir a obrigação anual de prestar contas ao Leão. O prazo da entrega anual da Declaração do Imposto de Renda Pessoa Física 2022 (ano-base 2021) ainda não foi anunciado pela Receita Federal. Caso seja mantido o padrão dos últimos anos, o documento deverá ser enviado entre 2 de março e 30 de abril. Normalmente, o prazo começa em 1º de março, mas neste ano a data cairá no feriado de carnaval.
@@ -28,7 +27,7 @@ Para organizar os documentos que gerem outras deduções, como despesas médicas
 
 As informações bancárias e as aplicações financeiras com saldo a partir de R$ 140 devem ser informadas na declaração. Nesse caso, o cliente pode ir ao site ou ao aplicativo das instituições financeiras com que mantém relação e baixar os comprovantes de saldos, caso eles estejam disponíveis.
 
-Arrendadores de imóveis rurais, pessoas físicas que recebem rendimentos de outra pessoa física ou do exterior e quem comprou ou alienou bens imóveis, móveis e direitos pelo valor real do bem também devem juntar os documentos. 
+Arrendadores de imóveis rurais, pessoas físicas que recebem rendimentos de outra pessoa física ou do exterior e quem comprou ou alienou bens imóveis, móveis e direitos pelo valor real do bem também devem juntar os documentos.
 
 O contribuinte também deve juntar os comprovantes de pagamentos a profissionais liberais, como médicos, dentistas, advogados, veterinários, contadores, economistas, engenheiros, arquitetos, psicólogos, fisioterapeutas e os documentos de pagamento de aluguel, pensão alimentícia e juros. A falta de declaração dos pagamentos acima pode acarretar em multa de 20% sobre os valores não declarados.
 
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

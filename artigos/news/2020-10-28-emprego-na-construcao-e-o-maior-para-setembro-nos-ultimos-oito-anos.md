@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Número de empregados chegou a 50,1 pontos no mês, diz CNI.
 
 A indústria da construção civil segue em ritmo acelerado, com avanço na atividade e na utilização da capacidade operacional. A pesquisa Sondagem Indústria da Construção, da Confederação Nacional da Indústria (CNI), mostra a retomada da indústria de construção civil em setembro, com o índice de evolução do número de empregados chegando a 50,1 pontos no mês.
@@ -35,5 +34,3 @@ A pesquisa completa está disponível no [**Portal da Indústria**](http://www.
 Fonte: Agência Brasil – Imagem de destaque: Arquivo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

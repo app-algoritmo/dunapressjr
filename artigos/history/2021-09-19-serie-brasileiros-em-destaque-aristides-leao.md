@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Profissão: Neurofisiologista.
 
 Área do Conhecimento: Ciências da Saúde.
@@ -18,13 +17,13 @@ Data de nascimento1914-08-03
 
 Data de falecimento1993-12-14
 
-Material complementar: 
+Material complementar:
 
  [Arquivo Fotográfico Aristides Azevedo Pacheco Leão](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-59702001000300008)
 
 Biografia -[https://www.google.com/search?q=biografia+de+aRISTIDES+LE%C3%83O&oq=biografia+de+aRISTIDES+LE%C3%83O&aqs=chrome..69i57.11288j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=biografia+de+aRISTIDES+LE%C3%83O&oq=biografia+de+aRISTIDES+LE%C3%83O&aqs=chrome..69i57.11288j0j7&sourceid=chrome&ie=UTF-8)
 
-Prêmios e condecorações: 
+Prêmios e condecorações:
 
 Prêmio Einstein
 
@@ -47,7 +46,3 @@ Fonte: https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

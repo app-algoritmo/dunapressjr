@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Receita obtida com tributos é a maior desde 1995.
 
 A Receita Federal arrecadou R$ 202,588 bilhões no mês de julho de 2022, valor que representa acréscimo real de 7,47% na comparação com julho de 2021. No acumulado de janeiro a julho deste ano, o total arrecadado ficou próximo a R$ 1,3 trilhão, o que representa um acréscimo de 10,44%. Trata-se da maior arrecadação de tributos federais dos últimos 27 anos.
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

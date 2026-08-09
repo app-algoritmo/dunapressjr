@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Saldo negativo foi causado pelas despesas vinculadas à pandemia.
 
 As contas públicas registraram em agosto saldo negativo recorde, devido às despesas extraordinárias necessárias para o enfrentamento da pandemia da covid-19. O setor público consolidado, formado por União, estados e municípios, apresentou déficit primário de R$ 87,594 bilhões no mês passado, o maior resultado negativo para o mês da série histórica iniciada em dezembro de 2001. Em agosto de 2019, o déficit primário foi de R$ 13,448 bilhões. Os dados foram divulgados hoje (30) pelo Banco Central (BC).
@@ -47,5 +46,3 @@ Em agosto, a dívida bruta - que contabiliza apenas os passivos dos governos fed
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

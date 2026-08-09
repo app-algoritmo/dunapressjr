@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Número é resultado da soma de US$ 29,6 bilhões em exportações e US$ 24,7 bilhões em importações.
 
 A Secretaria de Comércio Exterior (Secex) do Ministério da Economia divulgou em 13 de junho dos dados preliminares da balança comercial indicando que as exportações brasileiras somaram, em maio de 2022, US$ 29,6 bilhões, e as importações, US$ 24,7 bilhões. Isso gerou um saldo positivo de US$ 4,9 bilhões e corrente de comércio de US$ 54,4 bilhões. No acumulado do ano, as exportações totalizam US$ 131,1 bilhões e as importações, US$ 106 bilhões, um saldo positivo de S$ 25,1 bilhões e corrente de comércio de US$ 237 bilhões.
@@ -22,7 +21,7 @@ A média das exportações de janeiro a maio de 2022 foi de US$ 1,27 bilhão, co
 
 ### Setores e produtos
 
-O mês de maio de 2022 registrou a seguinte média diária das exportações, no corte por setores:  crescimento de US$ 0,82 milhão (0,2%) em Agropecuária; queda de US$ 13,05 milhões (-4,5%) em Indústria Extrativa e crescimento de US$ 114,4 milhões (19,4%) em produtos da Indústria de Transformação.
+O mês de maio de 2022 registrou a seguinte média diária das exportações, no corte por setores: crescimento de US$ 0,82 milhão (0,2%) em Agropecuária; queda de US$ 13,05 milhões (-4,5%) em Indústria Extrativa e crescimento de US$ 114,4 milhões (19,4%) em produtos da Indústria de Transformação.
 
 A combinação desses resultados levou a um aumento das exportações. Tiveram destaque nesse crescimento os seguintes produtos: na Agropecuária, milho não moído, exceto milho doce; café não torrado; trigo e centeio, não moídos. Na Indústria de Transformação, farelos de soja e outros alimentos para animais (excluídos cereais não moídos); farinhas de carnes e outros animais; carne bovina fresca, refrigerada ou congelada; carnes de aves e suas miudezas comestíveis, frescas, refrigeradas ou congeladas; e produtos laminados planos de ferro ou aço não ligado, não folheados ou chapeados, ou revestidos.
 
@@ -42,8 +41,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

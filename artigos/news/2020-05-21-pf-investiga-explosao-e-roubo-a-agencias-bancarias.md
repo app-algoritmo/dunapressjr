@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Varginha/MG – Nesta quinta-feira, 21/5, a Polícia Federal, em conjunto com as Polícias Civil e Militar de Minas Gerais, deflagrou a Operação RAPINA, para combater roubo qualificado pelo uso de artefato explosivo, disparo de arma de fogo em via pública e associação criminosa.
 
 Na madrugada de 3/4/2020, assaltantes explodiram agências dos Bancos Bradesco e Caixa Econômica Federal, em Elói Mendes, causando consideráveis danos às instalações, e efetuaram inúmeros disparos de armas de fogo na via pública. Após a fuga, os bandidos abandonaram e incendiaram o veículo utilizado na ação criminosa.
@@ -23,5 +22,3 @@ Seguindo todos os protocolos de cuidados do Ministério da Saúde em face da pan
 Haverá coletiva de imprensa, às 10h45, na sede da Delegacia Regional de Polícia Federal em Varginha (Av. Princesa do Sul, nº 1600, bairro Rezende).
 
 Comunicação Social da Polícia Federal em Varginha/MG
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

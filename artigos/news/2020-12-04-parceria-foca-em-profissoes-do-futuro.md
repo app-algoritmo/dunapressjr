@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O mundo do trabalho passa por uma profunda transformação em função da dinâmica da economia global. Pensando nisso, o Ministério da Educação (MEC) e a Agência Brasileira de Desenvolvimento Industrial (ABDI) formalizaram uma parceria para favorecer a formulação de políticas públicas e a criação de programas e projetos voltados para a qualificação profissional de jovens e adultos brasileiros. A intenção é atender necessidades do mercado de trabalho e demandas da economia digital.
 
 O Acordo de Cooperação Técnica, assinado nessa quinta-feira (3), prevê as seguintes entregas:
@@ -36,7 +35,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

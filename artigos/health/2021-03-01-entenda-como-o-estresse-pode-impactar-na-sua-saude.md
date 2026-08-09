@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 O estresse pode ser causado por condições desfavoráveis, sejam elas do ambiente profissional, familiar ou social, podem levar a um grau “negativo” de estresse, que desequilibra todo o organismo humano, propiciando o aparecimento de diversas doenças. Além disso, compromete a qualidade de vida e a saúde física e emocional, podendo gerar insônia, cansaço, dor de cabeça, tristeza e irritabilidade, dificuldade em se concentrar e falhas na memória, perda ou ganho de peso, insatisfação constante e isolamento social, má digestão, baixa imunidade.
 
 Depois de 13 anos como professora, Stela Hoshi, 34 anos, tomou a decisão que mudou sua vida, largar a carreira na educação infantil para se dedicar a um ateliê onde ensina costura e outras habilidades manuais. “Dava aula de inglês para crianças muito pequenas. Cheguei ao ponto de olhar crianças na rua e não querer lidar com elas. Ia à festa de aniversário de crianças da família e tudo o que queria era sumir dali. Comecei a refletir e senti que se continuasse eu não ia conseguir ter filhos e conviver com as pessoas”, relembra.
@@ -64,7 +63,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

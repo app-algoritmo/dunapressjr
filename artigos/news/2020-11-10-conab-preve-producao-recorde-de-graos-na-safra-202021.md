@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estimativa é de 268,9 milhões de toneladas.
 
 O Brasil deverá produzir 268,9 milhões de toneladas de grãos, segundo o 2º Levantamento da safra de grãos 2020/21, divulgado há pouco pela Companhia Nacional de Abastecimento (Conab). O número supera em 11,9 milhões de toneladas (4,6 %) o que foi produzido na temporada de 2019/2020.
@@ -29,5 +28,3 @@ Segundo ele, nesse momento há ainda possibilidade de recuperação, inclusive e
 Fonte: Agência Brasil – Imagem de destaque: CNA/Wenderson Araujo/Trilux
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

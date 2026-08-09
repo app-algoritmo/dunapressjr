@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 As obras de pavimentação da BR-163/PA e a renovação do contrato de concessão da ferrovia Malha Paulista neste ano apontam queda no custo Brasil, de acordo com estudos publicados pela Empresa de Planejamento e Logística (EPL) no Boletim de Logística. De acordo com o levantamento, tanto a pavimentação da BR-163/PA quanto as melhorias que serão promovidas com a renovação da Malha Paulista aumentarão a eficiência do escoamento da produção agrícola para os portos do Arco Norte e para o Porto de Santos, gerando economia de mais de R 1,2 bilhão, por ano, com a redução de fretes.
 
 O estudo da EPL revela como as más condições da BR-163/PA pode impactar a cadeia logística nacional. A infraestrutura anterior deficitária da rodovia embutia pesados custos no escoamento de grãos oriundos do Mato Grosso, principalmente durante o período de chuvas. A EPL estima que, para o ano de 2018, as perdas associadas às más condições foram de R$ 580 milhões.
@@ -23,7 +22,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

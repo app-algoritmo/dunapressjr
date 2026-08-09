@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 A falta de acesso a equipamentos e apoio pedagógico prejudicou os alunos, principalmente do Ensino Médio, durante os anos de 2020 e 2021. Esse foi o resultado de uma pesquisa realizada pelo Instituto de Estudos Socioeconômicos (Inesc), em parceira com o Instituo Vox Populi, que ouviu 1500 alunos do ensino médio da rede pública e 500 da rede particular de ensino para saber quais os principais desafios enfrentados por eles durante a pandemia de Covid-19.
 
 Os dados foram apresentados nesta quinta-feira (16) em uma audiência pública da Comissão de Educação da Câmara. A representante do Inesc no debate, Cleo Manhas, destacou que durante a pandemia 51% dos alunos das escolas públicas tiveram que assumir outras atividades, como trabalho doméstico ou trabalhos fora de casa.
@@ -45,7 +44,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

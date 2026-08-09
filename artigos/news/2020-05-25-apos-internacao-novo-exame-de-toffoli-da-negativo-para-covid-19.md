@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ministro apresenta melhora considerável, diz boletim médico.
 
 Um novo exame feito pelo presidente do Supremo Tribunal Federal (STF), Dias Toffoli, deu negativo para o novo coronavírus, informou boletim médico divulgado hoje (25) pela assessoria da Corte.
@@ -27,5 +26,3 @@ Fonte: Agência Brasil– Imagem de destaque: Carolina Antunes/PR
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

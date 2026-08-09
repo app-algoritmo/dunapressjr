@@ -27,4 +27,4 @@ Até o momento, 11 pilotos estão garantidos para o próximo campeonato.
 
 **Imagem em destaque:** Grand Prix 247, The SportsRush e TheJudge13
 
-https://dunapress.org/produto/assinatura-leitor-premio/?aff=milah44
+https://dunapress.org/produto/assinatura-leitor-premio/

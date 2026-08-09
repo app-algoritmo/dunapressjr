@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Guaíra/PR – Na madrugada deste domingo (7/6), mais uma grande apreensão foi realizada por equipes que participam da OPERAÇÃO HÓRUS, integrada pela POLÍCIA FEDERAL, COBRA/BPFRON/PMPR, TIGRE/PCPR, BOPE/PMMS, FORÇA NACIONAL e pelo EXÉRCITO BRASILEIRO, com apoio da SEOPI – Secretaria de Operações Integradas/MJSP.
 
  Durante patrulhamento de rotina na zona rural de Guaíra/PR, policiais desta integração visualizaram movimentação suspeita próxima à lavoura e resolveram realizar abordagem para fiscalização.
@@ -22,5 +21,3 @@ Foi solicitado reforço policial, após essa tentativa de homicídio contra os p
  Os materiais apreendidos foram encaminhados à Delegacia de Polícia Federal de Guaíra, para os procedimentos de praxe.
 
 Comunicação Social da Polícia Federal em Guaíra/PR
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

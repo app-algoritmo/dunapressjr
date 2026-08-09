@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Medida inclui itens como glifosato e resinas plásticas na Lista de Exceções à Tarifa Externa Comum do Mercosul.
 
 O Comitê-Executivo de Gestão (Gecex) da Câmara de Comércio Exterior (Camex) aprovou nesta quarta-feira (3), em sua 2ª reunião extraordinária de 2022, a redução do Imposto de Importação, via inclusão na Lista de Exceções à Tarifa Externa Comum do Mercosul (Letec), para insumos industriais como glifosato e resinas plástivas. O Gecex é o núcleo executivo colegiado da Camex, que faz parte da estrutura administrativa do Ministério da Economia.
@@ -26,8 +25,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

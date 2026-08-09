@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Moeda norte-americana ficou no menor patamar desde 13 de março.
 
 O dólar voltou a cair forte ante o real nesta segunda-feira, renovando mínima em 12 semanas, em mais um dia de notável apetite por risco em todo o mundo diante de otimismo com a recuperação da economia global.
@@ -45,5 +44,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

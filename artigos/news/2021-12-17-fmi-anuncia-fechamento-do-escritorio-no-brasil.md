@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Órgão deixará o país em junho de 2022, após 23 anos.
 
 Depois de 23 anos com representação no país, o Fundo Monetário Internacional (FMI) anunciou nesta quinta-feira (16) o fechamento do escritório no Brasil. A unidade em Brasília fechará as portas em 30 de junho de 2022, quando acabará o mandato do atual representante do órgão no país.
@@ -26,10 +25,6 @@ Em evento com empresários, nesta quarta-feira, em São Paulo, Guedes criticou p
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Literature
 ---
 
-
 O *compliance* está cada vez mais presente no dia a dia das empresas. O termo se fortaleceu após a promulgação da lei em 2013 e ficou conhecida como Lei Anticorrupção. Mas, na teoria, o que realmente é o* compliance*? “Estar em conformidade com as leis, com os padrões éticos, regulamentos internos e externos, são algumas das definições que podemos utilizar para definir o* compliance*”, explica a analista de compliance da Tecnobank, Thais Takagi.
 
 O *compliance *remonta à virada do século XX, junto com a criação do Banco Central dos Estados Unidos, visando ser um ambiente mais seguro e estável. Contudo, segundo Thais, no Brasil o tema ganhou força somente em 2014, com a entrada em vigor da lei anticorrupção, quase 40 anos após o combate a corrupção dos EUA ter iniciado. “É uma vitória o Brasil estar em patamares tão avançados em compliance, comparado com muitos países dito de primeiro mundo. Essa prática vem sendo cada vez mais difundida, pois o mercado não quer mais se relacionar com empresas desatentas ao *compliance*, afirma Thais. Para ajudar quem tem interesse no tema, e deseja se aprofundar sobre o *compliance*, especialistas fizeram algumas indicações de livros.
@@ -34,15 +33,6 @@ O *compliance *remonta à virada do século XX, junto com a criação do Banco C
 - **Compliance Bancário: Um Manual Descomplicado
 **Também recomendada pelo procurador da República no Ministério Público Federal, Deltan Dallagnol, a obra do procurador da Fazenda André Almeida Rodrigues Martinez, ex-superintendente de *compliance* do Banco Itaú e ex-procurador na Advocacia Geral da União (AGU), e do procurador da Lava Jato e especialista em *compliance* criminal, Carlos Fernando dos Santos Lima está na terceira edição. “O livro é um verdadeiro manual de *compliance*, focado na área bancária, mas também útil para outros setores, com apontamentos práticos, mas sempre com sólida base nas normas nacionais e internacionais sobre a matéria”, disse o ex-ministro da Justiça Sérgio Moro, no prefácio da obra.
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
 Fonte: Central Press
 
 **Ver também:**
@@ -54,7 +44,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 O objetivo da campanha é conscientizar sobre a doença e incentivar as pessoas a agirem de forma a impactar o futuro da enfermidade, por meio da pesquisa, do cuidado e do planejamento de vida.
 
 Neste Dia, uma aliança global de organizações de mais de 80 países mobiliza a comunidade para provocar mudanças, pedindo aos afetados pela doença que se levantem, falem e se unam para acabar com o Parkinson. É preciso quebrar o estigma em torno da doença, liderar o apelo para financiar avanços médicos e colocar o Parkinson no passado.
@@ -53,7 +52,3 @@ Fonte: https://www.gov.br/saude
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

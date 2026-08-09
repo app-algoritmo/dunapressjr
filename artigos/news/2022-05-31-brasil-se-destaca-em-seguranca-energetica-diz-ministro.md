@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Ministro da Ciência e Tecnologia Paulo Alvim participou de seminário.
 
 O olhar do mercado internacional sobre o Brasil na questão de segurança energética mudou, nos últimos anos, e o país já é visto como importante no cenário mundial. A avaliação é do ministro da Ciência, Tecnologia e Inovações, Paulo Alvim, que participou nesta terça-feira (30), de forma virtual, do Seminário Energia: Desenvolvimento, Desafios e Oportunidades, promovido pela Federação das Indústrias do Rio de Janeiro (Firjan) e o Cluster Tecnológico Naval do Rio de Janeiro (CTN-RJ).
@@ -62,8 +61,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

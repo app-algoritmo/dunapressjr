@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Foco são lavouras de soja, milho, algodão, café, arroz, cana-de-açúcar.
 
 O Banco do Brasil anunciou hoje (23) a disponibilização de R$ 16 bilhões em crédito a produtores rurais, para a compra antecipada de insumos, por meio do custeio antecipado da safra 2021/2022. De acordo com o banco, o crédito tem como foco o financiamento das lavouras de soja, milho, algodão, café, arroz e cana-de-açúcar. “A linha permitirá aos clientes avaliar o melhor momento para a aquisição dos insumos, levando em consideração as condições de preço e mercado”, informa o Banco do Brasil.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

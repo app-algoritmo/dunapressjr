@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Projeto é liderado pelo professor Antônio Carlos de Freitas, do Departamento de Genética.
 
 O projeto de pesquisa “Produção heteróloga de proteínas do SARS-CoV-2, ensaio de neutralização por pseudovírus e teste pré-clínico de vacina candidata desenvolvidas contra a Covid-19”, desenvolvido pela equipe do Laboratório de Estudos Moleculares e Terapia Experimental (Lemte), vinculado ao Programa de Pós-Graduação em Genética da UFPE, foi contemplado no edital direcionado a Fármacos e Imunologia, do Programa Estratégico Emergencial de Combate a Surtos, Endemias, Epidemias e Pandemias da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes). Das 46 propostas aprovadas, apenas sete foram para pesquisadores da Região Nordeste, e o da UFPE é o único que envolve a produção de vacinas como um dos objetivos.
@@ -21,7 +20,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

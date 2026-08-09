@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 Praias lindas e belezas naturais de encher os olhos faz da Ilha do Mel, no Paraná, um dos destinos mais procurados no sul do Brasil. O local agrada turistas de todas as idades e interesses, do descanso à aventura. Com a população acima de 18 anos vacinada contra a Covid-19, a ilha tornou-se uma excelente opção para aqueles que buscam ecoturismo, lazer e segurança. As praias de Encantadas, Nova Brasília e Fortaleza reúnem praticamente todas as hospedagens, com capacidade para receber 2.500 turistas (com restrição, durante a pandemia). De acordo com o diretor da Serra Verde Express e proprietário da pousada Caraguatá, Adonai Aires de Arruda Filho, “com a vacinação em massa, há um forte indicativo de retomada do turismo, que é a principal fonte de economia da ilha”.
 
 Para garantir a saúde e a proteção de todos, o destino está restringindo a visitação aos hóspedes de hotéis e pousadas locais. O acesso é controlado no terminal de embarque de Paranaguá ou Pontal do Sul, mediante comprovação da estadia e aferição de temperatura. Todos os protocolos das autoridades sanitárias também são cumpridos à risca, como a obrigatoriedade do uso de máscara e o distanciamento social em todos os ambientes coletivos. “Com o controle de entrada, protocolos rígidos e imunização, é possível garantir a segurança de hóspedes e da população local e ainda fazer a economia girar”, afirma Arruda Filho.
@@ -25,7 +24,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em decorrência da pandemia do novo coronavírus, o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) publicou, no Diário Oficial da União desta sexta-feira, 31 de julho, os novos editais do Exame Nacional do Ensino Médio (Enem) 2020. A publicação formaliza as datas já anunciadas pelo Ministério da Educação (MEC) e pelo Inep, e apresenta as diretrizes e os procedimentos de prevenção à COVID-19, inclusive durante a identificação dos participantes nos dias de provas. O exame será realizado nos dias 17 e 24 de janeiro de 2021 (versão impressa) e nos dias 31 de janeiro e 7 de fevereiro de 2021 (versão digital).
 
 Os editais n.ºs 54 e 55 determinam que devem ser respeitados o distanciamento entre as pessoas e os protocolos de proteção contra a COVID-19 em procedimentos como ida ao banheiro e vistoria de materiais, lanches e artigos religiosos. Também será obrigatório o uso de máscaras pelo acompanhante de mães que estiverem amamentando. O participante que não utilizar a máscara cobrindo totalmente o nariz e a boca, desde sua entrada até sua saída do local de provas, será eliminado do exame, exceto para os casos previstos na Lei n.º 14.019, de 2020.
@@ -26,7 +25,7 @@ Fonte: gov.br / Imagem em destaque: Pc
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

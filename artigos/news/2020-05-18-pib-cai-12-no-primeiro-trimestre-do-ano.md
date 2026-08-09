@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Queda interrompe trajetória de crescimento iniciada em 2017.
 
 O Produto Interno Bruto (PIB), a soma de todos os bens e serviços produzidos no país, recuou 1,2% no primeiro trimestre deste ano, na comparação com o último trimestre de 2019. A queda interrompe a trajetória de crescimento iniciada no primeiro trimestre de 2017. O dado é do Monitor do PIB, divulgado hoje (18) pela Fundação Getulio Vargas (FGV).
@@ -39,5 +38,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

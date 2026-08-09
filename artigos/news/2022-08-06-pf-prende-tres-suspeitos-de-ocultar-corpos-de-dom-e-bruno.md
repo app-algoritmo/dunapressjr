@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Operação cumpriu sete mandados de prisão preventiva.
 
 Policiais federais cumpriram neste sábado (6) sete mandados de prisão preventiva e dez de busca e apreensão em uma ação decorrente da investigação dos homicídios do jornalista inglês Dom Phillips e do indigenista Bruno Pereira. Dos mandados de prisão expedidos pela Justiça, dois foram cumpridos contra [**pessoas que já estão presas**](https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2022-07/mpf-denuncia-tres-por-assassinatos-de-bruno-pereira-e-dom-phillips): Amarildo Costa de Oliveira, também conhecido como Pelado, e de Ruben Dario da Silva Villar, um cidadão colombiano conhecido como Colômbia.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

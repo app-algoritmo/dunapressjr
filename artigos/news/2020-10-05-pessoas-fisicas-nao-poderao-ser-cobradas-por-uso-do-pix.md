@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Exceção será recebimento de venda de produto ou serviço.
 
 Anunciada no fim de agosto pelo Banco Central (BC), a proibição de cobrança de tarifas de pessoas físicas na utilização do Pix foi oficializada com a publicação de uma resolução no Diário Oficial da União de da última sexta-feira (2).
@@ -37,5 +36,3 @@ No caso de empresas, a plataforma traz vantagens em relação ao pagamento por c
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

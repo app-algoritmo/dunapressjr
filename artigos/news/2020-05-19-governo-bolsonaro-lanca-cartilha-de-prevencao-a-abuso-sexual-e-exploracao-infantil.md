@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## Com linguagem didática, material ressalta que pais e responsáveis estejam atentos e saibam como proceder para garantir que seus filhos fiquem seguros.
 
 No dia em que se comemora o Dia Nacional de Combate ao Abuso e à Exploração Sexual Infantil, nesta segunda-feira (18), o Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) lançou a cartilha "Família Protetora" - um guia para pais e responsáveis de como identificar e prevenir riscos de abuso sexual, exploração infantil e pedofilia.
 
-Com uma linguagem didática, o material ressalta que é fundamental que os pais e responsáveis estejam atentos e saibam como proceder para garantir que seus filhos fiquem seguros, especialmente em casa, onde deve ser o lugar mais seguro para se crescer e desenvolver como pessoa e cidadão.  
+Com uma linguagem didática, o material ressalta que é fundamental que os pais e responsáveis estejam atentos e saibam como proceder para garantir que seus filhos fiquem seguros, especialmente em casa, onde deve ser o lugar mais seguro para se crescer e desenvolver como pessoa e cidadão.
 
-A cartilha esclarece dúvidas recorrentes das famílias, como: sinais de alerta, tipos de violência  - física ou psicológica -, os tipos de abuso sexual, entre outros. 
+A cartilha esclarece dúvidas recorrentes das famílias, como: sinais de alerta, tipos de violência  - física ou psicológica -, os tipos de abuso sexual, entre outros.
 
 Também vale destacar, no material,  que o envio ou armazenamento de uma imagem com conotação sexual de criança ou adolescente, mesmo que seja com o fim de localizar o abusador, configura crime.
 
@@ -39,4 +38,3 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
 ASSINE O PRESS PERIÓDICO
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

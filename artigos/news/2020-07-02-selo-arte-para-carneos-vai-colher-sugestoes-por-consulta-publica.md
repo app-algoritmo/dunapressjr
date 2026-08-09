@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Os interessados poderão enviar sugestões que vão subsidiar a elaboração da Instrução Normativa que vai definir os requisitos básicos pra a concessão do Selo Arte para esse segmento.
 
 Produtores e representantes de estabelecimentos, órgãos e entidades agropecuários podem, a partir de hoje, participar do processo de elaboração de requisitos mínimos de Boas Práticas para obtenção e utilização de matérias-primas e fabricantes de produtos cárneos produzidos de forma artesanal.
@@ -34,7 +33,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

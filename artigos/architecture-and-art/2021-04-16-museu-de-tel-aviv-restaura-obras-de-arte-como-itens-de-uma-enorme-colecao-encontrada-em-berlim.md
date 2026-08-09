@@ -8,7 +8,6 @@ categories:
 - Architecture and Art
 ---
 
-
 Enquanto Israel comemorava o Dia em Memória do Holocausto, o Museu de Arte de Tel Aviv está prestes a concluir a restituição de duas tapeçarias flamengas do século 17 saqueadas pelos nazistas durante a Segunda Guerra Mundial.
 
 As tapeçarias, junto com uma pintura a óleo do século 19 já restaurada, são os primeiros exemplos de arte saqueada do Holocausto encontrados no museu de Tel Aviv. Todas as três obras pertencem à família Mosse de Berlim, que detém uma coleção de arte significativa.
@@ -91,7 +90,3 @@ Fonte: https://www.timesofisrael.com
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

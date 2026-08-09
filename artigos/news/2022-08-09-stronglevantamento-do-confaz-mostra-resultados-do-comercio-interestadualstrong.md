@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Divulgação apresenta dados do primeiro quadrimestre do ano.
 
 Sete Unidades da Federação apresentaram aumento no saldo acumulado de 2022 da Balança Comercial Interestadual no primeiro quadrimestre (janeiro a abril), de acordo levantamento disponibilizado pelo Conselho Nacional de Política Fazendária (Confaz). Segundo os dados da balança, São Paulo (R$ 149 bilhões), Santa Catarina (R$ 103 bilhões), Amazonas (R$ 77 bilhões), Espírito Santo (R$ 34 bilhões), Paraná (R$ 15 bilhões), Mato Grosso do Sul (R$ 8 bilhões) e Minas Gerais (R$ 260 milhões) tiveram resultados positivos no comércio entre os estados no primeiro quadrimestre do ano.
@@ -32,8 +31,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

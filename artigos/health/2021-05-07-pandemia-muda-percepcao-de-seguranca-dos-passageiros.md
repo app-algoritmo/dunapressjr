@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Mesmo os meios de transporte mais seguros do mundo podem apresentar riscos de contaminação de Covid-19. Saiba o que fazer para aumentar a segurança a bordo.
 
 Qual o meio de transporte mais seguro do mundo? Acertou quem respondeu elevador. Sim, o meio que transporta passageiros de um andar para outro dentro de um edifício é o mais seguro do mundo. O ranking da revista americana Condé Nast Traveler mostra, em seguida, avião e trem. "Ambos são muito seguros e trocam posições entre o segundo e terceiro lugares, dependendo da quantidade de linhas de trem e voos operando em determinado país", explica Fábio Augusto Jacob, coronel aviador da reserva da Força Aérea Brasileira, coordenador e professor da Academia de Ciências Aeronáuticas Positivo (ACAP), da Universidade Positivo. No Brasil, por exemplo, acidentes de avião são mais comuns que os sobre trilhos.
@@ -25,7 +24,7 @@ Práticos e funcionais no dia a dia, o elevador faz parte da rotina de muitas pe
 
 **Avião**
 
-Segundo Fábio Jacob, a segurança na aviação decorre do histórico de ser uma atividade de risco, portanto é tudo muito regulado. “Nada é feito no improviso ou na tentativa. Existem normas e procedimentos que foram aperfeiçoados por meio do tempo. Além da normatização, padronização e formação especializada das pessoas, existe uma manutenção muito rígida”, informa. O avanço tecnológico também trouxe ainda mais segurança. Controle de tráfego aéreo, sistema de comunicação, geoposicionamento, tudo isso facilita a segurança da aviação. No entanto, do ponto de vista da disseminação de Covid-19, embora tenham protocolos e tecnologia de renovação do ar, a infectologista afirma: “janelas fechadas e sem distanciamento social são prejudiciais e tentam ser compensadas pelo filtro HEPA, que renova o ar a cada dois ou três minutos. De qualquer forma, é um local onde todos precisam ficar de máscaras o tempo todo”. 
+Segundo Fábio Jacob, a segurança na aviação decorre do histórico de ser uma atividade de risco, portanto é tudo muito regulado. “Nada é feito no improviso ou na tentativa. Existem normas e procedimentos que foram aperfeiçoados por meio do tempo. Além da normatização, padronização e formação especializada das pessoas, existe uma manutenção muito rígida”, informa. O avanço tecnológico também trouxe ainda mais segurança. Controle de tráfego aéreo, sistema de comunicação, geoposicionamento, tudo isso facilita a segurança da aviação. No entanto, do ponto de vista da disseminação de Covid-19, embora tenham protocolos e tecnologia de renovação do ar, a infectologista afirma: “janelas fechadas e sem distanciamento social são prejudiciais e tentam ser compensadas pelo filtro HEPA, que renova o ar a cada dois ou três minutos. De qualquer forma, é um local onde todos precisam ficar de máscaras o tempo todo”.
 
 **Trem**
 
@@ -42,7 +41,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

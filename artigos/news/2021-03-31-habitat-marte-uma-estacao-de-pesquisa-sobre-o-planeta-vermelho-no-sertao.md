@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 Professor do Departamento de Engenharia da Produção da Universidade Federal do Rio Grande do Norte (UFRN), Júlio Rezende teve a iniciativa de criar a estação espacial Habitat Marte bem no meio da caatinga nordestina, na zona rural da cidade de Caiçara do Rio do Vento (RN). O trabalho é resultado da investigação desenvolvida durante seu pós-doutorado, financiado pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Com a simulação o cientista pretende fazer com que local seja um núcleo de pesquisas  que possam ser utilizadas no planeta vermelho, no futuro.
 
 Inspirada na estação espacial norte-americana *Mars Desert Research Station* (MDRS), coordenada pela *Mars Society*, a Habitat Marte possui todas as instalações necessárias para ser ocupada durante um tempo. Nela podem ser simulados estudos em laboratório sobre o solo, o clima e a atmosfera marciana. O local também está preparado para receber simulações de expedições ao planeta, utilizando-se trajes espaciais feitos especialmente para os cientistas.
 
 A primeira missão no Habitat Marte ocorreu em dezembro de 2017. Hoje, a estação registra 65 missões completas realizadas. As visitas, programadas para durar 10 dias, foram feitas por estudantes de graduação ou pós-graduação brasileiros, mas também houve a participação de pesquisadores internacionais. Em 2020, o trabalho no Habitat Marte teve que ser adaptado para o ambiente virtual, em função  das medidas sanitárias exigidas pela pandemia. Apesar da dificuldade, desde março de 2020, 32 missões, com 213 participantes de 29 países diferentes, foram feitas *on-line*.
 
-“O desafio do Habitat Marte é funcionar de modo autossustentável, produzindo o próprio alimento em estufa com o apoio da aquaponia, propiciando o abastecimento e reuso de água de forma contínua e gerando a própria energia sustentável”, explica o pesquisador. “Aprender sobre o  cultivo de vegetais em Marte permitirá a produção de alimentos, o que proporcionará maior sustentabilidade para a presença humana em um assentamento no planeta vermelho, trazendo maior segurança para a exploração espacial”, conclui Rezende. 
+“O desafio do Habitat Marte é funcionar de modo autossustentável, produzindo o próprio alimento em estufa com o apoio da aquaponia, propiciando o abastecimento e reuso de água de forma contínua e gerando a própria energia sustentável”, explica o pesquisador. “Aprender sobre o  cultivo de vegetais em Marte permitirá a produção de alimentos, o que proporcionará maior sustentabilidade para a presença humana em um assentamento no planeta vermelho, trazendo maior segurança para a exploração espacial”, conclui Rezende.
 
 Uma das pesquisas desenvolvidas no Habitat Marte está sendo realizada no solo do vulcão extinto Pico do Cabugi, localizado em Angicos (RN). Ali, pesquisadores do projeto identificaram características similares às encontradas no solo marciano. O cultivo de plantas no local já foi iniciado em janeiro deste ano e pode revelar descobertas importantes.
 
@@ -44,7 +43,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

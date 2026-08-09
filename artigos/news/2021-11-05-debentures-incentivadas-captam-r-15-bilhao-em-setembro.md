@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resultado de investimentos em cinco empreendimentos nos setores de energia e saneamento.
 
 As emissões de debêntures incentivadas alcançaram o montante de R$ 1,5 bilhão em setembro, resultado de investimentos em cinco empreendimentos nos setores de energia e saneamento. Entre 2012 – primeiro ano das debêntures incentivadas, criadas pela Lei [12.431/2011](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12431.htm) – e setembro de 2021, o volume total distribuído em debêntures incentivadas, com esforços amplos e restritos, foi de R$ 150,6 bilhões. As informações constam da [94ª edição do Boletim de Debêntures Incentivadas](https://www.gov.br/economia/pt-br/centrais-de-conteudo/publicacoes/boletins/boletim-de-debentures-incentivadas/2021/spe-me-boletim-debentures-lei-12-431-set-2021.pdf) da Secretaria de Política Econômica (SPE) do Ministério da Economia.
@@ -32,10 +31,6 @@ As debêntures incentivadas se relacionam a projetos de investimento em geral e,
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa iniciou em forte alta, mas fechou praticamente estável.
 
 Num dia marcado por alívio no mercado externo, o dólar teve a maior queda diária desde março e voltou a ficar abaixo de R$ 5,10. A bolsa de valores iniciou em forte alta, mas fechou próxima da estabilidade com o noticiário político.
@@ -25,10 +24,6 @@ No cenário interno, os investidores continuaram a repercutir as mudanças na pr
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

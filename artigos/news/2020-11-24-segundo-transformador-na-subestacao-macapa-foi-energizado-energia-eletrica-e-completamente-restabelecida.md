@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Na madrugada desta terça-feira (24), às 3h30, foi energizado o segundo transformador na subestação Macapá, sendo possível restabelecer completamente o fornecimento de energia elétrica no estado do Amapá.
 
 A energização de mais um transformador na subestação Macapá, transportado de Laranjal do Jari, integra um conjunto de ações coordenado pelo Ministério de Minas e Energia, no âmbito do Gabinete de Gestão de Crise.
@@ -23,7 +22,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

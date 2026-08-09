@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 Indicador alcançou a maior evolução da edição, após quatro anos de estabilidade. Em 2019, o indicador nacional de qualidade da educação do ensino médio alcançou 4,2 pontos.
 
 Brasil avançou no Índice de Desenvolvimento da Educação Básica (Ideb) 2019 em todas as etapas de ensino. O ensino médio foi o que teve o maior avanço. O resultado foi divulgado nesta terça-feira (15) pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), vinculado ao Ministério da Educação.
 
-Em 2017, o indicador nacional de qualidade da educação do ensino médio foi de 3,8 pontos. Em 2019, alcançou 4,2 pontos. A melhoria nas taxas de aprovação foi um dos responsáveis pelo resultado assim como os resultados da avaliação desta etapa de ensino no Sistema de Avaliação da Educação Básica (Saeb). O estudo contou com 28,8 mil escolas sendo que a maioria das 7,5 milhões de matrículas estavam na rede estadual. 
+Em 2017, o indicador nacional de qualidade da educação do ensino médio foi de 3,8 pontos. Em 2019, alcançou 4,2 pontos. A melhoria nas taxas de aprovação foi um dos responsáveis pelo resultado assim como os resultados da avaliação desta etapa de ensino no Sistema de Avaliação da Educação Básica (Saeb). O estudo contou com 28,8 mil escolas sendo que a maioria das 7,5 milhões de matrículas estavam na rede estadual.
 
 Desde 2009, as médias do ensino médio estavam praticamente estagnadas para as disciplinas avaliadas: Língua Portuguesa e Matemática. Mas na edição de 2019, as notas subiram 10 e 7 pontos, respectivamente.
 
@@ -53,5 +52,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

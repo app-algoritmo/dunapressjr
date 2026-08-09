@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A produção totalizou 2,85 milhões de barris.
 
 A produção de petróleo e gás natural nos campos da camada pré-sal totalizou 2,85 milhões de barris de óleo equivalente por dia em setembro, o que representa 74,10% do total nacional, que alcançou no mês 3,84 milhões de barris.
@@ -20,14 +19,10 @@ Por bacia sedimentar, a maior produção no mês de setembro foi em Santos, com 
 
 O poço com a maior produção foi o 7-BUZ-10-RJS, do Campo de Búzios, que registrou no mês passado 67,5 mil barris, a quarta maior produção histórica por poço. Por estado, o Rio de Janeiro é o maior produtor do país, com 3 milhões de barris, o que corresponde a 78,5% do total nacional, sendo 81,8% do petróleo e 66,3% do gás natural produzidos no país.
 
-A ANP ressalta que os dados do Painel Dinâmico são preliminares e podem mudar, de acordo com os ajustes feitos pelas empresas concessionárias até a publicação dos dados consolidados no Boletim Mensal da Produção de Petróleo e Gás Natural. 
+A ANP ressalta que os dados do Painel Dinâmico são preliminares e podem mudar, de acordo com os ajustes feitos pelas empresas concessionárias até a publicação dos dados consolidados no Boletim Mensal da Produção de Petróleo e Gás Natural.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Tempo médio para abrir novos negócios é de dois dias e 17 horas.
 
 O Brasil teve saldo positivo de 231.253 novos negócios no mês de outubro, quando foram abertas 320.559 empresas e 89.306 foram fechadas. Os dados são do[** Mapa de Empresas**](https://www.gov.br/governodigital/pt-br/mapa-de-empresas/), ferramenta digital do Ministério da Economia para acompanhamento dos registro empresariais no país
@@ -27,5 +26,3 @@ Goiás segue na liderança como a unidade da federação mais rápida no process
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

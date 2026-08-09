@@ -7,7 +7,6 @@ categories:
 - Agriculture
 ---
 
-
 Marcelo Oliveira Rodrigues é químico, com graduação e mestrado  pela Universidade Federal de Sergipe (UFS), e doutor em Química Inorgânica, pela Universidade Federal de Pernambuco (UFPE). Com bolsa da CAPES, cursou parte do seu pós-doutorado na Universidade de Nottingham, na Inglaterra e desde 2011 é professor no curso de graduação de Química, da Universidade de Brasília (UnB). Em 2012 iniciou diversos projetos de pesquisa envolvendo nanoparticulas de carbono, destacando o eixo da inovação como um dos pilares de sua atuação.
 
 **Fale sobre sua pesquisa.**
@@ -49,7 +48,7 @@ Hoje nós temos A Krilltech, primeira empresa do grupo, na área de biofertiliza
 Legenda das imagens:
 Imagem 1: Monitoramento da ação da ação bioestimulante em condições de campo com tomate industrial (Foto: Arquivo pessoal)
 Imagem 2: Teste em ambiente controlado para aplicação foliar radicular. (Foto: Arquivo pessoal)
-Imagem 3: Marcelo Oliveira Rodrigues, professor de Química, na UnB, e especialista em nanotecnologias para agricultura. 
+Imagem 3: Marcelo Oliveira Rodrigues, professor de Química, na UnB, e especialista em nanotecnologias para agricultura.
 
 Foto: Fernanda Mourão
 
@@ -69,7 +68,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

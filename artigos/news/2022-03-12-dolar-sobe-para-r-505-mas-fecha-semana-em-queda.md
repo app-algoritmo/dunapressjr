@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa cai 1,72% com turbulências externas e inflação no Brasil.
 
 Num dia de turbulências nos mercados externos, o dólar voltou a subir, mas fechou a semana em queda. Após a recuperação no meio da semana, a bolsa de valores voltou a sentir as tensões internacionais e domésticas e caiu pelo segundo dia consecutivo.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

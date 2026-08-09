@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Dólar fechou praticamente estável a R$ 5,16.
 
 A perspectiva de aumento de juros nos Estados Unidos voltou a afetar o mercado financeiro global nesta sexta-feira (19). O dólar chegou a superar os R$ 5,20, mas caiu perto do fim da sessão e fechou praticamente estável. A bolsa de valores teve a maior queda em 40 dias e voltou aos 111 mil pontos.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

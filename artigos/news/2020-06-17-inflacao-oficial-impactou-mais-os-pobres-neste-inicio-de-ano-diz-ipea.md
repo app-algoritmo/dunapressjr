@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Faixa foi bastante afetada pela alta de preços dos alimentos.
 
 A inflação oficial, medida pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA), causou maiores impactos à cesta de compras da população mais pobre do país, aquela que tem renda muito baixa (renda familiar média mensal até R$ 1.534,55). A constatação é do Indicador por Faixa de Renda do Instituto de Pesquisa Econômica Aplicada (Ipea).
@@ -22,4 +21,4 @@ Apenas em fevereiro, as famílias com renda alta tiveram inflação superior à 
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal](https://dunapress.org/?aff=joabsonjoao)**.**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal](https://dunapress.org/)**.**

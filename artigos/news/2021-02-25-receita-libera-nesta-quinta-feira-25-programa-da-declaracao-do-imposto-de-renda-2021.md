@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 ## Prazo de entrega começa em 1º de março e vai até 30 de abril.
 
-A partir das 8h desta quinta-feira (25), os contribuintes podem baixar o programa de preenchimento e de entrega da declaração do Imposto de Renda Pessoa Física 2021. O programa para computador estará disponível na [**página da Receita Federal na internet**](http://www.receita.economia.gov.br/). 
+A partir das 8h desta quinta-feira (25), os contribuintes podem baixar o programa de preenchimento e de entrega da declaração do Imposto de Renda Pessoa Física 2021. O programa para computador estará disponível na [**página da Receita Federal na internet**](http://www.receita.economia.gov.br/).
 
 O prazo de entrega começará na próxima segunda-feira (1º), às 8h, e irá até as 23h50min59s de 30 de abril. Neste ano, o Fisco espera receber entre 31.340.543 e 32.619.749 declarações. No ano passado, foram enviadas 31.980.146 declarações.
 
@@ -33,8 +32,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

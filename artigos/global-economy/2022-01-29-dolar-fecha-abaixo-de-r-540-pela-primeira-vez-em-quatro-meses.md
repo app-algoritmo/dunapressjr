@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa de valores cai 0,62%, mas tem terceira semana seguida de alta.
 
 Em mais um dia de forte fluxo de recursos para países emergentes, o dólar voltou a cair e fechou abaixo de R$ 5,40 pela primeira vez em quatro meses. Beneficiada por altas recentes, a bolsa de valores teve um dia de realização de lucros, quando os investidores vendem ações para embolsarem ganhos recentes, mas acumulou a terceira semana seguida de ganhos.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

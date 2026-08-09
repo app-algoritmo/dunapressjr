@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Pesquisa desenvolvida pelo Programa de Pós-Graduação em Química da Universidade Federal do Piauí (UFPI) investiga o potencial de medicamentos antimaláricos para tratar a COVID-19. O projeto foi selecionado pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), vinculada ao Ministério da Educação (MEC), no Programa de Combate a Epidemias.
 
 Segundo Mariana Helena Chaves, coordenadora da pesquisa, o estudo será feito a partir de moléculas com propriedade antimalárica com potencial para inibir a atividade viral, para o tratamento da doença COVID-19. O projeto multidisciplinar recebe colaboração da Universidade Federal do Amapá (UNIFAP), o Instituto Aggeu Magalhães (FIOCRUZ/PE) e da Universidad de Granada (Espanha).
@@ -41,7 +40,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

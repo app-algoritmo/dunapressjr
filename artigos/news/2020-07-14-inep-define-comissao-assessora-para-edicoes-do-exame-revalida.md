@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) publicou, nesta segunda-feira, 13 de julho, no Diário Oficial da União ( DOU), a Portaria n.º 436, que institui a Comissão Assessora de Avaliação da Formação Médica (CAAFM). Em caráter consultivo, dez membros irão oferecer suporte para o Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira (Revalida).
 
 Entre as atribuições, os integrantes da CAAFM ficarão responsáveis por elaborar as diretrizes e as matrizes do exame que orientam a construção dos itens que poderão compor o Banco Nacional do Itens dos Exames de Medicina; planejar e acompanhar o processo de capacitação de elaboradores e revisores técnico-pedagógicos de itens; elaborar e revisar as estações simuladas para a composição da prova prática na 2ª fase do Revalida; aprovar o gabarito preliminar dos itens de múltipla escolha e os padrões de respostas dos itens discursivos e da prova de habilidades clínicas.
@@ -28,7 +27,7 @@ Fonte: gov.br / Imagem em destaque:
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

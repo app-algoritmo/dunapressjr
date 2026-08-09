@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice de Confiança do Empresário cai 0,5% em dezembro.
 
 O Índice de Confiança do Empresário do Comércio (Icec), medido pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), mostrou queda de 0,5% em dezembro, alcançando 108,5 pontos. É a primeira redução desde junho, quando o índice havia atingido a mínima histórica de 66,7 pontos. Na comparação anual, o Icec registrou recuo de 13,3%.
@@ -34,7 +33,7 @@ A percepção menos pessimista é reforçada pelos resultados mais recentes dos 
 
 Em relação ao desempenho do setor do comércio, as avaliações negativas permanecem: 56,4%, contra 58,6% em novembro.
 
-A pesquisa mostra ainda que as intenções de contratação de funcionários pelo varejo tiveram pequena queda (-0,2%) após cinco meses de evolução, mas seguem na zona positiva, com 125,3 pontos. A intenção de contratar pelo comércio foi reduzida em todas as regiões do país em dezembro, exceto no Norte.   
+A pesquisa mostra ainda que as intenções de contratação de funcionários pelo varejo tiveram pequena queda (-0,2%) após cinco meses de evolução, mas seguem na zona positiva, com 125,3 pontos. A intenção de contratar pelo comércio foi reduzida em todas as regiões do país em dezembro, exceto no Norte.
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
@@ -44,8 +43,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

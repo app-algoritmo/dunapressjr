@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Resultado negativo de São Paulo freou crescimento, diz BC.
 
 As regiões do país apresentaram crescimento econômico disseminado, com exceção do Sudeste que registrou relativa estabilidade. A avaliação é do Banco Central (BC) e consta do Boletim Regional, publicação trimestral que apresenta as condições da economia por regiões e por alguns estados do país, divulgada na sexta-feira (2), em Brasília.
@@ -60,8 +59,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

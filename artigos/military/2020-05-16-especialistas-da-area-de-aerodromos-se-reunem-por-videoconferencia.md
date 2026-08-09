@@ -7,26 +7,25 @@ categories:
 - Military
 ---
 
-
-Especialistas da área de aeródromos (EAGA) participaram da quarta edição de um Grupo de Trabalho, entre os dias 4 e 8 de maio, no Rio de Janeiro (RJ). O encontro virtual teve como objetivo desenvolver soluções relacionadas ao tema Objetos Projetados no Espaço Aéreo (OPEA), que não estão contempladas nas normas regulatórias do setor. 
+Especialistas da área de aeródromos (EAGA) participaram da quarta edição de um Grupo de Trabalho, entre os dias 4 e 8 de maio, no Rio de Janeiro (RJ). O encontro virtual teve como objetivo desenvolver soluções relacionadas ao tema Objetos Projetados no Espaço Aéreo (OPEA), que não estão contempladas nas normas regulatórias do setor.
 
 Quando uma edificação é construída sem respeitar os gabaritos previstos para a área do entorno de um aeródromo ou aeroporto, o proprietário poderá receber uma solicitação para adequar, ajustar ou refazer o projeto.
 
 A avaliação do Comando da Aeronáutica (COMAER), por meio do Departamento de Controle do Espaço Aéreo (DECEA), determina se a obra, implantação ou reforma sugerida pode causar efeito adverso à segurança e à regularidade das operações aéreas.
 
-[](https://www.fab.mil.br/sis/enoticias/imagens/original/40290/4.jpg)Pela primeira vez realizado nesta modalidade, o encontro não teve sua eficácia comprometida. Estiveram reunidos virtualmente profissionais das especialidades de controle de tráfego aéreo, informações aeronáuticas e cartografia, além de engenheiros, analistas e técnicos, todos com especialização na área de aeródromos – AGA, acrônimo do inglês *Aerodromes and Ground Aids.*
+Pela primeira vez realizado nesta modalidade, o encontro não teve sua eficácia comprometida. Estiveram reunidos virtualmente profissionais das especialidades de controle de tráfego aéreo, informações aeronáuticas e cartografia, além de engenheiros, analistas e técnicos, todos com especialização na área de aeródromos – AGA, acrônimo do inglês *Aerodromes and Ground Aids.*
 
 Além de especialistas do DECEA, participaram do evento virtual representantes dos quatro Centros Integrados de Defesa Aérea e Controle de Tráfego Aéreo (CINDACTA), do Serviço Regional de Proteção ao Voo de São Paulo (SRPV-SP), do Instituto de Cartografia Aeronáutica (ICA), além de profissionais da Assessoria de Tecnologia Digital (ATD) do DECEA – que desenvolve o SysAGA, sistema de gerenciamento de processos da área de aeródromos – e da Agência Nacional de Aviação Civil (ANAC).
 
-[](https://www.fab.mil.br/sis/enoticias/imagens/original/40290/7.jpg)O GT foi coordenado pelo Chefe das Seções de Normas e Planejamento de Aeródromos do DECEA, Capitão Jorge Luis Werneck Nunes, com apoio do Chefe da Seção de Coordenação e Controle de Aeródromos, Tenente Eduardo Silva.
+O GT foi coordenado pelo Chefe das Seções de Normas e Planejamento de Aeródromos do DECEA, Capitão Jorge Luis Werneck Nunes, com apoio do Chefe da Seção de Coordenação e Controle de Aeródromos, Tenente Eduardo Silva.
 
 **Temas abordados**
 
-Um dos tópicos abordados foi o código de referência de aeródromo e sua definição nos casos de recuo de cabeceira de pista para a mitigação de violações em superfícies limitadoras de obstáculos, apresentado pelo Tenente Fábio Henrique Lima e Silva de Oliveira, do CINDACTA I. 
+Um dos tópicos abordados foi o código de referência de aeródromo e sua definição nos casos de recuo de cabeceira de pista para a mitigação de violações em superfícies limitadoras de obstáculos, apresentado pelo Tenente Fábio Henrique Lima e Silva de Oliveira, do CINDACTA I.
 
 Outro ponto discutido foi a distância entre cabeceiras e o comprimento de pista: uma análise sobre a harmonização do tema diante das atribuições dos entes envolvidos, assunto de grande relevância defendido pela Tenente Rafaella Bufato, do ICA.
 
-[](https://www.fab.mil.br/sis/enoticias/imagens/original/40290/1.jpg)Mais um tema tratado foi o auto de embargo às obras que interferem nas zonas de proteção e sua aplicabilidade no âmbito regional, com consultoria e orientação da Assessoria Jurídica do DECEA, bem como a aprovação de Planos Básicos de Zonas de Proteção de Aeródromos (PBZPA) referentes às operações das cabeceiras em sítios públicos e privados, e ainda, planos que adentrem territórios estrangeiros.
+Mais um tema tratado foi o auto de embargo às obras que interferem nas zonas de proteção e sua aplicabilidade no âmbito regional, com consultoria e orientação da Assessoria Jurídica do DECEA, bem como a aprovação de Planos Básicos de Zonas de Proteção de Aeródromos (PBZPA) referentes às operações das cabeceiras em sítios públicos e privados, e ainda, planos que adentrem territórios estrangeiros.
 
 **Sítios aeroportuários restritos pela COVID-19**
 

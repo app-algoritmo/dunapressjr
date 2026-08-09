@@ -7,16 +7,15 @@ categories:
 - History
 ---
 
-
 Adelmar Faria Coimbra Filho nasceu em Fortaleza, em 4 de junho de 1924, mas passou sua infância em Recife, Pernambuco. Aos 12 anos, mudou-se para o Rio de Janeiro com sua família. Em 1944, Coimbra-Filho ingressou no curso de técnico agrícola da Escola Superior de Agricultura e Veterinária de Viçosa, Minas Gerais. Iniciou a vida profissional em 1947, atuando em diversos campos da investigação científica, notadamente na Primatologia, Biologia de Vertebrados, Biogeografia e Conservação de Ecossistemas Naturais.
 
-Nesse período, Coimbra-Filho retornou ao Rio, onde deu início a  sua trajetória profissional de 1947 a 1957. como primeiro administrador do Parque Florestal da Gávea (hoje, Parque da Cidade). Durante esse período, o cientista replantou palmito e outras 400 espécies de árvores, repovoou as matas dos morros com tucanos-de-bico-preto e a lagoa de Marapendi com jacarés-de-papo-amarelo. 
+Nesse período, Coimbra-Filho retornou ao Rio, onde deu início a  sua trajetória profissional de 1947 a 1957. como primeiro administrador do Parque Florestal da Gávea (hoje, Parque da Cidade). Durante esse período, o cientista replantou palmito e outras 400 espécies de árvores, repovoou as matas dos morros com tucanos-de-bico-preto e a lagoa de Marapendi com jacarés-de-papo-amarelo.
 
 O compromisso com o bem público levou-o  a  ser dispensado  do cargo  de  chefia do parque Florestal da Gávea  em 1957. “Por causa de duas mulheres que chegaram de carro oficial, a mando do chefe do Gabinete Civil do prefeito Negrão de Lima, para escolher plantas no Parque. [...] elas queriam levar as plantas num vaso português esmaltado, com três lagartos de porcelana em alto relevo [...]. O vaso era coisa tombada”. Por causa desse ocorrido, foi transferido para o Zoológico do Rio, onde permaneceu por 12 anos: “Ele [o zoo] tem que ser uma instituição diferente, com uma filosofia diferente, que é colaborar com a preservação da fauna, e não apenas exibi-la. ”
 
-Entre 1961 a 1963, Coimbra-Filho foi coordenador do Serviço de Parques e Reservas Biológicas, do antigo Estado da Guanabara. Posteriormente, chefiou o Serviço Técnico-Científico do Jardim Zoológico do Rio de Janeiro no qual permaneceu até 1971. Durante esse período, formou-se em história natural  em 1964, ocasião em que estabeleceu o programa de salvamento do mico-leão-dourado da extinção; existiam apenas cerca de 200 na natureza. “Eu e o Alceo Magnanini criamos, na década de 60, a Reserva Biológica de Jacarepaguá, com a qual pretendíamos repovoá-la com micos-leões criados em cativeiro. Mas, a especulação imobiliária no Rio de Janeiro estrangulou a reserva. Mais tarde, lutamos juntos para fazer a Reserva Biológica do Poço das Antas”. Em 1970, redescobriu-se uma pequena população de mico-leão-preto, espécie dada como extinta há 65 anos e, hoje em dia, protegida no Parque Estadual Morro do Diabo, em São Paulo. 
+Entre 1961 a 1963, Coimbra-Filho foi coordenador do Serviço de Parques e Reservas Biológicas, do antigo Estado da Guanabara. Posteriormente, chefiou o Serviço Técnico-Científico do Jardim Zoológico do Rio de Janeiro no qual permaneceu até 1971. Durante esse período, formou-se em história natural  em 1964, ocasião em que estabeleceu o programa de salvamento do mico-leão-dourado da extinção; existiam apenas cerca de 200 na natureza. “Eu e o Alceo Magnanini criamos, na década de 60, a Reserva Biológica de Jacarepaguá, com a qual pretendíamos repovoá-la com micos-leões criados em cativeiro. Mas, a especulação imobiliária no Rio de Janeiro estrangulou a reserva. Mais tarde, lutamos juntos para fazer a Reserva Biológica do Poço das Antas”. Em 1970, redescobriu-se uma pequena população de mico-leão-preto, espécie dada como extinta há 65 anos e, hoje em dia, protegida no Parque Estadual Morro do Diabo, em São Paulo.
 
-No período compreendido entre 1971 a 1975, Coimbra-Filho foi diretor da Divisão de Pesquisas, do Instituto de Conservação da Natureza da Secretaria de Ciência e Tecnologia do antigo Estado da Guanabara, e  a Direção desse mesmo Instituto. Concluiu o mestrado em zoologia em 1976. 
+No período compreendido entre 1971 a 1975, Coimbra-Filho foi diretor da Divisão de Pesquisas, do Instituto de Conservação da Natureza da Secretaria de Ciência e Tecnologia do antigo Estado da Guanabara, e  a Direção desse mesmo Instituto. Concluiu o mestrado em zoologia em 1976.
 
 Após a fusão dos Estados do Rio de Janeiro e Guanabara, foi nomeado na primeira administração da Fundação Estadual de Engenharia do Meio Ambiente (FEEMA-RJ), de 1975 a 1994, Diretor do Departamento de Conservação Ambiental período em que idealizou, organizou e dirigiu o Centro de Primatologia do Rio de Janeiro (FEEMA). Em 1981, Coimbra-Filho foi reconhecido como membro associado da Academia Brasileira de Ciências. Em 1994, aposentou-se após 47 anos ininterruptos de serviço público prestados ao Estado do Rio de Janeiro.
 
@@ -28,7 +27,7 @@ Além disso, Coimbra-Filho foi membro Fundador das Sociedades Brasileiras, de Bo
 
 Coimbra-Filho recebeu diversos prêmios e honrarias nacionais e internacionais pelo empenho com o qual se dedicou à pesquisa e à salvaguarda do patrimônio natural do país. O cientista publicou mais de 200 trabalhos científicos no Brasil e no exterior sobre Primatologia, Biologia de Vertebrados, Restauração de Ecossistemas Naturais, Botânica Florestal e Conservação da Natureza. Ademais, proferiu conferências, palestras e ministrou aulas e cursos em diversas instituições, inclusive por 7 anos organizou e ministrou  aulas para o curso de Zoogeografia do Mestrado  de Zoologia da UFRJ (Universidade Federal do Rio de Janeiro).
 
-Dessa forma, pode-se dizer que Coimbra Filho tornou-se uma das principais vozes em defesa dos primatas, ajudando a criar a Reserva Biológica de Poço das  Antas em 1974, e a Reserva Biológica de Una em 1980, com o objetivo de proteger e preservar espécies da Mata Atlântica, sobretudo os micos-leões. Atualmente, graças a um dos mais bem-sucedidos projetos de reintrodução de espécie do mundo, cerca de 3.200 micos-leões-dourados — conhecidos originalmente como sauí-pitanga — vivem livremente nas matas do Estado do Rio de Janeiro.  
+Dessa forma, pode-se dizer que Coimbra Filho tornou-se uma das principais vozes em defesa dos primatas, ajudando a criar a Reserva Biológica de Poço das  Antas em 1974, e a Reserva Biológica de Una em 1980, com o objetivo de proteger e preservar espécies da Mata Atlântica, sobretudo os micos-leões. Atualmente, graças a um dos mais bem-sucedidos projetos de reintrodução de espécie do mundo, cerca de 3.200 micos-leões-dourados — conhecidos originalmente como sauí-pitanga — vivem livremente nas matas do Estado do Rio de Janeiro.
 
 Ele também criou o Centro de Primatologia do Rio de Janeiro que, desde 1979, promove a conservação de primatas da Mata Atlântica — bioma que abriga 24 das 119 espécies encontradas no Brasil. Dentre as muitas homenagens que recebeu, virou nome de macaco — guigó-de-coimbra-filho, descoberto 2b 2c 2d em 1999, no nordeste da Bahia e em Sergipe —, de percevejo, de bromélia e de fóssil. Em 2002, plantou dois jequitibás rosas na Praça Santos Dumont, Gávea, Rio de Janeiro, que continuam crescendo.
 
@@ -50,15 +49,15 @@ Referências
 
 ADELMAR FARIA COIMBRA-FILHO. In: Academia Brasileira de Ciências. Rio de Janeiro, 2022. Disponível em:  <[https://www.abc.org.br/membro/adelmar-faria-coimbra-filho/](https://www.abc.org.br/membro/adelmar-faria-coimbra-filho/)>. Acesso em: 28 de abril de 2022.
 
-ALDÉ, Lorenzo. A serviço público, por conta própria - Os 60 anos de ambientalismo de Adelmar Coimbra Filho, descobridor do mico-leão dourado e pioneiro do conservacionismo brasileiro. In: O Eco – Membro da Associação de Jornalismo digital. Rio de Janeiro, 2004. Disponível em: <[https://oeco.org.br/reportagens/786-oeco9877/](https://oeco.org.br/reportagens/786-oeco9877/)>. Acesso em: 28 de abril de 2022. 
+ALDÉ, Lorenzo. A serviço público, por conta própria - Os 60 anos de ambientalismo de Adelmar Coimbra Filho, descobridor do mico-leão dourado e pioneiro do conservacionismo brasileiro. In: O Eco – Membro da Associação de Jornalismo digital. Rio de Janeiro, 2004. Disponível em: <[https://oeco.org.br/reportagens/786-oeco9877/](https://oeco.org.br/reportagens/786-oeco9877/)>. Acesso em: 28 de abril de 2022.
 
-ALDÉ, L.; BRITO, M. F.; CORRÊA, M. S.; ABRANCHES, S. Sem qualquer cerimônia – com Adelmar Coimbra Filho. In: O Eco – Membro da Associação de Jornalismo digital. Rio de Janeiro, 2004. Disponível em: <[https://oeco.org.br/reportagens/10921-oeco_10543/](https://oeco.org.br/reportagens/10921-oeco_10543/)>. Acesso em: 28 de abril de 2022. 
+ALDÉ, L.; BRITO, M. F.; CORRÊA, M. S.; ABRANCHES, S. Sem qualquer cerimônia – com Adelmar Coimbra Filho. In: O Eco – Membro da Associação de Jornalismo digital. Rio de Janeiro, 2004. Disponível em: <[https://oeco.org.br/reportagens/10921-oeco_10543/](https://oeco.org.br/reportagens/10921-oeco_10543/)>. Acesso em: 28 de abril de 2022.
 
-BRAGANÇA, D. A conservação perde Adelmar Coimbra Filho. In: O Eco – Membro da Associação de Jornalismo digital. Rio de Janeiro, 2004. Disponível em: <[https://oeco.org.br/salada-verde/a-conservacao-perde-adelmar-coimbra-filho/](https://oeco.org.br/salada-verde/a-conservacao-perde-adelmar-coimbra-filho/)>. Acesso em: 1 de maio de 2022. 
+BRAGANÇA, D. A conservação perde Adelmar Coimbra Filho. In: O Eco – Membro da Associação de Jornalismo digital. Rio de Janeiro, 2004. Disponível em: <[https://oeco.org.br/salada-verde/a-conservacao-perde-adelmar-coimbra-filho/](https://oeco.org.br/salada-verde/a-conservacao-perde-adelmar-coimbra-filho/)>. Acesso em: 1 de maio de 2022.
 
 MAIA, Otávio Borges. Vox: arte, cultura e ciência no Brasil / Otávio Borges Maia, ilustrado por Kleber Soares de Sales - Brasília: Ibict, 2017. 132 p. ISBN: 978-85-7013-129-4 e eISBN: 978-85-7013-130-0
 
-Nota de Falecimento Professor Adelmar Faria Coimbra-Filho. SOCIEDADE BRASILEIRA DE PRIMATOLOGIA. Rio de Janeiro, 2016. Disponível em: <[https://www.sbprimatologia.org.br/nota-de-falecimento-professor-adelmar-faria-coimbra-filho/](https://www.sbprimatologia.org.br/nota-de-falecimento-professor-adelmar-faria-coimbra-filho/)>. Acesso em: 1 de maio de 2022. 
+Nota de Falecimento Professor Adelmar Faria Coimbra-Filho. SOCIEDADE BRASILEIRA DE PRIMATOLOGIA. Rio de Janeiro, 2016. Disponível em: <[https://www.sbprimatologia.org.br/nota-de-falecimento-professor-adelmar-faria-coimbra-filho/](https://www.sbprimatologia.org.br/nota-de-falecimento-professor-adelmar-faria-coimbra-filho/)>. Acesso em: 1 de maio de 2022.
 
 Obras
 
@@ -173,7 +172,3 @@ Fonte:  https://canalciencia.ibict.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

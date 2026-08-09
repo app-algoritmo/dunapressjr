@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Inscrições vão de 19 a 30 de junho.
 
 Inovação, empreendedorismo, iniciação tecnológica e metodologias ativas de aprendizagem com foco na Economia 4.0 são temas dos projetos que serão fomentados pelo programa Novos Caminhos, na Rede Federal de Educação Profissional e Tecnológica. Para atuarem na seleção e na avaliação desses projetos, o programa vai credenciar especialistas nesses assuntos, a partir de um [edital publicado nesta semana](https://www.ifes.edu.br/chamadas-publicas/19352-chamada-publica-04-2020-credenciamento-de-especialistas-para-avaliacao-de-projetos-em-economia-4-0).
@@ -21,4 +20,4 @@ Fonte: gov.br/mec / Imagem em destaque: emb
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.**
 
-https://dunapress.org/?aff=Leonardo
+https://dunapress.org/

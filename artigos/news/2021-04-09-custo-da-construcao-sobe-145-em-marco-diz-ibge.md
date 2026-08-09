@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Índice acumula inflação de 4,84% no ano e de 14,46% em 12 meses.
 
 O Índice Nacional da Construção Civil (Sinapi) registrou inflação de 1,45% em março deste ano, taxa acima da observada em fevereiro (1,33%). O dado foi divulgado hoje (9) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -20,8 +19,4 @@ Fonte: Agência Brasil
 
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

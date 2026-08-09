@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em abril deste ano, foram abertas 189.878 empresas.
 
 A crise gerada pela pandemia de covid-19 na economia levou a acentuada queda na abertura de empresas em abril, segundo o Ministério da Economia, que divulgou hoje (18) o Boletim do Mapa de Empresas. Em abril deste ano, foram abertas 189.878 empresas, queda de 29,5% na comparação com igual mês de 2019.
@@ -46,4 +45,4 @@ No caso da Promoção de vendas, foram 43.275 empresas abertas, queda de 2,6% em
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal](https://dunapress.org/?aff=joabsonjoao)**.**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal](https://dunapress.org/)**.**

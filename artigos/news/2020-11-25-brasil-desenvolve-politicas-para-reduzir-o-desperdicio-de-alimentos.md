@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Cerca de 30% do alimento mundial é perdido ou desperdiçado todos os anos. As estimativas mostram que, mundialmente, são produzidos aproximadamente 1,3 bilhão de toneladas de resíduos alimentares a cada ano. Os dados são da Agência Sueca de Proteção Ambiental e foram discutidos na Semana de Inovação Suécia-Brasil 2020, que reuniu especialistas dos dois países.
 
 “Essa agenda das perdas e do desperdício de alimentos é uma agenda global, vinculada aos Objetivos de Desenvolvimento Sustentável da Agenda 2030 da ONU, e o Brasil está bem posicionado para avançar nessa redução”, ressalta Gustavo Porpino, analista da Empresa Brasileira de Pesquisa Agropecuária (Embrapa) Alimentos e Território.
@@ -38,7 +37,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em menos de dois meses de operação, iniciativa do BNDES atinge R$ 600 milhões em créditos.
 
 O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) já aprovou R$ 600 milhões em financiamentos no âmbito do Programa Emergencial de Acesso a Crédito na Modalidade de Garantia de Recebíveis (PEAC Maquininhas). Os recursos beneficiam mais de 20 mil pequenos negócios. O valor médio dos empréstimos praticados, até o momento, foi de R$ 28,4 mil.
@@ -25,5 +24,3 @@ Fonte: gov.br – Imagem de destaque: Miguel Ângelo/CNI/Direitos Reservados
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

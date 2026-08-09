@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa recua 1,05% depois de três dias seguidos de alta.
 
 Os receios relacionados à escalada de casos de covid-19 na Europa e em regiões dos Estados Unidos que estavam relativamente contidas fizeram o dólar reverter a queda durante a sessão e fechar com leve alta. Num dia de ajustes, a bolsa de valores caiu após três altas seguidas.
@@ -21,5 +20,3 @@ No mercado de ações, o índice Ibovespa, da B3, fechou esta quarta aos 106.119
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Rick Wilking/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

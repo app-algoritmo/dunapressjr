@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Você sabe como é produzido o soro antiofídico, o famoso antídoto contra o veneno das cobras?
 
 O Instituto Butantan produz diversos tipos de soros para combater o veneno de animais peçonhentos, dentre eles o antídoto indicado no tratamento do envenenamento por serpentes. O soro antiofídico faz parte do tratamento contra acidentes por serpente e é realizado em hospitais de todo o Brasil, salvando milhares de pessoas todos os anos.
@@ -24,7 +23,7 @@ https://www.youtube.com/embed/-3fSZjZRdqg
 
 3.      Quando se formam anticorpos suficientes no organismo do cavalo, o plasma (a parte do sangue onde ficam os anticorpos) é coletado.
 
-4.      Após testes, o plasma é submetido a um processamento industrial, utilizando métodos físico-químicos, obtendo ao final os soros específicos. Os soros antiofídicos são envasados em frascos-ampola com 10 ml de solução líquida contendo anticorpos purificados. 
+4.      Após testes, o plasma é submetido a um processamento industrial, utilizando métodos físico-químicos, obtendo ao final os soros específicos. Os soros antiofídicos são envasados em frascos-ampola com 10 ml de solução líquida contendo anticorpos purificados.
 
 5.      Nas diversas etapas de produção, os soros passam por testes de controle de qualidade, garantindo ao final produtos seguros e eficazes. Pronto! Está feito o soro antiofídico.
 
@@ -36,7 +35,3 @@ Fonte: butantan.gov.br
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

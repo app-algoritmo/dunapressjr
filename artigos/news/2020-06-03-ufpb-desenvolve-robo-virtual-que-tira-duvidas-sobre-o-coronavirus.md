@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Disponível no site do hospital universitário da Paraíba, plataforma simula conversa humana.
 
-Vinculado à Empresa Brasileira de Serviços Hospitalares (Ebserh), o Hospital Universitário Lauro Wanderley (HULW), da Universidade Federal da Paraíba (UFPB), disponibilizou em seu site um robô virtual que fornece informações sobre prevenção e sintomas do novo do coronavírus, por meio de conversas on-line. Desenvolvida pelo Laboratório de Inteligência Artificial e Macroeconomia Computacional (Labimec) da UFPB, a ferramenta pode ser acessada [aqui](https://bit.ly/robovirtual).
+Vinculado à Empresa Brasileira de Serviços Hospitalares (Ebserh), o Hospital Universitário Lauro Wanderley (HULW), da Universidade Federal da Paraíba (UFPB), disponibilizou em seu site um robô virtual que fornece informações sobre prevenção e sintomas do novo do coronavírus, por meio de conversas on-line. Desenvolvida pelo Laboratório de Inteligência Artificial e Macroeconomia Computacional (Labimec) da UFPB, a ferramenta pode ser acessada aqui.
 
 Trata-se de um software que gerencia trocas de mensagens, simulando uma conversa humana. Ao atender os internautas, o assistente virtual tem objetivo de medir o grau de conhecimento das pessoas e compartilhar informações oficiais dos órgãos competentes, como o Ministério da Saúde.
 A ferramenta de inteligência artificial começou a ser produzida no fim de abril deste ano e foi testada por vários grupos de pessoas antes de ser colocada à disposição da comunidade.
@@ -24,8 +23,6 @@ Quanto maior a interação do público com o Dr. Labimec, apelido do robô virtu
 A Ebserh monitora a situação no país e em suas unidades, realiza treinamento de funcionários e promove webaulas.
 
 Fonte: gov.br/mec / Imagem em destaque: ufba.br
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

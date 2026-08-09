@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Serão 10 mil kits de alimentos para alunos do Bolsa Família e outros 35 mil kits com hortifrútis a todos os estudantes da rede municipal de ensino de Itajaí.
 
 A Secretaria de Educação de Itajaí vai retomar a partir da próxima quarta-feira (25) a entrega de 10 mil kits de alimentação escolar para os estudantes da rede municipal de ensino, cujas famílias são beneficiárias do programa Bolsa Família. Outros 35 mil kits de hortifrutís serão entregues a todos os alunos da rede municipal. Para evitar aglomerações, a distribuição será organizada por polos de entrega, das 9h às 15h, com regras de distanciamento social e uso obrigatório de máscaras.
@@ -65,7 +64,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Manifestações poderão ser inseridas no sistema e-MEC até o dia 14 de agosto.
 
 Entre os dias 5 e 14 de agosto, estará aberto o período de manifestações das instituições sobre os insumos de cálculo dos Indicadores de Qualidade da Educação Superior referentes à primeira etapa da edição 2019, no sistema e-MEC. Nesta fase serão divulgados, principalmente, os insumos subsidiários ao cálculo do Conceito Enade e do Indicador de Diferença entre os Desempenhos Observado e Esperado (IDD), conforme Portaria Inep n.º 429, de 2 de julho de 2020. O objetivo principal é permitir que as instituições de educação superior possam validar ou corrigir os insumos que serão utilizados no cálculo desses indicadores, antes da divulgação dos resultados.
@@ -31,7 +30,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

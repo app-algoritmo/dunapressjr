@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Determinação estará em vigor durante o estado de calamidade pública, previsto para encerrar em 31 de dezembro.
 
 O Conselho Nacional de Previdência Social (CNPS) decidiu nesta sexta-feira (17) recomendar a redução de três meses para 30 dias do período para aposentados e pensionistas desbloqueio e acesso a operações de crédito consignado. Prevista na [Resolução nº 1339/2020](http://www.in.gov.br/web/dou/-/resolucao-n-1.339-de-17-de-julho-de-2020-267511180), medida tomada em reunião do CNPS da última sexta-feira (17) tornou-se oficial com a publicação da resolução na edição desta segunda-feira (20) do Diário Oficial da União.
@@ -48,4 +47,4 @@ Os novos valores das taxas de juros para empréstimo consignado e cartão de cr�
 
 Fonte: gov.br – Imagem de destaque:Marcelo Camargo/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

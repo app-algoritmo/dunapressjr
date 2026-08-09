@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ### Bolsa de valores tem queda de 0,5% em dia de realização de lucros.
 
 Na véspera da decisão do Federal Reserve (Fed, Banco Central norte-americano) sobre os juros nos Estados Unidos, o dólar caiu pelo segundo dia seguido. A bolsa de valores iniciou o dia em alta, mas terminou em baixa, motivada pela queda nas bolsas norte-americanas e pela realização de lucros, quando investidores vendem ações para embolsar lucros recentes.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,8 +8,7 @@ categories:
 - Health
 ---
 
-
-"Essa obra foi realizada com o coração". É assim que a nutricionista Daniele Aparecida de Oliveira destaca o livro com receitas para pessoas que têm fibrose cística - doença que atinge cerca de 70 mil pessoas em todo o mundo e mais de 5 mil no Brasil. Desenvolvido como Trabalho de Conclusão de Curso (TCC), a publicação "Preparações culinárias para necessidades alimentares especiais - Alimentação saudável e adequada para pessoas com fibrose cística" está disponível no [site](https://bit.ly/receitasfibrosecistica) do Unidos pela Vida - Instituto Brasileiro de Atenção à Fibrose Cística -, organização social sem fins lucrativos localizada em Curitiba (PR), que tem como missão defender que pessoas com fibrose cística tenham conhecimento sobre diagnóstico precoce, sua saúde e direitos, e equidade no acesso aos melhores tratamentos e às inovações tecnológicas.
+"Essa obra foi realizada com o coração". É assim que a nutricionista Daniele Aparecida de Oliveira destaca o livro com receitas para pessoas que têm fibrose cística - doença que atinge cerca de 70 mil pessoas em todo o mundo e mais de 5 mil no Brasil. Desenvolvido como Trabalho de Conclusão de Curso (TCC), a publicação "Preparações culinárias para necessidades alimentares especiais - Alimentação saudável e adequada para pessoas com fibrose cística" está disponível no site do Unidos pela Vida - Instituto Brasileiro de Atenção à Fibrose Cística -, organização social sem fins lucrativos localizada em Curitiba (PR), que tem como missão defender que pessoas com fibrose cística tenham conhecimento sobre diagnóstico precoce, sua saúde e direitos, e equidade no acesso aos melhores tratamentos e às inovações tecnológicas.
 
 O material foi organizado pela egressa do curso de Nutrição na Universidade Positivo (UP), Daniele Aparecida de Oliveira, junto com a coordenadora do Serviço de Nutrição Clínica do Complexo Hospitalar do Trabalhador, Emilce Correia Barbon, e a professora do curso de Nutrição e coordenadora da pós-graduação em Nutrição Clínica e Terapia Nutricional com Treinamento em Serviço da UP, Rubia Daniela Thieme.
 
@@ -23,7 +22,7 @@ Para a fundadora e diretora-executiva do Unidos pela Vida, Verônica Stasiak Bed
 
 **Doença**
 
-Catalogada entre as 7 mil doenças raras, a fibrose cística é uma doença genética que pode ser identificada ainda nos primeiros dias do bebê, por meio do teste do pezinho. Após essa triagem, para confirmar ou descartar o diagnóstico, o teste do suor deve ser realizado - exame que pode ser feito em qualquer fase da vida e é considerado como padrão ouro para o identificação da fibrose cística. O defeito no gene CFTR compromete o funcionamento das glândulas responsáveis por produzirem secreções (muco, suor ou enzimas pancreáticas) de difícil eliminação. Com isso, os sistemas digestório, respiratório e as glândulas sudoríparas são afetados, causando uma série de sintomas, como tosse crônica, pneumonia de repetição, diarreia, suor mais salgado que o normal e dificuldade para ganhar peso e estatura. 
+Catalogada entre as 7 mil doenças raras, a fibrose cística é uma doença genética que pode ser identificada ainda nos primeiros dias do bebê, por meio do teste do pezinho. Após essa triagem, para confirmar ou descartar o diagnóstico, o teste do suor deve ser realizado - exame que pode ser feito em qualquer fase da vida e é considerado como padrão ouro para o identificação da fibrose cística. O defeito no gene CFTR compromete o funcionamento das glândulas responsáveis por produzirem secreções (muco, suor ou enzimas pancreáticas) de difícil eliminação. Com isso, os sistemas digestório, respiratório e as glândulas sudoríparas são afetados, causando uma série de sintomas, como tosse crônica, pneumonia de repetição, diarreia, suor mais salgado que o normal e dificuldade para ganhar peso e estatura.
 
 Segundo Daniele, a dieta para pessoas com fibrose cística deve ser hipercalórica, hiperproteica e hiperlipídica. "É fundamental ter um cuidado de saúde interdisciplinar, mas é preciso de atenção à dieta pois a má absorção de nutrientes pode favorecer o muco espesso no trato intestinal, alteração da microbiota e até insuficiência do pâncreas, o que reduz o fornecimento de enzimas digestivas para o intestino, contribuindo para a desnutrição. Por isso, o livro de receitas tem como objetivo facilitar o suprimento das necessidades energéticas e nutricionais de indivíduos com fibrose cística", finaliza.
 
@@ -38,7 +37,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

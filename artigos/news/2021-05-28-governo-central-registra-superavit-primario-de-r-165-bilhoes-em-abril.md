@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No acumulado do primeiro quadrimestre, há superávit primário de R$ 41 bilhões.
 
 O Governo Central — Tesouro Nacional, Banco Central e Previdência — registrou superávit primário de R$ 16,492 bilhões em abril deste ano. Em igual mês do ano passado, havia sido apurado déficit de R$ 93,001 bilhões. Tesouro e Banco Central foram superavitários em R$ 35,194 bilhões e o Regime Geral de Previdência Social (RGPS) teve déficit de R$ 18,702 bilhões em abril deste ano. Os dados estão presentes no Resultado do Tesouro Nacional de abril de 2021, divulgado nesta quinta-feira (27/5) pelo Tesouro Nacional.
@@ -72,8 +71,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

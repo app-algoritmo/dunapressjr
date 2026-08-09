@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Chocolate, hospital, banana, drama. Esses são apenas alguns exemplos de palavras que você pode usar sem medo, em português ou em inglês, porque significam exatamente o mesmo nos dois idiomas. Basta obedecer às regras de pronúncia em cada língua. Há muitas outras expressões com essa mesma característica, o que facilita para quem está aprendendo inglês. Contudo, é preciso cuidado, porque há outras tantas que parecem ser o que não são - e que podem causar confusão na hora da comunicação.
 
 De acordo com o consultor pedagógico do PES English, Yuri Gaspar Braga, mesmo quem já fala inglês há muito tempo, às vezes se atrapalha ao usar alguns desses falsos cognatos. “Não é à toa que essas palavras são popularmente conhecidas como ‘falsos amigos’. É fácil esquecer que elas têm significados completamente diferentes em inglês. Por isso, é preciso estudar vocabulário e ficar sempre atento”, aconselha. O especialista aponta dez casos comuns dos chamados falsos cognatos.
@@ -63,7 +62,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

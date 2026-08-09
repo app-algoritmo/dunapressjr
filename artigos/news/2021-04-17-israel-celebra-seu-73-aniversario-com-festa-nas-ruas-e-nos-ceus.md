@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Os aviões da Força Aérea israelense sobrevoaram o país na manhã desta quinta–feira em comemoração ao Dia da Independência e, neste ano, com a maioria da população vacinada, o público pode voltar a se reunir nas ruas para participar das celebrações.
 
 No ano passado, durante o início da pandemia Covid-19, a Força Aérea homenageou as equipes médicas com aviões sobrevoando os hospitais do país.
@@ -24,7 +23,3 @@ Fonte: https://www.conib.org.br
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

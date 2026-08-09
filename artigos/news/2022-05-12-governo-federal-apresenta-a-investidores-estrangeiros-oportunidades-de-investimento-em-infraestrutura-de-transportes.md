@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 o longo desta semana, uma delegação brasileira está em Nova Iorque para apresentar a investidores estrangeiros o modelo brasileiro de concessões e o balanço da carteira de projetos do Governo Federal em infraestrutura de transportes, no chamado Roadshow. O grupo, liderado pelo ministro da Infraestrutura, Marcelo Sampaio, vai apresentar um portfólio que tem previsão de conceder 44 ativos e garantir R$ 110 bilhões em investimentos privados, somente em 2022.
 
 As reuniões e conferências com representantes de fundos de investimentos e bancos, em busca de atrair mais investimentos privados para o país, ocorrerão entre esta segunda-feira (09-05) e a sexta-feira (13/05).
@@ -44,7 +43,3 @@ Fonte:   https://www.gov.br/
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

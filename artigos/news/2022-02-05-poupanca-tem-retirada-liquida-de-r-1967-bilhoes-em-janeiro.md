@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Saques mensais são os maiores da série histórica, desde 1995.
 
 A aplicação financeira mais tradicional dos brasileiros iniciou o ano com retirada recorde. Em janeiro, os brasileiros sacaram R$ 19,67 bilhões a mais do que depositaram na caderneta de poupança, informou nesta sexta-feira (4) o Banco Central (BC).
@@ -24,7 +23,7 @@ Até recentemente, a poupança rendia 70% da Taxa Selic (juros básicos da econo
 
 O aumento dos juros, no entanto, foi insuficiente para fazer a poupança render mais que a inflação. Nos 12 meses terminados em janeiro, a aplicação rendeu 3,06%, segundo o Banco Central. No mesmo período, o Índice Nacional de Preços ao Consumidor-15 (IPCA-15), que funciona como [**prévia da inflação oficial**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-01/previa-da-inflacao-ipca-15-de-janeiro-fica-em-058-informa-ibge), atingiu 10,20%. O IPCA cheio de janeiro será divulgado na próxima quarta-feira (9) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
 
-Caso a inflação caia nos próximos meses, a caderneta pode voltar a ter rendimento positivo. Para este ano, o boletim Focus, pesquisa com instituições financeiras divulgada pelo Banco Central, prevê [**inflação oficial de 5,10% pelo IPCA**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-01/mercado-financeiro-eleva-projecao-de-inflacao-para-538-em-2022). 
+Caso a inflação caia nos próximos meses, a caderneta pode voltar a ter rendimento positivo. Para este ano, o boletim Focus, pesquisa com instituições financeiras divulgada pelo Banco Central, prevê [**inflação oficial de 5,10% pelo IPCA**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-01/mercado-financeiro-eleva-projecao-de-inflacao-para-538-em-2022).
 
 Com a atual fórmula, a poupança renderia cerca de 7%, caso a Selic permanecesse em 10,75% durante todo o ano. O rendimento pode ser um pouco maior se o Banco Central continuar a aumentar a taxa Selic nas próximas reuniões do Comitê de Política Monetária.
 
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

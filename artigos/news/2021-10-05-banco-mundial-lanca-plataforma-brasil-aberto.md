@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Ferramenta informará sobre ações da instituição no país de 2018 a 2023.
 
 Com o objetivo de favorecer o acompanhamento dos projetos e ações realizados no país, o Banco Mundial lançou, nesta segunda-feira (4), a plataforma *online *interativa [**Brasil Aberto**](https://brasilaberto.worldbank.org/pt/), com informações sobre seus estudos e operações no país, no período de 2018 a 2023.
 
-Segundo a organização multilateral,  a iniciativa visa ainda fomentar a transparência e aprimorar suas relações com o poder público e a sociedade em geral.
+Segundo a organização multilateral, a iniciativa visa ainda fomentar a transparência e aprimorar suas relações com o poder público e a sociedade em geral.
 
 “Talvez você se pergunte o que o Banco Mundial esta fazendo no meu estado, ou minha região, os resultados e os estudos. No Brasil, você vai encontrar respostas para todas essas perguntas”, disse o economista sênior do Banco Mundial, Marek Hanusch, durante o lançamento da plataforma.
 
@@ -36,10 +35,6 @@ O secretário de Assuntos Econômicos Internacionais do Ministério da Economia 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

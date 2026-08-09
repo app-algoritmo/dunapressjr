@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Com o uso de nanotecnologia, Maíra Pereira apresentou uma alternativa para o tratamento da hidradenite supurativa, uma doença inflamatória crônica da pele. O trabalho, selecionado pelo [Prêmio CAPES de Tese 2021](https://www.gov.br/capes/pt-br/assuntos/premios/premio-capes-de-tese-1) na área de Medicina 2, foi desenvolvido no Laboratório de Tecnologia de Medicamentos, Alimentos e Cosméticos (LTMAC), junto ao Programa de Pós-Graduação em Ciências da Saúde, da Universidade de Brasília (UnB), sob orientação do professor Guilherme Gelfuso.
 
 Os nanossistemas mostraram redução de taxas de liberação dos fármacos quanto ao controle e aumento da retenção na área afetada pela doença. A hidradenite supurativa atinge, principalmente, regiões que contêm folículos pilosos, como axilas e virilhas. Com o direcionamento da medicação para o local de ação e o prolongamento de sua atuação, “a pesquisa abre espaço para um tratamento diferente do disponível nos protocolos e no mercado”, explica a pesquisadora.
@@ -30,7 +29,3 @@ Fonte: https://www.gov.br/capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Programa oferece crédito para os empreendedores individuais.
 
 O governo federal publicou nesta terça-feira (29) a [**Medida Provisória (MP) 1.110/22**](https://www.in.gov.br/en/web/dou/-/medida-provisoria-n-1.110-de-28-de-marco-de-2022-388974564) com novas regras para o Programa de Simplificação do Microcrédito Digital para Empreendedores, conhecido como SIM Digital. A MP também altera as datas de recolhimentos de contribuições previdenciárias, como a do Fundo de Garantia por Tempo de Serviço (FGTS).
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

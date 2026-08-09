@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Para ministro, Ásia compensou queda nas vendas para outras regiões**.
 
 A recuperação rápida da economia de diversos países da Ásia, especialmente a China, impediu que a pandemia do novo coronavírus provocasse um choque nas exportações brasileiras, disse nesta segunda-feira (10) o ministro da Economia, Paulo Guedes. Segundo ele, o “apetite” asiático compensou a queda nas vendas para os Estados Unidos, a Europa e a Argentina.
@@ -32,4 +31,4 @@ Por meio de contratos de opções, o produtor se protege de eventuais quedas de 
 
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Paulo Whitaker/Direitos Reservados
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

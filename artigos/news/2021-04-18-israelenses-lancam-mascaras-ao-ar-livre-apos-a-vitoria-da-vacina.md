@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Nem todo mundo está abrindo mão de suas coberturas faciais após a revogação da autorização, no entanto, já que as preocupações permanecem com as variantes.
 
 Os israelenses saíram às ruas sem máscaras no domingo pela primeira vez em um ano, um marco importante enquanto o país se vacina para sair de um pesadelo contra o coronavírus.
@@ -64,5 +63,3 @@ Fonte: https://www.timesofisrael.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

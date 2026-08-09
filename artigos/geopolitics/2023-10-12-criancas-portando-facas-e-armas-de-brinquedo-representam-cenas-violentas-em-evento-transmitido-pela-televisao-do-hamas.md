@@ -8,8 +8,7 @@ categories:
 - Geopolitics
 ---
 
-
-## Um relatório  de 2003 sobre a educação de crianças na Palestina já previa a formação de futuros terroristas. [Clique aqui para acessar](https://dunapress.org/2021/05/13/palestian-education-teaching-peace-or-war-educacao-palestina-ensinando-a-paz-ou-a-guerra/)
+## Um relatório de 2003 sobre a educação de crianças na Palestina já previa a formação de futuros terroristas.org/2021/05/13/palestian-education-teaching-peace-or-war-educacao-palestina-ensinando-a-paz-ou-a-guerra/)
 
 Crianças palestinas que participaram de um festival na Faixa de Gaza naquele então, usavam uniformes militares e brandiam facas de brinquedo e metralhadoras enquanto encenavam uma peça que simulava violência contra israelenses.
 

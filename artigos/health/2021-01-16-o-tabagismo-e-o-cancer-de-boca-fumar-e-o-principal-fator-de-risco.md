@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Muito já se fala sobre a relação estreita entre o câncer e o hábito de fumar. Esse essa consequência do uso de produtos de tabaco surge, inclusive, como uma das mais lembradas entre as pessoas e, claro, uma das mais temidas. Vale dizer que esse medo não é em vão, pois o tabagismo é responsável pelo surgimento de pelo menos 50 doenças, incluindo diversos tipos de câncer.
 
 Para se ter uma ideia ainda maior da gravidade, o Instituto Nacional do Câncer (INCA) mostra que a fumaça do tabaco contém mais de 7 mil compostos e substâncias químicas. Pelo menos 69 desses produtos provocam câncer, segundo estudos apontados pelo INCA. Assim, fica fácil entender que até mesmo o tabagismo passivo é perigoso.
@@ -22,7 +21,7 @@ Vale lembrar que o risco não se limita apenas ao cigarro. Charuto, cachimbo, fu
 
 Entrando mais no detalhe dessa doença, o câncer de boca é um conjunto de tumores malignos que afeta várias regiões da boca como: lábios, língua, gengiva, céu da boca entre outras.
 
-No Brasil, ele já é o quinto tipo de câncer mais frequente entre os homens: a estimativa é de 11.180 novos casos por ano para o período de 2020 a 2022. No caso das mulheres, a doença ocupa a 13ª posição, com estimativa de 4.010 novos casos por ano. Apesar da cavidade oral ser um local de fácil acesso e visibilidade, o maior desafio dessa doença é o diagnóstico precoce, o que prejudica e muito o tratamento e prognóstico do paciente.  
+No Brasil, ele já é o quinto tipo de câncer mais frequente entre os homens: a estimativa é de 11.180 novos casos por ano para o período de 2020 a 2022. No caso das mulheres, a doença ocupa a 13ª posição, com estimativa de 4.010 novos casos por ano. Apesar da cavidade oral ser um local de fácil acesso e visibilidade, o maior desafio dessa doença é o diagnóstico precoce, o que prejudica e muito o tratamento e prognóstico do paciente.
 
 Talvez a explicação para isso seja o aspecto inicial da doença. Isso porque logo no começo, as lesões são assintomáticas e podem ser confundidas com aftas. Porém, com o passar do tempo e com a evolução do tumor, outros sinais e sintomas surgem como: úlceras que não cicatrizam, dor, sangramento e presença de uma massa na cavidade oral.
 
@@ -62,7 +61,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

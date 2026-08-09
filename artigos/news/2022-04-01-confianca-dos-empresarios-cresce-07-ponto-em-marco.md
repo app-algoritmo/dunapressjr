@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Foi a primeira alta do indicador desde novembro do ano passado.
 
 O Índice de Confiança Empresarial (ICE), calculado pela Fundação Getulio Vargas (FGV), avançou 0,7 ponto de fevereiro para março deste ano e atingiu 91,8 pontos, em uma escala de 0 a 200 pontos. Essa foi a primeira alta do indicador, desde novembro do ano passado.
@@ -30,8 +29,4 @@ Fonte: Agencia Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

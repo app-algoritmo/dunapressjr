@@ -8,16 +8,15 @@ categories:
 - News
 ---
 
-
 ## UFRJ e Cefet/RJ venceram o Invent for the Planet 2020 ao desenvolverem um sistema de filtragem de microplásticos na saída de água das casas.
 
 Materiais sintéticos e microplásticos estão por toda parte. E, sim, em todo o planeta. Há estudos que indicam a existência de fibras sintéticas – fruto da lavagem de roupas – em todos os continentes, inclusive em geleiras polares. Uma poluição invisível num primeiro momento, mas alarmante em seguida.
 
-A cada lavagem, peças de náilon, poliéster e acrílico soltam fibras de até cinco milímetros de espessura, incapazes de serem capturadas pelos filtros das máquinas de lavar. Se quisermos que uma única peça de roupa fique limpa, imagine: pesquisas indicam que mais de 1.900 pedaços de fibra são liberados na água. Há outros estudos que atestam que em cada lavagem em uma máquina de seis quilos, por exemplo, pelo menos 700 mil fibras são despejadas no meio ambiente. 
+A cada lavagem, peças de náilon, poliéster e acrílico soltam fibras de até cinco milímetros de espessura, incapazes de serem capturadas pelos filtros das máquinas de lavar. Se quisermos que uma única peça de roupa fique limpa, imagine: pesquisas indicam que mais de 1.900 pedaços de fibra são liberados na água. Há outros estudos que atestam que em cada lavagem em uma máquina de seis quilos, por exemplo, pelo menos 700 mil fibras são despejadas no meio ambiente.
 
 Pensando nesse conglomerado de poluição que parece caminhar oculto, estudantes da Universidade Federal do Rio de Janeiro (UFRJ) e do Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (Cefet/RJ) criaram um filtro que captura as minúsculas fibras de plásticos presentes na água liberada pelas máquinas de lavar, algumas delas até menores que a espessura de um fio de cabelo. Essas partículas podem prejudicar a microfauna dos oceanos e são protagonistas na transferência de poluentes do mar para a vida marinha. No processo de lavagem de roupas em máquinas, os resíduos liberados correspondem à metade dos micro-organismos de uma casa. E, hoje, cerca de metade dos microplásticos produzidos em uma residência são provenientes de máquinas lavadoras de roupas.
 
-A invenção dos cientistas frente a este problema global rendeu-lhes a vitória na maratona internacional de inovação *Invent for the Planet 2020*. 
+A invenção dos cientistas frente a este problema global rendeu-lhes a vitória na maratona internacional de inovação *Invent for the Planet 2020*.
 
 A equipe que representou o Brasil na competição foi formada por Dimitri Costa e Larissa Fonseca, alunos de doutorado em Engenharia Mecânica do Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa de Engenharia (Coppe/UFRJ), e Samuel Breves e João Lucas, estudantes de graduação de Engenharia de Produção e de Engenharia Mecânica do Cefet/RJ, respectivamente. O projeto foi orientado pelos professores Marcelo Savi (UFRJ) e Pedro Pacheco (Cefet/RJ).
 
@@ -33,7 +32,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

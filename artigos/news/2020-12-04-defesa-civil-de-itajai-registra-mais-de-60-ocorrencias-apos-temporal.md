@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Desde as primeiras horas da manhã desta quinta-feira (03), a Defesa Civil de Itajaí trabalha na recuperação dos estragos ocasionados pelo temporal da última madrugada. Até as 18h de hoje, foram registradas mais de 60 ocorrências, em sua grande maioria na zona rural (Itaipava, Brilhante, Paciência e Quilômetro 12) e na Praia Brava.
 
 O Município de Itajaí conta com uma força tarefa para a liberação de vias públicas e a recuperação de postes e iluminação pública. As principais ocorrências são destelhamento de residências e galpões, quedas de árvores, fiação elétrica e postes de iluminação pública, prejudicando o abastecimento de mais de 20 mil unidades consumidoras. Até o momento, a Defesa Civil já distribuiu 600 metros quadrados de lonas para a proteção das residências atingidas.
@@ -32,7 +31,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

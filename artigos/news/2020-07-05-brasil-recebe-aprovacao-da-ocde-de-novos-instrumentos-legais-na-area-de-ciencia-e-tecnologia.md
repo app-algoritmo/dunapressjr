@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 País possui o maior número de requisitos para entrada no organismo internacional.
 
 Das nações que pleiteiam uma vaga na Organização para Cooperação e Desenvolvimento Econômico (OCDE), o Brasil é, atualmente, o país que atende ao maior número de requisitos para a entrada no organismo internacional. Conhecida como o grupo dos países desenvolvidos, a OCDE tem como principal missão incentivar o progresso econômico e o comércio mundial. Atualmente, a instituição conta com 37 países-membros.
@@ -51,8 +50,8 @@ O Brasil oficializou o pedido de entrada na OCDE em 2017. Os integrantes do bloc
 
 Conheça os 37 países que fazem parte da OCDE
 
-Austrália, Áustria, Bélgica, Canadá, Chile, Colômbia, República Tcheca, Dinamarca, Estônia, Finlândia, França, Alemanha, Grécia, Hungria, Islândia, Irlanda, Israel, Itália, Japão, Coreia do Sul, Letônia, Lituânia, Luxemburgo, México, Países Baixos, Nova Zelândia, Noruega, Polônia, Portugal, Eslováquia, Eslovênia, Espanha, Suécia, Suíça, Turquia, Estados Unidos e Reino Unido. 
+Austrália, Áustria, Bélgica, Canadá, Chile, Colômbia, República Tcheca, Dinamarca, Estônia, Finlândia, França, Alemanha, Grécia, Hungria, Islândia, Irlanda, Israel, Itália, Japão, Coreia do Sul, Letônia, Lituânia, Luxemburgo, México, Países Baixos, Nova Zelândia, Noruega, Polônia, Portugal, Eslováquia, Eslovênia, Espanha, Suécia, Suíça, Turquia, Estados Unidos e Reino Unido.
 
 Fonte: gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 Aparelhos são para uso em pacientes com Covid-19 e foram entregues aos estados e ao Distrito Federal.
 
 O Governo Federal entregou 7.994 ventiladores pulmonares para o tratamento de pacientes com Covid-19 na rede pública de saúde. Os equipamentos foram entregues em todos os estados e no Distrito Federal. 
 
 Os ventiladores pulmonares foram distribuídos da seguinte forma: **Acre (150), Alagoas (185), Amapá (125), Amazonas (222), Bahia (415), Ceará (268), Distrito Federal (250), Espírito Santo (155), Goiás (413), Maranhão (241), Mato Grosso (216), Mato Grosso do Sul (155), Minas Gerais (551), Pará (409), Paraíba (285), Paraná (534), Pernambuco (195), Piauí (105), Rio de Janeiro (950), Rio Grande do Norte (274), Rio Grande do Sul (400), Rondônia (216), Roraima (160), Santa Catarina (98), São Paulo (787), Sergipe (120) e Tocantins (115).**
 
-As entregas levam em conta a capacidade instalada da rede de assistência em saúde pública, priorizando os locais onde a transmissão está se dando em maior velocidade. 
+As entregas levam em conta a capacidade instalada da rede de assistência em saúde pública, priorizando os locais onde a transmissão está se dando em maior velocidade.
 
 "O trabalho continua focado em preservar e salvar vidas, e é nesse sentido que está todo o esforço. Estamos fazendo o possível para atender as necessidades dos estados e municípios”, disse o secretário-executivo, Elcio Franco.
 
@@ -32,6 +31,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

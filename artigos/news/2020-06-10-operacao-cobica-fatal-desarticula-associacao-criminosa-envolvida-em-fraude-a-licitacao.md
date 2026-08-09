@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 São Luís/MA – A Polícia Federal, com o apoio da Controladoria Geral da União - CGU, deflagrou nesta terça-feira (9/6), nas cidades de São Luís/MA e São José do Ribamar/MA, a Operação Cobiça Fatal, com a finalidade de desarticular associação criminosa voltada à fraude em licitações. As investigações foram iniciadas para verificar possíveis desvios de recursos públicos federais que seriam usados no enfrentamento do novo coronavírus (COVID-19) em São Luís/MA.
 
 Foram empregados 60 policiais federais para o cumprimento de 3 mandados de prisão temporária e 14 mandados de busca e apreensão. Também foram realizados o sequestro de bens, o bloqueio de contas dos investigados, no valor de R$ 2,3 milhões. As ordens judiciais foram expedidas pelo juiz da 1ª Vara Federal de São Luís/MA.
@@ -24,5 +23,3 @@ Os investigados poderão responder pelos crimes de corrupção ativa (art. 333, 
 * A Operação foi denominada “COBIÇA FATAL” em referência ao desejo imoderado de riqueza, fazendo com que até se desvie recursos vitais para a proteção de pacientes e servidores da área da saúde.
 
 Comunicação Social da Polícia Federal no Maranhão
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

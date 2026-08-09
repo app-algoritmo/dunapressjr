@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-Em discurso para a Conferência das Nações Unidas, o ministro da Justiça e Segurança Pública, André Mendonça, reafirmou o compromisso do governo brasileiro com a promoção do Estado de Direito e com o combate ao crime organizado, ao tráfico de armas, ao tráfico de pessoas, ao contrabando de migrantes e aos delitos ambientais.  
+Em discurso para a Conferência das Nações Unidas, o ministro da Justiça e Segurança Pública, André Mendonça, reafirmou o compromisso do governo brasileiro com a promoção do Estado de Direito e com o combate ao crime organizado, ao tráfico de armas, ao tráfico de pessoas, ao contrabando de migrantes e aos delitos ambientais.
 
 A fala, em vídeo, foi apresentada durante a abertura da 10ª sessão da Conferência das Partes da Convenção das Nações Unidas contra o Crime Organizado Transnacional, realizada, este ano, em formato híbrido, com alguns representantes dos países em Viena, na Áustria, e os demais de maneira virtual.
 
@@ -19,7 +18,7 @@ A fala, em vídeo, foi apresentada durante a abertura da 10ª sessão da Confer�
 
 O ministro informou que o Ministério da Justiça e Segurança Pública e seus órgãos estão em processo de reestruturação para incrementar o combate ao tráfico de drogas e ao tráfico de pessoas.
 
-“Encontra-se em trâmite um processo administrativo para a seleção de mais dois mil policiais federais com o objetivo principal de fortalecer o combate ao crime na região de fronteira e na Amazônia”.  
+“Encontra-se em trâmite um processo administrativo para a seleção de mais dois mil policiais federais com o objetivo principal de fortalecer o combate ao crime na região de fronteira e na Amazônia”.
 
 Mendonça apresentou os avanços nos mecanismos de gestão de bens apreendidos do crime e informou que o Fundo Nacional Antidrogas (Funad), gerido pelo Ministério da Justiça e Segurança Pública, chegou ao valor recorde de arrecadação de mais de R$ 100 milhões em 2020.
 
@@ -36,5 +35,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

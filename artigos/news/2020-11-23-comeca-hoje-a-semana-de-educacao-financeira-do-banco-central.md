@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Mais de 6,3 mil ações estão previstas até o próximo domingo.
 
 Com tema Resiliência Financeira: como Atravessar a Crise?, o Banco Central (BC) deu início hoje (23) à 7ª Semana Nacional de Educação Financeira (Semana Enef). Mais de 6,3 mil ações estão previstas até o próximo domingo (29). A agenda completa está disponível no* site* [**semanaenef.gov.br**](http://semanaenef.gov.br/).
@@ -51,5 +50,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

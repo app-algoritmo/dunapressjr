@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A atuação da Advocacia-Geral da União (AGU) também assegurou recursos valiosos para o poder público utilizar em políticas que beneficiam o cidadão em áreas como saúde, educação e segurança, entre outras. Somente em 2019, foram R$ 657,5 bilhões garantidos para os cofres públicos por meio da atuação judicial da instituição nos tribunais.
 
 O montante leva em conta valores que a União e as autarquias federais teriam que pagar caso fossem condenadas em processos em que a AGU obteve êxito; investimentos que serão realizados em virtude de leilões de infraestrutura que puderam ser realizados sem empecilhos judiciais em virtude da atuação da Advocacia-Geral; recursos arrecadados por meio de ações de cobra
@@ -29,5 +28,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Especialistas apontam o país como novo ator petrolífero sul-americano.
 
 O ministro das Relações Exteriores, Carlos França, disse hoje (13), ao chanceler do Suriname, Albert Ramdin, que o Brasil está disposto a colaborar com o desenvolvimento da exploração de petróleo e gás no país vizinho. França recebeu, nesta sexta-feira, em Brasília, o ministro das Relações Exteriores, Negócios e Cooperação Internacionais do Suriname, país que, nos últimos anos, graças à descoberta de grandes reservas de petróleo e gás em áreas marítimas, vem despertando o interesse das principais empresas petrolíferas globais.
@@ -26,14 +25,10 @@ Além dos efeitos geopolíticos, as reservas encontradas no Suriname e na Guiana
 
 "Importante ressaltar que o nosso lado da Margem Equatorial se localiza no mesmo contexto geológico da Guiana e do Suriname e, dentro desse processo, em função das descobertas na Margem Equatorial no lado desses países [Guiana e Suriname], temos grande interesse e urgência em [**conhecer o potencial do nosso lado**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-08/estudos-indicam-potencial-petrolifero-das-bacias-da-margem-equatorial)”, declarou o diretor da ANP, Raphael Moura, durante seminário virtual realizado no último dia 4.
 
-“A ANP acredita no potencial da Margem Equatorial Brasileira como catalisador do desenvolvimento regional, em especial do Norte e do Nordeste brasileiros. Quem sabe não conseguiremos reproduzir o sucesso dos nossos vizinhos Guiana e Suriname? Para atingir esse objetivo, precisamos de um esforço conjunto e de colaboração da indústria, da academia, do regulador e de políticas de governo. São necessários investimentos em pesquisa e desenvolvimento, e nossas universidades têm um papel central nesses esforços para que possamos converter o potencial da atividade em prosperidade para a sociedade brasileira”, acrescentou Moura. 
+“A ANP acredita no potencial da Margem Equatorial Brasileira como catalisador do desenvolvimento regional, em especial do Norte e do Nordeste brasileiros. Quem sabe não conseguiremos reproduzir o sucesso dos nossos vizinhos Guiana e Suriname? Para atingir esse objetivo, precisamos de um esforço conjunto e de colaboração da indústria, da academia, do regulador e de políticas de governo. São necessários investimentos em pesquisa e desenvolvimento, e nossas universidades têm um papel central nesses esforços para que possamos converter o potencial da atividade em prosperidade para a sociedade brasileira”, acrescentou Moura.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

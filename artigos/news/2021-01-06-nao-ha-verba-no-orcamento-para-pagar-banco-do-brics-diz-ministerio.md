@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Brasil deve US$ 292 milhões para aporte de capital na instituição.
 
 A falta de autorização no orçamento levou o Brasil a não pagar uma parcela de US$ 292 milhões para aporte de capital no Novo Banco de Desenvolvimento, também conhecido como Banco do Brics (bloco formado por Brasil, Rússia, Índia, China e África do Sul). Em nota emitida nesta noite, o Ministério da Economia informou que, ao longo do segundo semestre de 2020, tentou remanejar verbas com o Congresso Nacional, mas os parlamentares repassaram os recursos a outros ministérios.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

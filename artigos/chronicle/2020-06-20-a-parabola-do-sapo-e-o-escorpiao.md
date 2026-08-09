@@ -7,7 +7,6 @@ categories:
 - Chronicle
 ---
 
-
 **DA SÉRIE: CRÔNICAS DA REALIDADE**
 
 Certa vez um sapo chamado *Adelfo*, que vivia numa enorme floresta chamada *Terra Brasilis*, precisou atravessar o rio* Aletheia*.
@@ -62,7 +61,7 @@ Se esticando para alcançar a margem, *Adelfo* simplesmente deitou e morreu. Seu
 
 **MORAL DA HISTÓRIA:** Ah, seria muita pretensão de nossa parte descrever os paralelos e significados dessa obra com a vida real. Melhor terminarmos com a pergunta que provoca o leitor a ter suas próprias conclusões:
 
-Em qual cenário você percebe que melhor se encaixa a “história”? Em certas cenas políticas dos últimos dias? No seu trabalho, com certos “colegas”? Em sua casa, com aqueles “parentes” que não são tão familiares? Com certas pessoas de sua comunidade? Em sua igreja ou local onde desenvolve seus serviços espirituais, religiosos, culto, liturgia? Em sua escola ou ambiente acadêmico? Onde mais? 
+Em qual cenário você percebe que melhor se encaixa a “história”? Em certas cenas políticas dos últimos dias? No seu trabalho, com certos “colegas”? Em sua casa, com aqueles “parentes” que não são tão familiares? Com certas pessoas de sua comunidade? Em sua igreja ou local onde desenvolve seus serviços espirituais, religiosos, culto, liturgia? Em sua escola ou ambiente acadêmico? Onde mais?
 
 Bem, se já conseguiu visualizar algum local onde se aplica, parabéns, você acaba de chegar às suas próprias conclusões, que “são infinitamente melhores do que viver com as conclusões dos outros”.
 
@@ -76,4 +75,4 @@ Este artigo foi reescrito com base nas mais diversas versões que existem sobre 
 
 Quando começamos o **Press Periódico** para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!
 
-https://dunapress.org/subscription-plan/?ref=barrosprojectmanager
+https://dunapress.org/subscription-plan/

@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Dólar deve encerrar 2022 cotado a R$ 5,30.
 
 O mercado financeiro aumentou pela nona vez consecutiva a previsão de inflação para este ano. Segundo projeção do Boletim Focus, divulgado hoje (14), em Brasília, pelo Banco Central, o Índice de Preços ao Consumidor Amplo (IPCA) deve fechar este ano em 6,45%. Há uma semana, a projeção era de que a inflação este ano ficasse em 5,65%. Há quatro semanas, era de 5,50%.
 
-Divulgado semanalmente, o Boletim Focus reúne a estimativa de mais de 100 instituições do mercado para os principais indicadores econômicos do país. Há algumas semanas, as estimativas já estavam apontando para uma inflação acima da meta definida pelo Conselho Monetário Nacional (CMN) para este ano  (3,5%), com variação de 1,5 ponto percentual.
+Divulgado semanalmente, o Boletim Focus reúne a estimativa de mais de 100 instituições do mercado para os principais indicadores econômicos do país. Há algumas semanas, as estimativas já estavam apontando para uma inflação acima da meta definida pelo Conselho Monetário Nacional (CMN) para este ano (3,5%), com variação de 1,5 ponto percentual.
 
 Os números do mercado estão acima dos projetados pelo Comitê de Política Monetária (Copom) na reunião realizada em fevereiro, que também mostrou uma inflação acima da meta.
 
@@ -20,7 +19,7 @@ Os números do mercado estão acima dos projetados pelo Comitê de Política Mon
 
 Para 2023, o mercado também aumentou a projeção da variação do IPCA – a inflação oficial do país. Com isso, a projeção indica inflação de 3,71% ante 3,51% estimados na semana passada. Há quatro semanas, o cálculo era de uma inflação de 3,5% no próximo ano.
 
-Para 2024, o mercado projeta também um aumento em relação às estimativas anteriores. A nova previsão é de que, em 2024, a inflação fique em 3,15%, ante os 3,1%  da semana passada. Há quatro semanas, a estimativa indicava o IPCA fechando 2024 em 3,04%.
+Para 2024, o mercado projeta também um aumento em relação às estimativas anteriores. A nova previsão é de que, em 2024, a inflação fique em 3,15%, ante os 3,1% da semana passada. Há quatro semanas, a estimativa indicava o IPCA fechando 2024 em 3,04%.
 
 ## PIB
 
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

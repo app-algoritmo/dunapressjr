@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Cuiabá/MT - A Polícia Federal deflagrou na manhã desta quinta-feira (28/5), em Pontes e Lacerda/MT, a operação ALFEU, em cumprimento à decisão judicial da 2ª Vara da Justiça Federal de Cáceres/MT.  A operação tem o objetivo de apurar associação criminosa voltada ao desmatamento e garimpo ilegal no Rio Sararé.
 
 A Operação Alfeu faz parte da ação nacional Verde Brasil 2 e conta com a participação de 200 agentes públicos federais, entre eles, policiais federais, militares, agentes da Fundação Nacional do Índio (Funai) e do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama).
@@ -22,5 +21,3 @@ A área está localizada na Terra Indígena Sararé, onde as investigações apo
 Precauções estão sendo adotadas para que os integrantes da associação criminosa não entrem nas aldeias indígenas localizadas próximas à área de extração. O Exército realiza um bloqueio no local, com dezenas de militares impedindo a chegada dos garimpeiros.
 
 Comunicação Social da Polícia Federal em Mato Grosso
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

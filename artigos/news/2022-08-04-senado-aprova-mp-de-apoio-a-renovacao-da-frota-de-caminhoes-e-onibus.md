@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Texto segue para sanção presidencial.
 
 O Senado aprovou nesta quarta-feira (3) medida provisória (MP) que cria o Renovar, programa que prevê a renovação da frota de veículos de transporte rodoviário de mercadorias, ônibus, micro-ônibus e implementos rodoviários. O texto segue para sanção presidencial.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

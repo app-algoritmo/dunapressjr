@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O plano ‘Novo Normal Paraíba’ se inicia nesta segunda-feira(15).
 
 O governador João Azevêdo assinou, nesta sexta-feira (12), o decreto 40.304, que dispõe sobre a adoção do plano ‘Novo Normal Paraíba’ e estabelece a matriz de orientação para a retomada gradual e segura das atividades em todo o Estado a partir da próxima segunda-feira (15). O documento também apresenta as diretrizes que deverão ser utilizadas nos ambientes de trabalho, visando ao cumprimento do distanciamento social e das medidas de higienização, ações necessárias para evitar o contágio pelo novo coronavírus.
@@ -19,7 +18,7 @@ O plano de retomada gradual das atividades foi viabilizado devido à consistente
 
 De acordo com o novo decreto, voltam a funcionar a partir do dia 15, os terminais rodoviários pertencentes ao Estado e o transporte intermunicipal, que deverão obedecer às normas editadas pelo Departamento de Estradas de Rodagem da Paraíba (DER-PB). A construção civil, incluindo as obras públicas e privadas, também poderá voltar a funcionar, observando os protocolos específicos do setor e todas as normas de distanciamento social.
 
-Já as aulas presenciais nas escolas, universidades e faculdades da rede pública e privada permanecerão suspensas, bem como o expediente presencial nas repartições públicas estaduais, com exceção dos serviços desenvolvidos pelas Secretarias de Saúde; Segurança e Defesa Social; Administração Penitenciária; Comunicação; Desenvolvimento Humano; Cagepa; Detran; Sudema; Agevisa e Fundac, que ficam sujeitos à jornada de trabalho estabelecida pela chefia imediata, não sendo permitido o trabalho presencial dos servidores que tenham histórico de doenças respiratórias ou doenças crônicas, ou cujos familiares, que habitam a mesma residência, tenham doenças crônicas, devidamente comprovadas através de atestados médicos; gestantes e lactantes; ou funcionários que manifestarem sintomas respiratórios, como febre, tosse, coriza ou dificuldade de respirar. 
+Já as aulas presenciais nas escolas, universidades e faculdades da rede pública e privada permanecerão suspensas, bem como o expediente presencial nas repartições públicas estaduais, com exceção dos serviços desenvolvidos pelas Secretarias de Saúde; Segurança e Defesa Social; Administração Penitenciária; Comunicação; Desenvolvimento Humano; Cagepa; Detran; Sudema; Agevisa e Fundac, que ficam sujeitos à jornada de trabalho estabelecida pela chefia imediata, não sendo permitido o trabalho presencial dos servidores que tenham histórico de doenças respiratórias ou doenças crônicas, ou cujos familiares, que habitam a mesma residência, tenham doenças crônicas, devidamente comprovadas através de atestados médicos; gestantes e lactantes; ou funcionários que manifestarem sintomas respiratórios, como febre, tosse, coriza ou dificuldade de respirar.
 
 Os equipamentos públicos de cultura e esporte, pertencentes ao Estado, também continuarão fechados.
 
@@ -50,8 +49,6 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique no banner abaixo para assinar
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

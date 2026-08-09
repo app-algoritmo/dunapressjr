@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Novo documento pode ser utilizado em papel, plástico e no formato digital pelo aplicativo GOV.BR, e tem o CPF como único número de identificação.
 
 A população de Goiás já pode ter acesso à Carteira de Identidade Nacional (CIN), nos modelos em papel e policarbonato (plástico), além do formato digital, pelo aplicativo GOV.BR. As primeiras entregas do documento físico no estado ocorreram no município de Cavalcante. A nova carteira – que tem o CPF como único número de identificação do cidadão –também está disponível no Rio Grande do Sul (desde julho) e no Acre (desde agosto). A emissão é realizada nos órgãos de identificação dos estados.
@@ -18,7 +17,7 @@ Em Cavalcante, na Chapada dos Veadeiros, foi realizada uma ação itinerante da 
 
 Após a emissão do documento nos órgãos de identificação, para obter a Carteira de Identidade Nacional digital o cidadão deve baixar em seu celular o app [GOV.BR](https://www.gov.br/governodigital/pt-br/conta-gov-br) e fazer *login* no aplicativo inserindo usuário e senha. Na tela inicial, aparecerá o ícone ‘Carteira de documentos’. Basta clicar no botão '+', escolher 'Carteira de Identidade' e ir em "Adicionar Documento'.
 
-A carteira é válida legalmente em todo o território nacional e, caso o cidadão não esteja de posse do documento físico, por exemplo, pode apresentar a versão digital em seu celular. O documento foi instituído pelo [Decreto nº 10.977](https://in.gov.br/en/web/dou/-/decreto-n-10.977-de-23-de-fevereiro-de-2022-382332304), de 23 de fevereiro de 2022, que determina os procedimentos e requisitos para a expedição da carteira por órgãos de identificação dos estados e do Distrito Federal.  
+A carteira é válida legalmente em todo o território nacional e, caso o cidadão não esteja de posse do documento físico, por exemplo, pode apresentar a versão digital em seu celular. O documento foi instituído pelo [Decreto nº 10.977](https://in.gov.br/en/web/dou/-/decreto-n-10.977-de-23-de-fevereiro-de-2022-382332304), de 23 de fevereiro de 2022, que determina os procedimentos e requisitos para a expedição da carteira por órgãos de identificação dos estados e do Distrito Federal.
 
 ### Mais segurança
 
@@ -32,8 +31,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

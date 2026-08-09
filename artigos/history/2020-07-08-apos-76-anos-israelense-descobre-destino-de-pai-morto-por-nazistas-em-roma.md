@@ -7,14 +7,13 @@ categories:
 - History
 ---
 
-
 Setenta e seis anos depois que seu pai morreu no Holocausto , um israelense, com a ajuda de Yad Vashem e das autoridades italianas, descobriu o destino de seu pai e onde estão seus restos mortais.
 
-David Reicher tinha apenas três meses quando seu pai desapareceu para sempre no início de 1944. 
+David Reicher tinha apenas três meses quando seu pai desapareceu para sempre no início de 1944.
 
 Menos de dois anos antes, os pais de David, Ethel e Moshe, haviam fugido da Polônia e encontrado refúgio na Itália. Mas os nazistas logo ocuparam o país, aumentando a perseguição de judeus da discriminação à deportação e extermínio.
 
-"Eu não sabia nada sobre o que aconteceu com meu pai, exceto que ele foi morto em Roma", disse Reicher ao *The Jerusalem Post* . "Nossa mãe nunca falou sobre o que aconteceu."Os Reichers imigraram para Israel logo após o fim da guerra em 1945. 
+"Eu não sabia nada sobre o que aconteceu com meu pai, exceto que ele foi morto em Roma", disse Reicher ao *The Jerusalem Post* . "Nossa mãe nunca falou sobre o que aconteceu."Os Reichers imigraram para Israel logo após o fim da guerra em 1945.
 
 Pelo resto da vida, a mãe de David Reicher permaneceu muito relutante em se abrir nesse período. Anos e décadas se passaram sem qualquer desenvolvimento."Recentemente, uma prima de minha esposa, Shoshana Yosef, se matriculou em um programa no Yad Vashem e começou a fazer algumas pesquisas sobre minha família", disse Reicher.
 
@@ -48,6 +47,6 @@ Fonte The Jerusalem Post****
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

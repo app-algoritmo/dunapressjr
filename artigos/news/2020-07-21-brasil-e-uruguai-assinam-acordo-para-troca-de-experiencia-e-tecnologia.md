@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Brasil vai compartilhar com o Uruguai a experiência e a tecnologia da plataforma [consumidor.gov.br](http://www.consumidor.gov.br/), um serviço público e gratuito implementado pelo governo brasileiro. A ferramenta permite a interlocução direta entre consumidores e empresas para solução de conflitos de consumo pela internet.
 
 O acordo que visa a transferência de tecnologia e conhecimento da plataforma ao país vizinho foi firmado nesta segunda-feira (13) pelo ministro da Justiça e Segurança Pública, André Mendonça, e o embaixador do Uruguai no Brasil, Gustavo Vanerio.
@@ -44,6 +43,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos** **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos** **clicando aqui.**](https://dunapress.org/)

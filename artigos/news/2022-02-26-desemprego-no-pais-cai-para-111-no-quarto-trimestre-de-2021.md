@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Segundo pesquisa do IBGE, número de desempregados diminuiu 1,4 milhão no quarto trimestre de 2021 em comparação com o trimestre anterior
 
 A taxa de desemprego no Brasil caiu para 11,1% no quarto trimestre de 2021. O recuo de 1,5 ponto percentual representa 1,4 milhão de pessoas a menos sem emprego na comparação com o trimestre anterior, quando essa taxa chegava a 12,6%. Os dados são da Pesquisa Nacional por Amostra de Domicílios Contínua (Pnad Contínua), divulgada na quinta-feira (24) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -32,8 +31,4 @@ Fonte: gov.br
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

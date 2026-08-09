@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Oitenta anos atrás, o mais letal centro de eutanásia "T4" começou a implementar "mortes misericordiosas" para alemães com deficiência física e mental.
 
 O castelo Hartheim não ficava longe de Linz, na Áustria, onde Adolf Hitler cresceu. Com raízes renascentistas, o pátio em colunata do castelo era usado pelos nazistas para um dos dois crematórios de Hartheim.
@@ -82,6 +81,6 @@ Fonte The Time Of Israel
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

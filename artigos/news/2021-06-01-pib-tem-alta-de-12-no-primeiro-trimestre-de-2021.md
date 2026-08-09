@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Dados são do Sistema de Contas Nacionais Trimestrais do IBGE.
 
 O Produto Interno Bruto (PIB) - a soma dos bens e serviços produzidos no Brasil - cresceu 1,2%, no primeiro trimestre deste ano, na comparação com os últimos três meses do ano passado. É o terceiro resultado positivo, depois dos recuos de 2,2% no primeiro e de 9,2% no segundo trimestres de 2020, quando a economia recuou 4,1%, afetada pela pandemia da covid-19.
@@ -62,8 +61,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

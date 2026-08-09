@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Ministro da Ciência e Tecnologia acompanhou os trabalhos no Rio de Janeiro e inaugurou laboratório de campanha. 
+Ministro da Ciência e Tecnologia acompanhou os trabalhos no Rio de Janeiro e inaugurou laboratório de campanha.
 
 Os ensaios clínicos com a vacina BCG para a prevenção contra a Covid-19 tiveram início nesta segunda-feira (5). As vacinas serão aplicadas em mil profissionais da saúde que passarão por monitoramento para a coleta de dados da pesquisa. O estudo receberá investimento de R$ 1 milhão do Ministério da Ciência, Tecnologia e Inovações (MCTI).
 
@@ -43,5 +42,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

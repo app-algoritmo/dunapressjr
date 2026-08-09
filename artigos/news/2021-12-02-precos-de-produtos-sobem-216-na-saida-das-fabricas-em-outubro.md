@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Taxa é superior ao 0,25% de setembro deste ano, diz IBGE.
 
 O Índice de Preços ao Produtor (IPP), que mede a variação de preços de produtos industrializados, na saída das fábricas, registrou inflação de 2,16% em outubro deste ano. A taxa é superior ao 0,25% de setembro deste ano, mas inferior aos 3,41% de outubro do ano passado. O dado foi divulgado nesta quarta-feira (1º), pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -22,10 +21,6 @@ Entre as quatro grandes categorias de uso, a maior alta de preços foi observada
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

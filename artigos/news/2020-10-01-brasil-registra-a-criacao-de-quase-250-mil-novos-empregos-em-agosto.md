@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em agosto, o Brasil registrou o segundo mês consecutivo de geração de empregos com carteira assinada. Foram 249.338 novos postos de trabalho formal criados no País. Um resultado de 1.239.478 admissões e 990.090 desligamentos. Os dados do Novo Cadastro Geral de Empregados e Desempregados (Novo Caged) foram divulgados nesta quarta-feira (30) pelo ministro da Economia, Paulo Guedes.
 
 “Estamos anunciando a maior geração de empregos de agosto desde 2010”, disse. “250 mil empregos é algo que não acontecia desde agosto de 2010”, afirmou o ministro Paulo Guedes.
@@ -47,5 +46,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

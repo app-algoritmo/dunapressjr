@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Todo o dinheiro é creditado de forma eletrônica; agências não abriram.
 
 A Caixa Econômica Federal informou que 405.163 mil pessoas recebem hoje (16) a primeira parcela do auxílio emergencial do governo federal. Na última quinta-feira (14), o banco recebeu da Dataprev o novo lote de beneficiários aprovados. No total, estão sendo disponibilizados R$ 246 milhões em 311.637 contas da Caixa e 93.526 em contas de outros bancos.
@@ -45,5 +44,3 @@ Ajude-nos a levar o jornalismo independente a todas as partes!
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

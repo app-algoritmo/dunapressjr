@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### No mês, foram realizadas 494.189 operações de investimento.
 
 O total de investidores ativos no Tesouro Direto chegou, em fevereiro, a 1.862.785, informou nesta segunda-feira (28) o Tesouro Nacional. No mês passado, houve um aumento de 35.393 investidores. Já o número de investidores cadastrados no programa aumentou em 430.444, crescimento de 75,53% em relação a fevereiro de 2021, atingindo a marca de 17.369.623 pessoas.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

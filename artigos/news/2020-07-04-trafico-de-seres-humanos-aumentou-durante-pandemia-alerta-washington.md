@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 "Os traficantes não estavam confinados", mas "encontraram maneiras de inovar e até tirar proveito do caos", disse o funcionário americano John Richmond.
 
 Os Estados Unidos alertaram na quinta-feira que o tráfico de seres humanos em todo o mundo estava aproveitando a instabilidade causada pelo desenvolvimento do novo coronavírus.
@@ -28,7 +27,7 @@ A Arábia Saudita, um aliado próximo dos americanos, deixa a lista negra depois
 
 Raramente, a Irlanda, um país ocidental próximo a Washington, foi colocada este ano "sob vigilância": sem ser adicionada à lista negra, é objeto de atenção especial porque "não obteve nenhum resultado". condenação por tráfico ”desde que mudou sua lei em 2013 para“ enfraquecer a dissuasão e contribuir para a impunidade ”.
 
-Fonte The Times Of Israel 
+Fonte The Times Of Israel
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor.**
 
@@ -36,6 +35,6 @@ Fonte The Times Of Israel
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

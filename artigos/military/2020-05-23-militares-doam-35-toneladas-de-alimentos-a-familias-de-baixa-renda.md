@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 Cerca de 3,5 toneladas de alimentos foram arrecadadas em Ijuí, no Rio Grande do Sul, por militares do 27º Grupo de Artilharia de Campanha durante a Campanha do Alimento. O total arrecadado foi entregue à APAE, MEAME, Lar Bom Abrigo, Lar da Criança Henrique Liebich, Liga Feminina de Combate ao Câncer e Programa Mesa Brasil.
 
 O Comando do 5º Distrito Naval, por meio do Grupamento de Fuzileiros Navais do Rio Grande, entregou 144 cestas básicas a famílias de alunos do Centro de Convívio dos Meninos do Mar. São estudantes em situação de vulnerabilidade social e econômica.
@@ -32,5 +31,3 @@ O Comando Conjunto Planalto descontaminou o Centro Gestor e Operacional do Siste
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

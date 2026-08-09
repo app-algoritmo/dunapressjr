@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Informação foi confirmada por vice-presidente da Anatel.
 
 Brasília será a primeira capital do país a ter a rede 5G em funcionamento na telefonia móvel. Segundo o conselheiro e vice-presidente da Agência Nacional de Telecomunicações (Anatel), Moisés Moreira, o sinal será liberado em Brasília nesta quarta-feira (6).
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

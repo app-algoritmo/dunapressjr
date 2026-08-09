@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Ministério da Ciência, Tecnologia e Inovações (MCTI) participou do lançamento do Cluster Brasileiro de Inteligência Artificial para Navios. A iniciativa reúne representantes do Governo Federal, academia, empresas marítimas e lideranças industriais. A ideia é que uma plataforma sem fins lucrativos promova o intercâmbio de empresas e instituições para o desenvolvimento da Inteligência Artificial no setor marítimo nacional.
 
 Outros objetivos da iniciativa são alavancar projetos e soluções tecnológicas, atrair investimentos, reunir núcleos de pesquisa que já atuam na área e sinalizar ao mercado nacional e internacional que o país aposta na Inteligência Artificial. O cluster também atuará junto ao Poder Legislativo para aprovar mudanças legais que impulsionem o setor.
@@ -41,8 +40,4 @@ Através do link abaixo você obtém 25% de desconto, também contribuirá com a
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
 Obrigado pelo apoio!
-
-.

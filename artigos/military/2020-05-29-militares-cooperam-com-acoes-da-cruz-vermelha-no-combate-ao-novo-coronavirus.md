@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 As Forças Armadas realizam ações em parceria com diversas instituições e organizações para o enfrentamento à Covid-19. No Comando Militar do Sudeste, militares do 8º Batalhão de Polícia do Exército apoiam a Cruz Vermelha de São Paulo. A ação consiste na organização, triagem e preparação de kits de alimentação, de higiene e de limpeza destinados à população em situação de vulnerabilidade social.
 
 Na Capitania dos Portos da Bahia, os militares também distribuíram 1,6 toneladas de alimentos, o correspondente a 160 kits, e mais 600 máscaras reutilizáveis. As doações partiram da Sociedade Amigos da Marinha em Salvador, do Terminal Portuário Cotegipe, do Sindicato dos Práticos do Estado da Bahia e da Bahia Marina.
@@ -34,5 +33,3 @@ Até junho, mais de 160 militares devem ser capacitados na Escola de Saúde do E
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

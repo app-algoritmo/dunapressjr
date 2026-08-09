@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Cesta mais cara é a de Porto Alegre, que custa R$ 664,67.
 
 O custo médio da cesta básica em agosto teve alta em 13 das 17 capitais pesquisadas pelo Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese). O levantamento, divulgado nesta quarta-feira (8), mostra que os maiores aumentos foram em Campo Grande (3,48%), Belo Horizonte (2,45%) e Brasília (2,10%).
@@ -30,10 +29,6 @@ O litro do leite integral subiu em 14 capitais pesquisadas, com alta de 5,7% em 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

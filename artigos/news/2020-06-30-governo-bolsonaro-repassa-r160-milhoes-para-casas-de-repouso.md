@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Recurso irá subsidiar ações de enfrentamento à Covid-19 em Instituições de Longa Permanência para Idosos.
 
 Foi sancionada pelo Presidente da República, Jair Bolsonaro, a [Lei 14.018/20](http://www.in.gov.br/en/web/dou/-/lei-n-14.018-de-29-de-junho-de-2020-264166728), que destina R$160 milhões às Instituições de Longa Permanência para Idosos (ILPIs), em razão do enfrentamento da emergência de saúde pública decorrente da Covid-19.
@@ -25,7 +24,7 @@ Já os vetos são os seguintes:
 
 Fonte: Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

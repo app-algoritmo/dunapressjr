@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Arthur Phillipe Silva de Paiva é bacharel em Química do Petróleo pela Universidade Federal do Rio Grande do Norte (UFRN) e mestre em Química pela Universidade Federal do Rio de Janeiro (UFRJ). Ele continua no programa de pós-graduação da instituição fluminense, agora no doutorado. Em sua pesquisa, ele tenta extrair da biomassa da frutose, açúcar presente em frutas, o levulinato de etila, que pode ser usado em combustíveis e na indústria de cosméticos. É um processo que usa fonte de energia renovável. 
+Arthur Phillipe Silva de Paiva é bacharel em Química do Petróleo pela Universidade Federal do Rio Grande do Norte (UFRN) e mestre em Química pela Universidade Federal do Rio de Janeiro (UFRJ). Ele continua no programa de pós-graduação da instituição fluminense, agora no doutorado. Em sua pesquisa, ele tenta extrair da biomassa da frutose, açúcar presente em frutas, o levulinato de etila, que pode ser usado em combustíveis e na indústria de cosméticos. É um processo que usa fonte de energia renovável.
 
 **Fale sobre sua pesquisa.**
 O Brasil é um dos maiores produtores de açúcar e de etanol, dos quais resulta o bagaço de cana-de-açúcar. Algumas empresas queimam esse bagaço e, disso, gera-se energia. Só que existe a possibilidade de se usar outra rota, pegar esse material para um fim mais produtivo. E, no caso, é o levulinato de etila. Meu objetivo é obter o levulinato de etila a partir de açúcares utilizando zeólitas modificadas (grupos de minerais de estrutura porosa, utilizados na indústria para catálises e outras aplicações, como uma “peneira molecular”).
@@ -24,7 +23,7 @@ Outro problema é que é preciso utilizar catalisadores ácidos. É preciso colo
 **E o que o motivou a escolher o tema?
 **A demanda por esse produto vem crescendo, assim como o valor agregado dele. Meu objetivo é fazer essa rota ser proveitosa. E é aí que entra a zeólita. A zeólita terá os dois sítios ácidos de que falei (Lewis e Brønsted). O processo de modificação que pretendemos realizar envolve facilitar o acesso das moléculas nesse material. Isso tende a aumentar a seletividade e a conversão desse produto.
 
-Em resumo, meu trabalho tenta viabilizar uma rota viável, já a partir de alguns açúcares e, no caso do bagaço da cana, é a frutose. Geralmente isso é feito em diversas etapas e eu quero fazer em uma.                                               
+Em resumo, meu trabalho tenta viabilizar uma rota viável, já a partir de alguns açúcares e, no caso do bagaço da cana, é a frutose. Geralmente isso é feito em diversas etapas e eu quero fazer em uma.
 
 **Qual impacto acredita que seu trabalho pode ter?**
 Esse trabalho é relevante porque, no futuro, a tendência é que as usinas, que temos em grande quantidade no Brasil, prestem maior atenção essas sobras, esse bagaço que muitas vezes é rejeito, para dar um fim a ele, reaproveitá-lo. Se não tem um fim, fica ocupando espaço.
@@ -42,7 +41,3 @@ Fonte: https://www.gov.br/capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

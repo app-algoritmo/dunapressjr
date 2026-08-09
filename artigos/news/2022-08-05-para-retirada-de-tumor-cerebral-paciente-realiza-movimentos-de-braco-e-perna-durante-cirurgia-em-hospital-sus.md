@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 "O momento é de fazer novos planos". A frase define o sentimento de Daiane Poulmann, 30 anos, após passar por uma neurocirurgia para retirada de tumor no cérebro. Durante o procedimento realizado no Hospital Universitário Cajuru, em Curitiba (PR), foi preciso que a paciente ficasse acordada. "Lembro deles me pedindo pra fazer algumas funções motoras durante a cirurgia e, também, perguntando como eu estava", conta Daiane.
 
-A descoberta de um glioma no cérebro, próximo às vias responsáveis pelos movimentos do corpo, veio um ano após o primeiro episódio de paralisia no rosto, que aconteceu dias depois do nascimento do seu terceiro filho. O que poderia ser um período único de felicidade e encantamento com o bebê se tornou um turbilhão ainda maior de emoções até descobrir o diagnóstico. Foi apenas em maio de 2022, que uma convulsão generalizada a fez buscar por respostas em exames de tomografia e ressonância. 
+A descoberta de um glioma no cérebro, próximo às vias responsáveis pelos movimentos do corpo, veio um ano após o primeiro episódio de paralisia no rosto, que aconteceu dias depois do nascimento do seu terceiro filho. O que poderia ser um período único de felicidade e encantamento com o bebê se tornou um turbilhão ainda maior de emoções até descobrir o diagnóstico. Foi apenas em maio de 2022, que uma convulsão generalizada a fez buscar por respostas em exames de tomografia e ressonância.
 
 **Como é feita a cirurgia**
 
@@ -32,7 +31,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

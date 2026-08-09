@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A CoronaVac prevê a administração de duas doses por pessoa.
 
 O presidente Jair Bolsonaro afirmou hoje (21) que o governo federal não comprará a vacina CoronaVac, que está sendo desenvolvida pela farmacêutica chinesa Sinovac em parceria com o Instituto Butantan. De acordo com ele, antes de ser disponibilizada para a população, a vacina deverá ser “comprovada cientificamente” pelo Ministério da Saúde e certificada pela Agência Nacional de Vigilância Sanitária (Anvisa).
@@ -33,5 +32,3 @@ O secretário reforçou que qualquer vacina depende de análise técnica e aprov
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

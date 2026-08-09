@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Belo Horizonte/MG - Nesta segunda-feira (1/6), a Polícia Federal apreendeu diversos cartões bancários, máquinas para pagamento com cartão e substância assemelhada a maconha.
 
 Durante fiscalização sobre o tráfico de drogas, no Aeroporto Internacional Tancredo Neves, em Confins/MG, a Polícia Federal identificou um viajante, cujo localizador de passagem aérea estava vinculado a três malas, embora cada uma estivesse registrada em nome de um passageiro diferente. O homem, de 28 anos, natural de São Paulo, vendedor autônomo, com registro criminal por furto qualificado, alegou que a mala que lhe pertencia estava identificada como de outrem e que a relacionada a seu nome não lhe pertencia, além de dizer desconhecer os outros dois passageiros, que não foram encontrados.
@@ -19,5 +18,3 @@ O homem foi levado até a sede da Polícia Federal em Belo Horizonte, onde prest
 Seguindo todos os protocolos de cuidados do Ministério da Saúde em face da pandemia do Covid-19, a Polícia Federal continua trabalhando para a manutenção da lei e da ordem, preservando o estado democrático de direito.
 
 Comunicação Social da Polícia Federal em Minas Gerais
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

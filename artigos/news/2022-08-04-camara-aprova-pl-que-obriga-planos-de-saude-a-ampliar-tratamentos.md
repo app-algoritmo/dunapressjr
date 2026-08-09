@@ -7,16 +7,15 @@ categories:
 - News
 ---
 
-
 ### Projeto inclui procedimentos fora do rol da ANS.
 
 A Câmara dos Deputados aprovou nesta quarta-feira (3) um projeto de lei (PL) que estabelece hipóteses de cobertura de exames ou tratamentos de saúde que não estão incluídos no rol de procedimentos e eventos da Agência Nacional de Saúde Suplementar (ANS). A proposta segue para análise do Senado.
 
 A matéria tem como objetivo dar continuidade a tratamentos que poderiam ser excluídos da cobertura dos planos de saúde. Com o texto aprovado, as operadoras deverão autorizar os planos de saúde a cobrirem tratamento ou procedimento prescrito por médico ou dentista que não estejam no rol da ANS, desde que um dos seguintes critérios esteja presente:
 
--  existir comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico;
--  existir recomendações pela Comissão Nacional de Incorporação de Tecnologias no SUS;
--  existir recomendação de, no mínimo, um órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus similares nacionais.
+- existir comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico;
+- existir recomendações pela Comissão Nacional de Incorporação de Tecnologias no SUS;
+- existir recomendação de, no mínimo, um órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus similares nacionais.
 
 ### STJ
 
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## BC disponibilizou site exclusivo após instabilidade no acesso.
 
 As consultas ao Sistema Valores a Receber (SRV) do Banco Central (BC) serão retomadas, nesta segunda-feira (14), por meio de uma plataforma exclusiva. O objetivo é evitar que a grande quantidade de acessos coloque em risco o *site *do próprio BC, como ocorrido no mês passado, quando a demanda inesperada de acessos ao SRV [**derrubou a página**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-01/demanda-inesperada-de-acessos-derruba-site-do-banco-central).
@@ -33,8 +32,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

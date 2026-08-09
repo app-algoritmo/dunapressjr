@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Com US$ 14,39 bilhões em exportações e US$ 14,51 bilhões em importações, balança comercial registra déficit de US$ 117 milhões no acumulado do mês.
 
 A corrente de comércio (soma de exportações e importações) brasileira cresceu 28% e fechou a terceira semana de janeiro em US$ 28,91 bilhões. Os dados divulgados nesta segunda-feira (24) pela Secretaria de Comércio Exterior (Secex) do Ministério da Economia mostram que as exportações cresceram 28,4% pela média diária, em relação a janeiro de 2021, e somaram US$ 14,39 bilhões, enquanto as importações subiram 27,6% e totalizaram US$ 14,51 bilhões. Assim, a balança comercial fechou a terceira semana com déficit de US$ 117 milhões no acumulado do mês.
@@ -40,8 +39,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

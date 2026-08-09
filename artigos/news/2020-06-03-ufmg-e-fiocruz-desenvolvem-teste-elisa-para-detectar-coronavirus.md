@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Método detecta a presença de anticorpos contra o vírus em laboratório.
 
 O CT Vacinas, núcleo formado por pesquisadores da Universidade Federal de Minas Gerais (UFMG) e da Fundação Oswaldo Cruz (Fiocruz), desenvolveu um teste para o novo coronavírus com base no método Elisa, que detecta a presença de anticorpos contra o vírus em laboratório.
@@ -21,8 +20,6 @@ Na opinião do docente, a produção nacional de testes é fundamental no enfren
 O CT Vacinas negocia a cessão dos direitos de produção do antígeno e dos testes de Elisa para instituições públicas e privadas para uso em larga escala. O grupo não patenteou o teste porque há no mundo outras equipes trabalhando com tecnologia semelhante.
 
 Fonte: gov.br/mec / Imagem em destaque: ufmg.br
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

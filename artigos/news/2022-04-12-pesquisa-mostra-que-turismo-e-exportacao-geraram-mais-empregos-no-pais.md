@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O levantamento da CNC analisou os 5.570 municípios brasileiros.
 
 Municípios com vocação turística ou que se destacam na produção e exportação de commodities (produtos agrícolas e minerais comercializados no mercado internacional) estão contribuindo para a redução do desemprego no país, revela pesquisa da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC). O levantamento analisou os 5.570 municípios do país, dos quais foi feita uma seleção de cidades que empregam pelo menos 10 mil trabalhadores formais. O resultado encontrado abrangeu mais de 660 municípios.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em ano olímpico, trabalhar os esportes como conteúdos torna-se um elemento de motivação a mais para os nossos alunos, e 2021 veio cheio de novidades e bons contextos para serem utilizados pelos professores. Mas essa discussão começou muito antes dessa olimpíada, pois em um cenário de pandemia, foi preciso que atletas do mundo inteiro adequassem treinamentos e rotinas para minimizar o impacto que as restrições sanitárias impuseram a todos. No Brasil, várias ações foram necessárias e o Comitê Olímpico Brasileiro ajudou orientando nossos atletas.
 
 Acompanhando todas as modificações impostas às escolas e aos professores, a disciplina de Educação Física precisou de uma nova configuração, e muitas foram as experiências trocadas ao longo dos últimos 18 meses, como aulas remotas e práticas com distanciamento social, exigindo muita criatividade para possibilitar as vivências esportivas, e dentro desse contexto, podemos trazer para a sala de aula algumas das lições aprendidas com a Olimpíada de Tóquio 2021.
@@ -37,7 +36,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ### Mato Grosso, com queda de 4,4%, teve o recuo mais intenso.
 
-A produção industrial registrou alta em 11 dos 15 locais analisados pela Pesquisa Industrial Mensal (PIM Regional) em fevereiro, quando o índice nacional apresentou avanço de 0,7%, após recuo de 2,2% em janeiro devido, principalmente, a férias coletivas, muito comuns para esse período do ano. O levantamento foi divulgado hoje (8), no Rio de Janeiro,  pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
+A produção industrial registrou alta em 11 dos 15 locais analisados pela Pesquisa Industrial Mensal (PIM Regional) em fevereiro, quando o índice nacional apresentou avanço de 0,7%, após recuo de 2,2% em janeiro devido, principalmente, a férias coletivas, muito comuns para esse período do ano. O levantamento foi divulgado hoje (8), no Rio de Janeiro, pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
 
 Os principais destaques em fevereiro foram Pará (23,9%) e Pernambuco (10,2%). Amazonas (7,8%), Minas Gerais (7,3%), Ceará (6,0%), Região Nordeste (5,1%), Bahia (3,4%), Goiás (1,4%), Paraná (1,3%), Santa Catarina (1,1%) e São Paulo (1,1%) completaram o conjunto de locais com índices positivos no mês. Já Mato Grosso, com queda de 4,4%, teve o recuo mais intenso.
 
-Segundo  o analista da pesquisa, Bernardo Almeida, o Pará se destacou principalmente pelo desempenho positivo do setor extrativo. “Trata-se de um movimento compensatório em relação ao mês anterior, uma vez que em janeiro houve grande volume de chuvas impactando a produção e o escoamento do minério de ferro. Esse crescimento do Pará é o mais intenso desde abril de 2019, quando chegou a 54,8% de alta. O estado vem de dois meses de resultados negativos com uma perda acumulada de 17,6%, agora eliminada com o crescimento de fevereiro” explicou.
+Segundo o analista da pesquisa, Bernardo Almeida, o Pará se destacou principalmente pelo desempenho positivo do setor extrativo. “Trata-se de um movimento compensatório em relação ao mês anterior, uma vez que em janeiro houve grande volume de chuvas impactando a produção e o escoamento do minério de ferro. Esse crescimento do Pará é o mais intenso desde abril de 2019, quando chegou a 54,8% de alta. O estado vem de dois meses de resultados negativos com uma perda acumulada de 17,6%, agora eliminada com o crescimento de fevereiro” explicou.
 
 ### Alimentos e transporte
 
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

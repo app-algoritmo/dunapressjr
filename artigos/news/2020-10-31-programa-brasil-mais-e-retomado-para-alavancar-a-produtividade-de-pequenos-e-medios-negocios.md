@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## A expectativa é atender 120 mil empresas até 2022 com capacitação gerencial.
 
 As ações do programa Brasil Mais foram retomadas no mês de outubro para impulsionar a produtividade e a competitividade das empresas brasileiras em um cenário de transformação digital. Lançado em fevereiro deste ano, pelo Ministério da Economia e parceiros, o programa teve uma pausa em função da Covid-19.
@@ -38,5 +37,3 @@ Na plataforma do Brasil Mais, cuja gestão operacional é da ABDI, as empresas e
 Fonte: gov.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Trabalho da Universidade Federal de São Carlos deve anunciar uma terceira patente em poucos dias.
 
 Cientistas da Universidade Federal de São Carlos (UFSCar)  produziram e patentearam dois novos métodos para detecção do vírus da COVID-19. A pesquisa, financiada pela CAPES no [programa de Combate a Epidemias](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias), desenvolveu duas tecnologias especiais, que podem fazer testes rápidos e fáceis, apresentando resultados em cerca de uma hora. Organizado de modo interdisciplinar, o grupo reúne 26 pesquisadores da Física, Química, Biologia e Medicina.
@@ -34,7 +33,3 @@ Fonte: https://www.gov.br/capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

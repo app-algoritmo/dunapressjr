@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Superávit em transações correntes chegou a US$ 1,326 bilhão.
 
 As contas externas registraram saldo positivo pelo terceiro mês consecutivo, informou hoje (24) o Banco Central (BC). Em maio, o superávit em transações correntes, que são as compras e vendas de mercadorias e serviços e transferências de renda do Brasil com outros países, chegou a US$ 1,326 bilhão. Esse é o maior resultado para o mês, desde maio de 2017, quando houve superávit em transações correntes de US$ 2,471 bilhões. Em maio de 2019, houve déficit de US$ 1,385 bilhão.
@@ -60,4 +59,4 @@ Para o mês de junho, a expectativa do BC é que o país continue a registrar sa
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

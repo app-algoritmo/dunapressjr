@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 Com as festas comemorativas de fim de ano, muitas pessoas exageram na alimentação e acabam sofrendo com problemas digestivos. Uma solução natural para esses casos é o fitoterápico da Alcachofra, oferecido no Sistema Único de Saúde (SUS). No município de Toledo, Paraná, pacientes relatam que tiveram significativas melhoras de saúde após o uso do medicamento.
 
 Esse é o caso, por exemplo, da técnica de enfermagem, Letícia Fabiana Neves. Ela conta que o funcionamento do seu intestino sempre foi lento, levando-a a sentir incômodos e também dificultando a perda de peso que desejava. Por orientação de uma profissional de saúde começou a usar o fitoterápico da alcachofra há um mês e ficou surpreendida. “Notei que me sentia menos inchada ou com aquela sensação de sentir cheia ou pesada. Meu intestino começou a funcionar melhor. Acaba que tudo funciona bem, gera bem-estar”, explica.
@@ -33,7 +32,3 @@ Fonte: http://www.blog.saude.gov.br
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

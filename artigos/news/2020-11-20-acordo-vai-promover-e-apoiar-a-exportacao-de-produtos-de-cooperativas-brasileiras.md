@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Uma parceria para promover o intercâmbio de informações e apoiar as cooperativas brasileiras na exportação de seus produtos. A Agência Brasileira de Promoção de Exportações e Investimentos (APEX-Brasil) e a Organização das Cooperativas Brasileiras (OCB) assinaram, nesta quinta-feira (19), um acordo de cooperação técnica que prevê uma série de ações para ajudar cooperativas de todos os estados brasileiros a entrarem no comércio internacional. Na prática, é uma iniciativa que quer colocar os produtos nacionais nas prateleiras do mercado internacional. Ou seja, levar as nossas cooperativas para além das fronteiras.
 
 Entre as medidas previstas no acordo estão: a qualificação de cooperativas, a realização de feiras e rodadas de negócios internacionais para promover os produtos brasileiros, em especial os relacionados à biodiversidade da Amazônia e do Cerrado; e desenvolvimento de estratégia de marketing para exportação e participação dessas empresas em projetos setoriais.
@@ -37,5 +36,3 @@ Fonte Gov.br
 Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

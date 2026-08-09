@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 De Navegantes (SC) para Gavião Peixoto (SP). Esse foi o primeiro voo em espaço brasileiro realizado pelo Gripen. A aeronave, produzida juntamente com a empresa sueca Saab, faz parte de uma parceria que prevê a construção de 36 caças. O primeiro Gripen chegou ao País no domingo (20) após ter sido transportado de navio da Suécia.
 A aeronave ficará no Centro de Ensaios em Voo do Gripen, na planta da Embraer, em São Paulo. A estrutura foi construída para a transferência de tecnologia, suporte e atualizações no ciclo de vida da plataforma na Força Aérea Brasileira (FAB).
 
@@ -44,5 +43,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

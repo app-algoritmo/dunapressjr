@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medida é essencial para viabilizar pagamento do Auxílio Brasil.
 
 O Congresso Nacional promulgou na tarde desta quarta-feira (8) parte da Proposta de Emenda à Constituição (PEC) 23/21, conhecida como PEC dos Precatórios. A cerimônia contou com a presença dos presidentes da Câmara, Arthur Lira, e do Senado, Rodrigo Pacheco.
@@ -38,10 +37,6 @@ Entre os pontos alterados pelo Senado estão: estabelecimento do direito a uma r
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

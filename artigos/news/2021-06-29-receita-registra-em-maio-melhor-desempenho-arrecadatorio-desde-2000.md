@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Arrecadação federal foi de R$ 142,106 bilhões.
 
 A Receita Federal arrecadou R$ 142,106 bilhões em impostos e contribuições federais em maio. Descontada a inflação, o valor representa um aumento real de 69,88% na comparação com maio de 2020. No acumulado do ano, a arrecadação alcançou o valor de R$ 744,828 bilhões, o que representa um acréscimo, pelo Índice de Preços ao Consumidor Amplo (IPCA), de 21,17%.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

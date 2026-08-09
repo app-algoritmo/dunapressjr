@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 No dia 28 de abril de 1865, há 156 anos, nasceu Vital Brazil Mineiro da Campanha. Médico e pesquisador, foi um dos fundadores e primeiro diretor do Instituto Butantan, pioneiro no estudo do tratamento de acidentes por envenenamento por cobra e um dos maiores sanitaristas que o Brasil já viu. O Butantan de hoje, com sua produção de vacinas, soros e pesquisas em medicamentos, vocação pela divulgação científica e inovação constante, é uma herança do legado desse grande sanitarista.
 
 Vital Brazil nasceu em Campanha, interior de Minas Gerais, e veio para São Paulo com a família em 1880, aos 15 anos. No Rio de Janeiro, cursou a Faculdade de Medicina, de 1886 a 1891, e depois voltou a São Paulo.
@@ -40,7 +39,3 @@ Fonte:
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

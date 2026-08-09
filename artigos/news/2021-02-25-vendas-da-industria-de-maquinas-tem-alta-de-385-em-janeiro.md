@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É o melhor resultado para um mês de janeiro desde 2015.
 
 As vendas da indústria brasileira de máquinas e equipamentos totalizaram no mês de janeiro R$ 12,5 bilhões, resultado 38,5% superior ao registrado no mesmo mês de 2020, e o melhor para um mês de janeiro desde 2015, quando o setor havia faturado R$ 13,2 bilhões. Os dados, divulgados nesta quarta-feira (24), são da Associação Brasileira da Indústria de Máquinas e Equipamentos (Abimaq).
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

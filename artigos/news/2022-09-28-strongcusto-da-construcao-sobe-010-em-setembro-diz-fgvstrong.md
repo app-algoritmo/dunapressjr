@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice acumula avanço de 8,91% em 2022.
 
 O Índice Nacional de Custo da Construção – M (INCC-M) subiu 0,10% em setembro. O resultado está abaixo do que foi registrado em agosto, quando subiu 0,33%. No ano, o índice acumula avanço de 8,91% e de 10,89% em 12 meses.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

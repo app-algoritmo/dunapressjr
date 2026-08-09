@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Governo montou conselho para avaliar e propor redução de benefícios.
 
 Um acórdão com o Tribunal de Contas da União (TCU) sobre o Fundo de Amparo ao Trabalhador (FAT) fez os subsídios da União subirem de 4,6% do Produto Interno Bruto (PIB, soma das riquezas produzidas no país) em 2018 para 4,8% do PIB em 2019. Os números constam de balanço divulgado desta terça-feira (14) pelo Ministério da Economia.
@@ -28,4 +27,4 @@ A partir de 2021, o Cmap encaminhará ao Congresso Nacional – até o dia 31 de
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

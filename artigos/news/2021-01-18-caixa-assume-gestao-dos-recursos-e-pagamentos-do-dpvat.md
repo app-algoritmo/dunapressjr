@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Não há nenhuma mudança nas regras de indenização.
 
 A Caixa Econômica Federal começa a receber hoje (18) as solicitações do Seguro de Danos Pessoais Causados por Veículos Automotores de Via Terrestre (Dpvat). Inicialmente, os pedidos de indenização deverão ser feitos nas agências da Caixa e, em breve, o banco também disponibilizará o aplicativo Caixa Dpvat, tornando as operações 100% digitais.
 
-A Caixa assumiu nesta segunda-feira (18) a gestão dos recursos e pagamentos do Dpvat, após contrato firmado na última sexta-feira (15) com a Superintendência de Seguros Privados (Susep), autarquia federal ligada ao Ministério da Economia que regula o mercado de seguros. 
+A Caixa assumiu nesta segunda-feira (18) a gestão dos recursos e pagamentos do Dpvat, após contrato firmado na última sexta-feira (15) com a Superintendência de Seguros Privados (Susep), autarquia federal ligada ao Ministério da Economia que regula o mercado de seguros.
 
 A Caixa receberá os avisos de sinistros ocorridos a partir do dia 1º de janeiro de 2021. Acidentes ocorridos até 31 de dezembro do ano passado, independentemente da data de aviso, permanecem sob responsabilidade da [**Seguradora Líder**](https://www.seguradoralider.com.br/Pages/Destaques-detalhe.aspx?l=Destaques&cid=144), até então gestora do seguro.
 
@@ -36,7 +35,7 @@ De acordo com a Susep, isto só foi possível porque há um excedente de recurso
 
 “Com certeza teremos recursos para todo ano. É uma redução financeira significativa para todos os contribuintes do país”, disse a superintendente da Susep, Solange Vieira. Segundo ela, ainda no primeiro semestre deste ano o governo deve encaminhar um projeto ao Congresso para discutir uma nova política para o Dpvat.
 
-## Confira a íntegra da transmissão: 
+## Confira a íntegra da transmissão:
 
 Fonte: Agência Brasil - Imagem de destaque: Marcelo Camargo/Agência Brasil
 
@@ -46,8 +45,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

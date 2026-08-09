@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Eletrobras, Correios e EBC podem ser desestatizadas.
 
 O [***Diário Oficial da União***](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=23/03/2021&jornal=515&pagina=32) traz, hoje (23), a publicação de três resoluções do Ministério da Economia que recomendam a inclusão da Eletrobras, dos Correios e da Empresa Brasil de Comunicação (EBC) no Programa Nacional de Desestatização (PND).
@@ -40,14 +39,10 @@ A segunda fase dos estudos será implementada ao longo deste ano e detalhará o 
 
 Em fevereiro, o governo também enviou ao Congresso um [**Projeto de Lei (PL)**](http://agenciabrasil.ebc.com.br/politica/noticia/2021-02/bolsonaro-entrega-camara-pl-que-permite-privatizacao-dos-correios) que possibilita a privatização dos Correios, com quebra do monopólio estatal e abertura do mercado postal à iniciativa privada. Chamado de Marco Regulatório para o setor postal, o texto também define a obrigatoriedade do cumprimento de metas de universalização e qualidade dos serviços e estabelece a criação da Agência Nacional de Comunicações, em substituição à atual Agência Nacional de Telecomunicações (Anatel), que passará também a regular os serviços postais.
 
-A [**privatização dos Correios**](http://agenciabrasil.ebc.com.br/geral/noticia/2018-03/mesmo-com-decisao-do-tst-governo-nao-descarta-privatizacao-dos-correios) vem sendo discutida há anos no âmbito do governo federal e é motivo de [**protestos**](http://agenciabrasil.ebc.com.br/geral/noticia/2020-08/parte-dos-trabalhadores-dos-correios-faz-greve-por-tempo-indeterminado) de funcionários da estatal. 
+A [**privatização dos Correios**](http://agenciabrasil.ebc.com.br/geral/noticia/2018-03/mesmo-com-decisao-do-tst-governo-nao-descarta-privatizacao-dos-correios) vem sendo discutida há anos no âmbito do governo federal e é motivo de [**protestos**](http://agenciabrasil.ebc.com.br/geral/noticia/2020-08/parte-dos-trabalhadores-dos-correios-faz-greve-por-tempo-indeterminado) de funcionários da estatal.
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)  
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

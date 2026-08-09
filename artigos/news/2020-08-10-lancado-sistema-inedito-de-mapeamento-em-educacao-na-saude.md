@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A ferramenta, que vai estar interligada a cinco banco de dados, permitirá melhoria da qualidade da formação de profissionais da área, além de identificar demandas para cursos da área.
 
 O Ministério da Saúde lançou, nesta quinta-feira (6), o Sistema de Mapeamento em Educação na Saúde (SIMAPES). A ferramenta é inédita e vai permitir a coleta, análise e disponibilização de informações sobre educação em saúde no Brasil. A partir de cinco bancos de dados será possível adotar melhores práticas educacionais, atingindo parâmetros internacionais de qualidade.
@@ -30,7 +29,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

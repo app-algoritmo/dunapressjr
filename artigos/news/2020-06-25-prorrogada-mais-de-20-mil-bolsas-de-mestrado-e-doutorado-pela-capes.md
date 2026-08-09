@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Portaria permite que programas de pós-graduação estendam por até três meses bolsas de mestrado e doutorado devido à pandemia.
 
 Prestes a concluir seu doutorado, Heloísa Storchilo, bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), teve dificuldade com sua pesquisa por causa do novo vírus corona. A prorrogação por até três meses concedida pela CAPES, garantiu à Heloísa e a outros 20.808 pesquisadores mais tempo para finalizar seus trabalhos.
@@ -37,7 +36,7 @@ Fonte: gov.br/mec - Capes / Imagem em destaque: oregional.com
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

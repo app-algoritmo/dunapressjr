@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Uma nova pesquisa sugere que mesmo pessoas com casos leves de COVID desenvolvem imunidade duradoura ao coronavírus - apesar do declínio nos anticorpos.
 
 Pacientes que se recuperaram de infecções por COVID-19 provavelmente desenvolveram imunidade de longo prazo contra o vírus que poderia durar por toda a vida, mostra um novo estudo - mesmo que a infecção fosse apenas leve.
@@ -54,7 +53,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

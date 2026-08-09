@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Ministro diz que proposta amplia base e redistribui carga de tributos.
 
 O ministro da Economia, Paulo Guedes, disse hoje (29) que, com uma base ampla de tributação – com mais pessoas e empresas pagando tributos –, é possível reduzir e até extinguir impostos. Guedes esteve hoje em reunião com o relator da reforma tributária no Congresso, deputado Aguinaldo Ribeiro (PP-PB) para discutir o [**texto enviado pelo governo ao Parlamento**](http://https/agenciabrasil.ebc.com.br/politica/noticia/2020-07/guedes-entrega-proposta-de-reforma-tributaria-ao-congresso).
@@ -34,4 +33,4 @@ O ministro da Economia voltou a dizer que tem a reforma administrativa pronta, e
 
 Fonte: Agência Brasil – Imagem de destaque: Marcos Corrêa/PR
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Gastos discricionários poderão ser aumentados em R$ 4,57 bi.
 
 A recuperação da economia e o crescimento da arrecadação fizeram a equipe econômica reduzir de R$ 139,4 bilhões para R$ 95,8 bilhões a previsão de déficit primário para 2021. A estimativa consta do Relatório Bimestral de Avaliação de Receitas, divulgado nesta segunda-feira (22) pelo Ministério da Economia.
@@ -40,14 +39,10 @@ Esses gastos foram parcialmente compensados pela alta nas despesas obrigatórias
 
 Em relação à Dívida Bruta do Governo Geral (DBGG), principal indicador usado para comparar o endividamento dos países, o relatório estima que União, estados, municípios e estatais terminarão 2021 devendo 81,7% do PIB. Caso a Proposta de Emenda à Constituição (PEC) dos Precatórios seja aprovada, o percentual subirá para 81,9%.
 
-Além das estimativas para o Orçamento deste ano, a equipe econômica apresentou projeções para 2022. A DBGG deverá encerrar o próximo ano em 80,5% do PIB, caso a PEC dos Precatórios não seja aprovada, e em 81,7% do PIB, caso a proposta passe no Congresso. Em relação do déficit primário, o resultado negativo cairá de 1,1% em 2021 para 0,5% em 2022. Se a PEC for aprovada, subirá para 1,5% no próximo ano. 
+Além das estimativas para o Orçamento deste ano, a equipe econômica apresentou projeções para 2022. A DBGG deverá encerrar o próximo ano em 80,5% do PIB, caso a PEC dos Precatórios não seja aprovada, e em 81,7% do PIB, caso a proposta passe no Congresso. Em relação do déficit primário, o resultado negativo cairá de 1,1% em 2021 para 0,5% em 2022. Se a PEC for aprovada, subirá para 1,5% no próximo ano.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

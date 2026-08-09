@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Governo do Estado vai investir mais R$ 3 milhões, com recursos da Assembleia Legislativa do Estado de Santa Catarina (Alesc), em ações para amenizar os prejuízos causados pela estiagem em Santa Catarina. O recurso será usado na aquisição de reservatórios e no transporte de água para as localidades mais atingidas. A medida foi tomada durante reunião dos chefes da Casa Civil, Ricardo Miranda Aversa, e da Defesa Civil, Aldo Baptista Neto, com o presidente da Assembleia Legislativa de Santa Catarina (Alesc), Júlio Garcia, e com o deputado estadual Onir Mocellin na tarde desta segunda-feira, 16.
 
 “Com o advento da estiagem, novas prioridades surgiram no atendimento emergencial à população. Com isso, o Governo de SC propôs à Alesc uma reorganização financeira de recursos já repassados anteriormente para que possamos aplicar cerca de R$ 3 milhões no combate a esse grave problema”, afirmou o chefe da Casa Civil.
@@ -34,5 +33,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

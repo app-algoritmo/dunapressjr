@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Bolsa resistiu a pressões externas e subiu 0,29%.
 
 Apesar do agravamento das tensões entre Rússia e Ucrânia, o dólar não sentiu as tensões no mercado externo e caiu para o menor valor em cinco meses. A bolsa de valores também resistiu à baixa nos índices europeus e norte-americanos e fechou em alta pela quinta sessão consecutiva.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

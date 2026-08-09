@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Marco Legal do Saneamento prevê universalização dos serviços até 2033.
 
 As companhias estaduais de saneamento eram as principais responsáveis pelo abastecimento de água por rede em 2017, sendo as executoras do serviço em 69,5% dos municípios brasileiros. As prefeituras, associações, autarquias municipais e empresas privadas executavam o serviço em 35,2%, 11,6%, 10,3%, e 3,6% das cidades, respectivamente.
@@ -26,7 +25,7 @@ Segundo o IBGE, como instrumento econômico de política social para garantir a 
 
 Nas cidades do Norte, para ambos os serviços, esse instrumento de política social existia em menos de 40% das localidades onde havia cobrança de tarifa ou taxa. Os maiores percentuais foram observados no Nordeste, onde havia subsídio a usuários do serviço de abastecimento de água em 79,2% dos municípios com cobrança; e no Sul, onde essa proporção era de 79,3% dos municípios para o serviço de esgotamento sanitário.
 
-Segundo a pesquisa, os critérios mais comuns para concessão de subsídios foram inscrição em programas sociais (69,6% dos municípios com subsídio para o abastecimento de água e 52,8% para o esgotamento sanitário), características do imóvel (63,2% para água e 68,5% para esgoto) e rendimento do usuário ou de sua família (56,8% para água e 63% para esgoto). 
+Segundo a pesquisa, os critérios mais comuns para concessão de subsídios foram inscrição em programas sociais (69,6% dos municípios com subsídio para o abastecimento de água e 52,8% para o esgotamento sanitário), características do imóvel (63,2% para água e 68,5% para esgoto) e rendimento do usuário ou de sua família (56,8% para água e 63% para esgoto).
 
 No país, cerca de 2,8 milhões de unidades domiciliares atendidas pelos serviços recebiam subsídios na cobrança da taxa ou tarifa de abastecimento de água e 1,5 milhão na cobrança da coleta de esgoto.
 
@@ -46,4 +45,4 @@ Em 2017, apenas 28,4% (1.575) dos 5.544 municípios com rede de abastecimento de
 
 **Fonte: Agência Brasil – Imagem de destaque: Arquivo/Agência Brasil**
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

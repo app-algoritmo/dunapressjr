@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Acumulado em 12 meses é de 11,40%.
 
 Em agosto, o Índice Nacional de Custo da Construção-M (Incc-M) desacelerou em relação a julho e subiu 0,33%. No mês anterior, o índice teve taxa de 1,16%. Com isso, o índice acumula alta de 8,80% no ano e 11,40% em 12 meses.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

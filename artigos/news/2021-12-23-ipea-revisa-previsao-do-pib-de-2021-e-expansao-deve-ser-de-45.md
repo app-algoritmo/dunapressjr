@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Estimativa para 2022 caiu de 1,8% para 1,1%.
 
 A projeção para o crescimento do Produto Interno Bruto (PIB), a soma de todas as riquezas produzidas no país, foi revista para baixo pelo Instituto de Pesquisa Econômica Aplicada (Ipea). Os dados divulgados nesta quarta-feira (22) passam a estimativa de PIB de 4,8%, no trimestre terminado em setembro, para 4,5%. Em 2020, o PIB do Brasil caiu 4,1%.
@@ -38,10 +37,6 @@ Para o próximo ano, as projeções do Ipea foram mantidas em 4,9% para o IPCA e
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

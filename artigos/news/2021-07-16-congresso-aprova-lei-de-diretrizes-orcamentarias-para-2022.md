@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Congresso Nacional aprovou nesta quinta-feira (15) o substitutivo do deputado Juscelino Filho (DEM-MA), relator da Lei de Diretrizes Orçamentárias (LDO) para 2022. O texto foi analisado pelos deputados e, em seguida, seguiu para votação no Senado. Mais cedo, ainda pela manhã, havia sido[ aprovado](http://agenciabrasil.ebc.com.br/politica/noticia/2021-07/ldo-de-2022-preve-aumento-do-fundo-eleitoral-para-quase-r-6-bilhoes) pela Comissão Mista do Orçamento (CMO). Agora, segue para sanção presidencial.
 
 O texto aprovado traz a previsão do salário mínimo de R$ 1.147 em 2022. Atualmente, ele é de R$ 1.100. Já a estimativa do Produto Interno Bruto (PIB) para o ano que vem ficou em 2,5% e taxa básica de juros média em 4,7%. No entanto, na visão do relator, Juscelino Filho, a estimativa é conservadora e existe a possibilidade de os números serem mais otimistas, a depender do crescimento da economia.
@@ -42,14 +41,10 @@ O relator manteve o déficit primário de R$ 170,47 bilhões para o ano que vem 
 
 A [**Lei de Diretrizes Orçamentárias**](http://agenciabrasil.ebc.com.br/economia/noticia/2021-01/agencia-brasil-explica-o-que-e-ldo?amp) indica as políticas públicas e respectivas prioridades para o exercício seguinte, no caso 2022. Ela define as metas e prioridades da administração pública federal, incluindo as despesas para o exercício subsequente, orientando a elaboração da Lei Orçamentária Anual (LOA) do ano seguinte. O Poder Executivo envia ao Congresso Nacional, que deve discuti-lo e votá-lo.
 
-Entre as definições estão a meta fiscal, os programas prioritários e o salário mínimo. Além disso, o texto pode autorizar o aumento das despesas com pessoal, regulamentar as transferências a entes públicos e privados, disciplinar o equilíbrio entre as receitas e as despesas e indicar prioridades para os financiamentos pelos bancos públicos, entre outras. 
+Entre as definições estão a meta fiscal, os programas prioritários e o salário mínimo. Além disso, o texto pode autorizar o aumento das despesas com pessoal, regulamentar as transferências a entes públicos e privados, disciplinar o equilíbrio entre as receitas e as despesas e indicar prioridades para os financiamentos pelos bancos públicos, entre outras.
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

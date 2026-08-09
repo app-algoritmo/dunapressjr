@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ### Atualmente, limite máximo de venda de espaço era de 25%.
 
-O presidente Jair Bolsonaro sancionou nesta terça-feira (12) um projeto de lei (PL) que permite a uma emissora de televisão ou rádio ceder todo o seu tempo de programação para exibição de programas produzidos de forma independente. A matéria [**havia sido aprovada no Congresso Nacional**](https://agenciabrasil.ebc.com.br/politica/noticia/2022-06/senado-aprova-emissoras-de-radio-e-tv-cederem-toda-sua-programacao) no fim de junho. 
+O presidente Jair Bolsonaro sancionou nesta terça-feira (12) um projeto de lei (PL) que permite a uma emissora de televisão ou rádio ceder todo o seu tempo de programação para exibição de programas produzidos de forma independente. A matéria [**havia sido aprovada no Congresso Nacional**](https://agenciabrasil.ebc.com.br/politica/noticia/2022-06/senado-aprova-emissoras-de-radio-e-tv-cederem-toda-sua-programacao) no fim de junho.
 
 Atualmente, uma emissora pode ceder 25% de sua programação. Pelo texto, que agora entrará em vigor, essa porcentagem vira um limite para veiculação de publicidade. O projeto prevê que, mesmo com cessão total de programação, ela deve ter finalidades educativas e culturais.
 
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

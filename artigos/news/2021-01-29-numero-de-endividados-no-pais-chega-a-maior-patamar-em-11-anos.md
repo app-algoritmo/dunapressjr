@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## As famílias inadimplentes chegaram a 25,5% no ano passado.
 
 O percentual de endividados no país fechou 2020 em 66,5%, segundo estudo da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC). É o maior patamar de endividamento familiar em 11 anos. Em 2019, por exemplo, os endividados eram 63,6% das famílias brasileiras.
@@ -24,8 +23,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

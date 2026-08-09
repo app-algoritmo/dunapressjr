@@ -7,7 +7,6 @@ categories:
 - Covid-19
 ---
 
-
 ## Sherri Tenpenny foi uma das primeiras médicas a alertar sobre a “vacina” CV19 e as mortes e incapacidades que resultariam do seu uso generalizado durante a chamada pandemia de Covid. 
 
 O número crescente de mortes em massa e deficiências provou que ela estava certa. Tenpenny há muito se opõe ao uso de todas as vacinas, pois os dados mostram que elas causam muito dano e poucos benefícios. Drs Tenpenny diz: "Quando falei sobre as vacinas, era natural para mim olhar para a vacina Covid e realmente não deveria chamá-la de vacina porque é uma arma biológica. . .. Encontrei 40 mecanismos de lesão em julho de 2021 e como a vacinação contra a Covid pode te deixar doente ou te matar. . .. Tentei alertar as pessoas desde o início... O motivo por que eles soltam o pedal do acelerador é o suficiente para que as pessoas sejam injetadas para morrer. Essa era a intenção. É sobre controle populacional ou despovoamento. . .. Nunca teve a intenção de fazer bem às pessoas ... Não houve estudos de longo prazo e nós o aplicamos a todas as faixas etárias até o feto. . .. . Quero dizer, esta é uma campanha de assassinato.
@@ -18,6 +17,6 @@ Dra Tenpenny diz que, à medida que as mortes e incapacidades decorrentes da in
 
 Dra Tenpenny também tem boas notícias, oferecendo algumas maneiras para os vacinados e não vacinados se desintoxicarem dessa arma biológica/vax CV19 maligna.
 
-[Entrevista em inglês](https://rumble.com/v2noqni-cv19-vax-is-a-murder-campaign-dr.-sherri-tenpenny.html) [](https://uncutnews.ch/grippeimpfstoff-stoppt-krankenhausaufenthalte-und-todesfaelle-nicht/)
+[Entrevista em inglês](https://rumble.com/v2noqni-cv19-vax-is-a-murder-campaign-dr.-sherri-tenpenny.html)
 
 Fonte: [Uncut-News](https://uncutnews.ch/die-covid-injektion-ist-eine-moerderkampagne-dr-sherri-tenpenny/)

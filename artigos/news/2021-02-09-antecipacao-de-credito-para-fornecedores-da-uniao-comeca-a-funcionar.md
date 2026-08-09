@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Segundo governo, programa pode adiantar R$ 45 bi na economia.
 
 A partir de desta segunda-feira (8), os fornecedores com contratos ativos com a Administração Pública Federal podem pedir o adiantamento de até 70% do que têm direito a receber. Entrou em vigor o [**AntecipaGov**](https://www.gov.br/antecipagov), programa de antecipação dos recebíveis do governo federal.
@@ -32,8 +31,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

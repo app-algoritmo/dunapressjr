@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Com a expansão, chega a 24 o número de unidades da federação beneficiadas com a iniciativa.
 
 Mais sete estados implementaram o Balcão Único, solução tecnológica lançada pelo Governo Federal, que permite a qualquer cidadão abrir uma empresa de forma rápida, simplificada e automática, sem sair de casa e sem burocracias, por meio de um formulário digital. A expansão foi anunciada nesta quarta-feira (13) pela Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia, que lidera a iniciativa, e parceiros.
@@ -41,8 +40,4 @@ Fonte: gov.br
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

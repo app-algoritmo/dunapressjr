@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alíquota tinha sido reduzida no início da pandemia.
 
 Até abril do próximo ano, os clientes de bancos terão à disposição mais recursos para pegar emprestado no sistema financeiro. O Banco Central (BC) oficializou a prorrogação da alíquota reduzida de 17% para os depósitos compulsórios a prazo.
@@ -27,5 +26,3 @@ Em fevereiro, o BC tinha diminuído o compulsório sobre depósitos a prazo de 3
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

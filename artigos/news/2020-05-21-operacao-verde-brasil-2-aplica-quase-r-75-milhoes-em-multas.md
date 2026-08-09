@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Apenas na área de atuação do Comando Conjunto Príncipe da Beira, que engloba os estados do Acre, Amazonas e Rondônia foram expedidas multas e termos de infração que somam quase R$ 7,5 milhões. O valor é resultado de ações da Operação Verde Brasil 2, que coíbe delitos ambientais na Amazônia Legal. Nessas ações, militares das Forças Armadas atuam com agentes de órgãos de segurança e do meio ambiente.
 
 A repressão aos crimes na região apreende madeira extraída ilegalmente, equipamentos e veículos utilizados nas atividades ligadas ao desmatamento e, também, armas, munições e entorpecentes.
@@ -18,5 +17,3 @@ Da mesma forma, em Mato Grosso, o Comando Conjunto Barão de Melgaço realiza pa
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

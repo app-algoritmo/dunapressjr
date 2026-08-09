@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Após se reunir com representantes da Federação Catarinense de Municípios (Fecam), o governador Carlos Moisés decidiu nesta quarta-feira, 2, adotar novas medidas restritivas para enfrentamento da pandemia de Covid-19 em Santa Catarina. Em comum acordo com os prefeitos das 21 maiores cidades do Estado, optou-se pela implementação de um toque de recolher durante a madrugada e pela manutenção do transporte coletivo, desde que seja respeitada uma ocupação máxima de 70% da capacidade dos ônibus. As medidas valerão para todo o Estado por um período de 15 dias a partir edição do decreto, que deverá ser publicado em até 48 horas.
 
 Também será tornado obrigatório o uso da máscara em todos os ambientes, com exceção dos espaços domiciliares. Segundo o governador, as medidas têm o objetivo de frear o avanço da doença ao mesmo em que mantêm as atividades econômicas do Estado em funcionamento. Medidas semelhantes foram adotadas nos estados do Paraná e do Rio Grande do Sul. Em relação ao comércio, prefeitos e Governo do Estado deliberaram pela possibilidade de ampliação dos horários de atendimento no fim de ano, para não promover aglomerações.
@@ -45,7 +44,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

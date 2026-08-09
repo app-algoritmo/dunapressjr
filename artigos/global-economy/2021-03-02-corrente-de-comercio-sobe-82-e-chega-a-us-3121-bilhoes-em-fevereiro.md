@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Balança tem superávit de US$ 1,15 bilhão no mês, com US$ 16,18 bilhões de exportações e US$ 15,03 bilhões em importações.
 
 O Brasil registrou uma corrente de comércio de US$ 31,21 bilhões em fevereiro, com aumento de 8,2% pela média diária, em relação ao mesmo mês do ano passado. As exportações cresceram 3,9% e somaram US$ 16,18 bilhões, enquanto as importações subiram 13,4% e totalizaram US$ 15,03 bilhões. Assim, a balança comercial registrou superávit de US$ 1,15 bilhão, com diminuição de 50,4%. Os dados foram divulgados nesta segunda-feira (1º/3) pela Secretaria de Comércio Exterior (Secex) do Ministério da Economia.
@@ -50,8 +49,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Recursos estão disponíveis a partir desta segunda-feira, dia 6. O total repassado neste ano já chega a R$ 2,3 bilhões.
 
 Municípios, estados e o Distrito Federal já podem utilizar os recursos da sexta parcela de 2020 do Programa Nacional de Alimentação Escolar (Pnae). No total, o Fundo Nacional de Desenvolvimento da Educação (FNDE) repassou R$ 400 milhões para municípios e estados de todo o Brasil. Os valores estão disponíveis desde segunda-feira, dia 6, na contas correntes dos entes federativos.
@@ -33,7 +32,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

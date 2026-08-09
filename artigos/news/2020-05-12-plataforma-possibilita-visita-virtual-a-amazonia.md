@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Enquanto as viagens aos destinos turísticos brasileiros seguem alteradas devido à pandemia do novo coronavírus, o Google disponibilizou uma amostra para quem tem saudades ou ainda não conhece a Região Amazônica e arredores. Por meio da plataforma “Street View”, os internautas podem observar imagens em 360º dos rios, da floresta e das comunidades na Reserva do Rio Negro, situada entre os municípios de Manacapuru, Iranduba e Novo Airão, no estado do Amazonas. O projeto contou com a participação da Fundação Amazonas Sustentável (FAS), uma organização sem fins lucrativos de conservação local.
 
 Todas as imagens foram feitas por uma câmera com lente olho-de-peixe, colocada em um triciclo capturando todas as belezas de uma trilha da Floresta Amazônica e de cinco comunidades ribeirinhas local. Além disso, o equipamento ainda foi colocado em um barco com o intuito de coletar as vistas para o Rio Negro, o mais extenso rio de água negra do mundo. 
@@ -27,6 +26,6 @@ Em uma época em que notícias falsas e distorcidas estão em todas partes, seu 
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
-[ASSINE O PRESS PERIÓDICO](http://Ajude-nos%20a%20levar%20o%20jornalismo%20independente%20a%20todas%20as%20partes!%20%20Graças%20ao%20apoio%20de%20leitores%20como%20você,%20é%20possível%20realizar%20um%20excelente%20trabalho%20jornalístico%20de%20pesquisa%20e%20investigação,%20oferecendo%20um%20serviço%20sério%20de%20alta%20qualidade%20com%20imprensa%20livre%20e%20jornalismo%20independente.%20%20Em%20uma%20época%20em%20que%20notícias%20falsas%20e%20distorcidas%20estão%20em%20todas%20partes,%20seu%20apoio%20é%20vital%20para%20o%20bom%20desenvolvimento%20da%20informação.%20%20Entre%20no%20link%20abaixo%20e%20nos%20ajude%20a%20continuar%20o%20nosso%20trabalho%20com%20informações%20gerais%20que%20podem%20ser%20lidos%20por%20toda%20a%20família%20em%20uma%20abordagem%20que%20prima%20pela%20ética%20e%20pelo%20respeito%20ao%20leitor.%20%20ASSINE%20O%20PRESS %20%20 https:/dunapress.org/subscription-plan/?ref=joiceferreiradunapress)
+[ASSINE O PRESS PERIÓDICO](http://Ajude-nos%20a%20levar%20o%20jornalismo%20independente%20a%20todas%20as%20partes!%20%20Graças%20ao%20apoio%20de%20leitores%20como%20você,%20é%20possível%20realizar%20um%20excelente%20trabalho%20jornalístico%20de%20pesquisa%20e%20investigação,%20oferecendo%20um%20serviço%20sério%20de%20alta%20qualidade%20com%20imprensa%20livre%20e%20jornalismo%20independente.%20%20Em%20uma%20época%20em%20que%20notícias%20falsas%20e%20distorcidas%20estão%20em%20todas%20partes,%20seu%20apoio%20é%20vital%20para%20o%20bom%20desenvolvimento%20da%20informação.%20%20Entre%20no%20link%20abaixo%20e%20nos%20ajude%20a%20continuar%20o%20nosso%20trabalho%20com%20informações%20gerais%20que%20podem%20ser%20lidos%20por%20toda%20a%20família%20em%20uma%20abordagem%20que%20prima%20pela%20ética%20e%20pelo%20respeito%20ao%20leitor.%20%20ASSINE%20O%20PRESS %20%20 https:/dunapress.org/subscription-plan/)
 
-https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress
+https://dunapress.org/subscription-plan/

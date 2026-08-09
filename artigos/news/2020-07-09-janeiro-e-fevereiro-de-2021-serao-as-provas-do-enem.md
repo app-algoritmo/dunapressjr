@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Exame Nacional do Ensino Médio (Enem) 2020 será realizado nos dias 17 e 24 de janeiro de 2021 (versão impressa) e nos dias 31 de janeiro e 7 de fevereiro de 2021 (versão digital). As novas datas foram divulgadas pelo secretário-executivo do Ministério da Educação (MEC), Antonio Paulo Vogel, e o presidente do Inep, Alexandre Lopes, nesta quarta-feira, 8 de julho, em entrevista coletiva na sede do MEC, em Brasília, e por videoconferência.
 
 Antonio Paulo Vogel afirmou que as novas datas do Enem 2020 foram definidas após vários diálogos com as secretarias estaduais de Educação e entidades representativas das instituições de ensino superior públicas e privadas. “Diante do cenário atual, buscamos uma solução técnica e encontramos uma data que melhor se adeque para a maioria dos participantes do Enem”, explicou Vogel.
@@ -26,7 +25,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

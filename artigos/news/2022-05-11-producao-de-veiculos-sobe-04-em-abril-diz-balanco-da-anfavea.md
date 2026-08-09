@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Na comparação com abril do ano passado, houve recuo de 2,9%.
 
 A produção de veículos em abril ficou estável, com variação de 0,4%. No período foram produzidas 185,4 mil unidades, ante as 184,8 mil no mês de março. Na comparação com abril do ano passado, a produção indica queda de 2,9%, e no acumulado do ano o recuo chega a 13,6%.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

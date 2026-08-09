@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A vesícula é um órgão que se assemelha ao formato de uma bolsa, componente importante do sistema digestório humano. Exerce a função de reservar e concentrar a bile produzida pelo fígado a ser liberada no intestino delgado. A bile tem a função de emulsificar as gorduras dos alimentos a serem digeridos e ajudar na absorção de importantes nutrientes como as vitaminas A,D,E e K.
 
 O excesso de sais ou colesterol podem formar cálculos de vários tamanhos na bile e prejudicar a passagem no cano que é conectado no intestino. São essas pedras que não conseguem ser digeridas que ficando na vesícula e causam dor e mal-estar na região abdominal.
@@ -44,7 +43,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

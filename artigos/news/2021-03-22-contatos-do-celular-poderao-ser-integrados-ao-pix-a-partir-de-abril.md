@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resolução foi publicada hoje no Diário Oficial.
 
 A partir de 1º de abril, os usuários do Pix poderão integrar as listas de contato de seus celulares à ferramenta. A mudança no regulamento foi anunciada na semana passada pelo Banco Central (BC) e publicada hoje (22), em resolução, no [***Diário Oficial da União***](https://www.in.gov.br/en/web/dou/-/resolucao-bcb-n-79-de-18-de-marco-de-2021-309562226). Segundo o BC, objetivo é facilitar a identificação de quem cadastrou seu número de celular como chave Pix, simplificando ainda mais o pagamento com a funcionalidade.
@@ -30,10 +29,6 @@ Além disso, houve mudança no [**Regulamento do Pix**](https://www.bcb.gov.br/e
 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.    
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

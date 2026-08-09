@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Prazo para envio da declaração vai até 30 de abril.
 
 A Receita Federal está recebendo desde o início de março a Declaração de Imposto de Renda da Pessoa Física de 2021. O prazo para entrega do documento vai até 30 de abril. Deve enviar a declaração todo contribuinte que recebeu, no ano-calendário 2020, rendimentos tributáveis no valor acima de R$ 28.559,70, entre outras situações.
@@ -65,8 +64,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

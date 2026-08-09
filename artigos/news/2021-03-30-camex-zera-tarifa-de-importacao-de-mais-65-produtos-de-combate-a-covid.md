@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medida inclui equipamentos usados no tratamento de pacientes.
 
 Mais 65 produtos usados no combate à covid-19 tiveram o Imposto de Importação zerado temporariamente, anunciou na noite desta segunda-feira (29) o Comitê Executivo de Gestão (Gecex) da Câmara de Comércio Exterior (Camex) do Ministério da Economia. Com a decisão, o número de produtos com isenção tarifária relacionados ao enfrentamento da pandemia subiu para 628.
@@ -22,10 +21,6 @@ A lista de equipamentos médicos foi elaborada pela Secretaria de Advocacia da C
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 O Tribunal de Contas do Estado da Paraíba (TCE-PB) instaurou um novo procedimento de Inspeção Especial de Acompanhamento de Gestão (sob o número de processo 10409/20), para apurar as circunstâncias de dois contratos firmados pela Secretaria de Estado da Saúde, referente à aquisição, por meio do Consórcio Nordeste, de 105 ventiladores pulmonares, a um custo de 12,5 milhões, com dispensa de licitação, para atendimento de pacientes em estado grave infectados pela Covid-19, que não chegaram a ser entregues pelos fornecedores.
 
-O processo está em fase de notificação ao governador do Estado, João Azevedo e ao Secretário de Estado da Saúde, Geraldo Antônio de Medeiros, conforme despacho do relator, conselheiro André Carlo Torres Pontes, recomendando providências sobre várias constatações da auditoria e facultando apresentação de defesa. “Momento que deve ser informada destinação dos 70 respiradores pulmonares anunciados como recebidos do Governo Federal”, determina.    
+O processo está em fase de notificação ao governador do Estado, João Azevedo e ao Secretário de Estado da Saúde, Geraldo Antônio de Medeiros, conforme despacho do relator, conselheiro André Carlo Torres Pontes, recomendando providências sobre várias constatações da auditoria e facultando apresentação de defesa. “Momento que deve ser informada destinação dos 70 respiradores pulmonares anunciados como recebidos do Governo Federal”, determina.
 
 Em seu despacho, nesta quinta-feira (04), o relator do processo determinou, à secretaria do Tribunal Pleno, o envio de ofício à Superintendência Regional da Polícia Federal, ao Ministério Público Federal, a Controladoria Geral da União,  ao Tribunal de Contas da União, ao Ministério Público do Estado da Paraíba e ao Secretário da Fazenda Estadual, informando sobre o teor da Inspeção Especial, reforçando as informações já encaminhadas anteriormente sobre aquisição dos respiradores/ventiladores pelo o Estado da Paraíba.
 
@@ -34,7 +33,7 @@ O valor reservado à Paraíba referente aos 75 equipamentos, conforme informaç�
 
 Conforme entendimento do Órgão Técnico, o montante deve ser ressarcido imediatamente ao erário estadual, já que não há comprovação da despesa (não existe nos autos contrato firmado entre o Consórcio Nordeste e a suposta empresa fornecedora dos equipamentos), também não foram apresentados pagamentos advindos do Consórcio em favor da referida fornecedora, e não há indício da entrega dos 75 ventiladores pulmonares.
 
-O Consórcio Nordeste é um convênio entre os estados do Nordeste, criado em março deste ano, com vistas à realização de aquisições centralizadas ou compartilhadas de bens e serviços, para a promoção, prevenção e à garantia de assistência à saúde para as pessoas em decorrência da pandemia de Covid - 19. 
+O Consórcio Nordeste é um convênio entre os estados do Nordeste, criado em março deste ano, com vistas à realização de aquisições centralizadas ou compartilhadas de bens e serviços, para a promoção, prevenção e à garantia de assistência à saúde para as pessoas em decorrência da pandemia de Covid - 19.
 
 Os autos do processo 10.409/20, inclusive o Relatório Inicial, podem ser consultados na íntegra por meio do Sistema de Tramitação de Processos e Documentos do TCE-PB (TRAMITA). O acesso pode ser feito no endereço eletrônico do Tribunal, em [www.tce.pb.gov.br](http://www.tce.pb.gov.br/) , por meio do processos (n°  10409/20).
 
@@ -43,5 +42,3 @@ Fonte: TCE-PB - imagem de destaque: Reuters/Kai Pfaffenbach/Direitos Reservados
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

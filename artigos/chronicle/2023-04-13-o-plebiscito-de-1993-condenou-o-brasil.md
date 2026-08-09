@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 [O Plebiscito de 1993](https://dunapress.org/2023/04/09/plebiscito-de-1993-ha-30-anos-brasil-foi-as-urnas-decidir-se-teria-rei-e-primeiro-ministro/) foi um evento histórico na política brasileira que decidiu o tipo de regime político que seria adotado no país. O plebiscito foi realizado em 21 de abril de 1993 e perguntou aos eleitores se eles preferiam um regime presidencialista ou parlamentarista.
 
 ## O resultado do plebiscito foi favorável ao regime presidencialista, com 66,5% dos votos válidos
@@ -33,4 +32,4 @@ Em resumo, o Plebiscito de 1993 teve como consequência negativa a escolha pelo 
 
 ## Ver também: [Plebiscito de 1993: Há 30 anos, Brasil foi às urnas decidir se teria rei e primeiro-ministro](https://dunapress.org/2023/04/09/plebiscito-de-1993-ha-30-anos-brasil-foi-as-urnas-decidir-se-teria-rei-e-primeiro-ministro/)
 
-[](https://dunapress.org/2023/04/09/plebiscito-de-1993-ha-30-anos-brasil-foi-as-urnas-decidir-se-teria-rei-e-primeiro-ministro/)D Beltrand de Orleans e Bragança acompanhado por familias - Imagem @Trendsmap
+D Beltrand de Orleans e Bragança acompanhado por familias - Imagem @Trendsmap

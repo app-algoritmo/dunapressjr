@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No acumulado em 12 meses, o indicador ficou positivo em 1,07%.
 
 A atividade econômica brasileira registrou queda em maio deste ano, de acordo com dados divulgados hoje (14) pelo Banco Central (BC). Até fevereiro, o Índice de Atividade Econômica do Banco Central (IBC-Br) vinha apresentando crescimento após os choques sofridos em março e abril do ano passado, em razão das medidas de isolamento social necessárias para o enfrentamento da pandemia de covid-19. Nos últimos três meses, já houve variações, com recuos em março e maio.
@@ -22,10 +21,6 @@ Em 2020, o PIB do Brasil caiu 4,1%, totalizando R$ 7,4 trilhões. Foi a maior qu
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

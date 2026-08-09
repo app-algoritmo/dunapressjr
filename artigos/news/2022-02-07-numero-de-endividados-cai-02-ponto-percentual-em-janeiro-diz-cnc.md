@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Na comparação anual, no entanto, o indicador subiu 9,6 pp.
 
 O total de endividados no país recuou 0,2 ponto percentual (pp) em janeiro em relação ao mês anterior e ficou em 76,1%. Na comparação anual, no entanto, o indicador subiu 9,6 pp.
@@ -50,8 +49,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

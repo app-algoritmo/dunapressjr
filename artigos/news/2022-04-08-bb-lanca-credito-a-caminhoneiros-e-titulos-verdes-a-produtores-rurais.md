@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Segundo banco, medida pode injetar até R$ 8 bilhões na economia.
 
 Caminhoneiros e produtores rurais terão acesso a novas linhas de crédito do Banco do Brasil (BB) com juros reduzidos. A instituição financeira lançou nesta quinta-feira (7) uma linha de antecipação de frete para caminhoneiros e a emissão da primeira Cédula de Produto Rural (CPR-Preservação), que pretende remunerar produtores rurais que preservem o meio ambiente.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

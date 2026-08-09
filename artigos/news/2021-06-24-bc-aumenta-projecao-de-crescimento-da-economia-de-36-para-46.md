@@ -7,16 +7,15 @@ categories:
 - News
 ---
 
-
 ## Inflação deve chegar a 5,82% ao final de 2021, acima da meta.
 
 O Banco Central (BC) aumentou a projeção para o crescimento da economia este ano. A estimativa para a expansão do Produto Interno Bruto (PIB) – a soma de todos os bens e serviços produzidos no país – passou de 3,6% para 4,6%. A informação consta do [**Relatório de Inflação**](http://bcb.gov.br/content/ri/relatorioinflacao/202106/ri202106p.pdf), publicação trimestral do BC, divulgado hoje (24) e, segundo o órgão, apesar da intensidade da segunda onda da pandemia de covid-19, os indicadores recentes da atividade econômica interna continuam mostrando evolução mais positiva do que o esperado.
 
-“Adicionalmente, a recuperação parcial da confiança dos agentes econômicos, as medidas de preservação do emprego e da renda, o prognóstico de avanço da campanha de vacinação, os elevados preços de *commodities* [produtos primários com cotação internacional] e os efeitos defasados do estímulo monetário indicam perspectivas favoráveis para a economia”, diz o relatório. 
+“Adicionalmente, a recuperação parcial da confiança dos agentes econômicos, as medidas de preservação do emprego e da renda, o prognóstico de avanço da campanha de vacinação, os elevados preços de *commodities* [produtos primários com cotação internacional] e os efeitos defasados do estímulo monetário indicam perspectivas favoráveis para a economia”, diz o relatório.
 
 Modelos matemáticos do BC também indicam que recentemente houve uma redução da sensibilidade da atividade econômica à intensidade da pandemia, fato que pode estar ligado à surpresa positiva com os dados da atividade no período.
 
-No primeiro trimestre do ano, o PIB cresceu 1,2% em relação ao trimestre anterior, segundo o BC, retornando ao patamar do último trimestre de 2019, antes da pandemia, com resultados positivos nos três setores da economia: serviços, agropecuária e indústria. 
+No primeiro trimestre do ano, o PIB cresceu 1,2% em relação ao trimestre anterior, segundo o BC, retornando ao patamar do último trimestre de 2019, antes da pandemia, com resultados positivos nos três setores da economia: serviços, agropecuária e indústria.
 
 “O desempenho positivo ocorreu a despeito do ambiente de recrudescimento da pandemia da covid-19 e da retirada do auxílio emergencial para pessoas em situação de vulnerabilidade, superando as expectativas que grande parte dos analistas econômicos tinha na data do último [**Relatório de Inflação**](http://agenciabrasil.ebc.com.br/economia/noticia/2021-03/bc-reduz-projecao-de-crescimento-da-economia-de-38-para-36) [em março]”, explicou o BC.
 
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

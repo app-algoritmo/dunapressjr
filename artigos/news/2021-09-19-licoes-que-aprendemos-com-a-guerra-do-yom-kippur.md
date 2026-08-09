@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O presidente Isaac Herzog participa do memorial da Guerra do Yom Kippur no Monte Herzl, marcando 48 anos desde a guerra.
 
 Hoje, domingo, o presidente Isaac Herzog e a primeira-dama Michal Herzog participaram da cerimônia oficial em memória no Monte Herzl, em Jerusalém, marcando 48 anos desde a Guerra do Yom Kippur.
@@ -31,7 +30,3 @@ Fonte: https://www.israelnationalnews.com/News/News.aspx/313715
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

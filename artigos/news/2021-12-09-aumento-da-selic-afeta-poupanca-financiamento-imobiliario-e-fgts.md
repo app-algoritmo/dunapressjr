@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alta dos juros básicos altera cálculo da TR, taxa usada como indexador.
 
 **[Com a elevação da taxa básica de juros](https://dunapress.org/2021/12/09/copom-aumenta-taxa-basica-de-juros-para-925-ao-ano/)**, a Selic, anunciada nessa quarta-feira (8) pelo Banco Central, de 7,75% para 9,25% ao ano, o cálculo do rendimento da poupança volta para a regra antiga.
@@ -54,10 +53,6 @@ Em comunicado após a reunião, o Comitê de Política Monetária (Copom) do Ban
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

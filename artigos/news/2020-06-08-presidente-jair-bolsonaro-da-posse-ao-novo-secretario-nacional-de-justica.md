@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O presidente da República, Jair Bolsonaro, deu posse ao novo Secretário Nacional de Justiça do Ministério da Justiça e Segurança Pública, Claudio de Castro Panoeiro, em cerimônia realizada no Palácio do Planalto nesta segunda-feira (08). Advogado da União e doutor em Direito pela Universidade de Salamanca (Espanha), Claudio de Castro Panoeiro é o primeiro cego a assumir o cargo.
 
 “O nosso governo se sente muito honrado pelo seu passado, pela sua experiência e por aquilo que possa contribuir com o nosso Brasil. A Justiça ficará maior ainda com a sua presença. Nós todos nos orgulhamos nesse momento e temos certeza de que o senhor engrandecera muito nosso trabalho. Acreditamos no seu potencial e louvamos por isso”, declarou o presidente.
@@ -25,5 +24,3 @@ A Secretaria Nacional de Justiça combate o tráfico de pessoas e promove o aces
 Dentro da Secretaria está o Comitê Nacional para os Refugiados, o Conare, que desempenha papel de extrema relevância no reconhecimento da condição de refugiados dos venezuelanos que deixaram aquele país devido à crise humanitária e às graves violações aos direitos humanos.
 
 Fonte: Portal de Imprensa do Ministério da Justiça e Segurança Pública
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

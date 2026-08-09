@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Com investimento de R$35 milhões, 13 universidades participarão da iniciativa que pretende ampliar em cerca de 100 mil exames mês a capacidade nacional de diagnósticos. 
+Com investimento de R$35 milhões, 13 universidades participarão da iniciativa que pretende ampliar em cerca de 100 mil exames mês a capacidade nacional de diagnósticos.
 
 A pandemia de Covid-19 tem causado grandes impactos na saúde da população e na economia global, demandando ações de controle e acompanhamento que permitam a manutenção segura das atividades econômicas com ações planejadas e direcionadas. Uma estratégia efetiva para conter o avanço do número de casos de coronavírus é o diagnóstico em massa. Pensando nisso o governo federal, por meio do Ministério de Ciência, Tecnologia e Inovações (MCTI), está promovendo a instalação de laboratórios de campanha dentro de universidades públicas para ampliar a capacidade de realizar testes diagnósticos da Covid-19. Com o investimento de R$ 35 milhões do MCTI o Brasil ampliará em cerca de 100 mil exames mês a capacidade nacional de testes diagnósticos da Covid-19. A ideia é que num prazo de 3 a 4 meses sejam realizados cerca de 350 mil testes diagnósticos.
 
@@ -29,5 +28,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

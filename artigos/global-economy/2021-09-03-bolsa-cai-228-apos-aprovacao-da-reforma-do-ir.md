@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Dólar não aproveitou clima externo e fechou estável a R$ 5,18.
 
 A aprovação do projeto de lei que reforma o Imposto de Renda (IR) pela Câmara dos Deputados derrubou a bolsa para o nível mais baixo em cinco meses. O dólar não conseguiu aproveitar o clima favorável no exterior e fechou estável a R$ 5,18.
@@ -24,10 +23,6 @@ No mercado externo, o dólar continua caindo perante as principais moedas por ca
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

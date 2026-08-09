@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Medidas como capacitação e reorganização da estrutura de cargos e regimentos são parte do plano.
 
 Incentivar e promover um ambiente ético, transparente e com responsabilidade. Para concretizar essas características na gestão pública, a partir dessa segunda-feira, 1º de junho, o Ministério da Educação (MEC) conta com um Plano de Integridade. Com ele, serão implementadas medidas para a política de integridade na gestão das políticas públicas de educação no país.
@@ -38,8 +37,6 @@ O Plano de Integridade lançado continuará sendo atualizado de acordo com as pu
 **Governança, Integridade e Gestão de Riscos –** Também é possível encontrar a Política de Governança e o Plano de Integridade no novo portal do MEC: gov.br/mec.
 
 Fonte: gov.br/mec / Imagem em destaque: MEC
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

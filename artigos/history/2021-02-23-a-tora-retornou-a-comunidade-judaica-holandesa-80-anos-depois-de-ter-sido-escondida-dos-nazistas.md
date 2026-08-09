@@ -8,7 +8,6 @@ categories:
 - History
 ---
 
-
 Um rolo da Torá que desapareceu de uma sinagoga holandesa após a invasão nazista da Holanda foi redescoberto 80 anos depois e devolvido à comunidade judaica.
 
 O pergaminho, que parece estar intacto e foi mantido em excelentes condições desde a Segunda Guerra Mundial, pertencia a uma sinagoga na cidade de Dordrecht, no sul, de acordo com Chris den Hoedt, presidente da Comunidade Judaica de Rotterdam, ou NIG.
@@ -39,7 +38,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

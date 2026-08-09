@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa de valores caiu 0,56% em dia de oscilações.
 
 Num dia marcado por oscilações no mercado financeiro, o dólar subiu e a bolsa caiu. Os indicadores reverteram a movimentação depois que o banco de investimentos Goldman Sachs divulgou a projeção de que o Produto Interno Bruto (PIB, soma das riquezas produzidas no país) do Brasil encolherá 7,4% em 2020.
@@ -29,5 +28,3 @@ Fonte: Agência Brasil - Imagem de destaque: Marcello Casal Jr/Agência Brasil
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

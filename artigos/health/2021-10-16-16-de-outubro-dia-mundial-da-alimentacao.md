@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Ter uma alimentação saudável é fundamental para ter uma vida saudável e longe de várias doenças. Mas, na prática, o que realmente significa ter hábitos saudáveis? “A alimentação saudável é aquela adequada às necessidades biológicas e culturais de cada pessoa, apropriada do ponto de vista da qualidade, quantidade e variedade. É se alimentar de acordo com as necessidades de cada fase da vida e é preciso que ela seja acessível do ponto de vista físico e financeiro, e ainda ser baseada em práticas produtivas adequadas e sustentáveis”, explica Gisele Bortolini, coordenadora de alimentação e nutrição do Ministério da Saúde.
 
 Segundo a coordenadora, uma refeição saudável é composta por um prato com base em alimentos in natura, aqueles obtidos diretamente de plantas ou de animais sem que tenham sofrido qualquer alteração após deixar a natureza, e que estejam minimamente processados. “É fundamental que esses alimentos façam parte do dia a dia para ter uma alimentação nutricionalmente balanceada, saborosa, culturalmente apropriada”, comentou a Giseli.
@@ -37,7 +36,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

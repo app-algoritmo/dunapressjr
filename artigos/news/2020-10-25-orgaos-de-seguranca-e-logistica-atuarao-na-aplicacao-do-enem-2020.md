@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Faltam cerca de três meses para a aplicação das provas do Exame Nacional do Ensino Médio (Enem) 2020, mas o planejamento de segurança e logística já começou. Afinal, são 5,7 milhões de inscritos que vão fazer o teste em mais de 1,7 mil municípios.
 
 As estratégias da Operação Enem 2020, que envolve o planejamento da distribuição das provas, a avaliação de riscos e a garantia de segurança para a realização do exame, foram debatidas em um encontro técnico no último dia 21.
@@ -42,5 +41,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Corrente de comércio sobe 32,7% e chega a US$ 248,56 bilhões, com US$ 144,16 bilhões em exportações e US$ 104,41 bilhões em importações.
 
 A balança comercial brasileira registrou superávit de US$ 39,75 bilhões no acumulado do ano, até a segunda semana de julho, em alta de 49,3% pela média diária, na comparação com o período de janeiro a julho de 2020. A corrente de comércio (soma das exportações e importações) chegou a US$ 248,56 bilhões no período, um aumento de 32,7%.
@@ -36,7 +35,7 @@ Nas importações, a média diária até a segunda semana de julho de 2021 (US$ 
 
 Na Indústria extrativista, destaque para as compras de óleos brutos de petróleo ou de minerais betuminosos, crus (+147,4%); minérios de cobre e seus concentrados (+1.505,8%); outros minérios e concentrados dos metais de base (+265,8%); carvão, mesmo em pó, mas não aglomerado (+29,1%) e fertilizantes brutos, exceto adubos (+102,3%).
 
-Já  na Indústria de Transformação, o aumento das importações foi puxado pelo crescimento nas compras de óleos combustíveis de petróleo ou de minerais betuminosos, exceto óleos brutos (+133,1%); partes e acessórios dos veículos automotivos (+145,8%); produtos semiacabados, lingotes e outras formas primárias de ferro ou aço (+8.578,5%); adubos ou fertilizantes químicos, exceto fertilizantes brutos (+25,1%) e válvulas e tubos termiônicas, de cátodo frio ou foto-cátodo, diodos, transistores (+51,5%).
+Já na Indústria de Transformação, o aumento das importações foi puxado pelo crescimento nas compras de óleos combustíveis de petróleo ou de minerais betuminosos, exceto óleos brutos (+133,1%); partes e acessórios dos veículos automotivos (+145,8%); produtos semiacabados, lingotes e outras formas primárias de ferro ou aço (+8.578,5%); adubos ou fertilizantes químicos, exceto fertilizantes brutos (+25,1%) e válvulas e tubos termiônicas, de cátodo frio ou foto-cátodo, diodos, transistores (+51,5%).
 
 Por fim, na Agropecuária, a alta nas importações teve o destaque da compra de látex, borracha natural, balata, guta-percha, guaiúle, chicle e gomas naturais (+198,5%); pescado inteiro vivo, morto ou refrigerado (+87,1%); soja (+31%); milho não moído, exceto milho doce (+134,7%) e trigo e centeio, não moídos (+2,2%).
 
@@ -44,10 +43,6 @@ Por fim, na Agropecuária, a alta nas importações teve o destaque da compra de
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

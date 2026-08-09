@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Nome do candidato à vice-presidência não foi revelado.
 
 O PTB oficializou nesta segunda-feira (1º) a candidatura do deputado federal Roberto Jefferson à Presidência da República. Jefferson é presidente de honra do partido e teve seu nome aclamado por unanimidade. A convenção, no entanto, não contou com a sua presença, já que ele está em prisão domiciliar por determinação judicial. Ele é acusado de tumultuar o processo eleitoral e proferir discursos de ódio e atacar instituições democráticas.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

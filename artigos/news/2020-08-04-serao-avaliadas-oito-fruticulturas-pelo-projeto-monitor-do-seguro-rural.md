@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Seguros agrícolas de maçã, pêssego, caqui, nectarina, laranja, maracujá, ameixa e tangerina serão analisadas em 07 de agosto.
 
 O Ministério da Agricultura, Pecuária e Abastecimento (Mapa) realizará na próxima sexta-feira (07/08), às 15h, uma videoconferência do projeto Monitor do Seguro Rural, dedicada nessa edição ao primeiro grupo de frutas, formado por maçã, pêssego, caqui, nectarina, laranja, maracujá, ameixa e tangerina. O objetivo é avaliar os produtos e serviços ofertados pelas seguradoras e propor aperfeiçoamentos nos seguros agrícolas dessas atividades.
@@ -30,19 +29,19 @@ O cronograma de eventos por vídeo conferência do Monitor, que começou em julh
 
 Nos dias 17 e 24 de julho, foram realizadas videoconferências do monitor de seguro rural de banana e trigo, respectivamente, que contou com 70 participantes, em cada encontro, entre produtores e representantes de associações, federações e entidades nacionais, que estão preparando um documento com propostas de aperfeiçoamentos para o seguro rural dessas atividades.
 
-“As dinâmicas estabelecidas no Monitor de Seguros promovido pelo MAPA têm sido muitos importantes para a cadeia de seguros agrícolas. O monitor de trigo, foi muito interessante para debatemos a cobertura de qualidade, que é uma grande demanda do setor produtivo e que o mercado segurador precisa desenvolver”, avalia Glaucio Toyama, diretor de Subscrição Agro da Swiss Re, uma das companhias seguradoras que participou da reunião de trigo. 
+“As dinâmicas estabelecidas no Monitor de Seguros promovido pelo MAPA têm sido muitos importantes para a cadeia de seguros agrícolas. O monitor de trigo, foi muito interessante para debatemos a cobertura de qualidade, que é uma grande demanda do setor produtivo e que o mercado segurador precisa desenvolver”, avalia Glaucio Toyama, diretor de Subscrição Agro da Swiss Re, uma das companhias seguradoras que participou da reunião de trigo.
 
 Maiores informações para participar do Monitor pelo e-mail: [seguro@agricultura.gov.br](mailto:seguro@agricultura.gov.br)
 
 **Contratação**
 
-O produtor que tiver interesse em contratar o seguro rural deve procurar um corretor ou uma instituição financeira que comercialize apólice de seguro rural. Atualmente, 14 seguradoras estão habilitadas para operar no PSR. O seguro rural é destinado aos produtores pessoa física ou jurídica, independente de acesso ao crédito rural. 
+O produtor que tiver interesse em contratar o seguro rural deve procurar um corretor ou uma instituição financeira que comercialize apólice de seguro rural. Atualmente, 14 seguradoras estão habilitadas para operar no PSR. O seguro rural é destinado aos produtores pessoa física ou jurídica, independente de acesso ao crédito rural.
 
-A subvenção econômica concedida pelo Ministério da Agricultura pode ser pleiteada por qualquer pessoa física ou jurídica que cultive ou produza espécies contempladas pelo Programa. Para os grãos em geral, o percentual de subvenção ao prêmio pode variar entre 20% e 40%, a depender da cultura e tipo de cobertura contratada. No caso das frutas, olerícolas, cana-de-açúcar e demais modalidades (florestas, pecuário e aquícola) o percentual de subvenção ao prêmio será fixo em 40%. 
+A subvenção econômica concedida pelo Ministério da Agricultura pode ser pleiteada por qualquer pessoa física ou jurídica que cultive ou produza espécies contempladas pelo Programa. Para os grãos em geral, o percentual de subvenção ao prêmio pode variar entre 20% e 40%, a depender da cultura e tipo de cobertura contratada. No caso das frutas, olerícolas, cana-de-açúcar e demais modalidades (florestas, pecuário e aquícola) o percentual de subvenção ao prêmio será fixo em 40%.
 
 Para produtores que estão contratando crédito de custeio nas instituições financeiras e são enquadrados no Pronaf, entre julho e outubro, há um projeto-piloto com recursos de R$ 50 milhões do PSR de estímulo a contratação do seguro agrícola de soja e milho verão (subvenção de 55% do prêmio) e para banana, maçã e uva (subvenção de 60% do prêmio).
 
-Para produtores das regiões Norte e Nordeste de grãos, o PSR destinará R$ 50 milhões exclusivos para essas regiões nos meses de setembro e outubro. 
+Para produtores das regiões Norte e Nordeste de grãos, o PSR destinará R$ 50 milhões exclusivos para essas regiões nos meses de setembro e outubro.
 
 Para mais informações sobre o PSR, faça o download do aplicativo. Basta acessar para [Android](https://play.google.com/store/apps/details?id=br.embrapa.psr) e para [IOS](https://apps.apple.com/br/app/psr-programa-de-seguro-rural/id1517617208). ** **
 
@@ -52,7 +51,7 @@ Cinco novos terminais pesqueiros foram qualificados pelo Programa de Parceria de
 
 Foram qualificados pelo programa os terminais pesqueiros públicos de Natal (RN), Aracaju (SE), Vitória (ES) e os de Santos e de Cananéia (SP). A lista está no [decreto 10.442](https://www.in.gov.br/en/web/dou/-/decreto-n-10.442-de-27-de-julho-de-2020-268918592), publicado no último dia 28 de julho no Diário Oficial da União (DOU).
 
-“A inclusão desses projetos no PPI os coloca como prioridade nacional, na medida em que garante celeridade na tramitação de processos perante os órgãos intervenientes na operação desses empreendimentos”, afirma o secretário de Aquicultura e Pesca do Mapa, Jorge Seif Júnior. 
+“A inclusão desses projetos no PPI os coloca como prioridade nacional, na medida em que garante celeridade na tramitação de processos perante os órgãos intervenientes na operação desses empreendimentos”, afirma o secretário de Aquicultura e Pesca do Mapa, Jorge Seif Júnior.
 
 Ele avalia ainda que a desestatização vai proporcionar o estabelecimento de parcerias com o setor privado, que realizará os investimentos necessários para os terminais entrarem em pleno funcionamento de forma regular. Os terminais pesqueiros públicos (TPP) são estruturas físicas necessárias para as atividades de movimentação e armazenagem de pescado, entreposto de comercialização, beneficiamento e apoio à navegação de embarcações. A área pode compreender instalações como ancoradouros, docas, cais, pontes e píeres de acostagem, terrenos, armazéns frigorificados, edificações e infraestrutura de proteção e acesso aquaviário.
 
@@ -64,7 +63,7 @@ Fonte: gov.br / Imagem em destaque: Mapa
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Soluções são essenciais para reduzir impactos do coronavírus, criar resiliência nas empresas e dar apoio à população no "novo normal".
 
 O impacto da covid-19 na economia global está em constante atualização, a cada nova fase da pandemia. Desde o início de 2020, o mundo presenciou indústrias, empresas e profissões entrarem em colapso e rotinas, que até então eram habituais, passaram a ser questionadas. E o fim da pandemia é percebido de maneira diferente em cada canto do planeta, tendo para isso, pilares como a tecnologia e a ciência. Lições que muitos já aprenderam. Entre as empresas, por exemplo, 45,7% já começaram a implementar estratégias de transformação digital, como mostra uma pesquisa realizada pela Samba Digital e divulgada no primeiro semestre deste ano.
@@ -43,7 +42,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

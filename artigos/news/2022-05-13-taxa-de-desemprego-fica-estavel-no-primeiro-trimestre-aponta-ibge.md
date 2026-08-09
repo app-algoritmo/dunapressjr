@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O único recuo foi no Amapá.
 
 A taxa de desemprego no Brasil ficou 11,1% no 1° trimestre de 2022, o que significa estabilidade na comparação com o 4º trimestre de 2021, quando registrou o mesmo percentual. Representa ainda queda de 3,8 pontos percentuais na comparação com o mesmo trimestre de 2021, quando atingiu 14,9%. Os dados estão incluídos no resultado trimestral da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua, divulgada nesta sexta-feira (13) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -56,8 +55,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

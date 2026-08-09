@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Presidente do BC também manifestou preocupação com preço de serviços.
 
 Com impactos no preço da energia elétrica, a crise hídrica pressionará a inflação nos próximos meses, disse nesta terça-feira (24) o presidente do Banco Central (BC), Roberto Campos Neto. Ele também manifestou preocupação com a inflação dos serviços e com gargalos internacionais no fornecimento de insumos, como semicondutores, que afetam os preços de várias mercadorias.
@@ -40,10 +39,6 @@ O presidente do BC classificou de “ruídos de curto prazo” as incertezas pro
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

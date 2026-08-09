@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Paraíba possui um significativo potencial para a geração de energia fotovoltaica devido à sua alta incidência solar, com relação aos demais estados do País e se destaca na qualidade dos recursos energéticos (eólico e solar), que são abundantes e acessíveis. Para viabilizar o desenvolvimento do setor, o Estado conta com incentivos fiscais, infraestrutura, linhas de transmissão, agilidade nos licenciamentos ambientais e políticas de fomento e promoção de energias renováveis.
 
 Na parte da Infraestrutura, a Paraíba dispõe de acessibilidade por meio de aeroporto, porto e de rodovias e disponibilidade para escoamento da energia por meio da Rede Básica do Sistema Interligado Nacional (SIN). O Governo do Estado também mantém políticas de apoio aos empreendimentos e promove a articulação dos empreendedores com entidades estaduais e municipais envolvidas.
@@ -46,5 +45,3 @@ Para fomentar o desenvolvimento da atividade industrial por meio da concessão d
 Fonte: paraíba.pb.gov.br – Imagem de destaque: Clovis Porciuncula
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

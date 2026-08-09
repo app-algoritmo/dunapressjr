@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ### Agronegócio tem mais de 2 mil empresas emergentes em ação, diz SNA.
 
-O ministro da Ciência, Tecnologia e Inovações, Paulo Alvim, defendeu nesta sexta-feira (7) as *startups* como importantes geradoras da inovação no Brasil. Segundo Alvim, as* startups* são capazes de, a partir do território, gerar valor, garantindo a produtividade e a sustentabilidade. O ministro participou, nesta sexta-feira, do encerramento do Rio Scientific Entrepreneurship (Rise) 2022, em tradução livre, Rio Empreendedorismo Científico. 
+O ministro da Ciência, Tecnologia e Inovações, Paulo Alvim, defendeu nesta sexta-feira (7) as *startups* como importantes geradoras da inovação no Brasil. Segundo Alvim, as* startups* são capazes de, a partir do território, gerar valor, garantindo a produtividade e a sustentabilidade. O ministro participou, nesta sexta-feira, do encerramento do Rio Scientific Entrepreneurship (Rise) 2022, em tradução livre, Rio Empreendedorismo Científico.
 
 “Esta é a grande diferença que a gente tem, o território brasileiro. É olhar o território, olhar a potencialidade de agregar valor com muito conhecimento científico e tecnológico, onde tem tudo por fazer, desde a base do bioma até transformar isso em nota fiscal. E isso quem vai fazer é a* startup*”, afirmou Alvim.
 
@@ -20,7 +19,7 @@ O Rise 2022 tem como objetivo aproximar entidades e empreendedores da área de i
 
 “A inovação, hoje em dia, no Brasil, está vindo praticamente toda das *startups*, principalmente do agro. O agro tem hoje mais de 2 mil *startups*. Todas elas buscando inovação”, disse o presidente da SNA, Antonio Alvarenga. “Elas trazem inovação em tecnologia, estão em todas as áreas”, enfatizou.
 
-Ao final do evento, o ministro Paulo Alvim entregou o prêmio de melhor *startup* expositora e melhor *pitch*, que é uma  apresentação breve e direta do projeto. A *startup* vencedora da categoria de melhor expositora foi a [**IMBR Agro**](https://www.imbragro.com.br/), que busca democratizar a análise do risco rural, oferecendo índices e avaliações de riscos agrometeorológicos e de comercialização.
+Ao final do evento, o ministro Paulo Alvim entregou o prêmio de melhor *startup* expositora e melhor *pitch*, que é uma apresentação breve e direta do projeto. A *startup* vencedora da categoria de melhor expositora foi a [**IMBR Agro**](https://www.imbragro.com.br/), que busca democratizar a análise do risco rural, oferecendo índices e avaliações de riscos agrometeorológicos e de comercialização.
 
 A vencedora do *pitch* foi a [**Polimex**](https://polimex.eco.br/), *startup* que desenvolve novos materiais bioplásticos voltados para a economia circular, produzidos a partir de insumos agrícolas e resíduos agroindustriais tipicamente brasileiros.
 
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

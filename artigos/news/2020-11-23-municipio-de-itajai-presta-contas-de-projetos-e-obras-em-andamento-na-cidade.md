@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Exposição no átrio da Prefeitura destaca Programa Itajaí 2040: Moderna e Sustentável.
 
 Os projetos e obras do Programa Itajaí 2040: Moderna e Sustentável ganharam visibilidade no átrio da Prefeitura. Em exposição, são 22 banners que apresentam 44 realizações do Município de Itajaí, cujos investimentos somam mais de R$ 600 milhões. Obras, Desenvolvimento Urbano, Agricultura, Saúde e Educação são as áreas incluídas na mostra. A exposição ficará por tempo indeterminado na Prefeitura e sinalizará as obras concluídas nos próximos anos.
@@ -24,7 +23,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL ](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

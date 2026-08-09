@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Escritório será montado junto à Embaixada do Brasil em Washington, capital do país, e tem objetivo de promover oportunidades de negócios que gerem emprego e renda ao Brasil.
 
 O Ministério da Economia vai contar com um escritório de representação em Washington, capital dos Estados Unidos. A criação do órgão está regulamentada em um decreto assinado pelo Presidente Jair Bolsonaro e publicado na edição desta quinta-feira (27) do Diário Oficial da União.
@@ -26,8 +25,4 @@ Fonte: gov.br
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Grande redefinição.
 
 Grande redefinição, assim definem os homem mais poderosos do mundo em seu informe que segundo eles é a solução pós-pandemia das cidades. No final deste artigo "[Great Reset](http://O mundo sofrerá um “grande reset”)", tudo indica que o próximo vírus será ciber.
@@ -30,8 +29,6 @@ A aceitação social de pessoas LGBT + (eixo x) em comparação com o escore de 
 A resposta pode estar nas cidades do mundo.
 
 As cidades estão na linha de frente da pandemia - e podem ser a chave da recuperação econômica global. A conexão entre resiliência econômica e inclusão social é particularmente clara nas áreas urbanas. Há um crescente número de evidências de que as cidades inclusivas LGBT + têm “ecossistemas de inovação” mais fortes, níveis mais altos de empreendedorismo e são mais capazes de atrair talentos e proporcionar uma alta qualidade de vida - tornando-os bem colocados para a recuperação econômica.
-
-[](https://dunapress.org/subscription-plan/?aff=barrosprojectmanager)
 
 Vamos olhar para as evidências. Primeiro, a inovação é um componente crítico da competitividade de uma cidade, que por sua vez a tornará bem posicionada para a recuperação. As cidades inclusivas têm uma pontuação mais alta no [Índice de Inovação 2ThinkNow](https://www.innovation-cities.com/index-2019-global-city-rankings/18842/#:~:text=2thinknow%20city%20ranking%20for%20innovation,benchmark%20cities%20classified%20and%20ranked.&text=This%20city%20rankings%20includes%20tech,on%20economic%20opportunity%20for%20innovators.) , que classifica as cidades de acordo com seu potencial de inovação. Esse índice tem uma correlação de 0,62 com pontuações de atitudes sociais em relação às pessoas LGBT +, sugerindo fortemente que as cidades inclusivas LGBT + são lugares mais inovadores (veja a tabela abaixo).
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Produção da camada pré-sal chegou a 2,07 milhões de barris de petróleo.
 
 A produção brasileira de petróleo atingiu uma média diária de 2,87 milhões de barris em janeiro deste ano, segundo dados divulgados hoje (2) pela Agência Nacional de Petróleo, Gás Natural e Biocombustíveis (ANP). O resultado ficou 5,4% acima da produção de dezembro de 2020.
@@ -24,8 +23,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

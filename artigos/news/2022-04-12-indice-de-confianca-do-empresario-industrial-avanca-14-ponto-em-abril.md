@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Trata-se da primeira alta do índice em 2022, após três recuos.
 
 A indústria brasileira apresentou aumento no índice que mede a confiança do empresariado do setor, pela primeira vez em 2022. Os dados relativos ao Índice de Confiança do Empresário Industrial (ICEI) foram divulgados hoje (12) pela Confederação Nacional da Indústria (CNI).
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Cirurgiã-dentista formada pelo Centro Universitário Dr. Leão Sampaio (UNILEÃO) e mestranda do Programa em Ciências Odontológicas pela Universidade Federal do Rio Grande do Norte (UFRN), Ana Larisse Carneiro desenvolve pesquisas clínicas com ênfase em novas possibilidades tecnológicas para as reabilitações orais.
 
 **Fale um pouco sobre o seu trabalho.**
@@ -33,7 +32,7 @@ Fonte: gov.br/mec - Capes / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

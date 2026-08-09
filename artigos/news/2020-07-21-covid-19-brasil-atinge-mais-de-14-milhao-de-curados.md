@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Número é superior à quantidade de casos ativos, ou seja, pessoas que estão em acompanhamento médico. Informações foram atualizadas até as 18h desta segunda-feira (20/7).
 
 Nesta segunda-feira (20/7) o Brasil registrou 1.409.202 pessoas recuperadas da doença. No mundo todo, estima-se que cerca de 7,4 milhões de pessoas diagnosticadas com Covid-19 já se recuperaram. O número de pessoas curadas é superior à quantidade de casos ativos (629.324), que são pacientes que estão em acompanhamento médico. O registro de pessoas curadas já representa mais da metade do total de casos acumulados (66,5%). As informações foram atualizadas até às 18h e foram enviadas pelas Secretarias Estaduais e Municipais de Saúde.
@@ -36,6 +35,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

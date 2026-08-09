@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 **Dinheiro será depositado até 31 de agosto nas contas vinculadas**.
 
 O Conselho Curador do Fundo de Garantia por Tempo de Serviço (FGTS) aprovou nesta terça-feira (11) a distribuição de parte dos lucros para os trabalhadores. Serão creditados nas contas vinculadas ao fundo R$ 7,5 bilhões, equivalentes a 66% do resultado positivo de 2019. O resultado total do ano passado foi de R$ 11,32 bilhões.
@@ -20,4 +19,4 @@ A decisão do conselho não altera as hipóteses em que o trabalhador pode sacar
 
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Pilar Olivares
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

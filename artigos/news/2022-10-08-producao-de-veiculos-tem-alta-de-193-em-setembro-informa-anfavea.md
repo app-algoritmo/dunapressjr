@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Foram fabricadas 207,8 mil unidades, no mês passado.
 
 A produção de veículos teve alta de 19,3% em setembro na comparação com o mesmo mês de 2021, com a fabricação de 207,8 mil unidades, segundo balanço divulgado nesta sexta-feira (7) pela Associação Nacional dos Fabricantes de Veículos Automotores (Anfavea). No acumulado dos nove primeiros meses do ano, foi registrado um crescimento de 6,3% em relação ao período de janeiro a setembro do ano passado, com a produção de 1,75 milhão de veículos.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

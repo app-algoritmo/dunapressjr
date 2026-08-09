@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Iniciativas envolvem profissionais dos hospitais, professores, residentes e alunos das universidades.
 
 As atividades que unem ensino e assistência social, um dos pilares do trabalho da Empresa Brasileira de Serviços Hospitalares (Ebserh), não pararam durante a pandemia de Covid-19. Professores preceptores, residentes, alunos e profissionais da assistência hospitalar dos 40 hospitais universitários federais administrados pela estatal vinculada ao Ministério da Educação (MEC) desenvolveram iniciativas que uniram ensino e a formação como forma de apoiar as equipes que lutam todos os dias contra a doença na assistência aos pacientes.
@@ -44,8 +43,6 @@ Inicialmente, o teleatendimento voltado à Covid-19 foi implementado no formato 
 **Atuação da Rede Ebserh -** Além do apoio ao ensino, formação e capacitação das equipes assistenciais, a Rede Ebserh tem trabalhado em parceria direta com os ministérios da Saúde e da Educação, tendo como diretrizes o monitoramento da situação no país e em suas 40 unidades hospitalares. Em algumas regiões, as unidades da Rede Ebserh têm atuado como hospitais de referência no enfrentamento à Covid-19, enquanto que em outras, atuam como retaguarda em atendimentos assistenciais para a população, por meio do Sistema Único de Saúde (SUS).
 
 Fonte: gov.br/mec / Imagem em destaque: ebserh
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Porto Velho/RO - A Polícia Federal deflagrou nesta quarta-feira (10/6) a denominada OPERAÇÃO DÚCTIL, visando desarticular esquemas de fraudes na aquisição emergencial de materiais e insumos médico-hospitalares para atendimento das demandas das unidades de saúde estaduais como estratégia de prevenção, enfrentamento e contenção da pandemia da COVID-19.
 
 A ação decorre de trabalho conjunto entre a Polícia Federal, Controladoria-Geral da União e Ministério Público Federal, que resultou no cumprimento de 2 mandados de prisão temporárias e 15 mandados de busca e apreensão, todos expedidos pela 3ª Vara da Justiça Federal de Rondônia.
@@ -26,5 +25,3 @@ Os presos, após interrogados na sede da Polícia Federal, serão encaminhados a
 O nome da Operação Dúctil refere-se ao que pode ser conduzido, direcionado, como menção aos prováveis direcionamentos das licitações. Além disso, o termo possui relação com o que é elástico, moldável, como no caso das empresas que modificam o ramo de atividade, durante a pandemia, para participar de licitações milionárias realizadas pela Administração Pública.
 
 Comunicação Social da Polícia Federal em Rondônia/RO
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

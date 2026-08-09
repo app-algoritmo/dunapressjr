@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Ponta Porã/MS – A Polícia Federal e a Polícia Rodoviária Federal fizeram hoje (20/5) a maior apreensão de drogas no Brasil  ao apreenderam um caminhão, entre Tacuru e Iguatemi/MS. No veículo, eram transportadas aproximadamente 28 toneladas de maconha.
 
 A apreensão teve início em uma diligência policial realizada em um hotel na cidade de Ponta Porã/MS, onde policiais federais localizaram um hóspede com comportamento que levantava suspeitas. Em razão disso, foi realizado um acompanhamento do indivíduo e se identificado que ele possuía Carteira Nacional de Habilitação da categoria E, ou seja, era um motorista de caminhão.
@@ -19,5 +18,3 @@ O peso da droga ainda está sendo contabilizado, contudo uma pesagem inicial apo
 As forças policiais seguem trabalhando e apreendendo quantidades significativas de produtos ilícitos, protegendo a sociedade mesmo durante a pandemia decorrente do novo corona vírus.
 
 Comunicação Social da Polícia Federal em Mato Grosso do Sul
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

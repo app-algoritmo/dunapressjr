@@ -7,7 +7,6 @@ categories:
 - Opinion
 ---
 
-
 Dom Pedro II foi bastante sábio ao falar essa frase.
 
 Atualmente estamos vendo o quanto isso funciona de verdade. Com a internet cada vez mais acessível e o avanço das redes sociais, os grandes grupos de comunicação perderam o monopólio da informação.
@@ -24,4 +23,4 @@ Deveriam ser menos desonestos e falarem que buscam seus verdadeiros interesses e
 
 A mídia alternativa está fazendo o verdadeiro jornalismo, seguindo na risca a frase de William Randolph Hearst: “Jornalismo é publicar aquilo que alguém não quer que se publique. Todo o resto é publicidade”. Como ela não está fazendo publicidade, querem censurá-la.
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

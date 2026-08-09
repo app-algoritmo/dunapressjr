@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Dor de estômago forte. Náusea. Fadiga. Infertilidade. Esses são apenas alguns dos sintomas sofridos por milhões de mulheres com endometriose - uma condição incurável causada quando o tecido que reveste o útero cresce em outra parte do abdômen.
 
 Shahar Keinan, o CEO israelense da [Polaris Quantum Biotech](https://www.ourcrowd.com/companies/polaris-quantum-biotech?utm_source=toi&utm_medium=banner&utm_campaign=polarisqb_on_toi) , está se unindo a uma outra CEO no campo para usar computadores quânticos super-rápidos para encontrar uma cura para a endometriose, que os médicos estimam afetar cerca de [10% das mulheres em todo o mundo](https://www.who.int/news-room/fact-sheets/detail/endometriosis) .
@@ -61,7 +60,3 @@ Fonte: timesofisrael.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

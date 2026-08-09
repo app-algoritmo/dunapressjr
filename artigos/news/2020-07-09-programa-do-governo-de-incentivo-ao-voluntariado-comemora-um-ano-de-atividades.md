@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-No Pátria Voluntária, mais de 15 mil pessoas são voluntárias e mais de 650 instituições estão cadastradas. 
+No Pátria Voluntária, mais de 15 mil pessoas são voluntárias e mais de 650 instituições estão cadastradas.
 
 O Programa de Incentivo ao Voluntariado – Pátria Voluntária, do Governo Federal, presidido pela primeira-dama, Michelle Bolsonaro, celebra nesta quinta-feira (9), um ano de atividades sociais e iniciativas solidárias. O Pátria Voluntária tem o objetivo de fomentar e fortalecer a cultura do voluntariado no Brasil e contribuir para a transformação da vida dos mais vulneráveis. Dessa forma, o programa hoje reúne mais de 15 mil voluntários inscritos e já são mais de 650 instituições cadastradas na plataforma patriavoluntaria.org. O número de ações abertas passa de um mil e já são mais de 650 mil pessoas beneficiadas com ações voluntárias e acolhimento.
 
@@ -28,6 +27,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

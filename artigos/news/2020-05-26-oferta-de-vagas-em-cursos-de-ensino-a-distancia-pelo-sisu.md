@@ -7,11 +7,9 @@ categories:
 - News
 ---
 
-
 ## **Alteração está em portaria publicada na edição desta segunda-feira, 25 de maio, do Diário Oficial da União.**
 
-**
-**O Ministério da Educação (MEC) ampliou as possibilidades de estudantes que pretendem ocupar uma vaga no ensino superior público no país. O Sistema de Seleção Unificada (Sisu) passará a permitir a oferta de vagas na modalidade de ensino a distância (EaD). 
+**O Ministério da Educação (MEC) ampliou as possibilidades de estudantes que pretendem ocupar uma vaga no ensino superior público no país. O Sistema de Seleção Unificada (Sisu) passará a permitir a oferta de vagas na modalidade de ensino a distância (EaD).
 
 Além da permissão para ampliar os modelos de cursos ofertados no programa, o MEC também determinou mudanças para as instituições de ensino superior públicas que ofertam vagas pelo Sisu.
 
@@ -30,8 +28,6 @@ O Sisu é o sistema informatizado do Ministério da Educação, no qual institui
 - retificação do termo de adesão: de 1º de junho de 2020 até as 23h59 de 5 de junho.
 
 Fonte: portal.mec.gov.br / Imagem em destaque: BE
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

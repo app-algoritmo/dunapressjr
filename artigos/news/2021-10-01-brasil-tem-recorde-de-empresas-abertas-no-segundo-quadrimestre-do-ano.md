@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Mapa de Empresas aponta que 1,4 milhão de novos negócios foram iniciados de maio a agosto de 2021; tempo médio para criação de empreendimentos foi reduzido.
 
 O novo [Boletim do Mapa de Empresas](https://www.gov.br/governodigital/pt-br/mapa-de-empresas/boletins/mapa-de-empresas-boletim-do-2o-quadrimestre-de-2021-1.pdf) do Ministério da Economia, divulgado nesta quinta-feira (30), revela que o Brasil obteve mais uma vez recorde no número de empresas abertas em um quadrimestre, alcançando a marca de 1,4 milhão de novos negócios. O saldo positivo de empresas em funcionamento no país de maio a agosto de 2021 chegou a 936.229. Esse saldo é a diferença entre todos os negócios abertos (1.420.782) e fechados (484.553) no período. O total de empresas ativas no Brasil é de 18.440.986.
@@ -50,10 +49,6 @@ Qualquer cidadão, em qualquer localidade do país, tem acesso gratuito ao [Mapa
 
 Fonte: Ministério da Economia
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

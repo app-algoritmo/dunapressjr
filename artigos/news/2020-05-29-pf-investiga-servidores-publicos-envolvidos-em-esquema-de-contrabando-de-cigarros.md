@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Campo Grande/MS – A Polícia Federal, com apoio da Corregedoria da Polícia Civil do Estado de Mato Grosso do Sul, deflagrou na manhã desta quinta-feira (28/5) a Operação Arithmoi, quarta fase da Operação Nepsis.
 
 Cerca de 60 policiais federais deram cumprimento a 11 mandados de busca e apreensão, nos municípios de Amambai, Iguatemi, Itaquiraí, Naviraí e Ponta Porã, expedidos pela 2ª Vara Federal de Ponta Porã.
@@ -23,5 +22,3 @@ A organização criminosa investigada na Operação Nepsis formou um verdadeiro 
 Será concedida à imprensa entrevista coletiva ainda nesta manhã, às 10h, na sede da Superintendência da Polícia Federal em Campo Grande.
 
 Comunicação Social da Polícia Federal em Mato Grosso do Sul
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

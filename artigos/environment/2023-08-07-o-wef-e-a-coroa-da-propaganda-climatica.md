@@ -7,8 +7,7 @@ categories:
 - Environment
 ---
 
-
-O ativista climático Mike Hudema, que já trabalhou para o Greenpeace, chama a atenção para um vídeo distópico do Fórum Econômico Mundial. encontrado [aqui no Facebook)](https://www.facebook.com/watch/?v=832938394063433&ref=sharing).
+O ativista climático Mike Hudema, que já trabalhou para o Greenpeace, chama a atenção para um vídeo distópico do Fórum Econômico Mundial. encontrado [aqui no Facebook)](https://www.facebook.com/watch/?v=832938394063433).
 
 Se não tomarmos medidas climáticas nas próximas décadas, de acordo com o WEF, as calotas polares derreterão na década de 2030 e o nível do mar aumentará em até 20 centímetros.
 

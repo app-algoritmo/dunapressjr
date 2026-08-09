@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O índice avançou 6 pontos em agosto, para 85 pontos.
 
 O Índice de Confiança de Serviços (ICS), medido pela Fundação Getulio Vargas (FGV), avançou 6 pontos em agosto, para 85 pontos. Após quatro meses de altas consecutivas, o índice ainda permanece abaixo do nível pré-pandemia de covid-19. Em fevereiro, o índice estava em 94,4 pontos.
@@ -23,5 +22,3 @@ O Nível de Utilização da Capacidade Instalada (NUCI) do setor de serviços au
 Fonte: Agência Brasil – Imagem de destaque: Fernando Frazão/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

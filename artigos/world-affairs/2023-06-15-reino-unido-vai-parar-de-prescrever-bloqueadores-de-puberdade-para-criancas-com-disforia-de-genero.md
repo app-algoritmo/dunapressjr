@@ -8,7 +8,6 @@ categories:
 - World Affairs
 ---
 
-
 ## O Reino Unido está [tomando medidas para deixar de prescrever rotineiramente bloqueadores de puberdade](https://redstate.com/jeffc/2023/06/09/game-changer-united-kingdom-stops-routine-prescribing-of-puberty-blockers-to-kids-n758813) para crianças que sofrem de disforia de gênero.
 
 A  decisão do *Serviço Nacional de Saúde*  (NHS) segue uma revisão independente conduzida pelo Dr. Hilary Cass, que destacou “as incertezas significativas em torno do uso de tratamentos hormonais”. (Relacionado:  [Bloqueadores de puberdade são remédios QUACK apoiados por nada ... o abuso químico de crianças agora é exigido por traficantes de LGBT conspirando com médicos malvados](https://naturalnews.com/2019-10-31-puberty-blockers-quack-medicine-chemical-child-abuse.html) .)
@@ -17,7 +16,7 @@ De acordo com o NHS, a organização “só comissionará hormônios supressores
 
 Além dessa mudança de política, o NHS England estabeleceu um novo Conselho Nacional de Supervisão de Pesquisa sobre Disforia de Gênero para Crianças e Jovens. O conselho aprovou o desenvolvimento de um estudo que examina o impacto dos hormônios supressores da puberdade na disforia de gênero em crianças e jovens com disforia de gênero de início precoce. A criação deste conselho reflete o compromisso de investigar minuciosamente os efeitos dos bloqueadores da puberdade.
 
-O NHS visa adotar uma abordagem holística e multidisciplinar para avaliar e abordar as necessidades de indivíduos com disforia de gênero. Uma equipa multidisciplinar integrada determinará o percurso clínico mais adequado envolvendo a criança ou jovem e a sua família.[](https://www.brighteon.tv/)
+O NHS visa adotar uma abordagem holística e multidisciplinar para avaliar e abordar as necessidades de indivíduos com disforia de gênero. Uma equipa multidisciplinar integrada determinará o percurso clínico mais adequado envolvendo a criança ou jovem e a sua família.
 
 ### Os bloqueadores da puberdade podem causar danos permanentes
 

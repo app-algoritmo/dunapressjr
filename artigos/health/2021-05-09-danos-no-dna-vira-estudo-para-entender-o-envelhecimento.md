@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Graduado em Ciências Biológicas pela Universidade de São Paulo (USP), Gustavo Satoru é doutor em Biotecnologia pela mesma instituição e bolsista da CAPES pelo Programa Nacional de Pós Doutorado (PNPD) na Universidade Federal de Ouro Preto (UFOP), onde estuda os efeitos de danos no DNA sobre o envelhecimento humano.
 
 **Fale um pouco sobre o seu trabalho.**
@@ -43,7 +42,3 @@ Fonte: https://www.gov.br/capes
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

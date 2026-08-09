@@ -7,7 +7,6 @@ categories:
 - Food
 ---
 
-
 O Ministério da Saúde promove, anualmente, uma campanha para comemorar a Semana Mundial da Amamentação (SMAM), entre 1º e 07 de agosto, a qual também é comemorada em mais de 150 países. O objetivo é bastante simples: sensibilizar a sociedade para os impactos positivos do aleitamento materno na saúde da criança, da mulher e até mesmo do planeta.
 
 Mais do que apenas uma semana voltada para isso, a legislação brasileira também instituiu o mês de agosto como o Mês do Aleitamento Materno, também conhecido como Agosto Dourado. E aproveitando que ele está só começando, vamos falar um pouco sobre esse alimento tão único, natural e poderoso que faz bem não só para a saúde e o desenvolvimento da criança, mas também para a mulher.
@@ -84,7 +83,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

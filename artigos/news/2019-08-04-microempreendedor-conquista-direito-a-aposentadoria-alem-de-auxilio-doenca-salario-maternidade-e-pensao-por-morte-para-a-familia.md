@@ -8,12 +8,11 @@ categories:
 - News
 ---
 
-
 ## Em cerca de 15 minutos o profissional preenche o cadastro de adesão e passa a ter um CNPJ que facilita na abertura de conta bancária, no pedido de empréstimos e na emissão de notas fiscais.
 
 O Microempreendedor Individual (MEI) completou 10 anos em 2019 e já tem mais de 8,5 milhões de microempreendedores cadastrados. Quando adere ao MEI, o profissional autônomo que trabalha sem segurança jurídica se formaliza e passa a ter direitos a benefícios sociais e facilidades para impulsionar o negócio.
 
-Após a formalização, o microempreendedor conquista direito a aposentadoria, além de auxílio-doença, salário-maternidade e pensão por morte para a família. 
+Após a formalização, o microempreendedor conquista direito a aposentadoria, além de auxílio-doença, salário-maternidade e pensão por morte para a família.
 
 ### Adesão
 
@@ -27,8 +26,8 @@ O MEI é desburocratizado e muito simples de montar; dispensa intermediações e
 
 A categoria é destinada para quem quer começar um negócio ou já trabalha por conta própria e fatura até R$ 81 mil por ano
 
-Quem quer começar um negócio ou já trabalha por conta própria e fatura até R$ 81 mil por ano pode se tornar um Microempreendedor Individual (MEI). Antes de iniciar o processo de  formalização, é preciso verificar as condições para se enquadrar nesta categoria e verificar se a atividade profissional está entre as 450 permitidas. 
+Quem quer começar um negócio ou já trabalha por conta própria e fatura até R$ 81 mil por ano pode se tornar um Microempreendedor Individual (MEI). Antes de iniciar o processo de  formalização, é preciso verificar as condições para se enquadrar nesta categoria e verificar se a atividade profissional está entre as 450 permitidas.
 
-O passo a passo é realizado totalmente online no Portal do Empreendedor. Clique[ ](http://www.portaldoempreendedor.gov.br%29/)[aqui](http://www.portaldoempreendedor.gov.br/)[ ](http://www.portaldoempreendedor.gov.br%29/)para fazer seu cadastro. 
+O passo a passo é realizado totalmente online no Portal do Empreendedor. Clique[aqui](http://www.portaldoempreendedor.gov.br/)para fazer seu cadastro.
 
 Infográfico Brasil Gov

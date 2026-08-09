@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Dólar sobe 0,45% e fecha em R$ 5,68 nesta sexta.
 
 Depois de três semanas seguidas de queda, a bolsa de valores fechou a semana no positivo. O dólar voltou a aproximar-se de R$ 5,70, influenciado pelo cenário externo.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

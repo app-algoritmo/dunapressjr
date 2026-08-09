@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### É a menor variação desde o início da série histórica em 1979.
 
 O Índice Nacional de Preços ao Consumidor (INPC), que mede a inflação para famílias com rendimentos até cinco salários mínimos, caiu 0,60% em julho. É a menor variação verificada desde o início da série histórica em abril de 1979. Em julho de 2021, a taxa apontou variação de 1,02%. No ano, o indicador acumula alta de 4,98% e, nos últimos 12 meses, de 10,12%. Este percentual representa um recuo em relação ao mesmo período imediatamente anterior, quando atingiu 11,92%.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

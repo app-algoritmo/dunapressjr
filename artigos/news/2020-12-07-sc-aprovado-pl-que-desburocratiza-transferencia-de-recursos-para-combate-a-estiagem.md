@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Projeto de lei (PL) aprovado na tarde desta quarta-feira (2) pelo plenário da Assembleia Legislativa vai facilitar as transferências voluntárias de recursos do Estado para municípios que estão sofrendo com a estiagem. Uma subemenda aditiva apresentada pelo deputado Coronel Mocellin (PSL) ao PL 323/2020 dispensa os municípios de algumas exigências formais quando os recursos forem repassados para combater os efeitos da seca enquanto estiver em vigor decreto municipal que tenha declarado estado de emergência ou calamidade pública.
 
 Entre estas exigências – listadas no artigo 55 da lei 17.753/2019 – estão a comprovação de que o município mantém atualizados seus compromissos financeiros com o pagamento de pessoal e encargos sociais, bem como aqueles assumidos com instituições de ensino superior criadas por lei municipal, e instituiu, regulamentou e arrecada todos os tributos de sua competência.
@@ -39,7 +38,5 @@ Sua assinatura não somente ajudará no fornecerá notícias precisas, mas tamb�
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

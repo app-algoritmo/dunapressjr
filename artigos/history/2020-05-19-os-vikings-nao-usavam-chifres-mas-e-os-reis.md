@@ -7,7 +7,6 @@ categories:
 - History
 ---
 
-
 Por muito tempo ao ouvir-se falar em vikings, a primeira coisa que vinha na cabeça das pessoas era a figura de loiros barbudos com elmos de chifres.
 
 Atualmente, com a popularização dos valentes guerreiros nórdicos, por meio da mídia televisiva, este mito vem sendo quebrado. Onde por outro lado vem-se criando novos mitos no imaginário popular, onde atualmente os vikings são vistos como *hispsters boa pinta* com cabelos e vestes arrojadas. Mas de onde veio o mito do elmo cornífero aos guerreiros nórdicos?
@@ -43,5 +42,3 @@ Referência Bibliográfica:
 - VELASCO, Manuel. Breve História dos Vikings. Versal. 2013.
 
 - WAGNER, Richard. O Anel do Nibelungo – A Ópera. Independently Published. 2019.
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

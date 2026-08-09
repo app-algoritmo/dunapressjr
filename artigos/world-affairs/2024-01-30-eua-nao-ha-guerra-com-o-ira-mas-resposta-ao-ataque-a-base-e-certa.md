@@ -7,7 +7,6 @@ categories:
 - World Affairs
 ---
 
-
 O Departamento de Defesa dos EUA (Pentágono) reiterou na segunda-feira que Washington responderia a um ataque de drone contra uma base americana na Jordânia que matou três soldados e feriu outros 40, mas disse que o país não está atrás de uma guerra com o Irã.
 
 Sabrina Singh, porta-voz adjunta do Pentágono, disse durante uma conferência de imprensa na segunda-feira que “os EUA não procuram a guerra e acreditam que o Irã também não procura a guerra”.
@@ -19,8 +18,6 @@ Como é habitual, as porta-vozes do Pentágono repetiram as acusações dos EUA 
 Anteriormente, John Kirby, Coordenador do Conselho de Segurança Nacional para Comunicações Estratégicas na Casa Branca, também falou sobre as consequências mortais dos ataques às bases americanas na região do Médio Oriente, mas rejeitou qualquer conflito com a República Islâmica do Irã.
 
 "Não estamos à procura de uma guerra com o Irã. Não estamos à procura de um conflito com o governo de Teerã. Mas certamente faremos o que for necessário para nos protegermos.", disse Kirby, acrescentando que qualquer decisão cabe ao presidente dos EUA.
-
-[](https://img9.irna.ir/d/r2/2024/01/30/3/170899618.jpg?ts=1706566975584)
 
 Durante o briefing, Kirby afirmou que o presidente Joe Biden se reuniu duas vezes com a equipe de segurança nacional desde domingo e está avaliando as opções.
 
@@ -38,8 +35,6 @@ A mídia americana divulgou pela primeira vez a história sobre o ataque a uma p
 
 O Comando Central dos EUA, CENTCOM, também confirmou o ataque à base conhecida como Torre 22, mas não comentou a alegação da CNN de que o grupo de resistência iraquiano estava por trás do incidente.
 
-[](https://img9.irna.ir/d/r2/2024/01/30/3/170899625.jpg?ts=1706567872438)
-
 Esta base está localizada na parte nordeste da Jordânia, perto da base al-Tanf, localizada do outro lado da fronteira com a Síria, e diz-se que 350 soldados americanos estão estacionados lá para apoio logístico.
 
 Logo após o ataque, várias autoridades americanas rejeitaram as especulações sobre o envolvimento do Irã no incidente ou qualquer guerra com ele, já que alguns críticos da administração Biden e republicanos agressivos tentavam ligar o ataque à base da Jordânia à República Islâmica.
@@ -49,8 +44,6 @@ Autoridades iranianas, incluindo a missão permanente do país nas Nações Unid
 O Pentágono afirmou que grupos de resistência apoiados pelo Irã são responsáveis ​​pelos ataques às forças americanas na região e que Washington está a avaliar como o drone conseguiu penetrar nas medidas de segurança da base na Jordânia.
 
 Os grupos apoiados pelo Irã são responsáveis ​​por ataques contínuos às forças americanas, e responderemos no momento e no local que quisermos. O presidente e eu não toleraremos ataques às forças americanas e tomaremos todas as medidas necessárias para defender os Estados Unidos, nossas forças e nossos interesses", disse Lloyd Austin, o chefe do Pentágono.
-
-[](https://img9.irna.ir/d/r2/2024/01/30/3/170899607.jpg?ts=1706562345408)
 
 Entretanto, o Secretário de Estado dos EUA, Anthony Blinken, ameaçou que o seu país responderia resolutamente a qualquer agressão contra as suas forças.
 

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Engenheiro Florestal formado pela Universidade Federal Rural da Amazônia (UFRA), Michael Douglas Roque Lima é mestre em Ciências Florestais pela mesma instituição e, atualmente, cursa um doutorado em Ciência e Tecnologia da Madeira, oferecido pela Universidade Federal de Lavras (UFLA), em Minas Gerais.
 
  **Fale sobre sua pesquisa.**
@@ -53,8 +52,6 @@ A CAPES foi primordial para a realização dessa pesquisa, especificamente na co
 
 https://www.youtube.com/embed/EVSc5lA5Ol8
 
- 
-
 *(Brasília – Redação CCS/CAPES)*
 A reprodução das notícias é autorizada desde que contenha a assinatura CCS/CAPES.
 
@@ -74,7 +71,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

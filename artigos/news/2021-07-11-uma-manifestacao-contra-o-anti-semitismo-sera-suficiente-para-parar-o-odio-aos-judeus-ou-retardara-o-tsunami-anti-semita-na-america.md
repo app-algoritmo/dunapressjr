@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Judeus americanos estão planejando um comício no domingo em Washington, DC Eles estão chamando de " [Sem Medo: Um Rally em Solidariedade com o Povo Judeu](https://nofear.combatantisemitism.org/) ." É apoiado por mais de 60 grupos de defesa, incluindo o Comitê Judaico Americano, Liga Anti-Difamação, Hadassah, Federações Judaicas da América do Norte, Conselho Democrático Judaico da América, Fundo Nacional Judaico, Coalizão Judaica Republicana, Stand with Us, Union for Reforma do Judaísmo, Sinagoga Unida do Judaísmo Conservador, etc.
 
 Enquanto as ofertas de rali uma mensagem de desafio, eu acho que nós *temos* razão para temer. Eu diria que algum nível de medo agora persegue todo judeu historicamente consciente na América.
@@ -23,7 +22,7 @@ Em 4 de julho, as pessoas [queimaram uma bandeira israelense e uma americana](ht
 
 Agora está aqui e nas ruas da América desde 11 de setembro. Na verdade, a Besta Sangrenta está aqui desde que o adolescente Chabad, Ari Halberstam, foi assassinado em 1994 pelo motorista de táxi pró-palestino radical Rashid Baz na Ponte do Brooklyn. Funcionários federais finalmente reconheceram que este foi um ataque terrorista. Este foi um exemplo de um judeu visivelmente americano e religioso sendo assassinado por um crime cometido por um judeu israelense em Hebron. A propaganda sobre o que Baruch Goldstein fez, que foi tão hediondo quanto único, foi em todo o mundo árabe e denunciada nas mesquitas, incluindo a mesquita que Baz frequentou.
 
-Mas agora, quase 30 anos depois, os judeus americanos estão cercados por falsidades que geraram o mais cruel ódio aos judeus. Nos últimos anos, lojas , escolas , cemitérios e sinagogas judaicas foram vandalizadas, desfiguradas ou bombardeadas. Estudantes e professores judeus que não difamaram ruidosamente e publicamente o estado judeu foram envergonhados , intimidados , isolados , ameaçados de morte e despedidos.[](https://iupress.org/9780253034069/anti-zionism-on-campus/)[](https://www.academicstudiespress.com/antisemitisminamerica/salem-on-the-thames)[](https://www.breitbart.com/national-security/2015/04/07/professor-takes-medical-leave-after-pro-israel-facebook-post-leads-to-vicious-hate-mail-campaign/)[](https://www.israelnationalnews.com/Articles/Article.aspx/18061)[](https://www.israelnationalnews.com/Articles/Article.aspx/25262)
+Mas agora, quase 30 anos depois, os judeus americanos estão cercados por falsidades que geraram o mais cruel ódio aos judeus. Nos últimos anos, lojas , escolas , cemitérios e sinagogas judaicas foram vandalizadas, desfiguradas ou bombardeadas. Estudantes e professores judeus que não difamaram ruidosamente e publicamente o estado judeu foram envergonhados , intimidados , isolados , ameaçados de morte e despedidos.
 
 Ao mesmo tempo, especialmente nos últimos seis meses, houve um aumento extraordinário nas resoluções "acadêmicas" ou sindicais de professores alimentadas por islamistas-negros-esquerdos que condenaram e queriam boicotar apenas Israel . Esses ataques via propaganda estão ocorrendo na América. Ao mesmo tempo, as aulas estão sendo interrompidas com discurso de ódio anti-sionista e as palestras do Zoom estão sendo interrompidas e bombardeadas com desinformação pró-Palestina e anti-Israel.
 
@@ -68,7 +67,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

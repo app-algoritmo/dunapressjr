@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa começou em queda, mas fechou em alta de 1,09%.
 
 Num dia marcado por fortes tensões no mercado financeiro, o dólar chegou a superar a barreira de R$ 5,70 no início da tarde, forçando a ação do Banco Central (BC). Mesmo assim, a cotação fechou no maior valor desde o início de novembro. A bolsa de valores chegou a ficar abaixo dos 110 mil pontos, mas reverteu o movimento e fechou em alta.
@@ -30,8 +29,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

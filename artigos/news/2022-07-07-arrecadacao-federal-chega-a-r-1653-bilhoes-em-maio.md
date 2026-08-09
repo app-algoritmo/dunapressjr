@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### O crescimento real registrado foi de 4,1%.
 
 A arrecadação total das receitas federais atingiu, em maio de 2022, R$ 165,3 bilhões, um acréscimo real de 4,1% pelo Índice de Preços ao Consumidor Amplo (IPCA) – ou seja, já descontada a inflação. No acumulado de janeiro a maio de 2022, a arrecadação alcançou R$ 908,5 bilhões, um aumento pelo IPCA de 9,7%. As informações fazem parte da Análise da Arrecadação das Receitas Federais de maio de 2022, divulgada pela Receita Federal em entrevista coletiva realizada em 23 de junho último.
@@ -34,8 +33,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

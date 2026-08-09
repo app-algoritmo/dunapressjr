@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 **São Carlos (SP)** – O Hospital Universitário da Universidade Federal de São Carlos, vinculado à Rede Ebserh (HU-UFSCar/Ebserh), participa, juntamente com outras instituições do município, do maior levantamento de identificação da prevalência da Covid-19 feito em uma cidade do país, tendo como critério as testagens por número de habitantes. O “Testar para Cuidar – Programa de Mapeamento da Covid-19” está na terceira de quatro etapas, com o objetivo de entrevistar e testar 5.600 pessoas.
 
 Foram selecionadas regiões da cidade e, em cada região, foram sorteadas casas para serem realizados os testes com os moradores. Em cada fase, são realizados testes com diferentes casas (nas mesmas regiões da cidade). O diagnóstico se dá por meio dos exames sorológicos do tipo Elisa, que são considerados mais precisos que os testes rápidos aplicados nos demais mapeamentos feitos pelo país.
@@ -35,7 +34,7 @@ Fonte: gov.br / Imagem em destaque: scden
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

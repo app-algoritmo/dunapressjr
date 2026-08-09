@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O mês de janeiro registra alta nos alimentos que compõem a cesta básica em Itajaí. A variação média de preços ficou em 6,08% na soma dos produtos de menor valor e 2,34% na soma dos produtos com os preços mais altos da cesta. Os números registrados pela fiscalização da Procuradoria do Consumidor (Procon) de Itajaí são de 36 itens básicos do consumo dos brasileiros. Os fiscais estiveram em oito estabelecimentos nos dias 04 e 05 de janeiro.
 
 Mesmo com a queda registrada nos preços de feijão, carne suína, manteiga, pasta de dente e água sanitária em comparação a dezembro, a cesta ainda registrou aumento de preços no geral. Produtos como álcool gel 70%, cebola, batata lavada, sabão em pó e farinha de mandioca tiveram um salto no preço acima de 25%.
@@ -35,7 +34,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

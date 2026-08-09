@@ -9,15 +9,15 @@ categories:
 
 ## O evento acontece de forma presencial e online no dia 25 de junho, cada cartela custa R$20 e vale para todos os prêmios.
 
-O Show de Prêmios do Complexo de Saúde Pequeno Cotolengo vai sortear neste ano um carro zero quilômetro, uma moto novinha, uma lavadora lava e seca, um refrigerador e uma Smart TV. O evento, já tradicional, volta a ser presencial, com inúmeras atrações e a venda de comidas e bebidas. Outra novidade são as rodadas extras com prêmios surpresa. 
+O Show de Prêmios do Complexo de Saúde Pequeno Cotolengo vai sortear neste ano um carro zero quilômetro, uma moto novinha, uma lavadora lava e seca, um refrigerador e uma Smart TV. O evento, já tradicional, volta a ser presencial, com inúmeras atrações e a venda de comidas e bebidas. Outra novidade são as rodadas extras com prêmios surpresa.
 
 “Nós estamos preparando uma tarde muito agradável para todos que vierem prestigiar com a gente. Além de concorrer aos prêmios da rodada principal, teremos as rodadas extras com lindos itens para o público presente. Convidamos a todos para vir apoiar a nossa obra, e quem sabe voltar para casa de carro zero”, explica o Gerente de Captação, Carlos Thomazelli.
 
 Pequeno Cotolengo
 
-O evento é realizado anualmente como uma das fontes de arrecadação de recursos para manter o trabalho da Organização. Atualmente, são mais de 230 pessoas com múltiplas deficiências, que são acolhidas e também recebem atendimentos em saúde e educação. Cada um dos Assistidos possui particularidades e complexidades, o que faz com que os valores para manter os cuidados sejam altos. 
+O evento é realizado anualmente como uma das fontes de arrecadação de recursos para manter o trabalho da Organização. Atualmente, são mais de 230 pessoas com múltiplas deficiências, que são acolhidas e também recebem atendimentos em saúde e educação. Cada um dos Assistidos possui particularidades e complexidades, o que faz com que os valores para manter os cuidados sejam altos.
 
-Para concorrer aos prêmios, os interessados podem adquirir uma ou mais cartelas pelo WhatsApp (41) 3314-1900. Cada uma custa R$20 e vale para todos os sorteios. Como haverá transmissão online, não é necessário estar presente para participar. A venda é feita para todo o Brasil. 
+Para concorrer aos prêmios, os interessados podem adquirir uma ou mais cartelas pelo WhatsApp (41) 3314-1900. Cada uma custa R$20 e vale para todos os sorteios. Como haverá transmissão online, não é necessário estar presente para participar. A venda é feita para todo o Brasil.
 
 **Serviço:**
 
@@ -27,9 +27,9 @@ Data do sorteio: 25/06 a partir das 14h.
 
 Endereço: Rua José Gonçalves Júnior, 140, Campo Comprido, Curitiba.
 
-Cartelas: cada uma custa R$20 e pode ser adquirida pelo link [http://bit.ly/38Iq78H](https://bit.ly/38Iq78H?fbclid=IwAR0nMRerU2vPd6dtJcnXuFVkMq7PNqzHjmpFDnotKGgcWZTAm9WY0_dC06g)
+Cartelas: cada uma custa R$20 e pode ser adquirida pelo link
 
-## Prêmios: 
+## Prêmios:
 
 1-o prêmio: Carro zero km
 

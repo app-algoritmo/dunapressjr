@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Clientes deverão comprovar avanços nos índices educacionais.
 
 Estados, municípios e o Distrito Federal (DF) poderão obter vantagens contratuais nos financiamentos concedidos pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES). A possibilidade aberta ao setor público foi aprovada nesta terça-feira (27) pelo banco e visa a melhorar a qualidade da educação pública em curto prazo.
@@ -24,14 +23,10 @@ Para a obtenção das vantagens contratuais, o banco exigirá que as metas sejam
 
 O BNDES explicou que, durante a fase de análise da operação, o cliente poderá optar entre o benefício contratual de redução da remuneração básica ou aumento do prazo de carência do financiamento. Caso cumpra uma das duas metas estabelecidas, terá o benefício de redução de 0,2% da remuneração básica ou extensão da carência de pagamento em seis meses. Cumprindo as duas metas, a redução será de 0,4% ou o aumento da carência será de 12 meses.
 
-De acordo com a diretoria do BNDES, a iniciativa está em linha com a prioridade dada pela instituição à educação básica, a fim de contribuir para a melhoria da qualidade de ensino com redução das desigualdades educacionais no país e, ao mesmo tempo, elevar a eficiência e a efetividade da gestão nas redes públicas. 
+De acordo com a diretoria do BNDES, a iniciativa está em linha com a prioridade dada pela instituição à educação básica, a fim de contribuir para a melhoria da qualidade de ensino com redução das desigualdades educacionais no país e, ao mesmo tempo, elevar a eficiência e a efetividade da gestão nas redes públicas.
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

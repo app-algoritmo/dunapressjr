@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Uma pesquisa "tranquilizadora" realizada em pacientes que completaram o curso de vacinação é um bom presságio para os imunocomprometidos que receberão uma dose de reforço, de acordo com os médicos.
 
 Pessoas com câncer geraram anticorpos após a injeção dupla da vacina COVID-19 e o nível desses mesmos anticorpos é mantido, descobriram pesquisadores israelenses.
@@ -39,7 +38,3 @@ Fonte: https://fr.timesofisrael.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

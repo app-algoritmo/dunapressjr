@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro destacou importância de banco do bloco e pediu reforma no FMI.
 
 A promoção da vacinação e o avanço da agenda de reformas estruturais para recuperar a economia são prioridades para o governo brasileiro, disse nesta quarta-feira (6) o ministro da Economia, Paulo Guedes. Ele participou da primeira reunião de 2021 dos ministros de Finanças e presidentes de Bancos Centrais do Brics (grupo que reúne Brasil, Rússia, Índia, China e África do Sul).
@@ -30,10 +29,6 @@ Em relação à reforma das quotas no FMI, Guedes pediu que haja avanços na 16�
 
 Fonte: Agência Brasil
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.  
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
-Obrigado pelo apoio! 
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)
+Obrigado pelo apoio!

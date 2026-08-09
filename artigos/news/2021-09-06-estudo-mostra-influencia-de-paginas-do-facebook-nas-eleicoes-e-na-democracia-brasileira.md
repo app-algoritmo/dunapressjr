@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Relatório revela, em números, relação direta entre aumento do volume de postagens e interações com o debate político a partir de 2015.
 
 O primeiro recorte de um extenso trabalho científico envolvendo eleições, redes sociais e democracia acaba de dimensionar o ganho de escala e a capilaridade que 27 páginas do Facebook foram capazes de alcançar entre os anos de 2010 e 2020, sendo 2015 o “momento-chave” para o crescimento contínuo desses perfis. De fazer inveja a qualquer veículo de comunicação da chamada grande mídia, em busca de engajamento, esse pequeno universo conseguiu, por meio de um total de 206,6 mil publicações, gerar 253,7 milhões de interações nas postagens ao longo do período analisado, sendo que a grande maioria (87,9%) via curtidas e compartilhamentos. As páginas analisadas são públicas e integram um universo de diferentes plataformas – geridas pela mesma pessoa ou grupo – que foram consideradas produtoras e difusoras de “Fake News” na Informação Técnica, de 23 de abril de 2020, da Consultoria Legislativa da Câmara de Deputados.
@@ -25,7 +24,7 @@ Ele chama atenção para outra constatação do relatório que, ainda levando em
 Juntas, as páginas geraram 253,7 milhões de interações ao longo do período analisado
 *Crédito: divulgação/Universidade Positivo*
 
-O coordenador explica que os dados mostram a movimentação do “ecossistema” de indivíduos e de coletividades que atuam no Facebook e que integram um universo de plataformas – geridas pela mesma pessoa ou grupo – que foram consideradas produtoras e difusoras de “Fake News” na Informação Técnica, de 23 de abril de 2020, da Consultoria Legislativa da Câmara de Deputados. Os dados da CPI das Fake News foram extraídos e analisados pelo Grupo de Pesquisa sobre Democracia e Tecnologias Digitais do Mestrado em Direito da UP. 
+O coordenador explica que os dados mostram a movimentação do “ecossistema” de indivíduos e de coletividades que atuam no Facebook e que integram um universo de plataformas – geridas pela mesma pessoa ou grupo – que foram consideradas produtoras e difusoras de “Fake News” na Informação Técnica, de 23 de abril de 2020, da Consultoria Legislativa da Câmara de Deputados. Os dados da CPI das Fake News foram extraídos e analisados pelo Grupo de Pesquisa sobre Democracia e Tecnologias Digitais do Mestrado em Direito da UP.
 
 Integram o grupo do Mestrado em Direito da Universidade Positivo os pesquisadores: Ana Carolina Contin Kosiak, Anderson Marcos dos Santos, Gabriel Schulman, Giulia de Angelucci, Laymert Garcia do Santos, Olívia Alves Gomes Pessoa e Vinícius Cunha Zanatta da Silva.
 
@@ -48,5 +47,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

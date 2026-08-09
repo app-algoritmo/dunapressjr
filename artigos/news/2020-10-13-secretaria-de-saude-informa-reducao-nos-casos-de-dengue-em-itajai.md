@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Secretaria de Saúde de Itajaí informa redução no número dos casos de dengue do município. O último registro ocorreu no dia 1º de agosto. Ao todo, este ano já foram contabilizados 224 casos, sendo que 188 são autóctones (com transmissão dentro da cidade).
 
 Embora o número de contaminados esteja em queda, o Programa de Controle da Dengue alerta a população para que as medidas de prevenção sejam mantidas. O atual período é preocupante, pois há elevação da temperatura e dias chuvosos, fato que contribui para a proliferação do Aedes aegypti, mosquito transmissor do vírus da dengue.
@@ -42,5 +41,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

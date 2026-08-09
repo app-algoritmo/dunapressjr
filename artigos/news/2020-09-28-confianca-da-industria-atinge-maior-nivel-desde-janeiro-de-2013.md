@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## O indicador chegou a 106,7 pontos, diz FGV.
 
 O Índice de Confiança da Indústria, medido pela Fundação Getulio Vargas (FGV), cresceu 8 pontos na passagem de agosto para setembro deste ano. Com o resultado, o indicador chegou a 106,7 pontos, em uma escala de 0 a 200 pontos, o maior nível desde janeiro de 2013, quando também registrou 106,7 pontos.
@@ -23,5 +22,3 @@ Há, no entanto, uma preocupação do setor com relação aos próximos seis mes
 Fonte: Agência Brasil – Imagem de destaque: CNI/José Paulo Lacerda/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

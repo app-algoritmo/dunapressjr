@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Para Campos Neto, inflação no país é reflexo do cenário internacional.
 
 O presidente do Banco Central, Roberto Campos Neto, disse nesta segunda-feira (15) que a inflação no Brasil está “bastante alta”, mas vê sinais de estabilização. Ele fez uma apresentação em evento *online *organizado pelo Instituto Millienium.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

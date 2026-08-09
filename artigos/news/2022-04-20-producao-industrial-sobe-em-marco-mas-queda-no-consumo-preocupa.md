@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### CNI considera o movimento normal para o primeiro trimestre.
 
 A Confederação Nacional da Indústria (CNI) divulgou nesta terça-feira (19) os resultados da sondagem industrial do primeiro trimestre. A entidade destacou o crescimento forte da produção industrial entre fevereiro e março, mas também o aumento da preocupação dos empresários com a queda no consumo.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

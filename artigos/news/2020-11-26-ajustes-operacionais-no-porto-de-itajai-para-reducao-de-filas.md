@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí, em conjunto com a Superintendência do Porto, informa que está traçando melhorias em caráter emergencial para minimizar e solucionar os transtornos registrados na entrada de caminhões no Porto e otimizar o fluxo interno das operações. As tratativas avançaram nesta quarta-feira (25), quando o prefeito de Itajaí, Volnei Morastoni, esteve reunido com representantes de diversos setores da atividade portuária.
 
 O encontro realizado nesta manhã definiu ações que já estão sendo colocadas em prática, com o objetivo de se conter de imediato os problemas interferem no sossego da sociedade, como a realização de “buzinaços” nas principais vias e imediações de acesso ao porto:
@@ -34,7 +33,7 @@ Participaram da reunião nesta quarta-feira (25) representantes da Superintendê
 
 Por fim, o Município de Itajaí e a Superintendência do Porto de Itajaí ressaltam que apesar das dificuldades decorrentes da pandemia, o Porto de Itajaí vive um momento pleno e intenso em sua movimentação.
 
-Grande orgulho de Itajaí, a atividade portuária contribui com a nossa cidade gerando riquezas para a economia local, estadual e nacional. Portanto, a prioridade máxima agora é minimizar, em curto espaço de tempo, os impactos negativos da atividade para a população. 
+Grande orgulho de Itajaí, a atividade portuária contribui com a nossa cidade gerando riquezas para a economia local, estadual e nacional. Portanto, a prioridade máxima agora é minimizar, em curto espaço de tempo, os impactos negativos da atividade para a população.
 
 Creditos: Secom Itajaí
 
@@ -45,8 +44,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
-
 Obrigado pelo apoio!
-
-[](https://www.flickr.com/account/upgrade/pro)

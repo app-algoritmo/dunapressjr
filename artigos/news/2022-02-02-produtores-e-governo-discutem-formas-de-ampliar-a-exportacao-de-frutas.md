@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Carlos França visitou um dos maiores polos da fruticultura nacional.
 
 Responsável por cerca de 5,5 milhões de empregos diretos, a fruticultura brasileira almeja consolidar a exportação de parte da produção nacional para destinos tradicionais e alcançar novos mercados, especialmente a China, cuja população, em 2020, consumiu US$ 138,9 bilhões em frutas locais e de vários outros países.
@@ -24,7 +23,7 @@ Acompanhado pelo presidente da Agência Brasileira de Promoção de Exportaçõe
 
 Nas redes sociais, o [**Itamaraty confirmou a intenção**](https://twitter.com/ItamaratyGovBr/status/1488246466527338500?cxt=HHwWiIC9-daRqKcpAAAA) de, em conjunto com a Abrafrutas, promover a exportação dos produtos nacionais a fim de “aumentar a participação brasileira no mercado internacional”.
 
-Em 2021, o Brasil exportou 1,24 milhão de toneladas de frutas frescas, resultado 18% superior ao de 2020. Com isso, o setor faturou US$ 1,21 bilhão, ou 20% a mais que no ano anterior, [**conforme levantamento da Companhia Nacional de Abastecimento (Conab)**](https://www.conab.gov.br/info-agro/hortigranjeiros-prohort/boletim-hortigranjeiro). 
+Em 2021, o Brasil exportou 1,24 milhão de toneladas de frutas frescas, resultado 18% superior ao de 2020. Com isso, o setor faturou US$ 1,21 bilhão, ou 20% a mais que no ano anterior, [**conforme levantamento da Companhia Nacional de Abastecimento (Conab)**](https://www.conab.gov.br/info-agro/hortigranjeiros-prohort/boletim-hortigranjeiro).
 
 Entre as frutas mais vendidas para o mercado externo em 2021, estão a manga, melão, uva, limão, nozes e castanhas, melancia, banana, maçã e mamão. Os principais destinos internacionais dos produtos brasileiros foram a União Europeia, os Estados Unidos, o Reino Unido, a Argentina e o Canadá.
 
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

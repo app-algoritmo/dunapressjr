@@ -7,12 +7,11 @@ categories:
 - News
 ---
 
-
 ## Estágio probatório pode ceder lugar ao vínculo de experiência.
 
 A reforma administrativa apresentada hoje (3) pelo governo federal prevê a criação de novos tipos de vínculos e maior tempo para efetivação no cargo. Secretários do Ministério da Economia concedem neste momento entrevista coletiva sobre a Proposta de Emenda Constitucional (PEC) da Nova Administração Pública.
 
-A matéria prevê a criação de novos vínculos. O regime jurídico único dará lugar a vínculos distintos. No ingresso por concurso público, haverá estabilidade após três anos para cargo típico de estado e o cargo por prazo indeterminado. 
+A matéria prevê a criação de novos vínculos. O regime jurídico único dará lugar a vínculos distintos. No ingresso por concurso público, haverá estabilidade após três anos para cargo típico de estado e o cargo por prazo indeterminado.
 
 No ingresso por seleção simplificada, haverá vínculo por prazo determinado, que substituirá a contratação temporária, e ainda cargos de liderança e assessoramento, em substituição a cargos comissionados e funções gratificadas.
 
@@ -28,7 +27,7 @@ O desligamento de servidor atualmente ocorre por sentença judicial transitada e
 
 Para o ministério, o modelo atual é engessado, com “manutenção de servidores em atividades em que não há mais demanda e incapacidade de adaptações e ajustes”.
 
-A proposta é que não será mais necessário aguardar trânsito em julgado para a demissão. Valerá também decisão judicial proferida por órgão colegiado. Será mantida a demissão por insuficiência de desempenho, que deverá ser regulamentada por lei ordinária e não mais por lei complementar. 
+A proposta é que não será mais necessário aguardar trânsito em julgado para a demissão. Valerá também decisão judicial proferida por órgão colegiado. Será mantida a demissão por insuficiência de desempenho, que deverá ser regulamentada por lei ordinária e não mais por lei complementar.
 
 Outras hipóteses de demissão serão definidas em lei. De acordo com o ministério, não será permitida demissão arbitrária, por questões político-partidárias.
 
@@ -42,9 +41,9 @@ A proposta prevê a eliminação dos seguintes benefícios: licença prêmio (a 
 
 ## Fases da mudança
 
-A primeira fase das mudanças será por meio do Novo Regime de Vínculos e Modernização Organizacional da Administração Pública, com o envio da PEC ao Congresso Nacional. 
+A primeira fase das mudanças será por meio do Novo Regime de Vínculos e Modernização Organizacional da Administração Pública, com o envio da PEC ao Congresso Nacional.
 
-Depois serão necessários projetos de lei sobre gestão de desempenho; modernização das formas de trabalho; consolidação de cargos, funções e gratificações; arranjos institucionais; diretrizes de carreiras; e ajustes no Estatuto do Servidor. 
+Depois serão necessários projetos de lei sobre gestão de desempenho; modernização das formas de trabalho; consolidação de cargos, funções e gratificações; arranjos institucionais; diretrizes de carreiras; e ajustes no Estatuto do Servidor.
 
 Na terceira fase, o governo enviará o Projeto de Lei Complementar (PLP) do Novo Serviço Público, com o novo marco regulatório das carreiras; governança remuneratória; e direitos e deveres do novo serviço público.
 
@@ -55,5 +54,3 @@ A estabilidade dos servidores que já ingressaram no serviço público continua 
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

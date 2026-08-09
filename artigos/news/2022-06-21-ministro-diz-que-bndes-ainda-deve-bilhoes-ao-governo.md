@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Paulo Guedes participou da comemoração dos 70 anos do banco.
 
 Durante cerimônia de comemoração dos 70 anos do Banco Nacional de Desenvolvimento Econômico e Social (BNDES), o ministro da Economia, Paulo Guedes, lembrou que a instituição financeira deve à União e criticou posicionamento jurídico apresentado ao Tribunal de Contas da União (TCU). O evento aconteceu nesta segunda-feira (20), no auditório do edifício-sede do banco. O discurso foi acompanhado por funcionários, gestores do banco e convidados e também foi transmitido pelas redes sociais.
@@ -32,14 +31,10 @@ Em sua visão, o cenário para a Europa e para os Estados Unidos é de inflaçã
 
 ### Apoio aos pequenos empreendedores
 
-Durante a cerimônia também foi assinada a portaria da segunda edição do Programa Emergencial de Acesso ao Crédito (Peac), em apoio a pequenas e médias empresas. A iniciativa é fruto de parceria entre o BNDES e o Ministério da Economia. A primeira edição surgiu em 2020 como uma medida para mitigar a crise causada pela covid-19.  O Peac é operacionalizado por meio de um Fundo Garantidor para Investimentos (FGI), que dá respaldo para que diferentes agentes financeiros concedam crédito com baixo risco de inadimplência. Segundo o BNDES, o programa já beneficiou 114 mil empresas em mais de 3,8 mil municípios. Em 2020, foram concedidos mais de R$ 92 bilhões por meio de 40 agentes financeiros. A nova edição contará com recursos já disponíveis no fundo garantidor, sem necessidade de novos aportes da União.
+Durante a cerimônia também foi assinada a portaria da segunda edição do Programa Emergencial de Acesso ao Crédito (Peac), em apoio a pequenas e médias empresas. A iniciativa é fruto de parceria entre o BNDES e o Ministério da Economia. A primeira edição surgiu em 2020 como uma medida para mitigar a crise causada pela covid-19. O Peac é operacionalizado por meio de um Fundo Garantidor para Investimentos (FGI), que dá respaldo para que diferentes agentes financeiros concedam crédito com baixo risco de inadimplência. Segundo o BNDES, o programa já beneficiou 114 mil empresas em mais de 3,8 mil municípios. Em 2020, foram concedidos mais de R$ 92 bilhões por meio de 40 agentes financeiros. A nova edição contará com recursos já disponíveis no fundo garantidor, sem necessidade de novos aportes da União.
 
 Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

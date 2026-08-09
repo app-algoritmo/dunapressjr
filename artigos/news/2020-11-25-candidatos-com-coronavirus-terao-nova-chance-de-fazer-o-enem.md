@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 De acordo com o Inep, o estudante deve comunicar se está com a doença infectocontagiosa para fazer o exame em outra data.
 
 Com as provas do Exame Nacional do Ensino Médio (Enem) 2020 marcadas para o próximo mês de janeiro, os candidatos que forem diagnosticados com Covid-19 ou alguma outra doença infectocontagiosa e, portanto, não puderem comparecer ao teste, terão uma nova chance.
@@ -40,7 +39,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

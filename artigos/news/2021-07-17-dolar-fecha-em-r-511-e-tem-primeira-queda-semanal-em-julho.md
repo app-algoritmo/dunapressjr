@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Na semana, queda chegou a 2,66%; Ibovespa recuou 1,18% nesta sexta-feira (16).
 
 Num dia de volatilidade no mercado financeiro, o dólar fechou praticamente estável, depois de passar a maior parte do dia em queda. Mesmo assim, a divisa teve o primeiro recuo semanal em julho. Influenciada pelo cenário externo, a bolsa de valores caiu pela segunda vez consecutiva e reverteu os ganhos dos últimos dias.
@@ -26,10 +25,6 @@ A bolsa de valores não teve o mesmo movimento. Influenciado pela queda das bols
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

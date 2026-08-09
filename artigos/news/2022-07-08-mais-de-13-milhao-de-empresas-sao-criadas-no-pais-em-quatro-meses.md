@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Número foi registrado pelo boletim do Mapa de Empresas, que apontou tempo médio de um dia e 16 horas para abertura de empresas no Brasil.
 
 O primeiro quadrimestre de 2022 registrou a abertura de mais de 1,3 milhão de empresas no país. O saldo no período ficou positivo, com 808.243 empresas abertas, descontadas as 541.884 empresas fechadas nos primeiros quatro meses do ano. Com esse resultado, o total de empresas ativas no país subiu para 19.373.257.
@@ -26,8 +25,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

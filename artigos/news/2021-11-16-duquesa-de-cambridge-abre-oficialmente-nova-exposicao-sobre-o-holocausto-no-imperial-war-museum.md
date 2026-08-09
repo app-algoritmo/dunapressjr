@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Duquesa de Cambridge se reuniu com os sobreviventes do Holocausto Yvonne Bernstein e Steven Frank em uma exposição de fotos de sobreviventes e refugiados - incluindo duas que ela tirou do casal como parte de um projeto do Jewish News.
 
 A futura Rainha conversou com os sobreviventes no Museu Imperial da Guerra, quase dois anos depois que ela os fotografou para dar início a uma iniciativa para marcar o 75º aniversário da libertação de Auschwitz.
@@ -42,7 +41,3 @@ Fonte: [https://jewishnews.tim](https://jewishnews.tim)esofisrael.com
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

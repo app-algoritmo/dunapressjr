@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Anunciada a nova plataforma “anti-censura” baseada em assinatura [“Thinkspot”](https://www.ts.today/) que está sendo criada pelo popular psicólogo Dr. Jordan B. Peterson. Ela está sendo comercializada como uma alternativa de livre expressão aos processadores de pagamento como o Patreon, na medida em que “monetizará criadores” e também fornecerá uma alternativa de mídia social para plataformas como Facebook e YouTube.
 
 Uma próxima plataforma de liberdade de expressão que promete oferecer aos usuários os melhores recursos de outras mídias sociais, mas sem a censura.
@@ -44,4 +43,4 @@ Jordan B. Peterson tem centenas de vídeos publicados, assista e conheça um pou
 
 Vídeo legendado: Marxismo é tão condenável quanto o Nazismo
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?aff=barrosprojectmanager)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)**

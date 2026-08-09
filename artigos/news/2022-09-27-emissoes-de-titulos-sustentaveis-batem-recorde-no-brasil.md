@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Em 2020 e 2021, foram captados US$ 20 bi por esse tipo de papel.
 
 As emissões de títulos ligados a projetos de sustentabilidade ou a metas de governança ambiental e social bateram recorde no Brasil. Segundo estimativas divulgadas nesta segunda-feira (26) pelo Banco Central (BC), em 2020 e 2021 foram lançados US$ 20 bilhões por meio desse tipo de papel.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

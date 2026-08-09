@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Além de anunciar um **plano de investimentos em seu retorno** ao cargo após a absolvição pelo Tribunal do Impeachment, o governador Carlos Moisés divulgou nesta sexta-feira, 27, mudanças no primeiro escalão de Governo. São novos nomes para a Casa Civil, a Secretaria Executiva de Comunicação e a Procuradoria-Geral do Estado.
 
 Na Casa Civil, Eron Giordani será o novo chefe. Ele já atuou como secretário da Casa Civil nas prefeituras de Chapecó e Florianópolis, além de ter participado do Conselho de Administração da Celesc. Nos últimos dois anos, atuou na chefia de gabinete da presidência da Assembleia Legislativa (Alesc).
@@ -31,7 +30,5 @@ SEU APOIO VOLUNTARIO É MUITO IMPORTANTE!
 Sua assinatura não somente ajudará no fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

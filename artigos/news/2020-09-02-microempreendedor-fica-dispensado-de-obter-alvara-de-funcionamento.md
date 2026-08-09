@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Resolução entrou em vigor nesta terça-feira (01).
 
 A partir desta terça-feira (1º), começou a valer a resolução que permite que microempreendedores individuais (MEI) sejam dispensados de alvará, ato público de liberação de atividades econômicas relativas à categoria. A regra foi aprovada em agosto pelo Comitê para Gestão da Rede Nacional para Simplificação do Registro e da Legalização de Empresas e Negócios (CGSIM).
@@ -29,5 +28,3 @@ A nova norma possibilita ainda uma coleta única de dados nas Juntas Comerciais,
 Fonte: Agência Brasil – Imagem de destaque: Rovena Rosa/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

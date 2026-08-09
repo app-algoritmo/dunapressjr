@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Pesquisa indica que brasileiros pretendem viajar mais e procura por atrativos ao ar livre deve crescer.
 
 Mais uma pesquisa aponta o turismo doméstico como propulsor da retomada do setor no Brasil. Um levantamento realizado pela plataforma Hoteis.com mostrou que mais da metade dos brasileiros planeja voltar a viajar após o fim da pandemia e 47% deles visam os atrativos nacionais como principal opção para visitar. O litoral brasileiro se destaca, e as capitais mais cobiçadas são Florianópolis (32%), Fortaleza (29%), Recife (23%), Rio de Janeiro (22%) e Salvador (20%).
@@ -20,7 +19,7 @@ Imagem: Daniel Vianna
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

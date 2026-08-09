@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Homenagem de valorização do negro na sociedade itajaiense integra a Prêmio Simeão; evento terá transmissão pela internet, às 19h30.
 
 A Secretaria de Promoção da Cidadania realiza nesta quarta-feira (25), no Gabinete do Prefeito, a cerimônia de entrega do Prêmio Simeão, homenagem de valorização do negro na sociedade itajaiense. Neste ano, devido as restrições de saúde em decorrência da COVID-19, o evento será restrito à homenageada, Valci Anacleto da Costa, e familiares. A premiação será transmitida pelo Facebook da Prefeitura, às 19h30.
@@ -32,7 +31,5 @@ SEU APOIO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

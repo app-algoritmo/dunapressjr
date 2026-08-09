@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Brasil tem previsto, para o primeiro semestre de 2021, acesso a 140 milhões de doses de vacinas contra a Covid-19 que serão destinadas ao Programa Nacional de Imunização.
 
 Desse total, cerca de 40 milhões de doses fazem parte da iniciativa Covax Facility, que o Brasil firmou em setembro. É um instrumento de acesso global que conta com 9 vacinas em fase de testes. Essa quantidade de doses é suficiente para a cobertura de 10% da população prioritária brasileira, ou seja, 20.242.106 milhões de pessoas; considerando aí a necessidade de dose dupla, como prevê o acordo. Fazem parte da população prioritária pessoas com 80 anos ou mais, com morbidades e profissionais de saúde.
@@ -39,7 +38,7 @@ Também foi criado um validador para permitir que seja garantida a segurança e 
 
 Segundo a Agência Nacional de Vigilância Sanitária, quatro vacinas contra a Covid-19 estão sendo testadas no Brasil: Uma do Reino Unido; uma da China; uma dos Estados Unidos em parceria com a Europa; e outra da Europa.
 
-Todos esses testes foram aprovados pela ANVISA e estão condicionados a quatro aspectos principais: dados de segurança; delineamento do estudo proposto; dados de produção e controle de qualidade; e boas práticas clínicas. 
+Todos esses testes foram aprovados pela ANVISA e estão condicionados a quatro aspectos principais: dados de segurança; delineamento do estudo proposto; dados de produção e controle de qualidade; e boas práticas clínicas.
 
 ### Vacina Reino Unido
 
@@ -68,5 +67,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

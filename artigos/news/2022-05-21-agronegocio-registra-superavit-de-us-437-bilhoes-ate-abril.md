@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Apenas no mês de abril, o agronegócio exportou US$ 14,9 bilhões.
 
 [**A balança comercial do agronegócio**](https://balanca.economia.gov.br/balanca/publicacoes_dados_consolidados/nota.html) brasileiro apresentou superávit de US$ 43,7 bilhões no acumulado do ano, até abril, de acordo com o Instituto de Pesquisa Econômica Aplicada (Ipea). O setor foi o responsável por puxar o saldo positivo da balança comercial brasileira, que apresentou um superávit de mais de US$ 20,2 bilhões no acumulado do ano, também até abril de 2022.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

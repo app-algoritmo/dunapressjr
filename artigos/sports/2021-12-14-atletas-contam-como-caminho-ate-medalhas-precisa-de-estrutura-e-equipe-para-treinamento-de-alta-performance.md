@@ -8,7 +8,6 @@ categories:
 - Sports
 ---
 
-
 O surf ganhou status olímpico nas Olimpíadas de Tóquio, o que elevou o nível de competição nos principais campeonatos. A surfista catarinense Maya Carpinelli, de 15 anos, sabe disso e, sonhando com os mais altos pódios, treina diariamente há quase dois anos na cidade onde mora, em Garopaba (SC). “É preciso se destacar em grandes competições para conquistar apoiadores, pois sem isso, não se consegue competir. São custos altos, como os de viagens e inscrições, e quando você passa por uma etapa, precisa continuar, ir para a próxima. É necessário lutar muito”, conta Maya.
 
 O judoca Daniel Cargnin, que exibe com orgulho a medalha de bronze conquistada nas Olimpíadas de Tóquio 2021, reforça que o caminho percorrido em busca do nível máximo de competição não seria possível sem apoio. Aos 23 anos, passou 16 deles no tatame e começou a competir em uma pequena academia de Canoas (RS), sem suporte financeiro. Daquela forma, não conseguiria entrar na elite do judô. Foram dez anos treinando como atleta bolsista de um clube de Porto Alegre (RS) que o fizeram chegar à performance necessária para conquistar a medalha olímpica. Além do clube, ele é integrante da Comissão de Desportos da Marinha (CDM) e do Centro de Educação Física Almirante Nunes (Cefan), desde 2017.
@@ -36,7 +35,3 @@ Fonte: **Central Press**
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

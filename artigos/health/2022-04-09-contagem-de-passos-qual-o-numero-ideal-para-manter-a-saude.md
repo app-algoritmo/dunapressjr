@@ -7,14 +7,13 @@ categories:
 - Health
 ---
 
-
-Um, dois, três, dez mil. Na telinha do relógio ou do celular, a contagem progressiva vai mostrando quantos passos você deu para ir ao mercado, à padaria ou na caminhada no fim do dia. É uma forma de controlar sua atividade física, claro, mas, afinal, quantos passos é preciso dar por dia para se manter saudável? 
+Um, dois, três, dez mil. Na telinha do relógio ou do celular, a contagem progressiva vai mostrando quantos passos você deu para ir ao mercado, à padaria ou na caminhada no fim do dia. É uma forma de controlar sua atividade física, claro, mas, afinal, quantos passos é preciso dar por dia para se manter saudável?
 
 Os *smartwatches* viraram febre no Brasil ao longo dos últimos anos. De acordo com levantamento feito pela *Counterpoint Research*, só em 2021, esse mercado cresceu 35%. Desenvolvidos pelas grandes empresas de tecnologia do mundo, como *Apple, Samsung e Huawei*, os aparelhos se tornam cada vez mais tecnológicos e precisos - e começam a fazer parte da rotina de cuidados com a saúde.
 
-Para o doutor em Ciências da Saúde e coordenador do curso de Educação Física da Universidade Positivo, Zair Cândido de Oliveira Netto, essa é uma forma prática de monitorar o nível de atividade física diária e, até mesmo, de respeitar os próprios limites, desde que haja um acompanhamento feito por profissionais. “É importante consultar um cardiologista, principalmente se a pessoa é sedentária, está acima do peso ou tem uma dieta desregulada, com muito carboidrato, muita gordura ou consumo excessivo de álcool”, explica. 
+Para o doutor em Ciências da Saúde e coordenador do curso de Educação Física da Universidade Positivo, Zair Cândido de Oliveira Netto, essa é uma forma prática de monitorar o nível de atividade física diária e, até mesmo, de respeitar os próprios limites, desde que haja um acompanhamento feito por profissionais. “É importante consultar um cardiologista, principalmente se a pessoa é sedentária, está acima do peso ou tem uma dieta desregulada, com muito carboidrato, muita gordura ou consumo excessivo de álcool”, explica.
 
-O cardiologista pode, junto do paciente, calcular os limites apropriados de atividade física para cada caso - e o *smartwatch* ajuda a se manter dentro desses limites. “Do contrário, quando você acelera os batimentos cardíacos e aumenta a pressão arterial - o que acontece durante os exercícios - há o risco de deslocar placas de gordura de alguma artéria ou entupir um capilar do sistema nervoso central, por exemplo, e acarretar um problema sério de saúde”, alerta. Com esses equipamentos, é possível monitorar o nível de atividade que se quer atingir, e até programar alertas para quando esse nível for ultrapassado. 
+O cardiologista pode, junto do paciente, calcular os limites apropriados de atividade física para cada caso - e o *smartwatch* ajuda a se manter dentro desses limites. “Do contrário, quando você acelera os batimentos cardíacos e aumenta a pressão arterial - o que acontece durante os exercícios - há o risco de deslocar placas de gordura de alguma artéria ou entupir um capilar do sistema nervoso central, por exemplo, e acarretar um problema sério de saúde”, alerta. Com esses equipamentos, é possível monitorar o nível de atividade que se quer atingir, e até programar alertas para quando esse nível for ultrapassado.
 
 **Um passo de cada vez**
 
@@ -39,7 +38,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

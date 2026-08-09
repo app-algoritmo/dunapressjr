@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Dólar fechou estável, vendido a R$ 5,18.
 
 A reação provocada pela aprovação do projeto que reformula o Imposto de Renda voltou a ofuscar o mercado nesta sexta-feira (3). Apesar de uma leve alta no dia, a bolsa de valores registrou a pior semana desde fevereiro. O dólar chegou a cair durante a manhã, mas reverteu a queda e fechou praticamente estável pelo segundo dia seguido.
@@ -26,10 +25,6 @@ No mercado internacional, a divulgação da criação de 235 mil vagas de trabal
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Data para vencimento é 10 de junho.
 
 Os participantes que se inscreveram no Exame Nacional do Ensino Médio (Enem) 2020 e ainda não efetuaram o pagamento terão mais prazo para pagar a taxa de inscrição. Para isso, será necessário acessar a [Página do Participante](http://https/enem.inep.gov.br/participante/#!/) e gerar novo boleto, que será disponibilizado com vencimento em 10 de junho. Os novos boletos estarão disponíveis a partir desta quarta-feira, dia 3. Os boletos gerados anteriormente perderam a validade e deverão ser descartados.
@@ -19,8 +18,6 @@ A iniciativa do Ministério da Educação (MEC), por meio do Inep, é mais uma d
 O Inep mantém seu compromisso para que nenhum participante sdo Enem 2020 seja prejudicado.
 
 Fonte: gov.br/mec / Imagem em destaque: mec
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

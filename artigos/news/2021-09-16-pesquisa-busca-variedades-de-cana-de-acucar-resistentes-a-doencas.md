@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Desenvolvido por pesquisadores de São Paulo, estudo foi publicado na Revista Scientific Reports.
 
 O maior produtor mundial de cana-de-açúcar, o Brasil ainda procura na ciência soluções para deter doenças como o amarelinho, o mosaico e a ferrugem marrom, que afetam as lavouras e reduzem a produtividade do setor. Com este foco, pesquisadores do Centro de Biologia Molecular e Engenharia Genética da Universidade Estadual de Campinas (Unicamp), Ricardo José Gonzaga Pimenta e Alexandre Hild Aono, bolsistas da CAPES, publicaram artigo no periódico [*Scientific Reports*](https://www.nature.com/srep)*.* 
@@ -31,7 +30,3 @@ Fonte: Capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -7,7 +7,6 @@ categories:
 - Pets
 ---
 
-
 ## Estudo afirma que os animais de estimação dos EUA são responsáveis ​​por 64 milhões de toneladas de emissões de C02 anualmente; mas alguns especialistas não estão convencidos.
 
 O seu adorável cachorrinho é tão ruim para o planeta quanto um SUV bebedor de gasolina?
@@ -26,9 +25,7 @@ Uma década depois, o veredicto ainda não foi feito sobre o impacto planetário
 
 Em um estudo de 2017, Okin estimou que 160 milhões de cães e gatos domésticos nos Estados Unidos foram responsáveis ​​por 25-30% do impacto ambiental da carne consumida no país.
 
-- 
-- 
-Os Irmãos Akila e Dakota, tirando cochilo. Arquivo pessoal. 
+Os Irmãos Akila e Dakota, tirando cochilo. Arquivo pessoal.
 
 São 64 milhões de toneladas de C02, o equivalente às emissões anuais de 13 milhões de carros a gasolina ou diesel.
 
@@ -92,7 +89,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

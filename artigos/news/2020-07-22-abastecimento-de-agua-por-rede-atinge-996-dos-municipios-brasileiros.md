@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 É o que revela pesquisa feita pelo IBGE.
 
 O percentual de municípios brasileiros com abastecimento de água por rede chegou a 99,6% (5.548 cidades) em 2017. Em 2008, essa proporção era de 99,4% (5.531). Nas regiões Sudeste e Sul, o serviço está em 100% das cidades. Os dados estão na Pesquisa Nacional de Saneamento Básico (PNSB) 2017, divulgada hoje (22) pelo Instituto Brasileiro de Geografia e Estatística (IBGE), no Rio de Janeiro.
@@ -34,4 +33,4 @@ Em 2017, houve interrupção do abastecimento por seis horas ou mais em 44,5% (2
 
 Fonte: Agência Brasil – Imagem de destaque: Fabio Rodrigues Pozebom/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

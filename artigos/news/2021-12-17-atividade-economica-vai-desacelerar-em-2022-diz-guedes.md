@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Ministro afirma que a recuperação pós-pandemia foi concluída.
 
 Com o processo de recuperação concluído após a fase mais aguda da pandemia de covid-19, a atividade econômica brasileira desacelerará em 2022, disse nesta quinta-feira (16) o ministro da Economia, Paulo Guedes. Segundo ele, a “volta em V” (forte queda seguida de forte crescimento) já foi concluída.
@@ -22,10 +21,6 @@ A [**nova versão do Relatório de Inflação**](https://agenciabrasil.ebc.com.b
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

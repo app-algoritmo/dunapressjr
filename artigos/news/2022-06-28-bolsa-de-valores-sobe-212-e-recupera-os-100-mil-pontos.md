@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Dólar cai para R$ 5,23, ajudado por alívio externo.
 
 Em um dia de alívio no mercado financeiro, a bolsa de valores subiu mais de 2% e superou a marca dos 100 mil pontos, após passar seis pregões abaixo desse nível. O dólar caiu pela primeira vez após três altas seguidas, ajudado pelo fluxo internacional na maior parte do dia.
@@ -24,8 +23,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

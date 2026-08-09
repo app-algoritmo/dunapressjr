@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 O presidente da República, Jair Bolsonaro, prorrogou até 10 de julho, por meio do decreto 10.394, o emprego de militares para combater focos de incêndio e desmatamento ilegal na chamada Amazônia Legal. A determinação se aplica à faixa de fronteira, terras indígenas, unidades federais de conservação ambiental e em outras áreas federais nos Estados da Amazônia Legal.
 
 **Últimas 24 horas das ações**
@@ -21,12 +20,10 @@ Na área do Comando Conjunto Marechal Soares de Andrea, que atua no Estado do Pa
 
 **Resultados**
 
-A Operação Verde Brasil 2 terminou o primeiro mês com resultados expressivos. Durante as ações de fiscalização foram identificadas áreas de desmatamento e corte ilegal de madeira, resultando em mais de 14,4 mil metros cúbicos de madeira apreendida e aplicação de 288 multas, que somadas superaram R$ 103 milhões. 
+A Operação Verde Brasil 2 terminou o primeiro mês com resultados expressivos. Durante as ações de fiscalização foram identificadas áreas de desmatamento e corte ilegal de madeira, resultando em mais de 14,4 mil metros cúbicos de madeira apreendida e aplicação de 288 multas, que somadas superaram R$ 103 milhões.
 
 Além disso, foram vistoriados 4.850 veículos e 2.273 embarcações. No total, foram apreendidos 131 veículos, entre carros, reboques, motos e caminhões, 50 tratores, escavadeiras ou máquinas agrícolas e 113 embarcações. Também foram destruídos 104 equipamentos, entre veículos, motores de garimpo, balsas, tratores, escavadeiras, máquinas agrícolas e outros. A repressão aos delitos também resultou em apreensão de 65 animais silvestres mortos, 12,250 quilos de pasta base de cocaína, 418,16 quilos de minério de cassiterita, 7 mil litros de óleo diesel e 18 armas de fogo. Os fiscais, apoiados pelos militares, ainda apreenderam perto de 1,5 tonelada de produtos do extrativismo, de caça e de pesca obtidos ilegalmente.
 Nas comunidades e distritos próximos às Bases de Operações foram desencadeadas ações de conscientização, contribuindo para esclarecer e mudar a postura da população com relação aos ilícitos ambientais.
 
 **Assessoria de Comunicação Social (Ascom)**
 **Ministério da Defesa**
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

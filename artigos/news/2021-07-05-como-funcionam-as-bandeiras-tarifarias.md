@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Sistema reflete custos variáveis da geração de energia.
 
 Anúncios de aumento na conta de luz são sempre motivo de preocupação. Desde 2015 que a Agência Nacional de Energia Elétrica (Aneel) resolveu adotar o sistema de bandeiras na conta de luz, para o consumidor saber se está pagando o valor normal ou um valor a mais pela energia elétrica. As bandeiras tarifárias refletem os custos variáveis da geração de energia elétrica.
@@ -36,8 +35,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

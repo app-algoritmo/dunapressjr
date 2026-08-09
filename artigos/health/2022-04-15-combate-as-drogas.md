@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A dependência em drogas lícitas ou ilícitas é uma doença, sendo assim considerada pela Organização Mundial da Saúde (OMS). De acordo com a própria OMS, o consumo de drogas ilícitas acomete cerca de 5% da população mundial, entre 15 e 64 anos de idade.
 
 O [**Escritório das Nações Unidas para Drogas e Crime (UNODC)**](https://www.unodc.org/unodc/index.html) qualifica a prevenção como fundamental para o controle internacional do uso de drogas, além de propiciar o retorno dos investimentos à população por meio da economia gerada com a redução de gastos com saúde e benefícios sociais, pois, o abuso de drogas na juventude configura-se como um dos principais motivos de anos perdidos na vida por incapacidade ou morte precoce, de acordo com a OMS.
@@ -45,7 +44,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

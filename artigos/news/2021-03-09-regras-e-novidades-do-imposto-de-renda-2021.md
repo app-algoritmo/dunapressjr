@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Auxílio emergencial e criptomoedas deverão ser declarados.
 
 Março chegou com a obrigação de o contribuinte acertar as contas com o Leão. Desde o dia 1º, os contribuintes devem entregar a Declaração de Ajuste Anual do Imposto de Renda Pessoa Física. A Receita Federal espera receber, até 30 de abril, 32,6 milhões de declarações neste ano.
@@ -17,7 +16,7 @@ O Fisco estima que, neste ano, 60% das declarações paguem restituição, 21% n
 Neste ano, a [**declaração trouxe novidades**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-02/auxilio-emergencial-e-criptomoedas-deverao-ser-declarados-no-ir), como a obrigatoriedade de declarar o recebimento do auxílio emergencial para contribuintes não isentos e a criação de códigos para declarar criptomoedas. Outra novidade foi a ampliação da [**declaração pré-preenchida**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-03/agencia-brasil-explica-declaracao-pre-preenchida-do-imposto-de-renda) para contribuintes inscritos no Portal de Serviços Públicos do Governo Federal (Portal gov.br).
 
 **Confira as regras e as novidades para a declaração deste ano
-**
+
 Obrigatoriedade
 Deve declarar Imposto de Renda quem:
 •        Recebeu, ao longo de 2020, mais de R$ 28.559,70 em rendimentos tributáveis
@@ -102,8 +101,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

@@ -7,8 +7,7 @@ categories:
 - News
 ---
 
-
-Visita incluiu sobrevoo na região para conhecer trabalho de proteção realizado pela Vale em parceria com o ICMBio. 
+Visita incluiu sobrevoo na região para conhecer trabalho de proteção realizado pela Vale em parceria com o ICMBio.
 
 O vice-presidente da República e presidente do Conselho Nacional da Amazônia Legal (CNAL), Hamilton Mourão, cumpriu agenda de visita à Floresta Nacional dos Carajás, no estado do Pará, a convite da Vale, na terça-feira (29), a fim de conhecer o Projeto de Mineração Industrial e os trabalhos de proteção do meio ambiente na região.
 
@@ -25,5 +24,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

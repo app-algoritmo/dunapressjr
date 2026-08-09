@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Desde o início da situação de emergência causada pela Covid-19 no Brasil, o Ministério da Saúde já contratou 6.622 profissionais médicos para reforçar o atendimento à população nos postos de saúde de 2.127 municípios e 21 Distritos Sanitários Especiais Indígenas (DSEI). Foram lançados, de forma emergencial, quatro editais para provimento médico, no âmbito do programa Mais Médicos, no qual os municípios oferecem as vagas que necessitam e os médicos escolhem onde querem atuar. O edital nº 5/20, para médicos com CRM Brasil, soma 3.803 profissionais atuando em 1.348 municípios e distritos indígenas, alocados neste ano. Capitais e grandes centros voltaram a ser contemplados pelo programa, já que são localidades onde há maior concentração de pessoas e, consequentemente, maior possibilidade de contágio.
 
 Em complemento, também foi lançado o edital nº 9/20, que reincorpora profissionais cubanos ao programa, conforme determinado na Lei nº 12.871 aprovada pelo Congresso Nacional, desde que atendam aos seguintes requisitos: estar no exercício de suas atividades no programa Mais Médicos no dia 13 de novembro de 2018, quando o acordo de cooperação foi rescindido pelo governo cubano e ter permanecido no Brasil até a data da publicação da Medida Provisória nº 890, na condição de naturalizado, residente ou com pedido de refúgio. O edital já abriu duas chamadas, que incorporou 1.012 médicos em mais de 400 municípios.
@@ -26,4 +25,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

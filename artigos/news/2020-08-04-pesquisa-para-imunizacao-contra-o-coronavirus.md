@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A vacina de RNA é feita a partir do código genético do vírus. Pesquisa recebe apoio do Programa de Combate a Epidemias.
 
 Desenvolver uma vacina contra a COVID-19, a partir do RNA, é uma das propostas do projeto de pesquisa do Laboratório de Estudos Moleculares e Terapia Experimental (Lemte) do Programa de Pós-Graduação em Genética da Universidade Federal de Pernambuco (UFPE). Esse é um dos quatro projetos da instituição que recebem apoio do [Programa de Combate a Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias) da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).
@@ -34,7 +33,7 @@ Fonte: gov.br / Imagem em destaque: Capes
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

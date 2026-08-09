@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Universidade prevê retorno às aulas antes do resultado das provas.
 
 A Universidade Estadual de Campinas (Unicamp) não aceitará o Exame Nacional do Ensino Médio (Enem) como forma de seleção para ingresso nos cursos com início em 2021. De acordo com a instituição, a mudança ocorreu em razão da incompatibilidade de calendários do exame do governo federal e da universidade.
@@ -22,7 +21,7 @@ Fonte: Agência Brasil / Imagem em destaque: AB
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

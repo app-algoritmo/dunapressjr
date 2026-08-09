@@ -8,10 +8,9 @@ categories:
 - News
 ---
 
-
 ### O setor de serviços foi o que mais contribuiu para o saldo positivo do mês de junho.
 
-O mercado de trabalho da Paraíba registrou saldo positivo pelo quarto mês consecutivo no ano. Dados do Cadastro Geral de Empregados e Desempregados (Caged), do Ministério da Economia, mostram que a Paraíba gerou um saldo de 3.602 postos formais em junho, resultado de 15.758 admissões contra 12.156 desligamentos. 
+O mercado de trabalho da Paraíba registrou saldo positivo pelo quarto mês consecutivo no ano. Dados do Cadastro Geral de Empregados e Desempregados (Caged), do Ministério da Economia, mostram que a Paraíba gerou um saldo de 3.602 postos formais em junho, resultado de 15.758 admissões contra 12.156 desligamentos.
 
 Assim como os meses de abril e maio, o setor de serviços (1.667) foi o que mais contribuiu para o saldo positivo do mês de junho, seguido de comércio (+1.028) e indústria (+820), enquanto a agropecuária gerou saldo de 178. O setor de construção foi o único negativo (-91).
 
@@ -25,8 +24,4 @@ Fonte: paraiba.pb.gov.br
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

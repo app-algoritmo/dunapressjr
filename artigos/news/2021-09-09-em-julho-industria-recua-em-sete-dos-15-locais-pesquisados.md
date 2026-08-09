@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Amazonas teve queda de 14,4%, diz pesquisa do IBGE.
 
 A produção industrial brasileira apresentou queda em sete dos 15 locais analisados pela Pesquisa Industrial Mensal (PIM Regional), na passagem de junho para julho. O Amazonas teve o maior recuo: -14,4%. A retração em São Paulo (-2,9%) foi a segunda maior, mas a primeira em influência no resultado, por conta do peso da indústria paulista na produção nacional. Os resultados foram divulgados hoje (9), no Rio de Janeiro, pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -30,10 +29,6 @@ Nos últimos dois meses (junho-julho), a indústria baiana acumula ganho de 20,6
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A perda acumulada foi 2,2%.
 
 O setor de serviços cresceu 2,4% na passagem de outubro para novembro, após dois meses de taxas negativas, recuperando a perda acumulada de 2,2%. Com o resultado de novembro, o setor ficou 4,5% acima do patamar pré-pandemia de covid-19, registrado em fevereiro de 2020, mas está 7,3% abaixo do recorde alcançado em novembro de 2014. Os dados são da Pesquisa Mensal de Serviços, divulgada nesta quinta-feira (13) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -38,10 +37,6 @@ O índice de atividades turísticas subiu 4,2% frente a outubro, sétima taxa po
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Bolsa sobe mais de 2% e atinge nível mais alto desde fevereiro.
 
 Em um dia marcado pela euforia no mercado externo, o dólar fechou na menor cotação em quatro meses. A bolsa subiu mais de 2% e chegou ao nível mais alto desde o fim de fevereiro.
@@ -31,8 +30,6 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/YFYyl67Ra7)
 
 Obrigado pelo apoio!
 

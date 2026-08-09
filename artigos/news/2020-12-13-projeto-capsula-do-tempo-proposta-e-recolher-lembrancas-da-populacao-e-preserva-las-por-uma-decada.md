@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Fundação Genésio Miranda Lins informa que o prazo para o envio de materiais para o Projeto “Cápsula do Tempo – Memórias de 2020” será prorrogado até o dia 16 de dezembro. A iniciativa do Museu Etno-Arqueológico de Itajaí pretende reunir e guardar, por uma década, fotos e cartas enviadas pela população, contando um pouco de suas vivências durante a pandemia de coronavírus. O processo de lacre da cápsula será realizado no dia 18 de dezembro, às 16h, em cerimônia restrita aos servidores do Museu por conta da pandemia.
 
 Pessoas de qualquer idade podem participar do projeto Cápsula do Tempo. Basta escrever uma ou mais cartas, que devem ser endereçadas ao Museu Etno-Arqueológico de Itajaí (Avenida Itaipava, 3901, bairro Itaipava, Itajaí-SC, CEP 88316-301). Fotos, desenhos e gravuras também poderão ser enviados. O envelope deve conter os dados completos do remetente e não poderá ultrapassar o tamanho A4.
@@ -40,7 +39,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Polícia Federal e CGU tentam desarticular grupo no Maranhão.
 
-A Polícia Federal e a Controladoria-Geral da União (CGU) deflagraram hoje (2) a Operação Estoque Zero. É para desarticular grupo criminoso especializado em fraudes licitatórias e irregularidades contratuais. A investigação tem como alvo um processo da Secretaria Municipal de Saúde e Saneamento da cidade de Pinheiro, no Maranhão, instruído para a aquisição de seis mil testes rápidos para o diagnóstico da covid-19, no valor de R$ 960 mil. 
+A Polícia Federal e a Controladoria-Geral da União (CGU) deflagraram hoje (2) a Operação Estoque Zero. É para desarticular grupo criminoso especializado em fraudes licitatórias e irregularidades contratuais. A investigação tem como alvo um processo da Secretaria Municipal de Saúde e Saneamento da cidade de Pinheiro, no Maranhão, instruído para a aquisição de seis mil testes rápidos para o diagnóstico da covid-19, no valor de R$ 960 mil.
 
 “Os elementos colhidos pela equipe policial revelaram que funcionários da Secretaria de Saúde e Saneamento de Pinheiro, em conluio com empresários de Teresina (PI), simularam a compra e venda de testes rápidos, por meio da contratação de empresa de fachada que não forneceu o objeto pactuado”, explicou a Polícia Federal (PF), em nota.
 
@@ -24,8 +23,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

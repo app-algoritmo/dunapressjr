@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Óleo e gás, transporte e energia elétrica lideram novas ações, mostra Secretaria de Política Econômica.
 
 A Secretaria de Política Econômica (SPE) do Ministério da Economia (ME) estima que os investimentos dos projetos da carteira do Programa de Parcerias de Investimentos (PPI) somarão R$ 78 bilhões somente em 2022 *–* montante equivalente a cerca de 1% do Produto Interno Bruto (PIB). O valor sobe a R$ 360 bilhões até 2025 e a estimativa total de investimentos via PPI, considerando contratações já feitas entre 2019 e 2022, passa de R$ 1,3 trilhão ao longo de 30 anos.
@@ -34,8 +33,4 @@ A Nota Informativa lista, ainda, as principais reformas, as mudanças de marcos 
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

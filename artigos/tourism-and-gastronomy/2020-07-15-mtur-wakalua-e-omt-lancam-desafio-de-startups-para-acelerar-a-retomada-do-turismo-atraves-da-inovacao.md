@@ -8,14 +8,13 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 ## Projetos finalistas se classificam para competição global e podem ganhar viagem a Madri. Inscrições estão abertas até 2 de setembro.
 
 O Ministério do Turismo (MTur) lançou, nesta quarta-feira (15.07), o 1º Desafio Brasileiro de Inovação em Turismo, em parceria com o Ministério de Ciência, Tecnologia e Inovações (MCTI), Wakalua Innovation Hub - primeiro polo global de inovação em turismo, e com a Organização Mundial do Turismo (OMT), agência da ONU dedicada ao setor. A competição inédita busca soluções para a retomada do turismo brasileiro através de projetos de base tecnológica que respondam tanto a necessidades imediatas do contexto pós-pandemia, quanto a desafios gerais do turismo brasileiro. [As inscrições já estão abertas no site da competição e se encerram em 2 de setembro](https://startups.turismo.gov.br/).
 
 Os melhores projetos brasileiros serão classificados para as semifinais da terceira edição da [UNWTO Tourism Startup Competition](https://www.unwto.org/unwto-sustainable-development-goals-global-startup-competition), desafio global promovido pela OMT em parceria com o Wakalua, e disputam uma viagem a Madri (Espanha) para um programa de treinamento e participação na FITUR 2021, a maior feira de turismo do mundo. A competição será realizada totalmente online e os detalhes sobre o evento final serão anunciados no site.
 
-A competição é parte de uma colaboração entre MTur e Wakalua para estimular a inovação em turismo no Brasil, melhorando a competitividade do turismo brasileiro através da transformação digital de organizações públicas e privadas. O projeto prevê a instalação de um hub dedicado ao setor no país. Desde janeiro foram realizados um mapeamento do ecossistema e uma proposta de estratégia plurianual para a área, que será submetida a consulta ao setor.                                             
+A competição é parte de uma colaboração entre MTur e Wakalua para estimular a inovação em turismo no Brasil, melhorando a competitividade do turismo brasileiro através da transformação digital de organizações públicas e privadas. O projeto prevê a instalação de um hub dedicado ao setor no país. Desde janeiro foram realizados um mapeamento do ecossistema e uma proposta de estratégia plurianual para a área, que será submetida a consulta ao setor.
 
 O ministro do Turismo, Marcelo Álvaro Antônio, destacou a importância do desafio e ressaltou o trabalho desenvolvido em parceria com a Wakalua, especialmente no processo de retomada das atividades turísticas no Brasil. “As soluções tecnológicas e de inovação serão essenciais para ajudar o setor na  retomada pós-pandemia e irão se somar às ações já desenvolvidas pelo governo federal”, disse. “Estamos certos de que o Brasil terá sucesso neste caminho”.
 
@@ -41,7 +40,7 @@ O Desafio Brasileiro de Inovação em Turismo faz parte de um conjunto de inicia
 
 Fonte: Turismo Gov BR
 
-Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/?aff=Thami) e torne-se um assinante de nosso jornal.
+Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui](https://dunapress.org/subscription-plan/) e torne-se um assinante de nosso jornal.
 
 Experimente por 7 Dias Gratuitos
 

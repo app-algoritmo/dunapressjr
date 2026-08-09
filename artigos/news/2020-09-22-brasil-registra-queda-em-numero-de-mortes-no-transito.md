@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 De 2015 a 2019, país conseguiu reduzir em 7% ao ano os óbitos causados por acidentes de trânsito. Dados mostram uma redução de 43 mil para 30 mil mortes por ano.
 
 O Brasil registrou uma queda anual de 7% nas mortes por acidentes de trânsito no período entre 2015 e 2019. Os dados são do Departamento de Informática do Sistema Único de Saúde (DataSUS), que mostrou uma redução de 43 mil para 30 mil mortes por ano. Estes são alguns dos dados que serão divulgados durante a Semana Nacional de Trânsito (SNT) 2020, promovida pelo Departamento Nacional de Trânsito (Denatran). A mobilização nacional, que acontece nesta sexta-feira (18) até o dia 25 de setembro, tem o objetivo de conscientizar a população sobre a importância de atitudes mais responsáveis que proporcionem um trânsito mais seguro para todos.
@@ -27,5 +26,3 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e aplique o código JOMAFE e obtenha o desconto promocional.
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joiceferreiradunapress)

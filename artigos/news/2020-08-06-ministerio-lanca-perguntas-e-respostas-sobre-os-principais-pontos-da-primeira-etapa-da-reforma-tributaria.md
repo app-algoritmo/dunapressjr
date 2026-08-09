@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Documento explica as mudanças mais importantes previstas no Projeto de Lei nº 3.887/2020, entregue ao Congresso Nacional em 21 de julho.
 
 O Ministério da Economia lançou nesta quarta-feira (5/8) uma publicação no formato[ “Perguntas e Respostas”](https://www.gov.br/economia/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria/perguntas-e-respostas.pdf), com a explicação dos principais pontos da primeira parte da proposta de Reforma Tributária do governo federal (Projeto de Lei nº 3.887/2020), entregue ao Congresso Nacional em 21 de julho passado.
@@ -21,4 +20,4 @@ Segue o documento na íntegra:
 
 Fonte: gov.br – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O prazo deveria expirar nesta terça-feira.
 
 A Argentina afirmou nesta terça-feira (4) que chegou a um acordo com três grupos credores para reestruturar 65 bilhões de dólares em dívida soberana não paga, potencialmente ajudando o país a sair de um default prejudicial e a revitalizar a economia atingida por uma recessão.
@@ -36,4 +35,4 @@ Sob o acordo, as datas de pagamento dos novos títulos serão 9 de janeiro e 9 d
 
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Direitos Reservados
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

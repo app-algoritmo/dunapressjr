@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## O ato suspende até o dia 30 de junho uma série de exigências para contratação de empréstimos com instituições financeiras e privadas.
 
 Em continuidade às medidas de facilitação de acesso ao crédito, o governo federal publicou no Diário Oficial da União de quarta-feira (10/2), a [Medida Provisória (MP) Nº 1.028](https://www.in.gov.br/en/web/dou/-/medida-provisoria-n-1.028-de-9-de-fevereiro-de-2021-303002340), que suspende até 30 de junho de 2021 uma série de exigências previstas em lei para contratação de operações de crédito com instituições financeiras e privadas. O objetivo é simplificar e agilizar os processos de análise e liberação de créditos a empresas e pessoas físicas que ainda estão com dificuldades devido aos impactos econômicos produzidos pela pandemia da Covid-19.
@@ -39,8 +38,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

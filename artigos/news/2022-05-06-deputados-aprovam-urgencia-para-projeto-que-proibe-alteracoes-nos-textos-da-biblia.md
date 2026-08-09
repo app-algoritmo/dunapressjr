@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A Câmara dos Deputados aprovou nesta quarta-feira (4), por [358 votos a 32](https://www.camara.leg.br/presenca-comissoes/votacao-portal?reuniao=65046&itemVotacao=10783), o requerimento de urgência para [Projeto de Lei 4606/19](https://www.camara.leg.br/noticias/860487-PROJETO-VEDA-ALTERACAO,-EDICAO-OU-ADICAO-AOS-TEXTOS-DA-BIBLIA), do deputado [Pastor Sargento Isidório (Avante-BA)](https://www.camara.leg.br/deputados/204553), que proíbe qualquer alteração, edição, supressão, adição ou adaptação aos textos dos livros da Bíblia.
 
 A proposta poderá ser votada nas próximas sessões do Plenário.
@@ -30,7 +29,3 @@ Fonte: Agência Câmara de Notícias
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

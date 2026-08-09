@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## É o quarto mês seguido de geração de emprego.
 
 Pelo quarto mês consecutivo, o saldo de geração de empregos ficou positivo. Foram criadas 394.989 vagas com carteira assinada em outubro, resultado de 1.548.628 admissões e de 1.153.639 desligamentos. O resultado recorde na série histórica iniciada em 1992 está no Cadastro Geral de Empregados e Desempregados (Caged), divulgado hoje (26) pelo Ministério da Economia.
@@ -49,5 +48,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

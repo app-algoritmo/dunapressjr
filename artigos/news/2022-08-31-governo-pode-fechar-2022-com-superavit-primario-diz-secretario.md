@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Esse seria o primeiro resultado positivo desde 2013.
 
 Pela primeira vez em 9 anos, a União poderá encerrar o ano com superávit primário, disse nesta terça-feira (30) o secretário do Tesouro Nacional, Paulo Valle. Ele comentou o resultado das contas do Governo Central em julho, que registraram o [**maior superávit primário para o mês**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-08/governo-central-tem-superavit-primario-recorde-para-meses-de-julho) desde o início da série histórica, em 1995.
@@ -48,8 +47,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,14 +8,13 @@ categories:
 - News
 ---
 
-
 Nova modalidade auxilia cidadão a acompanhar o andamento das políticas públicas nos municípios.
 
-A [Plataforma +Brasil](http://transferenciasabertas.planejamento.gov.br/) passou a contar essa semana com a modalidade transferências especiais. Esse tipo de transferência permite ao parlamentar encaminhar recursos para um governo estadual ou uma prefeitura sem indicar uma destinação definida. Em 2020, a transação vai contemplar 1.296 municípios, com um total de R$ 598 milhões em emendas parlamentares. 
+A [Plataforma +Brasil](http://transferenciasabertas.planejamento.gov.br/) passou a contar essa semana com a modalidade transferências especiais. Esse tipo de transferência permite ao parlamentar encaminhar recursos para um governo estadual ou uma prefeitura sem indicar uma destinação definida. Em 2020, a transação vai contemplar 1.296 municípios, com um total de R$ 598 milhões em emendas parlamentares.
 
-As informações sobre as transferências especiais ficarão disponíveis na plataforma no item “Painel Parlamentar”, onde é possível acompanhar o andamento das políticas públicas definidas pelos municípios. 
+As informações sobre as transferências especiais ficarão disponíveis na plataforma no item “Painel Parlamentar”, onde é possível acompanhar o andamento das políticas públicas definidas pelos municípios.
 
-A inclusão desse item na Plataforma+Brasil, que é gerenciada pelo Ministério da Economia, vai dar mais transparências às informações e ampliar o controle social. De acordo com o secretário de Gestão do Ministério da Economia, Cristiano Heckert, o objetivo é garantir a rastreabilidade e a transparência na aplicação do recurso público. 
+A inclusão desse item na Plataforma+Brasil, que é gerenciada pelo Ministério da Economia, vai dar mais transparências às informações e ampliar o controle social. De acordo com o secretário de Gestão do Ministério da Economia, Cristiano Heckert, o objetivo é garantir a rastreabilidade e a transparência na aplicação do recurso público.
 
 “Os gestores do município que estão recebendo os recursos vão colocar lá o objeto que ele vai destinar. Se for o caso, vai fazer uma licitação, fazer todos os repasses por dentro da plataforma, colocar a documentação da prestação de contas e a plataforma vai fazendo esse acompanhamento, dando visibilidade e transparência tanto para o parlamentar que designou a emenda quanto para a sociedade”, explicou Cristiano Heckert.
 
@@ -36,5 +35,3 @@ O secretário de Gestão do Ministério da Economia, Cristiano Heckert, informou
 Fonte: Gov.br – Imagem de destaque: Wilson Dias/Agência Brasil
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!.
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

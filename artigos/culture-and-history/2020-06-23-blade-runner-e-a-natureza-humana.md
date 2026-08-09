@@ -7,7 +7,6 @@ categories:
 - Culture and History
 ---
 
-
 “*Eu vi coisas que vocês não imaginariam. Naves de ataque em chamas ao largo de Órion. Eu vi raios-c brilharem na escuridão próximos ao Portal de Tannhäuser. Todos esses momentos se perderão no tempo, como lágrimas na chuva. Hora de morrer!”*
 
 *Roy Batty: em Blade Runner, 1982.*
@@ -52,4 +51,4 @@ SARTRE, Jean Paul. A Transcendência do Ego. Editora Vozes. 2013.
 
 SILVA, Franklin Leopoldo. Sartre e o humanismo. Grupo Almedina. 2019.
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

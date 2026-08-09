@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Bolsa recua, mas tem melhor trimestre desde 2020.
 
 Após oscilar entre altas e baixas ao longo do dia, o dólar fechou esta quinta-feira (31) com queda e teve o maior recuo trimestral desde 2009. A bolsa de valores caiu após duas altas seguidas, mas também encerrou o trimestre em alta, com a maior valorização desde 2020.
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

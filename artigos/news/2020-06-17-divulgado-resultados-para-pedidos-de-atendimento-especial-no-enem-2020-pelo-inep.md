@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Quem pediu atendimento especializado para o Exame Nacional do Ensino Médio (Enem) em 2020 já pode consultar se o pedido por aceito na página do participante. Quem teve a solicitação indeferida, por pedir recurso ao Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) até o dia 19 de junho.
 
 Os documentos aceitos para a comprovação da condição do participante deverão ser inseridos no sistema do Enem, com nome completo do participante; diagnóstico com a descrição da condição que motivou a solicitação e o código correspondente à Classificação Internacional de Doenças (CID 10); assinatura e identificação do profissional competente, com respectivo registro do Conselho Regional de Medicina (CRM), do Ministério da Saúde (RMS) ou de órgão competente.
@@ -60,5 +59,3 @@ Acesse a [Página do Participante](https://enem.inep.gov.br/participante/#!/).
 Fonte: gov.br/mec / Imagem em destaque: olhardireto
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

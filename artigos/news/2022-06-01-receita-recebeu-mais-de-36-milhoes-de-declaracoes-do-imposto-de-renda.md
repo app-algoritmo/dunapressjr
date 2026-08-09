@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### A partir desta quarta-feira (1°), quem não entregou documento no prazo pagará multa.
 
 A Receita Federal informa que até as 24h de terça-feira (31), fim do prazo de entrega, foram recebidas 36.322.912 declarações do Imposto de Renda da Pessoa Física (IRPF) 2022, ano-calendário 2021. A expectativa do órgão de receber 34,1 milhões de declarações foi [**superada**](https://agenciabrasil.ebc.com.br/economia/noticia/2022-05/declaracoes-do-ir-entregues-supera-projecoes-da-receita-federal).
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

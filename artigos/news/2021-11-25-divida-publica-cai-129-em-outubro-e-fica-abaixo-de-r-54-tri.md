@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Vencimento de títulos prefixados provocou queda.
 
 O vencimento de mais de R$ 250 bilhões em títulos públicos prefixados (com juros definidos com antecedência) fez a Dívida Pública Federal (DPF) cair pelo segundo mês seguido. Segundo números divulgados nesta quarta-feira (24) pelo Tesouro Nacional, a DPF passou de R$ 5,443 trilhões em setembro para R$ 5,373 trilhões em outubro, recuo de 1,29%.
@@ -46,14 +45,10 @@ As instituições financeiras seguem como principais detentores da Dívida Públ
 
 Apesar das turbulências no mercado financeiro em outubro, a participação dos não residentes (estrangeiros) subiu levemente de 10,1% em setembro para 10,5% em outubro. O percentual está no maior nível desde fevereiro de 2020, antes do início da pandemia da covid-19. Os demais grupos somam 14,3% de participação, segundo os dados apurados no mês.
 
-Por meio da dívida pública, o governo pega dinheiro emprestado dos investidores para honrar compromissos financeiros. Em troca, compromete-se a devolver os recursos depois de alguns anos, com alguma correção, que pode seguir a taxa Selic (juros básicos da economia), a inflação, o dólar ou ser prefixada (definida com antecedência). 
+Por meio da dívida pública, o governo pega dinheiro emprestado dos investidores para honrar compromissos financeiros. Em troca, compromete-se a devolver os recursos depois de alguns anos, com alguma correção, que pode seguir a taxa Selic (juros básicos da economia), a inflação, o dólar ou ser prefixada (definida com antecedência).
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

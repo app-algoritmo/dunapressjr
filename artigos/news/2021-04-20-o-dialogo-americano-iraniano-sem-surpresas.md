@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 *Por **Dr. Salem AlKetbi**.*
 
 Há várias coisas que essas negociações confirmam, incluindo que o presidente dos EUA Joe Biden ainda está imbuído do legado de sua experiência anterior como ex-vice-presidente de Barack Obama por oito anos, e ele ainda acredita no acordo desastroso concluído por aquele governo, e que representa uma base para as relações americanas com o regime dos mulás. Dito isso, não se espera que Biden busque construir uma nova abordagem estratégica para conter a ameaça nuclear iraniana.
@@ -44,5 +43,3 @@ Fonte: https://www.israelnationalnews.com
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
 
 Assine com PIX
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

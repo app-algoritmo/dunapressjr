@@ -8,12 +8,11 @@ categories:
 - Military
 ---
 
-
 ## **OTAN Estende o Mandato do Almirante Rob Bauer e Elege Almirante Giuseppe Cavo Dragone como seu Sucessor**.
 
 Em 16 de setembro de 2023, durante a **[Conferência do Comité Militar da Organização do Tratado do Atlântico Norte (OTAN)](https://dunapress.org/2023/09/16/chefes-de-defesa-da-otan-reunem-se-na-noruega-para-conferencia-anual/)** realizada em Oslo, uma decisão significativa foi tomada pelos Chefes da Defesa da OTAN. Eles optaram por estender o mandato do atual Presidente do Comité Militar da OTAN, Almirante Rob Bauer, por mais seis meses, enquanto elegiam o Chefe da Defesa italiano, Almirante Giuseppe Cavo Dragone, como seu sucessor. Essa decisão foi fundamentada na necessidade de continuidade de liderança em um cenário global de segurança volátil, em meio ao maior reforço da defesa coletiva da Aliança desde a Guerra Fria.
 
-[](https://dunapress.org/2023/09/16/chefes-de-defesa-da-otan-reunem-se-na-noruega-para-conferencia-anual/)Admiral Rob Bauer, Chair of the NATO Military Committee
+Admiral Rob Bauer, Chair of the NATO Military Committee
 
 A nomeação do Almirante Dragone como sucessor do Almirante Bauer é um passo importante na manutenção da estabilidade e da eficácia da OTAN em um momento crucial. Com o aumento das tensões e desafios de segurança em várias partes do mundo, a OTAN desempenha um papel crucial na promoção da segurança e defesa coletiva dos seus membros.
 

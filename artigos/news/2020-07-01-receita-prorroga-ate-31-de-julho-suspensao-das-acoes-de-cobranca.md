@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Atendimento presencial continua restrito a serviços essenciais.
 
 A Receita Federal prorrogou até 31 de julho as medidas temporárias adotadas por conta da pandemia do coronavírus (covid-19) referentes às regras para o atendimento presencial e procedimentos administrativos.
@@ -24,4 +23,4 @@ Caso o serviço procurado não esteja entre os relacionados, o interessado dever
 
 Fonte: Agência Brasil – Imagem de destaque: Marcelo Camargo/Agência Brasil
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

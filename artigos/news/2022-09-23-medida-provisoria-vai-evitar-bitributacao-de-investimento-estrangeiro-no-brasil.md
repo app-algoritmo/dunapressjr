@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Títulos de dívida terão isonomia tributária em relação às operações de capital, zerando o Imposto de Renda sobre crédito corporativo para residentes e domiciliados no exterior.
 
 O governo federal publicou nesta quinta-feira (22) a [Medida Provisória 1.137](https://in.gov.br/web/dou/-/medida-provisoria-n-1.137-de-21-de-setembro-de-2022-431257201), que busca evitar a bitributação de investimentos estrangeiros no Brasil. Com a medida, o estrangeiro que comprar títulos de debêntures, fundos de investimento em direitos creditórios e letras financeiras, entre outros investimentos, não pagará Imposto de Renda no Brasil, quando já for tributado no seu país de origem. A MP não abrange os investidores de paraísos fiscais.
@@ -44,8 +43,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

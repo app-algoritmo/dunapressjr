@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### Declaração deve ser entregue as 23h59m do dia 30 de setembro.
 
 Começou nesta segunda-feira (15) o período para entrega da declaração do Imposto sobre a Propriedade Territorial Rural (ITR) de 2022. O prazo vai até as 23h59m do dia 30 de setembro e as informações devem ser enviadas por meio do [**programa gerador **](https://www.gov.br/pt-br/servicos/declarar-imposto-sobre-a-propriedade-territorial-rural)da Declaração do ITR (DIRT), disponível no [**site**](https://www.gov.br/receitafederal/pt-br) da Receita Federal.
@@ -45,8 +44,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Impacto negativo foi maior em empresas de pequeno porte.
 
 Dos 3,2 milhões de empresas em funcionamento na primeira quinzena de agosto, 38,6% indicaram que a pandemia afetou negativamente suas atividades. Já para 33,9%, o efeito foi pequeno ou inexistente e para 27,5% o efeito foi positivo. Empresas de maior porte e intermediárias foram as que mais sinalizaram melhora de percepção.
@@ -39,5 +38,3 @@ O adiamento de pagamento de impostos foi adotado por 32% das companhias e o aces
 Fonte: Agência Brasil – Imagem de destaque: Fernando Frazão/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

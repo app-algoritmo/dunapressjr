@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O período de verificação dos dados do Censo da Educação Superior 2019 no Sistema Censup termina nesta ‪sexta-feira, 26 de junho, às 23h59 (horário de Brasília). A atribuição é do pesquisador institucional, que representa as instituições de educação superior, públicas e privadas, junto ao Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). O período de verificação da consistência, conferência, ajustes, validação dos dados coletados e envio das justificativas de dados inconsistentes começou em 8 de junho.
 
 Nesta edição, tanto o período de coleta quanto o de verificação foram prorrogados. Os prazos previstos no cronograma inicial do Censo Superior foram ampliados devido às restrições impostas pelas medidas de contenção da pandemia de COVID-19. O cronograma da pesquisa estatística foi atualizado por meio da Portaria n.º 319, de 23 de abril. Durante todo o período, os pesquisadores institucionais tiveram à disposição uma série de materiais orientadores. Outros canais de comunicação, como e-mail e telefone, permanecem abertos.
@@ -25,7 +24,7 @@ Fonte: gov.br / Imagem em destaque: abmes.org.br
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

@@ -8,15 +8,13 @@ categories:
 - News
 ---
 
-
-Depois de passar por 12 cidades brasileiras, a turnê de lançamento da biografia de Aretha Duarte chega ao final no dia 11 de janeiro. A população de Porto Alegre terá a oportunidade de conhecer a ativista socioambiental, liderança ESG e primeira mulher negra latino-americana a chegar ao topo do Everest. Ela estará na loja Decathlon do Shopping Iguatemi, entre 18h e 20h00, para lançar seu livro **"Da Sucata ao Everest - a saga de Aretha Duarte"**, e fará uma breve palestra com dicas de montanhismo e temas ambientais relacionados a sua experiência. 
+Depois de passar por 12 cidades brasileiras, a turnê de lançamento da biografia de Aretha Duarte chega ao final no dia 11 de janeiro. A população de Porto Alegre terá a oportunidade de conhecer a ativista socioambiental, liderança ESG e primeira mulher negra latino-americana a chegar ao topo do Everest. Ela estará na loja Decathlon do Shopping Iguatemi, entre 18h e 20h00, para lançar seu livro **"Da Sucata ao Everest - a saga de Aretha Duarte"**, e fará uma breve palestra com dicas de montanhismo e temas ambientais relacionados a sua experiência.
 
 "É com muito alegria que convido todos de Porto Alegre para a última parada da turnê literária 'Da Sucata ao Everest', na loja Decathlon. Tenho certeza de que será um encontro muito animado e caloroso, assim como foram em outras cidades brasileiras. Irei contar um pouco de minha jornada e da criação da minha biografia, além de ler trechos emocionantes do livro, distribuir autógrafos, posar para fotos e, claro, o mais importante: fomentar a conscientização sobre práticas mais sustentáveis no esporte e na vida", afirma Aretha.
 
 **O livro -** Com 164 páginas, *Da Sucata ao Everest - A saga de Aretha Duarte* foi escrita pelos jornalistas Débora Rubin e Rodrigo Grilo, em colaboração direta com a montanhista. O evento é gratuito e quem quiser participar poderá se inscrever pela plataforma Sympla pelo link [https://www.sympla.com.br/evento/turne-de-lancamento-do-livro-da-sucata-ao-everest-a-saga-de-aretha-duarte-na-decathlon-i-poa/1799576](https://click.presskit.com.br/url/9178097c0a/6361388b6fc)
 
-[
-](https://click.presskit.com.br/url/91781097f5/6361388b6fc)**Final da turnê nacional em Porto Alegre -** O evento em Porto Alegre finaliza a turnê nacional de divulgação do livro, que percorreu 10 estados e o Distrito Federal nos últimos quatro meses.
+**Final da turnê nacional em Porto Alegre -** O evento em Porto Alegre finaliza a turnê nacional de divulgação do livro, que percorreu 10 estados e o Distrito Federal nos últimos quatro meses.
 
 **Ativista socioambiental e liderança ESG -** Após a Expedição Everest, Aretha tem usado seu exemplo e sua voz para assumir novos papéis, especialmente como ativista socioambiental, representante da nova liderança ESG, e como palestrante. Com isso, tem atraído parceiros que compartilham essa filosofia, como a Moove e a Veolia, da qual é embaixadora, e Decathlon. "Meu sonho grande nunca foi chegar ao topo do Everest. Meu sonho grande é garantir que transformações socioambientais e oportunidades cheguem às periferias, para que todos tenham o direito e as possibilidades de escolherem melhores caminhos para ajudar suas vidas e suas famílias."
 

@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 verão no Brasil, estação sinônimo de férias, viagens e muita curtição. E para garantir que o período mais quente do ano renda os melhores momentos possíveis em meio às altas temperaturas nos destinos nacionais, a Agência de Notícias do Turismo lista medidas simples que ajudam visitantes a evitar dor de cabeça e trazer na bagagem de volta para casa apenas boas lembranças dos atrativos.
 
 A primeira é observar se estabelecimentos do setor, como bares, restaurantes e hotéis, possuem o Selo Turismo Responsável. Lançado pelo Ministério do Turismo em junho de 2020, trata-se de uma sinalização visual que indica o cumprimento de medidas de prevenção à Covid-19 por atividades da área. O site do Selo também lista atitudes responsáveis que podem ser adotadas por viajantes no sentido de reduzir riscos na pandemia. (Acesse [aqui](https://www.turismo.gov.br/seloresponsavel/) o site do Selo).
@@ -31,5 +30,3 @@ Fonte: https://www.gov.br/turismo
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!

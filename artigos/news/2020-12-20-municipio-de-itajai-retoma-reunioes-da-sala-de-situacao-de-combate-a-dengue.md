@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí retomou nesta quinta-feira (17) as reuniões da Sala de Situação de Combate à Dengue. Em encontro no Gabinete do Prefeito, os membros definiram algumas ações de controle do mosquito Aedes aegypti para o verão. Entre as atividades, ficaram programadas fiscalizações conjuntas em locais com armazenamento irregular de materiais recicláveis, que acabam acumulando água. Também ficou definido que as reuniões serão mensais a partir de 2021.
 
 A Sala de Situação tem sido, desde 2017, um importante apoio à Secretaria Municipal de Saúde nas ações de controle do mosquito transmissor da dengue, chikungunya e zika. O objetivo é viabilizar o planejamento em conjunto de metas e estratégias de prevenção, bem como buscar soluções para os desafios e dificuldades que surgem no dia a dia. Durante este ano, as reuniões foram suspensas em função da pandemia de coronavírus.
@@ -34,7 +33,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

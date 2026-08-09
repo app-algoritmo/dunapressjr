@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A "avó nazista" Ursula Haverbeck foi condenada por incitação a um tribunal na cidade de Verden, no norte de 2017, e começou a cumprir sua sentença em 2018.
 
 Ursula Haverbeck, na época com 89 anos, perdeu em  3 de agosto de 2018, um desafio perante a mais alta corte do país, que reafirmou que as garantias constitucionais de liberdade de expressão não cobrem a negação do Holocausto.
@@ -32,7 +31,7 @@ Seu marido, Werner Georg Havebeck, era um dos principais oficiais do Partido Naz
 
 Werner morreu em 1999 e sua organização neonazista foi forçada a fechar pelas autoridades alemãs em 2008, mas Ursula continuou fielmente seu trabalho.
 
-Fontes: The Yeshiva World 
+Fontes: The Yeshiva World
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor.**
 
@@ -40,6 +39,6 @@ Fontes: The Yeshiva World
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

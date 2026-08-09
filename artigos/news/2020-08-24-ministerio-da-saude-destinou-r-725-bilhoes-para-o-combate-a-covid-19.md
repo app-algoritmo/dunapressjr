@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 esde o início da crise do novo coronavírus, o Ministério da Saúde vem apoiando estados e municípios na compra e entrega de equipamentos, habilitação de leitos de UTI e enviando recursos para o enfrentamento da Covid-19. Ao todo, já foram R$ 72,5 bilhões, destinados aos 26 estados e o Distrito Federal. Desse total, R$ 52,6 bilhões foram para serviços de rotina do SUS, e outros R$ 19,9 bilhões para a Covid-19. O balanço das ações da pasta foram divulgados durante coletiva de imprensa online nessa quinta-feira (20).
 
 O Ministério da Saúde já habilitou 12.005 dos 12.233 leitos solicitados pelos estados e municípios para o tratamento exclusivo de pacientes da Covid-19 – que representa quase 100% da demanda - 247 são de UTI pediátrica. O valor investido pelo Governo Federal é de R$ 1,72 bilhão, pago em parcela única, para que os entes federados façam o custeio dessas unidades pelos próximos 90 dias - ou enquanto houver necessidade em decorrência do novo coronavírus.
@@ -46,10 +45,8 @@ Um acordo entre o Ministério da Saúde e a Telebrás vai levar internet aos 34 
 
 A perspectiva é que a instalação das 436 antenas seja concluída nos próximos três meses, beneficiando, assim, a comunicação com as comunidades de difícil acesso.
 
-### Plataforma Localiza SUS 
+### Plataforma Localiza SUS
 
 A população pode acompanhar a quantidade de EPIs distribuída a cada estado pelo [Localiza SUS](https://localizasus.saude.gov.br/), um painel on-line criado pelo Ministério da Saúde. Na plataforma também é possível acompanhar a quantidade de leitos habilitados, testes entregues, insumos e outros itens disponibilizados. O objetivo é informar a população sobre tudo o que foi comprado, doado e distribuído para o enfrentamento da Covid-19.
 
 Fonte Gov.br
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

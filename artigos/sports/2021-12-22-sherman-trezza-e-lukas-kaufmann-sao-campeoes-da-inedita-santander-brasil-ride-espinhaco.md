@@ -8,10 +8,9 @@ categories:
 - Sports
 ---
 
-
 A edição inédita da Santander Brasil Ride Espinhaço, prova de mountain bike por etapas de cinco dias, realizada em Conceição do Mato Dentro (MG), terminou na tarde deste sábado (18), coroando vencedores em 14 categorias. Em paralelo, teve ainda a realização da Maratona do Cipó, prova de um dia de duração. Na open e na feminina, as duplas Sherman Trezza/Lukas Kaufmann e Paula Gallan/Isabella Lacerda garantiram o lugar mais alto do pódio em suas categorias, respectivamente. Nas e-bikes, os líderes Andre Catatau e Isabella Ribeiro também confirmaram o título, sem grandes sustos na etapa final, com 37 km e 1.286 m de altimetria acumulada. Tiago Ferreira foi o destaque na solo, com o melhor tempo do acumulado após as cinco etapas.
 
-Com mais de 24 minutos de folga na liderança da open, Sherman Trezza e Lukas Kaufmann apenas administraram a vantagem e assistiram seus adversários tomarem frente na disputa. Assim, viram Ricardo Pscheidt e Leandro Donizete assumirem o protagonismo por boa parte dos 37 km, até que nos quilômetros finais chegaram na dupla campeã das Américas. A chegada dos quatro foi praticamente junta, Ricardo e Leandro cruzaram o pórtico em 1h49min08 e Sherman e Lukas em 1h49min18. A terceira posição ficou com Raphael Mendes e Jhefferson Paiva. No acumulado, Carlos Henrique Paixão e Marcus Silva garantiram o lugar no pódio. 
+Com mais de 24 minutos de folga na liderança da open, Sherman Trezza e Lukas Kaufmann apenas administraram a vantagem e assistiram seus adversários tomarem frente na disputa. Assim, viram Ricardo Pscheidt e Leandro Donizete assumirem o protagonismo por boa parte dos 37 km, até que nos quilômetros finais chegaram na dupla campeã das Américas. A chegada dos quatro foi praticamente junta, Ricardo e Leandro cruzaram o pórtico em 1h49min08 e Sherman e Lukas em 1h49min18. A terceira posição ficou com Raphael Mendes e Jhefferson Paiva. No acumulado, Carlos Henrique Paixão e Marcus Silva garantiram o lugar no pódio.
 
 Festa para a dupla que ganhou quatro das cinco etapas na competição. "Vi passar um filme da minha vida. Ainda não estou acreditando. Primeira edição da Santander Brasil Ride em 2010, na Bahia, foi minha primeira vez aqui no País. Um mundo novo e agora, 11 anos depois, ganhei meu primeiro título na ultramaratona Brasil Ride. Aprendi muito nesses anos todos e me dediquei, então estou muito feliz por essa conquista", comemorou Lukas Kaufmann.
 
@@ -100,7 +99,3 @@ Fonte: ***ZDL Sports***
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Método se mostra uma alternativa eficaz para avaliação dos casos suspeitos e no acompanhamento da doença.
 
 Uma pesquisa desenvolvida na Universidade Federal de São Paulo (Unifesp) pretende investigar os achados ultrassonográficos na avaliação pulmonar de pacientes pediátricos com suspeita de infecção pelo novo coronavírus, em comparação com os achados tomográficos. O método pode ser considerado preciso e mais seguro, dispensando o uso de radiação ionizante, como na tomografia computadorizada – outro meio de diagnóstico por imagem utilizado – e permitindo evitar o transporte dos pacientes e contaminação em outros ambientes.
@@ -27,7 +26,7 @@ Fonte: gov.br / Imagem em destaque: MEC
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

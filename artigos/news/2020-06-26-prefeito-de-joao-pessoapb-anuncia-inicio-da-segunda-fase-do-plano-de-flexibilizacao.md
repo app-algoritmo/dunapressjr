@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A cidade terá reabertura de lojas de material construção, escritórios de profissionais liberais e treino de atletas profissionais.
 
 Na próxima segunda-feira (29), João Pessoa entra em uma nova fase do Plano Estratégico de Flexibilização. Seguindo protocolos que buscam assegurar mais proteção contra à Covid-19, voltam a funcionar escritórios de profissionais liberais, como advogados, contadores e arquitetos, além dos treinos para atletas profissionais. Lojas de materiais de construção, que só funcionavam por delivery e drive thru, também poderão reabrir de acordo com regras de proteção sanitária. O transporte público volta a circular na Capital na segunda-feira, dia 6 de julho, quando será concluída a etapa preparatória, a exemplo da imunização contra a gripe e testagem do novo coronavírus para todos os profissionais de transporte. O anúncio foi feito pelo prefeito Luciano Cartaxo, nesta sexta-feira (26), que apresentou avaliações técnicas e científicas que permitiram que a Capital avançasse para a segunda etapa do Plano.
@@ -20,8 +19,8 @@ O transporte público será reaberto dentro de uma semana, depois da etapa prepa
 
 **Planejamento estratégico**
 
-A Prefeitura de João Pessoa informou que a reabertura gradual se dará em quatro fases. A data da terceira etapa do Plano de Flexibilização está prevista para o dia 13 de julho, sempre a partir da análise de critérios epidemiológicos de controle da doença. Na primeira fase foram liberados setores econômicos como a construção civil, concessionárias, revendas e locadoras de veículos, além de salões de beleza, desde que o atendimento seja feito com hora marcada. Bares, restaurantes, shoppings, centros comerciais e estabelecimentos de varejo podem funcionar por delivery e drive thru. 
+A Prefeitura de João Pessoa informou que a reabertura gradual se dará em quatro fases. A data da terceira etapa do Plano de Flexibilização está prevista para o dia 13 de julho, sempre a partir da análise de critérios epidemiológicos de controle da doença. Na primeira fase foram liberados setores econômicos como a construção civil, concessionárias, revendas e locadoras de veículos, além de salões de beleza, desde que o atendimento seja feito com hora marcada. Bares, restaurantes, shoppings, centros comerciais e estabelecimentos de varejo podem funcionar por delivery e drive thru.
 
 Fonte: joaopessoa.pb.gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

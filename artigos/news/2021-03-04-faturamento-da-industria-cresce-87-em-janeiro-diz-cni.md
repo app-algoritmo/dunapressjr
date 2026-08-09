@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alta foi de 8,7% no faturamento e de 6,7% nas horas trabalhadas.
 
 A atividade industrial brasileira fechou janeiro de 2021 em um nível mais alto do que o registrado em janeiro de 2020, segundo os Indicadores Industriais divulgados hoje (4) pela Confederação Nacional da Indústria (CNI).
@@ -26,8 +25,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

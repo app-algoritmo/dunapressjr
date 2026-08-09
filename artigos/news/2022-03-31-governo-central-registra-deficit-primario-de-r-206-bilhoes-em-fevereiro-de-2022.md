@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ### No acumulado do primeiro bimestre do ano, há superávit primário de R$ 56 bilhões.
 
 O Governo Central (Tesouro Nacional, Banco Central e Previdência Social) registrou déficit primário de R$ 20,6 bilhões (valores nominais) em fevereiro de 2022. O resultado foi melhor que a mediana das expectativas da pesquisa [Prisma Fiscal](https://www.gov.br/fazenda/pt-br/centrais-de-conteudos/publicacoes/relatorios-do-prisma-fiscal/relatorio-mensal/2022) do Ministério da Economia, que indicava um déficit de R$ 21,7 bilhões. Em fevereiro do ano passado, o déficit foi de R$ 21,3 bilhões. Houve, portanto, uma retração real (considerando a variação do IPCA) de 12,6% na comparação entre o resultado de fevereiro deste ano e o de fevereiro de 2021. Os dados do Resultado do Tesouro Nacional de fevereiro de 2022 foram divulgados em entrevista coletiva realizada na tarde desta quarta-feira (30/3).
@@ -63,8 +62,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

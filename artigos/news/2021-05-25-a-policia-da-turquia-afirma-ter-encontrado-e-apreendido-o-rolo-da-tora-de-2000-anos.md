@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A polícia da Turquia afirma ter apreendido um rolo da Torá de 2.000 anos em uma cidade costeira a 480 quilômetros a leste de Istambul.
 
 Separadamente, os restos de uma sinagoga abandonada em Istambul pegaram fogo no que a polícia diz que pode ter sido incêndio criminoso.
@@ -38,7 +37,3 @@ Fonte: https://www.timesofisrael.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

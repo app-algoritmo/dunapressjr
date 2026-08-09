@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## Produção do pré-sal teve média anual de 1,95 milhão de barris.
 
-A Petrobras anunciou nesta quarta-feira (9) ter batido todas as metas de produção estabelecidas para o ano de 2021, registrando vários recordes, entre os quais se destaca o resultado obtido na produção própria do pré-sal, com média anual de 1,95 milhão de barris de óleo equivalente, representando 70% da produção total da empresa. 
+A Petrobras anunciou nesta quarta-feira (9) ter batido todas as metas de produção estabelecidas para o ano de 2021, registrando vários recordes, entre os quais se destaca o resultado obtido na produção própria do pré-sal, com média anual de 1,95 milhão de barris de óleo equivalente, representando 70% da produção total da empresa.
 
 “Nossa produção no pré-sal vem crescendo rapidamente e o recorde registrado representa mais do que o dobro do volume que produzíamos nesta camada há cinco anos”, disse o diretor de Desenvolvimento da Produção, João Henrique Rittershaussen.
 
-No dia 23 de agosto do ano passado, teve início a produção do FPSO Carioca, primeira plataforma no Campo de Sépia, no pré-sal da Bacia de Santos. No ano, foram interligados três novos poços produtores e, atualmente, a produção operada é superior a 130 mil barris de petróleo por dia. 
+No dia 23 de agosto do ano passado, teve início a produção do FPSO Carioca, primeira plataforma no Campo de Sépia, no pré-sal da Bacia de Santos. No ano, foram interligados três novos poços produtores e, atualmente, a produção operada é superior a 130 mil barris de petróleo por dia.
 
 A companhia registrou no dia 18 de julho de 2021 a alavancagem da P-70, no Campo de Atapu, em menos de 13 meses. Com isso, a plataforma atingiu, com quatro poços produtores, a produção operada de 161 mil barris de petróleo por dia, superando a capacidade nominal do projeto.
 
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

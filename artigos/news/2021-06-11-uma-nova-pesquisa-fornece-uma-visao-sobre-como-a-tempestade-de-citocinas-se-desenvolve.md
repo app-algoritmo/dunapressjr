@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Pesquisadores da Bar-Ilan University: compreender as interações moleculares pode ser um alvo da medicina de precisão para o tratamento de casos graves de COVID-19.
 
 Os estudos científicos raramente se concentram em longas moléculas de RNA não codificantes (lncRNAs), embora elas potencialmente regulem várias doenças. O papel de vários lncRNAs na regulação da resposta inflamatória antiviral foi recentemente relatado.
@@ -42,7 +41,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

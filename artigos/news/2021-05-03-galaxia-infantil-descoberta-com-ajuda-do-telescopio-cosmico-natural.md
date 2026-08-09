@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Uma galáxia infantil em rotação desde os primeiros dias do universo foi observada pelos astrônomos pela primeira vez e pode mudar consideravelmente a maneira como entendemos o universo.
 
 Uma galáxia infantil em rotação com uma mera fração do tamanho da Via Láctea foi observada por astrônomos da Universidade Ben-Gurion do Negev  em um novo estudo .Esta "galáxia bebê", chamada RXCJ0600-z6, foi localizada pelo telescópio Atacama Large Millimeter / submillimeter Array (ALMA) no Chile, que usa lentes gravitacionais para encontrar galáxias formadas nos primeiros dias do universo.
@@ -43,7 +42,3 @@ Fonte: https://www.jpost.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

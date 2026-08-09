@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## No acumulado do primeiro trimestre, há superávit primário de R$ 24,443 bilhões.
 
 O Governo Central — Tesouro Nacional, Banco Central e Previdência — registrou superávit primário de R$ 2,101 bilhões em março deste ano. Em março do ano passado, havia sido apurado déficit de R$ 21,131 bilhões. Tesouro e Banco Central foram superavitários em R$ 22,148 bilhões e o Regime Geral de Previdência Social (RGPS) teve déficit de R$ 20,047 bilhões em março deste ano. Os dados estão presentes no Resultado do Tesouro Nacional de março de 2021, divulgado nesta quinta-feira (29/4) pelo Tesouro Nacional, e superaram positivamente as expectativas de mercado, conforme apurado pela pesquisa [Prisma Fiscal](https://www.gov.br/fazenda/pt-br/centrais-de-conteudos/publicacoes/relatorios-do-prisma-fiscal/relatorio-mensal/2021), elaborada pela Secretária de Política Econômica (SPE) do Ministério da Economia.
@@ -52,7 +51,7 @@ https://youtu.be/AUipLDzG9No
 
 O subsecretário de Planejamento Estratégico da Política Fiscal do Tesouro Nacional, Pedro Jucá Maciel, destacou que o Teto de Gastos – Novo Regime Fiscal, estabelecido pela [Emenda Constitucional nº 95/2016](http://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc95.htm) – estabelece um limite de despesas de R$ 1,485 trilhão para 2021. O limite está fixado no Projeto de Lei Orçamentária Anual (PLOA) de 2021.
 
-No acumulado de janeiro a março, 22,1% do teto foi consumido, com pagamentos de R$ 329,013 bilhões. O Poder Executivo ficou exatamente na média (22,1%). O Legislativo ficou em 21,8%, o Judiciário alcançou 23,9% e o Ministério Público da União registrou 24,1%.  “Nenhum órgão está acima da margem de enquadramento”, destacou Pedro Jucá.
+No acumulado de janeiro a março, 22,1% do teto foi consumido, com pagamentos de R$ 329,013 bilhões. O Poder Executivo ficou exatamente na média (22,1%). O Legislativo ficou em 21,8%, o Judiciário alcançou 23,9% e o Ministério Público da União registrou 24,1%. “Nenhum órgão está acima da margem de enquadramento”, destacou Pedro Jucá.
 
 ## **Regra de Ouro**
 
@@ -80,8 +79,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

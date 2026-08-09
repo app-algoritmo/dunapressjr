@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Negligência, violência psicológica e abuso financeiro e econômico estão entre os tipos de violência mais praticados contra as pessoas idosas, de acordo com dados do Disque 100 de 2019. E com a pandemia do novo coronavírus, as denúncias de violações contra essa parcela da população tem aumentado.
 
 Para chamar a atenção para essa realidade, neste 15 de junho é celebrado em todo o mundo o dia de conscientização e enfrentamento da violência contra a pessoa idosa.
@@ -24,7 +23,7 @@ O secretário destacou que o idoso não é uma vítima da pandemia e merece todo
 
 ### Lançamento de Cartilha
 
-O 15 de junho foi declarado Dia Mundial de Conscientização da Violência contra a Pessoa Idosa pela Organização das Nações Unidas (ONU) e a Rede Internacional de Prevenção à Violência à Pessoa Idosa. 
+O 15 de junho foi declarado Dia Mundial de Conscientização da Violência contra a Pessoa Idosa pela Organização das Nações Unidas (ONU) e a Rede Internacional de Prevenção à Violência à Pessoa Idosa.
 
 Para marcar a data, a Secretaria Nacional dos Direitos da Pessoa Idosa, do Ministério da Mulher, da Família e dos Direitos Humanos, lançou uma [cartilha](https://www.gov.br/mdh/pt-br/assuntos/noticias/2020-2/junho/cartilhacombateviolenciapessoaidosa.pdf) com orientações sobre como identificar e denunciar a violência praticados contra a pessoa idosa. Com o título “Violência contra a pessoa idosa: vamos falar sobre isso?", a cartilha ainda orienta sobre a prevenção a esse tipo de violência.
 
@@ -54,4 +53,4 @@ O aplicativo e o site oferecem atendimentos em Libras para pessoas com deficiên
 
 Fonte gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=joiceferreiradunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. [Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

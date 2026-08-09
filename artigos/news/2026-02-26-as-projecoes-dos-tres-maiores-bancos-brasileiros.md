@@ -7,11 +7,9 @@ categories:
 - News
 ---
 
-
 ## Tendência é que o crédito, as margens e as PDDs desacelerem neste ano
 
-**[
-](https://trademap.com.br/author/andre-barbosa)**Aproveitando as publicações de resultados do quarto trimestre para mostrar ao investidor, os bancos Itaú Unibanco, Bradesco e Banco do Brasil divulgaram as guidance - como são conhecidas as projeções e metas para o ano.
+****Aproveitando as publicações de resultados do quarto trimestre para mostrar ao investidor, os bancos Itaú Unibanco, Bradesco e Banco do Brasil divulgaram as guidance - como são conhecidas as projeções e metas para o ano.
 
 Todas as instituições concordam que o crédito irá crescer menos em 2023.
 

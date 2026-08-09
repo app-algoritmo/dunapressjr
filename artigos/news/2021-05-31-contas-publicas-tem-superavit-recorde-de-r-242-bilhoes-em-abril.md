@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Foi o segundo mês seguido de superávit primário.
 
 As contas públicas registraram saldo positivo em abril pelo segundo mês seguido, segundo dados divulgados hoje (31), em Brasília, pelo Banco Central (BC). O setor público consolidado, formado por União, estados e municípios, apresentou superávit primário de R$ 24,255 bilhões no mês passado, o maior resultado positivo para o mês da série histórica do BC, iniciada em dezembro de 2001.
@@ -60,8 +59,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

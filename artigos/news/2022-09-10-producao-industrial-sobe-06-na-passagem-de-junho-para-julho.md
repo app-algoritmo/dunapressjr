@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Houve expansão no Pará, Mato Grosso, Santa Catarina e no Rio.
 
 A produção industrial brasileira subiu 0,6% na passagem de junho para julho e avançou em quatro dos 15 locais analisados pela Pesquisa Industrial Mensal (PIM) Regional, divulgada nesta sexta-feira (9), no Rio de Janeiro, pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Houve elevações no Pará (4,7%), Mato Grosso (3,7%), Santa Catarina (1,9%) e Rio de Janeiro (0,7%). Todos esses percentuais estão acima da média nacional.
@@ -40,8 +39,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Governo Federal promoveu diversas alterações no Regulamento aduaneiro visando adequá-lo aos recentes avanços tecnológicos nos sistemas de comércio exterior.
 
 As medidas estão no Decreto nº 10.550, de 24 de novembro de 2020, publicado no Diário Oficial da União do dia 25. Entre as alterações promovidas pode ser destacada a permissão para que o conhecimento de carga seja corrigido de forma eletrônica sem a necessidade de apresentação de documentos em papel. A medida decorre do aumento da utilização da digitalização de documentos no Sistema Integrado de Comércio Exterior (SISCOMEX) pelos intervenientes do comércio exterior.
@@ -30,5 +29,3 @@ Fonte: Receita Federal
 SEU APOIO É IMPORTANTE !
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 Obrigado pelo apoio!
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

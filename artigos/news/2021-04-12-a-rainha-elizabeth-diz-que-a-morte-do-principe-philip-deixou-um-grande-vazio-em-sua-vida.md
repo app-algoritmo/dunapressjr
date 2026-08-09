@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 A rainha Elizabeth II ficou desolada com a morte de seu marido, o príncipe Philip, disse um dos filhos do casal no domingo, enquanto as orações eram feitas em cerimônias fúnebres em toda a Grã-Bretanha.
 
 O príncipe Andrew disse que sua mãe de 94 anos era "incrivelmente estóica", mas foi duramente atingida pela morte do duque de Edimburgo aos 99 na sexta-feira.
@@ -75,7 +74,3 @@ Fonte: https://www.timesofisrael.com
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[Assine com PIX](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Produto recebeu a carta-patente em abril; inventor quer que seja ofertado no SUS.
 
 Pela primeira vez, um Instituto Federal do Rio Grande do Sul (IFRS) teve um projeto patenteado. Trata-se da cadeira de rodas com sistema rotular bilateral de dobramento da estrutura frontal. A invenção é resultado de pesquisa aplicada de Juliano Toniolo, professor da instituição.
@@ -29,8 +28,6 @@ Para o desenvolvimento do protótipo dessa invenção, o IFRS contou com a parce
 Juliano Cantarelli Toniolo é formado em Engenharia de Metais pela UFRGS. Leciona e pesquisa no campus Caxias do Sul, do IFRS, há dez anos. E, em 2020, com uma década de trabalho à frente da instituição, desenvolveu o primeiro projeto patenteado do Instituto.
 
 Fonte: gov.br/mec / Imagem em destaque: Ifrs.edu.br
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

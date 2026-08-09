@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Entre 86,7 milhões de pessoas ocupadas, 34,7 milhões eram informais.
 
 A taxa de informalidade no mercado de trabalho do país subiu para 40% da população ocupada no trimestre finalizado em maio deste ano. O dado, da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua, foi divulgado hoje (30) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -32,10 +31,6 @@ A população subocupada por insuficiência de horas trabalhadas (7,36 milhões 
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

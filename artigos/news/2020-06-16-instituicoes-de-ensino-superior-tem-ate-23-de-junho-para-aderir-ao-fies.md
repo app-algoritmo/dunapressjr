@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Prazo está em Portaria do Ministério da Educação com regras para o processo seletivo deste segundo semestre.
 
 As mantenedoras de instituições de ensino superior interessadas em ofertar vagas pelo Fundo de Financiamento Estudantil (Fies) para o segundo semestre de 2020 já podem se preparar. O sistema do Fies ficará aberto até o dia 23 de junho para a manifestação de interesse das mantenedoras que desejam participar do Programa do Ministério da Educação (MEC) que concede financiamento a estudantes em cursos superiores não gratuitos.
@@ -28,4 +27,4 @@ O Fies é um Programa do Ministério da Educação destinado a financiar priorit
 
 Fonte: gov.br/mec / Imagem em destaque: AB
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando [AQUI](https://dunapress.org/?aff=Leonardo).**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando [AQUI](https://dunapress.org/).**

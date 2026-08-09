@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 No dicionário da língua portuguesa, a palavra “comunicar” significa compartilhar ideias, sentimentos, emoções, esclarecer alguma coisa, avisar, entre outros. Há pessoas que se comunicam por meio de sinais. Estamos falando das pessoas surdas.
 
 O dia **23 de fevereiro** é o Dia Nacional do Surdo-Mudo, data em que o país inteiro ressalta a necessidade de inclusão de pessoas nessa situação. A Língua Brasileira de Sinais (Libras) é uma forma fácil e objetiva para incluir pessoas com limitações de audição e fala no processo de comunicação.
@@ -42,7 +41,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

@@ -7,7 +7,6 @@ categories:
 - Tourism and Gastronomy
 ---
 
-
 Como as visitas presenciais ainda estão suspensas, o Theatro Municipal do Rio de Janeiro lançou nesta segunda-feira (1º.06) um tour virtual às suas dependências. O vídeo é uma parceria entre a Coordenação de Projetos Especiais do Theatro e a Secretaria de Estado de Cultura e Economia Criativa do RJ. O local tem um dos palcos mais conhecidos do Brasil e recebia cerca de 600 pessoas por semana, antes da pandemia.
 
 Acesse o tour [aqui](https://www.youtube.com/watch?v=uBr4cUKEJps&feature=emb_logo).
@@ -25,5 +24,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?aff=joiceferreiradunapress)

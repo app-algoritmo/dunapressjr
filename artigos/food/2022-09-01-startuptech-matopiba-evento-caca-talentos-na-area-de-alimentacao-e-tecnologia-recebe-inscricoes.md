@@ -8,7 +8,6 @@ categories:
 - Food
 ---
 
-
 Estudantes de graduação e pós-graduação de áreas correlatas à temática da alimentação saudável e gestão poderão participar gratuitamente do StartupTech Matopiba, um programa on-line de qualificação empreendedora. Os participantes irão concorrer aos prêmios de R$ 100, R$ 200 e R$ 350, concedidos individualmente aos membros das três equipes que conquistarem o pódio na disputa.
 
 Realizado pela [Wylinka](https://wylinka.org.br/), com apoio da Fundação Cargill, o programa pretende fomentar o desenvolvimento de soluções tecnológicas para a cadeia produtiva de alimentos, promovendo a aproximação entre a área acadêmica, o mercado de trabalho e a comunidade dos estados de Maranhão, Tocantins, Piauí e Bahia (Matopiba).
@@ -19,7 +18,7 @@ Apesar da abundância de recursos, a especialista destaca que há uma distribui�
 
 ## Como participar
 
-As inscrições serão abertas em dois momentos, pelo endereço [https://bit.ly/sttmatopiba](https://bit.ly/sttmatopiba). Até 14 de setembro, os interessados poderão se inscrever para participar do primeiro *bootcamp*, que acontecerá entre os dias 23 e 25 de setembro.
+As inscrições serão abertas em dois momentos, pelo endereço  Até 14 de setembro, os interessados poderão se inscrever para participar do primeiro *bootcamp*, que acontecerá entre os dias 23 e 25 de setembro.
 
 Já no período de 28 de setembro a 12 de outubro, será aberto um novo prazo de inscrições para quem quiser participar do segundo *bootcamp*, agendado para os dias 21, 22 e 23 de outubro.
 

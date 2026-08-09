@@ -7,7 +7,6 @@ categories:
 - Military
 ---
 
-
 Em tempos de pandemia, a Comissão de Implantação do Sistema de Controle do Espaço Aéreo (CISCEA) encontrou uma forma inovadora para dar continuidade às atividades e manter o cronograma dos projetos previstos para este ano, minimizando os impactos nos compromissos contratuais pré-estabelecidos.
 
 Pela primeira vez, a CISCEA conduziu o evento de FAT (Teste de Aceitação em Fábrica, do inglês *Factory Acceptance Testing*) do SAGITARIO (Sistema Avançado de Gerenciamento de Informações de Tráfego Aéreo e Relatórios de Interesse Operacional), inteiramente remoto. O evento de testes tem como objetivo garantir a qualidade e eficácia das novas funcionalidades do Sistema por meio de um ambiente simulado, retratando o cenário mais fidedigno possível da realidade operacional.
@@ -31,5 +30,3 @@ Esta foi uma entrega que trouxe inovação em seu formato e exigiu um nível de 
 O próximo passo será a avaliação e análise de outros eventos contratuais que possam se utilizar deste mesmo formato para sua execução.
 
 Fonte: Portal de Imprensa da Força Aérea Brasileira
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

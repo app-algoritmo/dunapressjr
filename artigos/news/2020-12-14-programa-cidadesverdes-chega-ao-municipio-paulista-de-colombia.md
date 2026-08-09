@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Como parte do programa Cidades+Verdes, que busca ampliar em todo o país o número e a qualidade das áreas verdes urbanas, será criado o Parque do Mirante, em Colômbia, município de São Paulo. Nesta sexta-feira (11), o ministro do Meio Ambiente, Ricardo Salles, esteve na cidade e assinou um termo de convênio que libera recurso para a urbanização e a recuperação da área degradada conhecida como Mirante.
 
 O Parque do Mirante beneficiará diretamente cerca de 3 mil visitantes mensais. Também contribuirá para a proteção do Rio Grande, margeado pela área, onde estão importantes reservatórios de água do sistema Sudeste/Centro-Oeste.
@@ -42,7 +41,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

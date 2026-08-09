@@ -7,7 +7,6 @@ categories:
 - Religiosity
 ---
 
-
 ## Esther Pollard conta a história do rolo da Torá escrito com o mérito de seu marido e oferecido à tumba de Joseph. 'Primeira vez na história que um prisioneiro escreveu um rolo da Torá.'
 
 Esther Pollard, esposa de Jonathan Pollard, falou esta semana sobre a decisão que ela tomou há 12 anos de escrever um rolo da Torá a ser dedicado à tumba de Joseph.
@@ -36,5 +35,3 @@ Fonte: https://www.israelnationalnews.com
 - [Como estabelecer metas de estudos.](https://dunapress.org/2021/02/07/como-estabelecer-metas-de-estudos/)
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio.
-
-[](https://dunapress.org/joice-maria-ferreira-pix-autorizado/?ref=barrosikt)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Em janeiro, índice foi de 2,01%.
 
 O Índice Geral de Preços-Disponibilidade Interna (IGP-DI) teve inflação de 1,5% em fevereiro deste ano, taxa menor que a de janeiro último (2,01%) e fevereiro de 2021 (2,71%). A informação foi divulgada hoje (8), no Rio de Janeiro, pela Fundação Getulio Vargas (FGV).
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A informação foi divulgada hoje pela CNI.
 
 A pesquisa Sondagem Industrial mostra que, pela primeira vez em dez anos, houve aumento de emprego no mês de dezembro. De acordo com o estudo da Confederação Nacional da Indústria (CNI), divulgado hoje (21), o índice de evolução do número de empregados ficou em 50,5 pontos, acima da linha divisória de 50 pontos, demonstrando crescimento do emprego.
@@ -28,8 +27,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

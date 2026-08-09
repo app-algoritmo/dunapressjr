@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Agência Nacional de Telecomunicações (Anatel) abriu Consulta Pública, nessa quarta-feira (2), para que cidadãos possam enviar contribuições para a revisão do Regulamento Geral de Direitos do Consumidor de Serviços de Telecomunicações.
 
 A proposta traz mudanças importantes na regra atual aprovada em 2014, como a ampliação do atendimento digital (aqueles sem o contato com teleatendentes) em vários serviços, inclusive para solicitar a redução de pacotes contratados; e a opção para que clientes antigos possam manter serviços pelo mesmo valor ofertado a novos usuários, se for mais baixo.
@@ -30,7 +29,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

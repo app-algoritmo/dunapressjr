@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 As bandeiras irão orientar plano de retomada gradual das atividades nos municípios.
 
 O Governo do Estado divulgou, neste sábado (13), as bandeiras do plano ‘Novo Normal Paraíba’ que estabelecem a matriz de orientação para a retomada gradual das atividades em todo o Estado a partir da próxima segunda-feira (15). O sistema também será capaz de subsidiar os gestores municipais na tomada de decisões acertadas e seguras para a população dos 223 municípios da Paraíba.  De acordo com os dados já disponíveis no site do coronavírus ([https://paraiba.pb.gov.br/diretas/saude/coronavirus/](https://paraiba.pb.gov.br/diretas/saude/coronavirus/)), 126 (56%) municípios estão enquadrados na bandeira laranja; 82 (37%) na bandeira amarela; 14 (6%) na bandeira vermelha; e um (1%) na bandeira verde.
@@ -37,8 +36,6 @@ Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leito
 Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal.
 
 Clique no banner abaixo para assinar
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)
 
 Experimente por 7 Dias Gratuitos - Nossos Valores de Assinatura
 

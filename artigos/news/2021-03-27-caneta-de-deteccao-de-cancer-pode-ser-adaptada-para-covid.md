@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
+Ofertar um teste rápido, eficiente e com baixa margem de erro de detecção do vírus corona é o objetivo do estudo ‘Validação multicêntrica de biomarcadores diagnósticos e prognósticos de COVID-19 utilizando a nova caneta analítica MasSpec Pen e espectrometria de massas’. Desenvolvido pela Universidade Presbiteriana Mackenzie, em São Paulo, em conjunto com as Universidade São Francisco (USF), em Bragança Paulista, e do Texas, nos Estados Unidos, o projeto é um dos presentes no resultado final do [Programa de Combate a Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/prevencao-e-combate-a-surtos-endemias-epidemias-e-pandemias-edital-n-09-2020) da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).
 
-Ofertar um teste rápido, eficiente e com baixa margem de erro de detecção do vírus corona é o objetivo do estudo ‘Validação multicêntrica de biomarcadores diagnósticos e prognósticos de COVID-19 utilizando a nova caneta analítica MasSpec Pen e espectrometria de massas’. Desenvolvido pela Universidade Presbiteriana Mackenzie, em São Paulo, em conjunto com as Universidade São Francisco (USF), em Bragança Paulista, e do Texas, nos Estados Unidos, o projeto é um dos presentes no resultado final do [Programa de Combate a Epidemias](http://www.capes.gov.br/bolsas/programas-estrategicos/programas-emergenciais/programa-de-combate-as-epidemias/prevencao-e-combate-a-surtos-endemias-epidemias-e-pandemias-edital-n-09-2020) da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). 
-
-O trabalho pretende adaptar para o procedimento de detecção do vírus uma caneta que identifica tumores de forma imediata durante cirurgias de câncer, sem precisar de biópsia. A cientista responsável pela invenção do equipamento, Lívia Eberlin, é professora da Universidade do Texas e uma das pesquisadoras do projeto. Nos EUA, ela testa a eficiência da caneta. 
+O trabalho pretende adaptar para o procedimento de detecção do vírus uma caneta que identifica tumores de forma imediata durante cirurgias de câncer, sem precisar de biópsia. A cientista responsável pela invenção do equipamento, Lívia Eberlin, é professora da Universidade do Texas e uma das pesquisadoras do projeto. Nos EUA, ela testa a eficiência da caneta.
 
 As amostras usadas na pesquisa são coletadas em dois hospitais de Bragança Paulista e enviadas para os EUA. “Em cirurgias de câncer, a caneta solta uma gota d’água ao entrar em contato com a superfície e identifica no espectrômetro de massas (material conectado à caneta que mostra as imagens) se o tecido está infectado, com uma luz vermelha, ou saudável, luz verde. O processo será o mesmo para o coronavírus”, explica Marcos Eberlin, coordenador do projeto e professor do Programa de Pós-Graduação em Engenharia de Nanomateriais e Química Aplicada na Mackenzie.
 
@@ -49,7 +48,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

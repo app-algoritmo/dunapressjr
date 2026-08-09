@@ -8,12 +8,11 @@ categories:
 - Education
 ---
 
-
 ## Com série de gibis e desenhos animados sobre Educação Financeira, o criador da Turma da Mônica fala sobre a importância desse aprendizado começar cedo e de forma lúdica.
 
-Com revistas publicadas em mais de 80 países, a *Turma da Mônica*, criação do desenhista e escritor Mauricio de Sousa, já encantou milhares de leitores, atuando, inclusive, em defesa de muitas causas. Dentre elas, está a importância de desenvolver desde cedo, nas crianças, a consciência financeira. Segundo ele, esse é um trabalho que deve ser realizado em parceria entre família e escola, a partir de exemplos e estímulos. 
+Com revistas publicadas em mais de 80 países, a *Turma da Mônica*, criação do desenhista e escritor Mauricio de Sousa, já encantou milhares de leitores, atuando, inclusive, em defesa de muitas causas. Dentre elas, está a importância de desenvolver desde cedo, nas crianças, a consciência financeira. Segundo ele, esse é um trabalho que deve ser realizado em parceria entre família e escola, a partir de exemplos e estímulos.
 
-E quando se trata de aprendizagem voltada aos pequenos, nada melhor que ensinar de forma lúdica. Uma parceria de Mauricio com o Sicredi rendeu uma série especial de quadrinhos com o tema Educação Financeira para crianças, além de desenhos animados da *Turma da Mônica* abordando o assunto. Os desenhos podem ser vistos no canal oficial do Sicredi no[ YouTube.](http://bit.ly/2YktA5U)
+E quando se trata de aprendizagem voltada aos pequenos, nada melhor que ensinar de forma lúdica. Uma parceria de Mauricio com o Sicredi rendeu uma série especial de quadrinhos com o tema Educação Financeira para crianças, além de desenhos animados da *Turma da Mônica* abordando o assunto. Os desenhos podem ser vistos no canal oficial do Sicredi no YouTube.
 
 Quando questionado sobre por que abordar um tema como esse nos quadrinhos, Mauricio destaca que, atualmente, as crianças compartilham seus conhecimentos e experiências com os pais, resultando em uma saudável troca familiar. Se elas aprendem algo, logo passam para os adultos. "Ao aprenderem sobre educação financeira, além de se prepararem bem para o futuro, já ensinam aos pais sobre os cuidados que precisam ter com o dinheiro", explica o autor.
 
@@ -46,7 +45,3 @@ Fonte: Central Press
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

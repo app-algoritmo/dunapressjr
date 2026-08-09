@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Em termos nominais, houve queda de 0,70% (R$ 41,15 bilhões) em relação a junho.
 
 O estoque da Dívida Pública Federal (DPF) atingiu R$ 5,804 trilhões em julho, registrando uma queda, em termos nominais, de 0,70% (R$ 41,15 bilhões) em relação a junho, quando totalizou R$ 5,845 trilhões A Dívida Pública Mobiliária Federal interna (DPMFi) teve seu estoque reduzido em 0,66%, passando de R$ 5,595 trilhões para R$ 5,558 trilhões, de junho para julho. A Dívida Pública Federal externa (DPFe) registrou queda de 1,74% sobre o estoque apurado em junho e encerrou julho em R$ 245,81 bilhões (US$ 47,38 bilhões).
@@ -48,8 +47,4 @@ Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

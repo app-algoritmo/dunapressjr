@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Faturamento foi de R$ 15,4 bilhões.
 
 O turismo nacional faturou R$ 15,4 bilhões em março deste ano, o que representa alta de 43,5% ou R$ 4,8 bilhões, em termos monetários, na comparação ao mesmo período de 2021. Os dados são do levantamento do Conselho de Turismo da Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo (FecomercioSP).
@@ -30,8 +29,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

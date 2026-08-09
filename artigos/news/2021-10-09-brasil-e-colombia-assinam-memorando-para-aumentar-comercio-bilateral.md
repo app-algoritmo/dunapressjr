@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Presidentes Bolsonaro e Iván Duque discutirão acordos econômicos.
 
 Os governos do Brasil e da Colômbia assinaram nesta sexta-feira (8) um memorando de entendimento para incrementar o comércio bilateral. O documento serve como preparativo para o encontro entre os presidentes Jair Bolsonaro e Iván Duque, que ocorrerá em Brasília no próximo dia 19.
@@ -22,10 +21,6 @@ Também foram tratados o aprofundamento das condições de acesso bilaterais par
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

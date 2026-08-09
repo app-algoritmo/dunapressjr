@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## São Paulo e Rio tiveram aumento na ocupação no segundo trimestre.
 
 O aumento da [**população ocupada no país em 2,5%**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-08/populacao-ocupada-aumenta-25-no-segundo-trimestre-diz-ibge) no segundo trimestre de 2021 e a consequente [**queda no desemprego para 14,1%**](https://agenciabrasil.ebc.com.br/economia/noticia/2021-08/desemprego-tem-leve-queda-e-fica-em-141-no-2o-trimestre) foram puxadas pelas altas na ocupação das regiões Sudeste e Centro-Oeste.
@@ -44,10 +43,6 @@ Por gênero, o nível de ocupação entre as mulheres passou de 39,3% para 40,4%
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

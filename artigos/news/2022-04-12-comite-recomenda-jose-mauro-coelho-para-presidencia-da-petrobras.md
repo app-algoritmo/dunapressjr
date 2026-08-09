@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Reunião na Assembleia Geral da empresa está marcada para amanhã.
 
 O Comitê de Pessoas da Petrobras considerou que José Mauro Ferreira Coelho preenche todos os requisitos para ocupar a presidência da empresa. Reunido ontem (11), o grupo avaliou que não há nada que impeça a eleição de Coelho na Assembleia Geral Ordinária da empresa, marcada para amanhã (13).
@@ -22,8 +21,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

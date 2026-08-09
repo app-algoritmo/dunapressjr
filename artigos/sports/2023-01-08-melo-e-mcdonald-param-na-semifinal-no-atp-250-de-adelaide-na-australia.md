@@ -7,8 +7,7 @@ categories:
 - Sports
 ---
 
-
-Com um balanço positivo do primeiro torneio da temporada, o mineiro Marcelo Melo e o norte-americano Mackenzie McDonald encerraram sua participação no ATP 250 de Adelaide, na Austrália, na noite desta sexta-feira (6). Melo e McDonald pararam na semifinal, diante do britânico Lloyd Glasspool e do finlandês Harri Heliovaara - cabeças de chave 3 -. que marcaram 2 sets a 0, com parciais de 6/2 e 6/3, em 1h01min. Agora, a dupla segue na cidade australiana, onde a partir desta segunda-feira (9) será disputado mais um ATP 250. Na estreia, em data a ser definida, terão como adversários o bósnio Tomislav Brkic e o equatoriano Gonzalo Escobar. 
+Com um balanço positivo do primeiro torneio da temporada, o mineiro Marcelo Melo e o norte-americano Mackenzie McDonald encerraram sua participação no ATP 250 de Adelaide, na Austrália, na noite desta sexta-feira (6). Melo e McDonald pararam na semifinal, diante do britânico Lloyd Glasspool e do finlandês Harri Heliovaara - cabeças de chave 3 -. que marcaram 2 sets a 0, com parciais de 6/2 e 6/3, em 1h01min. Agora, a dupla segue na cidade australiana, onde a partir desta segunda-feira (9) será disputado mais um ATP 250. Na estreia, em data a ser definida, terão como adversários o bósnio Tomislav Brkic e o equatoriano Gonzalo Escobar.
 
 Melo e McDonald somaram três vitórias, jogando muito bem na semana. Derrotaram duas duplas cabeças de chave, inclusive a parceria número 1 do mundo, principal favorita em Adelaide, o holandês Wesley Koolhof e o britânico Neal Skupski.
 
@@ -18,7 +17,7 @@ Melo e McDonald somaram três vitórias, jogando muito bem na semana. Derrotaram
 
 "Uma semana muito produtiva para nós. Foi muito bom. Fizemos mais alguns jogos juntos, para ir melhorando o entrosamento. E agora temos outra semana aqui em Adelaide, em mais um ATP 250", completou.
 
-No primeiro set, os adversários quebraram no quarto game, fazendo em seguida 4/1, e com mais um break fecharam em 6/2. Veio o segundo set, em que Melo e McDonald tiveram chances de quebra, mas com um break no oitava game, mais uma vez Glasspool e Heliovaara abriram vantagem, marcando 5/3, para fechar na sequência por 6/3. 
+No primeiro set, os adversários quebraram no quarto game, fazendo em seguida 4/1, e com mais um break fecharam em 6/2. Veio o segundo set, em que Melo e McDonald tiveram chances de quebra, mas com um break no oitava game, mais uma vez Glasspool e Heliovaara abriram vantagem, marcando 5/3, para fechar na sequência por 6/3.
 
 No ranking mundial de duplas da Associação dos Tenistas Profissionais (ATP), Melo soma 2.000 pontos, na 39ª colocação.
 
@@ -43,9 +42,7 @@ ATP 250 de Los Cabos, no México
 Site:  *[www.melomarcelo.com *
 *](https://click.presskit.com.br/url/918683bdb3/6361388b6fc)*Fanpage:  *[facebook.com/marcelomelo83 *
 *](https://click.presskit.com.br/url/9186840203/6361388b6fc)*Instagram: *[www.instagram.com/marcelomelo83
-](https://click.presskit.com.br/url/918685b2c8/6361388b6fc)*Marketing/Comercial: Sérgio Oprea - +55 61 98118-9876 - [sergio.oprea@terra.com.br](https://click.presskit.com.br/url/918686450b/6361388b6fc) - [www.zenithmarketing.com.br](https://click.presskit.com.br/url/918687f9c5/6361388b6fc)[
-
-](https://click.presskit.com.br/url/918687f9c5/6361388b6fc)ZDL
+](https://click.presskit.com.br/url/918685b2c8/6361388b6fc)*Marketing/Comercial: Sérgio Oprea - +55 61 98118-9876 - [sergio.oprea@terra.com.br](https://click.presskit.com.br/url/918686450b/6361388b6fc) - [www.zenithmarketing.com.br](https://click.presskit.com.br/url/918687f9c5/6361388b6fc)ZDL
 Doro Jr. - MTb 13209 - *[dorojr@zdl.com.br](https://click.presskit.com.br/url/918688f108/6361388b6fc)* - 11 984579723
 Deborah Mamone - MTb 15148  - *[deborah@zdl.com.br](https://click.presskit.com.br/url/9186892794/6361388b6fc)* - 11 3285.5911
 Site: [www.zdl.com.br

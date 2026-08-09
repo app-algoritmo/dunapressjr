@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A Universidade Federal do Pampa (Unipampa), no Rio Grande do Sul, tenta reposicionar fármacos para encontrar um tratamento contra a COVID-19 com medicamentos já usados no combate a outras doenças. O projeto é um dos selecionados no Programa de Combate a Epidemias da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Os pesquisadores envolvidos trabalham para desenvolver novas formulações a partir da nanotecnologia (um nanômetro é a bilionésima parte de um metro).
 
 As atividades tiveram início em agosto. “Estamos na parte inicial de desenvolvimento de formulações e avaliação em modelos alternativos”, afirma Sandra Elisa Haas, coordenadora do projeto. “Nossa estratégia representa diminuição de tempo e custos no processo de desenvolvimento e lançamento de novos medicamentos pela indústria”, explica a pesquisadora do programa de pós-graduação (PPG) em Bioquímica da Unipampa, situado em Uruguaiana (RS).
@@ -33,7 +32,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

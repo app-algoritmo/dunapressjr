@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O ministro da Infraestrutura, Tarcísio Gomes de Freitas, afirmou que o governo mantém a decisão de executar os leilões de concessões de ativos no setor de infraestrutura previstos para este ano. Segundo o ministro, o andamento dos processos segue o cronograma estabelecido e há condições para que os certames ocorram no prazo. Freitas participou, por videoconferência, de reunião com investidores, que debateu os desafios e os efeitos da crise do novo coronavírus no setor.
 
 Na reunião, que ocorreu nessa segunda-feira (11), o ministro ressaltou que o cronograma para concessão dos ativos de infraestrutura segue o seu curso normal, apesar da crise causada pela pandemia do novo coronavírus. “Não paramos nenhuma atividade dos nossos projetos de concessão”, destacou. “Esses primeiros leilões serão importantíssimos para afastar essa nuvem de incerteza do setor. Estamos trabalhando para que, no dia 28 de agosto, aconteça o primeiro leilão”, explicou Freitas.
@@ -25,5 +24,3 @@ Graças ao apoio de leitores como você, é possível realizar um excelente trab
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
 
 Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
-
-[](https://dunapress.org/subscription-plan/?ref=joiceferreiradunapress)

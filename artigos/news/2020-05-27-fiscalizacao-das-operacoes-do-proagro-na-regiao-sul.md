@@ -7,14 +7,13 @@ categories:
 - News
 ---
 
-
 ## Ação começa no Rio Grande do Sul e será estendida para o Paraná e Santa Catarina.
 
 Técnicos da Companhia Nacional de Abastecimento (Conab) irão fiscalizar, a partir deste mês, propriedades rurais beneficiadas pelo Programa de Garantia da Atividade Agropecuária (Proagro) no Rio Grande do Sul, que teve mais de 115 mil operações contratadas na safra 2019/20. O objetivo é conferir as informações prestadas por peritos encarregados pela comprovação de perdas do Proagro.
 
 A ação será estendida para o Paraná (73.754 operações) e Santa Catarina (26.467 operações), estados que tiveram ocorrência de seca em 2020.
 
-Os técnicos da estatal vão percorrer as lavouras para conferir os dados declarados pelos peritos encarregados pela comprovação de perdas nas áreas amparadas pelo programa. A Conab vai fiscalizar os procedimentos de comprovação de perdas realizando levantamentos sobre os trabalhos de operacionalização do programa, dos agentes financeiros e dos encarregados de realizar a comprovação de perdas junto aos agricultores. 
+Os técnicos da estatal vão percorrer as lavouras para conferir os dados declarados pelos peritos encarregados pela comprovação de perdas nas áreas amparadas pelo programa. A Conab vai fiscalizar os procedimentos de comprovação de perdas realizando levantamentos sobre os trabalhos de operacionalização do programa, dos agentes financeiros e dos encarregados de realizar a comprovação de perdas junto aos agricultores.
 
 A Secretaria de Política Agrícola do Ministério da Agricultura, Pecuária e Abastecimento informa que o produtor deve permitir o acesso e fornecer as informações solicitadas pelos técnicos. O Proagro oferece cobertura abrangente e requer um processo criterioso desde o enquadramento das operações até o deferimento de pedidos de cobertura, com o pagamento de indenizações refletindo as perdas efetivamente ocorridas por causas amparadas.
 
@@ -37,8 +36,6 @@ São instrumentos de política para a agricultura familiar que proporcionam gara
 O Proagro é administrado pelo Banco Central do Brasil e operado por seus agentes, representados pelas instituições financeiras autorizadas a operar em crédito rural, que contratam as operações de custeio e se encarregam de formalizar a adesão do mutuário ao Programa, da cobrança do adicional, das análises dos processos e da decisão dos pedidos de cobertura, do encaminhamento dos recursos à Comissão Especial de Recursos – CER, dos pagamentos e registros das despesas.
 
 Fonte: MAPA / Imagem em destaque: gov.br
-
-[](https://dunapress.org/subscription-plan/?ref=Leonardo)
 
 ***Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar.***
 

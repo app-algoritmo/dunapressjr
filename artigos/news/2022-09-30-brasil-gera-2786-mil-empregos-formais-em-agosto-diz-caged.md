@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Acumulado do ano chega a 1,8 milhão de novas vagas.
 
 O Brasil gerou 278.639 postos de trabalho em agosto deste ano, resultado de 2.051.800 admissões e de 1.773.161 desligamentos de empregos com carteira assinada. No acumulado de 2022, o saldo é de 1.853.298 novos trabalhadores no mercado formal. Os dados são do Ministério do Trabalho e Previdência, que divulgou nesta quinta-feira (29), em Brasília, as Estatísticas Mensais do Emprego Formal, o Novo Caged.
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

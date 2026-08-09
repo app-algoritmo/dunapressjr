@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Taxa do crédito pessoal (não consignado) chegou a 70,3% ao ano.
 
-As famílias pagaram taxas de juros mais baixas em agosto, de acordo com as Estatísticas Monetárias e de Crédito divulgadas hoje (28), em Brasília, pelo Banco Central (BC). 
+As famílias pagaram taxas de juros mais baixas em agosto, de acordo com as Estatísticas Monetárias e de Crédito divulgadas hoje (28), em Brasília, pelo Banco Central (BC).
 
 A taxa média de juros para as pessoas físicas no crédito livre chegou a 39% ao ano, recuo de 0,9 ponto percentual em relação a julho. Já a taxa média das empresas ficou estável em 12,4% ao ano.
 
@@ -35,5 +34,3 @@ A inadimplência das empresas no crédito livre recuou 0,2 ponto percentual para
 Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## As vencedoras foram a Eldorado Celulose e Bracell Celulose.
 
 Foram leiloadas hoje (28) por R$ 505 milhões duas áreas no Porto de Santos (SP) para movimentação de celulose. As vencedoras foram a Eldorado Celulose e a Bracell Celulose. As concessões têm validade de 25 anos. O certame foi promovido pela Agência Nacional de Transportes Aquaviários (Antaq).
@@ -35,5 +34,3 @@ O ministro disse ainda que os recursos arrecadados com o leilão ajudam a prepar
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Paulo Whitaker/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

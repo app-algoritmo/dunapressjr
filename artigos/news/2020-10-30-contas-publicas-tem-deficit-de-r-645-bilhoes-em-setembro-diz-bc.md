@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ## Dívida bruta já alcança 90,6% do PIB.
 
-As contas públicas registraram saldo negativo recorde em setembro, por conta da queda na arrecadação e despesas extraordinárias necessárias para o enfrentamento da pandemia da covid-19. 
+As contas públicas registraram saldo negativo recorde em setembro, por conta da queda na arrecadação e despesas extraordinárias necessárias para o enfrentamento da pandemia da covid-19.
 
 O setor público consolidado, formado por União, estados e municípios, apresentou déficit primário de R$ 64,559 bilhões no mês passado, o pior resultado para o mês da série histórica iniciada em 2001. Em setembro de 2019, o déficit primário foi de R$ 20,541 bilhões. Os dados foram divulgados hoje (30), em Brasília, pelo Banco Central (BC).
 
@@ -22,7 +21,7 @@ No mês passado, o Governo Central (Previdência, Banco Central e Tesouro Nacion
 
 Os governos municipais anotaram superávit de R$ 948 milhões em setembro deste ano. No ano passado, o superávit foi de R$ 99 milhões. Já as empresas estatais federais, estaduais e municipais, excluídas as dos grupos Petrobras e Eletrobras, tiveram superávit primário de R$ 628 milhões no mês passado.
 
-De janeiro a setembro, o déficit primário chegou a R$ 635,926 bilhões, contra o resultado negativo de R$ 42,491 bilhões em igual período de 2019. 
+De janeiro a setembro, o déficit primário chegou a R$ 635,926 bilhões, contra o resultado negativo de R$ 42,491 bilhões em igual período de 2019.
 
 Em 12 meses encerrados em setembro, o déficit primário ficou em R$ 655,306 bilhões, o que representa 9,08% do Produto Interno Bruto (PIB, soma de todos os bens e serviços produzidos no país).
 
@@ -45,5 +44,3 @@ Em setembro, a dívida bruta - que contabiliza apenas os passivos dos governos f
 Fonte: Agência Brasil – Imagem de destaque: Arquivo/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

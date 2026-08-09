@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### É o maior nível desde dezembro de 2013.
 
 O Índice de Confiança da Construção (ICST) subiu 1,4 ponto em agosto e chegou a 98,2 pontos. De acordo com o Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV Ibre), que divulgou os dados nesta sexta-feira (26), este é o maior nível alcançado pelo indicador desde dezembro de 2013, quando o índice estava em 98,3 pontos.
@@ -38,8 +37,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

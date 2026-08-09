@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Aumento foi de 4,3% no mês e de 33,1% desde maio, mostra pesquisa.
 
 A edição mensal da Pesquisa Nacional por Amostra de Domicílios (Pnad) Covid-19 estimou que a população desocupada, que era de 10,1 milhões no começo da pesquisa, em maio, passou para 13,5 milhões em setembro, um recorde da série histórica. O aumento foi de 4,3% no mês e de 33,1% desde maio. Os dados foram divulgados hoje (23) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
@@ -47,5 +46,3 @@ O Distrito Federal (22,2%) foi a unidade da federação com maior percentual de 
 Fonte: Agência Brasil – Imagem de destaque: Rovena Rosa/Agência Brasil
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

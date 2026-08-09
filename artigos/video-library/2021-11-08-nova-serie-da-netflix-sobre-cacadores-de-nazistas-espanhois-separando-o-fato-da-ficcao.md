@@ -8,7 +8,6 @@ categories:
 - Video library
 ---
 
-
 ## A produção em espanhol 'Jaguar' oferece ação e emoção divertidas, às vezes aderindo intimamente à história - e às vezes contando com uma grande dose de licença dramática.
 
 A Netflix tem uma nova série sobre um grupo de sobreviventes do Holocausto que caçavam nazistas em Madri em 1962. Intitulado ["Jaguar",](https://www.netflix.com/il-en/title/81122682) , é um típico thriller de ação, com muitas cenas de ação de tiros, música animada e atores bonitos.
@@ -148,7 +147,3 @@ Fonte: [https://www.timesofisrael.](https://www.timesofisrael.)
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

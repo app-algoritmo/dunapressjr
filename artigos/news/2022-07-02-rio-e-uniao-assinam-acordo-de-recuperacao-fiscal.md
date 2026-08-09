@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 ### Plano não impede realização de concursos públicos.
 
-O contrato e os aditivos necessários para a adesão definitiva do estado do Rio de Janeiro ao Regime de Recuperação Fiscal (RRF) foram assinados, por meio digital, pelo governo do estado e a União,  representados pelo governador Cláudio Castro, pela Procuradoria-Geral da Fazenda Nacional (PGFN) e os bancos Bradesco e do Brasil.
+O contrato e os aditivos necessários para a adesão definitiva do estado do Rio de Janeiro ao Regime de Recuperação Fiscal (RRF) foram assinados, por meio digital, pelo governo do estado e a União, representados pelo governador Cláudio Castro, pela Procuradoria-Geral da Fazenda Nacional (PGFN) e os bancos Bradesco e do Brasil.
 
 De acordo com o governo estadual, a formalização “permitirá o equilíbrio das contas públicas ao longo dos próximos nove anos, tornando o estado mais forte e com capacidade de investimentos”.
 
@@ -24,7 +23,7 @@ Conforme o previsto no Regime de Recuperação Fiscal, até dezembro deste ano o
 
 O RRF determina que as parcelas aumentem gradativamente até o término do acordo, em 2031. “Até o fim deste ano, o estado pretende pagar R$ 1,6 bilhão do montante da dívida”, informou o governador.
 
-Se o acordo não tivesse sido assinado o contrato na quinta-feira (30), o Estado do Rio sairia do regime e seria obrigado a pagar imediatamente R$ 42,8 bilhões, referentes ao total acumulado de serviço da dívida incluindo amortização e juros que a União honrou no lugar do Rio de Janeiro desde setembro de 2017, acrescido do empréstimo feito à época pelo banco BNP Paribas, que tinha as ações da Companhia Estadual de Águas e Esgotos do Rio de Janeiro  (Cedae) como contragarantia.
+Se o acordo não tivesse sido assinado o contrato na quinta-feira (30), o Estado do Rio sairia do regime e seria obrigado a pagar imediatamente R$ 42,8 bilhões, referentes ao total acumulado de serviço da dívida incluindo amortização e juros que a União honrou no lugar do Rio de Janeiro desde setembro de 2017, acrescido do empréstimo feito à época pelo banco BNP Paribas, que tinha as ações da Companhia Estadual de Águas e Esgotos do Rio de Janeiro (Cedae) como contragarantia.
 
 O Plano de Recuperação Fiscal do Rio não impede a realização de concursos públicos, desde que estejam previstos no documento homologado ou que sejam apresentados previamente ao Conselho de Supervisão os mecanismos de compensação financeira para o aumento da despesa, que pode ser pela redução de outros gastos ou pelo aumento de receitas.
 
@@ -42,8 +41,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

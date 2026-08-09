@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Índice nacional avançou 0,3% no mês, diz IBGE.
 
 A produção industrial de 11 dos 15 locais investigados pela Pesquisa Industrial Mensal (PIM Regional) cresceu em maio, quando o índice nacional avançou 0,3%. De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), que divulgou nesta sexta-feira (8) os resultados, as maiores altas ocorreram no Amazonas (6,6%) e em Mato Grosso (4,6%).
@@ -51,8 +50,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

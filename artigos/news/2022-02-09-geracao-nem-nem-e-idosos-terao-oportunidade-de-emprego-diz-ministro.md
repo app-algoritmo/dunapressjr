@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Programa tem parceria com municípios e oferecerá bolsas e qualificação.
 
 Após fechar o ano de 2021 com a geração de 2.730.924 empregos formais - recorde da última década -, o Brasil passará a contar com um programa de iniciação, qualificação e reinserção ao emprego criado pelo governo federal, afirmou nesta terça-feira (8) o ministro do Trabalho e Previdência, Onyx Lorenzoni.
@@ -28,7 +27,7 @@ O programa visa beneficiar prioritariamente pessoas que recebem o Auxílio Brasi
 
 Sobre as recentes mudanças adotadas pelo Instituto Nacional de Seguro Social (INSS), Onyx Lorenzoni afirmou que o projeto piloto de atendimento remoto será uma das ferramentas usadas pelo governo para zerar filas de atendimento em municípios que não contam com peritos e médicos.
 
-“A telemedicina é uma realidade cada vez mais no mundo. Nós temos um sistema desenvolvido em Israel que permite que a pessoa esteja a quilômetros de distância e se possa colocar frente a frente a pessoa que necessita de perícia e um médico. Isso é uma maneira de otimizar o trabalho e diminuir as filas”. O ministro falou também que o projeto é conduzido em 10 cidades do país - duas para cada uma das cinco regiões. “O aposentado e o pensionista precisam ser atendidos com atenção, com respeito e com muito carinho. Eles já fizeram muito pelo Brasil”, disse. 
+“A telemedicina é uma realidade cada vez mais no mundo. Nós temos um sistema desenvolvido em Israel que permite que a pessoa esteja a quilômetros de distância e se possa colocar frente a frente a pessoa que necessita de perícia e um médico. Isso é uma maneira de otimizar o trabalho e diminuir as filas”. O ministro falou também que o projeto é conduzido em 10 cidades do país - duas para cada uma das cinco regiões. “O aposentado e o pensionista precisam ser atendidos com atenção, com respeito e com muito carinho. Eles já fizeram muito pelo Brasil”, disse.
 
 ## Prova de vida
 
@@ -44,8 +43,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

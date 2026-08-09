@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Um grupo de estudantes da área de Turismo representou a UFPR no desafio internacional UNWTO Students Leaghe, lançado pela Organização Mundial do Turismo (OMT). O evento apresentou quatro desafios alinhados com os Objetivos de Desenvolvimento Sustentável da Agenda 2030 da ONU.
 
 A UFPR foi a única representante brasileira da Liga em 2020, que contou com 60 times de diversos países entre eles China, Indonésia, Suíça, México e Argentina.
@@ -27,7 +26,7 @@ Fonte: gov.br / Imagem em destaque: Mec
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
 
-https://dunapress.org/subscription-plan/?aff=Leonardo
+https://dunapress.org/subscription-plan/
 
 - U$ 1,00 mensal
 

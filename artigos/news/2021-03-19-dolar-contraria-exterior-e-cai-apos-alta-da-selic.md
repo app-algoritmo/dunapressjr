@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Bolsa caiu 1,47% com preço do petróleo e pandemia.
 
 Um dia após o Banco Central (BC) aumentar a taxa Selic (juros básicos da economia) pela primeira vez em quase seis anos, o dólar contrariou as tensões no mercado externo. A divisa caiu pela terceira sessão seguida. A bolsa, que na quarta-feira (17) tinha subido, caiu nesta quinta-feira (18), influenciada pelo preço internacional do petróleo e pelas preocupações com a pandemia de covid-19.
@@ -22,10 +21,6 @@ O mercado financeiro dos Estados Unidos teve um dia tenso por causa da queda na 
 
 Fonte: Agência Brasil – Imagem de destaque: REUTERS/Mike Segar/Direitos Reservados
 
-Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. 
-
- [LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV) 
+Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

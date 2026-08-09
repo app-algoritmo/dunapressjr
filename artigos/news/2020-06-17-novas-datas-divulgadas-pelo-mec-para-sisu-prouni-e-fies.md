@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Alteração ocorre por solicitação de universidades públicas e privadas.
 
 O Ministério da Educação (MEC) alterou as datas das inscrições aos principais programas de acesso às universidades para atender a uma solicitação das instituições de ensino superior públicas e privadas, segundo informou o secretário de Ensino Superior do MEC, o Wagner Vilas Boas Souza.
@@ -16,7 +15,7 @@ O edital que muda o prazo de inscrição do Sistema de Seleção Unificada (Sisu
 
 Conforme o secretário, a mudança ocorre devido à suspensão de algumas atividades acadêmicas e administrativas nas universidades ocorridas em consequência da pandemia do novo coronavírus (covid-19).
 
-Atendendo às solicitações da Associação Nacional de Dirigentes de Institutos Federais de Ensino Superior (Andifes), primeiro o [MEC postergou o prazo para as instituições aderirem ao Sisu](https://agenciabrasil.ebc.com.br/educacao/noticia/2020-05/termina-prazo-para-instituicoes-de-ensino-superior-aderirem-ao-sisu), que passou para 25 a 29 de maio para o dia 12 de junho. 
+Atendendo às solicitações da Associação Nacional de Dirigentes de Institutos Federais de Ensino Superior (Andifes), primeiro o [MEC postergou o prazo para as instituições aderirem ao Sisu](https://agenciabrasil.ebc.com.br/educacao/noticia/2020-05/termina-prazo-para-instituicoes-de-ensino-superior-aderirem-ao-sisu), que passou para 25 a 29 de maio para o dia 12 de junho.
 
 “Se nós não tivéssemos prorrogado na data prevista a gente só teria, no máximo, 40 mil vagas ofertadas. E essa prorrogação permitiu um acréscimo de pelo menos 20% no número de vagas. Hoje são 51 mil vagas que serão ofertadas no Sisu justamente em função da prorrogação”, comentou o secretário.
 
@@ -30,5 +29,3 @@ A partir do segundo semestre de 2020 será possível fazer, pela primeira vez, a
 Fonte: gov.br/mec / Imagem em destaque: paranaportal
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. Torne-se um assinante de nosso jornal clicando no banner abaixo:**
-
-[](https://dunapress.org/subscription-plan/?aff=Leonardo)

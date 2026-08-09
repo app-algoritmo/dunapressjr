@@ -8,7 +8,6 @@ categories:
 - Military
 ---
 
-
 **Resende (RJ) **– No dia 6 de junho, 4 Viaturas Blindadas de Combate Obuseiro Autopropulsado (VBC OAP) M109 A5 foram recebidas pela Academia Militar das Agulhas Negras (AMAN) e farão parte do acervo de Material de Emprego Militar do Curso de Artilharia.
 
 Os blindados têm origem norte-americana e, no Brasil, representam a modernização da Artilharia, etapa iniciada em 2018. “A chegada desse material é muito emblemática, pois sanará uma defasagem tecnológica e fará justiça à grandiosa academia e seu Corpo de Cadetes”, afirmou o Major **Flávio Henrique**, Comandante do Curso de Artilharia.
@@ -26,5 +25,3 @@ Além das VBC OAP M 109 A5, o Curso de Artilharia também recebeu uma Viatura Bl
 “O recebimento desse material revive em nós o espírito de artilheiro. Um orgulho solidificado no passado, com base nas mais antigas e caras tradições, mas focado no futuro, alimentado pela paixão que sentimos por nossa arma e pelo desejo de evoluir frente aos novos desafios”, finaliza o Comandante do Curso de Artilharia.
 
 Fonte: Academia Militar das Agulhas Negras
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Até o dia 31/08/2021, o MEI poderá regularizar seus débitos (INSS, ISS e ICMS) por meio de recolhimento em DAS, acessando o [PGMEI](https://www8.receita.fazenda.gov.br/SimplesNacional/Servicos/Grupo.aspx?grp=8), ou [parcelando](https://www8.receita.fazenda.gov.br/SimplesNacional/Servicos/Grupo.aspx?grp=19).
 
 A partir de setembro, a Receita Federal (RFB) encaminhará os débitos apurados nas Declarações Anuais Simplificadas para o Microempreendedor Individual (DASN-Simei), não regularizados, para inscrição em Dívida Ativa.
@@ -30,10 +29,6 @@ Para mais informações, consulte o [Manual do PGMEI](https://www8.receita.fazen
 
 Fonte: Secretaria-Executiva do Comitê Gestor do Simples Nacional
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

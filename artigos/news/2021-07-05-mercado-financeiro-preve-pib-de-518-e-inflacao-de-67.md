@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Para 2022, a estimativa de inflação permanece em 3,77%.
 
 As instituições financeiras consultadas pelo Banco Central (BC) elevaram novamente a projeção para o crescimento da economia brasileira este ano de 5,05% para 5,18%. Para 2022, a expectativa para Produto Interno Bruto (PIB) - a soma de todos os bens e serviços produzidos no país - é de crescimento de 2,10%, percentual ligeiramente menor do que o projetado na semana passada (2,11%).
@@ -32,10 +31,6 @@ A expectativa para a cotação do dólar caiu para R$ 5,04 ante os R$ 5,10 proje
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Medida provisória foi publicada hoje no Diário Oficial da União.
 
 O governo federal liberou R$ 10 bilhões para a concessão de empréstimos para microempreendedores individuais (MEIs) e empresas de pequeno porte por meio do Programa Emergencial de Acesso a Crédito (Peac-Maquininhas). A [**medida provisória**](https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=24/09/2020&jornal=515&pagina=6) (MP) que autoriza a abertura do crédito extraordinário foi publicada hoje (24) no *Diário Oficial da União.* .
@@ -21,5 +20,3 @@ De acordo com o texto da MP, os recursos serão liberados a partir da contrataç
 Fonte: Agência Brasil – Imagem de destaque: CNI/Miguel Ângelo/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

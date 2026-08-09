@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Entre as atividades econômicas de maior representatividade mostram que o varejo permanece liderando ao concentrar as inscrições estaduais.
 
 As inscrições estaduais encerraram o primeiro semestre com 157,5 mil empresas ativas. Dados do Núcleo de Manutenção Cadastral da Secretaria de Estado da Fazenda (Sefaz-PB) mostram que houve crescimento de 8,39% em novas inscrições até junho deste ano sobre a base de dezembro de 2020, um acréscimo de 12,2 mil de estabelecimentos na base de dados da Sefaz-PB.
@@ -20,10 +19,6 @@ Na distribuição dos estabelecimentos nos cinco núcleos da Sefaz-PB, a 1ª Ger
 
 Fonte: Sefaz-PB
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

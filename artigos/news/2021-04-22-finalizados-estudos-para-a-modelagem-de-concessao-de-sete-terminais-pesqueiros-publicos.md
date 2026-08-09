@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 ## Estudos estimam a geração de cerca de 3.200 empregos diretos e indiretos com as concessões.
 
 Foram aprovados nesta segunda-feira (19/4) os relatórios dos estudos para a modelagem da concessão de sete Terminais Pesqueiros Públicos (TPPs) qualificados no Programa de Parcerias de Investimentos (PPI) e localizados em Aracaju, Belém, Cananéia (SP), Manaus, Natal, Santos (SP) e Vitória. As propostas foram entregues no último dia 9 de abril à comissão técnica composta pela Secretaria de Aquicultura e Pesca (SAP/Mapa), PPI e pelo Consórcio LPC Latina, selecionado por meio de Procedimento de Manifestação de Interesse (PMI).
@@ -21,7 +20,7 @@ Os estudos identificaram, ainda, estimativa de geração de cerca de 3.200 empre
 
 “O enfoque dos estudos foi colocar em operação regular cada um dos TPPs qualificados, levando em conta as necessidades dos potenciais usuários, em especial os da pesca artesanal”, explica o secretário de Parcerias em Transportes do PPI, Thiago Caldeira. “Foi verificada a viabilidade dos sete terminais, com a indicação de realização de leilão em bloco apenas para os de Santos e Cananeia, em São Paulo.”
 
-O próximo passo será a abertura de consulta pública, com o objetivo de divulgar todo o processo e, principalmente, possibilitar ampla participação da sociedade civil. Essa etapa deverá ocorrer nos próximos dias, após a conclusão dos aprimoramentos apontados como necessários nessa primeira versão dos relatórios. 
+O próximo passo será a abertura de consulta pública, com o objetivo de divulgar todo o processo e, principalmente, possibilitar ampla participação da sociedade civil. Essa etapa deverá ocorrer nos próximos dias, após a conclusão dos aprimoramentos apontados como necessários nessa primeira versão dos relatórios.
 
 Durante a consulta pública, estão previstas audiências públicas (virtuais ou presenciais nas respectivas localidades de cada TPP, a depender da situação relativa à pandemia da Covid-19), além de rodadas de diálogos com potenciais investidores. Após a conclusão dessa etapa, serão efetuados os aprimoramentos necessários, para, em seguida, encaminhar os estudos ao Tribunal de Contas da União (TCU).
 
@@ -30,5 +29,3 @@ A publicação do edital está prevista para setembro, e o leilão deve acontece
 Fonte: Ministério da Economia
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)

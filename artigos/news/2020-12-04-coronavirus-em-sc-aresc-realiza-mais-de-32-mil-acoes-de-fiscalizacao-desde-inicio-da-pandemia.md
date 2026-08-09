@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 Para evitar a propagação do novo coronavírus, a Agência de Regulação dos Serviços Públicos de Santa Catarina - Aresc atua no controle do transporte público intermunicipal. O trabalho, iniciado pelas equipes desde o início da pandemia, resultou em mais 3,2 mil ações de fiscalização. O cronograma prevê intensificação das ações de monitoramento nos meses de dezembro e janeiro.
 
 “Levando em consideração esse período em que ocorre aumento expressivo no volume de passageiros para alguns destinos e pelo cenário pandêmico, estaremos com as equipes de fiscalização inteiramente focadas em controlar as maiores rodoviárias de Santa Catarina, destinos turísticos, como parques temáticos e aquáticos, roteiros de consumo e religiosos. As regiões litorâneas passarão também por monitoramentos em função da maior procura por serviços fretados nessa época”, afirma o gerente de Fiscalização de Transporte da Aresc, Nilton de Sá Júnior.
@@ -33,7 +32,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos, 50% do valor da assinatura anual é destinado a isso.
 
 Acesse o link abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

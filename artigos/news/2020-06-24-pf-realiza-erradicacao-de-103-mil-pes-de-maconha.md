@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Recife/PE - A Polícia Federal, com apoio da Polícia Militar/PE e Polícia Civil/PE, vem promovendo ações de identificação e consequente erradicação de plantios de maconha no sertão pernambucano. O Objetivo é reduzir a produção e oferta de maconha no sertão Pernambucano. As operações constantes são desdobramentos da Operação Muçambê.
 
 Desta vez foram erradicados, entre os dias 16 a 22/6/2020, cerca de 103 mil pés de maconha, encontrados no Sítio São Mateus (Lagoa Grande), Sítio Baixa da Cacimba (Dormentes), Zona Rural de Salgueiro, Orocó, Riacho Olho Dágua, Sítio Boqueirão 3, em Carnaubeira da Penha. Em uma das roças, foram encontrados e incinerados cerca de 67 kg de maconha pronta para a comercialização. Também foram destruídos 8.570 covas, 2.085 mudas, 2.5 kg de sementes
@@ -22,4 +21,4 @@ Muçambê é um pequeno arbusto, provido de espinhos nos pecíolos das folhas, o
 
 Comunicação Social da Polícia Federal em Pernambuco
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/?aff=marcosferreira.dunapress)**
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor.[ Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/)**

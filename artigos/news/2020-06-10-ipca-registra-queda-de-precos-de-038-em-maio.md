@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Índice foi menor do que abril (-0,31).
 
 O Índice Nacional de Preços ao Consumidor Amplo (IPCA), que mede a inflação oficial do país, registrou deflação (queda de preços) de 0,38% em maio deste ano. A queda de preços foi ainda mais intensa do que a registrada em abril (-0,31%).
@@ -21,5 +20,3 @@ Fonte: Agência Brasil – Imagem de destaque: Marcello Casal Jr./Agência Brasi
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

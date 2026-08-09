@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Em um projeto que conta com apoio do Ministério da Ciência, Tecnologia e Inovações, pesquisadores do Instituto de Física da Universidade de Brasília desenvolveram um aparelho para descontaminar máscaras N95 que vem sendo usada por profissionais de saúde durante pandemia de Covid-19.
 
 Nesta segunda-feira (29), o ministro da Ciência, Tecnologia e Inovações, Marcos Pontes, foi conhecer o equipamento que emite radiação ultravioleta para higienizar e assim reaproveitar a máscara N95 de forma segura. O ministro explicou que a iniciativa poderá ajudar os hospitais e profissionais de saúde a salvarem vidas.
@@ -42,4 +41,4 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

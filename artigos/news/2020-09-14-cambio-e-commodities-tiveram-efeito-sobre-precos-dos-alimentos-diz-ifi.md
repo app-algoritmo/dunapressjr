@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Na avaliação do Instituto Fiscal Independente (IFI), os preços de alimentos para consumo no domicílio foram afetados pelo impacto do grupo de alimentação e bebidas no Índice Nacional de Preços ao Consumidor Amplo (IPCA).
 
 Os efeitos do câmbio e das commodities agrícolas explicam, em certa medida, a pressão de preços dos bens comercializáveis, entre eles os alimentos. É o que destaca o relatório de acompanhamento mensal divulgado nesta segunda-feira (14) pela Instituição Fiscal Independente (IFI) do Senado.
@@ -49,5 +48,3 @@ O relatório também destaca que o Produto Interno Bruto (PIB) do segundo trimes
 Fonte: Agência Senado – Imagem de destaque: Elineudo Meira/Fotos Públicas
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

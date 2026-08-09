@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Objetivo é reduzir custos e aumentar a produtividade com implementação de controles inteligentes baseados em parâmetros obtidos em banco de dados de obras ou serviços similares.
 
 A Controladoria-Geral da União (CGU) e o Ministério da Economia publicaram, nesta quarta-feira (17), no Diário Oficial da União (DOU), a [Portaria Interministerial n° 13.395, de 5 de junho de 2020](http://www.in.gov.br/en/web/dou/-/portaria-interministerial-n-13.395-de-5-de-junho-de-2020-261923711), que trata da análise paramétrica de orçamento de obras, com o objetivo de reduzir o fluxo operacional dos convênios e contratos de repasse voltados à execução de obras e serviços de engenharia. A iniciativa busca implementar controles inteligentes baseados em parâmetros obtidos em banco de dados de obras ou serviços similares, respeitadas as especificidades locais. O objetivo é proporcionar maior eficiência por meio da redução de custos e ganhos de produtividade, sem prejuízo da segurança das operações.
@@ -28,4 +27,4 @@ A utilização dos modelos paramétricos para análise orçamentária também tr
 
 Fonte:gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/?ref=joabsonjoao)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[Clique aqui e torne-se um assinante de nosso jornal.](https://dunapress.org/subscription-plan/)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Exigência também vale para bancos digitais e consórcios.
 
 A partir de 1º de novembro, os consórcios e as instituições de pagamento, categoria que abrange *fintechs *(startups financeiras) e bancos digitais, deverão ter políticas de relacionamento com clientes iguais às dos bancos tradicionais. O Banco Central (BC) aprovou nesta quinta-feira (14) resolução que institui a exigência.
@@ -20,10 +19,6 @@ De acordo com o BC, a regulamentação padroniza as normas de relacionamento ent
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 Atualmente organizado pela Sociedade Mundial do Sono (World Sleep Society), o evento visa diminuir o peso que os problemas do sono provocam na sociedade, por meio da prevenção e do manejo desses distúrbios.
 
 – Sono de qualidade ajuda a manter a saúde mental;
@@ -55,7 +54,3 @@ Fonte: https://bvsms.saude.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

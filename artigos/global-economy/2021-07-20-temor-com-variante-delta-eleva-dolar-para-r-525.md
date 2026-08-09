@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Bolsa caiu para o menor nível desde o fim de maio.
 
 Em um dia de pânico no mercado financeiro internacional, o dólar teve a maior alta diária em dez meses e voltou a fechar acima de R$ 5,20. O temor com a disseminação da variante delta do novo coronavírus também provocou turbulência na bolsa de valores, que caiu para o menor nível desde o fim de maio.
@@ -24,10 +23,6 @@ A decisão da Organização dos Países Exportadores de Petróleo (Opep) de aume
 
 Fonte: Agência Brasil
 
-Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio! 
+Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

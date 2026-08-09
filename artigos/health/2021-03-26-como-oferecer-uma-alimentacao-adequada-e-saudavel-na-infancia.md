@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A obesidade infantil é um problema de saúde pública que pode provocar várias consequências para o futuro, como o surgimento de doenças crônicas, como diabetes e hipertensão, entre outros. Mas como oferecer uma alimentação adequada e saudável para as crianças que hoje possuem um universo enorme de ofertas de alimentos?
 
 É importante começar logo cedo, com a oferta do aleitamento materno exclusivo até os seis meses de vida e, após isso, a introdução da alimentação saudável com alimentos prioritariamente in natura. E a família tem um papel fundamental para ajudar os filhos a desenvolverem hábitos mais saudáveis. Isso porque, como as crianças imitam o que veem, os comportamentos alimentares estão associados aos dos familiares.
@@ -50,7 +49,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

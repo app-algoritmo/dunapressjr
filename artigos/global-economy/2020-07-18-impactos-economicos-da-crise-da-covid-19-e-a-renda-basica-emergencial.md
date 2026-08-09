@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 A pandemia do novo coronavírus desencadeou muitas mudanças no nosso dia-a-dia na tentativa de conter sua difusão. O fechamento do comércio e o isolamento social, por exemplo, foram algumas das medidas adotadas para reduzir a aglomeração de pessoas e desacelerar o contágio. Entretanto, quanto mais longa for a suspensão do comércio, mais severas serão as consequências sobre trabalhadores que dependem dessas atividades para sobreviver.
 
 Para abrandar os impactos dessas medidas, foi colocada em prática uma política de renda básica emergencial (sigla RBE). Resumidamente, significa que o governo usa de recursos públicos dos contribuintes para pagar certo valor a pessoas que se tornem mais economicamente vulneráveis durante a crise provocada pelo isolamento social da população. Pesquisadores da Fundação Getúlio Vargas em São Paulo realizaram um estudo para enriquecer essa discussão, usando dados do IBGE (Instituto Brasileiro de Informação em Geografia e Estatística) para estimar quais seriam os custos e os benefícios de duas diferentes políticas de renda emergencial.
@@ -30,6 +29,6 @@ Fonte canalciencia.ibict.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

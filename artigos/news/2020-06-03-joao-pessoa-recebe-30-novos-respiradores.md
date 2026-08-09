@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O prefeito afirmou que a chegada dos respiradores fortalece rede de atendimento ao novo coronavírus.
 
 O prefeito de João Pessoa, Luciano Cartaxo, anunciou, nesta terça-feira (2), o recebimento de 30 novos respiradores para fortalecer a rede de atendimento de pacientes infectados com o novo coronavírus. Os aparelhos chegam após uma solicitação do Poder Executivo Municipal ao Ministério da Saúde, com interlocução da Advocacia-Geral da União (AGU). Com os novos aparelhos, a Capital paraibana, que já conta com 248 leitos exclusivos para Covid-19, poderá ampliar a abertura de mais alas para atendimento às vítimas da pandemia.
@@ -21,5 +20,3 @@ Fonte: joaopessoa.pb.gov.br - Imagem de destaque: Secom/JP
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?aff=joabsonjoao)

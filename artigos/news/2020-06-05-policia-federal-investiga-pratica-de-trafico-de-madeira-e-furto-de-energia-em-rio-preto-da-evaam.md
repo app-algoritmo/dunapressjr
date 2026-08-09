@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 **Manaus/AM** – A Polícia Federal adotou uma série de ações, nessa quinta-feira (04/06), visando interromper atividades ilícitas que vinham se desenvolvendo em uma madeireira no Município de Rio Preto da Eva/AM. Uma equipe de policiais federais se deslocou até o estabelecimento a fim de verificar a ocorrência de atividades suspeitas e flagraram a possível prática de crimes de exploração ilegal de madeira, furto de energia elétrica e falsidade ideológica.
 
 O trabalho contou com o apoio da empresa concessionária de fornecimento de energia elétrica, que confirmou o furto de energia. Os policiais federais identificaram que no local havia transformadores de eletricidade sendo utilizados para operar as máquinas de corte e processamento de madeira para posterior comercialização.
@@ -23,5 +22,3 @@ Com mais essa ação, a Polícia Federal, na semana do Meio Ambiente, cumpre sua
 
 ***Comunicação Social***
 ***Superintendência Regional da Polícia Federal no Amazonas***
-
-[](https://dunapress.org/subscription-plan/?ref=marcosferreira.dunapress)

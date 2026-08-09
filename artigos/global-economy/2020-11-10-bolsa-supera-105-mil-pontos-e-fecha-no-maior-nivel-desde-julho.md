@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Dólar fechou praticamente estável, em R$ 5,39.
 
 Num dia de contrastes no mercado financeiro, a bolsa voltou a superar a marca de 105 mil pontos e fechou no nível mais alto desde o fim de julho. O dólar alternou altas e baixas, mas terminou próximo da estabilidade, com pequena valorização.
@@ -25,5 +24,3 @@ Mesmo próximo de R$ 5,40, o dólar continua bem abaixo das máximas de quase R$
 Fonte: Agência Brasil – Imagem de destaque: Reuters/Amanda Perobelli/Direitos Reservados
 
 **Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Nosso Jornal e Revista oferecem informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e respeito. Torne-se um assinante Prêmio e obtenha 25% de desconto aplicando o código (JOJOJO).**
-
-[](https://dunapress.org/produto/assinatura-leitor-premio/?aff=joabsonjoao)

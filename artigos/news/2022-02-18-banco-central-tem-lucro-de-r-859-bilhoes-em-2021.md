@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## Órgão repassará R$ 71,7 bilhões ao Tesouro até 7 de março.
 
 Depois de registrar lucro recorde de R$ 469,6 bilhões em 2020, o Banco Central (BC) lucrou R$ 85,9 bilhões em 2021. O Conselho Monetário Nacional (CMN) aprovou nesta quinta-feira (17) o balanço do órgão no ano passado.
@@ -26,8 +25,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,10 +7,9 @@ categories:
 - News
 ---
 
-
 Em celebração ao "Dia Internacional pela Eliminação da Violência contra as Mulheres", a titular da Secretaria Nacional de Políticas para as Mulheres (SNPM), Cristiane Britto, participou de um webinário nesta quarta-feira (25) sobre o tema. O evento foi promovido pela Caixa Econômica Federal.
 
-"Cerca de 70% das mulheres que foram vítimas de feminicídio nunca denunciaram ter sofrido violência. Precisamos superar esse alto índice de subnotificação. Quanto mais ferramentas nós criarmos e disponibilizarmos para essas mulheres, mais vamos combater esse grave problema", ressaltou a secretária. 
+"Cerca de 70% das mulheres que foram vítimas de feminicídio nunca denunciaram ter sofrido violência. Precisamos superar esse alto índice de subnotificação. Quanto mais ferramentas nós criarmos e disponibilizarmos para essas mulheres, mais vamos combater esse grave problema", ressaltou a secretária.
 
 A representante do Ministério da Mulher, da Família e dos Direitos Humanos (MMFDH) aproveitou para frisar que novos canais de atendimento gratuitos foram disponibilizados para o registro de denúncias durante 24h. Desta forma, é possível acionar o Disque 100 (Disque Direitos Humanos) e o Ligue 180 (Central de Atendimento à Mulher) pelo aplicativo Direitos Humanos Brasil, pelo site da Ouvidoria Nacional de Direitos Humanos (ONDH), pelo Telegram e, mais recentemente, pelo Whatsapp. [Saiba mais.](https://www.gov.br/mdh/pt-br/assuntos/noticias/2020-2/outubro/violacoes-de-direitos-humanos-podem-ser-denunciadas-pelo-whatsapp-1)
 
@@ -44,7 +43,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

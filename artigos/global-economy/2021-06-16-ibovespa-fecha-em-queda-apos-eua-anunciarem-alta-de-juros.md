@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 ## Dólar foi negociado abaixo de R$ 5 pela 1ª vez desde junho de 2020.
 
 O Ibovespa fechou em queda nesta quarta-feira (16), e ficou abaixo de 129 mil pontos durante a tarde, após o Federal Reserve antecipar para 2023 projeção da primeira alta dos juros nos Estados Unidos desde o começo da pandemia de covid-19.
@@ -28,8 +27,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 A cana-de-açúcar é a cultura que pode sofrer maior impacto.
 
 O Instituto de Pesquisa Econômica Aplicada (Ipea) projeta crescimento de 2,5% para o Produto Interno Bruto (PIB) do setor agropecuário brasileiro. O resultado considera os efeitos da pandemia de covid-19.
@@ -39,5 +38,3 @@ Fonte: Agência Brasil – Imagem de destaque: Arquivo/Agência Brasil
 =====================================
 
 Quando começamos o Press Periódico para tentar trazer a verdade para o resto do mundo, sabíamos que seria um grande desafio. Mas fomos recompensados pela incrível quantidade de suporte e feedback dos leitores que nos fizeram crescer e melhorar. Faça parte da missão de espalhar a verdade! Ajude-nos a combater as tentativas de silenciar nossas vozes  e torne-se um assinante!!
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

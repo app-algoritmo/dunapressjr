@@ -8,7 +8,6 @@ categories:
 - News
 ---
 
-
 O Governo Federal e os governos dos estados seguem unindo esforços para combater a pandemia do novo coronavírus. Nesta terça-feira (21), o ministro interino da Saúde, Eduardo Pazuello, foi até o Rio Grande do Sul para tratar das ações conjuntas de enfrentamento à doença. O ministro explicou que o governo fez um levantamento para saber o que tem funcionado no combate à doença. “Viemos trazer o que temos de mais efetivo, o que funcionou e o que não funcionou em outras partes do País”, disse.
 
 E completou: “Tudo o que o Rio Grande do Sul precisar de equipamentos, de estruturas médicas, recursos humanos, o que for necessário, nós vamos conseguir, nós vamos correr atrás e nós vamos entregar. Sem promessas, mas vamos pode ter certeza que a gente vai trabalhar muito para isso”.
@@ -23,7 +22,7 @@ Durante a visita, o governo do estado anunciou o envio de mais 100 respiradores 
 
 Ao todo, já foram entregues 7.994 ventiladores pulmonares em todos os estados e também no Distrito Federal. As entregas são feitas de acordo com a capacidade instalada da rede de assistência em saúde pública.
 
-Também existe a preocupação com os profissionais que estão na linha de frente do combate à doença. Foram entregues mais de 183 milhões de Equipamentos de Proteção Individual (EPIs) em todo o Brasil. Assim como os ventiladores a compra desses equipamentos é de responsabilidade dos estados e municípios, mas devido a pandemia, o Ministério da Saúde utilizou o seu poder de compra para dar apoio aos gestores locais do SUS. 
+Também existe a preocupação com os profissionais que estão na linha de frente do combate à doença. Foram entregues mais de 183 milhões de Equipamentos de Proteção Individual (EPIs) em todo o Brasil. Assim como os ventiladores a compra desses equipamentos é de responsabilidade dos estados e municípios, mas devido a pandemia, o Ministério da Saúde utilizou o seu poder de compra para dar apoio aos gestores locais do SUS.
 
 O ministro da saúde afirmou que o governo estuda remanejar ventiladores pulmonares de locais que apresentem queda nos casos de Covid-19 para outro que apresente um aumento. “Essa é a estratégia”, destacou. "Já conversei com o Ministério da Defesa com relação a logística de transporte dos equipamentos caso seja necessário", afirmou.
 
@@ -41,6 +40,6 @@ Fonte gov.br
 
 **Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **
 
-[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)****
+[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)****
 
-[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/?aff=joiceferreiradunapress)[ **clicando aqui.**](https://dunapress.org/?aff=joiceferreiradunapress)
+[**Divulgue sua Empresa, Serviços ou produtos**](https://dunapress.org/)[ **clicando aqui.**](https://dunapress.org/)

@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Município de Itajaí, por meio da Secretaria de Saúde, conta com uma boa estrutura preparada para atender os cidadãos quando começar a vacinação contra o coronavírus. Uma das primeiras medidas para garantir a logística de imunização foi a compra de insumos, ainda no ano passado: foram adquiridos mais de 300 mil itens, como agulhas e seringas. A cidade também conta com mais de 90 profissionais de saúde capacitados para vacinação, 30 salas de vacina espalhadas pelos bairros e uma rede de frios com 35 câmaras para armazenamento de milhares de doses.
 
 Além de preparar toda a logística para ofertar a vacina contra a Covid-19 à população, a Prefeitura de Itajaí analisa cuidadosamente a aquisição de doses e trabalha com duas possibilidades. A principal delas é o fornecimento de vacinas via Ministério da Saúde e Secretaria de Estado da Saúde, ou ainda, se necessário, a compra de doses com recursos próprios.
@@ -36,7 +35,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

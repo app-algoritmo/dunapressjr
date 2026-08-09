@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Desenvolver materiais mais sustentáveis, de baixo custo e com menor geração de resíduos para o setor tecnológico: esse foi o objetivo de Jakeline Raiane Dora dos Santos, doutoranda no Programa de Pós-Graduação em Ciência e Engenharia de Materiais, da Universidade Federal do Rio Grande do Norte (UFRN). A bolsista  usou o extrato da babosa, uma planta que retem água e forma uma espécie de gel,  para compor nanomateriais que entram na produção de dispositivos de armazenamento e conversão de energia, baterias, células combustíveis e biodiesel. O método já tem pedido de patente no Instituto Nacional da Propriedade Intelectual (INPI).
 
 **Fale sobre a sua pesquisa.**
@@ -48,7 +47,3 @@ Fonte: https://www.gov.br/capes
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

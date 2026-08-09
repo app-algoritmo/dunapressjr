@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ### Quem vender moradia para quitar financiamento não pagará IR.
 
 A partir deste ano, quem vender um imóvel tem mais uma opção para deixar de pagar o Imposto de Renda (IR) sobre o lucro do negócio. A Receita Federal [**editou instrução normativa**](https://www.in.gov.br/en/web/dou/-/instrucao-normativa-rfb-n-2.070-de-16-de-marco-de-2022-386466929) que isenta do tributo quem usar os recursos da venda para quitar financiamentos imobiliários contratados anteriormente.
@@ -34,8 +33,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

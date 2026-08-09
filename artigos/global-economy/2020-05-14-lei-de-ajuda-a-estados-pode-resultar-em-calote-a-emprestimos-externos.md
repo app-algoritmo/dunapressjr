@@ -7,7 +7,6 @@ categories:
 - Global Economy
 ---
 
-
 Ministério da Economia recomenda veto à suspensão de pagamentos
 
 A lei de socorro de R$ 120 bilhões a estados e municípios afetados pela pandemia do novo coronavírus pode resultar em calote a empréstimos externos. A avaliação é do Ministério da Economia, que recomendou ao presidente Jair Bolsonaro que vete o artigo do projeto de lei aprovado na semana passada pelo Congresso Nacional.
@@ -29,8 +28,6 @@ Fonte: Agência Brasil
 Ajude-nos a levar o jornalismo independente a todas as partes!
 Graças ao apoio de leitores como você, é possível realizar um excelente trabalho jornalístico de pesquisa e investigação, oferecendo um serviço sério de alta qualidade com imprensa livre e jornalismo independente.
 Em uma época em que notícias falsas e distorcidas estão em todas partes, seu apoio é vital para o bom desenvolvimento da informação.
-Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor. 
+Entre no link abaixo e nos ajude a continuar o nosso trabalho com informações gerais que podem ser lidos por toda a família em uma abordagem que prima pela ética e pelo respeito ao leitor.
 
 Assine o Press Periódico
-
-[](https://dunapress.org/subscription-plan/?ref=joabsonjoao)

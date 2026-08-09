@@ -8,7 +8,6 @@ categories:
 - Books
 ---
 
-
 Um livro publicado recentemente, “A Bíblia com e sem Jesus: como judeus e cristãos lêem as mesmas histórias de maneira diferente”, procura oferecer algumas dicas sobre como duas religiões podem ter entendimentos tão díspares do mesmo texto.
 
 Amy-Jill Levine e Marc Brettler analisam interpretações opostas que judeus e cristãos têm da mesma Bíblia e argumentam que a religião não precisa ser um jogo de soma zero.
@@ -107,7 +106,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

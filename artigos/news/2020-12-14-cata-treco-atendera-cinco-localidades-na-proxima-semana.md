@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O Cata Treco, programa da Secretaria Municipal de Obras, atenderá cinco localidades na próxima semana. Os atendimentos iniciam na segunda-feira (14) pelo bairro Fazenda e seguem pelo Centro, Cabeçudas, Praia Brava e Cidade Nova. O caminhão estará nas ruas até sexta-feira (18), das 7h30 às 11h30 e das 13h30 às 17h30.
 
 A população pode tirar as dúvidas sobre o Cata Treco pelo WhatsApp, basta adicionar o número (47) 99601-2645 e mandar mensagens de texto. Mensagens de áudio, ligações e chamadas de vídeo serão desconsideradas.
@@ -41,7 +40,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

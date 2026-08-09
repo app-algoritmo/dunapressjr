@@ -8,8 +8,7 @@ categories:
 - News
 ---
 
-
-Nove alunos da Escola Básica Maria Rosa Heleno Schulte, no bairro Espinheiros, foram homenageados pela participação na 12ª Olimpíada Nacional em História do Brasil. A direção da unidade entregou certificados e medalhas aos alunos. Ao todo, quase 70 mil estudantes de várias partes do Brasil participaram da competição. Duas equipes da escola chegaram à 4ª fase da prova. 
+Nove alunos da Escola Básica Maria Rosa Heleno Schulte, no bairro Espinheiros, foram homenageados pela participação na 12ª Olimpíada Nacional em História do Brasil. A direção da unidade entregou certificados e medalhas aos alunos. Ao todo, quase 70 mil estudantes de várias partes do Brasil participaram da competição. Duas equipes da escola chegaram à 4ª fase da prova.
 
 Este ano, em função da pandemia, todas as provas foram online. A Olimpíada começou em setembro e encerrou no dia 22 de novembro. Dividida em sete fases, as provas eram compostas por questões e tarefas diversas.
 
@@ -32,7 +31,5 @@ SEU APOIO VOLUNTARIO MUITO É IMPORTANTE!
 Sua assinatura não só fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

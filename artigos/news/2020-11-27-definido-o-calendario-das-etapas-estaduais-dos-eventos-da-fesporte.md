@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 O calendário oficial das etapas estaduais dos eventos da Fesporte para 2021 está definido. Uma reunião entre dirigentes da Fesporte e representantes municipais concluiu, na quarta-feira, 25, os últimos ajustes. O encontro foi realizado na sede da Fesporte, em Florianópolis, e obedeceu todos os protocolos de segurança contra o coronavírus. O calendário será enviado ao Conselho Estadual de Esporte para ser homologado.
 
 Foram definidas datas e sedes das etapas estaduais dos Jogos Escolares de Santa Catarina (Jesc), Olimpíada Estudantil Catarinense (Olesc), Jogos Escolares Paradesportivos de Santa Catarina (Parajesc), Joguinhos Abertos de Santa Catarina, Jogos Paradesportivos de Santa Catarina (Parajasc), Campeonato Catarinense Escolar de Futebol - Moleque Bom de Bola, Jogos Abertos de Santa Catarina (Jasc) e Jogos Abertos da Terceira Idade (Jasti).
@@ -42,7 +41,5 @@ SEU APOIO VOLUNTARIO É MUITO IMPORTANTE!
 Sua assinatura não somente ajudará no fornecerá notícias precisas, mas também contribuirá para o crescimento do bom jornalismo que ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras.
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo e obtenha o desconto promocional.
-
-[LINK ASSINATURA ANUAL](https://nubank.com.br/pagar/47dm/DAlu1AAqTi)
 
 Obrigado pelo apoio!

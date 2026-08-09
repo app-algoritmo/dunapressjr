@@ -7,25 +7,13 @@ categories:
 - Magazine
 ---
 
-
 A comunicação entre pais e professores é uma função fundamental para o bom desenvolvimento e controle da evolução acadêmica do aluno. Em alguns países essa comunicação vai ainda mais além, conectando o município, serviços de saúde e outros. Anteriormente à chegada das tecnologias de comunicação digital, as escolas utilizavam livretos diários de mensagens, em que **pais e professores** intercambiavam mensagens diárias.
 
-- 
-- 
-- 
-
-Com a chegada de novas tecnologias digitais em comunicação, o livreto passa à um segundo plano, abrindo caminho para uma comunicação mais veloz e preventiva. 
+Com a chegada de novas tecnologias digitais em comunicação, o livreto passa à um segundo plano, abrindo caminho para uma comunicação mais veloz e preventiva.
 
 Nos últimos anos, novas tecnologias foram desenvolvidas para oferecer um serviço dinâmico, eficiente e seguro aos municípios, professores e pais.
 
-- 
-- 
-- 
-
-- 
-- 
-
-Independentemente da posição partidária ou do pensamento ideológico do professor, a grade escolar deve ser respeitada porque foi desenhada para oferecer aos pais todo o conteúdo previamente desenhado com as matérias e atividades que seu filho aprenderá durante o ano letivo e, os dispositivos de comunicação entre escola e pais são obrigatoriamente usados para que o professor envie semanalmente o calendário de matérias e atividades que seu filho terá na semana seguinte. Sendo assim, a **grade escolar** oferece o conteúdo **anual de estudos** e o **calendário de planejamento semanal** (***Uke Plan***) oferece as matérias e as atividades em dias e horas de estudos. 
+Independentemente da posição partidária ou do pensamento ideológico do professor, a grade escolar deve ser respeitada porque foi desenhada para oferecer aos pais todo o conteúdo previamente desenhado com as matérias e atividades que seu filho aprenderá durante o ano letivo e, os dispositivos de comunicação entre escola e pais são obrigatoriamente usados para que o professor envie semanalmente o calendário de matérias e atividades que seu filho terá na semana seguinte. Sendo assim, a **grade escolar** oferece o conteúdo **anual de estudos** e o **calendário de planejamento semanal** (***Uke Plan***) oferece as matérias e as atividades em dias e horas de estudos.
 
 Ver: [Grade - Diretoria de Educação](https://www.udir.no/)
 
@@ -40,7 +28,7 @@ Ao baixar o aplicativo, você entra com a porta de ID (identificação) pela pri
 
 Atualmente, 230 municípios já utilizam o Visma. Se você não tiver certeza se seu município usa o Visma, entre em contato com sua escola.
 
-Se você trabalha no município e deseja começar usar o aplicativo, conheça um pouco mais sobre suas funções: 
+Se você trabalha no município e deseja começar usar o aplicativo, conheça um pouco mais sobre suas funções:
 
 **O aplicativo da escola é um serviço de diálogo digital entre escola e os pais. O aplicativo Visma My School torna ainda mais fácil para os pais acompanharem o que está acontecendo no dia escolar dos filhos. O aplicativo está associado à solução em nuvem Visma Flyt Skole e substitui o catálogo físico de mensagens ou serviços de mensagens digitais usados anteriormente.**
 
@@ -64,8 +52,4 @@ Os capítulos trazem temas primordiais como ambiente e segurança escolar, a gra
 
 Assistir video Visma
 
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!, clique e comece já!
-
-[](https://dunapress.org/edu)
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré escolar, ensino básico, fundamental e médio!

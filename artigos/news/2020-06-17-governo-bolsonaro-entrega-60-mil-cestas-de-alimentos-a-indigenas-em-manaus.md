@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 Mais uma ação do Governo Federal para minimizar os impactos do novo coronavírus em comunidades em situação de vulnerabilidade social. Nesta quarta-feira (17), a ministra da Mulher, da Família e dos Direitos Humanos, Damares Alves, esteve em Manaus, capital do Amazonas, para fazer a entrega de 60 mil cestas de alimentos a indígenas, o equivalente a 1.300 toneladas.
 
 Essas cestas fazem parte das quase 320 mil que serão entregues em todo o país a indígenas e comunidades tradicionais. Os alimentos foram adquiridos pela Companhia Nacional de Abastecimento (Conab) com recursos do Ministério da Mulher, da Família e dos Direitos Humanos.
@@ -36,4 +35,4 @@ Damares Alves também se encontrou, em Manaus, com conselheiros tutelares para a
 
 Fonte gov.br
 
-**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/?aff=joiceferreiradunapress)
+**Contar hoje com uma mídia isenta, ética e informativa é a busca de todo leitor. Somos o DUNA PRESS JORNAL. Uma Agência de Notícia On-Line, trabalhando com informações gerais que podem ser lidas por toda a família, em uma abordagem que prima pela ética e pelo respeito ao leitor. **[**Clique aqui e torne-se um assinante de nosso jornal.**](https://dunapress.org/)

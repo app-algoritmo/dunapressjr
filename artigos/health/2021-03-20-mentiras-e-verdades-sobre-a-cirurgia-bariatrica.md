@@ -7,10 +7,9 @@ categories:
 - Health
 ---
 
-
 A cirurgia bariátrica é reconhecida como um dos tratamentos do nível mais grave de obesidade, a de grau 3. Nesse estágio, ela já é classificada como mórbida, ou seja, representa uma enfermidade. Muitas pessoas recorrem ao procedimento quando não conseguem alcançar um peso saudável por outros meios, como a reeducação alimentar e a prática de atividade física.
 
-Os índices de obesidade tiveram um crescimento no último ano, principalmente entre adultos de 25 a 44 anos. O aumento foi de 67,8%, saindo de 11,8% em 2006 para 19,8% em 2018, segundo a pesquisa de Vigilância de Fatores de Risco e Proteção para Doenças Crônicas por Inquérito Telefônico (Vigitel), de 2018, do Ministério da Saúde.   
+Os índices de obesidade tiveram um crescimento no último ano, principalmente entre adultos de 25 a 44 anos. O aumento foi de 67,8%, saindo de 11,8% em 2006 para 19,8% em 2018, segundo a pesquisa de Vigilância de Fatores de Risco e Proteção para Doenças Crônicas por Inquérito Telefônico (Vigitel), de 2018, do Ministério da Saúde.
 
 Com os números em alta e todos os perigos à saúde que envolvem a obesidade, é possível perceber uma movimentação das pessoas contra o excesso de peso. O Vigitel de 2017, por exemplo, também demonstrou uma melhora nos hábitos dos brasileiros. Mas apesar disso, a cirurgia bariátrica surge no imaginário das pessoas como uma saída aparentemente definitiva.
 
@@ -46,7 +45,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

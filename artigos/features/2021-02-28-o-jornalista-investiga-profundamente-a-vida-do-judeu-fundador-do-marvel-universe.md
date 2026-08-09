@@ -7,7 +7,6 @@ categories:
 - Features
 ---
 
-
 Em 1998, Abraham Riesman conheceu Stan Lee em uma convenção de quadrinhos chamada Wizard World Chicago. Lee, conhecido como o pai do Universo Marvel , ainda não era famoso para o público mainstream.
 
 “Não precisei esperar muito tempo na fila para conhecê-lo ou pagar seu autógrafo”, lembra Riesman.
@@ -28,7 +27,7 @@ Lee açoitou a Marvel - que cresceu de gibis infantis a um universo de filmes de
 
 Riesman se apaixonou pelo gênero de quadrinhos de super-heróis um ano antes de conhecer Lee, quando seu melhor amigo o encorajou a ler edições anteriores dos quadrinhos de  X-Men . O interesse de Riesman cresceu e ele desenvolveu uma pequena reputação por escrever sobre quadrinhos como jornalista.
 
-Enquanto fazia parte da equipe da New York Magazine em 2015, um editor deixou cair na mesa de Riesman uma galera de uma adaptação gráfica da autobiografia de Lee de 2002, “Excelsior”.[ ](https://www.amazon.com/Excelsior-Amazing-Life-Stan-Lee/dp/0684873052)("Excelsior", como "True Believer", é uma frase de efeito de Lee.) O editor sugeriu que Riesman deveria fazer uma breve revisão da adaptação, mas Riesman entendeu mal e seguiu um ensaio relatado mais extenso, revelando o "segredo" que era artistas como Jack Kirby e Steve Ditko - não Lee - que mereciam a maior parte do crédito por criar muitos dos super-heróis mais famosos da Marvel e suas histórias associadas.
+Enquanto fazia parte da equipe da New York Magazine em 2015, um editor deixou cair na mesa de Riesman uma galera de uma adaptação gráfica da autobiografia de Lee de 2002, “Excelsior”.("Excelsior", como "True Believer", é uma frase de efeito de Lee.) O editor sugeriu que Riesman deveria fazer uma breve revisão da adaptação, mas Riesman entendeu mal e seguiu um ensaio relatado mais extenso, revelando o "segredo" que era artistas como Jack Kirby e Steve Ditko - não Lee - que mereciam a maior parte do crédito por criar muitos dos super-heróis mais famosos da Marvel e suas histórias associadas.
 
 Felizmente, o editor de Riesman apoiou sua reportagem e publicou o artigo no início de 2016. A peça impressionou, e quando Lee morreu quase três anos depois, Riesman foi contratado por Crown para escrever a biografia de Lee.
 
@@ -110,7 +109,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

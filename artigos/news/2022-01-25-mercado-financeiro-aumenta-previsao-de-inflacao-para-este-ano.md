@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## IPCA, inflação oficial do país, deve fechar 2022 em 5,15%.
 
 Instituições financeiras consultadas semanalmente pelo Banco Central (BC) estimam, em boletim divulgado nesta segunda-feira (24), que o Índice de Preços ao Consumidor Amplo (IPCA), inflação oficial do país, deve fechar 2022 em 5,15%. Há uma semana, a projeção do mercado era que a inflação terminasse o ano em 5,09%. Há quatro semanas, era 5,03%.
@@ -32,8 +31,4 @@ Fonte: Agência Brasil
 
 Seu apoio é importante, torne-se um assinante! Sua assinatura contribuirá para o crescimento do bom jornalismo e ajudará a salvaguardar nossas liberdades e democracia para as gerações futuras. Obrigado pelo apoio!
 
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?ref=joabsonjoao)
-
-O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio, clique e comece já! 
-
-[](https://dunapress.org/edu/?ref=joabsonjoao)
+O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar.

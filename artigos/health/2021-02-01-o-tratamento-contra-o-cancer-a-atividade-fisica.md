@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 A rotina estressante e o excesso de compromissos muitas vezes nos afastam das atividades físicas. Mas são elas que nos mantêm longe de quem a gente precisa realmente estar: das doenças crônicas, como hipertensão e diabetes, da ansiedade, da depressão e dos diversos tipos de cânceres. Esse último ponto reforça ainda mais a importância do controle do peso corporal, que passa por uma dieta balanceada e pela prática de atividades físicas regulares.
 
 Segundo o Instituto Nacional do Câncer José de Alencar (INCA), o excesso de peso provoca alterações hormonais e mantém o corpo em um estado inflamatório crônico, que estimula a proliferação celular e inibe a morte programada das células. Por esse motivo, a gordura contribui para o surgimento de diversos tipos de câncer.
@@ -38,7 +37,5 @@ Tornando-se assinante Prêmio!
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
 
 [Conheça como funciona o trabalho de uma OSCIP que resgata animais em situação de risco e abandono.](https://dunapress.org/2020/02/24/um-belo-gesto-aos-nossos-amigos-animais-sos-peludinhos/)
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
 
 Obrigado pelo apoio!

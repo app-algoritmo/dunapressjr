@@ -7,7 +7,6 @@ categories:
 - Education
 ---
 
-
 ## Saiba o que considerar na hora de escolher a escola ideal, levando em conta questões como valores, religião, distância e formação dos professores.
 
 Escolher a escola ideal para matricular o filho sempre exigiu dos pais atenção redobrada. Além de todas as questões que entraram no radar por conta da pandemia - como proposta de ensino híbrido e segurança sanitária - existem inúmeros fatores que precisam ser considerados na hora de tomar a decisão. De acordo com a diretora pedagógica do Sistema Positivo de Ensino, Acedriana Vogel, é preciso reforçar que o critério mais importante para uma família pode não ser o fator principal para outra. Para ajudar os pais a decidir com base naquilo que julgam melhor para os filhos e sua família, ela sugere uma lista com dicas sobre o que deve ser ponderado.
@@ -63,7 +62,3 @@ Fonte: Central Press
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

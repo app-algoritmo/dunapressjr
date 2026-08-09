@@ -7,16 +7,15 @@ categories:
 - News
 ---
 
-
-Usar o plasma convalescente doado por pacientes curados de Covid-19 para tratar pessoas infectadas com o SARS-CoV-2 é uma técnica utilizada em várias partes do mundo. No Brasil, o uso dessa parte do sangue rica em anticorpos ainda é uma terapia recente, mas efetiva. Marco Antônio Paes, 54 anos, de Itu, uma das cidades do estado de São Paulo cadastradas na rede de municípios para uso do plasma convalescente, organizada pelo Instituto Butantan, foi um dos primeiros pacientes a receber o tratamento. Aproximadamente 120 pessoas já utilizaram o plasma convalescente em todo o estado, utilizando 143 bolsas do líquido.  
+Usar o plasma convalescente doado por pacientes curados de Covid-19 para tratar pessoas infectadas com o SARS-CoV-2 é uma técnica utilizada em várias partes do mundo. No Brasil, o uso dessa parte do sangue rica em anticorpos ainda é uma terapia recente, mas efetiva. Marco Antônio Paes, 54 anos, de Itu, uma das cidades do estado de São Paulo cadastradas na rede de municípios para uso do plasma convalescente, organizada pelo Instituto Butantan, foi um dos primeiros pacientes a receber o tratamento. Aproximadamente 120 pessoas já utilizaram o plasma convalescente em todo o estado, utilizando 143 bolsas do líquido.
 
 https://www.youtube.com/embed/28WZMUCPXno
 
-O médico e diretor técnico do Hospital de Campanha de Itu, Vinícius Andriolo, foi quem cuidou de Marco. Segundo ele, o plasma dura cerca de dez dias no corpo do paciente. “A gente não tem nada de específico para a Covid-19. A chance que temos é fazer o tratamento mais rápido com o plasma. Um paciente chegou aqui com comorbidade, já com dois dias infectado, foi perfeito para o tratamento. Depois de sete dias, ele não tinha mais nenhum sintoma do vírus.” 
+O médico e diretor técnico do Hospital de Campanha de Itu, Vinícius Andriolo, foi quem cuidou de Marco. Segundo ele, o plasma dura cerca de dez dias no corpo do paciente. “A gente não tem nada de específico para a Covid-19. A chance que temos é fazer o tratamento mais rápido com o plasma. Um paciente chegou aqui com comorbidade, já com dois dias infectado, foi perfeito para o tratamento. Depois de sete dias, ele não tinha mais nenhum sintoma do vírus.”
 
 No mês de julho, Itu recebeu cinco bolsas de plasma convalescente, o que ajudou no tratamento de Marco. Vinícius tem a esperança de que mais pacientes e médicos possam aderir ao tratamento de plasma convalescente, sem desconfianças. “Existe uma resistência das pessoas para tudo que é novo, ainda mais no período que estamos, com tanta fake news. Mas nada se criou à toa. Foram feitos muitos estudos com a tecnologia para chegarmos a isso”, garantiu.
 
-Além disso, o médico sabe a responsabilidade que tem por estar à frente do tratamento. “Um paciente estava ressabiado e me perguntou se eu faria esse procedimento na minha mãe. Eu disse que com certeza faria. Todo mundo é pai, mãe, irmã de alguém. Se a gente conseguir salvar uma vida, salvar a pessoa, já é sensacional”, concluiu. 
+Além disso, o médico sabe a responsabilidade que tem por estar à frente do tratamento. “Um paciente estava ressabiado e me perguntou se eu faria esse procedimento na minha mãe. Eu disse que com certeza faria. Todo mundo é pai, mãe, irmã de alguém. Se a gente conseguir salvar uma vida, salvar a pessoa, já é sensacional”, concluiu.
 
 **Sobre o plasma convalescente**
 
@@ -39,7 +38,3 @@ Fonte: https://butantan.gov.br
  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)

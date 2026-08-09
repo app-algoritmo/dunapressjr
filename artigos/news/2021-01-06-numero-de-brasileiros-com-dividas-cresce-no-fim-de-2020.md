@@ -7,7 +7,6 @@ categories:
 - News
 ---
 
-
 ## A informação foi dada hoje pela CNC.
 
 Após três reduções seguidas, o número de brasileiros com dívidas voltou a subir no último mês de 2020, informou hoje (6) a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC). A Pesquisa de Endividamento e Inadimplência do Consumidor (Peic) de dezembro apontou que 66,3% dos consumidores estão endividados, uma alta de 0,3 ponto percentual com relação a novembro. No comparativo anual, o indicador registrou aumento de 0,7 ponto percentual.
@@ -34,8 +33,4 @@ Sua assinatura não só fornecerá notícias precisas, mas também contribuirá 
 
 Torne-se um assinante Prêmio e obtenha 25% de desconto acesse o link abaixo ou escaneie o QRcode abaixo e obtenha o desconto promocional.
 
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/26g5l/BBiqhJuXQV)
-
 Obrigado pelo apoio!
-
-[](https://dunapress.org/joabson-joao-da-silva-barbosa-pix-autorizado/?aff=joabsonjoao)

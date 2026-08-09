@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 No dia 20 de março, nós do hemisfério sul damos as boas-vindas ao Outono, uma das estações do ano preferidas dos brasileiros, pois carrega características parecidas tanto com as do inverno como com as do verão. Afinal, ele separa estas duas estações.
 
 Com temperaturas mais amenas, especialmente a noite, e queda da umidade relativa do ar, o Outono traz consigo o agravamento de algumas doenças, principalmente as respiratórias e as alergias. No entanto, é possível preveni-las para aproveitar o que há de melhor nessa estação.
@@ -38,7 +37,3 @@ Obrigado pelo apoio!
 Tornando-se assinante Prêmio!
 
 Através do link abaixo você obtém 25% de desconto, também contribuirá com ações voltadas a proteção de animais em situações de abandono, e vítimas de maus tratos. Acesse o link ou escaneie o QRcode o abaixo e obtenha o desconto promocional e contribua com a causa animal!
-
-[LINK ASSINATURA ANUAL PAGAMENTO ÚNICO](https://nubank.com.br/pagar/47dm/FWfwczctVT)
-
-https://dunapress.org/joice-maria-ferreira-pix-autorizado/

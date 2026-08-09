@@ -7,7 +7,6 @@ categories:
 - Health
 ---
 
-
 ## Novo estudo da Universidade Bar-Ilan descobriu que expor meninos recém-nascidos a antibióticos pode reduzir seu crescimento - enquanto as meninas parecem não ser afetadas.
 
 Acredita-se que a exposição a antibióticos nos primeiros dias de vida afete vários aspectos fisiológicos do desenvolvimento neonatal. Um novo estudo, liderado pela Faculdade de Medicina Azrieli da Universidade Bar-Ilan, revela que o tratamento com antibióticos dentro de 14 dias após o nascimento está associado à redução de peso e altura em meninos - mas não em meninas - até os seis anos de idade.
@@ -37,7 +36,3 @@ Fonte: https://www.israelnationalnews.com
 -  [A educação de alta qualidade já está ao alcance de todos e em qualquer lugar.](https://dunapress.org/2020/07/28/sabia-que-educacao-de-qualidade-pode-estar-a-um-clique-da-sua-mao/)zz
 
 O ensino de alta qualidade já está ao alcance de todos e em qualquer lugar. Educação de Ensino em Casa, Jardins de Infância e Escolas, com cursos educacionais pré-escolar, ensino básico, fundamental e médio!
-
-Gratuitamente, clique e comece já!
-
-[](https://dunapress.org/edu/?ref=barrosprojectmanager)
