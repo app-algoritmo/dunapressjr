@@ -60,9 +60,13 @@ def main():
     exigir("dunapress.org" in sm, "sitemap sem o domínio")
 
     # ── Páginas de matéria ───────────────────────────────────────────────
-    # /AAAA/MM/DD/slug/index.html — quatro níveis, não três
-    materias = glob.glob(os.path.join(SITE, "[0-9][0-9][0-9][0-9]",
-                                      "*", "*", "*", "index.html"))
+    # Permalink plano: /slug/index.html. Excluímos as pastas de seção,
+    # que também têm index.html mas não são matéria.
+    secoes = {"autores", "principios", "correcoes", "api", "assets",
+              "brasil", "mundo", "economia", "politica", "ciencia-e-saude",
+              "tecnologia", "cultura", "esportes", "opiniao"}
+    materias = [f for f in glob.glob(os.path.join(SITE, "*", "index.html"))
+                if os.path.basename(os.path.dirname(f)) not in secoes]
     exigir(len(materias) > 0, "nenhuma página de matéria gerada")
 
     robots = Counter()

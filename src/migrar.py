@@ -91,6 +91,13 @@ for slug, ed in EDITORIAS.items():
 MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho",
          "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"]
 
+# Slugs canônicos extraídos do export do WordPress. São eles que o Google
+# indexou: 883 das 932 URLs com tráfego real batem com esta tabela.
+# Os nomes de arquivo .md foram truncados na conversão original, então
+# reconstruí-los a partir do título produziria URLs que ninguém acessa.
+CANONICO = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                        "dados", "wp-canonico.json")
+
 
 def slugificar(texto, limite=72):
     t = unicodedata.normalize("NFKD", texto).encode("ascii", "ignore").decode()
@@ -146,8 +153,43 @@ def data_extenso(d):
     return f"{d.day} de {MESES[d.month - 1]} de {d.year}"
 
 
+# Slugs que o WordPress cria sozinho e não devem virar endereço público.
+LIXO = re.compile(r"__trashed|^auto-draft|^rascunho-automatico|^untitled", re.I)
+
+
+def util(slug):
+    return bool(slug) and not LIXO.search(slug) and len(slug) > 2
+
+
+def indice_canonico():
+    """Devolve dois índices do WXR: por data e por título normalizado.
+    O casamento tenta a data primeiro, que é mais confiável; o título é
+    o recurso para quando o slug do arquivo divergiu demais."""
+    if not os.path.exists(CANONICO):
+        print("AVISO: dados/wp-canonico.json ausente — os slugs serão\n"
+              "       derivados do título, e URLs antigas podem quebrar.")
+        return {}, {}
+    with open(CANONICO, encoding="utf-8") as fh:
+        wp = json.load(fh)
+    por_data, por_titulo = {}, {}
+    for p in wp.values():
+        if not util(p.get("slug", "")):
+            continue
+        por_data.setdefault(p["data"], []).append(p)
+        if p.get("titulo"):
+            por_titulo.setdefault(chave_titulo(p["titulo"]), p)
+    return por_data, por_titulo
+
+
+def chave_titulo(t):
+    t = unicodedata.normalize("NFKD", t).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", " ", t).strip()
+
+
 def processar():
+    por_data, por_titulo = indice_canonico()
     artigos, redirects = [], []
+    origem_slug = Counter()
     origens_vistas, sem_mapa = Counter(), Counter()
     caminho_base = os.path.join(RAIZ, "artigos")
 
@@ -185,12 +227,30 @@ def processar():
                 sem_mapa[cat_dir] += 1
                 editoria = "brasil"
 
-            slug = slugificar(titulo) or slugificar(resto)
-            # Permalink herdado do WordPress. A URL não carrega editoria:
-            # assim a taxonomia pode ser reorganizada para sempre sem
-            # quebrar um único endereço — e os backlinks antigos voltam a
-            # funcionar sozinhos, sem redirecionamento.
-            url_nova = f"/{ano}/{mes:02d}/{dia:02d}/{slug}/"
+            # 1º o slug canônico do WordPress; só depois o derivado do título
+            canon = None
+            for c in por_data.get(quando.isoformat(), []):
+                if not util(c["slug"]):
+                    continue
+                if (c["slug"].startswith(resto[:45])
+                        or resto.startswith(c["slug"][:45])):
+                    canon = c["slug"]
+                    origem_slug["wordpress: data+slug"] += 1
+                    break
+            if not canon:
+                c = por_titulo.get(chave_titulo(titulo))
+                if c and util(c["slug"]):
+                    canon = c["slug"]
+                    origem_slug["wordpress: título"] += 1
+            if not canon:
+                origem_slug["derivado do título"] += 1
+
+            slug = canon or slugificar(titulo) or slugificar(resto)
+            # Permalink plano, como no WordPress. O Search Console mostra
+            # que 923 das 1.000 páginas com tráfego usam /slug/ sem data —
+            # apenas uma usa /AAAA/MM/DD/. Com este formato as URLs
+            # indexadas voltam a funcionar sem redirecionamento algum.
+            url_nova = f"/{slug}/"
             url_antiga = f"/artigo.html?file=/artigos/{cat_dir}/{nome}"
             # slug do WordPress: o nome do arquivo foi truncado na conversão,
             # então guardamos o prefixo para casamento por início de string
@@ -238,14 +298,21 @@ def processar():
             })
             redirects.append((url_antiga, url_nova))
 
-    # colisões de slug dentro da mesma editoria/mês
+    # Colisões. Sem data na URL, dois textos homônimos disputam o mesmo
+    # endereço. Fica com ele o mais antigo — que é o que o Google indexou;
+    # os demais recebem sufixo de ano.
+    artigos.sort(key=lambda a: a["data"])
     vistos, colisoes = set(), 0
     for a in artigos:
-        chave = a["url"]
-        if chave in vistos:
+        if a["url"] in vistos:
             colisoes += 1
-            a["slug"] = f"{a['slug']}-2"
-            a["url"] = f"/{a['ano']}/{a['data'][5:7]}/{a['data'][8:10]}/{a['slug']}/"
+            a["slug"] = "%s-%s" % (a["slug"], a["ano"])
+            a["url"] = "/%s/" % a["slug"]
+            n = 2
+            while a["url"] in vistos:
+                a["slug"] = "%s-%d" % (a["slug"], n)
+                a["url"] = "/%s/" % a["slug"]
+                n += 1
         vistos.add(a["url"])
 
     artigos.sort(key=lambda a: a["data"], reverse=True)
@@ -284,6 +351,9 @@ def processar():
               "POR EDITORIA", "-" * 52]
     for slug, ed in EDITORIAS.items():
         linhas.append(f"{ed['nome']:<18} {por_editoria[slug]:>6}   ({len(ed['origens'])} categorias absorvidas)")
+    linhas += ["", "ORIGEM DO SLUG", "-" * 52]
+    for k, v in origem_slug.most_common():
+        linhas.append("%-28s %6d   %4.1f%%" % (k, v, v / len(artigos) * 100))
     linhas += ["", "POR PORTE", "-" * 52,
                f"Longa (800+ palavras)   {por_porte['longa']:>6}",
                f"Média (300–799)         {por_porte['media']:>6}",

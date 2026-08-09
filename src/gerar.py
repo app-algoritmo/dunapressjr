@@ -687,6 +687,41 @@ def main():
     with open(os.path.join(SAIDA, "api", "legado.json"), "w", encoding="utf-8") as fh:
         json.dump(mapa_artigo, fh, ensure_ascii=False, separators=(",", ":"))
 
+    # ── 404: resgata as URLs com data, do permalink usado até 2024 ───────
+    # O GitHub Pages serve esta página para qualquer caminho inexistente.
+    # Em vez de anunciar o erro, ela tenta primeiro salvar a visita: se o
+    # caminho tem a forma /AAAA/MM/DD/slug/, o slug ainda é válido — só o
+    # prefixo de data saiu. Gerar uma página de redirecionamento para cada
+    # uma das 19.540 URLs antigas dobraria a contagem de arquivos; aqui
+    # uma página só resolve todas.
+    css_404 = ('<link rel="stylesheet" href="%s">\n'
+               '<link rel="stylesheet" href="%s">'
+               % (versao("assets/css/fontes.css"),
+                  versao("assets/css/jornal.css")))
+    salto = (r'var m = location.pathname.match(/^\/\d{4}\/\d{2}\/\d{2}\/'
+             r'([^\/]+)\/?$/); if (m && m[1]) location.replace("/" + m[1] + "/");')
+    with open(os.path.join(SAIDA, "404.html"), "w", encoding="utf-8") as fh:
+        fh.write(
+            '<!DOCTYPE html>\n<html lang="pt-BR"><head><meta charset="utf-8">\n'
+            '<meta name="viewport" content="width=device-width,initial-scale=1">\n'
+            '<meta name="robots" content="noindex, follow">\n'
+            '<title>Página não encontrada — Duna Press</title>\n'
+            + css_404 +
+            '\n<script>(function(){' + salto + '})();</script>\n'
+            '</head>\n<body>\n<main class="env" style="padding:80px 28px;max-width:640px">\n'
+            '  <p class="chapeu">Erro 404</p>\n'
+            '  <h1 style="font-family:var(--display);font-size:44px;font-weight:700;'
+            'letter-spacing:-.026em;line-height:1.05;margin:10px 0 0">'
+            'Esta página não existe</h1>\n'
+            '  <p class="olho" style="font-size:18px;margin-top:16px">O endereço pode '
+            'ter mudado ou o texto pode ter saído do ar. O acervo continua aberto.</p>\n'
+            '  <p style="margin-top:28px">'
+            '<a href="/" style="color:var(--marca);border-bottom:1px solid var(--marca)">'
+            'Ir para a capa</a> &nbsp;·&nbsp; '
+            '<a href="/autores/" style="color:var(--marca);'
+            'border-bottom:1px solid var(--marca)">Ver os autores</a></p>\n'
+            '</main>\n</body></html>\n')
+
     de_para_cat = {}
     for slug_ed, dados_ed in eds.items():
         for origem in dados_ed["origens"]:
