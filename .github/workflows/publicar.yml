@@ -67,3 +67,29 @@ jobs:
     steps:
       - id: deploy
         uses: actions/deploy-pages@v4
+
+      # O cache do edge guarda o HTML por tempo longo, o que só é aceitável
+      # porque limpamos aqui. Sem este passo, uma notícia publicada agora
+      # levaria horas para aparecer para quem já visitou o site.
+      #
+      # Falha aqui não derruba a publicação: o site já está no ar, e cache
+      # velho é problema menor que um deploy marcado como quebrado.
+      - name: Limpar o cache do edge
+        continue-on-error: true
+        env:
+          ZONA: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+          TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          if [ -z "$ZONA" ] || [ -z "$TOKEN" ]; then
+            echo "Segredos da Cloudflare ausentes; cache não foi limpo."
+            exit 0
+          fi
+          resposta=$(curl -s -X POST \
+            "https://api.cloudflare.com/client/v4/zones/$ZONA/purge_cache" \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Content-Type: application/json" \
+            --data '{"purge_everything":true}')
+          echo "$resposta"
+          echo "$resposta" | grep -q '"success":true' \
+            && echo "Cache limpo." \
+            || { echo "Purge recusado pela Cloudflare."; exit 1; }
