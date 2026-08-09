@@ -72,7 +72,8 @@ def carregar_excecoes():
     if not os.path.exists(caminho):
         return set()
     with open(caminho, encoding="utf-8") as fh:
-        return {l.split("\t")[0] for l in fh if l.strip()}
+        return {l.split("\t")[0].strip() for l in fh
+                if l.strip() and not l.lstrip().startswith("#")}
 
 
 def classificar():
